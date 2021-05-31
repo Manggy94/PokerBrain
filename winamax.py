@@ -6,7 +6,7 @@ from API.card import *
 _split_re = re.compile(r"\*\*\*\s+\n?|\n\n+")
 _header_re = re.compile(
     r"""
-    Winamax\s+Poker\s+\-\s+                                             #Winamax Poker
+    Winamax\s+Poker\s+-\s+                                             #Winamax Poker
     (?P<poker_type>Tournament)\s+                                       #Poker Type
     \"(?P<tournament_name>.+)\"\s+                                      #Tournament Name
     buyIn\:\s+(?P<buyin>[0-9.,]+)â..\s+                                 #Buy In
@@ -24,31 +24,25 @@ _header_re = re.compile(
 )
 _table_re = re.compile(
     r"Table\:\s+\'(?P<tournament_name>[\w\s\']+)\((?P<tournament_id>\d+)\)\#(?P<table_id>\d+)\'\s+(?P<max_seat>\d+)\-max\s+\((?P<money_type>[a-z]+)\s+money\)\s+Seat\s+\#(?P<button>\d)\s+is\s+the\s+button")
-_seat_re = re.compile(
-    """Seat\s+(?P<seat>\d+)\:\s+                                        #Seat
-    (?P<player_name>[\w\s-]{6,12})\s+                                              #Player_name
-    \((?P<stack>\d+)\)                                                  #Stack
-    """,
-    re.VERBOSE
-)
+_seat_re = re.compile(r"Seat\s+(?P<seat>\d+)\:\s+(?P<player_name>[\w\s\-.]{3,12})\s\((?P<stack>\d+)\)")
 _pot_re = re.compile(r"Total\s+pot\s+(?P<total_pot>\d+)")
-_ante_re = re.compile(r"(?P<player_name>[\w\s\-]{3,12})\s+posts\sante\s+(?P<amount>\d+)")
+_ante_re = re.compile(r"(?P<player_name>[\w\s\-.]{3,12})\s+posts\sante\s+(?P<amount>\d+)")
 _board_re = re.compile(r"Board\:\s+\[(?P<board>[0-9AJKQshdc ]+)\]")
 _action_re = re.compile(
-    r"(?P<player_name>[\w\s\-]{6,12})\s+(?P<move>shows|checks|calls|folds|bets|raises)\s+(?P<value>\d+||\s+)")
+    r"(?P<player_name>[\w\s\-.]{6,12})\s+(?P<move>shows|checks|calls|folds|bets|raises)\s+(?P<value>\d+||\s+)")
 _showdown_action_re = re.compile(
-    r"(?P<player_name>[\w\s\-]{6,12})\s+(?P<move>shows|mucks)\s+\[(?P<card1>[AJKQ2-9shdc]{2})\s+(?P<card2>[AJKQ2-9shdc]{2})\]")
+    r"(?P<player_name>[\w\s\-.]{6,12})\s+(?P<move>shows|mucks)\s+\[(?P<card1>[AJKQ2-9shdc]{2})\s+(?P<card2>[AJKQ2-9shdc]{2})\]")
 _flop_re = re.compile(
     r"\*\*\*\s+FLOP\s+\*\*\*\s+\[(?P<flop_card_1>[AJKQT2-9hscd]{2})\s+(?P<flop_card_2>[AJKQT2-9hscd]{2})\s+(?P<flop_card_3>[AJKQT2-9hscd]{2})\]")
 _hero_cards_re = re.compile(
-    r"Dealt\s+to\s+(?P<hero_name>[\w\s-]+)\s+\[(?P<card1>[AJKQT2-9hscd]{2})\s+(?P<card2>[AJKQT2-9hscd]{2})\]")
+    r"Dealt\s+to\s+(?P<hero_name>[\w\s\-.]+)\s+\[(?P<card1>[AJKQT2-9hscd]{2})\s+(?P<card2>[AJKQT2-9hscd]{2})\]")
 _turn_re = re.compile(r"\*\*\*\s+TURN\s+\*\*\*\s+\[.+\]\[(?P<turn_card>[AJKQT2-9hscd]{2})\]")
 _river_re = re.compile(r"\*\*\*\s+RIVER\s+\*\*\*\s+\[.+\]\[(?P<river_card>[AJKQT2-9hscd]{2})\]")
 _showdown_re = re.compile(r"\*\*\*\s+SHOW\s+DOWN\s+\*\*\*")
 _summary_re = re.compile(r"\*\*\*\s+SUMMARY\s+\*\*\*")
-_winner_re = re.compile(r"(?P<player_name>[\w\s\-]{6,12})\s+collected\s+(?P<amount>\d+)\s+")
-_sb_re = re.compile(r"(?P<player_name>[\w\s\_]{3,12})\s+posts\s+small\s+blind\s+(?P<sb>\d+)")
-_bb_re = re.compile(r"(?P<player_name>[\w\s\_]{3,12})\s+posts\s+big\s+blind\s+(?P<bb>\d+)")
+_winner_re = re.compile(r"(?P<player_name>[\w\s\-.]{6,12})\s+collected\s+(?P<amount>\d+)\s+")
+_sb_re = re.compile(r"(?P<player_name>[\w\s\-.]{3,12})\s+posts\s+small\s+blind\s+(?P<sb>\d+)")
+_bb_re = re.compile(r"(?P<player_name>[\w\s\-.]{3,12})\s+posts\s+big\s+blind\s+(?P<bb>\d+)")
 
 class WinamaxHandHistory:
     """Winamax specific parsing."""
@@ -102,7 +96,7 @@ class WinamaxHandHistory:
         for player in self.table.players:
             if player_name==player.name:
                 self.table.post_ante(player, amount)
-                print("%s pose %s pour ante" %(player.name, amount))
+                #print("%s pose %s pour ante" %(player.name, amount))
 
     def parse_sb(self, sb_text):
         match = re.search(_sb_re, sb_text)
@@ -111,7 +105,7 @@ class WinamaxHandHistory:
         for player in self.table.players:
             if player_name==player.name:
                 self.table.bet(player, sb)
-                print("%s pose  %s en tant que SB" %(player.name, sb))
+                #print("%s pose  %s en tant que SB" %(player.name, sb))
 
     def parse_bb(self, bb_text):
         match = re.search(_bb_re, bb_text)
@@ -120,7 +114,7 @@ class WinamaxHandHistory:
         for player in self.table.players:
             if player_name==player.name:
                 self.table.bet(player, bb)
-                print("%s pose  %s en tant que BB" %(player.name, bb))
+                #print("%s pose  %s en tant que BB" %(player.name, bb))
 
     def parse_hero(self, hero_txt):
         match = re.search(_hero_cards_re, hero_txt)
@@ -131,7 +125,7 @@ class WinamaxHandHistory:
         for player in self.table.players:
             if hero_name==player.name:
                 player.is_hero(combo)
-                print("Le héros est %s, avec en main %s et %s." % (hero_name, combo.first, combo.second))
+                #print("Le héros est %s, avec en main %s et %s." % (hero_name, combo.first, combo.second))
 
     def parse_action(self, action_txt, street):
         match = re.search(_action_re, action_txt)
@@ -144,6 +138,20 @@ class WinamaxHandHistory:
                 action = Action(action_player, move, value)
                 self.table.add_action(street, action)
 
+    def parse_sd_action(self, sd_txt, street):
+        match = re.search(_showdown_action_re, sd_txt)
+        player_name = match.group("player_name")
+        move = match.group("move")
+        SDC1 = match.group("card1")
+        SDC2 = match.group("card2")
+        for player in self.table.players:
+            if player.name == player_name:
+                action_player = player
+                action = SDAction(action_player, move, SDC1, SDC2)
+                street.actions.append(action)
+                player.shows(Combo(SDC1+SDC2))
+                #print(player.name, player.combo)
+
     def parse_flop_cards(self, flop_txt):
         match = re.search(_flop_re, flop_txt)
         fc1 = Card(match.group("flop_card_1"))
@@ -153,7 +161,36 @@ class WinamaxHandHistory:
         cards.append(fc1)
         cards.append(fc2)
         cards.append(fc3)
-        print(cards)
+        self.table.board.extend(cards)
+        #print("Board",self.table.board)
+
+    def parse_turn_card(self, turn_txt):
+        match = re.search(_turn_re, turn_txt)
+        tc = Card(match.group("turn_card"))
+        cards=self.table.T.cards
+        cards.append(tc)
+        self.table.board.extend(cards)
+        #print("Board",self.table.board)
+
+    def parse_river_card(self, river_txt):
+        match = re.search(_river_re, river_txt)
+        rc = Card(match.group("river_card"))
+        cards=self.table.R.cards
+        cards.append(rc)
+        self.table.board.extend(cards)
+        #print("Board",self.table.board)
+
+    def parse_winner(self, winner_txt):
+        match=re.search(_winner_re, winner_txt)
+        player_name=match.group("player_name")
+        amount=float(match.group("amount"))
+        for player in self.table.players:
+            if player.name == player_name:
+                self.table.win(player, amount)
+                #print(player.name,"gagne", amount, " et a maintenant un stack de ", player.stack)
+
+
+
 
 
 

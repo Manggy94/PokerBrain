@@ -66,6 +66,9 @@ class Player:
         self.hero=True
         self.combo=combo
 
+    def shows(self, combo):
+        self.combo=combo
+
     def set_position(self, position):
         self.position = position
 
@@ -120,6 +123,10 @@ class Table:
                     street.active_players.append(player)
         elif street.name=='R':
             for player in self.T.active_players:
+                if player.ingame and not player.folded:
+                    street.active_players.append(player)
+        elif street.name=='SD':
+            for player in self.R.active_players:
                 if player.ingame and not player.folded:
                     street.active_players.append(player)
 
@@ -179,6 +186,21 @@ class Table:
         self.find_active_players(self.F)
         self.reset_bets()
 
+    def make_turn(self):
+        self.T=Street('T')
+        self.find_active_players(self.T)
+        self.reset_bets()
+
+    def make_river(self):
+        self.R=Street('R')
+        self.find_active_players(self.R)
+        self.reset_bets()
+
+    def make_showdown(self):
+        self.SD=Street('SD')
+        self.find_active_players(self.SD)
+        self.reset_bets()
+
     def set_tournament(self, tournament):
         self.tournament=tournament
 
@@ -187,11 +209,16 @@ class Table:
         player=action.player
         player.set_to_call(self)
         player.set_pot_odds(self)
-        print("%s doit miser %s pour suivre. \nOdds= %s : 1\nReq.Equity= %s%%" %(player.name, player.to_call, round(player.pot_odds, 1),round(player.req_equity*100)))
+        #print("%s doit miser %s pour suivre. \nOdds= %s : 1\nReq.Equity= %s%%" %(player.name, player.to_call, round(player.pot_odds, 1),round(player.req_equity*100)))
         if action.move in ("fold", "folds"):
             player.fold()
         elif action.move in ("call", "calls", "checks", "check"):
             self.call(player)
-        elif action.move in ("bet", "bets", "raise", "raises"):
+        elif action.move in ("bet", "bets"):
             self.bet(player, action.value)
+        elif action.move in ("raise", "raises"):
+            self.bet(player, player.to_call+action.value)
         #print("Décision: %s %s %s" % (player.name, action.move, action.value))
+
+    class Combination:
+        pass
