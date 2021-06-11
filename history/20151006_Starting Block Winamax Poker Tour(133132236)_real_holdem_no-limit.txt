@@ -1,0 +1,521 @@
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 0 - HandId: #571798599663353857-1-1444152785 - Holdem no limit (10/20) - 2015/10/06 17:33:05 UTC
+Table: 'Starting Block Winamax Poker Tour(133132236)#0' 10-max (real money) Seat #2 is the button
+Seat 1: pedro08 (1500)
+Seat 2: Dr. Mitch (1500)
+Seat 3: chawizy (1500)
+Seat 4: zagg57 (1500)
+Seat 5: bande2fishou (1500)
+Seat 6: manggy94 (1500)
+Seat 7: katwoman25 (1500)
+Seat 8: Dacdacodac (1500)
+Seat 9: Womble13 (1500)
+Seat 10: arthurmalife (1500)
+*** ANTE/BLINDS ***
+chawizy posts small blind 10
+zagg57 posts big blind 20
+Dealt to manggy94 [7d As]
+*** PRE-FLOP *** 
+bande2fishou raises 30 to 50
+manggy94 calls 50
+katwoman25 calls 50
+Dacdacodac folds
+Womble13 folds
+arthurmalife raises 1450 to 1500 and is all-in
+pedro08 calls 1500 and is all-in
+Dr. Mitch folds
+chawizy folds
+zagg57 calls 1480 and is all-in
+bande2fishou calls 1450 and is all-in
+manggy94 folds
+katwoman25 calls 1450 and is all-in
+*** FLOP *** [8c Ad Ts]
+*** TURN *** [8c Ad Ts][2c]
+*** RIVER *** [8c Ad Ts 2c][Tc]
+*** SHOW DOWN ***
+pedro08 shows [Qh Js] (One pair : Tens)
+bande2fishou shows [Kd Ks] (Two pairs : Kings and Tens)
+katwoman25 shows [Kc 5d] (One pair : Tens)
+arthurmalife shows [Kh Jh] (One pair : Tens)
+zagg57 shows [Jd Th] (Trips of Tens)
+zagg57 collected 7560 from pot
+*** SUMMARY ***
+Total pot 7560 | No rake
+Board: [8c Ad Ts 2c Tc]
+Seat 1: pedro08 showed [Qh Js] and lost with One pair : Tens
+Seat 4: zagg57 (big blind) showed [Jd Th] and won 7560 with Trips of Tens
+Seat 5: bande2fishou showed [Kd Ks] and lost with Two pairs : Kings and Tens
+Seat 7: katwoman25 showed [Kc 5d] and lost with One pair : Tens
+Seat 10: arthurmalife showed [Kh Jh] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 0 - HandId: #571798599663353857-2-1444152889 - Holdem no limit (10/20) - 2015/10/06 17:34:49 UTC
+Table: 'Starting Block Winamax Poker Tour(133132236)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Dr. Mitch (1500)
+Seat 3: chawizy (1490)
+Seat 4: zagg57 (7560)
+Seat 6: manggy94 (1450)
+Seat 8: Dacdacodac (1500)
+Seat 9: Womble13 (1500)
+*** ANTE/BLINDS ***
+zagg57 posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [Ts 4c]
+*** PRE-FLOP *** 
+Dacdacodac calls 20
+Womble13 folds
+Dr. Mitch folds
+chawizy folds
+zagg57 calls 10
+manggy94 checks
+*** FLOP *** [8d 7d 9h]
+zagg57 checks
+manggy94 checks
+Dacdacodac checks
+*** TURN *** [8d 7d 9h][Th]
+zagg57 checks
+manggy94 checks
+Dacdacodac bets 60
+zagg57 calls 60
+manggy94 calls 60
+*** RIVER *** [8d 7d 9h Th][4h]
+zagg57 checks
+manggy94 checks
+Dacdacodac checks
+*** SHOW DOWN ***
+zagg57 shows [Qs 9s] (One pair : 9)
+manggy94 shows [Ts 4c] (Two pairs : Tens and 4)
+Dacdacodac shows [Td Jh] (Straight Jack high)
+Dacdacodac collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8d 7d 9h Th 4h]
+Seat 4: zagg57 (small blind) showed [Qs 9s] and lost with One pair : 9
+Seat 6: manggy94 (big blind) showed [Ts 4c] and lost with Two pairs : Tens and 4
+Seat 8: Dacdacodac showed [Td Jh] and won 240 with Straight Jack high
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 1 - HandId: #571798599663353857-3-1444152977 - Holdem no limit (15/30) - 2015/10/06 17:36:17 UTC
+Table: 'Starting Block Winamax Poker Tour(133132236)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Dr. Mitch (1500)
+Seat 3: chawizy (1490)
+Seat 4: zagg57 (7480)
+Seat 6: manggy94 (1370)
+Seat 8: Dacdacodac (1660)
+Seat 9: Womble13 (1500)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+Dacdacodac posts big blind 30
+Dealt to manggy94 [7c 5h]
+*** PRE-FLOP *** 
+Womble13 folds
+Dr. Mitch calls 30
+chawizy folds
+zagg57 folds
+manggy94 calls 15
+Dacdacodac raises 30 to 60
+Dr. Mitch calls 30
+manggy94 calls 30
+*** FLOP *** [Ad 5s 6h]
+manggy94 bets 180
+Dacdacodac raises 1420 to 1600 and is all-in
+Dr. Mitch folds
+manggy94 folds
+Dacdacodac collected 1960 from pot
+*** SUMMARY ***
+Total pot 1960 | No rake
+Board: [Ad 5s 6h]
+Seat 8: Dacdacodac (big blind) won 1960
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 1 - HandId: #571798599663353857-4-1444153010 - Holdem no limit (15/30) - 2015/10/06 17:36:50 UTC
+Table: 'Starting Block Winamax Poker Tour(133132236)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Dr. Mitch (1440)
+Seat 3: chawizy (1490)
+Seat 4: zagg57 (7480)
+Seat 6: manggy94 (1130)
+Seat 8: Dacdacodac (1960)
+Seat 9: Womble13 (1500)
+*** ANTE/BLINDS ***
+Dacdacodac posts small blind 15
+Womble13 posts big blind 30
+Dealt to manggy94 [Jc 5c]
+*** PRE-FLOP *** 
+Dr. Mitch folds
+chawizy calls 30
+zagg57 folds
+manggy94 calls 30
+Dacdacodac raises 60 to 90
+Womble13 folds
+chawizy calls 60
+manggy94 calls 60
+*** FLOP *** [4c Kd 3d]
+Dacdacodac checks
+chawizy checks
+manggy94 checks
+*** TURN *** [4c Kd 3d][Ah]
+Dacdacodac checks
+chawizy checks
+manggy94 checks
+*** RIVER *** [4c Kd 3d Ah][Jh]
+Dacdacodac checks
+chawizy checks
+manggy94 bets 300
+Dacdacodac calls 300
+chawizy folds
+*** SHOW DOWN ***
+manggy94 shows [Jc 5c] (One pair : Jacks)
+Dacdacodac shows [Ks As] (Two pairs : Aces and Kings)
+Dacdacodac collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4c Kd 3d Ah Jh]
+Seat 6: manggy94 (button) showed [Jc 5c] and lost with One pair : Jacks
+Seat 8: Dacdacodac (small blind) showed [Ks As] and won 900 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 1 - HandId: #571798599663353857-5-1444153083 - Holdem no limit (15/30) - 2015/10/06 17:38:03 UTC
+Table: 'Starting Block Winamax Poker Tour(133132236)#0' 10-max (real money) Seat #8 is the button
+Seat 2: Dr. Mitch (1440)
+Seat 3: chawizy (1400)
+Seat 4: zagg57 (7480)
+Seat 6: manggy94 (740)
+Seat 8: Dacdacodac (2470)
+Seat 9: Womble13 (1470)
+*** ANTE/BLINDS ***
+Womble13 posts small blind 15
+Dr. Mitch posts big blind 30
+Dealt to manggy94 [4c Jh]
+*** PRE-FLOP *** 
+chawizy folds
+zagg57 calls 30
+manggy94 calls 30
+Dacdacodac calls 30
+Womble13 folds
+Dr. Mitch checks
+*** FLOP *** [Ad As 8c]
+Dr. Mitch checks
+zagg57 checks
+manggy94 checks
+Dacdacodac bets 135
+Dr. Mitch folds
+zagg57 folds
+manggy94 folds
+Dacdacodac collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [Ad As 8c]
+Seat 8: Dacdacodac (button) won 270
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 1 - HandId: #571798599663353857-6-1444153139 - Holdem no limit (15/30) - 2015/10/06 17:38:59 UTC
+Table: 'Starting Block Winamax Poker Tour(133132236)#0' 10-max (real money) Seat #9 is the button
+Seat 2: Dr. Mitch (1410)
+Seat 3: chawizy (1400)
+Seat 4: zagg57 (7450)
+Seat 6: manggy94 (710)
+Seat 8: Dacdacodac (2575)
+Seat 9: Womble13 (1455)
+*** ANTE/BLINDS ***
+Dr. Mitch posts small blind 15
+chawizy posts big blind 30
+Dealt to manggy94 [8h 6h]
+*** PRE-FLOP *** 
+zagg57 calls 30
+manggy94 raises 105 to 135
+Dacdacodac folds
+Womble13 folds
+Dr. Mitch calls 120
+chawizy folds
+zagg57 calls 105
+*** FLOP *** [3c 7d 9c]
+Dr. Mitch checks
+zagg57 checks
+manggy94 bets 575 and is all-in
+Dr. Mitch folds
+zagg57 calls 575
+*** TURN *** [3c 7d 9c][Ts]
+*** RIVER *** [3c 7d 9c Ts][Ah]
+*** SHOW DOWN ***
+zagg57 shows [3s 3d] (Trips of 3)
+manggy94 shows [8h 6h] (Straight Ten high)
+manggy94 collected 1585 from pot
+*** SUMMARY ***
+Total pot 1585 | No rake
+Board: [3c 7d 9c Ts Ah]
+Seat 4: zagg57 showed [3s 3d] and lost with Trips of 3
+Seat 6: manggy94 showed [8h 6h] and won 1585 with Straight Ten high
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 2 - HandId: #571798599663353857-7-1444153179 - Holdem no limit (20/40) - 2015/10/06 17:39:39 UTC
+Table: 'Starting Block Winamax Poker Tour(133132236)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Dr. Mitch (1275)
+Seat 3: chawizy (1370)
+Seat 4: zagg57 (6740)
+Seat 6: manggy94 (1585)
+Seat 8: Dacdacodac (2575)
+Seat 9: Womble13 (1455)
+*** ANTE/BLINDS ***
+chawizy posts small blind 20
+zagg57 posts big blind 40
+Dealt to manggy94 [9h 2h]
+*** PRE-FLOP *** 
+manggy94 calls 40
+Dacdacodac folds
+Womble13 folds
+Dr. Mitch calls 40
+chawizy folds
+zagg57 checks
+*** FLOP *** [5s Qd 3h]
+zagg57 checks
+manggy94 checks
+Dr. Mitch bets 140
+zagg57 calls 140
+manggy94 folds
+*** TURN *** [5s Qd 3h][Td]
+zagg57 checks
+Dr. Mitch bets 420
+zagg57 folds
+Dr. Mitch collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [5s Qd 3h Td]
+Seat 2: Dr. Mitch (button) won 840
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 2 - HandId: #571798599663353857-8-1444153230 - Holdem no limit (20/40) - 2015/10/06 17:40:30 UTC
+Table: 'Starting Block Winamax Poker Tour(133132236)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Dr. Mitch (1515)
+Seat 3: chawizy (1350)
+Seat 4: zagg57 (6560)
+Seat 6: manggy94 (1545)
+Seat 8: Dacdacodac (2575)
+Seat 9: Womble13 (1455)
+*** ANTE/BLINDS ***
+zagg57 posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [Tc Qs]
+*** PRE-FLOP *** 
+Dacdacodac raises 100 to 140
+Womble13 folds
+Dr. Mitch folds
+chawizy raises 560 to 700
+zagg57 folds
+manggy94 calls 660
+Dacdacodac folds
+*** FLOP *** [6c 5c 7s]
+manggy94 bets 845 and is all-in
+chawizy calls 650 and is all-in
+*** TURN *** [6c 5c 7s][Ks]
+*** RIVER *** [6c 5c 7s Ks][Jh]
+*** SHOW DOWN ***
+chawizy shows [5s 5d] (Trips of 5)
+manggy94 shows [Tc Qs] (High card : King)
+manggy94 collected 195 from side pot 1
+chawizy collected 2860 from main pot
+*** SUMMARY ***
+Total pot 3055 | No rake
+Board: [6c 5c 7s Ks Jh]
+Seat 3: chawizy (button) showed [5s 5d] and won 2860 with Trips of 5
+Seat 6: manggy94 (big blind) showed [Tc Qs] and won 195 with High card : King
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 2 - HandId: #571798599663353857-9-1444153276 - Holdem no limit (20/40) - 2015/10/06 17:41:16 UTC
+Table: 'Starting Block Winamax Poker Tour(133132236)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Dr. Mitch (1515)
+Seat 3: chawizy (2860)
+Seat 4: zagg57 (6540)
+Seat 6: manggy94 (195)
+Seat 8: Dacdacodac (2435)
+Seat 9: Womble13 (1455)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+Dacdacodac posts big blind 40
+Dealt to manggy94 [9s 4c]
+*** PRE-FLOP *** 
+Womble13 raises 80 to 120
+Dr. Mitch folds
+chawizy folds
+zagg57 calls 120
+manggy94 folds
+Dacdacodac calls 80
+*** FLOP *** [5s 5h 4h]
+Dacdacodac checks
+Womble13 bets 380
+zagg57 calls 380
+Dacdacodac raises 1935 to 2315 and is all-in
+Womble13 calls 955 and is all-in
+zagg57 folds
+*** TURN *** [5s 5h 4h][3d]
+*** RIVER *** [5s 5h 4h 3d][Kc]
+*** SHOW DOWN ***
+Womble13 shows [Th Ts] (Two pairs : Tens and 5)
+Dacdacodac shows [5d As] (Trips of 5)
+Dacdacodac collected 4410 from pot
+*** SUMMARY ***
+Total pot 4410 | No rake
+Board: [5s 5h 4h 3d Kc]
+Seat 8: Dacdacodac (big blind) showed [5d As] and won 4410 with Trips of 5
+Seat 9: Womble13 showed [Th Ts] and lost with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 3 - HandId: #571798599663353857-10-1444153325 - Holdem no limit (30/60) - 2015/10/06 17:42:05 UTC
+Table: 'Starting Block Winamax Poker Tour(133132236)#0' 10-max (real money) Seat #6 is the button
+Seat 2: Dr. Mitch (1515)
+Seat 3: chawizy (2860)
+Seat 4: zagg57 (6040)
+Seat 6: manggy94 (175)
+Seat 8: Dacdacodac (4410)
+*** ANTE/BLINDS ***
+Dacdacodac posts small blind 30
+Dr. Mitch posts big blind 60
+Dealt to manggy94 [7d 2h]
+*** PRE-FLOP *** 
+chawizy folds
+zagg57 folds
+manggy94 folds
+Dacdacodac folds
+Dr. Mitch collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Dr. Mitch (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 3 - HandId: #571798599663353857-11-1444153333 - Holdem no limit (30/60) - 2015/10/06 17:42:13 UTC
+Table: 'Starting Block Winamax Poker Tour(133132236)#0' 10-max (real money) Seat #8 is the button
+Seat 2: Dr. Mitch (1545)
+Seat 3: chawizy (2860)
+Seat 4: zagg57 (6040)
+Seat 6: manggy94 (175)
+Seat 8: Dacdacodac (4380)
+*** ANTE/BLINDS ***
+Dr. Mitch posts small blind 30
+chawizy posts big blind 60
+Dealt to manggy94 [6h 2d]
+*** PRE-FLOP *** 
+zagg57 calls 60
+manggy94 folds
+Dacdacodac folds
+Dr. Mitch folds
+chawizy checks
+*** FLOP *** [2c 7d Js]
+chawizy checks
+zagg57 checks
+*** TURN *** [2c 7d Js][5c]
+chawizy checks
+zagg57 checks
+*** RIVER *** [2c 7d Js 5c][Th]
+chawizy checks
+zagg57 bets 60
+chawizy folds
+zagg57 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [2c 7d Js 5c Th]
+Seat 4: zagg57 won 210
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 3 - HandId: #571798599663353857-12-1444153360 - Holdem no limit (30/60) - 2015/10/06 17:42:40 UTC
+Table: 'Starting Block Winamax Poker Tour(133132236)#0' 10-max (real money) Seat #2 is the button
+Seat 2: Dr. Mitch (1515)
+Seat 3: chawizy (2800)
+Seat 4: zagg57 (6130)
+Seat 6: manggy94 (175)
+Seat 8: Dacdacodac (4380)
+*** ANTE/BLINDS ***
+chawizy posts small blind 30
+zagg57 posts big blind 60
+Dealt to manggy94 [Ts 5d]
+*** PRE-FLOP *** 
+manggy94 calls 60
+Dacdacodac folds
+Dr. Mitch folds
+chawizy calls 30
+zagg57 raises 462 to 522
+manggy94 folds
+chawizy calls 462
+*** FLOP *** [6h Jh 9s]
+chawizy checks
+zagg57 checks
+*** TURN *** [6h Jh 9s][4c]
+chawizy checks
+zagg57 checks
+*** RIVER *** [6h Jh 9s 4c][9h]
+chawizy bets 1104
+zagg57 folds
+chawizy collected 2208 from pot
+*** SUMMARY ***
+Total pot 2208 | No rake
+Board: [6h Jh 9s 4c 9h]
+Seat 3: chawizy (small blind) won 2208
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 3 - HandId: #571798599663353857-13-1444153466 - Holdem no limit (30/60) - 2015/10/06 17:44:26 UTC
+Table: 'Starting Block Winamax Poker Tour(133132236)#0' 10-max (real money) Seat #3 is the button
+Seat 2: Dr. Mitch (1515)
+Seat 3: chawizy (3382)
+Seat 4: zagg57 (5608)
+Seat 6: manggy94 (115)
+Seat 8: Dacdacodac (4380)
+*** ANTE/BLINDS ***
+zagg57 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [Kd Qc]
+*** PRE-FLOP *** 
+Dacdacodac folds
+Dr. Mitch folds
+chawizy calls 60
+zagg57 folds
+manggy94 raises 55 to 115 and is all-in
+chawizy calls 55
+*** FLOP *** [As Qs 6c]
+*** TURN *** [As Qs 6c][3c]
+*** RIVER *** [As Qs 6c 3c][Jc]
+*** SHOW DOWN ***
+chawizy shows [8s Qd] (One pair : Queens)
+manggy94 shows [Kd Qc] (One pair : Queens)
+manggy94 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [As Qs 6c 3c Jc]
+Seat 3: chawizy (button) showed [8s Qd] and lost with One pair : Queens
+Seat 6: manggy94 (big blind) showed [Kd Qc] and won 260 with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 3 - HandId: #571798599663353857-14-1444153486 - Holdem no limit (30/60) - 2015/10/06 17:44:46 UTC
+Table: 'Starting Block Winamax Poker Tour(133132236)#0' 10-max (real money) Seat #4 is the button
+Seat 2: Dr. Mitch (1515)
+Seat 3: chawizy (3267)
+Seat 4: zagg57 (5578)
+Seat 6: manggy94 (260)
+Seat 8: Dacdacodac (4380)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+Dacdacodac posts big blind 60
+Dealt to manggy94 [Ac 6c]
+*** PRE-FLOP *** 
+Dr. Mitch raises 120 to 180
+chawizy folds
+zagg57 folds
+manggy94 raises 80 to 260 and is all-in
+Dacdacodac calls 200
+Dr. Mitch calls 80
+*** FLOP *** [Tc 3s Js]
+Dacdacodac checks
+Dr. Mitch bets 780
+Dacdacodac raises 780 to 1560
+Dr. Mitch calls 475 and is all-in
+*** TURN *** [Tc 3s Js][Kd]
+*** RIVER *** [Tc 3s Js Kd][3c]
+*** SHOW DOWN ***
+Dr. Mitch shows [7s 7h] (Two pairs : 7 and 3)
+manggy94 shows [Ac 6c] (One pair : 3)
+Dacdacodac shows [9h Ks] (Two pairs : Kings and 3)
+Dacdacodac collected 3595 from pot
+*** SUMMARY ***
+Total pot 3595 | No rake
+Board: [Tc 3s Js Kd 3c]
+Seat 2: Dr. Mitch showed [7s 7h] and lost with Two pairs : 7 and 3
+Seat 6: manggy94 (small blind) showed [Ac 6c] and lost with One pair : 3
+Seat 8: Dacdacodac (big blind) showed [9h Ks] and won 3595 with Two pairs : Kings and 3
+
+

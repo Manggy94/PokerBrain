@@ -1,0 +1,577 @@
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #712615381704900886-39-1471199913 - Holdem no limit (40/250/500) - 2016/08/14 18:38:33 UTC
+Table: 'COCKTAIL(165918698)#0277' 6-max (real money) Seat #6 is the button
+Seat 1: hoRReuRiveR (37305)
+Seat 2: stepii (11515)
+Seat 3: manggy94 (20000)
+Seat 4: fan54 (27420)
+Seat 5: margenov (28620)
+Seat 6: Just mydelir (15140)
+*** ANTE/BLINDS ***
+hoRReuRiveR posts ante 40
+stepii posts ante 40
+manggy94 posts ante 40
+fan54 posts ante 40
+margenov posts ante 40
+Just mydelir posts ante 40
+hoRReuRiveR posts small blind 250
+stepii posts big blind 500
+Dealt to manggy94 [7s Qc]
+*** PRE-FLOP *** 
+manggy94 folds
+fan54 raises 750 to 1250
+margenov folds
+Just mydelir folds
+hoRReuRiveR calls 1000
+stepii folds
+*** FLOP *** [8h Ah Qd]
+hoRReuRiveR checks
+fan54 bets 2000
+hoRReuRiveR calls 2000
+*** TURN *** [8h Ah Qd][8s]
+hoRReuRiveR checks
+fan54 bets 5430
+hoRReuRiveR folds
+fan54 collected 12670 from pot
+*** SUMMARY ***
+Total pot 12670 | No rake
+Board: [8h Ah Qd 8s]
+Seat 4: fan54 won 12670
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #712615381704900886-40-1471199979 - Holdem no limit (40/250/500) - 2016/08/14 18:39:39 UTC
+Table: 'COCKTAIL(165918698)#0277' 6-max (real money) Seat #1 is the button
+Seat 1: hoRReuRiveR (34015)
+Seat 2: stepii (10975)
+Seat 3: manggy94 (19960)
+Seat 4: fan54 (31370)
+Seat 5: margenov (28580)
+Seat 6: Just mydelir (15100)
+*** ANTE/BLINDS ***
+stepii posts ante 40
+manggy94 posts ante 40
+hoRReuRiveR posts ante 40
+fan54 posts ante 40
+margenov posts ante 40
+Just mydelir posts ante 40
+stepii posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [2s Js]
+*** PRE-FLOP *** 
+fan54 folds
+margenov folds
+Just mydelir folds
+hoRReuRiveR raises 750 to 1250
+stepii calls 1000
+manggy94 folds
+*** FLOP *** [6h Qd Kh]
+stepii checks
+hoRReuRiveR bets 1500
+stepii calls 1500
+*** TURN *** [6h Qd Kh][5d]
+stepii checks
+hoRReuRiveR checks
+*** RIVER *** [6h Qd Kh 5d][Qs]
+stepii checks
+hoRReuRiveR checks
+*** SHOW DOWN ***
+hoRReuRiveR shows [8s Ac] (One pair : Queens)
+stepii shows [Jd Ah] (One pair : Queens)
+stepii collected 6240 from pot
+*** SUMMARY ***
+Total pot 6240 | No rake
+Board: [6h Qd Kh 5d Qs]
+Seat 1: hoRReuRiveR (button) showed [8s Ac] and lost with One pair : Queens
+Seat 2: stepii (small blind) showed [Jd Ah] and won 6240 with One pair : Queens
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #712615381704900886-41-1471200039 - Holdem no limit (40/250/500) - 2016/08/14 18:40:39 UTC
+Table: 'COCKTAIL(165918698)#0277' 6-max (real money) Seat #2 is the button
+Seat 1: hoRReuRiveR (31225)
+Seat 2: stepii (14425)
+Seat 3: manggy94 (19420)
+Seat 4: fan54 (31330)
+Seat 5: margenov (28540)
+Seat 6: Just mydelir (15060)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+fan54 posts ante 40
+hoRReuRiveR posts ante 40
+stepii posts ante 40
+margenov posts ante 40
+Just mydelir posts ante 40
+manggy94 posts small blind 250
+fan54 posts big blind 500
+Dealt to manggy94 [Td 7s]
+*** PRE-FLOP *** 
+margenov raises 750 to 1250
+Just mydelir folds
+hoRReuRiveR folds
+stepii folds
+manggy94 folds
+fan54 calls 750
+*** FLOP *** [Jc 2s 2c]
+fan54 bets 1500
+margenov calls 1500
+*** TURN *** [Jc 2s 2c][8s]
+fan54 bets 1750
+margenov calls 1750
+*** RIVER *** [Jc 2s 2c 8s][As]
+fan54 checks
+margenov bets 3132
+fan54 folds
+margenov collected 12622 from pot
+*** SUMMARY ***
+Total pot 12622 | No rake
+Board: [Jc 2s 2c 8s As]
+Seat 5: margenov won 12622
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #712615381704900886-42-1471200128 - Holdem no limit (40/250/500) - 2016/08/14 18:42:08 UTC
+Table: 'COCKTAIL(165918698)#0277' 6-max (real money) Seat #3 is the button
+Seat 1: hoRReuRiveR (31185)
+Seat 2: stepii (14385)
+Seat 3: manggy94 (19130)
+Seat 4: fan54 (26790)
+Seat 5: margenov (33490)
+Seat 6: Just mydelir (15020)
+*** ANTE/BLINDS ***
+fan54 posts ante 40
+margenov posts ante 40
+hoRReuRiveR posts ante 40
+stepii posts ante 40
+manggy94 posts ante 40
+Just mydelir posts ante 40
+fan54 posts small blind 250
+margenov posts big blind 500
+Dealt to manggy94 [3h As]
+*** PRE-FLOP *** 
+Just mydelir raises 500 to 1000
+hoRReuRiveR calls 1000
+stepii folds
+manggy94 calls 1000
+fan54 calls 750
+margenov calls 500
+*** FLOP *** [2c Ks 9s]
+fan54 checks
+margenov checks
+Just mydelir bets 3930
+hoRReuRiveR folds
+manggy94 folds
+fan54 folds
+margenov folds
+Just mydelir collected 9170 from pot
+*** SUMMARY ***
+Total pot 9170 | No rake
+Board: [2c Ks 9s]
+Seat 6: Just mydelir won 9170
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #712615381704900886-43-1471200188 - Holdem no limit (40/250/500) - 2016/08/14 18:43:08 UTC
+Table: 'COCKTAIL(165918698)#0277' 6-max (real money) Seat #4 is the button
+Seat 1: hoRReuRiveR (30145)
+Seat 2: stepii (14345)
+Seat 3: manggy94 (18090)
+Seat 4: fan54 (25750)
+Seat 5: margenov (32450)
+Seat 6: Just mydelir (19220)
+*** ANTE/BLINDS ***
+margenov posts ante 40
+Just mydelir posts ante 40
+hoRReuRiveR posts ante 40
+stepii posts ante 40
+manggy94 posts ante 40
+fan54 posts ante 40
+margenov posts small blind 250
+Just mydelir posts big blind 500
+Dealt to manggy94 [6s Qd]
+*** PRE-FLOP *** 
+hoRReuRiveR folds
+stepii folds
+manggy94 folds
+fan54 folds
+margenov calls 250
+Just mydelir checks
+*** FLOP *** [Jc Ah Kd]
+margenov bets 500
+Just mydelir calls 500
+*** TURN *** [Jc Ah Kd][7h]
+margenov checks
+Just mydelir bets 500
+margenov calls 500
+*** RIVER *** [Jc Ah Kd 7h][6d]
+margenov checks
+Just mydelir bets 1620
+margenov calls 1620
+*** SHOW DOWN ***
+margenov shows [7c Th] (One pair : 7)
+Just mydelir shows [5h Ac] (One pair : Aces)
+Just mydelir collected 6480 from pot
+*** SUMMARY ***
+Total pot 6480 | No rake
+Board: [Jc Ah Kd 7h 6d]
+Seat 5: margenov (small blind) showed [7c Th] and lost with One pair : 7
+Seat 6: Just mydelir (big blind) showed [5h Ac] and won 6480 with One pair : Aces
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #712615381704900886-44-1471200253 - Holdem no limit (40/250/500) - 2016/08/14 18:44:13 UTC
+Table: 'COCKTAIL(165918698)#0277' 6-max (real money) Seat #5 is the button
+Seat 1: hoRReuRiveR (30105)
+Seat 2: stepii (14305)
+Seat 3: manggy94 (18050)
+Seat 4: fan54 (25710)
+Seat 5: margenov (29290)
+Seat 6: Just mydelir (22540)
+*** ANTE/BLINDS ***
+Just mydelir posts ante 40
+hoRReuRiveR posts ante 40
+stepii posts ante 40
+manggy94 posts ante 40
+fan54 posts ante 40
+margenov posts ante 40
+Just mydelir posts small blind 250
+hoRReuRiveR posts big blind 500
+Dealt to manggy94 [Jh 6c]
+*** PRE-FLOP *** 
+stepii calls 500
+manggy94 folds
+fan54 folds
+margenov calls 500
+Just mydelir calls 250
+hoRReuRiveR checks
+*** FLOP *** [3h 6s Jc]
+Just mydelir checks
+hoRReuRiveR checks
+stepii bets 1000
+margenov calls 1000
+Just mydelir calls 1000
+hoRReuRiveR folds
+*** TURN *** [3h 6s Jc][Th]
+Just mydelir checks
+stepii bets 3493
+margenov calls 3493
+Just mydelir folds
+*** RIVER *** [3h 6s Jc Th][Ts]
+stepii bets 2000
+margenov calls 2000
+*** SHOW DOWN ***
+stepii shows [8c Jd] (Two pairs : Jacks and Tens)
+margenov shows [9c Js] (Two pairs : Jacks and Tens)
+margenov collected 16226 from pot
+*** SUMMARY ***
+Total pot 16226 | No rake
+Board: [3h 6s Jc Th Ts]
+Seat 2: stepii showed [8c Jd] and lost with Two pairs : Jacks and Tens
+Seat 5: margenov (button) showed [9c Js] and won 16226 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #712615381704900886-45-1471200341 - Holdem no limit (40/250/500) - 2016/08/14 18:45:41 UTC
+Table: 'COCKTAIL(165918698)#0277' 6-max (real money) Seat #6 is the button
+Seat 1: hoRReuRiveR (29565)
+Seat 2: stepii (7272)
+Seat 3: manggy94 (18010)
+Seat 4: fan54 (25670)
+Seat 5: margenov (38483)
+Seat 6: Just mydelir (21000)
+*** ANTE/BLINDS ***
+hoRReuRiveR posts ante 40
+stepii posts ante 40
+manggy94 posts ante 40
+fan54 posts ante 40
+margenov posts ante 40
+Just mydelir posts ante 40
+hoRReuRiveR posts small blind 250
+stepii posts big blind 500
+Dealt to manggy94 [7s 2c]
+*** PRE-FLOP *** 
+manggy94 folds
+fan54 folds
+margenov folds
+Just mydelir folds
+hoRReuRiveR calls 250
+stepii checks
+*** FLOP *** [Js 2h 4h]
+hoRReuRiveR checks
+stepii bets 1000
+hoRReuRiveR folds
+stepii collected 2240 from pot
+*** SUMMARY ***
+Total pot 2240 | No rake
+Board: [Js 2h 4h]
+Seat 2: stepii (big blind) won 2240
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #712615381704900886-46-1471200374 - Holdem no limit (40/250/500) - 2016/08/14 18:46:14 UTC
+Table: 'COCKTAIL(165918698)#0277' 6-max (real money) Seat #1 is the button
+Seat 1: hoRReuRiveR (29025)
+Seat 2: stepii (7972)
+Seat 3: manggy94 (17970)
+Seat 4: fan54 (25630)
+Seat 5: margenov (38443)
+Seat 6: Just mydelir (20960)
+*** ANTE/BLINDS ***
+stepii posts ante 40
+manggy94 posts ante 40
+hoRReuRiveR posts ante 40
+fan54 posts ante 40
+margenov posts ante 40
+Just mydelir posts ante 40
+stepii posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [Ad Kh]
+*** PRE-FLOP *** 
+fan54 folds
+margenov folds
+Just mydelir folds
+hoRReuRiveR calls 500
+stepii raises 3250 to 3750
+manggy94 raises 8240 to 11990
+hoRReuRiveR folds
+stepii calls 4182 and is all-in
+*** FLOP *** [7s Jh Tc]
+*** TURN *** [7s Jh Tc][9c]
+*** RIVER *** [7s Jh Tc 9c][Td]
+*** SHOW DOWN ***
+stepii shows [Kc Ks] (Two pairs : Kings and Tens)
+manggy94 shows [Ad Kh] (One pair : Tens)
+manggy94 collected 4058 from side pot 1
+stepii collected 16604 from main pot
+*** SUMMARY ***
+Total pot 20662 | No rake
+Board: [7s Jh Tc 9c Td]
+Seat 2: stepii (small blind) showed [Kc Ks] and won 16604 with Two pairs : Kings and Tens
+Seat 3: manggy94 (big blind) showed [Ad Kh] and won 4058 with One pair : Tens
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #712615381704900886-47-1471200426 - Holdem no limit (60/300/600) - 2016/08/14 18:47:06 UTC
+Table: 'COCKTAIL(165918698)#0277' 6-max (real money) Seat #2 is the button
+Seat 1: hoRReuRiveR (28485)
+Seat 2: stepii (16604)
+Seat 3: manggy94 (9998)
+Seat 4: fan54 (25590)
+Seat 5: margenov (38403)
+Seat 6: Just mydelir (20920)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+fan54 posts ante 60
+hoRReuRiveR posts ante 60
+stepii posts ante 60
+margenov posts ante 60
+Just mydelir posts ante 60
+manggy94 posts small blind 300
+fan54 posts big blind 600
+Dealt to manggy94 [Qh 7c]
+*** PRE-FLOP *** 
+margenov folds
+Just mydelir calls 600
+hoRReuRiveR folds
+stepii calls 600
+manggy94 folds
+fan54 checks
+*** FLOP *** [Ah 6h 6s]
+fan54 checks
+Just mydelir bets 1230
+stepii calls 1230
+fan54 folds
+*** TURN *** [Ah 6h 6s][Jc]
+Just mydelir checks
+stepii checks
+*** RIVER *** [Ah 6h 6s Jc][9d]
+Just mydelir checks
+stepii checks
+*** SHOW DOWN ***
+Just mydelir shows [5s 5d] (Two pairs : 6 and 5)
+stepii shows [As 2s] (Two pairs : Aces and 6)
+stepii collected 4920 from pot
+*** SUMMARY ***
+Total pot 4920 | No rake
+Board: [Ah 6h 6s Jc 9d]
+Seat 2: stepii (button) showed [As 2s] and won 4920 with Two pairs : Aces and 6
+Seat 6: Just mydelir showed [5s 5d] and lost with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #712615381704900886-48-1471200486 - Holdem no limit (60/300/600) - 2016/08/14 18:48:06 UTC
+Table: 'COCKTAIL(165918698)#0277' 6-max (real money) Seat #3 is the button
+Seat 1: hoRReuRiveR (28425)
+Seat 2: stepii (19634)
+Seat 3: manggy94 (9638)
+Seat 4: fan54 (24930)
+Seat 5: margenov (38343)
+Seat 6: Just mydelir (19030)
+*** ANTE/BLINDS ***
+fan54 posts ante 60
+margenov posts ante 60
+hoRReuRiveR posts ante 60
+stepii posts ante 60
+manggy94 posts ante 60
+Just mydelir posts ante 60
+fan54 posts small blind 300
+margenov posts big blind 600
+Dealt to manggy94 [4h Tc]
+*** PRE-FLOP *** 
+Just mydelir folds
+hoRReuRiveR folds
+stepii folds
+manggy94 raises 600 to 1200
+fan54 folds
+margenov calls 600
+*** FLOP *** [8h Qs 4d]
+margenov checks
+manggy94 checks
+*** TURN *** [8h Qs 4d][Ah]
+margenov checks
+manggy94 checks
+*** RIVER *** [8h Qs 4d Ah][7c]
+margenov bets 1200
+manggy94 calls 1200
+*** SHOW DOWN ***
+manggy94 shows [4h Tc] (One pair : 4)
+margenov shows [Qc 3c] (One pair : Queens)
+margenov collected 5460 from pot
+*** SUMMARY ***
+Total pot 5460 | No rake
+Board: [8h Qs 4d Ah 7c]
+Seat 3: manggy94 (button) showed [4h Tc] and lost with One pair : 4
+Seat 5: margenov (big blind) showed [Qc 3c] and won 5460 with One pair : Queens
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #712615381704900886-49-1471200530 - Holdem no limit (60/300/600) - 2016/08/14 18:48:50 UTC
+Table: 'COCKTAIL(165918698)#0277' 6-max (real money) Seat #4 is the button
+Seat 1: hoRReuRiveR (28365)
+Seat 2: stepii (19574)
+Seat 3: manggy94 (7178)
+Seat 4: fan54 (24570)
+Seat 5: margenov (41343)
+Seat 6: Just mydelir (18970)
+*** ANTE/BLINDS ***
+margenov posts ante 60
+Just mydelir posts ante 60
+hoRReuRiveR posts ante 60
+stepii posts ante 60
+manggy94 posts ante 60
+fan54 posts ante 60
+margenov posts small blind 300
+Just mydelir posts big blind 600
+Dealt to manggy94 [Td Qd]
+*** PRE-FLOP *** 
+hoRReuRiveR raises 600 to 1200
+stepii folds
+manggy94 calls 1200
+fan54 folds
+margenov folds
+Just mydelir folds
+*** FLOP *** [5h 4s Ks]
+hoRReuRiveR bets 2400
+manggy94 folds
+hoRReuRiveR collected 6060 from pot
+*** SUMMARY ***
+Total pot 6060 | No rake
+Board: [5h 4s Ks]
+Seat 1: hoRReuRiveR won 6060
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #712615381704900886-50-1471200576 - Holdem no limit (60/300/600) - 2016/08/14 18:49:36 UTC
+Table: 'COCKTAIL(165918698)#0277' 6-max (real money) Seat #5 is the button
+Seat 1: hoRReuRiveR (30765)
+Seat 2: stepii (19514)
+Seat 3: manggy94 (5918)
+Seat 4: fan54 (24510)
+Seat 5: margenov (40983)
+Seat 6: Just mydelir (18310)
+*** ANTE/BLINDS ***
+Just mydelir posts ante 60
+hoRReuRiveR posts ante 60
+stepii posts ante 60
+manggy94 posts ante 60
+fan54 posts ante 60
+margenov posts ante 60
+Just mydelir posts small blind 300
+hoRReuRiveR posts big blind 600
+Dealt to manggy94 [Ks As]
+*** PRE-FLOP *** 
+stepii folds
+manggy94 raises 5258 to 5858 and is all-in
+fan54 folds
+margenov folds
+Just mydelir folds
+hoRReuRiveR folds
+manggy94 collected 7118 from pot
+*** SUMMARY ***
+Total pot 7118 | No rake
+Seat 3: manggy94 won 7118
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #712615381704900886-51-1471200596 - Holdem no limit (60/300/600) - 2016/08/14 18:49:56 UTC
+Table: 'COCKTAIL(165918698)#0277' 6-max (real money) Seat #6 is the button
+Seat 1: hoRReuRiveR (30105)
+Seat 2: stepii (19454)
+Seat 3: manggy94 (7118)
+Seat 4: fan54 (24450)
+Seat 5: margenov (40923)
+Seat 6: Just mydelir (17950)
+*** ANTE/BLINDS ***
+hoRReuRiveR posts ante 60
+stepii posts ante 60
+manggy94 posts ante 60
+fan54 posts ante 60
+margenov posts ante 60
+Just mydelir posts ante 60
+hoRReuRiveR posts small blind 300
+stepii posts big blind 600
+Dealt to manggy94 [4d 3h]
+*** PRE-FLOP *** 
+manggy94 folds
+fan54 folds
+margenov folds
+Just mydelir folds
+hoRReuRiveR calls 300
+stepii checks
+*** FLOP *** [5c Js 2s]
+hoRReuRiveR bets 900
+stepii folds
+hoRReuRiveR collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Board: [5c Js 2s]
+Seat 1: hoRReuRiveR (small blind) won 2460
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #712615381704900886-52-1471200673 - Holdem no limit (60/300/600) - 2016/08/14 18:51:13 UTC
+Table: 'COCKTAIL(165918698)#0277' 6-max (real money) Seat #1 is the button
+Seat 1: hoRReuRiveR (31005)
+Seat 2: stepii (18794)
+Seat 3: manggy94 (7058)
+Seat 4: fan54 (24390)
+Seat 5: margenov (40863)
+Seat 6: Just mydelir (17890)
+*** ANTE/BLINDS ***
+stepii posts ante 60
+manggy94 posts ante 60
+hoRReuRiveR posts ante 60
+fan54 posts ante 60
+margenov posts ante 60
+Just mydelir posts ante 60
+stepii posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [Ah 6d]
+*** PRE-FLOP *** 
+fan54 folds
+margenov folds
+Just mydelir raises 600 to 1200
+hoRReuRiveR folds
+stepii folds
+manggy94 raises 5798 to 6998 and is all-in
+Just mydelir calls 5798
+*** FLOP *** [7s Ks 9d]
+*** TURN *** [7s Ks 9d][Kh]
+*** RIVER *** [7s Ks 9d Kh][5h]
+*** SHOW DOWN ***
+manggy94 shows [Ah 6d] (One pair : Kings)
+Just mydelir shows [As 7h] (Two pairs : Kings and 7)
+Just mydelir collected 14656 from pot
+*** SUMMARY ***
+Total pot 14656 | No rake
+Board: [7s Ks 9d Kh 5h]
+Seat 3: manggy94 (big blind) showed [Ah 6d] and lost with One pair : Kings
+Seat 6: Just mydelir showed [As 7h] and won 14656 with Two pairs : Kings and 7
+
+

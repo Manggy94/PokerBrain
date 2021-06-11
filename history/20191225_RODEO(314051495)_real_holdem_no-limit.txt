@@ -1,0 +1,42 @@
+Winamax Poker - Tournament "RODEO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1348840900284907527-44-1577317142 - Holdem no limit (100/400/800) - 2019/12/25 23:39:02 UTC
+Table: 'RODEO(314051495)#006' 8-max (real money) Seat #5 is the button
+Seat 1: BRO_COLI (84398)
+Seat 2: B_B_13 (35083)
+Seat 3: MadMartinGAL (121214)
+Seat 4: Diablottin22 (62005)
+Seat 5: GuiTou67_ (77440)
+Seat 7: S.H.A.Q (11470)
+Seat 8: manggy94 (20000)
+*** ANTE/BLINDS ***
+S.H.A.Q posts ante 100
+BRO_COLI posts ante 100
+B_B_13 posts ante 100
+MadMartinGAL posts ante 100
+Diablottin22 posts ante 100
+GuiTou67_ posts ante 100
+manggy94 posts ante 100
+S.H.A.Q posts big blind 800
+Dealt to manggy94 [Jh Ac]
+*** PRE-FLOP *** 
+manggy94 raises 2300 to 3100
+BRO_COLI folds
+B_B_13 raises 31883 to 34983 and is all-in
+MadMartinGAL folds
+Diablottin22 folds
+GuiTou67_ folds
+S.H.A.Q folds
+manggy94 calls 16800 and is all-in
+*** FLOP *** [6d 2d 7h]
+*** TURN *** [6d 2d 7h][5h]
+*** RIVER *** [6d 2d 7h 5h][4c]
+*** SHOW DOWN ***
+manggy94 shows [Jh Ac] (High card : Ace)
+B_B_13 shows [As Qs] (High card : Ace)
+B_B_13 collected 56383 from pot
+*** SUMMARY ***
+Total pot 56383 | No rake
+Board: [6d 2d 7h 5h 4c]
+Seat 2: B_B_13 showed [As Qs] and won 56383 with High card : Ace
+Seat 8: manggy94 showed [Jh Ac] and lost with High card : Ace
+
+

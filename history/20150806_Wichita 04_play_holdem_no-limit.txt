@@ -1,0 +1,1350 @@
+Winamax Poker - CashGame - HandId: #7820495-1578-1438864408 - Holdem no limit (0.01/0.02) - 2015/08/06 12:33:28 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #3 is the button
+Seat 2: Aextaz (2)
+Seat 3: christolair (6.95)
+Seat 4: Hoke (39.41)
+Seat 5: manggy94 (2)
+*** ANTE/BLINDS ***
+Hoke posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [Qc 5c]
+*** PRE-FLOP *** 
+Aextaz calls 0.02
+christolair folds
+Hoke calls 0.01
+manggy94 checks
+*** FLOP *** [Jd Kd 8d]
+Hoke bets 0.10
+manggy94 folds
+Aextaz calls 0.10
+*** TURN *** [Jd Kd 8d][Qs]
+Hoke bets 0.26
+Aextaz calls 0.26
+*** RIVER *** [Jd Kd 8d Qs][3h]
+Hoke bets 7.69
+Aextaz folds
+Hoke collected 8.42 from pot
+*** SUMMARY ***
+Total pot 8.42 | Rake 0.05
+Board: [Jd Kd 8d Qs 3h]
+Seat 4: Hoke (small blind) won 8.42
+
+
+Winamax Poker - CashGame - HandId: #7820495-1579-1438864465 - Holdem no limit (0.01/0.02) - 2015/08/06 12:34:25 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #4 is the button
+Seat 1: kskalata (1.80)
+Seat 2: Aextaz (1.62)
+Seat 3: christolair (6.95)
+Seat 4: Hoke (39.76)
+Seat 5: manggy94 (1.98)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+kskalata posts big blind 0.02
+Dealt to manggy94 [Qd 8h]
+*** PRE-FLOP *** 
+Aextaz calls 0.02
+christolair calls 0.02
+Hoke calls 0.02
+manggy94 calls 0.01
+kskalata raises 1.78 to 1.80 and is all-in
+Aextaz calls 1.60 and is all-in
+christolair folds
+Hoke folds
+manggy94 calls 1.78
+*** FLOP *** [Ah 2d Ts]
+*** TURN *** [Ah 2d Ts][Kd]
+*** RIVER *** [Ah 2d Ts Kd][2c]
+*** SHOW DOWN ***
+Aextaz shows [8s 8c] (Two pairs : 8 and 2)
+manggy94 shows [Qd 8h] (One pair : 2)
+kskalata shows [6d Ac] (Two pairs : Aces and 2)
+kskalata collected 4.92 from pot
+*** SUMMARY ***
+Total pot 4.92 | Rake 0.34
+Board: [Ah 2d Ts Kd 2c]
+Seat 1: kskalata (big blind) showed [6d Ac] and won 4.92 with Two pairs : Aces and 2
+Seat 2: Aextaz showed [8s 8c] and lost with Two pairs : 8 and 2
+Seat 5: manggy94 (small blind) showed [Qd 8h] and lost with One pair : 2
+
+
+Winamax Poker - CashGame - HandId: #7820495-1580-1438864496 - Holdem no limit (0.01/0.02) - 2015/08/06 12:34:56 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #5 is the button
+Seat 1: kskalata (4.92)
+Seat 2: Aextaz (0)
+Seat 3: christolair (6.93)
+Seat 4: Hoke (39.74)
+Seat 5: manggy94 (0.18)
+*** ANTE/BLINDS ***
+kskalata posts small blind 0.01
+christolair posts big blind 0.02
+Dealt to manggy94 [5s 8d]
+*** PRE-FLOP *** 
+Hoke calls 0.02
+manggy94 raises 0.16 to 0.18 and is all-in
+kskalata calls 0.17
+christolair calls 0.16
+Hoke calls 0.16
+*** FLOP *** [Tc Jd 8s]
+kskalata checks
+christolair checks
+Hoke bets 0.20
+kskalata calls 0.20
+christolair calls 0.20
+*** TURN *** [Tc Jd 8s][7c]
+kskalata checks
+christolair checks
+Hoke bets 0.88
+kskalata calls 0.88
+christolair folds
+*** RIVER *** [Tc Jd 8s 7c][Ts]
+kskalata checks
+Hoke bets 25.55
+kskalata folds
+*** SHOW DOWN ***
+manggy94 shows [5s 8d] (Two pairs : Tens and 8)
+Hoke shows [Jc Th] (Full of Tens and Jacks)
+Hoke collected 28.43 from pot
+*** SUMMARY ***
+Total pot 28.43 | Rake 0.20
+Board: [Tc Jd 8s 7c Ts]
+Seat 4: Hoke showed [Jc Th] and won 28.43 with Full of Tens and Jacks
+Seat 5: manggy94 (button) showed [5s 8d] and lost with Two pairs : Tens and 8
+
+
+Winamax Poker - CashGame - HandId: #7820495-1581-1438864587 - Holdem no limit (0.01/0.02) - 2015/08/06 12:36:27 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #1 is the button
+Seat 1: kskalata (3.66)
+Seat 3: christolair (6.55)
+Seat 4: Hoke (41.36)
+Seat 5: manggy94 (2)
+*** ANTE/BLINDS ***
+christolair posts small blind 0.01
+Hoke posts big blind 0.02
+Dealt to manggy94 [3s 6d]
+*** PRE-FLOP *** 
+manggy94 folds
+kskalata raises 3.64 to 3.66 and is all-in
+christolair folds
+Hoke folds
+kskalata collected 3.69 from pot
+*** SUMMARY ***
+Total pot 3.69 | No rake
+Seat 1: kskalata (button) won 3.69
+
+
+Winamax Poker - CashGame - HandId: #7820495-1582-1438864606 - Holdem no limit (0.01/0.02) - 2015/08/06 12:36:46 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #3 is the button
+Seat 1: kskalata (3.69)
+Seat 3: christolair (6.54)
+Seat 4: Hoke (41.34)
+Seat 5: manggy94 (2)
+*** ANTE/BLINDS ***
+Hoke posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [6s 7d]
+*** PRE-FLOP *** 
+kskalata calls 0.02
+christolair calls 0.02
+Hoke calls 0.01
+manggy94 checks
+*** FLOP *** [Td 4d Ac]
+Hoke checks
+manggy94 checks
+kskalata bets 0.02
+christolair raises 0.02 to 0.04
+Hoke calls 0.04
+manggy94 folds
+kskalata calls 0.02
+*** TURN *** [Td 4d Ac][3c]
+Hoke checks
+kskalata bets 0.02
+christolair folds
+Hoke calls 0.02
+*** RIVER *** [Td 4d Ac 3c][Ad]
+Hoke checks
+kskalata bets 0.02
+Hoke calls 0.02
+*** SHOW DOWN ***
+kskalata shows [4s 2c] (Two pairs : Aces and 4)
+Hoke shows [4c 9s] (Two pairs : Aces and 4)
+Hoke collected 0.13 from pot
+kskalata collected 0.13 from pot
+*** SUMMARY ***
+Total pot 0.26 | Rake 0.02
+Board: [Td 4d Ac 3c Ad]
+Seat 1: kskalata showed [4s 2c] and won 0.13 with Two pairs : Aces and 4
+Seat 4: Hoke (small blind) showed [4c 9s] and won 0.13 with Two pairs : Aces and 4
+
+
+Winamax Poker - CashGame - HandId: #7820495-1583-1438864668 - Holdem no limit (0.01/0.02) - 2015/08/06 12:37:48 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #4 is the button
+Seat 1: kskalata (3.72)
+Seat 3: christolair (6.48)
+Seat 4: Hoke (41.37)
+Seat 5: manggy94 (2)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+kskalata posts big blind 0.02
+Dealt to manggy94 [4d Jc]
+*** PRE-FLOP *** 
+christolair calls 0.02
+Hoke calls 0.02
+manggy94 calls 0.01
+kskalata checks
+*** FLOP *** [2c 5d 8c]
+manggy94 checks
+kskalata checks
+christolair checks
+Hoke checks
+*** TURN *** [2c 5d 8c][3h]
+manggy94 checks
+kskalata checks
+christolair checks
+Hoke checks
+*** RIVER *** [2c 5d 8c 3h][Ad]
+manggy94 bets 0.22
+kskalata raises 3.48 to 3.70 and is all-in
+christolair folds
+Hoke calls 3.70
+manggy94 calls 1.76 and is all-in
+*** SHOW DOWN ***
+kskalata shows [Js 4c] (Straight 5 high)
+Hoke shows [4s 7s] (Straight 5 high)
+manggy94 shows [4d Jc] (Straight 5 high)
+manggy94 collected 1.88 from main pot
+Hoke collected 3.49 from side pot 1
+kskalata collected 3.48 from side pot 1
+*** SUMMARY ***
+Total pot 8.85 | Rake 0.61
+Board: [2c 5d 8c 3h Ad]
+Seat 1: kskalata (big blind) showed [Js 4c] and won 3.48 with Straight 5 high
+Seat 4: Hoke (button) showed [4s 7s] and won 3.49 with Straight 5 high
+Seat 5: manggy94 (small blind) showed [4d Jc] and won 1.88 with Straight 5 high
+
+
+Winamax Poker - CashGame - HandId: #7820495-1584-1438864715 - Holdem no limit (0.01/0.02) - 2015/08/06 12:38:35 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #5 is the button
+Seat 1: kskalata (3.48)
+Seat 2: Briice91 (2)
+Seat 3: christolair (6.46)
+Seat 4: Hoke (41.14)
+Seat 5: manggy94 (2)
+*** ANTE/BLINDS ***
+kskalata posts small blind 0.01
+Briice91 posts big blind 0.02
+Dealt to manggy94 [Ad 9s]
+*** PRE-FLOP *** 
+christolair folds
+Hoke calls 0.02
+manggy94 calls 0.02
+kskalata calls 0.01
+Briice91 checks
+*** FLOP *** [Kc Th 4h]
+kskalata checks
+Briice91 checks
+Hoke checks
+manggy94 bets 0.28
+kskalata calls 0.28
+Briice91 folds
+Hoke folds
+*** TURN *** [Kc Th 4h][5d]
+kskalata checks
+manggy94 checks
+*** RIVER *** [Kc Th 4h 5d][3d]
+kskalata checks
+manggy94 checks
+*** SHOW DOWN ***
+kskalata shows [9h 2h] (High card : King)
+manggy94 shows [Ad 9s] (High card : Ace)
+manggy94 collected 0.60 from pot
+*** SUMMARY ***
+Total pot 0.60 | Rake 0.04
+Board: [Kc Th 4h 5d 3d]
+Seat 1: kskalata (small blind) showed [9h 2h] and lost with High card : King
+Seat 5: manggy94 (button) showed [Ad 9s] and won 0.60 with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #7820495-1585-1438864771 - Holdem no limit (0.01/0.02) - 2015/08/06 12:39:31 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #1 is the button
+Seat 1: kskalata (3.18)
+Seat 2: Briice91 (1.98)
+Seat 3: christolair (6.46)
+Seat 4: Hoke (41.12)
+Seat 5: manggy94 (2.30)
+*** ANTE/BLINDS ***
+Briice91 posts small blind 0.01
+christolair posts big blind 0.02
+Dealt to manggy94 [4s 2c]
+*** PRE-FLOP *** 
+Hoke calls 0.02
+manggy94 calls 0.02
+kskalata raises 0.09 to 0.11
+Briice91 calls 0.10
+christolair calls 0.09
+Hoke calls 0.09
+manggy94 calls 0.09
+*** FLOP *** [7s 5c Jd]
+Briice91 checks
+christolair checks
+Hoke checks
+manggy94 checks
+kskalata checks
+*** TURN *** [7s 5c Jd][4c]
+Briice91 bets 0.02
+christolair calls 0.02
+Hoke folds
+manggy94 calls 0.02
+kskalata calls 0.02
+*** RIVER *** [7s 5c Jd 4c][Ks]
+Briice91 bets 0.02
+christolair calls 0.02
+manggy94 calls 0.02
+kskalata calls 0.02
+*** SHOW DOWN ***
+kskalata shows [3h 2h] (High card : King)
+christolair shows [8h Jh] (One pair : Jacks)
+manggy94 shows [4s 2c] (One pair : 4)
+Briice91 shows [Js Ah] (One pair : Jacks)
+Briice91 collected 0.66 from pot
+*** SUMMARY ***
+Total pot 0.66 | Rake 0.05
+Board: [7s 5c Jd 4c Ks]
+Seat 1: kskalata (button) showed [3h 2h] and lost with High card : King
+Seat 2: Briice91 (small blind) showed [Js Ah] and won 0.66 with One pair : Jacks
+Seat 3: christolair (big blind) showed [8h Jh] and lost with One pair : Jacks
+Seat 5: manggy94 showed [4s 2c] and lost with One pair : 4
+
+
+Winamax Poker - CashGame - HandId: #7820495-1586-1438864856 - Holdem no limit (0.01/0.02) - 2015/08/06 12:40:56 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #2 is the button
+Seat 1: kskalata (3.03)
+Seat 2: Briice91 (2.49)
+Seat 3: christolair (6.31)
+Seat 4: Hoke (41.01)
+Seat 5: manggy94 (2.15)
+*** ANTE/BLINDS ***
+christolair posts small blind 0.01
+Hoke posts big blind 0.02
+Dealt to manggy94 [9c Ah]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+kskalata raises 1.02 to 1.04
+Briice91 folds
+christolair calls 1.03
+Hoke folds
+manggy94 calls 1.02
+*** FLOP *** [Ts 2s 4d]
+christolair checks
+manggy94 checks
+kskalata bets 1.99 and is all-in
+christolair calls 1.99
+manggy94 folds
+*** TURN *** [Ts 2s 4d][Kd]
+*** RIVER *** [Ts 2s 4d Kd][8c]
+*** SHOW DOWN ***
+kskalata shows [Jc Qc] (High card : King)
+christolair shows [7c Ks] (One pair : Kings)
+christolair collected 6.66 from pot
+*** SUMMARY ***
+Total pot 6.66 | Rake 0.46
+Board: [Ts 2s 4d Kd 8c]
+Seat 1: kskalata showed [Jc Qc] and lost with High card : King
+Seat 3: christolair (small blind) showed [7c Ks] and won 6.66 with One pair : Kings
+
+
+Winamax Poker - CashGame - HandId: #7820495-1587-1438864925 - Holdem no limit (0.01/0.02) - 2015/08/06 12:42:05 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #3 is the button
+Seat 2: Briice91 (2.49)
+Seat 3: christolair (9.94)
+Seat 4: Hoke (40.99)
+Seat 5: manggy94 (2)
+*** ANTE/BLINDS ***
+Hoke posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [5c 8h]
+*** PRE-FLOP *** 
+Briice91 calls 0.02
+christolair folds
+Hoke calls 0.01
+manggy94 checks
+*** FLOP *** [3d Kd 3s]
+Hoke bets 0.10
+manggy94 folds
+Briice91 calls 0.10
+*** TURN *** [3d Kd 3s][Ks]
+Hoke bets 0.30
+Briice91 folds
+Hoke collected 0.54 from pot
+*** SUMMARY ***
+Total pot 0.54 | Rake 0.02
+Board: [3d Kd 3s Ks]
+Seat 4: Hoke (small blind) won 0.54
+
+
+Winamax Poker - CashGame - HandId: #7820495-1588-1438864995 - Holdem no limit (0.01/0.02) - 2015/08/06 12:43:15 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #4 is the button
+Seat 1: Kuno08 (2)
+Seat 2: Briice91 (2.37)
+Seat 3: christolair (9.94)
+Seat 4: Hoke (41.11)
+Seat 5: manggy94 (2)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+Kuno08 posts big blind 0.02
+Dealt to manggy94 [Ks 3h]
+*** PRE-FLOP *** 
+Briice91 calls 0.02
+christolair folds
+Hoke calls 0.02
+manggy94 calls 0.01
+Kuno08 checks
+*** FLOP *** [Qs 3d 8h]
+manggy94 checks
+Kuno08 checks
+Briice91 bets 0.02
+Hoke calls 0.02
+manggy94 calls 0.02
+Kuno08 folds
+*** TURN *** [Qs 3d 8h][Tc]
+manggy94 checks
+Briice91 bets 0.02
+Hoke calls 0.02
+manggy94 calls 0.02
+*** RIVER *** [Qs 3d 8h Tc][6c]
+manggy94 checks
+Briice91 checks
+Hoke bets 0.06
+manggy94 folds
+Briice91 folds
+Hoke collected 0.25 from pot
+*** SUMMARY ***
+Total pot 0.25 | Rake 0.01
+Board: [Qs 3d 8h Tc 6c]
+Seat 4: Hoke (button) won 0.25
+
+
+Winamax Poker - CashGame - HandId: #7820495-1589-1438865116 - Holdem no limit (0.01/0.02) - 2015/08/06 12:45:16 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #5 is the button
+Seat 1: Kuno08 (1.98)
+Seat 2: Briice91 (2.31)
+Seat 3: christolair (9.94)
+Seat 4: Hoke (41.24)
+Seat 5: manggy94 (2)
+*** ANTE/BLINDS ***
+Kuno08 posts small blind 0.01
+Briice91 posts big blind 0.02
+Dealt to manggy94 [2c Qc]
+*** PRE-FLOP *** 
+christolair folds
+Hoke calls 0.02
+manggy94 calls 0.02
+Kuno08 calls 0.01
+Briice91 checks
+*** FLOP *** [4c 3d Ts]
+Kuno08 checks
+Briice91 bets 0.11
+Hoke folds
+manggy94 calls 0.11
+Kuno08 folds
+*** TURN *** [4c 3d Ts][8h]
+Briice91 bets 0.24
+manggy94 folds
+Briice91 collected 0.52 from pot
+*** SUMMARY ***
+Total pot 0.52 | Rake 0.02
+Board: [4c 3d Ts 8h]
+Seat 2: Briice91 (big blind) won 0.52
+
+
+Winamax Poker - CashGame - HandId: #7820495-1590-1438865224 - Holdem no limit (0.01/0.02) - 2015/08/06 12:47:04 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #1 is the button
+Seat 1: Kuno08 (1.96)
+Seat 2: Briice91 (2.46)
+Seat 3: christolair (9.94)
+Seat 4: Hoke (41.22)
+Seat 5: manggy94 (2)
+*** ANTE/BLINDS ***
+Briice91 posts small blind 0.01
+christolair posts big blind 0.02
+Dealt to manggy94 [5s Ac]
+*** PRE-FLOP *** 
+Hoke calls 0.02
+manggy94 calls 0.02
+Kuno08 calls 0.02
+Briice91 calls 0.01
+christolair checks
+*** FLOP *** [9s 2d 4s]
+Briice91 bets 0.02
+christolair calls 0.02
+Hoke calls 0.02
+manggy94 calls 0.02
+Kuno08 calls 0.02
+*** TURN *** [9s 2d 4s][Kc]
+Briice91 bets 0.02
+christolair calls 0.02
+Hoke folds
+manggy94 calls 0.02
+Kuno08 calls 0.02
+*** RIVER *** [9s 2d 4s Kc][Ah]
+Briice91 checks
+christolair checks
+manggy94 bets 0.38
+Kuno08 calls 0.38
+Briice91 folds
+christolair folds
+*** SHOW DOWN ***
+manggy94 shows [5s Ac] (One pair : Aces)
+Kuno08 shows [9h As] (Two pairs : Aces and 9)
+Kuno08 collected 0.97 from pot
+*** SUMMARY ***
+Total pot 0.97 | Rake 0.07
+Board: [9s 2d 4s Kc Ah]
+Seat 1: Kuno08 (button) showed [9h As] and won 0.97 with Two pairs : Aces and 9
+Seat 5: manggy94 showed [5s Ac] and lost with One pair : Aces
+
+
+Winamax Poker - CashGame - HandId: #7820495-1591-1438865361 - Holdem no limit (0.01/0.02) - 2015/08/06 12:49:21 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #2 is the button
+Seat 1: Kuno08 (2.49)
+Seat 2: Briice91 (2.40)
+Seat 3: christolair (9.88)
+Seat 4: Hoke (41.18)
+Seat 5: manggy94 (2)
+*** ANTE/BLINDS ***
+christolair posts small blind 0.01
+Hoke posts big blind 0.02
+Dealt to manggy94 [Ad Th]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+Kuno08 raises 2.47 to 2.49 and is all-in
+Briice91 calls 2.40 and is all-in
+christolair calls 2.48
+Hoke folds
+manggy94 calls 1.98 and is all-in
+*** FLOP *** [4c 3h Td]
+*** TURN *** [4c 3h Td][Jc]
+*** RIVER *** [4c 3h Td Jc][Ts]
+*** SHOW DOWN ***
+Kuno08 shows [7c 7d] (Two pairs : Tens and 7)
+Briice91 shows [As Ac] (Two pairs : Aces and Tens)
+christolair shows [Ah Jh] (Two pairs : Jacks and Tens)
+manggy94 shows [Ad Th] (Trips of Tens)
+manggy94 collected 7.50 from main pot
+christolair collected 0.17 from side pot 2
+Briice91 collected 1.12 from side pot 1
+*** SUMMARY ***
+Total pot 8.79 | Rake 0.61
+Board: [4c 3h Td Jc Ts]
+Seat 1: Kuno08 showed [7c 7d] and lost with Two pairs : Tens and 7
+Seat 2: Briice91 (button) showed [As Ac] and won 1.12 with Two pairs : Aces and Tens
+Seat 3: christolair (small blind) showed [Ah Jh] and won 0.17 with Two pairs : Jacks and Tens
+Seat 5: manggy94 showed [Ad Th] and won 7.50 with Trips of Tens
+
+
+Winamax Poker - CashGame - HandId: #7820495-1592-1438865408 - Holdem no limit (0.01/0.02) - 2015/08/06 12:50:08 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #3 is the button
+Seat 1: Kuno08 (0)
+Seat 2: Briice91 (1.12)
+Seat 3: christolair (7.56)
+Seat 4: Hoke (41.16)
+Seat 5: manggy94 (7.50)
+*** ANTE/BLINDS ***
+Hoke posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [4c 4d]
+*** PRE-FLOP *** 
+Briice91 calls 0.02
+christolair calls 0.02
+Hoke calls 0.01
+manggy94 checks
+*** FLOP *** [Ac Qs 9s]
+Hoke checks
+manggy94 checks
+Briice91 checks
+christolair checks
+*** TURN *** [Ac Qs 9s][4s]
+Hoke checks
+manggy94 bets 0.54
+Briice91 folds
+christolair calls 0.54
+Hoke folds
+*** RIVER *** [Ac Qs 9s 4s][2d]
+manggy94 checks
+christolair checks
+*** SHOW DOWN ***
+christolair shows [Jd Ts] (High card : Ace)
+manggy94 shows [4c 4d] (Trips of 4)
+manggy94 collected 1.08 from pot
+*** SUMMARY ***
+Total pot 1.08 | Rake 0.08
+Board: [Ac Qs 9s 4s 2d]
+Seat 3: christolair (button) showed [Jd Ts] and lost with High card : Ace
+Seat 5: manggy94 (big blind) showed [4c 4d] and won 1.08 with Trips of 4
+
+
+Winamax Poker - CashGame - HandId: #7820495-1593-1438865472 - Holdem no limit (0.01/0.02) - 2015/08/06 12:51:12 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #4 is the button
+Seat 1: Visgario (2)
+Seat 2: Briice91 (1.10)
+Seat 3: christolair (7)
+Seat 4: Hoke (41.14)
+Seat 5: manggy94 (8.02)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+Visgario posts big blind 0.02
+Dealt to manggy94 [3h Ac]
+*** PRE-FLOP *** 
+Briice91 calls 0.02
+christolair calls 0.02
+Hoke calls 0.02
+manggy94 raises 1.05 to 1.07
+Visgario folds
+Briice91 calls 1.05
+christolair folds
+Hoke calls 1.05
+*** FLOP *** [Ts Ah Jh]
+manggy94 checks
+Briice91 bets 0.02
+Hoke calls 0.02
+manggy94 calls 0.02
+*** TURN *** [Ts Ah Jh][3c]
+manggy94 bets 0.61
+Briice91 folds
+Hoke calls 0.61
+*** RIVER *** [Ts Ah Jh 3c][3d]
+manggy94 bets 6.32 and is all-in
+Hoke folds
+manggy94 collected 10.56 from pot
+*** SUMMARY ***
+Total pot 10.56 | Rake 0.29
+Board: [Ts Ah Jh 3c 3d]
+Seat 5: manggy94 (small blind) won 10.56
+
+
+Winamax Poker - CashGame - HandId: #7820495-1594-1438865597 - Holdem no limit (0.01/0.02) - 2015/08/06 12:53:17 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #5 is the button
+Seat 1: Visgario (1.98)
+Seat 2: Briice91 (2)
+Seat 3: christolair (6.98)
+Seat 4: Hoke (39.44)
+Seat 5: manggy94 (10.56)
+*** ANTE/BLINDS ***
+Visgario posts small blind 0.01
+Briice91 posts big blind 0.02
+Dealt to manggy94 [2h 9h]
+*** PRE-FLOP *** 
+christolair calls 0.02
+Hoke calls 0.02
+manggy94 raises 0.89 to 0.91
+Visgario folds
+Briice91 folds
+christolair calls 0.89
+Hoke folds
+*** FLOP *** [3s Kh Ad]
+christolair checks
+manggy94 checks
+*** TURN *** [3s Kh Ad][4s]
+christolair checks
+manggy94 checks
+*** RIVER *** [3s Kh Ad 4s][5d]
+christolair checks
+manggy94 bets 3.83
+christolair folds
+manggy94 collected 5.58 from pot
+*** SUMMARY ***
+Total pot 5.58 | Rake 0.12
+Board: [3s Kh Ad 4s 5d]
+Seat 5: manggy94 (button) won 5.58
+
+
+Winamax Poker - CashGame - HandId: #7820495-1595-1438865669 - Holdem no limit (0.01/0.02) - 2015/08/06 12:54:29 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #1 is the button
+Seat 1: Visgario (1.97)
+Seat 2: Briice91 (1.98)
+Seat 3: christolair (6.07)
+Seat 5: manggy94 (11.40)
+*** ANTE/BLINDS ***
+Briice91 posts small blind 0.01
+christolair posts big blind 0.02
+Dealt to manggy94 [Kc 7c]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+Visgario folds
+Briice91 calls 0.01
+christolair checks
+*** FLOP *** [5c 5d 4c]
+Briice91 checks
+christolair checks
+manggy94 checks
+*** TURN *** [5c 5d 4c][Jd]
+Briice91 checks
+christolair bets 0.02
+manggy94 calls 0.02
+Briice91 folds
+*** RIVER *** [5c 5d 4c Jd][5s]
+christolair bets 0.02
+manggy94 calls 0.02
+*** SHOW DOWN ***
+manggy94 shows [Kc 7c] (Trips of 5)
+christolair shows [Js 6s] (Full of 5 and Jacks)
+christolair collected 0.13 from pot
+*** SUMMARY ***
+Total pot 0.13 | Rake 0.01
+Board: [5c 5d 4c Jd 5s]
+Seat 3: christolair (big blind) showed [Js 6s] and won 0.13 with Full of 5 and Jacks
+Seat 5: manggy94 showed [Kc 7c] and lost with Trips of 5
+
+
+Winamax Poker - CashGame - HandId: #7820495-1596-1438865761 - Holdem no limit (0.01/0.02) - 2015/08/06 12:56:01 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #2 is the button
+Seat 1: Visgario (1.97)
+Seat 2: Briice91 (1.96)
+Seat 3: christolair (6.14)
+Seat 4: Jerome91680 (2)
+Seat 5: manggy94 (11.34)
+*** ANTE/BLINDS ***
+christolair posts small blind 0.01
+Jerome91680 posts big blind 0.02
+Dealt to manggy94 [2h 8c]
+*** PRE-FLOP *** 
+manggy94 folds
+Visgario folds
+Briice91 calls 0.02
+christolair calls 0.01
+Jerome91680 checks
+*** FLOP *** [3d 6h Qs]
+christolair bets 0.02
+Jerome91680 calls 0.02
+Briice91 calls 0.02
+*** TURN *** [3d 6h Qs][4s]
+christolair bets 0.02
+Jerome91680 calls 0.02
+Briice91 calls 0.02
+*** RIVER *** [3d 6h Qs 4s][Jh]
+christolair bets 0.02
+Jerome91680 calls 0.02
+Briice91 folds
+*** SHOW DOWN ***
+Jerome91680 shows [7h 3h] (One pair : 3)
+christolair shows [As Jc] (One pair : Jacks)
+christolair collected 0.21 from pot
+*** SUMMARY ***
+Total pot 0.21 | Rake 0.01
+Board: [3d 6h Qs 4s Jh]
+Seat 3: christolair (small blind) showed [As Jc] and won 0.21 with One pair : Jacks
+Seat 4: Jerome91680 (big blind) showed [7h 3h] and lost with One pair : 3
+
+
+Winamax Poker - CashGame - HandId: #7820495-1597-1438865825 - Holdem no limit (0.01/0.02) - 2015/08/06 12:57:05 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #3 is the button
+Seat 1: Visgario (1.97)
+Seat 2: Briice91 (1.90)
+Seat 3: christolair (6.27)
+Seat 4: Jerome91680 (1.92)
+Seat 5: manggy94 (11.34)
+*** ANTE/BLINDS ***
+Jerome91680 posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [As 9c]
+*** PRE-FLOP *** 
+Visgario folds
+Briice91 calls 0.02
+christolair folds
+Jerome91680 calls 0.01
+manggy94 checks
+*** FLOP *** [9s 2s 7s]
+Jerome91680 checks
+manggy94 bets 1.35
+Briice91 folds
+Jerome91680 folds
+manggy94 collected 1.41 from pot
+*** SUMMARY ***
+Total pot 1.41 | No rake
+Board: [9s 2s 7s]
+Seat 5: manggy94 (big blind) won 1.41
+
+
+Winamax Poker - CashGame - HandId: #7820495-1598-1438865888 - Holdem no limit (0.01/0.02) - 2015/08/06 12:58:08 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #4 is the button
+Seat 2: Briice91 (1.88)
+Seat 4: Jerome91680 (1.90)
+Seat 5: manggy94 (11.38)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+Briice91 posts big blind 0.02
+Dealt to manggy94 [3c 4c]
+*** PRE-FLOP *** 
+Jerome91680 calls 0.02
+manggy94 calls 0.01
+Briice91 checks
+*** FLOP *** [Ad 3s Kh]
+manggy94 checks
+Briice91 checks
+Jerome91680 checks
+*** TURN *** [Ad 3s Kh][Jd]
+manggy94 checks
+Briice91 checks
+Jerome91680 bets 0.02
+manggy94 calls 0.02
+Briice91 folds
+*** RIVER *** [Ad 3s Kh Jd][8c]
+manggy94 checks
+Jerome91680 bets 0.02
+manggy94 calls 0.02
+*** SHOW DOWN ***
+manggy94 shows [3c 4c] (One pair : 3)
+Jerome91680 shows [Jh 2s] (One pair : Jacks)
+Jerome91680 collected 0.13 from pot
+*** SUMMARY ***
+Total pot 0.13 | Rake 0.01
+Board: [Ad 3s Kh Jd 8c]
+Seat 4: Jerome91680 (button) showed [Jh 2s] and won 0.13 with One pair : Jacks
+Seat 5: manggy94 (small blind) showed [3c 4c] and lost with One pair : 3
+
+
+Winamax Poker - CashGame - HandId: #7820495-1599-1438865924 - Holdem no limit (0.01/0.02) - 2015/08/06 12:58:44 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #5 is the button
+Seat 2: Briice91 (1.86)
+Seat 4: Jerome91680 (1.97)
+Seat 5: manggy94 (11.32)
+*** ANTE/BLINDS ***
+Briice91 posts small blind 0.01
+Jerome91680 posts big blind 0.02
+Dealt to manggy94 [Ah Qc]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+Briice91 calls 0.01
+Jerome91680 checks
+*** FLOP *** [4h Ts Jd]
+Briice91 checks
+Jerome91680 bets 0.02
+manggy94 calls 0.02
+Briice91 folds
+*** TURN *** [4h Ts Jd][9c]
+Jerome91680 bets 0.18
+manggy94 raises 0.77 to 0.95
+Jerome91680 calls 0.77
+*** RIVER *** [4h Ts Jd 9c][Jc]
+Jerome91680 checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [Ah Qc] (One pair : Jacks)
+Jerome91680 shows [Qs 8s] (Straight Queen high)
+Jerome91680 collected 1.87 from pot
+*** SUMMARY ***
+Total pot 1.87 | Rake 0.13
+Board: [4h Ts Jd 9c Jc]
+Seat 4: Jerome91680 (big blind) showed [Qs 8s] and won 1.87 with Straight Queen high
+Seat 5: manggy94 (button) showed [Ah Qc] and lost with One pair : Jacks
+
+
+Winamax Poker - CashGame - HandId: #7820495-1600-1438865995 - Holdem no limit (0.01/0.02) - 2015/08/06 12:59:55 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #2 is the button
+Seat 2: Briice91 (1.84)
+Seat 3: Zx6ninja_66 (2)
+Seat 4: Jerome91680 (2.85)
+Seat 5: manggy94 (10.33)
+*** ANTE/BLINDS ***
+Jerome91680 posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [3s 7c]
+*** PRE-FLOP *** 
+Briice91 calls 0.02
+Jerome91680 calls 0.01
+manggy94 checks
+*** FLOP *** [6d 2c Kd]
+Jerome91680 checks
+manggy94 checks
+Briice91 checks
+*** TURN *** [6d 2c Kd][9d]
+Jerome91680 checks
+manggy94 checks
+Briice91 checks
+*** RIVER *** [6d 2c Kd 9d][3c]
+Jerome91680 bets 0.02
+manggy94 raises 0.40 to 0.42
+Briice91 folds
+Jerome91680 folds
+manggy94 collected 0.49 from pot
+*** SUMMARY ***
+Total pot 0.49 | Rake 0.01
+Board: [6d 2c Kd 9d 3c]
+Seat 5: manggy94 (big blind) won 0.49
+
+
+Winamax Poker - CashGame - HandId: #7820495-1601-1438866157 - Holdem no limit (0.01/0.02) - 2015/08/06 13:02:37 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #4 is the button
+Seat 2: Briice91 (1.82)
+Seat 3: Zx6ninja_66 (2)
+Seat 4: Jerome91680 (2.81)
+Seat 5: manggy94 (10.38)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+Zx6ninja_66 posts big blind 0.02
+Dealt to manggy94 [3h 2d]
+*** PRE-FLOP *** 
+Jerome91680 calls 0.02
+manggy94 calls 0.01
+Zx6ninja_66 raises 1.98 to 2 and is all-in
+Jerome91680 folds
+manggy94 calls 1.98
+*** FLOP *** [Ad 6c 4c]
+*** TURN *** [Ad 6c 4c][2s]
+*** RIVER *** [Ad 6c 4c 2s][9s]
+*** SHOW DOWN ***
+manggy94 shows [3h 2d] (One pair : 2)
+Zx6ninja_66 shows [Qc As] (One pair : Aces)
+Zx6ninja_66 collected 3.76 from pot
+*** SUMMARY ***
+Total pot 3.76 | Rake 0.26
+Board: [Ad 6c 4c 2s 9s]
+Seat 3: Zx6ninja_66 (big blind) showed [Qc As] and won 3.76 with One pair : Aces
+Seat 5: manggy94 (small blind) showed [3h 2d] and lost with One pair : 2
+
+
+Winamax Poker - CashGame - HandId: #7820495-1602-1438866182 - Holdem no limit (0.01/0.02) - 2015/08/06 13:03:02 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #5 is the button
+Seat 2: Briice91 (1.82)
+Seat 3: Zx6ninja_66 (3.76)
+Seat 4: Jerome91680 (2.79)
+Seat 5: manggy94 (8.38)
+*** ANTE/BLINDS ***
+Zx6ninja_66 posts small blind 0.01
+Jerome91680 posts big blind 0.02
+Dealt to manggy94 [Ad Ah]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+Zx6ninja_66 calls 0.01
+Jerome91680 checks
+*** FLOP *** [5s Jh Ts]
+Zx6ninja_66 checks
+Jerome91680 bets 0.17
+manggy94 calls 0.17
+Zx6ninja_66 folds
+*** TURN *** [5s Jh Ts][7d]
+Jerome91680 bets 0.09
+manggy94 raises 1.13 to 1.22
+Jerome91680 calls 1.13
+*** RIVER *** [5s Jh Ts 7d][3h]
+Jerome91680 checks
+manggy94 bets 6.97 and is all-in
+Jerome91680 calls 1.38 and is all-in
+*** SHOW DOWN ***
+Jerome91680 shows [8d Jc] (One pair : Jacks)
+manggy94 shows [Ad Ah] (One pair : Aces)
+manggy94 collected 10.83 from pot
+*** SUMMARY ***
+Total pot 10.83 | Rake 0.36
+Board: [5s Jh Ts 7d 3h]
+Seat 4: Jerome91680 (big blind) showed [8d Jc] and lost with One pair : Jacks
+Seat 5: manggy94 (button) showed [Ad Ah] and won 10.83 with One pair : Aces
+
+
+Winamax Poker - CashGame - HandId: #7820495-1603-1438866237 - Holdem no limit (0.01/0.02) - 2015/08/06 13:03:57 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #3 is the button
+Seat 2: Briice91 (1.82)
+Seat 3: Zx6ninja_66 (3.74)
+Seat 4: Jerome91680 (2)
+Seat 5: manggy94 (10.83)
+*** ANTE/BLINDS ***
+Jerome91680 posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [4s Td]
+*** PRE-FLOP *** 
+Zx6ninja_66 folds
+Jerome91680 calls 0.01
+manggy94 checks
+*** FLOP *** [3d Kc 8h]
+Jerome91680 bets 1.98 and is all-in
+manggy94 folds
+Jerome91680 collected 2.02 from pot
+*** SUMMARY ***
+Total pot 2.02 | No rake
+Board: [3d Kc 8h]
+Seat 4: Jerome91680 (small blind) won 2.02
+
+
+Winamax Poker - CashGame - HandId: #7820495-1604-1438866260 - Holdem no limit (0.01/0.02) - 2015/08/06 13:04:20 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #4 is the button
+Seat 2: Briice91 (1.82)
+Seat 3: Zx6ninja_66 (3.74)
+Seat 4: Jerome91680 (2.02)
+Seat 5: manggy94 (10.81)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+Zx6ninja_66 posts big blind 0.02
+Dealt to manggy94 [8d Ah]
+*** PRE-FLOP *** 
+Jerome91680 calls 0.02
+manggy94 calls 0.01
+Zx6ninja_66 checks
+*** FLOP *** [3d 4s Qs]
+manggy94 checks
+Zx6ninja_66 checks
+Jerome91680 checks
+*** TURN *** [3d 4s Qs][Ad]
+manggy94 checks
+Zx6ninja_66 checks
+Jerome91680 checks
+*** RIVER *** [3d 4s Qs Ad][9h]
+manggy94 bets 1.21
+Zx6ninja_66 folds
+Jerome91680 folds
+manggy94 collected 1.27 from pot
+*** SUMMARY ***
+Total pot 1.27 | No rake
+Board: [3d 4s Qs Ad 9h]
+Seat 5: manggy94 (small blind) won 1.27
+
+
+Winamax Poker - CashGame - HandId: #7820495-1605-1438866302 - Holdem no limit (0.01/0.02) - 2015/08/06 13:05:02 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #5 is the button
+Seat 1: bigbag91 (2)
+Seat 2: Briice91 (1.82)
+Seat 3: Zx6ninja_66 (3.72)
+Seat 4: Jerome91680 (2)
+Seat 5: manggy94 (10.85)
+*** ANTE/BLINDS ***
+Zx6ninja_66 posts small blind 0.01
+Jerome91680 posts big blind 0.02
+Dealt to manggy94 [Qd Ts]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+Zx6ninja_66 calls 0.01
+Jerome91680 checks
+*** FLOP *** [3s 2h 7s]
+Zx6ninja_66 checks
+Jerome91680 checks
+manggy94 bets 0.06
+Zx6ninja_66 folds
+Jerome91680 folds
+manggy94 collected 0.12 from pot
+*** SUMMARY ***
+Total pot 0.12 | No rake
+Board: [3s 2h 7s]
+Seat 5: manggy94 (button) won 0.12
+
+
+Winamax Poker - CashGame - HandId: #7820495-1606-1438866330 - Holdem no limit (0.01/0.02) - 2015/08/06 13:05:30 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #3 is the button
+Seat 1: bigbag91 (2)
+Seat 2: Briice91 (1.82)
+Seat 3: Zx6ninja_66 (3.70)
+Seat 4: Jerome91680 (1.98)
+Seat 5: manggy94 (10.89)
+*** ANTE/BLINDS ***
+Jerome91680 posts small blind 0.01
+manggy94 posts big blind 0.02
+bigbag91 posts big blind 0.02 out of position
+Dealt to manggy94 [Kd Jc]
+*** PRE-FLOP *** 
+bigbag91 checks
+Zx6ninja_66 folds
+Jerome91680 calls 0.01
+manggy94 checks
+*** FLOP *** [Th Tc Kh]
+Jerome91680 checks
+manggy94 bets 0.06
+bigbag91 calls 0.06
+Jerome91680 folds
+*** TURN *** [Th Tc Kh][8d]
+manggy94 bets 0.18
+bigbag91 calls 0.18
+*** RIVER *** [Th Tc Kh 8d][Ac]
+manggy94 bets 0.54
+bigbag91 raises 0.54 to 1.08
+manggy94 calls 0.54
+*** SHOW DOWN ***
+manggy94 shows [Kd Jc] (Two pairs : Kings and Tens)
+bigbag91 shows [5d Ah] (Two pairs : Aces and Tens)
+bigbag91 collected 2.52 from pot
+*** SUMMARY ***
+Total pot 2.52 | Rake 0.18
+Board: [Th Tc Kh 8d Ac]
+Seat 1: bigbag91 showed [5d Ah] and won 2.52 with Two pairs : Aces and Tens
+Seat 5: manggy94 (big blind) showed [Kd Jc] and lost with Two pairs : Kings and Tens
+
+
+Winamax Poker - CashGame - HandId: #7820495-1611-1438866569 - Holdem no limit (0.01/0.02) - 2015/08/06 13:09:29 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #4 is the button
+Seat 1: bigbag91 (6.09)
+Seat 2: manggy94 (9.54)
+Seat 3: Zx6ninja_66 (2.04)
+Seat 4: Jerome91680 (1.97)
+Seat 5: ALIEEN (1.80)
+*** ANTE/BLINDS ***
+ALIEEN posts small blind 0.01
+bigbag91 posts big blind 0.02
+Dealt to manggy94 [2s 4s]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+Zx6ninja_66 calls 0.02
+Jerome91680 folds
+ALIEEN calls 0.01
+bigbag91 raises 0.02 to 0.04
+manggy94 calls 0.02
+Zx6ninja_66 calls 0.02
+ALIEEN calls 0.02
+*** FLOP *** [5s 4d 7d]
+ALIEEN bets 0.16
+bigbag91 raises 0.16 to 0.32
+manggy94 folds
+Zx6ninja_66 folds
+ALIEEN calls 0.16
+*** TURN *** [5s 4d 7d][Qc]
+ALIEEN checks
+bigbag91 bets 1.42
+ALIEEN calls 1.42
+*** RIVER *** [5s 4d 7d Qc][4h]
+ALIEEN checks
+bigbag91 checks
+*** SHOW DOWN ***
+ALIEEN shows [2c 3c] (One pair : 4)
+bigbag91 shows [Ad 6d] (One pair : 4)
+bigbag91 collected 3.40 from pot
+*** SUMMARY ***
+Total pot 3.40 | Rake 0.24
+Board: [5s 4d 7d Qc 4h]
+Seat 1: bigbag91 (big blind) showed [Ad 6d] and won 3.40 with One pair : 4
+Seat 5: ALIEEN (small blind) showed [2c 3c] and lost with One pair : 4
+
+
+Winamax Poker - CashGame - HandId: #7820495-1612-1438866622 - Holdem no limit (0.01/0.02) - 2015/08/06 13:10:22 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #5 is the button
+Seat 1: bigbag91 (7.71)
+Seat 2: manggy94 (9.50)
+Seat 3: Zx6ninja_66 (2)
+Seat 4: Jerome91680 (1.97)
+Seat 5: ALIEEN (0.02)
+*** ANTE/BLINDS ***
+bigbag91 posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [5h Qs]
+*** PRE-FLOP *** 
+Zx6ninja_66 calls 0.02
+Jerome91680 calls 0.02
+ALIEEN calls 0.02 and is all-in
+bigbag91 calls 0.01
+manggy94 checks
+*** FLOP *** [Jc Ks 8d]
+bigbag91 checks
+manggy94 checks
+Zx6ninja_66 checks
+Jerome91680 checks
+*** TURN *** [Jc Ks 8d][Qh]
+bigbag91 checks
+manggy94 checks
+Zx6ninja_66 checks
+Jerome91680 checks
+*** RIVER *** [Jc Ks 8d Qh][2c]
+bigbag91 checks
+manggy94 checks
+Zx6ninja_66 checks
+Jerome91680 checks
+*** SHOW DOWN ***
+bigbag91 shows [9s 6h] (High card : King)
+Zx6ninja_66 shows [Tc Th] (One pair : Tens)
+Jerome91680 shows [7d 6d] (High card : King)
+ALIEEN shows [Ad 7c] (High card : Ace)
+manggy94 shows [5h Qs] (One pair : Queens)
+manggy94 collected 0.09 from pot
+*** SUMMARY ***
+Total pot 0.09 | Rake 0.01
+Board: [Jc Ks 8d Qh 2c]
+Seat 1: bigbag91 (small blind) showed [9s 6h] and lost with High card : King
+Seat 2: manggy94 (big blind) showed [5h Qs] and won 0.09 with One pair : Queens
+Seat 3: Zx6ninja_66 showed [Tc Th] and lost with One pair : Tens
+Seat 4: Jerome91680 showed [7d 6d] and lost with High card : King
+Seat 5: ALIEEN (button) showed [Ad 7c] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #7820495-1613-1438866675 - Holdem no limit (0.01/0.02) - 2015/08/06 13:11:15 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #1 is the button
+Seat 1: bigbag91 (7.69)
+Seat 2: manggy94 (9.57)
+Seat 3: Zx6ninja_66 (2)
+Seat 4: Jerome91680 (1.95)
+Seat 5: ALIEEN (2)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+Zx6ninja_66 posts big blind 0.02
+Dealt to manggy94 [4s As]
+*** PRE-FLOP *** 
+Jerome91680 calls 0.02
+ALIEEN raises 1.98 to 2 and is all-in
+bigbag91 calls 2
+manggy94 calls 1.99
+Zx6ninja_66 folds
+Jerome91680 folds
+*** FLOP *** [Td 9c Qc]
+manggy94 checks
+bigbag91 checks
+*** TURN *** [Td 9c Qc][7d]
+manggy94 checks
+bigbag91 checks
+*** RIVER *** [Td 9c Qc 7d][9d]
+manggy94 checks
+bigbag91 checks
+*** SHOW DOWN ***
+bigbag91 shows [8h 3h] (One pair : 9)
+manggy94 shows [4s As] (One pair : 9)
+ALIEEN shows [8c Ah] (One pair : 9)
+ALIEEN collected 2.83 from pot
+manggy94 collected 2.82 from pot
+*** SUMMARY ***
+Total pot 5.65 | Rake 0.39
+Board: [Td 9c Qc 7d 9d]
+Seat 1: bigbag91 (button) showed [8h 3h] and lost with One pair : 9
+Seat 2: manggy94 (small blind) showed [4s As] and won 2.82 with One pair : 9
+Seat 5: ALIEEN showed [8c Ah] and won 2.83 with One pair : 9
+
+
+Winamax Poker - CashGame - HandId: #7820495-1614-1438866718 - Holdem no limit (0.01/0.02) - 2015/08/06 13:11:58 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #2 is the button
+Seat 1: bigbag91 (5.69)
+Seat 2: manggy94 (10.39)
+Seat 3: Zx6ninja_66 (2)
+Seat 4: Jerome91680 (1.93)
+Seat 5: ALIEEN (2.83)
+*** ANTE/BLINDS ***
+Zx6ninja_66 posts small blind 0.01
+Jerome91680 posts big blind 0.02
+Dealt to manggy94 [9s 4h]
+*** PRE-FLOP *** 
+ALIEEN calls 0.02
+bigbag91 raises 1.66 to 1.68
+manggy94 folds
+Zx6ninja_66 folds
+Jerome91680 folds
+ALIEEN folds
+bigbag91 collected 1.73 from pot
+*** SUMMARY ***
+Total pot 1.73 | No rake
+Seat 1: bigbag91 won 1.73
+
+
+Winamax Poker - CashGame - HandId: #7820495-1615-1438866735 - Holdem no limit (0.01/0.02) - 2015/08/06 13:12:15 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #3 is the button
+Seat 1: bigbag91 (5.74)
+Seat 2: manggy94 (10.39)
+Seat 3: Zx6ninja_66 (2)
+Seat 4: Jerome91680 (1.91)
+Seat 5: ALIEEN (2.81)
+*** ANTE/BLINDS ***
+Jerome91680 posts small blind 0.01
+ALIEEN posts big blind 0.02
+Dealt to manggy94 [2d 6s]
+*** PRE-FLOP *** 
+bigbag91 raises 1.09 to 1.11
+manggy94 folds
+Zx6ninja_66 raises 0.89 to 2 and is all-in
+Jerome91680 folds
+ALIEEN folds
+bigbag91 calls 0.89
+*** FLOP *** [7c Ah 2h]
+*** TURN *** [7c Ah 2h][Ts]
+*** RIVER *** [7c Ah 2h Ts][Qh]
+*** SHOW DOWN ***
+bigbag91 shows [7h 5c] (One pair : 7)
+Zx6ninja_66 shows [Ad Jh] (One pair : Aces)
+Zx6ninja_66 collected 3.77 from pot
+*** SUMMARY ***
+Total pot 3.77 | Rake 0.26
+Board: [7c Ah 2h Ts Qh]
+Seat 1: bigbag91 showed [7h 5c] and lost with One pair : 7
+Seat 3: Zx6ninja_66 (button) showed [Ad Jh] and won 3.77 with One pair : Aces
+
+
+Winamax Poker - CashGame - HandId: #7820495-1616-1438866752 - Holdem no limit (0.01/0.02) - 2015/08/06 13:12:32 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #4 is the button
+Seat 1: bigbag91 (3.74)
+Seat 2: manggy94 (10.39)
+Seat 3: Zx6ninja_66 (3.77)
+Seat 4: Jerome91680 (1.90)
+Seat 5: ALIEEN (2.79)
+*** ANTE/BLINDS ***
+ALIEEN posts small blind 0.01
+bigbag91 posts big blind 0.02
+Dealt to manggy94 [6c 3c]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+Zx6ninja_66 calls 0.02
+Jerome91680 calls 0.02
+ALIEEN raises 2.77 to 2.79 and is all-in
+bigbag91 calls 2.77
+manggy94 folds
+Zx6ninja_66 folds
+Jerome91680 folds
+*** FLOP *** [8c 4c 7d]
+*** TURN *** [8c 4c 7d][4h]
+*** RIVER *** [8c 4c 7d 4h][Jd]
+*** SHOW DOWN ***
+bigbag91 shows [Tc Kd] (One pair : 4)
+ALIEEN shows [Jh As] (Two pairs : Jacks and 4)
+ALIEEN collected 5.27 from pot
+*** SUMMARY ***
+Total pot 5.27 | Rake 0.37
+Board: [8c 4c 7d 4h Jd]
+Seat 1: bigbag91 (big blind) showed [Tc Kd] and lost with One pair : 4
+Seat 5: ALIEEN (small blind) showed [Jh As] and won 5.27 with Two pairs : Jacks and 4
+
+
+Winamax Poker - CashGame - HandId: #7820495-1617-1438866796 - Holdem no limit (0.01/0.02) - 2015/08/06 13:13:16 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #5 is the button
+Seat 1: bigbag91 (0.95)
+Seat 2: manggy94 (10.37)
+Seat 3: Zx6ninja_66 (3.75)
+Seat 4: Jerome91680 (1.88)
+Seat 5: ALIEEN (5.27)
+*** ANTE/BLINDS ***
+bigbag91 posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [Qc 5s]
+*** PRE-FLOP *** 
+Zx6ninja_66 calls 0.02
+Jerome91680 folds
+ALIEEN calls 0.02
+bigbag91 raises 0.93 to 0.95 and is all-in
+manggy94 folds
+Zx6ninja_66 calls 0.93
+ALIEEN folds
+*** FLOP *** [9s 2s 3s]
+*** TURN *** [9s 2s 3s][As]
+*** RIVER *** [9s 2s 3s As][Jh]
+*** SHOW DOWN ***
+Zx6ninja_66 shows [8s 8h] (Flush Ace high)
+bigbag91 shows [Js 4d] (Flush Ace high)
+bigbag91 collected 1.81 from pot
+*** SUMMARY ***
+Total pot 1.81 | Rake 0.13
+Board: [9s 2s 3s As Jh]
+Seat 1: bigbag91 (small blind) showed [Js 4d] and won 1.81 with Flush Ace high
+Seat 3: Zx6ninja_66 showed [8s 8h] and lost with Flush Ace high
+
+
+Winamax Poker - CashGame - HandId: #7820495-1618-1438866835 - Holdem no limit (0.01/0.02) - 2015/08/06 13:13:55 UTC
+Table: 'Wichita 04' 5-max (play money) Seat #1 is the button
+Seat 1: bigbag91 (1.81)
+Seat 2: manggy94 (10.35)
+Seat 3: Zx6ninja_66 (2.80)
+Seat 4: Jerome91680 (1.88)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+Zx6ninja_66 posts big blind 0.02
+Dealt to manggy94 [8c 8h]
+*** PRE-FLOP *** 
+Jerome91680 calls 0.02
+bigbag91 folds
+manggy94 calls 0.01
+Zx6ninja_66 checks
+*** FLOP *** [7s 7d 4d]
+manggy94 bets 1.25
+Zx6ninja_66 folds
+Jerome91680 folds
+manggy94 collected 1.31 from pot
+*** SUMMARY ***
+Total pot 1.31 | No rake
+Board: [7s 7d 4d]
+Seat 2: manggy94 (small blind) won 1.31
+
+

@@ -1,0 +1,86 @@
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level:  - HandId: #797648887987830915-1-1487542332 - Holdem no limit (40/250/500) - 2017/02/19 22:12:12 UTC
+Table: 'AFTER FOOT(185717104)#130' 6-max (real money) Seat #4 is the button
+Seat 1: AirWhine (10000)
+Seat 2: manggy94 (10000)
+Seat 3: karail16 (10000)
+Seat 4: xabou (10000)
+Seat 6: Deissox (10000)
+*** ANTE/BLINDS ***
+Deissox posts ante 40
+manggy94 posts ante 40
+karail16 posts ante 40
+xabou posts ante 40
+Deissox posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [7d 7c]
+*** PRE-FLOP *** 
+karail16 calls 500
+xabou raises 1000 to 1500
+Deissox calls 1250
+manggy94 calls 1000
+karail16 calls 1000
+*** FLOP *** [6c 9s 3h]
+Deissox bets 8460 and is all-in
+manggy94 calls 8460 and is all-in
+karail16 folds
+xabou folds
+*** TURN *** [6c 9s 3h][9d]
+*** RIVER *** [6c 9s 3h 9d][8d]
+*** SHOW DOWN ***
+manggy94 shows [7d 7c] (Two pairs : 9 and 7)
+Deissox shows [8h Td] (Two pairs : 9 and 8)
+Deissox collected 23080 from pot
+*** SUMMARY ***
+Total pot 23080 | No rake
+Board: [6c 9s 3h 9d 8d]
+Seat 2: manggy94 (big blind) showed [7d 7c] and lost with Two pairs : 9 and 7
+Seat 6: Deissox (small blind) showed [8h Td] and won 23080 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "AFTER FOOT" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #797648887987830823-26-1487542387 - Holdem no limit (40/250/500) - 2017/02/19 22:13:07 UTC
+Table: 'AFTER FOOT(185717104)#038' 6-max (real money) Seat #4 is the button
+Seat 1: OiseSide60 (74241)
+Seat 2: slow jigging (5048)
+Seat 3: LABOITEAKAKA (51521)
+Seat 4: JACKSONNAY (10445)
+Seat 5: Rackor94 (8820)
+Seat 6: manggy94 (10000)
+*** ANTE/BLINDS ***
+Rackor94 posts ante 40
+manggy94 posts ante 40
+OiseSide60 posts ante 40
+slow jigging posts ante 40
+LABOITEAKAKA posts ante 40
+JACKSONNAY posts ante 40
+Rackor94 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [Jc 9s]
+*** PRE-FLOP *** 
+OiseSide60 folds
+slow jigging folds
+LABOITEAKAKA calls 500
+JACKSONNAY folds
+Rackor94 folds
+manggy94 checks
+*** FLOP *** [9c 8h Kh]
+manggy94 checks
+LABOITEAKAKA bets 500
+manggy94 raises 995 to 1495
+LABOITEAKAKA raises 2245 to 3740
+manggy94 calls 2245
+*** TURN *** [9c 8h Kh][3h]
+manggy94 checks
+LABOITEAKAKA bets 8970
+manggy94 calls 5720 and is all-in
+*** RIVER *** [9c 8h Kh 3h][Tc]
+*** SHOW DOWN ***
+manggy94 shows [Jc 9s] (One pair : 9)
+LABOITEAKAKA shows [Ts Kd] (Two pairs : Kings and Tens)
+LABOITEAKAKA collected 23660 from pot
+*** SUMMARY ***
+Total pot 23660 | No rake
+Board: [9c 8h Kh 3h Tc]
+Seat 3: LABOITEAKAKA showed [Ts Kd] and won 23660 with Two pairs : Kings and Tens
+Seat 6: manggy94 (big blind) showed [Jc 9s] and lost with One pair : 9
+
+

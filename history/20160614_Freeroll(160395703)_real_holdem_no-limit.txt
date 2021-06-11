@@ -1,0 +1,432 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: -1 - HandId: #688894298803929270-3-1465905818 - Holdem no limit (15/30) - 2016/06/14 12:03:38 UTC
+Table: 'Freeroll(160395703)#181' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (3000)
+Seat 2: boueniloto (3000)
+Seat 3: cazus76 (9040)
+Seat 5: KIDGUYVILLE (2990)
+Seat 6: 2DUDUCHE (2970)
+*** ANTE/BLINDS ***
+boueniloto posts big blind 30
+*** PRE-FLOP *** 
+cazus76 calls 30
+KIDGUYVILLE folds
+2DUDUCHE raises 60 to 90
+boueniloto folds
+cazus76 raises 60 to 150
+2DUDUCHE calls 60
+*** FLOP *** [3d 9c Ah]
+cazus76 checks
+2DUDUCHE checks
+*** TURN *** [3d 9c Ah][3h]
+cazus76 checks
+2DUDUCHE checks
+*** RIVER *** [3d 9c Ah 3h][Qc]
+cazus76 checks
+2DUDUCHE checks
+*** SHOW DOWN ***
+cazus76 shows [Kc Th] (One pair : 3)
+2DUDUCHE shows [4c 4s] (Two pairs : 4 and 3)
+2DUDUCHE collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [3d 9c Ah 3h Qc]
+Seat 3: cazus76 showed [Kc Th] and lost with One pair : 3
+Seat 6: 2DUDUCHE (button) showed [4c 4s] and won 330 with Two pairs : 4 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #688894298803929270-4-1465905846 - Holdem no limit (15/30) - 2016/06/14 12:04:06 UTC
+Table: 'Freeroll(160395703)#181' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (3000)
+Seat 2: boueniloto (2970)
+Seat 3: cazus76 (8890)
+Seat 4: moumouh72000 (3000)
+Seat 5: KIDGUYVILLE (2990)
+Seat 6: 2DUDUCHE (3150)
+*** ANTE/BLINDS ***
+boueniloto posts small blind 15
+cazus76 posts big blind 30
+*** PRE-FLOP *** 
+moumouh72000 raises 2970 to 3000 and is all-in
+KIDGUYVILLE folds
+2DUDUCHE folds
+boueniloto folds
+cazus76 folds
+moumouh72000 collected 3045 from pot
+*** SUMMARY ***
+Total pot 3045 | No rake
+Seat 4: moumouh72000 won 3045
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #688894298803929270-5-1465905880 - Holdem no limit (15/30) - 2016/06/14 12:04:40 UTC
+Table: 'Freeroll(160395703)#181' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (3000)
+Seat 2: boueniloto (2955)
+Seat 3: cazus76 (8860)
+Seat 4: moumouh72000 (3045)
+Seat 5: KIDGUYVILLE (2990)
+Seat 6: 2DUDUCHE (3150)
+*** ANTE/BLINDS ***
+cazus76 posts small blind 15
+moumouh72000 posts big blind 30
+Dealt to manggy94 [As 6c]
+*** PRE-FLOP *** 
+KIDGUYVILLE folds
+2DUDUCHE raises 30 to 60
+manggy94 raises 165 to 225
+boueniloto folds
+cazus76 folds
+moumouh72000 raises 2820 to 3045 and is all-in
+2DUDUCHE folds
+manggy94 calls 2775 and is all-in
+*** FLOP *** [2c Kd 7d]
+*** TURN *** [2c Kd 7d][5d]
+*** RIVER *** [2c Kd 7d 5d][8s]
+*** SHOW DOWN ***
+manggy94 shows [As 6c] (High card : Ace)
+moumouh72000 shows [Ah 3s] (High card : Ace)
+moumouh72000 collected 45 from side pot 1
+manggy94 collected 6075 from main pot
+*** SUMMARY ***
+Total pot 6120 | No rake
+Board: [2c Kd 7d 5d 8s]
+Seat 1: manggy94 showed [As 6c] and won 6075 with High card : Ace
+Seat 4: moumouh72000 (big blind) showed [Ah 3s] and won 45 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #688894298803929270-6-1465905903 - Holdem no limit (15/30) - 2016/06/14 12:05:03 UTC
+Table: 'Freeroll(160395703)#181' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (6075)
+Seat 2: boueniloto (2955)
+Seat 3: cazus76 (8845)
+Seat 4: moumouh72000 (45)
+Seat 5: KIDGUYVILLE (2990)
+Seat 6: 2DUDUCHE (3090)
+*** ANTE/BLINDS ***
+moumouh72000 posts small blind 15
+KIDGUYVILLE posts big blind 30
+Dealt to manggy94 [8h Qd]
+*** PRE-FLOP *** 
+2DUDUCHE raises 30 to 60
+manggy94 calls 60
+boueniloto folds
+cazus76 folds
+moumouh72000 calls 30 and is all-in
+KIDGUYVILLE calls 30
+*** FLOP *** [As 2s 7s]
+KIDGUYVILLE bets 30
+2DUDUCHE folds
+manggy94 folds
+*** TURN *** [As 2s 7s][2d]
+*** RIVER *** [As 2s 7s 2d][8d]
+*** SHOW DOWN ***
+moumouh72000 shows [Kd Th] (One pair : 2)
+KIDGUYVILLE shows [Td Ks] (One pair : 2)
+KIDGUYVILLE collected 165 from side pot 1
+moumouh72000 collected 90 from main pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Board: [As 2s 7s 2d 8d]
+Seat 4: moumouh72000 (small blind) showed [Kd Th] and won 90 with One pair : 2
+Seat 5: KIDGUYVILLE (big blind) showed [Td Ks] and won 165 with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #688894298803929270-7-1465905925 - Holdem no limit (15/30) - 2016/06/14 12:05:25 UTC
+Table: 'Freeroll(160395703)#181' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (6015)
+Seat 2: boueniloto (2955)
+Seat 3: cazus76 (8845)
+Seat 4: moumouh72000 (90)
+Seat 5: KIDGUYVILLE (3065)
+Seat 6: 2DUDUCHE (3030)
+*** ANTE/BLINDS ***
+KIDGUYVILLE posts small blind 15
+2DUDUCHE posts big blind 30
+Dealt to manggy94 [5d 5s]
+*** PRE-FLOP *** 
+manggy94 raises 60 to 90
+boueniloto folds
+cazus76 folds
+moumouh72000 calls 90 and is all-in
+KIDGUYVILLE calls 75
+2DUDUCHE calls 60
+*** FLOP *** [3h 7h 9h]
+KIDGUYVILLE checks
+2DUDUCHE bets 45
+manggy94 raises 450 to 495
+KIDGUYVILLE calls 495
+2DUDUCHE folds
+*** TURN *** [3h 7h 9h][7s]
+KIDGUYVILLE bets 2480 and is all-in
+manggy94 calls 2480
+*** RIVER *** [3h 7h 9h 7s][Qc]
+*** SHOW DOWN ***
+manggy94 shows [5d 5s] (Two pairs : 7 and 5)
+moumouh72000 shows [Qd Qs] (Full of Queens and 7)
+KIDGUYVILLE shows [6h 8h] (Flush 9 high)
+KIDGUYVILLE collected 5995 from side pot 1
+moumouh72000 collected 360 from main pot
+*** SUMMARY ***
+Total pot 6355 | No rake
+Board: [3h 7h 9h 7s Qc]
+Seat 1: manggy94 showed [5d 5s] and lost with Two pairs : 7 and 5
+Seat 4: moumouh72000 (button) showed [Qd Qs] and won 360 with Full of Queens and 7
+Seat 5: KIDGUYVILLE (small blind) showed [6h 8h] and won 5995 with Flush 9 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #688894298803929270-8-1465905967 - Holdem no limit (15/30) - 2016/06/14 12:06:07 UTC
+Table: 'Freeroll(160395703)#181' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (2950)
+Seat 2: boueniloto (2955)
+Seat 3: cazus76 (8845)
+Seat 4: moumouh72000 (360)
+Seat 5: KIDGUYVILLE (5995)
+Seat 6: 2DUDUCHE (2895)
+*** ANTE/BLINDS ***
+2DUDUCHE posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [7h 9c]
+*** PRE-FLOP *** 
+boueniloto folds
+cazus76 folds
+moumouh72000 raises 330 to 360 and is all-in
+KIDGUYVILLE calls 360
+2DUDUCHE calls 345
+manggy94 folds
+*** FLOP *** [2h 2c 3c]
+2DUDUCHE checks
+KIDGUYVILLE checks
+*** TURN *** [2h 2c 3c][5c]
+2DUDUCHE checks
+KIDGUYVILLE checks
+*** RIVER *** [2h 2c 3c 5c][5d]
+2DUDUCHE checks
+KIDGUYVILLE bets 1110
+2DUDUCHE folds
+*** SHOW DOWN ***
+moumouh72000 shows [Kc Ad] (Two pairs : 5 and 2)
+KIDGUYVILLE shows [7s Ah] (Two pairs : 5 and 2)
+KIDGUYVILLE collected 1665 from side pot 1
+moumouh72000 collected 555 from main pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [2h 2c 3c 5c 5d]
+Seat 4: moumouh72000 showed [Kc Ad] and won 555 with Two pairs : 5 and 2
+Seat 5: KIDGUYVILLE (button) showed [7s Ah] and won 1665 with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #688894298803929270-9-1465906010 - Holdem no limit (20/40) - 2016/06/14 12:06:50 UTC
+Table: 'Freeroll(160395703)#181' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (2920)
+Seat 2: boueniloto (2955)
+Seat 3: cazus76 (8845)
+Seat 4: moumouh72000 (555)
+Seat 5: KIDGUYVILLE (6190)
+Seat 6: 2DUDUCHE (2535)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+boueniloto posts big blind 40
+Dealt to manggy94 [9d 6h]
+*** PRE-FLOP *** 
+cazus76 folds
+moumouh72000 raises 515 to 555 and is all-in
+KIDGUYVILLE folds
+2DUDUCHE calls 555
+manggy94 folds
+boueniloto folds
+*** FLOP *** [4h Ah Jd]
+*** TURN *** [4h Ah Jd][7s]
+*** RIVER *** [4h Ah Jd 7s][4c]
+*** SHOW DOWN ***
+2DUDUCHE shows [9c 3s] (One pair : 4)
+moumouh72000 shows [7d 2d] (Two pairs : 7 and 4)
+moumouh72000 collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | No rake
+Board: [4h Ah Jd 7s 4c]
+Seat 4: moumouh72000 showed [7d 2d] and won 1170 with Two pairs : 7 and 4
+Seat 6: 2DUDUCHE (button) showed [9c 3s] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #688894298803929270-10-1465906054 - Holdem no limit (20/40) - 2016/06/14 12:07:34 UTC
+Table: 'Freeroll(160395703)#181' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (2900)
+Seat 2: boueniloto (2915)
+Seat 3: cazus76 (8845)
+Seat 4: moumouh72000 (1170)
+Seat 5: KIDGUYVILLE (6190)
+Seat 6: 2DUDUCHE (1980)
+*** ANTE/BLINDS ***
+boueniloto posts small blind 20
+cazus76 posts big blind 40
+Dealt to manggy94 [9s Th]
+*** PRE-FLOP *** 
+moumouh72000 folds
+KIDGUYVILLE calls 40
+2DUDUCHE raises 1940 to 1980 and is all-in
+manggy94 folds
+boueniloto folds
+cazus76 folds
+KIDGUYVILLE folds
+2DUDUCHE collected 2080 from pot
+*** SUMMARY ***
+Total pot 2080 | No rake
+Seat 6: 2DUDUCHE won 2080
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #688894298803929270-11-1465906081 - Holdem no limit (20/40) - 2016/06/14 12:08:01 UTC
+Table: 'Freeroll(160395703)#181' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (2900)
+Seat 2: boueniloto (2895)
+Seat 3: cazus76 (8805)
+Seat 4: moumouh72000 (1170)
+Seat 5: KIDGUYVILLE (6150)
+Seat 6: 2DUDUCHE (2080)
+*** ANTE/BLINDS ***
+cazus76 posts small blind 20
+moumouh72000 posts big blind 40
+Dealt to manggy94 [Qc 7h]
+*** PRE-FLOP *** 
+KIDGUYVILLE calls 40
+2DUDUCHE calls 40
+manggy94 calls 40
+boueniloto folds
+cazus76 calls 20
+moumouh72000 checks
+*** FLOP *** [Qs 9s Ad]
+cazus76 checks
+moumouh72000 checks
+KIDGUYVILLE bets 40
+2DUDUCHE calls 40
+manggy94 calls 40
+cazus76 calls 40
+moumouh72000 folds
+*** TURN *** [Qs 9s Ad][2c]
+cazus76 checks
+KIDGUYVILLE checks
+2DUDUCHE checks
+manggy94 checks
+*** RIVER *** [Qs 9s Ad 2c][Qd]
+cazus76 checks
+KIDGUYVILLE checks
+2DUDUCHE checks
+manggy94 bets 1180
+cazus76 folds
+KIDGUYVILLE folds
+2DUDUCHE folds
+manggy94 collected 1540 from pot
+*** SUMMARY ***
+Total pot 1540 | No rake
+Board: [Qs 9s Ad 2c Qd]
+Seat 1: manggy94 won 1540
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #688894298803929270-12-1465906140 - Holdem no limit (20/40) - 2016/06/14 12:09:00 UTC
+Table: 'Freeroll(160395703)#181' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (3180)
+Seat 2: boueniloto (2895)
+Seat 3: cazus76 (8725)
+Seat 4: moumouh72000 (1130)
+Seat 5: KIDGUYVILLE (6070)
+Seat 6: 2DUDUCHE (2000)
+*** ANTE/BLINDS ***
+moumouh72000 posts small blind 20
+KIDGUYVILLE posts big blind 40
+Dealt to manggy94 [8h 9h]
+*** PRE-FLOP *** 
+2DUDUCHE calls 40
+manggy94 calls 40
+boueniloto folds
+cazus76 raises 80 to 120
+moumouh72000 folds
+KIDGUYVILLE calls 80
+2DUDUCHE calls 80
+manggy94 calls 80
+*** FLOP *** [7c As 5s]
+KIDGUYVILLE checks
+2DUDUCHE checks
+manggy94 bets 40
+cazus76 calls 40
+KIDGUYVILLE calls 40
+2DUDUCHE folds
+*** TURN *** [7c As 5s][Ah]
+KIDGUYVILLE checks
+manggy94 checks
+cazus76 checks
+*** RIVER *** [7c As 5s Ah][3c]
+KIDGUYVILLE bets 620
+manggy94 folds
+cazus76 folds
+KIDGUYVILLE collected 1240 from pot
+*** SUMMARY ***
+Total pot 1240 | No rake
+Board: [7c As 5s Ah 3c]
+Seat 5: KIDGUYVILLE (big blind) won 1240
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #688894298803929270-13-1465906183 - Holdem no limit (30/60) - 2016/06/14 12:09:43 UTC
+Table: 'Freeroll(160395703)#181' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (3020)
+Seat 2: boueniloto (2895)
+Seat 3: cazus76 (8565)
+Seat 4: moumouh72000 (1110)
+Seat 5: KIDGUYVILLE (6530)
+Seat 6: 2DUDUCHE (1880)
+*** ANTE/BLINDS ***
+KIDGUYVILLE posts small blind 30
+2DUDUCHE posts big blind 60
+Dealt to manggy94 [Kh Kd]
+*** PRE-FLOP *** 
+manggy94 raises 150 to 210
+boueniloto folds
+cazus76 folds
+moumouh72000 raises 900 to 1110 and is all-in
+KIDGUYVILLE folds
+2DUDUCHE folds
+manggy94 calls 900
+*** FLOP *** [7h 8s 9h]
+*** TURN *** [7h 8s 9h][Ac]
+*** RIVER *** [7h 8s 9h Ac][4d]
+*** SHOW DOWN ***
+manggy94 shows [Kh Kd] (One pair : Kings)
+moumouh72000 shows [Ad 5d] (One pair : Aces)
+moumouh72000 collected 2310 from pot
+*** SUMMARY ***
+Total pot 2310 | No rake
+Board: [7h 8s 9h Ac 4d]
+Seat 1: manggy94 showed [Kh Kd] and lost with One pair : Kings
+Seat 4: moumouh72000 (button) showed [Ad 5d] and won 2310 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #688894298803929270-14-1465906207 - Holdem no limit (30/60) - 2016/06/14 12:10:07 UTC
+Table: 'Freeroll(160395703)#181' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (1910)
+Seat 2: boueniloto (2895)
+Seat 3: cazus76 (8565)
+Seat 4: moumouh72000 (2310)
+Seat 5: KIDGUYVILLE (6500)
+Seat 6: 2DUDUCHE (1820)
+*** ANTE/BLINDS ***
+2DUDUCHE posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [8d 8s]
+*** PRE-FLOP *** 
+boueniloto folds
+cazus76 folds
+moumouh72000 raises 2250 to 2310 and is all-in
+KIDGUYVILLE folds
+2DUDUCHE folds
+manggy94 calls 1850 and is all-in
+*** FLOP *** [3c 3s 4s]
+*** TURN *** [3c 3s 4s][9d]
+*** RIVER *** [3c 3s 4s 9d][3h]
+*** SHOW DOWN ***
+manggy94 shows [8d 8s] (Full of 3 and 8)
+moumouh72000 shows [9s Tc] (Full of 3 and 9)
+moumouh72000 collected 4250 from pot
+*** SUMMARY ***
+Total pot 4250 | No rake
+Board: [3c 3s 4s 9d 3h]
+Seat 1: manggy94 (big blind) showed [8d 8s] and lost with Full of 3 and 8
+Seat 4: moumouh72000 showed [9s Tc] and won 4250 with Full of 3 and 9
+
+

@@ -1,0 +1,494 @@
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level:  - HandId: #689311185509548052-1-1465985783 - Holdem no limit (25/50) - 2016/06/15 10:16:23 UTC
+Table: 'FAST FOOD(160492767)#019' 8-max (real money) Seat #8 is the button
+Seat 2: ptitepucelov (10000)
+Seat 4: Alexmerc (9950)
+Seat 5: manggy94 (10000)
+Seat 8: chinoisx (10000)
+*** ANTE/BLINDS ***
+Alexmerc posts small blind 25
+manggy94 posts big blind 50
+Dealt to manggy94 [4h Td]
+*** PRE-FLOP *** 
+chinoisx folds
+Alexmerc raises 100 to 150
+manggy94 calls 100
+*** FLOP *** [9h 7s 3h]
+Alexmerc checks
+manggy94 bets 150
+Alexmerc folds
+manggy94 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [9h 7s 3h]
+Seat 5: manggy94 (big blind) won 450
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level:  - HandId: #689311185509548052-2-1465985804 - Holdem no limit (25/50) - 2016/06/15 10:16:44 UTC
+Table: 'FAST FOOD(160492767)#019' 8-max (real money) Seat #4 is the button
+Seat 1: Snfly (10000)
+Seat 2: ptitepucelov (10000)
+Seat 3: 4mypyps (10000)
+Seat 5: manggy94 (10150)
+Seat 6: LecheMwaWin (10000)
+Seat 7: 1C100N (10000)
+Seat 8: chinoisx (10000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 25
+LecheMwaWin posts big blind 50
+Dealt to manggy94 [Kc 7h]
+*** PRE-FLOP *** 
+1C100N folds
+chinoisx raises 75 to 125
+Snfly folds
+ptitepucelov folds
+4mypyps calls 125
+manggy94 folds
+LecheMwaWin calls 75
+*** FLOP *** [Ac 3h 4c]
+LecheMwaWin checks
+chinoisx bets 200
+4mypyps calls 200
+LecheMwaWin calls 200
+*** TURN *** [Ac 3h 4c][Jd]
+LecheMwaWin checks
+chinoisx bets 325
+4mypyps calls 325
+LecheMwaWin folds
+*** RIVER *** [Ac 3h 4c Jd][2c]
+chinoisx checks
+4mypyps checks
+*** SHOW DOWN ***
+chinoisx shows [Ad 8d] (One pair : Aces)
+4mypyps shows [Js 3s] (Two pairs : Jacks and 3)
+4mypyps collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Board: [Ac 3h 4c Jd 2c]
+Seat 3: 4mypyps showed [Js 3s] and won 1650 with Two pairs : Jacks and 3
+Seat 8: chinoisx showed [Ad 8d] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #689311185509548052-3-1465985884 - Holdem no limit (50/100) - 2016/06/15 10:18:04 UTC
+Table: 'FAST FOOD(160492767)#019' 8-max (real money) Seat #5 is the button
+Seat 1: Snfly (10000)
+Seat 2: ptitepucelov (10000)
+Seat 3: 4mypyps (11000)
+Seat 4: GlesCROC (10000)
+Seat 5: manggy94 (10125)
+Seat 6: LecheMwaWin (9675)
+Seat 7: 1C100N (10000)
+Seat 8: chinoisx (9350)
+*** ANTE/BLINDS ***
+LecheMwaWin posts small blind 50
+1C100N posts big blind 100
+Dealt to manggy94 [Th Kd]
+*** PRE-FLOP *** 
+chinoisx raises 100 to 200
+Snfly folds
+ptitepucelov raises 400 to 600
+4mypyps folds
+GlesCROC calls 600
+manggy94 calls 600
+LecheMwaWin folds
+1C100N folds
+chinoisx calls 400
+*** FLOP *** [5d 4h 4c]
+chinoisx checks
+ptitepucelov bets 1913
+GlesCROC calls 1913
+manggy94 folds
+chinoisx folds
+*** TURN *** [5d 4h 4c][2s]
+ptitepucelov bets 7487 and is all-in
+GlesCROC calls 7487 and is all-in
+*** RIVER *** [5d 4h 4c 2s][Ad]
+*** SHOW DOWN ***
+GlesCROC shows [3s 3c] (Straight 5 high)
+ptitepucelov shows [Ah Ac] (Full of Aces and 4)
+ptitepucelov collected 21350 from pot
+*** SUMMARY ***
+Total pot 21350 | No rake
+Board: [5d 4h 4c 2s Ad]
+Seat 2: ptitepucelov showed [Ah Ac] and won 21350 with Full of Aces and 4
+Seat 4: GlesCROC showed [3s 3c] and lost with Straight 5 high
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #689311185509548052-4-1465985922 - Holdem no limit (50/100) - 2016/06/15 10:18:42 UTC
+Table: 'FAST FOOD(160492767)#019' 8-max (real money) Seat #6 is the button
+Seat 1: Snfly (10000)
+Seat 2: ptitepucelov (21350)
+Seat 3: 4mypyps (11000)
+Seat 5: manggy94 (9525)
+Seat 6: LecheMwaWin (9625)
+Seat 7: 1C100N (9900)
+Seat 8: chinoisx (8750)
+*** ANTE/BLINDS ***
+1C100N posts small blind 50
+chinoisx posts big blind 100
+Dealt to manggy94 [Qs 7c]
+*** PRE-FLOP *** 
+Snfly folds
+ptitepucelov folds
+4mypyps folds
+manggy94 folds
+LecheMwaWin raises 100 to 200
+1C100N folds
+chinoisx calls 100
+*** FLOP *** [9c Qd 4d]
+chinoisx checks
+LecheMwaWin bets 300
+chinoisx folds
+LecheMwaWin collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [9c Qd 4d]
+Seat 6: LecheMwaWin (button) won 750
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #689311185509548052-5-1465985960 - Holdem no limit (50/100) - 2016/06/15 10:19:20 UTC
+Table: 'FAST FOOD(160492767)#019' 8-max (real money) Seat #7 is the button
+Seat 1: Snfly (10000)
+Seat 2: ptitepucelov (21350)
+Seat 3: 4mypyps (11000)
+Seat 4: CallMeMayB (10000)
+Seat 5: manggy94 (9525)
+Seat 6: LecheMwaWin (9875)
+Seat 7: 1C100N (9850)
+Seat 8: chinoisx (8550)
+*** ANTE/BLINDS ***
+chinoisx posts small blind 50
+Snfly posts big blind 100
+Dealt to manggy94 [Qc 6c]
+*** PRE-FLOP *** 
+ptitepucelov folds
+4mypyps folds
+CallMeMayB folds
+manggy94 folds
+LecheMwaWin folds
+1C100N raises 100 to 200
+chinoisx folds
+Snfly calls 100
+*** FLOP *** [5c Tc 9h]
+Snfly checks
+1C100N checks
+*** TURN *** [5c Tc 9h][4s]
+Snfly bets 350
+1C100N calls 350
+*** RIVER *** [5c Tc 9h 4s][Th]
+Snfly bets 863
+1C100N folds
+Snfly collected 2013 from pot
+*** SUMMARY ***
+Total pot 2013 | No rake
+Board: [5c Tc 9h 4s Th]
+Seat 1: Snfly (big blind) won 2013
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #689311185509548052-6-1465986010 - Holdem no limit (50/100) - 2016/06/15 10:20:10 UTC
+Table: 'FAST FOOD(160492767)#019' 8-max (real money) Seat #8 is the button
+Seat 1: Snfly (10600)
+Seat 2: ptitepucelov (21350)
+Seat 3: 4mypyps (11000)
+Seat 4: CallMeMayB (10000)
+Seat 5: manggy94 (9525)
+Seat 6: LecheMwaWin (9875)
+Seat 7: 1C100N (9300)
+Seat 8: chinoisx (8500)
+*** ANTE/BLINDS ***
+Snfly posts small blind 50
+ptitepucelov posts big blind 100
+Dealt to manggy94 [Qh 8c]
+*** PRE-FLOP *** 
+4mypyps folds
+CallMeMayB folds
+manggy94 folds
+LecheMwaWin folds
+1C100N raises 100 to 200
+chinoisx calls 200
+Snfly calls 150
+ptitepucelov calls 100
+*** FLOP *** [Jc 5h Td]
+Snfly checks
+ptitepucelov checks
+1C100N checks
+chinoisx bets 250
+Snfly folds
+ptitepucelov folds
+1C100N folds
+chinoisx collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [Jc 5h Td]
+Seat 8: chinoisx (button) won 1050
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #689311185509548052-7-1465986061 - Holdem no limit (75/150) - 2016/06/15 10:21:01 UTC
+Table: 'FAST FOOD(160492767)#019' 8-max (real money) Seat #1 is the button
+Seat 1: Snfly (10400)
+Seat 2: ptitepucelov (21150)
+Seat 3: 4mypyps (11000)
+Seat 4: CallMeMayB (10000)
+Seat 5: manggy94 (9525)
+Seat 6: LecheMwaWin (9875)
+Seat 7: 1C100N (9100)
+Seat 8: chinoisx (9100)
+*** ANTE/BLINDS ***
+ptitepucelov posts small blind 75
+4mypyps posts big blind 150
+Dealt to manggy94 [3s Qd]
+*** PRE-FLOP *** 
+CallMeMayB raises 300 to 450
+manggy94 folds
+LecheMwaWin folds
+1C100N calls 450
+chinoisx folds
+Snfly folds
+ptitepucelov raises 20700 to 21150 and is all-in
+4mypyps folds
+CallMeMayB calls 9550 and is all-in
+1C100N folds
+*** FLOP *** [2s Qc Kc]
+*** TURN *** [2s Qc Kc][8s]
+*** RIVER *** [2s Qc Kc 8s][Qs]
+*** SHOW DOWN ***
+CallMeMayB shows [Th Tc] (Two pairs : Queens and Tens)
+ptitepucelov shows [As Kh] (Two pairs : Kings and Queens)
+ptitepucelov collected 31750 from pot
+*** SUMMARY ***
+Total pot 31750 | No rake
+Board: [2s Qc Kc 8s Qs]
+Seat 2: ptitepucelov (small blind) showed [As Kh] and won 31750 with Two pairs : Kings and Queens
+Seat 4: CallMeMayB showed [Th Tc] and lost with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #689311185509548052-8-1465986114 - Holdem no limit (75/150) - 2016/06/15 10:21:54 UTC
+Table: 'FAST FOOD(160492767)#019' 8-max (real money) Seat #2 is the button
+Seat 1: Snfly (10400)
+Seat 2: ptitepucelov (31750)
+Seat 3: 4mypyps (10850)
+Seat 4: smsmvm (10000)
+Seat 5: manggy94 (9525)
+Seat 6: LecheMwaWin (9875)
+Seat 7: 1C100N (8650)
+Seat 8: chinoisx (9100)
+*** ANTE/BLINDS ***
+4mypyps posts small blind 75
+smsmvm posts big blind 150
+Dealt to manggy94 [3h Ks]
+*** PRE-FLOP *** 
+manggy94 calls 150
+LecheMwaWin calls 150
+1C100N folds
+chinoisx folds
+Snfly folds
+ptitepucelov calls 150
+4mypyps calls 75
+smsmvm raises 375 to 525
+manggy94 folds
+LecheMwaWin calls 375
+ptitepucelov folds
+4mypyps folds
+*** FLOP *** [9c Jh Th]
+smsmvm bets 525
+LecheMwaWin calls 525
+*** TURN *** [9c Jh Th][Js]
+smsmvm checks
+LecheMwaWin bets 825
+smsmvm calls 825
+*** RIVER *** [9c Jh Th Js][9s]
+smsmvm checks
+LecheMwaWin bets 8000 and is all-in
+smsmvm folds
+LecheMwaWin collected 12200 from pot
+*** SUMMARY ***
+Total pot 12200 | No rake
+Board: [9c Jh Th Js 9s]
+Seat 6: LecheMwaWin won 12200
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #689311185509548052-9-1465986203 - Holdem no limit (75/150) - 2016/06/15 10:23:23 UTC
+Table: 'FAST FOOD(160492767)#019' 8-max (real money) Seat #3 is the button
+Seat 1: Snfly (10400)
+Seat 2: ptitepucelov (31600)
+Seat 3: 4mypyps (10700)
+Seat 4: smsmvm (8125)
+Seat 5: manggy94 (9375)
+Seat 6: LecheMwaWin (12200)
+Seat 7: 1C100N (8650)
+Seat 8: chinoisx (9100)
+*** ANTE/BLINDS ***
+smsmvm posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [2d 3c]
+*** PRE-FLOP *** 
+LecheMwaWin folds
+1C100N raises 150 to 300
+chinoisx calls 300
+Snfly raises 585 to 885
+ptitepucelov folds
+4mypyps folds
+smsmvm folds
+manggy94 folds
+1C100N calls 585
+chinoisx calls 585
+*** FLOP *** [9s 2c 6h]
+1C100N checks
+chinoisx checks
+Snfly bets 1920
+1C100N folds
+chinoisx folds
+Snfly collected 4800 from pot
+*** SUMMARY ***
+Total pot 4800 | No rake
+Board: [9s 2c 6h]
+Seat 1: Snfly won 4800
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #689311185509548052-10-1465986254 - Holdem no limit (100/200) - 2016/06/15 10:24:14 UTC
+Table: 'FAST FOOD(160492767)#019' 8-max (real money) Seat #4 is the button
+Seat 1: Snfly (12395)
+Seat 2: ptitepucelov (31600)
+Seat 3: 4mypyps (10700)
+Seat 4: smsmvm (8050)
+Seat 5: manggy94 (9225)
+Seat 6: LecheMwaWin (12200)
+Seat 7: 1C100N (7765)
+Seat 8: chinoisx (8215)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+LecheMwaWin posts big blind 200
+Dealt to manggy94 [7h 4d]
+*** PRE-FLOP *** 
+1C100N folds
+chinoisx folds
+Snfly folds
+ptitepucelov calls 200
+4mypyps calls 200
+smsmvm folds
+manggy94 folds
+LecheMwaWin checks
+*** FLOP *** [9c Jh Ks]
+LecheMwaWin checks
+ptitepucelov checks
+4mypyps bets 200
+LecheMwaWin folds
+ptitepucelov calls 200
+*** TURN *** [9c Jh Ks][Ad]
+ptitepucelov checks
+4mypyps bets 200
+ptitepucelov calls 200
+*** RIVER *** [9c Jh Ks Ad][8d]
+ptitepucelov checks
+4mypyps checks
+*** SHOW DOWN ***
+4mypyps shows [Kh Td] (One pair : Kings)
+ptitepucelov shows [9s 8c] (Two pairs : 9 and 8)
+ptitepucelov collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [9c Jh Ks Ad 8d]
+Seat 2: ptitepucelov showed [9s 8c] and won 1500 with Two pairs : 9 and 8
+Seat 3: 4mypyps showed [Kh Td] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #689311185509548052-11-1465986323 - Holdem no limit (100/200) - 2016/06/15 10:25:23 UTC
+Table: 'FAST FOOD(160492767)#019' 8-max (real money) Seat #5 is the button
+Seat 1: Snfly (12395)
+Seat 2: ptitepucelov (32500)
+Seat 3: 4mypyps (10100)
+Seat 4: smsmvm (8050)
+Seat 5: manggy94 (9125)
+Seat 6: LecheMwaWin (12000)
+Seat 7: 1C100N (7765)
+Seat 8: chinoisx (8215)
+*** ANTE/BLINDS ***
+LecheMwaWin posts small blind 100
+1C100N posts big blind 200
+Dealt to manggy94 [7s Kh]
+*** PRE-FLOP *** 
+chinoisx raises 300 to 500
+Snfly folds
+ptitepucelov raises 300 to 800
+4mypyps calls 800
+smsmvm calls 800
+manggy94 calls 800
+LecheMwaWin folds
+1C100N folds
+chinoisx calls 300
+*** FLOP *** [Jc Ts Kd]
+chinoisx checks
+ptitepucelov checks
+4mypyps checks
+smsmvm bets 4300
+manggy94 calls 4300
+chinoisx folds
+ptitepucelov folds
+4mypyps folds
+*** TURN *** [Jc Ts Kd][2s]
+smsmvm bets 2950 and is all-in
+manggy94 calls 2950
+*** RIVER *** [Jc Ts Kd 2s][Js]
+*** SHOW DOWN ***
+manggy94 shows [7s Kh] (Two pairs : Kings and Jacks)
+smsmvm shows [Ad Qs] (Straight Ace high)
+smsmvm collected 18800 from pot
+*** SUMMARY ***
+Total pot 18800 | No rake
+Board: [Jc Ts Kd 2s Js]
+Seat 4: smsmvm showed [Ad Qs] and won 18800 with Straight Ace high
+Seat 5: manggy94 (button) showed [7s Kh] and lost with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #689311185509548052-12-1465986394 - Holdem no limit (100/200) - 2016/06/15 10:26:34 UTC
+Table: 'FAST FOOD(160492767)#019' 8-max (real money) Seat #6 is the button
+Seat 1: Snfly (12395)
+Seat 2: ptitepucelov (31700)
+Seat 3: 4mypyps (9300)
+Seat 4: smsmvm (18800)
+Seat 5: manggy94 (1075)
+Seat 6: LecheMwaWin (11900)
+Seat 7: 1C100N (7565)
+Seat 8: chinoisx (7415)
+*** ANTE/BLINDS ***
+1C100N posts small blind 100
+chinoisx posts big blind 200
+Dealt to manggy94 [7s 7c]
+*** PRE-FLOP *** 
+Snfly folds
+ptitepucelov folds
+4mypyps raises 200 to 400
+smsmvm calls 400
+manggy94 raises 675 to 1075 and is all-in
+LecheMwaWin folds
+1C100N calls 975
+chinoisx calls 875
+4mypyps calls 675
+smsmvm calls 675
+*** FLOP *** [9c Qc Qd]
+1C100N checks
+chinoisx checks
+4mypyps checks
+smsmvm checks
+*** TURN *** [9c Qc Qd][6c]
+1C100N checks
+chinoisx checks
+4mypyps bets 400
+smsmvm calls 400
+1C100N raises 6090 to 6490 and is all-in
+chinoisx folds
+4mypyps folds
+smsmvm calls 6090
+*** RIVER *** [9c Qc Qd 6c][8c]
+*** SHOW DOWN ***
+manggy94 shows [7s 7c] (Flush Queen high)
+1C100N shows [Ts Jd] (Straight Queen high)
+smsmvm shows [Ac 6h] (Flush Ace high)
+smsmvm collected 18755 from pot
+*** SUMMARY ***
+Total pot 18755 | No rake
+Board: [9c Qc Qd 6c 8c]
+Seat 4: smsmvm showed [Ac 6h] and won 18755 with Flush Ace high
+Seat 5: manggy94 showed [7s 7c] and lost with Flush Queen high
+Seat 7: 1C100N (small blind) showed [Ts Jd] and lost with Straight Queen high
+
+

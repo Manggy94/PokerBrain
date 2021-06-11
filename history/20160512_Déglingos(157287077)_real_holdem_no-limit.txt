@@ -1,0 +1,124 @@
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 0 - HandId: #675542851798433795-1-1463058005 - Holdem no limit (10/20) - 2016/05/12 13:00:05 UTC
+Table: 'Déglingos(157287077)#002' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (500)
+Seat 2: BERTURNOVER (500)
+Seat 3: biggyIsBack (500)
+*** ANTE/BLINDS ***
+BERTURNOVER posts small blind 10
+biggyIsBack posts big blind 20
+Dealt to manggy94 [9d 6c]
+*** PRE-FLOP *** 
+manggy94 folds
+BERTURNOVER calls 10
+biggyIsBack checks
+*** FLOP *** [8c 4s 3d]
+BERTURNOVER checks
+biggyIsBack checks
+*** TURN *** [8c 4s 3d][Td]
+BERTURNOVER bets 20
+biggyIsBack calls 20
+*** RIVER *** [8c 4s 3d Td][2d]
+BERTURNOVER bets 20
+biggyIsBack raises 90 to 110
+BERTURNOVER calls 90
+*** SHOW DOWN ***
+biggyIsBack shows [7h Qd] (High card : Queen)
+BERTURNOVER shows [Ah 4d] (One pair : 4)
+BERTURNOVER collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [8c 4s 3d Td 2d]
+Seat 2: BERTURNOVER (small blind) showed [Ah 4d] and won 300 with One pair : 4
+Seat 3: biggyIsBack (big blind) showed [7h Qd] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 0 - HandId: #675542851798433795-2-1463058045 - Holdem no limit (10/20) - 2016/05/12 13:00:45 UTC
+Table: 'Déglingos(157287077)#002' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (500)
+Seat 2: BERTURNOVER (650)
+Seat 3: biggyIsBack (350)
+*** ANTE/BLINDS ***
+biggyIsBack posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [Th 3s]
+*** PRE-FLOP *** 
+BERTURNOVER folds
+biggyIsBack calls 10
+manggy94 checks
+*** FLOP *** [Jh Tc 2h]
+biggyIsBack checks
+manggy94 bets 100
+biggyIsBack folds
+manggy94 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Jh Tc 2h]
+Seat 1: manggy94 (big blind) won 140
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 0 - HandId: #675542851798433795-3-1463058067 - Holdem no limit (10/20) - 2016/05/12 13:01:07 UTC
+Table: 'Déglingos(157287077)#002' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (520)
+Seat 2: BERTURNOVER (650)
+Seat 3: biggyIsBack (330)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+BERTURNOVER posts big blind 20
+Dealt to manggy94 [6h Jd]
+*** PRE-FLOP *** 
+biggyIsBack raises 310 to 330 and is all-in
+manggy94 folds
+BERTURNOVER folds
+biggyIsBack collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: biggyIsBack (button) won 360
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 0 - HandId: #675542851798433795-4-1463058078 - Holdem no limit (10/20) - 2016/05/12 13:01:18 UTC
+Table: 'Déglingos(157287077)#002' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (510)
+Seat 2: BERTURNOVER (630)
+Seat 3: biggyIsBack (360)
+*** ANTE/BLINDS ***
+BERTURNOVER posts small blind 10
+biggyIsBack posts big blind 20
+Dealt to manggy94 [Ac Kh]
+*** PRE-FLOP *** 
+manggy94 raises 50 to 70
+BERTURNOVER folds
+biggyIsBack folds
+manggy94 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 1: manggy94 (button) won 100
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 0 - HandId: #675542851798433795-5-1463058101 - Holdem no limit (10/20) - 2016/05/12 13:01:41 UTC
+Table: 'Déglingos(157287077)#002' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (540)
+Seat 2: BERTURNOVER (620)
+Seat 3: biggyIsBack (340)
+*** ANTE/BLINDS ***
+biggyIsBack posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [As 8c]
+*** PRE-FLOP *** 
+BERTURNOVER raises 60 to 80
+biggyIsBack folds
+manggy94 raises 460 to 540 and is all-in
+BERTURNOVER calls 460
+*** FLOP *** [Ts 9h 8s]
+*** TURN *** [Ts 9h 8s][7c]
+*** RIVER *** [Ts 9h 8s 7c][Qs]
+*** SHOW DOWN ***
+manggy94 shows [As 8c] (One pair : 8)
+BERTURNOVER shows [6h 6d] (Straight Ten high)
+BERTURNOVER collected 1090 from pot
+*** SUMMARY ***
+Total pot 1090 | No rake
+Board: [Ts 9h 8s 7c Qs]
+Seat 1: manggy94 (big blind) showed [As 8c] and lost with One pair : 8
+Seat 2: BERTURNOVER (button) showed [6h 6d] and won 1090 with Straight Ten high
+
+

@@ -1,0 +1,113 @@
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 0,90€ + 0,10€ level: 9 - HandId: #574324465635164161-41-1445854731 - Holdem no limit (75/400/800) - 2015/10/26 10:18:51 UTC
+Table: 'Hold'em [180 Max](133720335)#00' 8-max (real money) Seat #5 is the button
+Seat 1: djokos89zoo (29315)
+Seat 2: 0lympe (17786)
+Seat 3: kamikaze28 (10000)
+Seat 4: BOLPIF44 (49086)
+Seat 5: manggy94 (10000)
+Seat 7: randomtilter (12002)
+Seat 8: Shove 20-100 (32221)
+*** ANTE/BLINDS ***
+randomtilter posts ante 75
+Shove 20-100 posts ante 75
+djokos89zoo posts ante 75
+0lympe posts ante 75
+kamikaze28 posts ante 75
+BOLPIF44 posts ante 75
+randomtilter posts small blind 400
+Shove 20-100 posts big blind 800
+*** PRE-FLOP *** 
+djokos89zoo folds
+0lympe folds
+kamikaze28 folds
+BOLPIF44 folds
+randomtilter folds
+Shove 20-100 collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Seat 8: Shove 20-100 (big blind) won 1650
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 0,90€ + 0,10€ level: 9 - HandId: #574324465635164161-42-1445854752 - Holdem no limit (75/400/800) - 2015/10/26 10:19:12 UTC
+Table: 'Hold'em [180 Max](133720335)#00' 8-max (real money) Seat #7 is the button
+Seat 1: djokos89zoo (29240)
+Seat 2: 0lympe (17711)
+Seat 3: kamikaze28 (9925)
+Seat 4: BOLPIF44 (49011)
+Seat 5: manggy94 (10000)
+Seat 7: randomtilter (11527)
+Seat 8: Shove 20-100 (32996)
+*** ANTE/BLINDS ***
+Shove 20-100 posts ante 75
+djokos89zoo posts ante 75
+0lympe posts ante 75
+kamikaze28 posts ante 75
+BOLPIF44 posts ante 75
+manggy94 posts ante 75
+randomtilter posts ante 75
+Shove 20-100 posts small blind 400
+djokos89zoo posts big blind 800
+Dealt to manggy94 [Kc 7h]
+*** PRE-FLOP *** 
+0lympe folds
+kamikaze28 folds
+BOLPIF44 folds
+manggy94 folds
+randomtilter raises 920 to 1720
+Shove 20-100 folds
+djokos89zoo folds
+randomtilter collected 3445 from pot
+*** SUMMARY ***
+Total pot 3445 | No rake
+Seat 7: randomtilter (button) won 3445
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 0,90€ + 0,10€ level: 9 - HandId: #574324465635164161-43-1445854791 - Holdem no limit (75/400/800) - 2015/10/26 10:19:51 UTC
+Table: 'Hold'em [180 Max](133720335)#00' 8-max (real money) Seat #8 is the button
+Seat 1: djokos89zoo (28365)
+Seat 2: 0lympe (17636)
+Seat 3: kamikaze28 (9850)
+Seat 4: BOLPIF44 (48936)
+Seat 5: manggy94 (9925)
+Seat 6: totof94550 (10000)
+Seat 7: randomtilter (13177)
+Seat 8: Shove 20-100 (32521)
+*** ANTE/BLINDS ***
+djokos89zoo posts ante 75
+0lympe posts ante 75
+kamikaze28 posts ante 75
+BOLPIF44 posts ante 75
+manggy94 posts ante 75
+totof94550 posts ante 75
+randomtilter posts ante 75
+Shove 20-100 posts ante 75
+djokos89zoo posts small blind 400
+0lympe posts big blind 800
+Dealt to manggy94 [Kd 8h]
+*** PRE-FLOP *** 
+kamikaze28 calls 800
+BOLPIF44 folds
+manggy94 calls 800
+totof94550 folds
+randomtilter folds
+Shove 20-100 folds
+djokos89zoo raises 3800 to 4600
+0lympe folds
+kamikaze28 folds
+manggy94 calls 3800
+*** FLOP *** [8d Qs 6d]
+djokos89zoo bets 23690 and is all-in
+manggy94 calls 5250 and is all-in
+*** TURN *** [8d Qs 6d][7h]
+*** RIVER *** [8d Qs 6d 7h][Ad]
+*** SHOW DOWN ***
+manggy94 shows [Kd 8h] (One pair : 8)
+djokos89zoo shows [Js Jh] (One pair : Jacks)
+djokos89zoo collected 40340 from pot
+*** SUMMARY ***
+Total pot 40340 | No rake
+Board: [8d Qs 6d 7h Ad]
+Seat 1: djokos89zoo (small blind) showed [Js Jh] and won 40340 with One pair : Jacks
+Seat 5: manggy94 showed [Kd 8h] and lost with One pair : 8
+
+

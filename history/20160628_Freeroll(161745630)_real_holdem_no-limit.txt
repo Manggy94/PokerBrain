@@ -1,0 +1,378 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #694692191120916664-1-1467109827 - Holdem no limit (10/20) - 2016/06/28 10:30:27 UTC
+Table: 'Freeroll(161745630)#183' 8-max (real money) Seat #5 is the button
+Seat 1: HYPNOTIQUE22 (3000)
+Seat 2: Mic Fly (3000)
+Seat 3: ALLWinho (3000)
+Seat 4: Sangpitier76 (3000)
+Seat 5: manggy94 (3000)
+Seat 6: sb42 (3000)
+Seat 7: jibibi (3000)
+Seat 8: beberoro (3000)
+*** ANTE/BLINDS ***
+sb42 posts small blind 10
+jibibi posts big blind 20
+Dealt to manggy94 [8s 8d]
+*** PRE-FLOP *** 
+beberoro calls 20
+HYPNOTIQUE22 calls 20
+Mic Fly folds
+ALLWinho calls 20
+Sangpitier76 calls 20
+manggy94 raises 2980 to 3000 and is all-in
+sb42 folds
+jibibi folds
+beberoro folds
+HYPNOTIQUE22 folds
+ALLWinho folds
+Sangpitier76 folds
+manggy94 collected 3110 from pot
+*** SUMMARY ***
+Total pot 3110 | No rake
+Seat 5: manggy94 (button) won 3110
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #694692191120916664-2-1467109967 - Holdem no limit (10/20) - 2016/06/28 10:32:47 UTC
+Table: 'Freeroll(161745630)#183' 8-max (real money) Seat #6 is the button
+Seat 1: HYPNOTIQUE22 (2980)
+Seat 2: Mic Fly (3000)
+Seat 3: ALLWinho (2980)
+Seat 4: Sangpitier76 (2980)
+Seat 5: manggy94 (3110)
+Seat 6: sb42 (2990)
+Seat 7: jibibi (2980)
+Seat 8: beberoro (2980)
+*** ANTE/BLINDS ***
+jibibi posts small blind 10
+beberoro posts big blind 20
+Dealt to manggy94 [4s Kc]
+*** PRE-FLOP *** 
+HYPNOTIQUE22 folds
+Mic Fly folds
+ALLWinho folds
+Sangpitier76 calls 20
+manggy94 folds
+sb42 folds
+jibibi calls 10
+beberoro checks
+*** FLOP *** [9h 4h 9d]
+jibibi checks
+beberoro bets 2960 and is all-in
+Sangpitier76 folds
+jibibi folds
+beberoro collected 3020 from pot
+*** SUMMARY ***
+Total pot 3020 | No rake
+Board: [9h 4h 9d]
+Seat 8: beberoro (big blind) won 3020
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #694692191120916664-3-1467110057 - Holdem no limit (15/30) - 2016/06/28 10:34:17 UTC
+Table: 'Freeroll(161745630)#183' 8-max (real money) Seat #7 is the button
+Seat 1: HYPNOTIQUE22 (2980)
+Seat 2: Mic Fly (3000)
+Seat 3: ALLWinho (2980)
+Seat 4: Sangpitier76 (2960)
+Seat 5: manggy94 (3110)
+Seat 6: sb42 (2990)
+Seat 7: jibibi (2960)
+Seat 8: beberoro (3020)
+*** ANTE/BLINDS ***
+beberoro posts small blind 15
+HYPNOTIQUE22 posts big blind 30
+Dealt to manggy94 [Qd 7s]
+*** PRE-FLOP *** 
+Mic Fly folds
+ALLWinho calls 30
+Sangpitier76 calls 30
+manggy94 folds
+sb42 folds
+jibibi calls 30
+beberoro calls 15
+HYPNOTIQUE22 checks
+*** FLOP *** [Jd 8s 6h]
+beberoro bets 30
+HYPNOTIQUE22 folds
+ALLWinho calls 30
+Sangpitier76 calls 30
+jibibi calls 30
+*** TURN *** [Jd 8s 6h][5d]
+beberoro bets 30
+ALLWinho calls 30
+Sangpitier76 calls 30
+jibibi calls 30
+*** RIVER *** [Jd 8s 6h 5d][2c]
+beberoro checks
+ALLWinho bets 390
+Sangpitier76 folds
+jibibi folds
+beberoro folds
+ALLWinho collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [Jd 8s 6h 5d 2c]
+Seat 3: ALLWinho won 780
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #694692191120916664-4-1467110202 - Holdem no limit (20/40) - 2016/06/28 10:36:42 UTC
+Table: 'Freeroll(161745630)#183' 8-max (real money) Seat #8 is the button
+Seat 1: HYPNOTIQUE22 (2950)
+Seat 2: Mic Fly (3000)
+Seat 3: ALLWinho (3280)
+Seat 4: Sangpitier76 (2870)
+Seat 5: manggy94 (3110)
+Seat 6: sb42 (2990)
+Seat 7: jibibi (2870)
+Seat 8: beberoro (2930)
+*** ANTE/BLINDS ***
+HYPNOTIQUE22 posts small blind 20
+Mic Fly posts big blind 40
+Dealt to manggy94 [9c 7h]
+*** PRE-FLOP *** 
+ALLWinho calls 40
+Sangpitier76 calls 40
+manggy94 folds
+sb42 calls 40
+jibibi calls 40
+beberoro folds
+HYPNOTIQUE22 calls 20
+Mic Fly folds
+*** FLOP *** [5d Qh Kh]
+HYPNOTIQUE22 checks
+ALLWinho checks
+Sangpitier76 checks
+sb42 bets 120
+jibibi folds
+HYPNOTIQUE22 folds
+ALLWinho calls 120
+Sangpitier76 calls 120
+*** TURN *** [5d Qh Kh][6h]
+ALLWinho bets 40
+Sangpitier76 folds
+sb42 calls 40
+*** RIVER *** [5d Qh Kh 6h][Ac]
+ALLWinho bets 680
+sb42 folds
+ALLWinho collected 1360 from pot
+*** SUMMARY ***
+Total pot 1360 | No rake
+Board: [5d Qh Kh 6h Ac]
+Seat 3: ALLWinho won 1360
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #694692191120916664-5-1467110291 - Holdem no limit (20/40) - 2016/06/28 10:38:11 UTC
+Table: 'Freeroll(161745630)#183' 8-max (real money) Seat #1 is the button
+Seat 1: HYPNOTIQUE22 (2910)
+Seat 2: Mic Fly (2960)
+Seat 3: ALLWinho (3760)
+Seat 4: Sangpitier76 (2710)
+Seat 5: manggy94 (3110)
+Seat 6: sb42 (2790)
+Seat 7: jibibi (2830)
+Seat 8: beberoro (2930)
+*** ANTE/BLINDS ***
+Mic Fly posts small blind 20
+ALLWinho posts big blind 40
+Dealt to manggy94 [6s Td]
+*** PRE-FLOP *** 
+Sangpitier76 calls 40
+manggy94 folds
+sb42 folds
+jibibi calls 40
+beberoro calls 40
+HYPNOTIQUE22 calls 40
+Mic Fly folds
+ALLWinho checks
+*** FLOP *** [Kd 6c 5c]
+ALLWinho checks
+Sangpitier76 checks
+jibibi checks
+beberoro bets 2890 and is all-in
+HYPNOTIQUE22 folds
+ALLWinho calls 2890
+Sangpitier76 folds
+jibibi calls 2790 and is all-in
+*** TURN *** [Kd 6c 5c][4d]
+*** RIVER *** [Kd 6c 5c 4d][5h]
+*** SHOW DOWN ***
+ALLWinho shows [2d Ks] (Two pairs : Kings and 5)
+jibibi shows [3h Kc] (Two pairs : Kings and 5)
+beberoro shows [Kh 6h] (Two pairs : Kings and 6)
+beberoro collected 8790 from pot
+*** SUMMARY ***
+Total pot 8790 | No rake
+Board: [Kd 6c 5c 4d 5h]
+Seat 3: ALLWinho (big blind) showed [2d Ks] and lost with Two pairs : Kings and 5
+Seat 7: jibibi showed [3h Kc] and lost with Two pairs : Kings and 5
+Seat 8: beberoro showed [Kh 6h] and won 8790 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #694692191120916664-6-1467110344 - Holdem no limit (20/40) - 2016/06/28 10:39:04 UTC
+Table: 'Freeroll(161745630)#183' 8-max (real money) Seat #2 is the button
+Seat 1: HYPNOTIQUE22 (2870)
+Seat 2: Mic Fly (2940)
+Seat 3: ALLWinho (830)
+Seat 4: Sangpitier76 (2670)
+Seat 5: manggy94 (3110)
+Seat 6: sb42 (2790)
+Seat 8: beberoro (8790)
+*** ANTE/BLINDS ***
+ALLWinho posts small blind 20
+Sangpitier76 posts big blind 40
+Dealt to manggy94 [5d 5s]
+*** PRE-FLOP *** 
+manggy94 calls 40
+sb42 folds
+beberoro raises 8750 to 8790 and is all-in
+HYPNOTIQUE22 folds
+Mic Fly folds
+ALLWinho calls 810 and is all-in
+Sangpitier76 folds
+manggy94 folds
+*** FLOP *** [Qs Ah 6h]
+*** TURN *** [Qs Ah 6h][6d]
+*** RIVER *** [Qs Ah 6h 6d][7c]
+*** SHOW DOWN ***
+ALLWinho shows [Jd Kh] (One pair : 6)
+beberoro shows [8d 8c] (Two pairs : 8 and 6)
+beberoro collected 9700 from pot
+*** SUMMARY ***
+Total pot 9700 | No rake
+Board: [Qs Ah 6h 6d 7c]
+Seat 3: ALLWinho (small blind) showed [Jd Kh] and lost with One pair : 6
+Seat 8: beberoro showed [8d 8c] and won 9700 with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #694692191120916664-7-1467110377 - Holdem no limit (30/60) - 2016/06/28 10:39:37 UTC
+Table: 'Freeroll(161745630)#183' 8-max (real money) Seat #3 is the button
+Seat 1: HYPNOTIQUE22 (2870)
+Seat 2: Mic Fly (2940)
+Seat 4: Sangpitier76 (2630)
+Seat 5: manggy94 (3070)
+Seat 6: sb42 (2790)
+Seat 7: arsenepok (3000)
+Seat 8: beberoro (9700)
+*** ANTE/BLINDS ***
+Sangpitier76 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [6s 4c]
+*** PRE-FLOP *** 
+sb42 folds
+arsenepok raises 240 to 300
+beberoro folds
+HYPNOTIQUE22 calls 300
+Mic Fly folds
+Sangpitier76 calls 270
+manggy94 folds
+*** FLOP *** [9c Qc Td]
+Sangpitier76 checks
+arsenepok bets 2700 and is all-in
+HYPNOTIQUE22 folds
+Sangpitier76 calls 2330 and is all-in
+*** TURN *** [9c Qc Td][6d]
+*** RIVER *** [9c Qc Td 6d][Tc]
+*** SHOW DOWN ***
+Sangpitier76 shows [7h Jd] (One pair : Tens)
+arsenepok shows [As Th] (Trips of Tens)
+arsenepok collected 5990 from pot
+*** SUMMARY ***
+Total pot 5990 | No rake
+Board: [9c Qc Td 6d Tc]
+Seat 4: Sangpitier76 (small blind) showed [7h Jd] and lost with One pair : Tens
+Seat 7: arsenepok showed [As Th] and won 5990 with Trips of Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #694692191120916664-8-1467110420 - Holdem no limit (30/60) - 2016/06/28 10:40:20 UTC
+Table: 'Freeroll(161745630)#183' 8-max (real money) Seat #4 is the button
+Seat 1: HYPNOTIQUE22 (2570)
+Seat 2: Mic Fly (2940)
+Seat 3: toto29200 (3000)
+Seat 5: manggy94 (3010)
+Seat 6: sb42 (2790)
+Seat 7: arsenepok (5990)
+Seat 8: beberoro (9700)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+sb42 posts big blind 60
+Dealt to manggy94 [Th 5c]
+*** PRE-FLOP *** 
+arsenepok calls 60
+beberoro calls 60
+HYPNOTIQUE22 raises 60 to 120
+Mic Fly folds
+toto29200 calls 120
+manggy94 folds
+sb42 folds
+arsenepok calls 60
+beberoro calls 60
+*** FLOP *** [7h 6h 2s]
+arsenepok checks
+beberoro checks
+HYPNOTIQUE22 checks
+toto29200 checks
+*** TURN *** [7h 6h 2s][2h]
+arsenepok bets 60
+beberoro folds
+HYPNOTIQUE22 calls 60
+toto29200 calls 60
+*** RIVER *** [7h 6h 2s 2h][4c]
+arsenepok checks
+HYPNOTIQUE22 checks
+toto29200 checks
+*** SHOW DOWN ***
+HYPNOTIQUE22 shows [Kh 9s] (One pair : 2)
+arsenepok shows [6s Js] (Two pairs : 6 and 2)
+toto29200 shows [7c Qh] (Two pairs : 7 and 2)
+toto29200 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [7h 6h 2s 2h 4c]
+Seat 1: HYPNOTIQUE22 showed [Kh 9s] and lost with One pair : 2
+Seat 3: toto29200 showed [7c Qh] and won 750 with Two pairs : 7 and 2
+Seat 7: arsenepok showed [6s Js] and lost with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #694692191120916664-9-1467110520 - Holdem no limit (30/60) - 2016/06/28 10:42:00 UTC
+Table: 'Freeroll(161745630)#183' 8-max (real money) Seat #5 is the button
+Seat 1: HYPNOTIQUE22 (2390)
+Seat 2: Mic Fly (2940)
+Seat 3: toto29200 (3570)
+Seat 4: 75DRS (3000)
+Seat 5: manggy94 (2980)
+Seat 6: sb42 (2730)
+Seat 7: arsenepok (5810)
+Seat 8: beberoro (9580)
+*** ANTE/BLINDS ***
+sb42 posts small blind 30
+arsenepok posts big blind 60
+Dealt to manggy94 [Kc Js]
+*** PRE-FLOP *** 
+beberoro calls 60
+HYPNOTIQUE22 folds
+Mic Fly folds
+toto29200 folds
+75DRS raises 240 to 300
+manggy94 calls 300
+sb42 folds
+arsenepok calls 240
+beberoro calls 240
+*** FLOP *** [2s Jd 5s]
+arsenepok checks
+beberoro bets 60
+75DRS raises 1350 to 1410
+manggy94 raises 1270 to 2680 and is all-in
+arsenepok folds
+beberoro folds
+75DRS calls 1270
+*** TURN *** [2s Jd 5s][6c]
+*** RIVER *** [2s Jd 5s 6c][Ah]
+*** SHOW DOWN ***
+manggy94 shows [Kc Js] (One pair : Jacks)
+75DRS shows [As 7s] (One pair : Aces)
+75DRS collected 6650 from pot
+*** SUMMARY ***
+Total pot 6650 | No rake
+Board: [2s Jd 5s 6c Ah]
+Seat 4: 75DRS showed [As 7s] and won 6650 with One pair : Aces
+Seat 5: manggy94 (button) showed [Kc Js] and lost with One pair : Jacks
+
+

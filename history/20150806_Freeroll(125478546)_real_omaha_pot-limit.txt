@@ -1,0 +1,915 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #538926251419631645-1-1438895727 - Omaha pot limit (10/20) - 2015/08/06 21:15:27 UTC
+Table: 'Freeroll(125478546)#028' 6-max (real money) Seat #5 is the button
+Seat 1: leucky (3000)
+Seat 2: manggy94 (3000)
+Seat 3: philtrung (3000)
+Seat 4: KARITE37130 (3000)
+Seat 5: assejo (3000)
+Seat 6: Jmb81000 (3000)
+*** ANTE/BLINDS ***
+Jmb81000 posts small blind 10
+leucky posts big blind 20
+Dealt to manggy94 [3s Ah Th 6h]
+*** PRE-FLOP *** 
+manggy94 calls 20
+philtrung raises 20 to 40
+KARITE37130 folds
+assejo calls 40
+Jmb81000 calls 30
+leucky folds
+manggy94 folds
+*** FLOP *** [Jc 7d 5d]
+Jmb81000 checks
+philtrung bets 160
+assejo folds
+Jmb81000 calls 160
+*** TURN *** [Jc 7d 5d][Ad]
+Jmb81000 bets 204
+philtrung raises 204 to 408
+Jmb81000 calls 204
+*** RIVER *** [Jc 7d 5d Ad][8c]
+Jmb81000 bets 317
+philtrung raises 317 to 634
+Jmb81000 calls 317
+*** SHOW DOWN ***
+Jmb81000 shows [2d 2c 8d 9h] (Flush Ace high)
+philtrung shows [6d 8s 2s Kd] (Flush Ace high)
+philtrung collected 2564 from pot
+*** SUMMARY ***
+Total pot 2564 | No rake
+Board: [Jc 7d 5d Ad 8c]
+Seat 3: philtrung showed [6d 8s 2s Kd] and won 2564 with Flush Ace high
+Seat 6: Jmb81000 (small blind) showed [2d 2c 8d 9h] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #538926251419631645-2-1438895870 - Omaha pot limit (10/20) - 2015/08/06 21:17:50 UTC
+Table: 'Freeroll(125478546)#028' 6-max (real money) Seat #6 is the button
+Seat 1: leucky (2980)
+Seat 2: manggy94 (2980)
+Seat 3: philtrung (4322)
+Seat 4: KARITE37130 (3000)
+Seat 5: assejo (2960)
+Seat 6: Jmb81000 (1758)
+*** ANTE/BLINDS ***
+leucky posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [3c 6s 9s Qc]
+*** PRE-FLOP *** 
+philtrung raises 50 to 70
+KARITE37130 calls 70
+assejo calls 70
+Jmb81000 folds
+leucky folds
+manggy94 folds
+*** FLOP *** [5c 8c 4d]
+philtrung checks
+KARITE37130 checks
+assejo checks
+*** TURN *** [5c 8c 4d][7c]
+philtrung checks
+KARITE37130 checks
+assejo bets 240
+philtrung calls 240
+KARITE37130 folds
+*** RIVER *** [5c 8c 4d 7c][Jd]
+philtrung checks
+assejo bets 720
+philtrung folds
+assejo collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [5c 8c 4d 7c Jd]
+Seat 5: assejo won 1440
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #538926251419631645-3-1438895951 - Omaha pot limit (15/30) - 2015/08/06 21:19:11 UTC
+Table: 'Freeroll(125478546)#028' 6-max (real money) Seat #1 is the button
+Seat 1: leucky (2970)
+Seat 2: manggy94 (2960)
+Seat 3: philtrung (4012)
+Seat 4: KARITE37130 (2930)
+Seat 5: assejo (3370)
+Seat 6: khalba (2700)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+philtrung posts big blind 30
+Dealt to manggy94 [2s 9h Tc 8h]
+*** PRE-FLOP *** 
+KARITE37130 calls 30
+assejo calls 30
+khalba folds
+leucky folds
+manggy94 raises 120 to 150
+philtrung calls 120
+KARITE37130 calls 120
+assejo calls 120
+*** FLOP *** [2h Qs Ac]
+manggy94 checks
+philtrung bets 600
+KARITE37130 folds
+assejo raises 1800 to 2400
+manggy94 folds
+philtrung calls 1800
+*** TURN *** [2h Qs Ac][As]
+philtrung checks
+assejo bets 820 and is all-in
+philtrung calls 820
+*** RIVER *** [2h Qs Ac As][5h]
+*** SHOW DOWN ***
+philtrung shows [5d 3c 4d Qc] (Straight 5 high)
+assejo shows [4s Ad Ts 2c] (Full of Aces and 2)
+assejo collected 7040 from pot
+*** SUMMARY ***
+Total pot 7040 | No rake
+Board: [2h Qs Ac As 5h]
+Seat 3: philtrung (big blind) showed [5d 3c 4d Qc] and lost with Straight 5 high
+Seat 5: assejo showed [4s Ad Ts 2c] and won 7040 with Full of Aces and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #538926251419631645-4-1438896056 - Omaha pot limit (15/30) - 2015/08/06 21:20:56 UTC
+Table: 'Freeroll(125478546)#028' 6-max (real money) Seat #2 is the button
+Seat 1: leucky (2970)
+Seat 2: manggy94 (2810)
+Seat 3: philtrung (642)
+Seat 4: KARITE37130 (2780)
+Seat 5: La Prince84 (1300)
+Seat 6: khalba (2700)
+*** ANTE/BLINDS ***
+philtrung posts small blind 15
+KARITE37130 posts big blind 30
+Dealt to manggy94 [Th Kh 4s Kc]
+*** PRE-FLOP *** 
+La Prince84 calls 30
+khalba raises 30 to 60
+leucky folds
+manggy94 raises 195 to 255
+philtrung raises 387 to 642 and is all-in
+KARITE37130 folds
+La Prince84 folds
+khalba folds
+manggy94 calls 387
+*** FLOP *** [Qh Ks 5c]
+*** TURN *** [Qh Ks 5c][Kd]
+*** RIVER *** [Qh Ks 5c Kd][3d]
+*** SHOW DOWN ***
+philtrung shows [6c 9s 6d 2h] (Two pairs : Kings and 6)
+manggy94 shows [Th Kh 4s Kc] (Quads of Kings)
+manggy94 collected 1404 from pot
+*** SUMMARY ***
+Total pot 1404 | No rake
+Board: [Qh Ks 5c Kd 3d]
+Seat 2: manggy94 (button) showed [Th Kh 4s Kc] and won 1404 with Quads of Kings
+Seat 3: philtrung (small blind) showed [6c 9s 6d 2h] and lost with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #538926251419631645-5-1438896102 - Omaha pot limit (20/40) - 2015/08/06 21:21:42 UTC
+Table: 'Freeroll(125478546)#028' 6-max (real money) Seat #3 is the button
+Seat 1: leucky (2970)
+Seat 2: manggy94 (3572)
+Seat 3: ZORG74 (2885)
+Seat 4: KARITE37130 (2750)
+Seat 5: La Prince84 (1270)
+Seat 6: khalba (2640)
+*** ANTE/BLINDS ***
+KARITE37130 posts small blind 20
+La Prince84 posts big blind 40
+Dealt to manggy94 [8h Kh 5d Qh]
+*** PRE-FLOP *** 
+khalba raises 40 to 80
+leucky folds
+manggy94 calls 80
+KARITE37130 calls 60
+La Prince84 folds
+*** FLOP *** [Jc 4c Jd]
+KARITE37130 checks
+khalba checks
+manggy94 checks
+*** TURN *** [Jc 4c Jd][6d]
+KARITE37130 checks
+khalba checks
+manggy94 checks
+*** RIVER *** [Jc 4c Jd 6d][9d]
+KARITE37130 checks
+khalba checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [8h Kh 5d Qh] (One pair : Jacks)
+khalba shows [Ts 8s Ad Ks] (One pair : Jacks)
+KARITE37130 shows [9s 3c 8d 7d] (Flush Jack high)
+KARITE37130 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Jc 4c Jd 6d 9d]
+Seat 2: manggy94 showed [8h Kh 5d Qh] and lost with One pair : Jacks
+Seat 4: KARITE37130 (small blind) showed [9s 3c 8d 7d] and won 280 with Flush Jack high
+Seat 6: khalba showed [Ts 8s Ad Ks] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #538926251419631645-6-1438896232 - Omaha pot limit (20/40) - 2015/08/06 21:23:52 UTC
+Table: 'Freeroll(125478546)#028' 6-max (real money) Seat #4 is the button
+Seat 1: leucky (2970)
+Seat 2: manggy94 (3492)
+Seat 3: ZORG74 (2885)
+Seat 4: wimen (3000)
+Seat 5: La Prince84 (1230)
+Seat 6: khalba (2560)
+*** ANTE/BLINDS ***
+La Prince84 posts small blind 20
+khalba posts big blind 40
+Dealt to manggy94 [7d Qs 9s 3s]
+*** PRE-FLOP *** 
+leucky folds
+manggy94 folds
+La Prince84 folds
+khalba collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 6: khalba (big blind) won 60
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #538926251419631683-7-1438896254 - Omaha pot limit (20/40) - 2015/08/06 21:24:14 UTC
+Table: 'Freeroll(125478546)#066' 6-max (real money) Seat #1 is the button
+Seat 1: Diego soa (2795)
+Seat 2: nortoon (2100)
+Seat 3: wael944 (2970)
+Seat 4: Benjamin9580 (220)
+Seat 5: manggy94 (3492)
+Seat 6: grandefoda (6700)
+*** ANTE/BLINDS ***
+nortoon posts small blind 20
+wael944 posts big blind 40
+Dealt to manggy94 [4h Jh Kd 3d]
+*** PRE-FLOP *** 
+Benjamin9580 calls 40
+manggy94 folds
+grandefoda calls 40
+Diego soa calls 40
+nortoon calls 20
+wael944 folds
+*** FLOP *** [7d 2s 5d]
+nortoon bets 200
+Benjamin9580 calls 180 and is all-in
+grandefoda calls 200
+Diego soa calls 200
+*** TURN *** [7d 2s 5d][4d]
+nortoon checks
+grandefoda checks
+Diego soa checks
+*** RIVER *** [7d 2s 5d 4d][9h]
+nortoon checks
+grandefoda bets 980
+Diego soa calls 980
+nortoon folds
+*** SHOW DOWN ***
+Benjamin9580 shows [Kh Kc Ah 6d] (One pair : Kings)
+Diego soa shows [4s Ac 3c 4c] (Straight 5 high)
+grandefoda shows [Ad 7h 9s 3h] (Straight 5 high)
+grandefoda collected 1470 from pot
+Diego soa collected 1470 from pot
+*** SUMMARY ***
+Total pot 2940 | No rake
+Board: [7d 2s 5d 4d 9h]
+Seat 1: Diego soa (button) showed [4s Ac 3c 4c] and won 1470 with Straight 5 high
+Seat 4: Benjamin9580 showed [Kh Kc Ah 6d] and lost with One pair : Kings
+Seat 6: grandefoda showed [Ad 7h 9s 3h] and won 1470 with Straight 5 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #538926251419631976-1-1438896332 - Omaha pot limit (30/60) - 2015/08/06 21:25:32 UTC
+Table: 'Freeroll(125478546)#359' 6-max (real money) Seat #3 is the button
+Seat 1: QuentG60 (3300)
+Seat 2: 85jomonboy (3000)
+Seat 3: cachjegg (3000)
+Seat 4: ricardcasson (3000)
+Seat 5: manggy94 (3492)
+Seat 6: La.Borne (3000)
+*** ANTE/BLINDS ***
+ricardcasson posts small blind 30
+La.Borne posts big blind 60
+*** PRE-FLOP *** 
+QuentG60 raises 150 to 210
+85jomonboy folds
+cachjegg folds
+ricardcasson calls 180
+La.Borne folds
+*** FLOP *** [Qs 9d 7h]
+ricardcasson checks
+QuentG60 checks
+*** TURN *** [Qs 9d 7h][8h]
+ricardcasson checks
+QuentG60 bets 240
+ricardcasson folds
+QuentG60 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Qs 9d 7h 8h]
+Seat 1: QuentG60 won 720
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #538926251419631976-2-1438896400 - Omaha pot limit (30/60) - 2015/08/06 21:26:40 UTC
+Table: 'Freeroll(125478546)#359' 6-max (real money) Seat #4 is the button
+Seat 1: QuentG60 (3570)
+Seat 2: 85jomonboy (3000)
+Seat 3: cachjegg (3000)
+Seat 5: manggy94 (3492)
+Seat 6: La.Borne (2940)
+*** ANTE/BLINDS ***
+La.Borne posts small blind 30
+QuentG60 posts big blind 60
+*** PRE-FLOP *** 
+85jomonboy folds
+cachjegg folds
+La.Borne calls 30
+QuentG60 checks
+*** FLOP *** [Jd As 9h]
+La.Borne checks
+QuentG60 bets 120
+La.Borne raises 360 to 480
+QuentG60 calls 360
+*** TURN *** [Jd As 9h][Qd]
+La.Borne bets 1080
+QuentG60 folds
+La.Borne collected 2160 from pot
+*** SUMMARY ***
+Total pot 2160 | No rake
+Board: [Jd As 9h Qd]
+Seat 6: La.Borne (small blind) won 2160
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #538926251419631976-3-1438896451 - Omaha pot limit (40/80) - 2015/08/06 21:27:31 UTC
+Table: 'Freeroll(125478546)#359' 6-max (real money) Seat #6 is the button
+Seat 1: QuentG60 (3030)
+Seat 2: 85jomonboy (3000)
+Seat 3: cachjegg (3000)
+Seat 5: manggy94 (3492)
+Seat 6: La.Borne (3480)
+*** ANTE/BLINDS ***
+QuentG60 posts small blind 40
+85jomonboy posts big blind 80
+Dealt to manggy94 [Jh Qc 4s Kd]
+*** PRE-FLOP *** 
+cachjegg folds
+manggy94 calls 80
+La.Borne calls 80
+QuentG60 folds
+85jomonboy checks
+*** FLOP *** [6c 8h 7c]
+85jomonboy checks
+manggy94 checks
+La.Borne checks
+*** TURN *** [6c 8h 7c][7h]
+85jomonboy bets 80
+manggy94 folds
+La.Borne folds
+85jomonboy shows [Ks 8c 8d Kh] (Full of 8 and 7)
+85jomonboy collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [6c 8h 7c 7h]
+Seat 2: 85jomonboy (big blind) showed [Ks 8c 8d Kh] and won 360 with Full of 8 and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #538926251419631976-4-1438896491 - Omaha pot limit (40/80) - 2015/08/06 21:28:11 UTC
+Table: 'Freeroll(125478546)#359' 6-max (real money) Seat #1 is the button
+Seat 1: QuentG60 (2990)
+Seat 2: 85jomonboy (3200)
+Seat 3: cachjegg (3000)
+Seat 4: kaiser1310 (2860)
+Seat 5: manggy94 (3412)
+Seat 6: LENJ64 (3000)
+*** ANTE/BLINDS ***
+85jomonboy posts small blind 40
+cachjegg posts big blind 80
+Dealt to manggy94 [Js Qd Ts 8h]
+*** PRE-FLOP *** 
+kaiser1310 folds
+manggy94 calls 80
+LENJ64 calls 80
+QuentG60 calls 80
+85jomonboy calls 40
+cachjegg checks
+*** FLOP *** [9s Qc 6h]
+85jomonboy checks
+cachjegg checks
+manggy94 checks
+LENJ64 checks
+QuentG60 bets 80
+85jomonboy calls 80
+cachjegg calls 80
+manggy94 calls 80
+LENJ64 folds
+*** TURN *** [9s Qc 6h][2h]
+85jomonboy checks
+cachjegg checks
+manggy94 checks
+QuentG60 bets 80
+85jomonboy raises 80 to 160
+cachjegg calls 160
+manggy94 folds
+QuentG60 calls 80
+*** RIVER *** [9s Qc 6h 2h][Jh]
+85jomonboy bets 1200
+cachjegg folds
+QuentG60 calls 1200
+*** SHOW DOWN ***
+QuentG60 shows [As 4s Qh 9d] (Two pairs : Queens and 9)
+85jomonboy shows [8s Qs Kh 7h] (Flush King high)
+85jomonboy collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Board: [9s Qc 6h 2h Jh]
+Seat 1: QuentG60 (button) showed [As 4s Qh 9d] and lost with Two pairs : Queens and 9
+Seat 2: 85jomonboy (small blind) showed [8s Qs Kh 7h] and won 3600 with Flush King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #538926251419631976-5-1438896635 - Omaha pot limit (50/100) - 2015/08/06 21:30:35 UTC
+Table: 'Freeroll(125478546)#359' 6-max (real money) Seat #2 is the button
+Seat 1: QuentG60 (1470)
+Seat 2: 85jomonboy (5280)
+Seat 3: cachjegg (2680)
+Seat 4: kaiser1310 (2860)
+Seat 5: manggy94 (3252)
+Seat 6: PAPADV (5175)
+*** ANTE/BLINDS ***
+cachjegg posts small blind 50
+kaiser1310 posts big blind 100
+Dealt to manggy94 [6h As Jc 7s]
+*** PRE-FLOP *** 
+manggy94 calls 100
+PAPADV calls 100
+QuentG60 calls 100
+85jomonboy folds
+cachjegg calls 50
+kaiser1310 checks
+*** FLOP *** [Ac Qh Kd]
+cachjegg checks
+kaiser1310 checks
+manggy94 checks
+PAPADV checks
+QuentG60 bets 500
+cachjegg folds
+kaiser1310 calls 500
+manggy94 calls 500
+PAPADV folds
+*** TURN *** [Ac Qh Kd][2d]
+kaiser1310 checks
+manggy94 checks
+QuentG60 checks
+*** RIVER *** [Ac Qh Kd 2d][5c]
+kaiser1310 checks
+manggy94 checks
+QuentG60 bets 870 and is all-in
+kaiser1310 folds
+manggy94 folds
+QuentG60 collected 2870 from pot
+*** SUMMARY ***
+Total pot 2870 | No rake
+Board: [Ac Qh Kd 2d 5c]
+Seat 1: QuentG60 won 2870
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #538926251419631976-6-1438896787 - Omaha pot limit (50/100) - 2015/08/06 21:33:07 UTC
+Table: 'Freeroll(125478546)#359' 6-max (real money) Seat #3 is the button
+Seat 1: QuentG60 (2870)
+Seat 2: 85jomonboy (5280)
+Seat 3: cachjegg (2580)
+Seat 4: kaiser1310 (2260)
+Seat 5: manggy94 (2652)
+Seat 6: PAPADV (5075)
+*** ANTE/BLINDS ***
+kaiser1310 posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [Kd 6h Kh Tc]
+*** PRE-FLOP *** 
+PAPADV folds
+QuentG60 calls 100
+85jomonboy folds
+cachjegg folds
+kaiser1310 folds
+manggy94 checks
+*** FLOP *** [2h 6s Qc]
+manggy94 checks
+QuentG60 bets 100
+manggy94 folds
+QuentG60 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [2h 6s Qc]
+Seat 1: QuentG60 won 350
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #538926251419631976-7-1438896887 - Omaha pot limit (60/120) - 2015/08/06 21:34:47 UTC
+Table: 'Freeroll(125478546)#359' 6-max (real money) Seat #4 is the button
+Seat 1: QuentG60 (3020)
+Seat 2: gaga29200 (5700)
+Seat 3: cachjegg (2580)
+Seat 4: kaiser1310 (2210)
+Seat 5: manggy94 (2552)
+Seat 6: PAPADV (5075)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 60
+PAPADV posts big blind 120
+Dealt to manggy94 [5s Jc Ac 9h]
+*** PRE-FLOP *** 
+QuentG60 calls 120
+gaga29200 folds
+cachjegg folds
+kaiser1310 calls 120
+manggy94 calls 60
+PAPADV checks
+*** FLOP *** [5c Qc 9d]
+manggy94 checks
+PAPADV bets 120
+QuentG60 calls 120
+kaiser1310 calls 120
+manggy94 calls 120
+*** TURN *** [5c Qc 9d][3c]
+manggy94 bets 960
+PAPADV raises 2880 to 3840
+QuentG60 folds
+kaiser1310 folds
+manggy94 calls 1352 and is all-in
+*** RIVER *** [5c Qc 9d 3c][7h]
+*** SHOW DOWN ***
+manggy94 shows [5s Jc Ac 9h] (Flush Ace high)
+PAPADV shows [6c 5h Kh 8c] (Flush Queen high)
+PAPADV collected 1528 from side pot 1
+manggy94 collected 5584 from main pot
+*** SUMMARY ***
+Total pot 7112 | No rake
+Board: [5c Qc 9d 3c 7h]
+Seat 5: manggy94 (small blind) showed [5s Jc Ac 9h] and won 5584 with Flush Ace high
+Seat 6: PAPADV (big blind) showed [6c 5h Kh 8c] and won 1528 with Flush Queen high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #538926251419631976-8-1438897020 - Omaha pot limit (75/150) - 2015/08/06 21:37:00 UTC
+Table: 'Freeroll(125478546)#359' 6-max (real money) Seat #5 is the button
+Seat 1: QuentG60 (2780)
+Seat 2: gaga29200 (5700)
+Seat 3: pakpot (4320)
+Seat 4: kaiser1310 (1970)
+Seat 5: manggy94 (5584)
+Seat 6: PAPADV (2523)
+*** ANTE/BLINDS ***
+PAPADV posts small blind 75
+QuentG60 posts big blind 150
+Dealt to manggy94 [Ts 2c 9h Td]
+*** PRE-FLOP *** 
+gaga29200 folds
+pakpot folds
+kaiser1310 folds
+manggy94 calls 150
+PAPADV calls 75
+QuentG60 checks
+*** FLOP *** [Jd 5h As]
+PAPADV bets 150
+QuentG60 calls 150
+manggy94 folds
+*** TURN *** [Jd 5h As][3d]
+PAPADV bets 150
+QuentG60 raises 150 to 300
+PAPADV calls 150
+*** RIVER *** [Jd 5h As 3d][Jc]
+PAPADV bets 1350
+QuentG60 calls 1350
+*** SHOW DOWN ***
+QuentG60 shows [2h Js 4c 2d] (Straight 5 high)
+PAPADV shows [Qc 5d Ah 5c] (Full of 5 and Jacks)
+PAPADV collected 4050 from pot
+*** SUMMARY ***
+Total pot 4050 | No rake
+Board: [Jd 5h As 3d Jc]
+Seat 1: QuentG60 (big blind) showed [2h Js 4c 2d] and lost with Straight 5 high
+Seat 6: PAPADV (small blind) showed [Qc 5d Ah 5c] and won 4050 with Full of 5 and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #538926251419631976-9-1438897108 - Omaha pot limit (75/150) - 2015/08/06 21:38:28 UTC
+Table: 'Freeroll(125478546)#359' 6-max (real money) Seat #6 is the button
+Seat 1: QuentG60 (830)
+Seat 2: gaga29200 (5700)
+Seat 3: pakpot (4320)
+Seat 4: kaiser1310 (1970)
+Seat 5: manggy94 (5434)
+Seat 6: PAPADV (4623)
+*** ANTE/BLINDS ***
+QuentG60 posts small blind 75
+gaga29200 posts big blind 150
+Dealt to manggy94 [3c Kd Js Td]
+*** PRE-FLOP *** 
+pakpot folds
+kaiser1310 folds
+manggy94 calls 150
+PAPADV folds
+QuentG60 calls 75
+gaga29200 raises 150 to 300
+manggy94 calls 150
+QuentG60 calls 150
+*** FLOP *** [Qd Ks 7d]
+QuentG60 checks
+gaga29200 bets 900
+manggy94 raises 900 to 1800
+QuentG60 folds
+gaga29200 calls 900
+*** TURN *** [Qd Ks 7d][2c]
+gaga29200 checks
+manggy94 checks
+*** RIVER *** [Qd Ks 7d 2c][9d]
+gaga29200 checks
+manggy94 bets 3334 and is all-in
+gaga29200 folds
+manggy94 collected 7834 from pot
+*** SUMMARY ***
+Total pot 7834 | No rake
+Board: [Qd Ks 7d 2c 9d]
+Seat 5: manggy94 won 7834
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #538926251419631976-10-1438897187 - Omaha pot limit (100/200) - 2015/08/06 21:39:47 UTC
+Table: 'Freeroll(125478546)#359' 6-max (real money) Seat #1 is the button
+Seat 1: QuentG60 (530)
+Seat 2: gaga29200 (3600)
+Seat 3: pakpot (4320)
+Seat 4: kaiser1310 (1970)
+Seat 5: manggy94 (7834)
+Seat 6: PAPADV (4623)
+*** ANTE/BLINDS ***
+gaga29200 posts small blind 100
+pakpot posts big blind 200
+Dealt to manggy94 [3s 9c As 9d]
+*** PRE-FLOP *** 
+kaiser1310 folds
+manggy94 calls 200
+PAPADV calls 200
+QuentG60 calls 200
+gaga29200 raises 1000 to 1200
+pakpot folds
+manggy94 folds
+PAPADV calls 1000
+QuentG60 calls 330 and is all-in
+*** FLOP *** [4d 2h 8d]
+gaga29200 bets 2400 and is all-in
+PAPADV folds
+*** TURN *** [4d 2h 8d][2c]
+*** RIVER *** [4d 2h 8d 2c][Ah]
+*** SHOW DOWN ***
+QuentG60 shows [3c Js 5c Ac] (Straight 5 high)
+gaga29200 shows [6d 4s Th 8h] (Two pairs : 8 and 4)
+gaga29200 collected 3740 from side pot 1
+QuentG60 collected 1990 from main pot
+*** SUMMARY ***
+Total pot 5730 | No rake
+Board: [4d 2h 8d 2c Ah]
+Seat 1: QuentG60 (button) showed [3c Js 5c Ac] and won 1990 with Straight 5 high
+Seat 2: gaga29200 (small blind) showed [6d 4s Th 8h] and won 3740 with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #538926251419631976-11-1438897244 - Omaha pot limit (100/200) - 2015/08/06 21:40:44 UTC
+Table: 'Freeroll(125478546)#359' 6-max (real money) Seat #2 is the button
+Seat 1: GuYja (3225)
+Seat 2: gaga29200 (3740)
+Seat 3: pakpot (4120)
+Seat 4: kaiser1310 (1970)
+Seat 5: manggy94 (7634)
+Seat 6: PAPADV (3423)
+*** ANTE/BLINDS ***
+pakpot posts small blind 100
+kaiser1310 posts big blind 200
+Dealt to manggy94 [As 6h Kh Tc]
+*** PRE-FLOP *** 
+manggy94 calls 200
+PAPADV folds
+GuYja folds
+gaga29200 raises 700 to 900
+pakpot calls 800
+kaiser1310 calls 700
+manggy94 calls 700
+*** FLOP *** [Ac Ks 3d]
+pakpot checks
+kaiser1310 bets 1070 and is all-in
+manggy94 calls 1070
+gaga29200 raises 1770 to 2840 and is all-in
+pakpot folds
+manggy94 calls 1770
+*** TURN *** [Ac Ks 3d][Ts]
+*** RIVER *** [Ac Ks 3d Ts][6s]
+*** SHOW DOWN ***
+gaga29200 shows [4d 5c 2c 4h] (One pair : 4)
+kaiser1310 shows [Kd Jd 9d 9c] (One pair : Kings)
+manggy94 shows [As 6h Kh Tc] (Two pairs : Aces and Kings)
+manggy94 collected 10350 from pot
+*** SUMMARY ***
+Total pot 10350 | No rake
+Board: [Ac Ks 3d Ts 6s]
+Seat 2: gaga29200 (button) showed [4d 5c 2c 4h] and lost with One pair : 4
+Seat 4: kaiser1310 (big blind) showed [Kd Jd 9d 9c] and lost with One pair : Kings
+Seat 5: manggy94 showed [As 6h Kh Tc] and won 10350 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #538926251419631976-12-1438897295 - Omaha pot limit (100/200) - 2015/08/06 21:41:35 UTC
+Table: 'Freeroll(125478546)#359' 6-max (real money) Seat #3 is the button
+Seat 1: GuYja (3225)
+Seat 2: Nericfr (26890)
+Seat 3: pakpot (3220)
+Seat 4: Sibiii (17045)
+Seat 5: manggy94 (14244)
+Seat 6: PAPADV (3423)
+*** ANTE/BLINDS ***
+manggy94 posts big blind 200
+Dealt to manggy94 [4s 7h 4c 3h]
+*** PRE-FLOP *** 
+PAPADV calls 200
+GuYja calls 200
+Nericfr raises 200 to 400
+pakpot calls 400
+manggy94 folds
+PAPADV calls 200
+GuYja calls 200
+*** FLOP *** [Jd 6d 3d]
+PAPADV checks
+GuYja checks
+Nericfr bets 200
+pakpot folds
+PAPADV raises 1100 to 1300
+GuYja folds
+Nericfr calls 1100
+*** TURN *** [Jd 6d 3d][8c]
+PAPADV bets 1723 and is all-in
+Nericfr raises 1723 to 3446
+*** RIVER *** [Jd 6d 3d 8c][Kh]
+*** SHOW DOWN ***
+PAPADV shows [6s Qd 9d Jh] (Flush Queen high)
+Nericfr shows [2c Ah 8h 8s] (Trips of 8)
+Nericfr collected 1723 from side pot 1
+PAPADV collected 7846 from main pot
+*** SUMMARY ***
+Total pot 9569 | No rake
+Board: [Jd 6d 3d 8c Kh]
+Seat 2: Nericfr showed [2c Ah 8h 8s] and won 1723 with Trips of 8
+Seat 6: PAPADV showed [6s Qd 9d Jh] and won 7846 with Flush Queen high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #538926251419631976-13-1438897401 - Omaha pot limit (125/250) - 2015/08/06 21:43:21 UTC
+Table: 'Freeroll(125478546)#359' 6-max (real money) Seat #4 is the button
+Seat 1: GuYja (2825)
+Seat 2: Nericfr (23467)
+Seat 3: pakpot (2820)
+Seat 4: Sibiii (17045)
+Seat 5: manggy94 (14044)
+Seat 6: PAPADV (7846)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 125
+PAPADV posts big blind 250
+Dealt to manggy94 [5d 3c 4c Td]
+*** PRE-FLOP *** 
+GuYja folds
+Nericfr raises 250 to 500
+pakpot folds
+manggy94 folds
+PAPADV calls 250
+*** FLOP *** [8h 5c 7h]
+PAPADV checks
+Nericfr checks
+*** TURN *** [8h 5c 7h][8d]
+PAPADV checks
+Nericfr checks
+*** RIVER *** [8h 5c 7h 8d][7d]
+PAPADV bets 250
+Nericfr calls 250
+*** SHOW DOWN ***
+Nericfr shows [Jh Th Jc 2h] (Two pairs : Jacks and 8)
+PAPADV shows [Ad 4h 7s 4s] (Trips of 7)
+PAPADV collected 1625 from pot
+*** SUMMARY ***
+Total pot 1625 | No rake
+Board: [8h 5c 7h 8d 7d]
+Seat 2: Nericfr showed [Jh Th Jc 2h] and lost with Two pairs : Jacks and 8
+Seat 6: PAPADV (big blind) showed [Ad 4h 7s 4s] and won 1625 with Trips of 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #538926251419631976-14-1438897460 - Omaha pot limit (125/250) - 2015/08/06 21:44:20 UTC
+Table: 'Freeroll(125478546)#359' 6-max (real money) Seat #5 is the button
+Seat 1: GuYja (2825)
+Seat 2: Nericfr (22717)
+Seat 3: pakpot (2820)
+Seat 4: Sibiii (17045)
+Seat 5: manggy94 (13919)
+Seat 6: PAPADV (8721)
+*** ANTE/BLINDS ***
+PAPADV posts small blind 125
+GuYja posts big blind 250
+Dealt to manggy94 [Jd 9s 3c 3s]
+*** PRE-FLOP *** 
+Nericfr calls 250
+pakpot folds
+Sibiii calls 250
+manggy94 folds
+PAPADV calls 125
+GuYja checks
+*** FLOP *** [7h 8h 6h]
+PAPADV checks
+GuYja checks
+Nericfr checks
+Sibiii checks
+*** TURN *** [7h 8h 6h][3d]
+PAPADV bets 250
+GuYja calls 250
+Nericfr calls 250
+Sibiii calls 250
+*** RIVER *** [7h 8h 6h 3d][Ad]
+PAPADV bets 250
+GuYja folds
+Nericfr calls 250
+Sibiii calls 250
+*** SHOW DOWN ***
+Nericfr shows [Js Kh 5s 7c] (One pair : 7)
+Sibiii shows [Ts Qs Qc 2c] (One pair : Queens)
+PAPADV shows [3h 4d Ah 5h] (Flush Ace high)
+PAPADV collected 2750 from pot
+*** SUMMARY ***
+Total pot 2750 | No rake
+Board: [7h 8h 6h 3d Ad]
+Seat 2: Nericfr showed [Js Kh 5s 7c] and lost with One pair : 7
+Seat 4: Sibiii showed [Ts Qs Qc 2c] and lost with One pair : Queens
+Seat 6: PAPADV (small blind) showed [3h 4d Ah 5h] and won 2750 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #538926251419631976-15-1438897538 - Omaha pot limit (150/300) - 2015/08/06 21:45:38 UTC
+Table: 'Freeroll(125478546)#359' 6-max (real money) Seat #6 is the button
+Seat 1: GuYja (2325)
+Seat 2: Nericfr (21967)
+Seat 3: pakpot (2820)
+Seat 4: Sibiii (16295)
+Seat 5: manggy94 (13919)
+Seat 6: PAPADV (10721)
+*** ANTE/BLINDS ***
+GuYja posts small blind 150
+Nericfr posts big blind 300
+Dealt to manggy94 [2h 8d 6c Td]
+*** PRE-FLOP *** 
+pakpot folds
+Sibiii calls 300
+manggy94 folds
+PAPADV folds
+GuYja raises 900 to 1200
+Nericfr folds
+Sibiii calls 900
+*** FLOP *** [Jc Ah 4d]
+GuYja checks
+Sibiii checks
+*** TURN *** [Jc Ah 4d][Jd]
+GuYja checks
+Sibiii checks
+*** RIVER *** [Jc Ah 4d Jd][Tc]
+GuYja checks
+Sibiii bets 2700
+GuYja calls 1125 and is all-in
+*** SHOW DOWN ***
+GuYja shows [9s Ks Th Kc] (Two pairs : Kings and Jacks)
+Sibiii shows [6s Ac Kd Jh] (Full of Jacks and Aces)
+Sibiii collected 6525 from pot
+*** SUMMARY ***
+Total pot 6525 | No rake
+Board: [Jc Ah 4d Jd Tc]
+Seat 1: GuYja (small blind) showed [9s Ks Th Kc] and lost with Two pairs : Kings and Jacks
+Seat 4: Sibiii showed [6s Ac Kd Jh] and won 6525 with Full of Jacks and Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #538926251419631976-16-1438897567 - Omaha pot limit (150/300) - 2015/08/06 21:46:07 UTC
+Table: 'Freeroll(125478546)#359' 6-max (real money) Seat #1 is the button
+Seat 2: Nericfr (21667)
+Seat 3: pakpot (2820)
+Seat 4: Sibiii (18920)
+Seat 5: manggy94 (13919)
+Seat 6: PAPADV (10721)
+*** ANTE/BLINDS ***
+Nericfr posts small blind 150
+pakpot posts big blind 300
+Dealt to manggy94 [Jc Ac Qc Kd]
+*** PRE-FLOP *** 
+Sibiii calls 300
+manggy94 calls 300
+PAPADV folds
+Nericfr raises 300 to 600
+pakpot folds
+Sibiii calls 300
+manggy94 calls 300
+*** FLOP *** [6s Qd Th]
+Nericfr bets 1400
+Sibiii folds
+manggy94 calls 1400
+*** TURN *** [6s Qd Th][9h]
+Nericfr bets 4900
+manggy94 calls 4900
+*** RIVER *** [6s Qd Th 9h][Kh]
+Nericfr bets 14700
+manggy94 calls 7019 and is all-in
+*** SHOW DOWN ***
+manggy94 shows [Jc Ac Qc Kd] (Straight Ace high)
+Nericfr shows [3h 2h 5d 5s] (Flush King high)
+Nericfr collected 36419 from pot
+*** SUMMARY ***
+Total pot 36419 | No rake
+Board: [6s Qd Th 9h Kh]
+Seat 2: Nericfr (small blind) showed [3h 2h 5d 5s] and won 36419 with Flush King high
+Seat 5: manggy94 showed [Jc Ac Qc Kd] and lost with Straight Ace high
+
+

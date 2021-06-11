@@ -1,0 +1,143 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 3 - HandId: #681906992603725835-2-1464358232 - Holdem no limit (100/200) - 2016/05/27 14:10:32 UTC
+Table: 'Hold'em(158768844)#010' 6-max (real money) Seat #4 is the button
+Seat 1: ricben (10000)
+Seat 2: JeSuisTimide (11800)
+Seat 3: bennyrock (10000)
+Seat 4: ratenallou (8200)
+Seat 5: manggy94 (10000)
+Seat 6: 25manu69 (10175)
+*** ANTE/BLINDS ***
+JeSuisTimide posts small blind 100
+bennyrock posts big blind 200
+*** PRE-FLOP *** 
+ratenallou folds
+JeSuisTimide raises 200 to 400
+bennyrock calls 200
+*** FLOP *** [Jc 3h 8d]
+JeSuisTimide bets 400
+bennyrock calls 400
+*** TURN *** [Jc 3h 8d][5d]
+JeSuisTimide checks
+bennyrock bets 800
+JeSuisTimide calls 800
+*** RIVER *** [Jc 3h 8d 5d][8s]
+JeSuisTimide checks
+bennyrock bets 1600
+JeSuisTimide calls 1600
+*** SHOW DOWN ***
+bennyrock shows [2c Qc] (One pair : 8)
+JeSuisTimide shows [5s Ad] (Two pairs : 8 and 5)
+JeSuisTimide collected 6400 from pot
+*** SUMMARY ***
+Total pot 6400 | No rake
+Board: [Jc 3h 8d 5d 8s]
+Seat 2: JeSuisTimide (small blind) showed [5s Ad] and won 6400 with Two pairs : 8 and 5
+Seat 3: bennyrock (big blind) showed [2c Qc] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 3 - HandId: #681906992603725835-3-1464358268 - Holdem no limit (100/200) - 2016/05/27 14:11:08 UTC
+Table: 'Hold'em(158768844)#010' 6-max (real money) Seat #2 is the button
+Seat 1: ricben (10000)
+Seat 2: JeSuisTimide (15000)
+Seat 3: bennyrock (6800)
+Seat 4: ratenallou (8200)
+Seat 5: manggy94 (10000)
+Seat 6: 25manu69 (10175)
+*** ANTE/BLINDS ***
+bennyrock posts small blind 100
+ratenallou posts big blind 200
+Dealt to manggy94 [6d Td]
+*** PRE-FLOP *** 
+manggy94 calls 200
+25manu69 calls 200
+ricben raises 200 to 400
+JeSuisTimide folds
+bennyrock raises 6400 to 6800 and is all-in
+ratenallou folds
+manggy94 folds
+25manu69 folds
+ricben folds
+bennyrock collected 7800 from pot
+*** SUMMARY ***
+Total pot 7800 | No rake
+Seat 3: bennyrock (small blind) won 7800
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 3 - HandId: #681906992603725835-4-1464358296 - Holdem no limit (100/200) - 2016/05/27 14:11:36 UTC
+Table: 'Hold'em(158768844)#010' 5-max (real money) Seat #3 is the button
+Seat 1: ricben (9600)
+Seat 2: JeSuisTimide (15000)
+Seat 3: bennyrock (7800)
+Seat 4: ratenallou (8000)
+Seat 5: manggy94 (9800)
+*** ANTE/BLINDS ***
+ratenallou posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [Qs 2d]
+*** PRE-FLOP *** 
+ricben calls 200
+JeSuisTimide folds
+bennyrock folds
+ratenallou raises 600 to 800
+manggy94 calls 600
+ricben folds
+*** FLOP *** [2c 9d 5h]
+ratenallou bets 7200 and is all-in
+manggy94 calls 7200
+*** TURN *** [2c 9d 5h][Th]
+*** RIVER *** [2c 9d 5h Th][6s]
+*** SHOW DOWN ***
+manggy94 shows [Qs 2d] (One pair : 2)
+ratenallou shows [Ks Kd] (One pair : Kings)
+ratenallou collected 16200 from pot
+*** SUMMARY ***
+Total pot 16200 | No rake
+Board: [2c 9d 5h Th 6s]
+Seat 4: ratenallou (small blind) showed [Ks Kd] and won 16200 with One pair : Kings
+Seat 5: manggy94 (big blind) showed [Qs 2d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 4 - HandId: #681906992603725835-5-1464358332 - Holdem no limit (150/300) - 2016/05/27 14:12:12 UTC
+Table: 'Hold'em(158768844)#010' 5-max (real money) Seat #4 is the button
+Seat 1: ricben (9400)
+Seat 2: JeSuisTimide (15000)
+Seat 3: bennyrock (7800)
+Seat 4: ratenallou (16200)
+Seat 5: manggy94 (1800)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+ricben posts big blind 300
+Dealt to manggy94 [9s Th]
+*** PRE-FLOP *** 
+JeSuisTimide raises 300 to 600
+bennyrock folds
+ratenallou calls 600
+manggy94 calls 450
+ricben raises 300 to 900
+JeSuisTimide calls 300
+ratenallou calls 300
+manggy94 calls 300
+*** FLOP *** [9c 7s Qs]
+manggy94 bets 900 and is all-in
+ricben calls 900
+JeSuisTimide folds
+ratenallou calls 900
+*** TURN *** [9c 7s Qs][8h]
+ricben checks
+ratenallou checks
+*** RIVER *** [9c 7s Qs 8h][5d]
+ricben checks
+ratenallou checks
+*** SHOW DOWN ***
+ratenallou shows [Kh 5h] (One pair : 5)
+manggy94 shows [9s Th] (One pair : 9)
+ricben shows [Jc Jh] (One pair : Jacks)
+ricben collected 6300 from pot
+*** SUMMARY ***
+Total pot 6300 | No rake
+Board: [9c 7s Qs 8h 5d]
+Seat 1: ricben (big blind) showed [Jc Jh] and won 6300 with One pair : Jacks
+Seat 4: ratenallou (button) showed [Kh 5h] and lost with One pair : 5
+Seat 5: manggy94 (small blind) showed [9s Th] and lost with One pair : 9
+
+

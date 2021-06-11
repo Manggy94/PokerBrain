@@ -1,0 +1,38 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #539623483525562440-1-1439064928 - Holdem no limit (10/20) - 2015/08/08 20:15:28 UTC
+Table: 'Freeroll(125640883)#071' 6-max (real money) Seat #6 is the button
+Seat 1: DOCeddy59 (3000)
+Seat 2: canabisman (3000)
+Seat 3: lebowski64 (3000)
+Seat 4: davbai (3000)
+Seat 5: yokiyoyo (3000)
+Seat 6: manggy94 (3000)
+*** ANTE/BLINDS ***
+DOCeddy59 posts small blind 10
+canabisman posts big blind 20
+Dealt to manggy94 [As Ks]
+*** PRE-FLOP *** 
+lebowski64 calls 20
+davbai folds
+yokiyoyo calls 20
+manggy94 raises 90 to 110
+DOCeddy59 raises 2890 to 3000 and is all-in
+canabisman folds
+lebowski64 calls 2980 and is all-in
+yokiyoyo folds
+manggy94 calls 2890 and is all-in
+*** FLOP *** [Tc 2d Td]
+*** TURN *** [Tc 2d Td][9h]
+*** RIVER *** [Tc 2d Td 9h][Jc]
+*** SHOW DOWN ***
+DOCeddy59 shows [7h Kh] (One pair : Tens)
+manggy94 shows [As Ks] (One pair : Tens)
+lebowski64 shows [9c Qd] (Two pairs : Tens and 9)
+lebowski64 collected 9040 from pot
+*** SUMMARY ***
+Total pot 9040 | No rake
+Board: [Tc 2d Td 9h Jc]
+Seat 1: DOCeddy59 (small blind) showed [7h Kh] and lost with One pair : Tens
+Seat 3: lebowski64 showed [9c Qd] and won 9040 with Two pairs : Tens and 9
+Seat 6: manggy94 (button) showed [As Ks] and lost with One pair : Tens
+
+

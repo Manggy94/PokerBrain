@@ -1,0 +1,50 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #546663050887823818-1-1440586806 - Holdem no limit (20/100/200) - 2015/08/26 11:00:06 UTC
+Table: 'Freeroll(127279910)#457' 9-max (real money) Seat #9 is the button
+Seat 1: Gigikad (3000)
+Seat 2: lyyooo69 (3000)
+Seat 3: Poutchoum (3000)
+Seat 4: alfaphoenix (3000)
+Seat 5: manggy94 (3000)
+Seat 6: Vaness59000 (3000)
+Seat 7: imbatable34 (3000)
+Seat 8: cyril023 (3000)
+Seat 9: pierrotlo (3000)
+*** ANTE/BLINDS ***
+Gigikad posts ante 20
+lyyooo69 posts ante 20
+Poutchoum posts ante 20
+alfaphoenix posts ante 20
+manggy94 posts ante 20
+Vaness59000 posts ante 20
+imbatable34 posts ante 20
+cyril023 posts ante 20
+pierrotlo posts ante 20
+Gigikad posts small blind 100
+lyyooo69 posts big blind 200
+Dealt to manggy94 [9s Ad]
+*** PRE-FLOP *** 
+Poutchoum folds
+alfaphoenix folds
+manggy94 raises 680 to 880
+Vaness59000 folds
+imbatable34 folds
+cyril023 folds
+pierrotlo calls 880
+Gigikad folds
+lyyooo69 folds
+*** FLOP *** [Qd Kc 5d]
+manggy94 bets 2100 and is all-in
+pierrotlo calls 2100 and is all-in
+*** TURN *** [Qd Kc 5d][Kh]
+*** RIVER *** [Qd Kc 5d Kh][4c]
+*** SHOW DOWN ***
+manggy94 shows [9s Ad] (One pair : Kings)
+pierrotlo shows [9d Ks] (Trips of Kings)
+pierrotlo collected 6440 from pot
+*** SUMMARY ***
+Total pot 6440 | No rake
+Board: [Qd Kc 5d Kh 4c]
+Seat 5: manggy94 showed [9s Ad] and lost with One pair : Kings
+Seat 9: pierrotlo (button) showed [9d Ks] and won 6440 with Trips of Kings
+
+

@@ -1,0 +1,1790 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #1743646204077539350-1-1606162531 - Holdem no limit (12/50/100) - 2020/11/23 20:15:31 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #3 is the button
+Seat 1: Gilhou94 (20000)
+Seat 2: santi735 (20000)
+Seat 3: kibiline (20000)
+Seat 4: I SEE (20000)
+Seat 5: Jose5545 (20000)
+Seat 6: Popeye y-v (20000)
+Seat 7: Badbad54 (20000)
+Seat 8: manggy94 (20000)
+*** ANTE/BLINDS ***
+I SEE posts ante 12
+Jose5545 posts ante 12
+Gilhou94 posts ante 12
+santi735 posts ante 12
+kibiline posts ante 12
+Popeye y-v posts ante 12
+Badbad54 posts ante 12
+manggy94 posts ante 12
+I SEE posts small blind 50
+Jose5545 posts big blind 100
+Dealt to manggy94 [Ks 5s]
+*** PRE-FLOP *** 
+Popeye y-v calls 100
+Badbad54 folds
+manggy94 folds
+Gilhou94 folds
+santi735 folds
+kibiline calls 100
+I SEE calls 50
+Jose5545 checks
+*** FLOP *** [Jc 7s Kc]
+I SEE checks
+Jose5545 checks
+Popeye y-v checks
+kibiline checks
+*** TURN *** [Jc 7s Kc][Td]
+I SEE checks
+Jose5545 checks
+Popeye y-v checks
+kibiline checks
+*** RIVER *** [Jc 7s Kc Td][4d]
+I SEE checks
+Jose5545 checks
+Popeye y-v checks
+kibiline checks
+*** SHOW DOWN ***
+I SEE shows [5d Qs] (High card : King)
+Jose5545 shows [8s 6c] (High card : King)
+Popeye y-v shows [9s 5c] (High card : King)
+kibiline shows [Ac 3s] (High card : Ace)
+kibiline collected 496 from pot
+*** SUMMARY ***
+Total pot 496 | No rake
+Board: [Jc 7s Kc Td 4d]
+Seat 3: kibiline (button) showed [Ac 3s] and won 496 with High card : Ace
+Seat 4: I SEE (small blind) showed [5d Qs] and lost with High card : King
+Seat 5: Jose5545 (big blind) showed [8s 6c] and lost with High card : King
+Seat 6: Popeye y-v showed [9s 5c] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1743646204077539350-2-1606162743 - Holdem no limit (14/60/120) - 2020/11/23 20:19:03 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #4 is the button
+Seat 1: Gilhou94 (19988)
+Seat 2: santi735 (19988)
+Seat 3: kibiline (20384)
+Seat 4: I SEE (19888)
+Seat 5: Jose5545 (19888)
+Seat 6: Popeye y-v (19888)
+Seat 7: Badbad54 (19988)
+Seat 8: manggy94 (19988)
+*** ANTE/BLINDS ***
+Jose5545 posts ante 14
+Popeye y-v posts ante 14
+Gilhou94 posts ante 14
+santi735 posts ante 14
+kibiline posts ante 14
+I SEE posts ante 14
+Badbad54 posts ante 14
+manggy94 posts ante 14
+Jose5545 posts small blind 60
+Popeye y-v posts big blind 120
+Dealt to manggy94 [Ad 4h]
+*** PRE-FLOP *** 
+Badbad54 folds
+manggy94 folds
+Gilhou94 calls 120
+santi735 calls 120
+kibiline calls 120
+I SEE calls 120
+Jose5545 folds
+Popeye y-v checks
+*** FLOP *** [Jh Ac Js]
+Popeye y-v checks
+Gilhou94 checks
+santi735 checks
+kibiline checks
+I SEE checks
+*** TURN *** [Jh Ac Js][2s]
+Popeye y-v checks
+Gilhou94 bets 386
+santi735 folds
+kibiline calls 386
+I SEE folds
+Popeye y-v calls 386
+*** RIVER *** [Jh Ac Js 2s][Qc]
+Popeye y-v checks
+Gilhou94 checks
+kibiline bets 2160
+Popeye y-v calls 2160
+Gilhou94 folds
+*** SHOW DOWN ***
+Popeye y-v shows [2d 4d] (Two pairs : Jacks and 2)
+kibiline shows [2c Jc] (Full of Jacks and 2)
+kibiline collected 6250 from pot
+*** SUMMARY ***
+Total pot 6250 | No rake
+Board: [Jh Ac Js 2s Qc]
+Seat 3: kibiline showed [2c Jc] and won 6250 with Full of Jacks and 2
+Seat 6: Popeye y-v (big blind) showed [2d 4d] and lost with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1743646204077539350-3-1606162922 - Holdem no limit (16/70/140) - 2020/11/23 20:22:02 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #5 is the button
+Seat 1: Gilhou94 (19468)
+Seat 2: santi735 (19854)
+Seat 3: kibiline (23954)
+Seat 4: I SEE (19754)
+Seat 5: Jose5545 (19814)
+Seat 6: Popeye y-v (17208)
+Seat 7: Badbad54 (19974)
+Seat 8: manggy94 (19974)
+*** ANTE/BLINDS ***
+Popeye y-v posts ante 16
+Badbad54 posts ante 16
+Gilhou94 posts ante 16
+santi735 posts ante 16
+kibiline posts ante 16
+I SEE posts ante 16
+Jose5545 posts ante 16
+manggy94 posts ante 16
+Popeye y-v posts small blind 70
+Badbad54 posts big blind 140
+Dealt to manggy94 [Th Td]
+*** PRE-FLOP *** 
+manggy94 raises 280 to 420
+Gilhou94 calls 420
+santi735 raises 19418 to 19838 and is all-in
+kibiline folds
+I SEE folds
+Jose5545 folds
+Popeye y-v folds
+Badbad54 folds
+manggy94 calls 19418
+Gilhou94 folds
+*** FLOP *** [Qd 7h 9h]
+*** TURN *** [Qd 7h 9h][6d]
+*** RIVER *** [Qd 7h 9h 6d][7c]
+*** SHOW DOWN ***
+santi735 shows [9c Ah] (Two pairs : 9 and 7)
+manggy94 shows [Th Td] (Two pairs : Tens and 7)
+manggy94 collected 40434 from pot
+*** SUMMARY ***
+Total pot 40434 | No rake
+Board: [Qd 7h 9h 6d 7c]
+Seat 2: santi735 showed [9c Ah] and lost with Two pairs : 9 and 7
+Seat 8: manggy94 showed [Th Td] and won 40434 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1743646204077539350-4-1606162973 - Holdem no limit (16/70/140) - 2020/11/23 20:22:53 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #6 is the button
+Seat 1: Gilhou94 (19032)
+Seat 2: vrinou22 (20000)
+Seat 3: kibiline (23938)
+Seat 4: I SEE (19738)
+Seat 5: Jose5545 (19798)
+Seat 6: Popeye y-v (17122)
+Seat 7: Badbad54 (19818)
+Seat 8: manggy94 (40554)
+*** ANTE/BLINDS ***
+Badbad54 posts ante 16
+manggy94 posts ante 16
+Gilhou94 posts ante 16
+vrinou22 posts ante 16
+kibiline posts ante 16
+I SEE posts ante 16
+Jose5545 posts ante 16
+Popeye y-v posts ante 16
+Badbad54 posts small blind 70
+manggy94 posts big blind 140
+Dealt to manggy94 [Tc Jd]
+*** PRE-FLOP *** 
+Gilhou94 raises 18876 to 19016 and is all-in
+vrinou22 folds
+kibiline folds
+I SEE folds
+Jose5545 folds
+Popeye y-v folds
+Badbad54 folds
+manggy94 folds
+Gilhou94 collected 19354 from pot
+*** SUMMARY ***
+Total pot 19354 | No rake
+Seat 1: Gilhou94 won 19354
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1743646204077539350-5-1606163003 - Holdem no limit (20/80/160) - 2020/11/23 20:23:23 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #7 is the button
+Seat 1: Gilhou94 (19354)
+Seat 2: vrinou22 (19984)
+Seat 3: kibiline (23922)
+Seat 4: I SEE (19722)
+Seat 5: Jose5545 (19782)
+Seat 6: Popeye y-v (17106)
+Seat 7: Badbad54 (19732)
+Seat 8: manggy94 (40398)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+Gilhou94 posts ante 20
+vrinou22 posts ante 20
+kibiline posts ante 20
+I SEE posts ante 20
+Jose5545 posts ante 20
+Popeye y-v posts ante 20
+Badbad54 posts ante 20
+manggy94 posts small blind 80
+Gilhou94 posts big blind 160
+Dealt to manggy94 [7s 2c]
+*** PRE-FLOP *** 
+vrinou22 calls 160
+kibiline folds
+I SEE calls 160
+Jose5545 folds
+Popeye y-v folds
+Badbad54 folds
+manggy94 folds
+Gilhou94 checks
+*** FLOP *** [Ad Kc Jd]
+Gilhou94 checks
+vrinou22 checks
+I SEE checks
+*** TURN *** [Ad Kc Jd][3c]
+Gilhou94 checks
+vrinou22 checks
+I SEE bets 720
+Gilhou94 folds
+vrinou22 folds
+I SEE collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [Ad Kc Jd 3c]
+Seat 4: I SEE won 1440
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1743646204077539350-6-1606163057 - Holdem no limit (20/80/160) - 2020/11/23 20:24:17 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #8 is the button
+Seat 1: Gilhou94 (19174)
+Seat 2: vrinou22 (19804)
+Seat 3: kibiline (23902)
+Seat 4: I SEE (20262)
+Seat 5: Jose5545 (19762)
+Seat 6: Popeye y-v (17086)
+Seat 7: Badbad54 (19712)
+Seat 8: manggy94 (40298)
+*** ANTE/BLINDS ***
+Gilhou94 posts ante 20
+vrinou22 posts ante 20
+kibiline posts ante 20
+I SEE posts ante 20
+Jose5545 posts ante 20
+Popeye y-v posts ante 20
+Badbad54 posts ante 20
+manggy94 posts ante 20
+Gilhou94 posts small blind 80
+vrinou22 posts big blind 160
+Dealt to manggy94 [9d Jc]
+*** PRE-FLOP *** 
+kibiline calls 160
+I SEE calls 160
+Jose5545 folds
+Popeye y-v raises 160 to 320
+Badbad54 folds
+manggy94 folds
+Gilhou94 calls 240
+vrinou22 folds
+kibiline calls 160
+I SEE calls 160
+*** FLOP *** [6c 9h 3c]
+Gilhou94 checks
+kibiline checks
+I SEE checks
+Popeye y-v checks
+*** TURN *** [6c 9h 3c][8c]
+Gilhou94 bets 800
+kibiline calls 800
+I SEE calls 800
+Popeye y-v folds
+*** RIVER *** [6c 9h 3c 8c][6d]
+Gilhou94 bets 2000
+kibiline folds
+I SEE calls 2000
+*** SHOW DOWN ***
+Gilhou94 shows [6s Ac] (Trips of 6)
+I SEE shows [5h 7d] (Straight 9 high)
+I SEE collected 8000 from pot
+*** SUMMARY ***
+Total pot 8000 | No rake
+Board: [6c 9h 3c 8c 6d]
+Seat 1: Gilhou94 (small blind) showed [6s Ac] and lost with Trips of 6
+Seat 4: I SEE showed [5h 7d] and won 8000 with Straight 9 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1743646204077539350-7-1606163144 - Holdem no limit (25/100/200) - 2020/11/23 20:25:44 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #1 is the button
+Seat 1: Gilhou94 (16034)
+Seat 2: vrinou22 (19624)
+Seat 3: kibiline (22762)
+Seat 4: I SEE (25122)
+Seat 5: Jose5545 (19742)
+Seat 6: Popeye y-v (16746)
+Seat 7: Badbad54 (19692)
+Seat 8: manggy94 (40278)
+*** ANTE/BLINDS ***
+vrinou22 posts ante 25
+kibiline posts ante 25
+Gilhou94 posts ante 25
+I SEE posts ante 25
+Jose5545 posts ante 25
+Popeye y-v posts ante 25
+Badbad54 posts ante 25
+manggy94 posts ante 25
+vrinou22 posts small blind 100
+kibiline posts big blind 200
+Dealt to manggy94 [Qs 3d]
+*** PRE-FLOP *** 
+I SEE folds
+Jose5545 folds
+Popeye y-v calls 200
+Badbad54 folds
+manggy94 folds
+Gilhou94 calls 200
+vrinou22 raises 200 to 400
+kibiline calls 200
+Popeye y-v calls 200
+Gilhou94 calls 200
+*** FLOP *** [2d 5d Qc]
+vrinou22 bets 200
+kibiline folds
+Popeye y-v calls 200
+Gilhou94 folds
+*** TURN *** [2d 5d Qc][Jc]
+vrinou22 checks
+Popeye y-v bets 200
+vrinou22 folds
+Popeye y-v collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [2d 5d Qc Jc]
+Seat 6: Popeye y-v won 2400
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1743646204077539350-8-1606163244 - Holdem no limit (25/100/200) - 2020/11/23 20:27:24 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #2 is the button
+Seat 1: Gilhou94 (15609)
+Seat 2: vrinou22 (18999)
+Seat 3: kibiline (22337)
+Seat 4: I SEE (25097)
+Seat 5: Jose5545 (19717)
+Seat 6: Popeye y-v (18321)
+Seat 7: Badbad54 (19667)
+Seat 8: manggy94 (40253)
+*** ANTE/BLINDS ***
+kibiline posts ante 25
+I SEE posts ante 25
+Gilhou94 posts ante 25
+vrinou22 posts ante 25
+Jose5545 posts ante 25
+Popeye y-v posts ante 25
+Badbad54 posts ante 25
+manggy94 posts ante 25
+kibiline posts small blind 100
+I SEE posts big blind 200
+Dealt to manggy94 [Jc 5h]
+*** PRE-FLOP *** 
+Jose5545 folds
+Popeye y-v folds
+Badbad54 folds
+manggy94 folds
+Gilhou94 folds
+vrinou22 calls 200
+kibiline calls 100
+I SEE checks
+*** FLOP *** [Ad 8c Qh]
+kibiline checks
+I SEE checks
+vrinou22 checks
+*** TURN *** [Ad 8c Qh][Jh]
+kibiline checks
+I SEE checks
+vrinou22 checks
+*** RIVER *** [Ad 8c Qh Jh][Ah]
+kibiline bets 6100
+I SEE raises 18772 to 24872 and is all-in
+vrinou22 calls 18774 and is all-in
+kibiline calls 16012 and is all-in
+*** SHOW DOWN ***
+vrinou22 shows [Ts Qc] (Two pairs : Aces and Queens)
+kibiline shows [7h 6h] (Flush Ace high)
+I SEE shows [2h Th] (Flush Ace high)
+I SEE collected 66558 from pot
+*** SUMMARY ***
+Total pot 66558 | No rake
+Board: [Ad 8c Qh Jh Ah]
+Seat 2: vrinou22 (button) showed [Ts Qc] and lost with Two pairs : Aces and Queens
+Seat 3: kibiline (small blind) showed [7h 6h] and lost with Flush Ace high
+Seat 4: I SEE (big blind) showed [2h Th] and won 66558 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1743646204077539350-9-1606163328 - Holdem no limit (30/125/250) - 2020/11/23 20:28:48 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #3 is the button
+Seat 1: Gilhou94 (15584)
+Seat 2: Niicccoooo78 (20000)
+Seat 3: AlainBot1962 (58446)
+Seat 4: I SEE (66558)
+Seat 5: Jose5545 (19692)
+Seat 6: Popeye y-v (18296)
+Seat 7: Badbad54 (19642)
+Seat 8: manggy94 (40228)
+*** ANTE/BLINDS ***
+I SEE posts ante 30
+Jose5545 posts ante 30
+Gilhou94 posts ante 30
+Niicccoooo78 posts ante 30
+Popeye y-v posts ante 30
+Badbad54 posts ante 30
+manggy94 posts ante 30
+I SEE posts small blind 125
+Jose5545 posts big blind 250
+Dealt to manggy94 [6c Kh]
+*** PRE-FLOP *** 
+Popeye y-v calls 250
+Badbad54 folds
+manggy94 folds
+Gilhou94 calls 250
+Niicccoooo78 calls 250
+I SEE calls 125
+Jose5545 folds
+*** FLOP *** [Qs Qh As]
+I SEE checks
+Popeye y-v checks
+Gilhou94 checks
+Niicccoooo78 bets 1000
+I SEE folds
+Popeye y-v folds
+Gilhou94 folds
+Niicccoooo78 shows [2h 2c] (Two pairs : Queens and 2)
+Niicccoooo78 collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Board: [Qs Qh As]
+Seat 2: Niicccoooo78 showed [2h 2c] and won 2460 with Two pairs : Queens and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1743646204077539350-10-1606163399 - Holdem no limit (30/125/250) - 2020/11/23 20:29:59 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #4 is the button
+Seat 1: Gilhou94 (15304)
+Seat 2: Niicccoooo78 (21180)
+Seat 3: AlainBot1962 (58446)
+Seat 4: I SEE (66278)
+Seat 5: Jose5545 (19412)
+Seat 6: Popeye y-v (18016)
+Seat 7: Badbad54 (19612)
+Seat 8: manggy94 (40198)
+*** ANTE/BLINDS ***
+Jose5545 posts ante 30
+Popeye y-v posts ante 30
+Gilhou94 posts ante 30
+Niicccoooo78 posts ante 30
+AlainBot1962 posts ante 30
+I SEE posts ante 30
+Badbad54 posts ante 30
+manggy94 posts ante 30
+Jose5545 posts small blind 125
+Popeye y-v posts big blind 250
+Dealt to manggy94 [9h 3s]
+*** PRE-FLOP *** 
+Badbad54 folds
+manggy94 folds
+Gilhou94 calls 250
+Niicccoooo78 calls 250
+AlainBot1962 folds
+I SEE calls 250
+Jose5545 folds
+Popeye y-v checks
+*** FLOP *** [5d 3c 2d]
+Popeye y-v bets 250
+Gilhou94 folds
+Niicccoooo78 folds
+I SEE calls 250
+*** TURN *** [5d 3c 2d][6c]
+Popeye y-v bets 250
+I SEE calls 250
+*** RIVER *** [5d 3c 2d 6c][3h]
+Popeye y-v bets 250
+I SEE calls 250
+*** SHOW DOWN ***
+Popeye y-v shows [2h 5c] (Two pairs : 5 and 3)
+I SEE shows [6h 8d] (Two pairs : 6 and 3)
+I SEE collected 2865 from pot
+*** SUMMARY ***
+Total pot 2865 | No rake
+Board: [5d 3c 2d 6c 3h]
+Seat 4: I SEE (button) showed [6h 8d] and won 2865 with Two pairs : 6 and 3
+Seat 6: Popeye y-v (big blind) showed [2h 5c] and lost with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1743646204077539350-11-1606163448 - Holdem no limit (35/150/300) - 2020/11/23 20:30:48 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #5 is the button
+Seat 1: Gilhou94 (15024)
+Seat 2: Niicccoooo78 (20900)
+Seat 3: AlainBot1962 (58416)
+Seat 4: I SEE (68113)
+Seat 5: Jose5545 (19257)
+Seat 6: Popeye y-v (16986)
+Seat 7: Badbad54 (19582)
+Seat 8: manggy94 (40168)
+*** ANTE/BLINDS ***
+Popeye y-v posts ante 35
+Badbad54 posts ante 35
+Gilhou94 posts ante 35
+Niicccoooo78 posts ante 35
+AlainBot1962 posts ante 35
+I SEE posts ante 35
+Jose5545 posts ante 35
+manggy94 posts ante 35
+Popeye y-v posts small blind 150
+Badbad54 posts big blind 300
+Dealt to manggy94 [Qs Ah]
+*** PRE-FLOP *** 
+manggy94 folds
+Gilhou94 folds
+Niicccoooo78 folds
+AlainBot1962 folds
+I SEE calls 300
+Jose5545 folds
+Popeye y-v calls 150
+Badbad54 folds
+*** FLOP *** [5s Ts 4h]
+Popeye y-v checks
+I SEE checks
+*** TURN *** [5s Ts 4h][Jh]
+Popeye y-v bets 300
+I SEE calls 300
+*** RIVER *** [5s Ts 4h Jh][Qc]
+Popeye y-v checks
+I SEE bets 1780
+Popeye y-v folds
+I SEE collected 3560 from pot
+*** SUMMARY ***
+Total pot 3560 | No rake
+Board: [5s Ts 4h Jh Qc]
+Seat 4: I SEE won 3560
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1743646204077539350-12-1606163472 - Holdem no limit (35/150/300) - 2020/11/23 20:31:12 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #6 is the button
+Seat 1: Gilhou94 (14989)
+Seat 2: Niicccoooo78 (20865)
+Seat 3: AlainBot1962 (58381)
+Seat 4: I SEE (69258)
+Seat 5: Jose5545 (19222)
+Seat 6: Popeye y-v (16351)
+Seat 7: Badbad54 (19247)
+Seat 8: manggy94 (40133)
+*** ANTE/BLINDS ***
+Badbad54 posts ante 35
+manggy94 posts ante 35
+Gilhou94 posts ante 35
+Niicccoooo78 posts ante 35
+AlainBot1962 posts ante 35
+I SEE posts ante 35
+Jose5545 posts ante 35
+Popeye y-v posts ante 35
+Badbad54 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [2h 6h]
+*** PRE-FLOP *** 
+Gilhou94 folds
+Niicccoooo78 folds
+AlainBot1962 folds
+I SEE calls 300
+Jose5545 folds
+Popeye y-v calls 300
+Badbad54 folds
+manggy94 checks
+*** FLOP *** [Qc 7h 8d]
+manggy94 checks
+I SEE checks
+Popeye y-v checks
+*** TURN *** [Qc 7h 8d][Kc]
+manggy94 checks
+I SEE bets 1330
+Popeye y-v folds
+manggy94 folds
+I SEE collected 2660 from pot
+*** SUMMARY ***
+Total pot 2660 | No rake
+Board: [Qc 7h 8d Kc]
+Seat 4: I SEE won 2660
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1743646204077539350-13-1606163514 - Holdem no limit (35/150/300) - 2020/11/23 20:31:54 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #7 is the button
+Seat 1: Gilhou94 (14954)
+Seat 2: Niicccoooo78 (20830)
+Seat 3: AlainBot1962 (58346)
+Seat 4: I SEE (70253)
+Seat 5: Jose5545 (19187)
+Seat 6: Popeye y-v (16016)
+Seat 7: Badbad54 (19062)
+Seat 8: manggy94 (39798)
+*** ANTE/BLINDS ***
+manggy94 posts ante 35
+Gilhou94 posts ante 35
+Niicccoooo78 posts ante 35
+AlainBot1962 posts ante 35
+I SEE posts ante 35
+Jose5545 posts ante 35
+Popeye y-v posts ante 35
+Badbad54 posts ante 35
+manggy94 posts small blind 150
+Gilhou94 posts big blind 300
+Dealt to manggy94 [Ac Qh]
+*** PRE-FLOP *** 
+Niicccoooo78 folds
+AlainBot1962 raises 300 to 600
+I SEE calls 600
+Jose5545 folds
+Popeye y-v calls 600
+Badbad54 folds
+manggy94 raises 300 to 900
+Gilhou94 calls 600
+AlainBot1962 calls 300
+I SEE calls 300
+Popeye y-v calls 300
+*** FLOP *** [3h 2c Ks]
+manggy94 bets 2390
+Gilhou94 folds
+AlainBot1962 folds
+I SEE calls 2390
+Popeye y-v folds
+*** TURN *** [3h 2c Ks][8c]
+manggy94 bets 4780
+I SEE raises 62148 to 66928 and is all-in
+manggy94 folds
+I SEE collected 81268 from pot
+*** SUMMARY ***
+Total pot 81268 | No rake
+Board: [3h 2c Ks 8c]
+Seat 4: I SEE won 81268
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #1743646204077539350-14-1606163582 - Holdem no limit (40/175/350) - 2020/11/23 20:33:02 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #8 is the button
+Seat 1: Gilhou94 (14019)
+Seat 2: Niicccoooo78 (20795)
+Seat 3: AlainBot1962 (57411)
+Seat 4: I SEE (81268)
+Seat 5: Jose5545 (19152)
+Seat 6: Popeye y-v (15081)
+Seat 7: Badbad54 (19027)
+Seat 8: manggy94 (31693)
+*** ANTE/BLINDS ***
+Gilhou94 posts ante 40
+Niicccoooo78 posts ante 40
+AlainBot1962 posts ante 40
+I SEE posts ante 40
+Jose5545 posts ante 40
+Popeye y-v posts ante 40
+Badbad54 posts ante 40
+manggy94 posts ante 40
+Gilhou94 posts small blind 175
+Niicccoooo78 posts big blind 350
+Dealt to manggy94 [Ts 2d]
+*** PRE-FLOP *** 
+AlainBot1962 folds
+I SEE calls 350
+Jose5545 folds
+Popeye y-v raises 1050 to 1400
+Badbad54 folds
+manggy94 folds
+Gilhou94 folds
+Niicccoooo78 folds
+I SEE folds
+Popeye y-v collected 2595 from pot
+*** SUMMARY ***
+Total pot 2595 | No rake
+Seat 6: Popeye y-v won 2595
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #1743646204077539350-15-1606163612 - Holdem no limit (40/175/350) - 2020/11/23 20:33:32 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #1 is the button
+Seat 1: Gilhou94 (13804)
+Seat 2: Niicccoooo78 (20405)
+Seat 3: AlainBot1962 (57371)
+Seat 4: I SEE (80878)
+Seat 5: Jose5545 (19112)
+Seat 6: Popeye y-v (16236)
+Seat 7: Badbad54 (18987)
+Seat 8: manggy94 (31653)
+*** ANTE/BLINDS ***
+Niicccoooo78 posts ante 40
+AlainBot1962 posts ante 40
+Gilhou94 posts ante 40
+I SEE posts ante 40
+Jose5545 posts ante 40
+Popeye y-v posts ante 40
+Badbad54 posts ante 40
+manggy94 posts ante 40
+Niicccoooo78 posts small blind 175
+AlainBot1962 posts big blind 350
+Dealt to manggy94 [9d 2s]
+*** PRE-FLOP *** 
+I SEE calls 350
+Jose5545 folds
+Popeye y-v calls 350
+Badbad54 folds
+manggy94 folds
+Gilhou94 calls 350
+Niicccoooo78 calls 175
+AlainBot1962 checks
+*** FLOP *** [6c 8h Ad]
+Niicccoooo78 checks
+AlainBot1962 checks
+I SEE checks
+Popeye y-v bets 350
+Gilhou94 calls 350
+Niicccoooo78 folds
+AlainBot1962 folds
+I SEE folds
+*** TURN *** [6c 8h Ad][Jc]
+Popeye y-v bets 350
+Gilhou94 calls 350
+*** RIVER *** [6c 8h Ad Jc][4d]
+Popeye y-v bets 350
+Gilhou94 folds
+Popeye y-v collected 3820 from pot
+*** SUMMARY ***
+Total pot 3820 | No rake
+Board: [6c 8h Ad Jc 4d]
+Seat 6: Popeye y-v won 3820
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #1743646204077539350-16-1606163651 - Holdem no limit (40/175/350) - 2020/11/23 20:34:11 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #2 is the button
+Seat 1: Gilhou94 (12714)
+Seat 2: Niicccoooo78 (20015)
+Seat 3: AlainBot1962 (56981)
+Seat 4: I SEE (80488)
+Seat 5: Jose5545 (19072)
+Seat 6: Popeye y-v (18616)
+Seat 7: Badbad54 (18947)
+Seat 8: manggy94 (31613)
+*** ANTE/BLINDS ***
+AlainBot1962 posts ante 40
+I SEE posts ante 40
+Gilhou94 posts ante 40
+Niicccoooo78 posts ante 40
+Jose5545 posts ante 40
+Popeye y-v posts ante 40
+Badbad54 posts ante 40
+manggy94 posts ante 40
+AlainBot1962 posts small blind 175
+I SEE posts big blind 350
+Dealt to manggy94 [9s Js]
+*** PRE-FLOP *** 
+Jose5545 folds
+Popeye y-v calls 350
+Badbad54 folds
+manggy94 calls 350
+Gilhou94 folds
+Niicccoooo78 folds
+AlainBot1962 calls 175
+I SEE checks
+*** FLOP *** [9d 7h 2d]
+AlainBot1962 checks
+I SEE checks
+Popeye y-v checks
+manggy94 bets 860
+AlainBot1962 folds
+I SEE folds
+Popeye y-v calls 860
+*** TURN *** [9d 7h 2d][Kc]
+Popeye y-v checks
+manggy94 bets 1720
+Popeye y-v calls 1720
+*** RIVER *** [9d 7h 2d Kc][2h]
+Popeye y-v checks
+manggy94 checks
+*** SHOW DOWN ***
+Popeye y-v shows [4d 8d] (One pair : 2)
+manggy94 shows [9s Js] (Two pairs : 9 and 2)
+manggy94 collected 6880 from pot
+*** SUMMARY ***
+Total pot 6880 | No rake
+Board: [9d 7h 2d Kc 2h]
+Seat 6: Popeye y-v showed [4d 8d] and lost with One pair : 2
+Seat 8: manggy94 showed [9s Js] and won 6880 with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #1743646204077539350-17-1606163704 - Holdem no limit (40/175/350) - 2020/11/23 20:35:04 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #3 is the button
+Seat 1: Gilhou94 (12674)
+Seat 2: Niicccoooo78 (19975)
+Seat 3: AlainBot1962 (56591)
+Seat 4: I SEE (80098)
+Seat 5: Jose5545 (19032)
+Seat 6: Popeye y-v (15646)
+Seat 7: Badbad54 (18907)
+Seat 8: manggy94 (35523)
+*** ANTE/BLINDS ***
+I SEE posts ante 40
+Jose5545 posts ante 40
+Gilhou94 posts ante 40
+Niicccoooo78 posts ante 40
+AlainBot1962 posts ante 40
+Popeye y-v posts ante 40
+Badbad54 posts ante 40
+manggy94 posts ante 40
+I SEE posts small blind 175
+Jose5545 posts big blind 350
+Dealt to manggy94 [7s Js]
+*** PRE-FLOP *** 
+Popeye y-v raises 350 to 700
+Badbad54 folds
+manggy94 calls 700
+Gilhou94 folds
+Niicccoooo78 calls 700
+AlainBot1962 folds
+I SEE calls 525
+Jose5545 calls 350
+*** FLOP *** [2d Qc 2c]
+I SEE checks
+Jose5545 checks
+Popeye y-v bets 350
+manggy94 folds
+Niicccoooo78 raises 1225 to 1575
+I SEE calls 1575
+Jose5545 folds
+Popeye y-v calls 1225
+*** TURN *** [2d Qc 2c][7d]
+I SEE checks
+Popeye y-v checks
+Niicccoooo78 checks
+*** RIVER *** [2d Qc 2c 7d][3s]
+I SEE bets 8545
+Popeye y-v raises 4786 to 13331 and is all-in
+Niicccoooo78 folds
+I SEE calls 4786
+*** SHOW DOWN ***
+Popeye y-v shows [9h Qh] (Two pairs : Queens and 2)
+I SEE shows [Td Qd] (Two pairs : Queens and 2)
+I SEE collected 35207 from pot
+*** SUMMARY ***
+Total pot 35207 | No rake
+Board: [2d Qc 2c 7d 3s]
+Seat 4: I SEE (small blind) showed [Td Qd] and won 35207 with Two pairs : Queens and 2
+Seat 6: Popeye y-v showed [9h Qh] and lost with Two pairs : Queens and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #1743646204077539350-18-1606163807 - Holdem no limit (50/200/400) - 2020/11/23 20:36:47 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #4 is the button
+Seat 1: Gilhou94 (12634)
+Seat 2: Niicccoooo78 (17660)
+Seat 3: AlainBot1962 (56551)
+Seat 4: I SEE (99659)
+Seat 5: Jose5545 (18292)
+Seat 7: Badbad54 (18867)
+Seat 8: manggy94 (34783)
+*** ANTE/BLINDS ***
+Jose5545 posts ante 50
+Badbad54 posts ante 50
+Gilhou94 posts ante 50
+Niicccoooo78 posts ante 50
+AlainBot1962 posts ante 50
+I SEE posts ante 50
+manggy94 posts ante 50
+Jose5545 posts small blind 200
+Badbad54 posts big blind 400
+Dealt to manggy94 [Ks 4c]
+*** PRE-FLOP *** 
+manggy94 folds
+Gilhou94 folds
+Niicccoooo78 folds
+AlainBot1962 folds
+I SEE calls 400
+Jose5545 calls 200
+Badbad54 folds
+*** FLOP *** [Ts 4s 3c]
+Jose5545 checks
+I SEE checks
+*** TURN *** [Ts 4s 3c][9s]
+Jose5545 checks
+I SEE checks
+*** RIVER *** [Ts 4s 3c 9s][Td]
+Jose5545 checks
+I SEE checks
+*** SHOW DOWN ***
+I SEE shows [Jd 5d] (One pair : Tens)
+Jose5545 shows [8c Qd] (One pair : Tens)
+Jose5545 collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [Ts 4s 3c 9s Td]
+Seat 4: I SEE (button) showed [Jd 5d] and lost with One pair : Tens
+Seat 5: Jose5545 (small blind) showed [8c Qd] and won 1550 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #1743646204077539350-19-1606163853 - Holdem no limit (50/200/400) - 2020/11/23 20:37:33 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #5 is the button
+Seat 1: Gilhou94 (12584)
+Seat 2: Niicccoooo78 (17610)
+Seat 3: AlainBot1962 (56501)
+Seat 4: I SEE (99209)
+Seat 5: Jose5545 (19392)
+Seat 6: dnieblaf (20000)
+Seat 7: Badbad54 (18417)
+Seat 8: manggy94 (34733)
+*** ANTE/BLINDS ***
+Badbad54 posts ante 50
+manggy94 posts ante 50
+Gilhou94 posts ante 50
+Niicccoooo78 posts ante 50
+AlainBot1962 posts ante 50
+I SEE posts ante 50
+Jose5545 posts ante 50
+Badbad54 posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [9c 7d]
+*** PRE-FLOP *** 
+Gilhou94 folds
+Niicccoooo78 raises 800 to 1200
+AlainBot1962 folds
+I SEE calls 1200
+Jose5545 calls 1200
+Badbad54 folds
+manggy94 folds
+*** FLOP *** [8c Qs 9d]
+Niicccoooo78 checks
+I SEE checks
+Jose5545 checks
+*** TURN *** [8c Qs 9d][9s]
+Niicccoooo78 checks
+I SEE checks
+Jose5545 checks
+*** RIVER *** [8c Qs 9d 9s][6h]
+Niicccoooo78 bets 1200
+I SEE calls 1200
+Jose5545 folds
+*** SHOW DOWN ***
+Niicccoooo78 shows [Jd Ac] (One pair : 9)
+I SEE shows [Ts 8s] (Two pairs : 9 and 8)
+I SEE collected 6950 from pot
+*** SUMMARY ***
+Total pot 6950 | No rake
+Board: [8c Qs 9d 9s 6h]
+Seat 2: Niicccoooo78 showed [Jd Ac] and lost with One pair : 9
+Seat 4: I SEE showed [Ts 8s] and won 6950 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1743646204077539350-20-1606163905 - Holdem no limit (60/250/500) - 2020/11/23 20:38:25 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #7 is the button
+Seat 1: Gilhou94 (12534)
+Seat 2: Niicccoooo78 (15160)
+Seat 3: AlainBot1962 (56451)
+Seat 4: I SEE (103709)
+Seat 5: Jose5545 (18142)
+Seat 6: dnieblaf (20000)
+Seat 7: Badbad54 (18167)
+Seat 8: manggy94 (34283)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+Gilhou94 posts ante 60
+Niicccoooo78 posts ante 60
+AlainBot1962 posts ante 60
+I SEE posts ante 60
+Jose5545 posts ante 60
+dnieblaf posts ante 60
+Badbad54 posts ante 60
+manggy94 posts small blind 250
+Gilhou94 posts big blind 500
+Dealt to manggy94 [2s 4s]
+*** PRE-FLOP *** 
+Niicccoooo78 folds
+AlainBot1962 calls 500
+I SEE calls 500
+Jose5545 calls 500
+dnieblaf raises 19440 to 19940 and is all-in
+Badbad54 folds
+manggy94 folds
+Gilhou94 folds
+AlainBot1962 folds
+I SEE folds
+Jose5545 folds
+dnieblaf collected 22670 from pot
+*** SUMMARY ***
+Total pot 22670 | No rake
+Seat 6: dnieblaf won 22670
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1743646204077539350-21-1606163956 - Holdem no limit (60/250/500) - 2020/11/23 20:39:16 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #8 is the button
+Seat 1: Gilhou94 (11974)
+Seat 2: Niicccoooo78 (15100)
+Seat 3: AlainBot1962 (55891)
+Seat 4: I SEE (103149)
+Seat 5: Jose5545 (17582)
+Seat 6: dnieblaf (22670)
+Seat 7: Badbad54 (18107)
+Seat 8: manggy94 (33973)
+*** ANTE/BLINDS ***
+Gilhou94 posts ante 60
+Niicccoooo78 posts ante 60
+AlainBot1962 posts ante 60
+I SEE posts ante 60
+Jose5545 posts ante 60
+dnieblaf posts ante 60
+Badbad54 posts ante 60
+manggy94 posts ante 60
+Gilhou94 posts small blind 250
+Niicccoooo78 posts big blind 500
+Dealt to manggy94 [Qh 5h]
+*** PRE-FLOP *** 
+AlainBot1962 folds
+I SEE calls 500
+Jose5545 calls 500
+dnieblaf raises 22110 to 22610 and is all-in
+Badbad54 folds
+manggy94 folds
+Gilhou94 folds
+Niicccoooo78 folds
+I SEE folds
+Jose5545 calls 17022 and is all-in
+*** FLOP *** [2d 9d 4c]
+*** TURN *** [2d 9d 4c][As]
+*** RIVER *** [2d 9d 4c As][Qs]
+*** SHOW DOWN ***
+Jose5545 shows [Qc 8c] (One pair : Queens)
+dnieblaf shows [Ad 8d] (One pair : Aces)
+dnieblaf collected 41862 from pot
+*** SUMMARY ***
+Total pot 41862 | No rake
+Board: [2d 9d 4c As Qs]
+Seat 5: Jose5545 showed [Qc 8c] and lost with One pair : Queens
+Seat 6: dnieblaf showed [Ad 8d] and won 41862 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1743646204077539350-22-1606163993 - Holdem no limit (60/250/500) - 2020/11/23 20:39:53 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #1 is the button
+Seat 1: Gilhou94 (11664)
+Seat 2: Niicccoooo78 (14540)
+Seat 3: AlainBot1962 (55831)
+Seat 4: I SEE (102589)
+Seat 6: dnieblaf (41862)
+Seat 7: Badbad54 (18047)
+Seat 8: manggy94 (33913)
+*** ANTE/BLINDS ***
+Niicccoooo78 posts ante 60
+AlainBot1962 posts ante 60
+Gilhou94 posts ante 60
+I SEE posts ante 60
+dnieblaf posts ante 60
+Badbad54 posts ante 60
+manggy94 posts ante 60
+Niicccoooo78 posts small blind 250
+AlainBot1962 posts big blind 500
+Dealt to manggy94 [4h Tc]
+*** PRE-FLOP *** 
+I SEE calls 500
+dnieblaf raises 500 to 1000
+Badbad54 folds
+manggy94 folds
+Gilhou94 folds
+Niicccoooo78 folds
+AlainBot1962 folds
+I SEE calls 500
+*** FLOP *** [As Kc 9s]
+I SEE checks
+dnieblaf bets 500
+I SEE calls 500
+*** TURN *** [As Kc 9s][Jh]
+I SEE checks
+dnieblaf bets 2085
+I SEE calls 2085
+*** RIVER *** [As Kc 9s Jh][Jd]
+I SEE checks
+dnieblaf checks
+*** SHOW DOWN ***
+I SEE shows [4c Ks] (Two pairs : Kings and Jacks)
+dnieblaf shows [Ad 2h] (Two pairs : Aces and Jacks)
+dnieblaf collected 8340 from pot
+*** SUMMARY ***
+Total pot 8340 | No rake
+Board: [As Kc 9s Jh Jd]
+Seat 4: I SEE showed [4c Ks] and lost with Two pairs : Kings and Jacks
+Seat 6: dnieblaf showed [Ad 2h] and won 8340 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #1743646204077539350-23-1606164051 - Holdem no limit (70/300/600) - 2020/11/23 20:40:51 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #2 is the button
+Seat 1: Gilhou94 (11604)
+Seat 2: Niicccoooo78 (14230)
+Seat 3: AlainBot1962 (55271)
+Seat 4: I SEE (98944)
+Seat 6: dnieblaf (46557)
+Seat 7: Badbad54 (17987)
+Seat 8: manggy94 (33853)
+*** ANTE/BLINDS ***
+AlainBot1962 posts ante 70
+I SEE posts ante 70
+Gilhou94 posts ante 70
+Niicccoooo78 posts ante 70
+dnieblaf posts ante 70
+Badbad54 posts ante 70
+manggy94 posts ante 70
+AlainBot1962 posts small blind 300
+I SEE posts big blind 600
+Dealt to manggy94 [2h 5c]
+*** PRE-FLOP *** 
+dnieblaf raises 600 to 1200
+Badbad54 folds
+manggy94 folds
+Gilhou94 folds
+Niicccoooo78 folds
+AlainBot1962 folds
+I SEE calls 600
+*** FLOP *** [3d Jd 8d]
+I SEE checks
+dnieblaf bets 1595
+I SEE calls 1595
+*** TURN *** [3d Jd 8d][4d]
+I SEE checks
+dnieblaf checks
+*** RIVER *** [3d Jd 8d 4d][2d]
+I SEE checks
+dnieblaf checks
+*** SHOW DOWN ***
+I SEE shows [Tc 8h] (Flush Jack high)
+dnieblaf shows [3c As] (Flush Jack high)
+dnieblaf collected 3190 from pot
+I SEE collected 3190 from pot
+*** SUMMARY ***
+Total pot 6380 | No rake
+Board: [3d Jd 8d 4d 2d]
+Seat 4: I SEE (big blind) showed [Tc 8h] and won 3190 with Flush Jack high
+Seat 6: dnieblaf showed [3c As] and won 3190 with Flush Jack high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #1743646204077539350-24-1606164090 - Holdem no limit (70/300/600) - 2020/11/23 20:41:30 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #3 is the button
+Seat 1: Gilhou94 (11534)
+Seat 2: Niicccoooo78 (14160)
+Seat 3: AlainBot1962 (54901)
+Seat 4: I SEE (99269)
+Seat 6: dnieblaf (46882)
+Seat 7: Badbad54 (17917)
+Seat 8: manggy94 (33783)
+*** ANTE/BLINDS ***
+I SEE posts ante 70
+dnieblaf posts ante 70
+Gilhou94 posts ante 70
+Niicccoooo78 posts ante 70
+AlainBot1962 posts ante 70
+Badbad54 posts ante 70
+manggy94 posts ante 70
+I SEE posts small blind 300
+dnieblaf posts big blind 600
+Dealt to manggy94 [2s 2h]
+*** PRE-FLOP *** 
+Badbad54 folds
+manggy94 calls 600
+Gilhou94 folds
+Niicccoooo78 folds
+AlainBot1962 calls 600
+I SEE calls 300
+dnieblaf checks
+*** FLOP *** [8s 8d Qh]
+I SEE checks
+dnieblaf bets 600
+manggy94 raises 1745 to 2345
+AlainBot1962 calls 2345
+I SEE folds
+dnieblaf raises 6617 to 8962
+manggy94 folds
+AlainBot1962 calls 6617
+*** TURN *** [8s 8d Qh][As]
+dnieblaf checks
+AlainBot1962 checks
+*** RIVER *** [8s 8d Qh As][Jh]
+dnieblaf checks
+AlainBot1962 checks
+*** SHOW DOWN ***
+AlainBot1962 shows [Ks Qd] (Two pairs : Queens and 8)
+dnieblaf shows [8c 3s] (Trips of 8)
+dnieblaf collected 23159 from pot
+*** SUMMARY ***
+Total pot 23159 | No rake
+Board: [8s 8d Qh As Jh]
+Seat 3: AlainBot1962 (button) showed [Ks Qd] and lost with Two pairs : Queens and 8
+Seat 6: dnieblaf (big blind) showed [8c 3s] and won 23159 with Trips of 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #1743646204077539350-25-1606164145 - Holdem no limit (70/300/600) - 2020/11/23 20:42:25 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #4 is the button
+Seat 1: Gilhou94 (11464)
+Seat 2: Niicccoooo78 (14090)
+Seat 3: AlainBot1962 (45269)
+Seat 4: I SEE (98599)
+Seat 5: The-Big-H (20000)
+Seat 6: dnieblaf (60409)
+Seat 7: Badbad54 (17847)
+Seat 8: manggy94 (30768)
+*** ANTE/BLINDS ***
+dnieblaf posts ante 70
+Badbad54 posts ante 70
+Gilhou94 posts ante 70
+Niicccoooo78 posts ante 70
+AlainBot1962 posts ante 70
+I SEE posts ante 70
+manggy94 posts ante 70
+dnieblaf posts small blind 300
+Badbad54 posts big blind 600
+Dealt to manggy94 [3s Ah]
+*** PRE-FLOP *** 
+manggy94 calls 600
+Gilhou94 folds
+Niicccoooo78 calls 600
+AlainBot1962 calls 600
+I SEE calls 600
+dnieblaf calls 300
+Badbad54 folds
+*** FLOP *** [7c 8h 4c]
+dnieblaf checks
+manggy94 checks
+Niicccoooo78 checks
+AlainBot1962 checks
+I SEE checks
+*** TURN *** [7c 8h 4c][Jh]
+dnieblaf bets 2045
+manggy94 folds
+Niicccoooo78 calls 2045
+AlainBot1962 raises 10225 to 12270
+I SEE folds
+dnieblaf folds
+Niicccoooo78 folds
+AlainBot1962 collected 20450 from pot
+*** SUMMARY ***
+Total pot 20450 | No rake
+Board: [7c 8h 4c Jh]
+Seat 3: AlainBot1962 won 20450
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #1743646204077539350-26-1606164197 - Holdem no limit (80/350/700) - 2020/11/23 20:43:17 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #6 is the button
+Seat 1: Gilhou94 (11394)
+Seat 2: Niicccoooo78 (11375)
+Seat 3: AlainBot1962 (52779)
+Seat 4: I SEE (97929)
+Seat 5: The-Big-H (20000)
+Seat 6: dnieblaf (57694)
+Seat 7: Badbad54 (17177)
+Seat 8: manggy94 (30098)
+*** ANTE/BLINDS ***
+Badbad54 posts ante 80
+manggy94 posts ante 80
+Gilhou94 posts ante 80
+Niicccoooo78 posts ante 80
+AlainBot1962 posts ante 80
+I SEE posts ante 80
+The-Big-H posts ante 80
+dnieblaf posts ante 80
+Badbad54 posts small blind 350
+manggy94 posts big blind 700
+Dealt to manggy94 [Ah 5c]
+*** PRE-FLOP *** 
+Gilhou94 calls 700
+Niicccoooo78 folds
+AlainBot1962 calls 700
+I SEE calls 700
+The-Big-H folds
+dnieblaf raises 700 to 1400
+Badbad54 folds
+manggy94 calls 700
+Gilhou94 calls 700
+AlainBot1962 calls 700
+I SEE calls 700
+*** FLOP *** [4d 7c Js]
+manggy94 checks
+Gilhou94 checks
+AlainBot1962 bets 700
+I SEE calls 700
+dnieblaf calls 700
+manggy94 folds
+Gilhou94 folds
+*** TURN *** [4d 7c Js][9d]
+AlainBot1962 bets 700
+I SEE calls 700
+dnieblaf raises 3208 to 3908
+AlainBot1962 calls 3208
+I SEE folds
+*** RIVER *** [4d 7c Js 9d][2c]
+AlainBot1962 checks
+dnieblaf bets 6480
+AlainBot1962 calls 6480
+*** SHOW DOWN ***
+dnieblaf shows [Kd 5s] (High card : King)
+AlainBot1962 shows [Jc Qh] (One pair : Jacks)
+AlainBot1962 collected 31566 from pot
+*** SUMMARY ***
+Total pot 31566 | No rake
+Board: [4d 7c Js 9d 2c]
+Seat 3: AlainBot1962 showed [Jc Qh] and won 31566 with One pair : Jacks
+Seat 6: dnieblaf (button) showed [Kd 5s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #1743646204077539350-27-1606164299 - Holdem no limit (80/350/700) - 2020/11/23 20:44:59 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #7 is the button
+Seat 1: Gilhou94 (9914)
+Seat 2: Niicccoooo78 (11295)
+Seat 3: AlainBot1962 (71777)
+Seat 4: I SEE (95049)
+Seat 5: The-Big-H (19920)
+Seat 6: dnieblaf (45126)
+Seat 7: Badbad54 (16747)
+Seat 8: manggy94 (28618)
+*** ANTE/BLINDS ***
+manggy94 posts ante 80
+Gilhou94 posts ante 80
+Niicccoooo78 posts ante 80
+AlainBot1962 posts ante 80
+I SEE posts ante 80
+The-Big-H posts ante 80
+dnieblaf posts ante 80
+Badbad54 posts ante 80
+manggy94 posts small blind 350
+Gilhou94 posts big blind 700
+Dealt to manggy94 [3s 2d]
+*** PRE-FLOP *** 
+Niicccoooo78 folds
+AlainBot1962 folds
+I SEE calls 700
+The-Big-H folds
+dnieblaf raises 700 to 1400
+Badbad54 folds
+manggy94 folds
+Gilhou94 calls 700
+I SEE calls 700
+*** FLOP *** [9s Ac Qc]
+Gilhou94 checks
+I SEE checks
+dnieblaf checks
+*** TURN *** [9s Ac Qc][4s]
+Gilhou94 checks
+I SEE checks
+dnieblaf bets 2595
+Gilhou94 folds
+I SEE calls 2595
+*** RIVER *** [9s Ac Qc 4s][Qs]
+I SEE checks
+dnieblaf bets 5190
+I SEE folds
+dnieblaf shows [Ah Ad] (Full of Aces and Queens)
+dnieblaf collected 15570 from pot
+*** SUMMARY ***
+Total pot 15570 | No rake
+Board: [9s Ac Qc 4s Qs]
+Seat 6: dnieblaf showed [Ah Ad] and won 15570 with Full of Aces and Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #1743646204077539350-28-1606164357 - Holdem no limit (100/400/800) - 2020/11/23 20:45:57 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #8 is the button
+Seat 1: Gilhou94 (8434)
+Seat 2: Niicccoooo78 (11215)
+Seat 3: AlainBot1962 (71697)
+Seat 4: I SEE (90974)
+Seat 5: The-Big-H (19840)
+Seat 6: dnieblaf (51431)
+Seat 7: Badbad54 (16667)
+Seat 8: manggy94 (28188)
+*** ANTE/BLINDS ***
+Gilhou94 posts ante 100
+Niicccoooo78 posts ante 100
+AlainBot1962 posts ante 100
+I SEE posts ante 100
+The-Big-H posts ante 100
+dnieblaf posts ante 100
+Badbad54 posts ante 100
+manggy94 posts ante 100
+Gilhou94 posts small blind 400
+Niicccoooo78 posts big blind 800
+Dealt to manggy94 [2d 7c]
+*** PRE-FLOP *** 
+AlainBot1962 calls 800
+I SEE calls 800
+The-Big-H raises 18940 to 19740 and is all-in
+dnieblaf calls 19740
+Badbad54 folds
+manggy94 folds
+Gilhou94 calls 7934 and is all-in
+Niicccoooo78 folds
+AlainBot1962 folds
+I SEE calls 18940
+*** FLOP *** [3s 8c Qc]
+I SEE checks
+dnieblaf bets 5716
+I SEE calls 5716
+*** TURN *** [3s 8c Qc][Kc]
+I SEE checks
+dnieblaf bets 5459
+I SEE calls 5459
+*** RIVER *** [3s 8c Qc Kc][7d]
+I SEE checks
+dnieblaf bets 20416 and is all-in
+I SEE folds
+*** SHOW DOWN ***
+Gilhou94 shows [9c Ac] (Flush Ace high)
+The-Big-H shows [Js Ad] (High card : Ace)
+dnieblaf shows [Jd Th] (High card : King)
+dnieblaf collected 42766 from side pot 2
+The-Big-H collected 34218 from side pot 1
+Gilhou94 collected 35736 from main pot
+*** SUMMARY ***
+Total pot 112720 | No rake
+Board: [3s 8c Qc Kc 7d]
+Seat 1: Gilhou94 (small blind) showed [9c Ac] and won 35736 with Flush Ace high
+Seat 5: The-Big-H showed [Js Ad] and won 34218 with High card : Ace
+Seat 6: dnieblaf showed [Jd Th] and won 42766 with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #1743646204077539350-29-1606164447 - Holdem no limit (100/400/800) - 2020/11/23 20:47:27 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #1 is the button
+Seat 1: Gilhou94 (35736)
+Seat 2: Niicccoooo78 (10315)
+Seat 3: AlainBot1962 (70797)
+Seat 4: I SEE (59959)
+Seat 5: The-Big-H (34218)
+Seat 6: dnieblaf (42766)
+Seat 7: Badbad54 (16567)
+Seat 8: manggy94 (28088)
+*** ANTE/BLINDS ***
+Niicccoooo78 posts ante 100
+AlainBot1962 posts ante 100
+Gilhou94 posts ante 100
+I SEE posts ante 100
+The-Big-H posts ante 100
+dnieblaf posts ante 100
+Badbad54 posts ante 100
+manggy94 posts ante 100
+Niicccoooo78 posts small blind 400
+AlainBot1962 posts big blind 800
+Dealt to manggy94 [3d 8h]
+*** PRE-FLOP *** 
+I SEE raises 59059 to 59859 and is all-in
+The-Big-H folds
+dnieblaf calls 42666 and is all-in
+Badbad54 folds
+manggy94 folds
+Gilhou94 folds
+Niicccoooo78 folds
+AlainBot1962 folds
+*** FLOP *** [Qh Qs 2h]
+*** TURN *** [Qh Qs 2h][Ks]
+*** RIVER *** [Qh Qs 2h Ks][2c]
+*** SHOW DOWN ***
+dnieblaf shows [3c 4h] (Two pairs : Queens and 2)
+I SEE shows [Qc Ad] (Full of Queens and 2)
+I SEE collected 104525 from pot
+*** SUMMARY ***
+Total pot 104525 | No rake
+Board: [Qh Qs 2h Ks 2c]
+Seat 4: I SEE showed [Qc Ad] and won 104525 with Full of Queens and 2
+Seat 6: dnieblaf showed [3c 4h] and lost with Two pairs : Queens and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #1743646204077539350-30-1606164480 - Holdem no limit (120/500/1000) - 2020/11/23 20:48:00 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #2 is the button
+Seat 1: Gilhou94 (35636)
+Seat 2: Niicccoooo78 (9815)
+Seat 3: AlainBot1962 (69897)
+Seat 4: I SEE (104525)
+Seat 5: The-Big-H (34118)
+Seat 7: Badbad54 (16467)
+Seat 8: manggy94 (27988)
+*** ANTE/BLINDS ***
+AlainBot1962 posts ante 120
+I SEE posts ante 120
+Gilhou94 posts ante 120
+Niicccoooo78 posts ante 120
+The-Big-H posts ante 120
+Badbad54 posts ante 120
+manggy94 posts ante 120
+AlainBot1962 posts small blind 500
+I SEE posts big blind 1000
+Dealt to manggy94 [9d 5d]
+*** PRE-FLOP *** 
+The-Big-H folds
+Badbad54 folds
+manggy94 folds
+Gilhou94 folds
+Niicccoooo78 folds
+AlainBot1962 calls 500
+I SEE checks
+*** FLOP *** [Ts 2s 6d]
+AlainBot1962 bets 1000
+I SEE folds
+AlainBot1962 collected 3840 from pot
+*** SUMMARY ***
+Total pot 3840 | No rake
+Board: [Ts 2s 6d]
+Seat 3: AlainBot1962 (small blind) won 3840
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #1743646204077539350-31-1606164514 - Holdem no limit (120/500/1000) - 2020/11/23 20:48:34 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #3 is the button
+Seat 1: Gilhou94 (35516)
+Seat 2: Niicccoooo78 (9695)
+Seat 3: AlainBot1962 (71617)
+Seat 4: I SEE (103405)
+Seat 5: The-Big-H (33998)
+Seat 7: Badbad54 (16347)
+Seat 8: manggy94 (27868)
+*** ANTE/BLINDS ***
+I SEE posts ante 120
+The-Big-H posts ante 120
+Gilhou94 posts ante 120
+Niicccoooo78 posts ante 120
+AlainBot1962 posts ante 120
+Badbad54 posts ante 120
+manggy94 posts ante 120
+I SEE posts small blind 500
+The-Big-H posts big blind 1000
+Dealt to manggy94 [4s 4d]
+*** PRE-FLOP *** 
+Badbad54 folds
+manggy94 raises 1000 to 2000
+Gilhou94 folds
+Niicccoooo78 calls 2000
+AlainBot1962 folds
+I SEE calls 1500
+The-Big-H calls 1000
+*** FLOP *** [Ad 7h Td]
+I SEE checks
+The-Big-H checks
+manggy94 checks
+Niicccoooo78 checks
+*** TURN *** [Ad 7h Td][Kh]
+I SEE checks
+The-Big-H checks
+manggy94 checks
+Niicccoooo78 checks
+*** RIVER *** [Ad 7h Td Kh][4c]
+I SEE checks
+The-Big-H checks
+manggy94 bets 4420
+Niicccoooo78 calls 4420
+I SEE folds
+The-Big-H folds
+*** SHOW DOWN ***
+Niicccoooo78 shows [Ts Qs] (One pair : Tens)
+manggy94 shows [4s 4d] (Trips of 4)
+manggy94 collected 17680 from pot
+*** SUMMARY ***
+Total pot 17680 | No rake
+Board: [Ad 7h Td Kh 4c]
+Seat 2: Niicccoooo78 showed [Ts Qs] and lost with One pair : Tens
+Seat 8: manggy94 showed [4s 4d] and won 17680 with Trips of 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #1743646204077539350-32-1606164573 - Holdem no limit (120/500/1000) - 2020/11/23 20:49:33 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #4 is the button
+Seat 1: Gilhou94 (35396)
+Seat 2: Niicccoooo78 (3155)
+Seat 3: AlainBot1962 (71497)
+Seat 4: I SEE (101285)
+Seat 5: The-Big-H (31878)
+Seat 7: Badbad54 (16227)
+Seat 8: manggy94 (39008)
+*** ANTE/BLINDS ***
+The-Big-H posts ante 120
+Badbad54 posts ante 120
+Gilhou94 posts ante 120
+Niicccoooo78 posts ante 120
+AlainBot1962 posts ante 120
+I SEE posts ante 120
+manggy94 posts ante 120
+The-Big-H posts small blind 500
+Badbad54 posts big blind 1000
+Dealt to manggy94 [Tc 2c]
+*** PRE-FLOP *** 
+manggy94 folds
+Gilhou94 raises 34276 to 35276 and is all-in
+Niicccoooo78 folds
+AlainBot1962 folds
+I SEE folds
+The-Big-H folds
+Badbad54 folds
+Gilhou94 collected 37616 from pot
+*** SUMMARY ***
+Total pot 37616 | No rake
+Seat 1: Gilhou94 won 37616
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #1743646204077539350-33-1606164605 - Holdem no limit (120/500/1000) - 2020/11/23 20:50:05 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #5 is the button
+Seat 1: Gilhou94 (37616)
+Seat 2: Niicccoooo78 (3035)
+Seat 3: AlainBot1962 (71377)
+Seat 4: I SEE (101165)
+Seat 5: The-Big-H (31258)
+Seat 7: Badbad54 (15107)
+Seat 8: manggy94 (38888)
+*** ANTE/BLINDS ***
+Badbad54 posts ante 120
+manggy94 posts ante 120
+Gilhou94 posts ante 120
+Niicccoooo78 posts ante 120
+AlainBot1962 posts ante 120
+I SEE posts ante 120
+The-Big-H posts ante 120
+Badbad54 posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [8c Qc]
+*** PRE-FLOP *** 
+Gilhou94 calls 1000
+Niicccoooo78 folds
+AlainBot1962 folds
+I SEE calls 1000
+The-Big-H raises 30138 to 31138 and is all-in
+Badbad54 folds
+manggy94 folds
+Gilhou94 folds
+I SEE calls 30138
+*** FLOP *** [As 2s 2c]
+*** TURN *** [As 2s 2c][3c]
+*** RIVER *** [As 2s 2c 3c][8s]
+*** SHOW DOWN ***
+I SEE shows [Ks Td] (One pair : 2)
+The-Big-H shows [Kh Ah] (Two pairs : Aces and 2)
+The-Big-H collected 65616 from pot
+*** SUMMARY ***
+Total pot 65616 | No rake
+Board: [As 2s 2c 3c 8s]
+Seat 4: I SEE showed [Ks Td] and lost with One pair : 2
+Seat 5: The-Big-H (button) showed [Kh Ah] and won 65616 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #1743646204077539350-34-1606164649 - Holdem no limit (140/600/1200) - 2020/11/23 20:50:49 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #7 is the button
+Seat 1: Gilhou94 (36496)
+Seat 2: Niicccoooo78 (2915)
+Seat 3: AlainBot1962 (71257)
+Seat 4: I SEE (69907)
+Seat 5: The-Big-H (65616)
+Seat 7: Badbad54 (14487)
+Seat 8: manggy94 (37768)
+*** ANTE/BLINDS ***
+manggy94 posts ante 140
+Gilhou94 posts ante 140
+Niicccoooo78 posts ante 140
+AlainBot1962 posts ante 140
+I SEE posts ante 140
+The-Big-H posts ante 140
+Badbad54 posts ante 140
+manggy94 posts small blind 600
+Gilhou94 posts big blind 1200
+Dealt to manggy94 [2s 9h]
+*** PRE-FLOP *** 
+Niicccoooo78 raises 1575 to 2775 and is all-in
+AlainBot1962 folds
+I SEE folds
+The-Big-H calls 2775
+Badbad54 folds
+manggy94 folds
+Gilhou94 calls 1575
+*** FLOP *** [3d Kc Qh]
+Gilhou94 bets 33581 and is all-in
+The-Big-H calls 33581
+*** TURN *** [3d Kc Qh][Jc]
+*** RIVER *** [3d Kc Qh Jc][4c]
+*** SHOW DOWN ***
+Gilhou94 shows [6h Kh] (One pair : Kings)
+Niicccoooo78 shows [8h 3c] (One pair : 3)
+The-Big-H shows [3h 3s] (Trips of 3)
+The-Big-H collected 77067 from pot
+*** SUMMARY ***
+Total pot 77067 | No rake
+Board: [3d Kc Qh Jc 4c]
+Seat 1: Gilhou94 (big blind) showed [6h Kh] and lost with One pair : Kings
+Seat 2: Niicccoooo78 showed [8h 3c] and lost with One pair : 3
+Seat 5: The-Big-H showed [3h 3s] and won 77067 with Trips of 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #1743646204077539350-35-1606164680 - Holdem no limit (140/600/1200) - 2020/11/23 20:51:20 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #8 is the button
+Seat 1: Mctrugel (73032)
+Seat 3: AlainBot1962 (71117)
+Seat 4: I SEE (69767)
+Seat 5: The-Big-H (106187)
+Seat 6: fab83lion (20000)
+Seat 7: Badbad54 (14347)
+Seat 8: manggy94 (37028)
+*** ANTE/BLINDS ***
+AlainBot1962 posts ante 140
+I SEE posts ante 140
+The-Big-H posts ante 140
+fab83lion posts ante 140
+Badbad54 posts ante 140
+manggy94 posts ante 140
+AlainBot1962 posts big blind 1200
+Dealt to manggy94 [9c 4c]
+*** PRE-FLOP *** 
+I SEE calls 1200
+The-Big-H folds
+fab83lion raises 4440 to 5640
+Badbad54 folds
+manggy94 folds
+AlainBot1962 folds
+I SEE calls 4440
+*** FLOP *** [8c Qd Qh]
+I SEE checks
+fab83lion bets 14220 and is all-in
+I SEE folds
+fab83lion collected 27540 from pot
+*** SUMMARY ***
+Total pot 27540 | No rake
+Board: [8c Qd Qh]
+Seat 6: fab83lion won 27540
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #1743646204077539350-36-1606164708 - Holdem no limit (140/600/1200) - 2020/11/23 20:51:48 UTC
+Table: 'Freeroll(405974268)#0021' 8-max (real money) Seat #1 is the button
+Seat 1: Mctrugel (73032)
+Seat 3: AlainBot1962 (69777)
+Seat 4: I SEE (63987)
+Seat 5: The-Big-H (106047)
+Seat 6: fab83lion (27540)
+Seat 7: Badbad54 (14207)
+Seat 8: manggy94 (36888)
+*** ANTE/BLINDS ***
+AlainBot1962 posts ante 140
+I SEE posts ante 140
+The-Big-H posts ante 140
+fab83lion posts ante 140
+Badbad54 posts ante 140
+manggy94 posts ante 140
+AlainBot1962 posts small blind 600
+I SEE posts big blind 1200
+Dealt to manggy94 [8h 8d]
+*** PRE-FLOP *** 
+The-Big-H calls 1200
+fab83lion folds
+Badbad54 folds
+manggy94 raises 2400 to 3600
+AlainBot1962 calls 3000
+I SEE calls 2400
+The-Big-H calls 2400
+*** FLOP *** [4c 5c 7d]
+AlainBot1962 checks
+I SEE bets 15240
+The-Big-H calls 15240
+manggy94 raises 17908 to 33148 and is all-in
+AlainBot1962 folds
+I SEE calls 17908
+The-Big-H raises 69159 to 102307 and is all-in
+I SEE calls 27099 and is all-in
+*** TURN *** [4c 5c 7d][Kc]
+*** RIVER *** [4c 5c 7d Kc][Ks]
+*** SHOW DOWN ***
+I SEE shows [2d 4d] (Two pairs : Kings and 4)
+manggy94 shows [8h 8d] (Two pairs : Kings and 8)
+The-Big-H shows [Qc 6c] (Flush King high)
+The-Big-H collected 210942 from pot
+*** SUMMARY ***
+Total pot 210942 | No rake
+Board: [4c 5c 7d Kc Ks]
+Seat 4: I SEE (big blind) showed [2d 4d] and lost with Two pairs : Kings and 4
+Seat 5: The-Big-H showed [Qc 6c] and won 210942 with Flush King high
+Seat 8: manggy94 showed [8h 8d] and lost with Two pairs : Kings and 8
+
+

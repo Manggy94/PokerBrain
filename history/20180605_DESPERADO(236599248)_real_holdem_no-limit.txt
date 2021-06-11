@@ -1,0 +1,770 @@
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1016186032418193414-89-1528204294 - Holdem no limit (120/500/1000) - 2018/06/05 13:11:34 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #1 is the button
+Seat 2: touchdown (94360)
+Seat 3: P.Echtebust (65864)
+Seat 4: vikrammm (67168)
+Seat 5: manggy94 (20000)
+Seat 6: omar melade (22893)
+*** ANTE/BLINDS ***
+touchdown posts ante 120
+P.Echtebust posts ante 120
+vikrammm posts ante 120
+manggy94 posts ante 120
+omar melade posts ante 120
+touchdown posts small blind 500
+P.Echtebust posts big blind 1000
+Dealt to manggy94 [2h 9s]
+*** PRE-FLOP *** 
+vikrammm raises 1100 to 2100
+manggy94 folds
+omar melade calls 2100
+touchdown folds
+P.Echtebust folds
+*** FLOP *** [Kc 2s 3s]
+vikrammm checks
+omar melade checks
+*** TURN *** [Kc 2s 3s][Jc]
+vikrammm bets 3000
+omar melade raises 3000 to 6000
+vikrammm calls 3000
+*** RIVER *** [Kc 2s 3s Jc][5c]
+vikrammm checks
+omar melade bets 14673 and is all-in
+vikrammm calls 14673
+*** SHOW DOWN ***
+vikrammm shows [Qs Ks] (One pair : Kings)
+omar melade shows [2d Kd] (Two pairs : Kings and 2)
+omar melade collected 47646 from pot
+*** SUMMARY ***
+Total pot 47646 | No rake
+Board: [Kc 2s 3s Jc 5c]
+Seat 4: vikrammm showed [Qs Ks] and lost with One pair : Kings
+Seat 6: omar melade showed [2d Kd] and won 47646 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1016186032418193414-90-1528204350 - Holdem no limit (120/500/1000) - 2018/06/05 13:12:30 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #2 is the button
+Seat 2: touchdown (93740)
+Seat 3: P.Echtebust (64744)
+Seat 4: vikrammm (44275)
+Seat 5: manggy94 (19880)
+Seat 6: omar melade (47646)
+*** ANTE/BLINDS ***
+P.Echtebust posts ante 120
+vikrammm posts ante 120
+touchdown posts ante 120
+manggy94 posts ante 120
+omar melade posts ante 120
+P.Echtebust posts small blind 500
+vikrammm posts big blind 1000
+Dealt to manggy94 [Kc 5d]
+*** PRE-FLOP *** 
+manggy94 folds
+omar melade folds
+touchdown raises 1000 to 2000
+P.Echtebust folds
+vikrammm folds
+touchdown collected 4100 from pot
+*** SUMMARY ***
+Total pot 4100 | No rake
+Seat 2: touchdown (button) won 4100
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1016186032418193414-91-1528204384 - Holdem no limit (120/500/1000) - 2018/06/05 13:13:04 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #3 is the button
+Seat 1: zoneerd x (20000)
+Seat 2: touchdown (95720)
+Seat 3: P.Echtebust (64124)
+Seat 4: vikrammm (43155)
+Seat 5: manggy94 (19760)
+Seat 6: omar melade (47526)
+*** ANTE/BLINDS ***
+vikrammm posts ante 120
+manggy94 posts ante 120
+zoneerd x posts ante 120
+touchdown posts ante 120
+P.Echtebust posts ante 120
+omar melade posts ante 120
+vikrammm posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [9s 4d]
+*** PRE-FLOP *** 
+omar melade calls 1000
+zoneerd x folds
+touchdown folds
+P.Echtebust folds
+vikrammm folds
+manggy94 checks
+*** FLOP *** [Kc Js Ts]
+manggy94 bets 1610
+omar melade calls 1610
+*** TURN *** [Kc Js Ts][Tc]
+manggy94 bets 4500
+omar melade folds
+manggy94 collected 10940 from pot
+*** SUMMARY ***
+Total pot 10940 | No rake
+Board: [Kc Js Ts Tc]
+Seat 5: manggy94 (big blind) won 10940
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1016186032418193414-92-1528204434 - Holdem no limit (120/500/1000) - 2018/06/05 13:13:54 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #4 is the button
+Seat 1: zoneerd x (19880)
+Seat 2: touchdown (95600)
+Seat 3: P.Echtebust (64004)
+Seat 4: vikrammm (42535)
+Seat 5: manggy94 (23470)
+Seat 6: omar melade (44796)
+*** ANTE/BLINDS ***
+manggy94 posts ante 120
+omar melade posts ante 120
+zoneerd x posts ante 120
+touchdown posts ante 120
+P.Echtebust posts ante 120
+vikrammm posts ante 120
+manggy94 posts small blind 500
+omar melade posts big blind 1000
+Dealt to manggy94 [2h 8d]
+*** PRE-FLOP *** 
+zoneerd x raises 18760 to 19760 and is all-in
+touchdown folds
+P.Echtebust folds
+vikrammm folds
+manggy94 folds
+omar melade folds
+zoneerd x collected 21980 from pot
+*** SUMMARY ***
+Total pot 21980 | No rake
+Seat 1: zoneerd x won 21980
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1016186032418193414-93-1528204451 - Holdem no limit (120/500/1000) - 2018/06/05 13:14:11 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #5 is the button
+Seat 1: zoneerd x (21980)
+Seat 2: touchdown (95480)
+Seat 3: P.Echtebust (63884)
+Seat 4: vikrammm (42415)
+Seat 5: manggy94 (22850)
+Seat 6: omar melade (43676)
+*** ANTE/BLINDS ***
+omar melade posts ante 120
+zoneerd x posts ante 120
+touchdown posts ante 120
+P.Echtebust posts ante 120
+vikrammm posts ante 120
+manggy94 posts ante 120
+omar melade posts small blind 500
+zoneerd x posts big blind 1000
+Dealt to manggy94 [2d 9s]
+*** PRE-FLOP *** 
+touchdown raises 2000 to 3000
+P.Echtebust folds
+vikrammm folds
+manggy94 folds
+omar melade folds
+zoneerd x folds
+touchdown collected 5220 from pot
+*** SUMMARY ***
+Total pot 5220 | No rake
+Seat 2: touchdown won 5220
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1016186032418193414-94-1528204467 - Holdem no limit (120/500/1000) - 2018/06/05 13:14:27 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #6 is the button
+Seat 1: zoneerd x (20860)
+Seat 2: touchdown (97580)
+Seat 3: P.Echtebust (63764)
+Seat 4: vikrammm (42295)
+Seat 5: manggy94 (22730)
+Seat 6: omar melade (43056)
+*** ANTE/BLINDS ***
+zoneerd x posts ante 120
+touchdown posts ante 120
+P.Echtebust posts ante 120
+vikrammm posts ante 120
+manggy94 posts ante 120
+omar melade posts ante 120
+zoneerd x posts small blind 500
+touchdown posts big blind 1000
+Dealt to manggy94 [3d 2c]
+*** PRE-FLOP *** 
+P.Echtebust raises 1120 to 2120
+vikrammm folds
+manggy94 folds
+omar melade folds
+zoneerd x folds
+touchdown calls 1120
+*** FLOP *** [Ah 9s Kd]
+touchdown checks
+P.Echtebust bets 1638
+touchdown folds
+P.Echtebust collected 7098 from pot
+*** SUMMARY ***
+Total pot 7098 | No rake
+Board: [Ah 9s Kd]
+Seat 3: P.Echtebust won 7098
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1016186032418193414-95-1528204492 - Holdem no limit (120/500/1000) - 2018/06/05 13:14:52 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #1 is the button
+Seat 1: zoneerd x (20240)
+Seat 2: touchdown (95340)
+Seat 3: P.Echtebust (66984)
+Seat 4: vikrammm (42175)
+Seat 5: manggy94 (22610)
+Seat 6: omar melade (42936)
+*** ANTE/BLINDS ***
+touchdown posts ante 120
+P.Echtebust posts ante 120
+zoneerd x posts ante 120
+vikrammm posts ante 120
+manggy94 posts ante 120
+omar melade posts ante 120
+touchdown posts small blind 500
+P.Echtebust posts big blind 1000
+Dealt to manggy94 [7c Qs]
+*** PRE-FLOP *** 
+vikrammm folds
+manggy94 folds
+omar melade folds
+zoneerd x folds
+touchdown folds
+P.Echtebust collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 3: P.Echtebust (big blind) won 2220
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1016186032418193414-96-1528204505 - Holdem no limit (120/500/1000) - 2018/06/05 13:15:05 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #2 is the button
+Seat 1: zoneerd x (20120)
+Seat 2: touchdown (94720)
+Seat 3: P.Echtebust (68084)
+Seat 4: vikrammm (42055)
+Seat 5: manggy94 (22490)
+Seat 6: omar melade (42816)
+*** ANTE/BLINDS ***
+P.Echtebust posts ante 120
+vikrammm posts ante 120
+zoneerd x posts ante 120
+touchdown posts ante 120
+manggy94 posts ante 120
+omar melade posts ante 120
+P.Echtebust posts small blind 500
+vikrammm posts big blind 1000
+Dealt to manggy94 [Qc 4c]
+*** PRE-FLOP *** 
+manggy94 folds
+omar melade folds
+zoneerd x folds
+touchdown folds
+P.Echtebust folds
+vikrammm collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 4: vikrammm (big blind) won 2220
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1016186032418193414-97-1528204524 - Holdem no limit (120/500/1000) - 2018/06/05 13:15:24 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #3 is the button
+Seat 1: zoneerd x (20000)
+Seat 2: touchdown (94600)
+Seat 3: P.Echtebust (67464)
+Seat 4: vikrammm (43155)
+Seat 5: manggy94 (22370)
+Seat 6: omar melade (42696)
+*** ANTE/BLINDS ***
+vikrammm posts ante 120
+manggy94 posts ante 120
+zoneerd x posts ante 120
+touchdown posts ante 120
+P.Echtebust posts ante 120
+omar melade posts ante 120
+vikrammm posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [7h Qc]
+*** PRE-FLOP *** 
+omar melade calls 1000
+zoneerd x calls 1000
+touchdown folds
+P.Echtebust folds
+vikrammm folds
+manggy94 checks
+*** FLOP *** [Kd 6c 6h]
+manggy94 checks
+omar melade bets 1500
+zoneerd x folds
+manggy94 folds
+omar melade collected 5720 from pot
+*** SUMMARY ***
+Total pot 5720 | No rake
+Board: [Kd 6c 6h]
+Seat 6: omar melade won 5720
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1016186032418193414-98-1528204561 - Holdem no limit (120/500/1000) - 2018/06/05 13:16:01 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #4 is the button
+Seat 1: zoneerd x (18880)
+Seat 2: touchdown (94480)
+Seat 3: P.Echtebust (67344)
+Seat 4: vikrammm (42535)
+Seat 5: manggy94 (21250)
+Seat 6: omar melade (45796)
+*** ANTE/BLINDS ***
+manggy94 posts ante 120
+omar melade posts ante 120
+zoneerd x posts ante 120
+touchdown posts ante 120
+P.Echtebust posts ante 120
+vikrammm posts ante 120
+manggy94 posts small blind 500
+omar melade posts big blind 1000
+Dealt to manggy94 [Js 9h]
+*** PRE-FLOP *** 
+zoneerd x folds
+touchdown raises 2000 to 3000
+P.Echtebust folds
+vikrammm folds
+manggy94 folds
+omar melade folds
+touchdown collected 5220 from pot
+*** SUMMARY ***
+Total pot 5220 | No rake
+Seat 2: touchdown won 5220
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1016186032418193414-99-1528204578 - Holdem no limit (120/500/1000) - 2018/06/05 13:16:18 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #5 is the button
+Seat 1: zoneerd x (18760)
+Seat 2: touchdown (96580)
+Seat 3: P.Echtebust (67224)
+Seat 4: vikrammm (42415)
+Seat 5: manggy94 (20630)
+Seat 6: omar melade (44676)
+*** ANTE/BLINDS ***
+omar melade posts ante 120
+zoneerd x posts ante 120
+touchdown posts ante 120
+P.Echtebust posts ante 120
+vikrammm posts ante 120
+manggy94 posts ante 120
+omar melade posts small blind 500
+zoneerd x posts big blind 1000
+Dealt to manggy94 [5s Th]
+*** PRE-FLOP *** 
+touchdown folds
+P.Echtebust folds
+vikrammm folds
+manggy94 folds
+omar melade raises 4000 to 5000
+zoneerd x calls 4000
+*** FLOP *** [3d Qh 2d]
+omar melade bets 39556 and is all-in
+zoneerd x folds
+omar melade collected 50276 from pot
+*** SUMMARY ***
+Total pot 50276 | No rake
+Board: [3d Qh 2d]
+Seat 6: omar melade (small blind) won 50276
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1016186032418193414-100-1528204618 - Holdem no limit (120/500/1000) - 2018/06/05 13:16:58 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #6 is the button
+Seat 1: zoneerd x (13640)
+Seat 2: touchdown (96460)
+Seat 3: P.Echtebust (67104)
+Seat 4: vikrammm (42295)
+Seat 5: manggy94 (20510)
+Seat 6: omar melade (50276)
+*** ANTE/BLINDS ***
+zoneerd x posts ante 120
+touchdown posts ante 120
+P.Echtebust posts ante 120
+vikrammm posts ante 120
+manggy94 posts ante 120
+omar melade posts ante 120
+zoneerd x posts small blind 500
+touchdown posts big blind 1000
+Dealt to manggy94 [Ts Jd]
+*** PRE-FLOP *** 
+P.Echtebust folds
+vikrammm folds
+manggy94 calls 1000
+omar melade folds
+zoneerd x calls 500
+touchdown checks
+*** FLOP *** [3c 8d Tc]
+zoneerd x checks
+touchdown checks
+manggy94 bets 3720
+zoneerd x folds
+touchdown folds
+manggy94 collected 7440 from pot
+*** SUMMARY ***
+Total pot 7440 | No rake
+Board: [3c 8d Tc]
+Seat 5: manggy94 won 7440
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1016186032418193414-101-1528204664 - Holdem no limit (160/600/1200) - 2018/06/05 13:17:44 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #1 is the button
+Seat 1: zoneerd x (12520)
+Seat 2: touchdown (95340)
+Seat 3: P.Echtebust (66984)
+Seat 4: vikrammm (42175)
+Seat 5: manggy94 (23110)
+Seat 6: omar melade (50156)
+*** ANTE/BLINDS ***
+touchdown posts ante 160
+P.Echtebust posts ante 160
+zoneerd x posts ante 160
+vikrammm posts ante 160
+manggy94 posts ante 160
+omar melade posts ante 160
+touchdown posts small blind 600
+P.Echtebust posts big blind 1200
+Dealt to manggy94 [Js 3d]
+*** PRE-FLOP *** 
+vikrammm folds
+manggy94 folds
+omar melade raises 1800 to 3000
+zoneerd x folds
+touchdown calls 2400
+P.Echtebust folds
+*** FLOP *** [6s 8h 2h]
+touchdown checks
+omar melade checks
+*** TURN *** [6s 8h 2h][5h]
+touchdown checks
+omar melade checks
+*** RIVER *** [6s 8h 2h 5h][3h]
+touchdown checks
+omar melade checks
+*** SHOW DOWN ***
+omar melade shows [Qc Ad] (High card : Ace)
+touchdown shows [Qh Jc] (Flush Queen high)
+touchdown collected 8160 from pot
+*** SUMMARY ***
+Total pot 8160 | No rake
+Board: [6s 8h 2h 5h 3h]
+Seat 2: touchdown (small blind) showed [Qh Jc] and won 8160 with Flush Queen high
+Seat 6: omar melade showed [Qc Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1016186032418193414-102-1528204706 - Holdem no limit (160/600/1200) - 2018/06/05 13:18:26 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #2 is the button
+Seat 1: zoneerd x (12360)
+Seat 2: touchdown (100340)
+Seat 3: P.Echtebust (65624)
+Seat 4: vikrammm (42015)
+Seat 5: manggy94 (22950)
+Seat 6: omar melade (46996)
+*** ANTE/BLINDS ***
+P.Echtebust posts ante 160
+vikrammm posts ante 160
+zoneerd x posts ante 160
+touchdown posts ante 160
+manggy94 posts ante 160
+omar melade posts ante 160
+P.Echtebust posts small blind 600
+vikrammm posts big blind 1200
+Dealt to manggy94 [5h 4d]
+*** PRE-FLOP *** 
+manggy94 folds
+omar melade calls 1200
+zoneerd x folds
+touchdown folds
+P.Echtebust folds
+vikrammm raises 3000 to 4200
+omar melade calls 3000
+*** FLOP *** [9d 6h 8h]
+vikrammm bets 6600
+omar melade calls 6600
+*** TURN *** [9d 6h 8h][7h]
+vikrammm bets 7874
+omar melade folds
+vikrammm collected 31034 from pot
+*** SUMMARY ***
+Total pot 31034 | No rake
+Board: [9d 6h 8h 7h]
+Seat 4: vikrammm (big blind) won 31034
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1016186032418193414-103-1528204772 - Holdem no limit (160/600/1200) - 2018/06/05 13:19:32 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #3 is the button
+Seat 1: zoneerd x (12200)
+Seat 2: touchdown (100180)
+Seat 3: P.Echtebust (64864)
+Seat 4: vikrammm (54215)
+Seat 5: manggy94 (22790)
+Seat 6: omar melade (36036)
+*** ANTE/BLINDS ***
+vikrammm posts ante 160
+manggy94 posts ante 160
+zoneerd x posts ante 160
+touchdown posts ante 160
+P.Echtebust posts ante 160
+omar melade posts ante 160
+vikrammm posts small blind 600
+manggy94 posts big blind 1200
+Dealt to manggy94 [6c 6s]
+*** PRE-FLOP *** 
+omar melade folds
+zoneerd x folds
+touchdown raises 1600 to 2800
+P.Echtebust calls 2800
+vikrammm folds
+manggy94 calls 1600
+*** FLOP *** [9h 8s Jc]
+manggy94 checks
+touchdown bets 3600
+P.Echtebust calls 3600
+manggy94 folds
+*** TURN *** [9h 8s Jc][Ad]
+touchdown bets 8580
+P.Echtebust calls 8580
+*** RIVER *** [9h 8s Jc Ad][Ah]
+touchdown bets 17160
+P.Echtebust calls 17160
+*** SHOW DOWN ***
+P.Echtebust shows [Qc Tc] (Straight Queen high)
+touchdown shows [Ac 9c] (Full of Aces and 9)
+touchdown collected 68640 from pot
+*** SUMMARY ***
+Total pot 68640 | No rake
+Board: [9h 8s Jc Ad Ah]
+Seat 2: touchdown showed [Ac 9c] and won 68640 with Full of Aces and 9
+Seat 3: P.Echtebust (button) showed [Qc Tc] and lost with Straight Queen high
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1016186032418193414-104-1528204880 - Holdem no limit (160/600/1200) - 2018/06/05 13:21:20 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #4 is the button
+Seat 1: zoneerd x (12040)
+Seat 2: touchdown (136520)
+Seat 3: P.Echtebust (32564)
+Seat 4: vikrammm (53455)
+Seat 5: manggy94 (19830)
+Seat 6: omar melade (35876)
+*** ANTE/BLINDS ***
+manggy94 posts ante 160
+omar melade posts ante 160
+zoneerd x posts ante 160
+touchdown posts ante 160
+P.Echtebust posts ante 160
+vikrammm posts ante 160
+manggy94 posts small blind 600
+omar melade posts big blind 1200
+Dealt to manggy94 [8d 7h]
+*** PRE-FLOP *** 
+zoneerd x folds
+touchdown raises 2400 to 3600
+P.Echtebust folds
+vikrammm folds
+manggy94 folds
+omar melade folds
+touchdown collected 6360 from pot
+*** SUMMARY ***
+Total pot 6360 | No rake
+Seat 2: touchdown won 6360
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1016186032418193414-105-1528204903 - Holdem no limit (160/600/1200) - 2018/06/05 13:21:43 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #5 is the button
+Seat 1: zoneerd x (11880)
+Seat 2: touchdown (139120)
+Seat 3: P.Echtebust (32404)
+Seat 4: vikrammm (53295)
+Seat 5: manggy94 (19070)
+Seat 6: omar melade (34516)
+*** ANTE/BLINDS ***
+omar melade posts ante 160
+zoneerd x posts ante 160
+touchdown posts ante 160
+P.Echtebust posts ante 160
+vikrammm posts ante 160
+manggy94 posts ante 160
+omar melade posts small blind 600
+zoneerd x posts big blind 1200
+Dealt to manggy94 [9s 6s]
+*** PRE-FLOP *** 
+touchdown raises 2400 to 3600
+P.Echtebust folds
+vikrammm folds
+manggy94 folds
+omar melade calls 3000
+zoneerd x folds
+*** FLOP *** [4d 8s 3h]
+omar melade checks
+touchdown bets 2680
+omar melade calls 2680
+*** TURN *** [4d 8s 3h][9d]
+omar melade checks
+touchdown checks
+*** RIVER *** [4d 8s 3h 9d][7c]
+omar melade checks
+touchdown checks
+*** SHOW DOWN ***
+touchdown shows [Kd Qh] (High card : King)
+omar melade shows [Qc 4c] (One pair : 4)
+omar melade collected 14720 from pot
+*** SUMMARY ***
+Total pot 14720 | No rake
+Board: [4d 8s 3h 9d 7c]
+Seat 2: touchdown showed [Kd Qh] and lost with High card : King
+Seat 6: omar melade (small blind) showed [Qc 4c] and won 14720 with One pair : 4
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1016186032418193414-106-1528204953 - Holdem no limit (160/600/1200) - 2018/06/05 13:22:33 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #6 is the button
+Seat 1: zoneerd x (10520)
+Seat 2: touchdown (132680)
+Seat 3: P.Echtebust (32244)
+Seat 4: vikrammm (53135)
+Seat 5: manggy94 (18910)
+Seat 6: omar melade (42796)
+*** ANTE/BLINDS ***
+zoneerd x posts ante 160
+touchdown posts ante 160
+P.Echtebust posts ante 160
+vikrammm posts ante 160
+manggy94 posts ante 160
+omar melade posts ante 160
+zoneerd x posts small blind 600
+touchdown posts big blind 1200
+Dealt to manggy94 [9c 5c]
+*** PRE-FLOP *** 
+P.Echtebust folds
+vikrammm folds
+manggy94 raises 1200 to 2400
+omar melade folds
+zoneerd x raises 7960 to 10360 and is all-in
+touchdown folds
+manggy94 calls 7960
+*** FLOP *** [Ks Kh Ah]
+*** TURN *** [Ks Kh Ah][4s]
+*** RIVER *** [Ks Kh Ah 4s][8d]
+*** SHOW DOWN ***
+manggy94 shows [9c 5c] (One pair : Kings)
+zoneerd x shows [As Ac] (Full of Aces and Kings)
+zoneerd x collected 22880 from pot
+*** SUMMARY ***
+Total pot 22880 | No rake
+Board: [Ks Kh Ah 4s 8d]
+Seat 1: zoneerd x (small blind) showed [As Ac] and won 22880 with Full of Aces and Kings
+Seat 5: manggy94 showed [9c 5c] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1016186032418193414-107-1528204984 - Holdem no limit (160/600/1200) - 2018/06/05 13:23:04 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #1 is the button
+Seat 1: zoneerd x (22880)
+Seat 2: touchdown (131320)
+Seat 3: P.Echtebust (32084)
+Seat 4: vikrammm (52975)
+Seat 5: manggy94 (8390)
+Seat 6: omar melade (42636)
+*** ANTE/BLINDS ***
+touchdown posts ante 160
+P.Echtebust posts ante 160
+zoneerd x posts ante 160
+vikrammm posts ante 160
+manggy94 posts ante 160
+omar melade posts ante 160
+touchdown posts small blind 600
+P.Echtebust posts big blind 1200
+Dealt to manggy94 [Qh 8h]
+*** PRE-FLOP *** 
+vikrammm raises 1800 to 3000
+manggy94 folds
+omar melade folds
+zoneerd x folds
+touchdown folds
+P.Echtebust calls 1800
+*** FLOP *** [9s 5d 6c]
+P.Echtebust checks
+vikrammm checks
+*** TURN *** [9s 5d 6c][5h]
+P.Echtebust checks
+vikrammm checks
+*** RIVER *** [9s 5d 6c 5h][9d]
+P.Echtebust bets 3175
+vikrammm folds
+P.Echtebust collected 10735 from pot
+*** SUMMARY ***
+Total pot 10735 | No rake
+Board: [9s 5d 6c 5h 9d]
+Seat 3: P.Echtebust (big blind) won 10735
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1016186032418193414-108-1528205045 - Holdem no limit (160/600/1200) - 2018/06/05 13:24:05 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #2 is the button
+Seat 1: zoneerd x (22720)
+Seat 2: touchdown (130560)
+Seat 3: P.Echtebust (36484)
+Seat 4: vikrammm (49815)
+Seat 5: manggy94 (8230)
+Seat 6: omar melade (42476)
+*** ANTE/BLINDS ***
+P.Echtebust posts ante 160
+vikrammm posts ante 160
+zoneerd x posts ante 160
+touchdown posts ante 160
+manggy94 posts ante 160
+omar melade posts ante 160
+P.Echtebust posts small blind 600
+vikrammm posts big blind 1200
+Dealt to manggy94 [6h Qh]
+*** PRE-FLOP *** 
+manggy94 folds
+omar melade folds
+zoneerd x raises 1200 to 2400
+touchdown folds
+P.Echtebust folds
+vikrammm folds
+zoneerd x collected 5160 from pot
+*** SUMMARY ***
+Total pot 5160 | No rake
+Seat 1: zoneerd x won 5160
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1016186032418193414-109-1528205065 - Holdem no limit (160/600/1200) - 2018/06/05 13:24:25 UTC
+Table: 'DESPERADO(236599248)#005' 6-max (real money) Seat #3 is the button
+Seat 1: zoneerd x (25320)
+Seat 2: touchdown (130400)
+Seat 3: P.Echtebust (35724)
+Seat 4: vikrammm (48455)
+Seat 5: manggy94 (8070)
+Seat 6: omar melade (42316)
+*** ANTE/BLINDS ***
+vikrammm posts ante 160
+manggy94 posts ante 160
+zoneerd x posts ante 160
+touchdown posts ante 160
+P.Echtebust posts ante 160
+omar melade posts ante 160
+vikrammm posts small blind 600
+manggy94 posts big blind 1200
+Dealt to manggy94 [9s 8s]
+*** PRE-FLOP *** 
+omar melade folds
+zoneerd x folds
+touchdown folds
+P.Echtebust folds
+vikrammm raises 2400 to 3600
+manggy94 calls 2400
+*** FLOP *** [Jd 8h Qd]
+vikrammm bets 4800
+manggy94 calls 4310 and is all-in
+*** TURN *** [Jd 8h Qd][Th]
+*** RIVER *** [Jd 8h Qd Th][Kc]
+*** SHOW DOWN ***
+manggy94 shows [9s 8s] (Straight King high)
+vikrammm shows [Ad As] (Straight Ace high)
+vikrammm collected 17270 from pot
+*** SUMMARY ***
+Total pot 17270 | No rake
+Board: [Jd 8h Qd Th Kc]
+Seat 4: vikrammm (small blind) showed [Ad As] and won 17270 with Straight Ace high
+Seat 5: manggy94 (big blind) showed [9s 8s] and lost with Straight King high
+
+

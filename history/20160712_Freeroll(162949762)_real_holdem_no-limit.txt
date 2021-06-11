@@ -1,0 +1,184 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level:  - HandId: #699863898680984164-1-1468341028 - Holdem no limit (10/20) - 2016/07/12 16:30:28 UTC
+Table: 'Freeroll(162949762)#611' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (3000)
+Seat 2: JEo9440 (3000)
+Seat 3: SuP.sTyLe (3000)
+Seat 4: jackym13 (3000)
+Seat 5: ILLUMINATOR (3000)
+Seat 6: skypet (3000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+JEo9440 posts big blind 20
+Dealt to manggy94 [8h Kc]
+*** PRE-FLOP *** 
+SuP.sTyLe folds
+jackym13 calls 20
+ILLUMINATOR folds
+skypet calls 20
+manggy94 calls 10
+JEo9440 raises 100 to 120
+jackym13 calls 100
+skypet calls 100
+manggy94 folds
+*** FLOP *** [2d 3h 2s]
+JEo9440 bets 120
+jackym13 calls 120
+skypet calls 120
+*** TURN *** [2d 3h 2s][5s]
+JEo9440 bets 110
+jackym13 raises 425 to 535
+skypet folds
+JEo9440 calls 425
+*** RIVER *** [2d 3h 2s 5s][Ts]
+JEo9440 bets 190
+jackym13 raises 1595 to 1785
+JEo9440 folds
+jackym13 collected 3785 from pot
+*** SUMMARY ***
+Total pot 3785 | No rake
+Board: [2d 3h 2s 5s Ts]
+Seat 4: jackym13 won 3785
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level:  - HandId: #699863898680984164-2-1468341188 - Holdem no limit (10/20) - 2016/07/12 16:33:08 UTC
+Table: 'Freeroll(162949762)#611' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (2980)
+Seat 2: JEo9440 (2035)
+Seat 3: SuP.sTyLe (3000)
+Seat 4: jackym13 (4225)
+Seat 5: ILLUMINATOR (3000)
+Seat 6: skypet (2760)
+*** ANTE/BLINDS ***
+JEo9440 posts small blind 10
+SuP.sTyLe posts big blind 20
+Dealt to manggy94 [5s Qh]
+*** PRE-FLOP *** 
+jackym13 folds
+ILLUMINATOR raises 2980 to 3000 and is all-in
+skypet calls 2760 and is all-in
+manggy94 folds
+JEo9440 calls 2025 and is all-in
+SuP.sTyLe folds
+*** FLOP *** [5c 5d Tc]
+*** TURN *** [5c 5d Tc][9d]
+*** RIVER *** [5c 5d Tc 9d][Ks]
+*** SHOW DOWN ***
+JEo9440 shows [8h Jh] (One pair : 5)
+ILLUMINATOR shows [Jc 8c] (One pair : 5)
+skypet shows [Ac 7s] (One pair : 5)
+skypet collected 7575 from main pot
+ILLUMINATOR collected 240 from side pot 1
+*** SUMMARY ***
+Total pot 7815 | No rake
+Board: [5c 5d Tc 9d Ks]
+Seat 2: JEo9440 (small blind) showed [8h Jh] and lost with One pair : 5
+Seat 5: ILLUMINATOR showed [Jc 8c] and won 240 with One pair : 5
+Seat 6: skypet showed [Ac 7s] and won 7575 with One pair : 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #699863898680984164-3-1468341211 - Holdem no limit (15/30) - 2016/07/12 16:33:31 UTC
+Table: 'Freeroll(162949762)#611' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (2980)
+Seat 3: SuP.sTyLe (2980)
+Seat 4: jackym13 (4225)
+Seat 5: ILLUMINATOR (240)
+Seat 6: skypet (7575)
+*** ANTE/BLINDS ***
+SuP.sTyLe posts small blind 15
+jackym13 posts big blind 30
+Dealt to manggy94 [3d Qc]
+*** PRE-FLOP *** 
+ILLUMINATOR raises 210 to 240 and is all-in
+skypet calls 240
+manggy94 folds
+SuP.sTyLe folds
+jackym13 calls 210
+*** FLOP *** [3c Ah 2c]
+jackym13 checks
+skypet checks
+*** TURN *** [3c Ah 2c][8d]
+jackym13 checks
+skypet checks
+*** RIVER *** [3c Ah 2c 8d][9s]
+jackym13 bets 735
+skypet folds
+*** SHOW DOWN ***
+jackym13 shows [9d Kh] (One pair : 9)
+ILLUMINATOR shows [5h 4d] (Straight 5 high)
+ILLUMINATOR collected 735 from main pot
+jackym13 collected 735 from side pot 1
+*** SUMMARY ***
+Total pot 1470 | No rake
+Board: [3c Ah 2c 8d 9s]
+Seat 4: jackym13 (big blind) showed [9d Kh] and won 735 with One pair : 9
+Seat 5: ILLUMINATOR showed [5h 4d] and won 735 with Straight 5 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #699863898680984164-4-1468341257 - Holdem no limit (15/30) - 2016/07/12 16:34:17 UTC
+Table: 'Freeroll(162949762)#611' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (2980)
+Seat 2: adamaerg (3000)
+Seat 3: SuP.sTyLe (2965)
+Seat 4: jackym13 (3985)
+Seat 5: ILLUMINATOR (735)
+Seat 6: skypet (7335)
+*** ANTE/BLINDS ***
+jackym13 posts small blind 15
+ILLUMINATOR posts big blind 30
+Dealt to manggy94 [3s 6h]
+*** PRE-FLOP *** 
+skypet calls 30
+manggy94 folds
+adamaerg folds
+SuP.sTyLe folds
+jackym13 raises 90 to 120
+ILLUMINATOR raises 615 to 735 and is all-in
+skypet raises 6600 to 7335 and is all-in
+jackym13 calls 3865 and is all-in
+*** FLOP *** [As 3c 2c]
+*** TURN *** [As 3c 2c][9s]
+*** RIVER *** [As 3c 2c 9s][Ah]
+*** SHOW DOWN ***
+ILLUMINATOR shows [7h 9h] (Two pairs : Aces and 9)
+jackym13 shows [Jh Jc] (Two pairs : Aces and Jacks)
+skypet shows [Qd 4h] (One pair : Aces)
+skypet collected 3350 from side pot 1
+jackym13 collected 8705 from main pot
+*** SUMMARY ***
+Total pot 12055 | No rake
+Board: [As 3c 2c 9s Ah]
+Seat 4: jackym13 (small blind) showed [Jh Jc] and won 8705 with Two pairs : Aces and Jacks
+Seat 5: ILLUMINATOR (big blind) showed [7h 9h] and lost with Two pairs : Aces and 9
+Seat 6: skypet showed [Qd 4h] and won 3350 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #699863898680984164-5-1468341372 - Holdem no limit (15/30) - 2016/07/12 16:36:12 UTC
+Table: 'Freeroll(162949762)#611' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (2980)
+Seat 2: adamaerg (3000)
+Seat 3: SuP.sTyLe (2965)
+Seat 4: jackym13 (8705)
+Seat 6: skypet (3350)
+*** ANTE/BLINDS ***
+skypet posts big blind 30
+Dealt to manggy94 [6c 6h]
+*** PRE-FLOP *** 
+manggy94 raises 2950 to 2980 and is all-in
+adamaerg folds
+SuP.sTyLe folds
+jackym13 folds
+skypet raises 370 to 3350 and is all-in
+*** FLOP *** [Ad 3c 4c]
+*** TURN *** [Ad 3c 4c][5d]
+*** RIVER *** [Ad 3c 4c 5d][3s]
+*** SHOW DOWN ***
+manggy94 shows [6c 6h] (Two pairs : 6 and 3)
+skypet shows [2c 3h] (Straight 5 high)
+skypet collected 6330 from pot
+*** SUMMARY ***
+Total pot 6330 | No rake
+Board: [Ad 3c 4c 5d 3s]
+Seat 1: manggy94 showed [6c 6h] and lost with Two pairs : 6 and 3
+Seat 6: skypet (big blind) showed [2c 3h] and won 6330 with Straight 5 high
+
+

@@ -1,0 +1,33 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 1 - HandId: #721978728237760513-1-1471889811 - Holdem no limit (10/20) - 2016/08/22 18:16:51 UTC
+Table: 'Super Freeroll Stade 1(168098772)#0' 6-max (real money) Seat #6 is the button
+Seat 1: La Bongeo (1500)
+Seat 2: papypoker038 (1500)
+Seat 3: manggy94 (1500)
+Seat 4: Celestin8436 (1500)
+Seat 5: Aladdin-13 (1500)
+Seat 6: ENTREPHIL (1500)
+*** ANTE/BLINDS ***
+La Bongeo posts small blind 10
+papypoker038 posts big blind 20
+Dealt to manggy94 [6d 6h]
+*** PRE-FLOP *** 
+manggy94 raises 1480 to 1500 and is all-in
+Celestin8436 calls 1500 and is all-in
+Aladdin-13 folds
+ENTREPHIL folds
+La Bongeo folds
+papypoker038 folds
+*** FLOP *** [5s 9s Qc]
+*** TURN *** [5s 9s Qc][2c]
+*** RIVER *** [5s 9s Qc 2c][Ad]
+*** SHOW DOWN ***
+manggy94 shows [6d 6h] (One pair : 6)
+Celestin8436 shows [As 8h] (One pair : Aces)
+Celestin8436 collected 3030 from pot
+*** SUMMARY ***
+Total pot 3030 | No rake
+Board: [5s 9s Qc 2c Ad]
+Seat 3: manggy94 showed [6d 6h] and lost with One pair : 6
+Seat 4: Celestin8436 showed [As 8h] and won 3030 with One pair : Aces
+
+

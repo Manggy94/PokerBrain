@@ -1,0 +1,582 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level:  - HandId: #860534772638679059-1-1499430787 - Holdem no limit (50/200/400) - 2017/07/07 12:33:07 UTC
+Table: 'MiniRoll(200358865)#018' 6-max (real money) Seat #4 is the button
+Seat 4: manggy94 (10000)
+Seat 6: canaye 93 (10000)
+*** ANTE/BLINDS ***
+manggy94 posts ante 50
+canaye 93 posts ante 50
+manggy94 posts small blind 200
+canaye 93 posts big blind 400
+Dealt to manggy94 [8d 6s]
+*** PRE-FLOP *** 
+manggy94 folds
+canaye 93 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 6: canaye 93 (big blind) won 700
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level:  - HandId: #860534772638679059-2-1499430792 - Holdem no limit (50/200/400) - 2017/07/07 12:33:12 UTC
+Table: 'MiniRoll(200358865)#018' 6-max (real money) Seat #4 is the button
+Seat 2: Jeremytopy02 (10000)
+Seat 3: killerbreiz (9700)
+Seat 4: manggy94 (9750)
+Seat 6: canaye 93 (10250)
+*** ANTE/BLINDS ***
+canaye 93 posts ante 50
+Jeremytopy02 posts ante 50
+killerbreiz posts ante 50
+manggy94 posts ante 50
+canaye 93 posts small blind 200
+Jeremytopy02 posts big blind 400
+Dealt to manggy94 [As 6s]
+*** PRE-FLOP *** 
+killerbreiz calls 400
+manggy94 raises 400 to 800
+canaye 93 folds
+Jeremytopy02 calls 400
+killerbreiz calls 400
+*** FLOP *** [3c Qc 8h]
+Jeremytopy02 checks
+killerbreiz checks
+manggy94 bets 1200
+Jeremytopy02 folds
+killerbreiz folds
+manggy94 collected 4000 from pot
+*** SUMMARY ***
+Total pot 4000 | No rake
+Board: [3c Qc 8h]
+Seat 4: manggy94 (button) won 4000
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level:  - HandId: #860534772638679059-3-1499430848 - Holdem no limit (50/200/400) - 2017/07/07 12:34:08 UTC
+Table: 'MiniRoll(200358865)#018' 6-max (real money) Seat #6 is the button
+Seat 2: Jeremytopy02 (9150)
+Seat 3: killerbreiz (8850)
+Seat 4: manggy94 (11700)
+Seat 5: JeReparDZero (10000)
+Seat 6: canaye 93 (10000)
+*** ANTE/BLINDS ***
+Jeremytopy02 posts ante 50
+killerbreiz posts ante 50
+manggy94 posts ante 50
+JeReparDZero posts ante 50
+canaye 93 posts ante 50
+Jeremytopy02 posts small blind 200
+killerbreiz posts big blind 400
+Dealt to manggy94 [Jh 8h]
+*** PRE-FLOP *** 
+manggy94 calls 400
+JeReparDZero folds
+canaye 93 calls 400
+Jeremytopy02 folds
+killerbreiz checks
+*** FLOP *** [Js As 8d]
+killerbreiz checks
+manggy94 bets 825
+canaye 93 raises 825 to 1650
+killerbreiz folds
+manggy94 calls 825
+*** TURN *** [Js As 8d][5s]
+manggy94 checks
+canaye 93 bets 1200
+manggy94 calls 1200
+*** RIVER *** [Js As 8d 5s][6d]
+manggy94 checks
+canaye 93 bets 1600
+manggy94 calls 1600
+*** SHOW DOWN ***
+canaye 93 shows [5c Jc] (Two pairs : Jacks and 5)
+manggy94 shows [Jh 8h] (Two pairs : Jacks and 8)
+manggy94 collected 10550 from pot
+*** SUMMARY ***
+Total pot 10550 | No rake
+Board: [Js As 8d 5s 6d]
+Seat 4: manggy94 showed [Jh 8h] and won 10550 with Two pairs : Jacks and 8
+Seat 6: canaye 93 (button) showed [5c Jc] and lost with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level:  - HandId: #860534772638679059-4-1499430900 - Holdem no limit (50/200/400) - 2017/07/07 12:35:00 UTC
+Table: 'MiniRoll(200358865)#018' 6-max (real money) Seat #2 is the button
+Seat 1: joe37 (10000)
+Seat 2: Jeremytopy02 (8900)
+Seat 3: killerbreiz (8400)
+Seat 4: manggy94 (17350)
+Seat 5: JeReparDZero (9950)
+Seat 6: canaye 93 (5100)
+*** ANTE/BLINDS ***
+killerbreiz posts ante 50
+manggy94 posts ante 50
+joe37 posts ante 50
+Jeremytopy02 posts ante 50
+JeReparDZero posts ante 50
+canaye 93 posts ante 50
+killerbreiz posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [4d As]
+*** PRE-FLOP *** 
+JeReparDZero raises 400 to 800
+canaye 93 folds
+joe37 folds
+Jeremytopy02 folds
+killerbreiz folds
+manggy94 calls 400
+*** FLOP *** [6d 8d Qs]
+manggy94 bets 400
+JeReparDZero calls 400
+*** TURN *** [6d 8d Qs][7d]
+manggy94 checks
+JeReparDZero checks
+*** RIVER *** [6d 8d Qs 7d][Ac]
+manggy94 bets 1450
+JeReparDZero folds
+manggy94 collected 4350 from pot
+*** SUMMARY ***
+Total pot 4350 | No rake
+Board: [6d 8d Qs 7d Ac]
+Seat 4: manggy94 (big blind) won 4350
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level:  - HandId: #860534772638679059-5-1499430956 - Holdem no limit (50/200/400) - 2017/07/07 12:35:56 UTC
+Table: 'MiniRoll(200358865)#018' 6-max (real money) Seat #3 is the button
+Seat 1: joe37 (9950)
+Seat 2: Jeremytopy02 (8850)
+Seat 3: killerbreiz (8150)
+Seat 4: manggy94 (19000)
+Seat 5: JeReparDZero (8700)
+*** ANTE/BLINDS ***
+manggy94 posts ante 50
+JeReparDZero posts ante 50
+joe37 posts ante 50
+Jeremytopy02 posts ante 50
+killerbreiz posts ante 50
+manggy94 posts small blind 200
+JeReparDZero posts big blind 400
+Dealt to manggy94 [As Qc]
+*** PRE-FLOP *** 
+joe37 folds
+Jeremytopy02 folds
+killerbreiz folds
+manggy94 raises 800 to 1200
+JeReparDZero folds
+manggy94 collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Seat 4: manggy94 (small blind) won 1850
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #860534772638679059-6-1499430972 - Holdem no limit (60/250/500) - 2017/07/07 12:36:12 UTC
+Table: 'MiniRoll(200358865)#018' 6-max (real money) Seat #4 is the button
+Seat 1: joe37 (9900)
+Seat 2: Jeremytopy02 (8800)
+Seat 3: killerbreiz (8100)
+Seat 4: manggy94 (19600)
+Seat 5: JeReparDZero (8250)
+*** ANTE/BLINDS ***
+JeReparDZero posts ante 60
+joe37 posts ante 60
+Jeremytopy02 posts ante 60
+killerbreiz posts ante 60
+manggy94 posts ante 60
+JeReparDZero posts small blind 250
+joe37 posts big blind 500
+Dealt to manggy94 [Kh 8c]
+*** PRE-FLOP *** 
+Jeremytopy02 calls 500
+killerbreiz folds
+manggy94 calls 500
+JeReparDZero folds
+joe37 checks
+*** FLOP *** [3s As 4c]
+joe37 checks
+Jeremytopy02 checks
+manggy94 checks
+*** TURN *** [3s As 4c][9h]
+joe37 checks
+Jeremytopy02 checks
+manggy94 bets 750
+joe37 folds
+Jeremytopy02 calls 750
+*** RIVER *** [3s As 4c 9h][Qd]
+Jeremytopy02 checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [Kh 8c] (High card : Ace)
+Jeremytopy02 shows [7c 7h] (One pair : 7)
+Jeremytopy02 collected 3550 from pot
+*** SUMMARY ***
+Total pot 3550 | No rake
+Board: [3s As 4c 9h Qd]
+Seat 2: Jeremytopy02 showed [7c 7h] and won 3550 with One pair : 7
+Seat 4: manggy94 (button) showed [Kh 8c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #860534772638679059-7-1499431058 - Holdem no limit (60/250/500) - 2017/07/07 12:37:38 UTC
+Table: 'MiniRoll(200358865)#018' 6-max (real money) Seat #5 is the button
+Seat 1: joe37 (9340)
+Seat 2: Jeremytopy02 (11040)
+Seat 3: killerbreiz (8040)
+Seat 4: manggy94 (18290)
+Seat 5: JeReparDZero (7940)
+Seat 6: Maurice07100 (10000)
+*** ANTE/BLINDS ***
+joe37 posts ante 60
+Jeremytopy02 posts ante 60
+killerbreiz posts ante 60
+manggy94 posts ante 60
+JeReparDZero posts ante 60
+joe37 posts small blind 250
+Jeremytopy02 posts big blind 500
+Dealt to manggy94 [Kh 9s]
+*** PRE-FLOP *** 
+killerbreiz raises 7480 to 7980 and is all-in
+manggy94 folds
+JeReparDZero calls 7880 and is all-in
+joe37 folds
+Jeremytopy02 folds
+*** FLOP *** [Kc 4c 7h]
+*** TURN *** [Kc 4c 7h][3c]
+*** RIVER *** [Kc 4c 7h 3c][2s]
+*** SHOW DOWN ***
+killerbreiz shows [9d Td] (High card : King)
+JeReparDZero shows [Qs As] (High card : Ace)
+JeReparDZero collected 16810 from main pot
+killerbreiz collected 100 from side pot 1
+*** SUMMARY ***
+Total pot 16910 | No rake
+Board: [Kc 4c 7h 3c 2s]
+Seat 3: killerbreiz showed [9d Td] and won 100 with High card : King
+Seat 5: JeReparDZero (button) showed [Qs As] and won 16810 with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #860534772638679059-8-1499431084 - Holdem no limit (60/250/500) - 2017/07/07 12:38:04 UTC
+Table: 'MiniRoll(200358865)#018' 6-max (real money) Seat #1 is the button
+Seat 1: joe37 (9030)
+Seat 2: Jeremytopy02 (10480)
+Seat 4: manggy94 (18230)
+Seat 5: JeReparDZero (16810)
+Seat 6: Maurice07100 (10000)
+*** ANTE/BLINDS ***
+Jeremytopy02 posts ante 60
+manggy94 posts ante 60
+joe37 posts ante 60
+JeReparDZero posts ante 60
+Maurice07100 posts ante 60
+Jeremytopy02 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [Tc Kc]
+*** PRE-FLOP *** 
+JeReparDZero folds
+Maurice07100 raises 1000 to 1500
+joe37 folds
+Jeremytopy02 calls 1250
+manggy94 calls 1000
+*** FLOP *** [Ac 8h Ah]
+Jeremytopy02 checks
+manggy94 checks
+Maurice07100 bets 3200
+Jeremytopy02 folds
+manggy94 folds
+Maurice07100 collected 8000 from pot
+*** SUMMARY ***
+Total pot 8000 | No rake
+Board: [Ac 8h Ah]
+Seat 6: Maurice07100 won 8000
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #860534772638679059-9-1499431116 - Holdem no limit (60/250/500) - 2017/07/07 12:38:36 UTC
+Table: 'MiniRoll(200358865)#018' 6-max (real money) Seat #2 is the button
+Seat 1: joe37 (8970)
+Seat 2: Jeremytopy02 (8920)
+Seat 3: Zaizinho59 (10000)
+Seat 4: manggy94 (16670)
+Seat 6: Maurice07100 (13240)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+Maurice07100 posts ante 60
+joe37 posts ante 60
+Jeremytopy02 posts ante 60
+manggy94 posts small blind 250
+Maurice07100 posts big blind 500
+Dealt to manggy94 [Qd Jc]
+*** PRE-FLOP *** 
+joe37 folds
+Jeremytopy02 calls 500
+manggy94 calls 250
+Maurice07100 checks
+*** FLOP *** [5h 2s 3h]
+manggy94 bets 500
+Maurice07100 raises 2740 to 3240
+Jeremytopy02 folds
+manggy94 folds
+Maurice07100 collected 5480 from pot
+*** SUMMARY ***
+Total pot 5480 | No rake
+Board: [5h 2s 3h]
+Seat 6: Maurice07100 (big blind) won 5480
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #860534772638679059-10-1499431143 - Holdem no limit (60/250/500) - 2017/07/07 12:39:03 UTC
+Table: 'MiniRoll(200358865)#018' 6-max (real money) Seat #4 is the button
+Seat 1: joe37 (8910)
+Seat 2: Jeremytopy02 (8360)
+Seat 3: Zaizinho59 (10000)
+Seat 4: manggy94 (15610)
+Seat 6: Maurice07100 (14920)
+*** ANTE/BLINDS ***
+Maurice07100 posts ante 60
+joe37 posts ante 60
+Jeremytopy02 posts ante 60
+Zaizinho59 posts ante 60
+manggy94 posts ante 60
+Maurice07100 posts small blind 250
+joe37 posts big blind 500
+Dealt to manggy94 [Qc 7c]
+*** PRE-FLOP *** 
+Jeremytopy02 raises 500 to 1000
+Zaizinho59 folds
+manggy94 folds
+Maurice07100 folds
+joe37 folds
+Jeremytopy02 collected 2050 from pot
+*** SUMMARY ***
+Total pot 2050 | No rake
+Seat 2: Jeremytopy02 won 2050
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #860534772638679059-11-1499431164 - Holdem no limit (60/250/500) - 2017/07/07 12:39:24 UTC
+Table: 'MiniRoll(200358865)#018' 6-max (real money) Seat #6 is the button
+Seat 1: joe37 (8350)
+Seat 2: Jeremytopy02 (9350)
+Seat 3: Zaizinho59 (9940)
+Seat 4: manggy94 (15550)
+Seat 6: Maurice07100 (14610)
+*** ANTE/BLINDS ***
+joe37 posts ante 60
+Jeremytopy02 posts ante 60
+Zaizinho59 posts ante 60
+manggy94 posts ante 60
+Maurice07100 posts ante 60
+joe37 posts small blind 250
+Jeremytopy02 posts big blind 500
+Dealt to manggy94 [5h 8h]
+*** PRE-FLOP *** 
+Zaizinho59 folds
+manggy94 folds
+Maurice07100 folds
+joe37 folds
+Jeremytopy02 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 2: Jeremytopy02 (big blind) won 1050
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #860534772638679059-12-1499431228 - Holdem no limit (60/250/500) - 2017/07/07 12:40:28 UTC
+Table: 'MiniRoll(200358865)#018' 6-max (real money) Seat #1 is the button
+Seat 1: joe37 (8040)
+Seat 2: Jeremytopy02 (9840)
+Seat 3: Zaizinho59 (9880)
+Seat 4: manggy94 (15490)
+Seat 5: Indigeste (9230)
+Seat 6: Maurice07100 (14550)
+*** ANTE/BLINDS ***
+Jeremytopy02 posts ante 60
+Zaizinho59 posts ante 60
+joe37 posts ante 60
+manggy94 posts ante 60
+Indigeste posts ante 60
+Maurice07100 posts ante 60
+Jeremytopy02 posts small blind 250
+Zaizinho59 posts big blind 500
+Dealt to manggy94 [4c Jd]
+*** PRE-FLOP *** 
+manggy94 folds
+Indigeste folds
+Maurice07100 raises 1000 to 1500
+joe37 folds
+Jeremytopy02 folds
+Zaizinho59 folds
+Maurice07100 collected 2610 from pot
+*** SUMMARY ***
+Total pot 2610 | No rake
+Seat 6: Maurice07100 won 2610
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #860534772638679059-13-1499431248 - Holdem no limit (60/250/500) - 2017/07/07 12:40:48 UTC
+Table: 'MiniRoll(200358865)#018' 6-max (real money) Seat #2 is the button
+Seat 1: joe37 (7980)
+Seat 2: Jeremytopy02 (9530)
+Seat 3: Zaizinho59 (9320)
+Seat 4: manggy94 (15430)
+Seat 5: Indigeste (9170)
+Seat 6: Maurice07100 (15600)
+*** ANTE/BLINDS ***
+Zaizinho59 posts ante 60
+manggy94 posts ante 60
+joe37 posts ante 60
+Jeremytopy02 posts ante 60
+Indigeste posts ante 60
+Maurice07100 posts ante 60
+Zaizinho59 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [9d Ad]
+*** PRE-FLOP *** 
+Indigeste calls 500
+Maurice07100 folds
+joe37 folds
+Jeremytopy02 folds
+Zaizinho59 calls 250
+manggy94 checks
+*** FLOP *** [3s 3d Ks]
+Zaizinho59 bets 1000
+manggy94 calls 1000
+Indigeste calls 1000
+*** TURN *** [3s 3d Ks][9c]
+Zaizinho59 bets 2000
+manggy94 calls 2000
+Indigeste folds
+*** RIVER *** [3s 3d Ks 9c][Qh]
+Zaizinho59 bets 4000
+manggy94 calls 4000
+*** SHOW DOWN ***
+manggy94 shows [9d Ad] (Two pairs : 9 and 3)
+Zaizinho59 shows [Jd Qc] (Two pairs : Queens and 3)
+Zaizinho59 collected 16860 from pot
+*** SUMMARY ***
+Total pot 16860 | No rake
+Board: [3s 3d Ks 9c Qh]
+Seat 3: Zaizinho59 (small blind) showed [Jd Qc] and won 16860 with Two pairs : Queens and 3
+Seat 4: manggy94 (big blind) showed [9d Ad] and lost with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #860534772638679059-14-1499431319 - Holdem no limit (60/250/500) - 2017/07/07 12:41:59 UTC
+Table: 'MiniRoll(200358865)#018' 6-max (real money) Seat #3 is the button
+Seat 1: joe37 (7920)
+Seat 2: Jeremytopy02 (9470)
+Seat 3: Zaizinho59 (18620)
+Seat 4: manggy94 (7870)
+Seat 5: Indigeste (7610)
+Seat 6: Maurice07100 (15540)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+Indigeste posts ante 60
+joe37 posts ante 60
+Jeremytopy02 posts ante 60
+Zaizinho59 posts ante 60
+Maurice07100 posts ante 60
+manggy94 posts small blind 250
+Indigeste posts big blind 500
+Dealt to manggy94 [As 5d]
+*** PRE-FLOP *** 
+Maurice07100 folds
+joe37 folds
+Jeremytopy02 calls 500
+Zaizinho59 calls 500
+manggy94 calls 250
+Indigeste checks
+*** FLOP *** [Kd 5h 4d]
+manggy94 bets 1180
+Indigeste calls 1180
+Jeremytopy02 folds
+Zaizinho59 folds
+*** TURN *** [Kd 5h 4d][3s]
+manggy94 checks
+Indigeste checks
+*** RIVER *** [Kd 5h 4d 3s][Tc]
+manggy94 checks
+Indigeste checks
+*** SHOW DOWN ***
+manggy94 shows [As 5d] (One pair : 5)
+Indigeste shows [2c Ks] (One pair : Kings)
+Indigeste collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Board: [Kd 5h 4d 3s Tc]
+Seat 4: manggy94 (small blind) showed [As 5d] and lost with One pair : 5
+Seat 5: Indigeste (big blind) showed [2c Ks] and won 4720 with One pair : Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #860534772638679059-15-1499431369 - Holdem no limit (80/300/600) - 2017/07/07 12:42:49 UTC
+Table: 'MiniRoll(200358865)#018' 6-max (real money) Seat #4 is the button
+Seat 1: joe37 (7860)
+Seat 2: Jeremytopy02 (8910)
+Seat 3: Zaizinho59 (18060)
+Seat 4: manggy94 (6130)
+Seat 5: Indigeste (10590)
+Seat 6: Maurice07100 (15480)
+*** ANTE/BLINDS ***
+Indigeste posts ante 80
+Maurice07100 posts ante 80
+joe37 posts ante 80
+Jeremytopy02 posts ante 80
+Zaizinho59 posts ante 80
+manggy94 posts ante 80
+Indigeste posts small blind 300
+Maurice07100 posts big blind 600
+Dealt to manggy94 [7h Jh]
+*** PRE-FLOP *** 
+joe37 folds
+Jeremytopy02 folds
+Zaizinho59 folds
+manggy94 folds
+Indigeste raises 1200 to 1800
+Maurice07100 calls 1200
+*** FLOP *** [8s 2s 5h]
+Indigeste bets 2040
+Maurice07100 calls 2040
+*** TURN *** [8s 2s 5h][Ts]
+Indigeste checks
+Maurice07100 bets 4080
+Indigeste calls 4080
+*** RIVER *** [8s 2s 5h Ts][9c]
+Indigeste checks
+Maurice07100 bets 7480 and is all-in
+Indigeste calls 2590 and is all-in
+*** SHOW DOWN ***
+Indigeste shows [Ah Ks] (High card : Ace)
+Maurice07100 shows [6h 7s] (Straight Ten high)
+Maurice07100 collected 26390 from pot
+*** SUMMARY ***
+Total pot 26390 | No rake
+Board: [8s 2s 5h Ts 9c]
+Seat 5: Indigeste (small blind) showed [Ah Ks] and lost with High card : Ace
+Seat 6: Maurice07100 (big blind) showed [6h 7s] and won 26390 with Straight Ten high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #860534772638679059-16-1499431418 - Holdem no limit (80/300/600) - 2017/07/07 12:43:38 UTC
+Table: 'MiniRoll(200358865)#018' 6-max (real money) Seat #5 is the button
+Seat 1: joe37 (7780)
+Seat 2: Jeremytopy02 (8830)
+Seat 3: Zaizinho59 (17980)
+Seat 4: manggy94 (6050)
+Seat 6: Maurice07100 (26390)
+*** ANTE/BLINDS ***
+Maurice07100 posts ante 80
+joe37 posts ante 80
+Jeremytopy02 posts ante 80
+Zaizinho59 posts ante 80
+manggy94 posts ante 80
+Maurice07100 posts small blind 300
+joe37 posts big blind 600
+Dealt to manggy94 [4d Ad]
+*** PRE-FLOP *** 
+Jeremytopy02 folds
+Zaizinho59 calls 600
+manggy94 raises 5370 to 5970 and is all-in
+Maurice07100 folds
+joe37 folds
+Zaizinho59 calls 5370
+*** FLOP *** [Kh Th 2h]
+*** TURN *** [Kh Th 2h][2c]
+*** RIVER *** [Kh Th 2h 2c][Jh]
+*** SHOW DOWN ***
+manggy94 shows [4d Ad] (One pair : 2)
+Zaizinho59 shows [Kc Ac] (Two pairs : Kings and 2)
+Zaizinho59 collected 13240 from pot
+*** SUMMARY ***
+Total pot 13240 | No rake
+Board: [Kh Th 2h 2c Jh]
+Seat 3: Zaizinho59 showed [Kc Ac] and won 13240 with Two pairs : Kings and 2
+Seat 4: manggy94 showed [4d Ad] and lost with One pair : 2
+
+

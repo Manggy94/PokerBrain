@@ -1,0 +1,320 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #542256401557226288-1-1439670264 - Holdem no limit (20/40) - 2015/08/15 20:24:24 UTC
+Table: 'Freeroll(126253907)#815' 6-max (real money) Seat #5 is the button
+Seat 1: lilian.du (2925)
+Seat 2: PADNER (3000)
+Seat 3: youcoolelez (3000)
+Seat 4: manggy94 (3000)
+Seat 5: leader25 (2955)
+Seat 6: MOON1978 (2985)
+*** ANTE/BLINDS ***
+MOON1978 posts small blind 20
+lilian.du posts big blind 40
+Dealt to manggy94 [2d Ts]
+*** PRE-FLOP *** 
+PADNER raises 40 to 80
+youcoolelez raises 2920 to 3000 and is all-in
+manggy94 folds
+leader25 folds
+MOON1978 calls 2965 and is all-in
+lilian.du folds
+PADNER calls 2920 and is all-in
+*** FLOP *** [Jc Qd 9h]
+*** TURN *** [Jc Qd 9h][3d]
+*** RIVER *** [Jc Qd 9h 3d][7h]
+*** SHOW DOWN ***
+PADNER shows [Ks 5c] (High card : King)
+MOON1978 shows [9d Kh] (One pair : 9)
+youcoolelez shows [6c 6h] (One pair : 6)
+youcoolelez collected 30 from side pot 1
+MOON1978 collected 8995 from main pot
+*** SUMMARY ***
+Total pot 9025 | No rake
+Board: [Jc Qd 9h 3d 7h]
+Seat 2: PADNER showed [Ks 5c] and lost with High card : King
+Seat 3: youcoolelez showed [6c 6h] and won 30 with One pair : 6
+Seat 6: MOON1978 (small blind) showed [9d Kh] and won 8995 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #542256401557225672-15-1439670289 - Holdem no limit (30/60) - 2015/08/15 20:24:49 UTC
+Table: 'Freeroll(126253907)#199' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (3000)
+Seat 2: MRC41 (13640)
+Seat 3: FISSOUILLE (2970)
+Seat 4: kiriks95400 (4160)
+Seat 5: NICOFOOTIX92 (2865)
+Seat 6: a.b.b.y (2880)
+*** ANTE/BLINDS ***
+MRC41 posts big blind 60
+*** PRE-FLOP *** 
+FISSOUILLE folds
+kiriks95400 raises 4100 to 4160 and is all-in
+NICOFOOTIX92 folds
+a.b.b.y folds
+MRC41 calls 4100
+*** FLOP *** [Jh 9s 2h]
+*** TURN *** [Jh 9s 2h][2c]
+*** RIVER *** [Jh 9s 2h 2c][7h]
+*** SHOW DOWN ***
+kiriks95400 shows [6s Td] (One pair : 2)
+MRC41 shows [Qc Kc] (One pair : 2)
+MRC41 collected 8320 from pot
+*** SUMMARY ***
+Total pot 8320 | No rake
+Board: [Jh 9s 2h 2c 7h]
+Seat 2: MRC41 (big blind) showed [Qc Kc] and won 8320 with One pair : 2
+Seat 4: kiriks95400 showed [6s Td] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #542256401557225672-16-1439670310 - Holdem no limit (30/60) - 2015/08/15 20:25:10 UTC
+Table: 'Freeroll(126253907)#199' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (3000)
+Seat 2: MRC41 (17800)
+Seat 3: FISSOUILLE (2970)
+Seat 4: colibri74 (2825)
+Seat 5: NICOFOOTIX92 (2865)
+Seat 6: a.b.b.y (2880)
+*** ANTE/BLINDS ***
+MRC41 posts small blind 30
+FISSOUILLE posts big blind 60
+*** PRE-FLOP *** 
+colibri74 calls 60
+NICOFOOTIX92 folds
+a.b.b.y folds
+MRC41 calls 30
+FISSOUILLE folds
+*** FLOP *** [Ah 5c 9h]
+MRC41 bets 60
+colibri74 calls 60
+*** TURN *** [Ah 5c 9h][Kc]
+MRC41 checks
+colibri74 checks
+*** RIVER *** [Ah 5c 9h Kc][8s]
+MRC41 checks
+colibri74 checks
+*** SHOW DOWN ***
+MRC41 shows [4d 6h] (High card : Ace)
+colibri74 shows [7s 4s] (High card : Ace)
+colibri74 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Ah 5c 9h Kc 8s]
+Seat 2: MRC41 (small blind) showed [4d 6h] and lost with High card : Ace
+Seat 4: colibri74 showed [7s 4s] and won 300 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #542256401557225672-17-1439670351 - Holdem no limit (30/60) - 2015/08/15 20:25:51 UTC
+Table: 'Freeroll(126253907)#199' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (3000)
+Seat 2: MRC41 (17680)
+Seat 3: FISSOUILLE (2910)
+Seat 4: phoebus008 (2830)
+Seat 5: NICOFOOTIX92 (2865)
+Seat 6: a.b.b.y (2880)
+*** ANTE/BLINDS ***
+FISSOUILLE posts small blind 30
+phoebus008 posts big blind 60
+Dealt to manggy94 [Kc 9d]
+*** PRE-FLOP *** 
+NICOFOOTIX92 folds
+a.b.b.y folds
+manggy94 folds
+MRC41 raises 150 to 210
+FISSOUILLE folds
+phoebus008 folds
+MRC41 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: MRC41 (button) won 300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #542256401557225672-18-1439670366 - Holdem no limit (30/60) - 2015/08/15 20:26:06 UTC
+Table: 'Freeroll(126253907)#199' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (3000)
+Seat 2: MRC41 (17770)
+Seat 3: FISSOUILLE (2880)
+Seat 4: phoebus008 (2770)
+Seat 5: NICOFOOTIX92 (2865)
+Seat 6: a.b.b.y (2880)
+*** ANTE/BLINDS ***
+phoebus008 posts small blind 30
+NICOFOOTIX92 posts big blind 60
+Dealt to manggy94 [2s Js]
+*** PRE-FLOP *** 
+a.b.b.y folds
+manggy94 folds
+MRC41 raises 150 to 210
+FISSOUILLE folds
+phoebus008 folds
+NICOFOOTIX92 folds
+MRC41 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: MRC41 won 300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #542256401557225672-19-1439670382 - Holdem no limit (30/60) - 2015/08/15 20:26:22 UTC
+Table: 'Freeroll(126253907)#199' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (3000)
+Seat 2: MRC41 (17860)
+Seat 3: FISSOUILLE (2880)
+Seat 4: phoebus008 (2740)
+Seat 5: NICOFOOTIX92 (2805)
+Seat 6: a.b.b.y (2880)
+*** ANTE/BLINDS ***
+NICOFOOTIX92 posts small blind 30
+a.b.b.y posts big blind 60
+Dealt to manggy94 [5d 2h]
+*** PRE-FLOP *** 
+manggy94 raises 150 to 210
+MRC41 folds
+FISSOUILLE folds
+phoebus008 folds
+NICOFOOTIX92 folds
+a.b.b.y folds
+manggy94 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: manggy94 won 300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #542256401557225824-12-1439670415 - Holdem no limit (30/60) - 2015/08/15 20:26:55 UTC
+Table: 'Freeroll(126253907)#351' 6-max (real money) Seat #1 is the button
+Seat 1: LarsOlSkool (5870)
+Seat 2: rack-sky (3085)
+Seat 3: FREEDY43 (7490)
+Seat 4: benji2f (4530)
+Seat 5: manggy94 (3090)
+Seat 6: Sooooophie (2865)
+*** ANTE/BLINDS ***
+rack-sky posts small blind 30
+FREEDY43 posts big blind 60
+Dealt to manggy94 [Qd Tc]
+*** PRE-FLOP *** 
+benji2f folds
+manggy94 raises 150 to 210
+Sooooophie folds
+LarsOlSkool folds
+rack-sky folds
+FREEDY43 folds
+manggy94 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 5: manggy94 won 300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #542256401557225824-13-1439670433 - Holdem no limit (30/60) - 2015/08/15 20:27:13 UTC
+Table: 'Freeroll(126253907)#351' 6-max (real money) Seat #2 is the button
+Seat 1: LarsOlSkool (5870)
+Seat 2: rack-sky (3055)
+Seat 3: FREEDY43 (7430)
+Seat 4: benji2f (4530)
+Seat 5: manggy94 (3180)
+Seat 6: Sooooophie (2865)
+*** ANTE/BLINDS ***
+FREEDY43 posts small blind 30
+benji2f posts big blind 60
+Dealt to manggy94 [5c Qd]
+*** PRE-FLOP *** 
+manggy94 folds
+Sooooophie folds
+LarsOlSkool folds
+rack-sky folds
+FREEDY43 folds
+benji2f collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: benji2f (big blind) won 90
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #542256401557225824-14-1439670441 - Holdem no limit (30/60) - 2015/08/15 20:27:21 UTC
+Table: 'Freeroll(126253907)#351' 6-max (real money) Seat #3 is the button
+Seat 1: LarsOlSkool (5870)
+Seat 2: rack-sky (3055)
+Seat 3: FREEDY43 (7400)
+Seat 4: benji2f (4560)
+Seat 5: manggy94 (3180)
+Seat 6: Sooooophie (2865)
+*** ANTE/BLINDS ***
+benji2f posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [6c Tc]
+*** PRE-FLOP *** 
+Sooooophie folds
+LarsOlSkool folds
+rack-sky calls 60
+FREEDY43 folds
+benji2f calls 30
+manggy94 checks
+*** FLOP *** [2d Js 8h]
+benji2f checks
+manggy94 bets 180
+rack-sky folds
+benji2f raises 4320 to 4500 and is all-in
+manggy94 folds
+benji2f collected 4860 from pot
+*** SUMMARY ***
+Total pot 4860 | No rake
+Board: [2d Js 8h]
+Seat 4: benji2f (small blind) won 4860
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #542256401557225824-15-1439670488 - Holdem no limit (40/80) - 2015/08/15 20:28:08 UTC
+Table: 'Freeroll(126253907)#351' 6-max (real money) Seat #4 is the button
+Seat 1: LarsOlSkool (5870)
+Seat 2: rack-sky (2995)
+Seat 3: FREEDY43 (7400)
+Seat 4: benji2f (4860)
+Seat 5: manggy94 (2940)
+Seat 6: Sooooophie (2865)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+Sooooophie posts big blind 80
+Dealt to manggy94 [8d Js]
+*** PRE-FLOP *** 
+LarsOlSkool raises 5790 to 5870 and is all-in
+rack-sky folds
+FREEDY43 folds
+benji2f folds
+manggy94 folds
+Sooooophie folds
+LarsOlSkool shows [Ac 3h] (High card : Ace)
+LarsOlSkool collected 5990 from pot
+*** SUMMARY ***
+Total pot 5990 | No rake
+Seat 1: LarsOlSkool showed [Ac 3h] and won 5990 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #542256401557225824-16-1439670517 - Holdem no limit (40/80) - 2015/08/15 20:28:37 UTC
+Table: 'Freeroll(126253907)#351' 6-max (real money) Seat #5 is the button
+Seat 1: LarsOlSkool (5990)
+Seat 2: rack-sky (2995)
+Seat 3: FREEDY43 (7400)
+Seat 4: benji2f (4860)
+Seat 5: manggy94 (2900)
+Seat 6: Sooooophie (2785)
+*** ANTE/BLINDS ***
+Sooooophie posts small blind 40
+LarsOlSkool posts big blind 80
+Dealt to manggy94 [Kd Qh]
+*** PRE-FLOP *** 
+rack-sky calls 80
+FREEDY43 folds
+benji2f raises 4780 to 4860 and is all-in
+manggy94 calls 2900 and is all-in
+Sooooophie folds
+LarsOlSkool folds
+rack-sky folds
+*** FLOP *** [Td Ad Jc]
+*** TURN *** [Td Ad Jc][8d]
+*** RIVER *** [Td Ad Jc 8d][9h]
+*** SHOW DOWN ***
+manggy94 shows [Kd Qh] (Straight Ace high)
+benji2f shows [Qd 6d] (Flush Ace high)
+benji2f collected 7960 from pot
+*** SUMMARY ***
+Total pot 7960 | No rake
+Board: [Td Ad Jc 8d 9h]
+Seat 4: benji2f showed [Qd 6d] and won 7960 with Flush Ace high
+Seat 5: manggy94 (button) showed [Kd Qh] and lost with Straight Ace high
+
+

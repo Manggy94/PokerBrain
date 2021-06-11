@@ -1,0 +1,37 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #540379466489135457-1-1439208027 - Holdem no limit (10/20) - 2015/08/10 12:00:27 UTC
+Table: 'Freeroll(125816899)#352' 6-max (real money) Seat #6 is the button
+Seat 1: costel78 (3000)
+Seat 2: boby5 (3000)
+Seat 3: manggy94 (3000)
+Seat 4: xXZicOXx (3000)
+Seat 5: EREVAN25 (3000)
+Seat 6: sab81 (3000)
+*** ANTE/BLINDS ***
+costel78 posts small blind 10
+boby5 posts big blind 20
+Dealt to manggy94 [8c Qh]
+*** PRE-FLOP *** 
+manggy94 raises 50 to 70
+xXZicOXx calls 70
+EREVAN25 folds
+sab81 folds
+costel78 folds
+boby5 calls 50
+*** FLOP *** [9h 7h 6s]
+boby5 checks
+manggy94 bets 2930 and is all-in
+xXZicOXx folds
+boby5 calls 2930 and is all-in
+*** TURN *** [9h 7h 6s][6c]
+*** RIVER *** [9h 7h 6s 6c][4d]
+*** SHOW DOWN ***
+manggy94 shows [8c Qh] (One pair : 6)
+boby5 shows [6d Td] (Trips of 6)
+boby5 collected 6080 from pot
+*** SUMMARY ***
+Total pot 6080 | No rake
+Board: [9h 7h 6s 6c 4d]
+Seat 2: boby5 (big blind) showed [6d Td] and won 6080 with Trips of 6
+Seat 3: manggy94 showed [8c Qh] and lost with One pair : 6
+
+

@@ -1,13 +1,8 @@
-from winamax import  *
-from API.Table import *
-from API.card import *
-from API.hand import *
-from API.winamax_re import *
+from winamax import *
+from API.timer import Timer
+import numpy as np
 import os
 import re
-
-
-
 
 """
 Modes d'ouverture:
@@ -21,16 +16,16 @@ On utilisera svt que les 2 premiers modes
 Lecture d'un fichier:
 read(), readline(), readlines()
 """
-files=os.listdir('history')
+# files = os.listdir('history')
 
-#route="C:\\Users\hp\Desktop\Poker\PokerBrain\history"
-#files=os.listdir("history")
+# route="C:\\Users\hp\Desktop\Poker\PokerBrain\history"
+# files=os.listdir("history")
 
 _split_re = re.compile(r"\*\*\*\s+\n?|\n\n+")
 _header_re = re.compile(
     r"""
-    Winamax\s+Poker\s+-\s+                                             #Winamax Poker
-    (?P<poker_type>Tournament)\s+                                       #Poker Type
+    Winamax\s+Poker\s+-\s+                                              #Winamax Poker
+    (?P<poker_type>Tournament|CashGame)\s+                              #Poker Type
     \"(?P<tournament_name>.+)\"\s+                                      #Tournament Name
     buyIn\:\s+(?P<buyin>[0-9.,]+)â..\s+                                 #Buy In
     \+\s+(?P<rake>[0-9.,]+)â..\s+                                       #Rake
@@ -69,65 +64,63 @@ _bb_re = re.compile(r"(?P<player_name>[\w\s\-.]{3,12})\s+posts\s+big\s+blind\s+(
 
 
 def parse_file(file_name):
-    """Takes a file for a tournament (Winamax) and parses its hands """
-    #File opening
-    file=open("history/%s"%(file_name), "r")
+    """
+    Takes a file for a tournament (Winamax) and parses its hands
+    :param file_name: String
+    :return: WinamaxHandHistory list
+    """
+    # File opening
+    file = open("history/%s" % file_name, "r")
 
-    #File reading line by line until its end
-    content=file.readlines()
-    length=(len(content))
-    i=0
-    index=0
-    hands=[]
+    # File reading line by line until its end
+    content = file.readlines()
+    length = len(content)
+    i = 0
+    index = 0
+    hands = np.array([])
     while i < length:
-
-        #collecting different hand histories:
-        #if a header pattern is found on a new line, create a new handhistory and parse header informations in first line
+        # collecting different hand histories:
+        # If a header pattern is found on a new line, create a new handhistory and parse header informations
         if re.match(_header_re, content[i]):
-            #print(index)
-            header=header = re.match(_header_re, content[i])
-            hh=WinamaxHandHistory(content[i])
-            i+=1
+
+            header = re.match(_header_re, content[i])
+            hh = WinamaxHandHistory(content[i])
+            i += 1
             # find table pattern and parse its information with a new Table object with Tournaent information
+
             hh.parse_table(content[i])
             hh.set_table()
             hh.set_tournament()
-
-            #print("New Hand: %s\nTournament Id: %s\n%s-max"%(hh.ident,hh.table.tournament.id, hh.table.max_players))
-            #print("\nTournament ID: %s, Table ID: %s. On joue en %s-max en %s money. Le siège n° %s est Btn" %(hh.table.tournament.id, hh.table.id, hh.table.max_players, hh.table.tournament.money_type, hh.button_seat))
-            i+=1
-            #Step :Looking for players on seats, and adding Player objects to the table for every player found
-            while(re.search(_seat_re, content[i])):
+            i +=1
+            # Step :Looking for players on seats, and adding Player objects to the table for every player found
+            while re.search(_seat_re, content[i]):
                 hh.parse_player(content[i])
-                i+=1
+                i += 1
 
-            #Step : Analysing Ante and blinds
-            i+=1
-            #for player in hh.table.players:
-             #   print("%s Occupe le siège n°%s avec un stack de %s" %(player.name, player.seat, player.stack))
-            while(re.search(_ante_re, content[i])):
-                #print("\n", content[i])
+            # Step : Analysing Ante and blinds
+            i += 1
+            # for player in hh.table.players:
+            while re.search(_ante_re, content[i]):
+                # print("\n", content[i])
                 hh.parse_ante(content[i])
-                i+=1
-            #On identifie les sb et bb
-            if (re.search(_sb_re, content[i])):
+                i += 1
+            # Identify sb and bb
+            if re.search(_sb_re, content[i]):
                 hh.parse_sb(content[i])
-                i+=1
-            if (re.search(_bb_re, content[i])):
+                i += 1
+            if re.search(_bb_re, content[i]):
                 hh.parse_bb(content[i])
-                i+=1
-            #print("Pot:", hh.table.pot, "Highest Bet:", hh.table.highest_bet)
+                i += 1
 
-            if (re.search(_hero_cards_re, content[i])):
+            if re.search(_hero_cards_re, content[i]):
                 hh.parse_hero(content[i])
-                i+=1
-            #finding active players for PF (it's all of them)
+                i += 1
+            # Finding active players for PF (it's all of them)
             hh.table.find_active_players(hh.table.PF)
-            #PF Actions
-            #print("\n", content[i])
-            i+=1
-            #PF Actions are parsed into PF street, and added to the table
-            #Tant qu'on a des patterns d'actions:
+            # PF Actions
+            i += 1
+            # PF Actions are parsed into PF street, and added to the table
+            # While Action patterns are found
             while (re.search(_action_re, content[i])):
                 #On trouve le pattern d'action et on affecte ses groupes dans un objet action, qu'on ajoute à la liste des actions. On pourra ensuite la trier.
                 hh.parse_action(content[i], hh.table.PF)
@@ -181,22 +174,47 @@ def parse_file(file_name):
             while (re.search(_winner_re, content[i])):
                 hh.parse_winner(content[i])
                 i+=1
-            hands.append(hh)
+            hands=np.hstack((hands,hh))
             index += 1
         i+=1
     file.close()
     return hands
 
-def parse_directory(dir_name):
-    hands=[]
+def parse_directory(dir_name="history"):
+    """
+    Parses files of a directory into a list of hand_histories
+    :param dir_name: String
+    :return: WinamaxHandHistory list
+    """
+    timer1=Timer()
+    timer1.start()
     files=os.listdir(dir_name)
+    collection=np.array([])
+    #print([collection])
     for file_name in files:
-        hands.extend(parse_file(file_name))
-    return hands
+        try:
+            collection=np.hstack((collection,parse_file(file_name)))
+        except:
+            pass
+    timer1.stop()
+    #print(collection.shape)
+    return collection
 
-hands=parse_directory('history')
-try:
-    hands[0].table.R
-    print(1)
-except:
-    print(0)
+def parse_finished_hands(dir_name="history"):
+    """
+    Parses files of a directory to find hands that went to ShowDown
+    :param dir_name: String
+    :return: WinamaxHandHistory list
+    """
+    timer = Timer()
+    timer.start()
+    hands = parse_directory(dir_name)
+    finished_hands = np.array([])
+    for hand in hands:
+        if hand.table.has_showdown():
+            finished_hands=np.hstack((finished_hands,hand))
+    timer.stop()
+    return finished_hands
+
+
+

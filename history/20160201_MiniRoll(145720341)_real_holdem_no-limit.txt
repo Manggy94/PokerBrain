@@ -1,0 +1,141 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #625864098956967950-22-1454335892 - Holdem no limit (100/200) - 2016/02/01 14:11:32 UTC
+Table: 'MiniRoll(145720341)#013' 6-max (real money) Seat #3 is the button
+Seat 1: Cassegrain75 (17975)
+Seat 2: griendutou (10000)
+Seat 3: manggy94 (10000)
+Seat 4: jc la pince (11950)
+Seat 5: jako mtl (11800)
+Seat 6: nesquik90 (48225)
+*** ANTE/BLINDS ***
+jc la pince posts small blind 100
+jako mtl posts big blind 200
+Dealt to manggy94 [Ts 4s]
+*** PRE-FLOP *** 
+nesquik90 folds
+Cassegrain75 folds
+griendutou raises 800 to 1000
+manggy94 folds
+jc la pince calls 900
+jako mtl calls 800
+*** FLOP *** [8s 7d 5h]
+jc la pince bets 200
+jako mtl calls 200
+griendutou raises 8800 to 9000 and is all-in
+jc la pince folds
+jako mtl folds
+griendutou collected 12400 from pot
+*** SUMMARY ***
+Total pot 12400 | No rake
+Board: [8s 7d 5h]
+Seat 2: griendutou won 12400
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #625864098956967950-23-1454335949 - Holdem no limit (100/200) - 2016/02/01 14:12:29 UTC
+Table: 'MiniRoll(145720341)#013' 6-max (real money) Seat #4 is the button
+Seat 1: Cassegrain75 (17975)
+Seat 2: griendutou (12400)
+Seat 3: manggy94 (10000)
+Seat 4: jc la pince (10750)
+Seat 5: jako mtl (10600)
+Seat 6: nesquik90 (48225)
+*** ANTE/BLINDS ***
+jako mtl posts small blind 100
+nesquik90 posts big blind 200
+Dealt to manggy94 [6d 9c]
+*** PRE-FLOP *** 
+Cassegrain75 folds
+griendutou calls 200
+manggy94 folds
+jc la pince calls 200
+jako mtl calls 100
+nesquik90 checks
+*** FLOP *** [7c Tc 5d]
+jako mtl checks
+nesquik90 bets 800
+griendutou calls 800
+jc la pince folds
+jako mtl folds
+*** TURN *** [7c Tc 5d][9h]
+nesquik90 bets 1200
+griendutou calls 1200
+*** RIVER *** [7c Tc 5d 9h][3h]
+nesquik90 checks
+griendutou checks
+*** SHOW DOWN ***
+griendutou shows [Jd 7d] (One pair : 7)
+nesquik90 shows [Jh Td] (One pair : Tens)
+nesquik90 collected 4800 from pot
+*** SUMMARY ***
+Total pot 4800 | No rake
+Board: [7c Tc 5d 9h 3h]
+Seat 2: griendutou showed [Jd 7d] and lost with One pair : 7
+Seat 6: nesquik90 (big blind) showed [Jh Td] and won 4800 with One pair : Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #625864098956967950-24-1454336003 - Holdem no limit (100/200) - 2016/02/01 14:13:23 UTC
+Table: 'MiniRoll(145720341)#013' 6-max (real money) Seat #5 is the button
+Seat 1: Cassegrain75 (17975)
+Seat 2: griendutou (10200)
+Seat 3: manggy94 (10000)
+Seat 4: jc la pince (10550)
+Seat 5: jako mtl (10400)
+Seat 6: nesquik90 (50825)
+*** ANTE/BLINDS ***
+nesquik90 posts small blind 100
+Cassegrain75 posts big blind 200
+Dealt to manggy94 [2c Th]
+*** PRE-FLOP *** 
+griendutou raises 10000 to 10200 and is all-in
+manggy94 folds
+jc la pince folds
+jako mtl calls 10200
+nesquik90 folds
+Cassegrain75 folds
+*** FLOP *** [Ad Jd 8c]
+*** TURN *** [Ad Jd 8c][Tc]
+*** RIVER *** [Ad Jd 8c Tc][9d]
+*** SHOW DOWN ***
+griendutou shows [Js Kc] (One pair : Jacks)
+jako mtl shows [8s Qs] (Straight Queen high)
+jako mtl collected 20700 from pot
+*** SUMMARY ***
+Total pot 20700 | No rake
+Board: [Ad Jd 8c Tc 9d]
+Seat 2: griendutou showed [Js Kc] and lost with One pair : Jacks
+Seat 5: jako mtl (button) showed [8s Qs] and won 20700 with Straight Queen high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #625864098956967950-25-1454336035 - Holdem no limit (100/200) - 2016/02/01 14:13:55 UTC
+Table: 'MiniRoll(145720341)#013' 6-max (real money) Seat #6 is the button
+Seat 1: Cassegrain75 (17775)
+Seat 3: manggy94 (10000)
+Seat 4: jc la pince (10550)
+Seat 5: jako mtl (20900)
+Seat 6: nesquik90 (50725)
+*** ANTE/BLINDS ***
+Cassegrain75 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [Kh Td]
+*** PRE-FLOP *** 
+jc la pince folds
+jako mtl folds
+nesquik90 raises 1000 to 1200
+Cassegrain75 folds
+manggy94 calls 1000
+*** FLOP *** [7d Th 5c]
+manggy94 bets 2500
+nesquik90 raises 47025 to 49525 and is all-in
+manggy94 calls 6300 and is all-in
+*** TURN *** [7d Th 5c][7h]
+*** RIVER *** [7d Th 5c 7h][Kd]
+*** SHOW DOWN ***
+manggy94 shows [Kh Td] (Two pairs : Kings and Tens)
+nesquik90 shows [As Ac] (Two pairs : Aces and 7)
+nesquik90 collected 60825 from pot
+*** SUMMARY ***
+Total pot 60825 | No rake
+Board: [7d Th 5c 7h Kd]
+Seat 3: manggy94 (big blind) showed [Kh Td] and lost with Two pairs : Kings and Tens
+Seat 6: nesquik90 (button) showed [As Ac] and won 60825 with Two pairs : Aces and 7
+
+

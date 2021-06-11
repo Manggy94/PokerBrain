@@ -1,0 +1,193 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 7 - HandId: #661097906119376931-1-1460373832 - Holdem no limit (40/250/500) - 2016/04/11 11:23:52 UTC
+Table: 'Hold'em(153923851)#0034' 4-max (real money) Seat #1 is the button
+Seat 1: manggy94 (10000)
+Seat 2: Dieu2lamort (12540)
+Seat 3: 9CubeMariage (10000)
+*** ANTE/BLINDS ***
+Dieu2lamort posts ante 40
+9CubeMariage posts ante 40
+manggy94 posts ante 40
+Dieu2lamort posts small blind 250
+9CubeMariage posts big blind 500
+Dealt to manggy94 [7d Ah]
+*** PRE-FLOP *** 
+manggy94 raises 1370 to 1870
+Dieu2lamort calls 1620
+9CubeMariage raises 1370 to 3240
+manggy94 calls 1370
+Dieu2lamort calls 1370
+*** FLOP *** [Ac 8s 6h]
+Dieu2lamort checks
+9CubeMariage bets 6720 and is all-in
+manggy94 calls 6720 and is all-in
+Dieu2lamort folds
+*** TURN *** [Ac 8s 6h][5h]
+*** RIVER *** [Ac 8s 6h 5h][Jc]
+*** SHOW DOWN ***
+manggy94 shows [7d Ah] (One pair : Aces)
+9CubeMariage shows [As 7s] (One pair : Aces)
+9CubeMariage collected 11640 from pot
+manggy94 collected 11640 from pot
+*** SUMMARY ***
+Total pot 23280 | No rake
+Board: [Ac 8s 6h 5h Jc]
+Seat 1: manggy94 (button) showed [7d Ah] and won 11640 with One pair : Aces
+Seat 3: 9CubeMariage (big blind) showed [As 7s] and won 11640 with One pair : Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 8 - HandId: #661097906119376932-1-1460373912 - Holdem no limit (60/300/600) - 2016/04/11 11:25:12 UTC
+Table: 'Hold'em(153923851)#0035' 4-max (real money) Seat #3 is the button
+Seat 1: Xem78 (10000)
+Seat 3: manggy94 (11640)
+Seat 4: Rest trankil (10000)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+Rest trankil posts ante 60
+manggy94 posts small blind 300
+Rest trankil posts big blind 600
+Dealt to manggy94 [4c 7d]
+*** PRE-FLOP *** 
+manggy94 folds
+Rest trankil collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Seat 4: Rest trankil (big blind) won 1020
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 8 - HandId: #661097906119376932-2-1460373924 - Holdem no limit (60/300/600) - 2016/04/11 11:25:24 UTC
+Table: 'Hold'em(153923851)#0035' 4-max (real money) Seat #3 is the button
+Seat 1: Xem78 (10000)
+Seat 3: manggy94 (11280)
+Seat 4: Rest trankil (10360)
+*** ANTE/BLINDS ***
+Rest trankil posts ante 60
+Xem78 posts ante 60
+manggy94 posts ante 60
+Rest trankil posts small blind 300
+Xem78 posts big blind 600
+Dealt to manggy94 [8h 6c]
+*** PRE-FLOP *** 
+manggy94 folds
+Rest trankil calls 300
+Xem78 checks
+*** FLOP *** [Tc 7h Jd]
+Rest trankil checks
+Xem78 bets 690
+Rest trankil folds
+Xem78 collected 2070 from pot
+*** SUMMARY ***
+Total pot 2070 | No rake
+Board: [Tc 7h Jd]
+Seat 1: Xem78 (big blind) won 2070
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 8 - HandId: #661097906119376932-3-1460373946 - Holdem no limit (60/300/600) - 2016/04/11 11:25:46 UTC
+Table: 'Hold'em(153923851)#0035' 4-max (real money) Seat #4 is the button
+Seat 1: Xem78 (10720)
+Seat 2: keuj34 (10000)
+Seat 3: manggy94 (11220)
+Seat 4: Rest trankil (9700)
+*** ANTE/BLINDS ***
+Xem78 posts ante 60
+keuj34 posts ante 60
+manggy94 posts ante 60
+Rest trankil posts ante 60
+Xem78 posts small blind 300
+keuj34 posts big blind 600
+Dealt to manggy94 [5h Qs]
+*** PRE-FLOP *** 
+manggy94 folds
+Rest trankil raises 600 to 1200
+Xem78 folds
+keuj34 folds
+Rest trankil collected 2340 from pot
+*** SUMMARY ***
+Total pot 2340 | No rake
+Seat 4: Rest trankil (button) won 2340
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 8 - HandId: #661097906119376932-4-1460373965 - Holdem no limit (60/300/600) - 2016/04/11 11:26:05 UTC
+Table: 'Hold'em(153923851)#0035' 4-max (real money) Seat #1 is the button
+Seat 1: Xem78 (10360)
+Seat 2: keuj34 (9340)
+Seat 3: manggy94 (11160)
+*** ANTE/BLINDS ***
+keuj34 posts ante 60
+manggy94 posts ante 60
+Xem78 posts ante 60
+keuj34 posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [8d 5c]
+*** PRE-FLOP *** 
+Xem78 folds
+keuj34 folds
+manggy94 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Seat 3: manggy94 (big blind) won 1080
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 8 - HandId: #661097906119376932-5-1460373971 - Holdem no limit (60/300/600) - 2016/04/11 11:26:11 UTC
+Table: 'Hold'em(153923851)#0035' 4-max (real money) Seat #2 is the button
+Seat 1: Xem78 (10300)
+Seat 2: keuj34 (8980)
+Seat 3: manggy94 (11580)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+Xem78 posts ante 60
+keuj34 posts ante 60
+manggy94 posts small blind 300
+Xem78 posts big blind 600
+Dealt to manggy94 [Qc 9c]
+*** PRE-FLOP *** 
+keuj34 raises 600 to 1200
+manggy94 calls 900
+Xem78 calls 600
+*** FLOP *** [4c Ks 6d]
+manggy94 checks
+Xem78 checks
+keuj34 bets 2520
+manggy94 folds
+Xem78 folds
+keuj34 collected 6300 from pot
+*** SUMMARY ***
+Total pot 6300 | No rake
+Board: [4c Ks 6d]
+Seat 2: keuj34 (button) won 6300
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 8 - HandId: #661097906119376932-6-1460374008 - Holdem no limit (60/300/600) - 2016/04/11 11:26:48 UTC
+Table: 'Hold'em(153923851)#0035' 4-max (real money) Seat #3 is the button
+Seat 1: Xem78 (9040)
+Seat 2: keuj34 (11500)
+Seat 3: manggy94 (10320)
+Seat 4: Rest trankil (10120)
+*** ANTE/BLINDS ***
+Xem78 posts ante 60
+keuj34 posts ante 60
+manggy94 posts ante 60
+Xem78 posts small blind 300
+keuj34 posts big blind 600
+Dealt to manggy94 [5c Ah]
+*** PRE-FLOP *** 
+manggy94 raises 1680 to 2280
+Xem78 folds
+keuj34 calls 1680
+*** FLOP *** [6d 5d Td]
+keuj34 checks
+manggy94 bets 5040
+keuj34 raises 4120 to 9160 and is all-in
+manggy94 calls 2940 and is all-in
+*** TURN *** [6d 5d Td][3h]
+*** RIVER *** [6d 5d Td 3h][Qh]
+*** SHOW DOWN ***
+manggy94 shows [5c Ah] (One pair : 5)
+keuj34 shows [6s 7s] (One pair : 6)
+keuj34 collected 22180 from pot
+*** SUMMARY ***
+Total pot 22180 | No rake
+Board: [6d 5d Td 3h Qh]
+Seat 2: keuj34 (big blind) showed [6s 7s] and won 22180 with One pair : 6
+Seat 3: manggy94 (button) showed [5c Ah] and lost with One pair : 5
+
+

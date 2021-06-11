@@ -1,0 +1,235 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1019590760367915027-7-1528983062 - Holdem no limit (20/100/200) - 2018/06/14 13:31:02 UTC
+Table: 'Kill The Fish(237391973)#018' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (20000)
+Seat 2: Lrklnaomr (21861)
+Seat 3: sitting (18255)
+Seat 4: DontTilt28 (40470)
+Seat 5: pikeso77 (19590)
+Seat 6: ET...PAN (15885)
+Seat 7: franckpa (24758)
+Seat 8: Searching (14981)
+*** ANTE/BLINDS ***
+Searching posts ante 20
+manggy94 posts ante 20
+Lrklnaomr posts ante 20
+sitting posts ante 20
+DontTilt28 posts ante 20
+pikeso77 posts ante 20
+ET...PAN posts ante 20
+franckpa posts ante 20
+Searching posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [Qc 7c]
+*** PRE-FLOP *** 
+Lrklnaomr calls 200
+sitting folds
+DontTilt28 raises 500 to 700
+pikeso77 folds
+ET...PAN folds
+franckpa folds
+Searching raises 14261 to 14961 and is all-in
+manggy94 folds
+Lrklnaomr folds
+DontTilt28 folds
+Searching shows [9d 9h] (One pair : 9)
+Searching collected 16221 from pot
+*** SUMMARY ***
+Total pot 16221 | No rake
+Seat 8: Searching (small blind) showed [9d 9h] and won 16221 with One pair : 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1019590760367915027-8-1528983126 - Holdem no limit (20/100/200) - 2018/06/14 13:32:06 UTC
+Table: 'Kill The Fish(237391973)#018' 8-max (real money) Seat #8 is the button
+Seat 1: manggy94 (19780)
+Seat 2: Lrklnaomr (21641)
+Seat 4: DontTilt28 (39750)
+Seat 5: pikeso77 (19570)
+Seat 6: ET...PAN (15865)
+Seat 7: franckpa (24738)
+Seat 8: Searching (16221)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+Lrklnaomr posts ante 20
+DontTilt28 posts ante 20
+pikeso77 posts ante 20
+ET...PAN posts ante 20
+franckpa posts ante 20
+Searching posts ante 20
+manggy94 posts small blind 100
+Lrklnaomr posts big blind 200
+Dealt to manggy94 [Jh 4c]
+*** PRE-FLOP *** 
+DontTilt28 raises 278 to 478
+pikeso77 calls 478
+ET...PAN folds
+franckpa calls 478
+Searching folds
+manggy94 folds
+Lrklnaomr calls 278
+*** FLOP *** [2s 3h 9c]
+Lrklnaomr checks
+DontTilt28 checks
+pikeso77 checks
+franckpa checks
+*** TURN *** [2s 3h 9c][7d]
+Lrklnaomr checks
+DontTilt28 checks
+pikeso77 checks
+franckpa checks
+*** RIVER *** [2s 3h 9c 7d][Tc]
+Lrklnaomr checks
+DontTilt28 checks
+pikeso77 checks
+franckpa checks
+*** SHOW DOWN ***
+Lrklnaomr shows [8d Qh] (High card : Queen)
+DontTilt28 shows [Kh Jc] (High card : King)
+pikeso77 shows [Ks Js] (High card : King)
+franckpa shows [4s Ad] (High card : Ace)
+franckpa collected 2152 from pot
+*** SUMMARY ***
+Total pot 2152 | No rake
+Board: [2s 3h 9c 7d Tc]
+Seat 2: Lrklnaomr (big blind) showed [8d Qh] and lost with High card : Queen
+Seat 4: DontTilt28 showed [Kh Jc] and lost with High card : King
+Seat 5: pikeso77 showed [Ks Js] and lost with High card : King
+Seat 7: franckpa showed [4s Ad] and won 2152 with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1019590760367915027-29-1528984273 - Holdem no limit (60/250/500) - 2018/06/14 13:51:13 UTC
+Table: 'Kill The Fish(237391973)#018' 8-max (real money) Seat #6 is the button
+Seat 1: manggy94 (28015)
+Seat 2: Lrklnaomr (23528)
+Seat 3: fredyDS (21004)
+Seat 4: DontTilt28 (34848)
+Seat 5: pikeso77 (13247)
+Seat 6: ET...PAN (32005)
+Seat 7: Anju87 (19320)
+Seat 8: Searching (17756)
+*** ANTE/BLINDS ***
+Anju87 posts ante 60
+Searching posts ante 60
+manggy94 posts ante 60
+Lrklnaomr posts ante 60
+fredyDS posts ante 60
+DontTilt28 posts ante 60
+pikeso77 posts ante 60
+ET...PAN posts ante 60
+Anju87 posts small blind 250
+Searching posts big blind 500
+Dealt to manggy94 [Jh 4h]
+*** PRE-FLOP *** 
+manggy94 folds
+Lrklnaomr calls 500
+fredyDS folds
+DontTilt28 folds
+pikeso77 calls 500
+ET...PAN raises 1000 to 1500
+Anju87 folds
+Searching raises 16196 to 17696 and is all-in
+Lrklnaomr folds
+pikeso77 folds
+ET...PAN calls 16196
+*** FLOP *** [6c Ks 6s]
+*** TURN *** [6c Ks 6s][4s]
+*** RIVER *** [6c Ks 6s 4s][3c]
+*** SHOW DOWN ***
+ET...PAN shows [Js Qd] (One pair : 6)
+Searching shows [Jc Kd] (Two pairs : Kings and 6)
+Searching collected 37122 from pot
+*** SUMMARY ***
+Total pot 37122 | No rake
+Board: [6c Ks 6s 4s 3c]
+Seat 6: ET...PAN (button) showed [Js Qd] and lost with One pair : 6
+Seat 8: Searching (big blind) showed [Jc Kd] and won 37122 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1019590760367915027-30-1528984319 - Holdem no limit (60/250/500) - 2018/06/14 13:51:59 UTC
+Table: 'Kill The Fish(237391973)#018' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (27955)
+Seat 2: Lrklnaomr (22968)
+Seat 3: fredyDS (20944)
+Seat 4: DontTilt28 (34788)
+Seat 5: pikeso77 (12687)
+Seat 6: ET...PAN (14249)
+Seat 7: Anju87 (19010)
+Seat 8: Searching (37122)
+*** ANTE/BLINDS ***
+Searching posts ante 60
+manggy94 posts ante 60
+Lrklnaomr posts ante 60
+fredyDS posts ante 60
+DontTilt28 posts ante 60
+pikeso77 posts ante 60
+ET...PAN posts ante 60
+Anju87 posts ante 60
+Searching posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [Qs 8c]
+*** PRE-FLOP *** 
+Lrklnaomr folds
+fredyDS folds
+DontTilt28 folds
+pikeso77 raises 500 to 1000
+ET...PAN raises 13189 to 14189 and is all-in
+Anju87 raises 4761 to 18950 and is all-in
+Searching folds
+manggy94 folds
+pikeso77 folds
+*** FLOP *** [2h 5d 9h]
+*** TURN *** [2h 5d 9h][3s]
+*** RIVER *** [2h 5d 9h 3s][8d]
+*** SHOW DOWN ***
+ET...PAN shows [Qh Kh] (High card : King)
+Anju87 shows [Ad 3c] (One pair : 3)
+Anju87 collected 35369 from pot
+*** SUMMARY ***
+Total pot 35369 | No rake
+Board: [2h 5d 9h 3s 8d]
+Seat 6: ET...PAN showed [Qh Kh] and lost with High card : King
+Seat 7: Anju87 (button) showed [Ad 3c] and won 35369 with One pair : 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1019590760367915027-31-1528984391 - Holdem no limit (60/250/500) - 2018/06/14 13:53:11 UTC
+Table: 'Kill The Fish(237391973)#018' 8-max (real money) Seat #8 is the button
+Seat 1: manggy94 (27395)
+Seat 2: Lrklnaomr (22908)
+Seat 3: fredyDS (20884)
+Seat 4: DontTilt28 (34728)
+Seat 5: pikeso77 (11627)
+Seat 7: Anju87 (35369)
+Seat 8: Searching (36812)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+Lrklnaomr posts ante 60
+fredyDS posts ante 60
+DontTilt28 posts ante 60
+pikeso77 posts ante 60
+Anju87 posts ante 60
+Searching posts ante 60
+manggy94 posts small blind 250
+Lrklnaomr posts big blind 500
+Dealt to manggy94 [Ad Ks]
+*** PRE-FLOP *** 
+fredyDS calls 500
+DontTilt28 folds
+pikeso77 folds
+Anju87 raises 34809 to 35309 and is all-in
+Searching folds
+manggy94 calls 27085 and is all-in
+Lrklnaomr folds
+fredyDS folds
+*** FLOP *** [Qd Qc 9h]
+*** TURN *** [Qd Qc 9h][Jd]
+*** RIVER *** [Qd Qc 9h Jd][6s]
+*** SHOW DOWN ***
+manggy94 shows [Ad Ks] (One pair : Queens)
+Anju87 shows [6c Ah] (Two pairs : Queens and 6)
+Anju87 collected 64064 from pot
+*** SUMMARY ***
+Total pot 64064 | No rake
+Board: [Qd Qc 9h Jd 6s]
+Seat 1: manggy94 (small blind) showed [Ad Ks] and lost with One pair : Queens
+Seat 7: Anju87 showed [6c Ah] and won 64064 with Two pairs : Queens and 6
+
+

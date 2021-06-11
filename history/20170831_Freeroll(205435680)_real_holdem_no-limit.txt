@@ -1,0 +1,561 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level:  - HandId: #882339527031521606-1-1504131867 - Holdem no limit (8/30/60) - 2017/08/30 22:24:27 UTC
+Table: 'Freeroll(205435680)#325' 8-max (real money) Seat #3 is the button
+Seat 1: Roddy38300 (3000)
+Seat 3: Zaio26 (3000)
+Seat 6: manggy94 (3000)
+Seat 8: modecall (3000)
+*** ANTE/BLINDS ***
+Zaio26 posts ante 8
+modecall posts ante 8
+Zaio26 posts small blind 30
+modecall posts big blind 60
+*** PRE-FLOP *** 
+Zaio26 calls 30
+modecall checks
+*** FLOP *** [5s Qh 3s]
+modecall checks
+Zaio26 checks
+*** TURN *** [5s Qh 3s][Tc]
+modecall checks
+Zaio26 bets 60
+modecall folds
+Zaio26 collected 196 from pot
+*** SUMMARY ***
+Total pot 196 | No rake
+Board: [5s Qh 3s Tc]
+Seat 3: Zaio26 (small blind) (button) won 196
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #882339527031521397-10-1504131987 - Holdem no limit (8/30/60) - 2017/08/30 22:26:27 UTC
+Table: 'Freeroll(205435680)#116' 8-max (real money) Seat #1 is the button
+Seat 1: 86th_day (5708)
+Seat 2: hujum (2822)
+Seat 3: TATTOOFONT3D (3000)
+Seat 4: AkirA79 (14917)
+Seat 5: Vaerel (6021)
+Seat 6: manggy94 (3000)
+Seat 7: Alcapon13011 (2899)
+Seat 8: GIFRER12 (12633)
+*** ANTE/BLINDS ***
+hujum posts ante 8
+TATTOOFONT3D posts ante 8
+86th_day posts ante 8
+AkirA79 posts ante 8
+Vaerel posts ante 8
+manggy94 posts ante 8
+Alcapon13011 posts ante 8
+GIFRER12 posts ante 8
+hujum posts small blind 30
+TATTOOFONT3D posts big blind 60
+Dealt to manggy94 [4c Qd]
+*** PRE-FLOP *** 
+AkirA79 raises 14820 to 14880
+Vaerel folds
+manggy94 folds
+Alcapon13011 folds
+GIFRER12 folds
+86th_day folds
+hujum calls 2784 and is all-in
+TATTOOFONT3D folds
+*** FLOP *** [2d 5h 3s]
+*** TURN *** [2d 5h 3s][Js]
+*** RIVER *** [2d 5h 3s Js][6c]
+*** SHOW DOWN ***
+hujum shows [Ad As] (One pair : Aces)
+AkirA79 shows [Kd Kc] (One pair : Kings)
+AkirA79 collected 12066 from side pot 1
+hujum collected 5752 from main pot
+*** SUMMARY ***
+Total pot 17818 | No rake
+Board: [2d 5h 3s Js 6c]
+Seat 2: hujum (small blind) showed [Ad As] and won 5752 with One pair : Aces
+Seat 4: AkirA79 showed [Kd Kc] and won 12066 with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #882339527031521397-11-1504132013 - Holdem no limit (8/30/60) - 2017/08/30 22:26:53 UTC
+Table: 'Freeroll(205435680)#116' 8-max (real money) Seat #2 is the button
+Seat 1: 86th_day (5700)
+Seat 2: hujum (5752)
+Seat 3: TATTOOFONT3D (2932)
+Seat 4: AkirA79 (12095)
+Seat 5: Vaerel (6013)
+Seat 6: manggy94 (2992)
+Seat 7: Alcapon13011 (2891)
+Seat 8: GIFRER12 (12625)
+*** ANTE/BLINDS ***
+TATTOOFONT3D posts ante 8
+AkirA79 posts ante 8
+86th_day posts ante 8
+hujum posts ante 8
+Vaerel posts ante 8
+manggy94 posts ante 8
+Alcapon13011 posts ante 8
+GIFRER12 posts ante 8
+TATTOOFONT3D posts small blind 30
+AkirA79 posts big blind 60
+Dealt to manggy94 [5c Qs]
+*** PRE-FLOP *** 
+Vaerel raises 220 to 280
+manggy94 folds
+Alcapon13011 folds
+GIFRER12 folds
+86th_day raises 5412 to 5692 and is all-in
+hujum calls 5692
+TATTOOFONT3D folds
+AkirA79 calls 5632
+Vaerel raises 313 to 6005 and is all-in
+hujum calls 52 and is all-in
+AkirA79 calls 313
+*** FLOP *** [7d 6s 7c]
+*** TURN *** [7d 6s 7c][5h]
+*** RIVER *** [7d 6s 7c 5h][6h]
+*** SHOW DOWN ***
+hujum shows [8s 8d] (Two pairs : 8 and 7)
+AkirA79 shows [5d 4d] (Two pairs : 7 and 6)
+86th_day shows [Ah Ac] (Two pairs : Aces and 7)
+Vaerel shows [Kd Kh] (Two pairs : Kings and 7)
+Vaerel collected 678 from side pot 1
+86th_day collected 22862 from main pot
+*** SUMMARY ***
+Total pot 23540 | No rake
+Board: [7d 6s 7c 5h 6h]
+Seat 1: 86th_day showed [Ah Ac] and won 22862 with Two pairs : Aces and 7
+Seat 2: hujum (button) showed [8s 8d] and lost with Two pairs : 8 and 7
+Seat 4: AkirA79 (big blind) showed [5d 4d] and lost with Two pairs : 7 and 6
+Seat 5: Vaerel showed [Kd Kh] and won 678 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #882339527031521397-12-1504132070 - Holdem no limit (10/40/80) - 2017/08/30 22:27:50 UTC
+Table: 'Freeroll(205435680)#116' 8-max (real money) Seat #3 is the button
+Seat 1: 86th_day (22862)
+Seat 3: TATTOOFONT3D (2894)
+Seat 4: AkirA79 (6082)
+Seat 5: Vaerel (678)
+Seat 6: manggy94 (2984)
+Seat 7: Alcapon13011 (2883)
+Seat 8: GIFRER12 (12617)
+*** ANTE/BLINDS ***
+AkirA79 posts ante 10
+Vaerel posts ante 10
+86th_day posts ante 10
+TATTOOFONT3D posts ante 10
+manggy94 posts ante 10
+Alcapon13011 posts ante 10
+GIFRER12 posts ante 10
+AkirA79 posts small blind 40
+Vaerel posts big blind 80
+Dealt to manggy94 [Js Jh]
+*** PRE-FLOP *** 
+manggy94 raises 80 to 160
+Alcapon13011 folds
+GIFRER12 folds
+86th_day folds
+TATTOOFONT3D folds
+AkirA79 calls 120
+Vaerel raises 508 to 668 and is all-in
+manggy94 calls 508
+AkirA79 calls 508
+*** FLOP *** [Qd Ac 7d]
+AkirA79 bets 4800
+manggy94 folds
+*** TURN *** [Qd Ac 7d][Th]
+*** RIVER *** [Qd Ac 7d Th][6s]
+*** SHOW DOWN ***
+Vaerel shows [Ks 5s] (High card : Ace)
+AkirA79 shows [7h Ah] (Two pairs : Aces and 7)
+AkirA79 collected 6874 from pot
+*** SUMMARY ***
+Total pot 6874 | No rake
+Board: [Qd Ac 7d Th 6s]
+Seat 4: AkirA79 (small blind) showed [7h Ah] and won 6874 with Two pairs : Aces and 7
+Seat 5: Vaerel (big blind) showed [Ks 5s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #882339527031521397-13-1504132144 - Holdem no limit (10/40/80) - 2017/08/30 22:29:04 UTC
+Table: 'Freeroll(205435680)#116' 8-max (real money) Seat #4 is the button
+Seat 1: 86th_day (22852)
+Seat 2: elsheytan24 (883)
+Seat 3: TATTOOFONT3D (2884)
+Seat 4: AkirA79 (7478)
+Seat 6: manggy94 (2306)
+Seat 7: Alcapon13011 (2873)
+Seat 8: GIFRER12 (12607)
+*** ANTE/BLINDS ***
+manggy94 posts ante 10
+86th_day posts ante 10
+elsheytan24 posts ante 10
+TATTOOFONT3D posts ante 10
+AkirA79 posts ante 10
+Alcapon13011 posts ante 10
+GIFRER12 posts ante 10
+manggy94 posts big blind 80
+Dealt to manggy94 [3h Ac]
+*** PRE-FLOP *** 
+Alcapon13011 folds
+GIFRER12 folds
+86th_day raises 160 to 240
+elsheytan24 folds
+TATTOOFONT3D folds
+AkirA79 raises 160 to 400
+manggy94 folds
+86th_day calls 160
+*** FLOP *** [8s Jh Ad]
+86th_day bets 713
+AkirA79 calls 713
+*** TURN *** [8s Jh Ad][6h]
+86th_day bets 2376
+AkirA79 folds
+86th_day collected 4752 from pot
+*** SUMMARY ***
+Total pot 4752 | No rake
+Board: [8s Jh Ad 6h]
+Seat 1: 86th_day won 4752
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #882339527031521397-14-1504132199 - Holdem no limit (10/40/80) - 2017/08/30 22:29:59 UTC
+Table: 'Freeroll(205435680)#116' 8-max (real money) Seat #5 is the button
+Seat 1: 86th_day (24105)
+Seat 2: elsheytan24 (873)
+Seat 3: TATTOOFONT3D (2874)
+Seat 4: AkirA79 (6355)
+Seat 5: pink floyd62 (3000)
+Seat 6: manggy94 (2216)
+Seat 7: Alcapon13011 (2863)
+Seat 8: GIFRER12 (12597)
+*** ANTE/BLINDS ***
+manggy94 posts ante 10
+Alcapon13011 posts ante 10
+86th_day posts ante 10
+elsheytan24 posts ante 10
+TATTOOFONT3D posts ante 10
+AkirA79 posts ante 10
+GIFRER12 posts ante 10
+manggy94 posts small blind 40
+Alcapon13011 posts big blind 80
+Dealt to manggy94 [2d Tc]
+*** PRE-FLOP *** 
+GIFRER12 folds
+86th_day folds
+elsheytan24 calls 80
+TATTOOFONT3D raises 350 to 430
+AkirA79 calls 430
+manggy94 folds
+Alcapon13011 folds
+elsheytan24 folds
+*** FLOP *** [7c Td 4h]
+TATTOOFONT3D checks
+AkirA79 bets 80
+TATTOOFONT3D calls 80
+*** TURN *** [7c Td 4h][6c]
+TATTOOFONT3D checks
+AkirA79 bets 80
+TATTOOFONT3D calls 80
+*** RIVER *** [7c Td 4h 6c][5h]
+TATTOOFONT3D checks
+AkirA79 bets 80
+TATTOOFONT3D folds
+AkirA79 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Board: [7c Td 4h 6c 5h]
+Seat 4: AkirA79 won 1530
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #882339527031521397-15-1504132268 - Holdem no limit (12/50/100) - 2017/08/30 22:31:08 UTC
+Table: 'Freeroll(205435680)#116' 8-max (real money) Seat #6 is the button
+Seat 1: 86th_day (24095)
+Seat 2: elsheytan24 (783)
+Seat 3: TATTOOFONT3D (2274)
+Seat 4: AkirA79 (7205)
+Seat 5: pink floyd62 (3000)
+Seat 6: manggy94 (2166)
+Seat 7: Alcapon13011 (2773)
+Seat 8: GIFRER12 (12587)
+*** ANTE/BLINDS ***
+Alcapon13011 posts ante 12
+GIFRER12 posts ante 12
+86th_day posts ante 12
+elsheytan24 posts ante 12
+TATTOOFONT3D posts ante 12
+AkirA79 posts ante 12
+pink floyd62 posts ante 12
+manggy94 posts ante 12
+Alcapon13011 posts small blind 50
+GIFRER12 posts big blind 100
+Dealt to manggy94 [7s 7h]
+*** PRE-FLOP *** 
+86th_day folds
+elsheytan24 calls 100
+TATTOOFONT3D calls 100
+AkirA79 folds
+pink floyd62 folds
+manggy94 raises 200 to 300
+Alcapon13011 folds
+GIFRER12 calls 200
+elsheytan24 calls 200
+TATTOOFONT3D folds
+*** FLOP *** [Ac 7d 8h]
+GIFRER12 checks
+elsheytan24 checks
+manggy94 checks
+*** TURN *** [Ac 7d 8h][9s]
+GIFRER12 bets 100
+elsheytan24 calls 100
+manggy94 raises 673 to 773
+GIFRER12 calls 673
+elsheytan24 calls 371 and is all-in
+*** RIVER *** [Ac 7d 8h 9s][Th]
+GIFRER12 bets 514
+manggy94 calls 514
+*** SHOW DOWN ***
+elsheytan24 shows [5s Ts] (One pair : Tens)
+manggy94 shows [7s 7h] (Trips of 7)
+GIFRER12 shows [5c 6s] (Straight Ten high)
+GIFRER12 collected 4191 from pot
+*** SUMMARY ***
+Total pot 4191 | No rake
+Board: [Ac 7d 8h 9s Th]
+Seat 2: elsheytan24 showed [5s Ts] and lost with One pair : Tens
+Seat 6: manggy94 (button) showed [7s 7h] and lost with Trips of 7
+Seat 8: GIFRER12 (big blind) showed [5c 6s] and won 4191 with Straight Ten high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #882339527031521397-16-1504132393 - Holdem no limit (12/50/100) - 2017/08/30 22:33:13 UTC
+Table: 'Freeroll(205435680)#116' 8-max (real money) Seat #7 is the button
+Seat 1: 86th_day (24083)
+Seat 3: TATTOOFONT3D (2162)
+Seat 4: AkirA79 (7193)
+Seat 5: pink floyd62 (2988)
+Seat 6: manggy94 (567)
+Seat 7: Alcapon13011 (2711)
+Seat 8: GIFRER12 (15179)
+*** ANTE/BLINDS ***
+GIFRER12 posts ante 12
+86th_day posts ante 12
+TATTOOFONT3D posts ante 12
+AkirA79 posts ante 12
+pink floyd62 posts ante 12
+manggy94 posts ante 12
+Alcapon13011 posts ante 12
+GIFRER12 posts small blind 50
+86th_day posts big blind 100
+Dealt to manggy94 [6s 4h]
+*** PRE-FLOP *** 
+TATTOOFONT3D folds
+AkirA79 calls 100
+pink floyd62 folds
+manggy94 folds
+Alcapon13011 folds
+GIFRER12 calls 50
+86th_day checks
+*** FLOP *** [3d Js 9c]
+GIFRER12 checks
+86th_day bets 288
+AkirA79 calls 288
+GIFRER12 folds
+*** TURN *** [3d Js 9c][7h]
+86th_day bets 720
+AkirA79 calls 720
+*** RIVER *** [3d Js 9c 7h][Ac]
+86th_day bets 1800
+AkirA79 folds
+86th_day collected 4200 from pot
+*** SUMMARY ***
+Total pot 4200 | No rake
+Board: [3d Js 9c 7h Ac]
+Seat 1: 86th_day (big blind) won 4200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #882339527031521397-17-1504132442 - Holdem no limit (15/60/120) - 2017/08/30 22:34:02 UTC
+Table: 'Freeroll(205435680)#116' 8-max (real money) Seat #8 is the button
+Seat 1: 86th_day (25363)
+Seat 2: johnny_niuum (3000)
+Seat 3: TATTOOFONT3D (2150)
+Seat 4: AkirA79 (6073)
+Seat 5: pink floyd62 (2976)
+Seat 6: manggy94 (555)
+Seat 7: Alcapon13011 (2699)
+Seat 8: GIFRER12 (15067)
+*** ANTE/BLINDS ***
+86th_day posts ante 15
+johnny_niuum posts ante 15
+TATTOOFONT3D posts ante 15
+AkirA79 posts ante 15
+pink floyd62 posts ante 15
+manggy94 posts ante 15
+Alcapon13011 posts ante 15
+GIFRER12 posts ante 15
+86th_day posts small blind 60
+johnny_niuum posts big blind 120
+Dealt to manggy94 [Ad 2c]
+*** PRE-FLOP *** 
+TATTOOFONT3D folds
+AkirA79 folds
+pink floyd62 folds
+manggy94 raises 420 to 540 and is all-in
+Alcapon13011 folds
+GIFRER12 folds
+86th_day folds
+johnny_niuum folds
+manggy94 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Seat 6: manggy94 won 840
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #882339527031521397-18-1504132473 - Holdem no limit (15/60/120) - 2017/08/30 22:34:33 UTC
+Table: 'Freeroll(205435680)#116' 8-max (real money) Seat #1 is the button
+Seat 1: 86th_day (25288)
+Seat 2: johnny_niuum (2865)
+Seat 3: TATTOOFONT3D (2135)
+Seat 4: AkirA79 (6058)
+Seat 5: pink floyd62 (2961)
+Seat 6: manggy94 (840)
+Seat 7: Alcapon13011 (2684)
+Seat 8: GIFRER12 (15052)
+*** ANTE/BLINDS ***
+johnny_niuum posts ante 15
+TATTOOFONT3D posts ante 15
+86th_day posts ante 15
+AkirA79 posts ante 15
+pink floyd62 posts ante 15
+manggy94 posts ante 15
+Alcapon13011 posts ante 15
+GIFRER12 posts ante 15
+johnny_niuum posts small blind 60
+TATTOOFONT3D posts big blind 120
+Dealt to manggy94 [Kc 6s]
+*** PRE-FLOP *** 
+AkirA79 raises 120 to 240
+pink floyd62 folds
+manggy94 folds
+Alcapon13011 folds
+GIFRER12 folds
+86th_day calls 240
+johnny_niuum raises 960 to 1200
+TATTOOFONT3D folds
+AkirA79 calls 960
+86th_day calls 960
+*** FLOP *** [3c 9c 2s]
+johnny_niuum checks
+AkirA79 checks
+86th_day bets 2880
+johnny_niuum calls 1650 and is all-in
+AkirA79 folds
+*** TURN *** [3c 9c 2s][Th]
+*** RIVER *** [3c 9c 2s Th][Ks]
+*** SHOW DOWN ***
+johnny_niuum shows [Ac Qc] (High card : Ace)
+86th_day shows [9d Jh] (One pair : 9)
+86th_day collected 8370 from pot
+*** SUMMARY ***
+Total pot 8370 | No rake
+Board: [3c 9c 2s Th Ks]
+Seat 1: 86th_day (button) showed [9d Jh] and won 8370 with One pair : 9
+Seat 2: johnny_niuum (small blind) showed [Ac Qc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #882339527031521397-19-1504132544 - Holdem no limit (15/60/120) - 2017/08/30 22:35:44 UTC
+Table: 'Freeroll(205435680)#116' 8-max (real money) Seat #2 is the button
+Seat 1: 86th_day (29563)
+Seat 2: ClaireMonch (3000)
+Seat 3: TATTOOFONT3D (2000)
+Seat 4: AkirA79 (4843)
+Seat 5: pink floyd62 (2946)
+Seat 6: manggy94 (825)
+Seat 7: Alcapon13011 (2669)
+Seat 8: GIFRER12 (15037)
+*** ANTE/BLINDS ***
+TATTOOFONT3D posts ante 15
+AkirA79 posts ante 15
+86th_day posts ante 15
+pink floyd62 posts ante 15
+manggy94 posts ante 15
+Alcapon13011 posts ante 15
+GIFRER12 posts ante 15
+TATTOOFONT3D posts small blind 60
+AkirA79 posts big blind 120
+Dealt to manggy94 [Qd 7d]
+*** PRE-FLOP *** 
+pink floyd62 calls 120
+manggy94 calls 120
+Alcapon13011 folds
+GIFRER12 folds
+86th_day raises 645 to 765
+TATTOOFONT3D folds
+AkirA79 calls 645
+pink floyd62 calls 645
+manggy94 folds
+*** FLOP *** [2s 8c Jh]
+AkirA79 checks
+pink floyd62 checks
+86th_day checks
+*** TURN *** [2s 8c Jh][5c]
+AkirA79 checks
+pink floyd62 checks
+86th_day checks
+*** RIVER *** [2s 8c Jh 5c][9h]
+AkirA79 checks
+pink floyd62 bets 120
+86th_day folds
+AkirA79 calls 120
+*** SHOW DOWN ***
+AkirA79 shows [Qc 6d] (High card : Queen)
+pink floyd62 shows [Ac 8h] (One pair : 8)
+pink floyd62 collected 2820 from pot
+*** SUMMARY ***
+Total pot 2820 | No rake
+Board: [2s 8c Jh 5c 9h]
+Seat 4: AkirA79 (big blind) showed [Qc 6d] and lost with High card : Queen
+Seat 5: pink floyd62 showed [Ac 8h] and won 2820 with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #882339527031521397-20-1504132615 - Holdem no limit (20/80/160) - 2017/08/30 22:36:55 UTC
+Table: 'Freeroll(205435680)#116' 8-max (real money) Seat #3 is the button
+Seat 1: 86th_day (28783)
+Seat 2: ClaireMonch (3000)
+Seat 3: TATTOOFONT3D (1925)
+Seat 4: AkirA79 (3943)
+Seat 5: pink floyd62 (4866)
+Seat 6: manggy94 (690)
+Seat 7: Alcapon13011 (2654)
+Seat 8: GIFRER12 (15022)
+*** ANTE/BLINDS ***
+AkirA79 posts ante 20
+pink floyd62 posts ante 20
+86th_day posts ante 20
+ClaireMonch posts ante 20
+TATTOOFONT3D posts ante 20
+manggy94 posts ante 20
+Alcapon13011 posts ante 20
+GIFRER12 posts ante 20
+AkirA79 posts small blind 80
+pink floyd62 posts big blind 160
+Dealt to manggy94 [Qc Tc]
+*** PRE-FLOP *** 
+manggy94 raises 510 to 670 and is all-in
+Alcapon13011 folds
+GIFRER12 folds
+86th_day folds
+ClaireMonch folds
+TATTOOFONT3D raises 510 to 1180
+AkirA79 raises 2743 to 3923 and is all-in
+pink floyd62 folds
+TATTOOFONT3D calls 725 and is all-in
+*** FLOP *** [3c 2s Js]
+*** TURN *** [3c 2s Js][Th]
+*** RIVER *** [3c 2s Js Th][7h]
+*** SHOW DOWN ***
+manggy94 shows [Qc Tc] (One pair : Tens)
+TATTOOFONT3D shows [Ts Td] (Trips of Tens)
+AkirA79 shows [Jc 6d] (One pair : Jacks)
+AkirA79 collected 2018 from side pot 1
+TATTOOFONT3D collected 4800 from main pot
+*** SUMMARY ***
+Total pot 6818 | No rake
+Board: [3c 2s Js Th 7h]
+Seat 3: TATTOOFONT3D (button) showed [Ts Td] and won 4800 with Trips of Tens
+Seat 4: AkirA79 (small blind) showed [Jc 6d] and won 2018 with One pair : Jacks
+Seat 6: manggy94 showed [Qc Tc] and lost with One pair : Tens
+
+

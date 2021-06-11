@@ -1,0 +1,452 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #693436127935201291-41-1466860928 - Holdem no limit (25/150/300) - 2016/06/25 13:22:08 UTC
+Table: 'MiniRoll(161453180)#010' 6-max (real money) Seat #4 is the button
+Seat 1: kaley34 (5825)
+Seat 2: stefzef27 (61300)
+Seat 3: Tibo135 (12325)
+Seat 4: helik54 (6500)
+Seat 5: manggy94 (10000)
+Seat 6: -deadpool- (10500)
+*** ANTE/BLINDS ***
+-deadpool- posts ante 25
+kaley34 posts ante 25
+stefzef27 posts ante 25
+Tibo135 posts ante 25
+helik54 posts ante 25
+-deadpool- posts small blind 150
+kaley34 posts big blind 300
+*** PRE-FLOP *** 
+stefzef27 raises 300 to 600
+Tibo135 folds
+helik54 folds
+-deadpool- folds
+kaley34 folds
+stefzef27 collected 1175 from pot
+*** SUMMARY ***
+Total pot 1175 | No rake
+Seat 2: stefzef27 won 1175
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #693436127935201291-42-1466860947 - Holdem no limit (25/150/300) - 2016/06/25 13:22:27 UTC
+Table: 'MiniRoll(161453180)#010' 6-max (real money) Seat #6 is the button
+Seat 1: kaley34 (5500)
+Seat 2: stefzef27 (61850)
+Seat 3: Tibo135 (12300)
+Seat 4: helik54 (6475)
+Seat 5: manggy94 (10000)
+Seat 6: -deadpool- (10325)
+*** ANTE/BLINDS ***
+kaley34 posts ante 25
+stefzef27 posts ante 25
+Tibo135 posts ante 25
+helik54 posts ante 25
+manggy94 posts ante 25
+-deadpool- posts ante 25
+kaley34 posts small blind 150
+stefzef27 posts big blind 300
+Dealt to manggy94 [6h 6s]
+*** PRE-FLOP *** 
+Tibo135 folds
+helik54 folds
+manggy94 calls 300
+-deadpool- folds
+kaley34 folds
+stefzef27 checks
+*** FLOP *** [4d Js 2d]
+stefzef27 bets 300
+manggy94 calls 300
+*** TURN *** [4d Js 2d][As]
+stefzef27 bets 300
+manggy94 folds
+stefzef27 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [4d Js 2d As]
+Seat 2: stefzef27 (big blind) won 1800
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #693436127935201291-43-1466860987 - Holdem no limit (25/150/300) - 2016/06/25 13:23:07 UTC
+Table: 'MiniRoll(161453180)#010' 6-max (real money) Seat #1 is the button
+Seat 1: kaley34 (5325)
+Seat 2: stefzef27 (62725)
+Seat 3: Tibo135 (12275)
+Seat 4: helik54 (6450)
+Seat 5: manggy94 (9375)
+Seat 6: -deadpool- (10300)
+*** ANTE/BLINDS ***
+stefzef27 posts ante 25
+Tibo135 posts ante 25
+kaley34 posts ante 25
+helik54 posts ante 25
+manggy94 posts ante 25
+-deadpool- posts ante 25
+stefzef27 posts small blind 150
+Tibo135 posts big blind 300
+Dealt to manggy94 [Js 5d]
+*** PRE-FLOP *** 
+helik54 folds
+manggy94 folds
+-deadpool- folds
+kaley34 folds
+stefzef27 calls 150
+Tibo135 checks
+*** FLOP *** [5c Qs Ah]
+stefzef27 bets 300
+Tibo135 raises 600 to 900
+stefzef27 folds
+Tibo135 collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | No rake
+Board: [5c Qs Ah]
+Seat 3: Tibo135 (big blind) won 1950
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #693436127935201291-44-1466861015 - Holdem no limit (25/150/300) - 2016/06/25 13:23:35 UTC
+Table: 'MiniRoll(161453180)#010' 6-max (real money) Seat #2 is the button
+Seat 1: kaley34 (5300)
+Seat 2: stefzef27 (62100)
+Seat 3: Tibo135 (13000)
+Seat 4: helik54 (6425)
+Seat 5: manggy94 (9350)
+Seat 6: -deadpool- (10275)
+*** ANTE/BLINDS ***
+Tibo135 posts ante 25
+helik54 posts ante 25
+kaley34 posts ante 25
+stefzef27 posts ante 25
+manggy94 posts ante 25
+-deadpool- posts ante 25
+Tibo135 posts small blind 150
+helik54 posts big blind 300
+Dealt to manggy94 [4c Ac]
+*** PRE-FLOP *** 
+manggy94 calls 300
+-deadpool- calls 300
+kaley34 folds
+stefzef27 calls 300
+Tibo135 folds
+helik54 checks
+*** FLOP *** [9s Jc 6h]
+helik54 bets 300
+manggy94 folds
+-deadpool- calls 300
+stefzef27 calls 300
+*** TURN *** [9s Jc 6h][3d]
+helik54 checks
+-deadpool- checks
+stefzef27 bets 300
+helik54 calls 300
+-deadpool- calls 300
+*** RIVER *** [9s Jc 6h 3d][Jd]
+helik54 checks
+-deadpool- checks
+stefzef27 checks
+*** SHOW DOWN ***
+stefzef27 shows [Ah 8h] (One pair : Jacks)
+-deadpool- shows [9c As] (Two pairs : Jacks and 9)
+helik54 shows [Td Ts] (Two pairs : Jacks and Tens)
+helik54 collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Board: [9s Jc 6h 3d Jd]
+Seat 2: stefzef27 (button) showed [Ah 8h] and lost with One pair : Jacks
+Seat 4: helik54 (big blind) showed [Td Ts] and won 3300 with Two pairs : Jacks and Tens
+Seat 6: -deadpool- showed [9c As] and lost with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #693436127935201291-45-1466861078 - Holdem no limit (25/150/300) - 2016/06/25 13:24:38 UTC
+Table: 'MiniRoll(161453180)#010' 6-max (real money) Seat #3 is the button
+Seat 1: kaley34 (5275)
+Seat 2: stefzef27 (61175)
+Seat 3: Tibo135 (12825)
+Seat 4: helik54 (8800)
+Seat 5: manggy94 (9025)
+Seat 6: -deadpool- (9350)
+*** ANTE/BLINDS ***
+helik54 posts ante 25
+manggy94 posts ante 25
+kaley34 posts ante 25
+stefzef27 posts ante 25
+Tibo135 posts ante 25
+-deadpool- posts ante 25
+helik54 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [5c Jd]
+*** PRE-FLOP *** 
+-deadpool- folds
+kaley34 folds
+stefzef27 calls 300
+Tibo135 folds
+helik54 calls 150
+manggy94 checks
+*** FLOP *** [7c 9s 4h]
+helik54 checks
+manggy94 checks
+stefzef27 checks
+*** TURN *** [7c 9s 4h][7h]
+helik54 checks
+manggy94 bets 525
+stefzef27 folds
+helik54 folds
+manggy94 collected 1575 from pot
+*** SUMMARY ***
+Total pot 1575 | No rake
+Board: [7c 9s 4h 7h]
+Seat 5: manggy94 (big blind) won 1575
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #693436127935201291-46-1466861105 - Holdem no limit (25/150/300) - 2016/06/25 13:25:05 UTC
+Table: 'MiniRoll(161453180)#010' 6-max (real money) Seat #4 is the button
+Seat 1: kaley34 (5250)
+Seat 2: stefzef27 (60850)
+Seat 3: Tibo135 (12800)
+Seat 4: helik54 (8475)
+Seat 5: manggy94 (9750)
+Seat 6: -deadpool- (9325)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+-deadpool- posts ante 25
+kaley34 posts ante 25
+stefzef27 posts ante 25
+Tibo135 posts ante 25
+helik54 posts ante 25
+manggy94 posts small blind 150
+-deadpool- posts big blind 300
+Dealt to manggy94 [9s 3d]
+*** PRE-FLOP *** 
+kaley34 calls 300
+stefzef27 folds
+Tibo135 folds
+helik54 folds
+manggy94 folds
+-deadpool- checks
+*** FLOP *** [Js Kd Ts]
+-deadpool- bets 300
+kaley34 calls 300
+*** TURN *** [Js Kd Ts][7d]
+-deadpool- bets 300
+kaley34 calls 300
+*** RIVER *** [Js Kd Ts 7d][7h]
+-deadpool- bets 300
+kaley34 calls 300
+*** SHOW DOWN ***
+-deadpool- shows [Jh Ah] (Two pairs : Jacks and 7)
+kaley34 shows [Kh 4h] (Two pairs : Kings and 7)
+kaley34 collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [Js Kd Ts 7d 7h]
+Seat 1: kaley34 showed [Kh 4h] and won 2700 with Two pairs : Kings and 7
+Seat 6: -deadpool- (big blind) showed [Jh Ah] and lost with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #693436127935201291-47-1466861138 - Holdem no limit (25/150/300) - 2016/06/25 13:25:38 UTC
+Table: 'MiniRoll(161453180)#010' 6-max (real money) Seat #5 is the button
+Seat 1: kaley34 (6725)
+Seat 2: stefzef27 (60825)
+Seat 3: Tibo135 (12775)
+Seat 4: helik54 (8450)
+Seat 5: manggy94 (9575)
+Seat 6: -deadpool- (8100)
+*** ANTE/BLINDS ***
+-deadpool- posts ante 25
+kaley34 posts ante 25
+stefzef27 posts ante 25
+Tibo135 posts ante 25
+helik54 posts ante 25
+manggy94 posts ante 25
+-deadpool- posts small blind 150
+kaley34 posts big blind 300
+Dealt to manggy94 [Td 6d]
+*** PRE-FLOP *** 
+stefzef27 calls 300
+Tibo135 folds
+helik54 folds
+manggy94 calls 300
+-deadpool- calls 150
+kaley34 checks
+*** FLOP *** [8h Jh 7c]
+-deadpool- checks
+kaley34 checks
+stefzef27 bets 300
+manggy94 folds
+-deadpool- calls 300
+kaley34 folds
+*** TURN *** [8h Jh 7c][9c]
+-deadpool- checks
+stefzef27 bets 300
+-deadpool- folds
+stefzef27 collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | No rake
+Board: [8h Jh 7c 9c]
+Seat 2: stefzef27 won 2250
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #693436127935201291-48-1466861214 - Holdem no limit (30/200/400) - 2016/06/25 13:26:54 UTC
+Table: 'MiniRoll(161453180)#010' 6-max (real money) Seat #6 is the button
+Seat 1: kaley34 (6400)
+Seat 2: stefzef27 (62150)
+Seat 3: Tibo135 (12750)
+Seat 4: helik54 (8425)
+Seat 5: manggy94 (9250)
+Seat 6: -deadpool- (7475)
+*** ANTE/BLINDS ***
+kaley34 posts ante 30
+stefzef27 posts ante 30
+Tibo135 posts ante 30
+helik54 posts ante 30
+manggy94 posts ante 30
+-deadpool- posts ante 30
+kaley34 posts small blind 200
+stefzef27 posts big blind 400
+Dealt to manggy94 [3d Kh]
+*** PRE-FLOP *** 
+Tibo135 folds
+helik54 calls 400
+manggy94 folds
+-deadpool- folds
+kaley34 calls 200
+stefzef27 checks
+*** FLOP *** [4s 2s 5h]
+kaley34 checks
+stefzef27 checks
+helik54 bets 400
+kaley34 folds
+stefzef27 folds
+helik54 collected 1780 from pot
+*** SUMMARY ***
+Total pot 1780 | No rake
+Board: [4s 2s 5h]
+Seat 4: helik54 won 1780
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #693436127935201291-49-1466861273 - Holdem no limit (30/200/400) - 2016/06/25 13:27:53 UTC
+Table: 'MiniRoll(161453180)#010' 6-max (real money) Seat #1 is the button
+Seat 1: kaley34 (5970)
+Seat 2: stefzef27 (61720)
+Seat 3: Tibo135 (12720)
+Seat 4: helik54 (9375)
+Seat 5: manggy94 (9220)
+Seat 6: -deadpool- (7445)
+*** ANTE/BLINDS ***
+stefzef27 posts ante 30
+Tibo135 posts ante 30
+kaley34 posts ante 30
+helik54 posts ante 30
+manggy94 posts ante 30
+-deadpool- posts ante 30
+stefzef27 posts small blind 200
+Tibo135 posts big blind 400
+Dealt to manggy94 [Kh 7h]
+*** PRE-FLOP *** 
+helik54 calls 400
+manggy94 calls 400
+-deadpool- folds
+kaley34 raises 5540 to 5940 and is all-in
+stefzef27 folds
+Tibo135 folds
+helik54 folds
+manggy94 folds
+kaley34 collected 7520 from pot
+*** SUMMARY ***
+Total pot 7520 | No rake
+Seat 1: kaley34 (button) won 7520
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #693436127935201291-50-1466861341 - Holdem no limit (30/200/400) - 2016/06/25 13:29:01 UTC
+Table: 'MiniRoll(161453180)#010' 6-max (real money) Seat #2 is the button
+Seat 1: kaley34 (7520)
+Seat 2: stefzef27 (61490)
+Seat 3: Tibo135 (12290)
+Seat 4: helik54 (8945)
+Seat 5: manggy94 (8790)
+Seat 6: -deadpool- (7415)
+*** ANTE/BLINDS ***
+Tibo135 posts ante 30
+helik54 posts ante 30
+kaley34 posts ante 30
+stefzef27 posts ante 30
+manggy94 posts ante 30
+-deadpool- posts ante 30
+Tibo135 posts small blind 200
+helik54 posts big blind 400
+Dealt to manggy94 [Ts 6d]
+*** PRE-FLOP *** 
+manggy94 folds
+-deadpool- folds
+kaley34 calls 400
+stefzef27 folds
+Tibo135 folds
+helik54 checks
+*** FLOP *** [4s Ah Ac]
+helik54 checks
+kaley34 checks
+*** TURN *** [4s Ah Ac][9c]
+helik54 checks
+kaley34 checks
+*** RIVER *** [4s Ah Ac 9c][Ad]
+helik54 checks
+kaley34 bets 400
+helik54 calls 400
+*** SHOW DOWN ***
+helik54 shows [8s Jh] (Trips of Aces)
+kaley34 shows [6h Kh] (Trips of Aces)
+kaley34 collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | No rake
+Board: [4s Ah Ac 9c Ad]
+Seat 1: kaley34 showed [6h Kh] and won 1980 with Trips of Aces
+Seat 4: helik54 (big blind) showed [8s Jh] and lost with Trips of Aces
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #693436127935201291-51-1466861379 - Holdem no limit (30/200/400) - 2016/06/25 13:29:39 UTC
+Table: 'MiniRoll(161453180)#010' 6-max (real money) Seat #3 is the button
+Seat 1: kaley34 (8670)
+Seat 2: stefzef27 (61460)
+Seat 3: Tibo135 (12060)
+Seat 4: helik54 (8115)
+Seat 5: manggy94 (8760)
+Seat 6: -deadpool- (7385)
+*** ANTE/BLINDS ***
+helik54 posts ante 30
+manggy94 posts ante 30
+kaley34 posts ante 30
+stefzef27 posts ante 30
+Tibo135 posts ante 30
+-deadpool- posts ante 30
+helik54 posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [6s Js]
+*** PRE-FLOP *** 
+-deadpool- folds
+kaley34 folds
+stefzef27 calls 400
+Tibo135 folds
+helik54 calls 200
+manggy94 checks
+*** FLOP *** [Ks 4h Kh]
+helik54 checks
+manggy94 checks
+stefzef27 checks
+*** TURN *** [Ks 4h Kh][8c]
+helik54 checks
+manggy94 bets 400
+stefzef27 calls 400
+helik54 calls 400
+*** RIVER *** [Ks 4h Kh 8c][Jc]
+helik54 checks
+manggy94 checks
+stefzef27 bets 9991
+helik54 folds
+manggy94 calls 7930 and is all-in
+*** SHOW DOWN ***
+manggy94 shows [6s Js] (Two pairs : Kings and Jacks)
+stefzef27 shows [Kc 5c] (Trips of Kings)
+stefzef27 collected 20501 from pot
+*** SUMMARY ***
+Total pot 20501 | No rake
+Board: [Ks 4h Kh 8c Jc]
+Seat 2: stefzef27 showed [Kc 5c] and won 20501 with Trips of Kings
+Seat 5: manggy94 (big blind) showed [6s Js] and lost with Two pairs : Kings and Jacks
+
+

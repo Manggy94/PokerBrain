@@ -1,0 +1,944 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #620515619132932139-2-1453568641 - Holdem no limit (75/150) - 2016/01/23 17:04:01 UTC
+Table: 'MiniRoll(144475051)#042' 8-max (real money) Seat #4 is the button
+Seat 1: MAQUINAA (10000)
+Seat 2: flush57300 (13150)
+Seat 3: Titmarmote (10000)
+Seat 4: manggy94 (10000)
+Seat 6: Jeanline (6850)
+Seat 8: jojolafougas (10000)
+*** ANTE/BLINDS ***
+Jeanline posts small blind 75
+jojolafougas posts big blind 150
+Dealt to manggy94 [Td 6c]
+*** PRE-FLOP *** 
+MAQUINAA raises 300 to 450
+flush57300 folds
+Titmarmote folds
+manggy94 raises 1125 to 1575
+Jeanline raises 1125 to 2700
+jojolafougas folds
+MAQUINAA raises 7300 to 10000 and is all-in
+manggy94 folds
+Jeanline calls 4150 and is all-in
+*** FLOP *** [8s 4d 2h]
+*** TURN *** [8s 4d 2h][Kh]
+*** RIVER *** [8s 4d 2h Kh][Kd]
+*** SHOW DOWN ***
+Jeanline shows [7h Jd] (One pair : Kings)
+MAQUINAA shows [Jh Jc] (Two pairs : Kings and Jacks)
+MAQUINAA collected 18575 from pot
+*** SUMMARY ***
+Total pot 18575 | No rake
+Board: [8s 4d 2h Kh Kd]
+Seat 1: MAQUINAA showed [Jh Jc] and won 18575 with Two pairs : Kings and Jacks
+Seat 6: Jeanline (small blind) showed [7h Jd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #620515619132932130-8-1453568741 - Holdem no limit (75/150) - 2016/01/23 17:05:41 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #7 is the button
+Seat 1: adolph06 (10000)
+Seat 3: Crissy77 (11250)
+Seat 4: pirate21000 (16480)
+Seat 5: _bazou_ (19275)
+Seat 6: bigbaing51 (9700)
+Seat 7: manggy94 (8425)
+Seat 8: Hop hop hope (28945)
+*** ANTE/BLINDS ***
+Hop hop hope posts small blind 75
+adolph06 posts big blind 150
+Dealt to manggy94 [4d 5s]
+*** PRE-FLOP *** 
+Crissy77 folds
+pirate21000 raises 150 to 300
+_bazou_ raises 600 to 900
+bigbaing51 calls 900
+manggy94 folds
+Hop hop hope calls 825
+adolph06 folds
+pirate21000 calls 600
+*** FLOP *** [Ts 9c 4c]
+Hop hop hope checks
+pirate21000 checks
+_bazou_ checks
+bigbaing51 bets 150
+Hop hop hope raises 1950 to 2100
+pirate21000 folds
+_bazou_ calls 2100
+bigbaing51 calls 1950
+*** TURN *** [Ts 9c 4c][2d]
+Hop hop hope bets 6700
+_bazou_ folds
+bigbaing51 folds
+Hop hop hope collected 16750 from pot
+*** SUMMARY ***
+Total pot 16750 | No rake
+Board: [Ts 9c 4c 2d]
+Seat 8: Hop hop hope (small blind) won 16750
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #620515619132932130-9-1453568873 - Holdem no limit (75/150) - 2016/01/23 17:07:53 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #8 is the button
+Seat 1: adolph06 (9850)
+Seat 2: xxxmatoubxxx (10000)
+Seat 3: Crissy77 (11250)
+Seat 4: pirate21000 (15580)
+Seat 5: _bazou_ (16275)
+Seat 6: bigbaing51 (6700)
+Seat 7: manggy94 (8425)
+Seat 8: Hop hop hope (35995)
+*** ANTE/BLINDS ***
+adolph06 posts small blind 75
+xxxmatoubxxx posts big blind 150
+Dealt to manggy94 [Jd 8h]
+*** PRE-FLOP *** 
+Crissy77 folds
+pirate21000 calls 150
+_bazou_ folds
+bigbaing51 folds
+manggy94 calls 150
+Hop hop hope calls 150
+adolph06 calls 75
+xxxmatoubxxx checks
+*** FLOP *** [9h 7s Jc]
+adolph06 checks
+xxxmatoubxxx checks
+pirate21000 bets 150
+manggy94 raises 1050 to 1200
+Hop hop hope folds
+adolph06 folds
+xxxmatoubxxx folds
+pirate21000 calls 1050
+*** TURN *** [9h 7s Jc][5c]
+pirate21000 checks
+manggy94 bets 7075 and is all-in
+pirate21000 calls 7075
+*** RIVER *** [9h 7s Jc 5c][4c]
+*** SHOW DOWN ***
+pirate21000 shows [Qh Td] (High card : Queen)
+manggy94 shows [Jd 8h] (One pair : Jacks)
+manggy94 collected 17300 from pot
+*** SUMMARY ***
+Total pot 17300 | No rake
+Board: [9h 7s Jc 5c 4c]
+Seat 4: pirate21000 showed [Qh Td] and lost with High card : Queen
+Seat 7: manggy94 showed [Jd 8h] and won 17300 with One pair : Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #620515619132932130-10-1453568968 - Holdem no limit (100/200) - 2016/01/23 17:09:28 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #1 is the button
+Seat 1: adolph06 (9700)
+Seat 2: xxxmatoubxxx (9850)
+Seat 3: Crissy77 (11250)
+Seat 4: pirate21000 (7155)
+Seat 5: _bazou_ (16275)
+Seat 6: bigbaing51 (6700)
+Seat 7: manggy94 (17300)
+Seat 8: Hop hop hope (35845)
+*** ANTE/BLINDS ***
+xxxmatoubxxx posts small blind 100
+Crissy77 posts big blind 200
+Dealt to manggy94 [As Jc]
+*** PRE-FLOP *** 
+pirate21000 calls 200
+_bazou_ folds
+bigbaing51 calls 200
+manggy94 raises 3500 to 3700
+Hop hop hope folds
+adolph06 folds
+xxxmatoubxxx folds
+Crissy77 raises 7550 to 11250 and is all-in
+pirate21000 folds
+bigbaing51 folds
+manggy94 calls 7550
+*** FLOP *** [Ks 6d Jd]
+*** TURN *** [Ks 6d Jd][7d]
+*** RIVER *** [Ks 6d Jd 7d][Qh]
+*** SHOW DOWN ***
+manggy94 shows [As Jc] (One pair : Jacks)
+Crissy77 shows [6c 6h] (Trips of 6)
+Crissy77 collected 23000 from pot
+*** SUMMARY ***
+Total pot 23000 | No rake
+Board: [Ks 6d Jd 7d Qh]
+Seat 3: Crissy77 (big blind) showed [6c 6h] and won 23000 with Trips of 6
+Seat 7: manggy94 showed [As Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #620515619132932130-11-1453569051 - Holdem no limit (100/200) - 2016/01/23 17:10:51 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #2 is the button
+Seat 1: adolph06 (9700)
+Seat 2: xxxmatoubxxx (9750)
+Seat 3: Crissy77 (23000)
+Seat 4: pirate21000 (6955)
+Seat 5: _bazou_ (16275)
+Seat 6: bigbaing51 (6500)
+Seat 7: manggy94 (6050)
+Seat 8: Hop hop hope (35845)
+*** ANTE/BLINDS ***
+Crissy77 posts small blind 100
+pirate21000 posts big blind 200
+Dealt to manggy94 [5d 6d]
+*** PRE-FLOP *** 
+_bazou_ folds
+bigbaing51 folds
+manggy94 calls 200
+Hop hop hope folds
+adolph06 calls 200
+xxxmatoubxxx raises 400 to 600
+Crissy77 calls 500
+pirate21000 folds
+manggy94 calls 400
+adolph06 calls 400
+*** FLOP *** [6c 6s Qh]
+Crissy77 checks
+manggy94 checks
+adolph06 checks
+xxxmatoubxxx checks
+*** TURN *** [6c 6s Qh][Kc]
+Crissy77 checks
+manggy94 checks
+adolph06 checks
+xxxmatoubxxx checks
+*** RIVER *** [6c 6s Qh Kc][4d]
+Crissy77 checks
+manggy94 bets 2600
+adolph06 folds
+xxxmatoubxxx folds
+Crissy77 folds
+manggy94 shows [5d 6d] (Trips of 6)
+manggy94 collected 5200 from pot
+*** SUMMARY ***
+Total pot 5200 | No rake
+Board: [6c 6s Qh Kc 4d]
+Seat 7: manggy94 showed [5d 6d] and won 5200 with Trips of 6
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #620515619132932130-12-1453569218 - Holdem no limit (100/200) - 2016/01/23 17:13:38 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #3 is the button
+Seat 1: adolph06 (9100)
+Seat 2: xxxmatoubxxx (9150)
+Seat 3: Crissy77 (22400)
+Seat 4: pirate21000 (6755)
+Seat 5: _bazou_ (16275)
+Seat 6: bigbaing51 (6500)
+Seat 7: manggy94 (8050)
+Seat 8: Hop hop hope (35845)
+*** ANTE/BLINDS ***
+pirate21000 posts small blind 100
+_bazou_ posts big blind 200
+Dealt to manggy94 [2h 6h]
+*** PRE-FLOP *** 
+bigbaing51 folds
+manggy94 folds
+Hop hop hope folds
+adolph06 calls 200
+xxxmatoubxxx folds
+Crissy77 calls 200
+pirate21000 calls 100
+_bazou_ checks
+*** FLOP *** [Kc 4h 3c]
+pirate21000 bets 200
+_bazou_ calls 200
+adolph06 calls 200
+Crissy77 folds
+*** TURN *** [Kc 4h 3c][9s]
+pirate21000 bets 200
+_bazou_ calls 200
+adolph06 calls 200
+*** RIVER *** [Kc 4h 3c 9s][4s]
+pirate21000 bets 200
+_bazou_ calls 200
+adolph06 raises 1200 to 1400
+pirate21000 calls 1200
+_bazou_ folds
+*** SHOW DOWN ***
+pirate21000 shows [3d 2d] (Two pairs : 4 and 3)
+adolph06 shows [Ac 9h] (Two pairs : 9 and 4)
+adolph06 collected 5000 from pot
+*** SUMMARY ***
+Total pot 5000 | No rake
+Board: [Kc 4h 3c 9s 4s]
+Seat 1: adolph06 showed [Ac 9h] and won 5000 with Two pairs : 9 and 4
+Seat 4: pirate21000 (small blind) showed [3d 2d] and lost with Two pairs : 4 and 3
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #620515619132932130-13-1453569366 - Holdem no limit (150/300) - 2016/01/23 17:16:06 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #4 is the button
+Seat 1: adolph06 (12100)
+Seat 2: xxxmatoubxxx (9150)
+Seat 3: Crissy77 (22200)
+Seat 4: pirate21000 (4755)
+Seat 5: _bazou_ (15475)
+Seat 6: bigbaing51 (6500)
+Seat 7: manggy94 (8050)
+Seat 8: Hop hop hope (35845)
+*** ANTE/BLINDS ***
+_bazou_ posts small blind 150
+bigbaing51 posts big blind 300
+Dealt to manggy94 [5d 6s]
+*** PRE-FLOP *** 
+manggy94 folds
+Hop hop hope folds
+adolph06 folds
+xxxmatoubxxx folds
+Crissy77 folds
+pirate21000 raises 750 to 1050
+_bazou_ folds
+bigbaing51 calls 750
+*** FLOP *** [7h 8s 7d]
+bigbaing51 bets 300
+pirate21000 calls 300
+*** TURN *** [7h 8s 7d][Qc]
+bigbaing51 bets 1425
+pirate21000 calls 1425
+*** RIVER *** [7h 8s 7d Qc][4s]
+bigbaing51 bets 3725 and is all-in
+pirate21000 calls 1980 and is all-in
+*** SHOW DOWN ***
+pirate21000 shows [7c Ad] (Trips of 7)
+bigbaing51 shows [Js 8c] (Two pairs : 8 and 7)
+bigbaing51 collected 1745 from side pot 1
+pirate21000 collected 9660 from main pot
+*** SUMMARY ***
+Total pot 11405 | No rake
+Board: [7h 8s 7d Qc 4s]
+Seat 4: pirate21000 (button) showed [7c Ad] and won 9660 with Trips of 7
+Seat 6: bigbaing51 (big blind) showed [Js 8c] and won 1745 with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #620515619132932130-14-1453569480 - Holdem no limit (150/300) - 2016/01/23 17:18:00 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #5 is the button
+Seat 1: adolph06 (12100)
+Seat 2: xxxmatoubxxx (9150)
+Seat 3: Crissy77 (22200)
+Seat 4: pirate21000 (9660)
+Seat 5: _bazou_ (15325)
+Seat 6: bigbaing51 (1745)
+Seat 7: manggy94 (8050)
+Seat 8: Hop hop hope (35845)
+*** ANTE/BLINDS ***
+bigbaing51 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [5h 6s]
+*** PRE-FLOP *** 
+Hop hop hope folds
+adolph06 folds
+xxxmatoubxxx folds
+Crissy77 calls 300
+pirate21000 calls 300
+_bazou_ folds
+bigbaing51 folds
+manggy94 checks
+*** FLOP *** [Ts Jh 5s]
+manggy94 checks
+Crissy77 checks
+pirate21000 bets 300
+manggy94 calls 300
+Crissy77 calls 300
+*** TURN *** [Ts Jh 5s][4d]
+manggy94 checks
+Crissy77 checks
+pirate21000 bets 300
+manggy94 calls 300
+Crissy77 calls 300
+*** RIVER *** [Ts Jh 5s 4d][7h]
+manggy94 checks
+Crissy77 checks
+pirate21000 bets 1425
+manggy94 folds
+Crissy77 folds
+pirate21000 collected 4275 from pot
+*** SUMMARY ***
+Total pot 4275 | No rake
+Board: [Ts Jh 5s 4d 7h]
+Seat 4: pirate21000 won 4275
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #620515619132932130-15-1453569611 - Holdem no limit (25/150/300) - 2016/01/23 17:20:11 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #6 is the button
+Seat 1: adolph06 (12100)
+Seat 2: xxxmatoubxxx (9150)
+Seat 3: Crissy77 (21300)
+Seat 4: pirate21000 (11610)
+Seat 5: _bazou_ (15325)
+Seat 6: bigbaing51 (1595)
+Seat 7: manggy94 (7150)
+Seat 8: Hop hop hope (35845)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+Hop hop hope posts ante 25
+adolph06 posts ante 25
+xxxmatoubxxx posts ante 25
+Crissy77 posts ante 25
+pirate21000 posts ante 25
+_bazou_ posts ante 25
+bigbaing51 posts ante 25
+manggy94 posts small blind 150
+Hop hop hope posts big blind 300
+Dealt to manggy94 [Js 6h]
+*** PRE-FLOP *** 
+adolph06 folds
+xxxmatoubxxx raises 8825 to 9125 and is all-in
+Crissy77 folds
+pirate21000 folds
+_bazou_ folds
+bigbaing51 folds
+manggy94 folds
+Hop hop hope folds
+xxxmatoubxxx collected 9775 from pot
+*** SUMMARY ***
+Total pot 9775 | No rake
+Seat 2: xxxmatoubxxx won 9775
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #620515619132932130-16-1453569662 - Holdem no limit (25/150/300) - 2016/01/23 17:21:02 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #7 is the button
+Seat 1: adolph06 (12075)
+Seat 2: xxxmatoubxxx (9775)
+Seat 3: Crissy77 (21275)
+Seat 4: pirate21000 (11585)
+Seat 5: _bazou_ (15300)
+Seat 6: bigbaing51 (1570)
+Seat 7: manggy94 (6975)
+Seat 8: Hop hop hope (35520)
+*** ANTE/BLINDS ***
+Hop hop hope posts ante 25
+adolph06 posts ante 25
+xxxmatoubxxx posts ante 25
+Crissy77 posts ante 25
+pirate21000 posts ante 25
+_bazou_ posts ante 25
+bigbaing51 posts ante 25
+manggy94 posts ante 25
+Hop hop hope posts small blind 150
+adolph06 posts big blind 300
+Dealt to manggy94 [2c 3h]
+*** PRE-FLOP *** 
+xxxmatoubxxx calls 300
+Crissy77 folds
+pirate21000 folds
+_bazou_ folds
+bigbaing51 calls 300
+manggy94 folds
+Hop hop hope folds
+adolph06 folds
+*** FLOP *** [4d Qc As]
+xxxmatoubxxx checks
+bigbaing51 bets 625
+xxxmatoubxxx folds
+bigbaing51 collected 1875 from pot
+*** SUMMARY ***
+Total pot 1875 | No rake
+Board: [4d Qc As]
+Seat 6: bigbaing51 won 1875
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #620515619132932130-17-1453569732 - Holdem no limit (25/150/300) - 2016/01/23 17:22:12 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #8 is the button
+Seat 1: adolph06 (11750)
+Seat 2: xxxmatoubxxx (9450)
+Seat 3: Crissy77 (21250)
+Seat 4: pirate21000 (11560)
+Seat 5: _bazou_ (15275)
+Seat 6: bigbaing51 (2495)
+Seat 7: manggy94 (6950)
+Seat 8: Hop hop hope (35345)
+*** ANTE/BLINDS ***
+adolph06 posts ante 25
+xxxmatoubxxx posts ante 25
+Crissy77 posts ante 25
+pirate21000 posts ante 25
+_bazou_ posts ante 25
+bigbaing51 posts ante 25
+manggy94 posts ante 25
+Hop hop hope posts ante 25
+adolph06 posts small blind 150
+xxxmatoubxxx posts big blind 300
+Dealt to manggy94 [Kd 7h]
+*** PRE-FLOP *** 
+Crissy77 calls 300
+pirate21000 calls 300
+_bazou_ folds
+bigbaing51 folds
+manggy94 calls 300
+Hop hop hope folds
+adolph06 folds
+xxxmatoubxxx checks
+*** FLOP *** [Ac 3s Jc]
+xxxmatoubxxx checks
+Crissy77 checks
+pirate21000 bets 300
+manggy94 folds
+xxxmatoubxxx folds
+Crissy77 folds
+pirate21000 collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Board: [Ac 3s Jc]
+Seat 4: pirate21000 won 1850
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #620515619132932130-18-1453569797 - Holdem no limit (25/150/300) - 2016/01/23 17:23:17 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #1 is the button
+Seat 1: adolph06 (11575)
+Seat 2: xxxmatoubxxx (9125)
+Seat 3: Crissy77 (20925)
+Seat 4: pirate21000 (12785)
+Seat 5: _bazou_ (15250)
+Seat 6: bigbaing51 (2470)
+Seat 7: manggy94 (6625)
+Seat 8: Hop hop hope (35320)
+*** ANTE/BLINDS ***
+xxxmatoubxxx posts ante 25
+Crissy77 posts ante 25
+adolph06 posts ante 25
+pirate21000 posts ante 25
+_bazou_ posts ante 25
+bigbaing51 posts ante 25
+manggy94 posts ante 25
+Hop hop hope posts ante 25
+xxxmatoubxxx posts small blind 150
+Crissy77 posts big blind 300
+Dealt to manggy94 [3d 2s]
+*** PRE-FLOP *** 
+pirate21000 folds
+_bazou_ folds
+bigbaing51 calls 300
+manggy94 folds
+Hop hop hope calls 300
+adolph06 folds
+xxxmatoubxxx raises 1400 to 1700
+Crissy77 folds
+bigbaing51 raises 745 to 2445 and is all-in
+Hop hop hope calls 2145
+xxxmatoubxxx calls 745
+*** FLOP *** [9s 9c 5d]
+xxxmatoubxxx checks
+Hop hop hope checks
+*** TURN *** [9s 9c 5d][6c]
+xxxmatoubxxx checks
+Hop hop hope checks
+*** RIVER *** [9s 9c 5d 6c][As]
+xxxmatoubxxx checks
+Hop hop hope checks
+*** SHOW DOWN ***
+xxxmatoubxxx shows [8d Jd] (One pair : 9)
+Hop hop hope shows [Kc Tc] (One pair : 9)
+bigbaing51 shows [6h Th] (Two pairs : 9 and 6)
+bigbaing51 collected 7835 from pot
+*** SUMMARY ***
+Total pot 7835 | No rake
+Board: [9s 9c 5d 6c As]
+Seat 2: xxxmatoubxxx (small blind) showed [8d Jd] and lost with One pair : 9
+Seat 6: bigbaing51 showed [6h Th] and won 7835 with Two pairs : 9 and 6
+Seat 8: Hop hop hope showed [Kc Tc] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #620515619132932130-19-1453569886 - Holdem no limit (25/150/300) - 2016/01/23 17:24:46 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #2 is the button
+Seat 1: adolph06 (11550)
+Seat 2: xxxmatoubxxx (6655)
+Seat 3: Crissy77 (20600)
+Seat 4: pirate21000 (12760)
+Seat 5: _bazou_ (15225)
+Seat 6: bigbaing51 (7835)
+Seat 7: manggy94 (6600)
+Seat 8: Hop hop hope (32850)
+*** ANTE/BLINDS ***
+Crissy77 posts ante 25
+pirate21000 posts ante 25
+adolph06 posts ante 25
+xxxmatoubxxx posts ante 25
+_bazou_ posts ante 25
+bigbaing51 posts ante 25
+manggy94 posts ante 25
+Hop hop hope posts ante 25
+Crissy77 posts small blind 150
+pirate21000 posts big blind 300
+Dealt to manggy94 [Kh 8c]
+*** PRE-FLOP *** 
+_bazou_ folds
+bigbaing51 calls 300
+manggy94 calls 300
+Hop hop hope folds
+adolph06 folds
+xxxmatoubxxx folds
+Crissy77 calls 150
+pirate21000 checks
+*** FLOP *** [3d Qc 2h]
+Crissy77 checks
+pirate21000 checks
+bigbaing51 bets 700
+manggy94 folds
+Crissy77 folds
+pirate21000 folds
+bigbaing51 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Board: [3d Qc 2h]
+Seat 6: bigbaing51 won 2100
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #620515619132932130-20-1453569961 - Holdem no limit (30/200/400) - 2016/01/23 17:26:01 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #3 is the button
+Seat 1: adolph06 (11525)
+Seat 2: xxxmatoubxxx (6630)
+Seat 3: Crissy77 (20275)
+Seat 4: pirate21000 (12435)
+Seat 5: _bazou_ (15200)
+Seat 6: bigbaing51 (8910)
+Seat 7: manggy94 (6275)
+Seat 8: Hop hop hope (32825)
+*** ANTE/BLINDS ***
+pirate21000 posts ante 30
+_bazou_ posts ante 30
+adolph06 posts ante 30
+xxxmatoubxxx posts ante 30
+Crissy77 posts ante 30
+bigbaing51 posts ante 30
+manggy94 posts ante 30
+Hop hop hope posts ante 30
+pirate21000 posts small blind 200
+_bazou_ posts big blind 400
+Dealt to manggy94 [3h 8c]
+*** PRE-FLOP *** 
+bigbaing51 calls 400
+manggy94 folds
+Hop hop hope folds
+adolph06 folds
+xxxmatoubxxx raises 6200 to 6600 and is all-in
+Crissy77 folds
+pirate21000 folds
+_bazou_ folds
+bigbaing51 folds
+xxxmatoubxxx collected 7840 from pot
+*** SUMMARY ***
+Total pot 7840 | No rake
+Seat 2: xxxmatoubxxx won 7840
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #620515619132932130-21-1453570008 - Holdem no limit (30/200/400) - 2016/01/23 17:26:48 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #4 is the button
+Seat 1: adolph06 (11495)
+Seat 2: xxxmatoubxxx (7840)
+Seat 3: Crissy77 (20245)
+Seat 4: pirate21000 (12205)
+Seat 5: _bazou_ (14770)
+Seat 6: bigbaing51 (8480)
+Seat 7: manggy94 (6245)
+Seat 8: Hop hop hope (32795)
+*** ANTE/BLINDS ***
+_bazou_ posts ante 30
+bigbaing51 posts ante 30
+adolph06 posts ante 30
+xxxmatoubxxx posts ante 30
+Crissy77 posts ante 30
+pirate21000 posts ante 30
+manggy94 posts ante 30
+Hop hop hope posts ante 30
+_bazou_ posts small blind 200
+bigbaing51 posts big blind 400
+Dealt to manggy94 [5d 7c]
+*** PRE-FLOP *** 
+manggy94 folds
+Hop hop hope folds
+adolph06 folds
+xxxmatoubxxx raises 1240 to 1640
+Crissy77 folds
+pirate21000 calls 1640
+_bazou_ folds
+bigbaing51 folds
+*** FLOP *** [Ah 4s 7d]
+xxxmatoubxxx bets 2060
+pirate21000 folds
+xxxmatoubxxx collected 6180 from pot
+*** SUMMARY ***
+Total pot 6180 | No rake
+Board: [Ah 4s 7d]
+Seat 2: xxxmatoubxxx won 6180
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #620515619132932130-22-1453570069 - Holdem no limit (30/200/400) - 2016/01/23 17:27:49 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #5 is the button
+Seat 1: adolph06 (11465)
+Seat 2: xxxmatoubxxx (10290)
+Seat 3: Crissy77 (20215)
+Seat 4: pirate21000 (10535)
+Seat 5: _bazou_ (14540)
+Seat 6: bigbaing51 (8050)
+Seat 7: manggy94 (6215)
+Seat 8: Hop hop hope (32765)
+*** ANTE/BLINDS ***
+bigbaing51 posts ante 30
+manggy94 posts ante 30
+adolph06 posts ante 30
+xxxmatoubxxx posts ante 30
+Crissy77 posts ante 30
+pirate21000 posts ante 30
+_bazou_ posts ante 30
+Hop hop hope posts ante 30
+bigbaing51 posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [8s 6d]
+*** PRE-FLOP *** 
+Hop hop hope folds
+adolph06 folds
+xxxmatoubxxx calls 400
+Crissy77 folds
+pirate21000 calls 400
+_bazou_ folds
+bigbaing51 calls 200
+manggy94 checks
+*** FLOP *** [7s Qs Ad]
+bigbaing51 bets 400
+manggy94 folds
+xxxmatoubxxx calls 400
+pirate21000 folds
+*** TURN *** [7s Qs Ad][Jh]
+bigbaing51 bets 1320
+xxxmatoubxxx calls 1320
+*** RIVER *** [7s Qs Ad Jh][2h]
+bigbaing51 bets 5280
+xxxmatoubxxx folds
+bigbaing51 collected 10560 from pot
+*** SUMMARY ***
+Total pot 10560 | No rake
+Board: [7s Qs Ad Jh 2h]
+Seat 6: bigbaing51 (small blind) won 10560
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #620515619132932130-23-1453570175 - Holdem no limit (30/200/400) - 2016/01/23 17:29:35 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #6 is the button
+Seat 1: adolph06 (11435)
+Seat 2: xxxmatoubxxx (8140)
+Seat 3: Crissy77 (20185)
+Seat 4: pirate21000 (10105)
+Seat 5: _bazou_ (14510)
+Seat 6: bigbaing51 (11180)
+Seat 7: manggy94 (5785)
+Seat 8: Hop hop hope (32735)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+Hop hop hope posts ante 30
+adolph06 posts ante 30
+xxxmatoubxxx posts ante 30
+Crissy77 posts ante 30
+pirate21000 posts ante 30
+_bazou_ posts ante 30
+bigbaing51 posts ante 30
+manggy94 posts small blind 200
+Hop hop hope posts big blind 400
+Dealt to manggy94 [9s Ad]
+*** PRE-FLOP *** 
+adolph06 folds
+xxxmatoubxxx folds
+Crissy77 folds
+pirate21000 calls 400
+_bazou_ raises 800 to 1200
+bigbaing51 calls 1200
+manggy94 calls 1000
+Hop hop hope folds
+pirate21000 calls 800
+*** FLOP *** [As 6s 4c]
+manggy94 checks
+pirate21000 checks
+_bazou_ checks
+bigbaing51 bets 3627
+manggy94 raises 928 to 4555 and is all-in
+pirate21000 folds
+_bazou_ folds
+bigbaing51 calls 928
+*** TURN *** [As 6s 4c][Jc]
+*** RIVER *** [As 6s 4c Jc][Tc]
+*** SHOW DOWN ***
+bigbaing51 shows [3s Ac] (One pair : Aces)
+manggy94 shows [9s Ad] (One pair : Aces)
+manggy94 collected 14550 from pot
+*** SUMMARY ***
+Total pot 14550 | No rake
+Board: [As 6s 4c Jc Tc]
+Seat 6: bigbaing51 (button) showed [3s Ac] and lost with One pair : Aces
+Seat 7: manggy94 (small blind) showed [9s Ad] and won 14550 with One pair : Aces
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #620515619132932130-24-1453570286 - Holdem no limit (30/200/400) - 2016/01/23 17:31:26 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #7 is the button
+Seat 1: adolph06 (11405)
+Seat 2: xxxmatoubxxx (8110)
+Seat 3: Crissy77 (20155)
+Seat 4: pirate21000 (8875)
+Seat 5: _bazou_ (13280)
+Seat 6: bigbaing51 (5395)
+Seat 7: manggy94 (14550)
+Seat 8: Hop hop hope (32305)
+*** ANTE/BLINDS ***
+Hop hop hope posts ante 30
+adolph06 posts ante 30
+xxxmatoubxxx posts ante 30
+Crissy77 posts ante 30
+pirate21000 posts ante 30
+_bazou_ posts ante 30
+bigbaing51 posts ante 30
+manggy94 posts ante 30
+Hop hop hope posts small blind 200
+adolph06 posts big blind 400
+Dealt to manggy94 [2s 6d]
+*** PRE-FLOP *** 
+xxxmatoubxxx raises 7680 to 8080 and is all-in
+Crissy77 folds
+pirate21000 folds
+_bazou_ folds
+bigbaing51 folds
+manggy94 folds
+Hop hop hope folds
+adolph06 folds
+xxxmatoubxxx collected 8920 from pot
+*** SUMMARY ***
+Total pot 8920 | No rake
+Seat 2: xxxmatoubxxx won 8920
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #620515619132932130-25-1453570344 - Holdem no limit (40/250/500) - 2016/01/23 17:32:24 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #8 is the button
+Seat 1: adolph06 (10975)
+Seat 2: xxxmatoubxxx (8920)
+Seat 3: Crissy77 (20125)
+Seat 4: pirate21000 (8845)
+Seat 5: _bazou_ (13250)
+Seat 6: bigbaing51 (5365)
+Seat 7: manggy94 (14520)
+Seat 8: Hop hop hope (32075)
+*** ANTE/BLINDS ***
+adolph06 posts ante 40
+xxxmatoubxxx posts ante 40
+Crissy77 posts ante 40
+pirate21000 posts ante 40
+_bazou_ posts ante 40
+bigbaing51 posts ante 40
+manggy94 posts ante 40
+Hop hop hope posts ante 40
+adolph06 posts small blind 250
+xxxmatoubxxx posts big blind 500
+Dealt to manggy94 [Th 7d]
+*** PRE-FLOP *** 
+Crissy77 folds
+pirate21000 raises 500 to 1000
+_bazou_ calls 1000
+bigbaing51 folds
+manggy94 folds
+Hop hop hope folds
+adolph06 raises 500 to 1500
+xxxmatoubxxx calls 1000
+pirate21000 calls 500
+_bazou_ calls 500
+*** FLOP *** [7c 2h Qh]
+adolph06 checks
+xxxmatoubxxx checks
+pirate21000 checks
+_bazou_ bets 3160
+adolph06 folds
+xxxmatoubxxx folds
+pirate21000 folds
+_bazou_ collected 9480 from pot
+*** SUMMARY ***
+Total pot 9480 | No rake
+Board: [7c 2h Qh]
+Seat 5: _bazou_ won 9480
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #620515619132932130-26-1453570536 - Holdem no limit (40/250/500) - 2016/01/23 17:35:36 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #1 is the button
+Seat 1: adolph06 (9435)
+Seat 2: xxxmatoubxxx (7380)
+Seat 3: Crissy77 (20085)
+Seat 4: pirate21000 (7305)
+Seat 5: _bazou_ (18030)
+Seat 6: bigbaing51 (5325)
+Seat 7: manggy94 (14480)
+Seat 8: Hop hop hope (32035)
+*** ANTE/BLINDS ***
+xxxmatoubxxx posts ante 40
+Crissy77 posts ante 40
+adolph06 posts ante 40
+pirate21000 posts ante 40
+_bazou_ posts ante 40
+bigbaing51 posts ante 40
+manggy94 posts ante 40
+Hop hop hope posts ante 40
+xxxmatoubxxx posts small blind 250
+Crissy77 posts big blind 500
+Dealt to manggy94 [Qs Qc]
+*** PRE-FLOP *** 
+pirate21000 raises 1570 to 2070
+_bazou_ folds
+bigbaing51 calls 2070
+manggy94 raises 7280 to 9350
+Hop hop hope folds
+adolph06 folds
+xxxmatoubxxx calls 7090 and is all-in
+Crissy77 folds
+pirate21000 calls 5195 and is all-in
+bigbaing51 calls 3215 and is all-in
+*** FLOP *** [Jd 4s 2c]
+*** TURN *** [Jd 4s 2c][4c]
+*** RIVER *** [Jd 4s 2c 4c][As]
+*** SHOW DOWN ***
+pirate21000 shows [Th Tc] (Two pairs : Tens and 4)
+bigbaing51 shows [5s 5h] (Two pairs : 5 and 4)
+xxxmatoubxxx shows [Kh Ac] (Two pairs : Aces and 4)
+manggy94 shows [Qs Qc] (Two pairs : Queens and 4)
+manggy94 collected 2010 from side pot 1
+xxxmatoubxxx collected 28050 from main pot
+*** SUMMARY ***
+Total pot 30060 | No rake
+Board: [Jd 4s 2c 4c As]
+Seat 2: xxxmatoubxxx (small blind) showed [Kh Ac] and won 28050 with Two pairs : Aces and 4
+Seat 4: pirate21000 showed [Th Tc] and lost with Two pairs : Tens and 4
+Seat 6: bigbaing51 showed [5s 5h] and lost with Two pairs : 5 and 4
+Seat 7: manggy94 showed [Qs Qc] and won 2010 with Two pairs : Queens and 4
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #620515619132932130-27-1453570605 - Holdem no limit (40/250/500) - 2016/01/23 17:36:45 UTC
+Table: 'MiniRoll(144475051)#033' 8-max (real money) Seat #2 is the button
+Seat 1: adolph06 (9395)
+Seat 2: xxxmatoubxxx (28050)
+Seat 3: Crissy77 (19545)
+Seat 4: dre611 (10000)
+Seat 5: _bazou_ (17990)
+Seat 7: manggy94 (7100)
+Seat 8: Hop hop hope (31995)
+*** ANTE/BLINDS ***
+Crissy77 posts ante 40
+dre611 posts ante 40
+adolph06 posts ante 40
+xxxmatoubxxx posts ante 40
+_bazou_ posts ante 40
+manggy94 posts ante 40
+Hop hop hope posts ante 40
+Crissy77 posts small blind 250
+dre611 posts big blind 500
+Dealt to manggy94 [Kd 3d]
+*** PRE-FLOP *** 
+_bazou_ calls 500
+manggy94 calls 500
+Hop hop hope folds
+adolph06 folds
+xxxmatoubxxx raises 27510 to 28010 and is all-in
+Crissy77 folds
+dre611 folds
+_bazou_ folds
+manggy94 calls 6560 and is all-in
+*** FLOP *** [Jc 6c 4h]
+*** TURN *** [Jc 6c 4h][8d]
+*** RIVER *** [Jc 6c 4h 8d][8c]
+*** SHOW DOWN ***
+manggy94 shows [Kd 3d] (One pair : 8)
+xxxmatoubxxx shows [Ac Ad] (Two pairs : Aces and 8)
+xxxmatoubxxx collected 36600 from pot
+*** SUMMARY ***
+Total pot 36600 | No rake
+Board: [Jc 6c 4h 8d 8c]
+Seat 2: xxxmatoubxxx (button) showed [Ac Ad] and won 36600 with Two pairs : Aces and 8
+Seat 7: manggy94 showed [Kd 3d] and lost with One pair : 8
+
+

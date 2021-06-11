@@ -1,0 +1,210 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #688894844264776184-14-1465929551 - Holdem no limit (15/75/150) - 2016/06/14 18:39:11 UTC
+Table: 'Freeroll(160395830)#0503' 8-max (real money) Seat #2 is the button
+Seat 1: CoOuZ 59 (2345)
+Seat 2: Bembel Karl (3005)
+Seat 3: xzxzxzxz (3440)
+Seat 4: marcoco1 (5255)
+Seat 5: ralfunet (3330)
+Seat 6: jeanchneige (2920)
+Seat 7: manggy94 (3000)
+Seat 8: RAFA59210 (6705)
+*** ANTE/BLINDS ***
+xzxzxzxz posts ante 15
+marcoco1 posts ante 15
+CoOuZ 59 posts ante 15
+Bembel Karl posts ante 15
+ralfunet posts ante 15
+jeanchneige posts ante 15
+manggy94 posts ante 15
+RAFA59210 posts ante 15
+xzxzxzxz posts small blind 75
+marcoco1 posts big blind 150
+Dealt to manggy94 [3h Jh]
+*** PRE-FLOP *** 
+ralfunet folds
+jeanchneige folds
+manggy94 folds
+RAFA59210 folds
+CoOuZ 59 folds
+Bembel Karl calls 150
+xzxzxzxz folds
+marcoco1 raises 5090 to 5240 and is all-in
+Bembel Karl folds
+marcoco1 collected 5585 from pot
+*** SUMMARY ***
+Total pot 5585 | No rake
+Seat 4: marcoco1 (big blind) won 5585
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #688894844264776184-15-1465929599 - Holdem no limit (20/100/200) - 2016/06/14 18:39:59 UTC
+Table: 'Freeroll(160395830)#0503' 8-max (real money) Seat #3 is the button
+Seat 1: CoOuZ 59 (2330)
+Seat 2: Bembel Karl (2840)
+Seat 3: xzxzxzxz (3350)
+Seat 4: marcoco1 (5585)
+Seat 5: ralfunet (3315)
+Seat 6: jeanchneige (2905)
+Seat 7: manggy94 (2985)
+Seat 8: RAFA59210 (6690)
+*** ANTE/BLINDS ***
+marcoco1 posts ante 20
+ralfunet posts ante 20
+CoOuZ 59 posts ante 20
+Bembel Karl posts ante 20
+xzxzxzxz posts ante 20
+jeanchneige posts ante 20
+manggy94 posts ante 20
+RAFA59210 posts ante 20
+marcoco1 posts small blind 100
+ralfunet posts big blind 200
+Dealt to manggy94 [2h 4h]
+*** PRE-FLOP *** 
+jeanchneige calls 200
+manggy94 folds
+RAFA59210 folds
+CoOuZ 59 folds
+Bembel Karl calls 200
+xzxzxzxz folds
+marcoco1 raises 5365 to 5565 and is all-in
+ralfunet folds
+jeanchneige folds
+Bembel Karl calls 2620 and is all-in
+*** FLOP *** [6h 5d 3h]
+*** TURN *** [6h 5d 3h][Jc]
+*** RIVER *** [6h 5d 3h Jc][2s]
+*** SHOW DOWN ***
+Bembel Karl shows [3c Jh] (Two pairs : Jacks and 3)
+marcoco1 shows [4c Ah] (Straight 6 high)
+marcoco1 collected 8945 from pot
+*** SUMMARY ***
+Total pot 8945 | No rake
+Board: [6h 5d 3h Jc 2s]
+Seat 2: Bembel Karl showed [3c Jh] and lost with Two pairs : Jacks and 3
+Seat 4: marcoco1 (small blind) showed [4c Ah] and won 8945 with Straight 6 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #688894844264776184-16-1465929675 - Holdem no limit (20/100/200) - 2016/06/14 18:41:15 UTC
+Table: 'Freeroll(160395830)#0503' 8-max (real money) Seat #4 is the button
+Seat 1: CoOuZ 59 (2310)
+Seat 3: xzxzxzxz (3330)
+Seat 4: marcoco1 (8945)
+Seat 5: ralfunet (3095)
+Seat 6: jeanchneige (2685)
+Seat 7: manggy94 (2965)
+Seat 8: RAFA59210 (6670)
+*** ANTE/BLINDS ***
+ralfunet posts ante 20
+jeanchneige posts ante 20
+CoOuZ 59 posts ante 20
+xzxzxzxz posts ante 20
+marcoco1 posts ante 20
+manggy94 posts ante 20
+RAFA59210 posts ante 20
+ralfunet posts small blind 100
+jeanchneige posts big blind 200
+Dealt to manggy94 [6h 3c]
+*** PRE-FLOP *** 
+manggy94 folds
+RAFA59210 raises 200 to 400
+CoOuZ 59 calls 400
+xzxzxzxz folds
+marcoco1 calls 400
+ralfunet folds
+jeanchneige folds
+*** FLOP *** [Js 5s 4c]
+RAFA59210 checks
+CoOuZ 59 bets 1890 and is all-in
+marcoco1 raises 6635 to 8525 and is all-in
+RAFA59210 folds
+*** TURN *** [Js 5s 4c][7d]
+*** RIVER *** [Js 5s 4c 7d][7h]
+*** SHOW DOWN ***
+CoOuZ 59 shows [2c Qd] (One pair : 7)
+marcoco1 shows [5d 3s] (Two pairs : 7 and 5)
+marcoco1 collected 12055 from pot
+*** SUMMARY ***
+Total pot 12055 | No rake
+Board: [Js 5s 4c 7d 7h]
+Seat 1: CoOuZ 59 showed [2c Qd] and lost with One pair : 7
+Seat 4: marcoco1 (button) showed [5d 3s] and won 12055 with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #688894844264776184-17-1465929778 - Holdem no limit (25/125/250) - 2016/06/14 18:42:58 UTC
+Table: 'Freeroll(160395830)#0503' 8-max (real money) Seat #5 is the button
+Seat 2: arnonos1 (2420)
+Seat 3: xzxzxzxz (3310)
+Seat 4: marcoco1 (12055)
+Seat 5: ralfunet (2975)
+Seat 6: jeanchneige (2465)
+Seat 7: manggy94 (2945)
+Seat 8: RAFA59210 (6250)
+*** ANTE/BLINDS ***
+jeanchneige posts ante 25
+manggy94 posts ante 25
+arnonos1 posts ante 25
+xzxzxzxz posts ante 25
+marcoco1 posts ante 25
+ralfunet posts ante 25
+RAFA59210 posts ante 25
+jeanchneige posts small blind 125
+manggy94 posts big blind 250
+Dealt to manggy94 [2c 3s]
+*** PRE-FLOP *** 
+RAFA59210 folds
+arnonos1 folds
+xzxzxzxz raises 3035 to 3285 and is all-in
+marcoco1 folds
+ralfunet folds
+jeanchneige folds
+manggy94 folds
+xzxzxzxz collected 3835 from pot
+*** SUMMARY ***
+Total pot 3835 | No rake
+Seat 3: xzxzxzxz won 3835
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #688894844264775728-28-1465929830 - Holdem no limit (25/125/250) - 2016/06/14 18:43:50 UTC
+Table: 'Freeroll(160395830)#0047' 8-max (real money) Seat #5 is the button
+Seat 1: inette31 (2160)
+Seat 2: PoKerOfDuTY (7111)
+Seat 3: geristo (2050)
+Seat 4: manggy94 (2670)
+Seat 5: zarmoh (18185)
+Seat 6: GEMO57 (2010)
+Seat 7: brasil2014 (33420)
+Seat 8: gareth49 (29830)
+*** ANTE/BLINDS ***
+GEMO57 posts ante 25
+brasil2014 posts ante 25
+inette31 posts ante 25
+PoKerOfDuTY posts ante 25
+geristo posts ante 25
+manggy94 posts ante 25
+zarmoh posts ante 25
+gareth49 posts ante 25
+GEMO57 posts small blind 125
+brasil2014 posts big blind 250
+Dealt to manggy94 [8s 8d]
+*** PRE-FLOP *** 
+gareth49 folds
+inette31 folds
+PoKerOfDuTY folds
+geristo folds
+manggy94 raises 2395 to 2645 and is all-in
+zarmoh calls 2645
+GEMO57 folds
+brasil2014 folds
+*** FLOP *** [2d 7d Jd]
+*** TURN *** [2d 7d Jd][Ac]
+*** RIVER *** [2d 7d Jd Ac][Js]
+*** SHOW DOWN ***
+manggy94 shows [8s 8d] (Two pairs : Jacks and 8)
+zarmoh shows [Ad Ah] (Full of Aces and Jacks)
+zarmoh collected 5865 from pot
+*** SUMMARY ***
+Total pot 5865 | No rake
+Board: [2d 7d Jd Ac Js]
+Seat 4: manggy94 showed [8s 8d] and lost with Two pairs : Jacks and 8
+Seat 5: zarmoh (button) showed [Ad Ah] and won 5865 with Full of Aces and Jacks
+
+

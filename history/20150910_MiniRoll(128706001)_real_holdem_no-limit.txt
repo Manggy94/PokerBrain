@@ -1,0 +1,822 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #552788065093943321-1-1441879205 - Holdem no limit (50/100) - 2015/09/10 10:00:05 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #4 is the button
+Seat 1: kaskadeur42 (10000)
+Seat 2: juventus25 (10000)
+Seat 3: manggy94 (10000)
+Seat 4: youmarseille (10000)
+Seat 5: jeff1003 (10000)
+Seat 6: The-Joker75 (10000)
+Seat 7: karambol972 (10000)
+Seat 8: PaTaTe2Forr1 (10000)
+Seat 9: L.A.23. (10000)
+*** ANTE/BLINDS ***
+The-Joker75 posts small blind 50
+karambol972 posts big blind 100
+Dealt to manggy94 [5s As]
+*** PRE-FLOP *** 
+PaTaTe2Forr1 folds
+L.A.23. folds
+kaskadeur42 calls 100
+juventus25 raises 250 to 350
+manggy94 calls 350
+youmarseille folds
+The-Joker75 folds
+karambol972 calls 250
+kaskadeur42 calls 250
+*** FLOP *** [7c 9s 4c]
+karambol972 bets 100
+kaskadeur42 raises 500 to 600
+juventus25 raises 1200 to 1800
+manggy94 folds
+karambol972 calls 1700
+kaskadeur42 calls 1200
+*** TURN *** [7c 9s 4c][6h]
+karambol972 checks
+kaskadeur42 bets 7850 and is all-in
+juventus25 calls 7850 and is all-in
+karambol972 folds
+*** RIVER *** [7c 9s 4c 6h][8d]
+*** SHOW DOWN ***
+kaskadeur42 shows [9c Qs] (One pair : 9)
+juventus25 shows [Ac 9d] (One pair : 9)
+juventus25 collected 22550 from pot
+*** SUMMARY ***
+Total pot 22550 | No rake
+Board: [7c 9s 4c 6h 8d]
+Seat 1: kaskadeur42 showed [9c Qs] and lost with One pair : 9
+Seat 2: juventus25 showed [Ac 9d] and won 22550 with One pair : 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #552788065093943321-2-1441879289 - Holdem no limit (50/100) - 2015/09/10 10:01:29 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #6 is the button
+Seat 2: juventus25 (22550)
+Seat 3: manggy94 (9650)
+Seat 4: youmarseille (10000)
+Seat 5: jeff1003 (10000)
+Seat 6: The-Joker75 (9950)
+Seat 7: karambol972 (7850)
+Seat 8: PaTaTe2Forr1 (10000)
+Seat 9: L.A.23. (10000)
+*** ANTE/BLINDS ***
+karambol972 posts small blind 50
+PaTaTe2Forr1 posts big blind 100
+Dealt to manggy94 [7s 8s]
+*** PRE-FLOP *** 
+L.A.23. calls 100
+juventus25 folds
+manggy94 calls 100
+youmarseille folds
+jeff1003 calls 100
+The-Joker75 folds
+karambol972 calls 50
+PaTaTe2Forr1 checks
+*** FLOP *** [Qd 5c Ah]
+karambol972 bets 100
+PaTaTe2Forr1 calls 100
+L.A.23. folds
+manggy94 folds
+jeff1003 calls 100
+*** TURN *** [Qd 5c Ah][2h]
+karambol972 bets 800
+PaTaTe2Forr1 folds
+jeff1003 folds
+karambol972 collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | No rake
+Board: [Qd 5c Ah 2h]
+Seat 7: karambol972 (small blind) won 1600
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #552788065093943321-3-1441879348 - Holdem no limit (75/150) - 2015/09/10 10:02:28 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #7 is the button
+Seat 1: grazaille (10000)
+Seat 2: juventus25 (22550)
+Seat 3: manggy94 (9550)
+Seat 4: youmarseille (10000)
+Seat 5: jeff1003 (9800)
+Seat 6: The-Joker75 (9950)
+Seat 7: karambol972 (8450)
+Seat 8: PaTaTe2Forr1 (9800)
+Seat 9: L.A.23. (9900)
+*** ANTE/BLINDS ***
+PaTaTe2Forr1 posts small blind 75
+L.A.23. posts big blind 150
+Dealt to manggy94 [3c 6d]
+*** PRE-FLOP *** 
+grazaille calls 150
+juventus25 folds
+manggy94 folds
+youmarseille calls 150
+jeff1003 folds
+The-Joker75 folds
+karambol972 calls 150
+PaTaTe2Forr1 calls 75
+L.A.23. checks
+*** FLOP *** [Jd 8s Ts]
+PaTaTe2Forr1 checks
+L.A.23. bets 300
+grazaille calls 300
+youmarseille folds
+karambol972 folds
+PaTaTe2Forr1 calls 300
+*** TURN *** [Jd 8s Ts][4d]
+PaTaTe2Forr1 checks
+L.A.23. bets 525
+grazaille calls 525
+PaTaTe2Forr1 calls 525
+*** RIVER *** [Jd 8s Ts 4d][5h]
+PaTaTe2Forr1 checks
+L.A.23. checks
+grazaille checks
+*** SHOW DOWN ***
+grazaille shows [9h Kc] (High card : King)
+PaTaTe2Forr1 shows [Th Kd] (One pair : Tens)
+L.A.23. shows [Kh Jh] (One pair : Jacks)
+L.A.23. collected 3225 from pot
+*** SUMMARY ***
+Total pot 3225 | No rake
+Board: [Jd 8s Ts 4d 5h]
+Seat 1: grazaille showed [9h Kc] and lost with High card : King
+Seat 8: PaTaTe2Forr1 (small blind) showed [Th Kd] and lost with One pair : Tens
+Seat 9: L.A.23. (big blind) showed [Kh Jh] and won 3225 with One pair : Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #552788065093943321-4-1441879424 - Holdem no limit (75/150) - 2015/09/10 10:03:44 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #8 is the button
+Seat 1: grazaille (9025)
+Seat 2: juventus25 (22550)
+Seat 3: manggy94 (9550)
+Seat 4: youmarseille (9850)
+Seat 5: jeff1003 (9800)
+Seat 6: The-Joker75 (9950)
+Seat 7: karambol972 (8300)
+Seat 8: PaTaTe2Forr1 (8825)
+Seat 9: L.A.23. (12150)
+*** ANTE/BLINDS ***
+L.A.23. posts small blind 75
+grazaille posts big blind 150
+Dealt to manggy94 [5d Qc]
+*** PRE-FLOP *** 
+juventus25 folds
+manggy94 folds
+youmarseille folds
+jeff1003 calls 150
+The-Joker75 folds
+karambol972 calls 150
+PaTaTe2Forr1 folds
+L.A.23. calls 75
+grazaille checks
+*** FLOP *** [3h 3d 8c]
+L.A.23. bets 300
+grazaille folds
+jeff1003 calls 300
+karambol972 calls 300
+*** TURN *** [3h 3d 8c][9d]
+L.A.23. checks
+jeff1003 checks
+karambol972 bets 7850 and is all-in
+L.A.23. folds
+jeff1003 folds
+karambol972 collected 9350 from pot
+*** SUMMARY ***
+Total pot 9350 | No rake
+Board: [3h 3d 8c 9d]
+Seat 7: karambol972 won 9350
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #552788065093943321-5-1441879511 - Holdem no limit (75/150) - 2015/09/10 10:05:11 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #9 is the button
+Seat 2: juventus25 (22550)
+Seat 3: manggy94 (9550)
+Seat 4: youmarseille (9850)
+Seat 5: jeff1003 (9350)
+Seat 6: The-Joker75 (9950)
+Seat 7: karambol972 (9350)
+Seat 8: PaTaTe2Forr1 (8825)
+Seat 9: L.A.23. (11700)
+*** ANTE/BLINDS ***
+juventus25 posts big blind 150
+Dealt to manggy94 [Kc Qh]
+*** PRE-FLOP *** 
+manggy94 raises 300 to 450
+youmarseille folds
+jeff1003 calls 450
+The-Joker75 folds
+karambol972 calls 450
+PaTaTe2Forr1 folds
+L.A.23. folds
+juventus25 folds
+*** FLOP *** [2s 3d Tc]
+manggy94 bets 1500
+jeff1003 folds
+karambol972 calls 1500
+*** TURN *** [2s 3d Tc][6s]
+manggy94 bets 7600 and is all-in
+karambol972 calls 7400 and is all-in
+*** RIVER *** [2s 3d Tc 6s][5d]
+*** SHOW DOWN ***
+karambol972 shows [3c 9s] (One pair : 3)
+manggy94 shows [Kc Qh] (High card : King)
+manggy94 collected 200 from side pot 1
+karambol972 collected 19300 from main pot
+*** SUMMARY ***
+Total pot 19500 | No rake
+Board: [2s 3d Tc 6s 5d]
+Seat 3: manggy94 showed [Kc Qh] and won 200 with High card : King
+Seat 7: karambol972 showed [3c 9s] and won 19300 with One pair : 3
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #552788065093943321-6-1441879554 - Holdem no limit (75/150) - 2015/09/10 10:05:54 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #1 is the button
+Seat 1: Pseudomoua (10000)
+Seat 2: juventus25 (22400)
+Seat 3: manggy94 (200)
+Seat 4: youmarseille (9850)
+Seat 5: jeff1003 (8900)
+Seat 6: The-Joker75 (9950)
+Seat 7: karambol972 (19300)
+Seat 8: PaTaTe2Forr1 (8825)
+Seat 9: L.A.23. (11700)
+*** ANTE/BLINDS ***
+juventus25 posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [Ad Qh]
+*** PRE-FLOP *** 
+youmarseille calls 150
+jeff1003 calls 150
+The-Joker75 folds
+karambol972 folds
+PaTaTe2Forr1 folds
+L.A.23. folds
+juventus25 raises 300 to 450
+manggy94 calls 50 and is all-in
+youmarseille calls 300
+jeff1003 calls 300
+*** FLOP *** [2d 9s 9c]
+juventus25 bets 1550
+youmarseille folds
+jeff1003 folds
+*** TURN *** [2d 9s 9c][3d]
+*** RIVER *** [2d 9s 9c 3d][5c]
+*** SHOW DOWN ***
+manggy94 shows [Ad Qh] (One pair : 9)
+juventus25 shows [Jd Ac] (One pair : 9)
+juventus25 collected 2300 from side pot 1
+manggy94 collected 800 from main pot
+*** SUMMARY ***
+Total pot 3100 | No rake
+Board: [2d 9s 9c 3d 5c]
+Seat 2: juventus25 (small blind) showed [Jd Ac] and won 2300 with One pair : 9
+Seat 3: manggy94 (big blind) showed [Ad Qh] and won 800 with One pair : 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #552788065093943321-7-1441879600 - Holdem no limit (75/150) - 2015/09/10 10:06:40 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #2 is the button
+Seat 1: Pseudomoua (10000)
+Seat 2: juventus25 (22700)
+Seat 3: manggy94 (800)
+Seat 4: youmarseille (9400)
+Seat 5: jeff1003 (8450)
+Seat 6: The-Joker75 (9950)
+Seat 7: karambol972 (19300)
+Seat 8: PaTaTe2Forr1 (8825)
+Seat 9: L.A.23. (11700)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 75
+youmarseille posts big blind 150
+Dealt to manggy94 [Th 9c]
+*** PRE-FLOP *** 
+jeff1003 folds
+The-Joker75 folds
+karambol972 raises 600 to 750
+PaTaTe2Forr1 folds
+L.A.23. folds
+Pseudomoua folds
+juventus25 folds
+manggy94 folds
+youmarseille folds
+karambol972 collected 975 from pot
+*** SUMMARY ***
+Total pot 975 | No rake
+Seat 7: karambol972 won 975
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #552788065093943321-8-1441879658 - Holdem no limit (75/150) - 2015/09/10 10:07:38 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #3 is the button
+Seat 1: Pseudomoua (10000)
+Seat 2: juventus25 (22700)
+Seat 3: manggy94 (725)
+Seat 4: youmarseille (9250)
+Seat 5: jeff1003 (8450)
+Seat 6: The-Joker75 (9950)
+Seat 7: karambol972 (19525)
+Seat 8: PaTaTe2Forr1 (8825)
+Seat 9: L.A.23. (11700)
+*** ANTE/BLINDS ***
+youmarseille posts small blind 75
+jeff1003 posts big blind 150
+Dealt to manggy94 [Td 3d]
+*** PRE-FLOP *** 
+The-Joker75 raises 375 to 525
+karambol972 folds
+PaTaTe2Forr1 folds
+L.A.23. folds
+Pseudomoua folds
+juventus25 folds
+manggy94 folds
+youmarseille calls 450
+jeff1003 calls 375
+*** FLOP *** [Qc 4d 9c]
+youmarseille checks
+jeff1003 bets 150
+The-Joker75 raises 9275 to 9425 and is all-in
+youmarseille folds
+jeff1003 folds
+The-Joker75 collected 11150 from pot
+*** SUMMARY ***
+Total pot 11150 | No rake
+Board: [Qc 4d 9c]
+Seat 6: The-Joker75 won 11150
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #552788065093943321-9-1441879715 - Holdem no limit (100/200) - 2015/09/10 10:08:35 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #4 is the button
+Seat 2: juventus25 (22700)
+Seat 3: manggy94 (725)
+Seat 4: youmarseille (8725)
+Seat 5: jeff1003 (7775)
+Seat 6: The-Joker75 (11150)
+Seat 7: karambol972 (19525)
+Seat 8: PaTaTe2Forr1 (8825)
+Seat 9: L.A.23. (11700)
+*** ANTE/BLINDS ***
+jeff1003 posts small blind 100
+The-Joker75 posts big blind 200
+Dealt to manggy94 [Kc Ac]
+*** PRE-FLOP *** 
+karambol972 calls 200
+PaTaTe2Forr1 folds
+L.A.23. folds
+juventus25 calls 200
+manggy94 raises 525 to 725 and is all-in
+youmarseille calls 725
+jeff1003 folds
+The-Joker75 folds
+karambol972 calls 525
+juventus25 folds
+*** FLOP *** [Ah As 9d]
+karambol972 checks
+youmarseille bets 8000 and is all-in
+karambol972 folds
+*** TURN *** [Ah As 9d][9s]
+*** RIVER *** [Ah As 9d 9s][Qc]
+*** SHOW DOWN ***
+manggy94 shows [Kc Ac] (Full of Aces and 9)
+youmarseille shows [3h Ad] (Full of Aces and 9)
+youmarseille collected 9338 from side pot 1
+manggy94 collected 1337 from main pot
+*** SUMMARY ***
+Total pot 10675 | No rake
+Board: [Ah As 9d 9s Qc]
+Seat 3: manggy94 showed [Kc Ac] and won 1337 with Full of Aces and 9
+Seat 4: youmarseille (button) showed [3h Ad] and won 9338 with Full of Aces and 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #552788065093943321-10-1441879798 - Holdem no limit (100/200) - 2015/09/10 10:09:58 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #5 is the button
+Seat 1: Cees_Van_Och (10000)
+Seat 2: juventus25 (22500)
+Seat 3: manggy94 (1337)
+Seat 4: youmarseille (9338)
+Seat 6: The-Joker75 (10950)
+Seat 7: karambol972 (18800)
+Seat 8: PaTaTe2Forr1 (8825)
+Seat 9: L.A.23. (11700)
+*** ANTE/BLINDS ***
+The-Joker75 posts small blind 100
+karambol972 posts big blind 200
+Dealt to manggy94 [3h 3s]
+*** PRE-FLOP *** 
+PaTaTe2Forr1 folds
+L.A.23. calls 200
+Cees_Van_Och folds
+juventus25 folds
+manggy94 calls 200
+youmarseille calls 200
+The-Joker75 folds
+karambol972 checks
+*** FLOP *** [4s 3d 4d]
+karambol972 checks
+L.A.23. checks
+manggy94 checks
+youmarseille checks
+*** TURN *** [4s 3d 4d][Qh]
+karambol972 checks
+L.A.23. checks
+manggy94 bets 1137 and is all-in
+youmarseille folds
+karambol972 folds
+L.A.23. folds
+manggy94 collected 2037 from pot
+*** SUMMARY ***
+Total pot 2037 | No rake
+Board: [4s 3d 4d Qh]
+Seat 3: manggy94 won 2037
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #552788065093943321-11-1441879923 - Holdem no limit (100/200) - 2015/09/10 10:12:03 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #6 is the button
+Seat 1: Cees_Van_Och (10000)
+Seat 2: juventus25 (22500)
+Seat 3: manggy94 (2037)
+Seat 4: youmarseille (9138)
+Seat 6: The-Joker75 (10850)
+Seat 7: karambol972 (18600)
+Seat 8: PaTaTe2Forr1 (8825)
+Seat 9: L.A.23. (11500)
+*** ANTE/BLINDS ***
+karambol972 posts small blind 100
+PaTaTe2Forr1 posts big blind 200
+Dealt to manggy94 [3h Th]
+*** PRE-FLOP *** 
+L.A.23. folds
+Cees_Van_Och folds
+juventus25 folds
+manggy94 folds
+youmarseille calls 200
+The-Joker75 folds
+karambol972 calls 100
+PaTaTe2Forr1 checks
+*** FLOP *** [2s 5d 4h]
+karambol972 checks
+PaTaTe2Forr1 checks
+youmarseille bets 600
+karambol972 folds
+PaTaTe2Forr1 calls 600
+*** TURN *** [2s 5d 4h][4s]
+PaTaTe2Forr1 checks
+youmarseille bets 1800
+PaTaTe2Forr1 calls 1800
+*** RIVER *** [2s 5d 4h 4s][5s]
+PaTaTe2Forr1 checks
+youmarseille checks
+*** SHOW DOWN ***
+PaTaTe2Forr1 shows [6c 2h] (Two pairs : 5 and 4)
+youmarseille shows [Jc Kh] (Two pairs : 5 and 4)
+youmarseille collected 5400 from pot
+*** SUMMARY ***
+Total pot 5400 | No rake
+Board: [2s 5d 4h 4s 5s]
+Seat 4: youmarseille showed [Jc Kh] and won 5400 with Two pairs : 5 and 4
+Seat 8: PaTaTe2Forr1 (big blind) showed [6c 2h] and lost with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #552788065093943321-12-1441879970 - Holdem no limit (100/200) - 2015/09/10 10:12:50 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #7 is the button
+Seat 1: Cees_Van_Och (10000)
+Seat 2: juventus25 (22500)
+Seat 3: manggy94 (2037)
+Seat 4: youmarseille (11938)
+Seat 5: neve127 (10000)
+Seat 6: The-Joker75 (10850)
+Seat 7: karambol972 (18400)
+Seat 8: PaTaTe2Forr1 (6225)
+Seat 9: L.A.23. (11500)
+*** ANTE/BLINDS ***
+PaTaTe2Forr1 posts small blind 100
+L.A.23. posts big blind 200
+Dealt to manggy94 [4s 4d]
+*** PRE-FLOP *** 
+Cees_Van_Och calls 200
+juventus25 calls 200
+manggy94 calls 200
+youmarseille calls 200
+neve127 folds
+The-Joker75 folds
+karambol972 calls 200
+PaTaTe2Forr1 folds
+L.A.23. checks
+*** FLOP *** [7s Ts Js]
+L.A.23. checks
+Cees_Van_Och checks
+juventus25 bets 1300
+manggy94 folds
+youmarseille calls 1300
+karambol972 folds
+L.A.23. folds
+Cees_Van_Och folds
+*** TURN *** [7s Ts Js][Kd]
+juventus25 checks
+youmarseille checks
+*** RIVER *** [7s Ts Js Kd][Qs]
+juventus25 checks
+youmarseille checks
+*** SHOW DOWN ***
+juventus25 shows [8h Th] (One pair : Tens)
+youmarseille shows [8s Jc] (Flush Queen high)
+youmarseille collected 3900 from pot
+*** SUMMARY ***
+Total pot 3900 | No rake
+Board: [7s Ts Js Kd Qs]
+Seat 2: juventus25 showed [8h Th] and lost with One pair : Tens
+Seat 4: youmarseille showed [8s Jc] and won 3900 with Flush Queen high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #552788065093943321-13-1441880047 - Holdem no limit (150/300) - 2015/09/10 10:14:07 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #8 is the button
+Seat 1: Cees_Van_Och (9800)
+Seat 2: juventus25 (21000)
+Seat 3: manggy94 (1837)
+Seat 4: youmarseille (14338)
+Seat 5: neve127 (10000)
+Seat 7: karambol972 (18200)
+Seat 8: PaTaTe2Forr1 (6125)
+Seat 9: L.A.23. (11300)
+*** ANTE/BLINDS ***
+L.A.23. posts small blind 150
+Cees_Van_Och posts big blind 300
+Dealt to manggy94 [6s 2s]
+*** PRE-FLOP *** 
+juventus25 folds
+manggy94 folds
+youmarseille folds
+neve127 folds
+karambol972 folds
+PaTaTe2Forr1 calls 300
+L.A.23. folds
+Cees_Van_Och checks
+*** FLOP *** [6c 8c Ad]
+Cees_Van_Och checks
+PaTaTe2Forr1 checks
+*** TURN *** [6c 8c Ad][Td]
+Cees_Van_Och checks
+PaTaTe2Forr1 checks
+*** RIVER *** [6c 8c Ad Td][Qc]
+Cees_Van_Och bets 300
+PaTaTe2Forr1 folds
+Cees_Van_Och collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [6c 8c Ad Td Qc]
+Seat 1: Cees_Van_Och (big blind) won 1050
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #552788065093943321-14-1441880106 - Holdem no limit (150/300) - 2015/09/10 10:15:06 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #9 is the button
+Seat 1: Cees_Van_Och (10250)
+Seat 2: juventus25 (21000)
+Seat 3: manggy94 (1837)
+Seat 4: youmarseille (14338)
+Seat 5: neve127 (10000)
+Seat 6: khanalexvd (15650)
+Seat 7: karambol972 (18200)
+Seat 8: PaTaTe2Forr1 (5825)
+Seat 9: L.A.23. (11150)
+*** ANTE/BLINDS ***
+Cees_Van_Och posts small blind 150
+juventus25 posts big blind 300
+Dealt to manggy94 [6h As]
+*** PRE-FLOP *** 
+manggy94 calls 300
+youmarseille folds
+neve127 calls 300
+khanalexvd raises 300 to 600
+karambol972 calls 600
+PaTaTe2Forr1 folds
+L.A.23. folds
+Cees_Van_Och folds
+juventus25 folds
+manggy94 calls 300
+neve127 calls 300
+*** FLOP *** [2s Jd 5d]
+manggy94 checks
+neve127 checks
+khanalexvd checks
+karambol972 checks
+*** TURN *** [2s Jd 5d][2h]
+manggy94 checks
+neve127 checks
+khanalexvd checks
+karambol972 bets 1425
+manggy94 folds
+neve127 calls 1425
+khanalexvd folds
+*** RIVER *** [2s Jd 5d 2h][4c]
+neve127 checks
+karambol972 checks
+*** SHOW DOWN ***
+neve127 shows [9d Td] (One pair : 2)
+karambol972 shows [9h Ad] (One pair : 2)
+karambol972 collected 5700 from pot
+*** SUMMARY ***
+Total pot 5700 | No rake
+Board: [2s Jd 5d 2h 4c]
+Seat 5: neve127 showed [9d Td] and lost with One pair : 2
+Seat 7: karambol972 showed [9h Ad] and won 5700 with One pair : 2
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #552788065093943321-15-1441880233 - Holdem no limit (150/300) - 2015/09/10 10:17:13 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #1 is the button
+Seat 1: Cees_Van_Och (10100)
+Seat 2: juventus25 (20700)
+Seat 3: manggy94 (1237)
+Seat 4: youmarseille (14338)
+Seat 5: neve127 (7975)
+Seat 6: khanalexvd (15050)
+Seat 7: karambol972 (21875)
+Seat 8: PaTaTe2Forr1 (5825)
+Seat 9: L.A.23. (11150)
+*** ANTE/BLINDS ***
+juventus25 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Jd 3s]
+*** PRE-FLOP *** 
+youmarseille folds
+neve127 folds
+khanalexvd calls 300
+karambol972 calls 300
+PaTaTe2Forr1 folds
+L.A.23. calls 300
+Cees_Van_Och calls 300
+juventus25 calls 150
+manggy94 checks
+*** FLOP *** [9h 2d 8d]
+juventus25 bets 1200
+manggy94 folds
+khanalexvd folds
+karambol972 calls 1200
+L.A.23. folds
+Cees_Van_Och calls 1200
+*** TURN *** [9h 2d 8d][Jc]
+juventus25 bets 2700
+karambol972 calls 2700
+Cees_Van_Och raises 5900 to 8600 and is all-in
+juventus25 calls 5900
+karambol972 folds
+*** RIVER *** [9h 2d 8d Jc][Th]
+*** SHOW DOWN ***
+juventus25 shows [8s 9c] (Two pairs : 9 and 8)
+Cees_Van_Och shows [7h Ts] (Straight Jack high)
+Cees_Van_Och collected 25300 from pot
+*** SUMMARY ***
+Total pot 25300 | No rake
+Board: [9h 2d 8d Jc Th]
+Seat 1: Cees_Van_Och (button) showed [7h Ts] and won 25300 with Straight Jack high
+Seat 2: juventus25 (small blind) showed [8s 9c] and lost with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #552788065093943321-16-1441880322 - Holdem no limit (150/300) - 2015/09/10 10:18:42 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #2 is the button
+Seat 1: Cees_Van_Och (25300)
+Seat 3: manggy94 (937)
+Seat 4: youmarseille (14338)
+Seat 5: neve127 (7975)
+Seat 6: khanalexvd (14750)
+Seat 7: karambol972 (17675)
+Seat 8: PaTaTe2Forr1 (5825)
+Seat 9: L.A.23. (10850)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+youmarseille posts big blind 300
+Dealt to manggy94 [8c 9s]
+*** PRE-FLOP *** 
+neve127 calls 300
+khanalexvd raises 900 to 1200
+karambol972 calls 1200
+PaTaTe2Forr1 folds
+L.A.23. folds
+Cees_Van_Och folds
+manggy94 folds
+youmarseille folds
+neve127 calls 900
+*** FLOP *** [5d 3s Ts]
+neve127 checks
+khanalexvd checks
+karambol972 checks
+*** TURN *** [5d 3s Ts][5s]
+neve127 bets 300
+khanalexvd calls 300
+karambol972 calls 300
+*** RIVER *** [5d 3s Ts 5s][2h]
+neve127 checks
+khanalexvd checks
+karambol972 checks
+*** SHOW DOWN ***
+neve127 shows [Ks Jh] (One pair : 5)
+khanalexvd shows [Ad Jc] (One pair : 5)
+karambol972 shows [2d Ah] (Two pairs : 5 and 2)
+karambol972 collected 4950 from pot
+*** SUMMARY ***
+Total pot 4950 | No rake
+Board: [5d 3s Ts 5s 2h]
+Seat 5: neve127 showed [Ks Jh] and lost with One pair : 5
+Seat 6: khanalexvd showed [Ad Jc] and lost with One pair : 5
+Seat 7: karambol972 showed [2d Ah] and won 4950 with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #552788065093943321-17-1441880383 - Holdem no limit (150/300) - 2015/09/10 10:19:43 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #3 is the button
+Seat 1: Cees_Van_Och (25300)
+Seat 2: kyja (10000)
+Seat 3: manggy94 (787)
+Seat 4: youmarseille (14038)
+Seat 5: neve127 (6475)
+Seat 6: khanalexvd (13250)
+Seat 7: karambol972 (21125)
+Seat 8: PaTaTe2Forr1 (5825)
+Seat 9: L.A.23. (10850)
+*** ANTE/BLINDS ***
+youmarseille posts small blind 150
+neve127 posts big blind 300
+Dealt to manggy94 [Kc 8c]
+*** PRE-FLOP *** 
+khanalexvd folds
+karambol972 calls 300
+PaTaTe2Forr1 folds
+L.A.23. folds
+Cees_Van_Och folds
+kyja folds
+manggy94 raises 487 to 787 and is all-in
+youmarseille calls 637
+neve127 calls 487
+karambol972 calls 487
+*** FLOP *** [8h As 9c]
+youmarseille checks
+neve127 checks
+karambol972 checks
+*** TURN *** [8h As 9c][Qs]
+youmarseille checks
+neve127 checks
+karambol972 bets 1574
+youmarseille calls 1574
+neve127 folds
+*** RIVER *** [8h As 9c Qs][9d]
+youmarseille checks
+karambol972 checks
+*** SHOW DOWN ***
+youmarseille shows [Th 7s] (One pair : 9)
+manggy94 shows [Kc 8c] (Two pairs : 9 and 8)
+karambol972 shows [Kh 8s] (Two pairs : 9 and 8)
+karambol972 collected 4722 from side pot 1
+manggy94 collected 1574 from main pot
+*** SUMMARY ***
+Total pot 6296 | No rake
+Board: [8h As 9c Qs 9d]
+Seat 3: manggy94 (button) showed [Kc 8c] and won 1574 with Two pairs : 9 and 8
+Seat 4: youmarseille (small blind) showed [Th 7s] and lost with One pair : 9
+Seat 7: karambol972 showed [Kh 8s] and won 4722 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #552788065093943321-18-1441880460 - Holdem no limit (25/150/300) - 2015/09/10 10:21:00 UTC
+Table: 'MiniRoll(128706001)#024' 9-max (real money) Seat #4 is the button
+Seat 1: Cees_Van_Och (25300)
+Seat 2: kyja (10000)
+Seat 3: manggy94 (1574)
+Seat 4: youmarseille (11677)
+Seat 5: neve127 (5688)
+Seat 6: khanalexvd (13250)
+Seat 7: karambol972 (23486)
+Seat 8: PaTaTe2Forr1 (5825)
+Seat 9: L.A.23. (10850)
+*** ANTE/BLINDS ***
+neve127 posts ante 25
+khanalexvd posts ante 25
+Cees_Van_Och posts ante 25
+kyja posts ante 25
+manggy94 posts ante 25
+youmarseille posts ante 25
+karambol972 posts ante 25
+PaTaTe2Forr1 posts ante 25
+L.A.23. posts ante 25
+neve127 posts small blind 150
+khanalexvd posts big blind 300
+Dealt to manggy94 [Ah Qc]
+*** PRE-FLOP *** 
+karambol972 folds
+PaTaTe2Forr1 raises 450 to 750
+L.A.23. folds
+Cees_Van_Och folds
+kyja folds
+manggy94 calls 750
+youmarseille folds
+neve127 calls 600
+khanalexvd folds
+*** FLOP *** [Ts 6s 8d]
+neve127 checks
+PaTaTe2Forr1 checks
+manggy94 bets 799 and is all-in
+neve127 calls 799
+PaTaTe2Forr1 folds
+*** TURN *** [Ts 6s 8d][6d]
+*** RIVER *** [Ts 6s 8d 6d][Th]
+*** SHOW DOWN ***
+manggy94 shows [Ah Qc] (Two pairs : Tens and 6)
+neve127 shows [8h 9s] (Two pairs : Tens and 8)
+neve127 collected 4373 from pot
+*** SUMMARY ***
+Total pot 4373 | No rake
+Board: [Ts 6s 8d 6d Th]
+Seat 3: manggy94 showed [Ah Qc] and lost with Two pairs : Tens and 6
+Seat 5: neve127 (small blind) showed [8h 9s] and won 4373 with Two pairs : Tens and 8
+
+

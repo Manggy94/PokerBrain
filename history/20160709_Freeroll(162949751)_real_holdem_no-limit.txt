@@ -1,0 +1,877 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #699863851436343512-3-1468071168 - Holdem no limit (10/20) - 2016/07/09 13:32:48 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #6 is the button
+Seat 1: madison (3000)
+Seat 2: fred01170 (2980)
+Seat 3: purpplehaze (9020)
+Seat 4: gostryder (6000)
+Seat 5: zagagizagaga (3000)
+Seat 6: manggy94 (3000)
+Seat 7: Mortalis (3000)
+*** ANTE/BLINDS ***
+Mortalis posts small blind 10
+madison posts big blind 20
+*** PRE-FLOP *** 
+fred01170 calls 20
+purpplehaze folds
+gostryder calls 20
+zagagizagaga folds
+Mortalis folds
+madison checks
+*** FLOP *** [Ts 4c 2h]
+madison checks
+fred01170 bets 70
+gostryder folds
+madison calls 70
+*** TURN *** [Ts 4c 2h][8s]
+madison checks
+fred01170 bets 210
+madison calls 210
+*** RIVER *** [Ts 4c 2h 8s][6c]
+madison bets 20
+fred01170 raises 670 to 690
+madison folds
+fred01170 collected 1340 from pot
+*** SUMMARY ***
+Total pot 1340 | No rake
+Board: [Ts 4c 2h 8s 6c]
+Seat 2: fred01170 won 1340
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #699863851436343512-4-1468071226 - Holdem no limit (15/30) - 2016/07/09 13:33:46 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #7 is the button
+Seat 1: madison (2680)
+Seat 2: fred01170 (3330)
+Seat 3: purpplehaze (9020)
+Seat 4: gostryder (5980)
+Seat 5: zagagizagaga (3000)
+Seat 6: manggy94 (3000)
+Seat 7: Mortalis (2990)
+Seat 8: magda57 (3000)
+*** ANTE/BLINDS ***
+madison posts small blind 15
+fred01170 posts big blind 30
+Dealt to manggy94 [Jh Tc]
+*** PRE-FLOP *** 
+purpplehaze folds
+gostryder folds
+zagagizagaga folds
+manggy94 calls 30
+Mortalis folds
+madison calls 15
+fred01170 checks
+*** FLOP *** [Ah 5s 2c]
+madison checks
+fred01170 checks
+manggy94 checks
+*** TURN *** [Ah 5s 2c][7s]
+madison checks
+fred01170 checks
+manggy94 checks
+*** RIVER *** [Ah 5s 2c 7s][9s]
+madison checks
+fred01170 checks
+manggy94 checks
+*** SHOW DOWN ***
+madison shows [Qc 6h] (High card : Ace)
+manggy94 shows [Jh Tc] (High card : Ace)
+fred01170 shows [2d Jd] (One pair : 2)
+fred01170 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Ah 5s 2c 7s 9s]
+Seat 1: madison (small blind) showed [Qc 6h] and lost with High card : Ace
+Seat 2: fred01170 (big blind) showed [2d Jd] and won 90 with One pair : 2
+Seat 6: manggy94 showed [Jh Tc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #699863851436343512-5-1468071299 - Holdem no limit (15/30) - 2016/07/09 13:34:59 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #1 is the button
+Seat 1: madison (2650)
+Seat 2: fred01170 (3390)
+Seat 3: purpplehaze (9020)
+Seat 4: gostryder (5980)
+Seat 5: zagagizagaga (3000)
+Seat 6: manggy94 (2970)
+Seat 7: Mortalis (2990)
+Seat 8: magda57 (3000)
+*** ANTE/BLINDS ***
+fred01170 posts small blind 15
+purpplehaze posts big blind 30
+Dealt to manggy94 [Jh Qc]
+*** PRE-FLOP *** 
+gostryder calls 30
+zagagizagaga folds
+manggy94 calls 30
+Mortalis raises 2960 to 2990 and is all-in
+magda57 folds
+madison folds
+fred01170 raises 400 to 3390 and is all-in
+purpplehaze folds
+gostryder folds
+manggy94 folds
+*** FLOP *** [Qh 9d 3d]
+*** TURN *** [Qh 9d 3d][6d]
+*** RIVER *** [Qh 9d 3d 6d][6c]
+*** SHOW DOWN ***
+Mortalis shows [Ac Qs] (Two pairs : Queens and 6)
+fred01170 shows [Ad Qd] (Flush Ace high)
+fred01170 collected 6470 from pot
+*** SUMMARY ***
+Total pot 6470 | No rake
+Board: [Qh 9d 3d 6d 6c]
+Seat 2: fred01170 (small blind) showed [Ad Qd] and won 6470 with Flush Ace high
+Seat 7: Mortalis showed [Ac Qs] and lost with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #699863851436343512-6-1468071367 - Holdem no limit (15/30) - 2016/07/09 13:36:07 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #2 is the button
+Seat 1: madison (2650)
+Seat 2: fred01170 (6470)
+Seat 3: purpplehaze (8990)
+Seat 4: gostryder (5950)
+Seat 5: zagagizagaga (3000)
+Seat 6: manggy94 (2940)
+Seat 7: alexandrin (3000)
+Seat 8: magda57 (3000)
+*** ANTE/BLINDS ***
+purpplehaze posts small blind 15
+gostryder posts big blind 30
+Dealt to manggy94 [9s Ts]
+*** PRE-FLOP *** 
+zagagizagaga folds
+manggy94 calls 30
+alexandrin folds
+magda57 folds
+madison folds
+fred01170 raises 170 to 200
+purpplehaze folds
+gostryder folds
+manggy94 calls 170
+*** FLOP *** [7s Qd 6c]
+manggy94 checks
+fred01170 bets 1000
+manggy94 folds
+fred01170 collected 1445 from pot
+*** SUMMARY ***
+Total pot 1445 | No rake
+Board: [7s Qd 6c]
+Seat 2: fred01170 (button) won 1445
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #699863851436343512-7-1468071493 - Holdem no limit (20/40) - 2016/07/09 13:38:13 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #3 is the button
+Seat 1: madison (2650)
+Seat 2: fred01170 (6715)
+Seat 3: purpplehaze (8975)
+Seat 4: gostryder (5920)
+Seat 5: zagagizagaga (3000)
+Seat 6: manggy94 (2740)
+Seat 7: alexandrin (3000)
+Seat 8: magda57 (3000)
+*** ANTE/BLINDS ***
+gostryder posts small blind 20
+zagagizagaga posts big blind 40
+Dealt to manggy94 [4s Th]
+*** PRE-FLOP *** 
+manggy94 folds
+alexandrin folds
+magda57 calls 40
+madison calls 40
+fred01170 calls 40
+purpplehaze folds
+gostryder calls 20
+zagagizagaga checks
+*** FLOP *** [Ac 7h Qd]
+gostryder checks
+zagagizagaga checks
+magda57 bets 60
+madison calls 60
+fred01170 calls 60
+gostryder folds
+zagagizagaga folds
+*** TURN *** [Ac 7h Qd][9c]
+magda57 bets 1020
+madison calls 1020
+fred01170 folds
+*** RIVER *** [Ac 7h Qd 9c][4d]
+magda57 bets 1880 and is all-in
+madison folds
+magda57 collected 4300 from pot
+*** SUMMARY ***
+Total pot 4300 | No rake
+Board: [Ac 7h Qd 9c 4d]
+Seat 8: magda57 won 4300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #699863851436343512-8-1468071604 - Holdem no limit (30/60) - 2016/07/09 13:40:04 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #4 is the button
+Seat 1: madison (1530)
+Seat 2: fred01170 (6615)
+Seat 3: purpplehaze (8975)
+Seat 4: gostryder (5880)
+Seat 5: zagagizagaga (2960)
+Seat 6: manggy94 (2740)
+Seat 7: alexandrin (3000)
+Seat 8: magda57 (4300)
+*** ANTE/BLINDS ***
+zagagizagaga posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [4h 8c]
+*** PRE-FLOP *** 
+alexandrin calls 60
+magda57 folds
+madison folds
+fred01170 raises 140 to 200
+purpplehaze raises 8775 to 8975 and is all-in
+gostryder folds
+zagagizagaga folds
+manggy94 folds
+alexandrin folds
+fred01170 folds
+purpplehaze collected 9325 from pot
+*** SUMMARY ***
+Total pot 9325 | No rake
+Seat 3: purpplehaze won 9325
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #699863851436343512-9-1468071649 - Holdem no limit (30/60) - 2016/07/09 13:40:49 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #5 is the button
+Seat 1: madison (1530)
+Seat 2: fred01170 (6415)
+Seat 3: purpplehaze (9325)
+Seat 4: gostryder (5880)
+Seat 5: zagagizagaga (2930)
+Seat 6: manggy94 (2680)
+Seat 7: alexandrin (2940)
+Seat 8: magda57 (4300)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+alexandrin posts big blind 60
+Dealt to manggy94 [Qc 3d]
+*** PRE-FLOP *** 
+magda57 folds
+madison folds
+fred01170 folds
+purpplehaze folds
+gostryder folds
+zagagizagaga folds
+manggy94 calls 30
+alexandrin checks
+*** FLOP *** [Qh 5h 2h]
+manggy94 bets 80
+alexandrin folds
+manggy94 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Qh 5h 2h]
+Seat 6: manggy94 (small blind) won 200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #699863851436343512-10-1468071706 - Holdem no limit (30/60) - 2016/07/09 13:41:46 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #6 is the button
+Seat 1: madison (1530)
+Seat 2: fred01170 (6415)
+Seat 3: purpplehaze (9325)
+Seat 4: gostryder (5880)
+Seat 5: zagagizagaga (2930)
+Seat 6: manggy94 (2740)
+Seat 7: alexandrin (2880)
+Seat 8: magda57 (4300)
+*** ANTE/BLINDS ***
+alexandrin posts small blind 30
+magda57 posts big blind 60
+Dealt to manggy94 [6h 3c]
+*** PRE-FLOP *** 
+madison calls 60
+fred01170 raises 140 to 200
+purpplehaze folds
+gostryder folds
+zagagizagaga folds
+manggy94 folds
+alexandrin folds
+magda57 folds
+madison calls 140
+*** FLOP *** [7h 5s 4h]
+madison bets 1330 and is all-in
+fred01170 calls 1330
+*** TURN *** [7h 5s 4h][3d]
+*** RIVER *** [7h 5s 4h 3d][Ts]
+*** SHOW DOWN ***
+fred01170 shows [Ac Qc] (High card : Ace)
+madison shows [7d 5d] (Two pairs : 7 and 5)
+madison collected 3150 from pot
+*** SUMMARY ***
+Total pot 3150 | No rake
+Board: [7h 5s 4h 3d Ts]
+Seat 1: madison showed [7d 5d] and won 3150 with Two pairs : 7 and 5
+Seat 2: fred01170 showed [Ac Qc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #699863851436343512-11-1468071808 - Holdem no limit (40/80) - 2016/07/09 13:43:28 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #7 is the button
+Seat 1: madison (3150)
+Seat 2: fred01170 (4885)
+Seat 3: purpplehaze (9325)
+Seat 4: gostryder (5880)
+Seat 5: zagagizagaga (2930)
+Seat 6: manggy94 (2740)
+Seat 7: alexandrin (2850)
+Seat 8: magda57 (4240)
+*** ANTE/BLINDS ***
+magda57 posts small blind 40
+madison posts big blind 80
+Dealt to manggy94 [6d Kh]
+*** PRE-FLOP *** 
+fred01170 folds
+purpplehaze folds
+gostryder calls 80
+zagagizagaga raises 120 to 200
+manggy94 folds
+alexandrin folds
+magda57 calls 160
+madison calls 120
+gostryder folds
+*** FLOP *** [6c 3s Qs]
+magda57 checks
+madison checks
+zagagizagaga checks
+*** TURN *** [6c 3s Qs][5d]
+magda57 checks
+madison checks
+zagagizagaga checks
+*** RIVER *** [6c 3s Qs 5d][4d]
+magda57 bets 680
+madison folds
+zagagizagaga folds
+magda57 collected 1360 from pot
+*** SUMMARY ***
+Total pot 1360 | No rake
+Board: [6c 3s Qs 5d 4d]
+Seat 8: magda57 (small blind) won 1360
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #699863851436343512-12-1468071870 - Holdem no limit (40/80) - 2016/07/09 13:44:30 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #8 is the button
+Seat 1: madison (2950)
+Seat 2: fred01170 (4885)
+Seat 3: purpplehaze (9325)
+Seat 4: gostryder (5800)
+Seat 5: zagagizagaga (2730)
+Seat 6: manggy94 (2740)
+Seat 7: alexandrin (2850)
+Seat 8: magda57 (4720)
+*** ANTE/BLINDS ***
+madison posts small blind 40
+fred01170 posts big blind 80
+Dealt to manggy94 [Jd Kc]
+*** PRE-FLOP *** 
+purpplehaze folds
+gostryder folds
+zagagizagaga folds
+manggy94 calls 80
+alexandrin folds
+magda57 folds
+madison calls 40
+fred01170 raises 4805 to 4885 and is all-in
+manggy94 folds
+madison calls 2870 and is all-in
+*** FLOP *** [Js 6d 5c]
+*** TURN *** [Js 6d 5c][4c]
+*** RIVER *** [Js 6d 5c 4c][7d]
+*** SHOW DOWN ***
+madison shows [Tc Kd] (High card : King)
+fred01170 shows [5h 5d] (Trips of 5)
+fred01170 collected 7915 from pot
+*** SUMMARY ***
+Total pot 7915 | No rake
+Board: [Js 6d 5c 4c 7d]
+Seat 1: madison (small blind) showed [Tc Kd] and lost with High card : King
+Seat 2: fred01170 (big blind) showed [5h 5d] and won 7915 with Trips of 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #699863851436343512-13-1468071924 - Holdem no limit (60/120) - 2016/07/09 13:45:24 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #1 is the button
+Seat 2: fred01170 (7915)
+Seat 3: purpplehaze (9325)
+Seat 4: gostryder (5800)
+Seat 5: zagagizagaga (2730)
+Seat 6: manggy94 (2660)
+Seat 7: alexandrin (2850)
+Seat 8: magda57 (4720)
+*** ANTE/BLINDS ***
+fred01170 posts small blind 60
+purpplehaze posts big blind 120
+Dealt to manggy94 [Qc Js]
+*** PRE-FLOP *** 
+gostryder folds
+zagagizagaga folds
+manggy94 calls 120
+alexandrin calls 120
+magda57 folds
+fred01170 raises 7795 to 7915 and is all-in
+purpplehaze folds
+manggy94 folds
+alexandrin folds
+fred01170 collected 8275 from pot
+*** SUMMARY ***
+Total pot 8275 | No rake
+Seat 2: fred01170 (small blind) won 8275
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #699863851436343512-14-1468071951 - Holdem no limit (60/120) - 2016/07/09 13:45:51 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #2 is the button
+Seat 1: NANO555 (2860)
+Seat 2: fred01170 (8275)
+Seat 3: purpplehaze (9205)
+Seat 4: gostryder (5800)
+Seat 5: zagagizagaga (2730)
+Seat 6: manggy94 (2540)
+Seat 7: alexandrin (2730)
+Seat 8: magda57 (4720)
+*** ANTE/BLINDS ***
+purpplehaze posts small blind 60
+gostryder posts big blind 120
+Dealt to manggy94 [2h Th]
+*** PRE-FLOP *** 
+zagagizagaga folds
+manggy94 folds
+alexandrin calls 120
+magda57 folds
+NANO555 folds
+fred01170 raises 8155 to 8275 and is all-in
+purpplehaze folds
+gostryder folds
+alexandrin folds
+fred01170 collected 8575 from pot
+*** SUMMARY ***
+Total pot 8575 | No rake
+Seat 2: fred01170 (button) won 8575
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #699863851436343512-15-1468071988 - Holdem no limit (60/120) - 2016/07/09 13:46:28 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #3 is the button
+Seat 1: NANO555 (2860)
+Seat 2: fred01170 (8575)
+Seat 3: purpplehaze (9145)
+Seat 4: gostryder (5680)
+Seat 5: zagagizagaga (2730)
+Seat 6: manggy94 (2540)
+Seat 7: alexandrin (2610)
+Seat 8: magda57 (4720)
+*** ANTE/BLINDS ***
+gostryder posts small blind 60
+zagagizagaga posts big blind 120
+Dealt to manggy94 [Ad Ac]
+*** PRE-FLOP *** 
+manggy94 raises 120 to 240
+alexandrin folds
+magda57 folds
+NANO555 folds
+fred01170 calls 240
+purpplehaze folds
+gostryder folds
+zagagizagaga folds
+*** FLOP *** [Jh 3s 5c]
+manggy94 bets 660
+fred01170 calls 660
+*** TURN *** [Jh 3s 5c][2c]
+manggy94 bets 1640 and is all-in
+fred01170 calls 1640
+*** RIVER *** [Jh 3s 5c 2c][Tc]
+*** SHOW DOWN ***
+fred01170 shows [Ks 9h] (High card : King)
+manggy94 shows [Ad Ac] (One pair : Aces)
+manggy94 collected 5260 from pot
+*** SUMMARY ***
+Total pot 5260 | No rake
+Board: [Jh 3s 5c 2c Tc]
+Seat 2: fred01170 showed [Ks 9h] and lost with High card : King
+Seat 6: manggy94 showed [Ad Ac] and won 5260 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #699863851436343512-16-1468072081 - Holdem no limit (60/120) - 2016/07/09 13:48:01 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #4 is the button
+Seat 1: NANO555 (2860)
+Seat 2: fred01170 (6035)
+Seat 3: purpplehaze (9145)
+Seat 4: gostryder (5620)
+Seat 5: zagagizagaga (2610)
+Seat 6: manggy94 (5260)
+Seat 7: alexandrin (2610)
+Seat 8: magda57 (4720)
+*** ANTE/BLINDS ***
+zagagizagaga posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [Jc Ks]
+*** PRE-FLOP *** 
+alexandrin folds
+magda57 folds
+NANO555 calls 120
+fred01170 folds
+purpplehaze folds
+gostryder folds
+zagagizagaga folds
+manggy94 checks
+*** FLOP *** [6h 3h Td]
+manggy94 bets 120
+NANO555 folds
+manggy94 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [6h 3h Td]
+Seat 6: manggy94 (big blind) won 420
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #699863851436343512-17-1468072136 - Holdem no limit (10/60/120) - 2016/07/09 13:48:56 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #5 is the button
+Seat 1: NANO555 (2740)
+Seat 2: fred01170 (6035)
+Seat 3: purpplehaze (9145)
+Seat 4: gostryder (5620)
+Seat 5: zagagizagaga (2550)
+Seat 6: manggy94 (5440)
+Seat 7: alexandrin (2610)
+Seat 8: magda57 (4720)
+*** ANTE/BLINDS ***
+manggy94 posts ante 10
+alexandrin posts ante 10
+NANO555 posts ante 10
+fred01170 posts ante 10
+purpplehaze posts ante 10
+gostryder posts ante 10
+zagagizagaga posts ante 10
+magda57 posts ante 10
+manggy94 posts small blind 60
+alexandrin posts big blind 120
+Dealt to manggy94 [Js Ks]
+*** PRE-FLOP *** 
+magda57 folds
+NANO555 folds
+fred01170 raises 240 to 360
+purpplehaze raises 8775 to 9135 and is all-in
+gostryder folds
+zagagizagaga folds
+manggy94 folds
+alexandrin folds
+fred01170 calls 5665 and is all-in
+*** FLOP *** [Jd 8h 2s]
+*** TURN *** [Jd 8h 2s][Jc]
+*** RIVER *** [Jd 8h 2s Jc][As]
+*** SHOW DOWN ***
+fred01170 shows [Ad Td] (Two pairs : Aces and Jacks)
+purpplehaze shows [Kh Qh] (One pair : Jacks)
+purpplehaze collected 3110 from side pot 1
+fred01170 collected 12310 from main pot
+*** SUMMARY ***
+Total pot 15420 | No rake
+Board: [Jd 8h 2s Jc As]
+Seat 2: fred01170 showed [Ad Td] and won 12310 with Two pairs : Aces and Jacks
+Seat 3: purpplehaze showed [Kh Qh] and won 3110 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #699863851436343512-18-1468072197 - Holdem no limit (10/60/120) - 2016/07/09 13:49:57 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #6 is the button
+Seat 1: NANO555 (2730)
+Seat 2: fred01170 (12310)
+Seat 3: purpplehaze (3110)
+Seat 4: gostryder (5610)
+Seat 5: zagagizagaga (2540)
+Seat 6: manggy94 (5370)
+Seat 7: alexandrin (2480)
+Seat 8: magda57 (4710)
+*** ANTE/BLINDS ***
+alexandrin posts ante 10
+magda57 posts ante 10
+NANO555 posts ante 10
+fred01170 posts ante 10
+purpplehaze posts ante 10
+gostryder posts ante 10
+zagagizagaga posts ante 10
+manggy94 posts ante 10
+alexandrin posts small blind 60
+magda57 posts big blind 120
+Dealt to manggy94 [Ts 8c]
+*** PRE-FLOP *** 
+NANO555 folds
+fred01170 calls 120
+purpplehaze raises 2980 to 3100 and is all-in
+gostryder folds
+zagagizagaga folds
+manggy94 folds
+alexandrin folds
+magda57 folds
+fred01170 folds
+purpplehaze collected 3480 from pot
+*** SUMMARY ***
+Total pot 3480 | No rake
+Seat 3: purpplehaze won 3480
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #699863851436343512-19-1468072254 - Holdem no limit (10/60/120) - 2016/07/09 13:50:54 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #7 is the button
+Seat 1: NANO555 (2720)
+Seat 2: fred01170 (12180)
+Seat 3: purpplehaze (3480)
+Seat 4: gostryder (5600)
+Seat 5: zagagizagaga (2530)
+Seat 6: manggy94 (5360)
+Seat 7: alexandrin (2410)
+Seat 8: magda57 (4580)
+*** ANTE/BLINDS ***
+magda57 posts ante 10
+NANO555 posts ante 10
+fred01170 posts ante 10
+purpplehaze posts ante 10
+gostryder posts ante 10
+zagagizagaga posts ante 10
+manggy94 posts ante 10
+alexandrin posts ante 10
+magda57 posts small blind 60
+NANO555 posts big blind 120
+Dealt to manggy94 [Jc 9d]
+*** PRE-FLOP *** 
+fred01170 folds
+purpplehaze raises 3350 to 3470 and is all-in
+gostryder folds
+zagagizagaga folds
+manggy94 folds
+alexandrin folds
+magda57 folds
+NANO555 folds
+purpplehaze collected 3730 from pot
+*** SUMMARY ***
+Total pot 3730 | No rake
+Seat 3: purpplehaze won 3730
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #699863851436343512-20-1468072303 - Holdem no limit (15/75/150) - 2016/07/09 13:51:43 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #8 is the button
+Seat 1: NANO555 (2590)
+Seat 2: fred01170 (12170)
+Seat 3: purpplehaze (3730)
+Seat 4: gostryder (5590)
+Seat 5: zagagizagaga (2520)
+Seat 6: manggy94 (5350)
+Seat 7: alexandrin (2400)
+Seat 8: magda57 (4510)
+*** ANTE/BLINDS ***
+NANO555 posts ante 15
+fred01170 posts ante 15
+purpplehaze posts ante 15
+gostryder posts ante 15
+zagagizagaga posts ante 15
+manggy94 posts ante 15
+alexandrin posts ante 15
+magda57 posts ante 15
+NANO555 posts small blind 75
+fred01170 posts big blind 150
+Dealt to manggy94 [4c Jh]
+*** PRE-FLOP *** 
+purpplehaze folds
+gostryder folds
+zagagizagaga raises 200 to 350
+manggy94 folds
+alexandrin calls 350
+magda57 calls 350
+NANO555 folds
+fred01170 calls 200
+*** FLOP *** [7d Jc Td]
+fred01170 checks
+zagagizagaga checks
+alexandrin bets 1595
+magda57 folds
+fred01170 folds
+zagagizagaga folds
+alexandrin shows [7c 7s] (Trips of 7)
+alexandrin collected 3190 from pot
+*** SUMMARY ***
+Total pot 3190 | No rake
+Board: [7d Jc Td]
+Seat 7: alexandrin showed [7c 7s] and won 3190 with Trips of 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #699863851436343512-21-1468072390 - Holdem no limit (15/75/150) - 2016/07/09 13:53:10 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #1 is the button
+Seat 1: NANO555 (2500)
+Seat 2: fred01170 (11805)
+Seat 3: purpplehaze (3715)
+Seat 4: gostryder (5575)
+Seat 5: zagagizagaga (2155)
+Seat 6: manggy94 (5335)
+Seat 7: alexandrin (3630)
+Seat 8: magda57 (4145)
+*** ANTE/BLINDS ***
+fred01170 posts ante 15
+purpplehaze posts ante 15
+NANO555 posts ante 15
+gostryder posts ante 15
+zagagizagaga posts ante 15
+manggy94 posts ante 15
+alexandrin posts ante 15
+magda57 posts ante 15
+fred01170 posts small blind 75
+purpplehaze posts big blind 150
+Dealt to manggy94 [7h Jd]
+*** PRE-FLOP *** 
+gostryder folds
+zagagizagaga folds
+manggy94 folds
+alexandrin folds
+magda57 folds
+NANO555 folds
+fred01170 raises 11640 to 11790 and is all-in
+purpplehaze calls 3550 and is all-in
+*** FLOP *** [5c 3c 5d]
+*** TURN *** [5c 3c 5d][3d]
+*** RIVER *** [5c 3c 5d 3d][2s]
+*** SHOW DOWN ***
+purpplehaze shows [7s Tc] (Two pairs : 5 and 3)
+fred01170 shows [4h 4c] (Two pairs : 5 and 4)
+fred01170 collected 15610 from pot
+*** SUMMARY ***
+Total pot 15610 | No rake
+Board: [5c 3c 5d 3d 2s]
+Seat 2: fred01170 (small blind) showed [4h 4c] and won 15610 with Two pairs : 5 and 4
+Seat 3: purpplehaze (big blind) showed [7s Tc] and lost with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #699863851436343512-22-1468072437 - Holdem no limit (15/75/150) - 2016/07/09 13:53:57 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #2 is the button
+Seat 1: NANO555 (2485)
+Seat 2: fred01170 (15610)
+Seat 4: gostryder (5560)
+Seat 5: zagagizagaga (2140)
+Seat 6: manggy94 (5320)
+Seat 7: alexandrin (3615)
+Seat 8: magda57 (4130)
+*** ANTE/BLINDS ***
+gostryder posts ante 15
+NANO555 posts ante 15
+fred01170 posts ante 15
+zagagizagaga posts ante 15
+manggy94 posts ante 15
+alexandrin posts ante 15
+magda57 posts ante 15
+gostryder posts big blind 150
+Dealt to manggy94 [2h 5h]
+*** PRE-FLOP *** 
+zagagizagaga raises 225 to 375
+manggy94 folds
+alexandrin folds
+magda57 calls 375
+NANO555 calls 375
+fred01170 folds
+gostryder folds
+*** FLOP *** [7s 6h Td]
+zagagizagaga bets 1750 and is all-in
+magda57 folds
+NANO555 calls 1750
+*** TURN *** [7s 6h Td][7c]
+*** RIVER *** [7s 6h Td 7c][3s]
+*** SHOW DOWN ***
+NANO555 shows [Qs 9s] (One pair : 7)
+zagagizagaga shows [2d Ad] (One pair : 7)
+zagagizagaga collected 4880 from pot
+*** SUMMARY ***
+Total pot 4880 | No rake
+Board: [7s 6h Td 7c 3s]
+Seat 1: NANO555 showed [Qs 9s] and lost with One pair : 7
+Seat 5: zagagizagaga showed [2d Ad] and won 4880 with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #699863851436343512-23-1468072803 - Holdem no limit (20/100/200) - 2016/07/09 14:00:03 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #3 is the button
+Seat 1: NANO555 (345)
+Seat 2: fred01170 (15595)
+Seat 3: Poopip (3000)
+Seat 4: gostryder (5395)
+Seat 5: zagagizagaga (4880)
+Seat 6: manggy94 (5305)
+Seat 7: alexandrin (3600)
+Seat 8: magda57 (3740)
+*** ANTE/BLINDS ***
+gostryder posts ante 20
+zagagizagaga posts ante 20
+NANO555 posts ante 20
+fred01170 posts ante 20
+manggy94 posts ante 20
+alexandrin posts ante 20
+magda57 posts ante 20
+gostryder posts small blind 100
+zagagizagaga posts big blind 200
+Dealt to manggy94 [9c Ac]
+*** PRE-FLOP *** 
+manggy94 calls 200
+alexandrin calls 200
+magda57 folds
+NANO555 raises 125 to 325 and is all-in
+fred01170 folds
+gostryder folds
+zagagizagaga raises 4535 to 4860 and is all-in
+manggy94 calls 4660
+alexandrin folds
+*** FLOP *** [6h 2h 4d]
+*** TURN *** [6h 2h 4d][3d]
+*** RIVER *** [6h 2h 4d 3d][6d]
+*** SHOW DOWN ***
+NANO555 shows [Tc Ts] (Two pairs : Tens and 6)
+manggy94 shows [9c Ac] (One pair : 6)
+zagagizagaga shows [Qc Qh] (Two pairs : Queens and 6)
+zagagizagaga collected 10485 from pot
+*** SUMMARY ***
+Total pot 10485 | No rake
+Board: [6h 2h 4d 3d 6d]
+Seat 1: NANO555 showed [Tc Ts] and lost with Two pairs : Tens and 6
+Seat 5: zagagizagaga (big blind) showed [Qc Qh] and won 10485 with Two pairs : Queens and 6
+Seat 6: manggy94 showed [9c Ac] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #699863851436343512-24-1468072872 - Holdem no limit (20/100/200) - 2016/07/09 14:01:12 UTC
+Table: 'Freeroll(162949751)#215' 8-max (real money) Seat #4 is the button
+Seat 2: fred01170 (15575)
+Seat 3: Poopip (3000)
+Seat 4: gostryder (5275)
+Seat 5: zagagizagaga (10485)
+Seat 6: manggy94 (425)
+Seat 7: alexandrin (3380)
+Seat 8: magda57 (3720)
+*** ANTE/BLINDS ***
+zagagizagaga posts ante 20
+manggy94 posts ante 20
+fred01170 posts ante 20
+Poopip posts ante 20
+gostryder posts ante 20
+alexandrin posts ante 20
+magda57 posts ante 20
+zagagizagaga posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [7c 5d]
+*** PRE-FLOP *** 
+alexandrin folds
+magda57 calls 200
+fred01170 raises 300 to 500
+Poopip folds
+gostryder folds
+zagagizagaga raises 600 to 1100
+manggy94 calls 205 and is all-in
+magda57 calls 900
+fred01170 calls 600
+*** FLOP *** [9d 2d Kh]
+zagagizagaga checks
+magda57 checks
+fred01170 bets 14455 and is all-in
+zagagizagaga folds
+magda57 folds
+*** TURN *** [9d 2d Kh][Ac]
+*** RIVER *** [9d 2d Kh Ac][8s]
+*** SHOW DOWN ***
+manggy94 shows [7c 5d] (High card : Ace)
+fred01170 shows [4s As] (One pair : Aces)
+fred01170 collected 18300 from pot
+*** SUMMARY ***
+Total pot 18300 | No rake
+Board: [9d 2d Kh Ac 8s]
+Seat 2: fred01170 showed [4s As] and won 18300 with One pair : Aces
+Seat 6: manggy94 (big blind) showed [7c 5d] and lost with High card : Ace
+
+

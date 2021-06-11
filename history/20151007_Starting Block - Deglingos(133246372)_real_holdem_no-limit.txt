@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #572288810050650113-1-1444236688 - Holdem no limit (10/20) - 2015/10/07 16:51:28 UTC
+Table: 'Starting Block - Deglingos(133246372)#0' 10-max (real money) Seat #4 is the button
+Seat 1: bad boy fu (500)
+Seat 2: LaaZa62 (500)
+Seat 3: manggy94 (500)
+Seat 4: MATIVANAO (500)
+Seat 5: illusionplay (500)
+Seat 6: Bou7a77 (500)
+Seat 7: PAPYBEN91 (500)
+Seat 8: Mata-dor (500)
+Seat 9: tifosit (500)
+Seat 10: Gregory19834 (500)
+*** ANTE/BLINDS ***
+illusionplay posts small blind 10
+Bou7a77 posts big blind 20
+Dealt to manggy94 [5s Kh]
+*** PRE-FLOP *** 
+PAPYBEN91 raises 480 to 500 and is all-in
+Mata-dor folds
+tifosit calls 500 and is all-in
+Gregory19834 calls 500 and is all-in
+bad boy fu folds
+LaaZa62 calls 500 and is all-in
+manggy94 folds
+MATIVANAO folds
+illusionplay calls 490 and is all-in
+Bou7a77 calls 480 and is all-in
+*** FLOP *** [5c Qh 9s]
+*** TURN *** [5c Qh 9s][4h]
+*** RIVER *** [5c Qh 9s 4h][2h]
+*** SHOW DOWN ***
+LaaZa62 shows [2c Kc] (One pair : 2)
+illusionplay shows [7c 5d] (One pair : 5)
+Bou7a77 shows [8d Qc] (One pair : Queens)
+tifosit shows [As 8s] (High card : Ace)
+Gregory19834 shows [3h 2d] (One pair : 2)
+PAPYBEN91 shows [Ac 3s] (Straight 5 high)
+PAPYBEN91 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [5c Qh 9s 4h 2h]
+Seat 2: LaaZa62 showed [2c Kc] and lost with One pair : 2
+Seat 5: illusionplay (small blind) showed [7c 5d] and lost with One pair : 5
+Seat 6: Bou7a77 (big blind) showed [8d Qc] and lost with One pair : Queens
+Seat 7: PAPYBEN91 showed [Ac 3s] and won 3000 with Straight 5 high
+Seat 9: tifosit showed [As 8s] and lost with High card : Ace
+Seat 10: Gregory19834 showed [3h 2d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #572288810050650113-2-1444236730 - Holdem no limit (10/20) - 2015/10/07 16:52:10 UTC
+Table: 'Starting Block - Deglingos(133246372)#0' 10-max (real money) Seat #5 is the button
+Seat 1: bad boy fu (500)
+Seat 3: manggy94 (500)
+Seat 4: MATIVANAO (500)
+Seat 7: PAPYBEN91 (3000)
+Seat 8: Mata-dor (500)
+*** ANTE/BLINDS ***
+PAPYBEN91 posts big blind 20
+Dealt to manggy94 [9s Qh]
+*** PRE-FLOP *** 
+Mata-dor folds
+bad boy fu folds
+manggy94 calls 20
+MATIVANAO calls 20
+PAPYBEN91 raises 2980 to 3000 and is all-in
+manggy94 folds
+MATIVANAO folds
+PAPYBEN91 collected 3040 from pot
+*** SUMMARY ***
+Total pot 3040 | No rake
+Seat 7: PAPYBEN91 (big blind) won 3040
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #572288810050650113-3-1444236773 - Holdem no limit (10/20) - 2015/10/07 16:52:53 UTC
+Table: 'Starting Block - Deglingos(133246372)#0' 10-max (real money) Seat #6 is the button
+Seat 1: bad boy fu (500)
+Seat 3: manggy94 (480)
+Seat 4: MATIVANAO (480)
+Seat 7: PAPYBEN91 (3040)
+Seat 8: Mata-dor (500)
+*** ANTE/BLINDS ***
+PAPYBEN91 posts small blind 10
+Mata-dor posts big blind 20
+Dealt to manggy94 [Kh Jh]
+*** PRE-FLOP *** 
+bad boy fu raises 480 to 500 and is all-in
+manggy94 calls 480 and is all-in
+MATIVANAO folds
+PAPYBEN91 calls 490
+Mata-dor folds
+*** FLOP *** [7h 8c Jc]
+*** TURN *** [7h 8c Jc][7d]
+*** RIVER *** [7h 8c Jc 7d][Qc]
+*** SHOW DOWN ***
+manggy94 shows [Kh Jh] (Two pairs : Jacks and 7)
+PAPYBEN91 shows [5s Ks] (One pair : 7)
+bad boy fu shows [Ac 6c] (Flush Ace high)
+bad boy fu collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [7h 8c Jc 7d Qc]
+Seat 1: bad boy fu showed [Ac 6c] and won 1500 with Flush Ace high
+Seat 3: manggy94 showed [Kh Jh] and lost with Two pairs : Jacks and 7
+Seat 7: PAPYBEN91 (small blind) showed [5s Ks] and lost with One pair : 7
+
+

@@ -1,0 +1,356 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #726396879490777207-6-1474124834 - Holdem no limit (20/40) - 2016/09/17 15:07:14 UTC
+Table: 'Freeroll(169127453)#118' 8-max (real money) Seat #3 is the button
+Seat 1: alaj (3000)
+Seat 2: fabul0usss (2700)
+Seat 3: raptor63 (12065)
+Seat 4: reyzon (2190)
+Seat 5: Bat746 (4060)
+Seat 6: guix du44 (8940)
+Seat 7: manggy94 (3000)
+Seat 8: franck3839 (6045)
+*** ANTE/BLINDS ***
+reyzon posts small blind 20
+Bat746 posts big blind 40
+Dealt to manggy94 [3h 9h]
+*** PRE-FLOP *** 
+guix du44 calls 40
+manggy94 folds
+franck3839 calls 40
+alaj calls 40
+fabul0usss folds
+raptor63 calls 40
+reyzon calls 20
+Bat746 checks
+*** FLOP *** [7d Ac Qh]
+reyzon checks
+Bat746 bets 40
+guix du44 calls 40
+franck3839 calls 40
+alaj calls 40
+raptor63 folds
+reyzon folds
+*** TURN *** [7d Ac Qh][7s]
+Bat746 checks
+guix du44 checks
+franck3839 checks
+alaj checks
+*** RIVER *** [7d Ac Qh 7s][4d]
+Bat746 bets 400
+guix du44 folds
+franck3839 folds
+alaj folds
+Bat746 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [7d Ac Qh 7s 4d]
+Seat 5: Bat746 (big blind) won 800
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #726396879490777207-7-1474124917 - Holdem no limit (20/40) - 2016/09/17 15:08:37 UTC
+Table: 'Freeroll(169127453)#118' 8-max (real money) Seat #4 is the button
+Seat 1: alaj (2920)
+Seat 2: fabul0usss (2700)
+Seat 3: raptor63 (12025)
+Seat 4: reyzon (2150)
+Seat 5: Bat746 (4380)
+Seat 6: guix du44 (8860)
+Seat 7: manggy94 (3000)
+Seat 8: franck3839 (5965)
+*** ANTE/BLINDS ***
+Bat746 posts small blind 20
+guix du44 posts big blind 40
+Dealt to manggy94 [Ts 4d]
+*** PRE-FLOP *** 
+manggy94 folds
+franck3839 folds
+alaj folds
+fabul0usss folds
+raptor63 folds
+reyzon calls 40
+Bat746 calls 20
+guix du44 checks
+*** FLOP *** [8h 8s 5c]
+Bat746 checks
+guix du44 bets 60
+reyzon folds
+Bat746 calls 60
+*** TURN *** [8h 8s 5c][5d]
+Bat746 checks
+guix du44 bets 300
+Bat746 calls 300
+*** RIVER *** [8h 8s 5c 5d][9h]
+Bat746 checks
+guix du44 bets 840
+Bat746 calls 840
+*** SHOW DOWN ***
+Bat746 shows [6d 6s] (Two pairs : 8 and 6)
+guix du44 shows [5s Th] (Full of 5 and 8)
+guix du44 collected 2520 from pot
+*** SUMMARY ***
+Total pot 2520 | No rake
+Board: [8h 8s 5c 5d 9h]
+Seat 5: Bat746 (small blind) showed [6d 6s] and lost with Two pairs : 8 and 6
+Seat 6: guix du44 (big blind) showed [5s Th] and won 2520 with Full of 5 and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #726396879490777207-8-1474125006 - Holdem no limit (30/60) - 2016/09/17 15:10:06 UTC
+Table: 'Freeroll(169127453)#118' 8-max (real money) Seat #5 is the button
+Seat 1: alaj (2920)
+Seat 2: fabul0usss (2700)
+Seat 3: raptor63 (12025)
+Seat 4: reyzon (2110)
+Seat 5: Bat746 (3140)
+Seat 6: guix du44 (10140)
+Seat 7: manggy94 (3000)
+Seat 8: franck3839 (5965)
+*** ANTE/BLINDS ***
+guix du44 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [Ts 5h]
+*** PRE-FLOP *** 
+franck3839 folds
+alaj folds
+fabul0usss raises 150 to 210
+raptor63 folds
+reyzon calls 210
+Bat746 folds
+guix du44 calls 180
+manggy94 folds
+*** FLOP *** [Ac Jh 8d]
+guix du44 bets 690
+fabul0usss folds
+reyzon folds
+guix du44 collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Board: [Ac Jh 8d]
+Seat 6: guix du44 (small blind) won 1380
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #726396879490777207-9-1474125045 - Holdem no limit (30/60) - 2016/09/17 15:10:45 UTC
+Table: 'Freeroll(169127453)#118' 8-max (real money) Seat #6 is the button
+Seat 1: alaj (2920)
+Seat 2: fabul0usss (2490)
+Seat 3: raptor63 (12025)
+Seat 4: reyzon (1900)
+Seat 5: Bat746 (3140)
+Seat 6: guix du44 (10620)
+Seat 7: manggy94 (2940)
+Seat 8: franck3839 (5965)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+franck3839 posts big blind 60
+Dealt to manggy94 [7d 9s]
+*** PRE-FLOP *** 
+alaj folds
+fabul0usss raises 60 to 120
+raptor63 calls 120
+reyzon calls 120
+Bat746 folds
+guix du44 raises 480 to 600
+manggy94 folds
+franck3839 calls 540
+fabul0usss calls 480
+raptor63 folds
+reyzon calls 480
+*** FLOP *** [2s Js 7h]
+franck3839 checks
+fabul0usss checks
+reyzon checks
+guix du44 bets 2550
+franck3839 folds
+fabul0usss calls 1890 and is all-in
+reyzon folds
+*** TURN *** [2s Js 7h][4c]
+*** RIVER *** [2s Js 7h 4c][9h]
+*** SHOW DOWN ***
+fabul0usss shows [Ks Qc] (High card : King)
+guix du44 shows [Td Tc] (One pair : Tens)
+guix du44 collected 6990 from pot
+*** SUMMARY ***
+Total pot 6990 | No rake
+Board: [2s Js 7h 4c 9h]
+Seat 2: fabul0usss showed [Ks Qc] and lost with High card : King
+Seat 6: guix du44 (button) showed [Td Tc] and won 6990 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #726396879490777207-10-1474125109 - Holdem no limit (30/60) - 2016/09/17 15:11:49 UTC
+Table: 'Freeroll(169127453)#118' 8-max (real money) Seat #7 is the button
+Seat 1: alaj (2920)
+Seat 3: raptor63 (11905)
+Seat 4: reyzon (1300)
+Seat 5: Bat746 (3140)
+Seat 6: guix du44 (14460)
+Seat 7: manggy94 (2910)
+Seat 8: franck3839 (5365)
+*** ANTE/BLINDS ***
+franck3839 posts small blind 30
+alaj posts big blind 60
+Dealt to manggy94 [3s 9c]
+*** PRE-FLOP *** 
+raptor63 calls 60
+reyzon raises 1240 to 1300 and is all-in
+Bat746 folds
+guix du44 folds
+manggy94 folds
+franck3839 calls 1270
+alaj folds
+raptor63 folds
+*** FLOP *** [8d Kd Ah]
+*** TURN *** [8d Kd Ah][6c]
+*** RIVER *** [8d Kd Ah 6c][Kh]
+*** SHOW DOWN ***
+franck3839 shows [Qc Th] (One pair : Kings)
+reyzon shows [Ad Jh] (Two pairs : Aces and Kings)
+reyzon collected 2720 from pot
+*** SUMMARY ***
+Total pot 2720 | No rake
+Board: [8d Kd Ah 6c Kh]
+Seat 4: reyzon showed [Ad Jh] and won 2720 with Two pairs : Aces and Kings
+Seat 8: franck3839 (small blind) showed [Qc Th] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #726396879490777207-11-1474125156 - Holdem no limit (40/80) - 2016/09/17 15:12:36 UTC
+Table: 'Freeroll(169127453)#118' 8-max (real money) Seat #8 is the button
+Seat 1: alaj (2860)
+Seat 2: dinne15 (3000)
+Seat 3: raptor63 (11845)
+Seat 4: reyzon (2720)
+Seat 5: Bat746 (3140)
+Seat 6: guix du44 (14460)
+Seat 7: manggy94 (2910)
+Seat 8: franck3839 (4065)
+*** ANTE/BLINDS ***
+alaj posts small blind 40
+dinne15 posts big blind 80
+Dealt to manggy94 [Jh 6h]
+*** PRE-FLOP *** 
+raptor63 raises 80 to 160
+reyzon folds
+Bat746 folds
+guix du44 folds
+manggy94 calls 160
+franck3839 raises 320 to 480
+alaj folds
+dinne15 folds
+raptor63 calls 320
+manggy94 calls 320
+*** FLOP *** [Qd Td Ac]
+raptor63 checks
+manggy94 checks
+franck3839 bets 780
+raptor63 calls 780
+manggy94 folds
+*** TURN *** [Qd Td Ac][8s]
+raptor63 checks
+franck3839 checks
+*** RIVER *** [Qd Td Ac 8s][9s]
+raptor63 bets 360
+franck3839 calls 360
+*** SHOW DOWN ***
+raptor63 shows [Kh 9h] (One pair : 9)
+franck3839 shows [Kc Qs] (One pair : Queens)
+franck3839 collected 3840 from pot
+*** SUMMARY ***
+Total pot 3840 | No rake
+Board: [Qd Td Ac 8s 9s]
+Seat 3: raptor63 showed [Kh 9h] and lost with One pair : 9
+Seat 8: franck3839 (button) showed [Kc Qs] and won 3840 with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #726396879490777207-12-1474125271 - Holdem no limit (40/80) - 2016/09/17 15:14:31 UTC
+Table: 'Freeroll(169127453)#118' 8-max (real money) Seat #1 is the button
+Seat 1: alaj (2820)
+Seat 2: dinne15 (2920)
+Seat 3: raptor63 (10225)
+Seat 4: reyzon (2720)
+Seat 5: Bat746 (3140)
+Seat 6: guix du44 (14460)
+Seat 7: manggy94 (2430)
+Seat 8: franck3839 (6285)
+*** ANTE/BLINDS ***
+dinne15 posts small blind 40
+raptor63 posts big blind 80
+Dealt to manggy94 [Jc 3h]
+*** PRE-FLOP *** 
+reyzon raises 120 to 200
+Bat746 folds
+guix du44 calls 200
+manggy94 folds
+franck3839 calls 200
+alaj folds
+dinne15 folds
+raptor63 calls 120
+*** FLOP *** [6s Js Ad]
+raptor63 checks
+reyzon checks
+guix du44 checks
+franck3839 bets 840
+raptor63 folds
+reyzon raises 1680 to 2520 and is all-in
+guix du44 folds
+franck3839 calls 1680
+*** TURN *** [6s Js Ad][8s]
+*** RIVER *** [6s Js Ad 8s][8h]
+*** SHOW DOWN ***
+franck3839 shows [4s Ah] (Two pairs : Aces and 8)
+reyzon shows [As 5s] (Flush Ace high)
+reyzon collected 5880 from pot
+*** SUMMARY ***
+Total pot 5880 | No rake
+Board: [6s Js Ad 8s 8h]
+Seat 4: reyzon showed [As 5s] and won 5880 with Flush Ace high
+Seat 8: franck3839 showed [4s Ah] and lost with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #726396879490777207-13-1474125335 - Holdem no limit (60/120) - 2016/09/17 15:15:35 UTC
+Table: 'Freeroll(169127453)#118' 8-max (real money) Seat #2 is the button
+Seat 1: alaj (2820)
+Seat 2: dinne15 (2880)
+Seat 3: raptor63 (10025)
+Seat 4: reyzon (5880)
+Seat 5: Bat746 (3140)
+Seat 6: guix du44 (14260)
+Seat 7: manggy94 (2430)
+Seat 8: franck3839 (3565)
+*** ANTE/BLINDS ***
+raptor63 posts small blind 60
+reyzon posts big blind 120
+Dealt to manggy94 [2s As]
+*** PRE-FLOP *** 
+Bat746 calls 120
+guix du44 calls 120
+manggy94 raises 120 to 240
+franck3839 folds
+alaj calls 240
+dinne15 folds
+raptor63 calls 180
+reyzon calls 120
+Bat746 calls 120
+guix du44 calls 120
+*** FLOP *** [Kc 6c 5d]
+raptor63 checks
+reyzon checks
+Bat746 checks
+guix du44 bets 1440
+manggy94 raises 750 to 2190 and is all-in
+alaj raises 390 to 2580 and is all-in
+raptor63 folds
+reyzon folds
+Bat746 folds
+guix du44 calls 1140
+*** TURN *** [Kc 6c 5d][8s]
+*** RIVER *** [Kc 6c 5d 8s][4d]
+*** SHOW DOWN ***
+alaj shows [Jc 8c] (One pair : 8)
+manggy94 shows [2s As] (High card : Ace)
+guix du44 shows [6d 5s] (Two pairs : 6 and 5)
+guix du44 collected 8790 from pot
+*** SUMMARY ***
+Total pot 8790 | No rake
+Board: [Kc 6c 5d 8s 4d]
+Seat 1: alaj showed [Jc 8c] and lost with One pair : 8
+Seat 6: guix du44 showed [6d 5s] and won 8790 with Two pairs : 6 and 5
+Seat 7: manggy94 showed [2s As] and lost with High card : Ace
+
+

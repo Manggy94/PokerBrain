@@ -1,0 +1,49 @@
+Winamax Poker - Tournament "Hit&Run Ticket 10€" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #690988739605823491-42-1466343584 - Holdem no limit (75/400/800) - 2016/06/19 13:39:44 UTC
+Table: 'Hit&Run Ticket 10€(160883353)#002' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (9000)
+Seat 2: Fab_Oz (23872)
+Seat 3: -TuDoBeM- (13726)
+Seat 4: lunApAblo (26911)
+Seat 6: toto-yoyo (22862)
+Seat 7: jojolesage (10287)
+Seat 8: NounoursBX (8940)
+*** ANTE/BLINDS ***
+lunApAblo posts ante 75
+toto-yoyo posts ante 75
+manggy94 posts ante 75
+Fab_Oz posts ante 75
+-TuDoBeM- posts ante 75
+jojolesage posts ante 75
+NounoursBX posts ante 75
+lunApAblo posts small blind 400
+toto-yoyo posts big blind 800
+Dealt to manggy94 [Jc Tc]
+*** PRE-FLOP *** 
+jojolesage folds
+NounoursBX folds
+manggy94 calls 800
+Fab_Oz folds
+-TuDoBeM- folds
+lunApAblo calls 400
+toto-yoyo checks
+*** FLOP *** [6h Td 7h]
+lunApAblo checks
+toto-yoyo bets 1200
+manggy94 calls 1200
+lunApAblo folds
+*** TURN *** [6h Td 7h][2d]
+toto-yoyo bets 800
+manggy94 raises 6125 to 6925 and is all-in
+toto-yoyo calls 6125
+*** RIVER *** [6h Td 7h 2d][3d]
+*** SHOW DOWN ***
+manggy94 shows [Jc Tc] (One pair : Tens)
+toto-yoyo shows [7d 4d] (Flush Ten high)
+toto-yoyo collected 19175 from pot
+*** SUMMARY ***
+Total pot 19175 | No rake
+Board: [6h Td 7h 2d 3d]
+Seat 1: manggy94 showed [Jc Tc] and lost with One pair : Tens
+Seat 6: toto-yoyo (big blind) showed [7d 4d] and won 19175 with Flush Ten high
+
+

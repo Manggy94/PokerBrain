@@ -1,0 +1,956 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #697449362556452865-1-1466496673 - Holdem no limit (10/20) - 2016/06/21 08:11:13 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #5 is the button
+Seat 1: sylv06140 (500)
+Seat 2: tchilou84 (500)
+Seat 3: michca73 (500)
+Seat 4: NOUNOURS 80 (500)
+Seat 5: dezou29 (500)
+Seat 6: manggy94 (500)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+sylv06140 posts big blind 20
+Dealt to manggy94 [Kd Kh]
+*** PRE-FLOP *** 
+tchilou84 folds
+michca73 folds
+NOUNOURS 80 calls 20
+dezou29 folds
+manggy94 raises 230 to 250
+sylv06140 folds
+NOUNOURS 80 folds
+manggy94 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 6: manggy94 (small blind) won 290
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #697449362556452865-2-1466496696 - Holdem no limit (10/20) - 2016/06/21 08:11:36 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #6 is the button
+Seat 1: sylv06140 (480)
+Seat 2: tchilou84 (500)
+Seat 3: michca73 (500)
+Seat 4: NOUNOURS 80 (480)
+Seat 5: dezou29 (500)
+Seat 6: manggy94 (540)
+*** ANTE/BLINDS ***
+sylv06140 posts small blind 10
+tchilou84 posts big blind 20
+Dealt to manggy94 [Ad Jc]
+*** PRE-FLOP *** 
+michca73 folds
+NOUNOURS 80 folds
+dezou29 folds
+manggy94 raises 130 to 150
+sylv06140 folds
+tchilou84 calls 130
+*** FLOP *** [8d Ac Jh]
+tchilou84 bets 350 and is all-in
+manggy94 calls 350
+*** TURN *** [8d Ac Jh][Kh]
+*** RIVER *** [8d Ac Jh Kh][6c]
+*** SHOW DOWN ***
+tchilou84 shows [Ah Jd] (Two pairs : Aces and Jacks)
+manggy94 shows [Ad Jc] (Two pairs : Aces and Jacks)
+manggy94 collected 505 from pot
+tchilou84 collected 505 from pot
+*** SUMMARY ***
+Total pot 1010 | No rake
+Board: [8d Ac Jh Kh 6c]
+Seat 2: tchilou84 (big blind) showed [Ah Jd] and won 505 with Two pairs : Aces and Jacks
+Seat 6: manggy94 (button) showed [Ad Jc] and won 505 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #697449362556452865-3-1466496722 - Holdem no limit (10/20) - 2016/06/21 08:12:02 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #1 is the button
+Seat 1: sylv06140 (470)
+Seat 2: tchilou84 (505)
+Seat 3: michca73 (500)
+Seat 4: NOUNOURS 80 (480)
+Seat 5: dezou29 (500)
+Seat 6: manggy94 (545)
+*** ANTE/BLINDS ***
+tchilou84 posts small blind 10
+michca73 posts big blind 20
+Dealt to manggy94 [7h 2c]
+*** PRE-FLOP *** 
+NOUNOURS 80 calls 20
+dezou29 raises 80 to 100
+manggy94 folds
+sylv06140 raises 370 to 470 and is all-in
+tchilou84 folds
+michca73 folds
+NOUNOURS 80 folds
+dezou29 calls 370
+*** FLOP *** [2h Td Jc]
+*** TURN *** [2h Td Jc][9c]
+*** RIVER *** [2h Td Jc 9c][3h]
+*** SHOW DOWN ***
+sylv06140 shows [Qs Qc] (One pair : Queens)
+dezou29 shows [Kd Ks] (One pair : Kings)
+dezou29 collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Board: [2h Td Jc 9c 3h]
+Seat 1: sylv06140 (button) showed [Qs Qc] and lost with One pair : Queens
+Seat 5: dezou29 showed [Kd Ks] and won 990 with One pair : Kings
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #697449362556452865-4-1466496760 - Holdem no limit (10/20) - 2016/06/21 08:12:40 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #2 is the button
+Seat 2: tchilou84 (495)
+Seat 3: michca73 (480)
+Seat 4: NOUNOURS 80 (460)
+Seat 5: dezou29 (1020)
+Seat 6: manggy94 (545)
+*** ANTE/BLINDS ***
+michca73 posts small blind 10
+NOUNOURS 80 posts big blind 20
+Dealt to manggy94 [5s Kh]
+*** PRE-FLOP *** 
+dezou29 raises 20 to 40
+manggy94 folds
+tchilou84 calls 40
+michca73 folds
+NOUNOURS 80 calls 20
+*** FLOP *** [8d 8s Td]
+NOUNOURS 80 checks
+dezou29 checks
+tchilou84 bets 130
+NOUNOURS 80 folds
+dezou29 calls 130
+*** TURN *** [8d 8s Td][2d]
+dezou29 checks
+tchilou84 bets 195
+dezou29 calls 195
+*** RIVER *** [8d 8s Td 2d][3c]
+dezou29 checks
+tchilou84 checks
+*** SHOW DOWN ***
+dezou29 shows [5h 5d] (Two pairs : 8 and 5)
+tchilou84 shows [Tc Qh] (Two pairs : Tens and 8)
+tchilou84 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [8d 8s Td 2d 3c]
+Seat 2: tchilou84 (button) showed [Tc Qh] and won 780 with Two pairs : Tens and 8
+Seat 5: dezou29 showed [5h 5d] and lost with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #697449362556452865-5-1466496809 - Holdem no limit (10/20) - 2016/06/21 08:13:29 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #3 is the button
+Seat 2: tchilou84 (910)
+Seat 3: michca73 (470)
+Seat 4: NOUNOURS 80 (420)
+Seat 5: dezou29 (655)
+Seat 6: manggy94 (545)
+*** ANTE/BLINDS ***
+NOUNOURS 80 posts small blind 10
+dezou29 posts big blind 20
+Dealt to manggy94 [7s 5s]
+*** PRE-FLOP *** 
+manggy94 folds
+tchilou84 folds
+michca73 folds
+NOUNOURS 80 calls 10
+dezou29 checks
+*** FLOP *** [8s Th 9s]
+NOUNOURS 80 checks
+dezou29 checks
+*** TURN *** [8s Th 9s][5c]
+NOUNOURS 80 bets 40
+dezou29 calls 40
+*** RIVER *** [8s Th 9s 5c][Ks]
+NOUNOURS 80 bets 180
+dezou29 folds
+NOUNOURS 80 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [8s Th 9s 5c Ks]
+Seat 4: NOUNOURS 80 (small blind) won 300
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #697449362556452865-6-1466496845 - Holdem no limit (10/20) - 2016/06/21 08:14:05 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #4 is the button
+Seat 2: tchilou84 (910)
+Seat 3: michca73 (470)
+Seat 4: NOUNOURS 80 (480)
+Seat 5: dezou29 (595)
+Seat 6: manggy94 (545)
+*** ANTE/BLINDS ***
+dezou29 posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [Kd Tc]
+*** PRE-FLOP *** 
+tchilou84 calls 20
+michca73 folds
+NOUNOURS 80 folds
+dezou29 calls 10
+manggy94 checks
+*** FLOP *** [4s 7h As]
+dezou29 bets 20
+manggy94 folds
+tchilou84 calls 20
+*** TURN *** [4s 7h As][5d]
+dezou29 bets 20
+tchilou84 raises 140 to 160
+dezou29 folds
+tchilou84 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [4s 7h As 5d]
+Seat 2: tchilou84 won 280
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #697449362556452865-7-1466496883 - Holdem no limit (15/30) - 2016/06/21 08:14:43 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #5 is the button
+Seat 2: tchilou84 (990)
+Seat 3: michca73 (470)
+Seat 4: NOUNOURS 80 (480)
+Seat 5: dezou29 (535)
+Seat 6: manggy94 (525)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+tchilou84 posts big blind 30
+Dealt to manggy94 [Th 5c]
+*** PRE-FLOP *** 
+michca73 folds
+NOUNOURS 80 calls 30
+dezou29 calls 30
+manggy94 calls 15
+tchilou84 checks
+*** FLOP *** [Ts Qs 8h]
+manggy94 checks
+tchilou84 checks
+NOUNOURS 80 bets 90
+dezou29 folds
+manggy94 folds
+tchilou84 folds
+NOUNOURS 80 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Ts Qs 8h]
+Seat 4: NOUNOURS 80 won 210
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #697449362556452865-8-1466496939 - Holdem no limit (15/30) - 2016/06/21 08:15:39 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #6 is the button
+Seat 2: tchilou84 (960)
+Seat 3: michca73 (470)
+Seat 4: NOUNOURS 80 (570)
+Seat 5: dezou29 (505)
+Seat 6: manggy94 (495)
+*** ANTE/BLINDS ***
+tchilou84 posts small blind 15
+michca73 posts big blind 30
+Dealt to manggy94 [Qd 7d]
+*** PRE-FLOP *** 
+NOUNOURS 80 folds
+dezou29 folds
+manggy94 calls 30
+tchilou84 folds
+michca73 checks
+*** FLOP *** [Th 9h 2h]
+michca73 checks
+manggy94 bets 150
+michca73 folds
+manggy94 collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [Th 9h 2h]
+Seat 6: manggy94 (button) won 225
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #697449362556452865-9-1466497004 - Holdem no limit (15/30) - 2016/06/21 08:16:44 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #2 is the button
+Seat 2: tchilou84 (945)
+Seat 3: michca73 (440)
+Seat 4: NOUNOURS 80 (570)
+Seat 5: dezou29 (505)
+Seat 6: manggy94 (540)
+*** ANTE/BLINDS ***
+michca73 posts small blind 15
+NOUNOURS 80 posts big blind 30
+Dealt to manggy94 [Jc 5s]
+*** PRE-FLOP *** 
+dezou29 raises 30 to 60
+manggy94 folds
+tchilou84 folds
+michca73 folds
+NOUNOURS 80 raises 135 to 195
+dezou29 calls 135
+*** FLOP *** [3c Qs Ad]
+NOUNOURS 80 checks
+dezou29 checks
+*** TURN *** [3c Qs Ad][3h]
+NOUNOURS 80 bets 30
+dezou29 calls 30
+*** RIVER *** [3c Qs Ad 3h][7c]
+NOUNOURS 80 bets 345 and is all-in
+dezou29 folds
+NOUNOURS 80 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [3c Qs Ad 3h 7c]
+Seat 4: NOUNOURS 80 (big blind) won 810
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #697449362556452865-10-1466497039 - Holdem no limit (20/40) - 2016/06/21 08:17:19 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #3 is the button
+Seat 2: tchilou84 (945)
+Seat 3: michca73 (425)
+Seat 4: NOUNOURS 80 (810)
+Seat 5: dezou29 (280)
+Seat 6: manggy94 (540)
+*** ANTE/BLINDS ***
+NOUNOURS 80 posts small blind 20
+dezou29 posts big blind 40
+Dealt to manggy94 [2c Ah]
+*** PRE-FLOP *** 
+manggy94 calls 40
+tchilou84 calls 40
+michca73 folds
+NOUNOURS 80 folds
+dezou29 raises 240 to 280 and is all-in
+manggy94 calls 240
+tchilou84 folds
+*** FLOP *** [6c 6d 2s]
+*** TURN *** [6c 6d 2s][Kc]
+*** RIVER *** [6c 6d 2s Kc][3c]
+*** SHOW DOWN ***
+manggy94 shows [2c Ah] (Two pairs : 6 and 2)
+dezou29 shows [7c 7s] (Two pairs : 7 and 6)
+dezou29 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [6c 6d 2s Kc 3c]
+Seat 5: dezou29 (big blind) showed [7c 7s] and won 620 with Two pairs : 7 and 6
+Seat 6: manggy94 showed [2c Ah] and lost with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #697449362556452865-11-1466497074 - Holdem no limit (20/40) - 2016/06/21 08:17:54 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #4 is the button
+Seat 2: tchilou84 (905)
+Seat 3: michca73 (425)
+Seat 4: NOUNOURS 80 (790)
+Seat 5: dezou29 (620)
+Seat 6: manggy94 (260)
+*** ANTE/BLINDS ***
+dezou29 posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [4s Ad]
+*** PRE-FLOP *** 
+tchilou84 calls 40
+michca73 folds
+NOUNOURS 80 calls 40
+dezou29 folds
+manggy94 checks
+*** FLOP *** [Jc 4c 8d]
+manggy94 bets 40
+tchilou84 folds
+NOUNOURS 80 calls 40
+*** TURN *** [Jc 4c 8d][Jd]
+manggy94 checks
+NOUNOURS 80 checks
+*** RIVER *** [Jc 4c 8d Jd][Kd]
+manggy94 checks
+NOUNOURS 80 checks
+*** SHOW DOWN ***
+manggy94 shows [4s Ad] (Two pairs : Jacks and 4)
+NOUNOURS 80 shows [6c 6h] (Two pairs : Jacks and 6)
+NOUNOURS 80 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [Jc 4c 8d Jd Kd]
+Seat 4: NOUNOURS 80 (button) showed [6c 6h] and won 220 with Two pairs : Jacks and 6
+Seat 6: manggy94 (big blind) showed [4s Ad] and lost with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #697449362556452865-12-1466497104 - Holdem no limit (20/40) - 2016/06/21 08:18:24 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #5 is the button
+Seat 2: tchilou84 (865)
+Seat 3: michca73 (425)
+Seat 4: NOUNOURS 80 (930)
+Seat 5: dezou29 (600)
+Seat 6: manggy94 (180)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+tchilou84 posts big blind 40
+Dealt to manggy94 [Tc 8h]
+*** PRE-FLOP *** 
+michca73 raises 160 to 200
+NOUNOURS 80 folds
+dezou29 folds
+manggy94 folds
+tchilou84 calls 160
+*** FLOP *** [Ks 8s 5c]
+tchilou84 checks
+michca73 bets 225 and is all-in
+tchilou84 folds
+michca73 collected 645 from pot
+*** SUMMARY ***
+Total pot 645 | No rake
+Board: [Ks 8s 5c]
+Seat 3: michca73 won 645
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #697449362556452865-13-1466497151 - Holdem no limit (20/40) - 2016/06/21 08:19:11 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #6 is the button
+Seat 2: tchilou84 (665)
+Seat 3: michca73 (645)
+Seat 4: NOUNOURS 80 (930)
+Seat 5: dezou29 (600)
+Seat 6: manggy94 (160)
+*** ANTE/BLINDS ***
+tchilou84 posts small blind 20
+michca73 posts big blind 40
+Dealt to manggy94 [2c 9d]
+*** PRE-FLOP *** 
+NOUNOURS 80 calls 40
+dezou29 folds
+manggy94 folds
+tchilou84 folds
+michca73 checks
+*** FLOP *** [5c 8s Kd]
+michca73 checks
+NOUNOURS 80 bets 40
+michca73 calls 40
+*** TURN *** [5c 8s Kd][Qc]
+michca73 checks
+NOUNOURS 80 bets 40
+michca73 calls 40
+*** RIVER *** [5c 8s Kd Qc][7s]
+michca73 bets 130
+NOUNOURS 80 calls 130
+*** SHOW DOWN ***
+NOUNOURS 80 shows [Jh Js] (One pair : Jacks)
+michca73 shows [7c 8h] (Two pairs : 8 and 7)
+michca73 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [5c 8s Kd Qc 7s]
+Seat 3: michca73 (big blind) showed [7c 8h] and won 520 with Two pairs : 8 and 7
+Seat 4: NOUNOURS 80 showed [Jh Js] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #697449362556452865-14-1466497197 - Holdem no limit (20/40) - 2016/06/21 08:19:57 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #2 is the button
+Seat 2: tchilou84 (645)
+Seat 3: michca73 (915)
+Seat 4: NOUNOURS 80 (680)
+Seat 5: dezou29 (600)
+Seat 6: manggy94 (160)
+*** ANTE/BLINDS ***
+michca73 posts small blind 20
+NOUNOURS 80 posts big blind 40
+Dealt to manggy94 [Qc Ks]
+*** PRE-FLOP *** 
+dezou29 folds
+manggy94 raises 120 to 160 and is all-in
+tchilou84 calls 160
+michca73 folds
+NOUNOURS 80 calls 120
+*** FLOP *** [9s Qh 5s]
+NOUNOURS 80 checks
+tchilou84 bets 485 and is all-in
+NOUNOURS 80 calls 485
+*** TURN *** [9s Qh 5s][6c]
+*** RIVER *** [9s Qh 5s 6c][Ts]
+*** SHOW DOWN ***
+tchilou84 shows [Ah Jd] (High card : Ace)
+manggy94 shows [Qc Ks] (One pair : Queens)
+NOUNOURS 80 shows [8h 6h] (One pair : 6)
+NOUNOURS 80 collected 970 from side pot 1
+manggy94 collected 500 from main pot
+*** SUMMARY ***
+Total pot 1470 | No rake
+Board: [9s Qh 5s 6c Ts]
+Seat 2: tchilou84 (button) showed [Ah Jd] and lost with High card : Ace
+Seat 4: NOUNOURS 80 (big blind) showed [8h 6h] and won 970 with One pair : 6
+Seat 6: manggy94 showed [Qc Ks] and won 500 with One pair : Queens
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #697449362556452865-15-1466497228 - Holdem no limit (30/60) - 2016/06/21 08:20:28 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #3 is the button
+Seat 3: michca73 (895)
+Seat 4: NOUNOURS 80 (1005)
+Seat 5: dezou29 (600)
+Seat 6: manggy94 (500)
+*** ANTE/BLINDS ***
+NOUNOURS 80 posts small blind 30
+dezou29 posts big blind 60
+Dealt to manggy94 [5d 3h]
+*** PRE-FLOP *** 
+manggy94 folds
+michca73 raises 60 to 120
+NOUNOURS 80 calls 90
+dezou29 folds
+*** FLOP *** [Qs 2s Jd]
+NOUNOURS 80 checks
+michca73 checks
+*** TURN *** [Qs 2s Jd][4s]
+NOUNOURS 80 bets 120
+michca73 calls 120
+*** RIVER *** [Qs 2s Jd 4s][Th]
+NOUNOURS 80 bets 540
+michca73 raises 115 to 655 and is all-in
+NOUNOURS 80 calls 115
+*** SHOW DOWN ***
+michca73 shows [9s 7s] (Flush Queen high)
+NOUNOURS 80 shows [Js Ks] (Flush King high)
+NOUNOURS 80 collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Board: [Qs 2s Jd 4s Th]
+Seat 3: michca73 (button) showed [9s 7s] and lost with Flush Queen high
+Seat 4: NOUNOURS 80 (small blind) showed [Js Ks] and won 1850 with Flush King high
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #697449362556452865-16-1466497279 - Holdem no limit (30/60) - 2016/06/21 08:21:19 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #4 is the button
+Seat 4: NOUNOURS 80 (1960)
+Seat 5: dezou29 (540)
+Seat 6: manggy94 (500)
+*** ANTE/BLINDS ***
+dezou29 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [6s Kd]
+*** PRE-FLOP *** 
+NOUNOURS 80 folds
+dezou29 raises 60 to 120
+manggy94 calls 60
+*** FLOP *** [4d 7d Ah]
+dezou29 bets 420 and is all-in
+manggy94 folds
+dezou29 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [4d 7d Ah]
+Seat 5: dezou29 (small blind) won 660
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #697449362556452865-17-1466497299 - Holdem no limit (30/60) - 2016/06/21 08:21:39 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #5 is the button
+Seat 4: NOUNOURS 80 (1960)
+Seat 5: dezou29 (660)
+Seat 6: manggy94 (380)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+NOUNOURS 80 posts big blind 60
+Dealt to manggy94 [5h 7c]
+*** PRE-FLOP *** 
+dezou29 folds
+manggy94 folds
+NOUNOURS 80 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: NOUNOURS 80 (big blind) won 90
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #697449362556452865-18-1466497306 - Holdem no limit (30/60) - 2016/06/21 08:21:46 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #6 is the button
+Seat 4: NOUNOURS 80 (1990)
+Seat 5: dezou29 (660)
+Seat 6: manggy94 (350)
+*** ANTE/BLINDS ***
+NOUNOURS 80 posts small blind 30
+dezou29 posts big blind 60
+Dealt to manggy94 [Jd As]
+*** PRE-FLOP *** 
+manggy94 raises 290 to 350 and is all-in
+NOUNOURS 80 folds
+dezou29 folds
+manggy94 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 6: manggy94 (button) won 440
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #697449362556452865-19-1466497314 - Holdem no limit (30/60) - 2016/06/21 08:21:54 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #4 is the button
+Seat 4: NOUNOURS 80 (1960)
+Seat 5: dezou29 (600)
+Seat 6: manggy94 (440)
+*** ANTE/BLINDS ***
+dezou29 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [3c 8s]
+*** PRE-FLOP *** 
+NOUNOURS 80 folds
+dezou29 calls 30
+manggy94 checks
+*** FLOP *** [5d 3s Jc]
+dezou29 checks
+manggy94 bets 120
+dezou29 folds
+manggy94 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [5d 3s Jc]
+Seat 6: manggy94 (big blind) won 240
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #697449362556452865-20-1466497332 - Holdem no limit (30/60) - 2016/06/21 08:22:12 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #5 is the button
+Seat 4: NOUNOURS 80 (1960)
+Seat 5: dezou29 (540)
+Seat 6: manggy94 (500)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+NOUNOURS 80 posts big blind 60
+Dealt to manggy94 [Th 5c]
+*** PRE-FLOP *** 
+dezou29 folds
+manggy94 folds
+NOUNOURS 80 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: NOUNOURS 80 (big blind) won 90
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #697449362556452865-21-1466497338 - Holdem no limit (30/60) - 2016/06/21 08:22:18 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #6 is the button
+Seat 4: NOUNOURS 80 (1990)
+Seat 5: dezou29 (540)
+Seat 6: manggy94 (470)
+*** ANTE/BLINDS ***
+NOUNOURS 80 posts small blind 30
+dezou29 posts big blind 60
+Dealt to manggy94 [Jh 3h]
+*** PRE-FLOP *** 
+manggy94 folds
+NOUNOURS 80 calls 30
+dezou29 checks
+*** FLOP *** [8h 9d Kd]
+NOUNOURS 80 checks
+dezou29 checks
+*** TURN *** [8h 9d Kd][6h]
+NOUNOURS 80 checks
+dezou29 checks
+*** RIVER *** [8h 9d Kd 6h][2c]
+NOUNOURS 80 checks
+dezou29 bets 60
+NOUNOURS 80 folds
+dezou29 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [8h 9d Kd 6h 2c]
+Seat 5: dezou29 (big blind) won 180
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #697449362556452865-22-1466497355 - Holdem no limit (30/60) - 2016/06/21 08:22:35 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #4 is the button
+Seat 4: NOUNOURS 80 (1930)
+Seat 5: dezou29 (600)
+Seat 6: manggy94 (470)
+*** ANTE/BLINDS ***
+dezou29 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [3d Ad]
+*** PRE-FLOP *** 
+NOUNOURS 80 folds
+dezou29 folds
+manggy94 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: manggy94 (big blind) won 90
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #697449362556452865-23-1466497361 - Holdem no limit (30/60) - 2016/06/21 08:22:41 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #5 is the button
+Seat 4: NOUNOURS 80 (1930)
+Seat 5: dezou29 (570)
+Seat 6: manggy94 (500)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+NOUNOURS 80 posts big blind 60
+Dealt to manggy94 [8s 6c]
+*** PRE-FLOP *** 
+dezou29 folds
+manggy94 folds
+NOUNOURS 80 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: NOUNOURS 80 (big blind) won 90
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #697449362556452865-24-1466497367 - Holdem no limit (30/60) - 2016/06/21 08:22:47 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #6 is the button
+Seat 4: NOUNOURS 80 (1960)
+Seat 5: dezou29 (570)
+Seat 6: manggy94 (470)
+*** ANTE/BLINDS ***
+NOUNOURS 80 posts small blind 30
+dezou29 posts big blind 60
+Dealt to manggy94 [6s 8s]
+*** PRE-FLOP *** 
+manggy94 folds
+NOUNOURS 80 raises 60 to 120
+dezou29 folds
+NOUNOURS 80 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 4: NOUNOURS 80 (small blind) won 180
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #697449362556452865-25-1466497374 - Holdem no limit (30/60) - 2016/06/21 08:22:54 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #4 is the button
+Seat 4: NOUNOURS 80 (2020)
+Seat 5: dezou29 (510)
+Seat 6: manggy94 (470)
+*** ANTE/BLINDS ***
+dezou29 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [7c 8h]
+*** PRE-FLOP *** 
+NOUNOURS 80 calls 60
+dezou29 folds
+manggy94 checks
+*** FLOP *** [Ac Tc As]
+manggy94 checks
+NOUNOURS 80 bets 60
+manggy94 folds
+NOUNOURS 80 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Ac Tc As]
+Seat 4: NOUNOURS 80 (button) won 210
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #697449362556452865-26-1466497388 - Holdem no limit (30/60) - 2016/06/21 08:23:08 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #5 is the button
+Seat 4: NOUNOURS 80 (2110)
+Seat 5: dezou29 (480)
+Seat 6: manggy94 (410)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+NOUNOURS 80 posts big blind 60
+Dealt to manggy94 [9d As]
+*** PRE-FLOP *** 
+dezou29 folds
+manggy94 raises 60 to 120
+NOUNOURS 80 calls 60
+*** FLOP *** [5c Js 5s]
+manggy94 bets 240
+NOUNOURS 80 folds
+manggy94 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [5c Js 5s]
+Seat 6: manggy94 (small blind) won 480
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 5 - HandId: #697449362556452865-27-1466497401 - Holdem no limit (40/80) - 2016/06/21 08:23:21 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #6 is the button
+Seat 4: NOUNOURS 80 (1990)
+Seat 5: dezou29 (480)
+Seat 6: manggy94 (530)
+*** ANTE/BLINDS ***
+NOUNOURS 80 posts small blind 40
+dezou29 posts big blind 80
+Dealt to manggy94 [Js 8d]
+*** PRE-FLOP *** 
+manggy94 folds
+NOUNOURS 80 calls 40
+dezou29 checks
+*** FLOP *** [2c Qh 4h]
+NOUNOURS 80 bets 80
+dezou29 calls 80
+*** TURN *** [2c Qh 4h][4d]
+NOUNOURS 80 bets 80
+dezou29 calls 80
+*** RIVER *** [2c Qh 4h 4d][3c]
+NOUNOURS 80 bets 80
+dezou29 folds
+NOUNOURS 80 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [2c Qh 4h 4d 3c]
+Seat 4: NOUNOURS 80 (small blind) won 560
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 5 - HandId: #697449362556452865-28-1466497418 - Holdem no limit (40/80) - 2016/06/21 08:23:38 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #4 is the button
+Seat 4: NOUNOURS 80 (2230)
+Seat 5: dezou29 (240)
+Seat 6: manggy94 (530)
+*** ANTE/BLINDS ***
+dezou29 posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [8s Js]
+*** PRE-FLOP *** 
+NOUNOURS 80 folds
+dezou29 raises 160 to 240 and is all-in
+manggy94 calls 160
+*** FLOP *** [Jc Ah Qc]
+*** TURN *** [Jc Ah Qc][5h]
+*** RIVER *** [Jc Ah Qc 5h][8d]
+*** SHOW DOWN ***
+dezou29 shows [Kd Jh] (One pair : Jacks)
+manggy94 shows [8s Js] (Two pairs : Jacks and 8)
+manggy94 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Jc Ah Qc 5h 8d]
+Seat 5: dezou29 (small blind) showed [Kd Jh] and lost with One pair : Jacks
+Seat 6: manggy94 (big blind) showed [8s Js] and won 480 with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 5 - HandId: #697449362556452865-29-1466497435 - Holdem no limit (40/80) - 2016/06/21 08:23:55 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #6 is the button
+Seat 4: NOUNOURS 80 (2230)
+Seat 6: manggy94 (770)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+NOUNOURS 80 posts big blind 80
+Dealt to manggy94 [6c Th]
+*** PRE-FLOP *** 
+manggy94 folds
+NOUNOURS 80 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 4: NOUNOURS 80 (big blind) won 120
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 5 - HandId: #697449362556452865-30-1466497440 - Holdem no limit (40/80) - 2016/06/21 08:24:00 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #4 is the button
+Seat 4: NOUNOURS 80 (2270)
+Seat 6: manggy94 (730)
+*** ANTE/BLINDS ***
+NOUNOURS 80 posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [Ac Qd]
+*** PRE-FLOP *** 
+NOUNOURS 80 calls 40
+manggy94 raises 160 to 240
+NOUNOURS 80 calls 160
+*** FLOP *** [4c Js Ts]
+manggy94 bets 490 and is all-in
+NOUNOURS 80 calls 490
+*** TURN *** [4c Js Ts][5s]
+*** RIVER *** [4c Js Ts 5s][Th]
+*** SHOW DOWN ***
+NOUNOURS 80 shows [8c 9h] (One pair : Tens)
+manggy94 shows [Ac Qd] (One pair : Tens)
+manggy94 collected 1460 from pot
+*** SUMMARY ***
+Total pot 1460 | No rake
+Board: [4c Js Ts 5s Th]
+Seat 4: NOUNOURS 80 (small blind) (button) showed [8c 9h] and lost with One pair : Tens
+Seat 6: manggy94 (big blind) showed [Ac Qd] and won 1460 with One pair : Tens
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 5 - HandId: #697449362556452865-31-1466497457 - Holdem no limit (40/80) - 2016/06/21 08:24:17 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #6 is the button
+Seat 4: NOUNOURS 80 (1540)
+Seat 6: manggy94 (1460)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+NOUNOURS 80 posts big blind 80
+Dealt to manggy94 [3h 7s]
+*** PRE-FLOP *** 
+manggy94 folds
+NOUNOURS 80 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 4: NOUNOURS 80 (big blind) won 120
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 5 - HandId: #697449362556452865-32-1466497463 - Holdem no limit (40/80) - 2016/06/21 08:24:23 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #4 is the button
+Seat 4: NOUNOURS 80 (1580)
+Seat 6: manggy94 (1420)
+*** ANTE/BLINDS ***
+NOUNOURS 80 posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [As Ts]
+*** PRE-FLOP *** 
+NOUNOURS 80 calls 40
+manggy94 raises 160 to 240
+NOUNOURS 80 calls 160
+*** FLOP *** [9c Jc 7d]
+manggy94 bets 480
+NOUNOURS 80 raises 480 to 960
+manggy94 calls 480
+*** TURN *** [9c Jc 7d][8c]
+manggy94 bets 220 and is all-in
+NOUNOURS 80 calls 220
+*** RIVER *** [9c Jc 7d 8c][Ac]
+*** SHOW DOWN ***
+NOUNOURS 80 shows [9h Js] (Two pairs : Jacks and 9)
+manggy94 shows [As Ts] (Straight Jack high)
+manggy94 collected 2840 from pot
+*** SUMMARY ***
+Total pot 2840 | No rake
+Board: [9c Jc 7d 8c Ac]
+Seat 4: NOUNOURS 80 (small blind) (button) showed [9h Js] and lost with Two pairs : Jacks and 9
+Seat 6: manggy94 (big blind) showed [As Ts] and won 2840 with Straight Jack high
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 5 - HandId: #697449362556452865-33-1466497484 - Holdem no limit (40/80) - 2016/06/21 08:24:44 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #6 is the button
+Seat 4: NOUNOURS 80 (160)
+Seat 6: manggy94 (2840)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+NOUNOURS 80 posts big blind 80
+Dealt to manggy94 [Th 6d]
+*** PRE-FLOP *** 
+manggy94 folds
+NOUNOURS 80 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 4: NOUNOURS 80 (big blind) won 120
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 5 - HandId: #697449362556452865-34-1466497489 - Holdem no limit (40/80) - 2016/06/21 08:24:49 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #4 is the button
+Seat 4: NOUNOURS 80 (200)
+Seat 6: manggy94 (2800)
+*** ANTE/BLINDS ***
+NOUNOURS 80 posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [Kh Ad]
+*** PRE-FLOP *** 
+NOUNOURS 80 raises 120 to 200 and is all-in
+manggy94 calls 120
+*** FLOP *** [5d 8s Qs]
+*** TURN *** [5d 8s Qs][8c]
+*** RIVER *** [5d 8s Qs 8c][5c]
+*** SHOW DOWN ***
+manggy94 shows [Kh Ad] (Two pairs : 8 and 5)
+NOUNOURS 80 shows [Th 5h] (Full of 5 and 8)
+NOUNOURS 80 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [5d 8s Qs 8c 5c]
+Seat 4: NOUNOURS 80 (small blind) (button) showed [Th 5h] and won 400 with Full of 5 and 8
+Seat 6: manggy94 (big blind) showed [Kh Ad] and lost with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 5 - HandId: #697449362556452865-35-1466497505 - Holdem no limit (40/80) - 2016/06/21 08:25:05 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162387584)#0' 6-max (real money) Seat #6 is the button
+Seat 4: NOUNOURS 80 (400)
+Seat 6: manggy94 (2600)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+NOUNOURS 80 posts big blind 80
+Dealt to manggy94 [6c 9d]
+*** PRE-FLOP *** 
+manggy94 calls 40
+NOUNOURS 80 checks
+*** FLOP *** [Qc 9c 7h]
+NOUNOURS 80 bets 320 and is all-in
+manggy94 calls 320
+*** TURN *** [Qc 9c 7h][2c]
+*** RIVER *** [Qc 9c 7h 2c][9s]
+*** SHOW DOWN ***
+NOUNOURS 80 shows [5h 6s] (One pair : 9)
+manggy94 shows [6c 9d] (Trips of 9)
+manggy94 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [Qc 9c 7h 2c 9s]
+Seat 4: NOUNOURS 80 (big blind) showed [5h 6s] and lost with One pair : 9
+Seat 6: manggy94 (small blind) (button) showed [6c 9d] and won 800 with Trips of 9
+
+

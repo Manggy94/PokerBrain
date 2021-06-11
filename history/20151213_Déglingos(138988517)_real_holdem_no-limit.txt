@@ -1,0 +1,101 @@
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 5 - HandId: #596951135034540034-52-1450026939 - Holdem no limit (60/120) - 2015/12/13 17:15:39 UTC
+Table: 'Déglingos(138988517)#001' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (500)
+Seat 2: rose-des-as (2965)
+Seat 3: angoisse62 (580)
+*** ANTE/BLINDS ***
+angoisse62 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [8s 3c]
+*** PRE-FLOP *** 
+rose-des-as raises 180 to 300
+angoisse62 folds
+manggy94 folds
+rose-des-as collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 2: rose-des-as (button) won 480
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 5 - HandId: #596951135034540034-53-1450026969 - Holdem no limit (60/120) - 2015/12/13 17:16:09 UTC
+Table: 'Déglingos(138988517)#001' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (380)
+Seat 2: rose-des-as (3145)
+Seat 3: angoisse62 (520)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 60
+rose-des-as posts big blind 120
+Dealt to manggy94 [6d Kh]
+*** PRE-FLOP *** 
+angoisse62 folds
+manggy94 raises 260 to 380 and is all-in
+rose-des-as calls 260
+*** FLOP *** [3h 6h 2c]
+*** TURN *** [3h 6h 2c][5h]
+*** RIVER *** [3h 6h 2c 5h][Qs]
+*** SHOW DOWN ***
+rose-des-as shows [5s 9d] (One pair : 5)
+manggy94 shows [6d Kh] (One pair : 6)
+manggy94 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Board: [3h 6h 2c 5h Qs]
+Seat 1: manggy94 (small blind) showed [6d Kh] and won 760 with One pair : 6
+Seat 2: rose-des-as (big blind) showed [5s 9d] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 5 - HandId: #596951135034540034-54-1450026985 - Holdem no limit (60/120) - 2015/12/13 17:16:25 UTC
+Table: 'Déglingos(138988517)#001' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (760)
+Seat 2: rose-des-as (2765)
+Seat 3: angoisse62 (520)
+*** ANTE/BLINDS ***
+rose-des-as posts small blind 60
+angoisse62 posts big blind 120
+Dealt to manggy94 [7d 6s]
+*** PRE-FLOP *** 
+manggy94 folds
+rose-des-as raises 240 to 360
+angoisse62 raises 160 to 520 and is all-in
+rose-des-as calls 160
+*** FLOP *** [2d 7s 3h]
+*** TURN *** [2d 7s 3h][5d]
+*** RIVER *** [2d 7s 3h 5d][2c]
+*** SHOW DOWN ***
+rose-des-as shows [Qh 3c] (Two pairs : 3 and 2)
+angoisse62 shows [Js Jc] (Two pairs : Jacks and 2)
+angoisse62 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [2d 7s 3h 5d 2c]
+Seat 2: rose-des-as (small blind) showed [Qh 3c] and lost with Two pairs : 3 and 2
+Seat 3: angoisse62 (big blind) showed [Js Jc] and won 1040 with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 5 - HandId: #596951135034540034-55-1450027008 - Holdem no limit (60/120) - 2015/12/13 17:16:48 UTC
+Table: 'Déglingos(138988517)#001' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (760)
+Seat 2: rose-des-as (2245)
+Seat 3: angoisse62 (1040)
+*** ANTE/BLINDS ***
+angoisse62 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [Js Jc]
+*** PRE-FLOP *** 
+rose-des-as raises 2125 to 2245 and is all-in
+angoisse62 folds
+manggy94 calls 640 and is all-in
+*** FLOP *** [Th 7s Ah]
+*** TURN *** [Th 7s Ah][Ks]
+*** RIVER *** [Th 7s Ah Ks][8d]
+*** SHOW DOWN ***
+manggy94 shows [Js Jc] (One pair : Jacks)
+rose-des-as shows [As 7c] (Two pairs : Aces and 7)
+rose-des-as collected 3065 from pot
+*** SUMMARY ***
+Total pot 3065 | No rake
+Board: [Th 7s Ah Ks 8d]
+Seat 1: manggy94 (big blind) showed [Js Jc] and lost with One pair : Jacks
+Seat 2: rose-des-as (button) showed [As 7c] and won 3065 with Two pairs : Aces and 7
+
+

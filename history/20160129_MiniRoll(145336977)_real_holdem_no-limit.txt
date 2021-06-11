@@ -1,0 +1,244 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #624217563114504253-1-1454108555 - Holdem no limit (150/300) - 2016/01/29 23:02:35 UTC
+Table: 'MiniRoll(145336977)#060' 8-max (real money) Seat #8 is the button
+Seat 5: Xav41220 (10000)
+Seat 6: manggy94 (10000)
+Seat 8: kombak (10000)
+*** ANTE/BLINDS ***
+Xav41220 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [3h Qs]
+*** PRE-FLOP *** 
+kombak folds
+Xav41220 calls 150
+manggy94 checks
+*** FLOP *** [7c 8s 9d]
+Xav41220 bets 300
+manggy94 folds
+Xav41220 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7c 8s 9d]
+Seat 5: Xav41220 (small blind) won 900
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #624217563114504195-11-1454108692 - Holdem no limit (150/300) - 2016/01/29 23:04:52 UTC
+Table: 'MiniRoll(145336977)#002' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (9700)
+Seat 2: 777river (8675)
+Seat 3: slixa (18707)
+Seat 4: Ludovic62110 (10518)
+Seat 5: Dufduf02100 (9200)
+Seat 6: angi57 (9525)
+Seat 7: miklebosse57 (11350)
+Seat 8: hazkey (12025)
+*** ANTE/BLINDS ***
+hazkey posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Td 3c]
+*** PRE-FLOP *** 
+777river folds
+slixa calls 300
+Ludovic62110 raises 10218 to 10518 and is all-in
+Dufduf02100 folds
+angi57 folds
+miklebosse57 folds
+hazkey folds
+manggy94 folds
+slixa calls 10218
+*** FLOP *** [As 5h 2s]
+*** TURN *** [As 5h 2s][Kh]
+*** RIVER *** [As 5h 2s Kh][5c]
+*** SHOW DOWN ***
+Ludovic62110 shows [Ah 6s] (Two pairs : Aces and 5)
+slixa shows [5d 6d] (Trips of 5)
+slixa collected 21486 from pot
+*** SUMMARY ***
+Total pot 21486 | No rake
+Board: [As 5h 2s Kh 5c]
+Seat 3: slixa showed [5d 6d] and won 21486 with Trips of 5
+Seat 4: Ludovic62110 showed [Ah 6s] and lost with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #624217563114504195-12-1454108734 - Holdem no limit (25/150/300) - 2016/01/29 23:05:34 UTC
+Table: 'MiniRoll(145336977)#002' 8-max (real money) Seat #8 is the button
+Seat 1: manggy94 (9400)
+Seat 2: 777river (8675)
+Seat 3: slixa (29675)
+Seat 5: Dufduf02100 (9200)
+Seat 6: angi57 (9525)
+Seat 7: miklebosse57 (11350)
+Seat 8: hazkey (11875)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+777river posts ante 25
+slixa posts ante 25
+Dufduf02100 posts ante 25
+angi57 posts ante 25
+miklebosse57 posts ante 25
+hazkey posts ante 25
+manggy94 posts small blind 150
+777river posts big blind 300
+Dealt to manggy94 [7c 3c]
+*** PRE-FLOP *** 
+slixa calls 300
+Dufduf02100 folds
+angi57 folds
+miklebosse57 folds
+hazkey folds
+manggy94 folds
+777river raises 300 to 600
+slixa calls 300
+*** FLOP *** [4c 5h 3s]
+777river bets 300
+slixa raises 28750 to 29050 and is all-in
+777river folds
+slixa collected 30875 from pot
+*** SUMMARY ***
+Total pot 30875 | No rake
+Board: [4c 5h 3s]
+Seat 3: slixa won 30875
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #624217563114504195-13-1454108787 - Holdem no limit (25/150/300) - 2016/01/29 23:06:27 UTC
+Table: 'MiniRoll(145336977)#002' 8-max (real money) Seat #1 is the button
+Seat 1: manggy94 (9225)
+Seat 2: 777river (7750)
+Seat 3: slixa (30875)
+Seat 4: MagicRiverS (10000)
+Seat 5: Dufduf02100 (9175)
+Seat 6: angi57 (9500)
+Seat 7: miklebosse57 (11325)
+Seat 8: hazkey (11850)
+*** ANTE/BLINDS ***
+777river posts ante 25
+slixa posts ante 25
+manggy94 posts ante 25
+MagicRiverS posts ante 25
+Dufduf02100 posts ante 25
+angi57 posts ante 25
+miklebosse57 posts ante 25
+hazkey posts ante 25
+777river posts small blind 150
+slixa posts big blind 300
+Dealt to manggy94 [5c Js]
+*** PRE-FLOP *** 
+MagicRiverS raises 450 to 750
+Dufduf02100 folds
+angi57 folds
+miklebosse57 folds
+hazkey folds
+manggy94 folds
+777river folds
+slixa calls 450
+*** FLOP *** [Tc Qc 3s]
+slixa bets 30100 and is all-in
+MagicRiverS folds
+slixa collected 31950 from pot
+*** SUMMARY ***
+Total pot 31950 | No rake
+Board: [Tc Qc 3s]
+Seat 3: slixa (big blind) won 31950
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #624217563114504195-14-1454108850 - Holdem no limit (25/150/300) - 2016/01/29 23:07:30 UTC
+Table: 'MiniRoll(145336977)#002' 8-max (real money) Seat #2 is the button
+Seat 1: manggy94 (9200)
+Seat 2: 777river (7575)
+Seat 3: slixa (31950)
+Seat 4: MagicRiverS (9225)
+Seat 5: Dufduf02100 (9150)
+Seat 6: angi57 (9475)
+Seat 7: miklebosse57 (11300)
+Seat 8: hazkey (11825)
+*** ANTE/BLINDS ***
+slixa posts ante 25
+MagicRiverS posts ante 25
+manggy94 posts ante 25
+777river posts ante 25
+Dufduf02100 posts ante 25
+angi57 posts ante 25
+miklebosse57 posts ante 25
+hazkey posts ante 25
+slixa posts small blind 150
+MagicRiverS posts big blind 300
+Dealt to manggy94 [9h Jd]
+*** PRE-FLOP *** 
+Dufduf02100 folds
+angi57 calls 300
+miklebosse57 calls 300
+hazkey calls 300
+manggy94 folds
+777river folds
+slixa calls 150
+MagicRiverS raises 750 to 1050
+angi57 calls 750
+miklebosse57 calls 750
+hazkey calls 750
+slixa raises 30875 to 31925 and is all-in
+MagicRiverS calls 8150 and is all-in
+angi57 calls 8400 and is all-in
+miklebosse57 folds
+hazkey folds
+*** FLOP *** [8c 2d 7h]
+*** TURN *** [8c 2d 7h][8s]
+*** RIVER *** [8c 2d 7h 8s][2c]
+*** SHOW DOWN ***
+angi57 shows [Kc Jc] (Two pairs : 8 and 2)
+MagicRiverS shows [Ah Ac] (Two pairs : Aces and 8)
+slixa shows [7c 9c] (Two pairs : 8 and 7)
+slixa collected 22975 from side pot 1
+MagicRiverS collected 29900 from main pot
+*** SUMMARY ***
+Total pot 52875 | No rake
+Board: [8c 2d 7h 8s 2c]
+Seat 3: slixa (small blind) showed [7c 9c] and won 22975 with Two pairs : 8 and 7
+Seat 4: MagicRiverS (big blind) showed [Ah Ac] and won 29900 with Two pairs : Aces and 8
+Seat 6: angi57 showed [Kc Jc] and lost with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #624217563114504195-15-1454108948 - Holdem no limit (30/200/400) - 2016/01/29 23:09:08 UTC
+Table: 'MiniRoll(145336977)#002' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (9175)
+Seat 2: 777river (7550)
+Seat 3: slixa (22975)
+Seat 4: MagicRiverS (29900)
+Seat 5: Dufduf02100 (9125)
+Seat 7: miklebosse57 (10225)
+Seat 8: hazkey (10750)
+*** ANTE/BLINDS ***
+MagicRiverS posts ante 30
+Dufduf02100 posts ante 30
+manggy94 posts ante 30
+777river posts ante 30
+slixa posts ante 30
+miklebosse57 posts ante 30
+hazkey posts ante 30
+MagicRiverS posts small blind 200
+Dufduf02100 posts big blind 400
+Dealt to manggy94 [9c Qc]
+*** PRE-FLOP *** 
+miklebosse57 folds
+hazkey raises 400 to 800
+manggy94 calls 800
+777river folds
+slixa calls 800
+MagicRiverS folds
+Dufduf02100 folds
+*** FLOP *** [5c Kc 2h]
+hazkey bets 1000
+manggy94 raises 7345 to 8345 and is all-in
+slixa raises 7345 to 15690
+hazkey folds
+*** TURN *** [5c Kc 2h][7d]
+*** RIVER *** [5c Kc 2h 7d][3s]
+*** SHOW DOWN ***
+manggy94 shows [9c Qc] (High card : King)
+slixa shows [Kd 8h] (One pair : Kings)
+slixa collected 28245 from pot
+*** SUMMARY ***
+Total pot 28245 | No rake
+Board: [5c Kc 2h 7d 3s]
+Seat 1: manggy94 showed [9c Qc] and lost with High card : King
+Seat 3: slixa (button) showed [Kd 8h] and won 28245 with One pair : Kings
+
+

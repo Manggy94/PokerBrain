@@ -1,0 +1,355 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #546663055182791109-1-1440590428 - Holdem no limit (10/20) - 2015/08/26 12:00:28 UTC
+Table: 'Freeroll(127279911)#452' 6-max (real money) Seat #4 is the button
+Seat 1: pounet08 (3000)
+Seat 2: woodi0068 (3000)
+Seat 3: freeman1969 (3000)
+Seat 4: manggy94 (3000)
+Seat 5: BSFDM (3000)
+Seat 6: azmil (3000)
+*** ANTE/BLINDS ***
+BSFDM posts small blind 10
+azmil posts big blind 20
+Dealt to manggy94 [9d Kh]
+*** PRE-FLOP *** 
+pounet08 folds
+woodi0068 folds
+freeman1969 raises 2980 to 3000 and is all-in
+manggy94 folds
+BSFDM folds
+azmil folds
+freeman1969 collected 3030 from pot
+*** SUMMARY ***
+Total pot 3030 | No rake
+Seat 3: freeman1969 won 3030
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #546663055182791035-2-1440590558 - Holdem no limit (10/20) - 2015/08/26 12:02:38 UTC
+Table: 'Freeroll(127279911)#378' 6-max (real money) Seat #2 is the button
+Seat 1: Cenith X (2580)
+Seat 2: Bibi3134 (6860)
+Seat 3: faflo (2980)
+Seat 4: cykian (3000)
+Seat 5: manggy94 (3000)
+Seat 6: opentuning (2580)
+*** ANTE/BLINDS ***
+faflo posts small blind 10
+cykian posts big blind 20
+Dealt to manggy94 [Jd Kd]
+*** PRE-FLOP *** 
+manggy94 raises 50 to 70
+opentuning calls 70
+Cenith X calls 70
+Bibi3134 calls 70
+faflo folds
+cykian folds
+*** FLOP *** [7c 4h Ac]
+manggy94 checks
+opentuning checks
+Cenith X bets 233
+Bibi3134 folds
+manggy94 folds
+opentuning folds
+Cenith X collected 543 from pot
+*** SUMMARY ***
+Total pot 543 | No rake
+Board: [7c 4h Ac]
+Seat 1: Cenith X won 543
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #546663055182791035-3-1440590625 - Holdem no limit (15/30) - 2015/08/26 12:03:45 UTC
+Table: 'Freeroll(127279911)#378' 6-max (real money) Seat #3 is the button
+Seat 1: Cenith X (2820)
+Seat 2: Bibi3134 (6790)
+Seat 3: faflo (2970)
+Seat 4: cykian (2980)
+Seat 5: manggy94 (2930)
+Seat 6: mondeo 68 (2970)
+*** ANTE/BLINDS ***
+cykian posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [Kc 3s]
+*** PRE-FLOP *** 
+mondeo 68 folds
+Cenith X folds
+Bibi3134 calls 30
+faflo raises 60 to 90
+cykian folds
+manggy94 calls 60
+Bibi3134 calls 60
+*** FLOP *** [3c Qc 9d]
+manggy94 checks
+Bibi3134 checks
+faflo checks
+*** TURN *** [3c Qc 9d][5c]
+manggy94 checks
+Bibi3134 checks
+faflo checks
+*** RIVER *** [3c Qc 9d 5c][8c]
+manggy94 bets 285
+Bibi3134 calls 285
+faflo raises 285 to 570
+manggy94 calls 285
+Bibi3134 folds
+*** SHOW DOWN ***
+manggy94 shows [Kc 3s] (Flush King high)
+faflo shows [Js Ac] (Flush Ace high)
+faflo collected 1710 from pot
+*** SUMMARY ***
+Total pot 1710 | No rake
+Board: [3c Qc 9d 5c 8c]
+Seat 3: faflo (button) showed [Js Ac] and won 1710 with Flush Ace high
+Seat 5: manggy94 (big blind) showed [Kc 3s] and lost with Flush King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #546663055182791035-4-1440590730 - Holdem no limit (15/30) - 2015/08/26 12:05:30 UTC
+Table: 'Freeroll(127279911)#378' 6-max (real money) Seat #4 is the button
+Seat 1: Cenith X (2820)
+Seat 2: Bibi3134 (6415)
+Seat 3: faflo (4020)
+Seat 4: cykian (2965)
+Seat 5: manggy94 (2270)
+Seat 6: mondeo 68 (2970)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+mondeo 68 posts big blind 30
+Dealt to manggy94 [8d 6d]
+*** PRE-FLOP *** 
+Cenith X folds
+Bibi3134 folds
+faflo folds
+cykian folds
+manggy94 calls 15
+mondeo 68 checks
+*** FLOP *** [7c 4d Kc]
+manggy94 checks
+mondeo 68 checks
+*** TURN *** [7c 4d Kc][Ah]
+manggy94 checks
+mondeo 68 checks
+*** RIVER *** [7c 4d Kc Ah][7s]
+manggy94 bets 30
+mondeo 68 folds
+manggy94 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [7c 4d Kc Ah 7s]
+Seat 5: manggy94 (small blind) won 90
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #546663055182791035-5-1440590810 - Holdem no limit (20/40) - 2015/08/26 12:06:50 UTC
+Table: 'Freeroll(127279911)#378' 6-max (real money) Seat #5 is the button
+Seat 1: Cenith X (2820)
+Seat 2: Bibi3134 (6415)
+Seat 3: faflo (4020)
+Seat 4: cykian (2965)
+Seat 5: manggy94 (2300)
+Seat 6: mondeo 68 (2940)
+*** ANTE/BLINDS ***
+mondeo 68 posts small blind 20
+Cenith X posts big blind 40
+Dealt to manggy94 [7c Jd]
+*** PRE-FLOP *** 
+Bibi3134 calls 40
+faflo folds
+cykian folds
+manggy94 folds
+mondeo 68 calls 20
+Cenith X checks
+*** FLOP *** [2c 6h 3c]
+mondeo 68 checks
+Cenith X bets 60
+Bibi3134 raises 60 to 120
+mondeo 68 folds
+Cenith X calls 60
+*** TURN *** [2c 6h 3c][Ac]
+Cenith X checks
+Bibi3134 checks
+*** RIVER *** [2c 6h 3c Ac][9h]
+Cenith X checks
+Bibi3134 bets 360
+Cenith X folds
+Bibi3134 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [2c 6h 3c Ac 9h]
+Seat 2: Bibi3134 won 720
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #546663055182791035-6-1440590899 - Holdem no limit (20/40) - 2015/08/26 12:08:19 UTC
+Table: 'Freeroll(127279911)#378' 6-max (real money) Seat #6 is the button
+Seat 1: Cenith X (2660)
+Seat 2: Bibi3134 (6615)
+Seat 3: faflo (4020)
+Seat 4: chipour (2590)
+Seat 5: manggy94 (2300)
+Seat 6: mondeo 68 (2900)
+*** ANTE/BLINDS ***
+Cenith X posts small blind 20
+Bibi3134 posts big blind 40
+Dealt to manggy94 [Jd 6h]
+*** PRE-FLOP *** 
+faflo folds
+chipour calls 40
+manggy94 folds
+mondeo 68 folds
+Cenith X raises 80 to 120
+Bibi3134 calls 80
+chipour calls 80
+*** FLOP *** [3h Ad Td]
+Cenith X bets 180
+Bibi3134 calls 180
+chipour folds
+*** TURN *** [3h Ad Td][2s]
+Cenith X checks
+Bibi3134 bets 720
+Cenith X folds
+Bibi3134 collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [3h Ad Td 2s]
+Seat 2: Bibi3134 (big blind) won 1440
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #546663055182791035-7-1440590980 - Holdem no limit (30/60) - 2015/08/26 12:09:40 UTC
+Table: 'Freeroll(127279911)#378' 6-max (real money) Seat #1 is the button
+Seat 1: Cenith X (2360)
+Seat 2: Bibi3134 (7035)
+Seat 3: Oldentexas (5505)
+Seat 4: chipour (2470)
+Seat 5: manggy94 (2300)
+Seat 6: mondeo 68 (2900)
+*** ANTE/BLINDS ***
+Bibi3134 posts small blind 30
+Oldentexas posts big blind 60
+Dealt to manggy94 [2s Jh]
+*** PRE-FLOP *** 
+chipour calls 60
+manggy94 folds
+mondeo 68 folds
+Cenith X raises 120 to 180
+Bibi3134 folds
+Oldentexas folds
+chipour calls 120
+*** FLOP *** [5c Th 9c]
+chipour bets 2290 and is all-in
+Cenith X folds
+chipour collected 2740 from pot
+*** SUMMARY ***
+Total pot 2740 | No rake
+Board: [5c Th 9c]
+Seat 4: chipour won 2740
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #546663055182791035-8-1440591062 - Holdem no limit (30/60) - 2015/08/26 12:11:02 UTC
+Table: 'Freeroll(127279911)#378' 6-max (real money) Seat #2 is the button
+Seat 1: Cenith X (2180)
+Seat 2: chico70 (3000)
+Seat 3: Oldentexas (5445)
+Seat 4: chipour (2740)
+Seat 5: manggy94 (2300)
+Seat 6: mondeo 68 (2900)
+*** ANTE/BLINDS ***
+Oldentexas posts small blind 30
+chipour posts big blind 60
+Dealt to manggy94 [Qd 3d]
+*** PRE-FLOP *** 
+manggy94 calls 60
+mondeo 68 calls 60
+Cenith X folds
+Oldentexas calls 30
+chipour checks
+*** FLOP *** [9s 8c 8h]
+Oldentexas checks
+chipour checks
+manggy94 checks
+mondeo 68 checks
+*** TURN *** [9s 8c 8h][6d]
+Oldentexas bets 360
+chipour folds
+manggy94 folds
+mondeo 68 folds
+Oldentexas collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [9s 8c 8h 6d]
+Seat 3: Oldentexas (small blind) won 600
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #546663055182791035-9-1440591132 - Holdem no limit (30/60) - 2015/08/26 12:12:12 UTC
+Table: 'Freeroll(127279911)#378' 6-max (real money) Seat #3 is the button
+Seat 1: 777..28 (2905)
+Seat 2: chico70 (3000)
+Seat 3: Oldentexas (5625)
+Seat 4: chipour (2680)
+Seat 5: manggy94 (2240)
+Seat 6: mondeo 68 (2840)
+*** ANTE/BLINDS ***
+chipour posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [8h 7s]
+*** PRE-FLOP *** 
+mondeo 68 calls 60
+777..28 folds
+chico70 folds
+Oldentexas folds
+chipour calls 30
+manggy94 checks
+*** FLOP *** [6d 4s Qc]
+chipour checks
+manggy94 checks
+mondeo 68 checks
+*** TURN *** [6d 4s Qc][As]
+chipour checks
+manggy94 checks
+mondeo 68 checks
+*** RIVER *** [6d 4s Qc As][8d]
+chipour bets 60
+manggy94 calls 60
+mondeo 68 folds
+*** SHOW DOWN ***
+manggy94 shows [8h 7s] (One pair : 8)
+chipour shows [Qs Ts] (One pair : Queens)
+chipour collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [6d 4s Qc As 8d]
+Seat 4: chipour (small blind) showed [Qs Ts] and won 300 with One pair : Queens
+Seat 5: manggy94 (big blind) showed [8h 7s] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #546663055182791035-10-1440591193 - Holdem no limit (40/80) - 2015/08/26 12:13:13 UTC
+Table: 'Freeroll(127279911)#378' 6-max (real money) Seat #4 is the button
+Seat 1: 777..28 (2905)
+Seat 2: chico70 (3000)
+Seat 3: Oldentexas (5625)
+Seat 4: chipour (2860)
+Seat 5: manggy94 (2120)
+Seat 6: mondeo 68 (2780)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+mondeo 68 posts big blind 80
+Dealt to manggy94 [Kd Ad]
+*** PRE-FLOP *** 
+777..28 folds
+chico70 raises 2920 to 3000 and is all-in
+Oldentexas folds
+chipour calls 2860 and is all-in
+manggy94 calls 2080 and is all-in
+mondeo 68 folds
+*** FLOP *** [8h Th 5d]
+*** TURN *** [8h Th 5d][5h]
+*** RIVER *** [8h Th 5d 5h][9h]
+*** SHOW DOWN ***
+manggy94 shows [Kd Ad] (One pair : 5)
+chipour shows [Kh Ah] (Flush Ace high)
+chico70 shows [6c Ac] (One pair : 5)
+chico70 collected 140 from side pot 1
+chipour collected 7920 from main pot
+*** SUMMARY ***
+Total pot 8060 | No rake
+Board: [8h Th 5d 5h 9h]
+Seat 2: chico70 showed [6c Ac] and won 140 with One pair : 5
+Seat 4: chipour (button) showed [Kh Ah] and won 7920 with Flush Ace high
+Seat 5: manggy94 (small blind) showed [Kd Ad] and lost with One pair : 5
+
+

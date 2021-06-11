@@ -1,0 +1,92 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 2 - HandId: #691442429886201862-6-1466410866 - Holdem no limit (50/100) - 2016/06/20 08:21:06 UTC
+Table: 'MiniRoll(160988986)#005' 8-max (real money) Seat #6 is the button
+Seat 1: rigoloto (20450)
+Seat 2: Medin03 (10100)
+Seat 4: bzhr35 (9800)
+Seat 5: kasrol (10000)
+Seat 6: momo1804 (9750)
+Seat 7: Lana672 (12250)
+Seat 8: manggy94 (10000)
+*** ANTE/BLINDS ***
+Lana672 posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [Ad 7c]
+*** PRE-FLOP *** 
+rigoloto raises 300 to 400
+Medin03 folds
+bzhr35 folds
+kasrol folds
+momo1804 folds
+Lana672 folds
+manggy94 calls 300
+*** FLOP *** [6s 3d Kh]
+manggy94 bets 425
+rigoloto raises 1700 to 2125
+manggy94 folds
+rigoloto collected 3400 from pot
+*** SUMMARY ***
+Total pot 3400 | No rake
+Board: [6s 3d Kh]
+Seat 1: rigoloto won 3400
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 2 - HandId: #691442429886201862-7-1466410910 - Holdem no limit (50/100) - 2016/06/20 08:21:50 UTC
+Table: 'MiniRoll(160988986)#005' 8-max (real money) Seat #7 is the button
+Seat 1: rigoloto (21325)
+Seat 2: Medin03 (10100)
+Seat 3: Tostac (10125)
+Seat 4: bzhr35 (9800)
+Seat 5: kasrol (10000)
+Seat 6: momo1804 (9750)
+Seat 7: Lana672 (12200)
+Seat 8: manggy94 (9175)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 50
+rigoloto posts big blind 100
+Dealt to manggy94 [7s Ad]
+*** PRE-FLOP *** 
+Medin03 folds
+Tostac calls 100
+bzhr35 calls 100
+kasrol calls 100
+momo1804 calls 100
+Lana672 calls 100
+manggy94 calls 50
+rigoloto checks
+*** FLOP *** [Ah Jd Td]
+manggy94 bets 100
+rigoloto folds
+Tostac folds
+bzhr35 calls 100
+kasrol calls 100
+momo1804 calls 100
+Lana672 calls 100
+*** TURN *** [Ah Jd Td][5h]
+manggy94 bets 100
+bzhr35 calls 100
+kasrol raises 700 to 800
+momo1804 folds
+Lana672 calls 800
+manggy94 calls 700
+bzhr35 calls 700
+*** RIVER *** [Ah Jd Td 5h][7h]
+manggy94 bets 2200
+bzhr35 calls 2200
+kasrol raises 6800 to 9000 and is all-in
+Lana672 folds
+manggy94 calls 5975 and is all-in
+bzhr35 calls 6600 and is all-in
+*** SHOW DOWN ***
+manggy94 shows [7s Ad] (Two pairs : Aces and 7)
+bzhr35 shows [8h 9h] (Flush Ace high)
+kasrol shows [Ac 5s] (Two pairs : Aces and 5)
+kasrol collected 200 from side pot 1
+bzhr35 collected 30175 from main pot
+*** SUMMARY ***
+Total pot 30375 | No rake
+Board: [Ah Jd Td 5h 7h]
+Seat 4: bzhr35 showed [8h 9h] and won 30175 with Flush Ace high
+Seat 5: kasrol showed [Ac 5s] and won 200 with Two pairs : Aces and 5
+Seat 8: manggy94 (small blind) showed [7s Ad] and lost with Two pairs : Aces and 7
+
+

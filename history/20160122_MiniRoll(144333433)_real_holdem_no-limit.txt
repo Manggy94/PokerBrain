@@ -1,0 +1,957 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #619907374454407182-43-1453483856 - Holdem no limit (30/200/400) - 2016/01/22 17:30:56 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #8 is the button
+Seat 1: lanaASAS (7805)
+Seat 2: ENZVALHER (12215)
+Seat 3: manggy94 (10000)
+Seat 4: housniroubla (23530)
+Seat 5: Pepino21 (3802)
+Seat 6: Fantomas20 (45291)
+Seat 7: noobcoco (16202)
+Seat 8: Shield E (11155)
+*** ANTE/BLINDS ***
+lanaASAS posts ante 30
+ENZVALHER posts ante 30
+manggy94 posts ante 30
+housniroubla posts ante 30
+Pepino21 posts ante 30
+Fantomas20 posts ante 30
+noobcoco posts ante 30
+Shield E posts ante 30
+lanaASAS posts small blind 200
+ENZVALHER posts big blind 400
+Dealt to manggy94 [2h 9c]
+*** PRE-FLOP *** 
+manggy94 folds
+housniroubla folds
+Pepino21 raises 400 to 800
+Fantomas20 folds
+noobcoco folds
+Shield E calls 800
+lanaASAS folds
+ENZVALHER calls 400
+*** FLOP *** [As Kd 6h]
+ENZVALHER checks
+Pepino21 checks
+Shield E checks
+*** TURN *** [As Kd 6h][Kh]
+ENZVALHER checks
+Pepino21 bets 2972 and is all-in
+Shield E folds
+ENZVALHER calls 2972
+*** RIVER *** [As Kd 6h Kh][Qs]
+*** SHOW DOWN ***
+Pepino21 shows [9h 8h] (One pair : Kings)
+ENZVALHER shows [Jc Ah] (Two pairs : Aces and Kings)
+ENZVALHER collected 8784 from pot
+*** SUMMARY ***
+Total pot 8784 | No rake
+Board: [As Kd 6h Kh Qs]
+Seat 2: ENZVALHER (big blind) showed [Jc Ah] and won 8784 with Two pairs : Aces and Kings
+Seat 5: Pepino21 showed [9h 8h] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #619907374454407182-44-1453483895 - Holdem no limit (30/200/400) - 2016/01/22 17:31:35 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #1 is the button
+Seat 1: lanaASAS (7575)
+Seat 2: ENZVALHER (17197)
+Seat 3: manggy94 (9970)
+Seat 4: housniroubla (23500)
+Seat 6: Fantomas20 (45261)
+Seat 7: noobcoco (16172)
+Seat 8: Shield E (10325)
+*** ANTE/BLINDS ***
+ENZVALHER posts ante 30
+manggy94 posts ante 30
+lanaASAS posts ante 30
+housniroubla posts ante 30
+Fantomas20 posts ante 30
+noobcoco posts ante 30
+Shield E posts ante 30
+ENZVALHER posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [9s 2d]
+*** PRE-FLOP *** 
+housniroubla folds
+Fantomas20 calls 400
+noobcoco folds
+Shield E folds
+lanaASAS folds
+ENZVALHER calls 200
+manggy94 checks
+*** FLOP *** [3d 8h 9c]
+ENZVALHER bets 400
+manggy94 calls 400
+Fantomas20 calls 400
+*** TURN *** [3d 8h 9c][Jd]
+ENZVALHER bets 400
+manggy94 raises 8740 to 9140 and is all-in
+Fantomas20 folds
+ENZVALHER calls 8740
+*** RIVER *** [3d 8h 9c Jd][9h]
+*** SHOW DOWN ***
+ENZVALHER shows [8c 3h] (Two pairs : 9 and 8)
+manggy94 shows [9s 2d] (Trips of 9)
+manggy94 collected 20890 from pot
+*** SUMMARY ***
+Total pot 20890 | No rake
+Board: [3d 8h 9c Jd 9h]
+Seat 2: ENZVALHER (small blind) showed [8c 3h] and lost with Two pairs : 9 and 8
+Seat 3: manggy94 (big blind) showed [9s 2d] and won 20890 with Trips of 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #619907374454407182-45-1453483971 - Holdem no limit (40/250/500) - 2016/01/22 17:32:51 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #2 is the button
+Seat 1: lanaASAS (7545)
+Seat 2: ENZVALHER (7227)
+Seat 3: manggy94 (20890)
+Seat 4: housniroubla (23470)
+Seat 5: Momo1112 (10000)
+Seat 6: Fantomas20 (44431)
+Seat 7: noobcoco (16142)
+Seat 8: Shield E (10295)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+housniroubla posts ante 40
+lanaASAS posts ante 40
+ENZVALHER posts ante 40
+Momo1112 posts ante 40
+Fantomas20 posts ante 40
+noobcoco posts ante 40
+Shield E posts ante 40
+manggy94 posts small blind 250
+housniroubla posts big blind 500
+Dealt to manggy94 [2h 7h]
+*** PRE-FLOP *** 
+Momo1112 raises 9460 to 9960 and is all-in
+Fantomas20 folds
+noobcoco folds
+Shield E folds
+lanaASAS folds
+ENZVALHER folds
+manggy94 folds
+housniroubla folds
+Momo1112 collected 11030 from pot
+*** SUMMARY ***
+Total pot 11030 | No rake
+Seat 5: Momo1112 won 11030
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #619907374454407182-46-1453483999 - Holdem no limit (40/250/500) - 2016/01/22 17:33:19 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #3 is the button
+Seat 1: lanaASAS (7505)
+Seat 2: ENZVALHER (7187)
+Seat 3: manggy94 (20600)
+Seat 4: housniroubla (22930)
+Seat 5: Momo1112 (11030)
+Seat 6: Fantomas20 (44391)
+Seat 7: noobcoco (16102)
+Seat 8: Shield E (10255)
+*** ANTE/BLINDS ***
+housniroubla posts ante 40
+Momo1112 posts ante 40
+lanaASAS posts ante 40
+ENZVALHER posts ante 40
+manggy94 posts ante 40
+Fantomas20 posts ante 40
+noobcoco posts ante 40
+Shield E posts ante 40
+housniroubla posts small blind 250
+Momo1112 posts big blind 500
+Dealt to manggy94 [8s Jc]
+*** PRE-FLOP *** 
+Fantomas20 calls 500
+noobcoco folds
+Shield E folds
+lanaASAS folds
+ENZVALHER folds
+manggy94 folds
+housniroubla folds
+Momo1112 raises 10490 to 10990 and is all-in
+Fantomas20 folds
+Momo1112 collected 12060 from pot
+*** SUMMARY ***
+Total pot 12060 | No rake
+Seat 5: Momo1112 (big blind) won 12060
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #619907374454407182-47-1453484112 - Holdem no limit (40/250/500) - 2016/01/22 17:35:12 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #4 is the button
+Seat 1: lanaASAS (7465)
+Seat 2: ENZVALHER (7147)
+Seat 3: manggy94 (20560)
+Seat 4: housniroubla (22640)
+Seat 5: Momo1112 (12060)
+Seat 6: Fantomas20 (43851)
+Seat 7: noobcoco (16062)
+Seat 8: Shield E (10215)
+*** ANTE/BLINDS ***
+Momo1112 posts ante 40
+Fantomas20 posts ante 40
+lanaASAS posts ante 40
+ENZVALHER posts ante 40
+manggy94 posts ante 40
+housniroubla posts ante 40
+noobcoco posts ante 40
+Shield E posts ante 40
+Momo1112 posts small blind 250
+Fantomas20 posts big blind 500
+Dealt to manggy94 [2s 4d]
+*** PRE-FLOP *** 
+noobcoco folds
+Shield E folds
+lanaASAS folds
+ENZVALHER folds
+manggy94 folds
+housniroubla calls 500
+Momo1112 folds
+Fantomas20 checks
+*** FLOP *** [9d Kh Jd]
+Fantomas20 checks
+housniroubla bets 785
+Fantomas20 folds
+housniroubla collected 2355 from pot
+*** SUMMARY ***
+Total pot 2355 | No rake
+Board: [9d Kh Jd]
+Seat 4: housniroubla (button) won 2355
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #619907374454407182-48-1453484144 - Holdem no limit (40/250/500) - 2016/01/22 17:35:44 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #5 is the button
+Seat 1: lanaASAS (7425)
+Seat 2: ENZVALHER (7107)
+Seat 3: manggy94 (20520)
+Seat 4: housniroubla (23670)
+Seat 5: Momo1112 (11770)
+Seat 6: Fantomas20 (43311)
+Seat 7: noobcoco (16022)
+Seat 8: Shield E (10175)
+*** ANTE/BLINDS ***
+Fantomas20 posts ante 40
+noobcoco posts ante 40
+lanaASAS posts ante 40
+ENZVALHER posts ante 40
+manggy94 posts ante 40
+housniroubla posts ante 40
+Momo1112 posts ante 40
+Shield E posts ante 40
+Fantomas20 posts small blind 250
+noobcoco posts big blind 500
+Dealt to manggy94 [4s 5c]
+*** PRE-FLOP *** 
+Shield E folds
+lanaASAS folds
+ENZVALHER calls 500
+manggy94 folds
+housniroubla folds
+Momo1112 calls 500
+Fantomas20 raises 1500 to 2000
+noobcoco folds
+ENZVALHER calls 1500
+Momo1112 folds
+*** FLOP *** [5d Kd Jc]
+Fantomas20 bets 1000
+ENZVALHER raises 4067 to 5067 and is all-in
+Fantomas20 calls 4067
+*** TURN *** [5d Kd Jc][4d]
+*** RIVER *** [5d Kd Jc 4d][2s]
+*** SHOW DOWN ***
+Fantomas20 shows [6h Ad] (High card : Ace)
+ENZVALHER shows [Ks Qs] (One pair : Kings)
+ENZVALHER collected 15454 from pot
+*** SUMMARY ***
+Total pot 15454 | No rake
+Board: [5d Kd Jc 4d 2s]
+Seat 2: ENZVALHER showed [Ks Qs] and won 15454 with One pair : Kings
+Seat 6: Fantomas20 (small blind) showed [6h Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #619907374454407182-49-1453484242 - Holdem no limit (40/250/500) - 2016/01/22 17:37:22 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #6 is the button
+Seat 1: lanaASAS (7385)
+Seat 2: ENZVALHER (15454)
+Seat 3: manggy94 (20480)
+Seat 4: housniroubla (23630)
+Seat 5: Momo1112 (11230)
+Seat 6: Fantomas20 (36204)
+Seat 7: noobcoco (15482)
+Seat 8: Shield E (10135)
+*** ANTE/BLINDS ***
+noobcoco posts ante 40
+Shield E posts ante 40
+lanaASAS posts ante 40
+ENZVALHER posts ante 40
+manggy94 posts ante 40
+housniroubla posts ante 40
+Momo1112 posts ante 40
+Fantomas20 posts ante 40
+noobcoco posts small blind 250
+Shield E posts big blind 500
+Dealt to manggy94 [Ac 8s]
+*** PRE-FLOP *** 
+lanaASAS folds
+ENZVALHER calls 500
+manggy94 folds
+housniroubla folds
+Momo1112 raises 10690 to 11190 and is all-in
+Fantomas20 folds
+noobcoco folds
+Shield E folds
+ENZVALHER calls 10690
+*** FLOP *** [Th Qc 5c]
+*** TURN *** [Th Qc 5c][As]
+*** RIVER *** [Th Qc 5c As][Kd]
+*** SHOW DOWN ***
+Momo1112 shows [6c Kc] (One pair : Kings)
+ENZVALHER shows [Ts Tc] (Trips of Tens)
+ENZVALHER collected 23450 from pot
+*** SUMMARY ***
+Total pot 23450 | No rake
+Board: [Th Qc 5c As Kd]
+Seat 2: ENZVALHER showed [Ts Tc] and won 23450 with Trips of Tens
+Seat 5: Momo1112 showed [6c Kc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #619907374454407182-50-1453484297 - Holdem no limit (60/300/600) - 2016/01/22 17:38:17 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #7 is the button
+Seat 1: lanaASAS (7345)
+Seat 2: ENZVALHER (27674)
+Seat 3: manggy94 (20440)
+Seat 4: housniroubla (23590)
+Seat 6: Fantomas20 (36164)
+Seat 7: noobcoco (15192)
+Seat 8: Shield E (9595)
+*** ANTE/BLINDS ***
+Shield E posts ante 60
+lanaASAS posts ante 60
+ENZVALHER posts ante 60
+manggy94 posts ante 60
+housniroubla posts ante 60
+Fantomas20 posts ante 60
+noobcoco posts ante 60
+Shield E posts small blind 300
+lanaASAS posts big blind 600
+Dealt to manggy94 [Tc 4s]
+*** PRE-FLOP *** 
+ENZVALHER calls 600
+manggy94 folds
+housniroubla folds
+Fantomas20 folds
+noobcoco folds
+Shield E calls 300
+lanaASAS folds
+*** FLOP *** [Jc 8d 3d]
+Shield E bets 1200
+ENZVALHER calls 1200
+*** TURN *** [Jc 8d 3d][Ts]
+Shield E checks
+ENZVALHER checks
+*** RIVER *** [Jc 8d 3d Ts][9s]
+Shield E checks
+ENZVALHER bets 600
+Shield E calls 600
+*** SHOW DOWN ***
+Shield E shows [2s 9d] (One pair : 9)
+ENZVALHER shows [7h 7d] (Straight Jack high)
+ENZVALHER collected 5820 from pot
+*** SUMMARY ***
+Total pot 5820 | No rake
+Board: [Jc 8d 3d Ts 9s]
+Seat 2: ENZVALHER showed [7h 7d] and won 5820 with Straight Jack high
+Seat 8: Shield E (small blind) showed [2s 9d] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #619907374454407182-51-1453484343 - Holdem no limit (60/300/600) - 2016/01/22 17:39:03 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #8 is the button
+Seat 1: lanaASAS (6685)
+Seat 2: ENZVALHER (31034)
+Seat 3: manggy94 (20380)
+Seat 4: housniroubla (23530)
+Seat 5: MNico89 (10000)
+Seat 6: Fantomas20 (36104)
+Seat 7: noobcoco (15132)
+Seat 8: Shield E (7135)
+*** ANTE/BLINDS ***
+lanaASAS posts ante 60
+ENZVALHER posts ante 60
+manggy94 posts ante 60
+housniroubla posts ante 60
+MNico89 posts ante 60
+Fantomas20 posts ante 60
+noobcoco posts ante 60
+Shield E posts ante 60
+lanaASAS posts small blind 300
+ENZVALHER posts big blind 600
+Dealt to manggy94 [Qs Jc]
+*** PRE-FLOP *** 
+manggy94 calls 600
+housniroubla calls 600
+MNico89 folds
+Fantomas20 raises 2700 to 3300
+noobcoco folds
+Shield E folds
+lanaASAS folds
+ENZVALHER folds
+manggy94 folds
+housniroubla calls 2700
+*** FLOP *** [Ac Qc 4c]
+housniroubla bets 4290
+Fantomas20 folds
+housniroubla collected 12870 from pot
+*** SUMMARY ***
+Total pot 12870 | No rake
+Board: [Ac Qc 4c]
+Seat 4: housniroubla won 12870
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #619907374454407182-52-1453484391 - Holdem no limit (60/300/600) - 2016/01/22 17:39:51 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #1 is the button
+Seat 1: lanaASAS (6325)
+Seat 2: ENZVALHER (30374)
+Seat 3: manggy94 (19720)
+Seat 4: housniroubla (28750)
+Seat 5: MNico89 (9940)
+Seat 6: Fantomas20 (32744)
+Seat 7: noobcoco (15072)
+Seat 8: Shield E (7075)
+*** ANTE/BLINDS ***
+ENZVALHER posts ante 60
+manggy94 posts ante 60
+lanaASAS posts ante 60
+housniroubla posts ante 60
+MNico89 posts ante 60
+Fantomas20 posts ante 60
+noobcoco posts ante 60
+Shield E posts ante 60
+ENZVALHER posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [8h Kh]
+*** PRE-FLOP *** 
+housniroubla folds
+MNico89 calls 600
+Fantomas20 folds
+noobcoco folds
+Shield E calls 600
+lanaASAS folds
+ENZVALHER calls 300
+manggy94 raises 2880 to 3480
+MNico89 calls 2880
+Shield E folds
+ENZVALHER calls 2880
+*** FLOP *** [Qd 6d Kd]
+ENZVALHER checks
+manggy94 bets 16180 and is all-in
+MNico89 calls 6400 and is all-in
+ENZVALHER calls 16180
+*** TURN *** [Qd 6d Kd][9c]
+*** RIVER *** [Qd 6d Kd 9c][2s]
+*** SHOW DOWN ***
+ENZVALHER shows [Jd Js] (One pair : Jacks)
+MNico89 shows [Ks 8d] (One pair : Kings)
+manggy94 shows [8h Kh] (One pair : Kings)
+manggy94 collected 34920 from side pot 1
+MNico89 collected 15360 from main pot
+*** SUMMARY ***
+Total pot 50280 | No rake
+Board: [Qd 6d Kd 9c 2s]
+Seat 2: ENZVALHER (small blind) showed [Jd Js] and lost with One pair : Jacks
+Seat 3: manggy94 (big blind) showed [8h Kh] and won 34920 with One pair : Kings
+Seat 5: MNico89 showed [Ks 8d] and won 15360 with One pair : Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #619907374454407182-53-1453484446 - Holdem no limit (60/300/600) - 2016/01/22 17:40:46 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #2 is the button
+Seat 1: lanaASAS (6265)
+Seat 2: ENZVALHER (10654)
+Seat 3: manggy94 (34920)
+Seat 4: housniroubla (28690)
+Seat 5: MNico89 (15360)
+Seat 6: Fantomas20 (32684)
+Seat 7: noobcoco (15012)
+Seat 8: Shield E (6415)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+housniroubla posts ante 60
+lanaASAS posts ante 60
+ENZVALHER posts ante 60
+MNico89 posts ante 60
+Fantomas20 posts ante 60
+noobcoco posts ante 60
+Shield E posts ante 60
+manggy94 posts small blind 300
+housniroubla posts big blind 600
+Dealt to manggy94 [Ac Qs]
+*** PRE-FLOP *** 
+MNico89 folds
+Fantomas20 folds
+noobcoco folds
+Shield E folds
+lanaASAS folds
+ENZVALHER raises 1980 to 2580
+manggy94 raises 6240 to 8820
+housniroubla folds
+ENZVALHER calls 6240
+*** FLOP *** [Tc Kd As]
+manggy94 bets 18720
+ENZVALHER calls 1774 and is all-in
+*** TURN *** [Tc Kd As][Ks]
+*** RIVER *** [Tc Kd As Ks][Js]
+*** SHOW DOWN ***
+ENZVALHER shows [8d Kh] (Trips of Kings)
+manggy94 shows [Ac Qs] (Straight Ace high)
+manggy94 collected 39214 from pot
+*** SUMMARY ***
+Total pot 39214 | No rake
+Board: [Tc Kd As Ks Js]
+Seat 2: ENZVALHER (button) showed [8d Kh] and lost with Trips of Kings
+Seat 3: manggy94 (small blind) showed [Ac Qs] and won 39214 with Straight Ace high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #619907374454407182-54-1453484509 - Holdem no limit (60/300/600) - 2016/01/22 17:41:49 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #3 is the button
+Seat 1: lanaASAS (6205)
+Seat 3: manggy94 (46534)
+Seat 4: housniroubla (28030)
+Seat 5: MNico89 (15300)
+Seat 6: Fantomas20 (32624)
+Seat 7: noobcoco (14952)
+Seat 8: Shield E (6355)
+*** ANTE/BLINDS ***
+housniroubla posts ante 60
+MNico89 posts ante 60
+lanaASAS posts ante 60
+manggy94 posts ante 60
+Fantomas20 posts ante 60
+noobcoco posts ante 60
+Shield E posts ante 60
+housniroubla posts small blind 300
+MNico89 posts big blind 600
+Dealt to manggy94 [Ah Ks]
+*** PRE-FLOP *** 
+Fantomas20 folds
+noobcoco folds
+Shield E folds
+lanaASAS folds
+manggy94 raises 1920 to 2520
+housniroubla calls 2220
+MNico89 folds
+*** FLOP *** [4s 8h 3h]
+housniroubla bets 6060
+manggy94 calls 6060
+*** TURN *** [4s 8h 3h][4c]
+housniroubla bets 18180
+manggy94 calls 18180
+*** RIVER *** [4s 8h 3h 4c][2s]
+housniroubla bets 1210 and is all-in
+manggy94 calls 1210
+*** SHOW DOWN ***
+manggy94 shows [Ah Ks] (One pair : 4)
+housniroubla shows [As 8d] (Two pairs : 8 and 4)
+housniroubla collected 56960 from pot
+*** SUMMARY ***
+Total pot 56960 | No rake
+Board: [4s 8h 3h 4c 2s]
+Seat 3: manggy94 (button) showed [Ah Ks] and lost with One pair : 4
+Seat 4: housniroubla (small blind) showed [As 8d] and won 56960 with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #619907374454407182-55-1453484555 - Holdem no limit (60/300/600) - 2016/01/22 17:42:35 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #4 is the button
+Seat 1: lanaASAS (6145)
+Seat 3: manggy94 (18504)
+Seat 4: housniroubla (56960)
+Seat 5: MNico89 (14640)
+Seat 6: Fantomas20 (32564)
+Seat 7: noobcoco (14892)
+Seat 8: Shield E (6295)
+*** ANTE/BLINDS ***
+MNico89 posts ante 60
+Fantomas20 posts ante 60
+lanaASAS posts ante 60
+manggy94 posts ante 60
+housniroubla posts ante 60
+noobcoco posts ante 60
+Shield E posts ante 60
+MNico89 posts small blind 300
+Fantomas20 posts big blind 600
+Dealt to manggy94 [Jh 6d]
+*** PRE-FLOP *** 
+noobcoco folds
+Shield E folds
+lanaASAS folds
+manggy94 folds
+housniroubla folds
+MNico89 raises 600 to 1200
+Fantomas20 calls 600
+*** FLOP *** [6c 9s 5s]
+MNico89 checks
+Fantomas20 checks
+*** TURN *** [6c 9s 5s][5h]
+MNico89 bets 1410
+Fantomas20 folds
+MNico89 collected 4230 from pot
+*** SUMMARY ***
+Total pot 4230 | No rake
+Board: [6c 9s 5s 5h]
+Seat 5: MNico89 (small blind) won 4230
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #619907374454407182-56-1453484579 - Holdem no limit (60/300/600) - 2016/01/22 17:42:59 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #5 is the button
+Seat 1: lanaASAS (6085)
+Seat 3: manggy94 (18444)
+Seat 4: housniroubla (56900)
+Seat 5: MNico89 (16200)
+Seat 6: Fantomas20 (31304)
+Seat 7: noobcoco (14832)
+Seat 8: Shield E (6235)
+*** ANTE/BLINDS ***
+Fantomas20 posts ante 60
+noobcoco posts ante 60
+lanaASAS posts ante 60
+manggy94 posts ante 60
+housniroubla posts ante 60
+MNico89 posts ante 60
+Shield E posts ante 60
+Fantomas20 posts small blind 300
+noobcoco posts big blind 600
+Dealt to manggy94 [2s Jd]
+*** PRE-FLOP *** 
+Shield E folds
+lanaASAS folds
+manggy94 folds
+housniroubla calls 600
+MNico89 folds
+Fantomas20 calls 300
+noobcoco checks
+*** FLOP *** [8c Kd 3d]
+Fantomas20 checks
+noobcoco checks
+housniroubla bets 1110
+Fantomas20 folds
+noobcoco folds
+housniroubla collected 3330 from pot
+*** SUMMARY ***
+Total pot 3330 | No rake
+Board: [8c Kd 3d]
+Seat 4: housniroubla won 3330
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #619907374454407182-57-1453484644 - Holdem no limit (75/400/800) - 2016/01/22 17:44:04 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #6 is the button
+Seat 1: lanaASAS (6025)
+Seat 2: L City (9880)
+Seat 3: manggy94 (18384)
+Seat 4: housniroubla (58460)
+Seat 5: MNico89 (16140)
+Seat 6: Fantomas20 (30644)
+Seat 7: noobcoco (14172)
+Seat 8: Shield E (6175)
+*** ANTE/BLINDS ***
+noobcoco posts ante 75
+Shield E posts ante 75
+lanaASAS posts ante 75
+L City posts ante 75
+manggy94 posts ante 75
+housniroubla posts ante 75
+MNico89 posts ante 75
+Fantomas20 posts ante 75
+noobcoco posts small blind 400
+Shield E posts big blind 800
+Dealt to manggy94 [5c Kc]
+*** PRE-FLOP *** 
+lanaASAS folds
+L City folds
+manggy94 calls 800
+housniroubla calls 800
+MNico89 calls 800
+Fantomas20 calls 800
+noobcoco folds
+Shield E raises 5300 to 6100 and is all-in
+manggy94 folds
+housniroubla folds
+MNico89 calls 5300
+Fantomas20 folds
+*** FLOP *** [Jc 5s Th]
+*** TURN *** [Jc 5s Th][8d]
+*** RIVER *** [Jc 5s Th 8d][8c]
+*** SHOW DOWN ***
+MNico89 shows [9c Kh] (One pair : 8)
+Shield E shows [Tc Ah] (Two pairs : Tens and 8)
+Shield E collected 15600 from pot
+*** SUMMARY ***
+Total pot 15600 | No rake
+Board: [Jc 5s Th 8d 8c]
+Seat 5: MNico89 showed [9c Kh] and lost with One pair : 8
+Seat 8: Shield E (big blind) showed [Tc Ah] and won 15600 with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #619907374454407182-58-1453484708 - Holdem no limit (75/400/800) - 2016/01/22 17:45:08 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #7 is the button
+Seat 1: lanaASAS (5950)
+Seat 2: L City (9805)
+Seat 3: manggy94 (17509)
+Seat 4: housniroubla (57585)
+Seat 5: MNico89 (9965)
+Seat 6: Fantomas20 (29769)
+Seat 7: noobcoco (13697)
+Seat 8: Shield E (15600)
+*** ANTE/BLINDS ***
+Shield E posts ante 75
+lanaASAS posts ante 75
+L City posts ante 75
+manggy94 posts ante 75
+housniroubla posts ante 75
+MNico89 posts ante 75
+Fantomas20 posts ante 75
+noobcoco posts ante 75
+Shield E posts small blind 400
+lanaASAS posts big blind 800
+Dealt to manggy94 [8d 2c]
+*** PRE-FLOP *** 
+L City raises 800 to 1600
+manggy94 folds
+housniroubla folds
+MNico89 calls 1600
+Fantomas20 raises 7200 to 8800
+noobcoco folds
+Shield E folds
+lanaASAS folds
+L City folds
+MNico89 calls 7200
+*** FLOP *** [9s 4h 2d]
+MNico89 bets 1090 and is all-in
+Fantomas20 calls 1090
+*** TURN *** [9s 4h 2d][Ts]
+*** RIVER *** [9s 4h 2d Ts][Tc]
+*** SHOW DOWN ***
+MNico89 shows [7h Jh] (One pair : Tens)
+Fantomas20 shows [7c Ah] (One pair : Tens)
+Fantomas20 collected 23180 from pot
+*** SUMMARY ***
+Total pot 23180 | No rake
+Board: [9s 4h 2d Ts Tc]
+Seat 5: MNico89 showed [7h Jh] and lost with One pair : Tens
+Seat 6: Fantomas20 showed [7c Ah] and won 23180 with One pair : Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #619907374454407182-59-1453484758 - Holdem no limit (75/400/800) - 2016/01/22 17:45:58 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #8 is the button
+Seat 1: lanaASAS (5075)
+Seat 2: L City (8130)
+Seat 3: manggy94 (17434)
+Seat 4: housniroubla (57510)
+Seat 5: marco30 (6005)
+Seat 6: Fantomas20 (42984)
+Seat 7: noobcoco (13622)
+Seat 8: Shield E (15125)
+*** ANTE/BLINDS ***
+lanaASAS posts ante 75
+L City posts ante 75
+manggy94 posts ante 75
+housniroubla posts ante 75
+marco30 posts ante 75
+Fantomas20 posts ante 75
+noobcoco posts ante 75
+Shield E posts ante 75
+lanaASAS posts small blind 400
+L City posts big blind 800
+Dealt to manggy94 [As Qc]
+*** PRE-FLOP *** 
+manggy94 raises 2600 to 3400
+housniroubla folds
+marco30 folds
+Fantomas20 folds
+noobcoco folds
+Shield E folds
+lanaASAS folds
+L City folds
+manggy94 collected 5200 from pot
+*** SUMMARY ***
+Total pot 5200 | No rake
+Seat 3: manggy94 won 5200
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #619907374454407182-60-1453484788 - Holdem no limit (75/400/800) - 2016/01/22 17:46:28 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #1 is the button
+Seat 1: lanaASAS (4600)
+Seat 2: L City (7255)
+Seat 3: manggy94 (19159)
+Seat 4: housniroubla (57435)
+Seat 5: marco30 (5930)
+Seat 6: Fantomas20 (42909)
+Seat 7: noobcoco (13547)
+Seat 8: Shield E (15050)
+*** ANTE/BLINDS ***
+L City posts ante 75
+manggy94 posts ante 75
+lanaASAS posts ante 75
+housniroubla posts ante 75
+marco30 posts ante 75
+Fantomas20 posts ante 75
+noobcoco posts ante 75
+Shield E posts ante 75
+L City posts small blind 400
+manggy94 posts big blind 800
+Dealt to manggy94 [5c 7c]
+*** PRE-FLOP *** 
+housniroubla calls 800
+marco30 calls 800
+Fantomas20 calls 800
+noobcoco folds
+Shield E folds
+lanaASAS folds
+L City calls 400
+manggy94 checks
+*** FLOP *** [9d Th 2s]
+L City checks
+manggy94 checks
+housniroubla checks
+marco30 checks
+Fantomas20 checks
+*** TURN *** [9d Th 2s][Js]
+L City bets 1200
+manggy94 folds
+housniroubla folds
+marco30 calls 1200
+Fantomas20 raises 2800 to 4000
+L City raises 2380 to 6380 and is all-in
+marco30 calls 3855 and is all-in
+Fantomas20 calls 2380
+*** RIVER *** [9d Th 2s Js][Ad]
+*** SHOW DOWN ***
+L City shows [Jc Qc] (One pair : Jacks)
+marco30 shows [Ah Ts] (Two pairs : Aces and Tens)
+Fantomas20 shows [8s Qd] (Straight Queen high)
+Fantomas20 collected 22415 from pot
+*** SUMMARY ***
+Total pot 22415 | No rake
+Board: [9d Th 2s Js Ad]
+Seat 2: L City (small blind) showed [Jc Qc] and lost with One pair : Jacks
+Seat 5: marco30 showed [Ah Ts] and lost with Two pairs : Aces and Tens
+Seat 6: Fantomas20 showed [8s Qd] and won 22415 with Straight Queen high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #619907374454407182-61-1453484980 - Holdem no limit (75/400/800) - 2016/01/22 17:49:40 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #2 is the button
+Seat 1: lanaASAS (4525)
+Seat 3: manggy94 (18284)
+Seat 4: housniroubla (56560)
+Seat 6: Fantomas20 (58069)
+Seat 7: noobcoco (13472)
+Seat 8: Shield E (14975)
+*** ANTE/BLINDS ***
+manggy94 posts ante 75
+housniroubla posts ante 75
+lanaASAS posts ante 75
+Fantomas20 posts ante 75
+noobcoco posts ante 75
+Shield E posts ante 75
+manggy94 posts small blind 400
+housniroubla posts big blind 800
+Dealt to manggy94 [9c 2c]
+*** PRE-FLOP *** 
+Fantomas20 calls 800
+noobcoco folds
+Shield E calls 800
+lanaASAS folds
+manggy94 calls 400
+housniroubla folds
+*** FLOP *** [6c 3d Ks]
+manggy94 bets 3650
+Fantomas20 calls 3650
+Shield E folds
+*** TURN *** [6c 3d Ks][7h]
+manggy94 checks
+Fantomas20 bets 53544 and is all-in
+manggy94 folds
+Fantomas20 collected 64494 from pot
+*** SUMMARY ***
+Total pot 64494 | No rake
+Board: [6c 3d Ks 7h]
+Seat 6: Fantomas20 won 64494
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #619907374454407182-62-1453485040 - Holdem no limit (100/500/1000) - 2016/01/22 17:50:40 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #3 is the button
+Seat 1: lanaASAS (4450)
+Seat 2: lanfeust_tor (8705)
+Seat 3: manggy94 (13759)
+Seat 4: housniroubla (55685)
+Seat 5: mig224 (30860)
+Seat 6: Fantomas20 (64494)
+Seat 7: noobcoco (13397)
+Seat 8: Shield E (14100)
+*** ANTE/BLINDS ***
+housniroubla posts ante 100
+mig224 posts ante 100
+lanaASAS posts ante 100
+lanfeust_tor posts ante 100
+manggy94 posts ante 100
+Fantomas20 posts ante 100
+noobcoco posts ante 100
+Shield E posts ante 100
+housniroubla posts small blind 500
+mig224 posts big blind 1000
+Dealt to manggy94 [Js 5d]
+*** PRE-FLOP *** 
+Fantomas20 calls 1000
+noobcoco raises 12297 to 13297 and is all-in
+Shield E folds
+lanaASAS folds
+lanfeust_tor folds
+manggy94 folds
+housniroubla folds
+mig224 folds
+Fantomas20 folds
+noobcoco collected 16597 from pot
+*** SUMMARY ***
+Total pot 16597 | No rake
+Seat 7: noobcoco won 16597
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #619907374454407182-63-1453485055 - Holdem no limit (100/500/1000) - 2016/01/22 17:50:55 UTC
+Table: 'MiniRoll(144333433)#013' 8-max (real money) Seat #4 is the button
+Seat 1: lanaASAS (4350)
+Seat 2: lanfeust_tor (8605)
+Seat 3: manggy94 (13659)
+Seat 4: housniroubla (55085)
+Seat 5: mig224 (29760)
+Seat 6: Fantomas20 (63394)
+Seat 7: noobcoco (16597)
+Seat 8: Shield E (14000)
+*** ANTE/BLINDS ***
+mig224 posts ante 100
+Fantomas20 posts ante 100
+lanaASAS posts ante 100
+lanfeust_tor posts ante 100
+manggy94 posts ante 100
+housniroubla posts ante 100
+noobcoco posts ante 100
+Shield E posts ante 100
+mig224 posts small blind 500
+Fantomas20 posts big blind 1000
+Dealt to manggy94 [8d Kd]
+*** PRE-FLOP *** 
+noobcoco raises 15497 to 16497 and is all-in
+Shield E folds
+lanaASAS folds
+lanfeust_tor folds
+manggy94 calls 13559 and is all-in
+housniroubla folds
+mig224 folds
+Fantomas20 folds
+*** FLOP *** [As 6h 5c]
+*** TURN *** [As 6h 5c][Qc]
+*** RIVER *** [As 6h 5c Qc][5d]
+*** SHOW DOWN ***
+manggy94 shows [8d Kd] (One pair : 5)
+noobcoco shows [Ad Td] (Two pairs : Aces and 5)
+noobcoco collected 32356 from pot
+*** SUMMARY ***
+Total pot 32356 | No rake
+Board: [As 6h 5c Qc 5d]
+Seat 3: manggy94 showed [8d Kd] and lost with One pair : 5
+Seat 7: noobcoco showed [Ad Td] and won 32356 with Two pairs : Aces and 5
+
+

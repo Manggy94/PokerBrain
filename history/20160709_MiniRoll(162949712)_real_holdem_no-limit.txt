@@ -1,0 +1,125 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #699863683932618756-22-1468081190 - Holdem no limit (150/300) - 2016/07/09 16:19:50 UTC
+Table: 'MiniRoll(162949712)#003' 8-max (real money) Seat #1 is the button
+Seat 1: lau77600 (10510)
+Seat 2: AlexPG (18775)
+Seat 3: lookmystyle (26125)
+Seat 4: axlrose83 (49290)
+Seat 5: drany (9400)
+Seat 6: chtiot72 (16850)
+Seat 7: manggy94 (10000)
+Seat 8: Joko_Widodo (9050)
+*** ANTE/BLINDS ***
+AlexPG posts small blind 150
+lookmystyle posts big blind 300
+Dealt to manggy94 [4h 5s]
+*** PRE-FLOP *** 
+axlrose83 calls 300
+drany folds
+chtiot72 folds
+manggy94 folds
+Joko_Widodo folds
+lau77600 calls 300
+AlexPG calls 150
+lookmystyle checks
+*** FLOP *** [Kc 9c 8d]
+AlexPG checks
+lookmystyle checks
+axlrose83 bets 5400
+lau77600 folds
+AlexPG folds
+lookmystyle folds
+axlrose83 collected 6600 from pot
+*** SUMMARY ***
+Total pot 6600 | No rake
+Board: [Kc 9c 8d]
+Seat 4: axlrose83 won 6600
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #699863683932618756-23-1468081252 - Holdem no limit (25/150/300) - 2016/07/09 16:20:52 UTC
+Table: 'MiniRoll(162949712)#003' 8-max (real money) Seat #2 is the button
+Seat 1: lau77600 (10210)
+Seat 2: AlexPG (18475)
+Seat 3: lookmystyle (25825)
+Seat 4: axlrose83 (50190)
+Seat 5: drany (9400)
+Seat 6: chtiot72 (16850)
+Seat 7: manggy94 (10000)
+Seat 8: Joko_Widodo (9050)
+*** ANTE/BLINDS ***
+lookmystyle posts ante 25
+axlrose83 posts ante 25
+lau77600 posts ante 25
+AlexPG posts ante 25
+drany posts ante 25
+chtiot72 posts ante 25
+manggy94 posts ante 25
+Joko_Widodo posts ante 25
+lookmystyle posts small blind 150
+axlrose83 posts big blind 300
+Dealt to manggy94 [Th 3s]
+*** PRE-FLOP *** 
+drany folds
+chtiot72 calls 300
+manggy94 folds
+Joko_Widodo folds
+lau77600 raises 684 to 984
+AlexPG folds
+lookmystyle folds
+axlrose83 folds
+chtiot72 folds
+lau77600 collected 1934 from pot
+*** SUMMARY ***
+Total pot 1934 | No rake
+Seat 1: lau77600 won 1934
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #699863683932618756-24-1468081289 - Holdem no limit (25/150/300) - 2016/07/09 16:21:29 UTC
+Table: 'MiniRoll(162949712)#003' 8-max (real money) Seat #3 is the button
+Seat 1: lau77600 (11135)
+Seat 2: AlexPG (18450)
+Seat 3: lookmystyle (25650)
+Seat 4: axlrose83 (49865)
+Seat 5: drany (9375)
+Seat 6: chtiot72 (16525)
+Seat 7: manggy94 (9975)
+Seat 8: Joko_Widodo (9025)
+*** ANTE/BLINDS ***
+axlrose83 posts ante 25
+drany posts ante 25
+lau77600 posts ante 25
+AlexPG posts ante 25
+lookmystyle posts ante 25
+chtiot72 posts ante 25
+manggy94 posts ante 25
+Joko_Widodo posts ante 25
+axlrose83 posts small blind 150
+drany posts big blind 300
+Dealt to manggy94 [9d Ad]
+*** PRE-FLOP *** 
+chtiot72 folds
+manggy94 raises 300 to 600
+Joko_Widodo folds
+lau77600 folds
+AlexPG folds
+lookmystyle folds
+axlrose83 raises 300 to 900
+drany folds
+manggy94 calls 300
+*** FLOP *** [8s Qc Qd]
+axlrose83 bets 5700
+manggy94 calls 5700
+*** TURN *** [8s Qc Qd][Jd]
+axlrose83 bets 6150
+manggy94 calls 3350 and is all-in
+*** RIVER *** [8s Qc Qd Jd][Js]
+*** SHOW DOWN ***
+manggy94 shows [9d Ad] (Two pairs : Queens and Jacks)
+axlrose83 shows [Kh Kd] (Two pairs : Kings and Queens)
+axlrose83 collected 23200 from pot
+*** SUMMARY ***
+Total pot 23200 | No rake
+Board: [8s Qc Qd Jd Js]
+Seat 4: axlrose83 (small blind) showed [Kh Kd] and won 23200 with Two pairs : Kings and Queens
+Seat 7: manggy94 showed [9d Ad] and lost with Two pairs : Queens and Jacks
+
+

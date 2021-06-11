@@ -1,0 +1,579 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #630857002733535318-1-1455206427 - Holdem no limit (10/20) - 2016/02/11 16:00:27 UTC
+Table: 'Freeroll(146882842)#085' 8-max (real money) Seat #4 is the button
+Seat 1: janeck55 (3000)
+Seat 2: manggy94 (3000)
+Seat 3: fmidsk (3000)
+Seat 4: marmotte05 (3000)
+Seat 5: j pierre 59 (3000)
+Seat 6: YAYA4929 (3000)
+Seat 7: AlineOturn (3000)
+Seat 8: Zoukyy (3000)
+*** ANTE/BLINDS ***
+j pierre 59 posts small blind 10
+YAYA4929 posts big blind 20
+Dealt to manggy94 [6c Ah]
+*** PRE-FLOP *** 
+AlineOturn calls 20
+Zoukyy folds
+janeck55 folds
+manggy94 calls 20
+fmidsk folds
+marmotte05 calls 20
+j pierre 59 folds
+YAYA4929 folds
+*** FLOP *** [8h Td Ts]
+AlineOturn bets 20
+manggy94 calls 20
+marmotte05 calls 20
+*** TURN *** [8h Td Ts][Qs]
+AlineOturn bets 20
+manggy94 raises 190 to 210
+marmotte05 folds
+AlineOturn calls 190
+*** RIVER *** [8h Td Ts Qs][9h]
+AlineOturn checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [6c Ah] (One pair : Tens)
+AlineOturn shows [Qd 3d] (Two pairs : Queens and Tens)
+AlineOturn collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [8h Td Ts Qs 9h]
+Seat 2: manggy94 showed [6c Ah] and lost with One pair : Tens
+Seat 7: AlineOturn showed [Qd 3d] and won 570 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #630857002733535318-2-1455206695 - Holdem no limit (15/30) - 2016/02/11 16:04:55 UTC
+Table: 'Freeroll(146882842)#085' 8-max (real money) Seat #5 is the button
+Seat 1: janeck55 (3000)
+Seat 2: manggy94 (2750)
+Seat 3: fmidsk (3000)
+Seat 4: marmotte05 (2960)
+Seat 5: j pierre 59 (2990)
+Seat 6: YAYA4929 (2980)
+Seat 7: AlineOturn (3320)
+Seat 8: Zoukyy (3000)
+*** ANTE/BLINDS ***
+YAYA4929 posts small blind 15
+AlineOturn posts big blind 30
+Dealt to manggy94 [Tc 4h]
+*** PRE-FLOP *** 
+Zoukyy calls 30
+janeck55 folds
+manggy94 folds
+fmidsk raises 30 to 60
+marmotte05 folds
+j pierre 59 folds
+YAYA4929 folds
+AlineOturn calls 30
+Zoukyy calls 30
+*** FLOP *** [Th 3d 4s]
+AlineOturn checks
+Zoukyy bets 30
+fmidsk raises 255 to 285
+AlineOturn calls 285
+Zoukyy calls 255
+*** TURN *** [Th 3d 4s][5d]
+AlineOturn bets 1050
+Zoukyy calls 1050
+fmidsk calls 1050
+*** RIVER *** [Th 3d 4s 5d][Ad]
+AlineOturn checks
+Zoukyy bets 1605 and is all-in
+fmidsk folds
+AlineOturn calls 1605
+*** SHOW DOWN ***
+Zoukyy shows [7c 7h] (One pair : 7)
+AlineOturn shows [6h 7s] (Straight 7 high)
+AlineOturn collected 7410 from pot
+*** SUMMARY ***
+Total pot 7410 | No rake
+Board: [Th 3d 4s 5d Ad]
+Seat 7: AlineOturn (big blind) showed [6h 7s] and won 7410 with Straight 7 high
+Seat 8: Zoukyy showed [7c 7h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #630857002733535318-3-1455206903 - Holdem no limit (20/40) - 2016/02/11 16:08:23 UTC
+Table: 'Freeroll(146882842)#085' 8-max (real money) Seat #6 is the button
+Seat 1: janeck55 (3000)
+Seat 2: manggy94 (2750)
+Seat 3: fmidsk (1605)
+Seat 4: marmotte05 (2960)
+Seat 5: j pierre 59 (2990)
+Seat 6: YAYA4929 (2965)
+Seat 7: AlineOturn (7730)
+*** ANTE/BLINDS ***
+AlineOturn posts small blind 20
+janeck55 posts big blind 40
+Dealt to manggy94 [Kh 4s]
+*** PRE-FLOP *** 
+manggy94 folds
+fmidsk calls 40
+marmotte05 calls 40
+j pierre 59 folds
+YAYA4929 folds
+AlineOturn calls 20
+janeck55 raises 40 to 80
+fmidsk calls 40
+marmotte05 calls 40
+AlineOturn calls 40
+*** FLOP *** [2h Ts 5s]
+AlineOturn checks
+janeck55 checks
+fmidsk checks
+marmotte05 checks
+*** TURN *** [2h Ts 5s][Tc]
+AlineOturn checks
+janeck55 checks
+fmidsk bets 320
+marmotte05 folds
+AlineOturn folds
+janeck55 folds
+fmidsk collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [2h Ts 5s Tc]
+Seat 3: fmidsk won 640
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #630857002733535318-4-1455206998 - Holdem no limit (30/60) - 2016/02/11 16:09:58 UTC
+Table: 'Freeroll(146882842)#085' 8-max (real money) Seat #7 is the button
+Seat 1: janeck55 (2920)
+Seat 2: manggy94 (2750)
+Seat 3: fmidsk (1845)
+Seat 4: marmotte05 (2880)
+Seat 5: j pierre 59 (2990)
+Seat 6: YAYA4929 (2965)
+Seat 7: AlineOturn (7650)
+Seat 8: Dakarois82 (3000)
+*** ANTE/BLINDS ***
+janeck55 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [6c 2h]
+*** PRE-FLOP *** 
+fmidsk calls 60
+marmotte05 calls 60
+j pierre 59 folds
+YAYA4929 folds
+AlineOturn folds
+janeck55 calls 30
+manggy94 checks
+*** FLOP *** [4h Jd Kh]
+janeck55 bets 60
+manggy94 folds
+fmidsk calls 60
+marmotte05 calls 60
+*** TURN *** [4h Jd Kh][Kc]
+janeck55 bets 300
+fmidsk calls 300
+marmotte05 calls 300
+*** RIVER *** [4h Jd Kh Kc][3d]
+janeck55 bets 510
+fmidsk folds
+marmotte05 folds
+janeck55 collected 1830 from pot
+*** SUMMARY ***
+Total pot 1830 | No rake
+Board: [4h Jd Kh Kc 3d]
+Seat 1: janeck55 (small blind) won 1830
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #630857002733535318-5-1455207090 - Holdem no limit (30/60) - 2016/02/11 16:11:30 UTC
+Table: 'Freeroll(146882842)#085' 8-max (real money) Seat #1 is the button
+Seat 1: janeck55 (3820)
+Seat 2: manggy94 (2690)
+Seat 3: fmidsk (1425)
+Seat 4: marmotte05 (2460)
+Seat 5: j pierre 59 (2990)
+Seat 6: YAYA4929 (2965)
+Seat 7: AlineOturn (7650)
+Seat 8: Dakarois82 (3000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+fmidsk posts big blind 60
+Dealt to manggy94 [As 3c]
+*** PRE-FLOP *** 
+marmotte05 calls 60
+j pierre 59 folds
+YAYA4929 folds
+AlineOturn calls 60
+Dakarois82 calls 60
+janeck55 calls 60
+manggy94 calls 30
+fmidsk checks
+*** FLOP *** [5c 4c 5h]
+manggy94 checks
+fmidsk bets 60
+marmotte05 calls 60
+AlineOturn calls 60
+Dakarois82 folds
+janeck55 folds
+manggy94 calls 60
+*** TURN *** [5c 4c 5h][6h]
+manggy94 checks
+fmidsk bets 60
+marmotte05 calls 60
+AlineOturn calls 60
+manggy94 calls 60
+*** RIVER *** [5c 4c 5h 6h][Tc]
+manggy94 checks
+fmidsk bets 1245 and is all-in
+marmotte05 calls 1245
+AlineOturn folds
+manggy94 folds
+*** SHOW DOWN ***
+marmotte05 shows [4d Kd] (Two pairs : 5 and 4)
+fmidsk shows [8d 7h] (Straight 8 high)
+fmidsk collected 3330 from pot
+*** SUMMARY ***
+Total pot 3330 | No rake
+Board: [5c 4c 5h 6h Tc]
+Seat 3: fmidsk (big blind) showed [8d 7h] and won 3330 with Straight 8 high
+Seat 4: marmotte05 showed [4d Kd] and lost with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #630857002733535318-6-1455207204 - Holdem no limit (40/80) - 2016/02/11 16:13:24 UTC
+Table: 'Freeroll(146882842)#085' 8-max (real money) Seat #2 is the button
+Seat 1: janeck55 (3760)
+Seat 2: manggy94 (2510)
+Seat 3: fmidsk (3330)
+Seat 4: marmotte05 (1035)
+Seat 5: j pierre 59 (2990)
+Seat 6: YAYA4929 (2965)
+Seat 7: AlineOturn (7470)
+Seat 8: Dakarois82 (2940)
+*** ANTE/BLINDS ***
+fmidsk posts small blind 40
+marmotte05 posts big blind 80
+Dealt to manggy94 [Ah 3d]
+*** PRE-FLOP *** 
+j pierre 59 folds
+YAYA4929 folds
+AlineOturn folds
+Dakarois82 folds
+janeck55 raises 160 to 240
+manggy94 calls 240
+fmidsk calls 200
+marmotte05 folds
+*** FLOP *** [Jd Ac 7s]
+fmidsk bets 80
+janeck55 folds
+manggy94 raises 960 to 1040
+fmidsk folds
+manggy94 collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | No rake
+Board: [Jd Ac 7s]
+Seat 2: manggy94 (button) won 1920
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #630857002733535318-7-1455207261 - Holdem no limit (40/80) - 2016/02/11 16:14:21 UTC
+Table: 'Freeroll(146882842)#085' 8-max (real money) Seat #3 is the button
+Seat 1: janeck55 (3520)
+Seat 2: manggy94 (3150)
+Seat 3: fmidsk (3010)
+Seat 4: marmotte05 (955)
+Seat 5: j pierre 59 (2990)
+Seat 6: YAYA4929 (2965)
+Seat 7: AlineOturn (7470)
+Seat 8: Dakarois82 (2940)
+*** ANTE/BLINDS ***
+marmotte05 posts small blind 40
+j pierre 59 posts big blind 80
+Dealt to manggy94 [4c Qd]
+*** PRE-FLOP *** 
+YAYA4929 folds
+AlineOturn calls 80
+Dakarois82 folds
+janeck55 raises 80 to 160
+manggy94 folds
+fmidsk folds
+marmotte05 raises 795 to 955 and is all-in
+j pierre 59 folds
+AlineOturn calls 875
+janeck55 calls 795
+*** FLOP *** [Th 6d Qc]
+AlineOturn checks
+janeck55 bets 160
+AlineOturn calls 160
+*** TURN *** [Th 6d Qc][6s]
+AlineOturn checks
+janeck55 bets 600
+AlineOturn calls 600
+*** RIVER *** [Th 6d Qc 6s][9c]
+AlineOturn checks
+janeck55 bets 240
+AlineOturn calls 240
+*** SHOW DOWN ***
+janeck55 shows [7c Kc] (One pair : 6)
+marmotte05 shows [4d Kd] (One pair : 6)
+AlineOturn shows [Kh Ks] (Two pairs : Kings and 6)
+AlineOturn collected 4945 from pot
+*** SUMMARY ***
+Total pot 4945 | No rake
+Board: [Th 6d Qc 6s 9c]
+Seat 1: janeck55 showed [7c Kc] and lost with One pair : 6
+Seat 4: marmotte05 (small blind) showed [4d Kd] and lost with One pair : 6
+Seat 7: AlineOturn showed [Kh Ks] and won 4945 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #630857002733535318-8-1455207337 - Holdem no limit (60/120) - 2016/02/11 16:15:37 UTC
+Table: 'Freeroll(146882842)#085' 8-max (real money) Seat #4 is the button
+Seat 1: janeck55 (1565)
+Seat 2: manggy94 (3150)
+Seat 3: fmidsk (3010)
+Seat 5: j pierre 59 (2910)
+Seat 6: YAYA4929 (2965)
+Seat 7: AlineOturn (10460)
+Seat 8: Dakarois82 (2940)
+*** ANTE/BLINDS ***
+j pierre 59 posts small blind 60
+YAYA4929 posts big blind 120
+Dealt to manggy94 [Th 3c]
+*** PRE-FLOP *** 
+AlineOturn calls 120
+Dakarois82 folds
+janeck55 folds
+manggy94 folds
+fmidsk calls 120
+j pierre 59 calls 60
+YAYA4929 folds
+*** FLOP *** [As 5s 2d]
+j pierre 59 checks
+AlineOturn checks
+fmidsk bets 120
+j pierre 59 calls 120
+AlineOturn calls 120
+*** TURN *** [As 5s 2d][Jc]
+j pierre 59 checks
+AlineOturn checks
+fmidsk checks
+*** RIVER *** [As 5s 2d Jc][Ac]
+j pierre 59 checks
+AlineOturn bets 120
+fmidsk raises 1080 to 1200
+j pierre 59 folds
+AlineOturn folds
+fmidsk collected 2160 from pot
+*** SUMMARY ***
+Total pot 2160 | No rake
+Board: [As 5s 2d Jc Ac]
+Seat 3: fmidsk won 2160
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #630857002733535318-9-1455207417 - Holdem no limit (60/120) - 2016/02/11 16:16:57 UTC
+Table: 'Freeroll(146882842)#085' 8-max (real money) Seat #5 is the button
+Seat 1: janeck55 (1565)
+Seat 2: manggy94 (3150)
+Seat 3: fmidsk (3730)
+Seat 4: carlitonto (2800)
+Seat 5: j pierre 59 (2670)
+Seat 6: YAYA4929 (2845)
+Seat 7: AlineOturn (10100)
+Seat 8: Dakarois82 (2940)
+*** ANTE/BLINDS ***
+YAYA4929 posts small blind 60
+AlineOturn posts big blind 120
+Dealt to manggy94 [2c Jc]
+*** PRE-FLOP *** 
+Dakarois82 raises 300 to 420
+janeck55 folds
+manggy94 folds
+fmidsk calls 420
+carlitonto folds
+j pierre 59 folds
+YAYA4929 folds
+AlineOturn calls 300
+*** FLOP *** [9d 2s Qc]
+AlineOturn bets 120
+Dakarois82 calls 120
+fmidsk folds
+*** TURN *** [9d 2s Qc][9h]
+AlineOturn bets 120
+Dakarois82 calls 120
+*** RIVER *** [9d 2s Qc 9h][9c]
+AlineOturn bets 120
+Dakarois82 calls 120
+*** SHOW DOWN ***
+Dakarois82 shows [Kc Js] (Trips of 9)
+AlineOturn shows [Tc Ah] (Trips of 9)
+AlineOturn collected 2040 from pot
+*** SUMMARY ***
+Total pot 2040 | No rake
+Board: [9d 2s Qc 9h 9c]
+Seat 7: AlineOturn (big blind) showed [Tc Ah] and won 2040 with Trips of 9
+Seat 8: Dakarois82 showed [Kc Js] and lost with Trips of 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #630857002733535318-10-1455207479 - Holdem no limit (60/120) - 2016/02/11 16:17:59 UTC
+Table: 'Freeroll(146882842)#085' 8-max (real money) Seat #6 is the button
+Seat 1: janeck55 (1565)
+Seat 2: manggy94 (3150)
+Seat 3: fmidsk (3310)
+Seat 4: carlitonto (2800)
+Seat 5: j pierre 59 (2670)
+Seat 6: YAYA4929 (2785)
+Seat 7: AlineOturn (11360)
+Seat 8: Dakarois82 (2160)
+*** ANTE/BLINDS ***
+AlineOturn posts small blind 60
+Dakarois82 posts big blind 120
+Dealt to manggy94 [Qc 7d]
+*** PRE-FLOP *** 
+janeck55 folds
+manggy94 calls 120
+fmidsk calls 120
+carlitonto folds
+j pierre 59 calls 120
+YAYA4929 folds
+AlineOturn calls 60
+Dakarois82 checks
+*** FLOP *** [9h 2d Kd]
+AlineOturn checks
+Dakarois82 checks
+manggy94 checks
+fmidsk bets 600
+j pierre 59 folds
+AlineOturn folds
+Dakarois82 folds
+manggy94 folds
+fmidsk collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [9h 2d Kd]
+Seat 3: fmidsk won 1200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #630857002733535318-11-1455207650 - Holdem no limit (10/60/120) - 2016/02/11 16:20:50 UTC
+Table: 'Freeroll(146882842)#085' 8-max (real money) Seat #7 is the button
+Seat 1: janeck55 (1565)
+Seat 2: manggy94 (3030)
+Seat 3: fmidsk (3790)
+Seat 4: carlitonto (2800)
+Seat 5: j pierre 59 (2550)
+Seat 6: YAYA4929 (2785)
+Seat 7: AlineOturn (11240)
+Seat 8: Dakarois82 (2040)
+*** ANTE/BLINDS ***
+Dakarois82 posts ante 10
+janeck55 posts ante 10
+manggy94 posts ante 10
+fmidsk posts ante 10
+carlitonto posts ante 10
+j pierre 59 posts ante 10
+YAYA4929 posts ante 10
+AlineOturn posts ante 10
+Dakarois82 posts small blind 60
+janeck55 posts big blind 120
+Dealt to manggy94 [Th Qd]
+*** PRE-FLOP *** 
+manggy94 calls 120
+fmidsk calls 120
+carlitonto folds
+j pierre 59 folds
+YAYA4929 folds
+AlineOturn folds
+Dakarois82 raises 1910 to 2030 and is all-in
+janeck55 folds
+manggy94 folds
+fmidsk folds
+Dakarois82 collected 2470 from pot
+*** SUMMARY ***
+Total pot 2470 | No rake
+Seat 8: Dakarois82 (small blind) won 2470
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #630857002733535318-12-1455207700 - Holdem no limit (15/75/150) - 2016/02/11 16:21:40 UTC
+Table: 'Freeroll(146882842)#085' 8-max (real money) Seat #8 is the button
+Seat 1: janeck55 (1435)
+Seat 2: manggy94 (2900)
+Seat 3: fmidsk (3660)
+Seat 4: carlitonto (2790)
+Seat 5: j pierre 59 (2540)
+Seat 6: YAYA4929 (2775)
+Seat 7: AlineOturn (11230)
+Seat 8: Dakarois82 (2470)
+*** ANTE/BLINDS ***
+janeck55 posts ante 15
+manggy94 posts ante 15
+fmidsk posts ante 15
+carlitonto posts ante 15
+j pierre 59 posts ante 15
+YAYA4929 posts ante 15
+AlineOturn posts ante 15
+Dakarois82 posts ante 15
+janeck55 posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [9c Tc]
+*** PRE-FLOP *** 
+fmidsk folds
+carlitonto calls 150
+j pierre 59 raises 150 to 300
+YAYA4929 folds
+AlineOturn calls 300
+Dakarois82 raises 2155 to 2455 and is all-in
+janeck55 calls 1345 and is all-in
+manggy94 folds
+carlitonto folds
+j pierre 59 raises 70 to 2525 and is all-in
+AlineOturn folds
+*** FLOP *** [4h 2d Qh]
+*** TURN *** [4h 2d Qh][6h]
+*** RIVER *** [4h 2d Qh 6h][9h]
+*** SHOW DOWN ***
+janeck55 shows [Jc 9s] (One pair : 9)
+Dakarois82 shows [8d 5d] (High card : Queen)
+j pierre 59 shows [Ah As] (Flush Ace high)
+j pierre 59 collected 7120 from pot
+*** SUMMARY ***
+Total pot 7120 | No rake
+Board: [4h 2d Qh 6h 9h]
+Seat 1: janeck55 (small blind) showed [Jc 9s] and lost with One pair : 9
+Seat 5: j pierre 59 showed [Ah As] and won 7120 with Flush Ace high
+Seat 8: Dakarois82 (button) showed [8d 5d] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #630857002733535318-13-1455207762 - Holdem no limit (15/75/150) - 2016/02/11 16:22:42 UTC
+Table: 'Freeroll(146882842)#085' 8-max (real money) Seat #1 is the button
+Seat 2: manggy94 (2735)
+Seat 3: fmidsk (3645)
+Seat 4: carlitonto (2625)
+Seat 5: j pierre 59 (7120)
+Seat 6: YAYA4929 (2760)
+Seat 7: AlineOturn (10915)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+fmidsk posts ante 15
+carlitonto posts ante 15
+j pierre 59 posts ante 15
+YAYA4929 posts ante 15
+AlineOturn posts ante 15
+manggy94 posts small blind 75
+fmidsk posts big blind 150
+Dealt to manggy94 [Qc As]
+*** PRE-FLOP *** 
+carlitonto folds
+j pierre 59 folds
+YAYA4929 folds
+AlineOturn calls 150
+manggy94 raises 540 to 690
+fmidsk calls 540
+AlineOturn calls 540
+*** FLOP *** [6s 9s 5h]
+manggy94 bets 2030 and is all-in
+fmidsk calls 2030
+AlineOturn folds
+*** TURN *** [6s 9s 5h][Qs]
+*** RIVER *** [6s 9s 5h Qs][7d]
+*** SHOW DOWN ***
+manggy94 shows [Qc As] (One pair : Queens)
+fmidsk shows [9c Qh] (Two pairs : Queens and 9)
+fmidsk collected 6220 from pot
+*** SUMMARY ***
+Total pot 6220 | No rake
+Board: [6s 9s 5h Qs 7d]
+Seat 2: manggy94 (small blind) showed [Qc As] and lost with One pair : Queens
+Seat 3: fmidsk (big blind) showed [9c Qh] and won 6220 with Two pairs : Queens and 9
+
+

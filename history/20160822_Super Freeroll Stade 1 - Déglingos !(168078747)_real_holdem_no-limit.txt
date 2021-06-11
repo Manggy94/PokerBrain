@@ -1,0 +1,79 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #721892721517658113-1-1471876102 - Holdem no limit (10/20) - 2016/08/22 14:28:22 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(168078747)#0' 6-max (real money) Seat #6 is the button
+Seat 1: cactus60 (500)
+Seat 2: vicomte (500)
+Seat 3: eclipse71 (500)
+Seat 4: manggy94 (500)
+Seat 5: VICLOU (500)
+Seat 6: batman17270 (500)
+*** ANTE/BLINDS ***
+cactus60 posts small blind 10
+vicomte posts big blind 20
+Dealt to manggy94 [Qh Tc]
+*** PRE-FLOP *** 
+eclipse71 calls 20
+manggy94 calls 20
+VICLOU folds
+batman17270 folds
+cactus60 folds
+vicomte checks
+*** FLOP *** [As 5s Jd]
+vicomte checks
+eclipse71 bets 20
+manggy94 calls 20
+vicomte folds
+*** TURN *** [As 5s Jd][6h]
+eclipse71 bets 20
+manggy94 calls 20
+*** RIVER *** [As 5s Jd 6h][6s]
+eclipse71 bets 150
+manggy94 raises 150 to 300
+eclipse71 calls 150
+*** SHOW DOWN ***
+manggy94 shows [Qh Tc] (One pair : 6)
+eclipse71 shows [Ks 4s] (Flush Ace high)
+eclipse71 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [As 5s Jd 6h 6s]
+Seat 3: eclipse71 showed [Ks 4s] and won 750 with Flush Ace high
+Seat 4: manggy94 showed [Qh Tc] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #721892721517658113-2-1471876199 - Holdem no limit (10/20) - 2016/08/22 14:29:59 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(168078747)#0' 6-max (real money) Seat #1 is the button
+Seat 1: cactus60 (490)
+Seat 2: vicomte (480)
+Seat 3: eclipse71 (890)
+Seat 4: manggy94 (140)
+Seat 5: VICLOU (500)
+Seat 6: batman17270 (500)
+*** ANTE/BLINDS ***
+vicomte posts small blind 10
+eclipse71 posts big blind 20
+Dealt to manggy94 [4s Js]
+*** PRE-FLOP *** 
+manggy94 raises 120 to 140 and is all-in
+VICLOU folds
+batman17270 raises 360 to 500 and is all-in
+cactus60 calls 490 and is all-in
+vicomte folds
+eclipse71 calls 480
+*** FLOP *** [Ks 2s 2c]
+*** TURN *** [Ks 2s 2c][4c]
+*** RIVER *** [Ks 2s 2c 4c][8c]
+*** SHOW DOWN ***
+cactus60 shows [Jd Ac] (One pair : 2)
+manggy94 shows [4s Js] (Two pairs : 4 and 2)
+batman17270 shows [8d 4d] (Two pairs : 8 and 4)
+eclipse71 shows [Qh Kc] (Two pairs : Kings and 2)
+eclipse71 collected 1640 from pot
+*** SUMMARY ***
+Total pot 1640 | No rake
+Board: [Ks 2s 2c 4c 8c]
+Seat 1: cactus60 (button) showed [Jd Ac] and lost with One pair : 2
+Seat 3: eclipse71 (big blind) showed [Qh Kc] and won 1640 with Two pairs : Kings and 2
+Seat 4: manggy94 showed [4s Js] and lost with Two pairs : 4 and 2
+Seat 6: batman17270 showed [8d 4d] and lost with Two pairs : 8 and 4
+
+

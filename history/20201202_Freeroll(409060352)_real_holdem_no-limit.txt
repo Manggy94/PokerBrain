@@ -1,0 +1,343 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #1756900833930248507-31-1606920745 - Holdem no limit (50/200/400) - 2020/12/02 14:52:25 UTC
+Table: 'Freeroll(409060352)#0314' 8-max (real money) Seat #8 is the button
+Seat 1: Originally96 (22479)
+Seat 2: NADJYM (124756)
+Seat 3: labuZe (37872)
+Seat 4: manggy94 (20000)
+Seat 5: Maskajaz (67927)
+Seat 6: RedW-rigged (46956)
+Seat 7: PatientZRO (15792)
+Seat 8: hellbee (17676)
+*** ANTE/BLINDS ***
+Originally96 posts ante 50
+NADJYM posts ante 50
+labuZe posts ante 50
+manggy94 posts ante 50
+Maskajaz posts ante 50
+RedW-rigged posts ante 50
+PatientZRO posts ante 50
+hellbee posts ante 50
+Originally96 posts small blind 200
+NADJYM posts big blind 400
+Dealt to manggy94 [4c 7h]
+*** PRE-FLOP *** 
+labuZe folds
+manggy94 folds
+Maskajaz calls 400
+RedW-rigged calls 400
+PatientZRO folds
+hellbee folds
+Originally96 calls 200
+NADJYM checks
+*** FLOP *** [7d 9c Jc]
+Originally96 checks
+NADJYM checks
+Maskajaz bets 400
+RedW-rigged folds
+Originally96 calls 400
+NADJYM folds
+*** TURN *** [7d 9c Jc][Ks]
+Originally96 checks
+Maskajaz bets 400
+Originally96 folds
+Maskajaz collected 3200 from pot
+*** SUMMARY ***
+Total pot 3200 | No rake
+Board: [7d 9c Jc Ks]
+Seat 5: Maskajaz won 3200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1756900833930248507-32-1606920780 - Holdem no limit (60/250/500) - 2020/12/02 14:53:00 UTC
+Table: 'Freeroll(409060352)#0314' 8-max (real money) Seat #1 is the button
+Seat 1: Originally96 (21629)
+Seat 2: NADJYM (124306)
+Seat 3: labuZe (37822)
+Seat 4: manggy94 (19950)
+Seat 5: Maskajaz (69877)
+Seat 6: RedW-rigged (46506)
+Seat 7: PatientZRO (15742)
+Seat 8: hellbee (17626)
+*** ANTE/BLINDS ***
+NADJYM posts ante 60
+labuZe posts ante 60
+Originally96 posts ante 60
+manggy94 posts ante 60
+Maskajaz posts ante 60
+RedW-rigged posts ante 60
+PatientZRO posts ante 60
+hellbee posts ante 60
+NADJYM posts small blind 250
+labuZe posts big blind 500
+Dealt to manggy94 [7c 5h]
+*** PRE-FLOP *** 
+manggy94 folds
+Maskajaz calls 500
+RedW-rigged folds
+PatientZRO folds
+hellbee folds
+Originally96 folds
+NADJYM folds
+labuZe checks
+*** FLOP *** [Qd Jh 4h]
+labuZe checks
+Maskajaz checks
+*** TURN *** [Qd Jh 4h][As]
+labuZe checks
+Maskajaz checks
+*** RIVER *** [Qd Jh 4h As][8d]
+labuZe checks
+Maskajaz bets 500
+labuZe calls 500
+*** SHOW DOWN ***
+Maskajaz shows [Kd 6c] (High card : Ace)
+labuZe shows [8c Ts] (One pair : 8)
+labuZe collected 2730 from pot
+*** SUMMARY ***
+Total pot 2730 | No rake
+Board: [Qd Jh 4h As 8d]
+Seat 3: labuZe (big blind) showed [8c Ts] and won 2730 with One pair : 8
+Seat 5: Maskajaz showed [Kd 6c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1756900833930248507-33-1606920813 - Holdem no limit (60/250/500) - 2020/12/02 14:53:33 UTC
+Table: 'Freeroll(409060352)#0314' 8-max (real money) Seat #2 is the button
+Seat 1: Originally96 (21569)
+Seat 2: NADJYM (123996)
+Seat 3: labuZe (39492)
+Seat 4: manggy94 (19890)
+Seat 5: Maskajaz (68817)
+Seat 6: RedW-rigged (46446)
+Seat 7: PatientZRO (15682)
+Seat 8: hellbee (17566)
+*** ANTE/BLINDS ***
+labuZe posts ante 60
+manggy94 posts ante 60
+Originally96 posts ante 60
+NADJYM posts ante 60
+Maskajaz posts ante 60
+RedW-rigged posts ante 60
+PatientZRO posts ante 60
+hellbee posts ante 60
+labuZe posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [7s 2h]
+*** PRE-FLOP *** 
+Maskajaz calls 500
+RedW-rigged raises 45886 to 46386 and is all-in
+PatientZRO folds
+hellbee folds
+Originally96 calls 21509 and is all-in
+NADJYM calls 46386
+labuZe folds
+manggy94 folds
+Maskajaz folds
+*** FLOP *** [6h Th 3c]
+*** TURN *** [6h Th 3c][Qd]
+*** RIVER *** [6h Th 3c Qd][Jd]
+*** SHOW DOWN ***
+NADJYM shows [5c 2c] (High card : Queen)
+Originally96 shows [Qs Ad] (One pair : Queens)
+RedW-rigged shows [Ts Ac] (One pair : Tens)
+RedW-rigged collected 49754 from side pot 1
+Originally96 collected 66257 from main pot
+*** SUMMARY ***
+Total pot 116011 | No rake
+Board: [6h Th 3c Qd Jd]
+Seat 1: Originally96 showed [Qs Ad] and won 66257 with One pair : Queens
+Seat 2: NADJYM (button) showed [5c 2c] and lost with High card : Queen
+Seat 6: RedW-rigged showed [Ts Ac] and won 49754 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1756900833930248507-34-1606920839 - Holdem no limit (60/250/500) - 2020/12/02 14:53:59 UTC
+Table: 'Freeroll(409060352)#0314' 8-max (real money) Seat #3 is the button
+Seat 1: Originally96 (66257)
+Seat 2: NADJYM (77550)
+Seat 3: labuZe (39182)
+Seat 4: manggy94 (19330)
+Seat 5: Maskajaz (68257)
+Seat 6: RedW-rigged (49754)
+Seat 7: PatientZRO (15622)
+Seat 8: hellbee (17506)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+Maskajaz posts ante 60
+Originally96 posts ante 60
+NADJYM posts ante 60
+labuZe posts ante 60
+RedW-rigged posts ante 60
+PatientZRO posts ante 60
+hellbee posts ante 60
+manggy94 posts small blind 250
+Maskajaz posts big blind 500
+Dealt to manggy94 [4d 3d]
+*** PRE-FLOP *** 
+RedW-rigged calls 500
+PatientZRO folds
+hellbee folds
+Originally96 calls 500
+NADJYM raises 76990 to 77490 and is all-in
+labuZe folds
+manggy94 folds
+Maskajaz folds
+RedW-rigged calls 49194 and is all-in
+Originally96 calls 65697 and is all-in
+*** FLOP *** [2s 9c Qh]
+*** TURN *** [2s 9c Qh][2c]
+*** RIVER *** [2s 9c Qh 2c][7c]
+*** SHOW DOWN ***
+Originally96 shows [8d Kd] (One pair : 2)
+NADJYM shows [5s Ks] (One pair : 2)
+RedW-rigged shows [Qc Ac] (Flush Ace high)
+RedW-rigged collected 150312 from main pot
+NADJYM collected 27796 from side pot 2
+Originally96 collected 16503 from side pot 1
+*** SUMMARY ***
+Total pot 194611 | No rake
+Board: [2s 9c Qh 2c 7c]
+Seat 1: Originally96 showed [8d Kd] and won 16503 with One pair : 2
+Seat 2: NADJYM showed [5s Ks] and won 27796 with One pair : 2
+Seat 6: RedW-rigged showed [Qc Ac] and won 150312 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1756900833930248507-35-1606920870 - Holdem no limit (60/250/500) - 2020/12/02 14:54:30 UTC
+Table: 'Freeroll(409060352)#0314' 8-max (real money) Seat #4 is the button
+Seat 1: Originally96 (16503)
+Seat 2: NADJYM (27796)
+Seat 3: labuZe (39122)
+Seat 4: manggy94 (19020)
+Seat 5: Maskajaz (67697)
+Seat 6: RedW-rigged (150312)
+Seat 7: PatientZRO (15562)
+Seat 8: hellbee (17446)
+*** ANTE/BLINDS ***
+Maskajaz posts ante 60
+RedW-rigged posts ante 60
+Originally96 posts ante 60
+NADJYM posts ante 60
+labuZe posts ante 60
+manggy94 posts ante 60
+PatientZRO posts ante 60
+hellbee posts ante 60
+Maskajaz posts small blind 250
+RedW-rigged posts big blind 500
+Dealt to manggy94 [6h 3c]
+*** PRE-FLOP *** 
+PatientZRO calls 500
+hellbee folds
+Originally96 folds
+NADJYM raises 27236 to 27736 and is all-in
+labuZe folds
+manggy94 folds
+Maskajaz calls 27486
+RedW-rigged folds
+PatientZRO calls 15002 and is all-in
+*** FLOP *** [8d 2s Qd]
+*** TURN *** [8d 2s Qd][2d]
+*** RIVER *** [8d 2s Qd 2d][5s]
+*** SHOW DOWN ***
+NADJYM shows [7s Ks] (One pair : 2)
+PatientZRO shows [9s 9d] (Two pairs : 9 and 2)
+Maskajaz shows [Qh Ts] (Two pairs : Queens and 2)
+Maskajaz collected 71954 from pot
+*** SUMMARY ***
+Total pot 71954 | No rake
+Board: [8d 2s Qd 2d 5s]
+Seat 2: NADJYM showed [7s Ks] and lost with One pair : 2
+Seat 5: Maskajaz (small blind) showed [Qh Ts] and won 71954 with Two pairs : Queens and 2
+Seat 7: PatientZRO showed [9s 9d] and lost with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1756900833930248507-36-1606921264 - Holdem no limit (60/250/500) - 2020/12/02 15:01:04 UTC
+Table: 'Freeroll(409060352)#0314' 8-max (real money) Seat #5 is the button
+Seat 1: Originally96 (16443)
+Seat 2: setimig 17 (20000)
+Seat 3: labuZe (39062)
+Seat 4: manggy94 (18960)
+Seat 5: Maskajaz (111855)
+Seat 6: RedW-rigged (149752)
+Seat 7: YasSsVegasSs (20000)
+Seat 8: hellbee (17386)
+*** ANTE/BLINDS ***
+RedW-rigged posts ante 60
+YasSsVegasSs posts ante 60
+Originally96 posts ante 60
+setimig 17 posts ante 60
+labuZe posts ante 60
+manggy94 posts ante 60
+Maskajaz posts ante 60
+hellbee posts ante 60
+RedW-rigged posts small blind 250
+YasSsVegasSs posts big blind 500
+Dealt to manggy94 [2h 6s]
+*** PRE-FLOP *** 
+hellbee folds
+Originally96 folds
+setimig 17 raises 19440 to 19940 and is all-in
+labuZe folds
+manggy94 folds
+Maskajaz folds
+RedW-rigged calls 19690
+YasSsVegasSs folds
+*** FLOP *** [3h Ks 8d]
+*** TURN *** [3h Ks 8d][4d]
+*** RIVER *** [3h Ks 8d 4d][Ad]
+*** SHOW DOWN ***
+setimig 17 shows [9s 7c] (High card : Ace)
+RedW-rigged shows [Ah Jh] (One pair : Aces)
+RedW-rigged collected 40860 from pot
+*** SUMMARY ***
+Total pot 40860 | No rake
+Board: [3h Ks 8d 4d Ad]
+Seat 2: setimig 17 showed [9s 7c] and lost with High card : Ace
+Seat 6: RedW-rigged (small blind) showed [Ah Jh] and won 40860 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #1756900833930248507-37-1606921364 - Holdem no limit (70/300/600) - 2020/12/02 15:02:44 UTC
+Table: 'Freeroll(409060352)#0314' 8-max (real money) Seat #6 is the button
+Seat 1: Originally96 (16383)
+Seat 2: DAGDOUGE1955 (20000)
+Seat 3: labuZe (39002)
+Seat 4: manggy94 (18900)
+Seat 5: Maskajaz (111795)
+Seat 6: RedW-rigged (170612)
+Seat 7: YasSsVegasSs (19440)
+Seat 8: hellbee (17326)
+*** ANTE/BLINDS ***
+YasSsVegasSs posts ante 70
+hellbee posts ante 70
+Originally96 posts ante 70
+DAGDOUGE1955 posts ante 70
+labuZe posts ante 70
+manggy94 posts ante 70
+Maskajaz posts ante 70
+RedW-rigged posts ante 70
+YasSsVegasSs posts small blind 300
+hellbee posts big blind 600
+Dealt to manggy94 [9h 7h]
+*** PRE-FLOP *** 
+Originally96 folds
+DAGDOUGE1955 folds
+labuZe folds
+manggy94 calls 600
+Maskajaz folds
+RedW-rigged folds
+YasSsVegasSs raises 1200 to 1800
+hellbee folds
+manggy94 calls 1200
+*** FLOP *** [8h 4h 8d]
+YasSsVegasSs bets 1044
+manggy94 raises 15986 to 17030 and is all-in
+YasSsVegasSs calls 15986
+*** TURN *** [8h 4h 8d][Jc]
+*** RIVER *** [8h 4h 8d Jc][4d]
+*** SHOW DOWN ***
+manggy94 shows [9h 7h] (Two pairs : 8 and 4)
+YasSsVegasSs shows [Kc Ah] (Two pairs : 8 and 4)
+YasSsVegasSs collected 38820 from pot
+*** SUMMARY ***
+Total pot 38820 | No rake
+Board: [8h 4h 8d Jc 4d]
+Seat 4: manggy94 showed [9h 7h] and lost with Two pairs : 8 and 4
+Seat 7: YasSsVegasSs (small blind) showed [Kc Ah] and won 38820 with Two pairs : 8 and 4
+
+

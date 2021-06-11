@@ -1,0 +1,425 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #541159179147018342-1-1439370025 - Holdem no limit (10/20) - 2015/08/12 09:00:25 UTC
+Table: 'Freeroll(125998440)#101' 9-max (real money) Seat #1 is the button
+Seat 1: DJJM (3000)
+Seat 2: NIICO2704 (3000)
+Seat 3: JJP92 (3000)
+Seat 4: reveilmatin (3000)
+Seat 5: SNT89 (3000)
+Seat 6: midol6 (3000)
+Seat 7: manggy94 (3000)
+Seat 8: miguel3004 (3000)
+Seat 9: le litalien (3000)
+*** ANTE/BLINDS ***
+NIICO2704 posts small blind 10
+JJP92 posts big blind 20
+Dealt to manggy94 [3c 8h]
+*** PRE-FLOP *** 
+reveilmatin calls 20
+SNT89 calls 20
+midol6 raises 2980 to 3000 and is all-in
+manggy94 folds
+miguel3004 folds
+le litalien folds
+DJJM folds
+NIICO2704 folds
+JJP92 folds
+reveilmatin calls 2980 and is all-in
+SNT89 folds
+*** FLOP *** [2d 6d 9c]
+*** TURN *** [2d 6d 9c][5h]
+*** RIVER *** [2d 6d 9c 5h][6h]
+*** SHOW DOWN ***
+midol6 shows [Ks Qd] (One pair : 6)
+reveilmatin shows [Ad 6c] (Trips of 6)
+reveilmatin collected 6050 from pot
+*** SUMMARY ***
+Total pot 6050 | No rake
+Board: [2d 6d 9c 5h 6h]
+Seat 4: reveilmatin showed [Ad 6c] and won 6050 with Trips of 6
+Seat 6: midol6 showed [Ks Qd] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #541159179147018342-2-1439370127 - Holdem no limit (10/20) - 2015/08/12 09:02:07 UTC
+Table: 'Freeroll(125998440)#101' 9-max (real money) Seat #2 is the button
+Seat 1: DJJM (3000)
+Seat 2: NIICO2704 (2990)
+Seat 3: JJP92 (2980)
+Seat 4: reveilmatin (6050)
+Seat 5: SNT89 (2980)
+Seat 6: ytram0815 (3000)
+Seat 7: manggy94 (3000)
+Seat 8: miguel3004 (3000)
+Seat 9: le litalien (3000)
+*** ANTE/BLINDS ***
+JJP92 posts small blind 10
+reveilmatin posts big blind 20
+Dealt to manggy94 [Tc 3h]
+*** PRE-FLOP *** 
+SNT89 calls 20
+ytram0815 calls 20
+manggy94 folds
+miguel3004 folds
+le litalien raises 2980 to 3000 and is all-in
+DJJM folds
+NIICO2704 calls 2990 and is all-in
+JJP92 folds
+reveilmatin folds
+SNT89 folds
+ytram0815 folds
+*** FLOP *** [5d 5s 6h]
+*** TURN *** [5d 5s 6h][5c]
+*** RIVER *** [5d 5s 6h 5c][5h]
+*** SHOW DOWN ***
+NIICO2704 shows [Ac Kd] (Quads of 5)
+le litalien shows [2h Ah] (Quads of 5)
+le litalien collected 3035 from side pot 1
+NIICO2704 collected 3025 from main pot
+*** SUMMARY ***
+Total pot 6060 | No rake
+Board: [5d 5s 6h 5c 5h]
+Seat 2: NIICO2704 (button) showed [Ac Kd] and won 3025 with Quads of 5
+Seat 9: le litalien showed [2h Ah] and won 3035 with Quads of 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #541159179147018342-3-1439370168 - Holdem no limit (10/20) - 2015/08/12 09:02:48 UTC
+Table: 'Freeroll(125998440)#101' 9-max (real money) Seat #3 is the button
+Seat 1: DJJM (3000)
+Seat 2: NIICO2704 (3025)
+Seat 3: JJP92 (2970)
+Seat 4: reveilmatin (6030)
+Seat 5: SNT89 (2960)
+Seat 6: ytram0815 (2980)
+Seat 7: manggy94 (3000)
+Seat 8: miguel3004 (3000)
+Seat 9: le litalien (3035)
+*** ANTE/BLINDS ***
+reveilmatin posts small blind 10
+SNT89 posts big blind 20
+Dealt to manggy94 [8h 7s]
+*** PRE-FLOP *** 
+ytram0815 calls 20
+manggy94 folds
+miguel3004 calls 20
+le litalien folds
+DJJM folds
+NIICO2704 folds
+JJP92 folds
+reveilmatin calls 10
+SNT89 checks
+*** FLOP *** [Kd Tc Ac]
+reveilmatin checks
+SNT89 checks
+ytram0815 checks
+miguel3004 checks
+*** TURN *** [Kd Tc Ac][Kc]
+reveilmatin checks
+SNT89 bets 20
+ytram0815 calls 20
+miguel3004 calls 20
+reveilmatin calls 20
+*** RIVER *** [Kd Tc Ac Kc][3c]
+reveilmatin checks
+SNT89 bets 2920 and is all-in
+ytram0815 folds
+miguel3004 folds
+reveilmatin folds
+SNT89 collected 3080 from pot
+*** SUMMARY ***
+Total pot 3080 | No rake
+Board: [Kd Tc Ac Kc 3c]
+Seat 5: SNT89 (big blind) won 3080
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #541159179147018342-4-1439370219 - Holdem no limit (15/30) - 2015/08/12 09:03:39 UTC
+Table: 'Freeroll(125998440)#101' 9-max (real money) Seat #4 is the button
+Seat 1: DJJM (3000)
+Seat 2: NIICO2704 (3025)
+Seat 3: JJP92 (2970)
+Seat 4: reveilmatin (5990)
+Seat 5: SNT89 (3080)
+Seat 6: choupette-06 (2970)
+Seat 7: manggy94 (3000)
+Seat 8: miguel3004 (2960)
+Seat 9: le litalien (3035)
+*** ANTE/BLINDS ***
+SNT89 posts small blind 15
+choupette-06 posts big blind 30
+Dealt to manggy94 [Ts As]
+*** PRE-FLOP *** 
+manggy94 calls 30
+miguel3004 calls 30
+le litalien calls 30
+DJJM folds
+NIICO2704 calls 30
+JJP92 folds
+reveilmatin calls 30
+SNT89 calls 15
+choupette-06 checks
+*** FLOP *** [Ah 6c 6s]
+SNT89 checks
+choupette-06 checks
+manggy94 checks
+miguel3004 checks
+le litalien checks
+NIICO2704 checks
+reveilmatin checks
+*** TURN *** [Ah 6c 6s][9d]
+SNT89 checks
+choupette-06 checks
+manggy94 bets 210
+miguel3004 folds
+le litalien folds
+NIICO2704 folds
+reveilmatin calls 210
+SNT89 folds
+choupette-06 folds
+*** RIVER *** [Ah 6c 6s 9d][4s]
+manggy94 checks
+reveilmatin bets 75
+manggy94 calls 75
+*** SHOW DOWN ***
+manggy94 shows [Ts As] (Two pairs : Aces and 6)
+reveilmatin shows [4h 4d] (Full of 4 and 6)
+reveilmatin collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [Ah 6c 6s 9d 4s]
+Seat 4: reveilmatin (button) showed [4h 4d] and won 780 with Full of 4 and 6
+Seat 7: manggy94 showed [Ts As] and lost with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #541159179147018342-5-1439370294 - Holdem no limit (15/30) - 2015/08/12 09:04:54 UTC
+Table: 'Freeroll(125998440)#101' 9-max (real money) Seat #5 is the button
+Seat 1: DJJM (3000)
+Seat 2: NIICO2704 (2995)
+Seat 3: JJP92 (2970)
+Seat 4: reveilmatin (6455)
+Seat 5: SNT89 (3050)
+Seat 6: choupette-06 (2940)
+Seat 7: manggy94 (2685)
+Seat 8: miguel3004 (2930)
+Seat 9: le litalien (3005)
+*** ANTE/BLINDS ***
+choupette-06 posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [5c Jc]
+*** PRE-FLOP *** 
+miguel3004 calls 30
+le litalien calls 30
+DJJM folds
+NIICO2704 raises 30 to 60
+JJP92 raises 225 to 285
+reveilmatin folds
+SNT89 folds
+choupette-06 folds
+manggy94 folds
+miguel3004 calls 255
+le litalien folds
+NIICO2704 calls 225
+*** FLOP *** [5s Ts 3d]
+miguel3004 checks
+NIICO2704 bets 30
+JJP92 raises 2655 to 2685 and is all-in
+miguel3004 folds
+NIICO2704 calls 2655
+*** TURN *** [5s Ts 3d][Ac]
+*** RIVER *** [5s Ts 3d Ac][4s]
+*** SHOW DOWN ***
+NIICO2704 shows [Qh Th] (One pair : Tens)
+JJP92 shows [2s 2c] (Straight 5 high)
+JJP92 collected 6300 from pot
+*** SUMMARY ***
+Total pot 6300 | No rake
+Board: [5s Ts 3d Ac 4s]
+Seat 2: NIICO2704 showed [Qh Th] and lost with One pair : Tens
+Seat 3: JJP92 showed [2s 2c] and won 6300 with Straight 5 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #541159179147018342-6-1439370358 - Holdem no limit (15/30) - 2015/08/12 09:05:58 UTC
+Table: 'Freeroll(125998440)#101' 9-max (real money) Seat #6 is the button
+Seat 1: DJJM (3000)
+Seat 2: NIICO2704 (25)
+Seat 3: JJP92 (6300)
+Seat 4: reveilmatin (6455)
+Seat 5: SNT89 (3050)
+Seat 6: choupette-06 (2925)
+Seat 7: manggy94 (2655)
+Seat 8: miguel3004 (2645)
+Seat 9: le litalien (2975)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+miguel3004 posts big blind 30
+Dealt to manggy94 [9d Kc]
+*** PRE-FLOP *** 
+le litalien folds
+DJJM folds
+NIICO2704 calls 25 and is all-in
+JJP92 raises 30 to 60
+reveilmatin folds
+SNT89 calls 60
+choupette-06 calls 60
+manggy94 calls 45
+miguel3004 calls 30
+*** FLOP *** [Td 3h 7d]
+manggy94 checks
+miguel3004 bets 30
+JJP92 raises 385 to 415
+SNT89 folds
+choupette-06 folds
+manggy94 folds
+miguel3004 calls 385
+*** TURN *** [Td 3h 7d][Qh]
+miguel3004 bets 30
+JJP92 raises 1215 to 1245
+miguel3004 folds
+*** RIVER *** [Td 3h 7d Qh][9c]
+*** SHOW DOWN ***
+NIICO2704 shows [5h Th] (One pair : Tens)
+JJP92 shows [8d 9h] (One pair : 9)
+JJP92 collected 2280 from side pot 1
+NIICO2704 collected 150 from main pot
+*** SUMMARY ***
+Total pot 2430 | No rake
+Board: [Td 3h 7d Qh 9c]
+Seat 2: NIICO2704 showed [5h Th] and won 150 with One pair : Tens
+Seat 3: JJP92 showed [8d 9h] and won 2280 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #541159179147018342-7-1439370408 - Holdem no limit (20/40) - 2015/08/12 09:06:48 UTC
+Table: 'Freeroll(125998440)#101' 9-max (real money) Seat #7 is the button
+Seat 1: DJJM (3000)
+Seat 2: NIICO2704 (150)
+Seat 3: JJP92 (6860)
+Seat 4: reveilmatin (6455)
+Seat 5: SNT89 (2990)
+Seat 6: choupette-06 (2865)
+Seat 7: manggy94 (2595)
+Seat 8: miguel3004 (2140)
+Seat 9: le litalien (2975)
+*** ANTE/BLINDS ***
+miguel3004 posts small blind 20
+le litalien posts big blind 40
+Dealt to manggy94 [2d Ac]
+*** PRE-FLOP *** 
+DJJM folds
+NIICO2704 raises 109 to 149
+JJP92 raises 109 to 258
+reveilmatin folds
+SNT89 folds
+choupette-06 calls 258
+manggy94 raises 983 to 1241
+miguel3004 raises 899 to 2140 and is all-in
+le litalien folds
+NIICO2704 calls 1 and is all-in
+JJP92 folds
+choupette-06 folds
+manggy94 calls 899
+*** FLOP *** [8c Ah 6c]
+*** TURN *** [8c Ah 6c][Th]
+*** RIVER *** [8c Ah 6c Th][Td]
+*** SHOW DOWN ***
+manggy94 shows [2d Ac] (Two pairs : Aces and Tens)
+NIICO2704 shows [Ts 6h] (Full of Tens and 6)
+miguel3004 shows [Ad 9s] (Two pairs : Aces and Tens)
+miguel3004 collected 4196 from side pot 1
+NIICO2704 collected 790 from main pot
+*** SUMMARY ***
+Total pot 4986 | No rake
+Board: [8c Ah 6c Th Td]
+Seat 2: NIICO2704 showed [Ts 6h] and won 790 with Full of Tens and 6
+Seat 7: manggy94 (button) showed [2d Ac] and lost with Two pairs : Aces and Tens
+Seat 8: miguel3004 (small blind) showed [Ad 9s] and won 4196 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #541159179147018342-8-1439370446 - Holdem no limit (20/40) - 2015/08/12 09:07:26 UTC
+Table: 'Freeroll(125998440)#101' 9-max (real money) Seat #8 is the button
+Seat 1: DJJM (3000)
+Seat 2: NIICO2704 (790)
+Seat 3: JJP92 (6602)
+Seat 4: reveilmatin (6455)
+Seat 5: SNT89 (2990)
+Seat 6: choupette-06 (2607)
+Seat 7: manggy94 (455)
+Seat 8: miguel3004 (4196)
+Seat 9: le litalien (2935)
+*** ANTE/BLINDS ***
+le litalien posts small blind 20
+DJJM posts big blind 40
+Dealt to manggy94 [2h 3d]
+*** PRE-FLOP *** 
+NIICO2704 raises 750 to 790 and is all-in
+JJP92 folds
+reveilmatin folds
+SNT89 calls 790
+choupette-06 raises 1817 to 2607 and is all-in
+manggy94 folds
+miguel3004 folds
+le litalien folds
+DJJM folds
+SNT89 calls 1817
+*** FLOP *** [9d 5d Td]
+*** TURN *** [9d 5d Td][Jd]
+*** RIVER *** [9d 5d Td Jd][6h]
+*** SHOW DOWN ***
+NIICO2704 shows [7d 4s] (Flush Jack high)
+choupette-06 shows [As Jc] (One pair : Jacks)
+SNT89 shows [Qc Qd] (Flush Queen high)
+SNT89 collected 6064 from pot
+*** SUMMARY ***
+Total pot 6064 | No rake
+Board: [9d 5d Td Jd 6h]
+Seat 2: NIICO2704 showed [7d 4s] and lost with Flush Jack high
+Seat 5: SNT89 showed [Qc Qd] and won 6064 with Flush Queen high
+Seat 6: choupette-06 showed [As Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #541159179147018342-9-1439370474 - Holdem no limit (20/40) - 2015/08/12 09:07:54 UTC
+Table: 'Freeroll(125998440)#101' 9-max (real money) Seat #9 is the button
+Seat 1: DJJM (2960)
+Seat 2: kqlou (6080)
+Seat 3: JJP92 (6602)
+Seat 4: reveilmatin (6455)
+Seat 5: SNT89 (6447)
+Seat 6: Smoking38 (3070)
+Seat 7: manggy94 (455)
+Seat 8: miguel3004 (4196)
+Seat 9: le litalien (2915)
+*** ANTE/BLINDS ***
+DJJM posts small blind 20
+kqlou posts big blind 40
+Dealt to manggy94 [4h Ah]
+*** PRE-FLOP *** 
+JJP92 raises 40 to 80
+reveilmatin folds
+SNT89 calls 80
+Smoking38 folds
+manggy94 raises 375 to 455 and is all-in
+miguel3004 raises 598 to 1053
+le litalien folds
+DJJM folds
+kqlou folds
+JJP92 calls 973
+SNT89 folds
+*** FLOP *** [Jd 4d 7s]
+JJP92 bets 40
+miguel3004 raises 40 to 80
+JJP92 calls 40
+*** TURN *** [Jd 4d 7s][Qc]
+JJP92 bets 40
+miguel3004 raises 851 to 891
+JJP92 calls 851
+*** RIVER *** [Jd 4d 7s Qc][7c]
+JJP92 bets 40
+miguel3004 raises 2132 to 2172 and is all-in
+JJP92 folds
+*** SHOW DOWN ***
+manggy94 shows [4h Ah] (Two pairs : 7 and 4)
+miguel3004 shows [Qh 8h] (Two pairs : Queens and 7)
+miguel3004 collected 6855 from pot
+*** SUMMARY ***
+Total pot 6855 | No rake
+Board: [Jd 4d 7s Qc 7c]
+Seat 7: manggy94 showed [4h Ah] and lost with Two pairs : 7 and 4
+Seat 8: miguel3004 showed [Qh 8h] and won 6855 with Two pairs : Queens and 7
+
+

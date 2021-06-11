@@ -1,0 +1,71 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #713778183970750465-1-1470159708 - Holdem no limit (10/20) - 2016/08/02 17:41:48 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166189434)#0' 6-max (real money) Seat #1 is the button
+Seat 1: vincecall (500)
+Seat 2: time2move (500)
+Seat 3: philebre02 (500)
+Seat 4: manggy94 (500)
+Seat 5: Martel696 (500)
+Seat 6: Kenzo62110 (500)
+*** ANTE/BLINDS ***
+time2move posts small blind 10
+philebre02 posts big blind 20
+Dealt to manggy94 [8c Th]
+*** PRE-FLOP *** 
+manggy94 folds
+Martel696 raises 20 to 40
+Kenzo62110 calls 40
+vincecall raises 184 to 224
+time2move folds
+philebre02 raises 276 to 500 and is all-in
+Martel696 calls 460 and is all-in
+Kenzo62110 folds
+vincecall calls 276 and is all-in
+*** FLOP *** [2h Ah Qc]
+*** TURN *** [2h Ah Qc][7d]
+*** RIVER *** [2h Ah Qc 7d][5h]
+*** SHOW DOWN ***
+philebre02 shows [Qs As] (Two pairs : Aces and Queens)
+Martel696 shows [Qh Kc] (One pair : Queens)
+vincecall shows [8h Kh] (Flush Ace high)
+vincecall collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [2h Ah Qc 7d 5h]
+Seat 1: vincecall (button) showed [8h Kh] and won 1550 with Flush Ace high
+Seat 3: philebre02 (big blind) showed [Qs As] and lost with Two pairs : Aces and Queens
+Seat 5: Martel696 showed [Qh Kc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #713778183970750465-2-1470159765 - Holdem no limit (10/20) - 2016/08/02 17:42:45 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166189434)#0' 6-max (real money) Seat #2 is the button
+Seat 1: vincecall (1550)
+Seat 2: time2move (490)
+Seat 4: manggy94 (500)
+Seat 6: Kenzo62110 (460)
+*** ANTE/BLINDS ***
+manggy94 posts big blind 20
+Dealt to manggy94 [Kd Ac]
+*** PRE-FLOP *** 
+Kenzo62110 raises 20 to 40
+vincecall raises 153 to 193
+time2move calls 193
+manggy94 raises 307 to 500 and is all-in
+Kenzo62110 folds
+vincecall raises 307 to 807
+time2move calls 297 and is all-in
+*** FLOP *** [8c 7h 7c]
+*** TURN *** [8c 7h 7c][7d]
+*** RIVER *** [8c 7h 7c 7d][Qs]
+*** SHOW DOWN ***
+time2move shows [Jh Th] (Trips of 7)
+manggy94 shows [Kd Ac] (Trips of 7)
+vincecall shows [Qd Kc] (Full of 7 and Queens)
+vincecall collected 1837 from pot
+*** SUMMARY ***
+Total pot 1837 | No rake
+Board: [8c 7h 7c 7d Qs]
+Seat 1: vincecall showed [Qd Kc] and won 1837 with Full of 7 and Queens
+Seat 2: time2move (button) showed [Jh Th] and lost with Trips of 7
+Seat 4: manggy94 (big blind) showed [Kd Ac] and lost with Trips of 7
+
+

@@ -1,0 +1,629 @@
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #577524697307021313-8-1445194751 - Holdem no limit (20/40) - 2015/10/18 18:59:11 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Level Up (515)
+Seat 2: johanpino (860)
+Seat 3: Fwank60100 (389)
+Seat 4: Samuelg974 (60)
+Seat 5: damien45110 (460)
+Seat 6: parker27 (931)
+Seat 7: manggy94 (745)
+Seat 9: aliccc (570)
+Seat 10: x_romanox67 (470)
+*** ANTE/BLINDS ***
+x_romanox67 posts small blind 20
+Level Up posts big blind 40
+Dealt to manggy94 [5c 9h]
+*** PRE-FLOP *** 
+johanpino folds
+Fwank60100 folds
+Samuelg974 folds
+damien45110 calls 40
+parker27 folds
+manggy94 folds
+aliccc folds
+x_romanox67 calls 20
+Level Up checks
+*** FLOP *** [Js 3s 9c]
+x_romanox67 checks
+Level Up bets 160
+damien45110 calls 160
+x_romanox67 raises 270 to 430 and is all-in
+Level Up folds
+damien45110 calls 260 and is all-in
+*** TURN *** [Js 3s 9c][4d]
+*** RIVER *** [Js 3s 9c 4d][6s]
+*** SHOW DOWN ***
+damien45110 shows [6h 9d] (Two pairs : 9 and 6)
+x_romanox67 shows [Jc 8c] (One pair : Jacks)
+x_romanox67 collected 10 from side pot 1
+damien45110 collected 1120 from main pot
+*** SUMMARY ***
+Total pot 1130 | No rake
+Board: [Js 3s 9c 4d 6s]
+Seat 5: damien45110 showed [6h 9d] and won 1120 with Two pairs : 9 and 6
+Seat 10: x_romanox67 (small blind) showed [Jc 8c] and won 10 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #577524697307021313-9-1445194786 - Holdem no limit (20/40) - 2015/10/18 18:59:46 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Level Up (315)
+Seat 2: johanpino (860)
+Seat 3: Fwank60100 (389)
+Seat 4: Samuelg974 (60)
+Seat 5: damien45110 (1120)
+Seat 6: parker27 (931)
+Seat 7: manggy94 (745)
+Seat 9: aliccc (570)
+Seat 10: x_romanox67 (10)
+*** ANTE/BLINDS ***
+Level Up posts small blind 20
+johanpino posts big blind 40
+Dealt to manggy94 [4s Tc]
+*** PRE-FLOP *** 
+Fwank60100 folds
+Samuelg974 folds
+damien45110 folds
+parker27 folds
+manggy94 folds
+aliccc folds
+x_romanox67 calls 10 and is all-in
+Level Up raises 275 to 315 and is all-in
+johanpino folds
+*** FLOP *** [5h 5c Td]
+*** TURN *** [5h 5c Td][6h]
+*** RIVER *** [5h 5c Td 6h][Qh]
+*** SHOW DOWN ***
+x_romanox67 shows [8h 3d] (One pair : 5)
+Level Up shows [3h Jh] (Flush Queen high)
+Level Up collected 365 from pot
+*** SUMMARY ***
+Total pot 365 | No rake
+Board: [5h 5c Td 6h Qh]
+Seat 1: Level Up (small blind) showed [3h Jh] and won 365 with Flush Queen high
+Seat 10: x_romanox67 (button) showed [8h 3d] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #577524697307021313-10-1445194810 - Holdem no limit (20/40) - 2015/10/18 19:00:10 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Level Up (365)
+Seat 2: johanpino (820)
+Seat 3: Fwank60100 (389)
+Seat 4: Samuelg974 (60)
+Seat 5: damien45110 (1120)
+Seat 6: parker27 (931)
+Seat 7: manggy94 (745)
+Seat 9: aliccc (570)
+*** ANTE/BLINDS ***
+johanpino posts small blind 20
+Fwank60100 posts big blind 40
+Dealt to manggy94 [3s Qh]
+*** PRE-FLOP *** 
+Samuelg974 folds
+damien45110 raises 1080 to 1120 and is all-in
+parker27 folds
+manggy94 folds
+aliccc folds
+Level Up calls 365 and is all-in
+johanpino folds
+Fwank60100 folds
+*** FLOP *** [2s Jd 4s]
+*** TURN *** [2s Jd 4s][Ac]
+*** RIVER *** [2s Jd 4s Ac][5c]
+*** SHOW DOWN ***
+Level Up shows [Ks Kd] (One pair : Kings)
+damien45110 shows [Jc Jh] (Trips of Jacks)
+damien45110 collected 1545 from pot
+*** SUMMARY ***
+Total pot 1545 | No rake
+Board: [2s Jd 4s Ac 5c]
+Seat 1: Level Up (button) showed [Ks Kd] and lost with One pair : Kings
+Seat 5: damien45110 showed [Jc Jh] and won 1545 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #577524697307021313-11-1445194837 - Holdem no limit (20/40) - 2015/10/18 19:00:37 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #2 is the button
+Seat 2: johanpino (800)
+Seat 3: Fwank60100 (349)
+Seat 4: Samuelg974 (60)
+Seat 5: damien45110 (1545)
+Seat 6: parker27 (931)
+Seat 7: manggy94 (745)
+Seat 9: aliccc (570)
+*** ANTE/BLINDS ***
+Fwank60100 posts small blind 20
+Samuelg974 posts big blind 40
+Dealt to manggy94 [8d Kd]
+*** PRE-FLOP *** 
+damien45110 calls 40
+parker27 folds
+manggy94 calls 40
+aliccc folds
+johanpino folds
+Fwank60100 folds
+Samuelg974 folds
+*** FLOP *** [8h Kh 2c]
+damien45110 checks
+manggy94 checks
+*** TURN *** [8h Kh 2c][Ks]
+damien45110 checks
+manggy94 bets 140
+damien45110 folds
+manggy94 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [8h Kh 2c Ks]
+Seat 7: manggy94 won 280
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 3 - HandId: #577524697307021313-12-1445194873 - Holdem no limit (30/60) - 2015/10/18 19:01:13 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #3 is the button
+Seat 2: johanpino (800)
+Seat 3: Fwank60100 (329)
+Seat 4: Samuelg974 (20)
+Seat 5: damien45110 (1505)
+Seat 6: parker27 (931)
+Seat 7: manggy94 (845)
+Seat 9: aliccc (570)
+*** ANTE/BLINDS ***
+Samuelg974 posts small blind 20 and is all-in
+damien45110 posts big blind 60
+Dealt to manggy94 [5d Qd]
+*** PRE-FLOP *** 
+parker27 raises 60 to 120
+manggy94 folds
+aliccc folds
+johanpino folds
+Fwank60100 folds
+damien45110 calls 60
+*** FLOP *** [6s 3s Js]
+damien45110 checks
+parker27 bets 130
+damien45110 calls 130
+*** TURN *** [6s 3s Js][Ad]
+damien45110 checks
+parker27 bets 260
+damien45110 folds
+*** RIVER *** [6s 3s Js Ad][Jd]
+*** SHOW DOWN ***
+Samuelg974 shows [8s 5s] (Flush Jack high)
+parker27 shows [Qs Ts] (Flush Queen high)
+parker27 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [6s 3s Js Ad Jd]
+Seat 4: Samuelg974 (small blind) showed [8s 5s] and lost with Flush Jack high
+Seat 6: parker27 showed [Qs Ts] and won 780 with Flush Queen high
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 3 - HandId: #577524697307021313-13-1445194909 - Holdem no limit (30/60) - 2015/10/18 19:01:49 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #4 is the button
+Seat 2: johanpino (800)
+Seat 3: Fwank60100 (329)
+Seat 5: damien45110 (1255)
+Seat 6: parker27 (1201)
+Seat 7: manggy94 (845)
+Seat 9: aliccc (570)
+*** ANTE/BLINDS ***
+damien45110 posts small blind 30
+parker27 posts big blind 60
+Dealt to manggy94 [Kh Ts]
+*** PRE-FLOP *** 
+manggy94 raises 150 to 210
+aliccc calls 210
+johanpino folds
+Fwank60100 folds
+damien45110 folds
+parker27 folds
+*** FLOP *** [4s Ad 2s]
+manggy94 checks
+aliccc checks
+*** TURN *** [4s Ad 2s][Ac]
+manggy94 checks
+aliccc checks
+*** RIVER *** [4s Ad 2s Ac][Th]
+manggy94 bets 510
+aliccc folds
+manggy94 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [4s Ad 2s Ac Th]
+Seat 7: manggy94 won 1020
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 3 - HandId: #577524697307021313-14-1445194944 - Holdem no limit (30/60) - 2015/10/18 19:02:24 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #5 is the button
+Seat 2: johanpino (800)
+Seat 3: Fwank60100 (329)
+Seat 5: damien45110 (1225)
+Seat 6: parker27 (1141)
+Seat 7: manggy94 (1145)
+Seat 9: aliccc (360)
+*** ANTE/BLINDS ***
+parker27 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [Qh 5s]
+*** PRE-FLOP *** 
+aliccc folds
+johanpino folds
+Fwank60100 raises 269 to 329 and is all-in
+damien45110 folds
+parker27 folds
+manggy94 folds
+Fwank60100 collected 419 from pot
+*** SUMMARY ***
+Total pot 419 | No rake
+Seat 3: Fwank60100 won 419
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 3 - HandId: #577524697307021313-15-1445194966 - Holdem no limit (30/60) - 2015/10/18 19:02:46 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #6 is the button
+Seat 2: johanpino (800)
+Seat 3: Fwank60100 (419)
+Seat 5: damien45110 (1225)
+Seat 6: parker27 (1111)
+Seat 7: manggy94 (1085)
+Seat 9: aliccc (360)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+aliccc posts big blind 60
+Dealt to manggy94 [8c 2s]
+*** PRE-FLOP *** 
+johanpino folds
+Fwank60100 folds
+damien45110 folds
+parker27 folds
+manggy94 folds
+aliccc collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 9: aliccc (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 3 - HandId: #577524697307021313-16-1445195001 - Holdem no limit (30/60) - 2015/10/18 19:03:21 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #7 is the button
+Seat 2: johanpino (800)
+Seat 3: Fwank60100 (419)
+Seat 5: damien45110 (1225)
+Seat 6: parker27 (1111)
+Seat 7: manggy94 (1055)
+Seat 9: aliccc (390)
+*** ANTE/BLINDS ***
+aliccc posts small blind 30
+johanpino posts big blind 60
+Dealt to manggy94 [3s 7d]
+*** PRE-FLOP *** 
+Fwank60100 folds
+damien45110 folds
+parker27 raises 60 to 120
+manggy94 folds
+aliccc calls 90
+johanpino folds
+*** FLOP *** [Jd 7s Kc]
+aliccc checks
+parker27 bets 150
+aliccc calls 150
+*** TURN *** [Jd 7s Kc][4d]
+aliccc checks
+parker27 checks
+*** RIVER *** [Jd 7s Kc 4d][Jh]
+aliccc checks
+parker27 bets 400
+aliccc calls 120 and is all-in
+*** SHOW DOWN ***
+aliccc shows [8s Ts] (One pair : Jacks)
+parker27 shows [Jc Qh] (Trips of Jacks)
+parker27 collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | No rake
+Board: [Jd 7s Kc 4d Jh]
+Seat 6: parker27 showed [Jc Qh] and won 1120 with Trips of Jacks
+Seat 9: aliccc (small blind) showed [8s Ts] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 4 - HandId: #577524697307021313-17-1445195062 - Holdem no limit (40/80) - 2015/10/18 19:04:22 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #9 is the button
+Seat 2: johanpino (740)
+Seat 3: Fwank60100 (419)
+Seat 5: damien45110 (1225)
+Seat 6: parker27 (1561)
+Seat 7: manggy94 (1055)
+*** ANTE/BLINDS ***
+johanpino posts small blind 40
+Fwank60100 posts big blind 80
+Dealt to manggy94 [Jc 6d]
+*** PRE-FLOP *** 
+damien45110 folds
+parker27 folds
+manggy94 folds
+johanpino folds
+Fwank60100 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: Fwank60100 (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 4 - HandId: #577524697307021313-18-1445195073 - Holdem no limit (40/80) - 2015/10/18 19:04:33 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #2 is the button
+Seat 2: johanpino (700)
+Seat 3: Fwank60100 (459)
+Seat 5: damien45110 (1225)
+Seat 6: parker27 (1561)
+Seat 7: manggy94 (1055)
+*** ANTE/BLINDS ***
+Fwank60100 posts small blind 40
+damien45110 posts big blind 80
+Dealt to manggy94 [Qh 8d]
+*** PRE-FLOP *** 
+parker27 folds
+manggy94 folds
+johanpino folds
+Fwank60100 raises 80 to 160
+damien45110 calls 80
+*** FLOP *** [Ac 7h 6h]
+Fwank60100 bets 299 and is all-in
+damien45110 folds
+Fwank60100 collected 619 from pot
+*** SUMMARY ***
+Total pot 619 | No rake
+Board: [Ac 7h 6h]
+Seat 3: Fwank60100 (small blind) won 619
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 4 - HandId: #577524697307021313-19-1445195139 - Holdem no limit (40/80) - 2015/10/18 19:05:39 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #3 is the button
+Seat 2: johanpino (700)
+Seat 3: Fwank60100 (619)
+Seat 5: damien45110 (1065)
+Seat 6: parker27 (1561)
+Seat 7: manggy94 (1055)
+*** ANTE/BLINDS ***
+damien45110 posts small blind 40
+parker27 posts big blind 80
+Dealt to manggy94 [9d Qd]
+*** PRE-FLOP *** 
+manggy94 calls 80
+johanpino folds
+Fwank60100 folds
+damien45110 calls 40
+parker27 raises 1481 to 1561 and is all-in
+manggy94 folds
+damien45110 folds
+parker27 collected 1721 from pot
+*** SUMMARY ***
+Total pot 1721 | No rake
+Seat 6: parker27 (big blind) won 1721
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 4 - HandId: #577524697307021313-20-1445195161 - Holdem no limit (40/80) - 2015/10/18 19:06:01 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #5 is the button
+Seat 2: johanpino (700)
+Seat 3: Fwank60100 (619)
+Seat 5: damien45110 (985)
+Seat 6: parker27 (1721)
+Seat 7: manggy94 (975)
+*** ANTE/BLINDS ***
+parker27 posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [4d 3h]
+*** PRE-FLOP *** 
+johanpino folds
+Fwank60100 folds
+damien45110 raises 320 to 400
+parker27 folds
+manggy94 folds
+damien45110 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 5: damien45110 (button) won 520
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 4 - HandId: #577524697307021313-21-1445195178 - Holdem no limit (40/80) - 2015/10/18 19:06:18 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #6 is the button
+Seat 2: johanpino (700)
+Seat 3: Fwank60100 (619)
+Seat 5: damien45110 (1105)
+Seat 6: parker27 (1681)
+Seat 7: manggy94 (895)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+johanpino posts big blind 80
+Dealt to manggy94 [Th Ad]
+*** PRE-FLOP *** 
+Fwank60100 folds
+damien45110 folds
+parker27 folds
+manggy94 raises 160 to 240
+johanpino folds
+manggy94 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 7: manggy94 (small blind) won 320
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 4 - HandId: #577524697307021313-22-1445195194 - Holdem no limit (40/80) - 2015/10/18 19:06:34 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #7 is the button
+Seat 2: johanpino (620)
+Seat 3: Fwank60100 (619)
+Seat 5: damien45110 (1105)
+Seat 6: parker27 (1681)
+Seat 7: manggy94 (975)
+*** ANTE/BLINDS ***
+johanpino posts small blind 40
+Fwank60100 posts big blind 80
+Dealt to manggy94 [3s 4s]
+*** PRE-FLOP *** 
+damien45110 calls 80
+parker27 folds
+manggy94 folds
+johanpino folds
+Fwank60100 checks
+*** FLOP *** [2s Jd Jc]
+Fwank60100 checks
+damien45110 bets 80
+Fwank60100 folds
+damien45110 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [2s Jd Jc]
+Seat 5: damien45110 won 280
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 4 - HandId: #577524697307021313-23-1445195211 - Holdem no limit (40/80) - 2015/10/18 19:06:51 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #2 is the button
+Seat 2: johanpino (580)
+Seat 3: Fwank60100 (539)
+Seat 5: damien45110 (1225)
+Seat 6: parker27 (1681)
+Seat 7: manggy94 (975)
+*** ANTE/BLINDS ***
+Fwank60100 posts small blind 40
+damien45110 posts big blind 80
+Dealt to manggy94 [5s 9c]
+*** PRE-FLOP *** 
+parker27 folds
+manggy94 folds
+johanpino folds
+Fwank60100 raises 80 to 160
+damien45110 calls 80
+*** FLOP *** [7h 3c Ad]
+Fwank60100 bets 379 and is all-in
+damien45110 folds
+Fwank60100 collected 699 from pot
+*** SUMMARY ***
+Total pot 699 | No rake
+Board: [7h 3c Ad]
+Seat 3: Fwank60100 (small blind) won 699
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 5 - HandId: #577524697307021313-24-1445195232 - Holdem no limit (60/120) - 2015/10/18 19:07:12 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #3 is the button
+Seat 2: johanpino (580)
+Seat 3: Fwank60100 (699)
+Seat 5: damien45110 (1065)
+Seat 6: parker27 (1681)
+Seat 7: manggy94 (975)
+*** ANTE/BLINDS ***
+damien45110 posts small blind 60
+parker27 posts big blind 120
+Dealt to manggy94 [7s 5c]
+*** PRE-FLOP *** 
+manggy94 folds
+johanpino folds
+Fwank60100 folds
+damien45110 raises 480 to 600
+parker27 raises 1081 to 1681 and is all-in
+damien45110 calls 465 and is all-in
+*** FLOP *** [Jd 5d Jh]
+*** TURN *** [Jd 5d Jh][3h]
+*** RIVER *** [Jd 5d Jh 3h][6h]
+*** SHOW DOWN ***
+damien45110 shows [Tc Ah] (One pair : Jacks)
+parker27 shows [6s Ac] (Two pairs : Jacks and 6)
+parker27 collected 2746 from pot
+*** SUMMARY ***
+Total pot 2746 | No rake
+Board: [Jd 5d Jh 3h 6h]
+Seat 5: damien45110 (small blind) showed [Tc Ah] and lost with One pair : Jacks
+Seat 6: parker27 (big blind) showed [6s Ac] and won 2746 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 5 - HandId: #577524697307021313-25-1445195259 - Holdem no limit (60/120) - 2015/10/18 19:07:39 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #5 is the button
+Seat 2: johanpino (580)
+Seat 3: Fwank60100 (699)
+Seat 6: parker27 (2746)
+Seat 7: manggy94 (975)
+*** ANTE/BLINDS ***
+parker27 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [9c 2h]
+*** PRE-FLOP *** 
+johanpino folds
+Fwank60100 raises 579 to 699 and is all-in
+parker27 folds
+manggy94 folds
+Fwank60100 collected 879 from pot
+*** SUMMARY ***
+Total pot 879 | No rake
+Seat 3: Fwank60100 won 879
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 5 - HandId: #577524697307021313-26-1445195270 - Holdem no limit (60/120) - 2015/10/18 19:07:50 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #6 is the button
+Seat 2: johanpino (580)
+Seat 3: Fwank60100 (879)
+Seat 6: parker27 (2686)
+Seat 7: manggy94 (855)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 60
+johanpino posts big blind 120
+Dealt to manggy94 [Qc Td]
+*** PRE-FLOP *** 
+Fwank60100 folds
+parker27 raises 120 to 240
+manggy94 folds
+johanpino folds
+parker27 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 6: parker27 (button) won 420
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 5 - HandId: #577524697307021313-27-1445195287 - Holdem no limit (60/120) - 2015/10/18 19:08:07 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #7 is the button
+Seat 2: johanpino (460)
+Seat 3: Fwank60100 (879)
+Seat 6: parker27 (2866)
+Seat 7: manggy94 (795)
+*** ANTE/BLINDS ***
+johanpino posts small blind 60
+Fwank60100 posts big blind 120
+Dealt to manggy94 [Jd 8s]
+*** PRE-FLOP *** 
+parker27 raises 120 to 240
+manggy94 folds
+johanpino folds
+Fwank60100 calls 120
+*** FLOP *** [4h 7c Ad]
+Fwank60100 bets 639 and is all-in
+parker27 calls 639
+*** TURN *** [4h 7c Ad][8d]
+*** RIVER *** [4h 7c Ad 8d][7d]
+*** SHOW DOWN ***
+Fwank60100 shows [Tc Kc] (One pair : 7)
+parker27 shows [9d Ah] (Two pairs : Aces and 7)
+parker27 collected 1818 from pot
+*** SUMMARY ***
+Total pot 1818 | No rake
+Board: [4h 7c Ad 8d 7d]
+Seat 3: Fwank60100 (big blind) showed [Tc Kc] and lost with One pair : 7
+Seat 6: parker27 showed [9d Ah] and won 1818 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 5 - HandId: #577524697307021313-28-1445195313 - Holdem no limit (60/120) - 2015/10/18 19:08:33 UTC
+Table: 'Starting Block - Deglingos(134465447)#0' 10-max (real money) Seat #2 is the button
+Seat 2: johanpino (400)
+Seat 6: parker27 (3805)
+Seat 7: manggy94 (795)
+*** ANTE/BLINDS ***
+parker27 posts big blind 120
+Dealt to manggy94 [4s Kc]
+*** PRE-FLOP *** 
+manggy94 raises 240 to 360
+johanpino folds
+parker27 raises 3445 to 3805 and is all-in
+manggy94 calls 435 and is all-in
+*** FLOP *** [6s Td 2h]
+*** TURN *** [6s Td 2h][Qd]
+*** RIVER *** [6s Td 2h Qd][8d]
+*** SHOW DOWN ***
+manggy94 shows [4s Kc] (High card : King)
+parker27 shows [9h Kh] (High card : King)
+parker27 collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | No rake
+Board: [6s Td 2h Qd 8d]
+Seat 6: parker27 (big blind) showed [9h Kh] and won 4600 with High card : King
+Seat 7: manggy94 showed [4s Kc] and lost with High card : King
+
+

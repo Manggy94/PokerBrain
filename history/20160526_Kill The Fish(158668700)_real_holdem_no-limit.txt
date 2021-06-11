@@ -1,0 +1,558 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #681476877398835210-2-1464268657 - Holdem no limit (25/50) - 2016/05/26 13:17:37 UTC
+Table: 'Kill The Fish(158668700)#009' 8-max (real money) Seat #2 is the button
+Seat 1: Bisnaga (10000)
+Seat 2: pmp09 (9850)
+Seat 3: manggy94 (10000)
+Seat 4: Lephiphi082 (9950)
+Seat 5: ukinismuilas (10200)
+Seat 6: Gus_GCP (10000)
+Seat 7: -popop- (10000)
+Seat 8: loic0987 (10000)
+*** ANTE/BLINDS ***
+Lephiphi082 posts small blind 25
+ukinismuilas posts big blind 50
+*** PRE-FLOP *** 
+Gus_GCP folds
+-popop- folds
+loic0987 folds
+Bisnaga folds
+pmp09 folds
+Lephiphi082 raises 50 to 100
+ukinismuilas folds
+Lephiphi082 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 4: Lephiphi082 (small blind) won 150
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #681476877398835210-3-1464268699 - Holdem no limit (25/50) - 2016/05/26 13:18:19 UTC
+Table: 'Kill The Fish(158668700)#009' 8-max (real money) Seat #4 is the button
+Seat 1: Bisnaga (10000)
+Seat 2: pmp09 (9850)
+Seat 3: manggy94 (10000)
+Seat 4: Lephiphi082 (10000)
+Seat 5: ukinismuilas (10150)
+Seat 6: Gus_GCP (10000)
+Seat 7: -popop- (10000)
+Seat 8: loic0987 (10000)
+*** ANTE/BLINDS ***
+ukinismuilas posts small blind 25
+Gus_GCP posts big blind 50
+Dealt to manggy94 [Ah 8c]
+*** PRE-FLOP *** 
+-popop- folds
+loic0987 folds
+Bisnaga calls 50
+pmp09 folds
+manggy94 calls 50
+Lephiphi082 folds
+ukinismuilas folds
+Gus_GCP checks
+*** FLOP *** [Kh Qs 6s]
+Gus_GCP checks
+Bisnaga checks
+manggy94 checks
+*** TURN *** [Kh Qs 6s][3h]
+Gus_GCP bets 175
+Bisnaga folds
+manggy94 folds
+Gus_GCP collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [Kh Qs 6s 3h]
+Seat 6: Gus_GCP (big blind) won 350
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #681476877398835210-4-1464268779 - Holdem no limit (25/50) - 2016/05/26 13:19:39 UTC
+Table: 'Kill The Fish(158668700)#009' 8-max (real money) Seat #5 is the button
+Seat 1: Bisnaga (9950)
+Seat 2: pmp09 (9850)
+Seat 3: manggy94 (9950)
+Seat 4: Lephiphi082 (10000)
+Seat 5: ukinismuilas (10125)
+Seat 6: Gus_GCP (10125)
+Seat 7: -popop- (10000)
+Seat 8: loic0987 (10000)
+*** ANTE/BLINDS ***
+Gus_GCP posts small blind 25
+-popop- posts big blind 50
+Dealt to manggy94 [8s 4d]
+*** PRE-FLOP *** 
+loic0987 folds
+Bisnaga folds
+pmp09 folds
+manggy94 folds
+Lephiphi082 calls 50
+ukinismuilas folds
+Gus_GCP calls 25
+-popop- checks
+*** FLOP *** [7d 6d 8c]
+Gus_GCP bets 125
+-popop- calls 125
+Lephiphi082 calls 125
+*** TURN *** [7d 6d 8c][Tc]
+Gus_GCP bets 375
+-popop- folds
+Lephiphi082 calls 375
+*** RIVER *** [7d 6d 8c Tc][9d]
+Gus_GCP checks
+Lephiphi082 checks
+*** SHOW DOWN ***
+Lephiphi082 shows [Kc 6c] (Straight Ten high)
+Gus_GCP shows [Ad 9s] (Straight Ten high)
+Gus_GCP collected 638 from pot
+Lephiphi082 collected 637 from pot
+*** SUMMARY ***
+Total pot 1275 | No rake
+Board: [7d 6d 8c Tc 9d]
+Seat 4: Lephiphi082 showed [Kc 6c] and won 637 with Straight Ten high
+Seat 6: Gus_GCP (small blind) showed [Ad 9s] and won 638 with Straight Ten high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #681476877398835210-5-1464268833 - Holdem no limit (25/50) - 2016/05/26 13:20:33 UTC
+Table: 'Kill The Fish(158668700)#009' 8-max (real money) Seat #6 is the button
+Seat 1: Bisnaga (9950)
+Seat 2: pmp09 (9850)
+Seat 3: manggy94 (9950)
+Seat 4: Lephiphi082 (10087)
+Seat 5: ukinismuilas (10125)
+Seat 6: Gus_GCP (10213)
+Seat 7: -popop- (9825)
+Seat 8: loic0987 (10000)
+*** ANTE/BLINDS ***
+-popop- posts small blind 25
+loic0987 posts big blind 50
+Dealt to manggy94 [9s 5h]
+*** PRE-FLOP *** 
+Bisnaga folds
+pmp09 folds
+manggy94 folds
+Lephiphi082 raises 50 to 100
+ukinismuilas folds
+Gus_GCP raises 250 to 350
+-popop- folds
+loic0987 folds
+Lephiphi082 calls 250
+*** FLOP *** [9h 8h 9c]
+Lephiphi082 bets 100
+Gus_GCP raises 450 to 550
+Lephiphi082 calls 450
+*** TURN *** [9h 8h 9c][Kd]
+Lephiphi082 bets 50
+Gus_GCP calls 50
+*** RIVER *** [9h 8h 9c Kd][3h]
+Lephiphi082 checks
+Gus_GCP checks
+*** SHOW DOWN ***
+Lephiphi082 shows [5d 6s] (One pair : 9)
+Gus_GCP shows [Ad Jh] (One pair : 9)
+Gus_GCP collected 1975 from pot
+*** SUMMARY ***
+Total pot 1975 | No rake
+Board: [9h 8h 9c Kd 3h]
+Seat 4: Lephiphi082 showed [5d 6s] and lost with One pair : 9
+Seat 6: Gus_GCP (button) showed [Ad Jh] and won 1975 with One pair : 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #681476877398835210-6-1464268885 - Holdem no limit (50/100) - 2016/05/26 13:21:25 UTC
+Table: 'Kill The Fish(158668700)#009' 8-max (real money) Seat #7 is the button
+Seat 1: Bisnaga (9950)
+Seat 2: pmp09 (9850)
+Seat 3: manggy94 (9950)
+Seat 4: Lephiphi082 (9137)
+Seat 5: ukinismuilas (10125)
+Seat 6: Gus_GCP (11238)
+Seat 7: -popop- (9800)
+Seat 8: loic0987 (9950)
+*** ANTE/BLINDS ***
+loic0987 posts small blind 50
+Bisnaga posts big blind 100
+Dealt to manggy94 [6h Ad]
+*** PRE-FLOP *** 
+pmp09 folds
+manggy94 raises 100 to 200
+Lephiphi082 folds
+ukinismuilas folds
+Gus_GCP calls 200
+-popop- folds
+loic0987 folds
+Bisnaga calls 100
+*** FLOP *** [5d 8c 4c]
+Bisnaga checks
+manggy94 bets 300
+Gus_GCP calls 300
+Bisnaga calls 300
+*** TURN *** [5d 8c 4c][Tc]
+Bisnaga checks
+manggy94 checks
+Gus_GCP checks
+*** RIVER *** [5d 8c 4c Tc][Kd]
+Bisnaga checks
+manggy94 checks
+Gus_GCP checks
+*** SHOW DOWN ***
+manggy94 shows [6h Ad] (High card : Ace)
+Gus_GCP shows [As 4d] (One pair : 4)
+Bisnaga shows [8d 9s] (One pair : 8)
+Bisnaga collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [5d 8c 4c Tc Kd]
+Seat 1: Bisnaga (big blind) showed [8d 9s] and won 1550 with One pair : 8
+Seat 3: manggy94 showed [6h Ad] and lost with High card : Ace
+Seat 6: Gus_GCP showed [As 4d] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #681476877398835210-7-1464268969 - Holdem no limit (50/100) - 2016/05/26 13:22:49 UTC
+Table: 'Kill The Fish(158668700)#009' 8-max (real money) Seat #8 is the button
+Seat 1: Bisnaga (11000)
+Seat 2: pmp09 (9850)
+Seat 3: manggy94 (9450)
+Seat 4: Lephiphi082 (9137)
+Seat 5: ukinismuilas (10125)
+Seat 6: Gus_GCP (10738)
+Seat 7: -popop- (9800)
+Seat 8: loic0987 (9900)
+*** ANTE/BLINDS ***
+Bisnaga posts small blind 50
+pmp09 posts big blind 100
+Dealt to manggy94 [8c Qc]
+*** PRE-FLOP *** 
+manggy94 calls 100
+Lephiphi082 calls 100
+ukinismuilas folds
+Gus_GCP folds
+-popop- folds
+loic0987 folds
+Bisnaga calls 50
+pmp09 checks
+*** FLOP *** [As 2s 6c]
+Bisnaga checks
+pmp09 bets 150
+manggy94 folds
+Lephiphi082 folds
+Bisnaga folds
+pmp09 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [As 2s 6c]
+Seat 2: pmp09 (big blind) won 550
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #681476877398835210-8-1464269066 - Holdem no limit (50/100) - 2016/05/26 13:24:26 UTC
+Table: 'Kill The Fish(158668700)#009' 8-max (real money) Seat #1 is the button
+Seat 1: Bisnaga (10900)
+Seat 2: pmp09 (10150)
+Seat 3: manggy94 (9350)
+Seat 4: Lephiphi082 (9037)
+Seat 5: ukinismuilas (10125)
+Seat 6: Gus_GCP (10738)
+Seat 7: -popop- (9800)
+Seat 8: loic0987 (9900)
+*** ANTE/BLINDS ***
+pmp09 posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [3s 5h]
+*** PRE-FLOP *** 
+Lephiphi082 folds
+ukinismuilas folds
+Gus_GCP raises 150 to 250
+-popop- folds
+loic0987 folds
+Bisnaga folds
+pmp09 folds
+manggy94 folds
+Gus_GCP collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 6: Gus_GCP won 400
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #681476877398835210-9-1464269112 - Holdem no limit (50/100) - 2016/05/26 13:25:12 UTC
+Table: 'Kill The Fish(158668700)#009' 8-max (real money) Seat #2 is the button
+Seat 1: Bisnaga (10900)
+Seat 2: pmp09 (10100)
+Seat 3: manggy94 (9250)
+Seat 4: Lephiphi082 (9037)
+Seat 5: ukinismuilas (10125)
+Seat 6: Gus_GCP (10888)
+Seat 7: -popop- (9800)
+Seat 8: loic0987 (9900)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 50
+Lephiphi082 posts big blind 100
+Dealt to manggy94 [7h Ad]
+*** PRE-FLOP *** 
+ukinismuilas folds
+Gus_GCP folds
+-popop- raises 150 to 250
+loic0987 folds
+Bisnaga folds
+pmp09 calls 250
+manggy94 calls 200
+Lephiphi082 calls 150
+*** FLOP *** [Kc 9d 4d]
+manggy94 checks
+Lephiphi082 checks
+-popop- bets 1000
+pmp09 raises 1000 to 2000
+manggy94 folds
+Lephiphi082 folds
+-popop- calls 1000
+*** TURN *** [Kc 9d 4d][9c]
+-popop- bets 7550 and is all-in
+pmp09 calls 7550
+*** RIVER *** [Kc 9d 4d 9c][5d]
+*** SHOW DOWN ***
+-popop- shows [8h Kd] (Two pairs : Kings and 9)
+pmp09 shows [Kh Ah] (Two pairs : Kings and 9)
+pmp09 collected 20100 from pot
+*** SUMMARY ***
+Total pot 20100 | No rake
+Board: [Kc 9d 4d 9c 5d]
+Seat 2: pmp09 (button) showed [Kh Ah] and won 20100 with Two pairs : Kings and 9
+Seat 7: -popop- showed [8h Kd] and lost with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #681476877398835210-10-1464269206 - Holdem no limit (50/100) - 2016/05/26 13:26:46 UTC
+Table: 'Kill The Fish(158668700)#009' 8-max (real money) Seat #3 is the button
+Seat 1: Bisnaga (10900)
+Seat 2: pmp09 (20400)
+Seat 3: manggy94 (9000)
+Seat 4: Lephiphi082 (8787)
+Seat 5: ukinismuilas (10125)
+Seat 6: Gus_GCP (10888)
+Seat 8: loic0987 (9900)
+*** ANTE/BLINDS ***
+Lephiphi082 posts small blind 50
+ukinismuilas posts big blind 100
+Dealt to manggy94 [9s Kd]
+*** PRE-FLOP *** 
+Gus_GCP folds
+loic0987 folds
+Bisnaga folds
+pmp09 folds
+manggy94 calls 100
+Lephiphi082 folds
+ukinismuilas checks
+*** FLOP *** [2d 6d 7s]
+ukinismuilas checks
+manggy94 bets 250
+ukinismuilas folds
+manggy94 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [2d 6d 7s]
+Seat 3: manggy94 (button) won 500
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 2 - HandId: #681476877398835210-11-1464269246 - Holdem no limit (75/150) - 2016/05/26 13:27:26 UTC
+Table: 'Kill The Fish(158668700)#009' 8-max (real money) Seat #4 is the button
+Seat 1: Bisnaga (10900)
+Seat 2: pmp09 (20400)
+Seat 3: manggy94 (9150)
+Seat 4: Lephiphi082 (8737)
+Seat 5: ukinismuilas (10025)
+Seat 6: Gus_GCP (10888)
+Seat 8: loic0987 (9900)
+*** ANTE/BLINDS ***
+ukinismuilas posts small blind 75
+Gus_GCP posts big blind 150
+Dealt to manggy94 [5c 7d]
+*** PRE-FLOP *** 
+loic0987 folds
+Bisnaga folds
+pmp09 folds
+manggy94 folds
+Lephiphi082 folds
+ukinismuilas raises 300 to 450
+Gus_GCP raises 1800 to 2250
+ukinismuilas calls 1800
+*** FLOP *** [3h 8h 5h]
+ukinismuilas checks
+Gus_GCP checks
+*** TURN *** [3h 8h 5h][Jd]
+ukinismuilas checks
+Gus_GCP bets 8638 and is all-in
+ukinismuilas folds
+Gus_GCP collected 13138 from pot
+*** SUMMARY ***
+Total pot 13138 | No rake
+Board: [3h 8h 5h Jd]
+Seat 6: Gus_GCP (big blind) won 13138
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 2 - HandId: #681476877398835210-12-1464269316 - Holdem no limit (75/150) - 2016/05/26 13:28:36 UTC
+Table: 'Kill The Fish(158668700)#009' 8-max (real money) Seat #5 is the button
+Seat 1: Bisnaga (10900)
+Seat 2: pmp09 (20400)
+Seat 3: manggy94 (9150)
+Seat 4: Lephiphi082 (8737)
+Seat 5: ukinismuilas (7775)
+Seat 6: Gus_GCP (13138)
+Seat 7: JACK--MIEL (10000)
+Seat 8: loic0987 (9900)
+*** ANTE/BLINDS ***
+Gus_GCP posts small blind 75
+JACK--MIEL posts big blind 150
+Dealt to manggy94 [Jh 8d]
+*** PRE-FLOP *** 
+loic0987 folds
+Bisnaga folds
+pmp09 raises 150 to 300
+manggy94 folds
+Lephiphi082 raises 600 to 900
+ukinismuilas folds
+Gus_GCP folds
+JACK--MIEL folds
+pmp09 calls 600
+*** FLOP *** [9h Kh 6h]
+pmp09 checks
+Lephiphi082 bets 900
+pmp09 calls 900
+*** TURN *** [9h Kh 6h][Qs]
+pmp09 checks
+Lephiphi082 checks
+*** RIVER *** [9h Kh 6h Qs][3c]
+pmp09 checks
+Lephiphi082 checks
+*** SHOW DOWN ***
+Lephiphi082 shows [2h 2d] (One pair : 2)
+pmp09 shows [Kd Td] (One pair : Kings)
+pmp09 collected 3825 from pot
+*** SUMMARY ***
+Total pot 3825 | No rake
+Board: [9h Kh 6h Qs 3c]
+Seat 2: pmp09 showed [Kd Td] and won 3825 with One pair : Kings
+Seat 4: Lephiphi082 showed [2h 2d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 2 - HandId: #681476877398835210-13-1464269480 - Holdem no limit (75/150) - 2016/05/26 13:31:20 UTC
+Table: 'Kill The Fish(158668700)#009' 8-max (real money) Seat #6 is the button
+Seat 1: Bisnaga (10900)
+Seat 2: pmp09 (22425)
+Seat 3: manggy94 (9150)
+Seat 4: Lephiphi082 (6937)
+Seat 5: ukinismuilas (7775)
+Seat 6: Gus_GCP (13063)
+Seat 7: JACK--MIEL (9850)
+Seat 8: loic0987 (9900)
+*** ANTE/BLINDS ***
+JACK--MIEL posts small blind 75
+loic0987 posts big blind 150
+Dealt to manggy94 [Ad 7c]
+*** PRE-FLOP *** 
+Bisnaga folds
+pmp09 folds
+manggy94 calls 150
+Lephiphi082 folds
+ukinismuilas folds
+Gus_GCP calls 150
+JACK--MIEL folds
+loic0987 folds
+*** FLOP *** [4s Qd 2d]
+manggy94 checks
+Gus_GCP bets 394
+manggy94 raises 460 to 854
+Gus_GCP calls 460
+*** TURN *** [4s Qd 2d][6d]
+manggy94 checks
+Gus_GCP checks
+*** RIVER *** [4s Qd 2d 6d][Qc]
+manggy94 bets 1117
+Gus_GCP raises 1675 to 2792
+manggy94 folds
+Gus_GCP collected 6142 from pot
+*** SUMMARY ***
+Total pot 6142 | No rake
+Board: [4s Qd 2d 6d Qc]
+Seat 6: Gus_GCP (button) won 6142
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 2 - HandId: #681476877398835210-14-1464269537 - Holdem no limit (75/150) - 2016/05/26 13:32:17 UTC
+Table: 'Kill The Fish(158668700)#009' 8-max (real money) Seat #7 is the button
+Seat 1: Bisnaga (10900)
+Seat 2: pmp09 (22425)
+Seat 3: manggy94 (7029)
+Seat 4: Lephiphi082 (6937)
+Seat 5: ukinismuilas (7775)
+Seat 6: Gus_GCP (15409)
+Seat 7: JACK--MIEL (9775)
+Seat 8: loic0987 (9750)
+*** ANTE/BLINDS ***
+loic0987 posts small blind 75
+Bisnaga posts big blind 150
+Dealt to manggy94 [2s 7h]
+*** PRE-FLOP *** 
+pmp09 folds
+manggy94 folds
+Lephiphi082 folds
+ukinismuilas raises 225 to 375
+Gus_GCP folds
+JACK--MIEL calls 375
+loic0987 folds
+Bisnaga folds
+*** FLOP *** [5s 9s 5h]
+ukinismuilas checks
+JACK--MIEL checks
+*** TURN *** [5s 9s 5h][6d]
+ukinismuilas checks
+JACK--MIEL checks
+*** RIVER *** [5s 9s 5h 6d][Qc]
+ukinismuilas checks
+JACK--MIEL checks
+*** SHOW DOWN ***
+JACK--MIEL shows [Tc Js] (One pair : 5)
+ukinismuilas shows [4d 4h] (Two pairs : 5 and 4)
+ukinismuilas collected 975 from pot
+*** SUMMARY ***
+Total pot 975 | No rake
+Board: [5s 9s 5h 6d Qc]
+Seat 5: ukinismuilas showed [4d 4h] and won 975 with Two pairs : 5 and 4
+Seat 7: JACK--MIEL (button) showed [Tc Js] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 2 - HandId: #681476877398835210-15-1464269579 - Holdem no limit (75/150) - 2016/05/26 13:32:59 UTC
+Table: 'Kill The Fish(158668700)#009' 8-max (real money) Seat #8 is the button
+Seat 1: Bisnaga (10750)
+Seat 2: pmp09 (22425)
+Seat 3: manggy94 (7029)
+Seat 4: Lephiphi082 (6937)
+Seat 5: ukinismuilas (8375)
+Seat 6: Gus_GCP (15409)
+Seat 7: JACK--MIEL (9400)
+Seat 8: loic0987 (9675)
+*** ANTE/BLINDS ***
+Bisnaga posts small blind 75
+pmp09 posts big blind 150
+Dealt to manggy94 [Kd Jd]
+*** PRE-FLOP *** 
+manggy94 calls 150
+Lephiphi082 folds
+ukinismuilas folds
+Gus_GCP folds
+JACK--MIEL calls 150
+loic0987 folds
+Bisnaga raises 600 to 750
+pmp09 folds
+manggy94 calls 600
+JACK--MIEL calls 600
+*** FLOP *** [8h Kh 2c]
+Bisnaga checks
+manggy94 bets 2400
+JACK--MIEL folds
+Bisnaga raises 4800 to 7200
+manggy94 calls 3879 and is all-in
+*** TURN *** [8h Kh 2c][8s]
+*** RIVER *** [8h Kh 2c 8s][Ad]
+*** SHOW DOWN ***
+manggy94 shows [Kd Jd] (Two pairs : Kings and 8)
+Bisnaga shows [Ac Qs] (Two pairs : Aces and 8)
+Bisnaga collected 15879 from pot
+*** SUMMARY ***
+Total pot 15879 | No rake
+Board: [8h Kh 2c 8s Ad]
+Seat 1: Bisnaga (small blind) showed [Ac Qs] and won 15879 with Two pairs : Aces and 8
+Seat 3: manggy94 showed [Kd Jd] and lost with Two pairs : Kings and 8
+
+

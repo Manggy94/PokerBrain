@@ -1,0 +1,546 @@
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 2.70€ + 0.30€ level:  - HandId: #716140755285966860-2-1471893636 - Holdem no limit (50/100) - 2016/08/22 19:20:36 UTC
+Table: 'HARA-KIRI(166739513)#011' 8-max (real money) Seat #6 is the button
+Seat 1: Hashashin59 (10000)
+Seat 3: GBOBOLA (10000)
+Seat 4: bertinus (10000)
+Seat 6: gintch (9800)
+Seat 7: manggy94 (10000)
+Seat 8: Gabeeeeeee (10200)
+*** ANTE/BLINDS ***
+Gabeeeeeee posts small blind 50
+Hashashin59 posts big blind 100
+*** PRE-FLOP *** 
+GBOBOLA calls 100
+bertinus raises 400 to 500
+gintch folds
+Gabeeeeeee folds
+Hashashin59 folds
+GBOBOLA calls 400
+*** FLOP *** [Qh 3h As]
+GBOBOLA checks
+bertinus bets 1150
+GBOBOLA folds
+bertinus collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Board: [Qh 3h As]
+Seat 4: bertinus won 2300
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 2.70€ + 0.30€ level: 3 - HandId: #716140755285966860-3-1471893677 - Holdem no limit (75/150) - 2016/08/22 19:21:17 UTC
+Table: 'HARA-KIRI(166739513)#011' 8-max (real money) Seat #8 is the button
+Seat 1: Hashashin59 (9900)
+Seat 2: CrazyClown (10000)
+Seat 3: GBOBOLA (9500)
+Seat 4: bertinus (10650)
+Seat 6: gintch (9800)
+Seat 7: manggy94 (10000)
+Seat 8: Gabeeeeeee (10150)
+*** ANTE/BLINDS ***
+Hashashin59 posts small blind 75
+CrazyClown posts big blind 150
+Dealt to manggy94 [Jc Ah]
+*** PRE-FLOP *** 
+GBOBOLA folds
+bertinus raises 150 to 300
+gintch folds
+manggy94 raises 600 to 900
+Gabeeeeeee folds
+Hashashin59 folds
+CrazyClown folds
+bertinus calls 600
+*** FLOP *** [Js Kd 4s]
+bertinus bets 2025
+manggy94 calls 2025
+*** TURN *** [Js Kd 4s][Ad]
+bertinus bets 7725 and is all-in
+manggy94 calls 7075 and is all-in
+*** RIVER *** [Js Kd 4s Ad][2d]
+*** SHOW DOWN ***
+bertinus shows [Kh 4h] (Two pairs : Kings and 4)
+manggy94 shows [Jc Ah] (Two pairs : Aces and Jacks)
+manggy94 collected 20225 from main pot
+bertinus collected 650 from side pot 1
+*** SUMMARY ***
+Total pot 20875 | No rake
+Board: [Js Kd 4s Ad 2d]
+Seat 4: bertinus showed [Kh 4h] and won 650 with Two pairs : Kings and 4
+Seat 7: manggy94 showed [Jc Ah] and won 20225 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 2.70€ + 0.30€ level: 3 - HandId: #716140755285966860-4-1471893720 - Holdem no limit (75/150) - 2016/08/22 19:22:00 UTC
+Table: 'HARA-KIRI(166739513)#011' 8-max (real money) Seat #1 is the button
+Seat 1: Hashashin59 (9825)
+Seat 2: CrazyClown (9850)
+Seat 3: GBOBOLA (9500)
+Seat 4: bertinus (650)
+Seat 6: gintch (9800)
+Seat 7: manggy94 (20225)
+Seat 8: Gabeeeeeee (10150)
+*** ANTE/BLINDS ***
+CrazyClown posts small blind 75
+GBOBOLA posts big blind 150
+Dealt to manggy94 [6h Jd]
+*** PRE-FLOP *** 
+bertinus raises 500 to 650 and is all-in
+gintch folds
+manggy94 calls 650
+Gabeeeeeee calls 650
+Hashashin59 folds
+CrazyClown calls 575
+GBOBOLA calls 500
+*** FLOP *** [6s Qh 5h]
+CrazyClown checks
+GBOBOLA checks
+manggy94 bets 750
+Gabeeeeeee calls 750
+CrazyClown calls 750
+GBOBOLA folds
+*** TURN *** [6s Qh 5h][4d]
+CrazyClown checks
+manggy94 checks
+Gabeeeeeee checks
+*** RIVER *** [6s Qh 5h 4d][5d]
+CrazyClown bets 2750
+manggy94 folds
+Gabeeeeeee folds
+*** SHOW DOWN ***
+bertinus shows [Kd Jh] (One pair : 5)
+CrazyClown shows [4s 5s] (Full of 5 and 4)
+CrazyClown collected 8250 from pot
+*** SUMMARY ***
+Total pot 8250 | No rake
+Board: [6s Qh 5h 4d 5d]
+Seat 2: CrazyClown (small blind) showed [4s 5s] and won 8250 with Full of 5 and 4
+Seat 4: bertinus showed [Kd Jh] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 2.70€ + 0.30€ level: 3 - HandId: #716140755285966860-5-1471893784 - Holdem no limit (75/150) - 2016/08/22 19:23:04 UTC
+Table: 'HARA-KIRI(166739513)#011' 8-max (real money) Seat #2 is the button
+Seat 1: Hashashin59 (9825)
+Seat 2: CrazyClown (13950)
+Seat 3: GBOBOLA (8850)
+Seat 5: bienpayer (10000)
+Seat 6: gintch (9800)
+Seat 7: manggy94 (18825)
+Seat 8: Gabeeeeeee (8750)
+*** ANTE/BLINDS ***
+GBOBOLA posts small blind 75
+bienpayer posts big blind 150
+Dealt to manggy94 [8h 2h]
+*** PRE-FLOP *** 
+gintch folds
+manggy94 folds
+Gabeeeeeee folds
+Hashashin59 folds
+CrazyClown folds
+GBOBOLA folds
+bienpayer collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Seat 5: bienpayer (big blind) won 225
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 2.70€ + 0.30€ level: 3 - HandId: #716140755285966860-6-1471893804 - Holdem no limit (75/150) - 2016/08/22 19:23:24 UTC
+Table: 'HARA-KIRI(166739513)#011' 8-max (real money) Seat #3 is the button
+Seat 1: Hashashin59 (9825)
+Seat 2: CrazyClown (13950)
+Seat 3: GBOBOLA (8775)
+Seat 4: Legrec14 (10000)
+Seat 5: bienpayer (10075)
+Seat 6: gintch (9800)
+Seat 7: manggy94 (18825)
+Seat 8: Gabeeeeeee (8750)
+*** ANTE/BLINDS ***
+bienpayer posts small blind 75
+gintch posts big blind 150
+Dealt to manggy94 [Tc Kd]
+*** PRE-FLOP *** 
+manggy94 raises 300 to 450
+Gabeeeeeee folds
+Hashashin59 folds
+CrazyClown calls 450
+GBOBOLA calls 450
+bienpayer calls 375
+gintch calls 300
+*** FLOP *** [Qs 4s Qd]
+bienpayer checks
+gintch checks
+manggy94 checks
+CrazyClown bets 600
+GBOBOLA folds
+bienpayer folds
+gintch folds
+manggy94 raises 1425 to 2025
+CrazyClown calls 1425
+*** TURN *** [Qs 4s Qd][9d]
+manggy94 checks
+CrazyClown checks
+*** RIVER *** [Qs 4s Qd 9d][7c]
+manggy94 bets 1275
+CrazyClown calls 1275
+*** SHOW DOWN ***
+manggy94 shows [Tc Kd] (One pair : Queens)
+CrazyClown shows [Js 7s] (Two pairs : Queens and 7)
+CrazyClown collected 8850 from pot
+*** SUMMARY ***
+Total pot 8850 | No rake
+Board: [Qs 4s Qd 9d 7c]
+Seat 2: CrazyClown showed [Js 7s] and won 8850 with Two pairs : Queens and 7
+Seat 7: manggy94 showed [Tc Kd] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 2.70€ + 0.30€ level: 4 - HandId: #716140755285966860-7-1471893859 - Holdem no limit (100/200) - 2016/08/22 19:24:19 UTC
+Table: 'HARA-KIRI(166739513)#011' 8-max (real money) Seat #5 is the button
+Seat 1: Hashashin59 (9825)
+Seat 2: CrazyClown (19050)
+Seat 3: GBOBOLA (8325)
+Seat 4: Legrec14 (10000)
+Seat 5: bienpayer (9625)
+Seat 6: gintch (9350)
+Seat 7: manggy94 (15075)
+Seat 8: Gabeeeeeee (8750)
+*** ANTE/BLINDS ***
+gintch posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [2d Kh]
+*** PRE-FLOP *** 
+Gabeeeeeee raises 200 to 400
+Hashashin59 folds
+CrazyClown folds
+GBOBOLA raises 200 to 600
+Legrec14 calls 600
+bienpayer calls 600
+gintch folds
+manggy94 folds
+Gabeeeeeee calls 200
+*** FLOP *** [Qh 3s 3d]
+Gabeeeeeee checks
+GBOBOLA checks
+Legrec14 checks
+bienpayer bets 2025
+Gabeeeeeee folds
+GBOBOLA folds
+Legrec14 folds
+bienpayer collected 4725 from pot
+*** SUMMARY ***
+Total pot 4725 | No rake
+Board: [Qh 3s 3d]
+Seat 5: bienpayer (button) won 4725
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 2.70€ + 0.30€ level: 4 - HandId: #716140755285966860-8-1471893928 - Holdem no limit (100/200) - 2016/08/22 19:25:28 UTC
+Table: 'HARA-KIRI(166739513)#011' 8-max (real money) Seat #6 is the button
+Seat 2: CrazyClown (19050)
+Seat 3: GBOBOLA (7725)
+Seat 4: Legrec14 (9400)
+Seat 5: bienpayer (11725)
+Seat 6: gintch (9250)
+Seat 7: manggy94 (14875)
+Seat 8: Gabeeeeeee (8150)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+Gabeeeeeee posts big blind 200
+Dealt to manggy94 [8s 3d]
+*** PRE-FLOP *** 
+CrazyClown folds
+GBOBOLA folds
+Legrec14 folds
+bienpayer folds
+gintch folds
+manggy94 raises 200 to 400
+Gabeeeeeee raises 800 to 1200
+manggy94 raises 800 to 2000
+Gabeeeeeee raises 6150 to 8150 and is all-in
+manggy94 folds
+Gabeeeeeee collected 10150 from pot
+*** SUMMARY ***
+Total pot 10150 | No rake
+Seat 8: Gabeeeeeee (big blind) won 10150
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 2.70€ + 0.30€ level: 4 - HandId: #716140755285966860-9-1471893964 - Holdem no limit (100/200) - 2016/08/22 19:26:04 UTC
+Table: 'HARA-KIRI(166739513)#011' 8-max (real money) Seat #7 is the button
+Seat 1: Potamaa (10000)
+Seat 3: GBOBOLA (7725)
+Seat 4: Legrec14 (9400)
+Seat 5: bienpayer (11725)
+Seat 6: gintch (9250)
+Seat 7: manggy94 (12875)
+Seat 8: Gabeeeeeee (10150)
+*** ANTE/BLINDS ***
+Gabeeeeeee posts small blind 100
+Potamaa posts big blind 200
+Dealt to manggy94 [Jc Qs]
+*** PRE-FLOP *** 
+GBOBOLA raises 600 to 800
+Legrec14 folds
+bienpayer folds
+gintch calls 800
+manggy94 calls 800
+Gabeeeeeee folds
+Potamaa calls 600
+*** FLOP *** [2s 3d Kh]
+Potamaa checks
+GBOBOLA checks
+gintch bets 1200
+manggy94 folds
+Potamaa folds
+GBOBOLA folds
+gintch collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Board: [2s 3d Kh]
+Seat 6: gintch won 4500
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 2.70€ + 0.30€ level: 5 - HandId: #716140755285966860-10-1471894040 - Holdem no limit (150/300) - 2016/08/22 19:27:20 UTC
+Table: 'HARA-KIRI(166739513)#011' 8-max (real money) Seat #8 is the button
+Seat 1: Potamaa (9200)
+Seat 3: GBOBOLA (6925)
+Seat 4: Legrec14 (9400)
+Seat 5: bienpayer (11725)
+Seat 6: gintch (11750)
+Seat 7: manggy94 (12075)
+Seat 8: Gabeeeeeee (10050)
+*** ANTE/BLINDS ***
+Potamaa posts small blind 150
+GBOBOLA posts big blind 300
+Dealt to manggy94 [4c 8s]
+*** PRE-FLOP *** 
+Legrec14 calls 300
+bienpayer raises 300 to 600
+gintch folds
+manggy94 folds
+Gabeeeeeee folds
+Potamaa folds
+GBOBOLA calls 300
+Legrec14 calls 300
+*** FLOP *** [Ks Js 4h]
+GBOBOLA checks
+Legrec14 checks
+bienpayer checks
+*** TURN *** [Ks Js 4h][Ah]
+GBOBOLA bets 1463
+Legrec14 folds
+bienpayer calls 1463
+*** RIVER *** [Ks Js 4h Ah][8c]
+GBOBOLA bets 4862 and is all-in
+bienpayer calls 4862
+*** SHOW DOWN ***
+GBOBOLA shows [2h Ad] (One pair : Aces)
+bienpayer shows [9s Ac] (One pair : Aces)
+bienpayer collected 14600 from pot
+*** SUMMARY ***
+Total pot 14600 | No rake
+Board: [Ks Js 4h Ah 8c]
+Seat 3: GBOBOLA (big blind) showed [2h Ad] and lost with One pair : Aces
+Seat 5: bienpayer showed [9s Ac] and won 14600 with One pair : Aces
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 2.70€ + 0.30€ level: 5 - HandId: #716140755285966860-11-1471894095 - Holdem no limit (150/300) - 2016/08/22 19:28:15 UTC
+Table: 'HARA-KIRI(166739513)#011' 8-max (real money) Seat #1 is the button
+Seat 1: Potamaa (9050)
+Seat 2: FIGHTER 54 (10000)
+Seat 3: Fulloflop26 (10000)
+Seat 4: Legrec14 (8800)
+Seat 5: bienpayer (19400)
+Seat 6: gintch (11750)
+Seat 7: manggy94 (12075)
+Seat 8: Gabeeeeeee (10050)
+*** ANTE/BLINDS ***
+Legrec14 posts big blind 300
+Dealt to manggy94 [Qc 6s]
+*** PRE-FLOP *** 
+bienpayer folds
+gintch folds
+manggy94 folds
+Gabeeeeeee raises 300 to 600
+Potamaa folds
+Legrec14 raises 8200 to 8800 and is all-in
+Gabeeeeeee calls 8200
+*** FLOP *** [2d 8h 4d]
+*** TURN *** [2d 8h 4d][Ac]
+*** RIVER *** [2d 8h 4d Ac][8c]
+*** SHOW DOWN ***
+Gabeeeeeee shows [Ks Qs] (One pair : 8)
+Legrec14 shows [As Td] (Two pairs : Aces and 8)
+Legrec14 collected 17600 from pot
+*** SUMMARY ***
+Total pot 17600 | No rake
+Board: [2d 8h 4d Ac 8c]
+Seat 4: Legrec14 (big blind) showed [As Td] and won 17600 with Two pairs : Aces and 8
+Seat 8: Gabeeeeeee showed [Ks Qs] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 2.70€ + 0.30€ level: 5 - HandId: #716140755285966860-12-1471894131 - Holdem no limit (150/300) - 2016/08/22 19:28:51 UTC
+Table: 'HARA-KIRI(166739513)#011' 8-max (real money) Seat #3 is the button
+Seat 1: Potamaa (9050)
+Seat 2: FIGHTER 54 (10000)
+Seat 3: Fulloflop26 (10000)
+Seat 4: Legrec14 (17600)
+Seat 5: bienpayer (19400)
+Seat 6: gintch (11750)
+Seat 7: manggy94 (12075)
+Seat 8: Gabeeeeeee (1250)
+*** ANTE/BLINDS ***
+Legrec14 posts small blind 150
+bienpayer posts big blind 300
+Dealt to manggy94 [8c Ks]
+*** PRE-FLOP *** 
+gintch folds
+manggy94 calls 300
+Gabeeeeeee folds
+Potamaa folds
+FIGHTER 54 folds
+Legrec14 calls 150
+bienpayer checks
+*** FLOP *** [4s 7d Td]
+Legrec14 checks
+bienpayer checks
+manggy94 checks
+*** TURN *** [4s 7d Td][As]
+Legrec14 checks
+bienpayer checks
+manggy94 checks
+*** RIVER *** [4s 7d Td As][5c]
+Legrec14 bets 300
+bienpayer folds
+manggy94 folds
+Legrec14 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [4s 7d Td As 5c]
+Seat 4: Legrec14 (small blind) won 1200
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 2.70€ + 0.30€ level: 5 - HandId: #716140755285966860-13-1471894173 - Holdem no limit (150/300) - 2016/08/22 19:29:33 UTC
+Table: 'HARA-KIRI(166739513)#011' 8-max (real money) Seat #4 is the button
+Seat 1: Potamaa (9050)
+Seat 2: FIGHTER 54 (10000)
+Seat 3: Fulloflop26 (10000)
+Seat 4: Legrec14 (18200)
+Seat 5: bienpayer (19100)
+Seat 6: gintch (11750)
+Seat 7: manggy94 (11775)
+Seat 8: Gabeeeeeee (1250)
+*** ANTE/BLINDS ***
+bienpayer posts small blind 150
+gintch posts big blind 300
+Dealt to manggy94 [Qd 7h]
+*** PRE-FLOP *** 
+manggy94 folds
+Gabeeeeeee raises 950 to 1250 and is all-in
+Potamaa folds
+FIGHTER 54 folds
+Fulloflop26 calls 1250
+Legrec14 folds
+bienpayer folds
+gintch folds
+*** FLOP *** [Th 5h Ah]
+*** TURN *** [Th 5h Ah][9s]
+*** RIVER *** [Th 5h Ah 9s][3h]
+*** SHOW DOWN ***
+Fulloflop26 shows [7d 8d] (High card : Ace)
+Gabeeeeeee shows [Kh Jc] (Flush Ace high)
+Gabeeeeeee collected 2950 from pot
+*** SUMMARY ***
+Total pot 2950 | No rake
+Board: [Th 5h Ah 9s 3h]
+Seat 3: Fulloflop26 showed [7d 8d] and lost with High card : Ace
+Seat 8: Gabeeeeeee showed [Kh Jc] and won 2950 with Flush Ace high
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 2.70€ + 0.30€ level: 6 - HandId: #716140755285966860-14-1471894226 - Holdem no limit (25/150/300) - 2016/08/22 19:30:26 UTC
+Table: 'HARA-KIRI(166739513)#011' 8-max (real money) Seat #5 is the button
+Seat 1: Potamaa (9050)
+Seat 2: FIGHTER 54 (10000)
+Seat 3: Fulloflop26 (8750)
+Seat 4: Legrec14 (18200)
+Seat 5: bienpayer (18950)
+Seat 6: gintch (11450)
+Seat 7: manggy94 (11775)
+Seat 8: Gabeeeeeee (2950)
+*** ANTE/BLINDS ***
+gintch posts ante 25
+manggy94 posts ante 25
+Potamaa posts ante 25
+FIGHTER 54 posts ante 25
+Fulloflop26 posts ante 25
+Legrec14 posts ante 25
+bienpayer posts ante 25
+Gabeeeeeee posts ante 25
+gintch posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [7d Kc]
+*** PRE-FLOP *** 
+Gabeeeeeee folds
+Potamaa folds
+FIGHTER 54 folds
+Fulloflop26 raises 300 to 600
+Legrec14 folds
+bienpayer raises 2400 to 3000
+gintch calls 2850
+manggy94 folds
+Fulloflop26 folds
+*** FLOP *** [4h 3d 2h]
+gintch checks
+bienpayer bets 7100
+gintch folds
+bienpayer collected 14200 from pot
+*** SUMMARY ***
+Total pot 14200 | No rake
+Board: [4h 3d 2h]
+Seat 5: bienpayer (button) won 14200
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 2.70€ + 0.30€ level: 6 - HandId: #716140755285966860-15-1471894282 - Holdem no limit (25/150/300) - 2016/08/22 19:31:22 UTC
+Table: 'HARA-KIRI(166739513)#011' 8-max (real money) Seat #6 is the button
+Seat 1: Potamaa (9025)
+Seat 2: FIGHTER 54 (9975)
+Seat 3: Fulloflop26 (8125)
+Seat 4: Legrec14 (18175)
+Seat 5: bienpayer (23025)
+Seat 6: gintch (8425)
+Seat 7: manggy94 (11450)
+Seat 8: Gabeeeeeee (2925)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+Gabeeeeeee posts ante 25
+Potamaa posts ante 25
+FIGHTER 54 posts ante 25
+Fulloflop26 posts ante 25
+Legrec14 posts ante 25
+bienpayer posts ante 25
+gintch posts ante 25
+manggy94 posts small blind 150
+Gabeeeeeee posts big blind 300
+Dealt to manggy94 [Js Ts]
+*** PRE-FLOP *** 
+Potamaa folds
+FIGHTER 54 folds
+Fulloflop26 folds
+Legrec14 folds
+bienpayer raises 300 to 600
+gintch folds
+manggy94 calls 450
+Gabeeeeeee raises 2300 to 2900 and is all-in
+bienpayer raises 20100 to 23000 and is all-in
+manggy94 calls 10825 and is all-in
+*** FLOP *** [7c 8c 5s]
+*** TURN *** [7c 8c 5s][Kd]
+*** RIVER *** [7c 8c 5s Kd][4c]
+*** SHOW DOWN ***
+manggy94 shows [Js Ts] (High card : King)
+bienpayer shows [As 4d] (One pair : 4)
+Gabeeeeeee shows [8s 8d] (Trips of 8)
+Gabeeeeeee collected 8900 from main pot
+bienpayer collected 28625 from side pot 1
+*** SUMMARY ***
+Total pot 37525 | No rake
+Board: [7c 8c 5s Kd 4c]
+Seat 5: bienpayer showed [As 4d] and won 28625 with One pair : 4
+Seat 7: manggy94 (small blind) showed [Js Ts] and lost with High card : King
+Seat 8: Gabeeeeeee (big blind) showed [8s 8d] and won 8900 with Trips of 8
+
+

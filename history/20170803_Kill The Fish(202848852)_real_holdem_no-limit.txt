@@ -1,0 +1,3405 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #871229185371144195-16-1501761141 - Holdem no limit (10/50/100) - 2017/08/03 11:52:21 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #1 is the button
+Seat 1: BEN7469 (11410)
+Seat 2: paire-loose (10410)
+Seat 3: -SO_respect (18690)
+Seat 4: XXX888XXX (12855)
+Seat 5: idir58 (6635)
+Seat 6: manggy94 (10000)
+*** ANTE/BLINDS ***
+paire-loose posts ante 10
+-SO_respect posts ante 10
+BEN7469 posts ante 10
+XXX888XXX posts ante 10
+idir58 posts ante 10
+manggy94 posts ante 10
+paire-loose posts small blind 50
+-SO_respect posts big blind 100
+Dealt to manggy94 [Qs 2c]
+*** PRE-FLOP *** 
+XXX888XXX folds
+idir58 folds
+manggy94 folds
+BEN7469 calls 100
+paire-loose folds
+-SO_respect checks
+*** FLOP *** [Ts 7s 4h]
+-SO_respect checks
+BEN7469 checks
+*** TURN *** [Ts 7s 4h][Qh]
+-SO_respect checks
+BEN7469 checks
+*** RIVER *** [Ts 7s 4h Qh][5h]
+-SO_respect checks
+BEN7469 checks
+*** SHOW DOWN ***
+BEN7469 shows [8c As] (High card : Ace)
+-SO_respect shows [7d 5d] (Two pairs : 7 and 5)
+-SO_respect collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Board: [Ts 7s 4h Qh 5h]
+Seat 1: BEN7469 (button) showed [8c As] and lost with High card : Ace
+Seat 3: -SO_respect (big blind) showed [7d 5d] and won 310 with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #871229185371144195-17-1501761216 - Holdem no limit (15/75/150) - 2017/08/03 11:53:36 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #2 is the button
+Seat 1: BEN7469 (11300)
+Seat 2: paire-loose (10350)
+Seat 3: -SO_respect (18890)
+Seat 4: XXX888XXX (12845)
+Seat 5: idir58 (6625)
+Seat 6: manggy94 (9990)
+*** ANTE/BLINDS ***
+-SO_respect posts ante 15
+XXX888XXX posts ante 15
+BEN7469 posts ante 15
+paire-loose posts ante 15
+idir58 posts ante 15
+manggy94 posts ante 15
+-SO_respect posts small blind 75
+XXX888XXX posts big blind 150
+Dealt to manggy94 [8s 4s]
+*** PRE-FLOP *** 
+idir58 raises 150 to 300
+manggy94 folds
+BEN7469 calls 300
+paire-loose folds
+-SO_respect folds
+XXX888XXX folds
+*** FLOP *** [6c 3s 4c]
+idir58 checks
+BEN7469 bets 686
+idir58 folds
+BEN7469 collected 1601 from pot
+*** SUMMARY ***
+Total pot 1601 | No rake
+Board: [6c 3s 4c]
+Seat 1: BEN7469 won 1601
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #871229185371144195-18-1501761265 - Holdem no limit (15/75/150) - 2017/08/03 11:54:25 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #3 is the button
+Seat 1: BEN7469 (11900)
+Seat 2: paire-loose (10335)
+Seat 3: -SO_respect (18800)
+Seat 4: XXX888XXX (12680)
+Seat 5: idir58 (6310)
+Seat 6: manggy94 (9975)
+*** ANTE/BLINDS ***
+XXX888XXX posts ante 15
+idir58 posts ante 15
+BEN7469 posts ante 15
+paire-loose posts ante 15
+-SO_respect posts ante 15
+manggy94 posts ante 15
+XXX888XXX posts small blind 75
+idir58 posts big blind 150
+Dealt to manggy94 [8h Td]
+*** PRE-FLOP *** 
+manggy94 folds
+BEN7469 raises 300 to 450
+paire-loose calls 450
+-SO_respect folds
+XXX888XXX folds
+idir58 calls 300
+*** FLOP *** [9h 3h Qh]
+idir58 checks
+BEN7469 bets 11435 and is all-in
+paire-loose folds
+idir58 calls 5845 and is all-in
+*** TURN *** [9h 3h Qh][Kc]
+*** RIVER *** [9h 3h Qh Kc][9d]
+*** SHOW DOWN ***
+idir58 shows [3d 3c] (Full of 3 and 9)
+BEN7469 shows [9c 9s] (Quads of 9)
+BEN7469 collected 18795 from pot
+*** SUMMARY ***
+Total pot 18795 | No rake
+Board: [9h 3h Qh Kc 9d]
+Seat 1: BEN7469 showed [9c 9s] and won 18795 with Quads of 9
+Seat 5: idir58 (big blind) showed [3d 3c] and lost with Full of 3 and 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #871229185371144195-19-1501761602 - Holdem no limit (15/75/150) - 2017/08/03 12:00:02 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #4 is the button
+Seat 1: BEN7469 (18795)
+Seat 2: paire-loose (9870)
+Seat 3: -SO_respect (18785)
+Seat 4: XXX888XXX (12590)
+Seat 5: fabienrea2 (10000)
+Seat 6: manggy94 (9960)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+BEN7469 posts ante 15
+paire-loose posts ante 15
+-SO_respect posts ante 15
+XXX888XXX posts ante 15
+manggy94 posts big blind 150
+Dealt to manggy94 [3s 3h]
+*** PRE-FLOP *** 
+BEN7469 folds
+paire-loose folds
+-SO_respect folds
+XXX888XXX folds
+manggy94 collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Seat 6: manggy94 (big blind) won 225
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #871229185371144195-20-1501761612 - Holdem no limit (15/75/150) - 2017/08/03 12:00:12 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #5 is the button
+Seat 1: BEN7469 (18780)
+Seat 2: paire-loose (9855)
+Seat 3: -SO_respect (18770)
+Seat 4: XXX888XXX (12575)
+Seat 5: fabienrea2 (10000)
+Seat 6: manggy94 (10020)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+BEN7469 posts ante 15
+paire-loose posts ante 15
+-SO_respect posts ante 15
+XXX888XXX posts ante 15
+manggy94 posts small blind 75
+BEN7469 posts big blind 150
+Dealt to manggy94 [3s 3c]
+*** PRE-FLOP *** 
+paire-loose folds
+-SO_respect folds
+XXX888XXX folds
+manggy94 calls 75
+BEN7469 checks
+*** FLOP *** [Qh Js 6c]
+manggy94 bets 188
+BEN7469 calls 188
+*** TURN *** [Qh Js 6c][Tc]
+manggy94 checks
+BEN7469 bets 300
+manggy94 folds
+BEN7469 collected 1051 from pot
+*** SUMMARY ***
+Total pot 1051 | No rake
+Board: [Qh Js 6c Tc]
+Seat 1: BEN7469 (big blind) won 1051
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #871229185371144195-21-1501761636 - Holdem no limit (15/75/150) - 2017/08/03 12:00:36 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #6 is the button
+Seat 1: BEN7469 (19178)
+Seat 2: paire-loose (9840)
+Seat 3: -SO_respect (18755)
+Seat 4: XXX888XXX (12560)
+Seat 5: fabienrea2 (10000)
+Seat 6: manggy94 (9667)
+*** ANTE/BLINDS ***
+BEN7469 posts ante 15
+paire-loose posts ante 15
+-SO_respect posts ante 15
+XXX888XXX posts ante 15
+fabienrea2 posts ante 15
+manggy94 posts ante 15
+BEN7469 posts small blind 75
+paire-loose posts big blind 150
+Dealt to manggy94 [2h 5s]
+*** PRE-FLOP *** 
+-SO_respect raises 150 to 300
+XXX888XXX folds
+fabienrea2 folds
+manggy94 folds
+BEN7469 calls 225
+paire-loose folds
+*** FLOP *** [8h 2s 3s]
+BEN7469 checks
+-SO_respect checks
+*** TURN *** [8h 2s 3s][3d]
+BEN7469 checks
+-SO_respect checks
+*** RIVER *** [8h 2s 3s 3d][4d]
+BEN7469 checks
+-SO_respect checks
+*** SHOW DOWN ***
+BEN7469 shows [Qc Kh] (One pair : 3)
+-SO_respect shows [Kc Qh] (One pair : 3)
+-SO_respect collected 420 from pot
+BEN7469 collected 420 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [8h 2s 3s 3d 4d]
+Seat 1: BEN7469 (small blind) showed [Qc Kh] and won 420 with One pair : 3
+Seat 3: -SO_respect showed [Kc Qh] and won 420 with One pair : 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #871229185371144195-22-1501761675 - Holdem no limit (15/75/150) - 2017/08/03 12:01:15 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #1 is the button
+Seat 1: BEN7469 (19283)
+Seat 2: paire-loose (9675)
+Seat 3: -SO_respect (18860)
+Seat 4: XXX888XXX (12545)
+Seat 5: fabienrea2 (9985)
+Seat 6: manggy94 (9652)
+*** ANTE/BLINDS ***
+paire-loose posts ante 15
+-SO_respect posts ante 15
+BEN7469 posts ante 15
+XXX888XXX posts ante 15
+fabienrea2 posts ante 15
+manggy94 posts ante 15
+paire-loose posts small blind 75
+-SO_respect posts big blind 150
+Dealt to manggy94 [Qh 7d]
+*** PRE-FLOP *** 
+XXX888XXX folds
+fabienrea2 folds
+manggy94 folds
+BEN7469 folds
+paire-loose folds
+-SO_respect collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Seat 3: -SO_respect (big blind) won 315
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #871229185371144195-23-1501761685 - Holdem no limit (15/75/150) - 2017/08/03 12:01:25 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #2 is the button
+Seat 1: BEN7469 (19268)
+Seat 2: paire-loose (9585)
+Seat 3: -SO_respect (19010)
+Seat 4: XXX888XXX (12530)
+Seat 5: fabienrea2 (9970)
+Seat 6: manggy94 (9637)
+*** ANTE/BLINDS ***
+-SO_respect posts ante 15
+XXX888XXX posts ante 15
+BEN7469 posts ante 15
+paire-loose posts ante 15
+fabienrea2 posts ante 15
+manggy94 posts ante 15
+-SO_respect posts small blind 75
+XXX888XXX posts big blind 150
+Dealt to manggy94 [9s Tc]
+*** PRE-FLOP *** 
+fabienrea2 folds
+manggy94 folds
+BEN7469 folds
+paire-loose folds
+-SO_respect raises 300 to 450
+XXX888XXX folds
+-SO_respect collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Seat 3: -SO_respect (small blind) won 690
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #871229185371144195-24-1501761702 - Holdem no limit (15/75/150) - 2017/08/03 12:01:42 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #3 is the button
+Seat 1: BEN7469 (19253)
+Seat 2: paire-loose (9570)
+Seat 3: -SO_respect (19235)
+Seat 4: XXX888XXX (12365)
+Seat 5: fabienrea2 (9955)
+Seat 6: manggy94 (9622)
+*** ANTE/BLINDS ***
+XXX888XXX posts ante 15
+fabienrea2 posts ante 15
+BEN7469 posts ante 15
+paire-loose posts ante 15
+-SO_respect posts ante 15
+manggy94 posts ante 15
+XXX888XXX posts small blind 75
+fabienrea2 posts big blind 150
+Dealt to manggy94 [4h 9s]
+*** PRE-FLOP *** 
+manggy94 folds
+BEN7469 folds
+paire-loose folds
+-SO_respect folds
+XXX888XXX folds
+fabienrea2 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Seat 5: fabienrea2 (big blind) won 315
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #871229185371144195-25-1501761725 - Holdem no limit (15/75/150) - 2017/08/03 12:02:05 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #4 is the button
+Seat 1: BEN7469 (19238)
+Seat 2: paire-loose (9555)
+Seat 3: -SO_respect (19220)
+Seat 4: XXX888XXX (12275)
+Seat 5: fabienrea2 (10105)
+Seat 6: manggy94 (9607)
+*** ANTE/BLINDS ***
+fabienrea2 posts ante 15
+manggy94 posts ante 15
+BEN7469 posts ante 15
+paire-loose posts ante 15
+-SO_respect posts ante 15
+XXX888XXX posts ante 15
+fabienrea2 posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [2h 6h]
+*** PRE-FLOP *** 
+BEN7469 folds
+paire-loose folds
+-SO_respect raises 150 to 300
+XXX888XXX folds
+fabienrea2 raises 600 to 900
+manggy94 folds
+-SO_respect calls 600
+*** FLOP *** [4c 3h 6c]
+fabienrea2 checks
+-SO_respect bets 1020
+fabienrea2 calls 1020
+*** TURN *** [4c 3h 6c][Ah]
+fabienrea2 bets 8170 and is all-in
+-SO_respect folds
+fabienrea2 collected 12250 from pot
+*** SUMMARY ***
+Total pot 12250 | No rake
+Board: [4c 3h 6c Ah]
+Seat 5: fabienrea2 (small blind) won 12250
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #871229185371144195-26-1501761780 - Holdem no limit (15/75/150) - 2017/08/03 12:03:00 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #5 is the button
+Seat 1: BEN7469 (19223)
+Seat 2: paire-loose (9540)
+Seat 3: -SO_respect (17285)
+Seat 4: XXX888XXX (12260)
+Seat 5: fabienrea2 (12250)
+Seat 6: manggy94 (9442)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+BEN7469 posts ante 15
+paire-loose posts ante 15
+-SO_respect posts ante 15
+XXX888XXX posts ante 15
+fabienrea2 posts ante 15
+manggy94 posts small blind 75
+BEN7469 posts big blind 150
+Dealt to manggy94 [4s Ah]
+*** PRE-FLOP *** 
+paire-loose folds
+-SO_respect folds
+XXX888XXX folds
+fabienrea2 folds
+manggy94 folds
+BEN7469 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Seat 1: BEN7469 (big blind) won 315
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #871229185371144195-27-1501761792 - Holdem no limit (15/75/150) - 2017/08/03 12:03:12 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #6 is the button
+Seat 1: BEN7469 (19373)
+Seat 2: paire-loose (9525)
+Seat 3: -SO_respect (17270)
+Seat 4: XXX888XXX (12245)
+Seat 5: fabienrea2 (12235)
+Seat 6: manggy94 (9352)
+*** ANTE/BLINDS ***
+BEN7469 posts ante 15
+paire-loose posts ante 15
+-SO_respect posts ante 15
+XXX888XXX posts ante 15
+fabienrea2 posts ante 15
+manggy94 posts ante 15
+BEN7469 posts small blind 75
+paire-loose posts big blind 150
+Dealt to manggy94 [7d 8d]
+*** PRE-FLOP *** 
+-SO_respect folds
+XXX888XXX folds
+fabienrea2 folds
+manggy94 calls 150
+BEN7469 folds
+paire-loose checks
+*** FLOP *** [As 2d Jh]
+paire-loose bets 225
+manggy94 folds
+paire-loose collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [As 2d Jh]
+Seat 2: paire-loose (big blind) won 690
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #871229185371144195-28-1501761813 - Holdem no limit (15/75/150) - 2017/08/03 12:03:33 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #1 is the button
+Seat 1: BEN7469 (19283)
+Seat 2: paire-loose (9825)
+Seat 3: -SO_respect (17255)
+Seat 4: XXX888XXX (12230)
+Seat 5: fabienrea2 (12220)
+Seat 6: manggy94 (9187)
+*** ANTE/BLINDS ***
+paire-loose posts ante 15
+-SO_respect posts ante 15
+BEN7469 posts ante 15
+XXX888XXX posts ante 15
+fabienrea2 posts ante 15
+manggy94 posts ante 15
+paire-loose posts small blind 75
+-SO_respect posts big blind 150
+Dealt to manggy94 [9h 6c]
+*** PRE-FLOP *** 
+XXX888XXX folds
+fabienrea2 folds
+manggy94 folds
+BEN7469 calls 150
+paire-loose folds
+-SO_respect checks
+*** FLOP *** [5d Kd Qh]
+-SO_respect checks
+BEN7469 bets 150
+-SO_respect folds
+BEN7469 collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | No rake
+Board: [5d Kd Qh]
+Seat 1: BEN7469 (button) won 615
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #871229185371144195-29-1501761854 - Holdem no limit (15/75/150) - 2017/08/03 12:04:14 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #2 is the button
+Seat 1: BEN7469 (19583)
+Seat 2: paire-loose (9735)
+Seat 3: -SO_respect (17090)
+Seat 4: XXX888XXX (12215)
+Seat 5: fabienrea2 (12205)
+Seat 6: manggy94 (9172)
+*** ANTE/BLINDS ***
+-SO_respect posts ante 15
+XXX888XXX posts ante 15
+BEN7469 posts ante 15
+paire-loose posts ante 15
+fabienrea2 posts ante 15
+manggy94 posts ante 15
+-SO_respect posts small blind 75
+XXX888XXX posts big blind 150
+Dealt to manggy94 [Ks 5c]
+*** PRE-FLOP *** 
+fabienrea2 folds
+manggy94 folds
+BEN7469 calls 150
+paire-loose folds
+-SO_respect folds
+XXX888XXX checks
+*** FLOP *** [Ts 9s Kd]
+XXX888XXX checks
+BEN7469 bets 150
+XXX888XXX calls 150
+*** TURN *** [Ts 9s Kd][Ac]
+XXX888XXX checks
+BEN7469 bets 150
+XXX888XXX calls 150
+*** RIVER *** [Ts 9s Kd Ac][6d]
+XXX888XXX checks
+BEN7469 checks
+*** SHOW DOWN ***
+BEN7469 shows [5h 9h] (One pair : 9)
+XXX888XXX shows [Jh As] (One pair : Aces)
+XXX888XXX collected 1065 from pot
+*** SUMMARY ***
+Total pot 1065 | No rake
+Board: [Ts 9s Kd Ac 6d]
+Seat 1: BEN7469 showed [5h 9h] and lost with One pair : 9
+Seat 4: XXX888XXX (big blind) showed [Jh As] and won 1065 with One pair : Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #871229185371144195-30-1501761928 - Holdem no limit (15/75/150) - 2017/08/03 12:05:28 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #3 is the button
+Seat 1: BEN7469 (19118)
+Seat 2: paire-loose (9720)
+Seat 3: -SO_respect (17000)
+Seat 4: XXX888XXX (12815)
+Seat 5: fabienrea2 (12190)
+Seat 6: manggy94 (9157)
+*** ANTE/BLINDS ***
+XXX888XXX posts ante 15
+fabienrea2 posts ante 15
+BEN7469 posts ante 15
+paire-loose posts ante 15
+-SO_respect posts ante 15
+manggy94 posts ante 15
+XXX888XXX posts small blind 75
+fabienrea2 posts big blind 150
+Dealt to manggy94 [3s 8h]
+*** PRE-FLOP *** 
+manggy94 folds
+BEN7469 calls 150
+paire-loose folds
+-SO_respect folds
+XXX888XXX calls 75
+fabienrea2 checks
+*** FLOP *** [9h 9s 4s]
+XXX888XXX checks
+fabienrea2 checks
+BEN7469 checks
+*** TURN *** [9h 9s 4s][3d]
+XXX888XXX checks
+fabienrea2 checks
+BEN7469 checks
+*** RIVER *** [9h 9s 4s 3d][7c]
+XXX888XXX checks
+fabienrea2 bets 270
+BEN7469 folds
+XXX888XXX folds
+fabienrea2 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [9h 9s 4s 3d 7c]
+Seat 5: fabienrea2 (big blind) won 810
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #871229185371144195-31-1501761998 - Holdem no limit (20/100/200) - 2017/08/03 12:06:38 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #4 is the button
+Seat 1: BEN7469 (18953)
+Seat 2: paire-loose (9705)
+Seat 3: -SO_respect (16985)
+Seat 4: XXX888XXX (12650)
+Seat 5: fabienrea2 (12565)
+Seat 6: manggy94 (9142)
+*** ANTE/BLINDS ***
+fabienrea2 posts ante 20
+manggy94 posts ante 20
+BEN7469 posts ante 20
+paire-loose posts ante 20
+-SO_respect posts ante 20
+XXX888XXX posts ante 20
+fabienrea2 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [Ac 4h]
+*** PRE-FLOP *** 
+BEN7469 folds
+paire-loose raises 300 to 500
+-SO_respect folds
+XXX888XXX folds
+fabienrea2 folds
+manggy94 calls 300
+*** FLOP *** [6s 2s 9d]
+manggy94 bets 200
+paire-loose calls 200
+*** TURN *** [6s 2s 9d][Ts]
+manggy94 checks
+paire-loose checks
+*** RIVER *** [6s 2s 9d Ts][Kd]
+manggy94 bets 810
+paire-loose folds
+manggy94 collected 2430 from pot
+*** SUMMARY ***
+Total pot 2430 | No rake
+Board: [6s 2s 9d Ts Kd]
+Seat 6: manggy94 (big blind) won 2430
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #871229185371144195-32-1501762081 - Holdem no limit (20/100/200) - 2017/08/03 12:08:01 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #5 is the button
+Seat 1: BEN7469 (18933)
+Seat 2: paire-loose (8985)
+Seat 3: -SO_respect (16965)
+Seat 4: XXX888XXX (12630)
+Seat 5: fabienrea2 (12445)
+Seat 6: manggy94 (10042)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+BEN7469 posts ante 20
+paire-loose posts ante 20
+-SO_respect posts ante 20
+XXX888XXX posts ante 20
+fabienrea2 posts ante 20
+manggy94 posts small blind 100
+BEN7469 posts big blind 200
+Dealt to manggy94 [9h Ah]
+*** PRE-FLOP *** 
+paire-loose raises 400 to 600
+-SO_respect folds
+XXX888XXX folds
+fabienrea2 folds
+manggy94 calls 500
+BEN7469 calls 400
+*** FLOP *** [Kh 4h 4c]
+manggy94 bets 800
+BEN7469 folds
+paire-loose folds
+manggy94 collected 2720 from pot
+*** SUMMARY ***
+Total pot 2720 | No rake
+Board: [Kh 4h 4c]
+Seat 6: manggy94 (small blind) won 2720
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #871229185371144195-33-1501762116 - Holdem no limit (20/100/200) - 2017/08/03 12:08:36 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #6 is the button
+Seat 1: BEN7469 (18313)
+Seat 2: paire-loose (8365)
+Seat 3: -SO_respect (16945)
+Seat 4: XXX888XXX (12610)
+Seat 5: fabienrea2 (12425)
+Seat 6: manggy94 (11342)
+*** ANTE/BLINDS ***
+BEN7469 posts ante 20
+paire-loose posts ante 20
+-SO_respect posts ante 20
+XXX888XXX posts ante 20
+fabienrea2 posts ante 20
+manggy94 posts ante 20
+BEN7469 posts small blind 100
+paire-loose posts big blind 200
+Dealt to manggy94 [3c 3s]
+*** PRE-FLOP *** 
+-SO_respect folds
+XXX888XXX folds
+fabienrea2 folds
+manggy94 raises 200 to 400
+BEN7469 folds
+paire-loose folds
+manggy94 collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Seat 6: manggy94 (button) won 820
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #871229185371144195-34-1501762139 - Holdem no limit (20/100/200) - 2017/08/03 12:08:59 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #1 is the button
+Seat 1: BEN7469 (18193)
+Seat 2: paire-loose (8145)
+Seat 3: -SO_respect (16925)
+Seat 4: XXX888XXX (12590)
+Seat 5: fabienrea2 (12405)
+Seat 6: manggy94 (11742)
+*** ANTE/BLINDS ***
+paire-loose posts ante 20
+-SO_respect posts ante 20
+BEN7469 posts ante 20
+XXX888XXX posts ante 20
+fabienrea2 posts ante 20
+manggy94 posts ante 20
+paire-loose posts small blind 100
+-SO_respect posts big blind 200
+Dealt to manggy94 [9s 5s]
+*** PRE-FLOP *** 
+XXX888XXX calls 200
+fabienrea2 folds
+manggy94 folds
+BEN7469 folds
+paire-loose calls 100
+-SO_respect checks
+*** FLOP *** [8s 7s 4c]
+paire-loose checks
+-SO_respect checks
+XXX888XXX checks
+*** TURN *** [8s 7s 4c][Tc]
+paire-loose bets 300
+-SO_respect folds
+XXX888XXX calls 300
+*** RIVER *** [8s 7s 4c Tc][7c]
+paire-loose checks
+XXX888XXX checks
+*** SHOW DOWN ***
+paire-loose shows [Kc 9d] (One pair : 7)
+XXX888XXX shows [Kh Th] (Two pairs : Tens and 7)
+XXX888XXX collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Board: [8s 7s 4c Tc 7c]
+Seat 2: paire-loose (small blind) showed [Kc 9d] and lost with One pair : 7
+Seat 4: XXX888XXX showed [Kh Th] and won 1320 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #871229185371144195-35-1501762196 - Holdem no limit (20/100/200) - 2017/08/03 12:09:56 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #2 is the button
+Seat 1: BEN7469 (18173)
+Seat 2: paire-loose (7625)
+Seat 3: -SO_respect (16705)
+Seat 4: XXX888XXX (13390)
+Seat 5: fabienrea2 (12385)
+Seat 6: manggy94 (11722)
+*** ANTE/BLINDS ***
+-SO_respect posts ante 20
+XXX888XXX posts ante 20
+BEN7469 posts ante 20
+paire-loose posts ante 20
+fabienrea2 posts ante 20
+manggy94 posts ante 20
+-SO_respect posts small blind 100
+XXX888XXX posts big blind 200
+Dealt to manggy94 [Th Ad]
+*** PRE-FLOP *** 
+fabienrea2 folds
+manggy94 raises 200 to 400
+BEN7469 folds
+paire-loose folds
+-SO_respect calls 300
+XXX888XXX folds
+*** FLOP *** [Kd 6c Jd]
+-SO_respect checks
+manggy94 checks
+*** TURN *** [Kd 6c Jd][Qc]
+-SO_respect checks
+manggy94 bets 560
+-SO_respect calls 560
+*** RIVER *** [Kd 6c Jd Qc][4h]
+-SO_respect checks
+manggy94 bets 2240
+-SO_respect calls 2240
+*** SHOW DOWN ***
+-SO_respect shows [Qd Ts] (One pair : Queens)
+manggy94 shows [Th Ad] (Straight Ace high)
+manggy94 collected 6720 from pot
+*** SUMMARY ***
+Total pot 6720 | No rake
+Board: [Kd 6c Jd Qc 4h]
+Seat 3: -SO_respect (small blind) showed [Qd Ts] and lost with One pair : Queens
+Seat 6: manggy94 showed [Th Ad] and won 6720 with Straight Ace high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #871229185371144195-36-1501762295 - Holdem no limit (20/100/200) - 2017/08/03 12:11:35 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #3 is the button
+Seat 1: BEN7469 (18153)
+Seat 2: paire-loose (7605)
+Seat 3: -SO_respect (13485)
+Seat 4: XXX888XXX (13170)
+Seat 5: fabienrea2 (12365)
+Seat 6: manggy94 (15222)
+*** ANTE/BLINDS ***
+XXX888XXX posts ante 20
+fabienrea2 posts ante 20
+BEN7469 posts ante 20
+paire-loose posts ante 20
+-SO_respect posts ante 20
+manggy94 posts ante 20
+XXX888XXX posts small blind 100
+fabienrea2 posts big blind 200
+Dealt to manggy94 [8s 7c]
+*** PRE-FLOP *** 
+manggy94 folds
+BEN7469 folds
+paire-loose raises 300 to 500
+-SO_respect folds
+XXX888XXX calls 400
+fabienrea2 folds
+*** FLOP *** [Ad 3d 3c]
+XXX888XXX checks
+paire-loose checks
+*** TURN *** [Ad 3d 3c][Kd]
+XXX888XXX bets 12650 and is all-in
+paire-loose folds
+XXX888XXX collected 13970 from pot
+*** SUMMARY ***
+Total pot 13970 | No rake
+Board: [Ad 3d 3c Kd]
+Seat 4: XXX888XXX (small blind) won 13970
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #871229185371144195-37-1501762329 - Holdem no limit (20/100/200) - 2017/08/03 12:12:09 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #4 is the button
+Seat 1: BEN7469 (18133)
+Seat 2: paire-loose (7085)
+Seat 3: -SO_respect (13465)
+Seat 4: XXX888XXX (13970)
+Seat 5: fabienrea2 (12145)
+Seat 6: manggy94 (15202)
+*** ANTE/BLINDS ***
+fabienrea2 posts ante 20
+manggy94 posts ante 20
+BEN7469 posts ante 20
+paire-loose posts ante 20
+-SO_respect posts ante 20
+XXX888XXX posts ante 20
+fabienrea2 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [9d 3d]
+*** PRE-FLOP *** 
+BEN7469 folds
+paire-loose folds
+-SO_respect folds
+XXX888XXX folds
+fabienrea2 folds
+manggy94 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 6: manggy94 (big blind) won 420
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #871229185371144195-38-1501762352 - Holdem no limit (20/100/200) - 2017/08/03 12:12:32 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #5 is the button
+Seat 1: BEN7469 (18113)
+Seat 2: paire-loose (7065)
+Seat 3: -SO_respect (13445)
+Seat 4: XXX888XXX (13950)
+Seat 5: fabienrea2 (12025)
+Seat 6: manggy94 (15402)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+BEN7469 posts ante 20
+paire-loose posts ante 20
+-SO_respect posts ante 20
+XXX888XXX posts ante 20
+fabienrea2 posts ante 20
+manggy94 posts small blind 100
+BEN7469 posts big blind 200
+Dealt to manggy94 [Ts 9c]
+*** PRE-FLOP *** 
+paire-loose raises 400 to 600
+-SO_respect folds
+XXX888XXX calls 600
+fabienrea2 folds
+manggy94 folds
+BEN7469 calls 400
+*** FLOP *** [7s Ad Ks]
+BEN7469 checks
+paire-loose bets 1000
+XXX888XXX calls 1000
+BEN7469 calls 1000
+*** TURN *** [7s Ad Ks][Js]
+BEN7469 checks
+paire-loose bets 5445 and is all-in
+XXX888XXX folds
+BEN7469 calls 5445
+*** RIVER *** [7s Ad Ks Js][2s]
+*** SHOW DOWN ***
+paire-loose shows [Ac 9s] (Flush King high)
+BEN7469 shows [As 6c] (Flush Ace high)
+BEN7469 collected 15910 from pot
+*** SUMMARY ***
+Total pot 15910 | No rake
+Board: [7s Ad Ks Js 2s]
+Seat 1: BEN7469 (big blind) showed [As 6c] and won 15910 with Flush Ace high
+Seat 2: paire-loose showed [Ac 9s] and lost with Flush King high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #871229185371144195-39-1501762405 - Holdem no limit (20/100/200) - 2017/08/03 12:13:25 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #6 is the button
+Seat 1: BEN7469 (26958)
+Seat 3: -SO_respect (13425)
+Seat 4: XXX888XXX (12330)
+Seat 5: fabienrea2 (12005)
+Seat 6: manggy94 (15282)
+*** ANTE/BLINDS ***
+BEN7469 posts ante 20
+-SO_respect posts ante 20
+XXX888XXX posts ante 20
+fabienrea2 posts ante 20
+manggy94 posts ante 20
+BEN7469 posts small blind 100
+-SO_respect posts big blind 200
+Dealt to manggy94 [8c 2c]
+*** PRE-FLOP *** 
+XXX888XXX folds
+fabienrea2 folds
+manggy94 folds
+BEN7469 calls 100
+-SO_respect checks
+*** FLOP *** [4c Kh Td]
+BEN7469 checks
+-SO_respect checks
+*** TURN *** [4c Kh Td][2h]
+BEN7469 checks
+-SO_respect bets 333
+BEN7469 folds
+-SO_respect collected 833 from pot
+*** SUMMARY ***
+Total pot 833 | No rake
+Board: [4c Kh Td 2h]
+Seat 3: -SO_respect (big blind) won 833
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #871229185371144195-40-1501762472 - Holdem no limit (30/125/250) - 2017/08/03 12:14:32 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #1 is the button
+Seat 1: BEN7469 (26738)
+Seat 3: -SO_respect (13705)
+Seat 4: XXX888XXX (12310)
+Seat 5: fabienrea2 (11985)
+Seat 6: manggy94 (15262)
+*** ANTE/BLINDS ***
+-SO_respect posts ante 30
+XXX888XXX posts ante 30
+BEN7469 posts ante 30
+fabienrea2 posts ante 30
+manggy94 posts ante 30
+-SO_respect posts small blind 125
+XXX888XXX posts big blind 250
+Dealt to manggy94 [Kh 6h]
+*** PRE-FLOP *** 
+fabienrea2 folds
+manggy94 folds
+BEN7469 folds
+-SO_respect raises 625 to 875
+XXX888XXX folds
+-SO_respect collected 1275 from pot
+*** SUMMARY ***
+Total pot 1275 | No rake
+Seat 3: -SO_respect (small blind) won 1275
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #871229185371144195-41-1501762488 - Holdem no limit (30/125/250) - 2017/08/03 12:14:48 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #3 is the button
+Seat 1: BEN7469 (26708)
+Seat 3: -SO_respect (14075)
+Seat 4: XXX888XXX (12030)
+Seat 5: fabienrea2 (11955)
+Seat 6: manggy94 (15232)
+*** ANTE/BLINDS ***
+XXX888XXX posts ante 30
+fabienrea2 posts ante 30
+BEN7469 posts ante 30
+-SO_respect posts ante 30
+manggy94 posts ante 30
+XXX888XXX posts small blind 125
+fabienrea2 posts big blind 250
+Dealt to manggy94 [4s 9h]
+*** PRE-FLOP *** 
+manggy94 folds
+BEN7469 calls 250
+-SO_respect folds
+XXX888XXX folds
+fabienrea2 checks
+*** FLOP *** [As Tc 7h]
+fabienrea2 checks
+BEN7469 bets 250
+fabienrea2 calls 250
+*** TURN *** [As Tc 7h][7d]
+fabienrea2 checks
+BEN7469 checks
+*** RIVER *** [As Tc 7h 7d][8c]
+fabienrea2 checks
+BEN7469 bets 250
+fabienrea2 calls 250
+*** SHOW DOWN ***
+fabienrea2 shows [Td 3s] (Two pairs : Tens and 7)
+BEN7469 shows [2s Ad] (Two pairs : Aces and 7)
+BEN7469 collected 1775 from pot
+*** SUMMARY ***
+Total pot 1775 | No rake
+Board: [As Tc 7h 7d 8c]
+Seat 1: BEN7469 showed [2s Ad] and won 1775 with Two pairs : Aces and 7
+Seat 5: fabienrea2 (big blind) showed [Td 3s] and lost with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #871229185371144195-42-1501762530 - Holdem no limit (30/125/250) - 2017/08/03 12:15:30 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #4 is the button
+Seat 1: BEN7469 (27703)
+Seat 2: GIRAFON (10000)
+Seat 3: -SO_respect (14045)
+Seat 4: XXX888XXX (11875)
+Seat 5: fabienrea2 (11175)
+Seat 6: manggy94 (15202)
+*** ANTE/BLINDS ***
+fabienrea2 posts ante 30
+manggy94 posts ante 30
+BEN7469 posts ante 30
+GIRAFON posts ante 30
+-SO_respect posts ante 30
+XXX888XXX posts ante 30
+fabienrea2 posts small blind 125
+manggy94 posts big blind 250
+Dealt to manggy94 [5d Tc]
+*** PRE-FLOP *** 
+BEN7469 folds
+GIRAFON folds
+-SO_respect folds
+XXX888XXX raises 11595 to 11845 and is all-in
+fabienrea2 folds
+manggy94 folds
+XXX888XXX collected 12400 from pot
+*** SUMMARY ***
+Total pot 12400 | No rake
+Seat 4: XXX888XXX (button) won 12400
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #871229185371144195-43-1501762554 - Holdem no limit (30/125/250) - 2017/08/03 12:15:54 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #5 is the button
+Seat 1: BEN7469 (27673)
+Seat 2: GIRAFON (9970)
+Seat 3: -SO_respect (14015)
+Seat 4: XXX888XXX (12400)
+Seat 5: fabienrea2 (11020)
+Seat 6: manggy94 (14922)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+BEN7469 posts ante 30
+GIRAFON posts ante 30
+-SO_respect posts ante 30
+XXX888XXX posts ante 30
+fabienrea2 posts ante 30
+manggy94 posts small blind 125
+BEN7469 posts big blind 250
+Dealt to manggy94 [6h 5s]
+*** PRE-FLOP *** 
+GIRAFON calls 250
+-SO_respect folds
+XXX888XXX calls 250
+fabienrea2 folds
+manggy94 folds
+BEN7469 checks
+*** FLOP *** [3s 7s 2s]
+BEN7469 bets 250
+GIRAFON calls 250
+XXX888XXX calls 250
+*** TURN *** [3s 7s 2s][8d]
+BEN7469 bets 375
+GIRAFON calls 375
+XXX888XXX calls 375
+*** RIVER *** [3s 7s 2s 8d][Jc]
+BEN7469 bets 625
+GIRAFON folds
+XXX888XXX calls 625
+*** SHOW DOWN ***
+BEN7469 shows [7d Kc] (One pair : 7)
+XXX888XXX shows [9s 9d] (One pair : 9)
+XXX888XXX collected 4180 from pot
+*** SUMMARY ***
+Total pot 4180 | No rake
+Board: [3s 7s 2s 8d Jc]
+Seat 1: BEN7469 (big blind) showed [7d Kc] and lost with One pair : 7
+Seat 4: XXX888XXX showed [9s 9d] and won 4180 with One pair : 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #871229185371144195-44-1501762642 - Holdem no limit (30/125/250) - 2017/08/03 12:17:22 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #6 is the button
+Seat 1: BEN7469 (26143)
+Seat 2: GIRAFON (9065)
+Seat 3: -SO_respect (13985)
+Seat 4: XXX888XXX (15050)
+Seat 5: fabienrea2 (10990)
+Seat 6: manggy94 (14767)
+*** ANTE/BLINDS ***
+BEN7469 posts ante 30
+GIRAFON posts ante 30
+-SO_respect posts ante 30
+XXX888XXX posts ante 30
+fabienrea2 posts ante 30
+manggy94 posts ante 30
+BEN7469 posts small blind 125
+GIRAFON posts big blind 250
+Dealt to manggy94 [4c 2s]
+*** PRE-FLOP *** 
+-SO_respect folds
+XXX888XXX folds
+fabienrea2 raises 250 to 500
+manggy94 folds
+BEN7469 raises 25613 to 26113 and is all-in
+GIRAFON folds
+fabienrea2 folds
+BEN7469 collected 27043 from pot
+*** SUMMARY ***
+Total pot 27043 | No rake
+Seat 1: BEN7469 (small blind) won 27043
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #871229185371144195-45-1501762721 - Holdem no limit (30/125/250) - 2017/08/03 12:18:41 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #1 is the button
+Seat 1: BEN7469 (27043)
+Seat 2: GIRAFON (8785)
+Seat 3: -SO_respect (13955)
+Seat 4: XXX888XXX (15020)
+Seat 5: fabienrea2 (10460)
+Seat 6: manggy94 (14737)
+*** ANTE/BLINDS ***
+GIRAFON posts ante 30
+-SO_respect posts ante 30
+BEN7469 posts ante 30
+XXX888XXX posts ante 30
+fabienrea2 posts ante 30
+manggy94 posts ante 30
+GIRAFON posts small blind 125
+-SO_respect posts big blind 250
+Dealt to manggy94 [8c Td]
+*** PRE-FLOP *** 
+XXX888XXX folds
+fabienrea2 folds
+manggy94 folds
+BEN7469 calls 250
+GIRAFON calls 125
+-SO_respect checks
+*** FLOP *** [Tc Ks 3s]
+GIRAFON checks
+-SO_respect checks
+BEN7469 bets 465
+GIRAFON folds
+-SO_respect folds
+BEN7469 collected 1395 from pot
+*** SUMMARY ***
+Total pot 1395 | No rake
+Board: [Tc Ks 3s]
+Seat 1: BEN7469 (button) won 1395
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #871229185371144195-46-1501762839 - Holdem no limit (30/125/250) - 2017/08/03 12:20:39 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #2 is the button
+Seat 1: BEN7469 (27693)
+Seat 2: GIRAFON (8505)
+Seat 3: -SO_respect (13675)
+Seat 4: XXX888XXX (14990)
+Seat 5: fabienrea2 (10430)
+Seat 6: manggy94 (14707)
+*** ANTE/BLINDS ***
+-SO_respect posts ante 30
+XXX888XXX posts ante 30
+BEN7469 posts ante 30
+GIRAFON posts ante 30
+fabienrea2 posts ante 30
+manggy94 posts ante 30
+-SO_respect posts small blind 125
+XXX888XXX posts big blind 250
+Dealt to manggy94 [7s Ks]
+*** PRE-FLOP *** 
+fabienrea2 folds
+manggy94 calls 250
+BEN7469 folds
+GIRAFON calls 250
+-SO_respect folds
+XXX888XXX checks
+*** FLOP *** [9c Qs 7d]
+XXX888XXX checks
+manggy94 checks
+GIRAFON bets 375
+XXX888XXX calls 375
+manggy94 calls 375
+*** TURN *** [9c Qs 7d][5h]
+XXX888XXX checks
+manggy94 checks
+GIRAFON checks
+*** RIVER *** [9c Qs 7d 5h][Ah]
+XXX888XXX checks
+manggy94 checks
+GIRAFON bets 625
+XXX888XXX folds
+manggy94 folds
+GIRAFON collected 2805 from pot
+*** SUMMARY ***
+Total pot 2805 | No rake
+Board: [9c Qs 7d 5h Ah]
+Seat 2: GIRAFON (button) won 2805
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #871229185371144195-47-1501762944 - Holdem no limit (40/150/300) - 2017/08/03 12:22:24 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #3 is the button
+Seat 1: BEN7469 (27663)
+Seat 2: GIRAFON (10030)
+Seat 3: -SO_respect (13520)
+Seat 4: XXX888XXX (14335)
+Seat 5: fabienrea2 (10400)
+Seat 6: manggy94 (14052)
+*** ANTE/BLINDS ***
+XXX888XXX posts ante 40
+fabienrea2 posts ante 40
+BEN7469 posts ante 40
+GIRAFON posts ante 40
+-SO_respect posts ante 40
+manggy94 posts ante 40
+XXX888XXX posts small blind 150
+fabienrea2 posts big blind 300
+Dealt to manggy94 [Kd Kh]
+*** PRE-FLOP *** 
+manggy94 calls 300
+BEN7469 folds
+GIRAFON folds
+-SO_respect folds
+XXX888XXX calls 150
+fabienrea2 checks
+*** FLOP *** [8h 3d Th]
+XXX888XXX checks
+fabienrea2 checks
+manggy94 bets 570
+XXX888XXX calls 570
+fabienrea2 folds
+*** TURN *** [8h 3d Th][Jc]
+XXX888XXX checks
+manggy94 bets 1140
+XXX888XXX calls 1140
+*** RIVER *** [8h 3d Th Jc][Kc]
+XXX888XXX checks
+manggy94 bets 2280
+XXX888XXX calls 2280
+*** SHOW DOWN ***
+XXX888XXX shows [Ks Qd] (One pair : Kings)
+manggy94 shows [Kd Kh] (Trips of Kings)
+manggy94 collected 9120 from pot
+*** SUMMARY ***
+Total pot 9120 | No rake
+Board: [8h 3d Th Jc Kc]
+Seat 4: XXX888XXX (small blind) showed [Ks Qd] and lost with One pair : Kings
+Seat 6: manggy94 showed [Kd Kh] and won 9120 with Trips of Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #871229185371144195-48-1501763053 - Holdem no limit (40/150/300) - 2017/08/03 12:24:13 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #4 is the button
+Seat 1: BEN7469 (27623)
+Seat 2: GIRAFON (9990)
+Seat 3: -SO_respect (13480)
+Seat 4: XXX888XXX (10005)
+Seat 5: fabienrea2 (10060)
+Seat 6: manggy94 (18842)
+*** ANTE/BLINDS ***
+fabienrea2 posts ante 40
+manggy94 posts ante 40
+BEN7469 posts ante 40
+GIRAFON posts ante 40
+-SO_respect posts ante 40
+XXX888XXX posts ante 40
+fabienrea2 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [8c 9d]
+*** PRE-FLOP *** 
+BEN7469 folds
+GIRAFON folds
+-SO_respect folds
+XXX888XXX folds
+fabienrea2 calls 150
+manggy94 checks
+*** FLOP *** [Kd Th 9c]
+fabienrea2 checks
+manggy94 bets 420
+fabienrea2 folds
+manggy94 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Board: [Kd Th 9c]
+Seat 6: manggy94 (big blind) won 1260
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #871229185371144195-49-1501763127 - Holdem no limit (40/150/300) - 2017/08/03 12:25:27 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #5 is the button
+Seat 1: BEN7469 (27583)
+Seat 2: GIRAFON (9950)
+Seat 3: -SO_respect (13440)
+Seat 4: XXX888XXX (9965)
+Seat 5: fabienrea2 (9720)
+Seat 6: manggy94 (19342)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+BEN7469 posts ante 40
+GIRAFON posts ante 40
+-SO_respect posts ante 40
+XXX888XXX posts ante 40
+fabienrea2 posts ante 40
+manggy94 posts small blind 150
+BEN7469 posts big blind 300
+Dealt to manggy94 [6h Js]
+*** PRE-FLOP *** 
+GIRAFON calls 300
+-SO_respect folds
+XXX888XXX folds
+fabienrea2 folds
+manggy94 folds
+BEN7469 raises 1800 to 2100
+GIRAFON folds
+BEN7469 collected 2790 from pot
+*** SUMMARY ***
+Total pot 2790 | No rake
+Seat 1: BEN7469 (big blind) won 2790
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #871229185371144195-50-1501763189 - Holdem no limit (40/150/300) - 2017/08/03 12:26:29 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #6 is the button
+Seat 1: BEN7469 (28233)
+Seat 2: GIRAFON (9610)
+Seat 3: -SO_respect (13400)
+Seat 4: XXX888XXX (9925)
+Seat 5: fabienrea2 (9680)
+Seat 6: manggy94 (19152)
+*** ANTE/BLINDS ***
+BEN7469 posts ante 40
+GIRAFON posts ante 40
+-SO_respect posts ante 40
+XXX888XXX posts ante 40
+fabienrea2 posts ante 40
+manggy94 posts ante 40
+BEN7469 posts small blind 150
+GIRAFON posts big blind 300
+Dealt to manggy94 [2c 6h]
+*** PRE-FLOP *** 
+-SO_respect folds
+XXX888XXX folds
+fabienrea2 folds
+manggy94 folds
+BEN7469 folds
+GIRAFON collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Seat 2: GIRAFON (big blind) won 690
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #871229185371144195-51-1501763214 - Holdem no limit (40/150/300) - 2017/08/03 12:26:54 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #1 is the button
+Seat 1: BEN7469 (28043)
+Seat 2: GIRAFON (9960)
+Seat 3: -SO_respect (13360)
+Seat 4: XXX888XXX (9885)
+Seat 5: fabienrea2 (9640)
+Seat 6: manggy94 (19112)
+*** ANTE/BLINDS ***
+GIRAFON posts ante 40
+-SO_respect posts ante 40
+BEN7469 posts ante 40
+XXX888XXX posts ante 40
+fabienrea2 posts ante 40
+manggy94 posts ante 40
+GIRAFON posts small blind 150
+-SO_respect posts big blind 300
+Dealt to manggy94 [8c 3d]
+*** PRE-FLOP *** 
+XXX888XXX raises 9545 to 9845 and is all-in
+fabienrea2 folds
+manggy94 folds
+BEN7469 calls 9845
+GIRAFON folds
+-SO_respect folds
+*** FLOP *** [5s 3s 7h]
+*** TURN *** [5s 3s 7h][2h]
+*** RIVER *** [5s 3s 7h 2h][Td]
+*** SHOW DOWN ***
+BEN7469 shows [Qs Ah] (High card : Ace)
+XXX888XXX shows [Ac As] (One pair : Aces)
+XXX888XXX collected 20380 from pot
+*** SUMMARY ***
+Total pot 20380 | No rake
+Board: [5s 3s 7h 2h Td]
+Seat 1: BEN7469 (button) showed [Qs Ah] and lost with High card : Ace
+Seat 4: XXX888XXX showed [Ac As] and won 20380 with One pair : Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #871229185371144195-52-1501763247 - Holdem no limit (40/150/300) - 2017/08/03 12:27:27 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #2 is the button
+Seat 1: BEN7469 (18158)
+Seat 2: GIRAFON (9770)
+Seat 3: -SO_respect (13020)
+Seat 4: XXX888XXX (20380)
+Seat 5: fabienrea2 (9600)
+Seat 6: manggy94 (19072)
+*** ANTE/BLINDS ***
+-SO_respect posts ante 40
+XXX888XXX posts ante 40
+BEN7469 posts ante 40
+GIRAFON posts ante 40
+fabienrea2 posts ante 40
+manggy94 posts ante 40
+-SO_respect posts small blind 150
+XXX888XXX posts big blind 300
+Dealt to manggy94 [6s Tc]
+*** PRE-FLOP *** 
+fabienrea2 folds
+manggy94 folds
+BEN7469 folds
+GIRAFON calls 300
+-SO_respect folds
+XXX888XXX checks
+*** FLOP *** [3d 8s 5c]
+XXX888XXX bets 990
+GIRAFON folds
+XXX888XXX collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | No rake
+Board: [3d 8s 5c]
+Seat 4: XXX888XXX (big blind) won 1980
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #871229185371144195-53-1501763285 - Holdem no limit (40/150/300) - 2017/08/03 12:28:05 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #3 is the button
+Seat 1: BEN7469 (18118)
+Seat 2: GIRAFON (9430)
+Seat 3: -SO_respect (12830)
+Seat 4: XXX888XXX (21030)
+Seat 5: fabienrea2 (9560)
+Seat 6: manggy94 (19032)
+*** ANTE/BLINDS ***
+XXX888XXX posts ante 40
+fabienrea2 posts ante 40
+BEN7469 posts ante 40
+GIRAFON posts ante 40
+-SO_respect posts ante 40
+manggy94 posts ante 40
+XXX888XXX posts small blind 150
+fabienrea2 posts big blind 300
+Dealt to manggy94 [Kc Tc]
+*** PRE-FLOP *** 
+manggy94 raises 300 to 600
+BEN7469 calls 600
+GIRAFON calls 600
+-SO_respect folds
+XXX888XXX folds
+fabienrea2 calls 300
+*** FLOP *** [Qh 7d 9h]
+fabienrea2 checks
+manggy94 checks
+BEN7469 bets 2790
+GIRAFON folds
+fabienrea2 raises 6130 to 8920 and is all-in
+manggy94 folds
+BEN7469 calls 6130
+*** TURN *** [Qh 7d 9h][2d]
+*** RIVER *** [Qh 7d 9h 2d][5c]
+*** SHOW DOWN ***
+BEN7469 shows [Th 5h] (One pair : 5)
+fabienrea2 shows [6d 8d] (Straight 9 high)
+fabienrea2 collected 20630 from pot
+*** SUMMARY ***
+Total pot 20630 | No rake
+Board: [Qh 7d 9h 2d 5c]
+Seat 1: BEN7469 showed [Th 5h] and lost with One pair : 5
+Seat 5: fabienrea2 (big blind) showed [6d 8d] and won 20630 with Straight 9 high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #871229185371144195-54-1501763370 - Holdem no limit (40/150/300) - 2017/08/03 12:29:30 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #4 is the button
+Seat 1: BEN7469 (8558)
+Seat 2: GIRAFON (8790)
+Seat 3: -SO_respect (12790)
+Seat 4: XXX888XXX (20840)
+Seat 5: fabienrea2 (20630)
+Seat 6: manggy94 (18392)
+*** ANTE/BLINDS ***
+fabienrea2 posts ante 40
+manggy94 posts ante 40
+BEN7469 posts ante 40
+GIRAFON posts ante 40
+-SO_respect posts ante 40
+XXX888XXX posts ante 40
+fabienrea2 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [4d Jh]
+*** PRE-FLOP *** 
+BEN7469 folds
+GIRAFON calls 300
+-SO_respect folds
+XXX888XXX folds
+fabienrea2 calls 150
+manggy94 checks
+*** FLOP *** [8d 3h Jc]
+fabienrea2 checks
+manggy94 bets 300
+GIRAFON calls 300
+fabienrea2 folds
+*** TURN *** [8d 3h Jc][As]
+manggy94 bets 300
+GIRAFON calls 300
+*** RIVER *** [8d 3h Jc As][7h]
+manggy94 checks
+GIRAFON checks
+*** SHOW DOWN ***
+manggy94 shows [4d Jh] (One pair : Jacks)
+GIRAFON shows [Jd Ks] (One pair : Jacks)
+GIRAFON collected 2340 from pot
+*** SUMMARY ***
+Total pot 2340 | No rake
+Board: [8d 3h Jc As 7h]
+Seat 2: GIRAFON showed [Jd Ks] and won 2340 with One pair : Jacks
+Seat 6: manggy94 (big blind) showed [4d Jh] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #871229185371144195-55-1501763447 - Holdem no limit (50/200/400) - 2017/08/03 12:30:47 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #5 is the button
+Seat 1: BEN7469 (8518)
+Seat 2: GIRAFON (10190)
+Seat 3: -SO_respect (12750)
+Seat 4: XXX888XXX (20800)
+Seat 5: fabienrea2 (20290)
+Seat 6: manggy94 (17452)
+*** ANTE/BLINDS ***
+manggy94 posts ante 50
+BEN7469 posts ante 50
+GIRAFON posts ante 50
+-SO_respect posts ante 50
+XXX888XXX posts ante 50
+fabienrea2 posts ante 50
+manggy94 posts small blind 200
+BEN7469 posts big blind 400
+Dealt to manggy94 [Kd Td]
+*** PRE-FLOP *** 
+GIRAFON folds
+-SO_respect raises 400 to 800
+XXX888XXX folds
+fabienrea2 folds
+manggy94 raises 400 to 1200
+BEN7469 calls 800
+-SO_respect calls 400
+*** FLOP *** [9h Ah 5h]
+manggy94 checks
+BEN7469 checks
+-SO_respect checks
+*** TURN *** [9h Ah 5h][Ts]
+manggy94 checks
+BEN7469 checks
+-SO_respect checks
+*** RIVER *** [9h Ah 5h Ts][Ac]
+manggy94 bets 400
+BEN7469 folds
+-SO_respect folds
+manggy94 collected 4300 from pot
+*** SUMMARY ***
+Total pot 4300 | No rake
+Board: [9h Ah 5h Ts Ac]
+Seat 6: manggy94 (small blind) won 4300
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #871229185371144195-56-1501763505 - Holdem no limit (50/200/400) - 2017/08/03 12:31:45 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #6 is the button
+Seat 1: BEN7469 (7268)
+Seat 2: GIRAFON (10140)
+Seat 3: -SO_respect (11500)
+Seat 4: XXX888XXX (20750)
+Seat 5: fabienrea2 (20240)
+Seat 6: manggy94 (20102)
+*** ANTE/BLINDS ***
+BEN7469 posts ante 50
+GIRAFON posts ante 50
+-SO_respect posts ante 50
+XXX888XXX posts ante 50
+fabienrea2 posts ante 50
+manggy94 posts ante 50
+BEN7469 posts small blind 200
+GIRAFON posts big blind 400
+Dealt to manggy94 [7d 5d]
+*** PRE-FLOP *** 
+-SO_respect raises 400 to 800
+XXX888XXX raises 19900 to 20700 and is all-in
+fabienrea2 folds
+manggy94 folds
+BEN7469 folds
+GIRAFON folds
+-SO_respect folds
+XXX888XXX collected 22400 from pot
+*** SUMMARY ***
+Total pot 22400 | No rake
+Seat 4: XXX888XXX won 22400
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #871229185371144195-57-1501763536 - Holdem no limit (50/200/400) - 2017/08/03 12:32:16 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #1 is the button
+Seat 1: BEN7469 (7018)
+Seat 2: GIRAFON (9690)
+Seat 3: -SO_respect (10650)
+Seat 4: XXX888XXX (22400)
+Seat 5: fabienrea2 (20190)
+Seat 6: manggy94 (20052)
+*** ANTE/BLINDS ***
+GIRAFON posts ante 50
+-SO_respect posts ante 50
+BEN7469 posts ante 50
+XXX888XXX posts ante 50
+fabienrea2 posts ante 50
+manggy94 posts ante 50
+GIRAFON posts small blind 200
+-SO_respect posts big blind 400
+Dealt to manggy94 [6d Ah]
+*** PRE-FLOP *** 
+XXX888XXX folds
+fabienrea2 folds
+manggy94 folds
+BEN7469 folds
+GIRAFON folds
+-SO_respect collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 3: -SO_respect (big blind) won 900
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #871229185371144195-58-1501763579 - Holdem no limit (50/200/400) - 2017/08/03 12:32:59 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #2 is the button
+Seat 1: BEN7469 (6968)
+Seat 2: GIRAFON (9440)
+Seat 3: -SO_respect (11100)
+Seat 4: XXX888XXX (22350)
+Seat 5: fabienrea2 (20140)
+Seat 6: manggy94 (20002)
+*** ANTE/BLINDS ***
+-SO_respect posts ante 50
+XXX888XXX posts ante 50
+BEN7469 posts ante 50
+GIRAFON posts ante 50
+fabienrea2 posts ante 50
+manggy94 posts ante 50
+-SO_respect posts small blind 200
+XXX888XXX posts big blind 400
+Dealt to manggy94 [Jc Ac]
+*** PRE-FLOP *** 
+fabienrea2 folds
+manggy94 raises 800 to 1200
+BEN7469 folds
+GIRAFON calls 1200
+-SO_respect folds
+XXX888XXX folds
+*** FLOP *** [4c 9c 4s]
+manggy94 bets 400
+GIRAFON raises 400 to 800
+manggy94 calls 400
+*** TURN *** [4c 9c 4s][Tc]
+manggy94 checks
+GIRAFON bets 2450
+manggy94 raises 2450 to 4900
+GIRAFON folds
+manggy94 collected 12250 from pot
+*** SUMMARY ***
+Total pot 12250 | No rake
+Board: [4c 9c 4s Tc]
+Seat 6: manggy94 won 12250
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #871229185371144195-59-1501763675 - Holdem no limit (50/200/400) - 2017/08/03 12:34:35 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #3 is the button
+Seat 1: BEN7469 (6918)
+Seat 2: GIRAFON (4940)
+Seat 3: -SO_respect (10850)
+Seat 4: XXX888XXX (21900)
+Seat 5: fabienrea2 (20090)
+Seat 6: manggy94 (25302)
+*** ANTE/BLINDS ***
+XXX888XXX posts ante 50
+fabienrea2 posts ante 50
+BEN7469 posts ante 50
+GIRAFON posts ante 50
+-SO_respect posts ante 50
+manggy94 posts ante 50
+XXX888XXX posts small blind 200
+fabienrea2 posts big blind 400
+Dealt to manggy94 [Ks Ac]
+*** PRE-FLOP *** 
+manggy94 calls 400
+BEN7469 raises 6468 to 6868 and is all-in
+GIRAFON folds
+-SO_respect raises 3932 to 10800 and is all-in
+XXX888XXX folds
+fabienrea2 folds
+manggy94 calls 10400
+*** FLOP *** [7d 4s 5s]
+*** TURN *** [7d 4s 5s][As]
+*** RIVER *** [7d 4s 5s As][2s]
+*** SHOW DOWN ***
+BEN7469 shows [9c Ah] (One pair : Aces)
+-SO_respect shows [9s 9h] (Flush Ace high)
+manggy94 shows [Ks Ac] (Flush Ace high)
+manggy94 collected 29368 from pot
+*** SUMMARY ***
+Total pot 29368 | No rake
+Board: [7d 4s 5s As 2s]
+Seat 1: BEN7469 showed [9c Ah] and lost with One pair : Aces
+Seat 3: -SO_respect (button) showed [9s 9h] and lost with Flush Ace high
+Seat 6: manggy94 showed [Ks Ac] and won 29368 with Flush Ace high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #871229185371144195-60-1501763708 - Holdem no limit (50/200/400) - 2017/08/03 12:35:08 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #4 is the button
+Seat 2: GIRAFON (4890)
+Seat 4: XXX888XXX (21650)
+Seat 5: fabienrea2 (19640)
+Seat 6: manggy94 (43820)
+*** ANTE/BLINDS ***
+fabienrea2 posts ante 50
+manggy94 posts ante 50
+GIRAFON posts ante 50
+XXX888XXX posts ante 50
+fabienrea2 posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [Kc 2d]
+*** PRE-FLOP *** 
+GIRAFON raises 600 to 1000
+XXX888XXX folds
+fabienrea2 calls 800
+manggy94 folds
+*** FLOP *** [9d 6h Ad]
+fabienrea2 checks
+GIRAFON bets 600
+fabienrea2 raises 1600 to 2200
+GIRAFON folds
+fabienrea2 collected 5400 from pot
+*** SUMMARY ***
+Total pot 5400 | No rake
+Board: [9d 6h Ad]
+Seat 5: fabienrea2 (small blind) won 5400
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #871229185371144195-61-1501763744 - Holdem no limit (50/200/400) - 2017/08/03 12:35:44 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #5 is the button
+Seat 2: GIRAFON (3240)
+Seat 3: Zeb-all-in (10000)
+Seat 4: XXX888XXX (21600)
+Seat 5: fabienrea2 (21790)
+Seat 6: manggy94 (43370)
+*** ANTE/BLINDS ***
+manggy94 posts ante 50
+GIRAFON posts ante 50
+Zeb-all-in posts ante 50
+XXX888XXX posts ante 50
+fabienrea2 posts ante 50
+manggy94 posts small blind 200
+GIRAFON posts big blind 400
+Dealt to manggy94 [Qc 5c]
+*** PRE-FLOP *** 
+Zeb-all-in folds
+XXX888XXX folds
+fabienrea2 folds
+manggy94 calls 200
+GIRAFON checks
+*** FLOP *** [5s 4d 6c]
+manggy94 checks
+GIRAFON checks
+*** TURN *** [5s 4d 6c][3d]
+manggy94 bets 400
+GIRAFON calls 400
+*** RIVER *** [5s 4d 6c 3d][Td]
+manggy94 checks
+GIRAFON checks
+*** SHOW DOWN ***
+GIRAFON shows [Jc 8d] (High card : Jack)
+manggy94 shows [Qc 5c] (One pair : 5)
+manggy94 collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Board: [5s 4d 6c 3d Td]
+Seat 2: GIRAFON (big blind) showed [Jc 8d] and lost with High card : Jack
+Seat 6: manggy94 (small blind) showed [Qc 5c] and won 1850 with One pair : 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #871229185371144195-62-1501763821 - Holdem no limit (50/200/400) - 2017/08/03 12:37:01 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #6 is the button
+Seat 1: Big Bang14 (10000)
+Seat 2: GIRAFON (2390)
+Seat 3: Zeb-all-in (9950)
+Seat 4: XXX888XXX (21550)
+Seat 5: fabienrea2 (21740)
+Seat 6: manggy94 (44370)
+*** ANTE/BLINDS ***
+GIRAFON posts ante 50
+Zeb-all-in posts ante 50
+XXX888XXX posts ante 50
+fabienrea2 posts ante 50
+manggy94 posts ante 50
+GIRAFON posts small blind 200
+Zeb-all-in posts big blind 400
+Dealt to manggy94 [Tc Qh]
+*** PRE-FLOP *** 
+XXX888XXX folds
+fabienrea2 raises 400 to 800
+manggy94 calls 800
+GIRAFON folds
+Zeb-all-in folds
+*** FLOP *** [2h 6d Jc]
+fabienrea2 bets 1633
+manggy94 folds
+fabienrea2 collected 4083 from pot
+*** SUMMARY ***
+Total pot 4083 | No rake
+Board: [2h 6d Jc]
+Seat 5: fabienrea2 won 4083
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #871229185371144195-63-1501763870 - Holdem no limit (50/200/400) - 2017/08/03 12:37:50 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #2 is the button
+Seat 1: Big Bang14 (10000)
+Seat 2: GIRAFON (2140)
+Seat 3: Zeb-all-in (9500)
+Seat 4: XXX888XXX (21500)
+Seat 5: fabienrea2 (23340)
+Seat 6: manggy94 (43520)
+*** ANTE/BLINDS ***
+Zeb-all-in posts ante 50
+XXX888XXX posts ante 50
+Big Bang14 posts ante 50
+GIRAFON posts ante 50
+fabienrea2 posts ante 50
+manggy94 posts ante 50
+Zeb-all-in posts small blind 200
+XXX888XXX posts big blind 400
+Dealt to manggy94 [8s 6d]
+*** PRE-FLOP *** 
+fabienrea2 folds
+manggy94 folds
+Big Bang14 folds
+GIRAFON folds
+Zeb-all-in raises 800 to 1200
+XXX888XXX calls 800
+*** FLOP *** [7s Jh 4d]
+Zeb-all-in checks
+XXX888XXX bets 20250 and is all-in
+Zeb-all-in folds
+XXX888XXX collected 22950 from pot
+*** SUMMARY ***
+Total pot 22950 | No rake
+Board: [7s Jh 4d]
+Seat 4: XXX888XXX (big blind) won 22950
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #871229185371144195-64-1501763902 - Holdem no limit (60/250/500) - 2017/08/03 12:38:22 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #3 is the button
+Seat 1: Big Bang14 (9950)
+Seat 2: GIRAFON (2090)
+Seat 3: Zeb-all-in (8250)
+Seat 4: XXX888XXX (22950)
+Seat 5: fabienrea2 (23290)
+Seat 6: manggy94 (43470)
+*** ANTE/BLINDS ***
+XXX888XXX posts ante 60
+fabienrea2 posts ante 60
+Big Bang14 posts ante 60
+GIRAFON posts ante 60
+Zeb-all-in posts ante 60
+manggy94 posts ante 60
+XXX888XXX posts small blind 250
+fabienrea2 posts big blind 500
+Dealt to manggy94 [7c 4d]
+*** PRE-FLOP *** 
+manggy94 folds
+Big Bang14 folds
+GIRAFON calls 500
+Zeb-all-in folds
+XXX888XXX folds
+fabienrea2 checks
+*** FLOP *** [Ac 6h Jh]
+fabienrea2 checks
+GIRAFON checks
+*** TURN *** [Ac 6h Jh][2d]
+fabienrea2 checks
+GIRAFON bets 1530 and is all-in
+fabienrea2 folds
+GIRAFON collected 3140 from pot
+*** SUMMARY ***
+Total pot 3140 | No rake
+Board: [Ac 6h Jh 2d]
+Seat 2: GIRAFON won 3140
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #871229185371144195-65-1501763943 - Holdem no limit (60/250/500) - 2017/08/03 12:39:03 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #4 is the button
+Seat 1: Big Bang14 (9890)
+Seat 2: GIRAFON (3140)
+Seat 3: Zeb-all-in (8190)
+Seat 4: XXX888XXX (22640)
+Seat 5: fabienrea2 (22730)
+Seat 6: manggy94 (43410)
+*** ANTE/BLINDS ***
+fabienrea2 posts ante 60
+manggy94 posts ante 60
+Big Bang14 posts ante 60
+GIRAFON posts ante 60
+Zeb-all-in posts ante 60
+XXX888XXX posts ante 60
+fabienrea2 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [7s 9h]
+*** PRE-FLOP *** 
+Big Bang14 folds
+GIRAFON folds
+Zeb-all-in folds
+XXX888XXX folds
+fabienrea2 folds
+manggy94 collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Seat 6: manggy94 (big blind) won 1110
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #871229185371144195-66-1501763955 - Holdem no limit (60/250/500) - 2017/08/03 12:39:15 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #5 is the button
+Seat 1: Big Bang14 (9830)
+Seat 2: GIRAFON (3080)
+Seat 3: Zeb-all-in (8130)
+Seat 4: XXX888XXX (22580)
+Seat 5: fabienrea2 (22420)
+Seat 6: manggy94 (43960)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+Big Bang14 posts ante 60
+GIRAFON posts ante 60
+Zeb-all-in posts ante 60
+XXX888XXX posts ante 60
+fabienrea2 posts ante 60
+manggy94 posts small blind 250
+Big Bang14 posts big blind 500
+Dealt to manggy94 [2h 2s]
+*** PRE-FLOP *** 
+GIRAFON calls 500
+Zeb-all-in calls 500
+XXX888XXX folds
+fabienrea2 folds
+manggy94 calls 250
+Big Bang14 checks
+*** FLOP *** [4h 6s 9h]
+manggy94 checks
+Big Bang14 checks
+GIRAFON bets 2520 and is all-in
+Zeb-all-in folds
+manggy94 folds
+Big Bang14 calls 2520
+*** TURN *** [4h 6s 9h][Jc]
+*** RIVER *** [4h 6s 9h Jc][Qc]
+*** SHOW DOWN ***
+Big Bang14 shows [4s Ks] (One pair : 4)
+GIRAFON shows [Ad As] (One pair : Aces)
+GIRAFON collected 7400 from pot
+*** SUMMARY ***
+Total pot 7400 | No rake
+Board: [4h 6s 9h Jc Qc]
+Seat 1: Big Bang14 (big blind) showed [4s Ks] and lost with One pair : 4
+Seat 2: GIRAFON showed [Ad As] and won 7400 with One pair : Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #871229185371144195-67-1501764033 - Holdem no limit (60/250/500) - 2017/08/03 12:40:33 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #6 is the button
+Seat 1: Big Bang14 (6750)
+Seat 2: GIRAFON (7400)
+Seat 3: Zeb-all-in (7570)
+Seat 4: XXX888XXX (22520)
+Seat 5: fabienrea2 (22360)
+Seat 6: manggy94 (43400)
+*** ANTE/BLINDS ***
+Big Bang14 posts ante 60
+GIRAFON posts ante 60
+Zeb-all-in posts ante 60
+XXX888XXX posts ante 60
+fabienrea2 posts ante 60
+manggy94 posts ante 60
+Big Bang14 posts small blind 250
+GIRAFON posts big blind 500
+Dealt to manggy94 [Js 6c]
+*** PRE-FLOP *** 
+Zeb-all-in raises 500 to 1000
+XXX888XXX folds
+fabienrea2 calls 1000
+manggy94 folds
+Big Bang14 raises 5690 to 6690 and is all-in
+GIRAFON folds
+Zeb-all-in raises 820 to 7510 and is all-in
+fabienrea2 calls 6510
+*** FLOP *** [5d Ac 9s]
+*** TURN *** [5d Ac 9s][8s]
+*** RIVER *** [5d Ac 9s 8s][Qs]
+*** SHOW DOWN ***
+Big Bang14 shows [7c Ad] (One pair : Aces)
+Zeb-all-in shows [Jh Ah] (One pair : Aces)
+fabienrea2 shows [As Qd] (Two pairs : Aces and Queens)
+fabienrea2 collected 22570 from pot
+*** SUMMARY ***
+Total pot 22570 | No rake
+Board: [5d Ac 9s 8s Qs]
+Seat 1: Big Bang14 (small blind) showed [7c Ad] and lost with One pair : Aces
+Seat 3: Zeb-all-in showed [Jh Ah] and lost with One pair : Aces
+Seat 5: fabienrea2 showed [As Qd] and won 22570 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #871229185371144195-68-1501764063 - Holdem no limit (60/250/500) - 2017/08/03 12:41:03 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #1 is the button
+Seat 2: GIRAFON (6840)
+Seat 4: XXX888XXX (22460)
+Seat 5: fabienrea2 (37360)
+Seat 6: manggy94 (43340)
+*** ANTE/BLINDS ***
+GIRAFON posts ante 60
+XXX888XXX posts ante 60
+fabienrea2 posts ante 60
+manggy94 posts ante 60
+GIRAFON posts small blind 250
+XXX888XXX posts big blind 500
+Dealt to manggy94 [Qh Jh]
+*** PRE-FLOP *** 
+fabienrea2 folds
+manggy94 raises 500 to 1000
+GIRAFON folds
+XXX888XXX calls 500
+*** FLOP *** [As 7h 3h]
+XXX888XXX checks
+manggy94 bets 1245
+XXX888XXX calls 1245
+*** TURN *** [As 7h 3h][Kc]
+XXX888XXX checks
+manggy94 checks
+*** RIVER *** [As 7h 3h Kc][5s]
+XXX888XXX checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [Qh Jh] (High card : Ace)
+XXX888XXX shows [5h Ad] (Two pairs : Aces and 5)
+XXX888XXX collected 4980 from pot
+*** SUMMARY ***
+Total pot 4980 | No rake
+Board: [As 7h 3h Kc 5s]
+Seat 4: XXX888XXX (big blind) showed [5h Ad] and won 4980 with Two pairs : Aces and 5
+Seat 6: manggy94 showed [Qh Jh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #871229185371144195-69-1501764127 - Holdem no limit (60/250/500) - 2017/08/03 12:42:07 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #2 is the button
+Seat 1: YPP911 (10000)
+Seat 2: GIRAFON (6530)
+Seat 3: Jujote92 (10000)
+Seat 4: XXX888XXX (25135)
+Seat 5: fabienrea2 (37300)
+Seat 6: manggy94 (41035)
+*** ANTE/BLINDS ***
+XXX888XXX posts ante 60
+fabienrea2 posts ante 60
+YPP911 posts ante 60
+GIRAFON posts ante 60
+manggy94 posts ante 60
+XXX888XXX posts small blind 250
+fabienrea2 posts big blind 500
+Dealt to manggy94 [6s Js]
+*** PRE-FLOP *** 
+manggy94 calls 500
+YPP911 folds
+GIRAFON calls 500
+XXX888XXX folds
+fabienrea2 checks
+*** FLOP *** [6c Ks Qd]
+fabienrea2 checks
+manggy94 checks
+GIRAFON bets 500
+fabienrea2 folds
+manggy94 calls 500
+*** TURN *** [6c Ks Qd][5c]
+manggy94 checks
+GIRAFON bets 750
+manggy94 calls 750
+*** RIVER *** [6c Ks Qd 5c][4d]
+manggy94 checks
+GIRAFON checks
+*** SHOW DOWN ***
+GIRAFON shows [2d Ad] (High card : Ace)
+manggy94 shows [6s Js] (One pair : 6)
+manggy94 collected 4550 from pot
+*** SUMMARY ***
+Total pot 4550 | No rake
+Board: [6c Ks Qd 5c 4d]
+Seat 2: GIRAFON (button) showed [2d Ad] and lost with High card : Ace
+Seat 6: manggy94 showed [6s Js] and won 4550 with One pair : 6
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #871229185371144195-70-1501764210 - Holdem no limit (60/250/500) - 2017/08/03 12:43:30 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #4 is the button
+Seat 1: YPP911 (9940)
+Seat 2: GIRAFON (4720)
+Seat 3: Jujote92 (10000)
+Seat 4: XXX888XXX (24825)
+Seat 5: fabienrea2 (36740)
+Seat 6: manggy94 (43775)
+*** ANTE/BLINDS ***
+fabienrea2 posts ante 60
+manggy94 posts ante 60
+YPP911 posts ante 60
+GIRAFON posts ante 60
+Jujote92 posts ante 60
+XXX888XXX posts ante 60
+fabienrea2 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [8d 2h]
+*** PRE-FLOP *** 
+YPP911 calls 500
+GIRAFON folds
+Jujote92 folds
+XXX888XXX folds
+fabienrea2 calls 250
+manggy94 checks
+*** FLOP *** [5s Kc Jh]
+fabienrea2 checks
+manggy94 checks
+YPP911 checks
+*** TURN *** [5s Kc Jh][As]
+fabienrea2 checks
+manggy94 bets 930
+YPP911 raises 930 to 1860
+fabienrea2 folds
+manggy94 folds
+YPP911 collected 4650 from pot
+*** SUMMARY ***
+Total pot 4650 | No rake
+Board: [5s Kc Jh As]
+Seat 1: YPP911 won 4650
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #871229185371144195-71-1501764276 - Holdem no limit (60/250/500) - 2017/08/03 12:44:36 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #5 is the button
+Seat 1: YPP911 (12170)
+Seat 2: GIRAFON (4660)
+Seat 3: Jujote92 (9940)
+Seat 4: XXX888XXX (24765)
+Seat 5: fabienrea2 (36180)
+Seat 6: manggy94 (42285)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+YPP911 posts ante 60
+GIRAFON posts ante 60
+Jujote92 posts ante 60
+XXX888XXX posts ante 60
+fabienrea2 posts ante 60
+manggy94 posts small blind 250
+YPP911 posts big blind 500
+Dealt to manggy94 [5d 5c]
+*** PRE-FLOP *** 
+GIRAFON folds
+Jujote92 raises 750 to 1250
+XXX888XXX folds
+fabienrea2 folds
+manggy94 calls 1000
+YPP911 calls 750
+*** FLOP *** [8s 9s 5s]
+manggy94 bets 2055
+YPP911 folds
+Jujote92 folds
+manggy94 collected 6165 from pot
+*** SUMMARY ***
+Total pot 6165 | No rake
+Board: [8s 9s 5s]
+Seat 6: manggy94 (small blind) won 6165
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #871229185371144195-72-1501764324 - Holdem no limit (60/250/500) - 2017/08/03 12:45:24 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #6 is the button
+Seat 1: YPP911 (10860)
+Seat 2: GIRAFON (4600)
+Seat 3: Jujote92 (8630)
+Seat 4: XXX888XXX (24705)
+Seat 5: fabienrea2 (36120)
+Seat 6: manggy94 (45085)
+*** ANTE/BLINDS ***
+YPP911 posts ante 60
+GIRAFON posts ante 60
+Jujote92 posts ante 60
+XXX888XXX posts ante 60
+fabienrea2 posts ante 60
+manggy94 posts ante 60
+YPP911 posts small blind 250
+GIRAFON posts big blind 500
+Dealt to manggy94 [2c 2d]
+*** PRE-FLOP *** 
+Jujote92 folds
+XXX888XXX folds
+fabienrea2 folds
+manggy94 raises 500 to 1000
+YPP911 folds
+GIRAFON calls 500
+*** FLOP *** [Ah Qc Qd]
+GIRAFON bets 500
+manggy94 folds
+GIRAFON collected 3110 from pot
+*** SUMMARY ***
+Total pot 3110 | No rake
+Board: [Ah Qc Qd]
+Seat 2: GIRAFON (big blind) won 3110
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #871229185371144195-73-1501764364 - Holdem no limit (80/300/600) - 2017/08/03 12:46:04 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #1 is the button
+Seat 1: YPP911 (10550)
+Seat 2: GIRAFON (6150)
+Seat 3: Jujote92 (8570)
+Seat 4: XXX888XXX (24645)
+Seat 5: fabienrea2 (36060)
+Seat 6: manggy94 (44025)
+*** ANTE/BLINDS ***
+GIRAFON posts ante 80
+Jujote92 posts ante 80
+YPP911 posts ante 80
+XXX888XXX posts ante 80
+fabienrea2 posts ante 80
+manggy94 posts ante 80
+GIRAFON posts small blind 300
+Jujote92 posts big blind 600
+Dealt to manggy94 [4h As]
+*** PRE-FLOP *** 
+XXX888XXX folds
+fabienrea2 folds
+manggy94 folds
+YPP911 folds
+GIRAFON folds
+Jujote92 collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Seat 3: Jujote92 (big blind) won 1380
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #871229185371144195-74-1501764385 - Holdem no limit (80/300/600) - 2017/08/03 12:46:25 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #2 is the button
+Seat 1: YPP911 (10470)
+Seat 2: GIRAFON (5770)
+Seat 3: Jujote92 (9270)
+Seat 4: XXX888XXX (24565)
+Seat 5: fabienrea2 (35980)
+Seat 6: manggy94 (43945)
+*** ANTE/BLINDS ***
+Jujote92 posts ante 80
+XXX888XXX posts ante 80
+YPP911 posts ante 80
+GIRAFON posts ante 80
+fabienrea2 posts ante 80
+manggy94 posts ante 80
+Jujote92 posts small blind 300
+XXX888XXX posts big blind 600
+Dealt to manggy94 [9s 5d]
+*** PRE-FLOP *** 
+fabienrea2 folds
+manggy94 folds
+YPP911 folds
+GIRAFON folds
+Jujote92 folds
+XXX888XXX collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Seat 4: XXX888XXX (big blind) won 1380
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #871229185371144195-75-1501764397 - Holdem no limit (80/300/600) - 2017/08/03 12:46:37 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #3 is the button
+Seat 1: YPP911 (10390)
+Seat 2: GIRAFON (5690)
+Seat 3: Jujote92 (8890)
+Seat 4: XXX888XXX (25265)
+Seat 5: fabienrea2 (35900)
+Seat 6: manggy94 (43865)
+*** ANTE/BLINDS ***
+XXX888XXX posts ante 80
+fabienrea2 posts ante 80
+YPP911 posts ante 80
+GIRAFON posts ante 80
+Jujote92 posts ante 80
+manggy94 posts ante 80
+XXX888XXX posts small blind 300
+fabienrea2 posts big blind 600
+Dealt to manggy94 [4s Js]
+*** PRE-FLOP *** 
+manggy94 folds
+YPP911 folds
+GIRAFON folds
+Jujote92 folds
+XXX888XXX folds
+fabienrea2 collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Seat 5: fabienrea2 (big blind) won 1380
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #871229185371144195-76-1501764423 - Holdem no limit (80/300/600) - 2017/08/03 12:47:03 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #4 is the button
+Seat 1: YPP911 (10310)
+Seat 2: GIRAFON (5610)
+Seat 3: Jujote92 (8810)
+Seat 4: XXX888XXX (24885)
+Seat 5: fabienrea2 (36600)
+Seat 6: manggy94 (43785)
+*** ANTE/BLINDS ***
+fabienrea2 posts ante 80
+manggy94 posts ante 80
+YPP911 posts ante 80
+GIRAFON posts ante 80
+Jujote92 posts ante 80
+XXX888XXX posts ante 80
+fabienrea2 posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [Qh 8c]
+*** PRE-FLOP *** 
+YPP911 folds
+GIRAFON folds
+Jujote92 folds
+XXX888XXX folds
+fabienrea2 calls 300
+manggy94 checks
+*** FLOP *** [Ad 2c 8d]
+fabienrea2 bets 600
+manggy94 calls 600
+*** TURN *** [Ad 2c 8d][6h]
+fabienrea2 bets 600
+manggy94 calls 600
+*** RIVER *** [Ad 2c 8d 6h][Ac]
+fabienrea2 checks
+manggy94 checks
+*** SHOW DOWN ***
+fabienrea2 shows [8h Jh] (Two pairs : Aces and 8)
+manggy94 shows [Qh 8c] (Two pairs : Aces and 8)
+manggy94 collected 4080 from pot
+*** SUMMARY ***
+Total pot 4080 | No rake
+Board: [Ad 2c 8d 6h Ac]
+Seat 5: fabienrea2 (small blind) showed [8h Jh] and lost with Two pairs : Aces and 8
+Seat 6: manggy94 (big blind) showed [Qh 8c] and won 4080 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #871229185371144195-77-1501764458 - Holdem no limit (80/300/600) - 2017/08/03 12:47:38 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #5 is the button
+Seat 1: YPP911 (10230)
+Seat 2: GIRAFON (5530)
+Seat 3: Jujote92 (8730)
+Seat 4: XXX888XXX (24805)
+Seat 5: fabienrea2 (34720)
+Seat 6: manggy94 (45985)
+*** ANTE/BLINDS ***
+manggy94 posts ante 80
+YPP911 posts ante 80
+GIRAFON posts ante 80
+Jujote92 posts ante 80
+XXX888XXX posts ante 80
+fabienrea2 posts ante 80
+manggy94 posts small blind 300
+YPP911 posts big blind 600
+Dealt to manggy94 [Jd Ts]
+*** PRE-FLOP *** 
+GIRAFON folds
+Jujote92 folds
+XXX888XXX folds
+fabienrea2 folds
+manggy94 calls 300
+YPP911 checks
+*** FLOP *** [8s Ks 5d]
+manggy94 checks
+YPP911 checks
+*** TURN *** [8s Ks 5d][Jc]
+manggy94 bets 840
+YPP911 folds
+manggy94 collected 2520 from pot
+*** SUMMARY ***
+Total pot 2520 | No rake
+Board: [8s Ks 5d Jc]
+Seat 6: manggy94 (small blind) won 2520
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #871229185371144195-78-1501764516 - Holdem no limit (80/300/600) - 2017/08/03 12:48:36 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #6 is the button
+Seat 1: YPP911 (9550)
+Seat 2: GIRAFON (5450)
+Seat 3: Jujote92 (8650)
+Seat 4: XXX888XXX (24725)
+Seat 5: fabienrea2 (34640)
+Seat 6: manggy94 (46985)
+*** ANTE/BLINDS ***
+YPP911 posts ante 80
+GIRAFON posts ante 80
+Jujote92 posts ante 80
+XXX888XXX posts ante 80
+fabienrea2 posts ante 80
+manggy94 posts ante 80
+YPP911 posts small blind 300
+GIRAFON posts big blind 600
+Dealt to manggy94 [2s 5c]
+*** PRE-FLOP *** 
+Jujote92 folds
+XXX888XXX folds
+fabienrea2 raises 600 to 1200
+manggy94 folds
+YPP911 folds
+GIRAFON folds
+fabienrea2 collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | No rake
+Seat 5: fabienrea2 won 2580
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #871229185371144195-79-1501764541 - Holdem no limit (80/300/600) - 2017/08/03 12:49:01 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #1 is the button
+Seat 1: YPP911 (9170)
+Seat 2: GIRAFON (4770)
+Seat 3: Jujote92 (8570)
+Seat 4: XXX888XXX (24645)
+Seat 5: fabienrea2 (35940)
+Seat 6: manggy94 (46905)
+*** ANTE/BLINDS ***
+GIRAFON posts ante 80
+Jujote92 posts ante 80
+YPP911 posts ante 80
+XXX888XXX posts ante 80
+fabienrea2 posts ante 80
+manggy94 posts ante 80
+GIRAFON posts small blind 300
+Jujote92 posts big blind 600
+Dealt to manggy94 [Jd 8s]
+*** PRE-FLOP *** 
+XXX888XXX folds
+fabienrea2 folds
+manggy94 folds
+YPP911 raises 8490 to 9090 and is all-in
+GIRAFON calls 4390 and is all-in
+Jujote92 folds
+*** FLOP *** [As Ad Qs]
+*** TURN *** [As Ad Qs][7s]
+*** RIVER *** [As Ad Qs 7s][7h]
+*** SHOW DOWN ***
+YPP911 shows [Tc 8h] (Two pairs : Aces and 7)
+GIRAFON shows [Ks Ah] (Full of Aces and 7)
+GIRAFON collected 10460 from main pot
+YPP911 collected 4400 from side pot 1
+*** SUMMARY ***
+Total pot 14860 | No rake
+Board: [As Ad Qs 7s 7h]
+Seat 1: YPP911 (button) showed [Tc 8h] and won 4400 with Two pairs : Aces and 7
+Seat 2: GIRAFON (small blind) showed [Ks Ah] and won 10460 with Full of Aces and 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #871229185371144195-80-1501764590 - Holdem no limit (80/300/600) - 2017/08/03 12:49:50 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #2 is the button
+Seat 1: YPP911 (4400)
+Seat 2: GIRAFON (10460)
+Seat 3: Jujote92 (7890)
+Seat 4: XXX888XXX (24565)
+Seat 5: fabienrea2 (35860)
+Seat 6: manggy94 (46825)
+*** ANTE/BLINDS ***
+Jujote92 posts ante 80
+XXX888XXX posts ante 80
+YPP911 posts ante 80
+GIRAFON posts ante 80
+fabienrea2 posts ante 80
+manggy94 posts ante 80
+Jujote92 posts small blind 300
+XXX888XXX posts big blind 600
+Dealt to manggy94 [Td 4h]
+*** PRE-FLOP *** 
+fabienrea2 folds
+manggy94 folds
+YPP911 folds
+GIRAFON folds
+Jujote92 raises 7210 to 7810 and is all-in
+XXX888XXX folds
+Jujote92 collected 8890 from pot
+*** SUMMARY ***
+Total pot 8890 | No rake
+Seat 3: Jujote92 (small blind) won 8890
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #871229185371144195-81-1501764627 - Holdem no limit (80/300/600) - 2017/08/03 12:50:27 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #3 is the button
+Seat 1: YPP911 (4320)
+Seat 2: GIRAFON (10380)
+Seat 3: Jujote92 (8890)
+Seat 4: XXX888XXX (23885)
+Seat 5: fabienrea2 (35780)
+Seat 6: manggy94 (46745)
+*** ANTE/BLINDS ***
+XXX888XXX posts ante 80
+fabienrea2 posts ante 80
+YPP911 posts ante 80
+GIRAFON posts ante 80
+Jujote92 posts ante 80
+manggy94 posts ante 80
+XXX888XXX posts small blind 300
+fabienrea2 posts big blind 600
+Dealt to manggy94 [Js Kh]
+*** PRE-FLOP *** 
+manggy94 calls 600
+YPP911 raises 3640 to 4240 and is all-in
+GIRAFON folds
+Jujote92 folds
+XXX888XXX folds
+fabienrea2 raises 31460 to 35700 and is all-in
+manggy94 folds
+*** FLOP *** [8c 3d 7d]
+*** TURN *** [8c 3d 7d][8h]
+*** RIVER *** [8c 3d 7d 8h][8s]
+*** SHOW DOWN ***
+YPP911 shows [Kd Ac] (Trips of 8)
+fabienrea2 shows [Qh Ad] (Trips of 8)
+fabienrea2 collected 31460 from side pot 1
+YPP911 collected 9860 from main pot
+*** SUMMARY ***
+Total pot 41320 | No rake
+Board: [8c 3d 7d 8h 8s]
+Seat 1: YPP911 showed [Kd Ac] and won 9860 with Trips of 8
+Seat 5: fabienrea2 (big blind) showed [Qh Ad] and won 31460 with Trips of 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #871229185371144195-82-1501764691 - Holdem no limit (80/300/600) - 2017/08/03 12:51:31 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #4 is the button
+Seat 1: YPP911 (9860)
+Seat 2: GIRAFON (10300)
+Seat 3: Jujote92 (8810)
+Seat 4: XXX888XXX (23505)
+Seat 5: fabienrea2 (31460)
+Seat 6: manggy94 (46065)
+*** ANTE/BLINDS ***
+fabienrea2 posts ante 80
+manggy94 posts ante 80
+YPP911 posts ante 80
+GIRAFON posts ante 80
+Jujote92 posts ante 80
+XXX888XXX posts ante 80
+fabienrea2 posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [8d 6c]
+*** PRE-FLOP *** 
+YPP911 calls 600
+GIRAFON folds
+Jujote92 folds
+XXX888XXX folds
+fabienrea2 calls 300
+manggy94 checks
+*** FLOP *** [6s 3c Ad]
+fabienrea2 checks
+manggy94 bets 600
+YPP911 raises 1740 to 2340
+fabienrea2 folds
+manggy94 calls 1740
+*** TURN *** [6s 3c Ad][As]
+manggy94 checks
+YPP911 bets 6840 and is all-in
+manggy94 folds
+YPP911 collected 13800 from pot
+*** SUMMARY ***
+Total pot 13800 | No rake
+Board: [6s 3c Ad As]
+Seat 1: YPP911 won 13800
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #871229185371144195-83-1501764764 - Holdem no limit (80/300/600) - 2017/08/03 12:52:44 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #5 is the button
+Seat 1: YPP911 (13800)
+Seat 2: GIRAFON (10220)
+Seat 3: Jujote92 (8730)
+Seat 4: XXX888XXX (23425)
+Seat 5: fabienrea2 (30780)
+Seat 6: manggy94 (43045)
+*** ANTE/BLINDS ***
+manggy94 posts ante 80
+YPP911 posts ante 80
+GIRAFON posts ante 80
+Jujote92 posts ante 80
+XXX888XXX posts ante 80
+fabienrea2 posts ante 80
+manggy94 posts small blind 300
+YPP911 posts big blind 600
+Dealt to manggy94 [9c 2c]
+*** PRE-FLOP *** 
+GIRAFON folds
+Jujote92 folds
+XXX888XXX calls 600
+fabienrea2 calls 600
+manggy94 folds
+YPP911 checks
+*** FLOP *** [Qs 3s 7c]
+YPP911 checks
+XXX888XXX checks
+fabienrea2 bets 1290
+YPP911 folds
+XXX888XXX calls 1290
+*** TURN *** [Qs 3s 7c][2d]
+XXX888XXX checks
+fabienrea2 checks
+*** RIVER *** [Qs 3s 7c 2d][Qd]
+XXX888XXX checks
+fabienrea2 checks
+*** SHOW DOWN ***
+fabienrea2 shows [6s As] (One pair : Queens)
+XXX888XXX shows [5s 5d] (Two pairs : Queens and 5)
+XXX888XXX collected 5160 from pot
+*** SUMMARY ***
+Total pot 5160 | No rake
+Board: [Qs 3s 7c 2d Qd]
+Seat 4: XXX888XXX showed [5s 5d] and won 5160 with Two pairs : Queens and 5
+Seat 5: fabienrea2 (button) showed [6s As] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #871229185371144195-84-1501764819 - Holdem no limit (80/300/600) - 2017/08/03 12:53:39 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #6 is the button
+Seat 1: YPP911 (13120)
+Seat 2: GIRAFON (10140)
+Seat 3: Jujote92 (8650)
+Seat 4: XXX888XXX (26615)
+Seat 5: fabienrea2 (28810)
+Seat 6: manggy94 (42665)
+*** ANTE/BLINDS ***
+YPP911 posts ante 80
+GIRAFON posts ante 80
+Jujote92 posts ante 80
+XXX888XXX posts ante 80
+fabienrea2 posts ante 80
+manggy94 posts ante 80
+YPP911 posts small blind 300
+GIRAFON posts big blind 600
+Dealt to manggy94 [Qs 9c]
+*** PRE-FLOP *** 
+Jujote92 folds
+XXX888XXX folds
+fabienrea2 folds
+manggy94 folds
+YPP911 calls 300
+GIRAFON checks
+*** FLOP *** [7s 6c 8d]
+YPP911 checks
+GIRAFON bets 600
+YPP911 calls 600
+*** TURN *** [7s 6c 8d][Ks]
+YPP911 checks
+GIRAFON bets 900
+YPP911 raises 1200 to 2100
+GIRAFON folds
+YPP911 collected 5880 from pot
+*** SUMMARY ***
+Total pot 5880 | No rake
+Board: [7s 6c 8d Ks]
+Seat 1: YPP911 (small blind) won 5880
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #871229185371144195-85-1501765202 - Holdem no limit (100/400/800) - 2017/08/03 13:00:02 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #1 is the button
+Seat 1: YPP911 (15620)
+Seat 2: GIRAFON (7960)
+Seat 3: Jujote92 (8570)
+Seat 4: XXX888XXX (26535)
+Seat 5: fabienrea2 (28730)
+Seat 6: manggy94 (42585)
+*** ANTE/BLINDS ***
+GIRAFON posts ante 100
+Jujote92 posts ante 100
+YPP911 posts ante 100
+XXX888XXX posts ante 100
+fabienrea2 posts ante 100
+manggy94 posts ante 100
+GIRAFON posts small blind 400
+Jujote92 posts big blind 800
+Dealt to manggy94 [Qd 7d]
+*** PRE-FLOP *** 
+XXX888XXX folds
+fabienrea2 folds
+manggy94 folds
+YPP911 raises 1600 to 2400
+GIRAFON folds
+Jujote92 raises 6070 to 8470 and is all-in
+YPP911 calls 6070
+*** FLOP *** [9d Qc Ac]
+*** TURN *** [9d Qc Ac][9c]
+*** RIVER *** [9d Qc Ac 9c][Jh]
+*** SHOW DOWN ***
+Jujote92 shows [Ts Jc] (Two pairs : Jacks and 9)
+YPP911 shows [As Kd] (Two pairs : Aces and 9)
+YPP911 collected 17940 from pot
+*** SUMMARY ***
+Total pot 17940 | No rake
+Board: [9d Qc Ac 9c Jh]
+Seat 1: YPP911 (button) showed [As Kd] and won 17940 with Two pairs : Aces and 9
+Seat 3: Jujote92 (big blind) showed [Ts Jc] and lost with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #871229185371144195-86-1501765273 - Holdem no limit (100/400/800) - 2017/08/03 13:01:13 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #2 is the button
+Seat 1: YPP911 (24990)
+Seat 2: GIRAFON (7460)
+Seat 4: XXX888XXX (26435)
+Seat 5: fabienrea2 (28630)
+Seat 6: manggy94 (42485)
+*** ANTE/BLINDS ***
+XXX888XXX posts ante 100
+YPP911 posts ante 100
+GIRAFON posts ante 100
+fabienrea2 posts ante 100
+manggy94 posts ante 100
+XXX888XXX posts big blind 800
+Dealt to manggy94 [Ks 6c]
+*** PRE-FLOP *** 
+fabienrea2 folds
+manggy94 folds
+YPP911 calls 800
+GIRAFON calls 800
+XXX888XXX checks
+*** FLOP *** [8h Qc 3d]
+XXX888XXX checks
+YPP911 checks
+GIRAFON bets 800
+XXX888XXX folds
+YPP911 calls 800
+*** TURN *** [8h Qc 3d][Td]
+YPP911 checks
+GIRAFON bets 800
+YPP911 calls 800
+*** RIVER *** [8h Qc 3d Td][Qh]
+YPP911 checks
+GIRAFON checks
+*** SHOW DOWN ***
+YPP911 shows [9h Kh] (One pair : Queens)
+GIRAFON shows [Ah 3s] (Two pairs : Queens and 3)
+GIRAFON collected 6100 from pot
+*** SUMMARY ***
+Total pot 6100 | No rake
+Board: [8h Qc 3d Td Qh]
+Seat 1: YPP911 showed [9h Kh] and lost with One pair : Queens
+Seat 2: GIRAFON (button) showed [Ah 3s] and won 6100 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #871229185371144195-87-1501765364 - Holdem no limit (100/400/800) - 2017/08/03 13:02:44 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #3 is the button
+Seat 1: YPP911 (22490)
+Seat 2: GIRAFON (11060)
+Seat 4: XXX888XXX (25535)
+Seat 5: fabienrea2 (28530)
+Seat 6: manggy94 (42385)
+*** ANTE/BLINDS ***
+XXX888XXX posts ante 100
+fabienrea2 posts ante 100
+YPP911 posts ante 100
+GIRAFON posts ante 100
+manggy94 posts ante 100
+XXX888XXX posts small blind 400
+fabienrea2 posts big blind 800
+Dealt to manggy94 [Qd 8d]
+*** PRE-FLOP *** 
+manggy94 folds
+YPP911 folds
+GIRAFON folds
+XXX888XXX calls 400
+fabienrea2 checks
+*** FLOP *** [4h Qs 7c]
+XXX888XXX checks
+fabienrea2 bets 1050
+XXX888XXX folds
+fabienrea2 collected 3150 from pot
+*** SUMMARY ***
+Total pot 3150 | No rake
+Board: [4h Qs 7c]
+Seat 5: fabienrea2 (big blind) won 3150
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #871229185371144195-88-1501765418 - Holdem no limit (100/400/800) - 2017/08/03 13:03:38 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #4 is the button
+Seat 1: YPP911 (22390)
+Seat 2: GIRAFON (10960)
+Seat 3: -HORREUR - (71404)
+Seat 4: XXX888XXX (24635)
+Seat 5: fabienrea2 (29730)
+Seat 6: manggy94 (42285)
+*** ANTE/BLINDS ***
+fabienrea2 posts ante 100
+manggy94 posts ante 100
+YPP911 posts ante 100
+GIRAFON posts ante 100
+-HORREUR - posts ante 100
+XXX888XXX posts ante 100
+fabienrea2 posts small blind 400
+manggy94 posts big blind 800
+Dealt to manggy94 [3c 2s]
+*** PRE-FLOP *** 
+YPP911 folds
+GIRAFON calls 800
+-HORREUR - folds
+XXX888XXX folds
+fabienrea2 calls 400
+manggy94 checks
+*** FLOP *** [7c 4s 5s]
+fabienrea2 checks
+manggy94 checks
+GIRAFON bets 1200
+fabienrea2 calls 1200
+manggy94 calls 1200
+*** TURN *** [7c 4s 5s][2h]
+fabienrea2 checks
+manggy94 checks
+GIRAFON bets 800
+fabienrea2 calls 800
+manggy94 calls 800
+*** RIVER *** [7c 4s 5s 2h][Ad]
+fabienrea2 checks
+manggy94 bets 6750
+GIRAFON folds
+fabienrea2 folds
+manggy94 collected 15750 from pot
+*** SUMMARY ***
+Total pot 15750 | No rake
+Board: [7c 4s 5s 2h Ad]
+Seat 6: manggy94 (big blind) won 15750
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #871229185371144195-89-1501765529 - Holdem no limit (100/400/800) - 2017/08/03 13:05:29 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #5 is the button
+Seat 1: YPP911 (22290)
+Seat 2: GIRAFON (8060)
+Seat 3: -HORREUR - (71304)
+Seat 4: XXX888XXX (24535)
+Seat 5: fabienrea2 (26830)
+Seat 6: manggy94 (48385)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+YPP911 posts ante 100
+GIRAFON posts ante 100
+-HORREUR - posts ante 100
+XXX888XXX posts ante 100
+fabienrea2 posts ante 100
+manggy94 posts small blind 400
+YPP911 posts big blind 800
+Dealt to manggy94 [8d 4h]
+*** PRE-FLOP *** 
+GIRAFON folds
+-HORREUR - raises 1200 to 2000
+XXX888XXX folds
+fabienrea2 folds
+manggy94 folds
+YPP911 folds
+-HORREUR - collected 3800 from pot
+*** SUMMARY ***
+Total pot 3800 | No rake
+Seat 3: -HORREUR - won 3800
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #871229185371144195-90-1501765568 - Holdem no limit (100/400/800) - 2017/08/03 13:06:08 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #6 is the button
+Seat 1: YPP911 (21390)
+Seat 2: GIRAFON (7960)
+Seat 3: -HORREUR - (73004)
+Seat 4: XXX888XXX (24435)
+Seat 5: fabienrea2 (26730)
+Seat 6: manggy94 (47885)
+*** ANTE/BLINDS ***
+YPP911 posts ante 100
+GIRAFON posts ante 100
+-HORREUR - posts ante 100
+XXX888XXX posts ante 100
+fabienrea2 posts ante 100
+manggy94 posts ante 100
+YPP911 posts small blind 400
+GIRAFON posts big blind 800
+Dealt to manggy94 [6h 5c]
+*** PRE-FLOP *** 
+-HORREUR - folds
+XXX888XXX folds
+fabienrea2 raises 800 to 1600
+manggy94 folds
+YPP911 calls 1200
+GIRAFON folds
+*** FLOP *** [2s 6s 6d]
+YPP911 checks
+fabienrea2 bets 3067
+YPP911 folds
+fabienrea2 collected 7667 from pot
+*** SUMMARY ***
+Total pot 7667 | No rake
+Board: [2s 6s 6d]
+Seat 5: fabienrea2 won 7667
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #871229185371144195-91-1501765622 - Holdem no limit (120/500/1000) - 2017/08/03 13:07:02 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #1 is the button
+Seat 1: YPP911 (19690)
+Seat 2: GIRAFON (7060)
+Seat 3: -HORREUR - (72904)
+Seat 4: XXX888XXX (24335)
+Seat 5: fabienrea2 (29630)
+Seat 6: manggy94 (47785)
+*** ANTE/BLINDS ***
+GIRAFON posts ante 120
+-HORREUR - posts ante 120
+YPP911 posts ante 120
+XXX888XXX posts ante 120
+fabienrea2 posts ante 120
+manggy94 posts ante 120
+GIRAFON posts small blind 500
+-HORREUR - posts big blind 1000
+Dealt to manggy94 [5d 4c]
+*** PRE-FLOP *** 
+XXX888XXX folds
+fabienrea2 folds
+manggy94 folds
+YPP911 folds
+GIRAFON raises 1000 to 2000
+-HORREUR - calls 1000
+*** FLOP *** [7h Js Qh]
+GIRAFON bets 4940 and is all-in
+-HORREUR - folds
+GIRAFON shows [Ah Kh] (High card : Ace)
+GIRAFON collected 9660 from pot
+*** SUMMARY ***
+Total pot 9660 | No rake
+Board: [7h Js Qh]
+Seat 2: GIRAFON (small blind) showed [Ah Kh] and won 9660 with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #871229185371144195-92-1501765688 - Holdem no limit (120/500/1000) - 2017/08/03 13:08:08 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #2 is the button
+Seat 1: YPP911 (19570)
+Seat 2: GIRAFON (9660)
+Seat 3: -HORREUR - (70784)
+Seat 4: XXX888XXX (24215)
+Seat 5: fabienrea2 (29510)
+Seat 6: manggy94 (47665)
+*** ANTE/BLINDS ***
+-HORREUR - posts ante 120
+XXX888XXX posts ante 120
+YPP911 posts ante 120
+GIRAFON posts ante 120
+fabienrea2 posts ante 120
+manggy94 posts ante 120
+-HORREUR - posts small blind 500
+XXX888XXX posts big blind 1000
+Dealt to manggy94 [3c 5d]
+*** PRE-FLOP *** 
+fabienrea2 folds
+manggy94 folds
+YPP911 folds
+GIRAFON raises 1500 to 2500
+-HORREUR - folds
+XXX888XXX calls 1500
+*** FLOP *** [6c Ts 7c]
+XXX888XXX checks
+GIRAFON bets 7040 and is all-in
+XXX888XXX folds
+GIRAFON shows [6h 6d] (Trips of 6)
+GIRAFON collected 13260 from pot
+*** SUMMARY ***
+Total pot 13260 | No rake
+Board: [6c Ts 7c]
+Seat 2: GIRAFON (button) showed [6h 6d] and won 13260 with Trips of 6
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #871229185371144195-93-1501765723 - Holdem no limit (120/500/1000) - 2017/08/03 13:08:43 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #3 is the button
+Seat 1: YPP911 (19450)
+Seat 2: GIRAFON (13260)
+Seat 3: -HORREUR - (70164)
+Seat 4: XXX888XXX (21595)
+Seat 5: fabienrea2 (29390)
+Seat 6: manggy94 (47545)
+*** ANTE/BLINDS ***
+XXX888XXX posts ante 120
+fabienrea2 posts ante 120
+YPP911 posts ante 120
+GIRAFON posts ante 120
+-HORREUR - posts ante 120
+manggy94 posts ante 120
+XXX888XXX posts small blind 500
+fabienrea2 posts big blind 1000
+Dealt to manggy94 [3c Kc]
+*** PRE-FLOP *** 
+manggy94 folds
+YPP911 folds
+GIRAFON calls 1000
+-HORREUR - folds
+XXX888XXX folds
+fabienrea2 checks
+*** FLOP *** [2h 2d 5c]
+fabienrea2 checks
+GIRAFON bets 1000
+fabienrea2 folds
+GIRAFON collected 4220 from pot
+*** SUMMARY ***
+Total pot 4220 | No rake
+Board: [2h 2d 5c]
+Seat 2: GIRAFON won 4220
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #871229185371144195-94-1501765791 - Holdem no limit (120/500/1000) - 2017/08/03 13:09:51 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #4 is the button
+Seat 1: YPP911 (19330)
+Seat 2: GIRAFON (15360)
+Seat 3: -HORREUR - (70044)
+Seat 4: XXX888XXX (20975)
+Seat 5: fabienrea2 (28270)
+Seat 6: manggy94 (47425)
+*** ANTE/BLINDS ***
+fabienrea2 posts ante 120
+manggy94 posts ante 120
+YPP911 posts ante 120
+GIRAFON posts ante 120
+-HORREUR - posts ante 120
+XXX888XXX posts ante 120
+fabienrea2 posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [6s 4h]
+*** PRE-FLOP *** 
+YPP911 folds
+GIRAFON folds
+-HORREUR - raises 1500 to 2500
+XXX888XXX folds
+fabienrea2 calls 2000
+manggy94 folds
+*** FLOP *** [7c 6d 4c]
+fabienrea2 checks
+-HORREUR - checks
+*** TURN *** [7c 6d 4c][Ks]
+fabienrea2 checks
+-HORREUR - bets 2860
+fabienrea2 calls 2860
+*** RIVER *** [7c 6d 4c Ks][9s]
+fabienrea2 checks
+-HORREUR - bets 6220
+fabienrea2 calls 6220
+*** SHOW DOWN ***
+-HORREUR - shows [Ts Ad] (High card : Ace)
+fabienrea2 shows [Kh Qs] (One pair : Kings)
+fabienrea2 collected 24880 from pot
+*** SUMMARY ***
+Total pot 24880 | No rake
+Board: [7c 6d 4c Ks 9s]
+Seat 3: -HORREUR - showed [Ts Ad] and lost with High card : Ace
+Seat 5: fabienrea2 (small blind) showed [Kh Qs] and won 24880 with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #871229185371144195-95-1501765871 - Holdem no limit (120/500/1000) - 2017/08/03 13:11:11 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #5 is the button
+Seat 1: YPP911 (19210)
+Seat 2: GIRAFON (15240)
+Seat 3: -HORREUR - (58344)
+Seat 4: XXX888XXX (20855)
+Seat 5: fabienrea2 (41450)
+Seat 6: manggy94 (46305)
+*** ANTE/BLINDS ***
+manggy94 posts ante 120
+YPP911 posts ante 120
+GIRAFON posts ante 120
+-HORREUR - posts ante 120
+XXX888XXX posts ante 120
+fabienrea2 posts ante 120
+manggy94 posts small blind 500
+YPP911 posts big blind 1000
+Dealt to manggy94 [2c Th]
+*** PRE-FLOP *** 
+GIRAFON raises 1500 to 2500
+-HORREUR - calls 2500
+XXX888XXX folds
+fabienrea2 folds
+manggy94 folds
+YPP911 raises 16590 to 19090 and is all-in
+GIRAFON calls 12620 and is all-in
+-HORREUR - folds
+*** FLOP *** [Tc 6d 9s]
+*** TURN *** [Tc 6d 9s][5s]
+*** RIVER *** [Tc 6d 9s 5s][4d]
+*** SHOW DOWN ***
+YPP911 shows [8s As] (High card : Ace)
+GIRAFON shows [8h 8c] (One pair : 8)
+GIRAFON collected 33960 from main pot
+YPP911 collected 3970 from side pot 1
+*** SUMMARY ***
+Total pot 37930 | No rake
+Board: [Tc 6d 9s 5s 4d]
+Seat 1: YPP911 (big blind) showed [8s As] and won 3970 with High card : Ace
+Seat 2: GIRAFON showed [8h 8c] and won 33960 with One pair : 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #871229185371144195-96-1501765950 - Holdem no limit (120/500/1000) - 2017/08/03 13:12:30 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #6 is the button
+Seat 1: YPP911 (3970)
+Seat 2: GIRAFON (33960)
+Seat 3: -HORREUR - (55724)
+Seat 4: XXX888XXX (20735)
+Seat 5: fabienrea2 (41330)
+Seat 6: manggy94 (45685)
+*** ANTE/BLINDS ***
+YPP911 posts ante 120
+GIRAFON posts ante 120
+-HORREUR - posts ante 120
+XXX888XXX posts ante 120
+fabienrea2 posts ante 120
+manggy94 posts ante 120
+YPP911 posts small blind 500
+GIRAFON posts big blind 1000
+Dealt to manggy94 [8h 5d]
+*** PRE-FLOP *** 
+-HORREUR - folds
+XXX888XXX folds
+fabienrea2 raises 1000 to 2000
+manggy94 folds
+YPP911 raises 1850 to 3850 and is all-in
+GIRAFON folds
+fabienrea2 calls 1850
+*** FLOP *** [9c 4d 9s]
+*** TURN *** [9c 4d 9s][Jc]
+*** RIVER *** [9c 4d 9s Jc][Qc]
+*** SHOW DOWN ***
+YPP911 shows [3c Ad] (One pair : 9)
+fabienrea2 shows [2c 2s] (Two pairs : 9 and 2)
+fabienrea2 collected 9420 from pot
+*** SUMMARY ***
+Total pot 9420 | No rake
+Board: [9c 4d 9s Jc Qc]
+Seat 1: YPP911 (small blind) showed [3c Ad] and lost with One pair : 9
+Seat 5: fabienrea2 showed [2c 2s] and won 9420 with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #871229185371144195-97-1501766002 - Holdem no limit (120/500/1000) - 2017/08/03 13:13:22 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #1 is the button
+Seat 2: GIRAFON (32840)
+Seat 3: -HORREUR - (55604)
+Seat 4: XXX888XXX (20615)
+Seat 5: fabienrea2 (46780)
+Seat 6: manggy94 (45565)
+*** ANTE/BLINDS ***
+GIRAFON posts ante 120
+-HORREUR - posts ante 120
+XXX888XXX posts ante 120
+fabienrea2 posts ante 120
+manggy94 posts ante 120
+GIRAFON posts small blind 500
+-HORREUR - posts big blind 1000
+Dealt to manggy94 [7d Kh]
+*** PRE-FLOP *** 
+XXX888XXX raises 19495 to 20495 and is all-in
+fabienrea2 folds
+manggy94 folds
+GIRAFON folds
+-HORREUR - folds
+XXX888XXX collected 22595 from pot
+*** SUMMARY ***
+Total pot 22595 | No rake
+Seat 4: XXX888XXX won 22595
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #871229185371144195-98-1501766019 - Holdem no limit (120/500/1000) - 2017/08/03 13:13:39 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #2 is the button
+Seat 1: N0seBIeed (27561)
+Seat 2: GIRAFON (32220)
+Seat 3: -HORREUR - (54484)
+Seat 4: XXX888XXX (22595)
+Seat 5: fabienrea2 (46660)
+Seat 6: manggy94 (45445)
+*** ANTE/BLINDS ***
+-HORREUR - posts ante 120
+XXX888XXX posts ante 120
+N0seBIeed posts ante 120
+GIRAFON posts ante 120
+fabienrea2 posts ante 120
+manggy94 posts ante 120
+-HORREUR - posts small blind 500
+XXX888XXX posts big blind 1000
+Dealt to manggy94 [Qc 4c]
+*** PRE-FLOP *** 
+fabienrea2 folds
+manggy94 folds
+N0seBIeed folds
+GIRAFON folds
+-HORREUR - folds
+XXX888XXX collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 4: XXX888XXX (big blind) won 2220
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #871229185371144195-99-1501766048 - Holdem no limit (120/500/1000) - 2017/08/03 13:14:08 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #3 is the button
+Seat 1: N0seBIeed (27441)
+Seat 2: GIRAFON (32100)
+Seat 3: -HORREUR - (53864)
+Seat 4: XXX888XXX (23695)
+Seat 5: fabienrea2 (46540)
+Seat 6: manggy94 (45325)
+*** ANTE/BLINDS ***
+XXX888XXX posts ante 120
+fabienrea2 posts ante 120
+N0seBIeed posts ante 120
+GIRAFON posts ante 120
+-HORREUR - posts ante 120
+manggy94 posts ante 120
+XXX888XXX posts small blind 500
+fabienrea2 posts big blind 1000
+Dealt to manggy94 [Td 8c]
+*** PRE-FLOP *** 
+manggy94 folds
+N0seBIeed folds
+GIRAFON folds
+-HORREUR - folds
+XXX888XXX folds
+fabienrea2 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 5: fabienrea2 (big blind) won 2220
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #871229185371144195-100-1501766112 - Holdem no limit (160/600/1200) - 2017/08/03 13:15:12 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #4 is the button
+Seat 1: N0seBIeed (27321)
+Seat 2: GIRAFON (31980)
+Seat 3: -HORREUR - (53744)
+Seat 4: XXX888XXX (23075)
+Seat 5: fabienrea2 (47640)
+Seat 6: manggy94 (45205)
+*** ANTE/BLINDS ***
+fabienrea2 posts ante 160
+manggy94 posts ante 160
+N0seBIeed posts ante 160
+GIRAFON posts ante 160
+-HORREUR - posts ante 160
+XXX888XXX posts ante 160
+fabienrea2 posts small blind 600
+manggy94 posts big blind 1200
+Dealt to manggy94 [Jh Ks]
+*** PRE-FLOP *** 
+N0seBIeed folds
+GIRAFON folds
+-HORREUR - folds
+XXX888XXX raises 21715 to 22915 and is all-in
+fabienrea2 folds
+manggy94 folds
+XXX888XXX collected 25675 from pot
+*** SUMMARY ***
+Total pot 25675 | No rake
+Seat 4: XXX888XXX (button) won 25675
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #871229185371144195-101-1501766222 - Holdem no limit (160/600/1200) - 2017/08/03 13:17:02 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #5 is the button
+Seat 1: N0seBIeed (27161)
+Seat 2: GIRAFON (31820)
+Seat 3: -HORREUR - (53584)
+Seat 4: XXX888XXX (25675)
+Seat 5: fabienrea2 (46880)
+Seat 6: manggy94 (43845)
+*** ANTE/BLINDS ***
+manggy94 posts ante 160
+N0seBIeed posts ante 160
+GIRAFON posts ante 160
+-HORREUR - posts ante 160
+XXX888XXX posts ante 160
+fabienrea2 posts ante 160
+manggy94 posts small blind 600
+N0seBIeed posts big blind 1200
+Dealt to manggy94 [4c As]
+*** PRE-FLOP *** 
+GIRAFON folds
+-HORREUR - raises 1800 to 3000
+XXX888XXX folds
+fabienrea2 folds
+manggy94 calls 2400
+N0seBIeed raises 24001 to 27001 and is all-in
+-HORREUR - raises 24001 to 51002
+manggy94 folds
+*** FLOP *** [3d 8h 3s]
+*** TURN *** [3d 8h 3s][2s]
+*** RIVER *** [3d 8h 3s 2s][Tc]
+*** SHOW DOWN ***
+N0seBIeed shows [Ad Jc] (One pair : 3)
+-HORREUR - shows [Ts Td] (Full of Tens and 3)
+-HORREUR - collected 81963 from pot
+*** SUMMARY ***
+Total pot 81963 | No rake
+Board: [3d 8h 3s 2s Tc]
+Seat 1: N0seBIeed (big blind) showed [Ad Jc] and lost with One pair : 3
+Seat 3: -HORREUR - showed [Ts Td] and won 81963 with Full of Tens and 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #871229185371144195-102-1501766283 - Holdem no limit (160/600/1200) - 2017/08/03 13:18:03 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #6 is the button
+Seat 2: GIRAFON (31660)
+Seat 3: -HORREUR - (84385)
+Seat 4: XXX888XXX (25515)
+Seat 5: fabienrea2 (46720)
+Seat 6: manggy94 (40685)
+*** ANTE/BLINDS ***
+GIRAFON posts ante 160
+-HORREUR - posts ante 160
+XXX888XXX posts ante 160
+fabienrea2 posts ante 160
+manggy94 posts ante 160
+GIRAFON posts big blind 1200
+Dealt to manggy94 [Tc 2c]
+*** PRE-FLOP *** 
+-HORREUR - folds
+XXX888XXX folds
+fabienrea2 folds
+manggy94 folds
+GIRAFON collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | No rake
+Seat 2: GIRAFON (big blind) won 2000
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #871229185371144195-103-1501766298 - Holdem no limit (160/600/1200) - 2017/08/03 13:18:18 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #1 is the button
+Seat 2: GIRAFON (32300)
+Seat 3: -HORREUR - (84225)
+Seat 4: XXX888XXX (25355)
+Seat 5: fabienrea2 (46560)
+Seat 6: manggy94 (40525)
+*** ANTE/BLINDS ***
+GIRAFON posts ante 160
+-HORREUR - posts ante 160
+XXX888XXX posts ante 160
+fabienrea2 posts ante 160
+manggy94 posts ante 160
+GIRAFON posts small blind 600
+-HORREUR - posts big blind 1200
+Dealt to manggy94 [Th Jh]
+*** PRE-FLOP *** 
+XXX888XXX raises 23995 to 25195 and is all-in
+fabienrea2 folds
+manggy94 folds
+GIRAFON folds
+-HORREUR - calls 23995
+*** FLOP *** [Jc 4s 3c]
+*** TURN *** [Jc 4s 3c][2s]
+*** RIVER *** [Jc 4s 3c 2s][6d]
+*** SHOW DOWN ***
+XXX888XXX shows [9s 9d] (One pair : 9)
+-HORREUR - shows [Qc Qs] (One pair : Queens)
+-HORREUR - collected 51790 from pot
+*** SUMMARY ***
+Total pot 51790 | No rake
+Board: [Jc 4s 3c 2s 6d]
+Seat 3: -HORREUR - (big blind) showed [Qc Qs] and won 51790 with One pair : Queens
+Seat 4: XXX888XXX showed [9s 9d] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #871229185371144195-104-1501766341 - Holdem no limit (160/600/1200) - 2017/08/03 13:19:01 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #2 is the button
+Seat 1: Niklas3 (52170)
+Seat 2: GIRAFON (31540)
+Seat 3: -HORREUR - (110660)
+Seat 5: fabienrea2 (46400)
+Seat 6: manggy94 (40365)
+*** ANTE/BLINDS ***
+-HORREUR - posts ante 160
+fabienrea2 posts ante 160
+Niklas3 posts ante 160
+GIRAFON posts ante 160
+manggy94 posts ante 160
+-HORREUR - posts small blind 600
+fabienrea2 posts big blind 1200
+Dealt to manggy94 [2s Js]
+*** PRE-FLOP *** 
+manggy94 folds
+Niklas3 folds
+GIRAFON calls 1200
+-HORREUR - calls 600
+fabienrea2 checks
+*** FLOP *** [Kh 3s 3c]
+-HORREUR - checks
+fabienrea2 checks
+GIRAFON bets 1800
+-HORREUR - calls 1800
+fabienrea2 folds
+*** TURN *** [Kh 3s 3c][2c]
+-HORREUR - checks
+GIRAFON checks
+*** RIVER *** [Kh 3s 3c 2c][Qs]
+-HORREUR - bets 4000
+GIRAFON folds
+-HORREUR - collected 12000 from pot
+*** SUMMARY ***
+Total pot 12000 | No rake
+Board: [Kh 3s 3c 2c Qs]
+Seat 3: -HORREUR - (small blind) won 12000
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #871229185371144195-105-1501766438 - Holdem no limit (160/600/1200) - 2017/08/03 13:20:38 UTC
+Table: 'Kill The Fish(202848852)#002' 6-max (real money) Seat #3 is the button
+Seat 1: Niklas3 (52010)
+Seat 2: GIRAFON (28380)
+Seat 3: -HORREUR - (115500)
+Seat 5: fabienrea2 (45040)
+Seat 6: manggy94 (40205)
+*** ANTE/BLINDS ***
+fabienrea2 posts ante 160
+manggy94 posts ante 160
+Niklas3 posts ante 160
+GIRAFON posts ante 160
+-HORREUR - posts ante 160
+fabienrea2 posts small blind 600
+manggy94 posts big blind 1200
+Dealt to manggy94 [Kd Kh]
+*** PRE-FLOP *** 
+Niklas3 raises 1200 to 2400
+GIRAFON folds
+-HORREUR - folds
+fabienrea2 calls 1800
+manggy94 raises 8000 to 10400
+Niklas3 raises 41450 to 51850 and is all-in
+fabienrea2 folds
+manggy94 calls 29645 and is all-in
+*** FLOP *** [5s Qd Qc]
+*** TURN *** [5s Qd Qc][2s]
+*** RIVER *** [5s Qd Qc 2s][Th]
+*** SHOW DOWN ***
+manggy94 shows [Kd Kh] (Two pairs : Kings and Queens)
+Niklas3 shows [Ad Ac] (Two pairs : Aces and Queens)
+Niklas3 collected 95095 from pot
+*** SUMMARY ***
+Total pot 95095 | No rake
+Board: [5s Qd Qc 2s Th]
+Seat 1: Niklas3 showed [Ad Ac] and won 95095 with Two pairs : Aces and Queens
+Seat 6: manggy94 (big blind) showed [Kd Kh] and lost with Two pairs : Kings and Queens
+
+

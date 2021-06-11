@@ -1,0 +1,574 @@
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #563848907256234013-1-1443880804 - Holdem no limit (30/200/400) - 2015/10/03 14:00:04 UTC
+Table: 'KILL THE FISH(131281304)#028' 9-max (real money) Seat #2 is the button
+Seat 1: manggy94 (10000)
+Seat 2: Skill-78 (10000)
+Seat 3: ponponette51 (10000)
+Seat 4: john love (10000)
+Seat 5: Remundo63 (10000)
+Seat 6: Mathiiilde83 (10000)
+Seat 7: totodu13014 (10000)
+Seat 8: mickkey59 (10000)
+Seat 9: Le Yougo13 (10000)
+*** ANTE/BLINDS ***
+ponponette51 posts ante 30
+john love posts ante 30
+manggy94 posts ante 30
+Skill-78 posts ante 30
+Remundo63 posts ante 30
+Mathiiilde83 posts ante 30
+totodu13014 posts ante 30
+mickkey59 posts ante 30
+Le Yougo13 posts ante 30
+ponponette51 posts small blind 200
+john love posts big blind 400
+Dealt to manggy94 [6s 9c]
+*** PRE-FLOP *** 
+Remundo63 raises 400 to 800
+Mathiiilde83 raises 2470 to 3270
+totodu13014 folds
+mickkey59 folds
+Le Yougo13 folds
+manggy94 folds
+Skill-78 folds
+ponponette51 raises 6700 to 9970 and is all-in
+john love folds
+Remundo63 calls 9170 and is all-in
+Mathiiilde83 calls 6700 and is all-in
+*** FLOP *** [5d 4d 8s]
+*** TURN *** [5d 4d 8s][Qs]
+*** RIVER *** [5d 4d 8s Qs][4c]
+*** SHOW DOWN ***
+Remundo63 shows [Js Ah] (One pair : 4)
+Mathiiilde83 shows [As Td] (One pair : 4)
+ponponette51 shows [6d 6c] (Two pairs : 6 and 4)
+ponponette51 collected 30580 from pot
+*** SUMMARY ***
+Total pot 30580 | No rake
+Board: [5d 4d 8s Qs 4c]
+Seat 3: ponponette51 (small blind) showed [6d 6c] and won 30580 with Two pairs : 6 and 4
+Seat 5: Remundo63 showed [Js Ah] and lost with One pair : 4
+Seat 6: Mathiiilde83 showed [As Td] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #563848907256234013-2-1443880850 - Holdem no limit (30/200/400) - 2015/10/03 14:00:50 UTC
+Table: 'KILL THE FISH(131281304)#028' 9-max (real money) Seat #3 is the button
+Seat 1: manggy94 (9970)
+Seat 2: Skill-78 (9970)
+Seat 3: ponponette51 (30580)
+Seat 4: john love (9570)
+Seat 7: totodu13014 (9970)
+Seat 8: mickkey59 (9970)
+Seat 9: Le Yougo13 (9970)
+*** ANTE/BLINDS ***
+john love posts ante 30
+totodu13014 posts ante 30
+manggy94 posts ante 30
+Skill-78 posts ante 30
+ponponette51 posts ante 30
+mickkey59 posts ante 30
+Le Yougo13 posts ante 30
+john love posts small blind 200
+totodu13014 posts big blind 400
+Dealt to manggy94 [7d 9s]
+*** PRE-FLOP *** 
+mickkey59 folds
+Le Yougo13 folds
+manggy94 folds
+Skill-78 folds
+ponponette51 folds
+john love folds
+totodu13014 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Seat 7: totodu13014 (big blind) won 810
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #563848907256234013-3-1443880870 - Holdem no limit (30/200/400) - 2015/10/03 14:01:10 UTC
+Table: 'KILL THE FISH(131281304)#028' 9-max (real money) Seat #4 is the button
+Seat 1: manggy94 (9940)
+Seat 2: Skill-78 (9940)
+Seat 3: ponponette51 (30550)
+Seat 4: john love (9340)
+Seat 5: giovannidu30 (10000)
+Seat 7: totodu13014 (10350)
+Seat 8: mickkey59 (9940)
+Seat 9: Le Yougo13 (9940)
+*** ANTE/BLINDS ***
+totodu13014 posts ante 30
+mickkey59 posts ante 30
+manggy94 posts ante 30
+Skill-78 posts ante 30
+ponponette51 posts ante 30
+john love posts ante 30
+Le Yougo13 posts ante 30
+totodu13014 posts small blind 200
+mickkey59 posts big blind 400
+Dealt to manggy94 [9s Qc]
+*** PRE-FLOP *** 
+Le Yougo13 folds
+manggy94 calls 400
+Skill-78 folds
+ponponette51 folds
+john love calls 400
+totodu13014 raises 9920 to 10320 and is all-in
+mickkey59 calls 9510 and is all-in
+manggy94 folds
+john love calls 8910 and is all-in
+*** FLOP *** [5s 2h 4d]
+*** TURN *** [5s 2h 4d][7s]
+*** RIVER *** [5s 2h 4d 7s][Kh]
+*** SHOW DOWN ***
+john love shows [Ks Jd] (One pair : Kings)
+mickkey59 shows [8d 8s] (One pair : 8)
+totodu13014 shows [2d Ad] (One pair : 2)
+totodu13014 collected 410 from side pot 2
+mickkey59 collected 1200 from side pot 1
+john love collected 28540 from main pot
+*** SUMMARY ***
+Total pot 30150 | No rake
+Board: [5s 2h 4d 7s Kh]
+Seat 4: john love (button) showed [Ks Jd] and won 28540 with One pair : Kings
+Seat 7: totodu13014 (small blind) showed [2d Ad] and won 410 with One pair : 2
+Seat 8: mickkey59 (big blind) showed [8d 8s] and won 1200 with One pair : 8
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #563848907256234013-4-1443880906 - Holdem no limit (30/200/400) - 2015/10/03 14:01:46 UTC
+Table: 'KILL THE FISH(131281304)#028' 9-max (real money) Seat #7 is the button
+Seat 1: manggy94 (9510)
+Seat 2: Skill-78 (9910)
+Seat 3: ponponette51 (30520)
+Seat 4: john love (28540)
+Seat 5: giovannidu30 (10000)
+Seat 6: porlolo69400 (10000)
+Seat 7: totodu13014 (410)
+Seat 8: mickkey59 (1200)
+Seat 9: Le Yougo13 (9910)
+*** ANTE/BLINDS ***
+mickkey59 posts ante 30
+Le Yougo13 posts ante 30
+manggy94 posts ante 30
+Skill-78 posts ante 30
+ponponette51 posts ante 30
+john love posts ante 30
+giovannidu30 posts ante 30
+porlolo69400 posts ante 30
+totodu13014 posts ante 30
+mickkey59 posts small blind 200
+Le Yougo13 posts big blind 400
+Dealt to manggy94 [7h 4d]
+*** PRE-FLOP *** 
+manggy94 folds
+Skill-78 raises 400 to 800
+ponponette51 folds
+john love folds
+giovannidu30 folds
+porlolo69400 folds
+totodu13014 calls 380 and is all-in
+mickkey59 raises 370 to 1170 and is all-in
+Le Yougo13 raises 8710 to 9880 and is all-in
+Skill-78 calls 9080 and is all-in
+*** FLOP *** [3h 6d Tc]
+*** TURN *** [3h 6d Tc][As]
+*** RIVER *** [3h 6d Tc As][4s]
+*** SHOW DOWN ***
+totodu13014 shows [Qd Qs] (One pair : Queens)
+mickkey59 shows [Qc 6h] (One pair : 6)
+Le Yougo13 shows [Ah 8s] (One pair : Aces)
+Skill-78 shows [Js Ac] (One pair : Aces)
+Skill-78 collected 21580 from pot
+*** SUMMARY ***
+Total pot 21580 | No rake
+Board: [3h 6d Tc As 4s]
+Seat 2: Skill-78 showed [Js Ac] and won 21580 with One pair : Aces
+Seat 7: totodu13014 (button) showed [Qd Qs] and lost with One pair : Queens
+Seat 8: mickkey59 (small blind) showed [Qc 6h] and lost with One pair : 6
+Seat 9: Le Yougo13 (big blind) showed [Ah 8s] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #563848907256234013-5-1443880963 - Holdem no limit (40/250/500) - 2015/10/03 14:02:43 UTC
+Table: 'KILL THE FISH(131281304)#028' 9-max (real money) Seat #8 is the button
+Seat 1: manggy94 (9480)
+Seat 2: Skill-78 (21580)
+Seat 3: ponponette51 (30490)
+Seat 4: john love (28510)
+Seat 5: giovannidu30 (9970)
+Seat 6: porlolo69400 (9970)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+Skill-78 posts ante 40
+ponponette51 posts ante 40
+john love posts ante 40
+giovannidu30 posts ante 40
+porlolo69400 posts ante 40
+manggy94 posts big blind 500
+Dealt to manggy94 [6s Qs]
+*** PRE-FLOP *** 
+Skill-78 folds
+ponponette51 folds
+john love calls 500
+giovannidu30 folds
+porlolo69400 folds
+manggy94 checks
+*** FLOP *** [8s 8c Ad]
+manggy94 checks
+john love checks
+*** TURN *** [8s 8c Ad][3d]
+manggy94 bets 1240
+john love calls 1240
+*** RIVER *** [8s 8c Ad 3d][5c]
+manggy94 checks
+john love checks
+*** SHOW DOWN ***
+manggy94 shows [6s Qs] (One pair : 8)
+john love shows [4s 5s] (Two pairs : 8 and 5)
+john love collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Board: [8s 8c Ad 3d 5c]
+Seat 1: manggy94 (big blind) showed [6s Qs] and lost with One pair : 8
+Seat 4: john love showed [4s 5s] and won 3720 with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #563848907256234013-6-1443881009 - Holdem no limit (40/250/500) - 2015/10/03 14:03:29 UTC
+Table: 'KILL THE FISH(131281304)#028' 9-max (real money) Seat #9 is the button
+Seat 1: manggy94 (7700)
+Seat 2: Skill-78 (21540)
+Seat 3: ponponette51 (30450)
+Seat 4: john love (30450)
+Seat 5: giovannidu30 (9930)
+Seat 6: porlolo69400 (9930)
+Seat 7: fish1chip (10000)
+Seat 8: kador 271 (10000)
+Seat 9: bocitron (10000)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+Skill-78 posts ante 40
+ponponette51 posts ante 40
+john love posts ante 40
+giovannidu30 posts ante 40
+porlolo69400 posts ante 40
+manggy94 posts small blind 250
+Skill-78 posts big blind 500
+Dealt to manggy94 [8s 5h]
+*** PRE-FLOP *** 
+ponponette51 raises 2000 to 2500
+john love calls 2500
+giovannidu30 folds
+porlolo69400 folds
+manggy94 folds
+Skill-78 folds
+*** FLOP *** [Js Kd 3d]
+ponponette51 checks
+john love checks
+*** TURN *** [Js Kd 3d][Th]
+ponponette51 bets 5990
+john love folds
+ponponette51 collected 11980 from pot
+*** SUMMARY ***
+Total pot 11980 | No rake
+Board: [Js Kd 3d Th]
+Seat 3: ponponette51 won 11980
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #563848907256234013-7-1443881040 - Holdem no limit (40/250/500) - 2015/10/03 14:04:00 UTC
+Table: 'KILL THE FISH(131281304)#028' 9-max (real money) Seat #1 is the button
+Seat 1: manggy94 (7410)
+Seat 2: Skill-78 (21000)
+Seat 3: ponponette51 (33900)
+Seat 4: john love (27910)
+Seat 5: giovannidu30 (9890)
+Seat 6: porlolo69400 (9890)
+Seat 7: fish1chip (10000)
+Seat 8: kador 271 (10000)
+Seat 9: bocitron (10000)
+*** ANTE/BLINDS ***
+Skill-78 posts ante 40
+ponponette51 posts ante 40
+manggy94 posts ante 40
+john love posts ante 40
+giovannidu30 posts ante 40
+porlolo69400 posts ante 40
+fish1chip posts ante 40
+kador 271 posts ante 40
+bocitron posts ante 40
+Skill-78 posts small blind 250
+ponponette51 posts big blind 500
+Dealt to manggy94 [6h 4h]
+*** PRE-FLOP *** 
+john love calls 500
+giovannidu30 raises 1500 to 2000
+porlolo69400 folds
+fish1chip folds
+kador 271 folds
+bocitron folds
+manggy94 folds
+Skill-78 folds
+ponponette51 calls 1500
+john love calls 1500
+*** FLOP *** [7c 5s 7h]
+ponponette51 checks
+john love checks
+giovannidu30 bets 7850 and is all-in
+ponponette51 folds
+john love folds
+giovannidu30 collected 14460 from pot
+*** SUMMARY ***
+Total pot 14460 | No rake
+Board: [7c 5s 7h]
+Seat 5: giovannidu30 won 14460
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #563848907256234013-8-1443881083 - Holdem no limit (40/250/500) - 2015/10/03 14:04:43 UTC
+Table: 'KILL THE FISH(131281304)#028' 9-max (real money) Seat #2 is the button
+Seat 1: manggy94 (7370)
+Seat 2: Skill-78 (20710)
+Seat 3: ponponette51 (31860)
+Seat 4: john love (25870)
+Seat 5: giovannidu30 (14460)
+Seat 6: porlolo69400 (9850)
+Seat 7: fish1chip (9960)
+Seat 8: kador 271 (9960)
+Seat 9: bocitron (9960)
+*** ANTE/BLINDS ***
+ponponette51 posts ante 40
+john love posts ante 40
+manggy94 posts ante 40
+Skill-78 posts ante 40
+giovannidu30 posts ante 40
+porlolo69400 posts ante 40
+fish1chip posts ante 40
+kador 271 posts ante 40
+bocitron posts ante 40
+ponponette51 posts small blind 250
+john love posts big blind 500
+Dealt to manggy94 [2h Td]
+*** PRE-FLOP *** 
+giovannidu30 folds
+porlolo69400 calls 500
+fish1chip folds
+kador 271 raises 9420 to 9920 and is all-in
+bocitron folds
+manggy94 folds
+Skill-78 folds
+ponponette51 folds
+john love folds
+porlolo69400 folds
+kador 271 collected 11530 from pot
+*** SUMMARY ***
+Total pot 11530 | No rake
+Seat 8: kador 271 won 11530
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #563848907256234013-9-1443881117 - Holdem no limit (40/250/500) - 2015/10/03 14:05:17 UTC
+Table: 'KILL THE FISH(131281304)#028' 9-max (real money) Seat #3 is the button
+Seat 1: manggy94 (7330)
+Seat 2: Skill-78 (20670)
+Seat 3: ponponette51 (31570)
+Seat 4: john love (25330)
+Seat 5: giovannidu30 (14420)
+Seat 6: porlolo69400 (9310)
+Seat 7: fish1chip (9920)
+Seat 8: kador 271 (11530)
+Seat 9: bocitron (9920)
+*** ANTE/BLINDS ***
+john love posts ante 40
+giovannidu30 posts ante 40
+manggy94 posts ante 40
+Skill-78 posts ante 40
+ponponette51 posts ante 40
+porlolo69400 posts ante 40
+fish1chip posts ante 40
+kador 271 posts ante 40
+bocitron posts ante 40
+john love posts small blind 250
+giovannidu30 posts big blind 500
+Dealt to manggy94 [6s 4h]
+*** PRE-FLOP *** 
+porlolo69400 folds
+fish1chip folds
+kador 271 folds
+bocitron folds
+manggy94 folds
+Skill-78 folds
+ponponette51 calls 500
+john love folds
+giovannidu30 checks
+*** FLOP *** [Kd Ks Js]
+giovannidu30 checks
+ponponette51 bets 1610
+giovannidu30 calls 1610
+*** TURN *** [Kd Ks Js][Th]
+giovannidu30 checks
+ponponette51 bets 4830
+giovannidu30 raises 7440 to 12270 and is all-in
+ponponette51 folds
+giovannidu30 collected 21930 from pot
+*** SUMMARY ***
+Total pot 21930 | No rake
+Board: [Kd Ks Js Th]
+Seat 5: giovannidu30 (big blind) won 21930
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #563848907256234013-10-1443881152 - Holdem no limit (40/250/500) - 2015/10/03 14:05:52 UTC
+Table: 'KILL THE FISH(131281304)#028' 9-max (real money) Seat #4 is the button
+Seat 1: manggy94 (7290)
+Seat 2: Skill-78 (20630)
+Seat 3: ponponette51 (24590)
+Seat 4: john love (25040)
+Seat 5: giovannidu30 (21930)
+Seat 6: porlolo69400 (9270)
+Seat 7: Kolbi (10000)
+Seat 8: kador 271 (11490)
+Seat 9: bocitron (9880)
+*** ANTE/BLINDS ***
+giovannidu30 posts ante 40
+porlolo69400 posts ante 40
+manggy94 posts ante 40
+Skill-78 posts ante 40
+ponponette51 posts ante 40
+john love posts ante 40
+Kolbi posts ante 40
+kador 271 posts ante 40
+bocitron posts ante 40
+giovannidu30 posts small blind 250
+porlolo69400 posts big blind 500
+Dealt to manggy94 [9c 4h]
+*** PRE-FLOP *** 
+Kolbi calls 500
+kador 271 raises 500 to 1000
+bocitron folds
+manggy94 folds
+Skill-78 folds
+ponponette51 folds
+john love folds
+giovannidu30 folds
+porlolo69400 folds
+Kolbi calls 500
+*** FLOP *** [9d Td As]
+Kolbi checks
+kador 271 checks
+*** TURN *** [9d Td As][Th]
+Kolbi checks
+kador 271 bets 500
+Kolbi calls 500
+*** RIVER *** [9d Td As Th][Tc]
+Kolbi checks
+kador 271 bets 4110
+Kolbi folds
+kador 271 collected 8220 from pot
+*** SUMMARY ***
+Total pot 8220 | No rake
+Board: [9d Td As Th Tc]
+Seat 8: kador 271 won 8220
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #563848907256234013-11-1443881204 - Holdem no limit (40/250/500) - 2015/10/03 14:06:44 UTC
+Table: 'KILL THE FISH(131281304)#028' 9-max (real money) Seat #5 is the button
+Seat 1: manggy94 (7250)
+Seat 2: Skill-78 (20590)
+Seat 3: ponponette51 (24550)
+Seat 4: john love (25000)
+Seat 5: giovannidu30 (21640)
+Seat 6: porlolo69400 (8730)
+Seat 7: Kolbi (8460)
+Seat 8: kador 271 (14060)
+Seat 9: bocitron (9840)
+*** ANTE/BLINDS ***
+porlolo69400 posts ante 40
+Kolbi posts ante 40
+manggy94 posts ante 40
+Skill-78 posts ante 40
+ponponette51 posts ante 40
+john love posts ante 40
+giovannidu30 posts ante 40
+kador 271 posts ante 40
+bocitron posts ante 40
+porlolo69400 posts small blind 250
+Kolbi posts big blind 500
+Dealt to manggy94 [5h 6c]
+*** PRE-FLOP *** 
+kador 271 calls 500
+bocitron folds
+manggy94 folds
+Skill-78 folds
+ponponette51 folds
+john love calls 500
+giovannidu30 folds
+porlolo69400 folds
+Kolbi checks
+*** FLOP *** [2d 2s 3h]
+Kolbi checks
+kador 271 checks
+john love checks
+*** TURN *** [2d 2s 3h][8s]
+Kolbi checks
+kador 271 bets 500
+john love calls 500
+Kolbi folds
+*** RIVER *** [2d 2s 3h 8s][7d]
+kador 271 checks
+john love checks
+*** SHOW DOWN ***
+kador 271 shows [Jc Ks] (One pair : 2)
+john love shows [Ac 8h] (Two pairs : 8 and 2)
+john love collected 3110 from pot
+*** SUMMARY ***
+Total pot 3110 | No rake
+Board: [2d 2s 3h 8s 7d]
+Seat 4: john love showed [Ac 8h] and won 3110 with Two pairs : 8 and 2
+Seat 8: kador 271 showed [Jc Ks] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #563848907256234013-12-1443881240 - Holdem no limit (40/250/500) - 2015/10/03 14:07:20 UTC
+Table: 'KILL THE FISH(131281304)#028' 9-max (real money) Seat #6 is the button
+Seat 1: manggy94 (7210)
+Seat 2: Skill-78 (20550)
+Seat 3: ponponette51 (24510)
+Seat 4: john love (27070)
+Seat 5: giovannidu30 (21600)
+Seat 6: porlolo69400 (8440)
+Seat 7: Kolbi (7920)
+Seat 8: kador 271 (13020)
+Seat 9: bocitron (9800)
+*** ANTE/BLINDS ***
+Kolbi posts ante 40
+kador 271 posts ante 40
+manggy94 posts ante 40
+Skill-78 posts ante 40
+ponponette51 posts ante 40
+john love posts ante 40
+giovannidu30 posts ante 40
+porlolo69400 posts ante 40
+bocitron posts ante 40
+Kolbi posts small blind 250
+kador 271 posts big blind 500
+Dealt to manggy94 [9h 9d]
+*** PRE-FLOP *** 
+bocitron folds
+manggy94 calls 500
+Skill-78 folds
+ponponette51 folds
+john love calls 500
+giovannidu30 raises 2000 to 2500
+porlolo69400 folds
+Kolbi folds
+kador 271 raises 10480 to 12980 and is all-in
+manggy94 calls 6670 and is all-in
+john love folds
+giovannidu30 calls 10480
+*** FLOP *** [3d Kc 8h]
+*** TURN *** [3d Kc 8h][Ad]
+*** RIVER *** [3d Kc 8h Ad][6s]
+*** SHOW DOWN ***
+manggy94 shows [9h 9d] (One pair : 9)
+kador 271 shows [Ks Jh] (One pair : Kings)
+giovannidu30 shows [As Kh] (Two pairs : Aces and Kings)
+giovannidu30 collected 34240 from pot
+*** SUMMARY ***
+Total pot 34240 | No rake
+Board: [3d Kc 8h Ad 6s]
+Seat 1: manggy94 showed [9h 9d] and lost with One pair : 9
+Seat 5: giovannidu30 showed [As Kh] and won 34240 with Two pairs : Aces and Kings
+Seat 8: kador 271 (big blind) showed [Ks Jh] and lost with One pair : Kings
+
+

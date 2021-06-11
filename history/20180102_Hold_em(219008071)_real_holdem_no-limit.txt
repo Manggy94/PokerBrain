@@ -1,0 +1,126 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #940632502505046026-28-1514932549 - Holdem no limit (60/250/500) - 2018/01/02 22:35:49 UTC
+Table: 'Hold'em(219008071)#009' 6-max (real money) Seat #6 is the button
+Seat 1: Rekkop (8380)
+Seat 2: silex81 (6030)
+Seat 3: LordSattle (43131)
+Seat 4: McPotter (25315)
+Seat 5: LuccaSpanoli (8200)
+Seat 6: manggy94 (10000)
+*** ANTE/BLINDS ***
+Rekkop posts ante 60
+silex81 posts ante 60
+LordSattle posts ante 60
+McPotter posts ante 60
+LuccaSpanoli posts ante 60
+Rekkop posts small blind 250
+silex81 posts big blind 500
+*** PRE-FLOP *** 
+LordSattle calls 500
+McPotter folds
+LuccaSpanoli folds
+Rekkop raises 500 to 1000
+silex81 calls 500
+LordSattle calls 500
+*** FLOP *** [6h 2s Ts]
+Rekkop bets 500
+silex81 folds
+LordSattle calls 500
+*** TURN *** [6h 2s Ts][2d]
+Rekkop checks
+LordSattle checks
+*** RIVER *** [6h 2s Ts 2d][Qc]
+Rekkop bets 500
+LordSattle calls 500
+*** SHOW DOWN ***
+LordSattle shows [8d 9d] (One pair : 2)
+Rekkop shows [9h Ah] (One pair : 2)
+Rekkop collected 5300 from pot
+*** SUMMARY ***
+Total pot 5300 | No rake
+Board: [6h 2s Ts 2d Qc]
+Seat 1: Rekkop (small blind) showed [9h Ah] and won 5300 with One pair : 2
+Seat 3: LordSattle showed [8d 9d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #940632502505046026-29-1514932604 - Holdem no limit (80/300/600) - 2018/01/02 22:36:44 UTC
+Table: 'Hold'em(219008071)#009' 6-max (real money) Seat #1 is the button
+Seat 1: Rekkop (11620)
+Seat 2: silex81 (4970)
+Seat 3: LordSattle (41071)
+Seat 4: McPotter (25255)
+Seat 5: LuccaSpanoli (8140)
+Seat 6: manggy94 (10000)
+*** ANTE/BLINDS ***
+silex81 posts ante 80
+LordSattle posts ante 80
+Rekkop posts ante 80
+McPotter posts ante 80
+LuccaSpanoli posts ante 80
+manggy94 posts ante 80
+silex81 posts small blind 300
+LordSattle posts big blind 600
+Dealt to manggy94 [Ah 8d]
+*** PRE-FLOP *** 
+McPotter folds
+LuccaSpanoli folds
+manggy94 raises 9320 to 9920 and is all-in
+Rekkop folds
+silex81 folds
+LordSattle calls 9320
+*** FLOP *** [4h 3s Tc]
+*** TURN *** [4h 3s Tc][6h]
+*** RIVER *** [4h 3s Tc 6h][4c]
+*** SHOW DOWN ***
+manggy94 shows [Ah 8d] (One pair : 4)
+LordSattle shows [6d Td] (Two pairs : Tens and 6)
+LordSattle collected 20620 from pot
+*** SUMMARY ***
+Total pot 20620 | No rake
+Board: [4h 3s Tc 6h 4c]
+Seat 3: LordSattle (big blind) showed [6d Td] and won 20620 with Two pairs : Tens and 6
+Seat 6: manggy94 showed [Ah 8d] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.22€ + 0.03€ level: 7913816 - HandId: #940632502505046057-1-1514932649 - Holdem no limit (80/300/600) - 2018/01/02 22:37:29 UTC
+Table: 'Hold'em(219008071)#040' 6-max (real money) Seat #5 is the button
+Seat 1: KT_FueGo (20895)
+Seat 2: Guitou502 (5760)
+Seat 3: manggy94 (10000)
+Seat 4: Benwatson (10000)
+Seat 5: 000000174 (10000)
+Seat 6: Matettim (10380)
+*** ANTE/BLINDS ***
+Matettim posts ante 80
+KT_FueGo posts ante 80
+Guitou502 posts ante 80
+manggy94 posts ante 80
+Benwatson posts ante 80
+000000174 posts ante 80
+Matettim posts small blind 300
+KT_FueGo posts big blind 600
+Dealt to manggy94 [Ah 9d]
+*** PRE-FLOP *** 
+Guitou502 calls 600
+manggy94 raises 2580 to 3180
+Benwatson folds
+000000174 folds
+Matettim folds
+KT_FueGo calls 2580
+Guitou502 folds
+*** FLOP *** [4d 7d Th]
+KT_FueGo bets 1800
+manggy94 raises 4940 to 6740 and is all-in
+KT_FueGo calls 4940
+*** TURN *** [4d 7d Th][Qs]
+*** RIVER *** [4d 7d Th Qs][8h]
+*** SHOW DOWN ***
+manggy94 shows [Ah 9d] (High card : Ace)
+KT_FueGo shows [Ac Ts] (One pair : Tens)
+KT_FueGo collected 21220 from pot
+*** SUMMARY ***
+Total pot 21220 | No rake
+Board: [4d 7d Th Qs 8h]
+Seat 1: KT_FueGo (big blind) showed [Ac Ts] and won 21220 with One pair : Tens
+Seat 3: manggy94 showed [Ah 9d] and lost with High card : Ace
+
+

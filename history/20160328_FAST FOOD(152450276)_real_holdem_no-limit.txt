@@ -1,0 +1,491 @@
+Winamax Poker - Tournament "FAST FOOD" buyIn: 2,25€ + 2,25€ + 0,50€ level: 5 - HandId: #654768949686173749-1-1459161170 - Holdem no limit (25/150/300) - 2016/03/28 10:32:50 UTC
+Table: 'FAST FOOD(152450276)#052' 8-max (real money) Seat #1 is the button
+Seat 1: LEMAK74 (10000)
+Seat 2: Tiger_2A (10000)
+Seat 3: 4mypyps (10000)
+Seat 8: manggy94 (10000)
+*** ANTE/BLINDS ***
+LEMAK74 posts ante 25
+manggy94 posts ante 25
+LEMAK74 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Th 4h]
+*** PRE-FLOP *** 
+LEMAK74 raises 9675 to 9975 and is all-in
+manggy94 folds
+LEMAK74 collected 10325 from pot
+*** SUMMARY ***
+Total pot 10325 | No rake
+Seat 1: LEMAK74 (small blind) (button) won 10325
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #654768949686173749-2-1459161185 - Holdem no limit (30/200/400) - 2016/03/28 10:33:05 UTC
+Table: 'FAST FOOD(152450276)#052' 8-max (real money) Seat #8 is the button
+Seat 1: LEMAK74 (10325)
+Seat 2: Tiger_2A (10000)
+Seat 3: 4mypyps (10000)
+Seat 6: botticelli29 (10000)
+Seat 8: manggy94 (9675)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+LEMAK74 posts ante 30
+manggy94 posts small blind 200
+LEMAK74 posts big blind 400
+Dealt to manggy94 [Kd 5d]
+*** PRE-FLOP *** 
+manggy94 raises 860 to 1260
+LEMAK74 calls 860
+*** FLOP *** [6d 2c Jd]
+LEMAK74 checks
+manggy94 bets 2580
+LEMAK74 raises 6455 to 9035 and is all-in
+manggy94 calls 5805 and is all-in
+*** TURN *** [6d 2c Jd][6c]
+*** RIVER *** [6d 2c Jd 6c][Qs]
+*** SHOW DOWN ***
+manggy94 shows [Kd 5d] (One pair : 6)
+LEMAK74 shows [Jc Ks] (Two pairs : Jacks and 6)
+LEMAK74 collected 20000 from pot
+*** SUMMARY ***
+Total pot 20000 | No rake
+Board: [6d 2c Jd 6c Qs]
+Seat 1: LEMAK74 (big blind) showed [Jc Ks] and won 20000 with Two pairs : Jacks and 6
+Seat 8: manggy94 (small blind) (button) showed [Kd 5d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #654768949686173697-13-1459161211 - Holdem no limit (30/200/400) - 2016/03/28 10:33:31 UTC
+Table: 'FAST FOOD(152450276)#000' 8-max (real money) Seat #7 is the button
+Seat 1: Hazard1981 (9177)
+Seat 2: ufAkmAwAf (8030)
+Seat 3: Margotte2015 (13398)
+Seat 4: EXKHALIDUR (7400)
+Seat 5: manggy94 (10000)
+Seat 6: flohaha900 (9475)
+Seat 7: jack1212 (16520)
+Seat 8: jimmyyy86 (16000)
+*** ANTE/BLINDS ***
+jimmyyy86 posts ante 30
+Hazard1981 posts ante 30
+ufAkmAwAf posts ante 30
+Margotte2015 posts ante 30
+EXKHALIDUR posts ante 30
+manggy94 posts ante 30
+flohaha900 posts ante 30
+jack1212 posts ante 30
+jimmyyy86 posts small blind 200
+Hazard1981 posts big blind 400
+Dealt to manggy94 [2c Ad]
+*** PRE-FLOP *** 
+ufAkmAwAf folds
+Margotte2015 folds
+EXKHALIDUR folds
+manggy94 calls 400
+flohaha900 calls 400
+jack1212 folds
+jimmyyy86 folds
+Hazard1981 checks
+*** FLOP *** [Ah 6c Th]
+Hazard1981 checks
+manggy94 bets 1640
+flohaha900 folds
+Hazard1981 folds
+manggy94 collected 3280 from pot
+*** SUMMARY ***
+Total pot 3280 | No rake
+Board: [Ah 6c Th]
+Seat 5: manggy94 won 3280
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #654768949686173697-14-1459161260 - Holdem no limit (30/200/400) - 2016/03/28 10:34:20 UTC
+Table: 'FAST FOOD(152450276)#000' 8-max (real money) Seat #8 is the button
+Seat 1: Hazard1981 (8747)
+Seat 2: ufAkmAwAf (8000)
+Seat 3: Margotte2015 (13368)
+Seat 4: EXKHALIDUR (7370)
+Seat 5: manggy94 (11210)
+Seat 6: flohaha900 (9045)
+Seat 7: jack1212 (16490)
+Seat 8: jimmyyy86 (15770)
+*** ANTE/BLINDS ***
+Hazard1981 posts ante 30
+ufAkmAwAf posts ante 30
+Margotte2015 posts ante 30
+EXKHALIDUR posts ante 30
+manggy94 posts ante 30
+flohaha900 posts ante 30
+jack1212 posts ante 30
+jimmyyy86 posts ante 30
+Hazard1981 posts small blind 200
+ufAkmAwAf posts big blind 400
+Dealt to manggy94 [Ac 3h]
+*** PRE-FLOP *** 
+Margotte2015 calls 400
+EXKHALIDUR folds
+manggy94 raises 400 to 800
+flohaha900 folds
+jack1212 folds
+jimmyyy86 folds
+Hazard1981 folds
+ufAkmAwAf calls 400
+Margotte2015 calls 400
+*** FLOP *** [5h Ks 3s]
+ufAkmAwAf checks
+Margotte2015 checks
+manggy94 checks
+*** TURN *** [5h Ks 3s][9h]
+ufAkmAwAf checks
+Margotte2015 bets 1420
+manggy94 calls 1420
+ufAkmAwAf calls 1420
+*** RIVER *** [5h Ks 3s 9h][4d]
+ufAkmAwAf checks
+Margotte2015 checks
+manggy94 checks
+*** SHOW DOWN ***
+Margotte2015 shows [7s 7h] (One pair : 7)
+manggy94 shows [Ac 3h] (One pair : 3)
+ufAkmAwAf shows [9d Ts] (One pair : 9)
+ufAkmAwAf collected 7100 from pot
+*** SUMMARY ***
+Total pot 7100 | No rake
+Board: [5h Ks 3s 9h 4d]
+Seat 2: ufAkmAwAf (big blind) showed [9d Ts] and won 7100 with One pair : 9
+Seat 3: Margotte2015 showed [7s 7h] and lost with One pair : 7
+Seat 5: manggy94 showed [Ac 3h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #654768949686173697-15-1459161310 - Holdem no limit (30/200/400) - 2016/03/28 10:35:10 UTC
+Table: 'FAST FOOD(152450276)#000' 8-max (real money) Seat #1 is the button
+Seat 1: Hazard1981 (8517)
+Seat 2: ufAkmAwAf (12850)
+Seat 3: Margotte2015 (11118)
+Seat 4: EXKHALIDUR (7340)
+Seat 5: manggy94 (8960)
+Seat 6: flohaha900 (9015)
+Seat 7: jack1212 (16460)
+Seat 8: jimmyyy86 (15740)
+*** ANTE/BLINDS ***
+ufAkmAwAf posts ante 30
+Margotte2015 posts ante 30
+Hazard1981 posts ante 30
+EXKHALIDUR posts ante 30
+manggy94 posts ante 30
+flohaha900 posts ante 30
+jack1212 posts ante 30
+jimmyyy86 posts ante 30
+ufAkmAwAf posts small blind 200
+Margotte2015 posts big blind 400
+Dealt to manggy94 [6c 5s]
+*** PRE-FLOP *** 
+EXKHALIDUR folds
+manggy94 folds
+flohaha900 raises 1200 to 1600
+jack1212 raises 4040 to 5640
+jimmyyy86 folds
+Hazard1981 folds
+ufAkmAwAf folds
+Margotte2015 folds
+flohaha900 raises 3345 to 8985 and is all-in
+jack1212 calls 3345
+*** FLOP *** [6d 5h Jd]
+*** TURN *** [6d 5h Jd][Qs]
+*** RIVER *** [6d 5h Jd Qs][2c]
+*** SHOW DOWN ***
+flohaha900 shows [Ac Kc] (High card : Ace)
+jack1212 shows [Kh Ks] (One pair : Kings)
+jack1212 collected 18810 from pot
+*** SUMMARY ***
+Total pot 18810 | No rake
+Board: [6d 5h Jd Qs 2c]
+Seat 6: flohaha900 showed [Ac Kc] and lost with High card : Ace
+Seat 7: jack1212 showed [Kh Ks] and won 18810 with One pair : Kings
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #654768949686173697-16-1459161352 - Holdem no limit (30/200/400) - 2016/03/28 10:35:52 UTC
+Table: 'FAST FOOD(152450276)#000' 8-max (real money) Seat #2 is the button
+Seat 1: Hazard1981 (8487)
+Seat 2: ufAkmAwAf (12620)
+Seat 3: Margotte2015 (10688)
+Seat 4: EXKHALIDUR (7310)
+Seat 5: manggy94 (8930)
+Seat 7: jack1212 (26255)
+Seat 8: jimmyyy86 (15710)
+*** ANTE/BLINDS ***
+Margotte2015 posts ante 30
+EXKHALIDUR posts ante 30
+Hazard1981 posts ante 30
+ufAkmAwAf posts ante 30
+manggy94 posts ante 30
+jack1212 posts ante 30
+jimmyyy86 posts ante 30
+Margotte2015 posts small blind 200
+EXKHALIDUR posts big blind 400
+Dealt to manggy94 [4d Ks]
+*** PRE-FLOP *** 
+manggy94 calls 400
+jack1212 raises 400 to 800
+jimmyyy86 raises 14880 to 15680 and is all-in
+Hazard1981 folds
+ufAkmAwAf folds
+Margotte2015 folds
+EXKHALIDUR folds
+manggy94 folds
+jack1212 raises 10545 to 26225 and is all-in
+*** FLOP *** [Qs 6h Js]
+*** TURN *** [Qs 6h Js][Ac]
+*** RIVER *** [Qs 6h Js Ac][Kh]
+*** SHOW DOWN ***
+jimmyyy86 shows [Qd As] (Two pairs : Aces and Queens)
+jack1212 shows [Th Jh] (Straight Ace high)
+jack1212 collected 43115 from pot
+*** SUMMARY ***
+Total pot 43115 | No rake
+Board: [Qs 6h Js Ac Kh]
+Seat 7: jack1212 showed [Th Jh] and won 43115 with Straight Ace high
+Seat 8: jimmyyy86 showed [Qd As] and lost with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #654768949686173697-17-1459161403 - Holdem no limit (40/250/500) - 2016/03/28 10:36:43 UTC
+Table: 'FAST FOOD(152450276)#000' 8-max (real money) Seat #3 is the button
+Seat 1: Hazard1981 (8457)
+Seat 2: ufAkmAwAf (12590)
+Seat 3: Margotte2015 (10458)
+Seat 4: EXKHALIDUR (6880)
+Seat 5: manggy94 (8500)
+Seat 6: PhoenixH (10000)
+Seat 7: jack1212 (43115)
+*** ANTE/BLINDS ***
+EXKHALIDUR posts ante 40
+manggy94 posts ante 40
+Hazard1981 posts ante 40
+ufAkmAwAf posts ante 40
+Margotte2015 posts ante 40
+PhoenixH posts ante 40
+jack1212 posts ante 40
+EXKHALIDUR posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [6d 4d]
+*** PRE-FLOP *** 
+PhoenixH folds
+jack1212 folds
+Hazard1981 folds
+ufAkmAwAf folds
+Margotte2015 raises 1000 to 1500
+EXKHALIDUR folds
+manggy94 folds
+Margotte2015 collected 2530 from pot
+*** SUMMARY ***
+Total pot 2530 | No rake
+Seat 3: Margotte2015 (button) won 2530
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #654768949686173697-18-1459161426 - Holdem no limit (40/250/500) - 2016/03/28 10:37:06 UTC
+Table: 'FAST FOOD(152450276)#000' 8-max (real money) Seat #4 is the button
+Seat 1: Hazard1981 (8417)
+Seat 2: ufAkmAwAf (12550)
+Seat 3: Margotte2015 (11448)
+Seat 4: EXKHALIDUR (6590)
+Seat 5: manggy94 (7960)
+Seat 6: PhoenixH (9960)
+Seat 7: jack1212 (43075)
+Seat 8: crouks (10000)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+PhoenixH posts ante 40
+Hazard1981 posts ante 40
+ufAkmAwAf posts ante 40
+Margotte2015 posts ante 40
+EXKHALIDUR posts ante 40
+jack1212 posts ante 40
+crouks posts ante 40
+manggy94 posts small blind 250
+PhoenixH posts big blind 500
+Dealt to manggy94 [2s 7h]
+*** PRE-FLOP *** 
+jack1212 raises 500 to 1000
+crouks raises 8960 to 9960 and is all-in
+Hazard1981 folds
+ufAkmAwAf folds
+Margotte2015 folds
+EXKHALIDUR folds
+manggy94 folds
+PhoenixH calls 9420 and is all-in
+jack1212 calls 8960
+*** FLOP *** [Ts 5c Th]
+*** TURN *** [Ts 5c Th][Kc]
+*** RIVER *** [Ts 5c Th Kc][Jd]
+*** SHOW DOWN ***
+PhoenixH shows [9c Jc] (Two pairs : Jacks and Tens)
+jack1212 shows [4s 4h] (Two pairs : Tens and 4)
+crouks shows [Kd Qc] (Two pairs : Kings and Tens)
+crouks collected 30410 from pot
+*** SUMMARY ***
+Total pot 30410 | No rake
+Board: [Ts 5c Th Kc Jd]
+Seat 6: PhoenixH (big blind) showed [9c Jc] and lost with Two pairs : Jacks and Tens
+Seat 7: jack1212 showed [4s 4h] and lost with Two pairs : Tens and 4
+Seat 8: crouks showed [Kd Qc] and won 30410 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #654768949686173697-19-1459161462 - Holdem no limit (40/250/500) - 2016/03/28 10:37:42 UTC
+Table: 'FAST FOOD(152450276)#000' 8-max (real money) Seat #5 is the button
+Seat 1: Hazard1981 (8377)
+Seat 2: ufAkmAwAf (12510)
+Seat 3: Margotte2015 (11408)
+Seat 4: EXKHALIDUR (6550)
+Seat 5: manggy94 (7670)
+Seat 7: jack1212 (33075)
+Seat 8: crouks (30410)
+*** ANTE/BLINDS ***
+jack1212 posts ante 40
+Hazard1981 posts ante 40
+ufAkmAwAf posts ante 40
+Margotte2015 posts ante 40
+EXKHALIDUR posts ante 40
+manggy94 posts ante 40
+crouks posts ante 40
+jack1212 posts big blind 500
+Dealt to manggy94 [Qh 5d]
+*** PRE-FLOP *** 
+crouks folds
+Hazard1981 folds
+ufAkmAwAf calls 500
+Margotte2015 folds
+EXKHALIDUR folds
+manggy94 folds
+jack1212 checks
+*** FLOP *** [Ah 6c 4h]
+jack1212 checks
+ufAkmAwAf bets 750
+jack1212 folds
+ufAkmAwAf collected 2030 from pot
+*** SUMMARY ***
+Total pot 2030 | No rake
+Board: [Ah 6c 4h]
+Seat 2: ufAkmAwAf won 2030
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #654768949686173697-20-1459161485 - Holdem no limit (40/250/500) - 2016/03/28 10:38:05 UTC
+Table: 'FAST FOOD(152450276)#000' 8-max (real money) Seat #6 is the button
+Seat 1: Hazard1981 (8337)
+Seat 2: ufAkmAwAf (13250)
+Seat 3: Margotte2015 (11368)
+Seat 4: EXKHALIDUR (6510)
+Seat 5: manggy94 (7630)
+Seat 6: Octopus 88 (10000)
+Seat 7: jack1212 (32535)
+Seat 8: crouks (30370)
+*** ANTE/BLINDS ***
+jack1212 posts ante 40
+crouks posts ante 40
+Hazard1981 posts ante 40
+ufAkmAwAf posts ante 40
+Margotte2015 posts ante 40
+EXKHALIDUR posts ante 40
+manggy94 posts ante 40
+jack1212 posts small blind 250
+crouks posts big blind 500
+Dealt to manggy94 [Jd 2h]
+*** PRE-FLOP *** 
+Hazard1981 folds
+ufAkmAwAf folds
+Margotte2015 folds
+EXKHALIDUR folds
+manggy94 folds
+jack1212 folds
+crouks collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | No rake
+Seat 8: crouks (big blind) won 1030
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #654768949686173697-21-1459161514 - Holdem no limit (40/250/500) - 2016/03/28 10:38:34 UTC
+Table: 'FAST FOOD(152450276)#000' 8-max (real money) Seat #7 is the button
+Seat 1: Hazard1981 (8297)
+Seat 2: ufAkmAwAf (13210)
+Seat 3: Margotte2015 (11328)
+Seat 4: EXKHALIDUR (6470)
+Seat 5: manggy94 (7590)
+Seat 6: Octopus 88 (10000)
+Seat 7: jack1212 (32245)
+Seat 8: crouks (30860)
+*** ANTE/BLINDS ***
+crouks posts ante 40
+Hazard1981 posts ante 40
+ufAkmAwAf posts ante 40
+Margotte2015 posts ante 40
+EXKHALIDUR posts ante 40
+manggy94 posts ante 40
+Octopus 88 posts ante 40
+jack1212 posts ante 40
+crouks posts small blind 250
+Hazard1981 posts big blind 500
+Dealt to manggy94 [2h 8c]
+*** PRE-FLOP *** 
+ufAkmAwAf folds
+Margotte2015 folds
+EXKHALIDUR folds
+manggy94 folds
+Octopus 88 raises 500 to 1000
+jack1212 raises 31205 to 32205 and is all-in
+crouks folds
+Hazard1981 folds
+Octopus 88 folds
+jack1212 collected 34275 from pot
+*** SUMMARY ***
+Total pot 34275 | No rake
+Seat 7: jack1212 (button) won 34275
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 2,25€ + 2,25€ + 0,50€ level: 8 - HandId: #654768949686173697-22-1459161553 - Holdem no limit (60/300/600) - 2016/03/28 10:39:13 UTC
+Table: 'FAST FOOD(152450276)#000' 8-max (real money) Seat #8 is the button
+Seat 1: Hazard1981 (7757)
+Seat 2: ufAkmAwAf (13170)
+Seat 3: Margotte2015 (11288)
+Seat 4: EXKHALIDUR (6430)
+Seat 5: manggy94 (7550)
+Seat 6: Octopus 88 (8960)
+Seat 7: jack1212 (34275)
+Seat 8: crouks (30570)
+*** ANTE/BLINDS ***
+Hazard1981 posts ante 60
+ufAkmAwAf posts ante 60
+Margotte2015 posts ante 60
+EXKHALIDUR posts ante 60
+manggy94 posts ante 60
+Octopus 88 posts ante 60
+jack1212 posts ante 60
+crouks posts ante 60
+Hazard1981 posts small blind 300
+ufAkmAwAf posts big blind 600
+Dealt to manggy94 [Kc Qh]
+*** PRE-FLOP *** 
+Margotte2015 calls 600
+EXKHALIDUR folds
+manggy94 raises 2580 to 3180
+Octopus 88 folds
+jack1212 folds
+crouks folds
+Hazard1981 folds
+ufAkmAwAf folds
+Margotte2015 calls 2580
+*** FLOP *** [6s 4h Ad]
+Margotte2015 checks
+manggy94 checks
+*** TURN *** [6s 4h Ad][3h]
+Margotte2015 bets 3870
+manggy94 calls 3870
+*** RIVER *** [6s 4h Ad 3h][5h]
+Margotte2015 bets 4178 and is all-in
+manggy94 calls 440 and is all-in
+*** SHOW DOWN ***
+manggy94 shows [Kc Qh] (High card : Ace)
+Margotte2015 shows [Ah 4s] (Two pairs : Aces and 4)
+Margotte2015 collected 20098 from pot
+*** SUMMARY ***
+Total pot 20098 | No rake
+Board: [6s 4h Ad 3h 5h]
+Seat 3: Margotte2015 showed [Ah 4s] and won 20098 with Two pairs : Aces and 4
+Seat 5: manggy94 showed [Kc Qh] and lost with High card : Ace
+
+

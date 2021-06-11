@@ -1,0 +1,34 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 0 - HandId: #538926019491397633-1-1438874104 - Holdem no limit (10/20) - 2015/08/06 15:15:04 UTC
+Table: 'Hold'em(125478492)#000' 6-max (play money) Seat #3 is the button
+Seat 1: serimarc (3000)
+Seat 2: manggy94 (3000)
+Seat 3: 66omchampion (3000)
+Seat 4: diego42 (3000)
+Seat 5: stephancaba (3000)
+Seat 6: titoune68700 (3000)
+*** ANTE/BLINDS ***
+diego42 posts small blind 10
+stephancaba posts big blind 20
+Dealt to manggy94 [Kd As]
+*** PRE-FLOP *** 
+titoune68700 folds
+serimarc folds
+manggy94 calls 20
+66omchampion folds
+diego42 raises 2980 to 3000 and is all-in
+stephancaba folds
+manggy94 calls 2980 and is all-in
+*** FLOP *** [5s Ad 8h]
+*** TURN *** [5s Ad 8h][6h]
+*** RIVER *** [5s Ad 8h 6h][6d]
+*** SHOW DOWN ***
+manggy94 shows [Kd As] (Two pairs : Aces and 6)
+diego42 shows [Ac Ah] (Full of Aces and 6)
+diego42 collected 6020 from pot
+*** SUMMARY ***
+Total pot 6020 | No rake
+Board: [5s Ad 8h 6h 6d]
+Seat 2: manggy94 showed [Kd As] and lost with Two pairs : Aces and 6
+Seat 4: diego42 (small blind) showed [Ac Ah] and won 6020 with Full of Aces and 6
+
+

@@ -1,0 +1,3553 @@
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 0 - HandId: #572024978799591453-1-1445428333 - Holdem no limit (25/50) - 2015/10/21 11:52:13 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 1: im a bee (10000)
+Seat 2: loi kroh (10000)
+Seat 3: manggy94 (10000)
+Seat 4: Num33 (10000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 25
+Num33 posts big blind 50
+Dealt to manggy94 [5c 5s]
+*** PRE-FLOP *** 
+loi kroh folds
+manggy94 calls 25
+Num33 checks
+*** FLOP *** [As Qh 3h]
+manggy94 bets 100
+Num33 folds
+manggy94 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [As Qh 3h]
+Seat 3: manggy94 (small blind) won 200
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 0 - HandId: #572024978799591453-2-1445428347 - Holdem no limit (25/50) - 2015/10/21 11:52:27 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: im a bee (10000)
+Seat 2: loi kroh (10000)
+Seat 3: manggy94 (10050)
+Seat 4: Num33 (9950)
+*** ANTE/BLINDS ***
+Num33 posts small blind 25
+im a bee posts big blind 50
+Dealt to manggy94 [Qs Th]
+*** PRE-FLOP *** 
+loi kroh folds
+manggy94 calls 50
+Num33 calls 25
+im a bee checks
+*** FLOP *** [Jh Qc Td]
+Num33 checks
+im a bee checks
+manggy94 bets 150
+Num33 calls 150
+im a bee folds
+*** TURN *** [Jh Qc Td][4h]
+Num33 checks
+manggy94 bets 1450
+Num33 calls 1450
+*** RIVER *** [Jh Qc Td 4h][8d]
+Num33 checks
+manggy94 checks
+*** SHOW DOWN ***
+Num33 shows [6s Qh] (One pair : Queens)
+manggy94 shows [Qs Th] (Two pairs : Queens and Tens)
+manggy94 collected 3350 from pot
+*** SUMMARY ***
+Total pot 3350 | No rake
+Board: [Jh Qc Td 4h 8d]
+Seat 3: manggy94 (button) showed [Qs Th] and won 3350 with Two pairs : Queens and Tens
+Seat 4: Num33 (small blind) showed [6s Qh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #572024978799591453-3-1445428397 - Holdem no limit (50/100) - 2015/10/21 11:53:17 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: im a bee (9950)
+Seat 2: loi kroh (10000)
+Seat 3: manggy94 (11750)
+Seat 4: Num33 (8300)
+Seat 6: jerem60 (10000)
+*** ANTE/BLINDS ***
+im a bee posts small blind 50
+loi kroh posts big blind 100
+Dealt to manggy94 [Ad 2d]
+*** PRE-FLOP *** 
+manggy94 calls 100
+Num33 raises 100 to 200
+im a bee folds
+loi kroh folds
+manggy94 calls 100
+*** FLOP *** [Jc 8h 9h]
+manggy94 checks
+Num33 bets 250
+manggy94 folds
+Num33 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [Jc 8h 9h]
+Seat 4: Num33 (button) won 800
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #572024978799591453-4-1445428414 - Holdem no limit (50/100) - 2015/10/21 11:53:34 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #1 is the button
+Seat 1: im a bee (9900)
+Seat 2: loi kroh (9900)
+Seat 3: manggy94 (11550)
+Seat 4: Num33 (8650)
+Seat 5: Grand.Chicon (10000)
+Seat 6: El BasToS 87 (10000)
+*** ANTE/BLINDS ***
+loi kroh posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [4d 7s]
+*** PRE-FLOP *** 
+Num33 folds
+Grand.Chicon folds
+El BasToS 87 folds
+im a bee raises 100 to 200
+loi kroh folds
+manggy94 folds
+im a bee collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 1: im a bee (button) won 350
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #572024978799591453-5-1445428428 - Holdem no limit (50/100) - 2015/10/21 11:53:48 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 1: im a bee (10050)
+Seat 2: loi kroh (9850)
+Seat 3: manggy94 (11450)
+Seat 4: Num33 (8650)
+Seat 5: Grand.Chicon (10000)
+Seat 6: El BasToS 87 (10000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 50
+Num33 posts big blind 100
+Dealt to manggy94 [9c Th]
+*** PRE-FLOP *** 
+Grand.Chicon folds
+El BasToS 87 raises 150 to 250
+im a bee calls 250
+loi kroh raises 1000 to 1250
+manggy94 folds
+Num33 folds
+El BasToS 87 calls 1000
+im a bee folds
+*** FLOP *** [4d 6c 4c]
+El BasToS 87 checks
+loi kroh bets 1150
+El BasToS 87 calls 1150
+*** TURN *** [4d 6c 4c][7s]
+El BasToS 87 checks
+loi kroh bets 1950
+El BasToS 87 calls 1950
+*** RIVER *** [4d 6c 4c 7s][2h]
+El BasToS 87 checks
+loi kroh bets 5500 and is all-in
+El BasToS 87 calls 5500
+*** SHOW DOWN ***
+El BasToS 87 shows [8h 8d] (Two pairs : 8 and 4)
+loi kroh shows [Kc Ks] (Two pairs : Kings and 4)
+loi kroh collected 20100 from pot
+*** SUMMARY ***
+Total pot 20100 | No rake
+Board: [4d 6c 4c 7s 2h]
+Seat 2: loi kroh (button) showed [Kc Ks] and won 20100 with Two pairs : Kings and 4
+Seat 6: El BasToS 87 showed [8h 8d] and lost with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #572024978799591453-6-1445428803 - Holdem no limit (50/100) - 2015/10/21 12:00:03 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: im a bee (9800)
+Seat 2: loi kroh (20100)
+Seat 3: manggy94 (11400)
+Seat 4: Num33 (8550)
+Seat 5: Grand.Chicon (10000)
+Seat 6: El BasToS 87 (150)
+*** ANTE/BLINDS ***
+Num33 posts small blind 50
+Grand.Chicon posts big blind 100
+Dealt to manggy94 [Kd Ac]
+*** PRE-FLOP *** 
+El BasToS 87 raises 50 to 150 and is all-in
+im a bee calls 150
+loi kroh folds
+manggy94 calls 150
+Num33 calls 100
+Grand.Chicon calls 50
+*** FLOP *** [Th 9h 2c]
+Num33 checks
+Grand.Chicon checks
+im a bee bets 750
+manggy94 calls 750
+Num33 calls 750
+Grand.Chicon folds
+*** TURN *** [Th 9h 2c][2h]
+Num33 checks
+im a bee bets 750
+manggy94 folds
+Num33 calls 750
+*** RIVER *** [Th 9h 2c 2h][As]
+Num33 checks
+im a bee checks
+*** SHOW DOWN ***
+El BasToS 87 shows [6d 9c] (Two pairs : 9 and 2)
+im a bee shows [Ts Qs] (Two pairs : Tens and 2)
+Num33 shows [3d Td] (Two pairs : Tens and 2)
+Num33 collected 2250 from pot
+im a bee collected 2250 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Board: [Th 9h 2c 2h As]
+Seat 1: im a bee showed [Ts Qs] and won 2250 with Two pairs : Tens and 2
+Seat 4: Num33 (small blind) showed [3d Td] and won 2250 with Two pairs : Tens and 2
+Seat 6: El BasToS 87 showed [6d 9c] and lost with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #572024978799591453-7-1445428859 - Holdem no limit (50/100) - 2015/10/21 12:00:59 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: im a bee (10400)
+Seat 2: loi kroh (20100)
+Seat 3: manggy94 (10500)
+Seat 4: Num33 (9150)
+Seat 5: Grand.Chicon (9850)
+*** ANTE/BLINDS ***
+Grand.Chicon posts small blind 50
+im a bee posts big blind 100
+Dealt to manggy94 [Td 8h]
+*** PRE-FLOP *** 
+loi kroh folds
+manggy94 folds
+Num33 raises 100 to 200
+Grand.Chicon folds
+im a bee calls 100
+*** FLOP *** [Qc 7c 7d]
+im a bee checks
+Num33 checks
+*** TURN *** [Qc 7c 7d][9c]
+im a bee bets 450
+Num33 folds
+im a bee collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qc 7c 7d 9c]
+Seat 1: im a bee (big blind) won 900
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #572024978799591453-8-1445428891 - Holdem no limit (50/100) - 2015/10/21 12:01:31 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #5 is the button
+Seat 1: im a bee (10650)
+Seat 2: loi kroh (20100)
+Seat 3: manggy94 (10500)
+Seat 4: Num33 (8950)
+Seat 5: Grand.Chicon (9800)
+*** ANTE/BLINDS ***
+im a bee posts small blind 50
+loi kroh posts big blind 100
+Dealt to manggy94 [Kh Ac]
+*** PRE-FLOP *** 
+manggy94 raises 250 to 350
+Num33 folds
+Grand.Chicon folds
+im a bee folds
+loi kroh calls 250
+*** FLOP *** [2d Ad Jc]
+loi kroh checks
+manggy94 bets 750
+loi kroh folds
+manggy94 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [2d Ad Jc]
+Seat 3: manggy94 won 1500
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #572024978799591453-9-1445428915 - Holdem no limit (50/100) - 2015/10/21 12:01:55 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #1 is the button
+Seat 1: im a bee (10600)
+Seat 2: loi kroh (19750)
+Seat 3: manggy94 (10900)
+Seat 4: Num33 (8950)
+Seat 5: Grand.Chicon (9800)
+Seat 6: Nelson_du_77 (10000)
+*** ANTE/BLINDS ***
+loi kroh posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [3d 4s]
+*** PRE-FLOP *** 
+Num33 folds
+Grand.Chicon folds
+Nelson_du_77 raises 100 to 200
+im a bee folds
+loi kroh folds
+manggy94 calls 100
+*** FLOP *** [Qc Td 8d]
+manggy94 checks
+Nelson_du_77 bets 324
+manggy94 raises 1376 to 1700
+Nelson_du_77 folds
+manggy94 collected 2474 from pot
+*** SUMMARY ***
+Total pot 2474 | No rake
+Board: [Qc Td 8d]
+Seat 3: manggy94 (big blind) won 2474
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #572024978799591453-10-1445428950 - Holdem no limit (50/100) - 2015/10/21 12:02:30 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 1: im a bee (10600)
+Seat 2: loi kroh (19700)
+Seat 3: manggy94 (11474)
+Seat 4: Num33 (8950)
+Seat 5: Grand.Chicon (9800)
+Seat 6: Nelson_du_77 (9476)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 50
+Num33 posts big blind 100
+Dealt to manggy94 [8h 2c]
+*** PRE-FLOP *** 
+Grand.Chicon folds
+Nelson_du_77 raises 100 to 200
+im a bee calls 200
+loi kroh raises 550 to 750
+manggy94 folds
+Num33 folds
+Nelson_du_77 folds
+im a bee folds
+loi kroh collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Seat 2: loi kroh (button) won 1300
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #572024978799591453-11-1445428990 - Holdem no limit (50/100) - 2015/10/21 12:03:10 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: im a bee (10400)
+Seat 2: loi kroh (20250)
+Seat 3: manggy94 (11424)
+Seat 4: Num33 (8850)
+Seat 5: Grand.Chicon (9800)
+Seat 6: Nelson_du_77 (9276)
+*** ANTE/BLINDS ***
+Num33 posts small blind 50
+Grand.Chicon posts big blind 100
+Dealt to manggy94 [7c 4h]
+*** PRE-FLOP *** 
+Nelson_du_77 raises 200 to 300
+im a bee calls 300
+loi kroh calls 300
+manggy94 folds
+Num33 folds
+Grand.Chicon calls 200
+*** FLOP *** [9s 2h 5s]
+Grand.Chicon checks
+Nelson_du_77 checks
+im a bee bets 1300
+loi kroh folds
+Grand.Chicon folds
+Nelson_du_77 folds
+im a bee collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Board: [9s 2h 5s]
+Seat 1: im a bee won 2550
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #572024978799591453-12-1445429043 - Holdem no limit (50/100) - 2015/10/21 12:04:03 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: im a bee (11350)
+Seat 2: loi kroh (19950)
+Seat 3: manggy94 (11424)
+Seat 4: Num33 (8800)
+Seat 5: Grand.Chicon (9500)
+Seat 6: Nelson_du_77 (8976)
+*** ANTE/BLINDS ***
+Grand.Chicon posts small blind 50
+Nelson_du_77 posts big blind 100
+Dealt to manggy94 [9c 8s]
+*** PRE-FLOP *** 
+im a bee folds
+loi kroh folds
+manggy94 folds
+Num33 raises 150 to 250
+Grand.Chicon calls 200
+Nelson_du_77 calls 150
+*** FLOP *** [5d Ks 8d]
+Grand.Chicon checks
+Nelson_du_77 checks
+Num33 bets 300
+Grand.Chicon calls 300
+Nelson_du_77 folds
+*** TURN *** [5d Ks 8d][Jh]
+Grand.Chicon checks
+Num33 bets 450
+Grand.Chicon calls 450
+*** RIVER *** [5d Ks 8d Jh][Kc]
+Grand.Chicon bets 1000
+Num33 folds
+Grand.Chicon collected 3250 from pot
+*** SUMMARY ***
+Total pot 3250 | No rake
+Board: [5d Ks 8d Jh Kc]
+Seat 5: Grand.Chicon (small blind) won 3250
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #572024978799591453-13-1445429080 - Holdem no limit (50/100) - 2015/10/21 12:04:40 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #5 is the button
+Seat 1: im a bee (11350)
+Seat 2: loi kroh (19950)
+Seat 3: manggy94 (11424)
+Seat 4: Num33 (7800)
+Seat 5: Grand.Chicon (10750)
+Seat 6: Nelson_du_77 (8726)
+*** ANTE/BLINDS ***
+Nelson_du_77 posts small blind 50
+im a bee posts big blind 100
+Dealt to manggy94 [5h 7h]
+*** PRE-FLOP *** 
+loi kroh folds
+manggy94 calls 100
+Num33 folds
+Grand.Chicon folds
+Nelson_du_77 raises 538 to 638
+im a bee folds
+manggy94 calls 538
+*** FLOP *** [8s As Qs]
+Nelson_du_77 bets 696
+manggy94 folds
+Nelson_du_77 collected 2072 from pot
+*** SUMMARY ***
+Total pot 2072 | No rake
+Board: [8s As Qs]
+Seat 6: Nelson_du_77 (small blind) won 2072
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #572024978799591453-14-1445429112 - Holdem no limit (50/100) - 2015/10/21 12:05:12 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #6 is the button
+Seat 1: im a bee (11250)
+Seat 2: loi kroh (19950)
+Seat 3: manggy94 (10786)
+Seat 4: Num33 (7800)
+Seat 5: Grand.Chicon (10750)
+Seat 6: Nelson_du_77 (9464)
+*** ANTE/BLINDS ***
+im a bee posts small blind 50
+loi kroh posts big blind 100
+Dealt to manggy94 [Jc 7h]
+*** PRE-FLOP *** 
+manggy94 folds
+Num33 raises 150 to 250
+Grand.Chicon folds
+Nelson_du_77 raises 546 to 796
+im a bee folds
+loi kroh folds
+Num33 calls 546
+*** FLOP *** [9d 2d 7c]
+Num33 checks
+Nelson_du_77 bets 1091
+Num33 folds
+Nelson_du_77 collected 2833 from pot
+*** SUMMARY ***
+Total pot 2833 | No rake
+Board: [9d 2d 7c]
+Seat 6: Nelson_du_77 (button) won 2833
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #572024978799591453-15-1445429162 - Holdem no limit (75/150) - 2015/10/21 12:06:02 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #1 is the button
+Seat 1: im a bee (11200)
+Seat 2: loi kroh (19850)
+Seat 3: manggy94 (10786)
+Seat 4: Num33 (7004)
+Seat 5: Grand.Chicon (10750)
+Seat 6: Nelson_du_77 (10410)
+*** ANTE/BLINDS ***
+loi kroh posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [6c 5s]
+*** PRE-FLOP *** 
+Num33 folds
+Grand.Chicon folds
+Nelson_du_77 calls 150
+im a bee folds
+loi kroh folds
+manggy94 checks
+*** FLOP *** [8d 9c Ts]
+manggy94 checks
+Nelson_du_77 bets 281
+manggy94 raises 769 to 1050
+Nelson_du_77 calls 769
+*** TURN *** [8d 9c Ts][6s]
+manggy94 checks
+Nelson_du_77 checks
+*** RIVER *** [8d 9c Ts 6s][2c]
+manggy94 checks
+Nelson_du_77 checks
+*** SHOW DOWN ***
+manggy94 shows [6c 5s] (One pair : 6)
+Nelson_du_77 shows [Js 9h] (One pair : 9)
+Nelson_du_77 collected 2475 from pot
+*** SUMMARY ***
+Total pot 2475 | No rake
+Board: [8d 9c Ts 6s 2c]
+Seat 3: manggy94 (big blind) showed [6c 5s] and lost with One pair : 6
+Seat 6: Nelson_du_77 showed [Js 9h] and won 2475 with One pair : 9
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #572024978799591453-16-1445429207 - Holdem no limit (75/150) - 2015/10/21 12:06:47 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 1: im a bee (11200)
+Seat 2: loi kroh (19775)
+Seat 3: manggy94 (9586)
+Seat 4: Num33 (7004)
+Seat 5: Grand.Chicon (10750)
+Seat 6: Nelson_du_77 (11685)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 75
+Num33 posts big blind 150
+Dealt to manggy94 [Ah 6c]
+*** PRE-FLOP *** 
+Grand.Chicon folds
+Nelson_du_77 folds
+im a bee calls 150
+loi kroh folds
+manggy94 calls 75
+Num33 checks
+*** FLOP *** [Jc 9h 3s]
+manggy94 bets 1200
+Num33 folds
+im a bee folds
+manggy94 collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Board: [Jc 9h 3s]
+Seat 3: manggy94 (small blind) won 1650
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #572024978799591453-17-1445429245 - Holdem no limit (75/150) - 2015/10/21 12:07:25 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: im a bee (11050)
+Seat 2: loi kroh (19775)
+Seat 3: manggy94 (9886)
+Seat 4: Num33 (6854)
+Seat 5: Grand.Chicon (10750)
+Seat 6: Nelson_du_77 (11685)
+*** ANTE/BLINDS ***
+Num33 posts small blind 75
+Grand.Chicon posts big blind 150
+Dealt to manggy94 [Qd 5h]
+*** PRE-FLOP *** 
+Nelson_du_77 folds
+im a bee folds
+loi kroh folds
+manggy94 folds
+Num33 folds
+Grand.Chicon collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Seat 5: Grand.Chicon (big blind) won 225
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #572024978799591453-18-1445429258 - Holdem no limit (75/150) - 2015/10/21 12:07:38 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: im a bee (11050)
+Seat 2: loi kroh (19775)
+Seat 3: manggy94 (9886)
+Seat 4: Num33 (6779)
+Seat 5: Grand.Chicon (10825)
+Seat 6: Nelson_du_77 (11685)
+*** ANTE/BLINDS ***
+Grand.Chicon posts small blind 75
+Nelson_du_77 posts big blind 150
+Dealt to manggy94 [As Qc]
+*** PRE-FLOP *** 
+im a bee folds
+loi kroh folds
+manggy94 raises 450 to 600
+Num33 folds
+Grand.Chicon folds
+Nelson_du_77 calls 450
+*** FLOP *** [Kh 2h 9s]
+Nelson_du_77 checks
+manggy94 checks
+*** TURN *** [Kh 2h 9s][Qd]
+Nelson_du_77 bets 853
+manggy94 calls 853
+*** RIVER *** [Kh 2h 9s Qd][Kc]
+Nelson_du_77 bets 1213
+manggy94 calls 1213
+*** SHOW DOWN ***
+Nelson_du_77 shows [Qh 4h] (Two pairs : Kings and Queens)
+manggy94 shows [As Qc] (Two pairs : Kings and Queens)
+manggy94 collected 5407 from pot
+*** SUMMARY ***
+Total pot 5407 | No rake
+Board: [Kh 2h 9s Qd Kc]
+Seat 3: manggy94 showed [As Qc] and won 5407 with Two pairs : Kings and Queens
+Seat 6: Nelson_du_77 (big blind) showed [Qh 4h] and lost with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #572024978799591453-19-1445429299 - Holdem no limit (75/150) - 2015/10/21 12:08:19 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #5 is the button
+Seat 1: im a bee (11050)
+Seat 2: loi kroh (19775)
+Seat 3: manggy94 (12627)
+Seat 4: Num33 (6779)
+Seat 5: Grand.Chicon (10750)
+Seat 6: Nelson_du_77 (9019)
+*** ANTE/BLINDS ***
+Nelson_du_77 posts small blind 75
+im a bee posts big blind 150
+Dealt to manggy94 [3c 2d]
+*** PRE-FLOP *** 
+loi kroh folds
+manggy94 folds
+Num33 folds
+Grand.Chicon folds
+Nelson_du_77 raises 300 to 450
+im a bee folds
+Nelson_du_77 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 6: Nelson_du_77 (small blind) won 600
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #572024978799591453-20-1445429349 - Holdem no limit (75/150) - 2015/10/21 12:09:09 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #6 is the button
+Seat 1: im a bee (10900)
+Seat 2: loi kroh (19775)
+Seat 3: manggy94 (12627)
+Seat 4: Num33 (6779)
+Seat 5: Grand.Chicon (10750)
+Seat 6: Nelson_du_77 (9169)
+*** ANTE/BLINDS ***
+im a bee posts small blind 75
+loi kroh posts big blind 150
+Dealt to manggy94 [Jd 8c]
+*** PRE-FLOP *** 
+manggy94 folds
+Num33 raises 150 to 300
+Grand.Chicon calls 300
+Nelson_du_77 calls 300
+im a bee folds
+loi kroh folds
+*** FLOP *** [6c As Ad]
+Num33 bets 750
+Grand.Chicon folds
+Nelson_du_77 folds
+Num33 collected 1875 from pot
+*** SUMMARY ***
+Total pot 1875 | No rake
+Board: [6c As Ad]
+Seat 4: Num33 won 1875
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #572024978799591453-21-1445429405 - Holdem no limit (75/150) - 2015/10/21 12:10:05 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #1 is the button
+Seat 1: im a bee (10825)
+Seat 2: loi kroh (19625)
+Seat 3: manggy94 (12627)
+Seat 4: Num33 (7604)
+Seat 5: Grand.Chicon (10450)
+Seat 6: Nelson_du_77 (8869)
+*** ANTE/BLINDS ***
+loi kroh posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [9c Kc]
+*** PRE-FLOP *** 
+Num33 folds
+Grand.Chicon folds
+Nelson_du_77 raises 300 to 450
+im a bee folds
+loi kroh calls 375
+manggy94 calls 300
+*** FLOP *** [6c 9h Kd]
+loi kroh bets 750
+manggy94 calls 750
+Nelson_du_77 folds
+*** TURN *** [6c 9h Kd][6d]
+loi kroh bets 1500
+manggy94 calls 1500
+*** RIVER *** [6c 9h Kd 6d][3s]
+loi kroh bets 3650
+manggy94 raises 6277 to 9927 and is all-in
+loi kroh calls 6277
+*** SHOW DOWN ***
+loi kroh shows [Qd Ks] (Two pairs : Kings and 6)
+manggy94 shows [9c Kc] (Two pairs : Kings and 9)
+manggy94 collected 25704 from pot
+*** SUMMARY ***
+Total pot 25704 | No rake
+Board: [6c 9h Kd 6d 3s]
+Seat 2: loi kroh (small blind) showed [Qd Ks] and lost with Two pairs : Kings and 6
+Seat 3: manggy94 (big blind) showed [9c Kc] and won 25704 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #572024978799591453-22-1445429467 - Holdem no limit (75/150) - 2015/10/21 12:11:07 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 1: im a bee (10825)
+Seat 2: loi kroh (6998)
+Seat 3: manggy94 (25704)
+Seat 4: Num33 (7604)
+Seat 5: Grand.Chicon (10450)
+Seat 6: Nelson_du_77 (8419)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 75
+Num33 posts big blind 150
+Dealt to manggy94 [Qd 3h]
+*** PRE-FLOP *** 
+Grand.Chicon folds
+Nelson_du_77 folds
+im a bee folds
+loi kroh raises 150 to 300
+manggy94 calls 225
+Num33 calls 150
+*** FLOP *** [Td 7d As]
+manggy94 checks
+Num33 checks
+loi kroh bets 525
+manggy94 folds
+Num33 folds
+loi kroh collected 1425 from pot
+*** SUMMARY ***
+Total pot 1425 | No rake
+Board: [Td 7d As]
+Seat 2: loi kroh (button) won 1425
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #572024978799591453-23-1445429506 - Holdem no limit (75/150) - 2015/10/21 12:11:46 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: im a bee (10825)
+Seat 2: loi kroh (7598)
+Seat 3: manggy94 (25404)
+Seat 4: Num33 (7304)
+Seat 5: Grand.Chicon (10450)
+Seat 6: Nelson_du_77 (8419)
+*** ANTE/BLINDS ***
+Num33 posts small blind 75
+Grand.Chicon posts big blind 150
+Dealt to manggy94 [As 8c]
+*** PRE-FLOP *** 
+Nelson_du_77 folds
+im a bee folds
+loi kroh folds
+manggy94 raises 375 to 525
+Num33 folds
+Grand.Chicon folds
+manggy94 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Seat 3: manggy94 (button) won 750
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #572024978799591453-24-1445429522 - Holdem no limit (75/150) - 2015/10/21 12:12:02 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: im a bee (10825)
+Seat 2: loi kroh (7598)
+Seat 3: manggy94 (25629)
+Seat 4: Num33 (7229)
+Seat 5: Grand.Chicon (10300)
+Seat 6: Nelson_du_77 (8419)
+*** ANTE/BLINDS ***
+Grand.Chicon posts small blind 75
+Nelson_du_77 posts big blind 150
+Dealt to manggy94 [Qc 8h]
+*** PRE-FLOP *** 
+im a bee calls 150
+loi kroh folds
+manggy94 calls 150
+Num33 raises 150 to 300
+Grand.Chicon calls 225
+Nelson_du_77 calls 150
+im a bee calls 150
+manggy94 calls 150
+*** FLOP *** [4s Qh 8s]
+Grand.Chicon checks
+Nelson_du_77 checks
+im a bee bets 1500
+manggy94 raises 4500 to 6000
+Num33 folds
+Grand.Chicon folds
+Nelson_du_77 folds
+im a bee raises 4525 to 10525 and is all-in
+manggy94 calls 4525
+*** TURN *** [4s Qh 8s][Kh]
+*** RIVER *** [4s Qh 8s Kh][4c]
+*** SHOW DOWN ***
+im a bee shows [Qd Tc] (Two pairs : Queens and 4)
+manggy94 shows [Qc 8h] (Two pairs : Queens and 8)
+manggy94 collected 22550 from pot
+*** SUMMARY ***
+Total pot 22550 | No rake
+Board: [4s Qh 8s Kh 4c]
+Seat 1: im a bee showed [Qd Tc] and lost with Two pairs : Queens and 4
+Seat 3: manggy94 showed [Qc 8h] and won 22550 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #572024978799591453-25-1445429596 - Holdem no limit (75/150) - 2015/10/21 12:13:16 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #5 is the button
+Seat 2: loi kroh (7598)
+Seat 3: manggy94 (37354)
+Seat 4: Num33 (6929)
+Seat 5: Grand.Chicon (10000)
+Seat 6: Nelson_du_77 (8119)
+*** ANTE/BLINDS ***
+Nelson_du_77 posts small blind 75
+loi kroh posts big blind 150
+Dealt to manggy94 [Kh Kc]
+*** PRE-FLOP *** 
+manggy94 calls 150
+Num33 folds
+Grand.Chicon folds
+Nelson_du_77 raises 450 to 600
+loi kroh folds
+manggy94 calls 450
+*** FLOP *** [8s Ts Ad]
+Nelson_du_77 bets 1013
+manggy94 calls 1013
+*** TURN *** [8s Ts Ad][9h]
+Nelson_du_77 bets 2258
+manggy94 folds
+Nelson_du_77 collected 5634 from pot
+*** SUMMARY ***
+Total pot 5634 | No rake
+Board: [8s Ts Ad 9h]
+Seat 6: Nelson_du_77 (small blind) won 5634
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #572024978799591453-26-1445429625 - Holdem no limit (75/150) - 2015/10/21 12:13:45 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #6 is the button
+Seat 1: PAT-ATRAC (10000)
+Seat 2: loi kroh (7448)
+Seat 3: manggy94 (35741)
+Seat 4: Num33 (6929)
+Seat 5: Grand.Chicon (10000)
+Seat 6: Nelson_du_77 (9882)
+*** ANTE/BLINDS ***
+loi kroh posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [4h 8s]
+*** PRE-FLOP *** 
+Num33 raises 150 to 300
+Grand.Chicon calls 300
+Nelson_du_77 calls 300
+loi kroh folds
+manggy94 folds
+*** FLOP *** [Kc 6h 3d]
+Num33 checks
+Grand.Chicon checks
+Nelson_du_77 checks
+*** TURN *** [Kc 6h 3d][Th]
+Num33 bets 425
+Grand.Chicon folds
+Nelson_du_77 raises 851 to 1276
+Num33 raises 5353 to 6629 and is all-in
+Nelson_du_77 raises 2953 to 9582 and is all-in
+*** RIVER *** [Kc 6h 3d Th][Tc]
+*** SHOW DOWN ***
+Num33 shows [Qd Kd] (Two pairs : Kings and Tens)
+Nelson_du_77 shows [Ks 3s] (Two pairs : Kings and Tens)
+Nelson_du_77 collected 2953 from side pot 1
+Num33 collected 14383 from main pot
+*** SUMMARY ***
+Total pot 17336 | No rake
+Board: [Kc 6h 3d Th Tc]
+Seat 4: Num33 showed [Qd Kd] and won 14383 with Two pairs : Kings and Tens
+Seat 6: Nelson_du_77 (button) showed [Ks 3s] and won 2953 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 3 - HandId: #572024978799591453-27-1445429667 - Holdem no limit (100/200) - 2015/10/21 12:14:27 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 1: PAT-ATRAC (10000)
+Seat 2: loi kroh (7373)
+Seat 3: manggy94 (35591)
+Seat 4: Num33 (14383)
+Seat 5: Grand.Chicon (9700)
+Seat 6: Nelson_du_77 (2953)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+Num33 posts big blind 200
+Dealt to manggy94 [2h 9d]
+*** PRE-FLOP *** 
+Grand.Chicon raises 355 to 555
+Nelson_du_77 calls 555
+PAT-ATRAC calls 555
+loi kroh calls 555
+manggy94 folds
+Num33 folds
+*** FLOP *** [Td Qs Ts]
+Grand.Chicon checks
+Nelson_du_77 checks
+PAT-ATRAC checks
+loi kroh checks
+*** TURN *** [Td Qs Ts][6d]
+Grand.Chicon checks
+Nelson_du_77 bets 793
+PAT-ATRAC folds
+loi kroh folds
+Grand.Chicon folds
+Nelson_du_77 collected 3313 from pot
+*** SUMMARY ***
+Total pot 3313 | No rake
+Board: [Td Qs Ts 6d]
+Seat 6: Nelson_du_77 won 3313
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 3 - HandId: #572024978799591453-28-1445429723 - Holdem no limit (100/200) - 2015/10/21 12:15:23 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: PAT-ATRAC (9445)
+Seat 2: loi kroh (6818)
+Seat 3: manggy94 (35491)
+Seat 4: Num33 (14183)
+Seat 5: Grand.Chicon (9145)
+Seat 6: Nelson_du_77 (4918)
+*** ANTE/BLINDS ***
+Num33 posts small blind 100
+Grand.Chicon posts big blind 200
+Dealt to manggy94 [7c Qh]
+*** PRE-FLOP *** 
+Nelson_du_77 calls 200
+PAT-ATRAC raises 400 to 600
+loi kroh folds
+manggy94 calls 600
+Num33 folds
+Grand.Chicon folds
+Nelson_du_77 calls 400
+*** FLOP *** [4d Td 3c]
+Nelson_du_77 checks
+PAT-ATRAC bets 1050
+manggy94 folds
+Nelson_du_77 folds
+PAT-ATRAC collected 3150 from pot
+*** SUMMARY ***
+Total pot 3150 | No rake
+Board: [4d Td 3c]
+Seat 1: PAT-ATRAC won 3150
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 3 - HandId: #572024978799591453-29-1445429756 - Holdem no limit (100/200) - 2015/10/21 12:15:56 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: PAT-ATRAC (10945)
+Seat 2: loi kroh (6818)
+Seat 3: manggy94 (34891)
+Seat 4: Num33 (14083)
+Seat 5: Grand.Chicon (8945)
+Seat 6: Nelson_du_77 (4318)
+*** ANTE/BLINDS ***
+Grand.Chicon posts small blind 100
+Nelson_du_77 posts big blind 200
+Dealt to manggy94 [Ah Ks]
+*** PRE-FLOP *** 
+PAT-ATRAC folds
+loi kroh folds
+manggy94 calls 200
+Num33 folds
+Grand.Chicon calls 100
+Nelson_du_77 checks
+*** FLOP *** [3s Jh Qh]
+Grand.Chicon bets 200
+Nelson_du_77 raises 3918 to 4118 and is all-in
+manggy94 calls 4118
+Grand.Chicon folds
+*** TURN *** [3s Jh Qh][5c]
+*** RIVER *** [3s Jh Qh 5c][3d]
+*** SHOW DOWN ***
+manggy94 shows [Ah Ks] (One pair : 3)
+Nelson_du_77 shows [7d Qs] (Two pairs : Queens and 3)
+Nelson_du_77 collected 9036 from pot
+*** SUMMARY ***
+Total pot 9036 | No rake
+Board: [3s Jh Qh 5c 3d]
+Seat 3: manggy94 showed [Ah Ks] and lost with One pair : 3
+Seat 6: Nelson_du_77 (big blind) showed [7d Qs] and won 9036 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 3 - HandId: #572024978799591453-30-1445429822 - Holdem no limit (100/200) - 2015/10/21 12:17:02 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #5 is the button
+Seat 1: PAT-ATRAC (10945)
+Seat 2: loi kroh (6818)
+Seat 3: manggy94 (30573)
+Seat 4: Num33 (14083)
+Seat 5: Grand.Chicon (8545)
+Seat 6: Nelson_du_77 (9036)
+*** ANTE/BLINDS ***
+Nelson_du_77 posts small blind 100
+PAT-ATRAC posts big blind 200
+Dealt to manggy94 [4d 7c]
+*** PRE-FLOP *** 
+loi kroh folds
+manggy94 folds
+Num33 folds
+Grand.Chicon calls 200
+Nelson_du_77 calls 100
+PAT-ATRAC checks
+*** FLOP *** [2d 8s 8c]
+Nelson_du_77 bets 422
+PAT-ATRAC calls 422
+Grand.Chicon folds
+*** TURN *** [2d 8s 8c][3s]
+Nelson_du_77 bets 686
+PAT-ATRAC folds
+Nelson_du_77 collected 2130 from pot
+*** SUMMARY ***
+Total pot 2130 | No rake
+Board: [2d 8s 8c 3s]
+Seat 6: Nelson_du_77 (small blind) won 2130
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 3 - HandId: #572024978799591453-31-1445429854 - Holdem no limit (100/200) - 2015/10/21 12:17:34 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #6 is the button
+Seat 1: PAT-ATRAC (10323)
+Seat 2: loi kroh (6818)
+Seat 3: manggy94 (30573)
+Seat 4: Num33 (14083)
+Seat 5: Grand.Chicon (8345)
+Seat 6: Nelson_du_77 (9858)
+*** ANTE/BLINDS ***
+PAT-ATRAC posts small blind 100
+loi kroh posts big blind 200
+Dealt to manggy94 [6d 3s]
+*** PRE-FLOP *** 
+manggy94 folds
+Num33 raises 200 to 400
+Grand.Chicon calls 400
+Nelson_du_77 calls 400
+PAT-ATRAC calls 300
+loi kroh calls 200
+*** FLOP *** [Th 7h Qd]
+PAT-ATRAC checks
+loi kroh checks
+Num33 checks
+Grand.Chicon checks
+Nelson_du_77 bets 1366
+PAT-ATRAC folds
+loi kroh raises 1683 to 3049
+Num33 folds
+Grand.Chicon folds
+Nelson_du_77 raises 6017 to 9066
+loi kroh calls 3369 and is all-in
+*** TURN *** [Th 7h Qd][Kh]
+*** RIVER *** [Th 7h Qd Kh][4h]
+*** SHOW DOWN ***
+loi kroh shows [2h Ah] (Flush Ace high)
+Nelson_du_77 shows [Qc Jc] (One pair : Queens)
+Nelson_du_77 collected 2648 from side pot 1
+loi kroh collected 14836 from main pot
+*** SUMMARY ***
+Total pot 17484 | No rake
+Board: [Th 7h Qd Kh 4h]
+Seat 2: loi kroh (big blind) showed [2h Ah] and won 14836 with Flush Ace high
+Seat 6: Nelson_du_77 (button) showed [Qc Jc] and won 2648 with One pair : Queens
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 3 - HandId: #572024978799591453-32-1445429913 - Holdem no limit (100/200) - 2015/10/21 12:18:33 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #1 is the button
+Seat 1: PAT-ATRAC (9923)
+Seat 2: loi kroh (14836)
+Seat 3: manggy94 (30573)
+Seat 4: Num33 (13683)
+Seat 5: Grand.Chicon (7945)
+Seat 6: Nelson_du_77 (3040)
+*** ANTE/BLINDS ***
+loi kroh posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [3h 8s]
+*** PRE-FLOP *** 
+Num33 raises 200 to 400
+Grand.Chicon folds
+Nelson_du_77 folds
+PAT-ATRAC folds
+loi kroh folds
+manggy94 folds
+Num33 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 4: Num33 won 700
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 3 - HandId: #572024978799591453-33-1445429933 - Holdem no limit (100/200) - 2015/10/21 12:18:53 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 1: PAT-ATRAC (9923)
+Seat 2: loi kroh (14736)
+Seat 3: manggy94 (30373)
+Seat 4: Num33 (13983)
+Seat 5: Grand.Chicon (7945)
+Seat 6: Nelson_du_77 (3040)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+Num33 posts big blind 200
+Dealt to manggy94 [9c 7s]
+*** PRE-FLOP *** 
+Grand.Chicon raises 500 to 700
+Nelson_du_77 raises 2340 to 3040 and is all-in
+PAT-ATRAC folds
+loi kroh folds
+manggy94 folds
+Num33 folds
+Grand.Chicon calls 2340
+*** FLOP *** [5h 9h Jd]
+*** TURN *** [5h 9h Jd][7d]
+*** RIVER *** [5h 9h Jd 7d][Jh]
+*** SHOW DOWN ***
+Grand.Chicon shows [Ac 7c] (Two pairs : Jacks and 7)
+Nelson_du_77 shows [Js Kd] (Trips of Jacks)
+Nelson_du_77 collected 6380 from pot
+*** SUMMARY ***
+Total pot 6380 | No rake
+Board: [5h 9h Jd 7d Jh]
+Seat 5: Grand.Chicon showed [Ac 7c] and lost with Two pairs : Jacks and 7
+Seat 6: Nelson_du_77 showed [Js Kd] and won 6380 with Trips of Jacks
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 3 - HandId: #572024978799591453-34-1445429955 - Holdem no limit (100/200) - 2015/10/21 12:19:15 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: PAT-ATRAC (9923)
+Seat 2: loi kroh (14736)
+Seat 3: manggy94 (30273)
+Seat 4: Num33 (13783)
+Seat 5: Grand.Chicon (4905)
+Seat 6: Nelson_du_77 (6380)
+*** ANTE/BLINDS ***
+Num33 posts small blind 100
+Grand.Chicon posts big blind 200
+Dealt to manggy94 [Kc Kd]
+*** PRE-FLOP *** 
+Nelson_du_77 folds
+PAT-ATRAC folds
+loi kroh folds
+manggy94 calls 200
+Num33 calls 100
+Grand.Chicon checks
+*** FLOP *** [Jh Js Ts]
+Num33 checks
+Grand.Chicon checks
+manggy94 bets 600
+Num33 folds
+Grand.Chicon folds
+manggy94 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [Jh Js Ts]
+Seat 3: manggy94 (button) won 1200
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 3 - HandId: #572024978799591453-35-1445429973 - Holdem no limit (100/200) - 2015/10/21 12:19:33 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: PAT-ATRAC (9923)
+Seat 2: loi kroh (14736)
+Seat 3: manggy94 (30673)
+Seat 4: Num33 (13583)
+Seat 5: Grand.Chicon (4705)
+Seat 6: Nelson_du_77 (6380)
+*** ANTE/BLINDS ***
+Grand.Chicon posts small blind 100
+Nelson_du_77 posts big blind 200
+Dealt to manggy94 [3h Kc]
+*** PRE-FLOP *** 
+PAT-ATRAC raises 200 to 400
+loi kroh folds
+manggy94 calls 400
+Num33 calls 400
+Grand.Chicon raises 4305 to 4705 and is all-in
+Nelson_du_77 folds
+PAT-ATRAC folds
+manggy94 folds
+Num33 calls 4305
+*** FLOP *** [4d 6s 9h]
+*** TURN *** [4d 6s 9h][4c]
+*** RIVER *** [4d 6s 9h 4c][Qd]
+*** SHOW DOWN ***
+Num33 shows [7s 5s] (One pair : 4)
+Grand.Chicon shows [Kd As] (One pair : 4)
+Grand.Chicon collected 10410 from pot
+*** SUMMARY ***
+Total pot 10410 | No rake
+Board: [4d 6s 9h 4c Qd]
+Seat 4: Num33 (button) showed [7s 5s] and lost with One pair : 4
+Seat 5: Grand.Chicon (small blind) showed [Kd As] and won 10410 with One pair : 4
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 3 - HandId: #572024978799591453-36-1445429999 - Holdem no limit (100/200) - 2015/10/21 12:19:59 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #5 is the button
+Seat 1: PAT-ATRAC (9523)
+Seat 2: loi kroh (14736)
+Seat 3: manggy94 (30273)
+Seat 4: Num33 (8878)
+Seat 5: Grand.Chicon (10410)
+Seat 6: Nelson_du_77 (6180)
+*** ANTE/BLINDS ***
+Nelson_du_77 posts small blind 100
+PAT-ATRAC posts big blind 200
+Dealt to manggy94 [Jh Kd]
+*** PRE-FLOP *** 
+loi kroh folds
+manggy94 calls 200
+Num33 folds
+Grand.Chicon folds
+Nelson_du_77 raises 557 to 757
+PAT-ATRAC folds
+manggy94 raises 1714 to 2471
+Nelson_du_77 calls 1714
+*** FLOP *** [8d 9c 8s]
+Nelson_du_77 checks
+manggy94 bets 5142
+Nelson_du_77 folds
+manggy94 collected 10284 from pot
+*** SUMMARY ***
+Total pot 10284 | No rake
+Board: [8d 9c 8s]
+Seat 3: manggy94 won 10284
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 3 - HandId: #572024978799591453-37-1445430032 - Holdem no limit (100/200) - 2015/10/21 12:20:32 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #6 is the button
+Seat 1: PAT-ATRAC (9323)
+Seat 2: loi kroh (14736)
+Seat 3: manggy94 (32944)
+Seat 4: Num33 (8878)
+Seat 5: Grand.Chicon (10410)
+Seat 6: Nelson_du_77 (3709)
+*** ANTE/BLINDS ***
+PAT-ATRAC posts small blind 100
+loi kroh posts big blind 200
+Dealt to manggy94 [7h 5c]
+*** PRE-FLOP *** 
+manggy94 folds
+Num33 raises 200 to 400
+Grand.Chicon folds
+Nelson_du_77 calls 400
+PAT-ATRAC calls 300
+loi kroh folds
+*** FLOP *** [8d Ac 7s]
+PAT-ATRAC checks
+Num33 checks
+Nelson_du_77 checks
+*** TURN *** [8d Ac 7s][9c]
+PAT-ATRAC checks
+Num33 checks
+Nelson_du_77 checks
+*** RIVER *** [8d Ac 7s 9c][6d]
+PAT-ATRAC checks
+Num33 checks
+Nelson_du_77 checks
+*** SHOW DOWN ***
+PAT-ATRAC shows [Qh 6h] (One pair : 6)
+Num33 shows [Qd 8h] (One pair : 8)
+Nelson_du_77 shows [8c Kd] (One pair : 8)
+Nelson_du_77 collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Board: [8d Ac 7s 9c 6d]
+Seat 1: PAT-ATRAC (small blind) showed [Qh 6h] and lost with One pair : 6
+Seat 4: Num33 showed [Qd 8h] and lost with One pair : 8
+Seat 6: Nelson_du_77 (button) showed [8c Kd] and won 1400 with One pair : 8
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 3 - HandId: #572024978799591453-38-1445430062 - Holdem no limit (100/200) - 2015/10/21 12:21:02 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #1 is the button
+Seat 1: PAT-ATRAC (8923)
+Seat 2: loi kroh (14536)
+Seat 3: manggy94 (32944)
+Seat 4: Num33 (8478)
+Seat 5: Grand.Chicon (10410)
+Seat 6: Nelson_du_77 (4709)
+*** ANTE/BLINDS ***
+loi kroh posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [Jc Kh]
+*** PRE-FLOP *** 
+Num33 folds
+Grand.Chicon calls 200
+Nelson_du_77 calls 200
+PAT-ATRAC calls 200
+loi kroh folds
+manggy94 raises 900 to 1100
+Grand.Chicon folds
+Nelson_du_77 folds
+PAT-ATRAC calls 900
+*** FLOP *** [4c Qs 4h]
+manggy94 bets 2700
+PAT-ATRAC folds
+manggy94 collected 5400 from pot
+*** SUMMARY ***
+Total pot 5400 | No rake
+Board: [4c Qs 4h]
+Seat 3: manggy94 (big blind) won 5400
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 3 - HandId: #572024978799591453-39-1445430100 - Holdem no limit (100/200) - 2015/10/21 12:21:40 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 1: PAT-ATRAC (7823)
+Seat 2: loi kroh (14436)
+Seat 3: manggy94 (34544)
+Seat 4: Num33 (8478)
+Seat 5: Grand.Chicon (10210)
+Seat 6: Nelson_du_77 (4509)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+Num33 posts big blind 200
+Dealt to manggy94 [Js Kc]
+*** PRE-FLOP *** 
+Grand.Chicon folds
+Nelson_du_77 folds
+PAT-ATRAC raises 200 to 400
+loi kroh folds
+manggy94 calls 300
+Num33 calls 200
+*** FLOP *** [9s Qs Kd]
+manggy94 checks
+Num33 checks
+PAT-ATRAC checks
+*** TURN *** [9s Qs Kd][Ts]
+manggy94 checks
+Num33 checks
+PAT-ATRAC checks
+*** RIVER *** [9s Qs Kd Ts][Th]
+manggy94 bets 1200
+Num33 folds
+PAT-ATRAC folds
+manggy94 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [9s Qs Kd Ts Th]
+Seat 3: manggy94 (small blind) won 2400
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #572024978799591453-40-1445430133 - Holdem no limit (150/300) - 2015/10/21 12:22:13 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: PAT-ATRAC (7423)
+Seat 2: loi kroh (14436)
+Seat 3: manggy94 (35344)
+Seat 4: Num33 (8078)
+Seat 5: Grand.Chicon (10210)
+Seat 6: Nelson_du_77 (4509)
+*** ANTE/BLINDS ***
+Num33 posts small blind 150
+Grand.Chicon posts big blind 300
+Dealt to manggy94 [7d Kc]
+*** PRE-FLOP *** 
+Nelson_du_77 folds
+PAT-ATRAC calls 300
+loi kroh folds
+manggy94 calls 300
+Num33 calls 150
+Grand.Chicon checks
+*** FLOP *** [3h Jc 5h]
+Num33 checks
+Grand.Chicon checks
+PAT-ATRAC bets 600
+manggy94 folds
+Num33 folds
+Grand.Chicon folds
+PAT-ATRAC collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [3h Jc 5h]
+Seat 1: PAT-ATRAC won 1800
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #572024978799591453-41-1445430156 - Holdem no limit (150/300) - 2015/10/21 12:22:36 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: PAT-ATRAC (8323)
+Seat 2: loi kroh (14436)
+Seat 3: manggy94 (35044)
+Seat 4: Num33 (7778)
+Seat 5: Grand.Chicon (9910)
+Seat 6: Nelson_du_77 (4509)
+*** ANTE/BLINDS ***
+Grand.Chicon posts small blind 150
+Nelson_du_77 posts big blind 300
+Dealt to manggy94 [5d 9c]
+*** PRE-FLOP *** 
+PAT-ATRAC calls 300
+loi kroh folds
+manggy94 folds
+Num33 folds
+Grand.Chicon calls 150
+Nelson_du_77 checks
+*** FLOP *** [Tc 9d Qd]
+Grand.Chicon checks
+Nelson_du_77 checks
+PAT-ATRAC checks
+*** TURN *** [Tc 9d Qd][9h]
+Grand.Chicon checks
+Nelson_du_77 checks
+PAT-ATRAC checks
+*** RIVER *** [Tc 9d Qd 9h][7c]
+Grand.Chicon bets 900
+Nelson_du_77 calls 900
+PAT-ATRAC folds
+*** SHOW DOWN ***
+Grand.Chicon shows [3h 6d] (One pair : 9)
+Nelson_du_77 shows [8h 7d] (Two pairs : 9 and 7)
+Nelson_du_77 collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [Tc 9d Qd 9h 7c]
+Seat 5: Grand.Chicon (small blind) showed [3h 6d] and lost with One pair : 9
+Seat 6: Nelson_du_77 (big blind) showed [8h 7d] and won 2700 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #572024978799591453-42-1445430217 - Holdem no limit (150/300) - 2015/10/21 12:23:37 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #5 is the button
+Seat 1: PAT-ATRAC (8023)
+Seat 2: loi kroh (14436)
+Seat 3: manggy94 (35044)
+Seat 4: Num33 (7778)
+Seat 5: Grand.Chicon (8710)
+Seat 6: Nelson_du_77 (6009)
+*** ANTE/BLINDS ***
+Nelson_du_77 posts small blind 150
+PAT-ATRAC posts big blind 300
+Dealt to manggy94 [3d Jh]
+*** PRE-FLOP *** 
+loi kroh folds
+manggy94 calls 300
+Num33 raises 400 to 700
+Grand.Chicon folds
+Nelson_du_77 calls 550
+PAT-ATRAC calls 400
+manggy94 calls 400
+*** FLOP *** [5d 4h 6s]
+Nelson_du_77 bets 5309 and is all-in
+PAT-ATRAC raises 2014 to 7323 and is all-in
+manggy94 folds
+Num33 calls 7078 and is all-in
+*** TURN *** [5d 4h 6s][9s]
+*** RIVER *** [5d 4h 6s 9s][Kc]
+*** SHOW DOWN ***
+Num33 shows [Ac Td] (High card : Ace)
+Nelson_du_77 shows [6c Ah] (One pair : 6)
+PAT-ATRAC shows [6d 8d] (One pair : 6)
+PAT-ATRAC collected 3783 from side pot 1
+Nelson_du_77 collected 18727 from main pot
+*** SUMMARY ***
+Total pot 22510 | No rake
+Board: [5d 4h 6s 9s Kc]
+Seat 1: PAT-ATRAC (big blind) showed [6d 8d] and won 3783 with One pair : 6
+Seat 4: Num33 showed [Ac Td] and lost with High card : Ace
+Seat 6: Nelson_du_77 (small blind) showed [6c Ah] and won 18727 with One pair : 6
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #572024978799591453-43-1445430257 - Holdem no limit (150/300) - 2015/10/21 12:24:17 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #6 is the button
+Seat 1: PAT-ATRAC (3783)
+Seat 2: loi kroh (14436)
+Seat 3: manggy94 (34344)
+Seat 5: Grand.Chicon (8710)
+Seat 6: Nelson_du_77 (18727)
+*** ANTE/BLINDS ***
+PAT-ATRAC posts small blind 150
+loi kroh posts big blind 300
+Dealt to manggy94 [Jh Jc]
+*** PRE-FLOP *** 
+manggy94 calls 300
+Grand.Chicon raises 1350 to 1650
+Nelson_du_77 folds
+PAT-ATRAC raises 2133 to 3783 and is all-in
+loi kroh folds
+manggy94 calls 3483
+Grand.Chicon raises 4927 to 8710 and is all-in
+manggy94 calls 4927
+*** FLOP *** [5h 4d 4h]
+*** TURN *** [5h 4d 4h][Td]
+*** RIVER *** [5h 4d 4h Td][4c]
+*** SHOW DOWN ***
+PAT-ATRAC shows [Ks As] (Trips of 4)
+Grand.Chicon shows [Ad 6d] (Trips of 4)
+manggy94 shows [Jh Jc] (Full of 4 and Jacks)
+manggy94 collected 21503 from pot
+*** SUMMARY ***
+Total pot 21503 | No rake
+Board: [5h 4d 4h Td 4c]
+Seat 1: PAT-ATRAC (small blind) showed [Ks As] and lost with Trips of 4
+Seat 3: manggy94 showed [Jh Jc] and won 21503 with Full of 4 and Jacks
+Seat 5: Grand.Chicon showed [Ad 6d] and lost with Trips of 4
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #572024978799591453-44-1445430286 - Holdem no limit (150/300) - 2015/10/21 12:24:46 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #1 is the button
+Seat 2: loi kroh (14136)
+Seat 3: manggy94 (47137)
+Seat 4: zarden (10000)
+Seat 6: Nelson_du_77 (18727)
+*** ANTE/BLINDS ***
+loi kroh posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [7s 3s]
+*** PRE-FLOP *** 
+zarden raises 300 to 600
+Nelson_du_77 raises 1800 to 2400
+loi kroh folds
+manggy94 folds
+zarden calls 1800
+*** FLOP *** [Kh 9c 5d]
+zarden checks
+Nelson_du_77 bets 2625
+zarden calls 2625
+*** TURN *** [Kh 9c 5d][Jh]
+zarden checks
+Nelson_du_77 checks
+*** RIVER *** [Kh 9c 5d Jh][2c]
+zarden bets 900
+Nelson_du_77 raises 1604 to 2504
+zarden calls 1604
+*** SHOW DOWN ***
+Nelson_du_77 shows [Qh Ad] (High card : Ace)
+zarden shows [Jd 8d] (One pair : Jacks)
+zarden collected 15508 from pot
+*** SUMMARY ***
+Total pot 15508 | No rake
+Board: [Kh 9c 5d Jh 2c]
+Seat 4: zarden showed [Jd 8d] and won 15508 with One pair : Jacks
+Seat 6: Nelson_du_77 showed [Qh Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #572024978799591453-45-1445430325 - Holdem no limit (150/300) - 2015/10/21 12:25:25 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 2: loi kroh (13986)
+Seat 3: manggy94 (46837)
+Seat 4: zarden (17979)
+Seat 6: Nelson_du_77 (11198)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+zarden posts big blind 300
+Dealt to manggy94 [3s 4h]
+*** PRE-FLOP *** 
+Nelson_du_77 folds
+loi kroh folds
+manggy94 calls 150
+zarden checks
+*** FLOP *** [Kc Td Jh]
+manggy94 bets 600
+zarden calls 600
+*** TURN *** [Kc Td Jh][5h]
+manggy94 checks
+zarden checks
+*** RIVER *** [Kc Td Jh 5h][7c]
+manggy94 checks
+zarden checks
+*** SHOW DOWN ***
+manggy94 shows [3s 4h] (High card : King)
+zarden shows [Qh 7s] (One pair : 7)
+zarden collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [Kc Td Jh 5h 7c]
+Seat 3: manggy94 (small blind) showed [3s 4h] and lost with High card : King
+Seat 4: zarden (big blind) showed [Qh 7s] and won 1800 with One pair : 7
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #572024978799591453-46-1445430351 - Holdem no limit (150/300) - 2015/10/21 12:25:51 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: tibo352 (9593)
+Seat 2: loi kroh (13986)
+Seat 3: manggy94 (45937)
+Seat 4: zarden (18879)
+Seat 5: fred4242 (10118)
+Seat 6: Nelson_du_77 (11198)
+*** ANTE/BLINDS ***
+zarden posts small blind 150
+fred4242 posts big blind 300
+Dealt to manggy94 [5d 9c]
+*** PRE-FLOP *** 
+Nelson_du_77 raises 300 to 600
+tibo352 calls 600
+loi kroh folds
+manggy94 folds
+zarden folds
+fred4242 folds
+*** FLOP *** [6s Kh 3d]
+Nelson_du_77 bets 829
+tibo352 folds
+Nelson_du_77 collected 2479 from pot
+*** SUMMARY ***
+Total pot 2479 | No rake
+Board: [6s Kh 3d]
+Seat 6: Nelson_du_77 won 2479
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #572024978799591453-47-1445430383 - Holdem no limit (150/300) - 2015/10/21 12:26:23 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: tibo352 (8993)
+Seat 2: loi kroh (13986)
+Seat 3: manggy94 (45937)
+Seat 4: zarden (18729)
+Seat 5: fred4242 (9818)
+Seat 6: Nelson_du_77 (12248)
+*** ANTE/BLINDS ***
+fred4242 posts small blind 150
+Nelson_du_77 posts big blind 300
+Dealt to manggy94 [Qc 2c]
+*** PRE-FLOP *** 
+tibo352 folds
+loi kroh raises 300 to 600
+manggy94 calls 600
+zarden folds
+fred4242 folds
+Nelson_du_77 calls 300
+*** FLOP *** [Kh 7d Ad]
+Nelson_du_77 checks
+loi kroh checks
+manggy94 checks
+*** TURN *** [Kh 7d Ad][2s]
+Nelson_du_77 checks
+loi kroh bets 950
+manggy94 folds
+Nelson_du_77 folds
+loi kroh collected 2900 from pot
+*** SUMMARY ***
+Total pot 2900 | No rake
+Board: [Kh 7d Ad 2s]
+Seat 2: loi kroh won 2900
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #572024978799591453-48-1445430425 - Holdem no limit (150/300) - 2015/10/21 12:27:05 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #5 is the button
+Seat 1: tibo352 (8993)
+Seat 2: loi kroh (15336)
+Seat 3: manggy94 (45337)
+Seat 4: zarden (18729)
+Seat 5: fred4242 (9668)
+Seat 6: Nelson_du_77 (11648)
+*** ANTE/BLINDS ***
+Nelson_du_77 posts small blind 150
+tibo352 posts big blind 300
+Dealt to manggy94 [9d 3h]
+*** PRE-FLOP *** 
+loi kroh folds
+manggy94 folds
+zarden raises 300 to 600
+fred4242 folds
+Nelson_du_77 folds
+tibo352 calls 300
+*** FLOP *** [Js Ac Kc]
+tibo352 checks
+zarden bets 300
+tibo352 folds
+zarden collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Board: [Js Ac Kc]
+Seat 4: zarden won 1650
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #572024978799591453-49-1445430448 - Holdem no limit (150/300) - 2015/10/21 12:27:28 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #6 is the button
+Seat 1: tibo352 (8393)
+Seat 2: loi kroh (15336)
+Seat 3: manggy94 (45337)
+Seat 4: zarden (19479)
+Seat 5: fred4242 (9668)
+Seat 6: Nelson_du_77 (11498)
+*** ANTE/BLINDS ***
+tibo352 posts small blind 150
+loi kroh posts big blind 300
+Dealt to manggy94 [8h 8s]
+*** PRE-FLOP *** 
+manggy94 raises 900 to 1200
+zarden folds
+fred4242 folds
+Nelson_du_77 folds
+tibo352 calls 1050
+loi kroh folds
+*** FLOP *** [2c Kc 2h]
+tibo352 bets 2042
+manggy94 raises 3658 to 5700
+tibo352 raises 1493 to 7193 and is all-in
+manggy94 calls 1493
+*** TURN *** [2c Kc 2h][Th]
+*** RIVER *** [2c Kc 2h Th][As]
+*** SHOW DOWN ***
+manggy94 shows [8h 8s] (Two pairs : 8 and 2)
+tibo352 shows [Qh Ah] (Two pairs : Aces and 2)
+tibo352 collected 17086 from pot
+*** SUMMARY ***
+Total pot 17086 | No rake
+Board: [2c Kc 2h Th As]
+Seat 1: tibo352 (small blind) showed [Qh Ah] and won 17086 with Two pairs : Aces and 2
+Seat 3: manggy94 showed [8h 8s] and lost with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #572024978799591453-50-1445430494 - Holdem no limit (150/300) - 2015/10/21 12:28:14 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #1 is the button
+Seat 1: tibo352 (17086)
+Seat 2: loi kroh (15036)
+Seat 3: manggy94 (36944)
+Seat 4: zarden (19479)
+Seat 5: fred4242 (9668)
+Seat 6: Nelson_du_77 (11498)
+*** ANTE/BLINDS ***
+loi kroh posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [2s 9d]
+*** PRE-FLOP *** 
+zarden raises 300 to 600
+fred4242 folds
+Nelson_du_77 folds
+tibo352 folds
+loi kroh folds
+manggy94 folds
+zarden collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 4: zarden won 1050
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #572024978799591453-51-1445430507 - Holdem no limit (150/300) - 2015/10/21 12:28:27 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 1: tibo352 (17086)
+Seat 2: loi kroh (14886)
+Seat 3: manggy94 (36644)
+Seat 4: zarden (19929)
+Seat 5: fred4242 (9668)
+Seat 6: Nelson_du_77 (11498)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+zarden posts big blind 300
+Dealt to manggy94 [Th Qd]
+*** PRE-FLOP *** 
+fred4242 folds
+Nelson_du_77 raises 600 to 900
+tibo352 calls 900
+loi kroh folds
+manggy94 calls 750
+zarden calls 600
+*** FLOP *** [3d 4d Td]
+manggy94 checks
+zarden bets 19029 and is all-in
+Nelson_du_77 folds
+tibo352 folds
+manggy94 folds
+zarden collected 22629 from pot
+*** SUMMARY ***
+Total pot 22629 | No rake
+Board: [3d 4d Td]
+Seat 4: zarden (big blind) won 22629
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #572024978799591453-52-1445430538 - Holdem no limit (150/300) - 2015/10/21 12:28:58 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: tibo352 (16186)
+Seat 2: loi kroh (14886)
+Seat 3: manggy94 (35744)
+Seat 4: zarden (22629)
+Seat 5: fred4242 (9668)
+Seat 6: Nelson_du_77 (10598)
+*** ANTE/BLINDS ***
+zarden posts small blind 150
+fred4242 posts big blind 300
+Dealt to manggy94 [6s 9d]
+*** PRE-FLOP *** 
+Nelson_du_77 folds
+tibo352 folds
+loi kroh folds
+manggy94 folds
+zarden raises 300 to 600
+fred4242 folds
+zarden collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 4: zarden (small blind) won 900
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #572024978799591453-53-1445430547 - Holdem no limit (150/300) - 2015/10/21 12:29:07 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: tibo352 (16186)
+Seat 2: loi kroh (14886)
+Seat 3: manggy94 (35744)
+Seat 4: zarden (22929)
+Seat 5: fred4242 (9368)
+Seat 6: Nelson_du_77 (10598)
+*** ANTE/BLINDS ***
+fred4242 posts small blind 150
+Nelson_du_77 posts big blind 300
+Dealt to manggy94 [Ad 8s]
+*** PRE-FLOP *** 
+tibo352 calls 300
+loi kroh folds
+manggy94 calls 300
+zarden calls 300
+fred4242 folds
+Nelson_du_77 checks
+*** FLOP *** [2d Th 6c]
+Nelson_du_77 checks
+tibo352 checks
+manggy94 bets 1500
+zarden folds
+Nelson_du_77 folds
+tibo352 folds
+manggy94 collected 2850 from pot
+*** SUMMARY ***
+Total pot 2850 | No rake
+Board: [2d Th 6c]
+Seat 3: manggy94 won 2850
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #572024978799591453-54-1445430573 - Holdem no limit (150/300) - 2015/10/21 12:29:33 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #5 is the button
+Seat 1: tibo352 (15886)
+Seat 2: loi kroh (14886)
+Seat 3: manggy94 (36794)
+Seat 4: zarden (22629)
+Seat 5: fred4242 (9218)
+Seat 6: Nelson_du_77 (10298)
+*** ANTE/BLINDS ***
+Nelson_du_77 posts small blind 150
+tibo352 posts big blind 300
+Dealt to manggy94 [4s As]
+*** PRE-FLOP *** 
+loi kroh folds
+manggy94 calls 300
+zarden folds
+fred4242 folds
+Nelson_du_77 calls 150
+tibo352 checks
+*** FLOP *** [Kd Qc 5s]
+Nelson_du_77 checks
+tibo352 checks
+manggy94 bets 750
+Nelson_du_77 folds
+tibo352 folds
+manggy94 collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Board: [Kd Qc 5s]
+Seat 3: manggy94 won 1650
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #572024978799591453-55-1445430597 - Holdem no limit (150/300) - 2015/10/21 12:29:57 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #6 is the button
+Seat 1: tibo352 (15586)
+Seat 2: loi kroh (14886)
+Seat 3: manggy94 (37394)
+Seat 4: zarden (22629)
+Seat 5: fred4242 (9218)
+Seat 6: Nelson_du_77 (9998)
+*** ANTE/BLINDS ***
+tibo352 posts small blind 150
+loi kroh posts big blind 300
+Dealt to manggy94 [5c 5d]
+*** PRE-FLOP *** 
+manggy94 calls 300
+zarden raises 300 to 600
+fred4242 folds
+Nelson_du_77 calls 600
+tibo352 folds
+loi kroh folds
+manggy94 calls 300
+*** FLOP *** [3s Tc 6h]
+manggy94 checks
+zarden checks
+Nelson_du_77 checks
+*** TURN *** [3s Tc 6h][8s]
+manggy94 bets 900
+zarden folds
+Nelson_du_77 calls 900
+*** RIVER *** [3s Tc 6h 8s][Kd]
+manggy94 checks
+Nelson_du_77 bets 1543
+manggy94 calls 1543
+*** SHOW DOWN ***
+Nelson_du_77 shows [7s As] (High card : Ace)
+manggy94 shows [5c 5d] (One pair : 5)
+manggy94 collected 7136 from pot
+*** SUMMARY ***
+Total pot 7136 | No rake
+Board: [3s Tc 6h 8s Kd]
+Seat 3: manggy94 showed [5c 5d] and won 7136 with One pair : 5
+Seat 6: Nelson_du_77 (button) showed [7s As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #572024978799591453-56-1445430630 - Holdem no limit (25/150/300) - 2015/10/21 12:30:30 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #1 is the button
+Seat 1: tibo352 (15436)
+Seat 2: loi kroh (14586)
+Seat 3: manggy94 (41487)
+Seat 4: zarden (22029)
+Seat 5: fred4242 (9218)
+Seat 6: Nelson_du_77 (6955)
+*** ANTE/BLINDS ***
+loi kroh posts ante 25
+manggy94 posts ante 25
+tibo352 posts ante 25
+zarden posts ante 25
+fred4242 posts ante 25
+Nelson_du_77 posts ante 25
+loi kroh posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [2c 6c]
+*** PRE-FLOP *** 
+zarden raises 21704 to 22004 and is all-in
+fred4242 folds
+Nelson_du_77 folds
+tibo352 folds
+loi kroh folds
+manggy94 folds
+zarden collected 22604 from pot
+*** SUMMARY ***
+Total pot 22604 | No rake
+Seat 4: zarden won 22604
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #572024978799591453-57-1445430652 - Holdem no limit (25/150/300) - 2015/10/21 12:30:52 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 1: tibo352 (15411)
+Seat 2: loi kroh (14411)
+Seat 3: manggy94 (41162)
+Seat 4: zarden (22604)
+Seat 5: fred4242 (9193)
+Seat 6: Nelson_du_77 (6930)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+zarden posts ante 25
+tibo352 posts ante 25
+loi kroh posts ante 25
+fred4242 posts ante 25
+Nelson_du_77 posts ante 25
+manggy94 posts small blind 150
+zarden posts big blind 300
+Dealt to manggy94 [6s Ks]
+*** PRE-FLOP *** 
+fred4242 folds
+Nelson_du_77 folds
+tibo352 calls 300
+loi kroh folds
+manggy94 calls 150
+zarden raises 1050 to 1350
+tibo352 folds
+manggy94 calls 1050
+*** FLOP *** [9d Ah 3c]
+manggy94 checks
+zarden bets 1575
+manggy94 folds
+zarden collected 4725 from pot
+*** SUMMARY ***
+Total pot 4725 | No rake
+Board: [9d Ah 3c]
+Seat 4: zarden (big blind) won 4725
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #572024978799591453-58-1445430675 - Holdem no limit (25/150/300) - 2015/10/21 12:31:15 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: tibo352 (15086)
+Seat 2: loi kroh (14386)
+Seat 3: manggy94 (39787)
+Seat 4: zarden (24379)
+Seat 5: fred4242 (9168)
+Seat 6: Nelson_du_77 (6905)
+*** ANTE/BLINDS ***
+zarden posts ante 25
+fred4242 posts ante 25
+tibo352 posts ante 25
+loi kroh posts ante 25
+manggy94 posts ante 25
+Nelson_du_77 posts ante 25
+zarden posts small blind 150
+fred4242 posts big blind 300
+Dealt to manggy94 [Qd Jd]
+*** PRE-FLOP *** 
+Nelson_du_77 calls 300
+tibo352 folds
+loi kroh folds
+manggy94 raises 2700 to 3000
+zarden folds
+fred4242 folds
+Nelson_du_77 folds
+manggy94 collected 3900 from pot
+*** SUMMARY ***
+Total pot 3900 | No rake
+Seat 3: manggy94 (button) won 3900
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #572024978799591453-59-1445430705 - Holdem no limit (25/150/300) - 2015/10/21 12:31:45 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: tibo352 (15061)
+Seat 2: loi kroh (14361)
+Seat 3: manggy94 (40662)
+Seat 4: zarden (24204)
+Seat 5: fred4242 (8843)
+Seat 6: Nelson_du_77 (6580)
+*** ANTE/BLINDS ***
+fred4242 posts ante 25
+Nelson_du_77 posts ante 25
+tibo352 posts ante 25
+loi kroh posts ante 25
+manggy94 posts ante 25
+zarden posts ante 25
+fred4242 posts small blind 150
+Nelson_du_77 posts big blind 300
+Dealt to manggy94 [As 2c]
+*** PRE-FLOP *** 
+tibo352 folds
+loi kroh folds
+manggy94 calls 300
+zarden folds
+fred4242 folds
+Nelson_du_77 checks
+*** FLOP *** [Js 8s 4c]
+Nelson_du_77 checks
+manggy94 bets 1350
+Nelson_du_77 folds
+manggy94 collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | No rake
+Board: [Js 8s 4c]
+Seat 3: manggy94 won 2250
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #572024978799591453-60-1445430735 - Holdem no limit (25/150/300) - 2015/10/21 12:32:15 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #5 is the button
+Seat 1: tibo352 (15036)
+Seat 2: loi kroh (14336)
+Seat 3: manggy94 (41237)
+Seat 4: zarden (24179)
+Seat 5: fred4242 (8668)
+Seat 6: Nelson_du_77 (6255)
+*** ANTE/BLINDS ***
+Nelson_du_77 posts ante 25
+tibo352 posts ante 25
+loi kroh posts ante 25
+manggy94 posts ante 25
+zarden posts ante 25
+fred4242 posts ante 25
+Nelson_du_77 posts small blind 150
+tibo352 posts big blind 300
+Dealt to manggy94 [3s 7h]
+*** PRE-FLOP *** 
+loi kroh folds
+manggy94 folds
+zarden calls 300
+fred4242 folds
+Nelson_du_77 calls 150
+tibo352 checks
+*** FLOP *** [Js Qc Qs]
+Nelson_du_77 checks
+tibo352 bets 900
+zarden calls 900
+Nelson_du_77 raises 5030 to 5930 and is all-in
+tibo352 folds
+zarden calls 5030
+*** TURN *** [Js Qc Qs][4c]
+*** RIVER *** [Js Qc Qs 4c][Qh]
+*** SHOW DOWN ***
+zarden shows [6s 4s] (Full of Queens and 4)
+Nelson_du_77 shows [Qd 7d] (Quads of Queens)
+Nelson_du_77 collected 13810 from pot
+*** SUMMARY ***
+Total pot 13810 | No rake
+Board: [Js Qc Qs 4c Qh]
+Seat 4: zarden showed [6s 4s] and lost with Full of Queens and 4
+Seat 6: Nelson_du_77 (small blind) showed [Qd 7d] and won 13810 with Quads of Queens
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #572024978799591453-61-1445430774 - Holdem no limit (25/150/300) - 2015/10/21 12:32:54 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #6 is the button
+Seat 1: tibo352 (13811)
+Seat 2: loi kroh (14311)
+Seat 3: manggy94 (41212)
+Seat 4: zarden (17924)
+Seat 5: fred4242 (8643)
+Seat 6: Nelson_du_77 (13810)
+*** ANTE/BLINDS ***
+tibo352 posts ante 25
+loi kroh posts ante 25
+manggy94 posts ante 25
+zarden posts ante 25
+fred4242 posts ante 25
+Nelson_du_77 posts ante 25
+tibo352 posts small blind 150
+loi kroh posts big blind 300
+Dealt to manggy94 [3h Js]
+*** PRE-FLOP *** 
+manggy94 calls 300
+zarden folds
+fred4242 folds
+Nelson_du_77 folds
+tibo352 calls 150
+loi kroh checks
+*** FLOP *** [9d Kh 3c]
+tibo352 bets 788
+loi kroh folds
+manggy94 folds
+tibo352 collected 1838 from pot
+*** SUMMARY ***
+Total pot 1838 | No rake
+Board: [9d Kh 3c]
+Seat 1: tibo352 (small blind) won 1838
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #572024978799591453-62-1445430804 - Holdem no limit (25/150/300) - 2015/10/21 12:33:24 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #1 is the button
+Seat 1: tibo352 (14536)
+Seat 2: loi kroh (13986)
+Seat 3: manggy94 (40887)
+Seat 4: zarden (17899)
+Seat 5: fred4242 (8618)
+Seat 6: Nelson_du_77 (13785)
+*** ANTE/BLINDS ***
+loi kroh posts ante 25
+manggy94 posts ante 25
+tibo352 posts ante 25
+zarden posts ante 25
+fred4242 posts ante 25
+Nelson_du_77 posts ante 25
+loi kroh posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [9s Ts]
+*** PRE-FLOP *** 
+zarden raises 17574 to 17874 and is all-in
+fred4242 folds
+Nelson_du_77 folds
+tibo352 folds
+loi kroh folds
+manggy94 folds
+zarden collected 18474 from pot
+*** SUMMARY ***
+Total pot 18474 | No rake
+Seat 4: zarden won 18474
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #572024978799591453-63-1445430825 - Holdem no limit (25/150/300) - 2015/10/21 12:33:45 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 1: tibo352 (14511)
+Seat 2: loi kroh (13811)
+Seat 3: manggy94 (40562)
+Seat 4: zarden (18474)
+Seat 5: fred4242 (8593)
+Seat 6: Nelson_du_77 (13760)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+zarden posts ante 25
+tibo352 posts ante 25
+loi kroh posts ante 25
+fred4242 posts ante 25
+Nelson_du_77 posts ante 25
+manggy94 posts small blind 150
+zarden posts big blind 300
+Dealt to manggy94 [2h 7s]
+*** PRE-FLOP *** 
+fred4242 folds
+Nelson_du_77 folds
+tibo352 folds
+loi kroh folds
+manggy94 raises 750 to 1050
+zarden calls 750
+*** FLOP *** [9d Ts 8h]
+manggy94 bets 750
+zarden calls 750
+*** TURN *** [9d Ts 8h][Js]
+manggy94 bets 6000
+zarden folds
+manggy94 collected 9750 from pot
+*** SUMMARY ***
+Total pot 9750 | No rake
+Board: [9d Ts 8h Js]
+Seat 3: manggy94 (small blind) won 9750
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #572024978799591453-64-1445430856 - Holdem no limit (25/150/300) - 2015/10/21 12:34:16 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: tibo352 (14486)
+Seat 2: loi kroh (13786)
+Seat 3: manggy94 (42487)
+Seat 4: zarden (16649)
+Seat 5: fred4242 (8568)
+Seat 6: Nelson_du_77 (13735)
+*** ANTE/BLINDS ***
+zarden posts ante 25
+fred4242 posts ante 25
+tibo352 posts ante 25
+loi kroh posts ante 25
+manggy94 posts ante 25
+Nelson_du_77 posts ante 25
+zarden posts small blind 150
+fred4242 posts big blind 300
+Dealt to manggy94 [8c Kh]
+*** PRE-FLOP *** 
+Nelson_du_77 raises 600 to 900
+tibo352 folds
+loi kroh folds
+manggy94 calls 900
+zarden folds
+fred4242 folds
+*** FLOP *** [3c 7s Jd]
+Nelson_du_77 checks
+manggy94 checks
+*** TURN *** [3c 7s Jd][6h]
+Nelson_du_77 checks
+manggy94 checks
+*** RIVER *** [3c 7s Jd 6h][8d]
+Nelson_du_77 checks
+manggy94 bets 1350
+Nelson_du_77 calls 1350
+*** SHOW DOWN ***
+Nelson_du_77 shows [Ks Qc] (High card : King)
+manggy94 shows [8c Kh] (One pair : 8)
+manggy94 collected 5100 from pot
+*** SUMMARY ***
+Total pot 5100 | No rake
+Board: [3c 7s Jd 6h 8d]
+Seat 3: manggy94 (button) showed [8c Kh] and won 5100 with One pair : 8
+Seat 6: Nelson_du_77 showed [Ks Qc] and lost with High card : King
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #572024978799591453-65-1445430953 - Holdem no limit (25/150/300) - 2015/10/21 12:35:53 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: tibo352 (14461)
+Seat 2: loi kroh (13761)
+Seat 3: manggy94 (45312)
+Seat 4: zarden (16474)
+Seat 5: fred4242 (8243)
+Seat 6: Nelson_du_77 (11460)
+*** ANTE/BLINDS ***
+fred4242 posts ante 25
+Nelson_du_77 posts ante 25
+tibo352 posts ante 25
+loi kroh posts ante 25
+manggy94 posts ante 25
+zarden posts ante 25
+fred4242 posts small blind 150
+Nelson_du_77 posts big blind 300
+Dealt to manggy94 [5h Jd]
+*** PRE-FLOP *** 
+tibo352 folds
+loi kroh folds
+manggy94 folds
+zarden folds
+fred4242 folds
+Nelson_du_77 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 6: Nelson_du_77 (big blind) won 600
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #572024978799591453-66-1445430977 - Holdem no limit (25/150/300) - 2015/10/21 12:36:17 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #5 is the button
+Seat 1: tibo352 (14436)
+Seat 2: loi kroh (13736)
+Seat 3: manggy94 (45287)
+Seat 4: zarden (16449)
+Seat 5: fred4242 (8068)
+Seat 6: Nelson_du_77 (11735)
+*** ANTE/BLINDS ***
+Nelson_du_77 posts ante 25
+tibo352 posts ante 25
+loi kroh posts ante 25
+manggy94 posts ante 25
+zarden posts ante 25
+fred4242 posts ante 25
+Nelson_du_77 posts small blind 150
+tibo352 posts big blind 300
+Dealt to manggy94 [4s 6d]
+*** PRE-FLOP *** 
+loi kroh folds
+manggy94 folds
+zarden folds
+fred4242 folds
+Nelson_du_77 folds
+tibo352 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 1: tibo352 (big blind) won 600
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #572024978799591453-67-1445430998 - Holdem no limit (25/150/300) - 2015/10/21 12:36:38 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #6 is the button
+Seat 1: tibo352 (14711)
+Seat 2: loi kroh (13711)
+Seat 3: manggy94 (45262)
+Seat 4: zarden (16424)
+Seat 5: fred4242 (8043)
+Seat 6: Nelson_du_77 (11560)
+*** ANTE/BLINDS ***
+tibo352 posts ante 25
+loi kroh posts ante 25
+manggy94 posts ante 25
+zarden posts ante 25
+fred4242 posts ante 25
+Nelson_du_77 posts ante 25
+tibo352 posts small blind 150
+loi kroh posts big blind 300
+Dealt to manggy94 [4s 8h]
+*** PRE-FLOP *** 
+manggy94 folds
+zarden folds
+fred4242 folds
+Nelson_du_77 folds
+tibo352 calls 150
+loi kroh checks
+*** FLOP *** [Qd Jc 9c]
+tibo352 checks
+loi kroh checks
+*** TURN *** [Qd Jc 9c][Td]
+tibo352 checks
+loi kroh bets 400
+tibo352 calls 400
+*** RIVER *** [Qd Jc 9c Td][Qs]
+tibo352 checks
+loi kroh checks
+*** SHOW DOWN ***
+loi kroh shows [Ad 3d] (One pair : Queens)
+tibo352 shows [8s Kd] (Straight King high)
+tibo352 collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [Qd Jc 9c Td Qs]
+Seat 1: tibo352 (small blind) showed [8s Kd] and won 1550 with Straight King high
+Seat 2: loi kroh (big blind) showed [Ad 3d] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #572024978799591453-68-1445431046 - Holdem no limit (25/150/300) - 2015/10/21 12:37:26 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #1 is the button
+Seat 1: tibo352 (15536)
+Seat 2: loi kroh (12986)
+Seat 3: manggy94 (45237)
+Seat 4: zarden (16399)
+Seat 5: fred4242 (8018)
+Seat 6: Nelson_du_77 (11535)
+*** ANTE/BLINDS ***
+loi kroh posts ante 25
+manggy94 posts ante 25
+tibo352 posts ante 25
+zarden posts ante 25
+fred4242 posts ante 25
+Nelson_du_77 posts ante 25
+loi kroh posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [5d 8s]
+*** PRE-FLOP *** 
+zarden raises 900 to 1200
+fred4242 folds
+Nelson_du_77 calls 1200
+tibo352 calls 1200
+loi kroh folds
+manggy94 folds
+*** FLOP *** [7h 2s 3h]
+zarden bets 15174 and is all-in
+Nelson_du_77 folds
+tibo352 folds
+zarden collected 19374 from pot
+*** SUMMARY ***
+Total pot 19374 | No rake
+Board: [7h 2s 3h]
+Seat 4: zarden won 19374
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #572024978799591453-69-1445431082 - Holdem no limit (30/200/400) - 2015/10/21 12:38:02 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 1: tibo352 (14311)
+Seat 2: loi kroh (12811)
+Seat 3: manggy94 (44912)
+Seat 4: zarden (19374)
+Seat 5: fred4242 (7993)
+Seat 6: Nelson_du_77 (10310)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+zarden posts ante 30
+tibo352 posts ante 30
+loi kroh posts ante 30
+fred4242 posts ante 30
+Nelson_du_77 posts ante 30
+manggy94 posts small blind 200
+zarden posts big blind 400
+Dealt to manggy94 [8d 9h]
+*** PRE-FLOP *** 
+fred4242 folds
+Nelson_du_77 folds
+tibo352 calls 400
+loi kroh raises 800 to 1200
+manggy94 calls 1000
+zarden calls 800
+tibo352 calls 800
+*** FLOP *** [Kc Tc As]
+manggy94 checks
+zarden checks
+tibo352 bets 3735
+loi kroh folds
+manggy94 folds
+zarden calls 3735
+*** TURN *** [Kc Tc As][5h]
+zarden checks
+tibo352 checks
+*** RIVER *** [Kc Tc As 5h][6d]
+zarden checks
+tibo352 checks
+*** SHOW DOWN ***
+zarden shows [9c Jd] (High card : Ace)
+tibo352 shows [Ah 7s] (One pair : Aces)
+tibo352 collected 12450 from pot
+*** SUMMARY ***
+Total pot 12450 | No rake
+Board: [Kc Tc As 5h 6d]
+Seat 1: tibo352 showed [Ah 7s] and won 12450 with One pair : Aces
+Seat 4: zarden (big blind) showed [9c Jd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #572024978799591453-70-1445431142 - Holdem no limit (30/200/400) - 2015/10/21 12:39:02 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: tibo352 (21796)
+Seat 2: loi kroh (11581)
+Seat 3: manggy94 (43682)
+Seat 4: zarden (14409)
+Seat 5: fred4242 (7963)
+Seat 6: Nelson_du_77 (10280)
+*** ANTE/BLINDS ***
+zarden posts ante 30
+fred4242 posts ante 30
+tibo352 posts ante 30
+loi kroh posts ante 30
+manggy94 posts ante 30
+Nelson_du_77 posts ante 30
+zarden posts small blind 200
+fred4242 posts big blind 400
+Dealt to manggy94 [Ad As]
+*** PRE-FLOP *** 
+Nelson_du_77 folds
+tibo352 folds
+loi kroh folds
+manggy94 calls 400
+zarden calls 200
+fred4242 checks
+*** FLOP *** [4s Ah Jd]
+zarden bets 400
+fred4242 folds
+manggy94 calls 400
+*** TURN *** [4s Ah Jd][9d]
+zarden bets 2180
+manggy94 calls 2180
+*** RIVER *** [4s Ah Jd 9d][Qd]
+zarden bets 11399 and is all-in
+manggy94 calls 11399
+*** SHOW DOWN ***
+zarden shows [5c 8c] (High card : Ace)
+manggy94 shows [Ad As] (Trips of Aces)
+manggy94 collected 29338 from pot
+*** SUMMARY ***
+Total pot 29338 | No rake
+Board: [4s Ah Jd 9d Qd]
+Seat 3: manggy94 (button) showed [Ad As] and won 29338 with Trips of Aces
+Seat 4: zarden (small blind) showed [5c 8c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #572024978799591453-71-1445431215 - Holdem no limit (30/200/400) - 2015/10/21 12:40:15 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: tibo352 (21766)
+Seat 2: loi kroh (11551)
+Seat 3: manggy94 (58611)
+Seat 5: fred4242 (7533)
+Seat 6: Nelson_du_77 (10250)
+*** ANTE/BLINDS ***
+fred4242 posts ante 30
+Nelson_du_77 posts ante 30
+tibo352 posts ante 30
+loi kroh posts ante 30
+manggy94 posts ante 30
+fred4242 posts small blind 200
+Nelson_du_77 posts big blind 400
+Dealt to manggy94 [Qh 2c]
+*** PRE-FLOP *** 
+tibo352 folds
+loi kroh raises 400 to 800
+manggy94 folds
+fred4242 calls 600
+Nelson_du_77 calls 400
+*** FLOP *** [Ad 6h 8s]
+fred4242 checks
+Nelson_du_77 checks
+loi kroh bets 1150
+fred4242 folds
+Nelson_du_77 calls 1150
+*** TURN *** [Ad 6h 8s][Kh]
+Nelson_du_77 checks
+loi kroh bets 2675
+Nelson_du_77 folds
+loi kroh collected 7525 from pot
+*** SUMMARY ***
+Total pot 7525 | No rake
+Board: [Ad 6h 8s Kh]
+Seat 2: loi kroh won 7525
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #572024978799591453-72-1445431264 - Holdem no limit (30/200/400) - 2015/10/21 12:41:04 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #5 is the button
+Seat 1: tibo352 (21736)
+Seat 2: loi kroh (14421)
+Seat 3: manggy94 (58581)
+Seat 5: fred4242 (6703)
+Seat 6: Nelson_du_77 (8270)
+*** ANTE/BLINDS ***
+Nelson_du_77 posts ante 30
+tibo352 posts ante 30
+loi kroh posts ante 30
+manggy94 posts ante 30
+fred4242 posts ante 30
+Nelson_du_77 posts small blind 200
+tibo352 posts big blind 400
+Dealt to manggy94 [Ad 4c]
+*** PRE-FLOP *** 
+loi kroh folds
+manggy94 calls 400
+fred4242 folds
+Nelson_du_77 calls 200
+tibo352 checks
+*** FLOP *** [Kc 8d 6c]
+Nelson_du_77 checks
+tibo352 checks
+manggy94 bets 1400
+Nelson_du_77 folds
+tibo352 folds
+manggy94 collected 2750 from pot
+*** SUMMARY ***
+Total pot 2750 | No rake
+Board: [Kc 8d 6c]
+Seat 3: manggy94 won 2750
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #572024978799591453-73-1445431312 - Holdem no limit (30/200/400) - 2015/10/21 12:41:52 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #6 is the button
+Seat 1: tibo352 (21306)
+Seat 2: loi kroh (14391)
+Seat 3: manggy94 (59501)
+Seat 4: NeverChek (10000)
+Seat 5: fred4242 (6673)
+Seat 6: Nelson_du_77 (7840)
+*** ANTE/BLINDS ***
+tibo352 posts ante 30
+loi kroh posts ante 30
+manggy94 posts ante 30
+NeverChek posts ante 30
+fred4242 posts ante 30
+Nelson_du_77 posts ante 30
+tibo352 posts small blind 200
+loi kroh posts big blind 400
+Dealt to manggy94 [Kc Tc]
+*** PRE-FLOP *** 
+manggy94 raises 1000 to 1400
+NeverChek folds
+fred4242 calls 1400
+Nelson_du_77 folds
+tibo352 folds
+loi kroh folds
+*** FLOP *** [Qs 5s 7h]
+manggy94 bets 4000
+fred4242 folds
+manggy94 collected 7580 from pot
+*** SUMMARY ***
+Total pot 7580 | No rake
+Board: [Qs 5s 7h]
+Seat 3: manggy94 won 7580
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #572024978799591453-74-1445431340 - Holdem no limit (30/200/400) - 2015/10/21 12:42:20 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #1 is the button
+Seat 1: tibo352 (21076)
+Seat 2: loi kroh (13961)
+Seat 3: manggy94 (61651)
+Seat 4: NeverChek (9970)
+Seat 5: fred4242 (5243)
+Seat 6: Nelson_du_77 (7810)
+*** ANTE/BLINDS ***
+loi kroh posts ante 30
+manggy94 posts ante 30
+tibo352 posts ante 30
+NeverChek posts ante 30
+fred4242 posts ante 30
+Nelson_du_77 posts ante 30
+loi kroh posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [7h 4c]
+*** PRE-FLOP *** 
+NeverChek raises 880 to 1280
+fred4242 folds
+Nelson_du_77 folds
+tibo352 folds
+loi kroh folds
+manggy94 folds
+NeverChek collected 2060 from pot
+*** SUMMARY ***
+Total pot 2060 | No rake
+Seat 4: NeverChek won 2060
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #572024978799591453-75-1445431370 - Holdem no limit (30/200/400) - 2015/10/21 12:42:50 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 1: tibo352 (21046)
+Seat 2: loi kroh (13731)
+Seat 3: manggy94 (61221)
+Seat 4: NeverChek (10720)
+Seat 5: fred4242 (5213)
+Seat 6: Nelson_du_77 (7780)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+NeverChek posts ante 30
+tibo352 posts ante 30
+loi kroh posts ante 30
+fred4242 posts ante 30
+Nelson_du_77 posts ante 30
+manggy94 posts small blind 200
+NeverChek posts big blind 400
+Dealt to manggy94 [Tc Qs]
+*** PRE-FLOP *** 
+fred4242 raises 4783 to 5183 and is all-in
+Nelson_du_77 folds
+tibo352 folds
+loi kroh folds
+manggy94 calls 4983
+NeverChek folds
+*** FLOP *** [Jd 3h 7c]
+*** TURN *** [Jd 3h 7c][5c]
+*** RIVER *** [Jd 3h 7c 5c][4c]
+*** SHOW DOWN ***
+manggy94 shows [Tc Qs] (High card : Queen)
+fred4242 shows [Jc 7d] (Two pairs : Jacks and 7)
+fred4242 collected 10946 from pot
+*** SUMMARY ***
+Total pot 10946 | No rake
+Board: [Jd 3h 7c 5c 4c]
+Seat 3: manggy94 (small blind) showed [Tc Qs] and lost with High card : Queen
+Seat 5: fred4242 showed [Jc 7d] and won 10946 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #572024978799591453-76-1445431399 - Holdem no limit (30/200/400) - 2015/10/21 12:43:19 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: tibo352 (21016)
+Seat 2: loi kroh (13701)
+Seat 3: manggy94 (56008)
+Seat 4: NeverChek (10290)
+Seat 5: fred4242 (10946)
+Seat 6: Nelson_du_77 (7750)
+*** ANTE/BLINDS ***
+NeverChek posts ante 30
+fred4242 posts ante 30
+tibo352 posts ante 30
+loi kroh posts ante 30
+manggy94 posts ante 30
+Nelson_du_77 posts ante 30
+NeverChek posts small blind 200
+fred4242 posts big blind 400
+Dealt to manggy94 [3d 5s]
+*** PRE-FLOP *** 
+Nelson_du_77 raises 3033 to 3433
+tibo352 folds
+loi kroh folds
+manggy94 folds
+NeverChek folds
+fred4242 folds
+Nelson_du_77 collected 4213 from pot
+*** SUMMARY ***
+Total pot 4213 | No rake
+Seat 6: Nelson_du_77 won 4213
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #572024978799591453-77-1445431420 - Holdem no limit (30/200/400) - 2015/10/21 12:43:40 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: tibo352 (20986)
+Seat 2: loi kroh (13671)
+Seat 3: manggy94 (55978)
+Seat 4: NeverChek (10060)
+Seat 5: fred4242 (10516)
+Seat 6: Nelson_du_77 (8500)
+*** ANTE/BLINDS ***
+fred4242 posts ante 30
+Nelson_du_77 posts ante 30
+tibo352 posts ante 30
+loi kroh posts ante 30
+manggy94 posts ante 30
+NeverChek posts ante 30
+fred4242 posts small blind 200
+Nelson_du_77 posts big blind 400
+Dealt to manggy94 [Td Qd]
+*** PRE-FLOP *** 
+tibo352 folds
+loi kroh folds
+manggy94 raises 1600 to 2000
+NeverChek folds
+fred4242 raises 8486 to 10486 and is all-in
+Nelson_du_77 folds
+manggy94 calls 8486
+*** FLOP *** [5s 4d 8c]
+*** TURN *** [5s 4d 8c][4h]
+*** RIVER *** [5s 4d 8c 4h][6d]
+*** SHOW DOWN ***
+manggy94 shows [Td Qd] (One pair : 4)
+fred4242 shows [Ah 2d] (One pair : 4)
+fred4242 collected 21552 from pot
+*** SUMMARY ***
+Total pot 21552 | No rake
+Board: [5s 4d 8c 4h 6d]
+Seat 3: manggy94 showed [Td Qd] and lost with One pair : 4
+Seat 5: fred4242 (small blind) showed [Ah 2d] and won 21552 with One pair : 4
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #572024978799591453-78-1445431450 - Holdem no limit (30/200/400) - 2015/10/21 12:44:10 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #5 is the button
+Seat 1: tibo352 (20956)
+Seat 2: loi kroh (13641)
+Seat 3: manggy94 (45462)
+Seat 4: NeverChek (10030)
+Seat 5: fred4242 (21552)
+Seat 6: Nelson_du_77 (8070)
+*** ANTE/BLINDS ***
+Nelson_du_77 posts ante 30
+tibo352 posts ante 30
+loi kroh posts ante 30
+manggy94 posts ante 30
+NeverChek posts ante 30
+fred4242 posts ante 30
+Nelson_du_77 posts small blind 200
+tibo352 posts big blind 400
+Dealt to manggy94 [2s Ad]
+*** PRE-FLOP *** 
+loi kroh folds
+manggy94 calls 400
+NeverChek folds
+fred4242 calls 400
+Nelson_du_77 calls 200
+tibo352 checks
+*** FLOP *** [Kc 8d 7h]
+Nelson_du_77 checks
+tibo352 checks
+manggy94 checks
+fred4242 bets 400
+Nelson_du_77 raises 1015 to 1415
+tibo352 folds
+manggy94 folds
+fred4242 calls 1015
+*** TURN *** [Kc 8d 7h][6s]
+Nelson_du_77 bets 4428
+fred4242 folds
+Nelson_du_77 collected 9038 from pot
+*** SUMMARY ***
+Total pot 9038 | No rake
+Board: [Kc 8d 7h 6s]
+Seat 6: Nelson_du_77 (small blind) won 9038
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #572024978799591453-79-1445431510 - Holdem no limit (30/200/400) - 2015/10/21 12:45:10 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #6 is the button
+Seat 1: tibo352 (20526)
+Seat 2: loi kroh (13611)
+Seat 3: manggy94 (45032)
+Seat 4: NeverChek (10000)
+Seat 5: fred4242 (19707)
+Seat 6: Nelson_du_77 (10835)
+*** ANTE/BLINDS ***
+tibo352 posts ante 30
+loi kroh posts ante 30
+manggy94 posts ante 30
+NeverChek posts ante 30
+fred4242 posts ante 30
+Nelson_du_77 posts ante 30
+tibo352 posts small blind 200
+loi kroh posts big blind 400
+Dealt to manggy94 [9c 5s]
+*** PRE-FLOP *** 
+manggy94 folds
+NeverChek folds
+fred4242 folds
+Nelson_du_77 folds
+tibo352 folds
+loi kroh collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 2: loi kroh (big blind) won 780
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #572024978799591453-80-1445431519 - Holdem no limit (30/200/400) - 2015/10/21 12:45:19 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #1 is the button
+Seat 1: tibo352 (20296)
+Seat 2: loi kroh (13961)
+Seat 3: manggy94 (45002)
+Seat 4: NeverChek (9970)
+Seat 5: fred4242 (19677)
+Seat 6: Nelson_du_77 (10805)
+*** ANTE/BLINDS ***
+loi kroh posts ante 30
+manggy94 posts ante 30
+tibo352 posts ante 30
+NeverChek posts ante 30
+fred4242 posts ante 30
+Nelson_du_77 posts ante 30
+loi kroh posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [4c 4d]
+*** PRE-FLOP *** 
+NeverChek folds
+fred4242 raises 1180 to 1580
+Nelson_du_77 folds
+tibo352 folds
+loi kroh raises 2315 to 3895
+manggy94 calls 3495
+fred4242 raises 15752 to 19647 and is all-in
+loi kroh calls 10036 and is all-in
+manggy94 calls 15752
+*** FLOP *** [Jd 8c Ah]
+*** TURN *** [Jd 8c Ah][3s]
+*** RIVER *** [Jd 8c Ah 3s][5h]
+*** SHOW DOWN ***
+manggy94 shows [4c 4d] (One pair : 4)
+loi kroh shows [Qd Qc] (One pair : Queens)
+fred4242 shows [7c 7h] (One pair : 7)
+fred4242 collected 11432 from side pot 1
+loi kroh collected 41973 from main pot
+*** SUMMARY ***
+Total pot 53405 | No rake
+Board: [Jd 8c Ah 3s 5h]
+Seat 2: loi kroh (small blind) showed [Qd Qc] and won 41973 with One pair : Queens
+Seat 3: manggy94 (big blind) showed [4c 4d] and lost with One pair : 4
+Seat 5: fred4242 showed [7c 7h] and won 11432 with One pair : 7
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #572024978799591453-81-1445431570 - Holdem no limit (40/250/500) - 2015/10/21 12:46:10 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 1: tibo352 (20266)
+Seat 2: loi kroh (41973)
+Seat 3: manggy94 (25325)
+Seat 4: NeverChek (9940)
+Seat 5: fred4242 (11432)
+Seat 6: Nelson_du_77 (10775)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+NeverChek posts ante 40
+tibo352 posts ante 40
+loi kroh posts ante 40
+fred4242 posts ante 40
+Nelson_du_77 posts ante 40
+manggy94 posts small blind 250
+NeverChek posts big blind 500
+Dealt to manggy94 [9d Ad]
+*** PRE-FLOP *** 
+fred4242 folds
+Nelson_du_77 raises 675 to 1175
+tibo352 calls 1175
+loi kroh folds
+manggy94 calls 925
+NeverChek raises 8725 to 9900 and is all-in
+Nelson_du_77 folds
+tibo352 folds
+manggy94 calls 8725
+*** FLOP *** [5d Jh 7s]
+*** TURN *** [5d Jh 7s][5c]
+*** RIVER *** [5d Jh 7s 5c][Js]
+*** SHOW DOWN ***
+manggy94 shows [9d Ad] (Two pairs : Jacks and 5)
+NeverChek shows [8s Ac] (Two pairs : Jacks and 5)
+NeverChek collected 11195 from pot
+manggy94 collected 11195 from pot
+*** SUMMARY ***
+Total pot 22390 | No rake
+Board: [5d Jh 7s 5c Js]
+Seat 3: manggy94 (small blind) showed [9d Ad] and won 11195 with Two pairs : Jacks and 5
+Seat 4: NeverChek (big blind) showed [8s Ac] and won 11195 with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #572024978799591453-82-1445431710 - Holdem no limit (40/250/500) - 2015/10/21 12:48:30 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: tibo352 (19051)
+Seat 2: loi kroh (41933)
+Seat 3: manggy94 (26580)
+Seat 4: NeverChek (11195)
+Seat 5: fred4242 (11392)
+Seat 6: Nelson_du_77 (9560)
+*** ANTE/BLINDS ***
+NeverChek posts ante 40
+fred4242 posts ante 40
+tibo352 posts ante 40
+loi kroh posts ante 40
+manggy94 posts ante 40
+Nelson_du_77 posts ante 40
+NeverChek posts small blind 250
+fred4242 posts big blind 500
+Dealt to manggy94 [Kd 5c]
+*** PRE-FLOP *** 
+Nelson_du_77 calls 500
+tibo352 folds
+loi kroh folds
+manggy94 folds
+NeverChek calls 250
+fred4242 folds
+*** FLOP *** [Kc 8d Qh]
+NeverChek checks
+Nelson_du_77 bets 1310
+NeverChek folds
+Nelson_du_77 collected 3050 from pot
+*** SUMMARY ***
+Total pot 3050 | No rake
+Board: [Kc 8d Qh]
+Seat 6: Nelson_du_77 won 3050
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #572024978799591453-83-1445431733 - Holdem no limit (40/250/500) - 2015/10/21 12:48:53 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: tibo352 (19011)
+Seat 2: loi kroh (41893)
+Seat 3: manggy94 (26540)
+Seat 4: NeverChek (10655)
+Seat 5: fred4242 (10852)
+Seat 6: Nelson_du_77 (10760)
+*** ANTE/BLINDS ***
+fred4242 posts ante 40
+Nelson_du_77 posts ante 40
+tibo352 posts ante 40
+loi kroh posts ante 40
+manggy94 posts ante 40
+NeverChek posts ante 40
+fred4242 posts small blind 250
+Nelson_du_77 posts big blind 500
+Dealt to manggy94 [9h Ad]
+*** PRE-FLOP *** 
+tibo352 calls 500
+loi kroh folds
+manggy94 calls 500
+NeverChek raises 10115 to 10615 and is all-in
+fred4242 folds
+Nelson_du_77 folds
+tibo352 folds
+manggy94 calls 10115
+*** FLOP *** [Qd Ks Jd]
+*** TURN *** [Qd Ks Jd][9d]
+*** RIVER *** [Qd Ks Jd 9d][2c]
+*** SHOW DOWN ***
+manggy94 shows [9h Ad] (One pair : 9)
+NeverChek shows [Qh As] (One pair : Queens)
+NeverChek collected 22720 from pot
+*** SUMMARY ***
+Total pot 22720 | No rake
+Board: [Qd Ks Jd 9d 2c]
+Seat 3: manggy94 showed [9h Ad] and lost with One pair : 9
+Seat 4: NeverChek (button) showed [Qh As] and won 22720 with One pair : Queens
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #572024978799591453-84-1445431766 - Holdem no limit (40/250/500) - 2015/10/21 12:49:26 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #5 is the button
+Seat 1: tibo352 (18471)
+Seat 2: loi kroh (41853)
+Seat 3: manggy94 (15885)
+Seat 4: NeverChek (22720)
+Seat 5: fred4242 (10562)
+Seat 6: Nelson_du_77 (10220)
+*** ANTE/BLINDS ***
+Nelson_du_77 posts ante 40
+tibo352 posts ante 40
+loi kroh posts ante 40
+manggy94 posts ante 40
+NeverChek posts ante 40
+fred4242 posts ante 40
+Nelson_du_77 posts small blind 250
+tibo352 posts big blind 500
+Dealt to manggy94 [As 3c]
+*** PRE-FLOP *** 
+loi kroh raises 500 to 1000
+manggy94 calls 1000
+NeverChek folds
+fred4242 folds
+Nelson_du_77 folds
+tibo352 folds
+*** FLOP *** [7c 5c Ks]
+loi kroh bets 1495
+manggy94 folds
+loi kroh collected 4485 from pot
+*** SUMMARY ***
+Total pot 4485 | No rake
+Board: [7c 5c Ks]
+Seat 2: loi kroh won 4485
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #572024978799591453-85-1445431793 - Holdem no limit (40/250/500) - 2015/10/21 12:49:53 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #6 is the button
+Seat 1: tibo352 (17931)
+Seat 2: loi kroh (43803)
+Seat 3: manggy94 (14845)
+Seat 4: NeverChek (22680)
+Seat 5: fred4242 (10522)
+Seat 6: Nelson_du_77 (9930)
+*** ANTE/BLINDS ***
+tibo352 posts ante 40
+loi kroh posts ante 40
+manggy94 posts ante 40
+NeverChek posts ante 40
+fred4242 posts ante 40
+Nelson_du_77 posts ante 40
+tibo352 posts small blind 250
+loi kroh posts big blind 500
+Dealt to manggy94 [Tc Td]
+*** PRE-FLOP *** 
+manggy94 raises 14305 to 14805 and is all-in
+NeverChek folds
+fred4242 folds
+Nelson_du_77 folds
+tibo352 folds
+loi kroh folds
+manggy94 collected 15795 from pot
+*** SUMMARY ***
+Total pot 15795 | No rake
+Seat 3: manggy94 won 15795
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #572024978799591453-86-1445431813 - Holdem no limit (40/250/500) - 2015/10/21 12:50:13 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #1 is the button
+Seat 1: tibo352 (17641)
+Seat 2: loi kroh (43263)
+Seat 3: manggy94 (15795)
+Seat 4: NeverChek (22640)
+Seat 5: fred4242 (10482)
+Seat 6: Nelson_du_77 (9890)
+*** ANTE/BLINDS ***
+loi kroh posts ante 40
+manggy94 posts ante 40
+tibo352 posts ante 40
+NeverChek posts ante 40
+fred4242 posts ante 40
+Nelson_du_77 posts ante 40
+loi kroh posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [Ac 7c]
+*** PRE-FLOP *** 
+NeverChek folds
+fred4242 folds
+Nelson_du_77 folds
+tibo352 raises 1000 to 1500
+loi kroh folds
+manggy94 calls 1000
+*** FLOP *** [Jh Ah Qc]
+manggy94 bets 4000
+tibo352 raises 12101 to 16101 and is all-in
+manggy94 calls 10255 and is all-in
+*** TURN *** [Jh Ah Qc][5h]
+*** RIVER *** [Jh Ah Qc 5h][Qd]
+*** SHOW DOWN ***
+manggy94 shows [Ac 7c] (Two pairs : Aces and Queens)
+tibo352 shows [6s Ad] (Two pairs : Aces and Queens)
+tibo352 collected 17846 from side pot 1
+manggy94 collected 16000 from main pot
+*** SUMMARY ***
+Total pot 33846 | No rake
+Board: [Jh Ah Qc 5h Qd]
+Seat 1: tibo352 (button) showed [6s Ad] and won 17846 with Two pairs : Aces and Queens
+Seat 3: manggy94 (big blind) showed [Ac 7c] and won 16000 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #572024978799591453-87-1445431854 - Holdem no limit (40/250/500) - 2015/10/21 12:50:54 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 1: tibo352 (17846)
+Seat 2: loi kroh (42973)
+Seat 3: manggy94 (16000)
+Seat 4: NeverChek (22600)
+Seat 5: fred4242 (10442)
+Seat 6: Nelson_du_77 (9850)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+NeverChek posts ante 40
+tibo352 posts ante 40
+loi kroh posts ante 40
+fred4242 posts ante 40
+Nelson_du_77 posts ante 40
+manggy94 posts small blind 250
+NeverChek posts big blind 500
+Dealt to manggy94 [7c 4s]
+*** PRE-FLOP *** 
+fred4242 folds
+Nelson_du_77 folds
+tibo352 folds
+loi kroh raises 500 to 1000
+manggy94 folds
+NeverChek calls 500
+*** FLOP *** [4c 4d 6s]
+NeverChek checks
+loi kroh bets 875
+NeverChek folds
+loi kroh collected 3365 from pot
+*** SUMMARY ***
+Total pot 3365 | No rake
+Board: [4c 4d 6s]
+Seat 2: loi kroh (button) won 3365
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #572024978799591453-88-1445431893 - Holdem no limit (40/250/500) - 2015/10/21 12:51:33 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: tibo352 (17806)
+Seat 2: loi kroh (44423)
+Seat 3: manggy94 (15710)
+Seat 4: NeverChek (21560)
+Seat 5: fred4242 (10402)
+Seat 6: Nelson_du_77 (9810)
+*** ANTE/BLINDS ***
+NeverChek posts ante 40
+fred4242 posts ante 40
+tibo352 posts ante 40
+loi kroh posts ante 40
+manggy94 posts ante 40
+Nelson_du_77 posts ante 40
+NeverChek posts small blind 250
+fred4242 posts big blind 500
+Dealt to manggy94 [Qc Kh]
+*** PRE-FLOP *** 
+Nelson_du_77 folds
+tibo352 folds
+loi kroh folds
+manggy94 raises 1500 to 2000
+NeverChek folds
+fred4242 folds
+manggy94 collected 2990 from pot
+*** SUMMARY ***
+Total pot 2990 | No rake
+Seat 3: manggy94 (button) won 2990
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #572024978799591453-89-1445431913 - Holdem no limit (40/250/500) - 2015/10/21 12:51:53 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: tibo352 (17766)
+Seat 2: loi kroh (44383)
+Seat 3: manggy94 (16660)
+Seat 4: NeverChek (21270)
+Seat 5: fred4242 (9862)
+Seat 6: Nelson_du_77 (9770)
+*** ANTE/BLINDS ***
+fred4242 posts ante 40
+Nelson_du_77 posts ante 40
+tibo352 posts ante 40
+loi kroh posts ante 40
+manggy94 posts ante 40
+NeverChek posts ante 40
+fred4242 posts small blind 250
+Nelson_du_77 posts big blind 500
+Dealt to manggy94 [Kh Jh]
+*** PRE-FLOP *** 
+tibo352 folds
+loi kroh folds
+manggy94 raises 1500 to 2000
+NeverChek folds
+fred4242 folds
+Nelson_du_77 calls 1500
+*** FLOP *** [5h 7c Td]
+Nelson_du_77 checks
+manggy94 bets 2250
+Nelson_du_77 folds
+manggy94 collected 6740 from pot
+*** SUMMARY ***
+Total pot 6740 | No rake
+Board: [5h 7c Td]
+Seat 3: manggy94 won 6740
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #572024978799591453-90-1445431942 - Holdem no limit (40/250/500) - 2015/10/21 12:52:22 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #5 is the button
+Seat 1: tibo352 (17726)
+Seat 2: loi kroh (44343)
+Seat 3: manggy94 (19110)
+Seat 4: NeverChek (21230)
+Seat 5: fred4242 (9572)
+Seat 6: Nelson_du_77 (7730)
+*** ANTE/BLINDS ***
+Nelson_du_77 posts ante 40
+tibo352 posts ante 40
+loi kroh posts ante 40
+manggy94 posts ante 40
+NeverChek posts ante 40
+fred4242 posts ante 40
+Nelson_du_77 posts small blind 250
+tibo352 posts big blind 500
+Dealt to manggy94 [2d 7d]
+*** PRE-FLOP *** 
+loi kroh folds
+manggy94 folds
+NeverChek raises 650 to 1150
+fred4242 folds
+Nelson_du_77 folds
+tibo352 folds
+NeverChek collected 2140 from pot
+*** SUMMARY ***
+Total pot 2140 | No rake
+Seat 4: NeverChek won 2140
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #572024978799591453-91-1445431957 - Holdem no limit (40/250/500) - 2015/10/21 12:52:37 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #6 is the button
+Seat 1: tibo352 (17186)
+Seat 2: loi kroh (44303)
+Seat 3: manggy94 (19070)
+Seat 4: NeverChek (22180)
+Seat 5: fred4242 (9532)
+Seat 6: Nelson_du_77 (7440)
+*** ANTE/BLINDS ***
+tibo352 posts ante 40
+loi kroh posts ante 40
+manggy94 posts ante 40
+NeverChek posts ante 40
+fred4242 posts ante 40
+Nelson_du_77 posts ante 40
+tibo352 posts small blind 250
+loi kroh posts big blind 500
+Dealt to manggy94 [Th 6c]
+*** PRE-FLOP *** 
+manggy94 folds
+NeverChek folds
+fred4242 folds
+Nelson_du_77 folds
+tibo352 calls 250
+loi kroh checks
+*** FLOP *** [4d Qs Jc]
+tibo352 checks
+loi kroh checks
+*** TURN *** [4d Qs Jc][Qd]
+tibo352 bets 930
+loi kroh folds
+tibo352 collected 2170 from pot
+*** SUMMARY ***
+Total pot 2170 | No rake
+Board: [4d Qs Jc Qd]
+Seat 1: tibo352 (small blind) won 2170
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #572024978799591453-92-1445431990 - Holdem no limit (40/250/500) - 2015/10/21 12:53:10 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #1 is the button
+Seat 1: tibo352 (17886)
+Seat 2: loi kroh (43763)
+Seat 3: manggy94 (19030)
+Seat 4: NeverChek (22140)
+Seat 5: fred4242 (9492)
+Seat 6: Nelson_du_77 (7400)
+*** ANTE/BLINDS ***
+loi kroh posts ante 40
+manggy94 posts ante 40
+tibo352 posts ante 40
+NeverChek posts ante 40
+fred4242 posts ante 40
+Nelson_du_77 posts ante 40
+loi kroh posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [2d Jd]
+*** PRE-FLOP *** 
+NeverChek raises 750 to 1250
+fred4242 folds
+Nelson_du_77 folds
+tibo352 folds
+loi kroh folds
+manggy94 calls 750
+*** FLOP *** [5c Jh 9s]
+manggy94 bets 3750
+NeverChek calls 3750
+*** TURN *** [5c Jh 9s][Td]
+manggy94 bets 13990 and is all-in
+NeverChek folds
+manggy94 collected 24480 from pot
+*** SUMMARY ***
+Total pot 24480 | No rake
+Board: [5c Jh 9s Td]
+Seat 3: manggy94 (big blind) won 24480
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #572024978799591453-93-1445432033 - Holdem no limit (40/250/500) - 2015/10/21 12:53:53 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 1: tibo352 (17846)
+Seat 2: loi kroh (43473)
+Seat 3: manggy94 (24480)
+Seat 4: NeverChek (17100)
+Seat 5: fred4242 (9452)
+Seat 6: Nelson_du_77 (7360)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+NeverChek posts ante 40
+tibo352 posts ante 40
+loi kroh posts ante 40
+fred4242 posts ante 40
+Nelson_du_77 posts ante 40
+manggy94 posts small blind 250
+NeverChek posts big blind 500
+Dealt to manggy94 [5h 3s]
+*** PRE-FLOP *** 
+fred4242 folds
+Nelson_du_77 folds
+tibo352 folds
+loi kroh raises 500 to 1000
+manggy94 folds
+NeverChek calls 500
+*** FLOP *** [4c Qh 2h]
+NeverChek bets 1245
+loi kroh calls 1245
+*** TURN *** [4c Qh 2h][4h]
+NeverChek bets 2490
+loi kroh folds
+NeverChek collected 7470 from pot
+*** SUMMARY ***
+Total pot 7470 | No rake
+Board: [4c Qh 2h 4h]
+Seat 4: NeverChek (big blind) won 7470
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 8 - HandId: #572024978799591453-94-1445432068 - Holdem no limit (60/300/600) - 2015/10/21 12:54:28 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: tibo352 (17806)
+Seat 2: loi kroh (41188)
+Seat 3: manggy94 (24190)
+Seat 4: NeverChek (19795)
+Seat 5: fred4242 (9412)
+Seat 6: Nelson_du_77 (7320)
+*** ANTE/BLINDS ***
+NeverChek posts ante 60
+fred4242 posts ante 60
+tibo352 posts ante 60
+loi kroh posts ante 60
+manggy94 posts ante 60
+Nelson_du_77 posts ante 60
+NeverChek posts small blind 300
+fred4242 posts big blind 600
+Dealt to manggy94 [5s 2s]
+*** PRE-FLOP *** 
+Nelson_du_77 folds
+tibo352 raises 1200 to 1800
+loi kroh folds
+manggy94 folds
+NeverChek folds
+fred4242 folds
+tibo352 collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 1: tibo352 won 3060
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 8 - HandId: #572024978799591453-95-1445432081 - Holdem no limit (60/300/600) - 2015/10/21 12:54:41 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: tibo352 (19006)
+Seat 2: loi kroh (41128)
+Seat 3: manggy94 (24130)
+Seat 4: NeverChek (19435)
+Seat 5: fred4242 (8752)
+Seat 6: Nelson_du_77 (7260)
+*** ANTE/BLINDS ***
+fred4242 posts ante 60
+Nelson_du_77 posts ante 60
+tibo352 posts ante 60
+loi kroh posts ante 60
+manggy94 posts ante 60
+NeverChek posts ante 60
+fred4242 posts small blind 300
+Nelson_du_77 posts big blind 600
+Dealt to manggy94 [Qc Th]
+*** PRE-FLOP *** 
+tibo352 raises 1200 to 1800
+loi kroh folds
+manggy94 folds
+NeverChek calls 1800
+fred4242 folds
+Nelson_du_77 folds
+*** FLOP *** [8c 2d 4d]
+tibo352 bets 3240
+NeverChek folds
+tibo352 collected 8100 from pot
+*** SUMMARY ***
+Total pot 8100 | No rake
+Board: [8c 2d 4d]
+Seat 1: tibo352 won 8100
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 8 - HandId: #572024978799591453-96-1445432402 - Holdem no limit (60/300/600) - 2015/10/21 13:00:02 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #5 is the button
+Seat 1: tibo352 (22006)
+Seat 2: loi kroh (41068)
+Seat 3: manggy94 (24070)
+Seat 4: NeverChek (17575)
+Seat 5: fred4242 (8392)
+Seat 6: Nelson_du_77 (6600)
+*** ANTE/BLINDS ***
+Nelson_du_77 posts ante 60
+tibo352 posts ante 60
+loi kroh posts ante 60
+manggy94 posts ante 60
+NeverChek posts ante 60
+fred4242 posts ante 60
+Nelson_du_77 posts small blind 300
+tibo352 posts big blind 600
+Dealt to manggy94 [9h 8h]
+*** PRE-FLOP *** 
+loi kroh folds
+manggy94 calls 600
+NeverChek folds
+fred4242 folds
+Nelson_du_77 raises 5940 to 6540 and is all-in
+tibo352 folds
+manggy94 folds
+Nelson_du_77 collected 8100 from pot
+*** SUMMARY ***
+Total pot 8100 | No rake
+Seat 6: Nelson_du_77 (small blind) won 8100
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 8 - HandId: #572024978799591453-97-1445432468 - Holdem no limit (60/300/600) - 2015/10/21 13:01:08 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #6 is the button
+Seat 1: tibo352 (21346)
+Seat 2: loi kroh (41008)
+Seat 3: manggy94 (23410)
+Seat 4: NeverChek (17515)
+Seat 5: fred4242 (8332)
+Seat 6: Nelson_du_77 (8100)
+*** ANTE/BLINDS ***
+tibo352 posts ante 60
+loi kroh posts ante 60
+manggy94 posts ante 60
+NeverChek posts ante 60
+fred4242 posts ante 60
+Nelson_du_77 posts ante 60
+tibo352 posts small blind 300
+loi kroh posts big blind 600
+Dealt to manggy94 [Ks 6s]
+*** PRE-FLOP *** 
+manggy94 calls 600
+NeverChek raises 1320 to 1920
+fred4242 folds
+Nelson_du_77 folds
+tibo352 folds
+loi kroh folds
+manggy94 calls 1320
+*** FLOP *** [6d 8s 4d]
+manggy94 bets 2700
+NeverChek raises 12835 to 15535 and is all-in
+manggy94 calls 12835
+*** TURN *** [6d 8s 4d][4c]
+*** RIVER *** [6d 8s 4d 4c][3c]
+*** SHOW DOWN ***
+manggy94 shows [Ks 6s] (Two pairs : 6 and 4)
+NeverChek shows [Jc Jh] (Two pairs : Jacks and 4)
+NeverChek collected 36170 from pot
+*** SUMMARY ***
+Total pot 36170 | No rake
+Board: [6d 8s 4d 4c 3c]
+Seat 3: manggy94 showed [Ks 6s] and lost with Two pairs : 6 and 4
+Seat 4: NeverChek showed [Jc Jh] and won 36170 with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 8 - HandId: #572024978799591453-98-1445432509 - Holdem no limit (60/300/600) - 2015/10/21 13:01:49 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #1 is the button
+Seat 1: tibo352 (20986)
+Seat 2: loi kroh (40348)
+Seat 3: manggy94 (5895)
+Seat 4: NeverChek (36170)
+Seat 5: fred4242 (8272)
+Seat 6: Nelson_du_77 (8040)
+*** ANTE/BLINDS ***
+loi kroh posts ante 60
+manggy94 posts ante 60
+tibo352 posts ante 60
+NeverChek posts ante 60
+fred4242 posts ante 60
+Nelson_du_77 posts ante 60
+loi kroh posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [Kc Ks]
+*** PRE-FLOP *** 
+NeverChek folds
+fred4242 folds
+Nelson_du_77 folds
+tibo352 folds
+loi kroh folds
+manggy94 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 3: manggy94 (big blind) won 1260
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 8 - HandId: #572024978799591453-99-1445432534 - Holdem no limit (60/300/600) - 2015/10/21 13:02:14 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #2 is the button
+Seat 1: tibo352 (20926)
+Seat 2: loi kroh (39988)
+Seat 3: manggy94 (6495)
+Seat 4: NeverChek (36110)
+Seat 5: fred4242 (8212)
+Seat 6: Nelson_du_77 (7980)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+NeverChek posts ante 60
+tibo352 posts ante 60
+loi kroh posts ante 60
+fred4242 posts ante 60
+Nelson_du_77 posts ante 60
+manggy94 posts small blind 300
+NeverChek posts big blind 600
+Dealt to manggy94 [4d 5s]
+*** PRE-FLOP *** 
+fred4242 folds
+Nelson_du_77 folds
+tibo352 folds
+loi kroh folds
+manggy94 folds
+NeverChek collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 4: NeverChek (big blind) won 1260
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 8 - HandId: #572024978799591453-100-1445432552 - Holdem no limit (60/300/600) - 2015/10/21 13:02:32 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #3 is the button
+Seat 1: tibo352 (20866)
+Seat 2: loi kroh (39928)
+Seat 3: manggy94 (6135)
+Seat 4: NeverChek (36710)
+Seat 5: fred4242 (8152)
+Seat 6: Nelson_du_77 (7920)
+*** ANTE/BLINDS ***
+NeverChek posts ante 60
+fred4242 posts ante 60
+tibo352 posts ante 60
+loi kroh posts ante 60
+manggy94 posts ante 60
+Nelson_du_77 posts ante 60
+NeverChek posts small blind 300
+fred4242 posts big blind 600
+Dealt to manggy94 [7h 4s]
+*** PRE-FLOP *** 
+Nelson_du_77 folds
+tibo352 folds
+loi kroh folds
+manggy94 folds
+NeverChek raises 600 to 1200
+fred4242 folds
+NeverChek collected 2160 from pot
+*** SUMMARY ***
+Total pot 2160 | No rake
+Seat 4: NeverChek (small blind) won 2160
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 8 - HandId: #572024978799591453-101-1445432572 - Holdem no limit (60/300/600) - 2015/10/21 13:02:52 UTC
+Table: 'KILL THE FISH(133184944)#028' 6-max (real money) Seat #4 is the button
+Seat 1: tibo352 (20806)
+Seat 2: loi kroh (39868)
+Seat 3: manggy94 (6075)
+Seat 4: NeverChek (37610)
+Seat 5: fred4242 (7492)
+Seat 6: Nelson_du_77 (7860)
+*** ANTE/BLINDS ***
+fred4242 posts ante 60
+Nelson_du_77 posts ante 60
+tibo352 posts ante 60
+loi kroh posts ante 60
+manggy94 posts ante 60
+NeverChek posts ante 60
+fred4242 posts small blind 300
+Nelson_du_77 posts big blind 600
+Dealt to manggy94 [4s 4d]
+*** PRE-FLOP *** 
+tibo352 folds
+loi kroh folds
+manggy94 raises 4200 to 4800
+NeverChek folds
+fred4242 folds
+Nelson_du_77 calls 4200
+*** FLOP *** [3s 6d 9h]
+Nelson_du_77 bets 1772
+manggy94 calls 1215 and is all-in
+*** TURN *** [3s 6d 9h][As]
+*** RIVER *** [3s 6d 9h As][Kh]
+*** SHOW DOWN ***
+manggy94 shows [4s 4d] (One pair : 4)
+Nelson_du_77 shows [6s 8d] (One pair : 6)
+Nelson_du_77 collected 13247 from pot
+*** SUMMARY ***
+Total pot 13247 | No rake
+Board: [3s 6d 9h As Kh]
+Seat 3: manggy94 showed [4s 4d] and lost with One pair : 4
+Seat 6: Nelson_du_77 (big blind) showed [6s 8d] and won 13247 with One pair : 6
+
+

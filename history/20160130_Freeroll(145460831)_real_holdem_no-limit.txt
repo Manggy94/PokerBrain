@@ -1,0 +1,127 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #624749511993983390-5-1454153785 - Holdem no limit (20/40) - 2016/01/30 11:36:25 UTC
+Table: 'Freeroll(145460831)#413' 8-max (real money) Seat #5 is the button
+Seat 1: bryan bolt (1335)
+Seat 2: manggy94 (3000)
+Seat 3: fisht (2945)
+Seat 4: amahjkiu (2955)
+Seat 5: wendy59600 (2885)
+Seat 6: miguelsmc (8250)
+Seat 7: LULULEA62 (2630)
+Seat 8: Coldplay54 (3000)
+*** ANTE/BLINDS ***
+miguelsmc posts small blind 20
+LULULEA62 posts big blind 40
+Dealt to manggy94 [Kh 7h]
+*** PRE-FLOP *** 
+Coldplay54 folds
+bryan bolt folds
+manggy94 calls 40
+fisht raises 100 to 140
+amahjkiu folds
+wendy59600 calls 140
+miguelsmc folds
+LULULEA62 calls 100
+manggy94 calls 100
+*** FLOP *** [2h Kd Td]
+LULULEA62 checks
+manggy94 bets 580
+fisht calls 580
+wendy59600 folds
+LULULEA62 folds
+*** TURN *** [2h Kd Td][9d]
+manggy94 checks
+fisht bets 680
+manggy94 calls 680
+*** RIVER *** [2h Kd Td 9d][8s]
+manggy94 checks
+fisht bets 1545 and is all-in
+manggy94 calls 1545
+*** SHOW DOWN ***
+manggy94 shows [Kh 7h] (One pair : Kings)
+fisht shows [8d 5d] (Flush King high)
+fisht collected 6190 from pot
+*** SUMMARY ***
+Total pot 6190 | No rake
+Board: [2h Kd Td 9d 8s]
+Seat 2: manggy94 showed [Kh 7h] and lost with One pair : Kings
+Seat 3: fisht showed [8d 5d] and won 6190 with Flush King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #624749511993983390-6-1454153854 - Holdem no limit (20/40) - 2016/01/30 11:37:34 UTC
+Table: 'Freeroll(145460831)#413' 8-max (real money) Seat #6 is the button
+Seat 1: bryan bolt (1335)
+Seat 2: manggy94 (55)
+Seat 3: fisht (6190)
+Seat 4: amahjkiu (2955)
+Seat 5: wendy59600 (2745)
+Seat 6: miguelsmc (8230)
+Seat 7: LULULEA62 (2490)
+Seat 8: Coldplay54 (3000)
+*** ANTE/BLINDS ***
+LULULEA62 posts small blind 20
+Coldplay54 posts big blind 40
+Dealt to manggy94 [2h 5c]
+*** PRE-FLOP *** 
+bryan bolt raises 1295 to 1335 and is all-in
+manggy94 folds
+fisht folds
+amahjkiu folds
+wendy59600 folds
+miguelsmc folds
+LULULEA62 folds
+Coldplay54 folds
+bryan bolt collected 1395 from pot
+*** SUMMARY ***
+Total pot 1395 | No rake
+Seat 1: bryan bolt won 1395
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #624749511993983390-7-1454153897 - Holdem no limit (20/40) - 2016/01/30 11:38:17 UTC
+Table: 'Freeroll(145460831)#413' 8-max (real money) Seat #7 is the button
+Seat 1: bryan bolt (1395)
+Seat 2: manggy94 (55)
+Seat 3: fisht (6190)
+Seat 4: amahjkiu (2955)
+Seat 5: wendy59600 (2745)
+Seat 6: miguelsmc (8230)
+Seat 7: LULULEA62 (2470)
+Seat 8: Coldplay54 (2960)
+*** ANTE/BLINDS ***
+Coldplay54 posts small blind 20
+bryan bolt posts big blind 40
+Dealt to manggy94 [As Kh]
+*** PRE-FLOP *** 
+manggy94 raises 15 to 55 and is all-in
+fisht folds
+amahjkiu folds
+wendy59600 calls 55
+miguelsmc calls 55
+LULULEA62 calls 55
+Coldplay54 folds
+bryan bolt calls 15
+*** FLOP *** [Qs Tc 7c]
+bryan bolt bets 40
+wendy59600 calls 40
+miguelsmc calls 40
+LULULEA62 folds
+*** TURN *** [Qs Tc 7c][4h]
+bryan bolt checks
+wendy59600 checks
+miguelsmc checks
+*** RIVER *** [Qs Tc 7c 4h][3s]
+bryan bolt checks
+wendy59600 bets 40
+miguelsmc folds
+bryan bolt raises 40 to 80
+wendy59600 folds
+*** SHOW DOWN ***
+manggy94 shows [As Kh] (High card : Ace)
+bryan bolt shows [5h Qd] (One pair : Queens)
+bryan bolt collected 535 from pot
+*** SUMMARY ***
+Total pot 535 | No rake
+Board: [Qs Tc 7c 4h 3s]
+Seat 1: bryan bolt (big blind) showed [5h Qd] and won 535 with One pair : Queens
+Seat 2: manggy94 showed [As Kh] and lost with High card : Ace
+
+

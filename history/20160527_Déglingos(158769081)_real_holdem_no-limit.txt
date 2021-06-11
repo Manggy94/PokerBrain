@@ -1,0 +1,520 @@
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: -1 - HandId: #681908010510974983-19-1464365226 - Holdem no limit (20/40) - 2016/05/27 16:07:06 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (500)
+Seat 2: zlatan 007 (1463)
+Seat 3: niicoco (1190)
+*** ANTE/BLINDS ***
+niicoco posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [Qs 8d]
+*** PRE-FLOP *** 
+zlatan 007 calls 40
+niicoco folds
+manggy94 checks
+*** FLOP *** [6s 8s Kc]
+manggy94 bets 100
+zlatan 007 calls 100
+*** TURN *** [6s 8s Kc][5d]
+manggy94 bets 360 and is all-in
+zlatan 007 calls 360
+*** RIVER *** [6s 8s Kc 5d][2d]
+*** SHOW DOWN ***
+zlatan 007 shows [7c Tc] (High card : King)
+manggy94 shows [Qs 8d] (One pair : 8)
+manggy94 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [6s 8s Kc 5d 2d]
+Seat 1: manggy94 (big blind) showed [Qs 8d] and won 1020 with One pair : 8
+Seat 2: zlatan 007 (button) showed [7c Tc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 2 - HandId: #681908010510974983-20-1464365262 - Holdem no limit (20/40) - 2016/05/27 16:07:42 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (1020)
+Seat 2: zlatan 007 (963)
+Seat 3: niicoco (1170)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+zlatan 007 posts big blind 40
+Dealt to manggy94 [7d 9c]
+*** PRE-FLOP *** 
+niicoco folds
+manggy94 calls 20
+zlatan 007 raises 80 to 120
+manggy94 folds
+zlatan 007 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 2: zlatan 007 (big blind) won 160
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 2 - HandId: #681908010510974983-21-1464365277 - Holdem no limit (20/40) - 2016/05/27 16:07:57 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (980)
+Seat 2: zlatan 007 (1003)
+Seat 3: niicoco (1170)
+*** ANTE/BLINDS ***
+zlatan 007 posts small blind 20
+niicoco posts big blind 40
+Dealt to manggy94 [4s 6d]
+*** PRE-FLOP *** 
+manggy94 folds
+zlatan 007 calls 20
+niicoco checks
+*** FLOP *** [As Qs 4h]
+zlatan 007 bets 80
+niicoco folds
+zlatan 007 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [As Qs 4h]
+Seat 2: zlatan 007 (small blind) won 160
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 2 - HandId: #681908010510974983-22-1464365298 - Holdem no limit (20/40) - 2016/05/27 16:08:18 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (980)
+Seat 2: zlatan 007 (1043)
+Seat 3: niicoco (1130)
+*** ANTE/BLINDS ***
+niicoco posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [9c 8c]
+*** PRE-FLOP *** 
+zlatan 007 raises 1003 to 1043 and is all-in
+niicoco folds
+manggy94 folds
+zlatan 007 collected 1103 from pot
+*** SUMMARY ***
+Total pot 1103 | No rake
+Seat 2: zlatan 007 (button) won 1103
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 2 - HandId: #681908010510974983-23-1464365308 - Holdem no limit (20/40) - 2016/05/27 16:08:28 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (940)
+Seat 2: zlatan 007 (1103)
+Seat 3: niicoco (1110)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+zlatan 007 posts big blind 40
+Dealt to manggy94 [Ks 9c]
+*** PRE-FLOP *** 
+niicoco folds
+manggy94 calls 20
+zlatan 007 checks
+*** FLOP *** [Qh Tc Jh]
+manggy94 bets 40
+zlatan 007 calls 40
+*** TURN *** [Qh Tc Jh][As]
+manggy94 checks
+zlatan 007 bets 160
+manggy94 calls 160
+*** RIVER *** [Qh Tc Jh As][7d]
+manggy94 bets 240
+zlatan 007 calls 240
+*** SHOW DOWN ***
+zlatan 007 shows [4s Jc] (One pair : Jacks)
+manggy94 shows [Ks 9c] (Straight Ace high)
+manggy94 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [Qh Tc Jh As 7d]
+Seat 1: manggy94 (small blind) showed [Ks 9c] and won 960 with Straight Ace high
+Seat 2: zlatan 007 (big blind) showed [4s Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 3 - HandId: #681908010510974983-24-1464365354 - Holdem no limit (30/60) - 2016/05/27 16:09:14 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (1420)
+Seat 2: zlatan 007 (623)
+Seat 3: niicoco (1110)
+*** ANTE/BLINDS ***
+zlatan 007 posts small blind 30
+niicoco posts big blind 60
+Dealt to manggy94 [5c Jd]
+*** PRE-FLOP *** 
+manggy94 folds
+zlatan 007 raises 563 to 623 and is all-in
+niicoco calls 563
+*** FLOP *** [2h Ac As]
+*** TURN *** [2h Ac As][9h]
+*** RIVER *** [2h Ac As 9h][Kh]
+*** SHOW DOWN ***
+zlatan 007 shows [3c 3d] (Two pairs : Aces and 3)
+niicoco shows [7s Ks] (Two pairs : Aces and Kings)
+niicoco collected 1246 from pot
+*** SUMMARY ***
+Total pot 1246 | No rake
+Board: [2h Ac As 9h Kh]
+Seat 2: zlatan 007 (small blind) showed [3c 3d] and lost with Two pairs : Aces and 3
+Seat 3: niicoco (big blind) showed [7s Ks] and won 1246 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 3 - HandId: #681908010510974983-25-1464365374 - Holdem no limit (30/60) - 2016/05/27 16:09:34 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (1420)
+Seat 3: niicoco (1733)
+*** ANTE/BLINDS ***
+niicoco posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [6d Qh]
+*** PRE-FLOP *** 
+niicoco folds
+manggy94 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: manggy94 (big blind) won 90
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 3 - HandId: #681908010510974983-26-1464365385 - Holdem no limit (30/60) - 2016/05/27 16:09:45 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (1450)
+Seat 3: niicoco (1703)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+niicoco posts big blind 60
+Dealt to manggy94 [5h Js]
+*** PRE-FLOP *** 
+manggy94 raises 60 to 120
+niicoco folds
+manggy94 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: manggy94 (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 3 - HandId: #681908010510974983-27-1464365393 - Holdem no limit (30/60) - 2016/05/27 16:09:53 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (1510)
+Seat 3: niicoco (1643)
+*** ANTE/BLINDS ***
+niicoco posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [6d 2d]
+*** PRE-FLOP *** 
+niicoco raises 60 to 120
+manggy94 calls 60
+*** FLOP *** [Kh 8s Qd]
+manggy94 bets 120
+niicoco raises 480 to 600
+manggy94 folds
+niicoco collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [Kh 8s Qd]
+Seat 3: niicoco (small blind) (button) won 960
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 3 - HandId: #681908010510974983-28-1464365408 - Holdem no limit (30/60) - 2016/05/27 16:10:08 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (1270)
+Seat 3: niicoco (1883)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+niicoco posts big blind 60
+Dealt to manggy94 [Jc 4s]
+*** PRE-FLOP *** 
+manggy94 calls 30
+niicoco checks
+*** FLOP *** [Ac 4c 5c]
+niicoco checks
+manggy94 bets 120
+niicoco calls 120
+*** TURN *** [Ac 4c 5c][8d]
+niicoco checks
+manggy94 checks
+*** RIVER *** [Ac 4c 5c 8d][5s]
+niicoco checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [Jc 4s] (Two pairs : 5 and 4)
+niicoco shows [3h As] (Two pairs : Aces and 5)
+niicoco collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Ac 4c 5c 8d 5s]
+Seat 1: manggy94 (small blind) (button) showed [Jc 4s] and lost with Two pairs : 5 and 4
+Seat 3: niicoco (big blind) showed [3h As] and won 360 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 3 - HandId: #681908010510974983-29-1464365429 - Holdem no limit (30/60) - 2016/05/27 16:10:29 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (1090)
+Seat 2: celine42000 (500)
+Seat 3: niicoco (2063)
+*** ANTE/BLINDS ***
+niicoco posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [7h 8c]
+*** PRE-FLOP *** 
+niicoco folds
+manggy94 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: manggy94 (big blind) won 90
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 3 - HandId: #681908010510974983-30-1464365433 - Holdem no limit (30/60) - 2016/05/27 16:10:33 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (1120)
+Seat 2: celine42000 (500)
+Seat 3: niicoco (2033)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+celine42000 posts big blind 60
+Dealt to manggy94 [4c 2d]
+*** PRE-FLOP *** 
+niicoco folds
+manggy94 raises 60 to 120
+celine42000 calls 60
+*** FLOP *** [4h Jc Td]
+manggy94 bets 240
+celine42000 raises 140 to 380 and is all-in
+manggy94 calls 140
+*** TURN *** [4h Jc Td][As]
+*** RIVER *** [4h Jc Td As][6d]
+*** SHOW DOWN ***
+manggy94 shows [4c 2d] (One pair : 4)
+celine42000 shows [4s Kh] (One pair : 4)
+celine42000 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [4h Jc Td As 6d]
+Seat 1: manggy94 (small blind) showed [4c 2d] and lost with One pair : 4
+Seat 2: celine42000 (big blind) showed [4s Kh] and won 1000 with One pair : 4
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 3 - HandId: #681908010510974983-31-1464365454 - Holdem no limit (30/60) - 2016/05/27 16:10:54 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (620)
+Seat 2: celine42000 (1000)
+Seat 3: niicoco (2033)
+*** ANTE/BLINDS ***
+celine42000 posts small blind 30
+niicoco posts big blind 60
+Dealt to manggy94 [Ah Tc]
+*** PRE-FLOP *** 
+manggy94 raises 150 to 210
+celine42000 folds
+niicoco folds
+manggy94 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: manggy94 (button) won 300
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 3 - HandId: #681908010510974983-32-1464365506 - Holdem no limit (30/60) - 2016/05/27 16:11:46 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (710)
+Seat 2: celine42000 (970)
+Seat 3: niicoco (1973)
+*** ANTE/BLINDS ***
+niicoco posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [Ah Qc]
+*** PRE-FLOP *** 
+celine42000 folds
+niicoco folds
+manggy94 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: manggy94 (big blind) won 90
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 3 - HandId: #681908010510974983-33-1464365510 - Holdem no limit (30/60) - 2016/05/27 16:11:50 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (740)
+Seat 2: celine42000 (970)
+Seat 3: niicoco (1943)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+celine42000 posts big blind 60
+Dealt to manggy94 [8d 4h]
+*** PRE-FLOP *** 
+niicoco folds
+manggy94 folds
+celine42000 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: celine42000 (big blind) won 90
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 3 - HandId: #681908010510974983-34-1464365515 - Holdem no limit (30/60) - 2016/05/27 16:11:55 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (710)
+Seat 2: celine42000 (1000)
+Seat 3: niicoco (1943)
+*** ANTE/BLINDS ***
+celine42000 posts small blind 30
+niicoco posts big blind 60
+Dealt to manggy94 [5d Qc]
+*** PRE-FLOP *** 
+manggy94 folds
+celine42000 raises 60 to 120
+niicoco raises 360 to 480
+celine42000 folds
+niicoco collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 3: niicoco (big blind) won 600
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 4 - HandId: #681908010510974983-35-1464365527 - Holdem no limit (40/80) - 2016/05/27 16:12:07 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (710)
+Seat 2: celine42000 (880)
+Seat 3: niicoco (2063)
+*** ANTE/BLINDS ***
+niicoco posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [Js Ah]
+*** PRE-FLOP *** 
+celine42000 folds
+niicoco folds
+manggy94 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: manggy94 (big blind) won 120
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 4 - HandId: #681908010510974983-36-1464365532 - Holdem no limit (40/80) - 2016/05/27 16:12:12 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (750)
+Seat 2: celine42000 (880)
+Seat 3: niicoco (2023)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+celine42000 posts big blind 80
+Dealt to manggy94 [6s 3d]
+*** PRE-FLOP *** 
+niicoco folds
+manggy94 raises 80 to 160
+celine42000 calls 80
+*** FLOP *** [3h 4h 4c]
+manggy94 bets 320
+celine42000 folds
+manggy94 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [3h 4h 4c]
+Seat 1: manggy94 (small blind) won 640
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 4 - HandId: #681908010510974983-37-1464365549 - Holdem no limit (40/80) - 2016/05/27 16:12:29 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (910)
+Seat 2: celine42000 (720)
+Seat 3: niicoco (2023)
+*** ANTE/BLINDS ***
+celine42000 posts small blind 40
+niicoco posts big blind 80
+Dealt to manggy94 [3s Tc]
+*** PRE-FLOP *** 
+manggy94 folds
+celine42000 folds
+niicoco collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: niicoco (big blind) won 120
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 4 - HandId: #681908010510974983-38-1464365554 - Holdem no limit (40/80) - 2016/05/27 16:12:34 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (910)
+Seat 2: celine42000 (680)
+Seat 3: niicoco (2063)
+*** ANTE/BLINDS ***
+niicoco posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [Tc 5d]
+*** PRE-FLOP *** 
+celine42000 folds
+niicoco folds
+manggy94 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: manggy94 (big blind) won 120
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 4 - HandId: #681908010510974983-39-1464365561 - Holdem no limit (40/80) - 2016/05/27 16:12:41 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (950)
+Seat 2: celine42000 (680)
+Seat 3: niicoco (2023)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+celine42000 posts big blind 80
+Dealt to manggy94 [7h 3h]
+*** PRE-FLOP *** 
+niicoco folds
+manggy94 calls 40
+celine42000 checks
+*** FLOP *** [7s 7d 9h]
+manggy94 checks
+celine42000 bets 80
+manggy94 calls 80
+*** TURN *** [7s 7d 9h][Jc]
+manggy94 checks
+celine42000 checks
+*** RIVER *** [7s 7d 9h Jc][Ad]
+manggy94 checks
+celine42000 checks
+*** SHOW DOWN ***
+celine42000 shows [Th 9c] (Two pairs : 9 and 7)
+manggy94 shows [7h 3h] (Trips of 7)
+manggy94 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [7s 7d 9h Jc Ad]
+Seat 1: manggy94 (small blind) showed [7h 3h] and won 320 with Trips of 7
+Seat 2: celine42000 (big blind) showed [Th 9c] and lost with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 4 - HandId: #681908010510974983-40-1464365601 - Holdem no limit (40/80) - 2016/05/27 16:13:21 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (1110)
+Seat 2: celine42000 (520)
+Seat 3: niicoco (2023)
+*** ANTE/BLINDS ***
+celine42000 posts small blind 40
+niicoco posts big blind 80
+Dealt to manggy94 [8c 4c]
+*** PRE-FLOP *** 
+manggy94 folds
+celine42000 folds
+niicoco collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: niicoco (big blind) won 120
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 4 - HandId: #681908010510974983-41-1464365618 - Holdem no limit (40/80) - 2016/05/27 16:13:38 UTC
+Table: 'Déglingos(158769081)#006' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (1110)
+Seat 2: celine42000 (480)
+Seat 3: niicoco (2063)
+*** ANTE/BLINDS ***
+niicoco posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [Jc Jd]
+*** PRE-FLOP *** 
+celine42000 folds
+niicoco raises 160 to 240
+manggy94 raises 870 to 1110 and is all-in
+niicoco calls 870
+*** FLOP *** [Ad 9c As]
+*** TURN *** [Ad 9c As][Ts]
+*** RIVER *** [Ad 9c As Ts][Th]
+*** SHOW DOWN ***
+manggy94 shows [Jc Jd] (Two pairs : Aces and Jacks)
+niicoco shows [Ah 3s] (Full of Aces and Tens)
+niicoco collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [Ad 9c As Ts Th]
+Seat 1: manggy94 (big blind) showed [Jc Jd] and lost with Two pairs : Aces and Jacks
+Seat 3: niicoco (small blind) showed [Ah 3s] and won 2220 with Full of Aces and Tens
+
+

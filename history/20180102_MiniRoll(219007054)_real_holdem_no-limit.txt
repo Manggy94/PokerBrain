@@ -1,0 +1,392 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #940628134523306011-1-1514934005 - Holdem no limit (30/125/250) - 2018/01/02 23:00:05 UTC
+Table: 'MiniRoll(219007054)#026' 8-max (real money) Seat #5 is the button
+Seat 1: fanyo59160 (10000)
+Seat 2: Patapin26000 (10000)
+Seat 3: manggy94 (10000)
+Seat 4: 24jumeau (10000)
+Seat 5: ABSOLUT 34 (10000)
+Seat 6: Sofo2679 (10000)
+Seat 7: DIAZE92I (10000)
+Seat 8: totol10100 (10000)
+*** ANTE/BLINDS ***
+Sofo2679 posts ante 30
+DIAZE92I posts ante 30
+fanyo59160 posts ante 30
+Patapin26000 posts ante 30
+manggy94 posts ante 30
+24jumeau posts ante 30
+ABSOLUT 34 posts ante 30
+totol10100 posts ante 30
+Sofo2679 posts small blind 125
+DIAZE92I posts big blind 250
+Dealt to manggy94 [Ts 8h]
+*** PRE-FLOP *** 
+totol10100 calls 250
+fanyo59160 calls 250
+Patapin26000 folds
+manggy94 folds
+24jumeau calls 250
+ABSOLUT 34 calls 250
+Sofo2679 calls 125
+DIAZE92I checks
+*** FLOP *** [5s 2d 6c]
+Sofo2679 checks
+DIAZE92I bets 250
+totol10100 calls 250
+fanyo59160 folds
+24jumeau raises 8775 to 9025
+ABSOLUT 34 folds
+Sofo2679 calls 9025
+DIAZE92I folds
+totol10100 folds
+*** TURN *** [5s 2d 6c][Jh]
+Sofo2679 bets 695 and is all-in
+24jumeau calls 695 and is all-in
+*** RIVER *** [5s 2d 6c Jh][6d]
+*** SHOW DOWN ***
+24jumeau shows [3c 7c] (One pair : 6)
+Sofo2679 shows [5d Js] (Two pairs : Jacks and 6)
+Sofo2679 collected 21680 from pot
+*** SUMMARY ***
+Total pot 21680 | No rake
+Board: [5s 2d 6c Jh 6d]
+Seat 4: 24jumeau showed [3c 7c] and lost with One pair : 6
+Seat 6: Sofo2679 (small blind) showed [5d Js] and won 21680 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #940628134523306011-2-1514934146 - Holdem no limit (40/150/300) - 2018/01/02 23:02:26 UTC
+Table: 'MiniRoll(219007054)#026' 8-max (real money) Seat #6 is the button
+Seat 1: fanyo59160 (9720)
+Seat 2: Patapin26000 (9970)
+Seat 3: manggy94 (9970)
+Seat 5: ABSOLUT 34 (9720)
+Seat 6: Sofo2679 (21680)
+Seat 7: DIAZE92I (9470)
+Seat 8: totol10100 (9470)
+*** ANTE/BLINDS ***
+DIAZE92I posts ante 40
+totol10100 posts ante 40
+fanyo59160 posts ante 40
+Patapin26000 posts ante 40
+manggy94 posts ante 40
+ABSOLUT 34 posts ante 40
+Sofo2679 posts ante 40
+DIAZE92I posts small blind 150
+totol10100 posts big blind 300
+Dealt to manggy94 [7c Qc]
+*** PRE-FLOP *** 
+fanyo59160 calls 300
+Patapin26000 folds
+manggy94 calls 300
+ABSOLUT 34 folds
+Sofo2679 calls 300
+DIAZE92I folds
+totol10100 checks
+*** FLOP *** [5d 9h Tc]
+totol10100 checks
+fanyo59160 checks
+manggy94 checks
+Sofo2679 checks
+*** TURN *** [5d 9h Tc][6d]
+totol10100 checks
+fanyo59160 checks
+manggy94 bets 815
+Sofo2679 calls 815
+totol10100 folds
+fanyo59160 calls 815
+*** RIVER *** [5d 9h Tc 6d][2s]
+fanyo59160 checks
+manggy94 checks
+Sofo2679 checks
+*** SHOW DOWN ***
+fanyo59160 shows [Qs Jc] (High card : Queen)
+manggy94 shows [7c Qc] (High card : Queen)
+Sofo2679 shows [Kc 8d] (High card : King)
+Sofo2679 collected 4075 from pot
+*** SUMMARY ***
+Total pot 4075 | No rake
+Board: [5d 9h Tc 6d 2s]
+Seat 1: fanyo59160 showed [Qs Jc] and lost with High card : Queen
+Seat 3: manggy94 showed [7c Qc] and lost with High card : Queen
+Seat 6: Sofo2679 (button) showed [Kc 8d] and won 4075 with High card : King
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #940628134523306011-3-1514934273 - Holdem no limit (40/150/300) - 2018/01/02 23:04:33 UTC
+Table: 'MiniRoll(219007054)#026' 8-max (real money) Seat #7 is the button
+Seat 1: fanyo59160 (8565)
+Seat 2: Patapin26000 (9930)
+Seat 3: manggy94 (8815)
+Seat 4: demonid1996 (10000)
+Seat 5: ABSOLUT 34 (9680)
+Seat 6: Sofo2679 (24600)
+Seat 7: DIAZE92I (9280)
+Seat 8: totol10100 (9130)
+*** ANTE/BLINDS ***
+totol10100 posts ante 40
+fanyo59160 posts ante 40
+Patapin26000 posts ante 40
+manggy94 posts ante 40
+demonid1996 posts ante 40
+ABSOLUT 34 posts ante 40
+Sofo2679 posts ante 40
+DIAZE92I posts ante 40
+totol10100 posts small blind 150
+fanyo59160 posts big blind 300
+Dealt to manggy94 [4c 3d]
+*** PRE-FLOP *** 
+Patapin26000 folds
+manggy94 folds
+demonid1996 folds
+ABSOLUT 34 raises 300 to 600
+Sofo2679 calls 600
+DIAZE92I calls 600
+totol10100 calls 450
+fanyo59160 calls 300
+*** FLOP *** [8h 9h 8d]
+totol10100 bets 300
+fanyo59160 calls 300
+ABSOLUT 34 raises 3090 to 3390
+Sofo2679 calls 3390
+DIAZE92I calls 3390
+totol10100 calls 3090
+fanyo59160 folds
+*** TURN *** [8h 9h 8d][Qs]
+totol10100 checks
+ABSOLUT 34 bets 5650 and is all-in
+Sofo2679 calls 5650
+DIAZE92I calls 5250 and is all-in
+totol10100 calls 5100 and is all-in
+*** RIVER *** [8h 9h 8d Qs][Th]
+*** SHOW DOWN ***
+Sofo2679 shows [Td Qh] (Two pairs : Queens and Tens)
+totol10100 shows [2s 2d] (Two pairs : 8 and 2)
+ABSOLUT 34 shows [Kd Kc] (Two pairs : Kings and 8)
+DIAZE92I shows [8s 8c] (Quads of 8)
+DIAZE92I collected 38030 from main pot
+ABSOLUT 34 collected 800 from side pot 1
+*** SUMMARY ***
+Total pot 38830 | No rake
+Board: [8h 9h 8d Qs Th]
+Seat 5: ABSOLUT 34 showed [Kd Kc] and won 800 with Two pairs : Kings and 8
+Seat 6: Sofo2679 showed [Td Qh] and lost with Two pairs : Queens and Tens
+Seat 7: DIAZE92I (button) showed [8s 8c] and won 38030 with Quads of 8
+Seat 8: totol10100 (small blind) showed [2s 2d] and lost with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #940628134523306011-4-1514934430 - Holdem no limit (50/200/400) - 2018/01/02 23:07:10 UTC
+Table: 'MiniRoll(219007054)#026' 8-max (real money) Seat #8 is the button
+Seat 1: fanyo59160 (7625)
+Seat 2: Patapin26000 (9890)
+Seat 3: manggy94 (8775)
+Seat 4: demonid1996 (9960)
+Seat 5: ABSOLUT 34 (800)
+Seat 6: Sofo2679 (14920)
+Seat 7: DIAZE92I (38030)
+*** ANTE/BLINDS ***
+fanyo59160 posts ante 50
+Patapin26000 posts ante 50
+manggy94 posts ante 50
+demonid1996 posts ante 50
+ABSOLUT 34 posts ante 50
+Sofo2679 posts ante 50
+DIAZE92I posts ante 50
+fanyo59160 posts small blind 200
+Patapin26000 posts big blind 400
+Dealt to manggy94 [5s 3c]
+*** PRE-FLOP *** 
+manggy94 folds
+demonid1996 folds
+ABSOLUT 34 folds
+Sofo2679 raises 14470 to 14870 and is all-in
+DIAZE92I calls 14870
+fanyo59160 folds
+Patapin26000 folds
+*** FLOP *** [Qd Ks 6d]
+*** TURN *** [Qd Ks 6d][Jh]
+*** RIVER *** [Qd Ks 6d Jh][Ah]
+*** SHOW DOWN ***
+DIAZE92I shows [Jd Ad] (Two pairs : Aces and Jacks)
+Sofo2679 shows [Kd Kh] (Trips of Kings)
+Sofo2679 collected 30690 from pot
+*** SUMMARY ***
+Total pot 30690 | No rake
+Board: [Qd Ks 6d Jh Ah]
+Seat 6: Sofo2679 showed [Kd Kh] and won 30690 with Trips of Kings
+Seat 7: DIAZE92I showed [Jd Ad] and lost with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #940628134523306011-5-1514934487 - Holdem no limit (60/250/500) - 2018/01/02 23:08:07 UTC
+Table: 'MiniRoll(219007054)#026' 8-max (real money) Seat #1 is the button
+Seat 1: fanyo59160 (7375)
+Seat 2: Patapin26000 (9440)
+Seat 3: manggy94 (8725)
+Seat 4: demonid1996 (9910)
+Seat 5: ABSOLUT 34 (750)
+Seat 6: Sofo2679 (30690)
+Seat 7: DIAZE92I (23110)
+*** ANTE/BLINDS ***
+Patapin26000 posts ante 60
+manggy94 posts ante 60
+fanyo59160 posts ante 60
+demonid1996 posts ante 60
+ABSOLUT 34 posts ante 60
+Sofo2679 posts ante 60
+DIAZE92I posts ante 60
+Patapin26000 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [4h 3c]
+*** PRE-FLOP *** 
+demonid1996 calls 500
+ABSOLUT 34 raises 190 to 690 and is all-in
+Sofo2679 raises 500 to 1190
+DIAZE92I folds
+fanyo59160 folds
+Patapin26000 raises 8190 to 9380 and is all-in
+manggy94 folds
+demonid1996 folds
+Sofo2679 calls 8190
+*** FLOP *** [9h Ac 5s]
+*** TURN *** [9h Ac 5s][Ks]
+*** RIVER *** [9h Ac 5s Ks][Th]
+*** SHOW DOWN ***
+Patapin26000 shows [8s Ad] (One pair : Aces)
+ABSOLUT 34 shows [Kh 9d] (Two pairs : Kings and 9)
+Sofo2679 shows [As 8c] (One pair : Aces)
+Sofo2679 collected 8690 from side pot 1
+ABSOLUT 34 collected 3490 from main pot
+Patapin26000 collected 8690 from side pot 1
+*** SUMMARY ***
+Total pot 20870 | No rake
+Board: [9h Ac 5s Ks Th]
+Seat 2: Patapin26000 (small blind) showed [8s Ad] and won 8690 with One pair : Aces
+Seat 5: ABSOLUT 34 showed [Kh 9d] and won 3490 with Two pairs : Kings and 9
+Seat 6: Sofo2679 showed [As 8c] and won 8690 with One pair : Aces
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #940628134523306011-6-1514934549 - Holdem no limit (60/250/500) - 2018/01/02 23:09:09 UTC
+Table: 'MiniRoll(219007054)#026' 8-max (real money) Seat #2 is the button
+Seat 1: fanyo59160 (7315)
+Seat 2: Patapin26000 (8690)
+Seat 3: manggy94 (8165)
+Seat 4: demonid1996 (9350)
+Seat 5: ABSOLUT 34 (3490)
+Seat 6: Sofo2679 (29940)
+Seat 7: DIAZE92I (23050)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+demonid1996 posts ante 60
+fanyo59160 posts ante 60
+Patapin26000 posts ante 60
+ABSOLUT 34 posts ante 60
+Sofo2679 posts ante 60
+DIAZE92I posts ante 60
+manggy94 posts small blind 250
+demonid1996 posts big blind 500
+Dealt to manggy94 [Th 7h]
+*** PRE-FLOP *** 
+ABSOLUT 34 folds
+Sofo2679 calls 500
+DIAZE92I folds
+fanyo59160 calls 500
+Patapin26000 folds
+manggy94 calls 250
+demonid1996 raises 8790 to 9290 and is all-in
+Sofo2679 folds
+fanyo59160 calls 6755 and is all-in
+manggy94 folds
+*** FLOP *** [Kh 9c Qd]
+*** TURN *** [Kh 9c Qd][2c]
+*** RIVER *** [Kh 9c Qd 2c][Js]
+*** SHOW DOWN ***
+fanyo59160 shows [6h Ah] (High card : Ace)
+demonid1996 shows [9d 9h] (Trips of 9)
+demonid1996 collected 17965 from pot
+*** SUMMARY ***
+Total pot 17965 | No rake
+Board: [Kh 9c Qd 2c Js]
+Seat 1: fanyo59160 showed [6h Ah] and lost with High card : Ace
+Seat 4: demonid1996 (big blind) showed [9d 9h] and won 17965 with Trips of 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #940628134523306011-7-1514934599 - Holdem no limit (60/250/500) - 2018/01/02 23:09:59 UTC
+Table: 'MiniRoll(219007054)#026' 8-max (real money) Seat #3 is the button
+Seat 2: Patapin26000 (8630)
+Seat 3: manggy94 (7605)
+Seat 4: demonid1996 (17965)
+Seat 5: ABSOLUT 34 (3430)
+Seat 6: Sofo2679 (29380)
+Seat 7: DIAZE92I (22990)
+Seat 8: leseb59113 (10000)
+*** ANTE/BLINDS ***
+demonid1996 posts ante 60
+ABSOLUT 34 posts ante 60
+Patapin26000 posts ante 60
+manggy94 posts ante 60
+Sofo2679 posts ante 60
+DIAZE92I posts ante 60
+leseb59113 posts ante 60
+demonid1996 posts small blind 250
+ABSOLUT 34 posts big blind 500
+Dealt to manggy94 [5c 4h]
+*** PRE-FLOP *** 
+Sofo2679 folds
+DIAZE92I folds
+leseb59113 folds
+Patapin26000 raises 500 to 1000
+manggy94 folds
+demonid1996 folds
+ABSOLUT 34 folds
+Patapin26000 collected 2170 from pot
+*** SUMMARY ***
+Total pot 2170 | No rake
+Seat 2: Patapin26000 won 2170
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #940628134523306011-8-1514934625 - Holdem no limit (60/250/500) - 2018/01/02 23:10:25 UTC
+Table: 'MiniRoll(219007054)#026' 8-max (real money) Seat #4 is the button
+Seat 2: Patapin26000 (9740)
+Seat 3: manggy94 (7545)
+Seat 4: demonid1996 (17655)
+Seat 5: ABSOLUT 34 (2870)
+Seat 6: Sofo2679 (29320)
+Seat 7: DIAZE92I (22930)
+Seat 8: leseb59113 (9940)
+*** ANTE/BLINDS ***
+ABSOLUT 34 posts ante 60
+Sofo2679 posts ante 60
+Patapin26000 posts ante 60
+manggy94 posts ante 60
+demonid1996 posts ante 60
+DIAZE92I posts ante 60
+leseb59113 posts ante 60
+ABSOLUT 34 posts small blind 250
+Sofo2679 posts big blind 500
+Dealt to manggy94 [Ah 6d]
+*** PRE-FLOP *** 
+DIAZE92I folds
+leseb59113 folds
+Patapin26000 folds
+manggy94 raises 1670 to 2170
+demonid1996 folds
+ABSOLUT 34 folds
+Sofo2679 calls 1670
+*** FLOP *** [4d Ks Jd]
+Sofo2679 bets 5010
+manggy94 calls 5010
+*** TURN *** [4d Ks Jd][6s]
+Sofo2679 checks
+manggy94 checks
+*** RIVER *** [4d Ks Jd 6s][4s]
+Sofo2679 bets 500
+manggy94 calls 305 and is all-in
+*** SHOW DOWN ***
+manggy94 shows [Ah 6d] (Two pairs : 6 and 4)
+Sofo2679 shows [2d Jc] (Two pairs : Jacks and 4)
+Sofo2679 collected 15835 from pot
+*** SUMMARY ***
+Total pot 15835 | No rake
+Board: [4d Ks Jd 6s 4s]
+Seat 3: manggy94 showed [Ah 6d] and lost with Two pairs : 6 and 4
+Seat 6: Sofo2679 (big blind) showed [2d Jc] and won 15835 with Two pairs : Jacks and 4
+
+

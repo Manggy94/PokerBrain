@@ -1,0 +1,45 @@
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #578294110633328641-1-1445345818 - Holdem no limit (10/20) - 2015/10/20 12:56:58 UTC
+Table: 'Starting Block - Deglingos(134644590)#0' 10-max (real money) Seat #6 is the button
+Seat 1: KisSMarilynM (500)
+Seat 2: Milvus (500)
+Seat 3: abacpoker92- (500)
+Seat 4: Dardarinio (500)
+Seat 5: forzarodez (500)
+Seat 6: manggy94 (500)
+Seat 7: Lenny&Lenny (500)
+Seat 8: Garry710 (500)
+Seat 9: Babless38 (500)
+Seat 10: titiLOR (500)
+*** ANTE/BLINDS ***
+Lenny&Lenny posts small blind 10
+Garry710 posts big blind 20
+Dealt to manggy94 [9d Qc]
+*** PRE-FLOP *** 
+Babless38 calls 20
+titiLOR folds
+KisSMarilynM folds
+Milvus folds
+abacpoker92- calls 20
+Dardarinio folds
+forzarodez folds
+manggy94 raises 480 to 500 and is all-in
+Lenny&Lenny folds
+Garry710 folds
+Babless38 calls 480 and is all-in
+abacpoker92- calls 480 and is all-in
+*** FLOP *** [8h As Qh]
+*** TURN *** [8h As Qh][2c]
+*** RIVER *** [8h As Qh 2c][6s]
+*** SHOW DOWN ***
+abacpoker92- shows [9s 6d] (One pair : 6)
+manggy94 shows [9d Qc] (One pair : Queens)
+Babless38 shows [Ah Th] (One pair : Aces)
+Babless38 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Board: [8h As Qh 2c 6s]
+Seat 3: abacpoker92- showed [9s 6d] and lost with One pair : 6
+Seat 6: manggy94 (button) showed [9d Qc] and lost with One pair : Queens
+Seat 9: Babless38 showed [Ah Th] and won 1530 with One pair : Aces
+
+

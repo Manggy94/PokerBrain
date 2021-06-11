@@ -1,75 +1,88 @@
-#import winamax as wina
-import os
-import re
-import sys
+import API.Table
+import file_reader as reader
+import numpy as np
 
-file=open ("historyexample.txt", "r")
-text=file.read()
-file.close()
+hands = reader.parse_file("historyexample2.txt")
 
-#print ("Winamax" in file)
-print(text)
+# print(hands)
+for hand in hands:
+    keys=[]
+    items=[]
 
-_card_re="AJKQcdhs1-9"
-_split_re = re.compile(
-    r""
-    r"\n\n\n"
-    r""
-)
-_header_re=re.compile(
-    r""
-    r"Winamax Poker\s+- "                                   #PokerRoom Name
-    r"Tournament\s+\"(?P<tournament_name>[A-Za-z\']+)\""    #Tournament Name
-    r"\s+buyIn\:\s+(?P<buy_in>[\d\.]+)â.."                  #buyIn
-    r"\s+\+\s+(?P<rake>[\d\.]+)â.."                          #rake
-    r"\s+level\:\s+(?P<level>[\d]+)"                        #level
-    r"\s+\W+HandId\:\W+(?P<hand_id>[\d\-]+)"                #handId
-    r"\W+Holdem no limit"                                   #Game Type
-    r"\s+\((?P<ante>\d+)"                                 #ante
-    r"\/(?P<sb>[\d]+)"                                      #small blind
-    r"\/(?P<bb>[\d]+)"                                      #big blind
-    r"\W+(?P<date_time>[\d\/\:\s]+UTC)"                     #Date
-    r""
-    r""
-    r""
-    r"")
+    for key, item in vars(hand).items():
+        if type(item) in [str, int, float]:
+            keys.append(key)
+            items.append(item)
+        elif type(item)==API.Table.Level:
+            level = item
+            for key, item in vars(level).items():
+                keys.append(key)
+                items.append(item)
+        elif type(item) == API.Table.Table:
+            print(vars(item))
+            table=item
+            keys.append("advancement")
+            items.append(table.progression)
+            for key, item in vars(table).items():
+                if key == "ident":
+                    keys.append("table_ident")
+                    items.append(item)
 
-_table_re=re.compile(
-    r""
-    r"Table\:\W+(?P<table_id>[\w\'\(\)\#\d]+)\'"            #Table Id
-    r"\s+(?P<max_seats>\d+)\-max\s+\([\w\s]+\)\s+"        #Max Seats
-    r"Seat\s+\#(?P<button>\d+)"                           #button
-    r"\s+is\s+the\s+button"
-)
+                elif key == "max_players":
+                    keys.append(key)
+                    items.append(item)
+                elif key == "board":
+                    for i in range(5):
+                        keys.append("card%s" % str(i+1))
+                        try:
+                            items.append(str(item[i]))
+                        except:
+                            items.append("")
+                elif key == "players":
+                    players = item
+                    for i in range(len(players)):
+                        keys.append("p%s_name" % i)
+                        keys.append("p%s_seat" %i)
+                        keys.append("p%s_position" % i)
+                        keys.append("p%s_stack" % i)
+                        keys.append("p%s_is_hero" % i)
+                        keys.append("p%s_combo" % i)
+                        try:
+                            player = players[i]
+                            # print(player.name, player.hero, player.has_combo(), player.combo)
+                            items.append(player.name)
+                            items.append(player.seat)
+                            items.append(player.position)
+                            items.append(player.init_stack)
+                            items.append(player.hero)
+                            items.append(player.combo)
+                        except:
+                            items.extend(["",0,"",0])
+                elif key in ["progression", "pot", "highest_bet"]:
+                    pass
+                elif type(item)==API.Table.Street:
+                    street = item
+                    # print("street:", street.name)
+                    for i in range (len(street.actions)):
+                        action=street.actions[i]
+                        if type(action)==API.Table.Action:
+                            keys.append("%s_action_%s_seat"%(street.name, i))
+                            items.append(action.player.seat)
+                            keys.append("%s_action_%s_move" % (street.name, i))
+                            items.append(action.move)
+                            keys.append("%s_action_%s_amount" % (street.name, i))
+                            items.append(action.value)
 
-_seat_re=re.compile(r"Seat\s+(?P<seat>\d+)\:\s+(?P<name>[\w\s]{3,12})\s+\((?P<stack>\d+)\)")
-_hero_re=re.compile(r"Dealt\s+to\s+(?P<hero_name>[\w\s\-]{3,12})\s+\[(?P<card1>[AJKQ2-9shdc]{2})\s(?P<card2>[AJKQ2-9shdc]{2})\]")
-_ante_re=re.compile(r"(?P<player_name>[\w\s\-]{3,12})\s+posts\sante\s+(?P<amount>\d+)")
-_pot_re=re.compile(r"Total\s+pot\s+(?P<total_pot>\d+)")
-_board_re=re.compile(r"Board\:\s+\[(?P<board>[AJKQ2-9shdc\s]+)\]")
-_action_re=re.compile(r"(?P<player_name>[\w\s\-]{6,12})\s+(?P<move>shows|checks|calls|folds|bets|raises)\s+(?P<value>\d+||\s+)")
-_winner_re=re.compile(r"(?P<player_name>[\w\s\-]{6,12})\s+collected\s+(?P<amount>\d+)\s+")
-_showdown_action_re=re.compile(r"(?P<player_name>[\w\s\-]{6,12})\s+(?P<move>shows|mucks)\s+\[(?P<card1>[AJKQ2-9shdc]{2})\s+(?P<card2>[AJKQ2-9shdc]{2})\]")
-_flop_re=re.compile(r"\*\*\*\s+FLOP\s+\*\*\*\s+\[(?P<flop_card1>[AJKQ2-9shdc]{2})\s+(?P<flop_card2>[AJKQ2-9shdc]{2})\s+(?P<flop_card3>[AJKQ2-9shdc]{2})\]")
-_turn_re=re.compile(r"\*\*\*\s+TURN\s+\*\*\*\s+\[.+\]\[(?P<turn_card>[AJKQ2-9shdc]{2})\]")
-_river_re=re.compile(r"\*\*\*\s+RIVER\s+\*\*\*\s+\[.+\]\[(?P<river_card>[AJKQ2-9shdc]{2})\]")
-_showdown_re=re.compile(r"\*\*\*\s+SHOW\s+DOWN\s+\*\*\*\s+")
-_summary_re=re.compile(r"\*\*\*\s+SUMMARY\s+\*\*\*\s+")
-_sb_re=re.compile(r"(?P<player_name>[\w\s\_]{3,12})\s+posts\s+small\s+blind\s+(?P<sb>\d+)")
+                else:
+                    print(key, item)
+            #keys.append(key)
+            #items.append(item)
+    #key=item
+    print(len(keys), keys)
+    print(items)
+#print(vars(hand))
 
-
-result=_winner_re.search(text)
-print (result)
-if result:
-    print(result.groups())
-else:
-    print("expression non trouvée")
-
-#buyIn=result.group('buyIn')
-#print(float(buyIn)/2)
-#tournament_name=result.group('tournament_name')
-#print(tournament_name)
-
-#HandHistory=WinamaxHandHistory(text)
+poker_type=hand.poker_type
+#print(poker_type)
 
 

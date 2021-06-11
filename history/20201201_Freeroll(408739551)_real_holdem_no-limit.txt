@@ -1,0 +1,503 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #1755523004126724113-1-1606838428 - Holdem no limit (12/50/100) - 2020/12/01 16:00:28 UTC
+Table: 'Freeroll(408739551)#0016' 8-max (real money) Seat #3 is the button
+Seat 1: Juju33julien (20000)
+Seat 2: frenchzen (20000)
+Seat 3: HHH38 (20000)
+Seat 4: manggy94 (20000)
+Seat 5: FREEMAAN34 (20000)
+Seat 6: Jessonino (20000)
+Seat 7: pastore58 (20000)
+Seat 8: lharmonya (20000)
+*** ANTE/BLINDS ***
+manggy94 posts ante 12
+FREEMAAN34 posts ante 12
+Juju33julien posts ante 12
+frenchzen posts ante 12
+HHH38 posts ante 12
+Jessonino posts ante 12
+pastore58 posts ante 12
+lharmonya posts ante 12
+manggy94 posts small blind 50
+FREEMAAN34 posts big blind 100
+Dealt to manggy94 [As 2s]
+*** PRE-FLOP *** 
+Jessonino folds
+pastore58 folds
+lharmonya calls 100
+Juju33julien folds
+frenchzen raises 19888 to 19988 and is all-in
+HHH38 calls 19988 and is all-in
+manggy94 folds
+FREEMAAN34 folds
+lharmonya folds
+*** FLOP *** [3c Kh 5h]
+*** TURN *** [3c Kh 5h][9d]
+*** RIVER *** [3c Kh 5h 9d][Kd]
+*** SHOW DOWN ***
+HHH38 shows [4d 2c] (One pair : Kings)
+frenchzen shows [Ah Ac] (Two pairs : Aces and Kings)
+frenchzen collected 40322 from pot
+*** SUMMARY ***
+Total pot 40322 | No rake
+Board: [3c Kh 5h 9d Kd]
+Seat 2: frenchzen showed [Ah Ac] and won 40322 with Two pairs : Aces and Kings
+Seat 3: HHH38 (button) showed [4d 2c] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1755523004126724113-2-1606838594 - Holdem no limit (14/60/120) - 2020/12/01 16:03:14 UTC
+Table: 'Freeroll(408739551)#0016' 8-max (real money) Seat #4 is the button
+Seat 1: Juju33julien (19988)
+Seat 2: frenchzen (40322)
+Seat 3: wantmore (20000)
+Seat 4: manggy94 (19938)
+Seat 5: FREEMAAN34 (19888)
+Seat 6: Jessonino (19988)
+Seat 7: pastore58 (19988)
+Seat 8: lharmonya (19888)
+*** ANTE/BLINDS ***
+FREEMAAN34 posts ante 14
+Jessonino posts ante 14
+Juju33julien posts ante 14
+frenchzen posts ante 14
+wantmore posts ante 14
+manggy94 posts ante 14
+pastore58 posts ante 14
+lharmonya posts ante 14
+FREEMAAN34 posts small blind 60
+Jessonino posts big blind 120
+Dealt to manggy94 [4c Kd]
+*** PRE-FLOP *** 
+pastore58 folds
+lharmonya calls 120
+Juju33julien folds
+frenchzen folds
+wantmore calls 120
+manggy94 folds
+FREEMAAN34 calls 60
+Jessonino checks
+*** FLOP *** [Kc 3s Jc]
+FREEMAAN34 checks
+Jessonino checks
+lharmonya bets 120
+wantmore calls 120
+FREEMAAN34 calls 120
+Jessonino folds
+*** TURN *** [Kc 3s Jc][5s]
+FREEMAAN34 checks
+lharmonya bets 120
+wantmore calls 120
+FREEMAAN34 calls 120
+*** RIVER *** [Kc 3s Jc 5s][9s]
+FREEMAAN34 checks
+lharmonya bets 120
+wantmore calls 120
+FREEMAAN34 folds
+*** SHOW DOWN ***
+wantmore shows [Qd 5d] (One pair : 5)
+lharmonya shows [Tc Js] (One pair : Jacks)
+lharmonya collected 1552 from pot
+*** SUMMARY ***
+Total pot 1552 | No rake
+Board: [Kc 3s Jc 5s 9s]
+Seat 3: wantmore showed [Qd 5d] and lost with One pair : 5
+Seat 8: lharmonya showed [Tc Js] and won 1552 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1755523004126724113-3-1606838657 - Holdem no limit (14/60/120) - 2020/12/01 16:04:17 UTC
+Table: 'Freeroll(408739551)#0016' 8-max (real money) Seat #5 is the button
+Seat 1: Juju33julien (19974)
+Seat 2: frenchzen (40308)
+Seat 3: wantmore (19506)
+Seat 4: manggy94 (19924)
+Seat 5: FREEMAAN34 (19514)
+Seat 6: Jessonino (19854)
+Seat 7: pastore58 (19974)
+Seat 8: lharmonya (20946)
+*** ANTE/BLINDS ***
+Jessonino posts ante 14
+pastore58 posts ante 14
+Juju33julien posts ante 14
+frenchzen posts ante 14
+wantmore posts ante 14
+manggy94 posts ante 14
+FREEMAAN34 posts ante 14
+lharmonya posts ante 14
+Jessonino posts small blind 60
+pastore58 posts big blind 120
+Dealt to manggy94 [4s 8d]
+*** PRE-FLOP *** 
+lharmonya calls 120
+Juju33julien folds
+frenchzen folds
+wantmore folds
+manggy94 folds
+FREEMAAN34 folds
+Jessonino folds
+pastore58 raises 19840 to 19960 and is all-in
+lharmonya folds
+pastore58 collected 20252 from pot
+*** SUMMARY ***
+Total pot 20252 | No rake
+Seat 7: pastore58 (big blind) won 20252
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1755523004126724113-4-1606838705 - Holdem no limit (14/60/120) - 2020/12/01 16:05:05 UTC
+Table: 'Freeroll(408739551)#0016' 8-max (real money) Seat #6 is the button
+Seat 1: Juju33julien (19960)
+Seat 2: frenchzen (40294)
+Seat 3: wantmore (19492)
+Seat 4: manggy94 (19910)
+Seat 5: FREEMAAN34 (19500)
+Seat 6: Jessonino (19780)
+Seat 7: pastore58 (20252)
+Seat 8: lharmonya (20812)
+*** ANTE/BLINDS ***
+pastore58 posts ante 14
+lharmonya posts ante 14
+Juju33julien posts ante 14
+frenchzen posts ante 14
+wantmore posts ante 14
+manggy94 posts ante 14
+FREEMAAN34 posts ante 14
+Jessonino posts ante 14
+pastore58 posts small blind 60
+lharmonya posts big blind 120
+Dealt to manggy94 [4h 9h]
+*** PRE-FLOP *** 
+Juju33julien folds
+frenchzen folds
+wantmore calls 120
+manggy94 folds
+FREEMAAN34 folds
+Jessonino folds
+pastore58 raises 20118 to 20238 and is all-in
+lharmonya calls 20118
+wantmore calls 19358 and is all-in
+*** FLOP *** [Qs 6h As]
+*** TURN *** [Qs 6h As][5s]
+*** RIVER *** [Qs 6h As 5s][2s]
+*** SHOW DOWN ***
+wantmore shows [Ts Kc] (Flush Ace high)
+pastore58 shows [2d 2h] (Trips of 2)
+lharmonya shows [Kd Ks] (Flush Ace high)
+lharmonya collected 60066 from pot
+*** SUMMARY ***
+Total pot 60066 | No rake
+Board: [Qs 6h As 5s 2s]
+Seat 3: wantmore showed [Ts Kc] and lost with Flush Ace high
+Seat 7: pastore58 (small blind) showed [2d 2h] and lost with Trips of 2
+Seat 8: lharmonya (big blind) showed [Kd Ks] and won 60066 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1755523004126724113-5-1606838745 - Holdem no limit (16/70/140) - 2020/12/01 16:05:45 UTC
+Table: 'Freeroll(408739551)#0016' 8-max (real money) Seat #7 is the button
+Seat 1: Juju33julien (19946)
+Seat 2: frenchzen (40280)
+Seat 4: manggy94 (19896)
+Seat 5: FREEMAAN34 (19486)
+Seat 6: Jessonino (19766)
+Seat 7: lefabuleux (19960)
+Seat 8: lharmonya (60626)
+*** ANTE/BLINDS ***
+lharmonya posts ante 16
+Juju33julien posts ante 16
+frenchzen posts ante 16
+manggy94 posts ante 16
+FREEMAAN34 posts ante 16
+Jessonino posts ante 16
+lharmonya posts small blind 70
+Juju33julien posts big blind 140
+Dealt to manggy94 [7d 5h]
+*** PRE-FLOP *** 
+frenchzen folds
+manggy94 folds
+FREEMAAN34 calls 140
+Jessonino folds
+lharmonya calls 70
+Juju33julien checks
+*** FLOP *** [4s Ks 5d]
+lharmonya checks
+Juju33julien checks
+FREEMAAN34 checks
+*** TURN *** [4s Ks 5d][5s]
+lharmonya checks
+Juju33julien bets 140
+FREEMAAN34 folds
+lharmonya calls 140
+*** RIVER *** [4s Ks 5d 5s][Kd]
+lharmonya checks
+Juju33julien checks
+*** SHOW DOWN ***
+Juju33julien shows [2h 4c] (Two pairs : Kings and 5)
+lharmonya shows [9s Qc] (Two pairs : Kings and 5)
+lharmonya collected 796 from pot
+*** SUMMARY ***
+Total pot 796 | No rake
+Board: [4s Ks 5d 5s Kd]
+Seat 1: Juju33julien (big blind) showed [2h 4c] and lost with Two pairs : Kings and 5
+Seat 8: lharmonya (small blind) showed [9s Qc] and won 796 with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1755523004126724113-6-1606838795 - Holdem no limit (16/70/140) - 2020/12/01 16:06:35 UTC
+Table: 'Freeroll(408739551)#0016' 8-max (real money) Seat #8 is the button
+Seat 1: Juju33julien (19650)
+Seat 2: frenchzen (40264)
+Seat 3: pierrepok05 (20000)
+Seat 4: manggy94 (19880)
+Seat 5: FREEMAAN34 (19330)
+Seat 6: Jessonino (19750)
+Seat 7: lefabuleux (19960)
+Seat 8: lharmonya (61126)
+*** ANTE/BLINDS ***
+Juju33julien posts ante 16
+frenchzen posts ante 16
+pierrepok05 posts ante 16
+manggy94 posts ante 16
+FREEMAAN34 posts ante 16
+Jessonino posts ante 16
+lefabuleux posts ante 16
+lharmonya posts ante 16
+Juju33julien posts small blind 70
+frenchzen posts big blind 140
+Dealt to manggy94 [4h Qh]
+*** PRE-FLOP *** 
+pierrepok05 folds
+manggy94 folds
+FREEMAAN34 raises 280 to 420
+Jessonino folds
+lefabuleux calls 420
+lharmonya calls 420
+Juju33julien calls 350
+frenchzen folds
+*** FLOP *** [Qc 8s As]
+Juju33julien bets 140
+FREEMAAN34 calls 140
+lefabuleux calls 140
+lharmonya calls 140
+*** TURN *** [Qc 8s As][Ad]
+Juju33julien bets 140
+FREEMAAN34 calls 140
+lefabuleux calls 140
+lharmonya calls 140
+*** RIVER *** [Qc 8s As Ad][Qd]
+Juju33julien checks
+FREEMAAN34 checks
+lefabuleux bets 1534
+lharmonya folds
+Juju33julien folds
+FREEMAAN34 calls 1534
+*** SHOW DOWN ***
+FREEMAAN34 shows [Ks Kh] (Two pairs : Aces and Kings)
+lefabuleux shows [Ac 2h] (Full of Aces and Queens)
+lefabuleux collected 6136 from pot
+*** SUMMARY ***
+Total pot 6136 | No rake
+Board: [Qc 8s As Ad Qd]
+Seat 5: FREEMAAN34 showed [Ks Kh] and lost with Two pairs : Aces and Kings
+Seat 7: lefabuleux showed [Ac 2h] and won 6136 with Full of Aces and Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1755523004126724245-7-1606838868 - Holdem no limit (16/70/140) - 2020/12/01 16:07:48 UTC
+Table: 'Freeroll(408739551)#0148' 8-max (real money) Seat #2 is the button
+Seat 1: manggy94 (19864)
+Seat 2: slyspirit777 (19376)
+Seat 3: MouradDada30 (85576)
+Seat 4: Papychrichri (18654)
+Seat 5: pgomes386 (19866)
+Seat 7: GENEPIE (18154)
+Seat 8: Clandemor (78330)
+*** ANTE/BLINDS ***
+MouradDada30 posts ante 16
+Papychrichri posts ante 16
+manggy94 posts ante 16
+slyspirit777 posts ante 16
+pgomes386 posts ante 16
+GENEPIE posts ante 16
+Clandemor posts ante 16
+MouradDada30 posts small blind 70
+Papychrichri posts big blind 140
+Dealt to manggy94 [3d 3s]
+*** PRE-FLOP *** 
+pgomes386 folds
+GENEPIE folds
+Clandemor folds
+manggy94 raises 280 to 420
+slyspirit777 calls 420
+MouradDada30 raises 85140 to 85560 and is all-in
+Papychrichri folds
+manggy94 folds
+slyspirit777 calls 18940 and is all-in
+*** FLOP *** [9d Kc Ah]
+*** TURN *** [9d Kc Ah][8h]
+*** RIVER *** [9d Kc Ah 8h][Kd]
+*** SHOW DOWN ***
+slyspirit777 shows [Ac Jh] (Two pairs : Aces and Kings)
+MouradDada30 shows [As Ad] (Full of Aces and Kings)
+MouradDada30 collected 105592 from pot
+*** SUMMARY ***
+Total pot 105592 | No rake
+Board: [9d Kc Ah 8h Kd]
+Seat 2: slyspirit777 (button) showed [Ac Jh] and lost with Two pairs : Aces and Kings
+Seat 3: MouradDada30 (small blind) showed [As Ad] and won 105592 with Full of Aces and Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1755523004126724245-8-1606838933 - Holdem no limit (20/80/160) - 2020/12/01 16:08:53 UTC
+Table: 'Freeroll(408739551)#0148' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (19428)
+Seat 3: MouradDada30 (105592)
+Seat 4: Papychrichri (18498)
+Seat 5: pgomes386 (19850)
+Seat 6: tiatialus (20000)
+Seat 7: GENEPIE (18138)
+Seat 8: Clandemor (78314)
+*** ANTE/BLINDS ***
+Papychrichri posts ante 20
+pgomes386 posts ante 20
+manggy94 posts ante 20
+MouradDada30 posts ante 20
+tiatialus posts ante 20
+GENEPIE posts ante 20
+Clandemor posts ante 20
+Papychrichri posts small blind 80
+pgomes386 posts big blind 160
+Dealt to manggy94 [5c 7s]
+*** PRE-FLOP *** 
+tiatialus folds
+GENEPIE folds
+Clandemor calls 160
+manggy94 folds
+MouradDada30 folds
+Papychrichri calls 80
+pgomes386 checks
+*** FLOP *** [2c 6d 3d]
+Papychrichri checks
+pgomes386 checks
+Clandemor bets 620
+Papychrichri calls 620
+pgomes386 folds
+*** TURN *** [2c 6d 3d][4d]
+Papychrichri checks
+Clandemor bets 1860
+Papychrichri calls 1860
+*** RIVER *** [2c 6d 3d 4d][Ad]
+Papychrichri checks
+Clandemor bets 5600
+Papychrichri raises 10238 to 15838 and is all-in
+Clandemor calls 10238
+*** SHOW DOWN ***
+Clandemor shows [2h Qd] (Flush Ace high)
+Papychrichri shows [Kd 8c] (Flush Ace high)
+Papychrichri collected 37256 from pot
+*** SUMMARY ***
+Total pot 37256 | No rake
+Board: [2c 6d 3d 4d Ad]
+Seat 4: Papychrichri (small blind) showed [Kd 8c] and won 37256 with Flush Ace high
+Seat 8: Clandemor showed [2h Qd] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1755523004126724245-9-1606838991 - Holdem no limit (20/80/160) - 2020/12/01 16:09:51 UTC
+Table: 'Freeroll(408739551)#0148' 8-max (real money) Seat #4 is the button
+Seat 1: manggy94 (19408)
+Seat 2: _PAPA_PIG_ (20000)
+Seat 3: MouradDada30 (105572)
+Seat 4: Papychrichri (37256)
+Seat 5: pgomes386 (19670)
+Seat 6: tiatialus (19980)
+Seat 7: GENEPIE (18118)
+Seat 8: Clandemor (59816)
+*** ANTE/BLINDS ***
+pgomes386 posts ante 20
+tiatialus posts ante 20
+manggy94 posts ante 20
+_PAPA_PIG_ posts ante 20
+MouradDada30 posts ante 20
+Papychrichri posts ante 20
+GENEPIE posts ante 20
+Clandemor posts ante 20
+pgomes386 posts small blind 80
+tiatialus posts big blind 160
+Dealt to manggy94 [As Kc]
+*** PRE-FLOP *** 
+GENEPIE folds
+Clandemor calls 160
+manggy94 calls 160
+_PAPA_PIG_ folds
+MouradDada30 calls 160
+Papychrichri calls 160
+pgomes386 folds
+tiatialus checks
+*** FLOP *** [8h 7s Th]
+tiatialus bets 160
+Clandemor folds
+manggy94 raises 600 to 760
+MouradDada30 calls 760
+Papychrichri calls 760
+tiatialus folds
+*** TURN *** [8h 7s Th][Ah]
+manggy94 checks
+MouradDada30 checks
+Papychrichri checks
+*** RIVER *** [8h 7s Th Ah][6h]
+manggy94 checks
+MouradDada30 bets 17721
+Papychrichri folds
+manggy94 folds
+MouradDada30 collected 21201 from pot
+*** SUMMARY ***
+Total pot 21201 | No rake
+Board: [8h 7s Th Ah 6h]
+Seat 3: MouradDada30 won 21201
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1755523004126724245-10-1606839087 - Holdem no limit (25/100/200) - 2020/12/01 16:11:27 UTC
+Table: 'Freeroll(408739551)#0148' 8-max (real money) Seat #5 is the button
+Seat 1: manggy94 (18468)
+Seat 2: _PAPA_PIG_ (19980)
+Seat 3: MouradDada30 (108112)
+Seat 4: Papychrichri (36316)
+Seat 5: pgomes386 (19570)
+Seat 6: tiatialus (19640)
+Seat 7: GENEPIE (18098)
+Seat 8: Clandemor (59636)
+*** ANTE/BLINDS ***
+tiatialus posts ante 25
+GENEPIE posts ante 25
+manggy94 posts ante 25
+_PAPA_PIG_ posts ante 25
+MouradDada30 posts ante 25
+Papychrichri posts ante 25
+pgomes386 posts ante 25
+Clandemor posts ante 25
+tiatialus posts small blind 100
+GENEPIE posts big blind 200
+Dealt to manggy94 [Ac 8c]
+*** PRE-FLOP *** 
+Clandemor calls 200
+manggy94 raises 400 to 600
+_PAPA_PIG_ folds
+MouradDada30 raises 2600 to 3200
+Papychrichri calls 3200
+pgomes386 calls 3200
+tiatialus folds
+GENEPIE folds
+Clandemor folds
+manggy94 calls 2600
+*** FLOP *** [3d 2c 3s]
+manggy94 checks
+MouradDada30 bets 17798
+Papychrichri folds
+pgomes386 folds
+manggy94 calls 15243 and is all-in
+*** TURN *** [3d 2c 3s][4h]
+*** RIVER *** [3d 2c 3s 4h][5d]
+*** SHOW DOWN ***
+manggy94 shows [Ac 8c] (Straight 5 high)
+MouradDada30 shows [6s 6h] (Straight 6 high)
+MouradDada30 collected 46541 from pot
+*** SUMMARY ***
+Total pot 46541 | No rake
+Board: [3d 2c 3s 4h 5d]
+Seat 1: manggy94 showed [Ac 8c] and lost with Straight 5 high
+Seat 3: MouradDada30 showed [6s 6h] and won 46541 with Straight 6 high
+
+

@@ -1,0 +1,946 @@
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #621144063042650113-12-1453598102 - Holdem no limit (30/60) - 2016/01/24 01:15:02 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #2 is the button
+Seat 1: shu01 (1660)
+Seat 2: manggy94 (500)
+Seat 3: p1erre (440)
+Seat 4: KTJ 11 (1205)
+Seat 5: VitryousBIG (440)
+Seat 6: antonoella (2645)
+Seat 7: Styyve (500)
+Seat 8: PaTaTe2Forr1 (1000)
+*** ANTE/BLINDS ***
+p1erre posts small blind 30
+KTJ 11 posts big blind 60
+Dealt to manggy94 [5c 6s]
+*** PRE-FLOP *** 
+VitryousBIG folds
+antonoella folds
+Styyve folds
+PaTaTe2Forr1 folds
+shu01 calls 60
+manggy94 folds
+p1erre folds
+KTJ 11 checks
+*** FLOP *** [Qh 6h 5h]
+KTJ 11 checks
+shu01 checks
+*** TURN *** [Qh 6h 5h][Td]
+KTJ 11 checks
+shu01 checks
+*** RIVER *** [Qh 6h 5h Td][Jd]
+KTJ 11 checks
+shu01 checks
+*** SHOW DOWN ***
+shu01 shows [Ac 5s] (One pair : 5)
+KTJ 11 shows [Qs 7d] (One pair : Queens)
+KTJ 11 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Qh 6h 5h Td Jd]
+Seat 1: shu01 showed [Ac 5s] and lost with One pair : 5
+Seat 4: KTJ 11 (big blind) showed [Qs 7d] and won 150 with One pair : Queens
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #621144063042650113-13-1453598160 - Holdem no limit (30/60) - 2016/01/24 01:16:00 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #3 is the button
+Seat 1: shu01 (1600)
+Seat 2: manggy94 (500)
+Seat 3: p1erre (410)
+Seat 4: KTJ 11 (1295)
+Seat 5: VitryousBIG (440)
+Seat 6: antonoella (2645)
+Seat 7: Styyve (500)
+Seat 8: PaTaTe2Forr1 (1000)
+*** ANTE/BLINDS ***
+KTJ 11 posts small blind 30
+VitryousBIG posts big blind 60
+Dealt to manggy94 [Ts Th]
+*** PRE-FLOP *** 
+antonoella folds
+Styyve raises 100 to 160
+PaTaTe2Forr1 folds
+shu01 calls 160
+manggy94 raises 340 to 500 and is all-in
+p1erre folds
+KTJ 11 folds
+VitryousBIG folds
+Styyve calls 340 and is all-in
+shu01 calls 340
+*** FLOP *** [2c As Tc]
+*** TURN *** [2c As Tc][6d]
+*** RIVER *** [2c As Tc 6d][8h]
+*** SHOW DOWN ***
+shu01 shows [7d 7s] (One pair : 7)
+Styyve shows [Ac Kc] (One pair : Aces)
+manggy94 shows [Ts Th] (Trips of Tens)
+manggy94 collected 1590 from pot
+*** SUMMARY ***
+Total pot 1590 | No rake
+Board: [2c As Tc 6d 8h]
+Seat 1: shu01 showed [7d 7s] and lost with One pair : 7
+Seat 2: manggy94 showed [Ts Th] and won 1590 with Trips of Tens
+Seat 7: Styyve showed [Ac Kc] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #621144063042650113-14-1453598224 - Holdem no limit (30/60) - 2016/01/24 01:17:04 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #4 is the button
+Seat 1: shu01 (1100)
+Seat 2: manggy94 (1590)
+Seat 3: p1erre (410)
+Seat 4: KTJ 11 (1265)
+Seat 5: VitryousBIG (380)
+Seat 6: antonoella (2645)
+Seat 7: Styyve (500)
+Seat 8: PaTaTe2Forr1 (1000)
+*** ANTE/BLINDS ***
+VitryousBIG posts small blind 30
+antonoella posts big blind 60
+Dealt to manggy94 [6c Ts]
+*** PRE-FLOP *** 
+Styyve folds
+PaTaTe2Forr1 folds
+shu01 calls 60
+manggy94 folds
+p1erre folds
+KTJ 11 folds
+VitryousBIG calls 30
+antonoella checks
+*** FLOP *** [Ah 8d 9d]
+VitryousBIG bets 320 and is all-in
+antonoella calls 320
+shu01 folds
+*** TURN *** [Ah 8d 9d][2d]
+*** RIVER *** [Ah 8d 9d 2d][9c]
+*** SHOW DOWN ***
+VitryousBIG shows [4h As] (Two pairs : Aces and 9)
+antonoella shows [Jd Qd] (Flush Queen high)
+antonoella collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Board: [Ah 8d 9d 2d 9c]
+Seat 5: VitryousBIG (small blind) showed [4h As] and lost with Two pairs : Aces and 9
+Seat 6: antonoella (big blind) showed [Jd Qd] and won 820 with Flush Queen high
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #621144063042650113-15-1453598276 - Holdem no limit (40/80) - 2016/01/24 01:17:56 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #5 is the button
+Seat 1: shu01 (1040)
+Seat 2: manggy94 (1590)
+Seat 3: p1erre (410)
+Seat 4: KTJ 11 (1265)
+Seat 5: VitryousBIG (500)
+Seat 6: antonoella (3085)
+Seat 7: Styyve (500)
+Seat 8: PaTaTe2Forr1 (1000)
+*** ANTE/BLINDS ***
+antonoella posts small blind 40
+Styyve posts big blind 80
+Dealt to manggy94 [Qd 6s]
+*** PRE-FLOP *** 
+PaTaTe2Forr1 folds
+shu01 calls 80
+manggy94 folds
+p1erre raises 330 to 410 and is all-in
+KTJ 11 folds
+VitryousBIG folds
+antonoella calls 370
+Styyve calls 330
+shu01 folds
+*** FLOP *** [7d 8d 8c]
+antonoella checks
+Styyve bets 90 and is all-in
+antonoella calls 90
+*** TURN *** [7d 8d 8c][3d]
+*** RIVER *** [7d 8d 8c 3d][5s]
+*** SHOW DOWN ***
+p1erre shows [2s 2d] (Two pairs : 8 and 2)
+Styyve shows [Ad Kh] (One pair : 8)
+antonoella shows [6d 6c] (Two pairs : 8 and 6)
+antonoella collected 1490 from pot
+*** SUMMARY ***
+Total pot 1490 | No rake
+Board: [7d 8d 8c 3d 5s]
+Seat 3: p1erre showed [2s 2d] and lost with Two pairs : 8 and 2
+Seat 6: antonoella (small blind) showed [6d 6c] and won 1490 with Two pairs : 8 and 6
+Seat 7: Styyve (big blind) showed [Ad Kh] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #621144063042650113-16-1453598320 - Holdem no limit (40/80) - 2016/01/24 01:18:40 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #6 is the button
+Seat 1: shu01 (960)
+Seat 2: manggy94 (1590)
+Seat 3: diez2208 (500)
+Seat 4: KTJ 11 (1265)
+Seat 5: VitryousBIG (500)
+Seat 6: antonoella (4075)
+Seat 8: PaTaTe2Forr1 (1000)
+*** ANTE/BLINDS ***
+PaTaTe2Forr1 posts big blind 80
+Dealt to manggy94 [6h 3s]
+*** PRE-FLOP *** 
+shu01 folds
+manggy94 folds
+diez2208 raises 420 to 500 and is all-in
+KTJ 11 folds
+VitryousBIG folds
+antonoella calls 500
+PaTaTe2Forr1 folds
+*** FLOP *** [7d Ts Jc]
+*** TURN *** [7d Ts Jc][Ks]
+*** RIVER *** [7d Ts Jc Ks][3h]
+*** SHOW DOWN ***
+antonoella shows [6c Ac] (High card : Ace)
+diez2208 shows [Jh 9c] (One pair : Jacks)
+diez2208 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [7d Ts Jc Ks 3h]
+Seat 3: diez2208 showed [Jh 9c] and won 1080 with One pair : Jacks
+Seat 6: antonoella (button) showed [6c Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #621144063042650113-17-1453598379 - Holdem no limit (40/80) - 2016/01/24 01:19:39 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #7 is the button
+Seat 1: shu01 (960)
+Seat 2: manggy94 (1590)
+Seat 3: diez2208 (1080)
+Seat 4: KTJ 11 (1265)
+Seat 5: VitryousBIG (500)
+Seat 6: antonoella (3575)
+Seat 7: Jack AS s (500)
+Seat 8: PaTaTe2Forr1 (920)
+*** ANTE/BLINDS ***
+PaTaTe2Forr1 posts small blind 40
+shu01 posts big blind 80
+Dealt to manggy94 [Jh 3d]
+*** PRE-FLOP *** 
+manggy94 folds
+diez2208 raises 1000 to 1080 and is all-in
+KTJ 11 folds
+VitryousBIG folds
+antonoella folds
+Jack AS s folds
+PaTaTe2Forr1 calls 880 and is all-in
+shu01 folds
+*** FLOP *** [Td 5h 9d]
+*** TURN *** [Td 5h 9d][9s]
+*** RIVER *** [Td 5h 9d 9s][2h]
+*** SHOW DOWN ***
+PaTaTe2Forr1 shows [3h 3c] (Two pairs : 9 and 3)
+diez2208 shows [Qs Ad] (One pair : 9)
+diez2208 collected 160 from side pot 1
+PaTaTe2Forr1 collected 1920 from main pot
+*** SUMMARY ***
+Total pot 2080 | No rake
+Board: [Td 5h 9d 9s 2h]
+Seat 3: diez2208 showed [Qs Ad] and won 160 with One pair : 9
+Seat 8: PaTaTe2Forr1 (small blind) showed [3h 3c] and won 1920 with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #621144063042650113-18-1453598445 - Holdem no limit (60/120) - 2016/01/24 01:20:45 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #8 is the button
+Seat 1: shu01 (880)
+Seat 2: manggy94 (1590)
+Seat 3: diez2208 (160)
+Seat 4: KTJ 11 (1265)
+Seat 5: VitryousBIG (500)
+Seat 6: antonoella (3575)
+Seat 7: Jack AS s (500)
+Seat 8: PaTaTe2Forr1 (1920)
+*** ANTE/BLINDS ***
+shu01 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [4c 3c]
+*** PRE-FLOP *** 
+diez2208 raises 40 to 160 and is all-in
+KTJ 11 folds
+VitryousBIG folds
+antonoella folds
+Jack AS s folds
+PaTaTe2Forr1 raises 200 to 360
+shu01 folds
+manggy94 folds
+*** FLOP *** [8h Ks 3d]
+*** TURN *** [8h Ks 3d][As]
+*** RIVER *** [8h Ks 3d As][Qh]
+*** SHOW DOWN ***
+diez2208 shows [Jd 9s] (High card : Ace)
+PaTaTe2Forr1 shows [Ah Ac] (Trips of Aces)
+PaTaTe2Forr1 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [8h Ks 3d As Qh]
+Seat 3: diez2208 showed [Jd 9s] and lost with High card : Ace
+Seat 8: PaTaTe2Forr1 (button) showed [Ah Ac] and won 700 with Trips of Aces
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #621144063042650113-19-1453598587 - Holdem no limit (60/120) - 2016/01/24 01:23:07 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #1 is the button
+Seat 1: shu01 (1820)
+Seat 2: manggy94 (1470)
+Seat 4: KTJ 11 (2265)
+Seat 5: VitryousBIG (500)
+Seat 6: antonoella (3575)
+Seat 7: Jack AS s (500)
+Seat 8: PaTaTe2Forr1 (3260)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 60
+KTJ 11 posts big blind 120
+Dealt to manggy94 [7c 5c]
+*** PRE-FLOP *** 
+VitryousBIG folds
+antonoella folds
+Jack AS s raises 120 to 240
+PaTaTe2Forr1 folds
+shu01 calls 240
+manggy94 folds
+KTJ 11 folds
+*** FLOP *** [4d Js Tc]
+Jack AS s bets 260 and is all-in
+shu01 calls 260
+*** TURN *** [4d Js Tc][Kd]
+*** RIVER *** [4d Js Tc Kd][3s]
+*** SHOW DOWN ***
+shu01 shows [Qh 7h] (High card : King)
+Jack AS s shows [Kh 8h] (One pair : Kings)
+Jack AS s collected 1180 from pot
+*** SUMMARY ***
+Total pot 1180 | No rake
+Board: [4d Js Tc Kd 3s]
+Seat 1: shu01 (button) showed [Qh 7h] and lost with High card : King
+Seat 7: Jack AS s showed [Kh 8h] and won 1180 with One pair : Kings
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #621144063042650113-20-1453598623 - Holdem no limit (10/60/120) - 2016/01/24 01:23:43 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #2 is the button
+Seat 1: shu01 (1320)
+Seat 2: manggy94 (1410)
+Seat 4: KTJ 11 (2145)
+Seat 5: VitryousBIG (500)
+Seat 6: antonoella (3575)
+Seat 7: Jack AS s (1180)
+Seat 8: PaTaTe2Forr1 (3260)
+*** ANTE/BLINDS ***
+KTJ 11 posts ante 10
+VitryousBIG posts ante 10
+shu01 posts ante 10
+manggy94 posts ante 10
+antonoella posts ante 10
+Jack AS s posts ante 10
+PaTaTe2Forr1 posts ante 10
+KTJ 11 posts small blind 60
+VitryousBIG posts big blind 120
+Dealt to manggy94 [Th Ad]
+*** PRE-FLOP *** 
+antonoella raises 120 to 240
+Jack AS s calls 240
+PaTaTe2Forr1 folds
+shu01 calls 240
+manggy94 calls 240
+KTJ 11 folds
+VitryousBIG folds
+*** FLOP *** [6d 6h 6c]
+antonoella bets 120
+Jack AS s calls 120
+shu01 folds
+manggy94 calls 120
+*** TURN *** [6d 6h 6c][Kh]
+antonoella bets 1570
+Jack AS s folds
+manggy94 folds
+antonoella collected 3140 from pot
+*** SUMMARY ***
+Total pot 3140 | No rake
+Board: [6d 6h 6c Kh]
+Seat 6: antonoella won 3140
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #621144063042650113-21-1453598669 - Holdem no limit (10/60/120) - 2016/01/24 01:24:29 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #4 is the button
+Seat 1: shu01 (1070)
+Seat 2: manggy94 (1040)
+Seat 4: KTJ 11 (2075)
+Seat 5: VitryousBIG (370)
+Seat 6: antonoella (4775)
+Seat 7: Jack AS s (810)
+Seat 8: PaTaTe2Forr1 (3250)
+*** ANTE/BLINDS ***
+VitryousBIG posts ante 10
+antonoella posts ante 10
+shu01 posts ante 10
+manggy94 posts ante 10
+KTJ 11 posts ante 10
+Jack AS s posts ante 10
+PaTaTe2Forr1 posts ante 10
+VitryousBIG posts small blind 60
+antonoella posts big blind 120
+Dealt to manggy94 [8d 4c]
+*** PRE-FLOP *** 
+Jack AS s folds
+PaTaTe2Forr1 folds
+shu01 raises 370 to 490
+manggy94 folds
+KTJ 11 folds
+VitryousBIG calls 300 and is all-in
+antonoella folds
+*** FLOP *** [2c Jc Js]
+*** TURN *** [2c Jc Js][Ts]
+*** RIVER *** [2c Jc Js Ts][Th]
+*** SHOW DOWN ***
+VitryousBIG shows [9c Qc] (Two pairs : Jacks and Tens)
+shu01 shows [Ac Kc] (Two pairs : Jacks and Tens)
+shu01 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [2c Jc Js Ts Th]
+Seat 1: shu01 showed [Ac Kc] and won 1040 with Two pairs : Jacks and Tens
+Seat 5: VitryousBIG (small blind) showed [9c Qc] and lost with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #621144063042650113-22-1453598701 - Holdem no limit (10/60/120) - 2016/01/24 01:25:01 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #5 is the button
+Seat 1: shu01 (1610)
+Seat 2: manggy94 (1030)
+Seat 4: KTJ 11 (2065)
+Seat 6: antonoella (4645)
+Seat 7: Jack AS s (800)
+Seat 8: PaTaTe2Forr1 (3240)
+*** ANTE/BLINDS ***
+antonoella posts ante 10
+Jack AS s posts ante 10
+shu01 posts ante 10
+manggy94 posts ante 10
+KTJ 11 posts ante 10
+PaTaTe2Forr1 posts ante 10
+antonoella posts small blind 60
+Jack AS s posts big blind 120
+Dealt to manggy94 [3s 8s]
+*** PRE-FLOP *** 
+PaTaTe2Forr1 raises 360 to 480
+shu01 folds
+manggy94 folds
+KTJ 11 folds
+antonoella folds
+Jack AS s folds
+PaTaTe2Forr1 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 8: PaTaTe2Forr1 won 720
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #621144063042650113-23-1453598740 - Holdem no limit (10/60/120) - 2016/01/24 01:25:40 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #6 is the button
+Seat 1: shu01 (1600)
+Seat 2: manggy94 (1020)
+Seat 4: KTJ 11 (2055)
+Seat 6: antonoella (4575)
+Seat 7: Jack AS s (670)
+Seat 8: PaTaTe2Forr1 (3470)
+*** ANTE/BLINDS ***
+Jack AS s posts ante 10
+PaTaTe2Forr1 posts ante 10
+shu01 posts ante 10
+manggy94 posts ante 10
+KTJ 11 posts ante 10
+antonoella posts ante 10
+Jack AS s posts small blind 60
+PaTaTe2Forr1 posts big blind 120
+Dealt to manggy94 [9s Qh]
+*** PRE-FLOP *** 
+shu01 folds
+manggy94 folds
+KTJ 11 folds
+antonoella raises 240 to 360
+Jack AS s raises 300 to 660 and is all-in
+PaTaTe2Forr1 folds
+antonoella calls 300
+*** FLOP *** [Qc 3h Jh]
+*** TURN *** [Qc 3h Jh][Kh]
+*** RIVER *** [Qc 3h Jh Kh][8d]
+*** SHOW DOWN ***
+Jack AS s shows [8h As] (One pair : 8)
+antonoella shows [Ks Kd] (Trips of Kings)
+antonoella collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Qc 3h Jh Kh 8d]
+Seat 6: antonoella (button) showed [Ks Kd] and won 1500 with Trips of Kings
+Seat 7: Jack AS s (small blind) showed [8h As] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #621144063042650113-24-1453598770 - Holdem no limit (10/60/120) - 2016/01/24 01:26:10 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #7 is the button
+Seat 1: shu01 (1590)
+Seat 2: manggy94 (1010)
+Seat 4: KTJ 11 (2045)
+Seat 6: antonoella (5405)
+Seat 8: PaTaTe2Forr1 (3340)
+*** ANTE/BLINDS ***
+PaTaTe2Forr1 posts ante 10
+shu01 posts ante 10
+manggy94 posts ante 10
+KTJ 11 posts ante 10
+antonoella posts ante 10
+PaTaTe2Forr1 posts small blind 60
+shu01 posts big blind 120
+Dealt to manggy94 [2h 5h]
+*** PRE-FLOP *** 
+manggy94 folds
+KTJ 11 raises 120 to 240
+antonoella folds
+PaTaTe2Forr1 folds
+shu01 calls 120
+*** FLOP *** [Ts 9c 9s]
+shu01 checks
+KTJ 11 checks
+*** TURN *** [Ts 9c 9s][2d]
+shu01 checks
+KTJ 11 bets 197
+shu01 folds
+KTJ 11 collected 787 from pot
+*** SUMMARY ***
+Total pot 787 | No rake
+Board: [Ts 9c 9s 2d]
+Seat 4: KTJ 11 won 787
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #621144063042650113-25-1453598808 - Holdem no limit (15/75/150) - 2016/01/24 01:26:48 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #8 is the button
+Seat 1: shu01 (1340)
+Seat 2: manggy94 (1000)
+Seat 4: KTJ 11 (2385)
+Seat 6: antonoella (5395)
+Seat 8: PaTaTe2Forr1 (3270)
+*** ANTE/BLINDS ***
+shu01 posts ante 15
+manggy94 posts ante 15
+KTJ 11 posts ante 15
+antonoella posts ante 15
+PaTaTe2Forr1 posts ante 15
+shu01 posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [Ts 2c]
+*** PRE-FLOP *** 
+KTJ 11 folds
+antonoella folds
+PaTaTe2Forr1 folds
+shu01 calls 75
+manggy94 checks
+*** FLOP *** [Kh 5d Qh]
+shu01 checks
+manggy94 checks
+*** TURN *** [Kh 5d Qh][Ah]
+shu01 checks
+manggy94 checks
+*** RIVER *** [Kh 5d Qh Ah][6s]
+shu01 checks
+manggy94 checks
+*** SHOW DOWN ***
+shu01 shows [7c 4s] (High card : Ace)
+manggy94 shows [Ts 2c] (High card : Ace)
+manggy94 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [Kh 5d Qh Ah 6s]
+Seat 1: shu01 (small blind) showed [7c 4s] and lost with High card : Ace
+Seat 2: manggy94 (big blind) showed [Ts 2c] and won 375 with High card : Ace
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #621144063042650113-26-1453598833 - Holdem no limit (15/75/150) - 2016/01/24 01:27:13 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #1 is the button
+Seat 1: shu01 (1175)
+Seat 2: manggy94 (1210)
+Seat 4: KTJ 11 (2370)
+Seat 6: antonoella (5380)
+Seat 8: PaTaTe2Forr1 (3255)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+KTJ 11 posts ante 15
+shu01 posts ante 15
+antonoella posts ante 15
+PaTaTe2Forr1 posts ante 15
+manggy94 posts small blind 75
+KTJ 11 posts big blind 150
+Dealt to manggy94 [7h 9c]
+*** PRE-FLOP *** 
+antonoella calls 150
+PaTaTe2Forr1 folds
+shu01 folds
+manggy94 folds
+KTJ 11 checks
+*** FLOP *** [Jd 2h 8s]
+KTJ 11 checks
+antonoella checks
+*** TURN *** [Jd 2h 8s][Qc]
+KTJ 11 checks
+antonoella bets 150
+KTJ 11 folds
+antonoella collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jd 2h 8s Qc]
+Seat 6: antonoella won 600
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #621144063042650113-27-1453598881 - Holdem no limit (15/75/150) - 2016/01/24 01:28:01 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #2 is the button
+Seat 1: shu01 (1160)
+Seat 2: manggy94 (1120)
+Seat 4: KTJ 11 (2205)
+Seat 6: antonoella (5665)
+Seat 8: PaTaTe2Forr1 (3240)
+*** ANTE/BLINDS ***
+KTJ 11 posts ante 15
+antonoella posts ante 15
+shu01 posts ante 15
+manggy94 posts ante 15
+PaTaTe2Forr1 posts ante 15
+KTJ 11 posts small blind 75
+antonoella posts big blind 150
+Dealt to manggy94 [7d 7h]
+*** PRE-FLOP *** 
+PaTaTe2Forr1 raises 300 to 450
+shu01 folds
+manggy94 raises 655 to 1105 and is all-in
+KTJ 11 folds
+antonoella folds
+PaTaTe2Forr1 calls 655
+*** FLOP *** [5h 8s 5c]
+*** TURN *** [5h 8s 5c][5d]
+*** RIVER *** [5h 8s 5c 5d][6d]
+*** SHOW DOWN ***
+PaTaTe2Forr1 shows [Th Ah] (Trips of 5)
+manggy94 shows [7d 7h] (Full of 5 and 7)
+manggy94 collected 2510 from pot
+*** SUMMARY ***
+Total pot 2510 | No rake
+Board: [5h 8s 5c 5d 6d]
+Seat 2: manggy94 (button) showed [7d 7h] and won 2510 with Full of 5 and 7
+Seat 8: PaTaTe2Forr1 showed [Th Ah] and lost with Trips of 5
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #621144063042650113-28-1453598918 - Holdem no limit (15/75/150) - 2016/01/24 01:28:38 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #4 is the button
+Seat 1: shu01 (1145)
+Seat 2: manggy94 (2510)
+Seat 4: KTJ 11 (2115)
+Seat 6: antonoella (5500)
+Seat 8: PaTaTe2Forr1 (2120)
+*** ANTE/BLINDS ***
+antonoella posts ante 15
+PaTaTe2Forr1 posts ante 15
+shu01 posts ante 15
+manggy94 posts ante 15
+KTJ 11 posts ante 15
+antonoella posts small blind 75
+PaTaTe2Forr1 posts big blind 150
+Dealt to manggy94 [4h 4c]
+*** PRE-FLOP *** 
+shu01 folds
+manggy94 calls 150
+KTJ 11 calls 150
+antonoella calls 75
+PaTaTe2Forr1 checks
+*** FLOP *** [Ac 3h Qh]
+antonoella checks
+PaTaTe2Forr1 checks
+manggy94 bets 450
+KTJ 11 calls 450
+antonoella calls 450
+PaTaTe2Forr1 folds
+*** TURN *** [Ac 3h Qh][4s]
+antonoella checks
+manggy94 bets 1519
+KTJ 11 calls 1500 and is all-in
+antonoella folds
+*** RIVER *** [Ac 3h Qh 4s][7s]
+*** SHOW DOWN ***
+KTJ 11 shows [6s As] (One pair : Aces)
+manggy94 shows [4h 4c] (Trips of 4)
+manggy94 collected 5044 from pot
+*** SUMMARY ***
+Total pot 5044 | No rake
+Board: [Ac 3h Qh 4s 7s]
+Seat 2: manggy94 showed [4h 4c] and won 5044 with Trips of 4
+Seat 4: KTJ 11 (button) showed [6s As] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #621144063042650113-29-1453599067 - Holdem no limit (20/100/200) - 2016/01/24 01:31:07 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #6 is the button
+Seat 1: el fouAArat (1970)
+Seat 2: Adam54250 (2210)
+Seat 3: gallykea22 (2075)
+Seat 4: enzo2018 (1115)
+Seat 5: manggy94 (5420)
+Seat 7: -DoradeRoyal (3920)
+Seat 8: antonoella (4885)
+*** ANTE/BLINDS ***
+antonoella posts ante 20
+el fouAArat posts ante 20
+Adam54250 posts ante 20
+gallykea22 posts ante 20
+enzo2018 posts ante 20
+manggy94 posts ante 20
+antonoella posts small blind 100
+el fouAArat posts big blind 200
+Dealt to manggy94 [Tc 7c]
+*** PRE-FLOP *** 
+Adam54250 folds
+gallykea22 folds
+enzo2018 folds
+manggy94 calls 200
+antonoella raises 200 to 400
+el fouAArat calls 200
+manggy94 calls 200
+*** FLOP *** [9c 3d 5c]
+antonoella bets 660
+el fouAArat folds
+manggy94 calls 660
+*** TURN *** [9c 3d 5c][7d]
+antonoella bets 1320
+manggy94 calls 1320
+*** RIVER *** [9c 3d 5c 7d][8h]
+antonoella bets 2485 and is all-in
+manggy94 folds
+antonoella collected 7765 from pot
+*** SUMMARY ***
+Total pot 7765 | No rake
+Board: [9c 3d 5c 7d 8h]
+Seat 8: antonoella (small blind) won 7765
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #621144063042650113-30-1453599151 - Holdem no limit (25/125/250) - 2016/01/24 01:32:31 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #8 is the button
+Seat 1: el fouAArat (1550)
+Seat 2: Adam54250 (2190)
+Seat 3: gallykea22 (2055)
+Seat 4: enzo2018 (1095)
+Seat 5: manggy94 (3020)
+Seat 7: -DoradeRoyal (3920)
+Seat 8: antonoella (7765)
+*** ANTE/BLINDS ***
+el fouAArat posts ante 25
+Adam54250 posts ante 25
+gallykea22 posts ante 25
+enzo2018 posts ante 25
+manggy94 posts ante 25
+-DoradeRoyal posts ante 25
+antonoella posts ante 25
+el fouAArat posts small blind 125
+Adam54250 posts big blind 250
+Dealt to manggy94 [Th Ad]
+*** PRE-FLOP *** 
+gallykea22 calls 250
+enzo2018 folds
+manggy94 raises 1050 to 1300
+-DoradeRoyal folds
+antonoella folds
+el fouAArat folds
+Adam54250 folds
+gallykea22 folds
+manggy94 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 5: manggy94 won 2100
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #621144063042650113-31-1453599206 - Holdem no limit (25/125/250) - 2016/01/24 01:33:26 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #1 is the button
+Seat 1: el fouAArat (1400)
+Seat 2: Adam54250 (1915)
+Seat 3: gallykea22 (1780)
+Seat 4: enzo2018 (1070)
+Seat 5: manggy94 (3795)
+Seat 7: -DoradeRoyal (3895)
+Seat 8: antonoella (7740)
+*** ANTE/BLINDS ***
+Adam54250 posts ante 25
+gallykea22 posts ante 25
+el fouAArat posts ante 25
+enzo2018 posts ante 25
+manggy94 posts ante 25
+-DoradeRoyal posts ante 25
+antonoella posts ante 25
+Adam54250 posts small blind 125
+gallykea22 posts big blind 250
+Dealt to manggy94 [5s As]
+*** PRE-FLOP *** 
+enzo2018 folds
+manggy94 calls 250
+-DoradeRoyal folds
+antonoella calls 250
+el fouAArat folds
+Adam54250 calls 125
+gallykea22 checks
+*** FLOP *** [Ac 8h 7h]
+Adam54250 bets 250
+gallykea22 calls 250
+manggy94 calls 250
+antonoella folds
+*** TURN *** [Ac 8h 7h][9h]
+Adam54250 bets 250
+gallykea22 folds
+manggy94 calls 250
+*** RIVER *** [Ac 8h 7h 9h][2h]
+Adam54250 bets 1140 and is all-in
+manggy94 folds
+Adam54250 collected 3565 from pot
+*** SUMMARY ***
+Total pot 3565 | No rake
+Board: [Ac 8h 7h 9h 2h]
+Seat 2: Adam54250 (small blind) won 3565
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #621144063042650113-32-1453599315 - Holdem no limit (25/125/250) - 2016/01/24 01:35:15 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #2 is the button
+Seat 1: el fouAArat (1375)
+Seat 2: Adam54250 (3565)
+Seat 3: gallykea22 (1255)
+Seat 4: enzo2018 (1045)
+Seat 5: manggy94 (3020)
+Seat 7: -DoradeRoyal (3870)
+Seat 8: antonoella (7465)
+*** ANTE/BLINDS ***
+gallykea22 posts ante 25
+enzo2018 posts ante 25
+el fouAArat posts ante 25
+Adam54250 posts ante 25
+manggy94 posts ante 25
+-DoradeRoyal posts ante 25
+antonoella posts ante 25
+gallykea22 posts small blind 125
+enzo2018 posts big blind 250
+Dealt to manggy94 [9h 9s]
+*** PRE-FLOP *** 
+manggy94 raises 800 to 1050
+-DoradeRoyal folds
+antonoella folds
+el fouAArat folds
+Adam54250 folds
+gallykea22 folds
+enzo2018 folds
+manggy94 collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | No rake
+Seat 5: manggy94 won 1600
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #621144063042650113-33-1453599394 - Holdem no limit (35/150/300) - 2016/01/24 01:36:34 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #3 is the button
+Seat 1: el fouAArat (1350)
+Seat 2: Adam54250 (3540)
+Seat 3: gallykea22 (1105)
+Seat 4: enzo2018 (770)
+Seat 5: manggy94 (3545)
+Seat 7: -DoradeRoyal (3845)
+Seat 8: antonoella (7440)
+*** ANTE/BLINDS ***
+enzo2018 posts ante 35
+manggy94 posts ante 35
+el fouAArat posts ante 35
+Adam54250 posts ante 35
+gallykea22 posts ante 35
+-DoradeRoyal posts ante 35
+antonoella posts ante 35
+enzo2018 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [6c 5d]
+*** PRE-FLOP *** 
+-DoradeRoyal folds
+antonoella folds
+el fouAArat folds
+Adam54250 calls 300
+gallykea22 folds
+enzo2018 folds
+manggy94 checks
+*** FLOP *** [9h 6s Ah]
+manggy94 bets 300
+Adam54250 folds
+manggy94 collected 1295 from pot
+*** SUMMARY ***
+Total pot 1295 | No rake
+Board: [9h 6s Ah]
+Seat 5: manggy94 (big blind) won 1295
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #621144063042650113-34-1453599443 - Holdem no limit (35/150/300) - 2016/01/24 01:37:23 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #4 is the button
+Seat 1: el fouAArat (1315)
+Seat 2: Adam54250 (3205)
+Seat 3: gallykea22 (1070)
+Seat 4: enzo2018 (585)
+Seat 5: manggy94 (4205)
+Seat 8: antonoella (7405)
+*** ANTE/BLINDS ***
+manggy94 posts ante 35
+antonoella posts ante 35
+el fouAArat posts ante 35
+Adam54250 posts ante 35
+gallykea22 posts ante 35
+enzo2018 posts ante 35
+manggy94 posts small blind 150
+antonoella posts big blind 300
+Dealt to manggy94 [As 6h]
+*** PRE-FLOP *** 
+el fouAArat folds
+Adam54250 raises 600 to 900
+gallykea22 raises 135 to 1035 and is all-in
+enzo2018 folds
+manggy94 folds
+antonoella folds
+Adam54250 calls 135
+*** FLOP *** [2h Jh 4d]
+*** TURN *** [2h Jh 4d][7d]
+*** RIVER *** [2h Jh 4d 7d][Th]
+*** SHOW DOWN ***
+Adam54250 shows [Kc Js] (One pair : Jacks)
+gallykea22 shows [Jd Ad] (One pair : Jacks)
+gallykea22 collected 2730 from pot
+*** SUMMARY ***
+Total pot 2730 | No rake
+Board: [2h Jh 4d 7d Th]
+Seat 2: Adam54250 showed [Kc Js] and lost with One pair : Jacks
+Seat 3: gallykea22 showed [Jd Ad] and won 2730 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Qualif. Déglingos - Ticket 10€" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #621144063042650113-35-1453599511 - Holdem no limit (40/200/400) - 2016/01/24 01:38:31 UTC
+Table: 'Qualif. Déglingos - Ticket 10€(144621372)#000' 8-max (real money) Seat #5 is the button
+Seat 1: el fouAArat (1280)
+Seat 2: Adam54250 (2135)
+Seat 3: gallykea22 (2730)
+Seat 4: enzo2018 (550)
+Seat 5: manggy94 (4020)
+Seat 8: antonoella (7070)
+*** ANTE/BLINDS ***
+antonoella posts ante 40
+el fouAArat posts ante 40
+Adam54250 posts ante 40
+gallykea22 posts ante 40
+enzo2018 posts ante 40
+manggy94 posts ante 40
+antonoella posts small blind 200
+el fouAArat posts big blind 400
+Dealt to manggy94 [Jh Jd]
+*** PRE-FLOP *** 
+Adam54250 folds
+gallykea22 folds
+enzo2018 folds
+manggy94 raises 1240 to 1640
+antonoella raises 1240 to 2880
+el fouAArat folds
+manggy94 raises 1100 to 3980 and is all-in
+antonoella calls 1100
+*** FLOP *** [Ah 6h Qc]
+*** TURN *** [Ah 6h Qc][Ts]
+*** RIVER *** [Ah 6h Qc Ts][8h]
+*** SHOW DOWN ***
+manggy94 shows [Jh Jd] (One pair : Jacks)
+antonoella shows [Ac Js] (One pair : Aces)
+antonoella collected 8600 from pot
+*** SUMMARY ***
+Total pot 8600 | No rake
+Board: [Ah 6h Qc Ts 8h]
+Seat 5: manggy94 (button) showed [Jh Jd] and lost with One pair : Jacks
+Seat 8: antonoella (small blind) showed [Ac Js] and won 8600 with One pair : Aces
+
+

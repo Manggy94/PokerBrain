@@ -1,0 +1,167 @@
+Winamax Poker - Tournament "Hit&Run Ticket 10€" buyIn: 1,80€ + 0,20€ level: 3 - HandId: #684014833703583747-6-1464799544 - Holdem no limit (100/200) - 2016/06/01 16:45:44 UTC
+Table: 'Hit&Run Ticket 10€(159259614)#002' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (9000)
+Seat 2: bassir84 (10929)
+Seat 3: Karimlain (8792)
+Seat 5: moha953119 (7750)
+Seat 6: MasterFree (5775)
+*** ANTE/BLINDS ***
+Karimlain posts small blind 100
+moha953119 posts big blind 200
+Dealt to manggy94 [Jh 2c]
+*** PRE-FLOP *** 
+MasterFree folds
+manggy94 folds
+bassir84 folds
+Karimlain folds
+moha953119 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 5: moha953119 (big blind) won 300
+
+
+Winamax Poker - Tournament "Hit&Run Ticket 10€" buyIn: 1,80€ + 0,20€ level: 3 - HandId: #684014833703583747-7-1464799576 - Holdem no limit (100/200) - 2016/06/01 16:46:16 UTC
+Table: 'Hit&Run Ticket 10€(159259614)#002' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (9000)
+Seat 2: bassir84 (10929)
+Seat 3: Karimlain (8692)
+Seat 5: moha953119 (7850)
+Seat 6: MasterFree (5775)
+*** ANTE/BLINDS ***
+moha953119 posts small blind 100
+MasterFree posts big blind 200
+Dealt to manggy94 [2c Kc]
+*** PRE-FLOP *** 
+manggy94 raises 200 to 400
+bassir84 folds
+Karimlain folds
+moha953119 calls 300
+MasterFree calls 200
+*** FLOP *** [Kh 8h Qc]
+moha953119 bets 200
+MasterFree folds
+manggy94 raises 1600 to 1800
+moha953119 calls 1600
+*** TURN *** [Kh 8h Qc][8d]
+moha953119 checks
+manggy94 checks
+*** RIVER *** [Kh 8h Qc 8d][4s]
+moha953119 bets 5650 and is all-in
+manggy94 calls 5650
+*** SHOW DOWN ***
+manggy94 shows [2c Kc] (Two pairs : Kings and 8)
+moha953119 shows [8c Tc] (Trips of 8)
+moha953119 collected 16100 from pot
+*** SUMMARY ***
+Total pot 16100 | No rake
+Board: [Kh 8h Qc 8d 4s]
+Seat 1: manggy94 showed [2c Kc] and lost with Two pairs : Kings and 8
+Seat 5: moha953119 (small blind) showed [8c Tc] and won 16100 with Trips of 8
+
+
+Winamax Poker - Tournament "Hit&Run Ticket 10€" buyIn: 1,80€ + 0,20€ level: 4 - HandId: #684014833703583747-8-1464799640 - Holdem no limit (150/300) - 2016/06/01 16:47:20 UTC
+Table: 'Hit&Run Ticket 10€(159259614)#002' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (1150)
+Seat 2: bassir84 (10929)
+Seat 3: Karimlain (8692)
+Seat 4: misterpmp (9000)
+Seat 5: moha953119 (16100)
+Seat 6: MasterFree (5375)
+*** ANTE/BLINDS ***
+MasterFree posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Tc Jd]
+*** PRE-FLOP *** 
+bassir84 folds
+Karimlain folds
+misterpmp folds
+moha953119 folds
+MasterFree calls 150
+manggy94 checks
+*** FLOP *** [5d Ah Jh]
+MasterFree checks
+manggy94 bets 850 and is all-in
+MasterFree calls 850
+*** TURN *** [5d Ah Jh][Qs]
+*** RIVER *** [5d Ah Jh Qs][Ks]
+*** SHOW DOWN ***
+manggy94 shows [Tc Jd] (Straight Ace high)
+MasterFree shows [8s Th] (Straight Ace high)
+MasterFree collected 1150 from pot
+manggy94 collected 1150 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Board: [5d Ah Jh Qs Ks]
+Seat 1: manggy94 (big blind) showed [Tc Jd] and won 1150 with Straight Ace high
+Seat 6: MasterFree (small blind) showed [8s Th] and won 1150 with Straight Ace high
+
+
+Winamax Poker - Tournament "Hit&Run Ticket 10€" buyIn: 1,80€ + 0,20€ level: 4 - HandId: #684014833703583747-9-1464799672 - Holdem no limit (150/300) - 2016/06/01 16:47:52 UTC
+Table: 'Hit&Run Ticket 10€(159259614)#002' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (1150)
+Seat 2: bassir84 (10929)
+Seat 3: Karimlain (8692)
+Seat 4: misterpmp (9000)
+Seat 5: moha953119 (16100)
+Seat 6: MasterFree (5375)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+bassir84 posts big blind 300
+Dealt to manggy94 [6c 5s]
+*** PRE-FLOP *** 
+Karimlain raises 8392 to 8692 and is all-in
+misterpmp folds
+moha953119 folds
+MasterFree calls 5375 and is all-in
+manggy94 folds
+bassir84 folds
+*** FLOP *** [8d 5d 3d]
+*** TURN *** [8d 5d 3d][Th]
+*** RIVER *** [8d 5d 3d Th][Kc]
+*** SHOW DOWN ***
+MasterFree shows [Ad Qh] (High card : Ace)
+Karimlain shows [Ah Js] (High card : Ace)
+Karimlain collected 3317 from side pot 1
+MasterFree collected 11200 from main pot
+*** SUMMARY ***
+Total pot 14517 | No rake
+Board: [8d 5d 3d Th Kc]
+Seat 3: Karimlain showed [Ah Js] and won 3317 with High card : Ace
+Seat 6: MasterFree (button) showed [Ad Qh] and won 11200 with High card : Ace
+
+
+Winamax Poker - Tournament "Hit&Run Ticket 10€" buyIn: 1,80€ + 0,20€ level: 4 - HandId: #684014833703583747-10-1464799701 - Holdem no limit (150/300) - 2016/06/01 16:48:21 UTC
+Table: 'Hit&Run Ticket 10€(159259614)#002' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (1000)
+Seat 2: bassir84 (10629)
+Seat 3: Karimlain (3317)
+Seat 4: misterpmp (9000)
+Seat 5: moha953119 (16100)
+Seat 6: MasterFree (11200)
+*** ANTE/BLINDS ***
+bassir84 posts small blind 150
+Karimlain posts big blind 300
+Dealt to manggy94 [Jd Ad]
+*** PRE-FLOP *** 
+misterpmp folds
+moha953119 folds
+MasterFree folds
+manggy94 raises 700 to 1000 and is all-in
+bassir84 raises 9629 to 10629 and is all-in
+Karimlain calls 3017 and is all-in
+*** FLOP *** [Tc 9c Kh]
+*** TURN *** [Tc 9c Kh][8d]
+*** RIVER *** [Tc 9c Kh 8d][3h]
+*** SHOW DOWN ***
+manggy94 shows [Jd Ad] (High card : Ace)
+Karimlain shows [3s 5h] (One pair : 3)
+bassir84 shows [3d 3c] (Trips of 3)
+bassir84 collected 14946 from pot
+*** SUMMARY ***
+Total pot 14946 | No rake
+Board: [Tc 9c Kh 8d 3h]
+Seat 1: manggy94 (button) showed [Jd Ad] and lost with High card : Ace
+Seat 2: bassir84 (small blind) showed [3d 3c] and won 14946 with Trips of 3
+Seat 3: Karimlain (big blind) showed [3s 5h] and lost with One pair : 3
+
+

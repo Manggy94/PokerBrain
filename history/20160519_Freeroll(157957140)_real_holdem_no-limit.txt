@@ -1,0 +1,696 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #678420750469693781-21-1463676540 - Holdem no limit (10/60/120) - 2016/05/19 16:49:00 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (2725)
+Seat 2: Groucha (5735)
+Seat 3: Tom_Tom62540 (7155)
+Seat 4: rivella (2130)
+Seat 5: Semzak (2795)
+Seat 6: sebro (3095)
+*** ANTE/BLINDS ***
+sebro posts ante 10
+manggy94 posts ante 10
+Groucha posts ante 10
+Tom_Tom62540 posts ante 10
+rivella posts ante 10
+Semzak posts ante 10
+sebro posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [9d 8c]
+*** PRE-FLOP *** 
+Groucha calls 120
+Tom_Tom62540 calls 120
+rivella folds
+Semzak folds
+sebro calls 60
+manggy94 checks
+*** FLOP *** [Qs Ad Qd]
+sebro checks
+manggy94 checks
+Groucha checks
+Tom_Tom62540 checks
+*** TURN *** [Qs Ad Qd][Kh]
+sebro checks
+manggy94 checks
+Groucha checks
+Tom_Tom62540 checks
+*** RIVER *** [Qs Ad Qd Kh][As]
+sebro checks
+manggy94 checks
+Groucha checks
+Tom_Tom62540 checks
+*** SHOW DOWN ***
+manggy94 shows [9d 8c] (Two pairs : Aces and Queens)
+Groucha shows [7d Td] (Two pairs : Aces and Queens)
+Tom_Tom62540 shows [6s 5d] (Two pairs : Aces and Queens)
+sebro shows [9s Kd] (Two pairs : Aces and Kings)
+sebro collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Qs Ad Qd Kh As]
+Seat 1: manggy94 (big blind) showed [9d 8c] and lost with Two pairs : Aces and Queens
+Seat 2: Groucha showed [7d Td] and lost with Two pairs : Aces and Queens
+Seat 3: Tom_Tom62540 showed [6s 5d] and lost with Two pairs : Aces and Queens
+Seat 6: sebro (small blind) showed [9s Kd] and won 540 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #678420750469693781-22-1463676626 - Holdem no limit (10/60/120) - 2016/05/19 16:50:26 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (2595)
+Seat 2: Groucha (5605)
+Seat 3: Tom_Tom62540 (7025)
+Seat 4: rivella (2120)
+Seat 5: Semzak (2785)
+Seat 6: sebro (3505)
+*** ANTE/BLINDS ***
+manggy94 posts ante 10
+Groucha posts ante 10
+Tom_Tom62540 posts ante 10
+rivella posts ante 10
+Semzak posts ante 10
+sebro posts ante 10
+manggy94 posts small blind 60
+Groucha posts big blind 120
+Dealt to manggy94 [3s Qh]
+*** PRE-FLOP *** 
+Tom_Tom62540 calls 120
+rivella raises 120 to 240
+Semzak folds
+sebro folds
+manggy94 folds
+Groucha calls 120
+Tom_Tom62540 calls 120
+*** FLOP *** [2d 4h 6h]
+Groucha checks
+Tom_Tom62540 checks
+rivella checks
+*** TURN *** [2d 4h 6h][6c]
+Groucha checks
+Tom_Tom62540 checks
+rivella checks
+*** RIVER *** [2d 4h 6h 6c][4c]
+Groucha checks
+Tom_Tom62540 checks
+rivella checks
+*** SHOW DOWN ***
+Groucha shows [Qd Jd] (Two pairs : 6 and 4)
+Tom_Tom62540 shows [8s 7s] (Two pairs : 6 and 4)
+rivella shows [Ah Kh] (Two pairs : 6 and 4)
+rivella collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [2d 4h 6h 6c 4c]
+Seat 2: Groucha (big blind) showed [Qd Jd] and lost with Two pairs : 6 and 4
+Seat 3: Tom_Tom62540 showed [8s 7s] and lost with Two pairs : 6 and 4
+Seat 4: rivella showed [Ah Kh] and won 840 with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #678420750469693781-23-1463676677 - Holdem no limit (10/60/120) - 2016/05/19 16:51:17 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (2525)
+Seat 2: Groucha (5355)
+Seat 3: Tom_Tom62540 (6775)
+Seat 4: rivella (2710)
+Seat 5: Semzak (2775)
+Seat 6: sebro (3495)
+*** ANTE/BLINDS ***
+Groucha posts ante 10
+Tom_Tom62540 posts ante 10
+manggy94 posts ante 10
+rivella posts ante 10
+Semzak posts ante 10
+sebro posts ante 10
+Groucha posts small blind 60
+Tom_Tom62540 posts big blind 120
+Dealt to manggy94 [8s Td]
+*** PRE-FLOP *** 
+rivella folds
+Semzak calls 120
+sebro folds
+manggy94 calls 120
+Groucha calls 60
+Tom_Tom62540 checks
+*** FLOP *** [Jc Ad 5h]
+Groucha bets 270
+Tom_Tom62540 folds
+Semzak folds
+manggy94 raises 1080 to 1350
+Groucha raises 1080 to 2430
+manggy94 folds
+Groucha collected 4320 from pot
+*** SUMMARY ***
+Total pot 4320 | No rake
+Board: [Jc Ad 5h]
+Seat 2: Groucha (small blind) won 4320
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #678420750469693781-24-1463676735 - Holdem no limit (15/75/150) - 2016/05/19 16:52:15 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (1045)
+Seat 2: Groucha (7115)
+Seat 3: Tom_Tom62540 (6645)
+Seat 4: rivella (2700)
+Seat 5: Semzak (2645)
+Seat 6: sebro (3485)
+*** ANTE/BLINDS ***
+Tom_Tom62540 posts ante 15
+rivella posts ante 15
+manggy94 posts ante 15
+Groucha posts ante 15
+Semzak posts ante 15
+sebro posts ante 15
+Tom_Tom62540 posts small blind 75
+rivella posts big blind 150
+Dealt to manggy94 [6s Th]
+*** PRE-FLOP *** 
+Semzak folds
+sebro raises 225 to 375
+manggy94 folds
+Groucha folds
+Tom_Tom62540 calls 300
+rivella folds
+*** FLOP *** [Jc Tc 7h]
+Tom_Tom62540 bets 990
+sebro folds
+Tom_Tom62540 collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | No rake
+Board: [Jc Tc 7h]
+Seat 3: Tom_Tom62540 (small blind) won 1980
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #678420750469693781-25-1463676760 - Holdem no limit (15/75/150) - 2016/05/19 16:52:40 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (1030)
+Seat 2: Groucha (7100)
+Seat 3: Tom_Tom62540 (7245)
+Seat 4: rivella (2535)
+Seat 5: Semzak (2630)
+Seat 6: sebro (3095)
+*** ANTE/BLINDS ***
+rivella posts ante 15
+Semzak posts ante 15
+manggy94 posts ante 15
+Groucha posts ante 15
+Tom_Tom62540 posts ante 15
+sebro posts ante 15
+rivella posts small blind 75
+Semzak posts big blind 150
+Dealt to manggy94 [3c Ts]
+*** PRE-FLOP *** 
+sebro folds
+manggy94 folds
+Groucha folds
+Tom_Tom62540 calls 150
+rivella calls 75
+Semzak raises 540 to 690
+Tom_Tom62540 calls 540
+rivella folds
+*** FLOP *** [Qh Jd 5d]
+Semzak bets 1925 and is all-in
+Tom_Tom62540 calls 1925
+*** TURN *** [Qh Jd 5d][6s]
+*** RIVER *** [Qh Jd 5d 6s][9h]
+*** SHOW DOWN ***
+Semzak shows [Ah 7c] (High card : Ace)
+Tom_Tom62540 shows [Tc As] (High card : Ace)
+Tom_Tom62540 collected 5470 from pot
+*** SUMMARY ***
+Total pot 5470 | No rake
+Board: [Qh Jd 5d 6s 9h]
+Seat 3: Tom_Tom62540 (button) showed [Tc As] and won 5470 with High card : Ace
+Seat 5: Semzak (big blind) showed [Ah 7c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #678420750469693781-26-1463676808 - Holdem no limit (15/75/150) - 2016/05/19 16:53:28 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (1015)
+Seat 2: Groucha (7085)
+Seat 3: Tom_Tom62540 (10085)
+Seat 4: rivella (2370)
+Seat 6: sebro (3080)
+*** ANTE/BLINDS ***
+sebro posts ante 15
+manggy94 posts ante 15
+Groucha posts ante 15
+Tom_Tom62540 posts ante 15
+rivella posts ante 15
+sebro posts big blind 150
+Dealt to manggy94 [Td 3s]
+*** PRE-FLOP *** 
+manggy94 folds
+Groucha folds
+Tom_Tom62540 folds
+rivella calls 150
+sebro checks
+*** FLOP *** [9d 4c Jc]
+sebro checks
+rivella bets 150
+sebro folds
+rivella collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | No rake
+Board: [9d 4c Jc]
+Seat 4: rivella (button) won 525
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #678420750469693781-27-1463676836 - Holdem no limit (15/75/150) - 2016/05/19 16:53:56 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (1000)
+Seat 2: Groucha (7070)
+Seat 3: Tom_Tom62540 (10070)
+Seat 4: rivella (2580)
+Seat 6: sebro (2915)
+*** ANTE/BLINDS ***
+sebro posts ante 15
+manggy94 posts ante 15
+Groucha posts ante 15
+Tom_Tom62540 posts ante 15
+rivella posts ante 15
+sebro posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [7s 2s]
+*** PRE-FLOP *** 
+Groucha folds
+Tom_Tom62540 folds
+rivella calls 150
+sebro raises 300 to 450
+manggy94 raises 535 to 985 and is all-in
+rivella folds
+sebro calls 535
+*** FLOP *** [8s 9c 5d]
+*** TURN *** [8s 9c 5d][6d]
+*** RIVER *** [8s 9c 5d 6d][3c]
+*** SHOW DOWN ***
+sebro shows [Qc Qs] (One pair : Queens)
+manggy94 shows [7s 2s] (Straight 9 high)
+manggy94 collected 2195 from pot
+*** SUMMARY ***
+Total pot 2195 | No rake
+Board: [8s 9c 5d 6d 3c]
+Seat 1: manggy94 (big blind) showed [7s 2s] and won 2195 with Straight 9 high
+Seat 6: sebro (small blind) showed [Qc Qs] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #678420750469693781-28-1463676884 - Holdem no limit (20/100/200) - 2016/05/19 16:54:44 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (2195)
+Seat 2: Groucha (7055)
+Seat 3: Tom_Tom62540 (10055)
+Seat 4: rivella (2415)
+Seat 5: BUBU 63 (2385)
+Seat 6: sebro (1915)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+Groucha posts ante 20
+Tom_Tom62540 posts ante 20
+rivella posts ante 20
+BUBU 63 posts ante 20
+sebro posts ante 20
+manggy94 posts small blind 100
+Groucha posts big blind 200
+Dealt to manggy94 [4s 9d]
+*** PRE-FLOP *** 
+Tom_Tom62540 raises 200 to 400
+rivella calls 400
+BUBU 63 folds
+sebro raises 600 to 1000
+manggy94 folds
+Groucha folds
+Tom_Tom62540 calls 600
+rivella calls 600
+*** FLOP *** [9s 4d 5c]
+Tom_Tom62540 bets 3420
+rivella calls 1395 and is all-in
+sebro calls 895 and is all-in
+*** TURN *** [9s 4d 5c][Ts]
+*** RIVER *** [9s 4d 5c Ts][8s]
+*** SHOW DOWN ***
+rivella shows [Ac 2c] (High card : Ace)
+sebro shows [Kh 9h] (One pair : 9)
+Tom_Tom62540 shows [Jd Jh] (One pair : Jacks)
+Tom_Tom62540 collected 9130 from pot
+*** SUMMARY ***
+Total pot 9130 | No rake
+Board: [9s 4d 5c Ts 8s]
+Seat 3: Tom_Tom62540 showed [Jd Jh] and won 9130 with One pair : Jacks
+Seat 4: rivella showed [Ac 2c] and lost with High card : Ace
+Seat 6: sebro (button) showed [Kh 9h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #678420750469693781-29-1463677203 - Holdem no limit (20/100/200) - 2016/05/19 17:00:03 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (2075)
+Seat 2: Groucha (6835)
+Seat 3: Tom_Tom62540 (14745)
+Seat 5: BUBU 63 (2365)
+Seat 6: bab1993 (7158)
+*** ANTE/BLINDS ***
+Groucha posts ante 20
+Tom_Tom62540 posts ante 20
+manggy94 posts ante 20
+BUBU 63 posts ante 20
+bab1993 posts ante 20
+Groucha posts small blind 100
+Tom_Tom62540 posts big blind 200
+Dealt to manggy94 [Ah 5s]
+*** PRE-FLOP *** 
+BUBU 63 folds
+bab1993 calls 200
+manggy94 calls 200
+Groucha folds
+Tom_Tom62540 checks
+*** FLOP *** [9s Qs 3c]
+Tom_Tom62540 checks
+bab1993 checks
+manggy94 bets 600
+Tom_Tom62540 folds
+bab1993 folds
+manggy94 collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Board: [9s Qs 3c]
+Seat 1: manggy94 (button) won 1400
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #678420750469693781-30-1463677242 - Holdem no limit (20/100/200) - 2016/05/19 17:00:42 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (2655)
+Seat 2: Groucha (6715)
+Seat 3: Tom_Tom62540 (14525)
+Seat 5: BUBU 63 (2345)
+Seat 6: bab1993 (6938)
+*** ANTE/BLINDS ***
+Tom_Tom62540 posts ante 20
+BUBU 63 posts ante 20
+manggy94 posts ante 20
+Groucha posts ante 20
+bab1993 posts ante 20
+Tom_Tom62540 posts small blind 100
+BUBU 63 posts big blind 200
+Dealt to manggy94 [4s 7h]
+*** PRE-FLOP *** 
+bab1993 folds
+manggy94 folds
+Groucha folds
+Tom_Tom62540 raises 200 to 400
+BUBU 63 folds
+Tom_Tom62540 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 3: Tom_Tom62540 (small blind) won 700
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #678420750469693781-31-1463677267 - Holdem no limit (20/100/200) - 2016/05/19 17:01:07 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (2635)
+Seat 2: Groucha (6695)
+Seat 3: Tom_Tom62540 (14805)
+Seat 5: BUBU 63 (2125)
+Seat 6: bab1993 (6918)
+*** ANTE/BLINDS ***
+BUBU 63 posts ante 20
+bab1993 posts ante 20
+manggy94 posts ante 20
+Groucha posts ante 20
+Tom_Tom62540 posts ante 20
+BUBU 63 posts small blind 100
+bab1993 posts big blind 200
+Dealt to manggy94 [Qd 6h]
+*** PRE-FLOP *** 
+manggy94 folds
+Groucha folds
+Tom_Tom62540 folds
+BUBU 63 folds
+bab1993 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 6: bab1993 (big blind) won 400
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #678420750469693781-32-1463677282 - Holdem no limit (20/100/200) - 2016/05/19 17:01:22 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (2615)
+Seat 2: Groucha (6675)
+Seat 3: Tom_Tom62540 (14785)
+Seat 5: BUBU 63 (2005)
+Seat 6: bab1993 (7098)
+*** ANTE/BLINDS ***
+bab1993 posts ante 20
+manggy94 posts ante 20
+Groucha posts ante 20
+Tom_Tom62540 posts ante 20
+BUBU 63 posts ante 20
+bab1993 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [Th Js]
+*** PRE-FLOP *** 
+Groucha folds
+Tom_Tom62540 calls 200
+BUBU 63 folds
+bab1993 folds
+manggy94 checks
+*** FLOP *** [5s Ks 8s]
+manggy94 bets 300
+Tom_Tom62540 folds
+manggy94 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5s Ks 8s]
+Seat 1: manggy94 (big blind) won 900
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #678420750469693781-33-1463677308 - Holdem no limit (20/100/200) - 2016/05/19 17:01:48 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (2995)
+Seat 2: Groucha (6655)
+Seat 3: Tom_Tom62540 (14565)
+Seat 5: BUBU 63 (1985)
+Seat 6: bab1993 (6978)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+Groucha posts ante 20
+Tom_Tom62540 posts ante 20
+BUBU 63 posts ante 20
+bab1993 posts ante 20
+manggy94 posts small blind 100
+Groucha posts big blind 200
+Dealt to manggy94 [2c Ts]
+*** PRE-FLOP *** 
+Tom_Tom62540 calls 200
+BUBU 63 folds
+bab1993 folds
+manggy94 calls 100
+Groucha checks
+*** FLOP *** [7h 7s Th]
+manggy94 checks
+Groucha checks
+Tom_Tom62540 checks
+*** TURN *** [7h 7s Th][4c]
+manggy94 bets 350
+Groucha folds
+Tom_Tom62540 folds
+manggy94 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [7h 7s Th 4c]
+Seat 1: manggy94 (small blind) won 1050
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #678420750469693781-34-1463677339 - Holdem no limit (20/100/200) - 2016/05/19 17:02:19 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (3475)
+Seat 2: Groucha (6435)
+Seat 3: Tom_Tom62540 (14345)
+Seat 4: felice83 (6015)
+Seat 5: BUBU 63 (1965)
+Seat 6: bab1993 (6958)
+*** ANTE/BLINDS ***
+Groucha posts ante 20
+Tom_Tom62540 posts ante 20
+manggy94 posts ante 20
+felice83 posts ante 20
+BUBU 63 posts ante 20
+bab1993 posts ante 20
+Groucha posts small blind 100
+Tom_Tom62540 posts big blind 200
+Dealt to manggy94 [Th Qd]
+*** PRE-FLOP *** 
+felice83 calls 200
+BUBU 63 folds
+bab1993 folds
+manggy94 calls 200
+Groucha calls 100
+Tom_Tom62540 checks
+*** FLOP *** [5s 8d Ah]
+Groucha checks
+Tom_Tom62540 checks
+felice83 checks
+manggy94 checks
+*** TURN *** [5s 8d Ah][Qh]
+Groucha checks
+Tom_Tom62540 checks
+felice83 checks
+manggy94 bets 460
+Groucha folds
+Tom_Tom62540 folds
+felice83 folds
+manggy94 collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Board: [5s 8d Ah Qh]
+Seat 1: manggy94 (button) won 1380
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #678420750469693781-35-1463677412 - Holdem no limit (25/125/250) - 2016/05/19 17:03:32 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (4175)
+Seat 2: Groucha (6215)
+Seat 3: Tom_Tom62540 (14125)
+Seat 4: felice83 (5795)
+Seat 5: BUBU 63 (1945)
+Seat 6: bab1993 (6938)
+*** ANTE/BLINDS ***
+Tom_Tom62540 posts ante 25
+felice83 posts ante 25
+manggy94 posts ante 25
+Groucha posts ante 25
+BUBU 63 posts ante 25
+bab1993 posts ante 25
+Tom_Tom62540 posts small blind 125
+felice83 posts big blind 250
+Dealt to manggy94 [8d Th]
+*** PRE-FLOP *** 
+BUBU 63 folds
+bab1993 calls 250
+manggy94 folds
+Groucha raises 5940 to 6190 and is all-in
+Tom_Tom62540 folds
+felice83 folds
+bab1993 folds
+Groucha collected 6965 from pot
+*** SUMMARY ***
+Total pot 6965 | No rake
+Seat 2: Groucha (button) won 6965
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #678420750469693781-36-1463677430 - Holdem no limit (25/125/250) - 2016/05/19 17:03:50 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (4150)
+Seat 2: Groucha (6965)
+Seat 3: Tom_Tom62540 (13975)
+Seat 4: felice83 (5520)
+Seat 5: BUBU 63 (1920)
+Seat 6: bab1993 (6663)
+*** ANTE/BLINDS ***
+felice83 posts ante 25
+BUBU 63 posts ante 25
+manggy94 posts ante 25
+Groucha posts ante 25
+Tom_Tom62540 posts ante 25
+bab1993 posts ante 25
+felice83 posts small blind 125
+BUBU 63 posts big blind 250
+Dealt to manggy94 [5d 2d]
+*** PRE-FLOP *** 
+bab1993 folds
+manggy94 folds
+Groucha folds
+Tom_Tom62540 calls 250
+felice83 calls 125
+BUBU 63 folds
+*** FLOP *** [5c Kh Td]
+felice83 checks
+Tom_Tom62540 checks
+*** TURN *** [5c Kh Td][2c]
+felice83 checks
+Tom_Tom62540 checks
+*** RIVER *** [5c Kh Td 2c][6s]
+felice83 bets 250
+Tom_Tom62540 folds
+felice83 collected 1150 from pot
+*** SUMMARY ***
+Total pot 1150 | No rake
+Board: [5c Kh Td 2c 6s]
+Seat 4: felice83 (small blind) won 1150
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #678420750469693781-37-1463677497 - Holdem no limit (25/125/250) - 2016/05/19 17:04:57 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (4125)
+Seat 2: Groucha (6940)
+Seat 3: Tom_Tom62540 (13700)
+Seat 4: felice83 (6145)
+Seat 5: BUBU 63 (1645)
+Seat 6: bab1993 (6638)
+*** ANTE/BLINDS ***
+BUBU 63 posts ante 25
+bab1993 posts ante 25
+manggy94 posts ante 25
+Groucha posts ante 25
+Tom_Tom62540 posts ante 25
+felice83 posts ante 25
+BUBU 63 posts small blind 125
+bab1993 posts big blind 250
+Dealt to manggy94 [Ks 4c]
+*** PRE-FLOP *** 
+manggy94 calls 250
+Groucha folds
+Tom_Tom62540 folds
+felice83 calls 250
+BUBU 63 folds
+bab1993 checks
+*** FLOP *** [Tc 7s Kd]
+bab1993 checks
+manggy94 bets 513
+felice83 folds
+bab1993 folds
+manggy94 collected 1538 from pot
+*** SUMMARY ***
+Total pot 1538 | No rake
+Board: [Tc 7s Kd]
+Seat 1: manggy94 won 1538
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #678420750469693781-38-1463677599 - Holdem no limit (35/150/300) - 2016/05/19 17:06:39 UTC
+Table: 'Freeroll(157957140)#340' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (4875)
+Seat 2: Groucha (6915)
+Seat 3: Tom_Tom62540 (13675)
+Seat 4: felice83 (5870)
+Seat 5: BUBU 63 (1495)
+Seat 6: bab1993 (6363)
+*** ANTE/BLINDS ***
+bab1993 posts ante 35
+manggy94 posts ante 35
+Groucha posts ante 35
+Tom_Tom62540 posts ante 35
+felice83 posts ante 35
+BUBU 63 posts ante 35
+bab1993 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Ac As]
+*** PRE-FLOP *** 
+Groucha folds
+Tom_Tom62540 calls 300
+felice83 folds
+BUBU 63 folds
+bab1993 folds
+manggy94 raises 1200 to 1500
+Tom_Tom62540 calls 1200
+*** FLOP *** [6d Ah Kd]
+manggy94 checks
+Tom_Tom62540 bets 12140 and is all-in
+manggy94 calls 3340 and is all-in
+*** TURN *** [6d Ah Kd][Qs]
+*** RIVER *** [6d Ah Kd Qs][Jc]
+*** SHOW DOWN ***
+manggy94 shows [Ac As] (Trips of Aces)
+Tom_Tom62540 shows [Qh Tc] (Straight Ace high)
+Tom_Tom62540 collected 18840 from pot
+*** SUMMARY ***
+Total pot 18840 | No rake
+Board: [6d Ah Kd Qs Jc]
+Seat 1: manggy94 (big blind) showed [Ac As] and lost with Trips of Aces
+Seat 3: Tom_Tom62540 showed [Qh Tc] and won 18840 with Straight Ace high
+
+

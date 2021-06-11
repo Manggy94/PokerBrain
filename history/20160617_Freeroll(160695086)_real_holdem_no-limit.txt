@@ -1,0 +1,261 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #690180138997907552-3-1466159566 - Holdem no limit (10/20) - 2016/06/17 10:32:46 UTC
+Table: 'Freeroll(160695086)#095' 8-max (real money) Seat #5 is the button
+Seat 1: Sebdu91000 (2980)
+Seat 2: beuchdb (9030)
+Seat 3: guadeloupe89 (3000)
+Seat 4: LucLogan06 (2810)
+Seat 5: manggy94 (3000)
+Seat 6: Renvie (3180)
+Seat 7: bressan01 (3000)
+Seat 8: tidave125 (3000)
+*** ANTE/BLINDS ***
+Renvie posts small blind 10
+bressan01 posts big blind 20
+*** PRE-FLOP *** 
+tidave125 folds
+Sebdu91000 raises 80 to 100
+beuchdb calls 100
+guadeloupe89 calls 100
+LucLogan06 folds
+Renvie calls 90
+bressan01 calls 80
+*** FLOP *** [Jh 5d 2h]
+Renvie checks
+bressan01 bets 40
+Sebdu91000 calls 40
+beuchdb calls 40
+guadeloupe89 folds
+Renvie calls 40
+*** TURN *** [Jh 5d 2h][Kd]
+Renvie checks
+bressan01 checks
+Sebdu91000 bets 440
+beuchdb calls 440
+Renvie folds
+bressan01 calls 440
+*** RIVER *** [Jh 5d 2h Kd][8s]
+bressan01 folds
+Sebdu91000 bets 1320
+beuchdb raises 7130 to 8450 and is all-in
+Sebdu91000 calls 1080 and is all-in
+*** SHOW DOWN ***
+Sebdu91000 shows [Jc Js] (Trips of Jacks)
+beuchdb shows [Qs Kc] (One pair : Kings)
+beuchdb collected 6050 from side pot 1
+Sebdu91000 collected 6780 from main pot
+*** SUMMARY ***
+Total pot 12830 | No rake
+Board: [Jh 5d 2h Kd 8s]
+Seat 1: Sebdu91000 showed [Jc Js] and won 6780 with Trips of Jacks
+Seat 2: beuchdb showed [Qs Kc] and won 6050 with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #690180138997907552-4-1466159653 - Holdem no limit (15/30) - 2016/06/17 10:34:13 UTC
+Table: 'Freeroll(160695086)#095' 8-max (real money) Seat #6 is the button
+Seat 1: Sebdu91000 (6780)
+Seat 2: beuchdb (6050)
+Seat 3: guadeloupe89 (2900)
+Seat 4: LucLogan06 (2810)
+Seat 5: manggy94 (3000)
+Seat 6: Renvie (3040)
+Seat 7: bressan01 (2420)
+Seat 8: tidave125 (3000)
+*** ANTE/BLINDS ***
+bressan01 posts small blind 15
+tidave125 posts big blind 30
+Dealt to manggy94 [Kc Tc]
+*** PRE-FLOP *** 
+Sebdu91000 folds
+beuchdb folds
+guadeloupe89 calls 30
+LucLogan06 folds
+manggy94 raises 30 to 60
+Renvie folds
+bressan01 calls 45
+tidave125 folds
+guadeloupe89 calls 30
+*** FLOP *** [5h Kd Qd]
+bressan01 checks
+guadeloupe89 bets 30
+manggy94 raises 270 to 300
+bressan01 folds
+guadeloupe89 calls 270
+*** TURN *** [5h Kd Qd][Jd]
+guadeloupe89 bets 2540 and is all-in
+manggy94 calls 2540
+*** RIVER *** [5h Kd Qd Jd][2d]
+*** SHOW DOWN ***
+manggy94 shows [Kc Tc] (One pair : Kings)
+guadeloupe89 shows [Js Qc] (Two pairs : Queens and Jacks)
+guadeloupe89 collected 5890 from pot
+*** SUMMARY ***
+Total pot 5890 | No rake
+Board: [5h Kd Qd Jd 2d]
+Seat 3: guadeloupe89 showed [Js Qc] and won 5890 with Two pairs : Queens and Jacks
+Seat 5: manggy94 showed [Kc Tc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #690180138997907552-5-1466159715 - Holdem no limit (15/30) - 2016/06/17 10:35:15 UTC
+Table: 'Freeroll(160695086)#095' 8-max (real money) Seat #7 is the button
+Seat 1: Sebdu91000 (6780)
+Seat 2: beuchdb (6050)
+Seat 3: guadeloupe89 (5890)
+Seat 4: LucLogan06 (2810)
+Seat 5: manggy94 (100)
+Seat 6: Renvie (3040)
+Seat 7: bressan01 (2360)
+Seat 8: tidave125 (2970)
+*** ANTE/BLINDS ***
+tidave125 posts small blind 15
+Sebdu91000 posts big blind 30
+Dealt to manggy94 [4h Td]
+*** PRE-FLOP *** 
+beuchdb calls 30
+guadeloupe89 folds
+LucLogan06 raises 2780 to 2810 and is all-in
+manggy94 folds
+Renvie raises 230 to 3040 and is all-in
+bressan01 folds
+tidave125 folds
+Sebdu91000 folds
+beuchdb raises 3010 to 6050 and is all-in
+*** FLOP *** [Ac Jc Qc]
+*** TURN *** [Ac Jc Qc][2s]
+*** RIVER *** [Ac Jc Qc 2s][Kc]
+*** SHOW DOWN ***
+LucLogan06 shows [Js Qh] (Two pairs : Queens and Jacks)
+Renvie shows [Ah 5c] (Flush Ace high)
+beuchdb shows [Ad 7d] (One pair : Aces)
+beuchdb collected 3010 from side pot 1
+Renvie collected 8935 from main pot
+*** SUMMARY ***
+Total pot 11945 | No rake
+Board: [Ac Jc Qc 2s Kc]
+Seat 2: beuchdb showed [Ad 7d] and won 3010 with One pair : Aces
+Seat 4: LucLogan06 showed [Js Qh] and lost with Two pairs : Queens and Jacks
+Seat 6: Renvie showed [Ah 5c] and won 8935 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #690180138997907552-6-1466159760 - Holdem no limit (15/30) - 2016/06/17 10:36:00 UTC
+Table: 'Freeroll(160695086)#095' 8-max (real money) Seat #8 is the button
+Seat 1: Sebdu91000 (6750)
+Seat 2: beuchdb (3010)
+Seat 3: guadeloupe89 (5890)
+Seat 5: manggy94 (100)
+Seat 6: Renvie (8935)
+Seat 7: bressan01 (2360)
+Seat 8: tidave125 (2955)
+*** ANTE/BLINDS ***
+Sebdu91000 posts small blind 15
+beuchdb posts big blind 30
+Dealt to manggy94 [Ts 3d]
+*** PRE-FLOP *** 
+guadeloupe89 folds
+manggy94 folds
+Renvie raises 30 to 60
+bressan01 raises 120 to 180
+tidave125 folds
+Sebdu91000 folds
+beuchdb folds
+Renvie calls 120
+*** FLOP *** [6h Qd Ac]
+Renvie checks
+bressan01 checks
+*** TURN *** [6h Qd Ac][3s]
+Renvie checks
+bressan01 checks
+*** RIVER *** [6h Qd Ac 3s][As]
+Renvie checks
+bressan01 checks
+*** SHOW DOWN ***
+bressan01 shows [Th 8d] (One pair : Aces)
+Renvie shows [5c Jc] (One pair : Aces)
+Renvie collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Board: [6h Qd Ac 3s As]
+Seat 6: Renvie showed [5c Jc] and won 405 with One pair : Aces
+Seat 7: bressan01 showed [Th 8d] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #690180138997907552-7-1466159829 - Holdem no limit (20/40) - 2016/06/17 10:37:09 UTC
+Table: 'Freeroll(160695086)#095' 8-max (real money) Seat #1 is the button
+Seat 1: Sebdu91000 (6735)
+Seat 2: beuchdb (2980)
+Seat 3: guadeloupe89 (5890)
+Seat 4: Marine87 (3000)
+Seat 5: manggy94 (100)
+Seat 6: Renvie (9160)
+Seat 7: bressan01 (2180)
+Seat 8: tidave125 (2955)
+*** ANTE/BLINDS ***
+beuchdb posts small blind 20
+guadeloupe89 posts big blind 40
+Dealt to manggy94 [2d 6s]
+*** PRE-FLOP *** 
+Marine87 calls 40
+manggy94 folds
+Renvie folds
+bressan01 folds
+tidave125 folds
+Sebdu91000 folds
+beuchdb raises 280 to 320
+guadeloupe89 folds
+Marine87 calls 280
+*** FLOP *** [2h Ac 3s]
+beuchdb checks
+Marine87 checks
+*** TURN *** [2h Ac 3s][6d]
+beuchdb bets 40
+Marine87 calls 40
+*** RIVER *** [2h Ac 3s 6d][6c]
+beuchdb bets 2620 and is all-in
+Marine87 folds
+beuchdb collected 3380 from pot
+*** SUMMARY ***
+Total pot 3380 | No rake
+Board: [2h Ac 3s 6d 6c]
+Seat 2: beuchdb (small blind) won 3380
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #690180138997907552-8-1466159890 - Holdem no limit (20/40) - 2016/06/17 10:38:10 UTC
+Table: 'Freeroll(160695086)#095' 8-max (real money) Seat #2 is the button
+Seat 1: Sebdu91000 (6735)
+Seat 2: beuchdb (3380)
+Seat 3: guadeloupe89 (5850)
+Seat 4: Marine87 (2640)
+Seat 5: manggy94 (100)
+Seat 6: Renvie (9160)
+Seat 7: bressan01 (2180)
+Seat 8: tidave125 (2955)
+*** ANTE/BLINDS ***
+guadeloupe89 posts small blind 20
+Marine87 posts big blind 40
+Dealt to manggy94 [2c Tc]
+*** PRE-FLOP *** 
+manggy94 raises 60 to 100 and is all-in
+Renvie calls 100
+bressan01 raises 300 to 400
+tidave125 folds
+Sebdu91000 folds
+beuchdb folds
+guadeloupe89 folds
+Marine87 folds
+Renvie calls 300
+*** FLOP *** [7s 2h 6d]
+Renvie checks
+bressan01 bets 1780 and is all-in
+Renvie folds
+*** TURN *** [7s 2h 6d][Jc]
+*** RIVER *** [7s 2h 6d Jc][8h]
+*** SHOW DOWN ***
+manggy94 shows [2c Tc] (One pair : 2)
+bressan01 shows [Ac As] (One pair : Aces)
+bressan01 collected 2740 from pot
+*** SUMMARY ***
+Total pot 2740 | No rake
+Board: [7s 2h 6d Jc 8h]
+Seat 5: manggy94 showed [2c Tc] and lost with One pair : 2
+Seat 7: bressan01 showed [Ac As] and won 2740 with One pair : Aces
+
+

@@ -1,0 +1,1664 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #860532827018494056-1-1499439626 - Holdem no limit (3/10/20) - 2017/07/07 15:00:26 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #3 is the button
+Seat 1: Asdutheil (3000)
+Seat 2: Philippeki (3000)
+Seat 3: lokkjh (3000)
+Seat 4: loul48 (3000)
+Seat 5: JtFisher.MDR (3000)
+Seat 6: tricpa (3000)
+Seat 7: Je me kiff 9 (3000)
+Seat 8: manggy94 (3000)
+*** ANTE/BLINDS ***
+loul48 posts ante 3
+JtFisher.MDR posts ante 3
+Asdutheil posts ante 3
+Philippeki posts ante 3
+lokkjh posts ante 3
+tricpa posts ante 3
+Je me kiff 9 posts ante 3
+manggy94 posts ante 3
+loul48 posts small blind 10
+JtFisher.MDR posts big blind 20
+Dealt to manggy94 [7s Qd]
+*** PRE-FLOP *** 
+tricpa calls 20
+Je me kiff 9 folds
+manggy94 folds
+Asdutheil calls 20
+Philippeki folds
+lokkjh raises 2977 to 2997 and is all-in
+loul48 folds
+JtFisher.MDR folds
+tricpa folds
+Asdutheil folds
+lokkjh collected 3091 from pot
+*** SUMMARY ***
+Total pot 3091 | No rake
+Seat 3: lokkjh (button) won 3091
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #860532827018494056-2-1499439755 - Holdem no limit (3/10/20) - 2017/07/07 15:02:35 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #4 is the button
+Seat 1: Asdutheil (2977)
+Seat 2: Philippeki (2997)
+Seat 3: lokkjh (3091)
+Seat 4: loul48 (2987)
+Seat 5: JtFisher.MDR (2977)
+Seat 6: tricpa (2977)
+Seat 7: Je me kiff 9 (2997)
+Seat 8: manggy94 (2997)
+*** ANTE/BLINDS ***
+JtFisher.MDR posts ante 3
+tricpa posts ante 3
+Asdutheil posts ante 3
+Philippeki posts ante 3
+lokkjh posts ante 3
+loul48 posts ante 3
+Je me kiff 9 posts ante 3
+manggy94 posts ante 3
+JtFisher.MDR posts small blind 10
+tricpa posts big blind 20
+Dealt to manggy94 [9s 2d]
+*** PRE-FLOP *** 
+Je me kiff 9 folds
+manggy94 folds
+Asdutheil raises 20 to 40
+Philippeki raises 20 to 60
+lokkjh folds
+loul48 folds
+JtFisher.MDR raises 2914 to 2974 and is all-in
+tricpa folds
+Asdutheil calls 2934 and is all-in
+Philippeki raises 20 to 2994 and is all-in
+*** FLOP *** [Kh 8s 7s]
+*** TURN *** [Kh 8s 7s][4h]
+*** RIVER *** [Kh 8s 7s 4h][3c]
+*** SHOW DOWN ***
+JtFisher.MDR shows [Qd 8h] (One pair : 8)
+Asdutheil shows [Kc Ah] (One pair : Kings)
+Philippeki shows [Qc Ts] (High card : King)
+Philippeki collected 20 from side pot 1
+Asdutheil collected 8966 from main pot
+*** SUMMARY ***
+Total pot 8986 | No rake
+Board: [Kh 8s 7s 4h 3c]
+Seat 1: Asdutheil showed [Kc Ah] and won 8966 with One pair : Kings
+Seat 2: Philippeki showed [Qc Ts] and won 20 with High card : King
+Seat 5: JtFisher.MDR (small blind) showed [Qd 8h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #860532827018494056-3-1499439862 - Holdem no limit (4/15/30) - 2017/07/07 15:04:22 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #5 is the button
+Seat 1: Asdutheil (8966)
+Seat 2: Philippeki (20)
+Seat 3: lokkjh (3088)
+Seat 4: loul48 (2984)
+Seat 5: premier20090 (3000)
+Seat 6: tricpa (2954)
+Seat 7: Je me kiff 9 (2994)
+Seat 8: manggy94 (2994)
+*** ANTE/BLINDS ***
+tricpa posts ante 4
+Je me kiff 9 posts ante 4
+Asdutheil posts ante 4
+Philippeki posts ante 4
+lokkjh posts ante 4
+loul48 posts ante 4
+manggy94 posts ante 4
+tricpa posts small blind 15
+Je me kiff 9 posts big blind 30
+Dealt to manggy94 [4c Jd]
+*** PRE-FLOP *** 
+manggy94 folds
+Asdutheil calls 30
+Philippeki calls 16 and is all-in
+lokkjh folds
+loul48 folds
+tricpa raises 240 to 270
+Je me kiff 9 folds
+Asdutheil calls 240
+*** FLOP *** [2d Qd 5h]
+tricpa bets 614
+Asdutheil folds
+*** TURN *** [2d Qd 5h][Qs]
+*** RIVER *** [2d Qd 5h Qs][Ks]
+*** SHOW DOWN ***
+Philippeki shows [7c Qc] (Trips of Queens)
+tricpa shows [Kd Ad] (Two pairs : Kings and Queens)
+tricpa collected 1136 from side pot 1
+Philippeki collected 92 from main pot
+*** SUMMARY ***
+Total pot 1228 | No rake
+Board: [2d Qd 5h Qs Ks]
+Seat 2: Philippeki showed [7c Qc] and won 92 with Trips of Queens
+Seat 6: tricpa (small blind) showed [Kd Ad] and won 1136 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #860532827018494056-4-1499439906 - Holdem no limit (4/15/30) - 2017/07/07 15:05:06 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #6 is the button
+Seat 1: Asdutheil (8692)
+Seat 2: Philippeki (92)
+Seat 3: lokkjh (3084)
+Seat 4: loul48 (2980)
+Seat 5: premier20090 (3000)
+Seat 6: tricpa (3202)
+Seat 7: Je me kiff 9 (2960)
+Seat 8: manggy94 (2990)
+*** ANTE/BLINDS ***
+Je me kiff 9 posts ante 4
+manggy94 posts ante 4
+Asdutheil posts ante 4
+Philippeki posts ante 4
+lokkjh posts ante 4
+loul48 posts ante 4
+premier20090 posts ante 4
+tricpa posts ante 4
+Je me kiff 9 posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [Kc 9d]
+*** PRE-FLOP *** 
+Asdutheil calls 30
+Philippeki calls 30
+lokkjh folds
+loul48 raises 2946 to 2976 and is all-in
+premier20090 folds
+tricpa folds
+Je me kiff 9 folds
+manggy94 folds
+Asdutheil calls 2946
+Philippeki calls 58 and is all-in
+*** FLOP *** [Jh 4h Ad]
+*** TURN *** [Jh 4h Ad][4s]
+*** RIVER *** [Jh 4h Ad 4s][Tc]
+*** SHOW DOWN ***
+Asdutheil shows [8d 9c] (One pair : 4)
+Philippeki shows [Ks 6s] (One pair : 4)
+loul48 shows [Ac Kd] (Two pairs : Aces and 4)
+loul48 collected 6117 from pot
+*** SUMMARY ***
+Total pot 6117 | No rake
+Board: [Jh 4h Ad 4s Tc]
+Seat 1: Asdutheil showed [8d 9c] and lost with One pair : 4
+Seat 2: Philippeki showed [Ks 6s] and lost with One pair : 4
+Seat 4: loul48 showed [Ac Kd] and won 6117 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #860532827018494056-5-1499439935 - Holdem no limit (4/15/30) - 2017/07/07 15:05:35 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #7 is the button
+Seat 1: Asdutheil (5712)
+Seat 2: bojana55 (3000)
+Seat 3: lokkjh (3080)
+Seat 4: loul48 (6117)
+Seat 5: premier20090 (2996)
+Seat 6: tricpa (3198)
+Seat 7: Je me kiff 9 (2941)
+Seat 8: manggy94 (2956)
+*** ANTE/BLINDS ***
+manggy94 posts ante 4
+Asdutheil posts ante 4
+bojana55 posts ante 4
+lokkjh posts ante 4
+loul48 posts ante 4
+premier20090 posts ante 4
+tricpa posts ante 4
+Je me kiff 9 posts ante 4
+manggy94 posts small blind 15
+Asdutheil posts big blind 30
+Dealt to manggy94 [3s 8c]
+*** PRE-FLOP *** 
+bojana55 calls 30
+lokkjh calls 30
+loul48 calls 30
+premier20090 calls 30
+tricpa folds
+Je me kiff 9 raises 2907 to 2937 and is all-in
+manggy94 folds
+Asdutheil folds
+bojana55 folds
+lokkjh calls 2907
+loul48 calls 2907
+premier20090 folds
+*** FLOP *** [Jd 3d Ac]
+lokkjh bets 139 and is all-in
+loul48 calls 139
+*** TURN *** [Jd 3d Ac][2h]
+*** RIVER *** [Jd 3d Ac 2h][5s]
+*** SHOW DOWN ***
+loul48 shows [Kh Qh] (High card : Ace)
+Je me kiff 9 shows [Th Tc] (One pair : Tens)
+lokkjh shows [Js Qs] (One pair : Jacks)
+lokkjh collected 9226 from pot
+*** SUMMARY ***
+Total pot 9226 | No rake
+Board: [Jd 3d Ac 2h 5s]
+Seat 3: lokkjh showed [Js Qs] and won 9226 with One pair : Jacks
+Seat 4: loul48 showed [Kh Qh] and lost with High card : Ace
+Seat 7: Je me kiff 9 (button) showed [Th Tc] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #860532827018494056-6-1499439986 - Holdem no limit (5/20/40) - 2017/07/07 15:06:26 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #8 is the button
+Seat 1: Asdutheil (5678)
+Seat 2: bojana55 (2966)
+Seat 3: lokkjh (9226)
+Seat 4: loul48 (3037)
+Seat 5: premier20090 (2962)
+Seat 6: tricpa (3194)
+Seat 7: minimalax (3000)
+Seat 8: manggy94 (2937)
+*** ANTE/BLINDS ***
+Asdutheil posts ante 5
+bojana55 posts ante 5
+lokkjh posts ante 5
+loul48 posts ante 5
+premier20090 posts ante 5
+tricpa posts ante 5
+minimalax posts ante 5
+manggy94 posts ante 5
+Asdutheil posts small blind 20
+bojana55 posts big blind 40
+Dealt to manggy94 [8h 6h]
+*** PRE-FLOP *** 
+lokkjh folds
+loul48 calls 40
+premier20090 calls 40
+tricpa raises 220 to 260
+minimalax folds
+manggy94 folds
+Asdutheil folds
+bojana55 folds
+loul48 folds
+premier20090 calls 220
+*** FLOP *** [7c 3s Ah]
+premier20090 checks
+tricpa checks
+*** TURN *** [7c 3s Ah][2c]
+premier20090 checks
+tricpa checks
+*** RIVER *** [7c 3s Ah 2c][Ks]
+premier20090 checks
+tricpa bets 660
+premier20090 folds
+tricpa collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Board: [7c 3s Ah 2c Ks]
+Seat 6: tricpa won 1320
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #860532827018494056-7-1499440029 - Holdem no limit (5/20/40) - 2017/07/07 15:07:09 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #1 is the button
+Seat 1: Asdutheil (5653)
+Seat 2: bojana55 (2921)
+Seat 3: lokkjh (9221)
+Seat 4: loul48 (2992)
+Seat 5: premier20090 (2697)
+Seat 6: tricpa (3589)
+Seat 7: minimalax (2995)
+Seat 8: manggy94 (2932)
+*** ANTE/BLINDS ***
+bojana55 posts ante 5
+lokkjh posts ante 5
+Asdutheil posts ante 5
+loul48 posts ante 5
+premier20090 posts ante 5
+tricpa posts ante 5
+minimalax posts ante 5
+manggy94 posts ante 5
+bojana55 posts small blind 20
+lokkjh posts big blind 40
+Dealt to manggy94 [2h 6c]
+*** PRE-FLOP *** 
+loul48 calls 40
+premier20090 folds
+tricpa calls 40
+minimalax calls 40
+manggy94 folds
+Asdutheil calls 40
+bojana55 folds
+lokkjh checks
+*** FLOP *** [3s 5c Ks]
+lokkjh checks
+loul48 checks
+tricpa checks
+minimalax checks
+Asdutheil checks
+*** TURN *** [3s 5c Ks][5d]
+lokkjh checks
+loul48 checks
+tricpa checks
+minimalax checks
+Asdutheil checks
+*** RIVER *** [3s 5c Ks 5d][2c]
+lokkjh checks
+loul48 bets 220
+tricpa folds
+minimalax folds
+Asdutheil folds
+lokkjh folds
+loul48 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [3s 5c Ks 5d 2c]
+Seat 4: loul48 won 480
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #860532827018494056-8-1499440150 - Holdem no limit (5/20/40) - 2017/07/07 15:09:10 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #2 is the button
+Seat 1: Asdutheil (5608)
+Seat 2: bojana55 (2896)
+Seat 3: lokkjh (9176)
+Seat 4: loul48 (3207)
+Seat 5: premier20090 (2692)
+Seat 6: tricpa (3544)
+Seat 7: minimalax (2950)
+Seat 8: manggy94 (2927)
+*** ANTE/BLINDS ***
+lokkjh posts ante 5
+loul48 posts ante 5
+Asdutheil posts ante 5
+bojana55 posts ante 5
+premier20090 posts ante 5
+tricpa posts ante 5
+minimalax posts ante 5
+manggy94 posts ante 5
+lokkjh posts small blind 20
+loul48 posts big blind 40
+Dealt to manggy94 [Ad Js]
+*** PRE-FLOP *** 
+premier20090 folds
+tricpa raises 140 to 180
+minimalax folds
+manggy94 folds
+Asdutheil folds
+bojana55 folds
+lokkjh calls 160
+loul48 folds
+*** FLOP *** [Jc 5h Ac]
+lokkjh checks
+tricpa bets 440
+lokkjh raises 8551 to 8991 and is all-in
+tricpa calls 2919 and is all-in
+*** TURN *** [Jc 5h Ac][Qs]
+*** RIVER *** [Jc 5h Ac Qs][7c]
+*** SHOW DOWN ***
+tricpa shows [8c Ah] (One pair : Aces)
+lokkjh shows [Kd As] (One pair : Aces)
+lokkjh collected 12790 from pot
+*** SUMMARY ***
+Total pot 12790 | No rake
+Board: [Jc 5h Ac Qs 7c]
+Seat 3: lokkjh (small blind) showed [Kd As] and won 12790 with One pair : Aces
+Seat 6: tricpa showed [8c Ah] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #860532827018494056-9-1499440203 - Holdem no limit (8/30/60) - 2017/07/07 15:10:03 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #3 is the button
+Seat 1: Asdutheil (5603)
+Seat 2: bojana55 (2891)
+Seat 3: lokkjh (12790)
+Seat 4: loul48 (3162)
+Seat 5: premier20090 (2687)
+Seat 7: minimalax (2945)
+Seat 8: manggy94 (2922)
+*** ANTE/BLINDS ***
+loul48 posts ante 8
+premier20090 posts ante 8
+Asdutheil posts ante 8
+bojana55 posts ante 8
+lokkjh posts ante 8
+minimalax posts ante 8
+manggy94 posts ante 8
+loul48 posts small blind 30
+premier20090 posts big blind 60
+Dealt to manggy94 [7c 9h]
+*** PRE-FLOP *** 
+minimalax raises 2877 to 2937 and is all-in
+manggy94 folds
+Asdutheil folds
+bojana55 folds
+lokkjh folds
+loul48 folds
+premier20090 folds
+minimalax collected 3083 from pot
+*** SUMMARY ***
+Total pot 3083 | No rake
+Seat 7: minimalax won 3083
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #860532827018494056-10-1499440218 - Holdem no limit (8/30/60) - 2017/07/07 15:10:18 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #4 is the button
+Seat 1: Asdutheil (5595)
+Seat 2: bojana55 (2883)
+Seat 3: lokkjh (12782)
+Seat 4: loul48 (3124)
+Seat 5: premier20090 (2619)
+Seat 6: delirium1972 (3000)
+Seat 7: minimalax (3083)
+Seat 8: manggy94 (2914)
+*** ANTE/BLINDS ***
+premier20090 posts ante 8
+delirium1972 posts ante 8
+Asdutheil posts ante 8
+bojana55 posts ante 8
+lokkjh posts ante 8
+loul48 posts ante 8
+minimalax posts ante 8
+manggy94 posts ante 8
+premier20090 posts small blind 30
+delirium1972 posts big blind 60
+Dealt to manggy94 [5h Jd]
+*** PRE-FLOP *** 
+minimalax raises 3015 to 3075 and is all-in
+manggy94 folds
+Asdutheil folds
+bojana55 folds
+lokkjh folds
+loul48 folds
+premier20090 calls 2581 and is all-in
+delirium1972 calls 2932 and is all-in
+*** FLOP *** [2h 3h Js]
+*** TURN *** [2h 3h Js][6h]
+*** RIVER *** [2h 3h Js 6h][5s]
+*** SHOW DOWN ***
+delirium1972 shows [8h Jc] (One pair : Jacks)
+premier20090 shows [Qh 4h] (Flush Queen high)
+minimalax shows [2s 2c] (Trips of 2)
+minimalax collected 845 from side pot 1
+premier20090 collected 7897 from main pot
+*** SUMMARY ***
+Total pot 8742 | No rake
+Board: [2h 3h Js 6h 5s]
+Seat 5: premier20090 (small blind) showed [Qh 4h] and won 7897 with Flush Queen high
+Seat 6: delirium1972 (big blind) showed [8h Jc] and lost with One pair : Jacks
+Seat 7: minimalax showed [2s 2c] and won 845 with Trips of 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #860532827018494056-11-1499440263 - Holdem no limit (8/30/60) - 2017/07/07 15:11:03 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #5 is the button
+Seat 1: Asdutheil (5587)
+Seat 2: bojana55 (2875)
+Seat 3: lokkjh (12774)
+Seat 4: loul48 (3116)
+Seat 5: premier20090 (7897)
+Seat 7: minimalax (845)
+Seat 8: manggy94 (2906)
+*** ANTE/BLINDS ***
+minimalax posts ante 8
+Asdutheil posts ante 8
+bojana55 posts ante 8
+lokkjh posts ante 8
+loul48 posts ante 8
+premier20090 posts ante 8
+manggy94 posts ante 8
+minimalax posts big blind 60
+Dealt to manggy94 [9s 4s]
+*** PRE-FLOP *** 
+manggy94 folds
+Asdutheil calls 60
+bojana55 folds
+lokkjh folds
+loul48 folds
+premier20090 folds
+minimalax raises 777 to 837 and is all-in
+Asdutheil calls 777
+*** FLOP *** [9d Th Ad]
+*** TURN *** [9d Th Ad][Kc]
+*** RIVER *** [9d Th Ad Kc][Qs]
+*** SHOW DOWN ***
+minimalax shows [Qc 3h] (One pair : Queens)
+Asdutheil shows [As 2s] (One pair : Aces)
+Asdutheil collected 1730 from pot
+*** SUMMARY ***
+Total pot 1730 | No rake
+Board: [9d Th Ad Kc Qs]
+Seat 1: Asdutheil showed [As 2s] and won 1730 with One pair : Aces
+Seat 7: minimalax (big blind) showed [Qc 3h] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #860532827018494056-12-1499440295 - Holdem no limit (8/30/60) - 2017/07/07 15:11:35 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #6 is the button
+Seat 1: Asdutheil (6472)
+Seat 2: bojana55 (2867)
+Seat 3: lokkjh (12766)
+Seat 4: loul48 (3108)
+Seat 5: premier20090 (7889)
+Seat 6: talt33 (3000)
+Seat 7: mitch1980 (3000)
+Seat 8: manggy94 (2898)
+*** ANTE/BLINDS ***
+manggy94 posts ante 8
+Asdutheil posts ante 8
+bojana55 posts ante 8
+lokkjh posts ante 8
+loul48 posts ante 8
+premier20090 posts ante 8
+manggy94 posts big blind 60
+Dealt to manggy94 [8c 7h]
+*** PRE-FLOP *** 
+Asdutheil calls 60
+bojana55 folds
+lokkjh folds
+loul48 raises 240 to 300
+premier20090 folds
+manggy94 folds
+Asdutheil calls 240
+*** FLOP *** [Ac 8s Jc]
+Asdutheil checks
+loul48 bets 330
+Asdutheil calls 330
+*** TURN *** [Ac 8s Jc][3h]
+Asdutheil checks
+loul48 bets 780
+Asdutheil folds
+loul48 collected 2148 from pot
+*** SUMMARY ***
+Total pot 2148 | No rake
+Board: [Ac 8s Jc 3h]
+Seat 4: loul48 won 2148
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #860532827018494056-13-1499440378 - Holdem no limit (10/40/80) - 2017/07/07 15:12:58 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #7 is the button
+Seat 1: Asdutheil (5834)
+Seat 2: bojana55 (2859)
+Seat 3: lokkjh (12758)
+Seat 4: loul48 (3838)
+Seat 5: premier20090 (7881)
+Seat 6: talt33 (3000)
+Seat 7: mitch1980 (3000)
+Seat 8: manggy94 (2830)
+*** ANTE/BLINDS ***
+manggy94 posts ante 10
+Asdutheil posts ante 10
+bojana55 posts ante 10
+lokkjh posts ante 10
+loul48 posts ante 10
+premier20090 posts ante 10
+talt33 posts ante 10
+manggy94 posts small blind 40
+Asdutheil posts big blind 80
+Dealt to manggy94 [Js 7c]
+*** PRE-FLOP *** 
+bojana55 raises 80 to 160
+lokkjh folds
+loul48 folds
+premier20090 calls 160
+talt33 folds
+manggy94 folds
+Asdutheil calls 80
+*** FLOP *** [8h 5c Ks]
+Asdutheil checks
+bojana55 checks
+premier20090 bets 80
+Asdutheil folds
+bojana55 calls 80
+*** TURN *** [8h 5c Ks][Qh]
+bojana55 bets 80
+premier20090 raises 80 to 160
+bojana55 raises 80 to 240
+premier20090 calls 80
+*** RIVER *** [8h 5c Ks Qh][Th]
+bojana55 bets 80
+premier20090 calls 80
+*** SHOW DOWN ***
+premier20090 shows [9s Kh] (One pair : Kings)
+bojana55 shows [Qc Qs] (Trips of Queens)
+bojana55 collected 1390 from pot
+*** SUMMARY ***
+Total pot 1390 | No rake
+Board: [8h 5c Ks Qh Th]
+Seat 2: bojana55 showed [Qc Qs] and won 1390 with Trips of Queens
+Seat 5: premier20090 showed [9s Kh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #860532827018494056-14-1499440437 - Holdem no limit (10/40/80) - 2017/07/07 15:13:57 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #8 is the button
+Seat 1: Asdutheil (5664)
+Seat 2: bojana55 (3679)
+Seat 3: lokkjh (12748)
+Seat 4: loul48 (3828)
+Seat 5: premier20090 (7311)
+Seat 6: talt33 (2990)
+Seat 7: mitch1980 (3000)
+Seat 8: manggy94 (2780)
+*** ANTE/BLINDS ***
+Asdutheil posts ante 10
+bojana55 posts ante 10
+lokkjh posts ante 10
+loul48 posts ante 10
+premier20090 posts ante 10
+talt33 posts ante 10
+mitch1980 posts ante 10
+manggy94 posts ante 10
+Asdutheil posts small blind 40
+bojana55 posts big blind 80
+Dealt to manggy94 [Js Kh]
+*** PRE-FLOP *** 
+lokkjh folds
+loul48 folds
+premier20090 calls 80
+talt33 calls 80
+mitch1980 raises 240 to 320
+manggy94 folds
+Asdutheil calls 280
+bojana55 folds
+premier20090 calls 240
+talt33 calls 240
+*** FLOP *** [6h Ts Ah]
+Asdutheil checks
+premier20090 checks
+talt33 checks
+mitch1980 bets 1440
+Asdutheil folds
+premier20090 folds
+talt33 folds
+mitch1980 collected 2880 from pot
+*** SUMMARY ***
+Total pot 2880 | No rake
+Board: [6h Ts Ah]
+Seat 7: mitch1980 won 2880
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #860532827018494056-15-1499440512 - Holdem no limit (10/40/80) - 2017/07/07 15:15:12 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #1 is the button
+Seat 1: Asdutheil (5334)
+Seat 2: bojana55 (3589)
+Seat 3: lokkjh (12738)
+Seat 4: loul48 (3818)
+Seat 5: premier20090 (6981)
+Seat 6: talt33 (2660)
+Seat 7: mitch1980 (4110)
+Seat 8: manggy94 (2770)
+*** ANTE/BLINDS ***
+bojana55 posts ante 10
+lokkjh posts ante 10
+Asdutheil posts ante 10
+loul48 posts ante 10
+premier20090 posts ante 10
+talt33 posts ante 10
+mitch1980 posts ante 10
+manggy94 posts ante 10
+bojana55 posts small blind 40
+lokkjh posts big blind 80
+Dealt to manggy94 [Qc Kh]
+*** PRE-FLOP *** 
+loul48 folds
+premier20090 calls 80
+talt33 calls 80
+mitch1980 folds
+manggy94 folds
+Asdutheil folds
+bojana55 folds
+lokkjh checks
+*** FLOP *** [9s Js 7s]
+lokkjh checks
+premier20090 checks
+talt33 checks
+*** TURN *** [9s Js 7s][Td]
+lokkjh checks
+premier20090 bets 80
+talt33 calls 80
+lokkjh folds
+*** RIVER *** [9s Js 7s Td][Qh]
+premier20090 checks
+talt33 bets 520
+premier20090 folds
+talt33 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [9s Js 7s Td Qh]
+Seat 6: talt33 won 1040
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #860532827018494056-16-1499440592 - Holdem no limit (12/50/100) - 2017/07/07 15:16:32 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #2 is the button
+Seat 1: Asdutheil (5324)
+Seat 2: bojana55 (3539)
+Seat 3: lokkjh (12648)
+Seat 4: loul48 (3808)
+Seat 5: premier20090 (6811)
+Seat 6: talt33 (3010)
+Seat 7: mitch1980 (4100)
+Seat 8: manggy94 (2760)
+*** ANTE/BLINDS ***
+lokkjh posts ante 12
+loul48 posts ante 12
+Asdutheil posts ante 12
+bojana55 posts ante 12
+premier20090 posts ante 12
+talt33 posts ante 12
+mitch1980 posts ante 12
+manggy94 posts ante 12
+lokkjh posts small blind 50
+loul48 posts big blind 100
+Dealt to manggy94 [Ts Qd]
+*** PRE-FLOP *** 
+premier20090 calls 100
+talt33 calls 100
+mitch1980 folds
+manggy94 folds
+Asdutheil calls 100
+bojana55 calls 100
+lokkjh folds
+loul48 checks
+*** FLOP *** [Kh 3s 5d]
+loul48 checks
+premier20090 checks
+talt33 checks
+Asdutheil checks
+bojana55 checks
+*** TURN *** [Kh 3s 5d][4d]
+loul48 checks
+premier20090 checks
+talt33 checks
+Asdutheil checks
+bojana55 checks
+*** RIVER *** [Kh 3s 5d 4d][3c]
+loul48 checks
+premier20090 checks
+talt33 checks
+Asdutheil checks
+bojana55 checks
+*** SHOW DOWN ***
+Asdutheil shows [Th 9s] (One pair : 3)
+bojana55 shows [Jc Qs] (One pair : 3)
+loul48 shows [9d 8c] (One pair : 3)
+premier20090 shows [9c Ah] (One pair : 3)
+talt33 shows [4s Js] (Two pairs : 4 and 3)
+talt33 collected 646 from pot
+*** SUMMARY ***
+Total pot 646 | No rake
+Board: [Kh 3s 5d 4d 3c]
+Seat 1: Asdutheil showed [Th 9s] and lost with One pair : 3
+Seat 2: bojana55 (button) showed [Jc Qs] and lost with One pair : 3
+Seat 4: loul48 (big blind) showed [9d 8c] and lost with One pair : 3
+Seat 5: premier20090 showed [9c Ah] and lost with One pair : 3
+Seat 6: talt33 showed [4s Js] and won 646 with Two pairs : 4 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #860532827018494056-17-1499440719 - Holdem no limit (15/60/120) - 2017/07/07 15:18:39 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #3 is the button
+Seat 1: Asdutheil (5212)
+Seat 2: bojana55 (3427)
+Seat 3: lokkjh (12586)
+Seat 4: loul48 (3696)
+Seat 5: premier20090 (6699)
+Seat 6: talt33 (3544)
+Seat 7: mitch1980 (4088)
+Seat 8: manggy94 (2748)
+*** ANTE/BLINDS ***
+loul48 posts ante 15
+premier20090 posts ante 15
+Asdutheil posts ante 15
+bojana55 posts ante 15
+lokkjh posts ante 15
+talt33 posts ante 15
+mitch1980 posts ante 15
+manggy94 posts ante 15
+loul48 posts small blind 60
+premier20090 posts big blind 120
+Dealt to manggy94 [3h 2s]
+*** PRE-FLOP *** 
+talt33 calls 120
+mitch1980 folds
+manggy94 folds
+Asdutheil calls 120
+bojana55 calls 120
+lokkjh folds
+loul48 calls 60
+premier20090 checks
+*** FLOP *** [Td Jd Kc]
+loul48 checks
+premier20090 checks
+talt33 bets 120
+Asdutheil folds
+bojana55 calls 120
+loul48 calls 120
+premier20090 calls 120
+*** TURN *** [Td Jd Kc][Jh]
+loul48 checks
+premier20090 checks
+talt33 bets 120
+bojana55 calls 120
+loul48 calls 120
+premier20090 calls 120
+*** RIVER *** [Td Jd Kc Jh][6d]
+loul48 checks
+premier20090 checks
+talt33 bets 120
+bojana55 calls 120
+loul48 folds
+premier20090 calls 120
+*** SHOW DOWN ***
+premier20090 shows [4c Ad] (One pair : Jacks)
+talt33 shows [7d Jc] (Trips of Jacks)
+bojana55 shows [Kd 9d] (Flush King high)
+bojana55 collected 2040 from pot
+*** SUMMARY ***
+Total pot 2040 | No rake
+Board: [Td Jd Kc Jh 6d]
+Seat 2: bojana55 showed [Kd 9d] and won 2040 with Flush King high
+Seat 5: premier20090 (big blind) showed [4c Ad] and lost with One pair : Jacks
+Seat 6: talt33 showed [7d Jc] and lost with Trips of Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #860532827018494056-18-1499440880 - Holdem no limit (15/60/120) - 2017/07/07 15:21:20 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #4 is the button
+Seat 1: Asdutheil (5077)
+Seat 2: bojana55 (4972)
+Seat 3: lokkjh (12571)
+Seat 4: loul48 (3321)
+Seat 5: premier20090 (6204)
+Seat 6: talt33 (3049)
+Seat 7: mitch1980 (4073)
+Seat 8: manggy94 (2733)
+*** ANTE/BLINDS ***
+premier20090 posts ante 15
+talt33 posts ante 15
+Asdutheil posts ante 15
+bojana55 posts ante 15
+lokkjh posts ante 15
+loul48 posts ante 15
+mitch1980 posts ante 15
+manggy94 posts ante 15
+premier20090 posts small blind 60
+talt33 posts big blind 120
+Dealt to manggy94 [Tc 5c]
+*** PRE-FLOP *** 
+mitch1980 folds
+manggy94 folds
+Asdutheil folds
+bojana55 calls 120
+lokkjh folds
+loul48 folds
+premier20090 calls 60
+talt33 checks
+*** FLOP *** [7c 4d Jc]
+premier20090 bets 120
+talt33 calls 120
+bojana55 folds
+*** TURN *** [7c 4d Jc][8s]
+premier20090 bets 120
+talt33 calls 120
+*** RIVER *** [7c 4d Jc 8s][7h]
+premier20090 bets 120
+talt33 calls 120
+*** SHOW DOWN ***
+talt33 shows [8h 2h] (Two pairs : 8 and 7)
+premier20090 shows [Qd Jh] (Two pairs : Jacks and 7)
+premier20090 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [7c 4d Jc 8s 7h]
+Seat 5: premier20090 (small blind) showed [Qd Jh] and won 1200 with Two pairs : Jacks and 7
+Seat 6: talt33 (big blind) showed [8h 2h] and lost with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #860532827018494056-19-1499440936 - Holdem no limit (20/80/160) - 2017/07/07 15:22:16 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #5 is the button
+Seat 1: Asdutheil (5062)
+Seat 2: bojana55 (4837)
+Seat 3: lokkjh (12556)
+Seat 4: loul48 (3306)
+Seat 5: premier20090 (6909)
+Seat 6: talt33 (2554)
+Seat 7: mitch1980 (4058)
+Seat 8: manggy94 (2718)
+*** ANTE/BLINDS ***
+talt33 posts ante 20
+mitch1980 posts ante 20
+Asdutheil posts ante 20
+bojana55 posts ante 20
+lokkjh posts ante 20
+loul48 posts ante 20
+premier20090 posts ante 20
+manggy94 posts ante 20
+talt33 posts small blind 80
+mitch1980 posts big blind 160
+Dealt to manggy94 [4h 2d]
+*** PRE-FLOP *** 
+manggy94 folds
+Asdutheil calls 160
+bojana55 calls 160
+lokkjh folds
+loul48 calls 160
+premier20090 calls 160
+talt33 calls 80
+mitch1980 checks
+*** FLOP *** [4d 7h 9h]
+talt33 bets 160
+mitch1980 calls 160
+Asdutheil folds
+bojana55 calls 160
+loul48 folds
+premier20090 calls 160
+*** TURN *** [4d 7h 9h][Ah]
+talt33 bets 160
+mitch1980 calls 160
+bojana55 raises 2240 to 2400
+premier20090 folds
+talt33 calls 2054 and is all-in
+mitch1980 folds
+*** RIVER *** [4d 7h 9h Ah][6s]
+*** SHOW DOWN ***
+talt33 shows [4c 7d] (Two pairs : 7 and 4)
+bojana55 shows [Qh Th] (Flush Ace high)
+bojana55 collected 6534 from pot
+*** SUMMARY ***
+Total pot 6534 | No rake
+Board: [4d 7h 9h Ah 6s]
+Seat 2: bojana55 showed [Qh Th] and won 6534 with Flush Ace high
+Seat 6: talt33 (small blind) showed [4c 7d] and lost with Two pairs : 7 and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #860532827018494056-20-1499441007 - Holdem no limit (20/80/160) - 2017/07/07 15:23:27 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #6 is the button
+Seat 1: Asdutheil (4882)
+Seat 2: bojana55 (8631)
+Seat 3: lokkjh (12536)
+Seat 4: loul48 (3126)
+Seat 5: premier20090 (6569)
+Seat 7: mitch1980 (3558)
+Seat 8: manggy94 (2698)
+*** ANTE/BLINDS ***
+mitch1980 posts ante 20
+manggy94 posts ante 20
+Asdutheil posts ante 20
+bojana55 posts ante 20
+lokkjh posts ante 20
+loul48 posts ante 20
+premier20090 posts ante 20
+mitch1980 posts small blind 80
+manggy94 posts big blind 160
+Dealt to manggy94 [7h Ts]
+*** PRE-FLOP *** 
+Asdutheil folds
+bojana55 calls 160
+lokkjh calls 160
+loul48 folds
+premier20090 calls 160
+mitch1980 folds
+manggy94 checks
+*** FLOP *** [6d Ac 9h]
+manggy94 checks
+bojana55 checks
+lokkjh checks
+premier20090 checks
+*** TURN *** [6d Ac 9h][Qh]
+manggy94 checks
+bojana55 checks
+lokkjh checks
+premier20090 bets 160
+manggy94 folds
+bojana55 calls 160
+lokkjh folds
+*** RIVER *** [6d Ac 9h Qh][2h]
+bojana55 checks
+premier20090 checks
+*** SHOW DOWN ***
+premier20090 shows [Qs 7s] (One pair : Queens)
+bojana55 shows [As 4h] (One pair : Aces)
+bojana55 collected 1180 from pot
+*** SUMMARY ***
+Total pot 1180 | No rake
+Board: [6d Ac 9h Qh 2h]
+Seat 2: bojana55 showed [As 4h] and won 1180 with One pair : Aces
+Seat 5: premier20090 showed [Qs 7s] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #860532827018494056-21-1499441092 - Holdem no limit (25/100/200) - 2017/07/07 15:24:52 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #7 is the button
+Seat 1: Asdutheil (4862)
+Seat 2: bojana55 (9471)
+Seat 3: lokkjh (12356)
+Seat 4: loul48 (3106)
+Seat 5: premier20090 (6229)
+Seat 6: Markotchino (2576)
+Seat 7: mitch1980 (3458)
+Seat 8: manggy94 (2518)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+Asdutheil posts ante 25
+bojana55 posts ante 25
+lokkjh posts ante 25
+loul48 posts ante 25
+premier20090 posts ante 25
+Markotchino posts ante 25
+mitch1980 posts ante 25
+manggy94 posts small blind 100
+Asdutheil posts big blind 200
+Dealt to manggy94 [2h 4d]
+*** PRE-FLOP *** 
+bojana55 folds
+lokkjh calls 200
+loul48 folds
+premier20090 folds
+Markotchino folds
+mitch1980 raises 600 to 800
+manggy94 folds
+Asdutheil folds
+lokkjh calls 600
+*** FLOP *** [Ks 5h Jc]
+lokkjh checks
+mitch1980 bets 1050
+lokkjh calls 1050
+*** TURN *** [Ks 5h Jc][Qs]
+lokkjh bets 10481 and is all-in
+mitch1980 folds
+lokkjh collected 14681 from pot
+*** SUMMARY ***
+Total pot 14681 | No rake
+Board: [Ks 5h Jc Qs]
+Seat 3: lokkjh won 14681
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #860532827018494056-22-1499441185 - Holdem no limit (25/100/200) - 2017/07/07 15:26:25 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #8 is the button
+Seat 1: Asdutheil (4637)
+Seat 2: bojana55 (9446)
+Seat 3: lokkjh (14681)
+Seat 4: loul48 (3081)
+Seat 5: premier20090 (6204)
+Seat 6: Markotchino (2551)
+Seat 7: mitch1980 (1583)
+Seat 8: manggy94 (2393)
+*** ANTE/BLINDS ***
+Asdutheil posts ante 25
+bojana55 posts ante 25
+lokkjh posts ante 25
+loul48 posts ante 25
+premier20090 posts ante 25
+Markotchino posts ante 25
+mitch1980 posts ante 25
+manggy94 posts ante 25
+Asdutheil posts small blind 100
+bojana55 posts big blind 200
+Dealt to manggy94 [2d 9c]
+*** PRE-FLOP *** 
+lokkjh folds
+loul48 raises 200 to 400
+premier20090 calls 400
+Markotchino folds
+mitch1980 folds
+manggy94 folds
+Asdutheil folds
+bojana55 folds
+*** FLOP *** [4s 6s 7c]
+loul48 bets 700
+premier20090 folds
+loul48 collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | No rake
+Board: [4s 6s 7c]
+Seat 4: loul48 won 2000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #860532827018494056-23-1499441234 - Holdem no limit (25/100/200) - 2017/07/07 15:27:14 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #1 is the button
+Seat 1: Asdutheil (4512)
+Seat 2: bojana55 (9221)
+Seat 3: lokkjh (14656)
+Seat 4: loul48 (3956)
+Seat 5: premier20090 (5779)
+Seat 6: Markotchino (2526)
+Seat 7: mitch1980 (1558)
+Seat 8: manggy94 (2368)
+*** ANTE/BLINDS ***
+bojana55 posts ante 25
+lokkjh posts ante 25
+Asdutheil posts ante 25
+loul48 posts ante 25
+premier20090 posts ante 25
+Markotchino posts ante 25
+mitch1980 posts ante 25
+manggy94 posts ante 25
+bojana55 posts small blind 100
+lokkjh posts big blind 200
+Dealt to manggy94 [9d Qd]
+*** PRE-FLOP *** 
+loul48 folds
+premier20090 folds
+Markotchino folds
+mitch1980 calls 200
+manggy94 calls 200
+Asdutheil folds
+bojana55 calls 100
+lokkjh checks
+*** FLOP *** [6s 3s 6d]
+bojana55 checks
+lokkjh checks
+mitch1980 checks
+manggy94 bets 200
+bojana55 calls 200
+lokkjh folds
+mitch1980 folds
+*** TURN *** [6s 3s 6d][Qc]
+bojana55 checks
+manggy94 bets 700
+bojana55 folds
+manggy94 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Board: [6s 3s 6d Qc]
+Seat 8: manggy94 won 2100
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #860532827018494056-24-1499441278 - Holdem no limit (30/125/250) - 2017/07/07 15:27:58 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #2 is the button
+Seat 1: Asdutheil (4487)
+Seat 2: bojana55 (8796)
+Seat 3: lokkjh (14431)
+Seat 4: loul48 (3931)
+Seat 5: premier20090 (5754)
+Seat 6: Markotchino (2501)
+Seat 7: mitch1980 (1333)
+Seat 8: manggy94 (3343)
+*** ANTE/BLINDS ***
+lokkjh posts ante 30
+loul48 posts ante 30
+Asdutheil posts ante 30
+bojana55 posts ante 30
+premier20090 posts ante 30
+Markotchino posts ante 30
+mitch1980 posts ante 30
+manggy94 posts ante 30
+lokkjh posts small blind 125
+loul48 posts big blind 250
+Dealt to manggy94 [5c 5s]
+*** PRE-FLOP *** 
+premier20090 folds
+Markotchino folds
+mitch1980 calls 250
+manggy94 calls 250
+Asdutheil folds
+bojana55 calls 250
+lokkjh folds
+loul48 checks
+*** FLOP *** [2d 8d 5d]
+loul48 checks
+mitch1980 checks
+manggy94 bets 250
+bojana55 calls 250
+loul48 folds
+mitch1980 folds
+*** TURN *** [2d 8d 5d][9h]
+manggy94 bets 250
+bojana55 calls 250
+*** RIVER *** [2d 8d 5d 9h][6d]
+manggy94 checks
+bojana55 checks
+*** SHOW DOWN ***
+manggy94 shows [5c 5s] (Trips of 5)
+bojana55 shows [Td Jh] (Flush Ten high)
+bojana55 collected 2365 from pot
+*** SUMMARY ***
+Total pot 2365 | No rake
+Board: [2d 8d 5d 9h 6d]
+Seat 2: bojana55 (button) showed [Td Jh] and won 2365 with Flush Ten high
+Seat 8: manggy94 showed [5c 5s] and lost with Trips of 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #860532827018494056-25-1499441332 - Holdem no limit (30/125/250) - 2017/07/07 15:28:52 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #3 is the button
+Seat 1: Asdutheil (4457)
+Seat 2: bojana55 (10381)
+Seat 3: lokkjh (14276)
+Seat 4: loul48 (3651)
+Seat 5: premier20090 (5724)
+Seat 6: Markotchino (2471)
+Seat 7: mitch1980 (1053)
+Seat 8: manggy94 (2563)
+*** ANTE/BLINDS ***
+loul48 posts ante 30
+premier20090 posts ante 30
+Asdutheil posts ante 30
+bojana55 posts ante 30
+lokkjh posts ante 30
+Markotchino posts ante 30
+mitch1980 posts ante 30
+manggy94 posts ante 30
+loul48 posts small blind 125
+premier20090 posts big blind 250
+Dealt to manggy94 [7d 3c]
+*** PRE-FLOP *** 
+Markotchino folds
+mitch1980 folds
+manggy94 folds
+Asdutheil folds
+bojana55 folds
+lokkjh folds
+loul48 calls 125
+premier20090 checks
+*** FLOP *** [4d Ts 9d]
+loul48 bets 250
+premier20090 calls 250
+*** TURN *** [4d Ts 9d][4c]
+loul48 checks
+premier20090 bets 250
+loul48 calls 250
+*** RIVER *** [4d Ts 9d 4c][4s]
+loul48 checks
+premier20090 bets 870
+loul48 folds
+premier20090 collected 2610 from pot
+*** SUMMARY ***
+Total pot 2610 | No rake
+Board: [4d Ts 9d 4c 4s]
+Seat 5: premier20090 (big blind) won 2610
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #860532827018494056-26-1499441393 - Holdem no limit (30/125/250) - 2017/07/07 15:29:53 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #4 is the button
+Seat 1: Asdutheil (4427)
+Seat 2: bojana55 (10351)
+Seat 3: lokkjh (14246)
+Seat 4: loul48 (2871)
+Seat 5: premier20090 (6684)
+Seat 6: Markotchino (2441)
+Seat 7: mitch1980 (1023)
+Seat 8: manggy94 (2533)
+*** ANTE/BLINDS ***
+premier20090 posts ante 30
+Markotchino posts ante 30
+Asdutheil posts ante 30
+bojana55 posts ante 30
+lokkjh posts ante 30
+loul48 posts ante 30
+mitch1980 posts ante 30
+manggy94 posts ante 30
+premier20090 posts small blind 125
+Markotchino posts big blind 250
+Dealt to manggy94 [Th 6h]
+*** PRE-FLOP *** 
+mitch1980 calls 250
+manggy94 folds
+Asdutheil folds
+bojana55 calls 250
+lokkjh folds
+loul48 folds
+premier20090 calls 125
+Markotchino folds
+*** FLOP *** [Kh Jd 8d]
+premier20090 checks
+mitch1980 bets 743 and is all-in
+bojana55 folds
+premier20090 calls 743
+*** TURN *** [Kh Jd 8d][9d]
+*** RIVER *** [Kh Jd 8d 9d][2d]
+*** SHOW DOWN ***
+premier20090 shows [3c 8c] (One pair : 8)
+mitch1980 shows [Td 9c] (Flush Jack high)
+mitch1980 collected 2726 from pot
+*** SUMMARY ***
+Total pot 2726 | No rake
+Board: [Kh Jd 8d 9d 2d]
+Seat 5: premier20090 (small blind) showed [3c 8c] and lost with One pair : 8
+Seat 7: mitch1980 showed [Td 9c] and won 2726 with Flush Jack high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #860532827018494056-27-1499441445 - Holdem no limit (40/150/300) - 2017/07/07 15:30:45 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #5 is the button
+Seat 1: Asdutheil (4397)
+Seat 2: bojana55 (10071)
+Seat 3: lokkjh (14216)
+Seat 4: loul48 (2841)
+Seat 5: premier20090 (5661)
+Seat 6: Markotchino (2161)
+Seat 7: mitch1980 (2726)
+Seat 8: manggy94 (2503)
+*** ANTE/BLINDS ***
+Markotchino posts ante 40
+mitch1980 posts ante 40
+Asdutheil posts ante 40
+bojana55 posts ante 40
+lokkjh posts ante 40
+loul48 posts ante 40
+premier20090 posts ante 40
+manggy94 posts ante 40
+Markotchino posts small blind 150
+mitch1980 posts big blind 300
+Dealt to manggy94 [6d 3h]
+*** PRE-FLOP *** 
+manggy94 folds
+Asdutheil folds
+bojana55 folds
+lokkjh folds
+loul48 folds
+premier20090 calls 300
+Markotchino folds
+mitch1980 checks
+*** FLOP *** [Ts 6s 7d]
+mitch1980 checks
+premier20090 bets 300
+mitch1980 folds
+premier20090 collected 1370 from pot
+*** SUMMARY ***
+Total pot 1370 | No rake
+Board: [Ts 6s 7d]
+Seat 5: premier20090 (button) won 1370
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #860532827018494056-28-1499441470 - Holdem no limit (40/150/300) - 2017/07/07 15:31:10 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #6 is the button
+Seat 1: Asdutheil (4357)
+Seat 2: bojana55 (10031)
+Seat 3: lokkjh (14176)
+Seat 4: loul48 (2801)
+Seat 5: premier20090 (6391)
+Seat 6: Markotchino (1971)
+Seat 7: mitch1980 (2386)
+Seat 8: manggy94 (2463)
+*** ANTE/BLINDS ***
+mitch1980 posts ante 40
+manggy94 posts ante 40
+Asdutheil posts ante 40
+bojana55 posts ante 40
+lokkjh posts ante 40
+loul48 posts ante 40
+premier20090 posts ante 40
+Markotchino posts ante 40
+mitch1980 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Jd 6c]
+*** PRE-FLOP *** 
+Asdutheil raises 300 to 600
+bojana55 calls 600
+lokkjh folds
+loul48 folds
+premier20090 calls 600
+Markotchino folds
+mitch1980 calls 450
+manggy94 folds
+*** FLOP *** [9c 9h 2s]
+mitch1980 checks
+Asdutheil checks
+bojana55 checks
+premier20090 checks
+*** TURN *** [9c 9h 2s][2d]
+mitch1980 checks
+Asdutheil checks
+bojana55 checks
+premier20090 checks
+*** RIVER *** [9c 9h 2s 2d][Jc]
+mitch1980 bets 1746 and is all-in
+Asdutheil folds
+bojana55 folds
+premier20090 folds
+mitch1980 collected 4766 from pot
+*** SUMMARY ***
+Total pot 4766 | No rake
+Board: [9c 9h 2s 2d Jc]
+Seat 7: mitch1980 (small blind) won 4766
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #860532827018494056-29-1499441564 - Holdem no limit (40/150/300) - 2017/07/07 15:32:44 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #7 is the button
+Seat 1: Asdutheil (3717)
+Seat 2: bojana55 (9391)
+Seat 3: lokkjh (14136)
+Seat 4: loul48 (2761)
+Seat 5: premier20090 (5751)
+Seat 6: Markotchino (1931)
+Seat 7: mitch1980 (4766)
+Seat 8: manggy94 (2123)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+Asdutheil posts ante 40
+bojana55 posts ante 40
+lokkjh posts ante 40
+loul48 posts ante 40
+premier20090 posts ante 40
+Markotchino posts ante 40
+mitch1980 posts ante 40
+manggy94 posts small blind 150
+Asdutheil posts big blind 300
+Dealt to manggy94 [5c 9h]
+*** PRE-FLOP *** 
+bojana55 folds
+lokkjh folds
+loul48 calls 300
+premier20090 folds
+Markotchino folds
+mitch1980 folds
+manggy94 folds
+Asdutheil checks
+*** FLOP *** [Ah 6c 4h]
+Asdutheil checks
+loul48 bets 300
+Asdutheil folds
+loul48 collected 1370 from pot
+*** SUMMARY ***
+Total pot 1370 | No rake
+Board: [Ah 6c 4h]
+Seat 4: loul48 won 1370
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #860532827018494056-30-1499441617 - Holdem no limit (50/200/400) - 2017/07/07 15:33:37 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #8 is the button
+Seat 1: Asdutheil (3377)
+Seat 2: bojana55 (9351)
+Seat 3: lokkjh (14096)
+Seat 4: loul48 (3491)
+Seat 5: premier20090 (5711)
+Seat 6: Markotchino (1891)
+Seat 7: mitch1980 (4726)
+Seat 8: manggy94 (1933)
+*** ANTE/BLINDS ***
+Asdutheil posts ante 50
+bojana55 posts ante 50
+lokkjh posts ante 50
+loul48 posts ante 50
+premier20090 posts ante 50
+Markotchino posts ante 50
+mitch1980 posts ante 50
+manggy94 posts ante 50
+Asdutheil posts small blind 200
+bojana55 posts big blind 400
+Dealt to manggy94 [Td 8d]
+*** PRE-FLOP *** 
+lokkjh folds
+loul48 raises 400 to 800
+premier20090 folds
+Markotchino folds
+mitch1980 folds
+manggy94 calls 800
+Asdutheil folds
+bojana55 folds
+*** FLOP *** [Js 2c Jd]
+loul48 bets 1200
+manggy94 folds
+loul48 collected 3800 from pot
+*** SUMMARY ***
+Total pot 3800 | No rake
+Board: [Js 2c Jd]
+Seat 4: loul48 won 3800
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #860532827018494056-31-1499441715 - Holdem no limit (50/200/400) - 2017/07/07 15:35:15 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #1 is the button
+Seat 1: Asdutheil (3127)
+Seat 2: bojana55 (8901)
+Seat 3: lokkjh (14046)
+Seat 4: loul48 (5241)
+Seat 5: premier20090 (5661)
+Seat 6: Markotchino (1841)
+Seat 7: mitch1980 (4676)
+Seat 8: manggy94 (1083)
+*** ANTE/BLINDS ***
+bojana55 posts ante 50
+lokkjh posts ante 50
+Asdutheil posts ante 50
+loul48 posts ante 50
+premier20090 posts ante 50
+Markotchino posts ante 50
+mitch1980 posts ante 50
+manggy94 posts ante 50
+bojana55 posts small blind 200
+lokkjh posts big blind 400
+Dealt to manggy94 [2s 6c]
+*** PRE-FLOP *** 
+loul48 folds
+premier20090 folds
+Markotchino raises 1391 to 1791 and is all-in
+mitch1980 folds
+manggy94 folds
+Asdutheil folds
+bojana55 folds
+lokkjh folds
+Markotchino collected 2791 from pot
+*** SUMMARY ***
+Total pot 2791 | No rake
+Seat 6: Markotchino won 2791
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #860532827018494056-32-1499441753 - Holdem no limit (50/200/400) - 2017/07/07 15:35:53 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #2 is the button
+Seat 1: Asdutheil (3077)
+Seat 2: bojana55 (8651)
+Seat 3: lokkjh (13596)
+Seat 4: loul48 (5191)
+Seat 5: premier20090 (5611)
+Seat 6: Markotchino (2791)
+Seat 7: mitch1980 (4626)
+Seat 8: manggy94 (1033)
+*** ANTE/BLINDS ***
+lokkjh posts ante 50
+loul48 posts ante 50
+Asdutheil posts ante 50
+bojana55 posts ante 50
+premier20090 posts ante 50
+Markotchino posts ante 50
+mitch1980 posts ante 50
+manggy94 posts ante 50
+lokkjh posts small blind 200
+loul48 posts big blind 400
+Dealt to manggy94 [2c 7s]
+*** PRE-FLOP *** 
+premier20090 folds
+Markotchino raises 2341 to 2741 and is all-in
+mitch1980 folds
+manggy94 folds
+Asdutheil folds
+bojana55 folds
+lokkjh folds
+loul48 calls 2341
+*** FLOP *** [8s 2s As]
+*** TURN *** [8s 2s As][3s]
+*** RIVER *** [8s 2s As 3s][Th]
+*** SHOW DOWN ***
+Markotchino shows [Qc 8h] (One pair : 8)
+loul48 shows [Qh Ah] (One pair : Aces)
+loul48 collected 6082 from pot
+*** SUMMARY ***
+Total pot 6082 | No rake
+Board: [8s 2s As 3s Th]
+Seat 4: loul48 (big blind) showed [Qh Ah] and won 6082 with One pair : Aces
+Seat 6: Markotchino showed [Qc 8h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #860532827018494056-33-1499441800 - Holdem no limit (60/250/500) - 2017/07/07 15:36:40 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #3 is the button
+Seat 1: Asdutheil (3027)
+Seat 2: bojana55 (8601)
+Seat 3: lokkjh (13346)
+Seat 4: loul48 (8482)
+Seat 5: premier20090 (5561)
+Seat 7: mitch1980 (4576)
+Seat 8: manggy94 (983)
+*** ANTE/BLINDS ***
+loul48 posts ante 60
+premier20090 posts ante 60
+Asdutheil posts ante 60
+bojana55 posts ante 60
+lokkjh posts ante 60
+mitch1980 posts ante 60
+manggy94 posts ante 60
+loul48 posts small blind 250
+premier20090 posts big blind 500
+Dealt to manggy94 [2s Qh]
+*** PRE-FLOP *** 
+mitch1980 calls 500
+manggy94 folds
+Asdutheil calls 500
+bojana55 folds
+lokkjh folds
+loul48 calls 250
+premier20090 checks
+*** FLOP *** [7h 5d Ad]
+loul48 checks
+premier20090 checks
+mitch1980 checks
+Asdutheil checks
+*** TURN *** [7h 5d Ad][Qd]
+loul48 checks
+premier20090 checks
+mitch1980 checks
+Asdutheil checks
+*** RIVER *** [7h 5d Ad Qd][Kc]
+loul48 checks
+premier20090 checks
+mitch1980 checks
+Asdutheil checks
+*** SHOW DOWN ***
+loul48 shows [9h 7c] (One pair : 7)
+premier20090 shows [5s 6d] (One pair : 5)
+mitch1980 shows [Jd 9s] (High card : Ace)
+Asdutheil shows [2h Ac] (One pair : Aces)
+Asdutheil collected 2420 from pot
+*** SUMMARY ***
+Total pot 2420 | No rake
+Board: [7h 5d Ad Qd Kc]
+Seat 1: Asdutheil showed [2h Ac] and won 2420 with One pair : Aces
+Seat 4: loul48 (small blind) showed [9h 7c] and lost with One pair : 7
+Seat 5: premier20090 (big blind) showed [5s 6d] and lost with One pair : 5
+Seat 7: mitch1980 showed [Jd 9s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #860532827018494056-34-1499441924 - Holdem no limit (60/250/500) - 2017/07/07 15:38:44 UTC
+Table: 'Freeroll(200358412)#0103' 8-max (real money) Seat #4 is the button
+Seat 1: Asdutheil (4887)
+Seat 2: bojana55 (8541)
+Seat 3: lokkjh (13286)
+Seat 4: loul48 (7922)
+Seat 5: premier20090 (5001)
+Seat 6: E.HAZARD--95 (13386)
+Seat 7: mitch1980 (4016)
+Seat 8: manggy94 (923)
+*** ANTE/BLINDS ***
+premier20090 posts ante 60
+E.HAZARD--95 posts ante 60
+Asdutheil posts ante 60
+bojana55 posts ante 60
+lokkjh posts ante 60
+loul48 posts ante 60
+mitch1980 posts ante 60
+manggy94 posts ante 60
+premier20090 posts small blind 250
+E.HAZARD--95 posts big blind 500
+Dealt to manggy94 [7s 8s]
+*** PRE-FLOP *** 
+mitch1980 raises 3456 to 3956 and is all-in
+manggy94 calls 863 and is all-in
+Asdutheil folds
+bojana55 folds
+lokkjh folds
+loul48 folds
+premier20090 folds
+E.HAZARD--95 raises 9370 to 13326 and is all-in
+*** FLOP *** [Qd 2h Jc]
+*** TURN *** [Qd 2h Jc][Tc]
+*** RIVER *** [Qd 2h Jc Tc][Ad]
+*** SHOW DOWN ***
+mitch1980 shows [Qh Qs] (Trips of Queens)
+manggy94 shows [7s 8s] (High card : Ace)
+E.HAZARD--95 shows [Kc Kh] (Straight Ace high)
+E.HAZARD--95 collected 18875 from pot
+*** SUMMARY ***
+Total pot 18875 | No rake
+Board: [Qd 2h Jc Tc Ad]
+Seat 6: E.HAZARD--95 (big blind) showed [Kc Kh] and won 18875 with Straight Ace high
+Seat 7: mitch1980 showed [Qh Qs] and lost with Trips of Queens
+Seat 8: manggy94 showed [7s 8s] and lost with High card : Ace
+
+

@@ -1,0 +1,597 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 0,90€ + 0,10€ level: 2 - HandId: #605818271110791172-8-1451483074 - Holdem no limit (75/150) - 2015/12/30 13:44:34 UTC
+Table: 'Hold'em(141053058)#003' 8-max (real money) Seat #4 is the button
+Seat 1: jackas56 (3000)
+Seat 2: champion000 (9850)
+Seat 3: rudylan59 (10725)
+Seat 4: neutrinos1.0 (7925)
+Seat 5: MOSVA (9750)
+Seat 6: gambarote (10250)
+Seat 7: manggy94 (10000)
+Seat 8: philau22 (19475)
+*** ANTE/BLINDS ***
+MOSVA posts small blind 75
+gambarote posts big blind 150
+Dealt to manggy94 [8s 6s]
+*** PRE-FLOP *** 
+manggy94 calls 150
+philau22 calls 150
+jackas56 folds
+champion000 folds
+rudylan59 folds
+neutrinos1.0 calls 150
+MOSVA folds
+gambarote checks
+*** FLOP *** [6h 5d 7s]
+gambarote checks
+manggy94 bets 675
+philau22 calls 675
+neutrinos1.0 calls 675
+gambarote folds
+*** TURN *** [6h 5d 7s][4d]
+manggy94 checks
+philau22 bets 1350
+neutrinos1.0 calls 1350
+manggy94 raises 7825 to 9175 and is all-in
+philau22 folds
+neutrinos1.0 folds
+manggy94 collected 14575 from pot
+*** SUMMARY ***
+Total pot 14575 | No rake
+Board: [6h 5d 7s 4d]
+Seat 7: manggy94 won 14575
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,90€ + 0,10€ level: 2 - HandId: #605818271110791172-9-1451483225 - Holdem no limit (75/150) - 2015/12/30 13:47:05 UTC
+Table: 'Hold'em(141053058)#003' 8-max (real money) Seat #5 is the button
+Seat 1: jackas56 (3000)
+Seat 2: champion000 (9850)
+Seat 3: rudylan59 (10725)
+Seat 4: neutrinos1.0 (5750)
+Seat 5: MOSVA (9675)
+Seat 6: gambarote (10100)
+Seat 7: manggy94 (14575)
+Seat 8: philau22 (17300)
+*** ANTE/BLINDS ***
+gambarote posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [9d Ah]
+*** PRE-FLOP *** 
+philau22 folds
+jackas56 folds
+champion000 folds
+rudylan59 folds
+neutrinos1.0 folds
+MOSVA folds
+gambarote calls 75
+manggy94 checks
+*** FLOP *** [8s Js 7d]
+gambarote checks
+manggy94 bets 300
+gambarote calls 300
+*** TURN *** [8s Js 7d][3h]
+gambarote checks
+manggy94 checks
+*** RIVER *** [8s Js 7d 3h][Qs]
+gambarote bets 150
+manggy94 calls 150
+*** SHOW DOWN ***
+manggy94 shows [9d Ah] (High card : Ace)
+gambarote shows [Td 7c] (One pair : 7)
+gambarote collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [8s Js 7d 3h Qs]
+Seat 6: gambarote (small blind) showed [Td 7c] and won 1200 with One pair : 7
+Seat 7: manggy94 (big blind) showed [9d Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #605818271110791172-10-1451483292 - Holdem no limit (100/200) - 2015/12/30 13:48:12 UTC
+Table: 'Hold'em(141053058)#003' 8-max (real money) Seat #6 is the button
+Seat 1: jackas56 (3000)
+Seat 2: champion000 (9850)
+Seat 3: rudylan59 (10725)
+Seat 4: neutrinos1.0 (5750)
+Seat 5: MOSVA (9675)
+Seat 6: gambarote (10700)
+Seat 7: manggy94 (13975)
+Seat 8: philau22 (17300)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+philau22 posts big blind 200
+Dealt to manggy94 [5d 3d]
+*** PRE-FLOP *** 
+jackas56 calls 200
+champion000 raises 200 to 400
+rudylan59 folds
+neutrinos1.0 calls 400
+MOSVA folds
+gambarote calls 400
+manggy94 calls 300
+philau22 calls 200
+jackas56 calls 200
+*** FLOP *** [4h 4s 6c]
+manggy94 checks
+philau22 checks
+jackas56 checks
+champion000 bets 200
+neutrinos1.0 folds
+gambarote folds
+manggy94 calls 200
+philau22 calls 200
+jackas56 folds
+*** TURN *** [4h 4s 6c][7c]
+manggy94 checks
+philau22 bets 200
+champion000 raises 1600 to 1800
+manggy94 calls 1800
+philau22 folds
+*** RIVER *** [4h 4s 6c 7c][6d]
+manggy94 checks
+champion000 checks
+*** SHOW DOWN ***
+manggy94 shows [5d 3d] (Straight 7 high)
+champion000 shows [Ac 4c] (Full of 4 and 6)
+champion000 collected 6800 from pot
+*** SUMMARY ***
+Total pot 6800 | No rake
+Board: [4h 4s 6c 7c 6d]
+Seat 2: champion000 showed [Ac 4c] and won 6800 with Full of 4 and 6
+Seat 7: manggy94 (small blind) showed [5d 3d] and lost with Straight 7 high
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #605818271110791172-11-1451483405 - Holdem no limit (100/200) - 2015/12/30 13:50:05 UTC
+Table: 'Hold'em(141053058)#003' 8-max (real money) Seat #7 is the button
+Seat 1: jackas56 (2600)
+Seat 3: rudylan59 (10725)
+Seat 4: neutrinos1.0 (5350)
+Seat 5: MOSVA (9675)
+Seat 6: gambarote (10300)
+Seat 7: manggy94 (11575)
+Seat 8: philau22 (16500)
+*** ANTE/BLINDS ***
+philau22 posts small blind 100
+jackas56 posts big blind 200
+Dealt to manggy94 [Qd 9h]
+*** PRE-FLOP *** 
+rudylan59 raises 800 to 1000
+neutrinos1.0 calls 1000
+MOSVA folds
+gambarote folds
+manggy94 folds
+philau22 folds
+jackas56 folds
+*** FLOP *** [4c 8s Td]
+rudylan59 bets 2300
+neutrinos1.0 calls 2300
+*** TURN *** [4c 8s Td][7c]
+rudylan59 bets 6900
+neutrinos1.0 calls 2050 and is all-in
+*** RIVER *** [4c 8s Td 7c][5d]
+*** SHOW DOWN ***
+neutrinos1.0 shows [Kc Qh] (High card : King)
+rudylan59 shows [9c 9s] (One pair : 9)
+rudylan59 collected 15850 from pot
+*** SUMMARY ***
+Total pot 15850 | No rake
+Board: [4c 8s Td 7c 5d]
+Seat 3: rudylan59 showed [9c 9s] and won 15850 with One pair : 9
+Seat 4: neutrinos1.0 showed [Kc Qh] and lost with High card : King
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #605818271110791172-12-1451483466 - Holdem no limit (100/200) - 2015/12/30 13:51:06 UTC
+Table: 'Hold'em(141053058)#003' 8-max (real money) Seat #8 is the button
+Seat 1: jackas56 (2400)
+Seat 3: rudylan59 (16375)
+Seat 5: MOSVA (9675)
+Seat 6: gambarote (10300)
+Seat 7: manggy94 (11575)
+Seat 8: philau22 (16400)
+*** ANTE/BLINDS ***
+jackas56 posts small blind 100
+rudylan59 posts big blind 200
+Dealt to manggy94 [Ah 9d]
+*** PRE-FLOP *** 
+MOSVA folds
+gambarote calls 200
+manggy94 calls 200
+philau22 folds
+jackas56 raises 2200 to 2400 and is all-in
+rudylan59 folds
+gambarote folds
+manggy94 folds
+jackas56 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Seat 1: jackas56 (small blind) won 3000
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #605818271110791172-13-1451483492 - Holdem no limit (100/200) - 2015/12/30 13:51:32 UTC
+Table: 'Hold'em(141053058)#003' 8-max (real money) Seat #1 is the button
+Seat 1: jackas56 (3000)
+Seat 3: rudylan59 (16175)
+Seat 5: MOSVA (9675)
+Seat 6: gambarote (10100)
+Seat 7: manggy94 (11375)
+Seat 8: philau22 (16400)
+*** ANTE/BLINDS ***
+rudylan59 posts small blind 100
+MOSVA posts big blind 200
+Dealt to manggy94 [Jh Qh]
+*** PRE-FLOP *** 
+gambarote folds
+manggy94 calls 200
+philau22 calls 200
+jackas56 folds
+rudylan59 raises 800 to 1000
+MOSVA folds
+manggy94 calls 800
+philau22 calls 800
+*** FLOP *** [9c 4d 4h]
+rudylan59 bets 2133
+manggy94 folds
+philau22 folds
+rudylan59 collected 5333 from pot
+*** SUMMARY ***
+Total pot 5333 | No rake
+Board: [9c 4d 4h]
+Seat 3: rudylan59 (small blind) won 5333
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #605818271110791172-14-1451483556 - Holdem no limit (100/200) - 2015/12/30 13:52:36 UTC
+Table: 'Hold'em(141053058)#003' 8-max (real money) Seat #4 is the button
+Seat 1: jackas56 (3000)
+Seat 3: rudylan59 (18375)
+Seat 4: tonyfranklin (10550)
+Seat 5: MOSVA (9475)
+Seat 6: gambarote (10100)
+Seat 7: manggy94 (10375)
+Seat 8: philau22 (15400)
+*** ANTE/BLINDS ***
+MOSVA posts small blind 100
+gambarote posts big blind 200
+Dealt to manggy94 [Qc Ad]
+*** PRE-FLOP *** 
+manggy94 calls 200
+philau22 folds
+jackas56 folds
+rudylan59 folds
+tonyfranklin folds
+MOSVA folds
+gambarote checks
+*** FLOP *** [Kd 2s 2c]
+gambarote checks
+manggy94 bets 500
+gambarote folds
+manggy94 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [Kd 2s 2c]
+Seat 7: manggy94 won 1000
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,90€ + 0,10€ level: 3 - HandId: #605818271110791172-15-1451483614 - Holdem no limit (100/200) - 2015/12/30 13:53:34 UTC
+Table: 'Hold'em(141053058)#003' 8-max (real money) Seat #5 is the button
+Seat 1: jackas56 (3000)
+Seat 3: rudylan59 (18375)
+Seat 4: tonyfranklin (10550)
+Seat 5: MOSVA (9375)
+Seat 6: gambarote (9900)
+Seat 7: manggy94 (10675)
+Seat 8: philau22 (15400)
+*** ANTE/BLINDS ***
+gambarote posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [7h 6d]
+*** PRE-FLOP *** 
+philau22 folds
+jackas56 calls 200
+rudylan59 folds
+tonyfranklin folds
+MOSVA folds
+gambarote raises 600 to 800
+manggy94 calls 600
+jackas56 calls 600
+*** FLOP *** [4s Th 2h]
+gambarote bets 1100
+manggy94 folds
+jackas56 raises 1100 to 2200 and is all-in
+gambarote calls 1100
+*** TURN *** [4s Th 2h][Ac]
+*** RIVER *** [4s Th 2h Ac][8c]
+*** SHOW DOWN ***
+gambarote shows [Js 9h] (High card : Ace)
+jackas56 shows [Qd Ts] (One pair : Tens)
+jackas56 collected 6800 from pot
+*** SUMMARY ***
+Total pot 6800 | No rake
+Board: [4s Th 2h Ac 8c]
+Seat 1: jackas56 showed [Qd Ts] and won 6800 with One pair : Tens
+Seat 6: gambarote (small blind) showed [Js 9h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #605818271110791172-16-1451483676 - Holdem no limit (150/300) - 2015/12/30 13:54:36 UTC
+Table: 'Hold'em(141053058)#003' 8-max (real money) Seat #6 is the button
+Seat 1: jackas56 (6800)
+Seat 3: rudylan59 (18375)
+Seat 4: tonyfranklin (10550)
+Seat 5: MOSVA (9375)
+Seat 6: gambarote (6900)
+Seat 7: manggy94 (9875)
+Seat 8: philau22 (15400)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+philau22 posts big blind 300
+Dealt to manggy94 [5d 7h]
+*** PRE-FLOP *** 
+jackas56 calls 300
+rudylan59 folds
+tonyfranklin calls 300
+MOSVA folds
+gambarote calls 300
+manggy94 folds
+philau22 checks
+*** FLOP *** [5c Jh 8c]
+philau22 bets 300
+jackas56 folds
+tonyfranklin calls 300
+gambarote calls 300
+*** TURN *** [5c Jh 8c][Kd]
+philau22 bets 300
+tonyfranklin calls 300
+gambarote raises 6000 to 6300 and is all-in
+philau22 folds
+tonyfranklin calls 6000
+*** RIVER *** [5c Jh 8c Kd][Qd]
+*** SHOW DOWN ***
+gambarote shows [4d 6s] (High card : King)
+tonyfranklin shows [8s Ks] (Two pairs : Kings and 8)
+tonyfranklin collected 15150 from pot
+*** SUMMARY ***
+Total pot 15150 | No rake
+Board: [5c Jh 8c Kd Qd]
+Seat 4: tonyfranklin showed [8s Ks] and won 15150 with Two pairs : Kings and 8
+Seat 6: gambarote (button) showed [4d 6s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #605818271110791172-17-1451484002 - Holdem no limit (150/300) - 2015/12/30 14:00:02 UTC
+Table: 'Hold'em(141053058)#003' 8-max (real money) Seat #7 is the button
+Seat 1: jackas56 (6500)
+Seat 2: pacodelucha1 (10000)
+Seat 3: rudylan59 (18375)
+Seat 4: tonyfranklin (18800)
+Seat 5: MOSVA (9375)
+Seat 7: manggy94 (9725)
+Seat 8: philau22 (14500)
+*** ANTE/BLINDS ***
+philau22 posts small blind 150
+jackas56 posts big blind 300
+Dealt to manggy94 [8c 9d]
+*** PRE-FLOP *** 
+pacodelucha1 folds
+rudylan59 raises 300 to 600
+tonyfranklin folds
+MOSVA folds
+manggy94 calls 600
+philau22 raises 2100 to 2700
+jackas56 folds
+rudylan59 folds
+manggy94 calls 2100
+*** FLOP *** [Ks Kd 5d]
+philau22 bets 11800 and is all-in
+manggy94 folds
+philau22 collected 18100 from pot
+*** SUMMARY ***
+Total pot 18100 | No rake
+Board: [Ks Kd 5d]
+Seat 8: philau22 (small blind) won 18100
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #605818271110791172-18-1451484061 - Holdem no limit (150/300) - 2015/12/30 14:01:01 UTC
+Table: 'Hold'em(141053058)#003' 8-max (real money) Seat #8 is the button
+Seat 1: jackas56 (6200)
+Seat 2: pacodelucha1 (10000)
+Seat 3: rudylan59 (17775)
+Seat 4: tonyfranklin (18800)
+Seat 5: MOSVA (9375)
+Seat 7: manggy94 (7025)
+Seat 8: philau22 (18100)
+*** ANTE/BLINDS ***
+jackas56 posts small blind 150
+pacodelucha1 posts big blind 300
+Dealt to manggy94 [Th 9s]
+*** PRE-FLOP *** 
+rudylan59 folds
+tonyfranklin raises 450 to 750
+MOSVA folds
+manggy94 calls 750
+philau22 calls 750
+jackas56 calls 600
+pacodelucha1 calls 450
+*** FLOP *** [3d Ac 5c]
+jackas56 bets 5450 and is all-in
+pacodelucha1 folds
+tonyfranklin calls 5450
+manggy94 folds
+philau22 folds
+*** TURN *** [3d Ac 5c][8h]
+*** RIVER *** [3d Ac 5c 8h][8c]
+*** SHOW DOWN ***
+jackas56 shows [6h Ad] (Two pairs : Aces and 8)
+tonyfranklin shows [Jc Ah] (Two pairs : Aces and 8)
+tonyfranklin collected 14650 from pot
+*** SUMMARY ***
+Total pot 14650 | No rake
+Board: [3d Ac 5c 8h 8c]
+Seat 1: jackas56 (small blind) showed [6h Ad] and lost with Two pairs : Aces and 8
+Seat 4: tonyfranklin showed [Jc Ah] and won 14650 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #605818271110791172-19-1451484135 - Holdem no limit (150/300) - 2015/12/30 14:02:15 UTC
+Table: 'Hold'em(141053058)#003' 8-max (real money) Seat #1 is the button
+Seat 2: pacodelucha1 (9250)
+Seat 3: rudylan59 (17775)
+Seat 4: tonyfranklin (27250)
+Seat 5: MOSVA (9375)
+Seat 6: RASTAFOLIE38 (10000)
+Seat 7: manggy94 (6275)
+Seat 8: philau22 (17350)
+*** ANTE/BLINDS ***
+pacodelucha1 posts small blind 150
+rudylan59 posts big blind 300
+Dealt to manggy94 [5d 2d]
+*** PRE-FLOP *** 
+tonyfranklin folds
+MOSVA calls 300
+RASTAFOLIE38 folds
+manggy94 calls 300
+philau22 calls 300
+pacodelucha1 folds
+rudylan59 checks
+*** FLOP *** [Qs Ac 2s]
+rudylan59 checks
+MOSVA bets 675
+manggy94 folds
+philau22 calls 675
+rudylan59 folds
+*** TURN *** [Qs Ac 2s][Js]
+MOSVA bets 1350
+philau22 calls 1350
+*** RIVER *** [Qs Ac 2s Js][Kh]
+MOSVA bets 2700
+philau22 raises 12325 to 15025 and is all-in
+MOSVA folds
+philau22 collected 23125 from pot
+*** SUMMARY ***
+Total pot 23125 | No rake
+Board: [Qs Ac 2s Js Kh]
+Seat 8: philau22 won 23125
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,90€ + 0,10€ level: 4 - HandId: #605818271110791172-20-1451484269 - Holdem no limit (150/300) - 2015/12/30 14:04:29 UTC
+Table: 'Hold'em(141053058)#003' 8-max (real money) Seat #2 is the button
+Seat 1: CHRISVANES76 (10000)
+Seat 2: pacodelucha1 (9100)
+Seat 3: rudylan59 (17475)
+Seat 4: tonyfranklin (27250)
+Seat 5: MOSVA (4350)
+Seat 6: RASTAFOLIE38 (10000)
+Seat 7: manggy94 (5975)
+Seat 8: philau22 (23125)
+*** ANTE/BLINDS ***
+rudylan59 posts small blind 150
+tonyfranklin posts big blind 300
+Dealt to manggy94 [9c 8c]
+*** PRE-FLOP *** 
+MOSVA folds
+RASTAFOLIE38 folds
+manggy94 raises 750 to 1050
+philau22 folds
+CHRISVANES76 folds
+pacodelucha1 folds
+rudylan59 raises 750 to 1800
+tonyfranklin folds
+manggy94 calls 750
+*** FLOP *** [Qh Th Qc]
+rudylan59 bets 600
+manggy94 raises 3575 to 4175 and is all-in
+rudylan59 folds
+manggy94 collected 8675 from pot
+*** SUMMARY ***
+Total pot 8675 | No rake
+Board: [Qh Th Qc]
+Seat 7: manggy94 won 8675
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,90€ + 0,10€ level: 5 - HandId: #605818271110791172-21-1451484332 - Holdem no limit (25/150/300) - 2015/12/30 14:05:32 UTC
+Table: 'Hold'em(141053058)#003' 8-max (real money) Seat #3 is the button
+Seat 1: CHRISVANES76 (10000)
+Seat 2: pacodelucha1 (9100)
+Seat 3: rudylan59 (15075)
+Seat 4: tonyfranklin (26950)
+Seat 5: MOSVA (4350)
+Seat 6: RASTAFOLIE38 (10000)
+Seat 7: manggy94 (8675)
+Seat 8: philau22 (23125)
+*** ANTE/BLINDS ***
+tonyfranklin posts ante 25
+MOSVA posts ante 25
+CHRISVANES76 posts ante 25
+pacodelucha1 posts ante 25
+rudylan59 posts ante 25
+RASTAFOLIE38 posts ante 25
+manggy94 posts ante 25
+philau22 posts ante 25
+tonyfranklin posts small blind 150
+MOSVA posts big blind 300
+Dealt to manggy94 [5h Kc]
+*** PRE-FLOP *** 
+RASTAFOLIE38 calls 300
+manggy94 calls 300
+philau22 folds
+CHRISVANES76 folds
+pacodelucha1 folds
+rudylan59 calls 300
+tonyfranklin raises 750 to 1050
+MOSVA raises 3275 to 4325 and is all-in
+RASTAFOLIE38 raises 5650 to 9975 and is all-in
+manggy94 folds
+rudylan59 folds
+tonyfranklin calls 8925
+*** FLOP *** [6c 3c Kd]
+*** TURN *** [6c 3c Kd][2s]
+*** RIVER *** [6c 3c Kd 2s][2h]
+*** SHOW DOWN ***
+MOSVA shows [Qh Ts] (One pair : 2)
+RASTAFOLIE38 shows [7c 7d] (Two pairs : 7 and 2)
+tonyfranklin shows [9s 9h] (Two pairs : 9 and 2)
+tonyfranklin collected 25075 from pot
+*** SUMMARY ***
+Total pot 25075 | No rake
+Board: [6c 3c Kd 2s 2h]
+Seat 4: tonyfranklin (small blind) showed [9s 9h] and won 25075 with Two pairs : 9 and 2
+Seat 5: MOSVA (big blind) showed [Qh Ts] and lost with One pair : 2
+Seat 6: RASTAFOLIE38 showed [7c 7d] and lost with Two pairs : 7 and 2
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,90€ + 0,10€ level: 5 - HandId: #605818271110791172-22-1451484422 - Holdem no limit (25/150/300) - 2015/12/30 14:07:02 UTC
+Table: 'Hold'em(141053058)#003' 8-max (real money) Seat #4 is the button
+Seat 1: CHRISVANES76 (9975)
+Seat 2: pacodelucha1 (9075)
+Seat 3: rudylan59 (14750)
+Seat 4: tonyfranklin (42025)
+Seat 7: manggy94 (8350)
+Seat 8: philau22 (23100)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+CHRISVANES76 posts ante 25
+pacodelucha1 posts ante 25
+rudylan59 posts ante 25
+tonyfranklin posts ante 25
+philau22 posts ante 25
+manggy94 posts big blind 300
+Dealt to manggy94 [6c Jh]
+*** PRE-FLOP *** 
+philau22 folds
+CHRISVANES76 folds
+pacodelucha1 folds
+rudylan59 folds
+tonyfranklin raises 450 to 750
+manggy94 calls 450
+*** FLOP *** [3d Qs 2s]
+manggy94 bets 1650
+tonyfranklin calls 1650
+*** TURN *** [3d Qs 2s][2h]
+manggy94 bets 5925 and is all-in
+tonyfranklin calls 5925
+*** RIVER *** [3d Qs 2s 2h][Js]
+*** SHOW DOWN ***
+manggy94 shows [6c Jh] (Two pairs : Jacks and 2)
+tonyfranklin shows [Ks Qh] (Two pairs : Queens and 2)
+tonyfranklin collected 16800 from pot
+*** SUMMARY ***
+Total pot 16800 | No rake
+Board: [3d Qs 2s 2h Js]
+Seat 4: tonyfranklin (button) showed [Ks Qh] and won 16800 with Two pairs : Queens and 2
+Seat 7: manggy94 (big blind) showed [6c Jh] and lost with Two pairs : Jacks and 2
+
+

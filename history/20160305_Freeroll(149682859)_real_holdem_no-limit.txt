@@ -1,0 +1,1050 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #642882984176779492-1-1457193628 - Holdem no limit (10/20) - 2016/03/05 16:00:28 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #7 is the button
+Seat 1: Snake0659 (3000)
+Seat 2: fiacfiac (3000)
+Seat 3: larip (3000)
+Seat 4: manggy94 (3000)
+Seat 5: tofooo (3000)
+Seat 6: escale 48 (3000)
+Seat 7: tsoprano (3000)
+Seat 8: raniard (3000)
+*** ANTE/BLINDS ***
+raniard posts small blind 10
+Snake0659 posts big blind 20
+Dealt to manggy94 [Qd 6h]
+*** PRE-FLOP *** 
+fiacfiac folds
+larip folds
+manggy94 folds
+tofooo folds
+escale 48 raises 20 to 40
+tsoprano calls 40
+raniard calls 30
+Snake0659 calls 20
+*** FLOP *** [8h 2c 7s]
+raniard checks
+Snake0659 checks
+escale 48 bets 160
+tsoprano raises 160 to 320
+raniard folds
+Snake0659 folds
+escale 48 calls 160
+*** TURN *** [8h 2c 7s][Th]
+escale 48 checks
+tsoprano bets 1649
+escale 48 folds
+tsoprano collected 2449 from pot
+*** SUMMARY ***
+Total pot 2449 | No rake
+Board: [8h 2c 7s Th]
+Seat 7: tsoprano (button) won 2449
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #642882984176779492-2-1457193866 - Holdem no limit (15/30) - 2016/03/05 16:04:26 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #8 is the button
+Seat 1: Snake0659 (2960)
+Seat 2: fiacfiac (3000)
+Seat 3: larip (3000)
+Seat 4: manggy94 (3000)
+Seat 5: tofooo (3000)
+Seat 6: escale 48 (2640)
+Seat 7: tsoprano (3440)
+Seat 8: raniard (2960)
+*** ANTE/BLINDS ***
+Snake0659 posts small blind 15
+fiacfiac posts big blind 30
+Dealt to manggy94 [9c 4h]
+*** PRE-FLOP *** 
+larip folds
+manggy94 folds
+tofooo calls 30
+escale 48 raises 30 to 60
+tsoprano calls 60
+raniard calls 60
+Snake0659 folds
+fiacfiac calls 30
+tofooo calls 30
+*** FLOP *** [5d 6d 4c]
+fiacfiac checks
+tofooo checks
+escale 48 bets 2580 and is all-in
+tsoprano folds
+raniard folds
+fiacfiac folds
+tofooo folds
+escale 48 collected 2895 from pot
+*** SUMMARY ***
+Total pot 2895 | No rake
+Board: [5d 6d 4c]
+Seat 6: escale 48 won 2895
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #642882984176779492-3-1457193965 - Holdem no limit (15/30) - 2016/03/05 16:06:05 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #1 is the button
+Seat 1: Snake0659 (2945)
+Seat 2: fiacfiac (2940)
+Seat 3: larip (3000)
+Seat 4: manggy94 (3000)
+Seat 5: tofooo (2940)
+Seat 6: escale 48 (2895)
+Seat 7: tsoprano (3380)
+Seat 8: raniard (2900)
+*** ANTE/BLINDS ***
+fiacfiac posts small blind 15
+larip posts big blind 30
+Dealt to manggy94 [Jc Kc]
+*** PRE-FLOP *** 
+manggy94 raises 75 to 105
+tofooo folds
+escale 48 calls 105
+tsoprano calls 105
+raniard calls 105
+Snake0659 folds
+fiacfiac folds
+larip folds
+*** FLOP *** [3c 8s Qs]
+manggy94 checks
+escale 48 bets 465
+tsoprano calls 465
+raniard calls 465
+manggy94 folds
+*** TURN *** [3c 8s Qs][Ac]
+escale 48 bets 2325 and is all-in
+tsoprano calls 2325
+raniard folds
+*** RIVER *** [3c 8s Qs Ac][2d]
+*** SHOW DOWN ***
+tsoprano shows [5s 2s] (One pair : 2)
+escale 48 shows [Qd 5h] (One pair : Queens)
+escale 48 collected 6510 from pot
+*** SUMMARY ***
+Total pot 6510 | No rake
+Board: [3c 8s Qs Ac 2d]
+Seat 6: escale 48 showed [Qd 5h] and won 6510 with One pair : Queens
+Seat 7: tsoprano showed [5s 2s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #642882984176779492-4-1457194027 - Holdem no limit (20/40) - 2016/03/05 16:07:07 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #2 is the button
+Seat 1: Snake0659 (2945)
+Seat 2: fiacfiac (2925)
+Seat 3: larip (2970)
+Seat 4: manggy94 (2895)
+Seat 5: tofooo (2940)
+Seat 6: escale 48 (6510)
+Seat 7: tsoprano (485)
+Seat 8: raniard (2330)
+*** ANTE/BLINDS ***
+larip posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [2c 5h]
+*** PRE-FLOP *** 
+tofooo calls 40
+escale 48 folds
+tsoprano raises 445 to 485 and is all-in
+raniard calls 485
+Snake0659 folds
+fiacfiac calls 485
+larip calls 465
+manggy94 folds
+tofooo folds
+*** FLOP *** [Tc 7h 6d]
+larip checks
+raniard checks
+fiacfiac bets 2020
+larip calls 2020
+raniard folds
+*** TURN *** [Tc 7h 6d][Ah]
+larip bets 465 and is all-in
+fiacfiac calls 420 and is all-in
+*** RIVER *** [Tc 7h 6d Ah][4s]
+*** SHOW DOWN ***
+tsoprano shows [8s Ks] (High card : Ace)
+fiacfiac shows [Jh Th] (One pair : Tens)
+larip shows [8h Kd] (High card : Ace)
+larip collected 45 from side pot 1
+fiacfiac collected 6900 from main pot
+*** SUMMARY ***
+Total pot 6945 | No rake
+Board: [Tc 7h 6d Ah 4s]
+Seat 2: fiacfiac (button) showed [Jh Th] and won 6900 with One pair : Tens
+Seat 3: larip (small blind) showed [8h Kd] and won 45 with High card : Ace
+Seat 7: tsoprano showed [8s Ks] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #642882984176779492-5-1457194094 - Holdem no limit (20/40) - 2016/03/05 16:08:14 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #3 is the button
+Seat 1: Snake0659 (2945)
+Seat 2: fiacfiac (6900)
+Seat 3: larip (45)
+Seat 4: manggy94 (2855)
+Seat 5: tofooo (2900)
+Seat 6: escale 48 (6510)
+Seat 8: raniard (1845)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+tofooo posts big blind 40
+Dealt to manggy94 [Kh 7s]
+*** PRE-FLOP *** 
+escale 48 raises 40 to 80
+raniard folds
+Snake0659 raises 40 to 120
+fiacfiac folds
+larip calls 45 and is all-in
+manggy94 calls 100
+tofooo calls 80
+escale 48 raises 525 to 645
+Snake0659 folds
+manggy94 folds
+tofooo raises 2255 to 2900 and is all-in
+escale 48 calls 2255
+*** FLOP *** [Kd 9c 7d]
+*** TURN *** [Kd 9c 7d][6s]
+*** RIVER *** [Kd 9c 7d 6s][2c]
+*** SHOW DOWN ***
+tofooo shows [Th Jh] (High card : King)
+larip shows [8c 5s] (Straight 9 high)
+escale 48 shows [Ac 5c] (High card : Ace)
+escale 48 collected 5860 from side pot 1
+larip collected 225 from main pot
+*** SUMMARY ***
+Total pot 6085 | No rake
+Board: [Kd 9c 7d 6s 2c]
+Seat 3: larip (button) showed [8c 5s] and won 225 with Straight 9 high
+Seat 5: tofooo (big blind) showed [Th Jh] and lost with High card : King
+Seat 6: escale 48 showed [Ac 5c] and won 5860 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #642882984176779492-6-1457194184 - Holdem no limit (30/60) - 2016/03/05 16:09:44 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #4 is the button
+Seat 1: Snake0659 (2825)
+Seat 2: fiacfiac (6900)
+Seat 3: larip (225)
+Seat 4: manggy94 (2735)
+Seat 6: escale 48 (9470)
+Seat 7: peruzzipok (3000)
+Seat 8: raniard (1845)
+*** ANTE/BLINDS ***
+escale 48 posts big blind 60
+Dealt to manggy94 [6s 9h]
+*** PRE-FLOP *** 
+peruzzipok calls 60
+raniard folds
+Snake0659 calls 60
+fiacfiac folds
+larip calls 60
+manggy94 folds
+escale 48 checks
+*** FLOP *** [8s 5h 4d]
+escale 48 bets 240
+peruzzipok folds
+Snake0659 calls 240
+larip calls 165 and is all-in
+*** TURN *** [8s 5h 4d][2d]
+escale 48 bets 885
+Snake0659 calls 885
+*** RIVER *** [8s 5h 4d 2d][5c]
+escale 48 bets 2655
+Snake0659 folds
+*** SHOW DOWN ***
+larip shows [7s Jd] (One pair : 5)
+escale 48 shows [7d 6h] (Straight 8 high)
+escale 48 collected 5310 from pot
+*** SUMMARY ***
+Total pot 5310 | No rake
+Board: [8s 5h 4d 2d 5c]
+Seat 3: larip showed [7s Jd] and lost with One pair : 5
+Seat 6: escale 48 (big blind) showed [7d 6h] and won 5310 with Straight 8 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #642882984176779492-7-1457194246 - Holdem no limit (30/60) - 2016/03/05 16:10:46 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #5 is the button
+Seat 1: Snake0659 (1640)
+Seat 2: fiacfiac (6900)
+Seat 4: manggy94 (2735)
+Seat 5: Topplayer51 (2960)
+Seat 6: escale 48 (10940)
+Seat 7: peruzzipok (2940)
+Seat 8: raniard (1845)
+*** ANTE/BLINDS ***
+escale 48 posts small blind 30
+peruzzipok posts big blind 60
+Dealt to manggy94 [2h Qd]
+*** PRE-FLOP *** 
+raniard calls 60
+Snake0659 folds
+fiacfiac folds
+manggy94 folds
+escale 48 folds
+peruzzipok raises 240 to 300
+raniard calls 240
+*** FLOP *** [7d 4c 5d]
+peruzzipok bets 630
+raniard calls 630
+*** TURN *** [7d 4c 5d][Jc]
+peruzzipok bets 960
+raniard folds
+peruzzipok collected 2850 from pot
+*** SUMMARY ***
+Total pot 2850 | No rake
+Board: [7d 4c 5d Jc]
+Seat 7: peruzzipok (big blind) won 2850
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #642882984176779492-8-1457194291 - Holdem no limit (30/60) - 2016/03/05 16:11:31 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #6 is the button
+Seat 1: Snake0659 (1640)
+Seat 2: fiacfiac (6900)
+Seat 4: manggy94 (2735)
+Seat 5: Topplayer51 (2960)
+Seat 6: escale 48 (10910)
+Seat 7: peruzzipok (3900)
+Seat 8: raniard (915)
+*** ANTE/BLINDS ***
+peruzzipok posts small blind 30
+raniard posts big blind 60
+Dealt to manggy94 [Qs 3s]
+*** PRE-FLOP *** 
+Snake0659 folds
+fiacfiac folds
+manggy94 calls 60
+Topplayer51 folds
+escale 48 folds
+peruzzipok calls 30
+raniard checks
+*** FLOP *** [Ts Jh 5s]
+peruzzipok checks
+raniard checks
+manggy94 checks
+*** TURN *** [Ts Jh 5s][Ah]
+peruzzipok bets 180
+raniard calls 180
+manggy94 calls 180
+*** RIVER *** [Ts Jh 5s Ah][9c]
+peruzzipok bets 720
+raniard calls 675 and is all-in
+manggy94 folds
+*** SHOW DOWN ***
+raniard shows [Qh 8h] (Straight Queen high)
+peruzzipok shows [2d As] (One pair : Aces)
+peruzzipok collected 45 from side pot 1
+raniard collected 2070 from main pot
+*** SUMMARY ***
+Total pot 2115 | No rake
+Board: [Ts Jh 5s Ah 9c]
+Seat 7: peruzzipok (small blind) showed [2d As] and won 45 with One pair : Aces
+Seat 8: raniard (big blind) showed [Qh 8h] and won 2070 with Straight Queen high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #642882984176779492-9-1457194335 - Holdem no limit (30/60) - 2016/03/05 16:12:15 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #7 is the button
+Seat 1: Snake0659 (1640)
+Seat 2: fiacfiac (6900)
+Seat 3: lapioune (2955)
+Seat 4: manggy94 (2495)
+Seat 5: Topplayer51 (2960)
+Seat 6: escale 48 (10910)
+Seat 7: peruzzipok (2985)
+Seat 8: raniard (2070)
+*** ANTE/BLINDS ***
+raniard posts small blind 30
+Snake0659 posts big blind 60
+Dealt to manggy94 [Ah 5s]
+*** PRE-FLOP *** 
+fiacfiac folds
+lapioune folds
+manggy94 raises 150 to 210
+Topplayer51 folds
+escale 48 folds
+peruzzipok folds
+raniard folds
+Snake0659 calls 150
+*** FLOP *** [Tc Jd Js]
+Snake0659 checks
+manggy94 bets 450
+Snake0659 calls 450
+*** TURN *** [Tc Jd Js][Qc]
+Snake0659 checks
+manggy94 checks
+*** RIVER *** [Tc Jd Js Qc][Kh]
+Snake0659 checks
+manggy94 bets 1350
+Snake0659 folds
+manggy94 collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [Tc Jd Js Qc Kh]
+Seat 4: manggy94 won 2700
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #642882984176779492-10-1457194389 - Holdem no limit (40/80) - 2016/03/05 16:13:09 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #8 is the button
+Seat 1: Snake0659 (980)
+Seat 2: fiacfiac (6900)
+Seat 3: lapioune (2955)
+Seat 4: manggy94 (3185)
+Seat 5: Topplayer51 (2960)
+Seat 6: escale 48 (10910)
+Seat 7: peruzzipok (2985)
+Seat 8: raniard (2040)
+*** ANTE/BLINDS ***
+Snake0659 posts small blind 40
+fiacfiac posts big blind 80
+Dealt to manggy94 [Qd 2s]
+*** PRE-FLOP *** 
+lapioune calls 80
+manggy94 folds
+Topplayer51 folds
+escale 48 folds
+peruzzipok calls 80
+raniard folds
+Snake0659 raises 900 to 980 and is all-in
+fiacfiac folds
+lapioune calls 900
+peruzzipok calls 900
+*** FLOP *** [Ks 4h 8d]
+lapioune checks
+peruzzipok checks
+*** TURN *** [Ks 4h 8d][Jd]
+lapioune bets 80
+peruzzipok folds
+*** RIVER *** [Ks 4h 8d Jd][7s]
+*** SHOW DOWN ***
+Snake0659 shows [8c 8h] (Trips of 8)
+lapioune shows [Jc Tc] (One pair : Jacks)
+lapioune collected 80 from side pot 1
+Snake0659 collected 3020 from main pot
+*** SUMMARY ***
+Total pot 3100 | No rake
+Board: [Ks 4h 8d Jd 7s]
+Seat 1: Snake0659 (small blind) showed [8c 8h] and won 3020 with Trips of 8
+Seat 3: lapioune showed [Jc Tc] and won 80 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #642882984176779492-11-1457194440 - Holdem no limit (40/80) - 2016/03/05 16:14:00 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #1 is the button
+Seat 1: Snake0659 (3020)
+Seat 2: fiacfiac (6820)
+Seat 3: lapioune (1975)
+Seat 4: manggy94 (3185)
+Seat 5: Topplayer51 (2960)
+Seat 6: escale 48 (10910)
+Seat 7: peruzzipok (2005)
+Seat 8: raniard (2040)
+*** ANTE/BLINDS ***
+fiacfiac posts small blind 40
+lapioune posts big blind 80
+Dealt to manggy94 [7h 2d]
+*** PRE-FLOP *** 
+manggy94 folds
+Topplayer51 folds
+escale 48 folds
+peruzzipok calls 80
+raniard calls 80
+Snake0659 folds
+fiacfiac calls 40
+lapioune checks
+*** FLOP *** [Ts Kc Ac]
+fiacfiac checks
+lapioune checks
+peruzzipok bets 320
+raniard folds
+fiacfiac folds
+lapioune folds
+peruzzipok collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Ts Kc Ac]
+Seat 7: peruzzipok won 640
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #642882984176779492-12-1457194489 - Holdem no limit (40/80) - 2016/03/05 16:14:49 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #2 is the button
+Seat 1: Snake0659 (3020)
+Seat 2: fiacfiac (6740)
+Seat 3: lapioune (1895)
+Seat 4: manggy94 (3185)
+Seat 5: Topplayer51 (2960)
+Seat 6: escale 48 (10910)
+Seat 7: peruzzipok (2245)
+Seat 8: raniard (1960)
+*** ANTE/BLINDS ***
+lapioune posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [4h Td]
+*** PRE-FLOP *** 
+Topplayer51 folds
+escale 48 folds
+peruzzipok calls 80
+raniard calls 80
+Snake0659 folds
+fiacfiac raises 80 to 160
+lapioune folds
+manggy94 folds
+peruzzipok calls 80
+raniard calls 80
+*** FLOP *** [Tc Ad 7c]
+peruzzipok checks
+raniard bets 600
+fiacfiac raises 1800 to 2400
+peruzzipok folds
+raniard calls 1200 and is all-in
+*** TURN *** [Tc Ad 7c][3d]
+*** RIVER *** [Tc Ad 7c 3d][2h]
+*** SHOW DOWN ***
+raniard shows [Th Ah] (Two pairs : Aces and Tens)
+fiacfiac shows [Kd As] (One pair : Aces)
+fiacfiac collected 600 from side pot 1
+raniard collected 4200 from main pot
+*** SUMMARY ***
+Total pot 4800 | No rake
+Board: [Tc Ad 7c 3d 2h]
+Seat 2: fiacfiac (button) showed [Kd As] and won 600 with One pair : Aces
+Seat 8: raniard showed [Th Ah] and won 4200 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #642882984176779492-13-1457194555 - Holdem no limit (60/120) - 2016/03/05 16:15:55 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #3 is the button
+Seat 1: Snake0659 (3020)
+Seat 2: fiacfiac (4780)
+Seat 3: lapioune (1855)
+Seat 4: manggy94 (3105)
+Seat 5: Topplayer51 (2960)
+Seat 6: escale 48 (10910)
+Seat 7: peruzzipok (2085)
+Seat 8: raniard (4200)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 60
+Topplayer51 posts big blind 120
+Dealt to manggy94 [2h Kc]
+*** PRE-FLOP *** 
+escale 48 folds
+peruzzipok folds
+raniard calls 120
+Snake0659 raises 120 to 240
+fiacfiac folds
+lapioune folds
+manggy94 calls 180
+Topplayer51 folds
+raniard calls 120
+*** FLOP *** [5d 6c 2c]
+manggy94 bets 840
+raniard folds
+Snake0659 folds
+manggy94 collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [5d 6c 2c]
+Seat 4: manggy94 (small blind) won 1680
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #642882984176779492-14-1457194618 - Holdem no limit (60/120) - 2016/03/05 16:16:58 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #4 is the button
+Seat 1: Snake0659 (2780)
+Seat 2: fiacfiac (4780)
+Seat 3: lapioune (1855)
+Seat 4: manggy94 (3705)
+Seat 5: Topplayer51 (2840)
+Seat 6: escale 48 (10910)
+Seat 7: peruzzipok (2085)
+Seat 8: raniard (3960)
+*** ANTE/BLINDS ***
+Topplayer51 posts small blind 60
+escale 48 posts big blind 120
+Dealt to manggy94 [Kc 8d]
+*** PRE-FLOP *** 
+peruzzipok calls 120
+raniard calls 120
+Snake0659 raises 120 to 240
+fiacfiac calls 240
+lapioune folds
+manggy94 folds
+Topplayer51 folds
+escale 48 folds
+peruzzipok calls 120
+raniard calls 120
+*** FLOP *** [Kh 6d 2d]
+peruzzipok checks
+raniard bets 1140
+Snake0659 raises 1400 to 2540 and is all-in
+fiacfiac folds
+peruzzipok folds
+raniard calls 1400
+*** TURN *** [Kh 6d 2d][5h]
+*** RIVER *** [Kh 6d 2d 5h][Th]
+*** SHOW DOWN ***
+Snake0659 shows [Ks Qd] (One pair : Kings)
+raniard shows [Kd Qh] (One pair : Kings)
+raniard collected 3110 from pot
+Snake0659 collected 3110 from pot
+*** SUMMARY ***
+Total pot 6220 | No rake
+Board: [Kh 6d 2d 5h Th]
+Seat 1: Snake0659 showed [Ks Qd] and won 3110 with One pair : Kings
+Seat 8: raniard showed [Kd Qh] and won 3110 with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #642882984176779492-15-1457194677 - Holdem no limit (60/120) - 2016/03/05 16:17:57 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #5 is the button
+Seat 1: Snake0659 (3110)
+Seat 2: fiacfiac (4540)
+Seat 3: lapioune (1855)
+Seat 4: manggy94 (3705)
+Seat 5: Topplayer51 (2780)
+Seat 6: escale 48 (10790)
+Seat 7: peruzzipok (1845)
+Seat 8: raniard (4290)
+*** ANTE/BLINDS ***
+escale 48 posts small blind 60
+peruzzipok posts big blind 120
+Dealt to manggy94 [6d 7d]
+*** PRE-FLOP *** 
+raniard calls 120
+Snake0659 calls 120
+fiacfiac folds
+lapioune folds
+manggy94 folds
+Topplayer51 folds
+escale 48 calls 60
+peruzzipok raises 480 to 600
+raniard folds
+Snake0659 folds
+escale 48 calls 480
+*** FLOP *** [Kc 2c Kd]
+escale 48 checks
+peruzzipok bets 1245 and is all-in
+escale 48 folds
+peruzzipok collected 2685 from pot
+*** SUMMARY ***
+Total pot 2685 | No rake
+Board: [Kc 2c Kd]
+Seat 7: peruzzipok (big blind) won 2685
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #642882984176779492-16-1457194722 - Holdem no limit (10/60/120) - 2016/03/05 16:18:42 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #6 is the button
+Seat 1: Snake0659 (2990)
+Seat 2: fiacfiac (4540)
+Seat 3: lapioune (1855)
+Seat 4: manggy94 (3705)
+Seat 5: Topplayer51 (2780)
+Seat 6: escale 48 (10190)
+Seat 7: peruzzipok (2685)
+Seat 8: raniard (4170)
+*** ANTE/BLINDS ***
+peruzzipok posts ante 10
+raniard posts ante 10
+Snake0659 posts ante 10
+fiacfiac posts ante 10
+lapioune posts ante 10
+manggy94 posts ante 10
+Topplayer51 posts ante 10
+escale 48 posts ante 10
+peruzzipok posts small blind 60
+raniard posts big blind 120
+Dealt to manggy94 [7s Kd]
+*** PRE-FLOP *** 
+Snake0659 folds
+fiacfiac folds
+lapioune folds
+manggy94 calls 120
+Topplayer51 folds
+escale 48 folds
+peruzzipok calls 60
+raniard checks
+*** FLOP *** [Jh 6c 2s]
+peruzzipok checks
+raniard bets 120
+manggy94 folds
+peruzzipok folds
+raniard collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Jh 6c 2s]
+Seat 8: raniard (big blind) won 560
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #642882984176779492-17-1457194771 - Holdem no limit (10/60/120) - 2016/03/05 16:19:31 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #7 is the button
+Seat 1: Snake0659 (2980)
+Seat 2: fiacfiac (4530)
+Seat 3: lapioune (1845)
+Seat 4: manggy94 (3575)
+Seat 5: Topplayer51 (2770)
+Seat 6: escale 48 (10180)
+Seat 7: peruzzipok (2555)
+Seat 8: raniard (4480)
+*** ANTE/BLINDS ***
+raniard posts ante 10
+Snake0659 posts ante 10
+fiacfiac posts ante 10
+lapioune posts ante 10
+manggy94 posts ante 10
+Topplayer51 posts ante 10
+escale 48 posts ante 10
+peruzzipok posts ante 10
+raniard posts small blind 60
+Snake0659 posts big blind 120
+Dealt to manggy94 [5c 4d]
+*** PRE-FLOP *** 
+fiacfiac folds
+lapioune folds
+manggy94 folds
+Topplayer51 folds
+escale 48 folds
+peruzzipok raises 480 to 600
+raniard folds
+Snake0659 folds
+peruzzipok collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Seat 7: peruzzipok (button) won 860
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #642882984176779492-18-1457194814 - Holdem no limit (10/60/120) - 2016/03/05 16:20:14 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #8 is the button
+Seat 1: Snake0659 (2850)
+Seat 2: fiacfiac (4520)
+Seat 3: lapioune (1835)
+Seat 4: manggy94 (3565)
+Seat 5: Topplayer51 (2760)
+Seat 6: escale 48 (10170)
+Seat 7: peruzzipok (2805)
+Seat 8: raniard (4410)
+*** ANTE/BLINDS ***
+Snake0659 posts ante 10
+fiacfiac posts ante 10
+lapioune posts ante 10
+manggy94 posts ante 10
+Topplayer51 posts ante 10
+escale 48 posts ante 10
+peruzzipok posts ante 10
+raniard posts ante 10
+Snake0659 posts small blind 60
+fiacfiac posts big blind 120
+Dealt to manggy94 [Ts 6c]
+*** PRE-FLOP *** 
+lapioune folds
+manggy94 folds
+Topplayer51 folds
+escale 48 folds
+peruzzipok folds
+raniard folds
+Snake0659 raises 180 to 300
+fiacfiac calls 180
+*** FLOP *** [7h 4s Ac]
+Snake0659 bets 120
+fiacfiac folds
+Snake0659 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [7h 4s Ac]
+Seat 1: Snake0659 (small blind) won 800
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #642882984176779492-19-1457194872 - Holdem no limit (10/60/120) - 2016/03/05 16:21:12 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #1 is the button
+Seat 1: Snake0659 (3220)
+Seat 2: fiacfiac (4210)
+Seat 3: lapioune (1825)
+Seat 4: manggy94 (3555)
+Seat 5: Topplayer51 (2750)
+Seat 6: escale 48 (10160)
+Seat 7: peruzzipok (2795)
+Seat 8: raniard (4400)
+*** ANTE/BLINDS ***
+fiacfiac posts ante 10
+lapioune posts ante 10
+Snake0659 posts ante 10
+manggy94 posts ante 10
+Topplayer51 posts ante 10
+escale 48 posts ante 10
+peruzzipok posts ante 10
+raniard posts ante 10
+fiacfiac posts small blind 60
+lapioune posts big blind 120
+Dealt to manggy94 [2s 3h]
+*** PRE-FLOP *** 
+manggy94 folds
+Topplayer51 folds
+escale 48 folds
+peruzzipok calls 120
+raniard calls 120
+Snake0659 calls 120
+fiacfiac calls 60
+lapioune checks
+*** FLOP *** [Tc Qs 9s]
+fiacfiac checks
+lapioune checks
+peruzzipok checks
+raniard checks
+Snake0659 bets 340
+fiacfiac folds
+lapioune calls 340
+peruzzipok calls 340
+raniard calls 340
+*** TURN *** [Tc Qs 9s][8s]
+lapioune bets 1355 and is all-in
+peruzzipok folds
+raniard folds
+Snake0659 calls 1355
+*** RIVER *** [Tc Qs 9s 8s][Kd]
+*** SHOW DOWN ***
+Snake0659 shows [5c Jc] (Straight King high)
+lapioune shows [5s 4s] (Flush Queen high)
+lapioune collected 4750 from pot
+*** SUMMARY ***
+Total pot 4750 | No rake
+Board: [Tc Qs 9s 8s Kd]
+Seat 1: Snake0659 (button) showed [5c Jc] and lost with Straight King high
+Seat 3: lapioune (big blind) showed [5s 4s] and won 4750 with Flush Queen high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #642882984176779492-20-1457194945 - Holdem no limit (15/75/150) - 2016/03/05 16:22:25 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #2 is the button
+Seat 1: Snake0659 (1395)
+Seat 2: fiacfiac (4080)
+Seat 3: lapioune (4750)
+Seat 4: manggy94 (3545)
+Seat 5: Topplayer51 (2740)
+Seat 6: escale 48 (10150)
+Seat 7: peruzzipok (2325)
+Seat 8: raniard (3930)
+*** ANTE/BLINDS ***
+lapioune posts ante 15
+manggy94 posts ante 15
+Snake0659 posts ante 15
+fiacfiac posts ante 15
+Topplayer51 posts ante 15
+escale 48 posts ante 15
+peruzzipok posts ante 15
+raniard posts ante 15
+lapioune posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [3c 6d]
+*** PRE-FLOP *** 
+Topplayer51 folds
+escale 48 folds
+peruzzipok folds
+raniard calls 150
+Snake0659 calls 150
+fiacfiac folds
+lapioune calls 75
+manggy94 checks
+*** FLOP *** [6h 9s Kh]
+lapioune bets 150
+manggy94 calls 150
+raniard calls 150
+Snake0659 folds
+*** TURN *** [6h 9s Kh][Qh]
+lapioune checks
+manggy94 checks
+raniard bets 450
+lapioune folds
+manggy94 folds
+raniard collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | No rake
+Board: [6h 9s Kh Qh]
+Seat 8: raniard won 1620
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #642882984176779492-21-1457195001 - Holdem no limit (15/75/150) - 2016/03/05 16:23:21 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #3 is the button
+Seat 1: Snake0659 (1230)
+Seat 2: fiacfiac (4065)
+Seat 3: lapioune (4435)
+Seat 4: manggy94 (3230)
+Seat 5: Topplayer51 (2725)
+Seat 6: escale 48 (10135)
+Seat 7: peruzzipok (2310)
+Seat 8: raniard (4785)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+Topplayer51 posts ante 15
+Snake0659 posts ante 15
+fiacfiac posts ante 15
+lapioune posts ante 15
+escale 48 posts ante 15
+peruzzipok posts ante 15
+raniard posts ante 15
+manggy94 posts small blind 75
+Topplayer51 posts big blind 150
+Dealt to manggy94 [7h Jh]
+*** PRE-FLOP *** 
+escale 48 folds
+peruzzipok calls 150
+raniard calls 150
+Snake0659 raises 300 to 450
+fiacfiac folds
+lapioune raises 3970 to 4420 and is all-in
+manggy94 folds
+Topplayer51 folds
+peruzzipok calls 2145 and is all-in
+raniard raises 350 to 4770 and is all-in
+Snake0659 calls 765 and is all-in
+*** FLOP *** [Ks 2c Kc]
+*** TURN *** [Ks 2c Kc][Kh]
+*** RIVER *** [Ks 2c Kc Kh][Td]
+*** SHOW DOWN ***
+Snake0659 shows [Ah Ts] (Full of Kings and Tens)
+peruzzipok shows [Qc Th] (Full of Kings and Tens)
+lapioune shows [8c 8s] (Full of Kings and 8)
+raniard shows [Js As] (Trips of Kings)
+raniard collected 350 from side pot 3
+lapioune collected 4250 from side pot 2
+peruzzipok collected 5843 from side pot 1
+Snake0659 collected 2602 from main pot
+*** SUMMARY ***
+Total pot 13045 | No rake
+Board: [Ks 2c Kc Kh Td]
+Seat 1: Snake0659 showed [Ah Ts] and won 2602 with Full of Kings and Tens
+Seat 3: lapioune (button) showed [8c 8s] and won 4250 with Full of Kings and 8
+Seat 7: peruzzipok showed [Qc Th] and won 5843 with Full of Kings and Tens
+Seat 8: raniard showed [Js As] and won 350 with Trips of Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #642882984176779492-22-1457195056 - Holdem no limit (15/75/150) - 2016/03/05 16:24:16 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #4 is the button
+Seat 1: Snake0659 (2602)
+Seat 2: fiacfiac (4050)
+Seat 3: lapioune (4250)
+Seat 4: manggy94 (3140)
+Seat 5: Topplayer51 (2560)
+Seat 6: escale 48 (10120)
+Seat 7: peruzzipok (5843)
+Seat 8: raniard (350)
+*** ANTE/BLINDS ***
+Topplayer51 posts ante 15
+escale 48 posts ante 15
+Snake0659 posts ante 15
+fiacfiac posts ante 15
+lapioune posts ante 15
+manggy94 posts ante 15
+peruzzipok posts ante 15
+raniard posts ante 15
+Topplayer51 posts small blind 75
+escale 48 posts big blind 150
+Dealt to manggy94 [4s 7h]
+*** PRE-FLOP *** 
+peruzzipok raises 5678 to 5828 and is all-in
+raniard folds
+Snake0659 folds
+fiacfiac folds
+lapioune calls 4235 and is all-in
+manggy94 folds
+Topplayer51 folds
+escale 48 folds
+*** FLOP *** [5c 3s Qh]
+*** TURN *** [5c 3s Qh][Qs]
+*** RIVER *** [5c 3s Qh Qs][Tc]
+*** SHOW DOWN ***
+lapioune shows [As Th] (Two pairs : Queens and Tens)
+peruzzipok shows [Kh Ah] (One pair : Queens)
+peruzzipok collected 1593 from side pot 1
+lapioune collected 8815 from main pot
+*** SUMMARY ***
+Total pot 10408 | No rake
+Board: [5c 3s Qh Qs Tc]
+Seat 3: lapioune showed [As Th] and won 8815 with Two pairs : Queens and Tens
+Seat 7: peruzzipok showed [Kh Ah] and won 1593 with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #642882984176779492-23-1457195101 - Holdem no limit (20/100/200) - 2016/03/05 16:25:01 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #5 is the button
+Seat 1: Snake0659 (2587)
+Seat 2: fiacfiac (4035)
+Seat 3: lapioune (8815)
+Seat 4: manggy94 (3125)
+Seat 5: Topplayer51 (2470)
+Seat 6: escale 48 (9955)
+Seat 7: peruzzipok (1593)
+Seat 8: raniard (335)
+*** ANTE/BLINDS ***
+escale 48 posts ante 20
+peruzzipok posts ante 20
+Snake0659 posts ante 20
+fiacfiac posts ante 20
+lapioune posts ante 20
+manggy94 posts ante 20
+Topplayer51 posts ante 20
+raniard posts ante 20
+escale 48 posts small blind 100
+peruzzipok posts big blind 200
+Dealt to manggy94 [Th Ac]
+*** PRE-FLOP *** 
+raniard folds
+Snake0659 raises 200 to 400
+fiacfiac folds
+lapioune folds
+manggy94 raises 1260 to 1660
+Topplayer51 folds
+escale 48 folds
+peruzzipok calls 1373 and is all-in
+Snake0659 raises 907 to 2567 and is all-in
+manggy94 calls 907
+*** FLOP *** [8h Qd Ks]
+*** TURN *** [8h Qd Ks][4c]
+*** RIVER *** [8h Qd Ks 4c][6d]
+*** SHOW DOWN ***
+manggy94 shows [Th Ac] (High card : Ace)
+peruzzipok shows [Qh Jd] (One pair : Queens)
+Snake0659 shows [Ah 6h] (One pair : 6)
+Snake0659 collected 1988 from side pot 1
+peruzzipok collected 4979 from main pot
+*** SUMMARY ***
+Total pot 6967 | No rake
+Board: [8h Qd Ks 4c 6d]
+Seat 1: Snake0659 showed [Ah 6h] and won 1988 with One pair : 6
+Seat 4: manggy94 showed [Th Ac] and lost with High card : Ace
+Seat 7: peruzzipok (big blind) showed [Qh Jd] and won 4979 with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #642882984176779492-24-1457195154 - Holdem no limit (20/100/200) - 2016/03/05 16:25:54 UTC
+Table: 'Freeroll(149682859)#227' 8-max (real money) Seat #6 is the button
+Seat 1: Snake0659 (1988)
+Seat 2: fiacfiac (4015)
+Seat 3: lapioune (8795)
+Seat 4: manggy94 (538)
+Seat 5: Topplayer51 (2450)
+Seat 6: escale 48 (9835)
+Seat 7: peruzzipok (4979)
+Seat 8: raniard (315)
+*** ANTE/BLINDS ***
+peruzzipok posts ante 20
+raniard posts ante 20
+Snake0659 posts ante 20
+fiacfiac posts ante 20
+lapioune posts ante 20
+manggy94 posts ante 20
+Topplayer51 posts ante 20
+escale 48 posts ante 20
+peruzzipok posts small blind 100
+raniard posts big blind 200
+Dealt to manggy94 [9d Qd]
+*** PRE-FLOP *** 
+Snake0659 folds
+fiacfiac folds
+lapioune calls 200
+manggy94 raises 318 to 518 and is all-in
+Topplayer51 folds
+escale 48 folds
+peruzzipok folds
+raniard calls 95 and is all-in
+lapioune calls 318
+*** FLOP *** [2s 5s Qs]
+*** TURN *** [2s 5s Qs][Ts]
+*** RIVER *** [2s 5s Qs Ts][As]
+*** SHOW DOWN ***
+manggy94 shows [9d Qd] (Flush Ace high)
+raniard shows [2h 8d] (Flush Ace high)
+lapioune shows [Js Kh] (Flush Ace high)
+lapioune collected 1591 from pot
+*** SUMMARY ***
+Total pot 1591 | No rake
+Board: [2s 5s Qs Ts As]
+Seat 3: lapioune showed [Js Kh] and won 1591 with Flush Ace high
+Seat 4: manggy94 showed [9d Qd] and lost with Flush Ace high
+Seat 8: raniard (big blind) showed [2h 8d] and lost with Flush Ace high
+
+

@@ -1,0 +1,264 @@
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: 0€ + 0€ level: 1 - HandId: #749206974058463233-1-1477670235 - Holdem no limit (10/20) - 2016/10/28 15:57:15 UTC
+Table: 'Starting Block - Deglingos(174438342)#0' 10-max (real money) Seat #7 is the button
+Seat 1: FrancDo (500)
+Seat 2: Maly30 (500)
+Seat 3: dreadyjo (500)
+Seat 4: Labible77 (500)
+Seat 5: SiD444 (500)
+Seat 6: El_Loco_CH (500)
+Seat 7: VIRENQUE4610 (500)
+Seat 8: diablo76260 (500)
+Seat 9: manggy94 (500)
+Seat 10: fantomas6 (500)
+*** ANTE/BLINDS ***
+diablo76260 posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [8c Tc]
+*** PRE-FLOP *** 
+fantomas6 folds
+FrancDo calls 20
+Maly30 raises 480 to 500 and is all-in
+dreadyjo folds
+Labible77 folds
+SiD444 calls 500 and is all-in
+El_Loco_CH folds
+VIRENQUE4610 calls 500 and is all-in
+diablo76260 folds
+manggy94 folds
+FrancDo folds
+*** FLOP *** [9h 6c Jh]
+*** TURN *** [9h 6c Jh][2s]
+*** RIVER *** [9h 6c Jh 2s][As]
+*** SHOW DOWN ***
+Maly30 shows [Ts 7d] (High card : Ace)
+VIRENQUE4610 shows [Qh Qd] (One pair : Queens)
+SiD444 shows [Ad 5d] (One pair : Aces)
+SiD444 collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [9h 6c Jh 2s As]
+Seat 2: Maly30 showed [Ts 7d] and lost with High card : Ace
+Seat 5: SiD444 showed [Ad 5d] and won 1550 with One pair : Aces
+Seat 7: VIRENQUE4610 (button) showed [Qh Qd] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: 0€ + 0€ level: 1 - HandId: #749206974058463233-2-1477670341 - Holdem no limit (10/20) - 2016/10/28 15:59:01 UTC
+Table: 'Starting Block - Deglingos(174438342)#0' 10-max (real money) Seat #8 is the button
+Seat 1: FrancDo (480)
+Seat 3: dreadyjo (500)
+Seat 4: Labible77 (500)
+Seat 5: SiD444 (1550)
+Seat 6: El_Loco_CH (500)
+Seat 8: diablo76260 (490)
+Seat 9: manggy94 (480)
+Seat 10: fantomas6 (500)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+fantomas6 posts big blind 20
+Dealt to manggy94 [2h 6c]
+*** PRE-FLOP *** 
+FrancDo raises 20 to 40
+dreadyjo calls 40
+Labible77 folds
+SiD444 folds
+El_Loco_CH folds
+diablo76260 raises 450 to 490 and is all-in
+manggy94 folds
+fantomas6 raises 10 to 500 and is all-in
+FrancDo folds
+dreadyjo calls 460 and is all-in
+*** FLOP *** [7c 9s 8h]
+*** TURN *** [7c 9s 8h][Jd]
+*** RIVER *** [7c 9s 8h Jd][9d]
+*** SHOW DOWN ***
+dreadyjo shows [Kh Ad] (One pair : 9)
+diablo76260 shows [Th Js] (Straight Jack high)
+fantomas6 shows [Tc Ts] (Straight Jack high)
+fantomas6 collected 780 from side pot 1
+diablo76260 collected 760 from main pot
+*** SUMMARY ***
+Total pot 1540 | No rake
+Board: [7c 9s 8h Jd 9d]
+Seat 3: dreadyjo showed [Kh Ad] and lost with One pair : 9
+Seat 8: diablo76260 (button) showed [Th Js] and won 760 with Straight Jack high
+Seat 10: fantomas6 (big blind) showed [Tc Ts] and won 780 with Straight Jack high
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: 0€ + 0€ level: 1 - HandId: #749206974058463233-3-1477670395 - Holdem no limit (10/20) - 2016/10/28 15:59:55 UTC
+Table: 'Starting Block - Deglingos(174438342)#0' 10-max (real money) Seat #9 is the button
+Seat 1: FrancDo (440)
+Seat 4: Labible77 (500)
+Seat 5: SiD444 (1550)
+Seat 6: El_Loco_CH (500)
+Seat 8: diablo76260 (760)
+Seat 9: manggy94 (470)
+Seat 10: fantomas6 (780)
+*** ANTE/BLINDS ***
+fantomas6 posts small blind 10
+FrancDo posts big blind 20
+Dealt to manggy94 [Qd 3d]
+*** PRE-FLOP *** 
+Labible77 raises 480 to 500 and is all-in
+SiD444 folds
+El_Loco_CH calls 500 and is all-in
+diablo76260 folds
+manggy94 folds
+fantomas6 folds
+FrancDo folds
+*** FLOP *** [9c 3s 6s]
+*** TURN *** [9c 3s 6s][8h]
+*** RIVER *** [9c 3s 6s 8h][6d]
+*** SHOW DOWN ***
+Labible77 shows [Qs As] (One pair : 6)
+El_Loco_CH shows [7s 7c] (Two pairs : 7 and 6)
+El_Loco_CH collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | No rake
+Board: [9c 3s 6s 8h 6d]
+Seat 4: Labible77 showed [Qs As] and lost with One pair : 6
+Seat 6: El_Loco_CH showed [7s 7c] and won 1030 with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: 0€ + 0€ level: 2 - HandId: #749206974058463233-4-1477670421 - Holdem no limit (15/30) - 2016/10/28 16:00:21 UTC
+Table: 'Starting Block - Deglingos(174438342)#0' 10-max (real money) Seat #10 is the button
+Seat 1: FrancDo (420)
+Seat 5: SiD444 (1550)
+Seat 6: El_Loco_CH (1030)
+Seat 8: diablo76260 (760)
+Seat 9: manggy94 (470)
+Seat 10: fantomas6 (770)
+*** ANTE/BLINDS ***
+FrancDo posts small blind 15
+SiD444 posts big blind 30
+Dealt to manggy94 [7c 9s]
+*** PRE-FLOP *** 
+El_Loco_CH folds
+diablo76260 folds
+manggy94 folds
+fantomas6 raises 30 to 60
+FrancDo calls 45
+SiD444 calls 30
+*** FLOP *** [2d Th 7d]
+FrancDo bets 360 and is all-in
+SiD444 calls 360
+fantomas6 folds
+*** TURN *** [2d Th 7d][Jh]
+*** RIVER *** [2d Th 7d Jh][Ah]
+*** SHOW DOWN ***
+SiD444 shows [Qd 6d] (High card : Ace)
+FrancDo shows [Qh Tc] (One pair : Tens)
+FrancDo collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2d Th 7d Jh Ah]
+Seat 1: FrancDo (small blind) showed [Qh Tc] and won 900 with One pair : Tens
+Seat 5: SiD444 (big blind) showed [Qd 6d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: 0€ + 0€ level: 2 - HandId: #749206974058463233-5-1477670482 - Holdem no limit (15/30) - 2016/10/28 16:01:22 UTC
+Table: 'Starting Block - Deglingos(174438342)#0' 10-max (real money) Seat #1 is the button
+Seat 1: FrancDo (900)
+Seat 5: SiD444 (1130)
+Seat 6: El_Loco_CH (1030)
+Seat 8: diablo76260 (760)
+Seat 9: manggy94 (470)
+Seat 10: fantomas6 (710)
+*** ANTE/BLINDS ***
+SiD444 posts small blind 15
+El_Loco_CH posts big blind 30
+Dealt to manggy94 [6d Tc]
+*** PRE-FLOP *** 
+diablo76260 calls 30
+manggy94 folds
+fantomas6 folds
+FrancDo folds
+SiD444 calls 15
+El_Loco_CH checks
+*** FLOP *** [Ad 7c 6h]
+SiD444 checks
+El_Loco_CH checks
+diablo76260 checks
+*** TURN *** [Ad 7c 6h][Kc]
+SiD444 checks
+El_Loco_CH checks
+diablo76260 checks
+*** RIVER *** [Ad 7c 6h Kc][Qc]
+SiD444 checks
+El_Loco_CH checks
+diablo76260 checks
+*** SHOW DOWN ***
+SiD444 shows [5c 8d] (High card : Ace)
+El_Loco_CH shows [2h 8c] (High card : Ace)
+diablo76260 shows [Qh 5d] (One pair : Queens)
+diablo76260 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Ad 7c 6h Kc Qc]
+Seat 5: SiD444 (small blind) showed [5c 8d] and lost with High card : Ace
+Seat 6: El_Loco_CH (big blind) showed [2h 8c] and lost with High card : Ace
+Seat 8: diablo76260 showed [Qh 5d] and won 90 with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: 0€ + 0€ level: 2 - HandId: #749206974058463233-6-1477670559 - Holdem no limit (15/30) - 2016/10/28 16:02:39 UTC
+Table: 'Starting Block - Deglingos(174438342)#0' 10-max (real money) Seat #5 is the button
+Seat 1: FrancDo (900)
+Seat 5: SiD444 (1100)
+Seat 6: El_Loco_CH (1000)
+Seat 8: diablo76260 (820)
+Seat 9: manggy94 (470)
+Seat 10: fantomas6 (710)
+*** ANTE/BLINDS ***
+El_Loco_CH posts small blind 15
+diablo76260 posts big blind 30
+Dealt to manggy94 [9d 3h]
+*** PRE-FLOP *** 
+manggy94 folds
+fantomas6 folds
+FrancDo raises 75 to 105
+SiD444 folds
+El_Loco_CH folds
+diablo76260 calls 75
+*** FLOP *** [9h Jh Jd]
+diablo76260 checks
+FrancDo bets 225
+diablo76260 folds
+FrancDo collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [9h Jh Jd]
+Seat 1: FrancDo won 450
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: 0€ + 0€ level: 3 - HandId: #749206974058463233-7-1477670624 - Holdem no limit (20/40) - 2016/10/28 16:03:44 UTC
+Table: 'Starting Block - Deglingos(174438342)#0' 10-max (real money) Seat #6 is the button
+Seat 1: FrancDo (1020)
+Seat 5: SiD444 (1100)
+Seat 6: El_Loco_CH (985)
+Seat 8: diablo76260 (715)
+Seat 9: manggy94 (470)
+Seat 10: fantomas6 (710)
+*** ANTE/BLINDS ***
+diablo76260 posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [Ts Kh]
+*** PRE-FLOP *** 
+fantomas6 raises 670 to 710 and is all-in
+FrancDo folds
+SiD444 folds
+El_Loco_CH folds
+diablo76260 folds
+manggy94 calls 430 and is all-in
+*** FLOP *** [Tc Jh 6c]
+*** TURN *** [Tc Jh 6c][4d]
+*** RIVER *** [Tc Jh 6c 4d][8h]
+*** SHOW DOWN ***
+manggy94 shows [Ts Kh] (One pair : Tens)
+fantomas6 shows [Js Ad] (One pair : Jacks)
+fantomas6 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [Tc Jh 6c 4d 8h]
+Seat 9: manggy94 (big blind) showed [Ts Kh] and lost with One pair : Tens
+Seat 10: fantomas6 showed [Js Ad] and won 1200 with One pair : Jacks
+
+

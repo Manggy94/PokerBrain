@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #715684599694361059-13-1471797611 - Holdem no limit (30/60) - 2016/08/21 16:40:11 UTC
+Table: 'Freeroll(166633306)#482' 6-max (real money) Seat #1 is the button
+Seat 1: sam le chti (2880)
+Seat 2: manggy94 (3000)
+Seat 3: tonybelet (3650)
+Seat 4: pirate21000 (2895)
+Seat 5: bubu67009 (2895)
+Seat 6: blueball (8680)
+*** ANTE/BLINDS ***
+tonybelet posts small blind 30
+pirate21000 posts big blind 60
+*** PRE-FLOP *** 
+bubu67009 folds
+blueball calls 60
+sam le chti folds
+tonybelet calls 30
+pirate21000 folds
+*** FLOP *** [Td 3d Jd]
+tonybelet checks
+blueball checks
+*** TURN *** [Td 3d Jd][3s]
+tonybelet checks
+blueball checks
+*** RIVER *** [Td 3d Jd 3s][Th]
+tonybelet bets 150
+blueball calls 150
+*** SHOW DOWN ***
+blueball shows [8h Ac] (Two pairs : Tens and 3)
+tonybelet shows [Kh 3h] (Full of 3 and Tens)
+tonybelet collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Td 3d Jd 3s Th]
+Seat 3: tonybelet (small blind) showed [Kh 3h] and won 480 with Full of 3 and Tens
+Seat 6: blueball showed [8h Ac] and lost with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #715684599694361059-14-1471797639 - Holdem no limit (30/60) - 2016/08/21 16:40:39 UTC
+Table: 'Freeroll(166633306)#482' 6-max (real money) Seat #3 is the button
+Seat 1: sam le chti (2880)
+Seat 2: manggy94 (3000)
+Seat 3: tonybelet (3920)
+Seat 4: pirate21000 (2835)
+Seat 5: bubu67009 (2895)
+Seat 6: blueball (8470)
+*** ANTE/BLINDS ***
+pirate21000 posts small blind 30
+bubu67009 posts big blind 60
+Dealt to manggy94 [9d 6s]
+*** PRE-FLOP *** 
+blueball calls 60
+sam le chti folds
+manggy94 folds
+tonybelet calls 60
+pirate21000 folds
+bubu67009 folds
+*** FLOP *** [As 2c 4s]
+blueball checks
+tonybelet bets 60
+blueball folds
+tonybelet collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [As 2c 4s]
+Seat 3: tonybelet (button) won 270
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #715684599694361059-15-1471797659 - Holdem no limit (30/60) - 2016/08/21 16:40:59 UTC
+Table: 'Freeroll(166633306)#482' 6-max (real money) Seat #4 is the button
+Seat 1: sam le chti (2880)
+Seat 2: manggy94 (3000)
+Seat 3: tonybelet (4070)
+Seat 4: pirate21000 (2805)
+Seat 5: bubu67009 (2835)
+Seat 6: blueball (8410)
+*** ANTE/BLINDS ***
+bubu67009 posts small blind 30
+blueball posts big blind 60
+Dealt to manggy94 [Js Kd]
+*** PRE-FLOP *** 
+sam le chti folds
+manggy94 raises 150 to 210
+tonybelet calls 210
+pirate21000 folds
+bubu67009 folds
+blueball folds
+*** FLOP *** [7s Qh 9c]
+manggy94 bets 255
+tonybelet calls 255
+*** TURN *** [7s Qh 9c][Kh]
+manggy94 bets 1020
+tonybelet calls 1020
+*** RIVER *** [7s Qh 9c Kh][7d]
+manggy94 bets 1515 and is all-in
+tonybelet calls 1515
+*** SHOW DOWN ***
+manggy94 shows [Js Kd] (Two pairs : Kings and 7)
+tonybelet shows [Jd Th] (Straight King high)
+tonybelet collected 6090 from pot
+*** SUMMARY ***
+Total pot 6090 | No rake
+Board: [7s Qh 9c Kh 7d]
+Seat 2: manggy94 showed [Js Kd] and lost with Two pairs : Kings and 7
+Seat 3: tonybelet showed [Jd Th] and won 6090 with Straight King high
+
+

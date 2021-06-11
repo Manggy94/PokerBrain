@@ -1,0 +1,47 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #634981580086968987-1-1455916531 - Holdem no limit (10/20) - 2016/02/19 21:15:31 UTC
+Table: 'Freeroll(147843170)#666' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (3000)
+Seat 2: fanterka (3000)
+Seat 3: PandaCochon (3000)
+Seat 4: zazouwtf (3000)
+Seat 5: Amed29 (3000)
+Seat 6: AZERTY14_x (3000)
+*** ANTE/BLINDS ***
+PandaCochon posts small blind 10
+zazouwtf posts big blind 20
+Dealt to manggy94 [7c Jc]
+*** PRE-FLOP *** 
+Amed29 calls 20
+AZERTY14_x folds
+manggy94 calls 20
+fanterka folds
+PandaCochon calls 10
+zazouwtf checks
+*** FLOP *** [Jh 4h 3h]
+PandaCochon bets 80
+zazouwtf raises 80 to 160
+Amed29 calls 160
+manggy94 raises 640 to 800
+PandaCochon calls 720
+zazouwtf calls 640
+Amed29 calls 640
+*** TURN *** [Jh 4h 3h][9s]
+PandaCochon checks
+zazouwtf checks
+Amed29 checks
+manggy94 bets 2180 and is all-in
+PandaCochon calls 2180 and is all-in
+zazouwtf folds
+Amed29 folds
+*** RIVER *** [Jh 4h 3h 9s][4s]
+*** SHOW DOWN ***
+manggy94 shows [7c Jc] (Two pairs : Jacks and 4)
+PandaCochon shows [8h 7h] (Flush Jack high)
+PandaCochon collected 7640 from pot
+*** SUMMARY ***
+Total pot 7640 | No rake
+Board: [Jh 4h 3h 9s 4s]
+Seat 1: manggy94 showed [7c Jc] and lost with Two pairs : Jacks and 4
+Seat 3: PandaCochon (small blind) showed [8h 7h] and won 7640 with Flush Jack high
+
+

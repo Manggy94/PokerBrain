@@ -1,0 +1,1248 @@
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 0 - HandId: #572291326901485569-1-1444236982 - Holdem no limit (10/20) - 2015/10/07 16:56:22 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #8 is the button
+Seat 1: fredoka (1500)
+Seat 2: Anahata (1500)
+Seat 3: siscolino (1500)
+Seat 4: jmds63 (1500)
+Seat 5: Romain.26 (1500)
+Seat 6: fragomeni (1500)
+Seat 7: youch (1500)
+Seat 8: WAYIMPER (1500)
+Seat 9: ping45 (1500)
+Seat 10: manggy94 (1500)
+*** ANTE/BLINDS ***
+ping45 posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [Qc 7s]
+*** PRE-FLOP *** 
+fredoka raises 1480 to 1500 and is all-in
+Anahata folds
+siscolino calls 1500 and is all-in
+jmds63 folds
+Romain.26 folds
+fragomeni folds
+youch calls 1500 and is all-in
+WAYIMPER calls 1500 and is all-in
+ping45 folds
+manggy94 folds
+*** FLOP *** [8h Tc 8d]
+*** TURN *** [8h Tc 8d][9s]
+*** RIVER *** [8h Tc 8d 9s][2s]
+*** SHOW DOWN ***
+siscolino shows [5h 2h] (Two pairs : 8 and 2)
+youch shows [Ac Kc] (One pair : 8)
+WAYIMPER shows [7h 4h] (One pair : 8)
+fredoka shows [9h 9d] (Full of 9 and 8)
+fredoka collected 6030 from pot
+*** SUMMARY ***
+Total pot 6030 | No rake
+Board: [8h Tc 8d 9s 2s]
+Seat 1: fredoka showed [9h 9d] and won 6030 with Full of 9 and 8
+Seat 3: siscolino showed [5h 2h] and lost with Two pairs : 8 and 2
+Seat 7: youch showed [Ac Kc] and lost with One pair : 8
+Seat 8: WAYIMPER (button) showed [7h 4h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 0 - HandId: #572291326901485569-2-1444237080 - Holdem no limit (10/20) - 2015/10/07 16:58:00 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #9 is the button
+Seat 1: fredoka (6030)
+Seat 2: Anahata (1500)
+Seat 4: jmds63 (1500)
+Seat 5: Romain.26 (1500)
+Seat 6: fragomeni (1500)
+Seat 9: ping45 (1490)
+Seat 10: manggy94 (1480)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+fredoka posts big blind 20
+Dealt to manggy94 [Kc 8h]
+*** PRE-FLOP *** 
+Anahata folds
+jmds63 folds
+Romain.26 calls 20
+fragomeni raises 60 to 80
+ping45 folds
+manggy94 calls 70
+fredoka calls 60
+Romain.26 calls 60
+*** FLOP *** [Ts Jh 6d]
+manggy94 checks
+fredoka checks
+Romain.26 checks
+fragomeni bets 160
+manggy94 folds
+fredoka folds
+Romain.26 folds
+fragomeni collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Ts Jh 6d]
+Seat 6: fragomeni won 480
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 1 - HandId: #572291326901485569-3-1444237162 - Holdem no limit (15/30) - 2015/10/07 16:59:22 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #10 is the button
+Seat 1: fredoka (5950)
+Seat 2: Anahata (1500)
+Seat 4: jmds63 (1500)
+Seat 5: Romain.26 (1420)
+Seat 6: fragomeni (1740)
+Seat 9: ping45 (1490)
+Seat 10: manggy94 (1400)
+*** ANTE/BLINDS ***
+fredoka posts small blind 15
+Anahata posts big blind 30
+Dealt to manggy94 [Ks 5c]
+*** PRE-FLOP *** 
+jmds63 calls 30
+Romain.26 folds
+fragomeni folds
+ping45 calls 30
+manggy94 calls 30
+fredoka calls 15
+Anahata checks
+*** FLOP *** [3c Qs 8h]
+fredoka checks
+Anahata checks
+jmds63 checks
+ping45 bets 150
+manggy94 folds
+fredoka folds
+Anahata folds
+jmds63 folds
+ping45 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [3c Qs 8h]
+Seat 9: ping45 won 300
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 1 - HandId: #572291326901485569-4-1444237230 - Holdem no limit (15/30) - 2015/10/07 17:00:30 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #1 is the button
+Seat 1: fredoka (5920)
+Seat 2: Anahata (1470)
+Seat 4: jmds63 (1470)
+Seat 5: Romain.26 (1420)
+Seat 6: fragomeni (1740)
+Seat 9: ping45 (1610)
+Seat 10: manggy94 (1370)
+*** ANTE/BLINDS ***
+Anahata posts small blind 15
+jmds63 posts big blind 30
+Dealt to manggy94 [2d Ts]
+*** PRE-FLOP *** 
+Romain.26 calls 30
+fragomeni folds
+ping45 folds
+manggy94 folds
+fredoka calls 30
+Anahata calls 15
+jmds63 checks
+*** FLOP *** [Tc 8c Ad]
+Anahata checks
+jmds63 checks
+Romain.26 checks
+fredoka checks
+*** TURN *** [Tc 8c Ad][3h]
+Anahata checks
+jmds63 checks
+Romain.26 checks
+fredoka checks
+*** RIVER *** [Tc 8c Ad 3h][5h]
+Anahata checks
+jmds63 checks
+Romain.26 bets 60
+fredoka folds
+Anahata calls 60
+jmds63 folds
+*** SHOW DOWN ***
+Anahata shows [Kd 5c] (One pair : 5)
+Romain.26 shows [9c 8h] (One pair : 8)
+Romain.26 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Tc 8c Ad 3h 5h]
+Seat 2: Anahata (small blind) showed [Kd 5c] and lost with One pair : 5
+Seat 5: Romain.26 showed [9c 8h] and won 240 with One pair : 8
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 1 - HandId: #572291326901485569-5-1444237324 - Holdem no limit (15/30) - 2015/10/07 17:02:04 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #2 is the button
+Seat 1: fredoka (5890)
+Seat 2: Anahata (1380)
+Seat 4: jmds63 (1440)
+Seat 5: Romain.26 (1570)
+Seat 6: fragomeni (1740)
+Seat 9: ping45 (1610)
+Seat 10: manggy94 (1370)
+*** ANTE/BLINDS ***
+jmds63 posts small blind 15
+Romain.26 posts big blind 30
+Dealt to manggy94 [Qs 2h]
+*** PRE-FLOP *** 
+fragomeni raises 60 to 90
+ping45 folds
+manggy94 calls 90
+fredoka folds
+Anahata folds
+jmds63 calls 75
+Romain.26 calls 60
+*** FLOP *** [6d 4d 6c]
+jmds63 checks
+Romain.26 bets 120
+fragomeni folds
+manggy94 folds
+jmds63 folds
+Romain.26 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [6d 4d 6c]
+Seat 5: Romain.26 (big blind) won 480
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 2 - HandId: #572291326901485569-6-1444237377 - Holdem no limit (20/40) - 2015/10/07 17:02:57 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #4 is the button
+Seat 1: fredoka (5890)
+Seat 2: Anahata (1380)
+Seat 4: jmds63 (1350)
+Seat 5: Romain.26 (1840)
+Seat 6: fragomeni (1650)
+Seat 9: ping45 (1610)
+Seat 10: manggy94 (1280)
+*** ANTE/BLINDS ***
+Romain.26 posts small blind 20
+fragomeni posts big blind 40
+Dealt to manggy94 [4c Tc]
+*** PRE-FLOP *** 
+ping45 folds
+manggy94 calls 40
+fredoka folds
+Anahata calls 40
+jmds63 folds
+Romain.26 folds
+fragomeni checks
+*** FLOP *** [2s Th Qd]
+fragomeni checks
+manggy94 checks
+Anahata checks
+*** TURN *** [2s Th Qd][9h]
+fragomeni checks
+manggy94 checks
+Anahata checks
+*** RIVER *** [2s Th Qd 9h][6h]
+fragomeni bets 93
+manggy94 calls 93
+Anahata calls 93
+*** SHOW DOWN ***
+Anahata shows [8d 8h] (One pair : 8)
+fragomeni shows [3c 5c] (High card : Queen)
+manggy94 shows [4c Tc] (One pair : Tens)
+manggy94 collected 419 from pot
+*** SUMMARY ***
+Total pot 419 | No rake
+Board: [2s Th Qd 9h 6h]
+Seat 2: Anahata showed [8d 8h] and lost with One pair : 8
+Seat 6: fragomeni (big blind) showed [3c 5c] and lost with High card : Queen
+Seat 10: manggy94 showed [4c Tc] and won 419 with One pair : Tens
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 2 - HandId: #572291326901485569-7-1444237434 - Holdem no limit (20/40) - 2015/10/07 17:03:54 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #5 is the button
+Seat 1: fredoka (5890)
+Seat 2: Anahata (1247)
+Seat 4: jmds63 (1350)
+Seat 5: Romain.26 (1820)
+Seat 6: fragomeni (1517)
+Seat 9: ping45 (1610)
+Seat 10: manggy94 (1566)
+*** ANTE/BLINDS ***
+fragomeni posts small blind 20
+ping45 posts big blind 40
+Dealt to manggy94 [3d Qs]
+*** PRE-FLOP *** 
+manggy94 calls 40
+fredoka folds
+Anahata calls 40
+jmds63 folds
+Romain.26 folds
+fragomeni calls 20
+ping45 checks
+*** FLOP *** [2s Ac Td]
+fragomeni checks
+ping45 checks
+manggy94 checks
+Anahata checks
+*** TURN *** [2s Ac Td][As]
+fragomeni checks
+ping45 checks
+manggy94 checks
+Anahata checks
+*** RIVER *** [2s Ac Td As][7s]
+fragomeni checks
+ping45 checks
+manggy94 checks
+Anahata checks
+*** SHOW DOWN ***
+fragomeni shows [Qh 6s] (One pair : Aces)
+ping45 shows [Ks 6c] (One pair : Aces)
+manggy94 shows [3d Qs] (One pair : Aces)
+Anahata shows [8d 8s] (Two pairs : Aces and 8)
+Anahata collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [2s Ac Td As 7s]
+Seat 2: Anahata showed [8d 8s] and won 160 with Two pairs : Aces and 8
+Seat 6: fragomeni (small blind) showed [Qh 6s] and lost with One pair : Aces
+Seat 9: ping45 (big blind) showed [Ks 6c] and lost with One pair : Aces
+Seat 10: manggy94 showed [3d Qs] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 3 - HandId: #572291326901485569-8-1444237545 - Holdem no limit (30/60) - 2015/10/07 17:05:45 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #6 is the button
+Seat 1: fredoka (5890)
+Seat 2: Anahata (1367)
+Seat 4: jmds63 (1350)
+Seat 5: Romain.26 (1820)
+Seat 6: fragomeni (1477)
+Seat 9: ping45 (1570)
+Seat 10: manggy94 (1526)
+*** ANTE/BLINDS ***
+ping45 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [Qh 4s]
+*** PRE-FLOP *** 
+fredoka calls 60
+Anahata folds
+jmds63 calls 60
+Romain.26 folds
+fragomeni folds
+ping45 calls 30
+manggy94 checks
+*** FLOP *** [8d 9d 7d]
+ping45 bets 60
+manggy94 folds
+fredoka calls 60
+jmds63 folds
+*** TURN *** [8d 9d 7d][3d]
+ping45 bets 360
+fredoka folds
+ping45 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [8d 9d 7d 3d]
+Seat 9: ping45 (small blind) won 720
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 3 - HandId: #572291326901485569-9-1444237595 - Holdem no limit (30/60) - 2015/10/07 17:06:35 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #9 is the button
+Seat 1: fredoka (5770)
+Seat 2: Anahata (1367)
+Seat 4: jmds63 (1290)
+Seat 5: Romain.26 (1820)
+Seat 6: fragomeni (1477)
+Seat 9: ping45 (1810)
+Seat 10: manggy94 (1466)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+fredoka posts big blind 60
+Dealt to manggy94 [8c Tc]
+*** PRE-FLOP *** 
+Anahata folds
+jmds63 folds
+Romain.26 folds
+fragomeni folds
+ping45 folds
+manggy94 calls 30
+fredoka checks
+*** FLOP *** [7h 8h 5d]
+manggy94 bets 120
+fredoka folds
+manggy94 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [7h 8h 5d]
+Seat 10: manggy94 (small blind) won 240
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 3 - HandId: #572291326901485569-10-1444237623 - Holdem no limit (30/60) - 2015/10/07 17:07:03 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #10 is the button
+Seat 1: fredoka (5710)
+Seat 2: Anahata (1367)
+Seat 4: jmds63 (1290)
+Seat 5: Romain.26 (1820)
+Seat 6: fragomeni (1477)
+Seat 9: ping45 (1810)
+Seat 10: manggy94 (1526)
+*** ANTE/BLINDS ***
+fredoka posts small blind 30
+Anahata posts big blind 60
+Dealt to manggy94 [9h Kh]
+*** PRE-FLOP *** 
+jmds63 raises 60 to 120
+Romain.26 folds
+fragomeni folds
+ping45 raises 240 to 360
+manggy94 raises 930 to 1290
+fredoka folds
+Anahata folds
+jmds63 folds
+ping45 calls 930
+*** FLOP *** [6c Qc Th]
+ping45 checks
+manggy94 checks
+*** TURN *** [6c Qc Th][Qd]
+ping45 bets 520 and is all-in
+manggy94 calls 236 and is all-in
+*** RIVER *** [6c Qc Th Qd][4s]
+*** SHOW DOWN ***
+manggy94 shows [9h Kh] (One pair : Queens)
+ping45 shows [3h Kd] (One pair : Queens)
+ping45 collected 284 from side pot 1
+manggy94 collected 3262 from main pot
+*** SUMMARY ***
+Total pot 3546 | No rake
+Board: [6c Qc Th Qd 4s]
+Seat 9: ping45 showed [3h Kd] and won 284 with One pair : Queens
+Seat 10: manggy94 (button) showed [9h Kh] and won 3262 with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 3 - HandId: #572291326901485569-11-1444237689 - Holdem no limit (30/60) - 2015/10/07 17:08:09 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #1 is the button
+Seat 1: fredoka (5680)
+Seat 2: Anahata (1307)
+Seat 4: jmds63 (1170)
+Seat 5: Romain.26 (1820)
+Seat 6: fragomeni (1477)
+Seat 9: ping45 (284)
+Seat 10: manggy94 (3262)
+*** ANTE/BLINDS ***
+Anahata posts small blind 30
+jmds63 posts big blind 60
+Dealt to manggy94 [Qs Ad]
+*** PRE-FLOP *** 
+Romain.26 raises 90 to 150
+fragomeni folds
+ping45 raises 134 to 284 and is all-in
+manggy94 calls 284
+fredoka folds
+Anahata folds
+jmds63 folds
+Romain.26 calls 134
+*** FLOP *** [8c 5d Kd]
+Romain.26 checks
+manggy94 bets 942
+Romain.26 folds
+*** TURN *** [8c 5d Kd][3h]
+*** RIVER *** [8c 5d Kd 3h][6c]
+*** SHOW DOWN ***
+ping45 shows [Ts Jh] (High card : King)
+manggy94 shows [Qs Ad] (High card : Ace)
+manggy94 collected 1884 from pot
+*** SUMMARY ***
+Total pot 1884 | No rake
+Board: [8c 5d Kd 3h 6c]
+Seat 9: ping45 showed [Ts Jh] and lost with High card : King
+Seat 10: manggy94 showed [Qs Ad] and won 1884 with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 4 - HandId: #572291326901485569-12-1444237735 - Holdem no limit (40/80) - 2015/10/07 17:08:55 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #2 is the button
+Seat 1: fredoka (5680)
+Seat 2: Anahata (1277)
+Seat 4: jmds63 (1110)
+Seat 5: Romain.26 (1536)
+Seat 6: fragomeni (1477)
+Seat 10: manggy94 (3920)
+*** ANTE/BLINDS ***
+jmds63 posts small blind 40
+Romain.26 posts big blind 80
+Dealt to manggy94 [Jc 8d]
+*** PRE-FLOP *** 
+fragomeni raises 80 to 160
+manggy94 calls 160
+fredoka calls 160
+Anahata folds
+jmds63 calls 120
+Romain.26 folds
+*** FLOP *** [8h Tc Kc]
+jmds63 checks
+fragomeni checks
+manggy94 checks
+fredoka checks
+*** TURN *** [8h Tc Kc][3d]
+jmds63 checks
+fragomeni bets 480
+manggy94 folds
+fredoka folds
+jmds63 folds
+fragomeni collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [8h Tc Kc 3d]
+Seat 6: fragomeni won 1200
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 4 - HandId: #572291326901485569-13-1444237814 - Holdem no limit (40/80) - 2015/10/07 17:10:14 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #4 is the button
+Seat 1: fredoka (5520)
+Seat 2: Anahata (1277)
+Seat 4: jmds63 (950)
+Seat 5: Romain.26 (1456)
+Seat 6: fragomeni (2037)
+Seat 10: manggy94 (3760)
+*** ANTE/BLINDS ***
+Romain.26 posts small blind 40
+fragomeni posts big blind 80
+Dealt to manggy94 [6s Tc]
+*** PRE-FLOP *** 
+manggy94 folds
+fredoka raises 5440 to 5520 and is all-in
+Anahata folds
+jmds63 folds
+Romain.26 folds
+fragomeni calls 1957 and is all-in
+*** FLOP *** [Td 7c 3s]
+*** TURN *** [Td 7c 3s][4c]
+*** RIVER *** [Td 7c 3s 4c][4h]
+*** SHOW DOWN ***
+fragomeni shows [Ah 5h] (One pair : 4)
+fredoka shows [9d 9h] (Two pairs : 9 and 4)
+fredoka collected 7597 from pot
+*** SUMMARY ***
+Total pot 7597 | No rake
+Board: [Td 7c 3s 4c 4h]
+Seat 1: fredoka showed [9d 9h] and won 7597 with Two pairs : 9 and 4
+Seat 6: fragomeni (big blind) showed [Ah 5h] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 4 - HandId: #572291326901485569-14-1444237841 - Holdem no limit (40/80) - 2015/10/07 17:10:41 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #5 is the button
+Seat 1: fredoka (7597)
+Seat 2: Anahata (1277)
+Seat 4: jmds63 (950)
+Seat 5: Romain.26 (1416)
+Seat 10: manggy94 (3760)
+*** ANTE/BLINDS ***
+manggy94 posts big blind 80
+Dealt to manggy94 [Th Jc]
+*** PRE-FLOP *** 
+fredoka folds
+Anahata folds
+jmds63 raises 870 to 950 and is all-in
+Romain.26 folds
+manggy94 calls 870
+*** FLOP *** [4s 5c Qd]
+*** TURN *** [4s 5c Qd][2d]
+*** RIVER *** [4s 5c Qd 2d][3d]
+*** SHOW DOWN ***
+manggy94 shows [Th Jc] (High card : Queen)
+jmds63 shows [Ah 7s] (Straight 5 high)
+jmds63 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Board: [4s 5c Qd 2d 3d]
+Seat 4: jmds63 showed [Ah 7s] and won 1900 with Straight 5 high
+Seat 10: manggy94 (big blind) showed [Th Jc] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 4 - HandId: #572291326901485569-15-1444237861 - Holdem no limit (40/80) - 2015/10/07 17:11:01 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #6 is the button
+Seat 1: fredoka (7597)
+Seat 2: Anahata (1277)
+Seat 4: jmds63 (1900)
+Seat 5: Romain.26 (1416)
+Seat 10: manggy94 (2810)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+fredoka posts big blind 80
+Dealt to manggy94 [Js 5d]
+*** PRE-FLOP *** 
+Anahata folds
+jmds63 folds
+Romain.26 calls 80
+manggy94 calls 40
+fredoka checks
+*** FLOP *** [7c 3c Ah]
+manggy94 checks
+fredoka checks
+Romain.26 checks
+*** TURN *** [7c 3c Ah][7s]
+manggy94 checks
+fredoka checks
+Romain.26 checks
+*** RIVER *** [7c 3c Ah 7s][Kh]
+manggy94 checks
+fredoka checks
+Romain.26 bets 160
+manggy94 folds
+fredoka folds
+Romain.26 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [7c 3c Ah 7s Kh]
+Seat 5: Romain.26 won 400
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 5 - HandId: #572291326901485569-16-1444237923 - Holdem no limit (60/120) - 2015/10/07 17:12:03 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #10 is the button
+Seat 1: fredoka (7517)
+Seat 2: Anahata (1277)
+Seat 4: jmds63 (1900)
+Seat 5: Romain.26 (1576)
+Seat 10: manggy94 (2730)
+*** ANTE/BLINDS ***
+fredoka posts small blind 60
+Anahata posts big blind 120
+Dealt to manggy94 [Kc 6h]
+*** PRE-FLOP *** 
+jmds63 folds
+Romain.26 calls 120
+manggy94 calls 120
+fredoka raises 7397 to 7517 and is all-in
+Anahata folds
+Romain.26 folds
+manggy94 folds
+fredoka collected 7877 from pot
+*** SUMMARY ***
+Total pot 7877 | No rake
+Seat 1: fredoka (small blind) won 7877
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 5 - HandId: #572291326901485569-17-1444237973 - Holdem no limit (60/120) - 2015/10/07 17:12:53 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #1 is the button
+Seat 1: fredoka (7877)
+Seat 2: Anahata (1157)
+Seat 4: jmds63 (1900)
+Seat 5: Romain.26 (1456)
+Seat 10: manggy94 (2610)
+*** ANTE/BLINDS ***
+Anahata posts small blind 60
+jmds63 posts big blind 120
+Dealt to manggy94 [Td Kh]
+*** PRE-FLOP *** 
+Romain.26 folds
+manggy94 calls 120
+fredoka folds
+Anahata calls 60
+jmds63 checks
+*** FLOP *** [Qc 8h 9c]
+Anahata checks
+jmds63 checks
+manggy94 checks
+*** TURN *** [Qc 8h 9c][4d]
+Anahata checks
+jmds63 checks
+manggy94 checks
+*** RIVER *** [Qc 8h 9c 4d][7h]
+Anahata checks
+jmds63 checks
+manggy94 checks
+*** SHOW DOWN ***
+Anahata shows [Jd 5s] (High card : Queen)
+manggy94 shows [Td Kh] (High card : King)
+jmds63 shows [Jh 7d] (One pair : 7)
+jmds63 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Qc 8h 9c 4d 7h]
+Seat 2: Anahata (small blind) showed [Jd 5s] and lost with High card : Queen
+Seat 4: jmds63 (big blind) showed [Jh 7d] and won 360 with One pair : 7
+Seat 10: manggy94 showed [Td Kh] and lost with High card : King
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 5 - HandId: #572291326901485569-18-1444238018 - Holdem no limit (60/120) - 2015/10/07 17:13:38 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #2 is the button
+Seat 1: fredoka (7877)
+Seat 2: Anahata (1037)
+Seat 4: jmds63 (2140)
+Seat 5: Romain.26 (1456)
+Seat 10: manggy94 (2490)
+*** ANTE/BLINDS ***
+jmds63 posts small blind 60
+Romain.26 posts big blind 120
+Dealt to manggy94 [Ad 6c]
+*** PRE-FLOP *** 
+manggy94 raises 300 to 420
+fredoka folds
+Anahata folds
+jmds63 folds
+Romain.26 calls 300
+*** FLOP *** [3s 6s Js]
+Romain.26 checks
+manggy94 bets 900
+Romain.26 folds
+manggy94 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [3s 6s Js]
+Seat 10: manggy94 won 1800
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 5 - HandId: #572291326901485569-19-1444238042 - Holdem no limit (60/120) - 2015/10/07 17:14:02 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #4 is the button
+Seat 1: fredoka (7877)
+Seat 2: Anahata (1037)
+Seat 4: jmds63 (2080)
+Seat 5: Romain.26 (1036)
+Seat 10: manggy94 (2970)
+*** ANTE/BLINDS ***
+Romain.26 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [Tc 5d]
+*** PRE-FLOP *** 
+fredoka calls 120
+Anahata folds
+jmds63 raises 240 to 360
+Romain.26 raises 676 to 1036 and is all-in
+manggy94 folds
+fredoka folds
+jmds63 calls 676
+*** FLOP *** [2d 8c 7s]
+*** TURN *** [2d 8c 7s][Jc]
+*** RIVER *** [2d 8c 7s Jc][4d]
+*** SHOW DOWN ***
+jmds63 shows [Qc Jh] (One pair : Jacks)
+Romain.26 shows [Kd Ks] (One pair : Kings)
+Romain.26 collected 2312 from pot
+*** SUMMARY ***
+Total pot 2312 | No rake
+Board: [2d 8c 7s Jc 4d]
+Seat 4: jmds63 (button) showed [Qc Jh] and lost with One pair : Jacks
+Seat 5: Romain.26 (small blind) showed [Kd Ks] and won 2312 with One pair : Kings
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 6 - HandId: #572291326901485569-20-1444238118 - Holdem no limit (10/60/120) - 2015/10/07 17:15:18 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #5 is the button
+Seat 1: fredoka (7757)
+Seat 2: Anahata (1037)
+Seat 4: jmds63 (1044)
+Seat 5: Romain.26 (2312)
+Seat 10: manggy94 (2850)
+*** ANTE/BLINDS ***
+manggy94 posts ante 10
+fredoka posts ante 10
+Anahata posts ante 10
+jmds63 posts ante 10
+Romain.26 posts ante 10
+manggy94 posts small blind 60
+fredoka posts big blind 120
+Dealt to manggy94 [Ts Jh]
+*** PRE-FLOP *** 
+Anahata raises 907 to 1027 and is all-in
+jmds63 folds
+Romain.26 folds
+manggy94 calls 967
+fredoka folds
+*** FLOP *** [2h 4d 7d]
+*** TURN *** [2h 4d 7d][3c]
+*** RIVER *** [2h 4d 7d 3c][6h]
+*** SHOW DOWN ***
+manggy94 shows [Ts Jh] (High card : Jack)
+Anahata shows [Qc Tc] (High card : Queen)
+Anahata collected 2224 from pot
+*** SUMMARY ***
+Total pot 2224 | No rake
+Board: [2h 4d 7d 3c 6h]
+Seat 2: Anahata showed [Qc Tc] and won 2224 with High card : Queen
+Seat 10: manggy94 (small blind) showed [Ts Jh] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 6 - HandId: #572291326901485569-21-1444238142 - Holdem no limit (10/60/120) - 2015/10/07 17:15:42 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #10 is the button
+Seat 1: fredoka (7627)
+Seat 2: Anahata (2224)
+Seat 4: jmds63 (1034)
+Seat 5: Romain.26 (2302)
+Seat 10: manggy94 (1813)
+*** ANTE/BLINDS ***
+fredoka posts ante 10
+Anahata posts ante 10
+jmds63 posts ante 10
+Romain.26 posts ante 10
+manggy94 posts ante 10
+fredoka posts small blind 60
+Anahata posts big blind 120
+Dealt to manggy94 [9c 2c]
+*** PRE-FLOP *** 
+jmds63 raises 904 to 1024 and is all-in
+Romain.26 folds
+manggy94 folds
+fredoka folds
+Anahata folds
+jmds63 collected 1254 from pot
+*** SUMMARY ***
+Total pot 1254 | No rake
+Seat 4: jmds63 won 1254
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 6 - HandId: #572291326901485569-22-1444238162 - Holdem no limit (10/60/120) - 2015/10/07 17:16:02 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #1 is the button
+Seat 1: fredoka (7557)
+Seat 2: Anahata (2094)
+Seat 4: jmds63 (1254)
+Seat 5: Romain.26 (2292)
+Seat 10: manggy94 (1803)
+*** ANTE/BLINDS ***
+Anahata posts ante 10
+jmds63 posts ante 10
+fredoka posts ante 10
+Romain.26 posts ante 10
+manggy94 posts ante 10
+Anahata posts small blind 60
+jmds63 posts big blind 120
+Dealt to manggy94 [Ts 9h]
+*** PRE-FLOP *** 
+Romain.26 folds
+manggy94 calls 120
+fredoka calls 120
+Anahata calls 60
+jmds63 checks
+*** FLOP *** [Kc 4c 4d]
+Anahata checks
+jmds63 bets 120
+manggy94 folds
+fredoka folds
+Anahata calls 120
+*** TURN *** [Kc 4c 4d][2d]
+Anahata checks
+jmds63 checks
+*** RIVER *** [Kc 4c 4d 2d][Jc]
+Anahata checks
+jmds63 checks
+*** SHOW DOWN ***
+Anahata shows [5h 5s] (Two pairs : 5 and 4)
+jmds63 shows [Qc Jd] (Two pairs : Jacks and 4)
+jmds63 collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Board: [Kc 4c 4d 2d Jc]
+Seat 2: Anahata (small blind) showed [5h 5s] and lost with Two pairs : 5 and 4
+Seat 4: jmds63 (big blind) showed [Qc Jd] and won 770 with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 6 - HandId: #572291326901485569-23-1444238223 - Holdem no limit (10/60/120) - 2015/10/07 17:17:03 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #2 is the button
+Seat 1: fredoka (7427)
+Seat 2: Anahata (1844)
+Seat 4: jmds63 (1774)
+Seat 5: Romain.26 (2282)
+Seat 10: manggy94 (1673)
+*** ANTE/BLINDS ***
+jmds63 posts ante 10
+Romain.26 posts ante 10
+fredoka posts ante 10
+Anahata posts ante 10
+manggy94 posts ante 10
+jmds63 posts small blind 60
+Romain.26 posts big blind 120
+Dealt to manggy94 [7c Qd]
+*** PRE-FLOP *** 
+manggy94 raises 350 to 470
+fredoka folds
+Anahata folds
+jmds63 folds
+Romain.26 folds
+manggy94 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 10: manggy94 won 700
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 6 - HandId: #572291326901485569-24-1444238237 - Holdem no limit (10/60/120) - 2015/10/07 17:17:17 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #4 is the button
+Seat 1: fredoka (7417)
+Seat 2: Anahata (1834)
+Seat 4: jmds63 (1704)
+Seat 5: Romain.26 (2152)
+Seat 10: manggy94 (1893)
+*** ANTE/BLINDS ***
+Romain.26 posts ante 10
+manggy94 posts ante 10
+fredoka posts ante 10
+Anahata posts ante 10
+jmds63 posts ante 10
+Romain.26 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [Qc 6d]
+*** PRE-FLOP *** 
+fredoka folds
+Anahata folds
+jmds63 folds
+Romain.26 calls 60
+manggy94 checks
+*** FLOP *** [Qh 9s 2c]
+Romain.26 bets 180
+manggy94 calls 180
+*** TURN *** [Qh 9s 2c][Ad]
+Romain.26 bets 360
+manggy94 raises 1223 to 1583 and is all-in
+Romain.26 folds
+manggy94 collected 2593 from pot
+*** SUMMARY ***
+Total pot 2593 | No rake
+Board: [Qh 9s 2c Ad]
+Seat 10: manggy94 (big blind) won 2593
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 7 - HandId: #572291326901485569-25-1444238293 - Holdem no limit (15/75/150) - 2015/10/07 17:18:13 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #5 is the button
+Seat 1: fredoka (7407)
+Seat 2: Anahata (1824)
+Seat 4: jmds63 (1694)
+Seat 5: Romain.26 (1482)
+Seat 10: manggy94 (2593)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+fredoka posts ante 15
+Anahata posts ante 15
+jmds63 posts ante 15
+Romain.26 posts ante 15
+manggy94 posts small blind 75
+fredoka posts big blind 150
+Dealt to manggy94 [Qc 8s]
+*** PRE-FLOP *** 
+Anahata folds
+jmds63 folds
+Romain.26 folds
+manggy94 calls 75
+fredoka checks
+*** FLOP *** [Js Ks 9s]
+manggy94 checks
+fredoka bets 150
+manggy94 calls 150
+*** TURN *** [Js Ks 9s][4c]
+manggy94 checks
+fredoka checks
+*** RIVER *** [Js Ks 9s 4c][9c]
+manggy94 checks
+fredoka checks
+*** SHOW DOWN ***
+manggy94 shows [Qc 8s] (One pair : 9)
+fredoka shows [Th Ad] (One pair : 9)
+fredoka collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | No rake
+Board: [Js Ks 9s 4c 9c]
+Seat 1: fredoka (big blind) showed [Th Ad] and won 675 with One pair : 9
+Seat 10: manggy94 (small blind) showed [Qc 8s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 7 - HandId: #572291326901485569-26-1444238334 - Holdem no limit (15/75/150) - 2015/10/07 17:18:54 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #10 is the button
+Seat 1: fredoka (7767)
+Seat 2: Anahata (1809)
+Seat 4: jmds63 (1679)
+Seat 5: Romain.26 (1467)
+Seat 10: manggy94 (2278)
+*** ANTE/BLINDS ***
+fredoka posts ante 15
+Anahata posts ante 15
+jmds63 posts ante 15
+Romain.26 posts ante 15
+manggy94 posts ante 15
+fredoka posts small blind 75
+Anahata posts big blind 150
+Dealt to manggy94 [5h Qs]
+*** PRE-FLOP *** 
+jmds63 folds
+Romain.26 calls 150
+manggy94 calls 150
+fredoka calls 75
+Anahata checks
+*** FLOP *** [Qh 5s 2s]
+fredoka checks
+Anahata bets 150
+Romain.26 folds
+manggy94 calls 150
+fredoka folds
+*** TURN *** [Qh 5s 2s][9c]
+Anahata bets 150
+manggy94 calls 150
+*** RIVER *** [Qh 5s 2s 9c][7d]
+Anahata bets 1275
+manggy94 raises 538 to 1813 and is all-in
+Anahata calls 69 and is all-in
+*** SHOW DOWN ***
+Anahata shows [As Jd] (High card : Ace)
+manggy94 shows [5h Qs] (Two pairs : Queens and 5)
+manggy94 collected 4432 from pot
+*** SUMMARY ***
+Total pot 4432 | No rake
+Board: [Qh 5s 2s 9c 7d]
+Seat 2: Anahata (big blind) showed [As Jd] and lost with High card : Ace
+Seat 10: manggy94 (button) showed [5h Qs] and won 4432 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 7 - HandId: #572291326901485569-27-1444238392 - Holdem no limit (15/75/150) - 2015/10/07 17:19:52 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #1 is the button
+Seat 1: fredoka (7602)
+Seat 4: jmds63 (1664)
+Seat 5: Romain.26 (1302)
+Seat 10: manggy94 (4432)
+*** ANTE/BLINDS ***
+jmds63 posts ante 15
+fredoka posts ante 15
+Romain.26 posts ante 15
+manggy94 posts ante 15
+jmds63 posts big blind 150
+Dealt to manggy94 [5d Ts]
+*** PRE-FLOP *** 
+Romain.26 folds
+manggy94 calls 150
+fredoka calls 150
+jmds63 checks
+*** FLOP *** [As 8c 8h]
+jmds63 checks
+manggy94 checks
+fredoka checks
+*** TURN *** [As 8c 8h][5c]
+jmds63 checks
+manggy94 checks
+fredoka checks
+*** RIVER *** [As 8c 8h 5c][5s]
+jmds63 checks
+manggy94 bets 510
+fredoka folds
+jmds63 calls 510
+*** SHOW DOWN ***
+jmds63 shows [Ks 6c] (Two pairs : 8 and 5)
+manggy94 shows [5d Ts] (Full of 5 and 8)
+manggy94 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Board: [As 8c 8h 5c 5s]
+Seat 4: jmds63 (big blind) showed [Ks 6c] and lost with Two pairs : 8 and 5
+Seat 10: manggy94 showed [5d Ts] and won 1530 with Full of 5 and 8
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 8 - HandId: #572291326901485569-28-1444238436 - Holdem no limit (20/100/200) - 2015/10/07 17:20:36 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #2 is the button
+Seat 1: fredoka (7437)
+Seat 4: jmds63 (989)
+Seat 5: Romain.26 (1287)
+Seat 10: manggy94 (5287)
+*** ANTE/BLINDS ***
+jmds63 posts ante 20
+Romain.26 posts ante 20
+fredoka posts ante 20
+manggy94 posts ante 20
+jmds63 posts small blind 100
+Romain.26 posts big blind 200
+Dealt to manggy94 [8h Tc]
+*** PRE-FLOP *** 
+manggy94 calls 200
+fredoka folds
+jmds63 folds
+Romain.26 checks
+*** FLOP *** [Qc Qs 6h]
+Romain.26 checks
+manggy94 bets 580
+Romain.26 folds
+manggy94 collected 1160 from pot
+*** SUMMARY ***
+Total pot 1160 | No rake
+Board: [Qc Qs 6h]
+Seat 10: manggy94 won 1160
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 8 - HandId: #572291326901485569-29-1444238466 - Holdem no limit (20/100/200) - 2015/10/07 17:21:06 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #4 is the button
+Seat 1: fredoka (7417)
+Seat 4: jmds63 (869)
+Seat 5: Romain.26 (1067)
+Seat 10: manggy94 (5647)
+*** ANTE/BLINDS ***
+Romain.26 posts ante 20
+manggy94 posts ante 20
+fredoka posts ante 20
+jmds63 posts ante 20
+Romain.26 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [5s 5c]
+*** PRE-FLOP *** 
+fredoka folds
+jmds63 raises 649 to 849 and is all-in
+Romain.26 folds
+manggy94 calls 649
+*** FLOP *** [Kh 4s 5d]
+*** TURN *** [Kh 4s 5d][3s]
+*** RIVER *** [Kh 4s 5d 3s][8d]
+*** SHOW DOWN ***
+jmds63 shows [9d Ts] (High card : King)
+manggy94 shows [5s 5c] (Trips of 5)
+manggy94 collected 1878 from pot
+*** SUMMARY ***
+Total pot 1878 | No rake
+Board: [Kh 4s 5d 3s 8d]
+Seat 4: jmds63 (button) showed [9d Ts] and lost with High card : King
+Seat 10: manggy94 (big blind) showed [5s 5c] and won 1878 with Trips of 5
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 8 - HandId: #572291326901485569-30-1444238492 - Holdem no limit (20/100/200) - 2015/10/07 17:21:32 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #5 is the button
+Seat 1: fredoka (7397)
+Seat 5: Romain.26 (947)
+Seat 10: manggy94 (6656)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+fredoka posts ante 20
+Romain.26 posts ante 20
+manggy94 posts small blind 100
+fredoka posts big blind 200
+Dealt to manggy94 [5d 7c]
+*** PRE-FLOP *** 
+Romain.26 folds
+manggy94 calls 100
+fredoka checks
+*** FLOP *** [9s 9c 3s]
+manggy94 checks
+fredoka checks
+*** TURN *** [9s 9c 3s][4s]
+manggy94 checks
+fredoka checks
+*** RIVER *** [9s 9c 3s 4s][Ac]
+manggy94 checks
+fredoka checks
+*** SHOW DOWN ***
+manggy94 shows [5d 7c] (One pair : 9)
+fredoka shows [7h 6s] (One pair : 9)
+fredoka collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [9s 9c 3s 4s Ac]
+Seat 1: fredoka (big blind) showed [7h 6s] and won 460 with One pair : 9
+Seat 10: manggy94 (small blind) showed [5d 7c] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 8 - HandId: #572291326901485569-31-1444238539 - Holdem no limit (20/100/200) - 2015/10/07 17:22:19 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #10 is the button
+Seat 1: fredoka (7637)
+Seat 5: Romain.26 (927)
+Seat 10: manggy94 (6436)
+*** ANTE/BLINDS ***
+fredoka posts ante 20
+Romain.26 posts ante 20
+manggy94 posts ante 20
+fredoka posts small blind 100
+Romain.26 posts big blind 200
+Dealt to manggy94 [Kh 7s]
+*** PRE-FLOP *** 
+manggy94 calls 200
+fredoka calls 100
+Romain.26 checks
+*** FLOP *** [Jc 5d 2h]
+fredoka checks
+Romain.26 bets 200
+manggy94 calls 200
+fredoka folds
+*** TURN *** [Jc 5d 2h][Ac]
+Romain.26 checks
+manggy94 checks
+*** RIVER *** [Jc 5d 2h Ac][4d]
+Romain.26 checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [Kh 7s] (High card : Ace)
+Romain.26 shows [5c 6h] (One pair : 5)
+Romain.26 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Board: [Jc 5d 2h Ac 4d]
+Seat 5: Romain.26 (big blind) showed [5c 6h] and won 1060 with One pair : 5
+Seat 10: manggy94 (button) showed [Kh 7s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 8 - HandId: #572291326901485569-32-1444238574 - Holdem no limit (20/100/200) - 2015/10/07 17:22:54 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #1 is the button
+Seat 1: fredoka (7417)
+Seat 5: Romain.26 (1567)
+Seat 10: manggy94 (6016)
+*** ANTE/BLINDS ***
+Romain.26 posts ante 20
+manggy94 posts ante 20
+fredoka posts ante 20
+Romain.26 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [3c Qh]
+*** PRE-FLOP *** 
+fredoka folds
+Romain.26 raises 600 to 800
+manggy94 calls 600
+*** FLOP *** [2s 4c 8c]
+Romain.26 bets 747 and is all-in
+manggy94 calls 747
+*** TURN *** [2s 4c 8c][7h]
+*** RIVER *** [2s 4c 8c 7h][Td]
+*** SHOW DOWN ***
+manggy94 shows [3c Qh] (High card : Queen)
+Romain.26 shows [6d 6c] (One pair : 6)
+Romain.26 collected 3154 from pot
+*** SUMMARY ***
+Total pot 3154 | No rake
+Board: [2s 4c 8c 7h Td]
+Seat 5: Romain.26 (small blind) showed [6d 6c] and won 3154 with One pair : 6
+Seat 10: manggy94 (big blind) showed [3c Qh] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 9 - HandId: #572291326901485569-33-1444238600 - Holdem no limit (25/125/250) - 2015/10/07 17:23:20 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #5 is the button
+Seat 1: fredoka (7397)
+Seat 5: Romain.26 (3154)
+Seat 10: manggy94 (4449)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+fredoka posts ante 25
+Romain.26 posts ante 25
+manggy94 posts small blind 125
+fredoka posts big blind 250
+Dealt to manggy94 [5c Qs]
+*** PRE-FLOP *** 
+Romain.26 raises 500 to 750
+manggy94 raises 3674 to 4424 and is all-in
+fredoka folds
+Romain.26 calls 2379 and is all-in
+*** FLOP *** [6d 8h Kh]
+*** TURN *** [6d 8h Kh][2h]
+*** RIVER *** [6d 8h Kh 2h][Qd]
+*** SHOW DOWN ***
+Romain.26 shows [Ac Kd] (One pair : Kings)
+manggy94 shows [5c Qs] (One pair : Queens)
+manggy94 collected 1295 from side pot 1
+Romain.26 collected 6583 from main pot
+*** SUMMARY ***
+Total pot 7878 | No rake
+Board: [6d 8h Kh 2h Qd]
+Seat 5: Romain.26 (button) showed [Ac Kd] and won 6583 with One pair : Kings
+Seat 10: manggy94 (small blind) showed [5c Qs] and won 1295 with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 9 - HandId: #572291326901485569-34-1444238623 - Holdem no limit (25/125/250) - 2015/10/07 17:23:43 UTC
+Table: 'Starting Block Winamax Poker Tour(133246958)#0' 10-max (real money) Seat #10 is the button
+Seat 1: fredoka (7122)
+Seat 5: Romain.26 (6583)
+Seat 10: manggy94 (1295)
+*** ANTE/BLINDS ***
+fredoka posts ante 25
+Romain.26 posts ante 25
+manggy94 posts ante 25
+fredoka posts small blind 125
+Romain.26 posts big blind 250
+Dealt to manggy94 [4c 4s]
+*** PRE-FLOP *** 
+manggy94 raises 1020 to 1270 and is all-in
+fredoka folds
+Romain.26 calls 1020
+*** FLOP *** [Td 5c 7c]
+*** TURN *** [Td 5c 7c][3h]
+*** RIVER *** [Td 5c 7c 3h][Tc]
+*** SHOW DOWN ***
+manggy94 shows [4c 4s] (Two pairs : Tens and 4)
+Romain.26 shows [8d 8h] (Two pairs : Tens and 8)
+Romain.26 collected 2740 from pot
+*** SUMMARY ***
+Total pot 2740 | No rake
+Board: [Td 5c 7c 3h Tc]
+Seat 5: Romain.26 (big blind) showed [8d 8h] and won 2740 with Two pairs : Tens and 8
+Seat 10: manggy94 (button) showed [4c 4s] and lost with Two pairs : Tens and 4
+
+

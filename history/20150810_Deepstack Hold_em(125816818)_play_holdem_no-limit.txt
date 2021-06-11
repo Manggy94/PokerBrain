@@ -1,0 +1,1429 @@
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 0 - HandId: #540379118596784129-1-1439199005 - Holdem no limit (50/100) - 2015/08/10 09:30:05 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #2 is the button
+Seat 1: BRINOU67 (20000)
+Seat 2: manggy94 (20000)
+Seat 3: Yazco (20000)
+Seat 4: lapiaz39 (20000)
+Seat 5: lucky_good (20000)
+Seat 6: neumohr (20000)
+Seat 7: K-l-K (20000)
+*** ANTE/BLINDS ***
+Yazco posts small blind 50
+lapiaz39 posts big blind 100
+Dealt to manggy94 [Ks 2c]
+*** PRE-FLOP *** 
+lucky_good folds
+neumohr calls 100
+K-l-K calls 100
+BRINOU67 calls 100
+manggy94 raises 550 to 650
+Yazco calls 600
+lapiaz39 folds
+neumohr calls 550
+K-l-K calls 550
+BRINOU67 folds
+*** FLOP *** [Td 8d 4s]
+Yazco checks
+neumohr checks
+K-l-K checks
+manggy94 checks
+*** TURN *** [Td 8d 4s][Kc]
+Yazco checks
+neumohr checks
+K-l-K bets 2800
+manggy94 calls 2800
+Yazco folds
+neumohr folds
+*** RIVER *** [Td 8d 4s Kc][Qs]
+K-l-K bets 8400
+manggy94 calls 8400
+*** SHOW DOWN ***
+manggy94 shows [Ks 2c] (One pair : Kings)
+K-l-K shows [Kh Qd] (Two pairs : Kings and Queens)
+K-l-K collected 25200 from pot
+*** SUMMARY ***
+Total pot 25200 | No rake
+Board: [Td 8d 4s Kc Qs]
+Seat 2: manggy94 (button) showed [Ks 2c] and lost with One pair : Kings
+Seat 7: K-l-K showed [Kh Qd] and won 25200 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 0 - HandId: #540379118596784129-2-1439199124 - Holdem no limit (50/100) - 2015/08/10 09:32:04 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #3 is the button
+Seat 1: BRINOU67 (19900)
+Seat 2: manggy94 (8150)
+Seat 3: Yazco (19350)
+Seat 4: lapiaz39 (19900)
+Seat 5: lucky_good (20000)
+Seat 6: neumohr (19350)
+Seat 7: K-l-K (33350)
+Seat 9: simba76170 (20000)
+*** ANTE/BLINDS ***
+lapiaz39 posts small blind 50
+lucky_good posts big blind 100
+Dealt to manggy94 [9s 3c]
+*** PRE-FLOP *** 
+neumohr calls 100
+K-l-K calls 100
+simba76170 folds
+BRINOU67 folds
+manggy94 folds
+Yazco folds
+lapiaz39 calls 50
+lucky_good checks
+*** FLOP *** [Kd 9h As]
+lapiaz39 checks
+lucky_good checks
+neumohr checks
+K-l-K checks
+*** TURN *** [Kd 9h As][6c]
+lapiaz39 checks
+lucky_good checks
+neumohr checks
+K-l-K bets 100
+lapiaz39 folds
+lucky_good folds
+neumohr folds
+K-l-K shows [Qc 8d] (High card : Ace)
+K-l-K collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [Kd 9h As 6c]
+Seat 7: K-l-K showed [Qc 8d] and won 500 with High card : Ace
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 0 - HandId: #540379118596784129-3-1439199168 - Holdem no limit (50/100) - 2015/08/10 09:32:48 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #4 is the button
+Seat 1: BRINOU67 (19900)
+Seat 2: manggy94 (8150)
+Seat 3: Yazco (19350)
+Seat 4: lapiaz39 (19800)
+Seat 5: lucky_good (19900)
+Seat 6: neumohr (19250)
+Seat 7: K-l-K (33650)
+Seat 9: simba76170 (20000)
+*** ANTE/BLINDS ***
+lucky_good posts small blind 50
+neumohr posts big blind 100
+Dealt to manggy94 [Ah 2s]
+*** PRE-FLOP *** 
+K-l-K calls 100
+simba76170 folds
+BRINOU67 calls 100
+manggy94 raises 8050 to 8150 and is all-in
+Yazco folds
+lapiaz39 folds
+lucky_good folds
+neumohr folds
+K-l-K folds
+BRINOU67 calls 8050
+*** FLOP *** [7c 7h 2c]
+*** TURN *** [7c 7h 2c][6s]
+*** RIVER *** [7c 7h 2c 6s][6d]
+*** SHOW DOWN ***
+BRINOU67 shows [Ad 5c] (Two pairs : 7 and 6)
+manggy94 shows [Ah 2s] (Two pairs : 7 and 6)
+manggy94 collected 8275 from pot
+BRINOU67 collected 8275 from pot
+*** SUMMARY ***
+Total pot 16550 | No rake
+Board: [7c 7h 2c 6s 6d]
+Seat 1: BRINOU67 showed [Ad 5c] and won 8275 with Two pairs : 7 and 6
+Seat 2: manggy94 showed [Ah 2s] and won 8275 with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 0 - HandId: #540379118596784129-4-1439199212 - Holdem no limit (50/100) - 2015/08/10 09:33:32 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #5 is the button
+Seat 1: BRINOU67 (20025)
+Seat 2: manggy94 (8275)
+Seat 3: Yazco (19350)
+Seat 4: lapiaz39 (19800)
+Seat 5: lucky_good (19850)
+Seat 6: neumohr (19150)
+Seat 7: K-l-K (33550)
+Seat 8: pSYkoYOP34 (20000)
+Seat 9: simba76170 (20000)
+*** ANTE/BLINDS ***
+neumohr posts small blind 50
+K-l-K posts big blind 100
+Dealt to manggy94 [Qs 3d]
+*** PRE-FLOP *** 
+pSYkoYOP34 folds
+simba76170 folds
+BRINOU67 calls 100
+manggy94 folds
+Yazco calls 100
+lapiaz39 calls 100
+lucky_good folds
+neumohr folds
+K-l-K checks
+*** FLOP *** [6c Ts 9c]
+K-l-K checks
+BRINOU67 checks
+Yazco checks
+lapiaz39 checks
+*** TURN *** [6c Ts 9c][5d]
+K-l-K checks
+BRINOU67 checks
+Yazco checks
+lapiaz39 bets 100
+K-l-K folds
+BRINOU67 calls 100
+Yazco folds
+*** RIVER *** [6c Ts 9c 5d][7s]
+BRINOU67 bets 19200
+lapiaz39 folds
+BRINOU67 collected 19850 from pot
+*** SUMMARY ***
+Total pot 19850 | No rake
+Board: [6c Ts 9c 5d 7s]
+Seat 1: BRINOU67 won 19850
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 0 - HandId: #540379118596784129-5-1439199277 - Holdem no limit (50/100) - 2015/08/10 09:34:37 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #6 is the button
+Seat 1: BRINOU67 (20475)
+Seat 2: manggy94 (8275)
+Seat 3: Yazco (19250)
+Seat 4: lapiaz39 (19600)
+Seat 5: lucky_good (19850)
+Seat 6: neumohr (19100)
+Seat 7: K-l-K (33450)
+Seat 8: fati54800 (19900)
+*** ANTE/BLINDS ***
+K-l-K posts small blind 50
+fati54800 posts big blind 100
+Dealt to manggy94 [Ts 5c]
+*** PRE-FLOP *** 
+BRINOU67 calls 100
+manggy94 folds
+Yazco calls 100
+lapiaz39 calls 100
+lucky_good folds
+neumohr calls 100
+K-l-K calls 50
+fati54800 checks
+*** FLOP *** [2c 3d 3s]
+K-l-K checks
+fati54800 checks
+BRINOU67 checks
+Yazco checks
+lapiaz39 checks
+neumohr checks
+*** TURN *** [2c 3d 3s][Ac]
+K-l-K checks
+fati54800 checks
+BRINOU67 checks
+Yazco checks
+lapiaz39 checks
+neumohr checks
+*** RIVER *** [2c 3d 3s Ac][8c]
+K-l-K checks
+fati54800 checks
+BRINOU67 bets 100
+Yazco folds
+lapiaz39 folds
+neumohr folds
+K-l-K folds
+fati54800 calls 100
+*** SHOW DOWN ***
+fati54800 shows [Tc Qs] (One pair : 3)
+BRINOU67 shows [Jd 8h] (Two pairs : 8 and 3)
+BRINOU67 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [2c 3d 3s Ac 8c]
+Seat 1: BRINOU67 showed [Jd 8h] and won 800 with Two pairs : 8 and 3
+Seat 8: fati54800 (big blind) showed [Tc Qs] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 0 - HandId: #540379118596784129-6-1439199339 - Holdem no limit (50/100) - 2015/08/10 09:35:39 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #7 is the button
+Seat 1: BRINOU67 (21075)
+Seat 2: manggy94 (8275)
+Seat 3: Yazco (19150)
+Seat 4: lapiaz39 (19500)
+Seat 5: lucky_good (19850)
+Seat 6: neumohr (19000)
+Seat 8: fati54800 (19700)
+*** ANTE/BLINDS ***
+fati54800 posts small blind 50
+BRINOU67 posts big blind 100
+Dealt to manggy94 [2s Qc]
+*** PRE-FLOP *** 
+manggy94 folds
+Yazco folds
+lapiaz39 folds
+lucky_good folds
+neumohr calls 100
+fati54800 calls 50
+BRINOU67 checks
+*** FLOP *** [8d 7c Qh]
+fati54800 checks
+BRINOU67 checks
+neumohr checks
+*** TURN *** [8d 7c Qh][Jd]
+fati54800 checks
+BRINOU67 checks
+neumohr checks
+*** RIVER *** [8d 7c Qh Jd][8c]
+fati54800 checks
+BRINOU67 checks
+neumohr checks
+*** SHOW DOWN ***
+neumohr shows [5h 6c] (One pair : 8)
+fati54800 shows [Ts 5c] (One pair : 8)
+BRINOU67 shows [4h Kc] (One pair : 8)
+BRINOU67 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [8d 7c Qh Jd 8c]
+Seat 1: BRINOU67 (big blind) showed [4h Kc] and won 300 with One pair : 8
+Seat 6: neumohr showed [5h 6c] and lost with One pair : 8
+Seat 8: fati54800 (small blind) showed [Ts 5c] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 0 - HandId: #540379118596784129-7-1439199437 - Holdem no limit (50/100) - 2015/08/10 09:37:17 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #8 is the button
+Seat 1: BRINOU67 (21275)
+Seat 2: manggy94 (8275)
+Seat 3: Yazco (19150)
+Seat 4: lapiaz39 (19500)
+Seat 5: lucky_good (19850)
+Seat 7: tasdewams (20000)
+Seat 8: fati54800 (19600)
+Seat 9: 01remy01 (20000)
+*** ANTE/BLINDS ***
+BRINOU67 posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [Ks 3c]
+*** PRE-FLOP *** 
+Yazco folds
+lapiaz39 calls 100
+lucky_good calls 100
+tasdewams folds
+fati54800 calls 100
+BRINOU67 raises 100 to 200
+manggy94 calls 100
+lapiaz39 calls 100
+lucky_good calls 100
+fati54800 calls 100
+*** FLOP *** [5s 2d 9s]
+BRINOU67 bets 100
+manggy94 calls 100
+lapiaz39 calls 100
+lucky_good calls 100
+fati54800 calls 100
+*** TURN *** [5s 2d 9s][4c]
+BRINOU67 checks
+manggy94 checks
+lapiaz39 checks
+lucky_good bets 750
+fati54800 calls 750
+BRINOU67 calls 750
+manggy94 folds
+lapiaz39 calls 750
+*** RIVER *** [5s 2d 9s 4c][5c]
+BRINOU67 checks
+lapiaz39 bets 4500
+lucky_good calls 4500
+fati54800 folds
+BRINOU67 folds
+*** SHOW DOWN ***
+lucky_good shows [9h Ts] (Two pairs : 9 and 5)
+lapiaz39 shows [5h 7h] (Trips of 5)
+lapiaz39 collected 13500 from pot
+*** SUMMARY ***
+Total pot 13500 | No rake
+Board: [5s 2d 9s 4c 5c]
+Seat 4: lapiaz39 showed [5h 7h] and won 13500 with Trips of 5
+Seat 5: lucky_good showed [9h Ts] and lost with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 1 - HandId: #540379118596784129-8-1439199509 - Holdem no limit (75/150) - 2015/08/10 09:38:29 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #1 is the button
+Seat 1: BRINOU67 (20225)
+Seat 2: manggy94 (7975)
+Seat 3: Yazco (19150)
+Seat 4: lapiaz39 (27450)
+Seat 5: lucky_good (14300)
+Seat 7: tasdewams (20000)
+Seat 8: fati54800 (18550)
+Seat 9: 01remy01 (20000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 75
+Yazco posts big blind 150
+Dealt to manggy94 [8s Qd]
+*** PRE-FLOP *** 
+lapiaz39 calls 150
+lucky_good raises 14150 to 14300 and is all-in
+tasdewams folds
+fati54800 folds
+01remy01 folds
+BRINOU67 folds
+manggy94 folds
+Yazco folds
+lapiaz39 folds
+lucky_good collected 14675 from pot
+*** SUMMARY ***
+Total pot 14675 | No rake
+Seat 5: lucky_good won 14675
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 1 - HandId: #540379118596784129-9-1439199539 - Holdem no limit (75/150) - 2015/08/10 09:38:59 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #2 is the button
+Seat 1: BRINOU67 (20225)
+Seat 2: manggy94 (7900)
+Seat 3: Yazco (19000)
+Seat 4: lapiaz39 (27300)
+Seat 7: tasdewams (20000)
+Seat 8: fati54800 (18550)
+Seat 9: 01remy01 (20000)
+*** ANTE/BLINDS ***
+Yazco posts small blind 75
+lapiaz39 posts big blind 150
+Dealt to manggy94 [Qh Td]
+*** PRE-FLOP *** 
+tasdewams raises 1125 to 1275
+fati54800 calls 1275
+01remy01 calls 1275
+BRINOU67 folds
+manggy94 raises 6625 to 7900 and is all-in
+Yazco folds
+lapiaz39 folds
+tasdewams calls 6625
+fati54800 folds
+01remy01 calls 6625
+*** FLOP *** [Qs 2d 2c]
+tasdewams checks
+01remy01 checks
+*** TURN *** [Qs 2d 2c][8c]
+tasdewams checks
+01remy01 checks
+*** RIVER *** [Qs 2d 2c 8c][7c]
+tasdewams checks
+01remy01 checks
+*** SHOW DOWN ***
+tasdewams shows [Jd Ad] (One pair : 2)
+01remy01 shows [Ts Tc] (Two pairs : Tens and 2)
+manggy94 shows [Qh Td] (Two pairs : Queens and 2)
+manggy94 collected 25200 from pot
+*** SUMMARY ***
+Total pot 25200 | No rake
+Board: [Qs 2d 2c 8c 7c]
+Seat 2: manggy94 (button) showed [Qh Td] and won 25200 with Two pairs : Queens and 2
+Seat 7: tasdewams showed [Jd Ad] and lost with One pair : 2
+Seat 9: 01remy01 showed [Ts Tc] and lost with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 1 - HandId: #540379118596784129-10-1439199633 - Holdem no limit (75/150) - 2015/08/10 09:40:33 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #3 is the button
+Seat 1: BRINOU67 (20225)
+Seat 2: manggy94 (25200)
+Seat 3: Yazco (18925)
+Seat 5: kalickovith (22200)
+Seat 6: KHOR ANGAR (20000)
+Seat 7: tasdewams (12100)
+Seat 8: fati54800 (17275)
+Seat 9: 01remy01 (12100)
+*** ANTE/BLINDS ***
+kalickovith posts big blind 150
+Dealt to manggy94 [9d Qs]
+*** PRE-FLOP *** 
+KHOR ANGAR calls 150
+tasdewams raises 11950 to 12100 and is all-in
+fati54800 folds
+01remy01 folds
+BRINOU67 raises 8125 to 20225 and is all-in
+manggy94 folds
+Yazco folds
+kalickovith calls 20075
+KHOR ANGAR calls 19850 and is all-in
+*** FLOP *** [3s 9c Kd]
+*** TURN *** [3s 9c Kd][Kh]
+*** RIVER *** [3s 9c Kd Kh][7s]
+*** SHOW DOWN ***
+kalickovith shows [Jd 7c] (Two pairs : Kings and 7)
+tasdewams shows [Qc Qd] (Two pairs : Kings and Queens)
+BRINOU67 shows [Ad 9h] (Two pairs : Kings and 9)
+KHOR ANGAR shows [Ks 8s] (Trips of Kings)
+KHOR ANGAR collected 72100 from main pot
+BRINOU67 collected 450 from side pot 1
+*** SUMMARY ***
+Total pot 72550 | No rake
+Board: [3s 9c Kd Kh 7s]
+Seat 1: BRINOU67 showed [Ad 9h] and won 450 with Two pairs : Kings and 9
+Seat 5: kalickovith (big blind) showed [Jd 7c] and lost with Two pairs : Kings and 7
+Seat 6: KHOR ANGAR showed [Ks 8s] and won 72100 with Trips of Kings
+Seat 7: tasdewams showed [Qc Qd] and lost with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 1 - HandId: #540379118596784129-11-1439199691 - Holdem no limit (75/150) - 2015/08/10 09:41:31 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #4 is the button
+Seat 1: BRINOU67 (450)
+Seat 2: manggy94 (25200)
+Seat 3: Yazco (18925)
+Seat 5: kalickovith (1975)
+Seat 6: KHOR ANGAR (72100)
+Seat 8: fati54800 (17275)
+Seat 9: 01remy01 (12100)
+*** ANTE/BLINDS ***
+kalickovith posts small blind 75
+KHOR ANGAR posts big blind 150
+Dealt to manggy94 [2s Jh]
+*** PRE-FLOP *** 
+fati54800 calls 150
+01remy01 folds
+BRINOU67 raises 300 to 450 and is all-in
+manggy94 folds
+Yazco calls 450
+kalickovith calls 375
+KHOR ANGAR calls 300
+fati54800 calls 300
+*** FLOP *** [6d 2c Ah]
+kalickovith checks
+KHOR ANGAR bets 71650 and is all-in
+fati54800 folds
+Yazco folds
+kalickovith calls 1525 and is all-in
+*** TURN *** [6d 2c Ah][3d]
+*** RIVER *** [6d 2c Ah 3d][8c]
+*** SHOW DOWN ***
+BRINOU67 shows [7c 6h] (One pair : 6)
+kalickovith shows [8d 9d] (One pair : 8)
+KHOR ANGAR shows [9h Ac] (One pair : Aces)
+KHOR ANGAR collected 75425 from pot
+*** SUMMARY ***
+Total pot 75425 | No rake
+Board: [6d 2c Ah 3d 8c]
+Seat 1: BRINOU67 showed [7c 6h] and lost with One pair : 6
+Seat 5: kalickovith (small blind) showed [8d 9d] and lost with One pair : 8
+Seat 6: KHOR ANGAR (big blind) showed [9h Ac] and won 75425 with One pair : Aces
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 1 - HandId: #540379118596784129-12-1439199735 - Holdem no limit (75/150) - 2015/08/10 09:42:15 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #5 is the button
+Seat 2: manggy94 (25200)
+Seat 3: Yazco (18475)
+Seat 4: Cebuano (19850)
+Seat 6: KHOR ANGAR (75425)
+Seat 8: fati54800 (16825)
+Seat 9: 01remy01 (12100)
+*** ANTE/BLINDS ***
+KHOR ANGAR posts small blind 75
+fati54800 posts big blind 150
+Dealt to manggy94 [5c 7d]
+*** PRE-FLOP *** 
+01remy01 calls 150
+manggy94 folds
+Yazco calls 150
+KHOR ANGAR calls 75
+fati54800 checks
+*** FLOP *** [2s Td 2h]
+KHOR ANGAR checks
+fati54800 bets 600
+01remy01 folds
+Yazco calls 600
+KHOR ANGAR folds
+*** TURN *** [2s Td 2h][Ad]
+fati54800 bets 150
+Yazco raises 2100 to 2250
+fati54800 calls 2100
+*** RIVER *** [2s Td 2h Ad][Qd]
+fati54800 checks
+Yazco bets 15475 and is all-in
+fati54800 folds
+Yazco collected 21775 from pot
+*** SUMMARY ***
+Total pot 21775 | No rake
+Board: [2s Td 2h Ad Qd]
+Seat 3: Yazco won 21775
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 1 - HandId: #540379118596784129-13-1439199790 - Holdem no limit (75/150) - 2015/08/10 09:43:10 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #6 is the button
+Seat 1: Mareta65 (20000)
+Seat 2: manggy94 (25200)
+Seat 3: Yazco (21775)
+Seat 4: Cebuano (19850)
+Seat 6: KHOR ANGAR (75275)
+Seat 8: fati54800 (13825)
+Seat 9: 01remy01 (11950)
+*** ANTE/BLINDS ***
+fati54800 posts small blind 75
+01remy01 posts big blind 150
+Dealt to manggy94 [Ah 6h]
+*** PRE-FLOP *** 
+Mareta65 calls 150
+manggy94 raises 525 to 675
+Yazco folds
+Cebuano folds
+KHOR ANGAR folds
+fati54800 calls 600
+01remy01 folds
+Mareta65 calls 525
+*** FLOP *** [5s 9s 4h]
+fati54800 checks
+Mareta65 checks
+manggy94 bets 2175
+fati54800 calls 2175
+Mareta65 folds
+*** TURN *** [5s 9s 4h][2c]
+fati54800 bets 150
+manggy94 calls 150
+*** RIVER *** [5s 9s 4h 2c][9h]
+fati54800 bets 150
+manggy94 calls 150
+*** SHOW DOWN ***
+manggy94 shows [Ah 6h] (One pair : 9)
+fati54800 shows [5h 7d] (Two pairs : 9 and 5)
+fati54800 collected 7125 from pot
+*** SUMMARY ***
+Total pot 7125 | No rake
+Board: [5s 9s 4h 2c 9h]
+Seat 2: manggy94 showed [Ah 6h] and lost with One pair : 9
+Seat 8: fati54800 (small blind) showed [5h 7d] and won 7125 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 1 - HandId: #540379118596784129-14-1439199860 - Holdem no limit (75/150) - 2015/08/10 09:44:20 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #8 is the button
+Seat 1: Mareta65 (19325)
+Seat 2: manggy94 (22050)
+Seat 3: Yazco (21775)
+Seat 4: Cebuano (19850)
+Seat 5: SOURIS38 (18875)
+Seat 6: KHOR ANGAR (75275)
+Seat 8: fati54800 (17800)
+Seat 9: 01remy01 (11800)
+*** ANTE/BLINDS ***
+01remy01 posts small blind 75
+Mareta65 posts big blind 150
+Dealt to manggy94 [3s Qs]
+*** PRE-FLOP *** 
+manggy94 calls 150
+Yazco calls 150
+Cebuano folds
+SOURIS38 raises 300 to 450
+KHOR ANGAR folds
+fati54800 calls 450
+01remy01 folds
+Mareta65 folds
+manggy94 calls 300
+Yazco calls 300
+*** FLOP *** [Ks 4c 5h]
+manggy94 checks
+Yazco checks
+SOURIS38 bets 300
+fati54800 calls 300
+manggy94 folds
+Yazco calls 300
+*** TURN *** [Ks 4c 5h][3h]
+Yazco checks
+SOURIS38 checks
+fati54800 checks
+*** RIVER *** [Ks 4c 5h 3h][4s]
+Yazco checks
+SOURIS38 bets 600
+fati54800 folds
+Yazco folds
+SOURIS38 collected 3525 from pot
+*** SUMMARY ***
+Total pot 3525 | No rake
+Board: [Ks 4c 5h 3h 4s]
+Seat 5: SOURIS38 won 3525
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 1 - HandId: #540379118596784129-15-1439199925 - Holdem no limit (75/150) - 2015/08/10 09:45:25 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #9 is the button
+Seat 1: Mareta65 (19175)
+Seat 2: manggy94 (21600)
+Seat 3: Yazco (21025)
+Seat 4: Cebuano (19850)
+Seat 5: SOURIS38 (21050)
+Seat 6: KHOR ANGAR (75275)
+Seat 7: denis68600 (20000)
+Seat 8: fati54800 (17050)
+Seat 9: 01remy01 (11725)
+*** ANTE/BLINDS ***
+Mareta65 posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [5h 7s]
+*** PRE-FLOP *** 
+Yazco calls 150
+Cebuano folds
+SOURIS38 calls 150
+KHOR ANGAR folds
+denis68600 calls 150
+fati54800 calls 150
+01remy01 raises 11575 to 11725 and is all-in
+Mareta65 folds
+manggy94 folds
+Yazco calls 11575
+SOURIS38 folds
+denis68600 folds
+fati54800 calls 11575
+*** FLOP *** [8h Ad 2h]
+Yazco checks
+fati54800 checks
+*** TURN *** [8h Ad 2h][4c]
+Yazco checks
+fati54800 checks
+*** RIVER *** [8h Ad 2h 4c][Kh]
+Yazco checks
+fati54800 checks
+*** SHOW DOWN ***
+Yazco shows [Jd Qs] (High card : Ace)
+fati54800 shows [Qd Jc] (High card : Ace)
+01remy01 shows [9c 9d] (One pair : 9)
+01remy01 collected 35700 from pot
+*** SUMMARY ***
+Total pot 35700 | No rake
+Board: [8h Ad 2h 4c Kh]
+Seat 3: Yazco showed [Jd Qs] and lost with High card : Ace
+Seat 8: fati54800 showed [Qd Jc] and lost with High card : Ace
+Seat 9: 01remy01 (button) showed [9c 9d] and won 35700 with One pair : 9
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 2 - HandId: #540379118596784129-16-1439199991 - Holdem no limit (100/200) - 2015/08/10 09:46:31 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #1 is the button
+Seat 1: Mareta65 (19100)
+Seat 2: manggy94 (21450)
+Seat 3: Yazco (9300)
+Seat 4: Cebuano (19850)
+Seat 5: SOURIS38 (20900)
+Seat 6: KHOR ANGAR (75275)
+Seat 8: fati54800 (5325)
+Seat 9: 01remy01 (35700)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+Yazco posts big blind 200
+Dealt to manggy94 [9c 5d]
+*** PRE-FLOP *** 
+Cebuano folds
+SOURIS38 raises 600 to 800
+KHOR ANGAR folds
+fati54800 calls 800
+01remy01 folds
+Mareta65 folds
+manggy94 folds
+Yazco calls 600
+*** FLOP *** [5c 4d 4s]
+Yazco bets 2500
+SOURIS38 calls 2500
+fati54800 calls 2500
+*** TURN *** [5c 4d 4s][3d]
+Yazco bets 2765
+SOURIS38 folds
+fati54800 calls 2025 and is all-in
+*** RIVER *** [5c 4d 4s 3d][Ah]
+*** SHOW DOWN ***
+fati54800 shows [6d 9s] (One pair : 4)
+Yazco shows [Kc 4c] (Trips of 4)
+Yazco collected 14790 from pot
+*** SUMMARY ***
+Total pot 14790 | No rake
+Board: [5c 4d 4s 3d Ah]
+Seat 3: Yazco (big blind) showed [Kc 4c] and won 14790 with Trips of 4
+Seat 8: fati54800 showed [6d 9s] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 2 - HandId: #540379118596784129-17-1439200050 - Holdem no limit (100/200) - 2015/08/10 09:47:30 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #2 is the button
+Seat 1: Mareta65 (19100)
+Seat 2: manggy94 (21350)
+Seat 3: Yazco (18025)
+Seat 4: Cebuano (19850)
+Seat 5: SOURIS38 (17600)
+Seat 6: KHOR ANGAR (75275)
+Seat 9: 01remy01 (35700)
+*** ANTE/BLINDS ***
+Yazco posts small blind 100
+Cebuano posts big blind 200
+Dealt to manggy94 [2d Qc]
+*** PRE-FLOP *** 
+SOURIS38 raises 500 to 700
+KHOR ANGAR folds
+01remy01 folds
+Mareta65 calls 700
+manggy94 folds
+Yazco calls 600
+Cebuano folds
+*** FLOP *** [6s Jd 4s]
+Yazco checks
+SOURIS38 bets 400
+Mareta65 raises 5300 to 5700
+Yazco folds
+SOURIS38 folds
+Mareta65 shows [Jh Js] (Trips of Jacks)
+Mareta65 collected 8400 from pot
+*** SUMMARY ***
+Total pot 8400 | No rake
+Board: [6s Jd 4s]
+Seat 1: Mareta65 showed [Jh Js] and won 8400 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 2 - HandId: #540379118596784129-18-1439200107 - Holdem no limit (100/200) - 2015/08/10 09:48:27 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #3 is the button
+Seat 1: Mareta65 (21100)
+Seat 2: manggy94 (21350)
+Seat 3: Yazco (17325)
+Seat 4: Cebuano (19650)
+Seat 5: SOURIS38 (16500)
+Seat 6: KHOR ANGAR (75275)
+Seat 8: willow12_x (25250)
+Seat 9: 01remy01 (35700)
+*** ANTE/BLINDS ***
+Cebuano posts small blind 100
+SOURIS38 posts big blind 200
+Dealt to manggy94 [Ts 7c]
+*** PRE-FLOP *** 
+KHOR ANGAR folds
+willow12_x folds
+01remy01 calls 200
+Mareta65 calls 200
+manggy94 folds
+Yazco calls 200
+Cebuano raises 600 to 800
+SOURIS38 calls 600
+01remy01 folds
+Mareta65 calls 600
+Yazco calls 600
+*** FLOP *** [7d 6d 2c]
+Cebuano bets 1000
+SOURIS38 folds
+Mareta65 calls 1000
+Yazco raises 6400 to 7400
+Cebuano calls 6400
+Mareta65 folds
+*** TURN *** [7d 6d 2c][As]
+Cebuano checks
+Yazco checks
+*** RIVER *** [7d 6d 2c As][Qc]
+Cebuano bets 11450 and is all-in
+Yazco calls 9125 and is all-in
+*** SHOW DOWN ***
+Yazco shows [6s 2d] (Two pairs : 6 and 2)
+Cebuano shows [Qd Qh] (Trips of Queens)
+Cebuano collected 39775 from pot
+*** SUMMARY ***
+Total pot 39775 | No rake
+Board: [7d 6d 2c As Qc]
+Seat 3: Yazco (button) showed [6s 2d] and lost with Two pairs : 6 and 2
+Seat 4: Cebuano (small blind) showed [Qd Qh] and won 39775 with Trips of Queens
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 2 - HandId: #540379118596784129-19-1439200211 - Holdem no limit (100/200) - 2015/08/10 09:50:11 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #4 is the button
+Seat 1: Mareta65 (19300)
+Seat 2: manggy94 (21350)
+Seat 4: Cebuano (39775)
+Seat 5: SOURIS38 (15700)
+Seat 6: KHOR ANGAR (75275)
+Seat 7: chaliba88 (20000)
+Seat 8: willow12_x (25250)
+Seat 9: 01remy01 (35500)
+*** ANTE/BLINDS ***
+SOURIS38 posts small blind 100
+KHOR ANGAR posts big blind 200
+Dealt to manggy94 [8h 3s]
+*** PRE-FLOP *** 
+chaliba88 folds
+willow12_x folds
+01remy01 folds
+Mareta65 calls 200
+manggy94 folds
+Cebuano calls 200
+SOURIS38 calls 100
+KHOR ANGAR checks
+*** FLOP *** [Qd 3c 9d]
+SOURIS38 bets 400
+KHOR ANGAR folds
+Mareta65 calls 400
+Cebuano calls 400
+*** TURN *** [Qd 3c 9d][2c]
+SOURIS38 checks
+Mareta65 checks
+Cebuano checks
+*** RIVER *** [Qd 3c 9d 2c][Kd]
+SOURIS38 bets 400
+Mareta65 folds
+Cebuano folds
+SOURIS38 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [Qd 3c 9d 2c Kd]
+Seat 5: SOURIS38 (small blind) won 2400
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 2 - HandId: #540379118596784129-20-1439200354 - Holdem no limit (100/200) - 2015/08/10 09:52:34 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #5 is the button
+Seat 1: Mareta65 (18700)
+Seat 2: manggy94 (21350)
+Seat 4: Cebuano (39175)
+Seat 5: SOURIS38 (17100)
+Seat 6: KHOR ANGAR (75075)
+Seat 8: willow12_x (25250)
+Seat 9: 01remy01 (35500)
+*** ANTE/BLINDS ***
+KHOR ANGAR posts small blind 100
+willow12_x posts big blind 200
+Dealt to manggy94 [9d Kc]
+*** PRE-FLOP *** 
+01remy01 calls 200
+Mareta65 calls 200
+manggy94 calls 200
+Cebuano folds
+SOURIS38 calls 200
+KHOR ANGAR folds
+willow12_x checks
+*** FLOP *** [3h 2s 3c]
+willow12_x checks
+01remy01 checks
+Mareta65 checks
+manggy94 bets 21150 and is all-in
+SOURIS38 folds
+willow12_x folds
+01remy01 folds
+Mareta65 folds
+manggy94 collected 22250 from pot
+*** SUMMARY ***
+Total pot 22250 | No rake
+Board: [3h 2s 3c]
+Seat 2: manggy94 won 22250
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 2 - HandId: #540379118596784129-21-1439200431 - Holdem no limit (100/200) - 2015/08/10 09:53:51 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #6 is the button
+Seat 1: Mareta65 (18500)
+Seat 2: manggy94 (22250)
+Seat 4: Cebuano (39175)
+Seat 5: SOURIS38 (16900)
+Seat 6: KHOR ANGAR (74975)
+Seat 8: willow12_x (25050)
+Seat 9: 01remy01 (35300)
+*** ANTE/BLINDS ***
+willow12_x posts small blind 100
+01remy01 posts big blind 200
+Dealt to manggy94 [Qc Qh]
+*** PRE-FLOP *** 
+Mareta65 folds
+manggy94 raises 500 to 700
+Cebuano folds
+SOURIS38 calls 700
+KHOR ANGAR folds
+willow12_x folds
+01remy01 folds
+*** FLOP *** [Ts Td 4c]
+manggy94 bets 21550 and is all-in
+SOURIS38 folds
+manggy94 collected 23250 from pot
+*** SUMMARY ***
+Total pot 23250 | No rake
+Board: [Ts Td 4c]
+Seat 2: manggy94 won 23250
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 3 - HandId: #540379118596784129-22-1439200461 - Holdem no limit (150/300) - 2015/08/10 09:54:21 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #8 is the button
+Seat 1: Mareta65 (18500)
+Seat 2: manggy94 (23250)
+Seat 3: didierdylan1 (47150)
+Seat 4: Cebuano (39175)
+Seat 5: SOURIS38 (16200)
+Seat 6: KHOR ANGAR (74975)
+Seat 8: willow12_x (24950)
+Seat 9: 01remy01 (35100)
+*** ANTE/BLINDS ***
+01remy01 posts small blind 150
+Mareta65 posts big blind 300
+Dealt to manggy94 [5h Jd]
+*** PRE-FLOP *** 
+manggy94 folds
+didierdylan1 folds
+Cebuano calls 300
+SOURIS38 folds
+KHOR ANGAR folds
+willow12_x calls 300
+01remy01 calls 150
+Mareta65 checks
+*** FLOP *** [9c Th 7d]
+01remy01 checks
+Mareta65 checks
+Cebuano bets 300
+willow12_x folds
+01remy01 folds
+Mareta65 raises 2100 to 2400
+Cebuano calls 2100
+*** TURN *** [9c Th 7d][5c]
+Mareta65 bets 15800 and is all-in
+Cebuano folds
+Mareta65 collected 21800 from pot
+*** SUMMARY ***
+Total pot 21800 | No rake
+Board: [9c Th 7d 5c]
+Seat 1: Mareta65 (big blind) won 21800
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 3 - HandId: #540379118596784129-23-1439200802 - Holdem no limit (150/300) - 2015/08/10 10:00:02 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #9 is the button
+Seat 1: Mareta65 (21800)
+Seat 2: manggy94 (23250)
+Seat 3: didierdylan1 (47150)
+Seat 4: Cebuano (36475)
+Seat 5: SOURIS38 (16200)
+Seat 6: KHOR ANGAR (74975)
+Seat 7: rockyleking (20000)
+Seat 8: willow12_x (24650)
+Seat 9: 01remy01 (34800)
+*** ANTE/BLINDS ***
+Mareta65 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [6c Qd]
+*** PRE-FLOP *** 
+didierdylan1 folds
+Cebuano calls 300
+SOURIS38 raises 300 to 600
+KHOR ANGAR folds
+rockyleking folds
+willow12_x folds
+01remy01 calls 600
+Mareta65 folds
+manggy94 calls 300
+Cebuano calls 300
+*** FLOP *** [3s 2h 8h]
+manggy94 checks
+Cebuano checks
+SOURIS38 bets 450
+01remy01 folds
+manggy94 raises 3450 to 3900
+Cebuano folds
+SOURIS38 folds
+manggy94 collected 6900 from pot
+*** SUMMARY ***
+Total pot 6900 | No rake
+Board: [3s 2h 8h]
+Seat 2: manggy94 (big blind) won 6900
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 3 - HandId: #540379118596784129-24-1439200980 - Holdem no limit (150/300) - 2015/08/10 10:03:00 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #1 is the button
+Seat 1: Mareta65 (21650)
+Seat 2: manggy94 (25650)
+Seat 3: didierdylan1 (47150)
+Seat 4: Cebuano (35875)
+Seat 5: SOURIS38 (15150)
+Seat 6: KHOR ANGAR (74975)
+Seat 7: rockyleking (20000)
+Seat 8: willow12_x (24650)
+Seat 9: 01remy01 (34200)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+didierdylan1 posts big blind 300
+Dealt to manggy94 [5d 8h]
+*** PRE-FLOP *** 
+Cebuano calls 300
+SOURIS38 raises 1050 to 1350
+KHOR ANGAR folds
+rockyleking folds
+willow12_x folds
+01remy01 calls 1350
+Mareta65 folds
+manggy94 folds
+didierdylan1 calls 1050
+Cebuano folds
+*** FLOP *** [Ts Js 3d]
+didierdylan1 bets 4500
+SOURIS38 calls 4500
+01remy01 folds
+*** TURN *** [Ts Js 3d][Qh]
+didierdylan1 bets 13500
+SOURIS38 calls 9300 and is all-in
+*** RIVER *** [Ts Js 3d Qh][6d]
+*** SHOW DOWN ***
+SOURIS38 shows [Kc Td] (One pair : Tens)
+didierdylan1 shows [Jc 7c] (One pair : Jacks)
+didierdylan1 collected 36300 from pot
+*** SUMMARY ***
+Total pot 36300 | No rake
+Board: [Ts Js 3d Qh 6d]
+Seat 3: didierdylan1 (big blind) showed [Jc 7c] and won 36300 with One pair : Jacks
+Seat 5: SOURIS38 showed [Kc Td] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 3 - HandId: #540379118596784129-25-1439201041 - Holdem no limit (150/300) - 2015/08/10 10:04:01 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #2 is the button
+Seat 1: Mareta65 (21650)
+Seat 2: manggy94 (25500)
+Seat 3: didierdylan1 (64100)
+Seat 4: Cebuano (35575)
+Seat 6: KHOR ANGAR (74975)
+Seat 7: rockyleking (20000)
+Seat 8: willow12_x (24650)
+Seat 9: 01remy01 (32850)
+*** ANTE/BLINDS ***
+didierdylan1 posts small blind 150
+Cebuano posts big blind 300
+Dealt to manggy94 [2s 5c]
+*** PRE-FLOP *** 
+KHOR ANGAR folds
+rockyleking calls 300
+willow12_x folds
+01remy01 folds
+Mareta65 folds
+manggy94 folds
+didierdylan1 calls 150
+Cebuano checks
+*** FLOP *** [9d Qh As]
+didierdylan1 checks
+Cebuano bets 1800
+rockyleking folds
+didierdylan1 calls 1800
+*** TURN *** [9d Qh As][Kc]
+didierdylan1 checks
+Cebuano bets 1650
+didierdylan1 calls 1650
+*** RIVER *** [9d Qh As Kc][3c]
+didierdylan1 checks
+Cebuano bets 2250
+didierdylan1 calls 2250
+*** SHOW DOWN ***
+didierdylan1 shows [Ac 2c] (One pair : Aces)
+Cebuano shows [Ah 7s] (One pair : Aces)
+Cebuano collected 6150 from pot
+didierdylan1 collected 6150 from pot
+*** SUMMARY ***
+Total pot 12300 | No rake
+Board: [9d Qh As Kc 3c]
+Seat 3: didierdylan1 (small blind) showed [Ac 2c] and won 6150 with One pair : Aces
+Seat 4: Cebuano (big blind) showed [Ah 7s] and won 6150 with One pair : Aces
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 3 - HandId: #540379118596784129-26-1439201101 - Holdem no limit (150/300) - 2015/08/10 10:05:01 UTC
+Table: 'Deepstack Hold'em(125816818)#000' 9-max (play money) Seat #3 is the button
+Seat 2: manggy94 (25500)
+Seat 3: didierdylan1 (64250)
+Seat 4: Cebuano (35725)
+Seat 5: Bruceno57 (18800)
+Seat 6: KHOR ANGAR (74975)
+Seat 8: willow12_x (24650)
+Seat 9: 01remy01 (32850)
+*** ANTE/BLINDS ***
+Cebuano posts small blind 150
+Bruceno57 posts big blind 300
+Dealt to manggy94 [Qs Qd]
+*** PRE-FLOP *** 
+KHOR ANGAR folds
+willow12_x folds
+01remy01 calls 300
+manggy94 raises 1050 to 1350
+didierdylan1 folds
+Cebuano folds
+Bruceno57 folds
+01remy01 calls 1050
+*** FLOP *** [6d 5d 3h]
+01remy01 checks
+manggy94 bets 3150
+01remy01 calls 3150
+*** TURN *** [6d 5d 3h][2h]
+01remy01 checks
+manggy94 bets 21000 and is all-in
+01remy01 folds
+manggy94 collected 30450 from pot
+*** SUMMARY ***
+Total pot 30450 | No rake
+Board: [6d 5d 3h 2h]
+Seat 2: manggy94 won 30450
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 4 - HandId: #540379118596784130-29-1439201252 - Holdem no limit (25/150/300) - 2015/08/10 10:07:32 UTC
+Table: 'Deepstack Hold'em(125816818)#001' 9-max (play money) Seat #4 is the button
+Seat 1: Monqey (58800)
+Seat 2: K-l-K (27312)
+Seat 3: lepiaf_60180 (48600)
+Seat 4: neumohr (57450)
+Seat 5: theblackpawn (5238)
+Seat 6: rockyleking (19700)
+Seat 7: lapiaz39 (350)
+Seat 8: manggy94 (30450)
+Seat 9: MARTIN OUI (20000)
+*** ANTE/BLINDS ***
+theblackpawn posts ante 25
+rockyleking posts ante 25
+Monqey posts ante 25
+K-l-K posts ante 25
+lepiaf_60180 posts ante 25
+neumohr posts ante 25
+lapiaz39 posts ante 25
+manggy94 posts ante 25
+MARTIN OUI posts ante 25
+theblackpawn posts small blind 150
+rockyleking posts big blind 300
+Dealt to manggy94 [5h 4c]
+*** PRE-FLOP *** 
+lapiaz39 folds
+manggy94 folds
+MARTIN OUI calls 300
+Monqey calls 300
+K-l-K calls 300
+lepiaf_60180 calls 300
+neumohr folds
+theblackpawn folds
+rockyleking checks
+*** FLOP *** [8h Td Kh]
+rockyleking checks
+MARTIN OUI checks
+Monqey bets 300
+K-l-K calls 300
+lepiaf_60180 calls 300
+rockyleking calls 300
+MARTIN OUI folds
+*** TURN *** [8h Td Kh][9c]
+rockyleking checks
+Monqey bets 58175 and is all-in
+K-l-K folds
+lepiaf_60180 calls 47975 and is all-in
+rockyleking folds
+*** RIVER *** [8h Td Kh 9c][2c]
+*** SHOW DOWN ***
+Monqey shows [7d 6c] (Straight Ten high)
+lepiaf_60180 shows [Jc 7c] (Straight Jack high)
+lepiaf_60180 collected 99025 from main pot
+Monqey collected 10200 from side pot 1
+*** SUMMARY ***
+Total pot 109225 | No rake
+Board: [8h Td Kh 9c 2c]
+Seat 1: Monqey showed [7d 6c] and won 10200 with Straight Ten high
+Seat 3: lepiaf_60180 showed [Jc 7c] and won 99025 with Straight Jack high
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 4 - HandId: #540379118596784130-30-1439201353 - Holdem no limit (25/150/300) - 2015/08/10 10:09:13 UTC
+Table: 'Deepstack Hold'em(125816818)#001' 9-max (play money) Seat #5 is the button
+Seat 1: Monqey (10200)
+Seat 2: K-l-K (26687)
+Seat 3: lepiaf_60180 (99025)
+Seat 4: neumohr (57425)
+Seat 5: theblackpawn (5063)
+Seat 6: rockyleking (19075)
+Seat 7: lapiaz39 (325)
+Seat 8: manggy94 (30425)
+Seat 9: MARTIN OUI (19675)
+*** ANTE/BLINDS ***
+rockyleking posts ante 25
+lapiaz39 posts ante 25
+Monqey posts ante 25
+K-l-K posts ante 25
+lepiaf_60180 posts ante 25
+neumohr posts ante 25
+theblackpawn posts ante 25
+manggy94 posts ante 25
+MARTIN OUI posts ante 25
+rockyleking posts small blind 150
+lapiaz39 posts big blind 300 and is all-in
+Dealt to manggy94 [8h 3c]
+*** PRE-FLOP *** 
+manggy94 folds
+MARTIN OUI calls 300
+Monqey raises 300 to 600
+K-l-K calls 600
+lepiaf_60180 calls 600
+neumohr calls 600
+theblackpawn calls 600
+rockyleking calls 450
+MARTIN OUI calls 300
+*** FLOP *** [5d 9h Ts]
+rockyleking checks
+MARTIN OUI checks
+Monqey bets 9575 and is all-in
+K-l-K folds
+lepiaf_60180 folds
+neumohr folds
+theblackpawn folds
+rockyleking raises 8875 to 18450 and is all-in
+MARTIN OUI folds
+*** TURN *** [5d 9h Ts][3d]
+*** RIVER *** [5d 9h Ts 3d][7s]
+*** SHOW DOWN ***
+Monqey shows [4c 9c] (One pair : 9)
+rockyleking shows [8c Ah] (High card : Ace)
+lapiaz39 shows [Kd Kh] (One pair : Kings)
+lapiaz39 collected 2625 from main pot
+rockyleking collected 8875 from side pot 2
+Monqey collected 21250 from side pot 1
+*** SUMMARY ***
+Total pot 32750 | No rake
+Board: [5d 9h Ts 3d 7s]
+Seat 1: Monqey showed [4c 9c] and won 21250 with One pair : 9
+Seat 6: rockyleking (small blind) showed [8c Ah] and won 8875 with High card : Ace
+Seat 7: lapiaz39 (big blind) showed [Kd Kh] and won 2625 with One pair : Kings
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 4 - HandId: #540379118596784130-31-1439201410 - Holdem no limit (25/150/300) - 2015/08/10 10:10:10 UTC
+Table: 'Deepstack Hold'em(125816818)#001' 9-max (play money) Seat #6 is the button
+Seat 1: Monqey (21250)
+Seat 2: K-l-K (26062)
+Seat 3: lepiaf_60180 (98400)
+Seat 4: neumohr (56800)
+Seat 5: theblackpawn (4438)
+Seat 6: rockyleking (8875)
+Seat 7: lapiaz39 (2625)
+Seat 8: manggy94 (30400)
+Seat 9: MARTIN OUI (19050)
+*** ANTE/BLINDS ***
+lapiaz39 posts ante 25
+manggy94 posts ante 25
+Monqey posts ante 25
+K-l-K posts ante 25
+lepiaf_60180 posts ante 25
+neumohr posts ante 25
+theblackpawn posts ante 25
+rockyleking posts ante 25
+MARTIN OUI posts ante 25
+lapiaz39 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [As 7d]
+*** PRE-FLOP *** 
+MARTIN OUI calls 300
+Monqey calls 300
+K-l-K calls 300
+lepiaf_60180 calls 300
+neumohr calls 300
+theblackpawn calls 300
+rockyleking folds
+lapiaz39 folds
+manggy94 checks
+*** FLOP *** [2s Qc 8d]
+manggy94 checks
+MARTIN OUI bets 300
+Monqey calls 300
+K-l-K folds
+lepiaf_60180 folds
+neumohr folds
+theblackpawn calls 300
+manggy94 calls 300
+*** TURN *** [2s Qc 8d][Td]
+manggy94 checks
+MARTIN OUI bets 300
+Monqey calls 300
+theblackpawn raises 2950 to 3250
+manggy94 folds
+MARTIN OUI calls 2950
+Monqey folds
+*** RIVER *** [2s Qc 8d Td][Ks]
+MARTIN OUI checks
+theblackpawn bets 563 and is all-in
+MARTIN OUI calls 563
+*** SHOW DOWN ***
+MARTIN OUI shows [Qd Th] (Two pairs : Queens and Tens)
+theblackpawn shows [9h Jd] (Straight King high)
+theblackpawn collected 11601 from pot
+*** SUMMARY ***
+Total pot 11601 | No rake
+Board: [2s Qc 8d Td Ks]
+Seat 5: theblackpawn showed [9h Jd] and won 11601 with Straight King high
+Seat 9: MARTIN OUI showed [Qd Th] and lost with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 4 - HandId: #540379118596784138-3-1439201542 - Holdem no limit (25/150/300) - 2015/08/10 10:12:22 UTC
+Table: 'Deepstack Hold'em(125816818)#009' 9-max (play money) Seat #4 is the button
+Seat 1: Kojiro8888 (17175)
+Seat 2: manggy94 (29775)
+Seat 3: ixixi (20000)
+Seat 4: catoche1 (20450)
+Seat 5: sesto-elemen (20375)
+Seat 6: Krakkoott (19975)
+Seat 8: chpasjouer (20000)
+Seat 9: po13 (19200)
+*** ANTE/BLINDS ***
+sesto-elemen posts ante 25
+Krakkoott posts ante 25
+Kojiro8888 posts ante 25
+manggy94 posts ante 25
+ixixi posts ante 25
+catoche1 posts ante 25
+chpasjouer posts ante 25
+po13 posts ante 25
+sesto-elemen posts small blind 150
+Krakkoott posts big blind 300
+Dealt to manggy94 [6h Ah]
+*** PRE-FLOP *** 
+chpasjouer calls 300
+po13 calls 300
+Kojiro8888 folds
+manggy94 raises 1550 to 1850
+ixixi calls 1850
+catoche1 calls 1850
+sesto-elemen folds
+Krakkoott folds
+chpasjouer folds
+po13 calls 1550
+*** FLOP *** [Kc Tc Kh]
+po13 checks
+manggy94 bets 300
+ixixi folds
+catoche1 raises 4475 to 4775
+po13 folds
+manggy94 raises 4475 to 9250
+catoche1 raises 9325 to 18575 and is all-in
+manggy94 calls 9325
+*** TURN *** [Kc Tc Kh][5h]
+*** RIVER *** [Kc Tc Kh 5h][Ts]
+*** SHOW DOWN ***
+manggy94 shows [6h Ah] (Two pairs : Kings and Tens)
+catoche1 shows [Kd Qh] (Full of Kings and Tens)
+catoche1 collected 45500 from pot
+*** SUMMARY ***
+Total pot 45500 | No rake
+Board: [Kc Tc Kh 5h Ts]
+Seat 2: manggy94 showed [6h Ah] and lost with Two pairs : Kings and Tens
+Seat 4: catoche1 (button) showed [Kd Qh] and won 45500 with Full of Kings and Tens
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 9 + 1 level: 4 - HandId: #540379118596784138-4-1439201604 - Holdem no limit (25/150/300) - 2015/08/10 10:13:24 UTC
+Table: 'Deepstack Hold'em(125816818)#009' 9-max (play money) Seat #5 is the button
+Seat 1: Kojiro8888 (17150)
+Seat 2: manggy94 (9325)
+Seat 3: ixixi (18125)
+Seat 4: catoche1 (45500)
+Seat 5: sesto-elemen (20200)
+Seat 6: Krakkoott (19650)
+Seat 7: Phoceen13009 (20000)
+Seat 8: chpasjouer (19675)
+Seat 9: po13 (17325)
+*** ANTE/BLINDS ***
+Krakkoott posts ante 25
+Phoceen13009 posts ante 25
+Kojiro8888 posts ante 25
+manggy94 posts ante 25
+ixixi posts ante 25
+catoche1 posts ante 25
+sesto-elemen posts ante 25
+chpasjouer posts ante 25
+po13 posts ante 25
+Krakkoott posts small blind 150
+Phoceen13009 posts big blind 300
+Dealt to manggy94 [Qs Th]
+*** PRE-FLOP *** 
+chpasjouer calls 300
+po13 folds
+Kojiro8888 folds
+manggy94 raises 9000 to 9300 and is all-in
+ixixi folds
+catoche1 raises 36175 to 45475 and is all-in
+sesto-elemen folds
+Krakkoott folds
+Phoceen13009 folds
+chpasjouer folds
+*** FLOP *** [7c 9s Kd]
+*** TURN *** [7c 9s Kd][Ad]
+*** RIVER *** [7c 9s Kd Ad][Ac]
+*** SHOW DOWN ***
+manggy94 shows [Qs Th] (One pair : Aces)
+catoche1 shows [Kc Ah] (Full of Aces and Kings)
+catoche1 collected 55750 from pot
+*** SUMMARY ***
+Total pot 55750 | No rake
+Board: [7c 9s Kd Ad Ac]
+Seat 2: manggy94 showed [Qs Th] and lost with One pair : Aces
+Seat 4: catoche1 showed [Kc Ah] and won 55750 with Full of Aces and Kings
+
+

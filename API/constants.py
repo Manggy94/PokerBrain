@@ -66,7 +66,7 @@ class Action(PokerEnum):
     CALL = "call", "calls"
     RETURN = "return", "returned", "uncalled"
     WIN = "win", "won", "collected"
-    SHOW = ("show",)
+    SHOW = "show",
     MUCK = "don't show", "didn't show", "did not show", "mucks"
     THINK = ("seconds left to act",)
 
@@ -82,3 +82,11 @@ class Position(PokerEnum):
     BTN = "BTN", "bu", "button"
     SB = "SB", "small blind"
     BB = "BB", "big blind"
+
+
+class Street(PokerEnum):
+    PREFLOP = "PF", "Pf", "pf", "PREFLOP", "Preflop", "preflop", "Préflop", "préflop"
+    FLOP = "F", "f", "FLOP", "Flop", "flop"
+    TURN = "T", "t", "TURN", "Turn", "turn"
+    RIVER = "R", "r", "RIVER", "River", "river"
+    SHOWDOWN = "SD", 'Sd', "sd", "SHOWDOWN", "ShowDown", "Showdown", "showdown"

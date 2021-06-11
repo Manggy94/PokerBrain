@@ -1,0 +1,290 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #633932903692108089-1-1455708628 - Holdem no limit (10/20) - 2016/02/17 11:30:28 UTC
+Table: 'Freeroll(147599006)#312' 8-max (real money) Seat #5 is the button
+Seat 1: belgarion974 (3000)
+Seat 2: ericlyon (3000)
+Seat 3: Djak-bauer17 (3000)
+Seat 4: jeanpm59 (3000)
+Seat 5: ALGERIAN1967 (3000)
+Seat 6: manggy94 (3000)
+Seat 7: kad5313 (3000)
+Seat 8: del013 (3000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+kad5313 posts big blind 20
+Dealt to manggy94 [6h Jc]
+*** PRE-FLOP *** 
+del013 folds
+belgarion974 folds
+ericlyon folds
+Djak-bauer17 folds
+jeanpm59 calls 20
+ALGERIAN1967 folds
+manggy94 folds
+kad5313 checks
+*** FLOP *** [9d 2d Th]
+kad5313 checks
+jeanpm59 checks
+*** TURN *** [9d 2d Th][4s]
+kad5313 checks
+jeanpm59 checks
+*** RIVER *** [9d 2d Th 4s][6d]
+kad5313 checks
+jeanpm59 checks
+*** SHOW DOWN ***
+jeanpm59 shows [3d Kh] (High card : King)
+kad5313 shows [2s Qs] (One pair : 2)
+kad5313 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [9d 2d Th 4s 6d]
+Seat 4: jeanpm59 showed [3d Kh] and lost with High card : King
+Seat 7: kad5313 (big blind) showed [2s Qs] and won 50 with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #633932903692108089-2-1455708761 - Holdem no limit (10/20) - 2016/02/17 11:32:41 UTC
+Table: 'Freeroll(147599006)#312' 8-max (real money) Seat #6 is the button
+Seat 1: belgarion974 (3000)
+Seat 2: ericlyon (3000)
+Seat 3: Djak-bauer17 (3000)
+Seat 4: jeanpm59 (2980)
+Seat 5: ALGERIAN1967 (3000)
+Seat 6: manggy94 (2990)
+Seat 7: kad5313 (3030)
+Seat 8: del013 (3000)
+*** ANTE/BLINDS ***
+kad5313 posts small blind 10
+del013 posts big blind 20
+Dealt to manggy94 [5s Qs]
+*** PRE-FLOP *** 
+belgarion974 folds
+ericlyon folds
+Djak-bauer17 folds
+jeanpm59 calls 20
+ALGERIAN1967 folds
+manggy94 calls 20
+kad5313 folds
+del013 checks
+*** FLOP *** [8s 4c 9h]
+del013 bets 70
+jeanpm59 folds
+manggy94 calls 70
+*** TURN *** [8s 4c 9h][4d]
+del013 checks
+manggy94 bets 210
+del013 calls 210
+*** RIVER *** [8s 4c 9h 4d][2h]
+del013 checks
+manggy94 bets 2690 and is all-in
+del013 folds
+manggy94 collected 3320 from pot
+*** SUMMARY ***
+Total pot 3320 | No rake
+Board: [8s 4c 9h 4d 2h]
+Seat 6: manggy94 (button) won 3320
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #633932903692108089-3-1455708856 - Holdem no limit (15/30) - 2016/02/17 11:34:16 UTC
+Table: 'Freeroll(147599006)#312' 8-max (real money) Seat #7 is the button
+Seat 1: belgarion974 (3000)
+Seat 2: ericlyon (3000)
+Seat 3: Djak-bauer17 (3000)
+Seat 4: jeanpm59 (2960)
+Seat 5: ALGERIAN1967 (3000)
+Seat 6: manggy94 (3320)
+Seat 7: kad5313 (3020)
+Seat 8: del013 (2700)
+*** ANTE/BLINDS ***
+del013 posts small blind 15
+belgarion974 posts big blind 30
+Dealt to manggy94 [Td 7d]
+*** PRE-FLOP *** 
+ericlyon calls 30
+Djak-bauer17 folds
+jeanpm59 calls 30
+ALGERIAN1967 folds
+manggy94 calls 30
+kad5313 folds
+del013 folds
+belgarion974 raises 30 to 60
+ericlyon calls 30
+jeanpm59 calls 30
+manggy94 calls 30
+*** FLOP *** [6s 4d 4h]
+belgarion974 checks
+ericlyon checks
+jeanpm59 checks
+manggy94 checks
+*** TURN *** [6s 4d 4h][Js]
+belgarion974 checks
+ericlyon checks
+jeanpm59 checks
+manggy94 checks
+*** RIVER *** [6s 4d 4h Js][8s]
+belgarion974 checks
+ericlyon checks
+jeanpm59 checks
+manggy94 checks
+*** SHOW DOWN ***
+ericlyon shows [9s Ad] (One pair : 4)
+jeanpm59 shows [Ah 3c] (One pair : 4)
+manggy94 shows [Td 7d] (One pair : 4)
+belgarion974 shows [As Ts] (Flush Ace high)
+belgarion974 collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Board: [6s 4d 4h Js 8s]
+Seat 1: belgarion974 (big blind) showed [As Ts] and won 255 with Flush Ace high
+Seat 2: ericlyon showed [9s Ad] and lost with One pair : 4
+Seat 4: jeanpm59 showed [Ah 3c] and lost with One pair : 4
+Seat 6: manggy94 showed [Td 7d] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #633932903692108089-4-1455709019 - Holdem no limit (20/40) - 2016/02/17 11:36:59 UTC
+Table: 'Freeroll(147599006)#312' 8-max (real money) Seat #8 is the button
+Seat 1: belgarion974 (3195)
+Seat 2: ericlyon (2940)
+Seat 3: Djak-bauer17 (3000)
+Seat 4: jeanpm59 (2900)
+Seat 5: ALGERIAN1967 (3000)
+Seat 6: manggy94 (3260)
+Seat 7: kad5313 (3020)
+Seat 8: del013 (2685)
+*** ANTE/BLINDS ***
+belgarion974 posts small blind 20
+ericlyon posts big blind 40
+Dealt to manggy94 [3h 3s]
+*** PRE-FLOP *** 
+Djak-bauer17 folds
+jeanpm59 calls 40
+ALGERIAN1967 folds
+manggy94 raises 140 to 180
+kad5313 folds
+del013 folds
+belgarion974 folds
+ericlyon folds
+jeanpm59 calls 140
+*** FLOP *** [As 5s Jh]
+jeanpm59 checks
+manggy94 bets 420
+jeanpm59 folds
+manggy94 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [As 5s Jh]
+Seat 6: manggy94 won 840
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #633932903692108089-5-1455709088 - Holdem no limit (20/40) - 2016/02/17 11:38:08 UTC
+Table: 'Freeroll(147599006)#312' 8-max (real money) Seat #1 is the button
+Seat 1: belgarion974 (3175)
+Seat 2: ericlyon (2900)
+Seat 3: Djak-bauer17 (3000)
+Seat 4: jeanpm59 (2720)
+Seat 5: ALGERIAN1967 (3000)
+Seat 6: manggy94 (3500)
+Seat 7: kad5313 (3020)
+Seat 8: del013 (2685)
+*** ANTE/BLINDS ***
+ericlyon posts small blind 20
+Djak-bauer17 posts big blind 40
+Dealt to manggy94 [Jh 6c]
+*** PRE-FLOP *** 
+jeanpm59 calls 40
+ALGERIAN1967 folds
+manggy94 folds
+kad5313 calls 40
+del013 folds
+belgarion974 calls 40
+ericlyon calls 20
+Djak-bauer17 folds
+*** FLOP *** [8s Th Ah]
+ericlyon checks
+jeanpm59 checks
+kad5313 bets 200
+belgarion974 calls 200
+ericlyon folds
+jeanpm59 folds
+*** TURN *** [8s Th Ah][Qd]
+kad5313 bets 240
+belgarion974 calls 240
+*** RIVER *** [8s Th Ah Qd][9s]
+kad5313 bets 300
+belgarion974 folds
+kad5313 collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Board: [8s Th Ah Qd 9s]
+Seat 7: kad5313 won 1380
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #633932903692108089-6-1455709218 - Holdem no limit (30/60) - 2016/02/17 11:40:18 UTC
+Table: 'Freeroll(147599006)#312' 8-max (real money) Seat #2 is the button
+Seat 1: belgarion974 (2695)
+Seat 2: ericlyon (2860)
+Seat 3: Djak-bauer17 (2960)
+Seat 4: jeanpm59 (2680)
+Seat 5: ALGERIAN1967 (3000)
+Seat 6: manggy94 (3500)
+Seat 7: kad5313 (3620)
+Seat 8: del013 (2685)
+*** ANTE/BLINDS ***
+Djak-bauer17 posts small blind 30
+jeanpm59 posts big blind 60
+Dealt to manggy94 [Jd 4c]
+*** PRE-FLOP *** 
+ALGERIAN1967 folds
+manggy94 folds
+kad5313 folds
+del013 raises 150 to 210
+belgarion974 calls 210
+ericlyon folds
+Djak-bauer17 folds
+jeanpm59 calls 150
+*** FLOP *** [3s 9h Qc]
+jeanpm59 checks
+del013 bets 2475 and is all-in
+belgarion974 folds
+jeanpm59 folds
+del013 collected 3135 from pot
+*** SUMMARY ***
+Total pot 3135 | No rake
+Board: [3s 9h Qc]
+Seat 8: del013 won 3135
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #633932903692108089-7-1455709272 - Holdem no limit (30/60) - 2016/02/17 11:41:12 UTC
+Table: 'Freeroll(147599006)#312' 8-max (real money) Seat #3 is the button
+Seat 1: belgarion974 (2485)
+Seat 2: ericlyon (2860)
+Seat 3: Djak-bauer17 (2930)
+Seat 4: jeanpm59 (2470)
+Seat 5: ALGERIAN1967 (3000)
+Seat 6: manggy94 (3500)
+Seat 7: kad5313 (3620)
+Seat 8: del013 (3135)
+*** ANTE/BLINDS ***
+jeanpm59 posts small blind 30
+ALGERIAN1967 posts big blind 60
+Dealt to manggy94 [Qc Ad]
+*** PRE-FLOP *** 
+manggy94 raises 60 to 120
+kad5313 folds
+del013 folds
+belgarion974 folds
+ericlyon folds
+Djak-bauer17 folds
+jeanpm59 calls 90
+ALGERIAN1967 calls 60
+*** FLOP *** [7d Js 8c]
+jeanpm59 checks
+ALGERIAN1967 checks
+manggy94 bets 360
+jeanpm59 folds
+ALGERIAN1967 folds
+manggy94 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [7d Js 8c]
+Seat 6: manggy94 won 720
+
+

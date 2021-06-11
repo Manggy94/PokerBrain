@@ -1,0 +1,60 @@
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 2 - HandId: #662028573992812549-30-1460578058 - Holdem no limit (20/40) - 2016/04/13 20:07:38 UTC
+Table: 'Déglingos(154140539)#004' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (500)
+Seat 2: TITOUT30 (870)
+Seat 3: mat15 (1875)
+*** ANTE/BLINDS ***
+TITOUT30 posts small blind 20
+mat15 posts big blind 40
+*** PRE-FLOP *** 
+TITOUT30 calls 20
+mat15 checks
+*** FLOP *** [7d Tc 8s]
+mat15 checks
+TITOUT30 checks
+*** TURN *** [7d Tc 8s][2h]
+mat15 bets 80
+TITOUT30 calls 80
+*** RIVER *** [7d Tc 8s 2h][Qc]
+mat15 checks
+TITOUT30 checks
+*** SHOW DOWN ***
+TITOUT30 shows [2d Ad] (One pair : 2)
+mat15 shows [3h Th] (One pair : Tens)
+mat15 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [7d Tc 8s 2h Qc]
+Seat 2: TITOUT30 (small blind) (button) showed [2d Ad] and lost with One pair : 2
+Seat 3: mat15 (big blind) showed [3h Th] and won 240 with One pair : Tens
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 2 - HandId: #662028573992812549-31-1460578091 - Holdem no limit (20/40) - 2016/04/13 20:08:11 UTC
+Table: 'Déglingos(154140539)#004' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (500)
+Seat 2: TITOUT30 (750)
+Seat 3: mat15 (1995)
+*** ANTE/BLINDS ***
+mat15 posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [8h Ac]
+*** PRE-FLOP *** 
+TITOUT30 calls 40
+mat15 calls 20
+manggy94 raises 460 to 500 and is all-in
+TITOUT30 calls 460
+mat15 folds
+*** FLOP *** [2h 7d Qs]
+*** TURN *** [2h 7d Qs][4d]
+*** RIVER *** [2h 7d Qs 4d][5s]
+*** SHOW DOWN ***
+manggy94 shows [8h Ac] (High card : Ace)
+TITOUT30 shows [Qd Kd] (One pair : Queens)
+TITOUT30 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [2h 7d Qs 4d 5s]
+Seat 1: manggy94 (big blind) showed [8h Ac] and lost with High card : Ace
+Seat 2: TITOUT30 (button) showed [Qd Kd] and won 1040 with One pair : Queens
+
+

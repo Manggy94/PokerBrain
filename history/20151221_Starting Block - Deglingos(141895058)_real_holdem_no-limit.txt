@@ -1,0 +1,119 @@
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #609434633574023169-1-1450727312 - Holdem no limit (10/20) - 2015/12/21 19:48:32 UTC
+Table: 'Starting Block - Deglingos(141895058)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Gilardino57 (500)
+Seat 2: bruno42300 (500)
+Seat 3: ryanivey (500)
+Seat 4: Francois 112 (500)
+Seat 5: thctiti (500)
+Seat 6: PL02 (500)
+Seat 7: Octopus68 (500)
+Seat 8: 13MIGthi (500)
+Seat 9: manggy94 (500)
+Seat 10: JoRiS-L (500)
+*** ANTE/BLINDS ***
+bruno42300 posts small blind 10
+ryanivey posts big blind 20
+Dealt to manggy94 [8h 3s]
+*** PRE-FLOP *** 
+Francois 112 raises 480 to 500 and is all-in
+thctiti folds
+PL02 folds
+Octopus68 folds
+13MIGthi calls 500 and is all-in
+manggy94 folds
+JoRiS-L calls 500 and is all-in
+Gilardino57 folds
+bruno42300 calls 490 and is all-in
+ryanivey folds
+*** FLOP *** [6c Ks Kd]
+*** TURN *** [6c Ks Kd][4s]
+*** RIVER *** [6c Ks Kd 4s][Qs]
+*** SHOW DOWN ***
+bruno42300 shows [6d Qd] (Two pairs : Kings and Queens)
+13MIGthi shows [2c Qh] (Two pairs : Kings and Queens)
+JoRiS-L shows [9h Ad] (One pair : Kings)
+Francois 112 shows [5s Kh] (Trips of Kings)
+Francois 112 collected 2020 from pot
+*** SUMMARY ***
+Total pot 2020 | No rake
+Board: [6c Ks Kd 4s Qs]
+Seat 2: bruno42300 (small blind) showed [6d Qd] and lost with Two pairs : Kings and Queens
+Seat 4: Francois 112 showed [5s Kh] and won 2020 with Trips of Kings
+Seat 8: 13MIGthi showed [2c Qh] and lost with Two pairs : Kings and Queens
+Seat 10: JoRiS-L showed [9h Ad] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #609434633574023169-2-1450727397 - Holdem no limit (10/20) - 2015/12/21 19:49:57 UTC
+Table: 'Starting Block - Deglingos(141895058)#0' 10-max (real money) Seat #2 is the button
+Seat 1: Gilardino57 (500)
+Seat 3: ryanivey (480)
+Seat 4: Francois 112 (2020)
+Seat 5: thctiti (500)
+Seat 6: PL02 (500)
+Seat 7: Octopus68 (500)
+Seat 9: manggy94 (500)
+*** ANTE/BLINDS ***
+ryanivey posts small blind 10
+Francois 112 posts big blind 20
+Dealt to manggy94 [5h Kd]
+*** PRE-FLOP *** 
+thctiti raises 480 to 500 and is all-in
+PL02 calls 500 and is all-in
+Octopus68 calls 500 and is all-in
+manggy94 folds
+Gilardino57 folds
+ryanivey folds
+Francois 112 raises 1520 to 2020 and is all-in
+*** FLOP *** [Js 9c 8h]
+*** TURN *** [Js 9c 8h][Ts]
+*** RIVER *** [Js 9c 8h Ts][3h]
+*** SHOW DOWN ***
+thctiti shows [Ks 4d] (High card : King)
+PL02 shows [6h Kc] (High card : King)
+Octopus68 shows [Kh 7c] (Straight Jack high)
+Francois 112 shows [Ad Jc] (One pair : Jacks)
+Francois 112 collected 1520 from side pot 1
+Octopus68 collected 2010 from main pot
+*** SUMMARY ***
+Total pot 3530 | No rake
+Board: [Js 9c 8h Ts 3h]
+Seat 4: Francois 112 (big blind) showed [Ad Jc] and won 1520 with One pair : Jacks
+Seat 5: thctiti showed [Ks 4d] and lost with High card : King
+Seat 6: PL02 showed [6h Kc] and lost with High card : King
+Seat 7: Octopus68 showed [Kh 7c] and won 2010 with Straight Jack high
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #609434633574023169-3-1450727445 - Holdem no limit (10/20) - 2015/12/21 19:50:45 UTC
+Table: 'Starting Block - Deglingos(141895058)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Gilardino57 (500)
+Seat 3: ryanivey (470)
+Seat 4: Francois 112 (1520)
+Seat 7: Octopus68 (2010)
+Seat 9: manggy94 (500)
+*** ANTE/BLINDS ***
+Francois 112 posts small blind 10
+Octopus68 posts big blind 20
+Dealt to manggy94 [5d 5h]
+*** PRE-FLOP *** 
+manggy94 raises 480 to 500 and is all-in
+Gilardino57 folds
+ryanivey folds
+Francois 112 calls 490
+Octopus68 calls 480
+*** FLOP *** [8c 7h Kc]
+Francois 112 checks
+Octopus68 bets 1510 and is all-in
+Francois 112 folds
+*** TURN *** [8c 7h Kc][Js]
+*** RIVER *** [8c 7h Kc Js][Th]
+*** SHOW DOWN ***
+manggy94 shows [5d 5h] (One pair : 5)
+Octopus68 shows [9c 8d] (Straight Jack high)
+Octopus68 collected 3010 from pot
+*** SUMMARY ***
+Total pot 3010 | No rake
+Board: [8c 7h Kc Js Th]
+Seat 7: Octopus68 (big blind) showed [9c 8d] and won 3010 with Straight Jack high
+Seat 9: manggy94 showed [5d 5h] and lost with One pair : 5
+
+

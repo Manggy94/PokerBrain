@@ -1,0 +1,499 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #713500080543367569-7-1471379080 - Holdem no limit (30/60) - 2016/08/16 20:24:40 UTC
+Table: 'Freeroll(166124683)#400' 6-max (real money) Seat #5 is the button
+Seat 1: mick63000 (2965)
+Seat 2: Fish.Moi (4258)
+Seat 3: LudoP50 (3000)
+Seat 4: manggy94 (3000)
+Seat 5: Tinms888 (6010)
+Seat 6: wyattaigle (4767)
+*** ANTE/BLINDS ***
+wyattaigle posts small blind 30
+mick63000 posts big blind 60
+Dealt to manggy94 [7h 3s]
+*** PRE-FLOP *** 
+Fish.Moi folds
+LudoP50 folds
+manggy94 folds
+Tinms888 raises 240 to 300
+wyattaigle raises 4467 to 4767 and is all-in
+mick63000 folds
+Tinms888 raises 1243 to 6010 and is all-in
+*** FLOP *** [4s 9s 3c]
+*** TURN *** [4s 9s 3c][Td]
+*** RIVER *** [4s 9s 3c Td][5c]
+*** SHOW DOWN ***
+wyattaigle shows [8c Ad] (High card : Ace)
+Tinms888 shows [2h 2d] (One pair : 2)
+Tinms888 collected 10837 from pot
+*** SUMMARY ***
+Total pot 10837 | No rake
+Board: [4s 9s 3c Td 5c]
+Seat 5: Tinms888 (button) showed [2h 2d] and won 10837 with One pair : 2
+Seat 6: wyattaigle (small blind) showed [8c Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #713500080543367569-8-1471379107 - Holdem no limit (30/60) - 2016/08/16 20:25:07 UTC
+Table: 'Freeroll(166124683)#400' 6-max (real money) Seat #6 is the button
+Seat 1: mick63000 (2905)
+Seat 2: Fish.Moi (4258)
+Seat 3: LudoP50 (3000)
+Seat 4: manggy94 (3000)
+Seat 5: Tinms888 (10837)
+Seat 6: Evebb7 (3000)
+*** ANTE/BLINDS ***
+mick63000 posts small blind 30
+Fish.Moi posts big blind 60
+Dealt to manggy94 [Ad 5d]
+*** PRE-FLOP *** 
+LudoP50 folds
+manggy94 raises 150 to 210
+Tinms888 calls 210
+mick63000 folds
+Fish.Moi calls 150
+*** FLOP *** [3d 6h 8s]
+Fish.Moi checks
+manggy94 bets 660
+Tinms888 folds
+Fish.Moi folds
+manggy94 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Board: [3d 6h 8s]
+Seat 4: manggy94 won 1320
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #713500080543367569-9-1471379134 - Holdem no limit (30/60) - 2016/08/16 20:25:34 UTC
+Table: 'Freeroll(166124683)#400' 6-max (real money) Seat #1 is the button
+Seat 1: mick63000 (2875)
+Seat 2: Fish.Moi (4048)
+Seat 3: LudoP50 (3000)
+Seat 4: manggy94 (3450)
+Seat 5: Tinms888 (10627)
+Seat 6: Evebb7 (3000)
+*** ANTE/BLINDS ***
+Fish.Moi posts small blind 30
+LudoP50 posts big blind 60
+Dealt to manggy94 [Jd 5d]
+*** PRE-FLOP *** 
+manggy94 folds
+Tinms888 calls 60
+Evebb7 folds
+mick63000 folds
+Fish.Moi calls 30
+LudoP50 folds
+*** FLOP *** [4h Kc Kd]
+Fish.Moi checks
+Tinms888 bets 135
+Fish.Moi folds
+Tinms888 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Board: [4h Kc Kd]
+Seat 5: Tinms888 won 315
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #713500080543367569-10-1471379217 - Holdem no limit (30/60) - 2016/08/16 20:26:57 UTC
+Table: 'Freeroll(166124683)#400' 6-max (real money) Seat #2 is the button
+Seat 1: mick63000 (2875)
+Seat 2: Fish.Moi (3988)
+Seat 3: LudoP50 (2940)
+Seat 4: manggy94 (3450)
+Seat 5: Tinms888 (10747)
+Seat 6: Evebb7 (3000)
+*** ANTE/BLINDS ***
+LudoP50 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [8d 7d]
+*** PRE-FLOP *** 
+Tinms888 folds
+Evebb7 raises 60 to 120
+mick63000 folds
+Fish.Moi raises 60 to 180
+LudoP50 folds
+manggy94 calls 120
+Evebb7 raises 60 to 240
+Fish.Moi calls 60
+manggy94 calls 60
+*** FLOP *** [2d 4d Jc]
+manggy94 bets 375
+Evebb7 calls 375
+Fish.Moi folds
+*** TURN *** [2d 4d Jc][8s]
+manggy94 bets 750
+Evebb7 raises 750 to 1500
+manggy94 calls 750
+*** RIVER *** [2d 4d Jc 8s][7h]
+manggy94 bets 1335 and is all-in
+Evebb7 calls 885 and is all-in
+*** SHOW DOWN ***
+Evebb7 shows [Kh Ks] (One pair : Kings)
+manggy94 shows [8d 7d] (Two pairs : 8 and 7)
+manggy94 collected 6720 from pot
+*** SUMMARY ***
+Total pot 6720 | No rake
+Board: [2d 4d Jc 8s 7h]
+Seat 4: manggy94 (big blind) showed [8d 7d] and won 6720 with Two pairs : 8 and 7
+Seat 6: Evebb7 showed [Kh Ks] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #713500080543367569-11-1471379291 - Holdem no limit (40/80) - 2016/08/16 20:28:11 UTC
+Table: 'Freeroll(166124683)#400' 6-max (real money) Seat #3 is the button
+Seat 1: mick63000 (2875)
+Seat 2: Fish.Moi (3748)
+Seat 3: LudoP50 (2910)
+Seat 4: manggy94 (6720)
+Seat 5: Tinms888 (10747)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+Tinms888 posts big blind 80
+Dealt to manggy94 [7c 5c]
+*** PRE-FLOP *** 
+mick63000 calls 80
+Fish.Moi raises 100 to 180
+LudoP50 folds
+manggy94 calls 140
+Tinms888 raises 10567 to 10747 and is all-in
+mick63000 folds
+Fish.Moi folds
+manggy94 folds
+Tinms888 collected 11187 from pot
+*** SUMMARY ***
+Total pot 11187 | No rake
+Seat 5: Tinms888 (big blind) won 11187
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #713500080543367569-12-1471379328 - Holdem no limit (40/80) - 2016/08/16 20:28:48 UTC
+Table: 'Freeroll(166124683)#400' 6-max (real money) Seat #4 is the button
+Seat 1: mick63000 (2795)
+Seat 2: Fish.Moi (3568)
+Seat 3: LudoP50 (2910)
+Seat 4: manggy94 (6540)
+Seat 5: Tinms888 (11187)
+*** ANTE/BLINDS ***
+Tinms888 posts small blind 40
+mick63000 posts big blind 80
+Dealt to manggy94 [5h 3h]
+*** PRE-FLOP *** 
+Fish.Moi folds
+LudoP50 folds
+manggy94 folds
+Tinms888 calls 40
+mick63000 checks
+*** FLOP *** [6s 2c Td]
+Tinms888 bets 160
+mick63000 calls 160
+*** TURN *** [6s 2c Td][Jh]
+Tinms888 bets 360
+mick63000 calls 360
+*** RIVER *** [6s 2c Td Jh][6h]
+Tinms888 bets 1580
+mick63000 raises 615 to 2195 and is all-in
+Tinms888 calls 615
+*** SHOW DOWN ***
+Tinms888 shows [9d Ah] (One pair : 6)
+mick63000 shows [6c 7h] (Trips of 6)
+mick63000 collected 5590 from pot
+*** SUMMARY ***
+Total pot 5590 | No rake
+Board: [6s 2c Td Jh 6h]
+Seat 1: mick63000 (big blind) showed [6c 7h] and won 5590 with Trips of 6
+Seat 5: Tinms888 (small blind) showed [9d Ah] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #713500080543367569-13-1471379388 - Holdem no limit (40/80) - 2016/08/16 20:29:48 UTC
+Table: 'Freeroll(166124683)#400' 6-max (real money) Seat #5 is the button
+Seat 1: mick63000 (5590)
+Seat 2: Fish.Moi (3568)
+Seat 3: LudoP50 (2910)
+Seat 4: manggy94 (6540)
+Seat 5: Tinms888 (8392)
+*** ANTE/BLINDS ***
+mick63000 posts small blind 40
+Fish.Moi posts big blind 80
+Dealt to manggy94 [8d 4d]
+*** PRE-FLOP *** 
+LudoP50 folds
+manggy94 calls 80
+Tinms888 folds
+mick63000 raises 80 to 160
+Fish.Moi calls 80
+manggy94 calls 80
+*** FLOP *** [9d 7c Js]
+mick63000 bets 240
+Fish.Moi calls 240
+manggy94 folds
+*** TURN *** [9d 7c Js][7h]
+mick63000 bets 320
+Fish.Moi calls 320
+*** RIVER *** [9d 7c Js 7h][6h]
+mick63000 checks
+Fish.Moi bets 1200
+mick63000 calls 1200
+*** SHOW DOWN ***
+mick63000 shows [Ks 9h] (Two pairs : 9 and 7)
+Fish.Moi shows [5d 7d] (Trips of 7)
+Fish.Moi collected 4000 from pot
+*** SUMMARY ***
+Total pot 4000 | No rake
+Board: [9d 7c Js 7h 6h]
+Seat 1: mick63000 (small blind) showed [Ks 9h] and lost with Two pairs : 9 and 7
+Seat 2: Fish.Moi (big blind) showed [5d 7d] and won 4000 with Trips of 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #713500080543367569-14-1471379454 - Holdem no limit (60/120) - 2016/08/16 20:30:54 UTC
+Table: 'Freeroll(166124683)#400' 6-max (real money) Seat #1 is the button
+Seat 1: mick63000 (3670)
+Seat 2: Fish.Moi (5648)
+Seat 3: LudoP50 (2910)
+Seat 4: manggy94 (6380)
+Seat 5: Tinms888 (8392)
+Seat 6: steph08200 (5950)
+*** ANTE/BLINDS ***
+Fish.Moi posts small blind 60
+LudoP50 posts big blind 120
+Dealt to manggy94 [8h 9s]
+*** PRE-FLOP *** 
+manggy94 calls 120
+Tinms888 folds
+steph08200 calls 120
+mick63000 folds
+Fish.Moi calls 60
+LudoP50 folds
+*** FLOP *** [Qd Kh 3h]
+Fish.Moi checks
+manggy94 checks
+steph08200 checks
+*** TURN *** [Qd Kh 3h][Kd]
+Fish.Moi checks
+manggy94 checks
+steph08200 checks
+*** RIVER *** [Qd Kh 3h Kd][Jh]
+Fish.Moi checks
+manggy94 bets 240
+steph08200 folds
+Fish.Moi folds
+manggy94 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Qd Kh 3h Kd Jh]
+Seat 4: manggy94 won 720
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #713500080543367569-15-1471379515 - Holdem no limit (60/120) - 2016/08/16 20:31:55 UTC
+Table: 'Freeroll(166124683)#400' 6-max (real money) Seat #2 is the button
+Seat 1: mick63000 (3670)
+Seat 2: Fish.Moi (5528)
+Seat 3: LudoP50 (2790)
+Seat 4: manggy94 (6740)
+Seat 5: Tinms888 (8392)
+Seat 6: steph08200 (5830)
+*** ANTE/BLINDS ***
+LudoP50 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [5s 9h]
+*** PRE-FLOP *** 
+Tinms888 raises 120 to 240
+steph08200 folds
+mick63000 calls 240
+Fish.Moi calls 240
+LudoP50 folds
+manggy94 folds
+*** FLOP *** [Th 4s 4d]
+Tinms888 checks
+mick63000 bets 300
+Fish.Moi folds
+Tinms888 raises 7852 to 8152 and is all-in
+mick63000 folds
+Tinms888 collected 9352 from pot
+*** SUMMARY ***
+Total pot 9352 | No rake
+Board: [Th 4s 4d]
+Seat 5: Tinms888 won 9352
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #713500080543367569-16-1471379563 - Holdem no limit (60/120) - 2016/08/16 20:32:43 UTC
+Table: 'Freeroll(166124683)#400' 6-max (real money) Seat #3 is the button
+Seat 1: mick63000 (3130)
+Seat 2: Fish.Moi (5288)
+Seat 3: LudoP50 (2730)
+Seat 4: manggy94 (6620)
+Seat 5: Tinms888 (9352)
+Seat 6: steph08200 (5830)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 60
+Tinms888 posts big blind 120
+Dealt to manggy94 [Jh 9h]
+*** PRE-FLOP *** 
+steph08200 folds
+mick63000 folds
+Fish.Moi raises 120 to 240
+LudoP50 folds
+manggy94 calls 180
+Tinms888 calls 120
+*** FLOP *** [Th Ts 4s]
+manggy94 bets 120
+Tinms888 calls 120
+Fish.Moi calls 120
+*** TURN *** [Th Ts 4s][6s]
+manggy94 bets 540
+Tinms888 folds
+Fish.Moi folds
+manggy94 collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | No rake
+Board: [Th Ts 4s 6s]
+Seat 4: manggy94 (small blind) won 1620
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #713500080543367569-17-1471379598 - Holdem no limit (60/120) - 2016/08/16 20:33:18 UTC
+Table: 'Freeroll(166124683)#400' 6-max (real money) Seat #4 is the button
+Seat 1: mick63000 (3130)
+Seat 2: Fish.Moi (4928)
+Seat 3: LudoP50 (2730)
+Seat 4: manggy94 (7340)
+Seat 5: Tinms888 (8992)
+Seat 6: steph08200 (5830)
+*** ANTE/BLINDS ***
+Tinms888 posts small blind 60
+steph08200 posts big blind 120
+Dealt to manggy94 [2s Jc]
+*** PRE-FLOP *** 
+mick63000 raises 120 to 240
+Fish.Moi raises 528 to 768
+LudoP50 folds
+manggy94 folds
+Tinms888 folds
+steph08200 folds
+mick63000 raises 528 to 1296
+Fish.Moi raises 2772 to 4068
+mick63000 calls 1834 and is all-in
+*** FLOP *** [Ad 3d 8d]
+*** TURN *** [Ad 3d 8d][Ks]
+*** RIVER *** [Ad 3d 8d Ks][Jd]
+*** SHOW DOWN ***
+mick63000 shows [6c 6h] (One pair : 6)
+Fish.Moi shows [Kc Ah] (Two pairs : Aces and Kings)
+Fish.Moi collected 7378 from pot
+*** SUMMARY ***
+Total pot 7378 | No rake
+Board: [Ad 3d 8d Ks Jd]
+Seat 1: mick63000 showed [6c 6h] and lost with One pair : 6
+Seat 2: Fish.Moi showed [Kc Ah] and won 7378 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #713500080543367569-18-1471379629 - Holdem no limit (10/60/120) - 2016/08/16 20:33:49 UTC
+Table: 'Freeroll(166124683)#400' 6-max (real money) Seat #5 is the button
+Seat 2: Fish.Moi (8238)
+Seat 3: LudoP50 (2730)
+Seat 4: manggy94 (7340)
+Seat 5: Tinms888 (8932)
+Seat 6: steph08200 (5710)
+*** ANTE/BLINDS ***
+steph08200 posts ante 10
+Fish.Moi posts ante 10
+LudoP50 posts ante 10
+manggy94 posts ante 10
+Tinms888 posts ante 10
+steph08200 posts small blind 60
+Fish.Moi posts big blind 120
+Dealt to manggy94 [2d Jc]
+*** PRE-FLOP *** 
+LudoP50 folds
+manggy94 folds
+Tinms888 folds
+steph08200 folds
+Fish.Moi collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | No rake
+Seat 2: Fish.Moi (big blind) won 230
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #713500080543367569-19-1471379639 - Holdem no limit (10/60/120) - 2016/08/16 20:33:59 UTC
+Table: 'Freeroll(166124683)#400' 6-max (real money) Seat #6 is the button
+Seat 2: Fish.Moi (8338)
+Seat 3: LudoP50 (2720)
+Seat 4: manggy94 (7330)
+Seat 5: Tinms888 (8922)
+Seat 6: steph08200 (5640)
+*** ANTE/BLINDS ***
+Fish.Moi posts ante 10
+LudoP50 posts ante 10
+manggy94 posts ante 10
+Tinms888 posts ante 10
+steph08200 posts ante 10
+Fish.Moi posts small blind 60
+LudoP50 posts big blind 120
+Dealt to manggy94 [Ac 6c]
+*** PRE-FLOP *** 
+manggy94 raises 120 to 240
+Tinms888 folds
+steph08200 folds
+Fish.Moi raises 528 to 768
+LudoP50 folds
+manggy94 calls 528
+*** FLOP *** [Jh 5h 9s]
+Fish.Moi checks
+manggy94 checks
+*** TURN *** [Jh 5h 9s][Qc]
+Fish.Moi checks
+manggy94 bets 853
+Fish.Moi calls 853
+*** RIVER *** [Jh 5h 9s Qc][5d]
+Fish.Moi checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [Ac 6c] (One pair : 5)
+Fish.Moi shows [Ah Ks] (One pair : 5)
+Fish.Moi collected 3412 from pot
+*** SUMMARY ***
+Total pot 3412 | No rake
+Board: [Jh 5h 9s Qc 5d]
+Seat 2: Fish.Moi (small blind) showed [Ah Ks] and won 3412 with One pair : 5
+Seat 4: manggy94 showed [Ac 6c] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #713500080543367569-20-1471379668 - Holdem no limit (10/60/120) - 2016/08/16 20:34:28 UTC
+Table: 'Freeroll(166124683)#400' 6-max (real money) Seat #2 is the button
+Seat 1: TTOUnaz (2530)
+Seat 2: Fish.Moi (10119)
+Seat 3: LudoP50 (2590)
+Seat 4: manggy94 (5699)
+Seat 5: Tinms888 (8912)
+Seat 6: steph08200 (5630)
+*** ANTE/BLINDS ***
+LudoP50 posts ante 10
+manggy94 posts ante 10
+TTOUnaz posts ante 10
+Fish.Moi posts ante 10
+Tinms888 posts ante 10
+steph08200 posts ante 10
+LudoP50 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [8c Ac]
+*** PRE-FLOP *** 
+Tinms888 raises 120 to 240
+steph08200 folds
+TTOUnaz folds
+Fish.Moi calls 240
+LudoP50 folds
+manggy94 calls 120
+*** FLOP *** [4c Kc Ad]
+manggy94 bets 840
+Tinms888 calls 840
+Fish.Moi folds
+*** TURN *** [4c Kc Ad][Qs]
+manggy94 bets 660
+Tinms888 raises 7162 to 7822 and is all-in
+manggy94 calls 3949 and is all-in
+*** RIVER *** [4c Kc Ad Qs][Ts]
+*** SHOW DOWN ***
+manggy94 shows [8c Ac] (One pair : Aces)
+Tinms888 shows [Qd Jh] (Straight Ace high)
+Tinms888 collected 14951 from pot
+*** SUMMARY ***
+Total pot 14951 | No rake
+Board: [4c Kc Ad Qs Ts]
+Seat 4: manggy94 (big blind) showed [8c Ac] and lost with One pair : Aces
+Seat 5: Tinms888 showed [Qd Jh] and won 14951 with Straight Ace high
+
+

@@ -1,0 +1,250 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 7 - HandId: #653247049499672591-9-1458919265 - Holdem no limit (40/250/500) - 2016/03/25 15:21:05 UTC
+Table: 'Hold'em(152095931)#014' 6-max (real money) Seat #2 is the button
+Seat 1: KiKiSTOUCH (10000)
+Seat 2: XXOGCNXX (11955)
+Seat 3: manggy94 (10000)
+Seat 4: lucas002 (10000)
+Seat 5: tania66 (8430)
+Seat 6: fredauche (30750)
+*** ANTE/BLINDS ***
+tania66 posts ante 40
+KiKiSTOUCH posts ante 40
+XXOGCNXX posts ante 40
+fredauche posts ante 40
+tania66 posts big blind 500
+*** PRE-FLOP *** 
+fredauche folds
+KiKiSTOUCH raises 500 to 1000
+XXOGCNXX calls 1000
+tania66 calls 500
+*** FLOP *** [2c 3h 5c]
+tania66 checks
+KiKiSTOUCH bets 2107
+XXOGCNXX folds
+tania66 calls 2107
+*** TURN *** [2c 3h 5c][5d]
+tania66 checks
+KiKiSTOUCH bets 6853 and is all-in
+tania66 folds
+KiKiSTOUCH collected 14227 from pot
+*** SUMMARY ***
+Total pot 14227 | No rake
+Board: [2c 3h 5c 5d]
+Seat 1: KiKiSTOUCH won 14227
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 7 - HandId: #653247049499672591-10-1458919335 - Holdem no limit (40/250/500) - 2016/03/25 15:22:15 UTC
+Table: 'Hold'em(152095931)#014' 6-max (real money) Seat #4 is the button
+Seat 1: KiKiSTOUCH (14227)
+Seat 2: XXOGCNXX (10915)
+Seat 3: manggy94 (10000)
+Seat 4: lucas002 (10000)
+Seat 5: tania66 (5283)
+Seat 6: fredauche (30710)
+*** ANTE/BLINDS ***
+tania66 posts ante 40
+fredauche posts ante 40
+KiKiSTOUCH posts ante 40
+XXOGCNXX posts ante 40
+manggy94 posts ante 40
+tania66 posts small blind 250
+fredauche posts big blind 500
+Dealt to manggy94 [Qs 6s]
+*** PRE-FLOP *** 
+KiKiSTOUCH folds
+XXOGCNXX folds
+manggy94 calls 500
+tania66 folds
+fredauche checks
+*** FLOP *** [9d 4d 7c]
+fredauche checks
+manggy94 bets 500
+fredauche calls 500
+*** TURN *** [9d 4d 7c][9s]
+fredauche bets 1000
+manggy94 folds
+fredauche collected 3450 from pot
+*** SUMMARY ***
+Total pot 3450 | No rake
+Board: [9d 4d 7c 9s]
+Seat 6: fredauche (big blind) won 3450
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 7 - HandId: #653247049499672591-11-1458919379 - Holdem no limit (40/250/500) - 2016/03/25 15:22:59 UTC
+Table: 'Hold'em(152095931)#014' 6-max (real money) Seat #5 is the button
+Seat 1: KiKiSTOUCH (14187)
+Seat 2: XXOGCNXX (10875)
+Seat 3: manggy94 (8960)
+Seat 4: lucas002 (10000)
+Seat 5: tania66 (4993)
+Seat 6: fredauche (32120)
+*** ANTE/BLINDS ***
+fredauche posts ante 40
+KiKiSTOUCH posts ante 40
+XXOGCNXX posts ante 40
+manggy94 posts ante 40
+lucas002 posts ante 40
+tania66 posts ante 40
+fredauche posts small blind 250
+KiKiSTOUCH posts big blind 500
+Dealt to manggy94 [3h Jc]
+*** PRE-FLOP *** 
+XXOGCNXX folds
+manggy94 folds
+lucas002 folds
+tania66 folds
+fredauche calls 250
+KiKiSTOUCH checks
+*** FLOP *** [Ks 9h Jh]
+fredauche checks
+KiKiSTOUCH checks
+*** TURN *** [Ks 9h Jh][Kh]
+fredauche checks
+KiKiSTOUCH checks
+*** RIVER *** [Ks 9h Jh Kh][Ad]
+fredauche checks
+KiKiSTOUCH checks
+*** SHOW DOWN ***
+KiKiSTOUCH shows [7d Qs] (One pair : Kings)
+fredauche shows [2d 2s] (Two pairs : Kings and 2)
+fredauche collected 1240 from pot
+*** SUMMARY ***
+Total pot 1240 | No rake
+Board: [Ks 9h Jh Kh Ad]
+Seat 1: KiKiSTOUCH (big blind) showed [7d Qs] and lost with One pair : Kings
+Seat 6: fredauche (small blind) showed [2d 2s] and won 1240 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 7 - HandId: #653247049499672591-12-1458919402 - Holdem no limit (40/250/500) - 2016/03/25 15:23:22 UTC
+Table: 'Hold'em(152095931)#014' 6-max (real money) Seat #6 is the button
+Seat 1: KiKiSTOUCH (13647)
+Seat 2: XXOGCNXX (10835)
+Seat 3: manggy94 (8920)
+Seat 4: lucas002 (9960)
+Seat 5: tania66 (4953)
+Seat 6: fredauche (32820)
+*** ANTE/BLINDS ***
+KiKiSTOUCH posts ante 40
+XXOGCNXX posts ante 40
+manggy94 posts ante 40
+lucas002 posts ante 40
+tania66 posts ante 40
+fredauche posts ante 40
+KiKiSTOUCH posts small blind 250
+XXOGCNXX posts big blind 500
+Dealt to manggy94 [8s 8c]
+*** PRE-FLOP *** 
+manggy94 raises 1490 to 1990
+lucas002 folds
+tania66 folds
+fredauche folds
+KiKiSTOUCH folds
+XXOGCNXX calls 1490
+*** FLOP *** [Kh 9c 5h]
+XXOGCNXX checks
+manggy94 bets 6890 and is all-in
+XXOGCNXX folds
+manggy94 collected 11360 from pot
+*** SUMMARY ***
+Total pot 11360 | No rake
+Board: [Kh 9c 5h]
+Seat 3: manggy94 won 11360
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 8 - HandId: #653247049499672591-13-1458919443 - Holdem no limit (60/300/600) - 2016/03/25 15:24:03 UTC
+Table: 'Hold'em(152095931)#014' 6-max (real money) Seat #1 is the button
+Seat 1: KiKiSTOUCH (13357)
+Seat 3: manggy94 (11360)
+Seat 4: lucas002 (9920)
+Seat 5: tania66 (4913)
+Seat 6: fredauche (32780)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+KiKiSTOUCH posts ante 60
+lucas002 posts ante 60
+tania66 posts ante 60
+fredauche posts ante 60
+manggy94 posts big blind 600
+Dealt to manggy94 [3c Js]
+*** PRE-FLOP *** 
+lucas002 folds
+tania66 raises 4253 to 4853 and is all-in
+fredauche folds
+KiKiSTOUCH folds
+manggy94 folds
+tania66 collected 5753 from pot
+*** SUMMARY ***
+Total pot 5753 | No rake
+Seat 5: tania66 won 5753
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 8 - HandId: #653247049499672591-14-1458919464 - Holdem no limit (60/300/600) - 2016/03/25 15:24:24 UTC
+Table: 'Hold'em(152095931)#014' 6-max (real money) Seat #2 is the button
+Seat 1: KiKiSTOUCH (13297)
+Seat 3: manggy94 (10700)
+Seat 4: lucas002 (9860)
+Seat 5: tania66 (5753)
+Seat 6: fredauche (32720)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+lucas002 posts ante 60
+KiKiSTOUCH posts ante 60
+tania66 posts ante 60
+fredauche posts ante 60
+manggy94 posts small blind 300
+lucas002 posts big blind 600
+Dealt to manggy94 [5h 8d]
+*** PRE-FLOP *** 
+tania66 folds
+fredauche raises 32060 to 32660 and is all-in
+KiKiSTOUCH folds
+manggy94 folds
+lucas002 folds
+fredauche collected 33860 from pot
+*** SUMMARY ***
+Total pot 33860 | No rake
+Seat 6: fredauche won 33860
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 8 - HandId: #653247049499672591-15-1458919479 - Holdem no limit (60/300/600) - 2016/03/25 15:24:39 UTC
+Table: 'Hold'em(152095931)#014' 6-max (real money) Seat #3 is the button
+Seat 1: KiKiSTOUCH (13237)
+Seat 3: manggy94 (10340)
+Seat 4: lucas002 (9200)
+Seat 5: tania66 (5693)
+Seat 6: fredauche (33860)
+*** ANTE/BLINDS ***
+lucas002 posts ante 60
+tania66 posts ante 60
+KiKiSTOUCH posts ante 60
+manggy94 posts ante 60
+fredauche posts ante 60
+lucas002 posts small blind 300
+tania66 posts big blind 600
+Dealt to manggy94 [Ac 7d]
+*** PRE-FLOP *** 
+fredauche calls 600
+KiKiSTOUCH calls 600
+manggy94 raises 3000 to 3600
+lucas002 folds
+tania66 folds
+fredauche calls 3000
+KiKiSTOUCH folds
+*** FLOP *** [Qc 8s 4s]
+fredauche checks
+manggy94 checks
+*** TURN *** [Qc 8s 4s][8h]
+fredauche bets 9000
+manggy94 calls 6680 and is all-in
+*** RIVER *** [Qc 8s 4s 8h][Jh]
+*** SHOW DOWN ***
+manggy94 shows [Ac 7d] (One pair : 8)
+fredauche shows [9d Tc] (Straight Queen high)
+fredauche collected 24680 from pot
+*** SUMMARY ***
+Total pot 24680 | No rake
+Board: [Qc 8s 4s 8h Jh]
+Seat 3: manggy94 (button) showed [Ac 7d] and lost with One pair : 8
+Seat 6: fredauche showed [9d Tc] and won 24680 with Straight Queen high
+
+

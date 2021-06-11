@@ -1,0 +1,996 @@
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 2 - HandId: #662959516744155147-6-1460748236 - Holdem no limit (75/150) - 2016/04/15 19:23:56 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #1 is the button
+Seat 1: abzz (9775)
+Seat 2: rnoufiz83 (9625)
+Seat 3: LE NAPOLI 77 (10000)
+Seat 5: manggy94 (10000)
+Seat 6: cedricm78 (1950)
+Seat 7: Tirunesh (9625)
+Seat 8: __NEPHY__ (17750)
+*** ANTE/BLINDS ***
+rnoufiz83 posts small blind 75
+LE NAPOLI 77 posts big blind 150
+Dealt to manggy94 [9s Qd]
+*** PRE-FLOP *** 
+manggy94 folds
+cedricm78 folds
+Tirunesh folds
+__NEPHY__ raises 150 to 300
+abzz folds
+rnoufiz83 calls 225
+LE NAPOLI 77 raises 1497 to 1797
+__NEPHY__ calls 1497
+rnoufiz83 folds
+*** FLOP *** [6s 8c Qc]
+LE NAPOLI 77 checks
+__NEPHY__ checks
+*** TURN *** [6s 8c Qc][3d]
+LE NAPOLI 77 bets 4899
+__NEPHY__ folds
+LE NAPOLI 77 collected 8793 from pot
+*** SUMMARY ***
+Total pot 8793 | No rake
+Board: [6s 8c Qc 3d]
+Seat 3: LE NAPOLI 77 (big blind) won 8793
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 3 - HandId: #662959516744155147-7-1460748308 - Holdem no limit (100/200) - 2016/04/15 19:25:08 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #2 is the button
+Seat 1: abzz (9775)
+Seat 2: rnoufiz83 (9325)
+Seat 3: LE NAPOLI 77 (12097)
+Seat 4: NeKKo45 (10000)
+Seat 5: manggy94 (10000)
+Seat 6: cedricm78 (1950)
+Seat 7: Tirunesh (9625)
+Seat 8: __NEPHY__ (15953)
+*** ANTE/BLINDS ***
+LE NAPOLI 77 posts small blind 100
+NeKKo45 posts big blind 200
+Dealt to manggy94 [7c 2h]
+*** PRE-FLOP *** 
+manggy94 folds
+cedricm78 raises 1750 to 1950 and is all-in
+Tirunesh folds
+__NEPHY__ calls 1950
+abzz raises 7825 to 9775 and is all-in
+rnoufiz83 folds
+LE NAPOLI 77 folds
+NeKKo45 folds
+__NEPHY__ calls 7825
+*** FLOP *** [Td Qd 2d]
+*** TURN *** [Td Qd 2d][3h]
+*** RIVER *** [Td Qd 2d 3h][2s]
+*** SHOW DOWN ***
+abzz shows [Qh Ks] (Two pairs : Queens and 2)
+cedricm78 shows [Th Ac] (Two pairs : Tens and 2)
+__NEPHY__ shows [7d Jd] (Flush Queen high)
+__NEPHY__ collected 21800 from pot
+*** SUMMARY ***
+Total pot 21800 | No rake
+Board: [Td Qd 2d 3h 2s]
+Seat 1: abzz showed [Qh Ks] and lost with Two pairs : Queens and 2
+Seat 6: cedricm78 showed [Th Ac] and lost with Two pairs : Tens and 2
+Seat 8: __NEPHY__ showed [7d Jd] and won 21800 with Flush Queen high
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 3 - HandId: #662959516744155147-8-1460748348 - Holdem no limit (100/200) - 2016/04/15 19:25:48 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #3 is the button
+Seat 2: rnoufiz83 (9325)
+Seat 3: LE NAPOLI 77 (11997)
+Seat 4: NeKKo45 (9800)
+Seat 5: manggy94 (10000)
+Seat 7: Tirunesh (9625)
+Seat 8: __NEPHY__ (27978)
+*** ANTE/BLINDS ***
+NeKKo45 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [Qh 6c]
+*** PRE-FLOP *** 
+Tirunesh folds
+__NEPHY__ calls 200
+rnoufiz83 raises 9125 to 9325 and is all-in
+LE NAPOLI 77 folds
+NeKKo45 folds
+manggy94 folds
+__NEPHY__ folds
+rnoufiz83 collected 9825 from pot
+*** SUMMARY ***
+Total pot 9825 | No rake
+Seat 2: rnoufiz83 won 9825
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 3 - HandId: #662959516744155147-9-1460748373 - Holdem no limit (100/200) - 2016/04/15 19:26:13 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #4 is the button
+Seat 2: rnoufiz83 (9825)
+Seat 3: LE NAPOLI 77 (11997)
+Seat 4: NeKKo45 (9700)
+Seat 5: manggy94 (9800)
+Seat 6: Jay147 (10000)
+Seat 7: Tirunesh (9625)
+Seat 8: __NEPHY__ (27778)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+Jay147 posts big blind 200
+Dealt to manggy94 [8d 5h]
+*** PRE-FLOP *** 
+Tirunesh folds
+__NEPHY__ folds
+rnoufiz83 raises 400 to 600
+LE NAPOLI 77 folds
+NeKKo45 folds
+manggy94 folds
+Jay147 raises 1200 to 1800
+rnoufiz83 raises 5400 to 7200
+Jay147 raises 2800 to 10000 and is all-in
+rnoufiz83 calls 2625 and is all-in
+*** FLOP *** [2h Qh 8h]
+*** TURN *** [2h Qh 8h][7c]
+*** RIVER *** [2h Qh 8h 7c][Ts]
+*** SHOW DOWN ***
+rnoufiz83 shows [Ac Jh] (High card : Ace)
+Jay147 shows [As Ad] (One pair : Aces)
+Jay147 collected 19925 from pot
+*** SUMMARY ***
+Total pot 19925 | No rake
+Board: [2h Qh 8h 7c Ts]
+Seat 2: rnoufiz83 showed [Ac Jh] and lost with High card : Ace
+Seat 6: Jay147 (big blind) showed [As Ad] and won 19925 with One pair : Aces
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 3 - HandId: #662959516744155147-10-1460748415 - Holdem no limit (100/200) - 2016/04/15 19:26:55 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #5 is the button
+Seat 1: deywaz (10000)
+Seat 2: courtcircuit (10000)
+Seat 3: LE NAPOLI 77 (11997)
+Seat 4: NeKKo45 (9700)
+Seat 5: manggy94 (9700)
+Seat 6: Jay147 (19925)
+Seat 7: Tirunesh (9625)
+Seat 8: __NEPHY__ (27778)
+*** ANTE/BLINDS ***
+Jay147 posts small blind 100
+Tirunesh posts big blind 200
+Dealt to manggy94 [8c 2c]
+*** PRE-FLOP *** 
+__NEPHY__ folds
+deywaz folds
+courtcircuit folds
+LE NAPOLI 77 folds
+NeKKo45 raises 400 to 600
+manggy94 folds
+Jay147 folds
+Tirunesh folds
+NeKKo45 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 4: NeKKo45 won 900
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 4 - HandId: #662959516744155147-11-1460748439 - Holdem no limit (150/300) - 2016/04/15 19:27:19 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #6 is the button
+Seat 1: deywaz (10000)
+Seat 2: courtcircuit (10000)
+Seat 3: LE NAPOLI 77 (11997)
+Seat 4: NeKKo45 (10000)
+Seat 5: manggy94 (9700)
+Seat 6: Jay147 (19825)
+Seat 7: Tirunesh (9425)
+Seat 8: __NEPHY__ (27778)
+*** ANTE/BLINDS ***
+Tirunesh posts small blind 150
+__NEPHY__ posts big blind 300
+Dealt to manggy94 [Ac Kc]
+*** PRE-FLOP *** 
+deywaz folds
+courtcircuit calls 300
+LE NAPOLI 77 folds
+NeKKo45 calls 300
+manggy94 raises 1350 to 1650
+Jay147 folds
+Tirunesh folds
+__NEPHY__ folds
+courtcircuit folds
+NeKKo45 calls 1350
+*** FLOP *** [6c As Qs]
+NeKKo45 bets 8350 and is all-in
+manggy94 calls 8050 and is all-in
+*** TURN *** [6c As Qs][Kh]
+*** RIVER *** [6c As Qs Kh][Jd]
+*** SHOW DOWN ***
+manggy94 shows [Ac Kc] (Two pairs : Aces and Kings)
+NeKKo45 shows [Jc Qc] (Two pairs : Queens and Jacks)
+NeKKo45 collected 300 from side pot 1
+manggy94 collected 20150 from main pot
+*** SUMMARY ***
+Total pot 20450 | No rake
+Board: [6c As Qs Kh Jd]
+Seat 4: NeKKo45 showed [Jc Qc] and won 300 with Two pairs : Queens and Jacks
+Seat 5: manggy94 showed [Ac Kc] and won 20150 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 4 - HandId: #662959516744155147-12-1460748486 - Holdem no limit (150/300) - 2016/04/15 19:28:06 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #7 is the button
+Seat 1: deywaz (10000)
+Seat 2: courtcircuit (9700)
+Seat 3: LE NAPOLI 77 (11997)
+Seat 4: NeKKo45 (300)
+Seat 5: manggy94 (20150)
+Seat 6: Jay147 (19825)
+Seat 7: Tirunesh (9275)
+Seat 8: __NEPHY__ (27478)
+*** ANTE/BLINDS ***
+__NEPHY__ posts small blind 150
+deywaz posts big blind 300
+Dealt to manggy94 [3h 2c]
+*** PRE-FLOP *** 
+courtcircuit calls 300
+LE NAPOLI 77 folds
+NeKKo45 calls 300 and is all-in
+manggy94 calls 300
+Jay147 calls 300
+Tirunesh raises 1050 to 1350
+__NEPHY__ calls 1200
+deywaz folds
+courtcircuit calls 1050
+manggy94 folds
+Jay147 calls 1050
+*** FLOP *** [7s 5c 5s]
+__NEPHY__ bets 300
+courtcircuit calls 300
+Jay147 calls 300
+Tirunesh raises 3600 to 3900
+__NEPHY__ calls 3600
+courtcircuit folds
+Jay147 folds
+*** TURN *** [7s 5c 5s][2d]
+__NEPHY__ checks
+Tirunesh bets 4025 and is all-in
+__NEPHY__ folds
+*** RIVER *** [7s 5c 5s 2d][8c]
+*** SHOW DOWN ***
+NeKKo45 shows [2s 6s] (Two pairs : 5 and 2)
+Tirunesh shows [Ad Ac] (Two pairs : Aces and 5)
+Tirunesh collected 18725 from pot
+*** SUMMARY ***
+Total pot 18725 | No rake
+Board: [7s 5c 5s 2d 8c]
+Seat 4: NeKKo45 showed [2s 6s] and lost with Two pairs : 5 and 2
+Seat 7: Tirunesh (button) showed [Ad Ac] and won 18725 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 4 - HandId: #662959516744155147-13-1460748574 - Holdem no limit (150/300) - 2016/04/15 19:29:34 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #8 is the button
+Seat 1: deywaz (9700)
+Seat 2: courtcircuit (8050)
+Seat 3: LE NAPOLI 77 (11997)
+Seat 5: manggy94 (19850)
+Seat 6: Jay147 (18175)
+Seat 7: Tirunesh (18725)
+Seat 8: __NEPHY__ (22228)
+*** ANTE/BLINDS ***
+deywaz posts small blind 150
+courtcircuit posts big blind 300
+Dealt to manggy94 [8h 3c]
+*** PRE-FLOP *** 
+LE NAPOLI 77 calls 300
+manggy94 folds
+Jay147 raises 900 to 1200
+Tirunesh folds
+__NEPHY__ folds
+deywaz folds
+courtcircuit folds
+LE NAPOLI 77 folds
+Jay147 collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | No rake
+Seat 6: Jay147 won 1950
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 4 - HandId: #662959516744155147-14-1460748600 - Holdem no limit (150/300) - 2016/04/15 19:30:00 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #1 is the button
+Seat 1: deywaz (9550)
+Seat 2: courtcircuit (7750)
+Seat 3: LE NAPOLI 77 (11697)
+Seat 5: manggy94 (19850)
+Seat 6: Jay147 (18925)
+Seat 7: Tirunesh (18725)
+Seat 8: __NEPHY__ (22228)
+*** ANTE/BLINDS ***
+courtcircuit posts small blind 150
+LE NAPOLI 77 posts big blind 300
+Dealt to manggy94 [7s Jd]
+*** PRE-FLOP *** 
+manggy94 folds
+Jay147 folds
+Tirunesh folds
+__NEPHY__ raises 750 to 1050
+deywaz folds
+courtcircuit folds
+LE NAPOLI 77 folds
+__NEPHY__ collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 8: __NEPHY__ won 1500
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 5 - HandId: #662959516744155147-15-1460748617 - Holdem no limit (25/150/300) - 2016/04/15 19:30:17 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #2 is the button
+Seat 1: deywaz (9550)
+Seat 2: courtcircuit (7600)
+Seat 3: LE NAPOLI 77 (11397)
+Seat 5: manggy94 (19850)
+Seat 6: Jay147 (18925)
+Seat 7: Tirunesh (18725)
+Seat 8: __NEPHY__ (22678)
+*** ANTE/BLINDS ***
+LE NAPOLI 77 posts ante 25
+manggy94 posts ante 25
+deywaz posts ante 25
+courtcircuit posts ante 25
+Jay147 posts ante 25
+Tirunesh posts ante 25
+__NEPHY__ posts ante 25
+LE NAPOLI 77 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [9d 5h]
+*** PRE-FLOP *** 
+Jay147 folds
+Tirunesh folds
+__NEPHY__ calls 300
+deywaz folds
+courtcircuit raises 750 to 1050
+LE NAPOLI 77 folds
+manggy94 folds
+__NEPHY__ calls 750
+*** FLOP *** [Kh Ts 3s]
+__NEPHY__ bets 21603 and is all-in
+courtcircuit calls 6525 and is all-in
+*** TURN *** [Kh Ts 3s][8h]
+*** RIVER *** [Kh Ts 3s 8h][7c]
+*** SHOW DOWN ***
+courtcircuit shows [4s Qs] (High card : King)
+__NEPHY__ shows [8d Kc] (Two pairs : Kings and 8)
+__NEPHY__ collected 30853 from pot
+*** SUMMARY ***
+Total pot 30853 | No rake
+Board: [Kh Ts 3s 8h 7c]
+Seat 2: courtcircuit (button) showed [4s Qs] and lost with High card : King
+Seat 8: __NEPHY__ showed [8d Kc] and won 30853 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 5 - HandId: #662959516744155147-16-1460748659 - Holdem no limit (25/150/300) - 2016/04/15 19:30:59 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #3 is the button
+Seat 1: deywaz (9525)
+Seat 3: LE NAPOLI 77 (11222)
+Seat 5: manggy94 (19525)
+Seat 6: Jay147 (18900)
+Seat 7: Tirunesh (18700)
+Seat 8: __NEPHY__ (30853)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+Jay147 posts ante 25
+deywaz posts ante 25
+LE NAPOLI 77 posts ante 25
+Tirunesh posts ante 25
+__NEPHY__ posts ante 25
+manggy94 posts small blind 150
+Jay147 posts big blind 300
+Dealt to manggy94 [Jh 2c]
+*** PRE-FLOP *** 
+Tirunesh folds
+__NEPHY__ folds
+deywaz folds
+LE NAPOLI 77 raises 450 to 750
+manggy94 folds
+Jay147 folds
+LE NAPOLI 77 collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Seat 3: LE NAPOLI 77 (button) won 1350
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 5 - HandId: #662959516744155147-17-1460748683 - Holdem no limit (25/150/300) - 2016/04/15 19:31:23 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #5 is the button
+Seat 1: deywaz (9500)
+Seat 2: Jeuno (10000)
+Seat 3: LE NAPOLI 77 (11797)
+Seat 4: FIRMINFABI (10000)
+Seat 5: manggy94 (19350)
+Seat 6: Jay147 (18575)
+Seat 7: Tirunesh (18675)
+Seat 8: __NEPHY__ (30828)
+*** ANTE/BLINDS ***
+Jay147 posts ante 25
+Tirunesh posts ante 25
+deywaz posts ante 25
+Jeuno posts ante 25
+LE NAPOLI 77 posts ante 25
+FIRMINFABI posts ante 25
+manggy94 posts ante 25
+__NEPHY__ posts ante 25
+Jay147 posts small blind 150
+Tirunesh posts big blind 300
+Dealt to manggy94 [As 5h]
+*** PRE-FLOP *** 
+__NEPHY__ calls 300
+deywaz folds
+Jeuno calls 300
+LE NAPOLI 77 folds
+FIRMINFABI calls 300
+manggy94 calls 300
+Jay147 folds
+Tirunesh checks
+*** FLOP *** [Jc 2h Qh]
+Tirunesh checks
+__NEPHY__ checks
+Jeuno checks
+FIRMINFABI checks
+manggy94 checks
+*** TURN *** [Jc 2h Qh][7d]
+Tirunesh checks
+__NEPHY__ checks
+Jeuno checks
+FIRMINFABI checks
+manggy94 checks
+*** RIVER *** [Jc 2h Qh 7d][Kd]
+Tirunesh checks
+__NEPHY__ checks
+Jeuno checks
+FIRMINFABI checks
+manggy94 checks
+*** SHOW DOWN ***
+FIRMINFABI shows [9c 8c] (High card : King)
+manggy94 shows [As 5h] (High card : Ace)
+Tirunesh shows [5c 6c] (High card : King)
+__NEPHY__ shows [6s 8h] (High card : King)
+Jeuno shows [Kh 4d] (One pair : Kings)
+Jeuno collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Board: [Jc 2h Qh 7d Kd]
+Seat 2: Jeuno showed [Kh 4d] and won 1850 with One pair : Kings
+Seat 4: FIRMINFABI showed [9c 8c] and lost with High card : King
+Seat 5: manggy94 (button) showed [As 5h] and lost with High card : Ace
+Seat 7: Tirunesh (big blind) showed [5c 6c] and lost with High card : King
+Seat 8: __NEPHY__ showed [6s 8h] and lost with High card : King
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 5 - HandId: #662959516744155147-18-1460748775 - Holdem no limit (25/150/300) - 2016/04/15 19:32:55 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #6 is the button
+Seat 1: deywaz (9475)
+Seat 2: Jeuno (11525)
+Seat 3: LE NAPOLI 77 (11772)
+Seat 4: FIRMINFABI (9675)
+Seat 5: manggy94 (19025)
+Seat 6: Jay147 (18400)
+Seat 7: Tirunesh (18350)
+Seat 8: __NEPHY__ (30503)
+*** ANTE/BLINDS ***
+Tirunesh posts ante 25
+__NEPHY__ posts ante 25
+deywaz posts ante 25
+Jeuno posts ante 25
+LE NAPOLI 77 posts ante 25
+FIRMINFABI posts ante 25
+manggy94 posts ante 25
+Jay147 posts ante 25
+Tirunesh posts small blind 150
+__NEPHY__ posts big blind 300
+Dealt to manggy94 [As Qc]
+*** PRE-FLOP *** 
+deywaz folds
+Jeuno folds
+LE NAPOLI 77 folds
+FIRMINFABI calls 300
+manggy94 raises 1250 to 1550
+Jay147 folds
+Tirunesh folds
+__NEPHY__ folds
+FIRMINFABI calls 1250
+*** FLOP *** [8d 4h 9s]
+FIRMINFABI checks
+manggy94 bets 3750
+FIRMINFABI folds
+manggy94 collected 7500 from pot
+*** SUMMARY ***
+Total pot 7500 | No rake
+Board: [8d 4h 9s]
+Seat 5: manggy94 won 7500
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 6 - HandId: #662959516744155147-19-1460748818 - Holdem no limit (30/200/400) - 2016/04/15 19:33:38 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #7 is the button
+Seat 1: deywaz (9450)
+Seat 2: Jeuno (11500)
+Seat 3: LE NAPOLI 77 (11747)
+Seat 4: FIRMINFABI (8100)
+Seat 5: manggy94 (21200)
+Seat 6: Jay147 (18375)
+Seat 7: Tirunesh (18175)
+Seat 8: __NEPHY__ (30178)
+*** ANTE/BLINDS ***
+__NEPHY__ posts ante 30
+deywaz posts ante 30
+Jeuno posts ante 30
+LE NAPOLI 77 posts ante 30
+FIRMINFABI posts ante 30
+manggy94 posts ante 30
+Jay147 posts ante 30
+Tirunesh posts ante 30
+__NEPHY__ posts small blind 200
+deywaz posts big blind 400
+Dealt to manggy94 [2s Th]
+*** PRE-FLOP *** 
+Jeuno folds
+LE NAPOLI 77 folds
+FIRMINFABI folds
+manggy94 folds
+Jay147 folds
+Tirunesh folds
+__NEPHY__ raises 400 to 800
+deywaz folds
+__NEPHY__ collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Seat 8: __NEPHY__ (small blind) won 1440
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 6 - HandId: #662959516744155147-20-1460748849 - Holdem no limit (30/200/400) - 2016/04/15 19:34:09 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #8 is the button
+Seat 1: deywaz (9020)
+Seat 2: Jeuno (11470)
+Seat 3: LE NAPOLI 77 (11717)
+Seat 4: FIRMINFABI (8070)
+Seat 5: manggy94 (21170)
+Seat 6: Jay147 (18345)
+Seat 7: Tirunesh (18145)
+Seat 8: __NEPHY__ (30788)
+*** ANTE/BLINDS ***
+deywaz posts ante 30
+Jeuno posts ante 30
+LE NAPOLI 77 posts ante 30
+FIRMINFABI posts ante 30
+manggy94 posts ante 30
+Jay147 posts ante 30
+Tirunesh posts ante 30
+__NEPHY__ posts ante 30
+deywaz posts small blind 200
+Jeuno posts big blind 400
+Dealt to manggy94 [As Kc]
+*** PRE-FLOP *** 
+LE NAPOLI 77 calls 400
+FIRMINFABI folds
+manggy94 raises 1640 to 2040
+Jay147 folds
+Tirunesh folds
+__NEPHY__ calls 2040
+deywaz folds
+Jeuno folds
+LE NAPOLI 77 folds
+*** FLOP *** [Tc Js 2c]
+manggy94 checks
+__NEPHY__ bets 1000
+manggy94 calls 1000
+*** TURN *** [Tc Js 2c][6s]
+manggy94 checks
+__NEPHY__ bets 1000
+manggy94 calls 1000
+*** RIVER *** [Tc Js 2c 6s][9h]
+manggy94 checks
+__NEPHY__ checks
+*** SHOW DOWN ***
+manggy94 shows [As Kc] (High card : Ace)
+__NEPHY__ shows [Ah Th] (One pair : Tens)
+__NEPHY__ collected 9320 from pot
+*** SUMMARY ***
+Total pot 9320 | No rake
+Board: [Tc Js 2c 6s 9h]
+Seat 5: manggy94 showed [As Kc] and lost with High card : Ace
+Seat 8: __NEPHY__ (button) showed [Ah Th] and won 9320 with One pair : Tens
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 6 - HandId: #662959516744155147-21-1460748920 - Holdem no limit (30/200/400) - 2016/04/15 19:35:20 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #1 is the button
+Seat 1: deywaz (8790)
+Seat 2: Jeuno (11040)
+Seat 3: LE NAPOLI 77 (11287)
+Seat 4: FIRMINFABI (8040)
+Seat 5: manggy94 (17100)
+Seat 6: Jay147 (18315)
+Seat 7: Tirunesh (18115)
+Seat 8: __NEPHY__ (36038)
+*** ANTE/BLINDS ***
+Jeuno posts ante 30
+LE NAPOLI 77 posts ante 30
+deywaz posts ante 30
+FIRMINFABI posts ante 30
+manggy94 posts ante 30
+Jay147 posts ante 30
+Tirunesh posts ante 30
+__NEPHY__ posts ante 30
+Jeuno posts small blind 200
+LE NAPOLI 77 posts big blind 400
+Dealt to manggy94 [Js Kc]
+*** PRE-FLOP *** 
+FIRMINFABI folds
+manggy94 calls 400
+Jay147 folds
+Tirunesh folds
+__NEPHY__ folds
+deywaz folds
+Jeuno calls 200
+LE NAPOLI 77 checks
+*** FLOP *** [Ac 4s 9s]
+Jeuno checks
+LE NAPOLI 77 bets 600
+manggy94 folds
+Jeuno calls 600
+*** TURN *** [Ac 4s 9s][4d]
+Jeuno bets 800
+LE NAPOLI 77 folds
+Jeuno collected 3440 from pot
+*** SUMMARY ***
+Total pot 3440 | No rake
+Board: [Ac 4s 9s 4d]
+Seat 2: Jeuno (small blind) won 3440
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 7 - HandId: #662959516744155147-22-1460748998 - Holdem no limit (40/250/500) - 2016/04/15 19:36:38 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #2 is the button
+Seat 1: deywaz (8760)
+Seat 2: Jeuno (12650)
+Seat 3: LE NAPOLI 77 (10257)
+Seat 4: FIRMINFABI (8010)
+Seat 5: manggy94 (16670)
+Seat 6: Jay147 (18285)
+Seat 7: Tirunesh (18085)
+Seat 8: __NEPHY__ (36008)
+*** ANTE/BLINDS ***
+LE NAPOLI 77 posts ante 40
+FIRMINFABI posts ante 40
+deywaz posts ante 40
+Jeuno posts ante 40
+manggy94 posts ante 40
+Jay147 posts ante 40
+Tirunesh posts ante 40
+__NEPHY__ posts ante 40
+LE NAPOLI 77 posts small blind 250
+FIRMINFABI posts big blind 500
+Dealt to manggy94 [Qc 3c]
+*** PRE-FLOP *** 
+manggy94 folds
+Jay147 folds
+Tirunesh folds
+__NEPHY__ calls 500
+deywaz raises 8220 to 8720 and is all-in
+Jeuno folds
+LE NAPOLI 77 folds
+FIRMINFABI folds
+__NEPHY__ folds
+deywaz collected 10290 from pot
+*** SUMMARY ***
+Total pot 10290 | No rake
+Seat 1: deywaz won 10290
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 7 - HandId: #662959516744155147-23-1460749047 - Holdem no limit (40/250/500) - 2016/04/15 19:37:27 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #3 is the button
+Seat 1: deywaz (10290)
+Seat 2: Jeuno (12610)
+Seat 3: LE NAPOLI 77 (9967)
+Seat 4: FIRMINFABI (7470)
+Seat 5: manggy94 (16630)
+Seat 7: Tirunesh (18045)
+Seat 8: __NEPHY__ (35468)
+*** ANTE/BLINDS ***
+FIRMINFABI posts ante 40
+manggy94 posts ante 40
+deywaz posts ante 40
+Jeuno posts ante 40
+LE NAPOLI 77 posts ante 40
+Tirunesh posts ante 40
+__NEPHY__ posts ante 40
+FIRMINFABI posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [Qh Kc]
+*** PRE-FLOP *** 
+Tirunesh folds
+__NEPHY__ raises 500 to 1000
+deywaz folds
+Jeuno folds
+LE NAPOLI 77 folds
+FIRMINFABI calls 750
+manggy94 calls 500
+*** FLOP *** [5c 4h 2d]
+FIRMINFABI checks
+manggy94 checks
+__NEPHY__ bets 3280
+FIRMINFABI folds
+manggy94 folds
+__NEPHY__ collected 6560 from pot
+*** SUMMARY ***
+Total pot 6560 | No rake
+Board: [5c 4h 2d]
+Seat 8: __NEPHY__ won 6560
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 7 - HandId: #662959516744155147-24-1460749073 - Holdem no limit (40/250/500) - 2016/04/15 19:37:53 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #4 is the button
+Seat 1: deywaz (10250)
+Seat 2: Jeuno (12570)
+Seat 3: LE NAPOLI 77 (9927)
+Seat 4: FIRMINFABI (6430)
+Seat 5: manggy94 (15590)
+Seat 7: Tirunesh (18005)
+Seat 8: __NEPHY__ (37708)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+Tirunesh posts ante 40
+deywaz posts ante 40
+Jeuno posts ante 40
+LE NAPOLI 77 posts ante 40
+FIRMINFABI posts ante 40
+__NEPHY__ posts ante 40
+manggy94 posts small blind 250
+Tirunesh posts big blind 500
+Dealt to manggy94 [Ks 8d]
+*** PRE-FLOP *** 
+__NEPHY__ calls 500
+deywaz folds
+Jeuno folds
+LE NAPOLI 77 raises 500 to 1000
+FIRMINFABI raises 5390 to 6390 and is all-in
+manggy94 folds
+Tirunesh folds
+__NEPHY__ calls 5890
+LE NAPOLI 77 calls 5390
+*** FLOP *** [Ts Qs Jh]
+__NEPHY__ bets 20200
+LE NAPOLI 77 calls 3497 and is all-in
+*** TURN *** [Ts Qs Jh][5h]
+*** RIVER *** [Ts Qs Jh 5h][Kc]
+*** SHOW DOWN ***
+FIRMINFABI shows [2d 2h] (One pair : 2)
+LE NAPOLI 77 shows [As Th] (Straight Ace high)
+__NEPHY__ shows [8h 9h] (Straight King high)
+__NEPHY__ collected 16703 from side pot 1
+LE NAPOLI 77 collected 27194 from main pot
+*** SUMMARY ***
+Total pot 43897 | No rake
+Board: [Ts Qs Jh 5h Kc]
+Seat 3: LE NAPOLI 77 showed [As Th] and won 27194 with Straight Ace high
+Seat 4: FIRMINFABI (button) showed [2d 2h] and lost with One pair : 2
+Seat 8: __NEPHY__ showed [8h 9h] and won 16703 with Straight King high
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 7 - HandId: #662959516744155147-25-1460749126 - Holdem no limit (40/250/500) - 2016/04/15 19:38:46 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #5 is the button
+Seat 1: deywaz (10210)
+Seat 2: Jeuno (12530)
+Seat 3: LE NAPOLI 77 (27194)
+Seat 4: LoSeJaS (10000)
+Seat 5: manggy94 (15300)
+Seat 6: metchar3 (10000)
+Seat 7: Tirunesh (17465)
+Seat 8: __NEPHY__ (27781)
+*** ANTE/BLINDS ***
+Tirunesh posts ante 40
+__NEPHY__ posts ante 40
+deywaz posts ante 40
+Jeuno posts ante 40
+LE NAPOLI 77 posts ante 40
+LoSeJaS posts ante 40
+manggy94 posts ante 40
+Tirunesh posts small blind 250
+__NEPHY__ posts big blind 500
+Dealt to manggy94 [3h Jc]
+*** PRE-FLOP *** 
+deywaz folds
+Jeuno calls 500
+LE NAPOLI 77 folds
+LoSeJaS folds
+manggy94 folds
+Tirunesh folds
+__NEPHY__ checks
+*** FLOP *** [Kc Js Ac]
+__NEPHY__ bets 27241 and is all-in
+Jeuno folds
+__NEPHY__ collected 28771 from pot
+*** SUMMARY ***
+Total pot 28771 | No rake
+Board: [Kc Js Ac]
+Seat 8: __NEPHY__ (big blind) won 28771
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 8 - HandId: #662959516744155147-26-1460749155 - Holdem no limit (60/300/600) - 2016/04/15 19:39:15 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #7 is the button
+Seat 1: deywaz (10170)
+Seat 2: Jeuno (11990)
+Seat 3: LE NAPOLI 77 (27154)
+Seat 4: LoSeJaS (9960)
+Seat 5: manggy94 (15260)
+Seat 6: metchar3 (10000)
+Seat 7: Tirunesh (17175)
+Seat 8: __NEPHY__ (28771)
+*** ANTE/BLINDS ***
+__NEPHY__ posts ante 60
+deywaz posts ante 60
+Jeuno posts ante 60
+LE NAPOLI 77 posts ante 60
+LoSeJaS posts ante 60
+manggy94 posts ante 60
+metchar3 posts ante 60
+Tirunesh posts ante 60
+__NEPHY__ posts small blind 300
+deywaz posts big blind 600
+Dealt to manggy94 [8d Jc]
+*** PRE-FLOP *** 
+Jeuno calls 600
+LE NAPOLI 77 folds
+LoSeJaS folds
+manggy94 folds
+metchar3 folds
+Tirunesh folds
+__NEPHY__ folds
+deywaz raises 9510 to 10110 and is all-in
+Jeuno folds
+deywaz collected 11490 from pot
+*** SUMMARY ***
+Total pot 11490 | No rake
+Seat 1: deywaz (big blind) won 11490
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 8 - HandId: #662959516744155147-27-1460749198 - Holdem no limit (60/300/600) - 2016/04/15 19:39:58 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #8 is the button
+Seat 1: deywaz (11490)
+Seat 2: Jeuno (11330)
+Seat 3: LE NAPOLI 77 (27094)
+Seat 4: LoSeJaS (9900)
+Seat 5: manggy94 (15200)
+Seat 6: metchar3 (9940)
+Seat 7: Tirunesh (17115)
+Seat 8: __NEPHY__ (28411)
+*** ANTE/BLINDS ***
+deywaz posts ante 60
+Jeuno posts ante 60
+LE NAPOLI 77 posts ante 60
+LoSeJaS posts ante 60
+manggy94 posts ante 60
+metchar3 posts ante 60
+Tirunesh posts ante 60
+__NEPHY__ posts ante 60
+deywaz posts small blind 300
+Jeuno posts big blind 600
+Dealt to manggy94 [7s 5d]
+*** PRE-FLOP *** 
+LE NAPOLI 77 folds
+LoSeJaS folds
+manggy94 folds
+metchar3 raises 900 to 1500
+Tirunesh folds
+__NEPHY__ folds
+deywaz calls 1200
+Jeuno calls 900
+*** FLOP *** [9c 8h 7h]
+deywaz checks
+Jeuno bets 600
+metchar3 raises 1660 to 2260
+deywaz folds
+Jeuno calls 1660
+*** TURN *** [9c 8h 7h][Jd]
+Jeuno bets 600
+metchar3 raises 5520 to 6120 and is all-in
+Jeuno calls 5520
+*** RIVER *** [9c 8h 7h Jd][4c]
+*** SHOW DOWN ***
+Jeuno shows [Ah 6s] (High card : Ace)
+metchar3 shows [9s 9d] (Trips of 9)
+metchar3 collected 21740 from pot
+*** SUMMARY ***
+Total pot 21740 | No rake
+Board: [9c 8h 7h Jd 4c]
+Seat 2: Jeuno (big blind) showed [Ah 6s] and lost with High card : Ace
+Seat 6: metchar3 showed [9s 9d] and won 21740 with Trips of 9
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 8 - HandId: #662959516744155147-28-1460749301 - Holdem no limit (60/300/600) - 2016/04/15 19:41:41 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #1 is the button
+Seat 1: deywaz (9930)
+Seat 2: Jeuno (1390)
+Seat 3: LE NAPOLI 77 (27034)
+Seat 4: LoSeJaS (9840)
+Seat 5: manggy94 (15140)
+Seat 6: metchar3 (21740)
+Seat 7: Tirunesh (17055)
+Seat 8: __NEPHY__ (28351)
+*** ANTE/BLINDS ***
+Jeuno posts ante 60
+LE NAPOLI 77 posts ante 60
+deywaz posts ante 60
+LoSeJaS posts ante 60
+manggy94 posts ante 60
+metchar3 posts ante 60
+Tirunesh posts ante 60
+__NEPHY__ posts ante 60
+Jeuno posts small blind 300
+LE NAPOLI 77 posts big blind 600
+Dealt to manggy94 [7d 7s]
+*** PRE-FLOP *** 
+LoSeJaS raises 600 to 1200
+manggy94 raises 2400 to 3600
+metchar3 folds
+Tirunesh folds
+__NEPHY__ calls 3600
+deywaz folds
+Jeuno folds
+LE NAPOLI 77 folds
+LoSeJaS raises 6180 to 9780 and is all-in
+manggy94 calls 6180
+__NEPHY__ calls 6180
+*** FLOP *** [8d Qd 9h]
+manggy94 checks
+__NEPHY__ checks
+*** TURN *** [8d Qd 9h][8c]
+manggy94 checks
+__NEPHY__ bets 18511 and is all-in
+manggy94 folds
+*** RIVER *** [8d Qd 9h 8c][Qs]
+*** SHOW DOWN ***
+LoSeJaS shows [Ac As] (Two pairs : Aces and Queens)
+__NEPHY__ shows [8s Jd] (Full of 8 and Queens)
+__NEPHY__ collected 49231 from pot
+*** SUMMARY ***
+Total pot 49231 | No rake
+Board: [8d Qd 9h 8c Qs]
+Seat 4: LoSeJaS showed [Ac As] and lost with Two pairs : Aces and Queens
+Seat 8: __NEPHY__ showed [8s Jd] and won 49231 with Full of 8 and Queens
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 9 - HandId: #662959516744155147-29-1460749386 - Holdem no limit (75/400/800) - 2016/04/15 19:43:06 UTC
+Table: 'HARA-KIRI(154357291)#010' 8-max (real money) Seat #2 is the button
+Seat 1: deywaz (9870)
+Seat 2: Jeuno (1030)
+Seat 3: LE NAPOLI 77 (26374)
+Seat 5: manggy94 (5300)
+Seat 6: metchar3 (21680)
+Seat 7: Tirunesh (16995)
+Seat 8: __NEPHY__ (49231)
+*** ANTE/BLINDS ***
+LE NAPOLI 77 posts ante 75
+manggy94 posts ante 75
+deywaz posts ante 75
+Jeuno posts ante 75
+metchar3 posts ante 75
+Tirunesh posts ante 75
+__NEPHY__ posts ante 75
+LE NAPOLI 77 posts small blind 400
+manggy94 posts big blind 800
+Dealt to manggy94 [Ad Jh]
+*** PRE-FLOP *** 
+metchar3 folds
+Tirunesh folds
+__NEPHY__ folds
+deywaz folds
+Jeuno raises 155 to 955 and is all-in
+LE NAPOLI 77 calls 555
+manggy94 calls 155
+*** FLOP *** [8h 9c Qc]
+LE NAPOLI 77 bets 4733
+manggy94 calls 4270 and is all-in
+*** TURN *** [8h 9c Qc][7c]
+*** RIVER *** [8h 9c Qc 7c][7h]
+*** SHOW DOWN ***
+manggy94 shows [Ad Jh] (One pair : 7)
+Jeuno shows [Jd Qs] (Two pairs : Queens and 7)
+LE NAPOLI 77 shows [9h 3s] (Two pairs : 9 and 7)
+LE NAPOLI 77 collected 9003 from side pot 1
+Jeuno collected 3390 from main pot
+*** SUMMARY ***
+Total pot 12393 | No rake
+Board: [8h 9c Qc 7c 7h]
+Seat 2: Jeuno (button) showed [Jd Qs] and won 3390 with Two pairs : Queens and 7
+Seat 3: LE NAPOLI 77 (small blind) showed [9h 3s] and won 9003 with Two pairs : 9 and 7
+Seat 5: manggy94 (big blind) showed [Ad Jh] and lost with One pair : 7
+
+

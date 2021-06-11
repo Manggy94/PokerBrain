@@ -1,0 +1,73 @@
+Winamax Poker - Tournament "Déglingos" buyIn: 4,50€ + 0,50€ level: 7 - HandId: #661099976293613572-62-1460369616 - Holdem no limit (15/75/150) - 2016/04/11 10:13:36 UTC
+Table: 'Déglingos(153924333)#003' 3-max (real money) Seat #3 is the button
+Seat 1: zzz0zzz (1120)
+Seat 2: manggy94 (500)
+Seat 3: fabiosand (2405)
+*** ANTE/BLINDS ***
+fabiosand posts ante 15
+zzz0zzz posts ante 15
+fabiosand posts small blind 75
+zzz0zzz posts big blind 150
+*** PRE-FLOP *** 
+fabiosand calls 75
+zzz0zzz raises 955 to 1105 and is all-in
+fabiosand folds
+zzz0zzz collected 1285 from pot
+*** SUMMARY ***
+Total pot 1285 | No rake
+Seat 1: zzz0zzz (big blind) won 1285
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 4,50€ + 0,50€ level: 8 - HandId: #661099976293613572-63-1460369660 - Holdem no limit (20/100/200) - 2016/04/11 10:14:20 UTC
+Table: 'Déglingos(153924333)#003' 3-max (real money) Seat #3 is the button
+Seat 1: zzz0zzz (1285)
+Seat 2: manggy94 (500)
+Seat 3: fabiosand (2240)
+*** ANTE/BLINDS ***
+zzz0zzz posts ante 20
+manggy94 posts ante 20
+fabiosand posts ante 20
+zzz0zzz posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [Qh 9s]
+*** PRE-FLOP *** 
+fabiosand folds
+zzz0zzz folds
+manggy94 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 2: manggy94 (big blind) won 360
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 4,50€ + 0,50€ level: 8 - HandId: #661099976293613572-64-1460369682 - Holdem no limit (20/100/200) - 2016/04/11 10:14:42 UTC
+Table: 'Déglingos(153924333)#003' 3-max (real money) Seat #1 is the button
+Seat 1: zzz0zzz (1165)
+Seat 2: manggy94 (640)
+Seat 3: fabiosand (2220)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+fabiosand posts ante 20
+zzz0zzz posts ante 20
+manggy94 posts small blind 100
+fabiosand posts big blind 200
+Dealt to manggy94 [6c Kc]
+*** PRE-FLOP *** 
+zzz0zzz raises 945 to 1145 and is all-in
+manggy94 calls 520 and is all-in
+fabiosand calls 945
+*** FLOP *** [4h Jd As]
+*** TURN *** [4h Jd As][5s]
+*** RIVER *** [4h Jd As 5s][Jc]
+*** SHOW DOWN ***
+manggy94 shows [6c Kc] (One pair : Jacks)
+fabiosand shows [Qs Qd] (Two pairs : Queens and Jacks)
+zzz0zzz shows [Ad 5d] (Two pairs : Aces and Jacks)
+zzz0zzz collected 2970 from pot
+*** SUMMARY ***
+Total pot 2970 | No rake
+Board: [4h Jd As 5s Jc]
+Seat 1: zzz0zzz (button) showed [Ad 5d] and won 2970 with Two pairs : Aces and Jacks
+Seat 2: manggy94 (small blind) showed [6c Kc] and lost with One pair : Jacks
+Seat 3: fabiosand (big blind) showed [Qs Qd] and lost with Two pairs : Queens and Jacks
+
+

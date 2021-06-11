@@ -1,0 +1,693 @@
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #571791130715226113-1-1444151980 - Holdem no limit (10/20) - 2015/10/06 17:19:40 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #5 is the button
+Seat 1: kridojm (500)
+Seat 2: DonPapaStyle (500)
+Seat 3: BROKA (500)
+Seat 4: jps15 (500)
+Seat 5: manggy94 (500)
+Seat 6: Green_Knight (500)
+Seat 7: BRTIST (500)
+Seat 8: T-M-POKER-08 (500)
+Seat 9: bleffeur64 (500)
+Seat 10: Di maria22 (500)
+*** ANTE/BLINDS ***
+Green_Knight posts small blind 10
+BRTIST posts big blind 20
+Dealt to manggy94 [4s 6h]
+*** PRE-FLOP *** 
+T-M-POKER-08 raises 480 to 500 and is all-in
+bleffeur64 calls 500 and is all-in
+Di maria22 calls 500 and is all-in
+kridojm folds
+DonPapaStyle folds
+BROKA calls 500 and is all-in
+jps15 calls 500 and is all-in
+manggy94 folds
+Green_Knight folds
+BRTIST folds
+*** FLOP *** [Qs Jd 8c]
+*** TURN *** [Qs Jd 8c][6c]
+*** RIVER *** [Qs Jd 8c 6c][9c]
+*** SHOW DOWN ***
+jps15 shows [Jh Js] (Trips of Jacks)
+T-M-POKER-08 shows [9s 2d] (One pair : 9)
+bleffeur64 shows [Jc Ah] (One pair : Jacks)
+Di maria22 shows [9d 6d] (Two pairs : 9 and 6)
+BROKA shows [Qc 3c] (Flush Queen high)
+BROKA collected 2530 from pot
+*** SUMMARY ***
+Total pot 2530 | No rake
+Board: [Qs Jd 8c 6c 9c]
+Seat 3: BROKA showed [Qc 3c] and won 2530 with Flush Queen high
+Seat 4: jps15 showed [Jh Js] and lost with Trips of Jacks
+Seat 8: T-M-POKER-08 showed [9s 2d] and lost with One pair : 9
+Seat 9: bleffeur64 showed [Jc Ah] and lost with One pair : Jacks
+Seat 10: Di maria22 showed [9d 6d] and lost with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #571791130715226113-2-1444152064 - Holdem no limit (10/20) - 2015/10/06 17:21:04 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #6 is the button
+Seat 1: kridojm (500)
+Seat 2: DonPapaStyle (500)
+Seat 3: BROKA (2530)
+Seat 5: manggy94 (500)
+Seat 6: Green_Knight (490)
+Seat 7: BRTIST (480)
+*** ANTE/BLINDS ***
+BRTIST posts small blind 10
+kridojm posts big blind 20
+Dealt to manggy94 [Qs 3s]
+*** PRE-FLOP *** 
+DonPapaStyle folds
+BROKA calls 20
+manggy94 calls 20
+Green_Knight folds
+BRTIST folds
+kridojm checks
+*** FLOP *** [Jh Js 6c]
+kridojm checks
+BROKA checks
+manggy94 bets 70
+kridojm folds
+BROKA calls 70
+*** TURN *** [Jh Js 6c][Kd]
+BROKA checks
+manggy94 checks
+*** RIVER *** [Jh Js 6c Kd][7s]
+BROKA bets 210
+manggy94 folds
+BROKA collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Jh Js 6c Kd 7s]
+Seat 3: BROKA won 420
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #571791130715226113-3-1444152115 - Holdem no limit (10/20) - 2015/10/06 17:21:55 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #7 is the button
+Seat 1: kridojm (480)
+Seat 2: DonPapaStyle (500)
+Seat 3: BROKA (2650)
+Seat 5: manggy94 (410)
+Seat 6: Green_Knight (490)
+Seat 7: BRTIST (470)
+*** ANTE/BLINDS ***
+kridojm posts small blind 10
+DonPapaStyle posts big blind 20
+Dealt to manggy94 [7c Tc]
+*** PRE-FLOP *** 
+BROKA calls 20
+manggy94 calls 20
+Green_Knight folds
+BRTIST folds
+kridojm folds
+DonPapaStyle checks
+*** FLOP *** [9s 3h Kh]
+DonPapaStyle checks
+BROKA checks
+manggy94 checks
+*** TURN *** [9s 3h Kh][5h]
+DonPapaStyle checks
+BROKA checks
+manggy94 checks
+*** RIVER *** [9s 3h Kh 5h][2c]
+DonPapaStyle checks
+BROKA checks
+manggy94 checks
+*** SHOW DOWN ***
+BROKA shows [2s Ac] (One pair : 2)
+manggy94 shows [7c Tc] (High card : King)
+DonPapaStyle shows [3c Ts] (One pair : 3)
+DonPapaStyle collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [9s 3h Kh 5h 2c]
+Seat 2: DonPapaStyle (big blind) showed [3c Ts] and won 70 with One pair : 3
+Seat 3: BROKA showed [2s Ac] and lost with One pair : 2
+Seat 5: manggy94 showed [7c Tc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 1 - HandId: #571791130715226113-4-1444152172 - Holdem no limit (15/30) - 2015/10/06 17:22:52 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #1 is the button
+Seat 1: kridojm (470)
+Seat 2: DonPapaStyle (550)
+Seat 3: BROKA (2630)
+Seat 5: manggy94 (390)
+Seat 6: Green_Knight (490)
+Seat 7: BRTIST (470)
+*** ANTE/BLINDS ***
+DonPapaStyle posts small blind 15
+BROKA posts big blind 30
+Dealt to manggy94 [Qs 4d]
+*** PRE-FLOP *** 
+manggy94 calls 30
+Green_Knight folds
+BRTIST raises 440 to 470 and is all-in
+kridojm calls 470 and is all-in
+DonPapaStyle folds
+BROKA folds
+manggy94 folds
+*** FLOP *** [3s 3h Th]
+*** TURN *** [3s 3h Th][8h]
+*** RIVER *** [3s 3h Th 8h][7c]
+*** SHOW DOWN ***
+BRTIST shows [Ah Qc] (One pair : 3)
+kridojm shows [Kh Jh] (Flush King high)
+kridojm collected 1015 from pot
+*** SUMMARY ***
+Total pot 1015 | No rake
+Board: [3s 3h Th 8h 7c]
+Seat 1: kridojm (button) showed [Kh Jh] and won 1015 with Flush King high
+Seat 7: BRTIST showed [Ah Qc] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 1 - HandId: #571791130715226113-5-1444152199 - Holdem no limit (15/30) - 2015/10/06 17:23:19 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #2 is the button
+Seat 1: kridojm (1015)
+Seat 2: DonPapaStyle (535)
+Seat 3: BROKA (2600)
+Seat 5: manggy94 (360)
+Seat 6: Green_Knight (490)
+*** ANTE/BLINDS ***
+BROKA posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [2d Js]
+*** PRE-FLOP *** 
+Green_Knight folds
+kridojm folds
+DonPapaStyle calls 30
+BROKA calls 15
+manggy94 checks
+*** FLOP *** [9c 9h 8c]
+BROKA checks
+manggy94 checks
+DonPapaStyle bets 30
+BROKA calls 30
+manggy94 folds
+*** TURN *** [9c 9h 8c][Jh]
+BROKA checks
+DonPapaStyle checks
+*** RIVER *** [9c 9h 8c Jh][5h]
+BROKA bets 30
+DonPapaStyle raises 105 to 135
+BROKA calls 105
+*** SHOW DOWN ***
+BROKA shows [8d 3h] (Two pairs : 9 and 8)
+DonPapaStyle shows [Ah 8h] (Flush Ace high)
+DonPapaStyle collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [9c 9h 8c Jh 5h]
+Seat 2: DonPapaStyle (button) showed [Ah 8h] and won 420 with Flush Ace high
+Seat 3: BROKA (small blind) showed [8d 3h] and lost with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 1 - HandId: #571791130715226113-6-1444152248 - Holdem no limit (15/30) - 2015/10/06 17:24:08 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #3 is the button
+Seat 1: kridojm (1015)
+Seat 2: DonPapaStyle (760)
+Seat 3: BROKA (2405)
+Seat 5: manggy94 (330)
+Seat 6: Green_Knight (490)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+Green_Knight posts big blind 30
+Dealt to manggy94 [Ks Ac]
+*** PRE-FLOP *** 
+kridojm folds
+DonPapaStyle folds
+BROKA calls 30
+manggy94 raises 300 to 330 and is all-in
+Green_Knight folds
+BROKA calls 300
+*** FLOP *** [9d 2h 9c]
+*** TURN *** [9d 2h 9c][4s]
+*** RIVER *** [9d 2h 9c 4s][Ts]
+*** SHOW DOWN ***
+BROKA shows [Ah 3c] (One pair : 9)
+manggy94 shows [Ks Ac] (One pair : 9)
+manggy94 collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [9d 2h 9c 4s Ts]
+Seat 3: BROKA (button) showed [Ah 3c] and lost with One pair : 9
+Seat 5: manggy94 (small blind) showed [Ks Ac] and won 690 with One pair : 9
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 1 - HandId: #571791130715226113-7-1444152295 - Holdem no limit (15/30) - 2015/10/06 17:24:55 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #5 is the button
+Seat 1: kridojm (1015)
+Seat 2: DonPapaStyle (760)
+Seat 3: BROKA (2075)
+Seat 5: manggy94 (690)
+Seat 6: Green_Knight (460)
+*** ANTE/BLINDS ***
+Green_Knight posts small blind 15
+kridojm posts big blind 30
+Dealt to manggy94 [7s 3c]
+*** PRE-FLOP *** 
+DonPapaStyle folds
+BROKA folds
+manggy94 folds
+Green_Knight folds
+kridojm collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: kridojm (big blind) won 45
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 1 - HandId: #571791130715226113-8-1444152310 - Holdem no limit (15/30) - 2015/10/06 17:25:10 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #6 is the button
+Seat 1: kridojm (1030)
+Seat 2: DonPapaStyle (760)
+Seat 3: BROKA (2075)
+Seat 5: manggy94 (690)
+Seat 6: Green_Knight (445)
+*** ANTE/BLINDS ***
+kridojm posts small blind 15
+DonPapaStyle posts big blind 30
+Dealt to manggy94 [4d 3h]
+*** PRE-FLOP *** 
+BROKA folds
+manggy94 folds
+Green_Knight folds
+kridojm calls 15
+DonPapaStyle checks
+*** FLOP *** [Jd 7s 8s]
+kridojm bets 30
+DonPapaStyle calls 30
+*** TURN *** [Jd 7s 8s][Td]
+kridojm checks
+DonPapaStyle checks
+*** RIVER *** [Jd 7s 8s Td][8c]
+kridojm bets 120
+DonPapaStyle folds
+kridojm collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Jd 7s 8s Td 8c]
+Seat 1: kridojm (small blind) won 240
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #571791130715226113-9-1444152374 - Holdem no limit (20/40) - 2015/10/06 17:26:14 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #1 is the button
+Seat 1: kridojm (1090)
+Seat 2: DonPapaStyle (700)
+Seat 3: BROKA (2075)
+Seat 5: manggy94 (690)
+Seat 6: Green_Knight (445)
+*** ANTE/BLINDS ***
+DonPapaStyle posts small blind 20
+BROKA posts big blind 40
+Dealt to manggy94 [2d Qc]
+*** PRE-FLOP *** 
+manggy94 calls 40
+Green_Knight folds
+kridojm folds
+DonPapaStyle calls 20
+BROKA raises 80 to 120
+manggy94 calls 80
+DonPapaStyle folds
+*** FLOP *** [5c Ac 4h]
+BROKA bets 140
+manggy94 folds
+BROKA collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [5c Ac 4h]
+Seat 3: BROKA (big blind) won 420
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #571791130715226113-10-1444152399 - Holdem no limit (20/40) - 2015/10/06 17:26:39 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #2 is the button
+Seat 1: kridojm (1090)
+Seat 2: DonPapaStyle (660)
+Seat 3: BROKA (2235)
+Seat 5: manggy94 (570)
+Seat 6: Green_Knight (445)
+*** ANTE/BLINDS ***
+BROKA posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [Ac Jh]
+*** PRE-FLOP *** 
+Green_Knight folds
+kridojm calls 40
+DonPapaStyle calls 40
+BROKA calls 20
+manggy94 raises 160 to 200
+kridojm folds
+DonPapaStyle raises 460 to 660 and is all-in
+BROKA folds
+manggy94 calls 370 and is all-in
+*** FLOP *** [6c Ks 6s]
+*** TURN *** [6c Ks 6s][Js]
+*** RIVER *** [6c Ks 6s Js][8c]
+*** SHOW DOWN ***
+manggy94 shows [Ac Jh] (Two pairs : Jacks and 6)
+DonPapaStyle shows [Qs Jd] (Two pairs : Jacks and 6)
+DonPapaStyle collected 90 from side pot 1
+manggy94 collected 1220 from main pot
+*** SUMMARY ***
+Total pot 1310 | No rake
+Board: [6c Ks 6s Js 8c]
+Seat 2: DonPapaStyle (button) showed [Qs Jd] and won 90 with Two pairs : Jacks and 6
+Seat 5: manggy94 (big blind) showed [Ac Jh] and won 1220 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #571791130715226113-11-1444152443 - Holdem no limit (20/40) - 2015/10/06 17:27:23 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #3 is the button
+Seat 1: kridojm (1050)
+Seat 2: DonPapaStyle (90)
+Seat 3: BROKA (2195)
+Seat 5: manggy94 (1220)
+Seat 6: Green_Knight (445)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+Green_Knight posts big blind 40
+Dealt to manggy94 [Kd 7d]
+*** PRE-FLOP *** 
+kridojm folds
+DonPapaStyle raises 50 to 90 and is all-in
+BROKA calls 90
+manggy94 calls 70
+Green_Knight folds
+*** FLOP *** [2c 8c 3s]
+manggy94 checks
+BROKA bets 155
+manggy94 calls 155
+*** TURN *** [2c 8c 3s][8s]
+manggy94 checks
+BROKA bets 310
+manggy94 calls 310
+*** RIVER *** [2c 8c 3s 8s][9c]
+manggy94 checks
+BROKA checks
+*** SHOW DOWN ***
+DonPapaStyle shows [Qd 6h] (One pair : 8)
+manggy94 shows [Kd 7d] (One pair : 8)
+BROKA shows [Qc Qh] (Two pairs : Queens and 8)
+BROKA collected 1240 from pot
+*** SUMMARY ***
+Total pot 1240 | No rake
+Board: [2c 8c 3s 8s 9c]
+Seat 2: DonPapaStyle showed [Qd 6h] and lost with One pair : 8
+Seat 3: BROKA (button) showed [Qc Qh] and won 1240 with Two pairs : Queens and 8
+Seat 5: manggy94 (small blind) showed [Kd 7d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #571791130715226113-12-1444152478 - Holdem no limit (20/40) - 2015/10/06 17:27:58 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #5 is the button
+Seat 1: kridojm (1050)
+Seat 3: BROKA (2880)
+Seat 5: manggy94 (665)
+Seat 6: Green_Knight (405)
+*** ANTE/BLINDS ***
+Green_Knight posts small blind 20
+kridojm posts big blind 40
+Dealt to manggy94 [9h 7c]
+*** PRE-FLOP *** 
+BROKA folds
+manggy94 folds
+Green_Knight folds
+kridojm collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: kridojm (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #571791130715226113-13-1444152487 - Holdem no limit (20/40) - 2015/10/06 17:28:07 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #6 is the button
+Seat 1: kridojm (1070)
+Seat 3: BROKA (2880)
+Seat 5: manggy94 (665)
+Seat 6: Green_Knight (385)
+*** ANTE/BLINDS ***
+kridojm posts small blind 20
+BROKA posts big blind 40
+Dealt to manggy94 [9d Js]
+*** PRE-FLOP *** 
+manggy94 raises 100 to 140
+Green_Knight folds
+kridojm folds
+BROKA calls 100
+*** FLOP *** [8h Ah 3d]
+BROKA checks
+manggy94 checks
+*** TURN *** [8h Ah 3d][2c]
+BROKA checks
+manggy94 checks
+*** RIVER *** [8h Ah 3d 2c][9c]
+BROKA checks
+manggy94 bets 300
+BROKA folds
+manggy94 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [8h Ah 3d 2c 9c]
+Seat 5: manggy94 won 600
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 3 - HandId: #571791130715226113-14-1444152517 - Holdem no limit (30/60) - 2015/10/06 17:28:37 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #1 is the button
+Seat 1: kridojm (1050)
+Seat 3: BROKA (2740)
+Seat 5: manggy94 (825)
+Seat 6: Green_Knight (385)
+*** ANTE/BLINDS ***
+BROKA posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [4c Th]
+*** PRE-FLOP *** 
+Green_Knight folds
+kridojm folds
+BROKA calls 30
+manggy94 checks
+*** FLOP *** [Kd 6h 2h]
+BROKA checks
+manggy94 checks
+*** TURN *** [Kd 6h 2h][Ts]
+BROKA checks
+manggy94 bets 120
+BROKA folds
+manggy94 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Kd 6h 2h Ts]
+Seat 5: manggy94 (big blind) won 240
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 3 - HandId: #571791130715226113-15-1444152549 - Holdem no limit (30/60) - 2015/10/06 17:29:09 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #3 is the button
+Seat 1: kridojm (1050)
+Seat 3: BROKA (2680)
+Seat 5: manggy94 (885)
+Seat 6: Green_Knight (385)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+Green_Knight posts big blind 60
+Dealt to manggy94 [Jc 7d]
+*** PRE-FLOP *** 
+kridojm folds
+BROKA raises 120 to 180
+manggy94 calls 150
+Green_Knight folds
+*** FLOP *** [8c 3s 8h]
+manggy94 checks
+BROKA bets 280
+manggy94 folds
+BROKA collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [8c 3s 8h]
+Seat 3: BROKA (button) won 700
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 3 - HandId: #571791130715226113-16-1444152569 - Holdem no limit (30/60) - 2015/10/06 17:29:29 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #5 is the button
+Seat 1: kridojm (1050)
+Seat 3: BROKA (2920)
+Seat 5: manggy94 (705)
+Seat 6: Green_Knight (325)
+*** ANTE/BLINDS ***
+Green_Knight posts small blind 30
+kridojm posts big blind 60
+Dealt to manggy94 [4h Tc]
+*** PRE-FLOP *** 
+BROKA calls 60
+manggy94 folds
+Green_Knight folds
+kridojm checks
+*** FLOP *** [Ad 7d Jd]
+kridojm bets 60
+BROKA calls 60
+*** TURN *** [Ad 7d Jd][5c]
+kridojm checks
+BROKA bets 135
+kridojm calls 135
+*** RIVER *** [Ad 7d Jd 5c][Td]
+kridojm checks
+BROKA checks
+*** SHOW DOWN ***
+kridojm shows [5h 3d] (Flush Ace high)
+BROKA shows [2d 5d] (Flush Ace high)
+BROKA collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Ad 7d Jd 5c Td]
+Seat 1: kridojm (big blind) showed [5h 3d] and lost with Flush Ace high
+Seat 3: BROKA showed [2d 5d] and won 540 with Flush Ace high
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 3 - HandId: #571791130715226113-17-1444152606 - Holdem no limit (30/60) - 2015/10/06 17:30:06 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #6 is the button
+Seat 1: kridojm (795)
+Seat 3: BROKA (3205)
+Seat 5: manggy94 (705)
+Seat 6: Green_Knight (295)
+*** ANTE/BLINDS ***
+kridojm posts small blind 30
+BROKA posts big blind 60
+Dealt to manggy94 [6d Jd]
+*** PRE-FLOP *** 
+manggy94 raises 150 to 210
+Green_Knight folds
+kridojm raises 585 to 795 and is all-in
+BROKA folds
+manggy94 calls 495 and is all-in
+*** FLOP *** [4c 5d 4s]
+*** TURN *** [4c 5d 4s][4h]
+*** RIVER *** [4c 5d 4s 4h][Ah]
+*** SHOW DOWN ***
+manggy94 shows [6d Jd] (Trips of 4)
+kridojm shows [Td Jh] (Trips of 4)
+kridojm collected 825 from side pot 1
+manggy94 collected 735 from main pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [4c 5d 4s 4h Ah]
+Seat 1: kridojm (small blind) showed [Td Jh] and won 825 with Trips of 4
+Seat 5: manggy94 showed [6d Jd] and won 735 with Trips of 4
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 3 - HandId: #571791130715226113-18-1444152626 - Holdem no limit (30/60) - 2015/10/06 17:30:26 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #1 is the button
+Seat 1: kridojm (825)
+Seat 3: BROKA (3145)
+Seat 5: manggy94 (735)
+Seat 6: Green_Knight (295)
+*** ANTE/BLINDS ***
+BROKA posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [4d Tc]
+*** PRE-FLOP *** 
+Green_Knight folds
+kridojm folds
+BROKA calls 30
+manggy94 checks
+*** FLOP *** [Kh Jh 8s]
+BROKA bets 60
+manggy94 folds
+BROKA collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Kh Jh 8s]
+Seat 3: BROKA (small blind) won 180
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 3 - HandId: #571791130715226113-19-1444152647 - Holdem no limit (30/60) - 2015/10/06 17:30:47 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #3 is the button
+Seat 1: kridojm (825)
+Seat 3: BROKA (3205)
+Seat 5: manggy94 (675)
+Seat 6: Green_Knight (295)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+Green_Knight posts big blind 60
+Dealt to manggy94 [Qs 4c]
+*** PRE-FLOP *** 
+kridojm raises 60 to 120
+BROKA folds
+manggy94 calls 90
+Green_Knight folds
+*** FLOP *** [Ac Qd Th]
+manggy94 bets 300
+kridojm raises 300 to 600
+manggy94 folds
+kridojm collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [Ac Qd Th]
+Seat 1: kridojm won 1200
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 3 - HandId: #571791130715226113-20-1444152678 - Holdem no limit (30/60) - 2015/10/06 17:31:18 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #5 is the button
+Seat 1: kridojm (1305)
+Seat 3: BROKA (3205)
+Seat 5: manggy94 (255)
+Seat 6: Green_Knight (235)
+*** ANTE/BLINDS ***
+Green_Knight posts small blind 30
+kridojm posts big blind 60
+Dealt to manggy94 [6h 5d]
+*** PRE-FLOP *** 
+BROKA raises 120 to 180
+manggy94 folds
+Green_Knight folds
+kridojm folds
+BROKA collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 3: BROKA won 270
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 4 - HandId: #571791130715226113-21-1444152696 - Holdem no limit (40/80) - 2015/10/06 17:31:36 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #6 is the button
+Seat 1: kridojm (1245)
+Seat 3: BROKA (3295)
+Seat 5: manggy94 (255)
+Seat 6: Green_Knight (205)
+*** ANTE/BLINDS ***
+kridojm posts small blind 40
+BROKA posts big blind 80
+Dealt to manggy94 [4d 3h]
+*** PRE-FLOP *** 
+manggy94 folds
+Green_Knight folds
+kridojm folds
+BROKA collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: BROKA (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 4 - HandId: #571791130715226113-22-1444152711 - Holdem no limit (40/80) - 2015/10/06 17:31:51 UTC
+Table: 'Starting Block - Deglingos(133130497)#0' 10-max (real money) Seat #1 is the button
+Seat 1: kridojm (1205)
+Seat 3: BROKA (3335)
+Seat 5: manggy94 (255)
+Seat 6: Green_Knight (205)
+*** ANTE/BLINDS ***
+BROKA posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [8d Js]
+*** PRE-FLOP *** 
+Green_Knight folds
+kridojm folds
+BROKA calls 40
+manggy94 raises 175 to 255 and is all-in
+BROKA calls 175
+*** FLOP *** [As Kh Qh]
+*** TURN *** [As Kh Qh][2h]
+*** RIVER *** [As Kh Qh 2h][6h]
+*** SHOW DOWN ***
+manggy94 shows [8d Js] (High card : Ace)
+BROKA shows [Qd Jd] (One pair : Queens)
+BROKA collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [As Kh Qh 2h 6h]
+Seat 3: BROKA (small blind) showed [Qd Jd] and won 510 with One pair : Queens
+Seat 5: manggy94 (big blind) showed [8d Js] and lost with High card : Ace
+
+

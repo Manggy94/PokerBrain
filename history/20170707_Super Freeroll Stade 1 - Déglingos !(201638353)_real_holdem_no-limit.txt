@@ -1,0 +1,63 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #866030131754303489-1-1499428285 - Holdem no limit (10/20) - 2017/07/07 11:51:25 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638353)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Vif- (500)
+Seat 2: KEFELGHAR (500)
+Seat 3: steven62970 (500)
+Seat 4: Alka-59 (500)
+Seat 5: Untermensch0 (500)
+Seat 6: manggy94 (500)
+*** ANTE/BLINDS ***
+steven62970 posts small blind 10
+Alka-59 posts big blind 20
+Dealt to manggy94 [7c 2h]
+*** PRE-FLOP *** 
+Untermensch0 raises 480 to 500 and is all-in
+manggy94 folds
+Vif- calls 500 and is all-in
+KEFELGHAR folds
+steven62970 calls 490 and is all-in
+Alka-59 calls 480 and is all-in
+*** FLOP *** [Qd 5h 7h]
+*** TURN *** [Qd 5h 7h][Qh]
+*** RIVER *** [Qd 5h 7h Qh][8s]
+*** SHOW DOWN ***
+Vif- shows [4d 4s] (Two pairs : Queens and 4)
+steven62970 shows [9s Jh] (One pair : Queens)
+Alka-59 shows [Jc As] (One pair : Queens)
+Untermensch0 shows [Qs Th] (Trips of Queens)
+Untermensch0 collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | No rake
+Board: [Qd 5h 7h Qh 8s]
+Seat 1: Vif- showed [4d 4s] and lost with Two pairs : Queens and 4
+Seat 3: steven62970 (small blind) showed [9s Jh] and lost with One pair : Queens
+Seat 4: Alka-59 (big blind) showed [Jc As] and lost with One pair : Queens
+Seat 5: Untermensch0 showed [Qs Th] and won 2000 with Trips of Queens
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #866030131754303489-2-1499428376 - Holdem no limit (10/20) - 2017/07/07 11:52:56 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638353)#0' 6-max (real money) Seat #3 is the button
+Seat 2: KEFELGHAR (500)
+Seat 5: Untermensch0 (2000)
+Seat 6: manggy94 (500)
+*** ANTE/BLINDS ***
+Untermensch0 posts big blind 20
+Dealt to manggy94 [Ks Qs]
+*** PRE-FLOP *** 
+manggy94 raises 480 to 500 and is all-in
+KEFELGHAR folds
+Untermensch0 raises 480 to 980
+*** FLOP *** [Ad Qh 5d]
+*** TURN *** [Ad Qh 5d][3d]
+*** RIVER *** [Ad Qh 5d 3d][Qd]
+*** SHOW DOWN ***
+manggy94 shows [Ks Qs] (Trips of Queens)
+Untermensch0 shows [7d 4d] (Flush Ace high)
+Untermensch0 collected 1480 from pot
+*** SUMMARY ***
+Total pot 1480 | No rake
+Board: [Ad Qh 5d 3d Qd]
+Seat 5: Untermensch0 (big blind) showed [7d 4d] and won 1480 with Flush Ace high
+Seat 6: manggy94 showed [Ks Qs] and lost with Trips of Queens
+
+

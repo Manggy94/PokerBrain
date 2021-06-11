@@ -1,0 +1,1456 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #619911458968305674-1-1453485605 - Holdem no limit (30/60) - 2016/01/22 18:00:05 UTC
+Table: 'Hold'em(144334384)#009' 6-max (real money) Seat #5 is the button
+Seat 1: ANDROCHE (1500)
+Seat 2: majkam (1500)
+Seat 3: vlagadaw (1500)
+Seat 4: Elkaiy (1500)
+Seat 5: manggy94 (1500)
+Seat 6: bellugues (1500)
+*** ANTE/BLINDS ***
+bellugues posts small blind 30
+ANDROCHE posts big blind 60
+Dealt to manggy94 [Kc 7h]
+*** PRE-FLOP *** 
+majkam calls 60
+vlagadaw folds
+Elkaiy calls 60
+manggy94 calls 60
+bellugues calls 30
+ANDROCHE checks
+*** FLOP *** [2c Kh Tc]
+bellugues bets 60
+ANDROCHE calls 60
+majkam folds
+Elkaiy calls 60
+manggy94 raises 540 to 600
+bellugues folds
+ANDROCHE calls 540
+Elkaiy folds
+*** TURN *** [2c Kh Tc][4d]
+ANDROCHE checks
+manggy94 bets 840 and is all-in
+ANDROCHE calls 840 and is all-in
+*** RIVER *** [2c Kh Tc 4d][8c]
+*** SHOW DOWN ***
+ANDROCHE shows [Qs Js] (High card : King)
+manggy94 shows [Kc 7h] (One pair : Kings)
+manggy94 collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Board: [2c Kh Tc 4d 8c]
+Seat 1: ANDROCHE (big blind) showed [Qs Js] and lost with High card : King
+Seat 5: manggy94 (button) showed [Kc 7h] and won 3300 with One pair : Kings
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 3 - HandId: #619911458968305674-2-1453485719 - Holdem no limit (30/60) - 2016/01/22 18:01:59 UTC
+Table: 'Hold'em(144334384)#009' 6-max (real money) Seat #6 is the button
+Seat 1: ANDROCHE (3000)
+Seat 2: majkam (1440)
+Seat 3: vlagadaw (4500)
+Seat 4: Elkaiy (1380)
+Seat 5: manggy94 (3300)
+Seat 6: bellugues (1380)
+*** ANTE/BLINDS ***
+ANDROCHE posts small blind 30
+majkam posts big blind 60
+Dealt to manggy94 [4d 9h]
+*** PRE-FLOP *** 
+vlagadaw folds
+Elkaiy folds
+manggy94 folds
+bellugues folds
+ANDROCHE calls 30
+majkam checks
+*** FLOP *** [6h Jd Tc]
+ANDROCHE bets 60
+majkam calls 60
+*** TURN *** [6h Jd Tc][Ac]
+ANDROCHE bets 120
+majkam calls 120
+*** RIVER *** [6h Jd Tc Ac][2c]
+ANDROCHE bets 270
+majkam folds
+ANDROCHE collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [6h Jd Tc Ac 2c]
+Seat 1: ANDROCHE (small blind) won 750
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 4 - HandId: #619911458968305674-3-1453485791 - Holdem no limit (40/80) - 2016/01/22 18:03:11 UTC
+Table: 'Hold'em(144334384)#009' 6-max (real money) Seat #1 is the button
+Seat 1: ANDROCHE (3240)
+Seat 2: majkam (1200)
+Seat 3: vlagadaw (4500)
+Seat 4: Elkaiy (1380)
+Seat 5: manggy94 (3300)
+Seat 6: bellugues (1380)
+*** ANTE/BLINDS ***
+majkam posts small blind 40
+vlagadaw posts big blind 80
+Dealt to manggy94 [6s Kc]
+*** PRE-FLOP *** 
+Elkaiy calls 80
+manggy94 calls 80
+bellugues calls 80
+ANDROCHE folds
+majkam folds
+vlagadaw checks
+*** FLOP *** [Jc 9d 7d]
+vlagadaw checks
+Elkaiy checks
+manggy94 checks
+bellugues checks
+*** TURN *** [Jc 9d 7d][Ts]
+vlagadaw bets 240
+Elkaiy calls 240
+manggy94 folds
+bellugues folds
+*** RIVER *** [Jc 9d 7d Ts][Kd]
+vlagadaw checks
+Elkaiy bets 840
+vlagadaw folds
+Elkaiy collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [Jc 9d 7d Ts Kd]
+Seat 4: Elkaiy won 1680
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #619911458968305674-4-1453485935 - Holdem no limit (60/120) - 2016/01/22 18:05:35 UTC
+Table: 'Hold'em(144334384)#009' 6-max (real money) Seat #2 is the button
+Seat 1: ANDROCHE (3240)
+Seat 2: majkam (1160)
+Seat 3: vlagadaw (4180)
+Seat 4: Elkaiy (1900)
+Seat 5: manggy94 (3220)
+Seat 6: bellugues (1300)
+*** ANTE/BLINDS ***
+vlagadaw posts small blind 60
+Elkaiy posts big blind 120
+Dealt to manggy94 [5c 6s]
+*** PRE-FLOP *** 
+manggy94 folds
+bellugues folds
+ANDROCHE folds
+majkam calls 120
+vlagadaw calls 60
+Elkaiy checks
+*** FLOP *** [Ad 8c 4c]
+vlagadaw checks
+Elkaiy checks
+majkam bets 360
+vlagadaw folds
+Elkaiy raises 1420 to 1780 and is all-in
+majkam folds
+Elkaiy collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Board: [Ad 8c 4c]
+Seat 4: Elkaiy (big blind) won 2500
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #619911458968305668-22-1453486030 - Holdem no limit (60/120) - 2016/01/22 18:07:10 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #5 is the button
+Seat 1: Rablavi (2105)
+Seat 2: blanklimpy (4600)
+Seat 3: joelacras (2220)
+Seat 4: jmelapete (5280)
+Seat 5: manggy94 (3220)
+Seat 6: LimpCallFold (5295)
+*** ANTE/BLINDS ***
+LimpCallFold posts small blind 60
+Rablavi posts big blind 120
+Dealt to manggy94 [Jh Th]
+*** PRE-FLOP *** 
+blanklimpy folds
+joelacras calls 120
+jmelapete calls 120
+manggy94 calls 120
+LimpCallFold folds
+Rablavi checks
+*** FLOP *** [8s 8d 9d]
+Rablavi bets 240
+joelacras calls 240
+jmelapete folds
+manggy94 calls 240
+*** TURN *** [8s 8d 9d][9c]
+Rablavi bets 120
+joelacras calls 120
+manggy94 calls 120
+*** RIVER *** [8s 8d 9d 9c][Qh]
+Rablavi bets 120
+joelacras raises 1620 to 1740 and is all-in
+manggy94 calls 1740
+Rablavi folds
+*** SHOW DOWN ***
+manggy94 shows [Jh Th] (Straight Queen high)
+joelacras shows [8h Ac] (Full of 8 and 9)
+joelacras collected 5220 from pot
+*** SUMMARY ***
+Total pot 5220 | No rake
+Board: [8s 8d 9d 9c Qh]
+Seat 3: joelacras showed [8h Ac] and won 5220 with Full of 8 and 9
+Seat 5: manggy94 (button) showed [Jh Th] and lost with Straight Queen high
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #619911458968305668-23-1453486091 - Holdem no limit (60/120) - 2016/01/22 18:08:11 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #6 is the button
+Seat 1: Rablavi (1505)
+Seat 2: blanklimpy (4600)
+Seat 3: joelacras (5220)
+Seat 4: jmelapete (5160)
+Seat 5: manggy94 (1000)
+Seat 6: LimpCallFold (5235)
+*** ANTE/BLINDS ***
+Rablavi posts small blind 60
+blanklimpy posts big blind 120
+Dealt to manggy94 [Kc As]
+*** PRE-FLOP *** 
+joelacras folds
+jmelapete calls 120
+manggy94 raises 880 to 1000 and is all-in
+LimpCallFold folds
+Rablavi raises 505 to 1505 and is all-in
+blanklimpy folds
+jmelapete calls 1385
+*** FLOP *** [8h 7d 5s]
+*** TURN *** [8h 7d 5s][6h]
+*** RIVER *** [8h 7d 5s 6h][Ks]
+*** SHOW DOWN ***
+jmelapete shows [Qc 6c] (One pair : 6)
+manggy94 shows [Kc As] (One pair : Kings)
+Rablavi shows [Jd Jc] (One pair : Jacks)
+Rablavi collected 1010 from side pot 1
+manggy94 collected 3120 from main pot
+*** SUMMARY ***
+Total pot 4130 | No rake
+Board: [8h 7d 5s 6h Ks]
+Seat 1: Rablavi (small blind) showed [Jd Jc] and won 1010 with One pair : Jacks
+Seat 4: jmelapete showed [Qc 6c] and lost with One pair : 6
+Seat 5: manggy94 showed [Kc As] and won 3120 with One pair : Kings
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #619911458968305668-24-1453486125 - Holdem no limit (10/60/120) - 2016/01/22 18:08:45 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #1 is the button
+Seat 1: Rablavi (1010)
+Seat 2: blanklimpy (4480)
+Seat 3: joelacras (5220)
+Seat 4: jmelapete (3655)
+Seat 5: manggy94 (3120)
+Seat 6: LimpCallFold (5235)
+*** ANTE/BLINDS ***
+blanklimpy posts ante 10
+joelacras posts ante 10
+Rablavi posts ante 10
+jmelapete posts ante 10
+manggy94 posts ante 10
+LimpCallFold posts ante 10
+blanklimpy posts small blind 60
+joelacras posts big blind 120
+Dealt to manggy94 [5d As]
+*** PRE-FLOP *** 
+jmelapete folds
+manggy94 calls 120
+LimpCallFold folds
+Rablavi calls 120
+blanklimpy folds
+joelacras checks
+*** FLOP *** [Jd Jh Td]
+joelacras checks
+manggy94 bets 480
+Rablavi folds
+joelacras folds
+manggy94 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [Jd Jh Td]
+Seat 5: manggy94 won 960
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #619911458968305668-25-1453486150 - Holdem no limit (10/60/120) - 2016/01/22 18:09:10 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #2 is the button
+Seat 1: Rablavi (880)
+Seat 2: blanklimpy (4410)
+Seat 3: joelacras (5090)
+Seat 4: jmelapete (3645)
+Seat 5: manggy94 (3470)
+Seat 6: LimpCallFold (5225)
+*** ANTE/BLINDS ***
+joelacras posts ante 10
+jmelapete posts ante 10
+Rablavi posts ante 10
+blanklimpy posts ante 10
+manggy94 posts ante 10
+LimpCallFold posts ante 10
+joelacras posts small blind 60
+jmelapete posts big blind 120
+Dealt to manggy94 [5c 7h]
+*** PRE-FLOP *** 
+manggy94 folds
+LimpCallFold folds
+Rablavi folds
+blanklimpy folds
+joelacras calls 60
+jmelapete checks
+*** FLOP *** [5s 9d 6s]
+joelacras bets 120
+jmelapete calls 120
+*** TURN *** [5s 9d 6s][Td]
+joelacras checks
+jmelapete checks
+*** RIVER *** [5s 9d 6s Td][Tc]
+joelacras bets 120
+jmelapete calls 120
+*** SHOW DOWN ***
+jmelapete shows [3s Qs] (One pair : Tens)
+joelacras shows [6c Qd] (Two pairs : Tens and 6)
+joelacras collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [5s 9d 6s Td Tc]
+Seat 3: joelacras (small blind) showed [6c Qd] and won 780 with Two pairs : Tens and 6
+Seat 4: jmelapete (big blind) showed [3s Qs] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #619911458968305668-26-1453486187 - Holdem no limit (10/60/120) - 2016/01/22 18:09:47 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #3 is the button
+Seat 1: Rablavi (870)
+Seat 2: blanklimpy (4400)
+Seat 3: joelacras (5500)
+Seat 4: jmelapete (3275)
+Seat 5: manggy94 (3460)
+Seat 6: LimpCallFold (5215)
+*** ANTE/BLINDS ***
+jmelapete posts ante 10
+manggy94 posts ante 10
+Rablavi posts ante 10
+blanklimpy posts ante 10
+joelacras posts ante 10
+LimpCallFold posts ante 10
+jmelapete posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [Ad 9h]
+*** PRE-FLOP *** 
+LimpCallFold folds
+Rablavi folds
+blanklimpy folds
+joelacras calls 120
+jmelapete folds
+manggy94 checks
+*** FLOP *** [2c 3d Qc]
+manggy94 checks
+joelacras bets 120
+manggy94 folds
+joelacras collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [2c 3d Qc]
+Seat 3: joelacras (button) won 480
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #619911458968305668-27-1453486222 - Holdem no limit (10/60/120) - 2016/01/22 18:10:22 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #4 is the button
+Seat 1: Rablavi (860)
+Seat 2: blanklimpy (4390)
+Seat 3: joelacras (5730)
+Seat 4: jmelapete (3205)
+Seat 5: manggy94 (3330)
+Seat 6: LimpCallFold (5205)
+*** ANTE/BLINDS ***
+manggy94 posts ante 10
+LimpCallFold posts ante 10
+Rablavi posts ante 10
+blanklimpy posts ante 10
+joelacras posts ante 10
+jmelapete posts ante 10
+manggy94 posts small blind 60
+LimpCallFold posts big blind 120
+Dealt to manggy94 [3h 8s]
+*** PRE-FLOP *** 
+Rablavi folds
+blanklimpy folds
+joelacras folds
+jmelapete folds
+manggy94 calls 60
+LimpCallFold raises 300 to 420
+manggy94 folds
+LimpCallFold collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 6: LimpCallFold (big blind) won 600
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #619911458968305668-28-1453486250 - Holdem no limit (10/60/120) - 2016/01/22 18:10:50 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #5 is the button
+Seat 1: Rablavi (850)
+Seat 2: blanklimpy (4380)
+Seat 3: joelacras (5720)
+Seat 4: jmelapete (3195)
+Seat 5: manggy94 (3200)
+Seat 6: LimpCallFold (5375)
+*** ANTE/BLINDS ***
+LimpCallFold posts ante 10
+Rablavi posts ante 10
+blanklimpy posts ante 10
+joelacras posts ante 10
+jmelapete posts ante 10
+manggy94 posts ante 10
+LimpCallFold posts small blind 60
+Rablavi posts big blind 120
+Dealt to manggy94 [5h Tc]
+*** PRE-FLOP *** 
+blanklimpy folds
+joelacras calls 120
+jmelapete folds
+manggy94 folds
+LimpCallFold raises 240 to 360
+Rablavi calls 240
+joelacras calls 240
+*** FLOP *** [2c 9c Jc]
+LimpCallFold checks
+Rablavi bets 480 and is all-in
+joelacras folds
+LimpCallFold folds
+Rablavi collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | No rake
+Board: [2c 9c Jc]
+Seat 1: Rablavi (big blind) won 1620
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #619911458968305668-29-1453486307 - Holdem no limit (15/75/150) - 2016/01/22 18:11:47 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #6 is the button
+Seat 1: Rablavi (1620)
+Seat 2: blanklimpy (4370)
+Seat 3: joelacras (5350)
+Seat 4: jmelapete (3185)
+Seat 5: manggy94 (3190)
+Seat 6: LimpCallFold (5005)
+*** ANTE/BLINDS ***
+Rablavi posts ante 15
+blanklimpy posts ante 15
+joelacras posts ante 15
+jmelapete posts ante 15
+manggy94 posts ante 15
+LimpCallFold posts ante 15
+Rablavi posts small blind 75
+blanklimpy posts big blind 150
+Dealt to manggy94 [Ad 5d]
+*** PRE-FLOP *** 
+joelacras folds
+jmelapete folds
+manggy94 raises 465 to 615
+LimpCallFold folds
+Rablavi raises 990 to 1605 and is all-in
+blanklimpy folds
+manggy94 calls 990
+*** FLOP *** [Qd 6s 5h]
+*** TURN *** [Qd 6s 5h][6c]
+*** RIVER *** [Qd 6s 5h 6c][3h]
+*** SHOW DOWN ***
+manggy94 shows [Ad 5d] (Two pairs : 6 and 5)
+Rablavi shows [8s 8h] (Two pairs : 8 and 6)
+Rablavi collected 3450 from pot
+*** SUMMARY ***
+Total pot 3450 | No rake
+Board: [Qd 6s 5h 6c 3h]
+Seat 1: Rablavi (small blind) showed [8s 8h] and won 3450 with Two pairs : 8 and 6
+Seat 5: manggy94 showed [Ad 5d] and lost with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #619911458968305668-30-1453486336 - Holdem no limit (15/75/150) - 2016/01/22 18:12:16 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #1 is the button
+Seat 1: Rablavi (3450)
+Seat 2: blanklimpy (4205)
+Seat 3: joelacras (5335)
+Seat 4: jmelapete (3170)
+Seat 5: manggy94 (1570)
+Seat 6: LimpCallFold (4990)
+*** ANTE/BLINDS ***
+blanklimpy posts ante 15
+joelacras posts ante 15
+Rablavi posts ante 15
+jmelapete posts ante 15
+manggy94 posts ante 15
+LimpCallFold posts ante 15
+blanklimpy posts small blind 75
+joelacras posts big blind 150
+Dealt to manggy94 [Td 7s]
+*** PRE-FLOP *** 
+jmelapete folds
+manggy94 folds
+LimpCallFold folds
+Rablavi folds
+blanklimpy folds
+joelacras collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Seat 3: joelacras (big blind) won 315
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #619911458968305668-31-1453486350 - Holdem no limit (15/75/150) - 2016/01/22 18:12:30 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #2 is the button
+Seat 1: Rablavi (3435)
+Seat 2: blanklimpy (4115)
+Seat 3: joelacras (5485)
+Seat 4: jmelapete (3155)
+Seat 5: manggy94 (1555)
+Seat 6: LimpCallFold (4975)
+*** ANTE/BLINDS ***
+joelacras posts ante 15
+jmelapete posts ante 15
+Rablavi posts ante 15
+blanklimpy posts ante 15
+manggy94 posts ante 15
+LimpCallFold posts ante 15
+joelacras posts small blind 75
+jmelapete posts big blind 150
+Dealt to manggy94 [6c Qh]
+*** PRE-FLOP *** 
+manggy94 folds
+LimpCallFold folds
+Rablavi folds
+blanklimpy folds
+joelacras calls 75
+jmelapete checks
+*** FLOP *** [3c 7c Kc]
+joelacras bets 150
+jmelapete calls 150
+*** TURN *** [3c 7c Kc][5s]
+joelacras bets 150
+jmelapete calls 150
+*** RIVER *** [3c 7c Kc 5s][Jc]
+joelacras bets 150
+jmelapete raises 2540 to 2690 and is all-in
+joelacras folds
+jmelapete collected 3830 from pot
+*** SUMMARY ***
+Total pot 3830 | No rake
+Board: [3c 7c Kc 5s Jc]
+Seat 4: jmelapete (big blind) won 3830
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #619911458968305668-32-1453486391 - Holdem no limit (15/75/150) - 2016/01/22 18:13:11 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #3 is the button
+Seat 1: Rablavi (3420)
+Seat 2: blanklimpy (4100)
+Seat 3: joelacras (4870)
+Seat 4: jmelapete (3830)
+Seat 5: manggy94 (1540)
+Seat 6: LimpCallFold (4960)
+*** ANTE/BLINDS ***
+jmelapete posts ante 15
+manggy94 posts ante 15
+Rablavi posts ante 15
+blanklimpy posts ante 15
+joelacras posts ante 15
+LimpCallFold posts ante 15
+jmelapete posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [4h Ks]
+*** PRE-FLOP *** 
+LimpCallFold folds
+Rablavi folds
+blanklimpy folds
+joelacras folds
+jmelapete calls 75
+manggy94 checks
+*** FLOP *** [8s 2s 3h]
+jmelapete checks
+manggy94 checks
+*** TURN *** [8s 2s 3h][Qc]
+jmelapete checks
+manggy94 checks
+*** RIVER *** [8s 2s 3h Qc][8h]
+jmelapete bets 150
+manggy94 folds
+jmelapete collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [8s 2s 3h Qc 8h]
+Seat 4: jmelapete (small blind) won 540
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #619911458968305668-33-1453486429 - Holdem no limit (15/75/150) - 2016/01/22 18:13:49 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #4 is the button
+Seat 1: Rablavi (3405)
+Seat 2: blanklimpy (4085)
+Seat 3: joelacras (4855)
+Seat 4: jmelapete (4055)
+Seat 5: manggy94 (1375)
+Seat 6: LimpCallFold (4945)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+LimpCallFold posts ante 15
+Rablavi posts ante 15
+blanklimpy posts ante 15
+joelacras posts ante 15
+jmelapete posts ante 15
+manggy94 posts small blind 75
+LimpCallFold posts big blind 150
+Dealt to manggy94 [Qs 6d]
+*** PRE-FLOP *** 
+Rablavi folds
+blanklimpy folds
+joelacras folds
+jmelapete folds
+manggy94 folds
+LimpCallFold collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Seat 6: LimpCallFold (big blind) won 315
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #619911458968305668-34-1453486447 - Holdem no limit (15/75/150) - 2016/01/22 18:14:07 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #5 is the button
+Seat 1: Rablavi (3390)
+Seat 2: blanklimpy (4070)
+Seat 3: joelacras (4840)
+Seat 4: jmelapete (4040)
+Seat 5: manggy94 (1285)
+Seat 6: LimpCallFold (5095)
+*** ANTE/BLINDS ***
+LimpCallFold posts ante 15
+Rablavi posts ante 15
+blanklimpy posts ante 15
+joelacras posts ante 15
+jmelapete posts ante 15
+manggy94 posts ante 15
+LimpCallFold posts small blind 75
+Rablavi posts big blind 150
+Dealt to manggy94 [Jh 3d]
+*** PRE-FLOP *** 
+blanklimpy folds
+joelacras calls 150
+jmelapete folds
+manggy94 folds
+LimpCallFold calls 75
+Rablavi checks
+*** FLOP *** [3s Jd 5s]
+LimpCallFold bets 270
+Rablavi folds
+joelacras folds
+LimpCallFold collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [3s Jd 5s]
+Seat 6: LimpCallFold (small blind) won 810
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #619911458968305668-35-1453486472 - Holdem no limit (20/100/200) - 2016/01/22 18:14:32 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #6 is the button
+Seat 1: Rablavi (3225)
+Seat 2: blanklimpy (4055)
+Seat 3: joelacras (4675)
+Seat 4: jmelapete (4025)
+Seat 5: manggy94 (1270)
+Seat 6: LimpCallFold (5470)
+*** ANTE/BLINDS ***
+Rablavi posts ante 20
+blanklimpy posts ante 20
+joelacras posts ante 20
+jmelapete posts ante 20
+manggy94 posts ante 20
+LimpCallFold posts ante 20
+Rablavi posts small blind 100
+blanklimpy posts big blind 200
+Dealt to manggy94 [4s Kd]
+*** PRE-FLOP *** 
+joelacras folds
+jmelapete folds
+manggy94 calls 200
+LimpCallFold folds
+Rablavi folds
+blanklimpy checks
+*** FLOP *** [3c Kh Ks]
+blanklimpy checks
+manggy94 checks
+*** TURN *** [3c Kh Ks][3h]
+blanklimpy checks
+manggy94 checks
+*** RIVER *** [3c Kh Ks 3h][Qd]
+blanklimpy checks
+manggy94 bets 620
+blanklimpy folds
+manggy94 collected 1240 from pot
+*** SUMMARY ***
+Total pot 1240 | No rake
+Board: [3c Kh Ks 3h Qd]
+Seat 5: manggy94 won 1240
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #619911458968305668-36-1453486520 - Holdem no limit (20/100/200) - 2016/01/22 18:15:20 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #1 is the button
+Seat 1: Rablavi (3105)
+Seat 2: blanklimpy (3835)
+Seat 3: joelacras (4655)
+Seat 4: jmelapete (4005)
+Seat 5: manggy94 (1670)
+Seat 6: LimpCallFold (5450)
+*** ANTE/BLINDS ***
+blanklimpy posts ante 20
+joelacras posts ante 20
+Rablavi posts ante 20
+jmelapete posts ante 20
+manggy94 posts ante 20
+LimpCallFold posts ante 20
+blanklimpy posts small blind 100
+joelacras posts big blind 200
+Dealt to manggy94 [Jh Jd]
+*** PRE-FLOP *** 
+jmelapete folds
+manggy94 raises 620 to 820
+LimpCallFold folds
+Rablavi folds
+blanklimpy folds
+joelacras calls 620
+*** FLOP *** [8h 6h 9c]
+joelacras bets 200
+manggy94 raises 630 to 830 and is all-in
+joelacras calls 630
+*** TURN *** [8h 6h 9c][7d]
+*** RIVER *** [8h 6h 9c 7d][2c]
+*** SHOW DOWN ***
+joelacras shows [Kc Qh] (High card : King)
+manggy94 shows [Jh Jd] (One pair : Jacks)
+manggy94 collected 3520 from pot
+*** SUMMARY ***
+Total pot 3520 | No rake
+Board: [8h 6h 9c 7d 2c]
+Seat 3: joelacras (big blind) showed [Kc Qh] and lost with High card : King
+Seat 5: manggy94 showed [Jh Jd] and won 3520 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #619911458968305668-37-1453486554 - Holdem no limit (20/100/200) - 2016/01/22 18:15:54 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #2 is the button
+Seat 1: Rablavi (3085)
+Seat 2: blanklimpy (3715)
+Seat 3: joelacras (2985)
+Seat 4: jmelapete (3985)
+Seat 5: manggy94 (3520)
+Seat 6: LimpCallFold (5430)
+*** ANTE/BLINDS ***
+joelacras posts ante 20
+jmelapete posts ante 20
+Rablavi posts ante 20
+blanklimpy posts ante 20
+manggy94 posts ante 20
+LimpCallFold posts ante 20
+joelacras posts small blind 100
+jmelapete posts big blind 200
+Dealt to manggy94 [As 3c]
+*** PRE-FLOP *** 
+manggy94 calls 200
+LimpCallFold folds
+Rablavi folds
+blanklimpy folds
+joelacras calls 100
+jmelapete checks
+*** FLOP *** [3h 9c 5c]
+joelacras checks
+jmelapete checks
+manggy94 bets 720
+joelacras folds
+jmelapete folds
+manggy94 collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [3h 9c 5c]
+Seat 5: manggy94 won 1440
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #619911458968305668-38-1453486576 - Holdem no limit (20/100/200) - 2016/01/22 18:16:16 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #3 is the button
+Seat 1: Rablavi (3065)
+Seat 2: blanklimpy (3695)
+Seat 3: joelacras (2765)
+Seat 4: jmelapete (3765)
+Seat 5: manggy94 (4020)
+Seat 6: LimpCallFold (5410)
+*** ANTE/BLINDS ***
+jmelapete posts ante 20
+manggy94 posts ante 20
+Rablavi posts ante 20
+blanklimpy posts ante 20
+joelacras posts ante 20
+LimpCallFold posts ante 20
+jmelapete posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [4d 9s]
+*** PRE-FLOP *** 
+LimpCallFold folds
+Rablavi folds
+blanklimpy folds
+joelacras calls 200
+jmelapete calls 100
+manggy94 checks
+*** FLOP *** [8s Qc Tc]
+jmelapete checks
+manggy94 checks
+joelacras checks
+*** TURN *** [8s Qc Tc][Qd]
+jmelapete bets 3545 and is all-in
+manggy94 folds
+joelacras folds
+jmelapete collected 4265 from pot
+*** SUMMARY ***
+Total pot 4265 | No rake
+Board: [8s Qc Tc Qd]
+Seat 4: jmelapete (small blind) won 4265
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #619911458968305668-39-1453486622 - Holdem no limit (20/100/200) - 2016/01/22 18:17:02 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #4 is the button
+Seat 1: Rablavi (3045)
+Seat 2: blanklimpy (3675)
+Seat 3: joelacras (2545)
+Seat 4: jmelapete (4265)
+Seat 5: manggy94 (3800)
+Seat 6: LimpCallFold (5390)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+LimpCallFold posts ante 20
+Rablavi posts ante 20
+blanklimpy posts ante 20
+joelacras posts ante 20
+jmelapete posts ante 20
+manggy94 posts small blind 100
+LimpCallFold posts big blind 200
+Dealt to manggy94 [9c Kh]
+*** PRE-FLOP *** 
+Rablavi calls 200
+blanklimpy folds
+joelacras folds
+jmelapete folds
+manggy94 calls 100
+LimpCallFold raises 5170 to 5370 and is all-in
+Rablavi folds
+manggy94 folds
+LimpCallFold collected 5890 from pot
+*** SUMMARY ***
+Total pot 5890 | No rake
+Seat 6: LimpCallFold (big blind) won 5890
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #619911458968305668-40-1453486650 - Holdem no limit (25/125/250) - 2016/01/22 18:17:30 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #5 is the button
+Seat 1: Rablavi (2825)
+Seat 2: blanklimpy (3655)
+Seat 3: joelacras (2525)
+Seat 4: jmelapete (4245)
+Seat 5: manggy94 (3580)
+Seat 6: LimpCallFold (5890)
+*** ANTE/BLINDS ***
+LimpCallFold posts ante 25
+Rablavi posts ante 25
+blanklimpy posts ante 25
+joelacras posts ante 25
+jmelapete posts ante 25
+manggy94 posts ante 25
+LimpCallFold posts small blind 125
+Rablavi posts big blind 250
+Dealt to manggy94 [6d 8s]
+*** PRE-FLOP *** 
+blanklimpy folds
+joelacras raises 250 to 500
+jmelapete folds
+manggy94 folds
+LimpCallFold folds
+Rablavi calls 250
+*** FLOP *** [2h 3d 9d]
+Rablavi checks
+joelacras bets 2000 and is all-in
+Rablavi folds
+joelacras collected 3275 from pot
+*** SUMMARY ***
+Total pot 3275 | No rake
+Board: [2h 3d 9d]
+Seat 3: joelacras won 3275
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #619911458968305668-41-1453486674 - Holdem no limit (25/125/250) - 2016/01/22 18:17:54 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #6 is the button
+Seat 1: Rablavi (2300)
+Seat 2: blanklimpy (3630)
+Seat 3: joelacras (3275)
+Seat 4: jmelapete (4220)
+Seat 5: manggy94 (3555)
+Seat 6: LimpCallFold (5740)
+*** ANTE/BLINDS ***
+Rablavi posts ante 25
+blanklimpy posts ante 25
+joelacras posts ante 25
+jmelapete posts ante 25
+manggy94 posts ante 25
+LimpCallFold posts ante 25
+Rablavi posts small blind 125
+blanklimpy posts big blind 250
+Dealt to manggy94 [4s 5d]
+*** PRE-FLOP *** 
+joelacras raises 250 to 500
+jmelapete folds
+manggy94 folds
+LimpCallFold folds
+Rablavi folds
+blanklimpy folds
+joelacras collected 1025 from pot
+*** SUMMARY ***
+Total pot 1025 | No rake
+Seat 3: joelacras won 1025
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #619911458968305668-42-1453486703 - Holdem no limit (25/125/250) - 2016/01/22 18:18:23 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #1 is the button
+Seat 1: Rablavi (2150)
+Seat 2: blanklimpy (3355)
+Seat 3: joelacras (3775)
+Seat 4: jmelapete (4195)
+Seat 5: manggy94 (3530)
+Seat 6: LimpCallFold (5715)
+*** ANTE/BLINDS ***
+blanklimpy posts ante 25
+joelacras posts ante 25
+Rablavi posts ante 25
+jmelapete posts ante 25
+manggy94 posts ante 25
+LimpCallFold posts ante 25
+blanklimpy posts small blind 125
+joelacras posts big blind 250
+Dealt to manggy94 [Jh 7s]
+*** PRE-FLOP *** 
+jmelapete calls 250
+manggy94 folds
+LimpCallFold folds
+Rablavi calls 250
+blanklimpy calls 125
+joelacras checks
+*** FLOP *** [5s As Js]
+blanklimpy checks
+joelacras checks
+jmelapete bets 3920 and is all-in
+Rablavi folds
+blanklimpy folds
+joelacras folds
+jmelapete collected 5070 from pot
+*** SUMMARY ***
+Total pot 5070 | No rake
+Board: [5s As Js]
+Seat 4: jmelapete won 5070
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #619911458968305668-43-1453486752 - Holdem no limit (25/125/250) - 2016/01/22 18:19:12 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #2 is the button
+Seat 1: Rablavi (1875)
+Seat 2: blanklimpy (3080)
+Seat 3: joelacras (3500)
+Seat 4: jmelapete (5070)
+Seat 5: manggy94 (3505)
+Seat 6: LimpCallFold (5690)
+*** ANTE/BLINDS ***
+joelacras posts ante 25
+jmelapete posts ante 25
+Rablavi posts ante 25
+blanklimpy posts ante 25
+manggy94 posts ante 25
+LimpCallFold posts ante 25
+joelacras posts small blind 125
+jmelapete posts big blind 250
+Dealt to manggy94 [6h 8s]
+*** PRE-FLOP *** 
+manggy94 folds
+LimpCallFold folds
+Rablavi folds
+blanklimpy raises 375 to 625
+joelacras folds
+jmelapete calls 375
+*** FLOP *** [2c 6s Kh]
+jmelapete checks
+blanklimpy checks
+*** TURN *** [2c 6s Kh][2s]
+jmelapete checks
+blanklimpy checks
+*** RIVER *** [2c 6s Kh 2s][6d]
+jmelapete checks
+blanklimpy checks
+*** SHOW DOWN ***
+blanklimpy shows [As 8c] (Two pairs : 6 and 2)
+jmelapete shows [9d Ac] (Two pairs : 6 and 2)
+jmelapete collected 763 from pot
+blanklimpy collected 762 from pot
+*** SUMMARY ***
+Total pot 1525 | No rake
+Board: [2c 6s Kh 2s 6d]
+Seat 2: blanklimpy (button) showed [As 8c] and won 762 with Two pairs : 6 and 2
+Seat 4: jmelapete (big blind) showed [9d Ac] and won 763 with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 9 - HandId: #619911458968305668-44-1453486813 - Holdem no limit (25/125/250) - 2016/01/22 18:20:13 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #3 is the button
+Seat 1: Rablavi (1850)
+Seat 2: blanklimpy (3192)
+Seat 3: joelacras (3350)
+Seat 5: manggy94 (3480)
+Seat 6: LimpCallFold (5665)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+Rablavi posts ante 25
+blanklimpy posts ante 25
+joelacras posts ante 25
+LimpCallFold posts ante 25
+manggy94 posts big blind 250
+Dealt to manggy94 [7c Qh]
+*** PRE-FLOP *** 
+LimpCallFold folds
+Rablavi folds
+blanklimpy raises 250 to 500
+joelacras calls 500
+manggy94 folds
+*** FLOP *** [Jh 5c Tc]
+blanklimpy checks
+joelacras bets 2825 and is all-in
+blanklimpy folds
+joelacras collected 4200 from pot
+*** SUMMARY ***
+Total pot 4200 | No rake
+Board: [Jh 5c Tc]
+Seat 3: joelacras (button) won 4200
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #619911458968305668-45-1453486840 - Holdem no limit (35/150/300) - 2016/01/22 18:20:40 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #4 is the button
+Seat 1: Rablavi (1825)
+Seat 2: blanklimpy (2667)
+Seat 3: joelacras (4200)
+Seat 5: manggy94 (3205)
+Seat 6: LimpCallFold (5640)
+*** ANTE/BLINDS ***
+manggy94 posts ante 35
+LimpCallFold posts ante 35
+Rablavi posts ante 35
+blanklimpy posts ante 35
+joelacras posts ante 35
+manggy94 posts small blind 150
+LimpCallFold posts big blind 300
+Dealt to manggy94 [6d Jc]
+*** PRE-FLOP *** 
+Rablavi folds
+blanklimpy folds
+joelacras calls 300
+manggy94 folds
+LimpCallFold raises 5305 to 5605 and is all-in
+joelacras folds
+LimpCallFold collected 6230 from pot
+*** SUMMARY ***
+Total pot 6230 | No rake
+Seat 6: LimpCallFold (big blind) won 6230
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #619911458968305668-46-1453486869 - Holdem no limit (35/150/300) - 2016/01/22 18:21:09 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #5 is the button
+Seat 1: Rablavi (1790)
+Seat 2: blanklimpy (2632)
+Seat 3: joelacras (3865)
+Seat 5: manggy94 (3020)
+Seat 6: LimpCallFold (6230)
+*** ANTE/BLINDS ***
+LimpCallFold posts ante 35
+Rablavi posts ante 35
+blanklimpy posts ante 35
+joelacras posts ante 35
+manggy94 posts ante 35
+LimpCallFold posts small blind 150
+Rablavi posts big blind 300
+Dealt to manggy94 [7h As]
+*** PRE-FLOP *** 
+blanklimpy raises 2297 to 2597 and is all-in
+joelacras folds
+manggy94 folds
+LimpCallFold folds
+Rablavi calls 1455 and is all-in
+*** FLOP *** [2s 9c 2d]
+*** TURN *** [2s 9c 2d][5s]
+*** RIVER *** [2s 9c 2d 5s][Ac]
+*** SHOW DOWN ***
+Rablavi shows [Qs Qc] (Two pairs : Queens and 2)
+blanklimpy shows [6c 6d] (Two pairs : 6 and 2)
+blanklimpy collected 842 from side pot 1
+Rablavi collected 3835 from main pot
+*** SUMMARY ***
+Total pot 4677 | No rake
+Board: [2s 9c 2d 5s Ac]
+Seat 1: Rablavi (big blind) showed [Qs Qc] and won 3835 with Two pairs : Queens and 2
+Seat 2: blanklimpy showed [6c 6d] and won 842 with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #619911458968305668-47-1453486891 - Holdem no limit (35/150/300) - 2016/01/22 18:21:31 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #6 is the button
+Seat 1: Rablavi (3835)
+Seat 2: blanklimpy (842)
+Seat 3: joelacras (3830)
+Seat 5: manggy94 (2985)
+Seat 6: LimpCallFold (6045)
+*** ANTE/BLINDS ***
+Rablavi posts ante 35
+blanklimpy posts ante 35
+joelacras posts ante 35
+manggy94 posts ante 35
+LimpCallFold posts ante 35
+Rablavi posts small blind 150
+blanklimpy posts big blind 300
+Dealt to manggy94 [Qs Qd]
+*** PRE-FLOP *** 
+joelacras folds
+manggy94 raises 925 to 1225
+LimpCallFold folds
+Rablavi folds
+blanklimpy folds
+manggy94 collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Seat 5: manggy94 won 1850
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #619911458968305668-48-1453486916 - Holdem no limit (35/150/300) - 2016/01/22 18:21:56 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #1 is the button
+Seat 1: Rablavi (3650)
+Seat 2: blanklimpy (507)
+Seat 3: joelacras (3795)
+Seat 5: manggy94 (3575)
+Seat 6: LimpCallFold (6010)
+*** ANTE/BLINDS ***
+blanklimpy posts ante 35
+joelacras posts ante 35
+Rablavi posts ante 35
+manggy94 posts ante 35
+LimpCallFold posts ante 35
+blanklimpy posts small blind 150
+joelacras posts big blind 300
+Dealt to manggy94 [2c Qc]
+*** PRE-FLOP *** 
+manggy94 folds
+LimpCallFold folds
+Rablavi folds
+blanklimpy raises 172 to 472 and is all-in
+joelacras calls 172
+*** FLOP *** [9c 3c 7d]
+*** TURN *** [9c 3c 7d][Th]
+*** RIVER *** [9c 3c 7d Th][Jc]
+*** SHOW DOWN ***
+joelacras shows [6d 5c] (High card : Jack)
+blanklimpy shows [8s Qd] (Straight Queen high)
+blanklimpy collected 1119 from pot
+*** SUMMARY ***
+Total pot 1119 | No rake
+Board: [9c 3c 7d Th Jc]
+Seat 2: blanklimpy (small blind) showed [8s Qd] and won 1119 with Straight Queen high
+Seat 3: joelacras (big blind) showed [6d 5c] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #619911458968305668-49-1453486936 - Holdem no limit (35/150/300) - 2016/01/22 18:22:16 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #2 is the button
+Seat 1: Rablavi (3615)
+Seat 2: blanklimpy (1119)
+Seat 3: joelacras (3288)
+Seat 5: manggy94 (3540)
+Seat 6: LimpCallFold (5975)
+*** ANTE/BLINDS ***
+joelacras posts ante 35
+manggy94 posts ante 35
+Rablavi posts ante 35
+blanklimpy posts ante 35
+LimpCallFold posts ante 35
+joelacras posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [4d 4c]
+*** PRE-FLOP *** 
+LimpCallFold raises 5640 to 5940 and is all-in
+Rablavi folds
+blanklimpy folds
+joelacras folds
+manggy94 folds
+LimpCallFold collected 6565 from pot
+*** SUMMARY ***
+Total pot 6565 | No rake
+Seat 6: LimpCallFold won 6565
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #619911458968305668-50-1453486952 - Holdem no limit (35/150/300) - 2016/01/22 18:22:32 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #3 is the button
+Seat 1: Rablavi (3580)
+Seat 2: blanklimpy (1084)
+Seat 3: joelacras (3103)
+Seat 5: manggy94 (3205)
+Seat 6: LimpCallFold (6565)
+*** ANTE/BLINDS ***
+manggy94 posts ante 35
+LimpCallFold posts ante 35
+Rablavi posts ante 35
+blanklimpy posts ante 35
+joelacras posts ante 35
+manggy94 posts small blind 150
+LimpCallFold posts big blind 300
+Dealt to manggy94 [9c Jh]
+*** PRE-FLOP *** 
+Rablavi folds
+blanklimpy raises 749 to 1049 and is all-in
+joelacras folds
+manggy94 folds
+LimpCallFold calls 749
+*** FLOP *** [3h 9h 3d]
+*** TURN *** [3h 9h 3d][Tc]
+*** RIVER *** [3h 9h 3d Tc][5h]
+*** SHOW DOWN ***
+LimpCallFold shows [6d Jd] (One pair : 3)
+blanklimpy shows [Kd Js] (One pair : 3)
+blanklimpy collected 2423 from pot
+*** SUMMARY ***
+Total pot 2423 | No rake
+Board: [3h 9h 3d Tc 5h]
+Seat 2: blanklimpy showed [Kd Js] and won 2423 with One pair : 3
+Seat 6: LimpCallFold (big blind) showed [6d Jd] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #619911458968305668-51-1453486976 - Holdem no limit (35/150/300) - 2016/01/22 18:22:56 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #5 is the button
+Seat 1: Rablavi (3545)
+Seat 2: blanklimpy (2423)
+Seat 3: joelacras (3068)
+Seat 5: manggy94 (3020)
+Seat 6: LimpCallFold (5481)
+*** ANTE/BLINDS ***
+LimpCallFold posts ante 35
+Rablavi posts ante 35
+blanklimpy posts ante 35
+joelacras posts ante 35
+manggy94 posts ante 35
+LimpCallFold posts small blind 150
+Rablavi posts big blind 300
+Dealt to manggy94 [8c 3s]
+*** PRE-FLOP *** 
+blanklimpy folds
+joelacras raises 925 to 1225
+manggy94 folds
+LimpCallFold folds
+Rablavi folds
+joelacras collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Seat 3: joelacras won 1850
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 10 - HandId: #619911458968305668-52-1453486990 - Holdem no limit (35/150/300) - 2016/01/22 18:23:10 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #6 is the button
+Seat 1: Rablavi (3210)
+Seat 2: blanklimpy (2388)
+Seat 3: joelacras (3658)
+Seat 4: anai (7510)
+Seat 5: manggy94 (2985)
+Seat 6: LimpCallFold (5296)
+*** ANTE/BLINDS ***
+Rablavi posts ante 35
+blanklimpy posts ante 35
+joelacras posts ante 35
+anai posts ante 35
+manggy94 posts ante 35
+LimpCallFold posts ante 35
+Rablavi posts small blind 150
+blanklimpy posts big blind 300
+Dealt to manggy94 [Jc Qc]
+*** PRE-FLOP *** 
+joelacras raises 300 to 600
+anai folds
+manggy94 calls 600
+LimpCallFold folds
+Rablavi calls 450
+blanklimpy raises 1753 to 2353 and is all-in
+joelacras folds
+manggy94 folds
+Rablavi folds
+blanklimpy collected 4363 from pot
+*** SUMMARY ***
+Total pot 4363 | No rake
+Seat 2: blanklimpy (big blind) won 4363
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #619911458968305668-53-1453487015 - Holdem no limit (40/200/400) - 2016/01/22 18:23:35 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #1 is the button
+Seat 1: Rablavi (2575)
+Seat 2: blanklimpy (4363)
+Seat 3: joelacras (3023)
+Seat 4: anai (7475)
+Seat 5: manggy94 (2350)
+Seat 6: LimpCallFold (5261)
+*** ANTE/BLINDS ***
+blanklimpy posts ante 40
+joelacras posts ante 40
+Rablavi posts ante 40
+anai posts ante 40
+manggy94 posts ante 40
+LimpCallFold posts ante 40
+blanklimpy posts small blind 200
+joelacras posts big blind 400
+Dealt to manggy94 [7s 4c]
+*** PRE-FLOP *** 
+anai folds
+manggy94 folds
+LimpCallFold raises 400 to 800
+Rablavi folds
+blanklimpy folds
+joelacras calls 400
+*** FLOP *** [6s 5h 2h]
+joelacras checks
+LimpCallFold bets 680
+joelacras folds
+LimpCallFold collected 2720 from pot
+*** SUMMARY ***
+Total pot 2720 | No rake
+Board: [6s 5h 2h]
+Seat 6: LimpCallFold won 2720
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #619911458968305668-54-1453487044 - Holdem no limit (40/200/400) - 2016/01/22 18:24:04 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #2 is the button
+Seat 1: Rablavi (2535)
+Seat 2: blanklimpy (4123)
+Seat 3: joelacras (2183)
+Seat 4: anai (7435)
+Seat 5: manggy94 (2310)
+Seat 6: LimpCallFold (6461)
+*** ANTE/BLINDS ***
+joelacras posts ante 40
+anai posts ante 40
+Rablavi posts ante 40
+blanklimpy posts ante 40
+manggy94 posts ante 40
+LimpCallFold posts ante 40
+joelacras posts small blind 200
+anai posts big blind 400
+Dealt to manggy94 [8c 2d]
+*** PRE-FLOP *** 
+manggy94 folds
+LimpCallFold raises 6021 to 6421 and is all-in
+Rablavi folds
+blanklimpy folds
+joelacras folds
+anai folds
+LimpCallFold collected 7261 from pot
+*** SUMMARY ***
+Total pot 7261 | No rake
+Seat 6: LimpCallFold won 7261
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #619911458968305668-55-1453487063 - Holdem no limit (40/200/400) - 2016/01/22 18:24:23 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #3 is the button
+Seat 1: Rablavi (2495)
+Seat 2: blanklimpy (4083)
+Seat 3: joelacras (1943)
+Seat 4: anai (6995)
+Seat 5: manggy94 (2270)
+Seat 6: LimpCallFold (7261)
+*** ANTE/BLINDS ***
+anai posts ante 40
+manggy94 posts ante 40
+Rablavi posts ante 40
+blanklimpy posts ante 40
+joelacras posts ante 40
+LimpCallFold posts ante 40
+anai posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [2c 3d]
+*** PRE-FLOP *** 
+LimpCallFold folds
+Rablavi calls 400
+blanklimpy folds
+joelacras folds
+anai calls 200
+manggy94 checks
+*** FLOP *** [4d 2s 5h]
+anai bets 400
+manggy94 calls 400
+Rablavi folds
+*** TURN *** [4d 2s 5h][9c]
+anai bets 400
+manggy94 calls 400
+*** RIVER *** [4d 2s 5h 9c][7d]
+anai bets 400
+manggy94 calls 400
+*** SHOW DOWN ***
+manggy94 shows [2c 3d] (One pair : 2)
+anai shows [5c Ks] (One pair : 5)
+anai collected 3840 from pot
+*** SUMMARY ***
+Total pot 3840 | No rake
+Board: [4d 2s 5h 9c 7d]
+Seat 4: anai (small blind) showed [5c Ks] and won 3840 with One pair : 5
+Seat 5: manggy94 (big blind) showed [2c 3d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #619911458968305668-56-1453487111 - Holdem no limit (40/200/400) - 2016/01/22 18:25:11 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #4 is the button
+Seat 1: Rablavi (2055)
+Seat 2: blanklimpy (4043)
+Seat 3: joelacras (1903)
+Seat 4: anai (9195)
+Seat 5: manggy94 (630)
+Seat 6: LimpCallFold (7221)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+LimpCallFold posts ante 40
+Rablavi posts ante 40
+blanklimpy posts ante 40
+joelacras posts ante 40
+anai posts ante 40
+manggy94 posts small blind 200
+LimpCallFold posts big blind 400
+Dealt to manggy94 [2d 7c]
+*** PRE-FLOP *** 
+Rablavi folds
+blanklimpy folds
+joelacras folds
+anai folds
+manggy94 folds
+LimpCallFold collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Seat 6: LimpCallFold (big blind) won 840
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0,45€ + 0,05€ level: 11 - HandId: #619911458968305668-57-1453487126 - Holdem no limit (40/200/400) - 2016/01/22 18:25:26 UTC
+Table: 'Hold'em(144334384)#003' 6-max (real money) Seat #5 is the button
+Seat 1: Rablavi (2015)
+Seat 2: blanklimpy (4003)
+Seat 3: joelacras (1863)
+Seat 4: anai (9155)
+Seat 5: manggy94 (390)
+*** ANTE/BLINDS ***
+Rablavi posts ante 40
+blanklimpy posts ante 40
+joelacras posts ante 40
+anai posts ante 40
+manggy94 posts ante 40
+Rablavi posts big blind 400
+Dealt to manggy94 [8s 8h]
+*** PRE-FLOP *** 
+blanklimpy folds
+joelacras folds
+anai calls 400
+manggy94 calls 350 and is all-in
+Rablavi checks
+*** FLOP *** [4h Ah 3d]
+Rablavi checks
+anai bets 400
+Rablavi folds
+*** TURN *** [4h Ah 3d][Ad]
+*** RIVER *** [4h Ah 3d Ad][9c]
+*** SHOW DOWN ***
+manggy94 shows [8s 8h] (Two pairs : Aces and 8)
+anai shows [Qd Qs] (Two pairs : Aces and Queens)
+anai collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | No rake
+Board: [4h Ah 3d Ad 9c]
+Seat 4: anai showed [Qd Qs] and won 1750 with Two pairs : Aces and Queens
+Seat 5: manggy94 (button) showed [8s 8h] and lost with Two pairs : Aces and 8
+
+

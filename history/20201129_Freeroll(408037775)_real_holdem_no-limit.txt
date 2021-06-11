@@ -1,0 +1,85 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #1752508899157606656-43-1606667675 - Holdem no limit (120/500/1000) - 2020/11/29 16:34:35 UTC
+Table: 'Freeroll(408037775)#0255' 8-max (real money) Seat #5 is the button
+Seat 1: Patricelin (160224)
+Seat 2: Boleslav (62409)
+Seat 3: cardocuco (206787)
+Seat 4: yaneoyaneo (20000)
+Seat 5: Jerome572 (92475)
+Seat 6: manggy94 (20000)
+Seat 7: Joseplion (13294)
+Seat 8: -Brockjames- (13503)
+*** ANTE/BLINDS ***
+Joseplion posts ante 120
+-Brockjames- posts ante 120
+Patricelin posts ante 120
+Boleslav posts ante 120
+cardocuco posts ante 120
+yaneoyaneo posts ante 120
+Jerome572 posts ante 120
+Joseplion posts small blind 500
+-Brockjames- posts big blind 1000
+*** PRE-FLOP *** 
+Patricelin folds
+Boleslav folds
+cardocuco raises 205667 to 206667 and is all-in
+yaneoyaneo folds
+Jerome572 folds
+Joseplion folds
+-Brockjames- folds
+cardocuco collected 209007 from pot
+*** SUMMARY ***
+Total pot 209007 | No rake
+Seat 3: cardocuco won 209007
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #1752508899157606656-44-1606667736 - Holdem no limit (140/600/1200) - 2020/11/29 16:35:36 UTC
+Table: 'Freeroll(408037775)#0255' 8-max (real money) Seat #7 is the button
+Seat 1: Patricelin (160104)
+Seat 2: Boleslav (62289)
+Seat 3: cardocuco (209007)
+Seat 4: yaneoyaneo (19880)
+Seat 5: Jerome572 (92355)
+Seat 6: manggy94 (20000)
+Seat 7: Joseplion (12674)
+Seat 8: -Brockjames- (12383)
+*** ANTE/BLINDS ***
+-Brockjames- posts ante 140
+Patricelin posts ante 140
+Boleslav posts ante 140
+cardocuco posts ante 140
+yaneoyaneo posts ante 140
+Jerome572 posts ante 140
+manggy94 posts ante 140
+Joseplion posts ante 140
+-Brockjames- posts small blind 600
+Patricelin posts big blind 1200
+Dealt to manggy94 [Ad 6c]
+*** PRE-FLOP *** 
+Boleslav raises 1200 to 2400
+cardocuco raises 206467 to 208867 and is all-in
+yaneoyaneo folds
+Jerome572 folds
+manggy94 calls 19860 and is all-in
+Joseplion folds
+-Brockjames- folds
+Patricelin calls 158764 and is all-in
+Boleslav calls 59749 and is all-in
+*** FLOP *** [4s 4c 7c]
+*** TURN *** [4s 4c 7c][Jc]
+*** RIVER *** [4s 4c 7c Jc][Ah]
+*** SHOW DOWN ***
+Boleslav shows [As Qs] (Two pairs : Aces and 4)
+manggy94 shows [Ad 6c] (Two pairs : Aces and 4)
+Patricelin shows [Qc Ac] (Flush Ace high)
+cardocuco shows [8d 8s] (Two pairs : 8 and 4)
+cardocuco collected 48903 from side pot 1
+Patricelin collected 403657 from main pot
+*** SUMMARY ***
+Total pot 452560 | No rake
+Board: [4s 4c 7c Jc Ah]
+Seat 1: Patricelin (big blind) showed [Qc Ac] and won 403657 with Flush Ace high
+Seat 2: Boleslav showed [As Qs] and lost with Two pairs : Aces and 4
+Seat 3: cardocuco showed [8d 8s] and won 48903 with Two pairs : 8 and 4
+Seat 6: manggy94 showed [Ad 6c] and lost with Two pairs : Aces and 4
+
+

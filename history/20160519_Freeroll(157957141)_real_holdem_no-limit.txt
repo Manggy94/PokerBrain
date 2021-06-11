@@ -1,0 +1,144 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #678420754764660865-12-1463682939 - Holdem no limit (10/60/120) - 2016/05/19 18:35:39 UTC
+Table: 'Freeroll(157957141)#0128' 8-max (real money) Seat #6 is the button
+Seat 1: flyerf (8370)
+Seat 2: Romain776 (8380)
+Seat 3: Viens974 (740)
+Seat 4: Marrazo (2906)
+Seat 5: Massage 30 (11040)
+Seat 6: garnitario (8250)
+Seat 7: manggy94 (3000)
+Seat 8: notidia (2340)
+*** ANTE/BLINDS ***
+notidia posts ante 10
+flyerf posts ante 10
+Romain776 posts ante 10
+Viens974 posts ante 10
+Marrazo posts ante 10
+Massage 30 posts ante 10
+garnitario posts ante 10
+notidia posts small blind 60
+flyerf posts big blind 120
+*** PRE-FLOP *** 
+Romain776 folds
+Viens974 raises 610 to 730 and is all-in
+Marrazo folds
+Massage 30 folds
+garnitario calls 730
+notidia folds
+flyerf calls 610
+*** FLOP *** [4c 6d 8d]
+flyerf checks
+garnitario bets 986
+flyerf calls 986
+*** TURN *** [4c 6d 8d][Jh]
+flyerf checks
+garnitario bets 1703
+flyerf folds
+*** RIVER *** [4c 6d 8d Jh][6h]
+*** SHOW DOWN ***
+Viens974 shows [Ac 4h] (Two pairs : 6 and 4)
+garnitario shows [Td 8h] (Two pairs : 8 and 6)
+garnitario collected 5995 from pot
+*** SUMMARY ***
+Total pot 5995 | No rake
+Board: [4c 6d 8d Jh 6h]
+Seat 3: Viens974 showed [Ac 4h] and lost with Two pairs : 6 and 4
+Seat 6: garnitario (button) showed [Td 8h] and won 5995 with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #678420754764660865-13-1463683032 - Holdem no limit (15/75/150) - 2016/05/19 18:37:12 UTC
+Table: 'Freeroll(157957141)#0128' 8-max (real money) Seat #8 is the button
+Seat 1: flyerf (6644)
+Seat 2: Romain776 (8370)
+Seat 4: Marrazo (2896)
+Seat 5: Massage 30 (11030)
+Seat 6: garnitario (10816)
+Seat 7: manggy94 (3000)
+Seat 8: notidia (2270)
+*** ANTE/BLINDS ***
+flyerf posts ante 15
+Romain776 posts ante 15
+Marrazo posts ante 15
+Massage 30 posts ante 15
+garnitario posts ante 15
+manggy94 posts ante 15
+notidia posts ante 15
+flyerf posts small blind 75
+Romain776 posts big blind 150
+Dealt to manggy94 [3s 7s]
+*** PRE-FLOP *** 
+Marrazo folds
+Massage 30 calls 150
+garnitario calls 150
+manggy94 folds
+notidia folds
+flyerf folds
+Romain776 folds
+*** FLOP *** [6c 5s Kc]
+Massage 30 checks
+garnitario checks
+*** TURN *** [6c 5s Kc][Qd]
+Massage 30 checks
+garnitario bets 150
+Massage 30 folds
+garnitario collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [6c 5s Kc Qd]
+Seat 6: garnitario won 780
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #678420754764660865-14-1463683118 - Holdem no limit (15/75/150) - 2016/05/19 18:38:38 UTC
+Table: 'Freeroll(157957141)#0128' 8-max (real money) Seat #1 is the button
+Seat 1: flyerf (6554)
+Seat 2: Romain776 (8205)
+Seat 3: PoKerBe (3000)
+Seat 4: Marrazo (2881)
+Seat 5: Massage 30 (10865)
+Seat 6: garnitario (11281)
+Seat 7: manggy94 (2985)
+Seat 8: notidia (2255)
+*** ANTE/BLINDS ***
+Romain776 posts ante 15
+PoKerBe posts ante 15
+flyerf posts ante 15
+Marrazo posts ante 15
+Massage 30 posts ante 15
+garnitario posts ante 15
+manggy94 posts ante 15
+notidia posts ante 15
+Romain776 posts small blind 75
+PoKerBe posts big blind 150
+Dealt to manggy94 [Ac 2s]
+*** PRE-FLOP *** 
+Marrazo folds
+Massage 30 calls 150
+garnitario folds
+manggy94 calls 150
+notidia folds
+flyerf folds
+Romain776 folds
+PoKerBe checks
+*** FLOP *** [5s 7h 2h]
+PoKerBe checks
+Massage 30 checks
+manggy94 bets 645
+PoKerBe calls 645
+Massage 30 folds
+*** TURN *** [5s 7h 2h][5d]
+PoKerBe checks
+manggy94 bets 1935
+PoKerBe raises 255 to 2190 and is all-in
+manggy94 calls 240 and is all-in
+*** RIVER *** [5s 7h 2h 5d][6h]
+*** SHOW DOWN ***
+manggy94 shows [Ac 2s] (Two pairs : 5 and 2)
+PoKerBe shows [7d Js] (Two pairs : 7 and 5)
+PoKerBe collected 6300 from pot
+*** SUMMARY ***
+Total pot 6300 | No rake
+Board: [5s 7h 2h 5d 6h]
+Seat 3: PoKerBe (big blind) showed [7d Js] and won 6300 with Two pairs : 7 and 5
+Seat 7: manggy94 showed [Ac 2s] and lost with Two pairs : 5 and 2
+
+

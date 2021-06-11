@@ -1,0 +1,29 @@
+Winamax Poker - Tournament "Déglingos" buyIn: 2.70€ + 0.30€ level: 6 - HandId: #699871019736760324-49-1468081075 - Holdem no limit (60/120) - 2016/07/09 16:17:55 UTC
+Table: 'Déglingos(162951420)#003' 3-max (real money) Seat #1 is the button
+Seat 1: kigkog (1840)
+Seat 2: Tuine (1390)
+Seat 3: manggy94 (500)
+*** ANTE/BLINDS ***
+Tuine posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [Qh 2h]
+*** PRE-FLOP *** 
+kigkog folds
+Tuine raises 180 to 300
+manggy94 calls 180
+*** FLOP *** [4c 9c 4d]
+Tuine bets 240
+manggy94 calls 200 and is all-in
+*** TURN *** [4c 9c 4d][3s]
+*** RIVER *** [4c 9c 4d 3s][Js]
+*** SHOW DOWN ***
+manggy94 shows [Qh 2h] (One pair : 4)
+Tuine shows [Kh Qc] (One pair : 4)
+Tuine collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [4c 9c 4d 3s Js]
+Seat 2: Tuine (small blind) showed [Kh Qc] and won 1040 with One pair : 4
+Seat 3: manggy94 (big blind) showed [Qh 2h] and lost with One pair : 4
+
+

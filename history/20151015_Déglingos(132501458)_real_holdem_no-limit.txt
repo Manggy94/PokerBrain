@@ -1,0 +1,77 @@
+Winamax Poker - Tournament "Déglingos" buyIn: 0,90€ + 0,10€ level: 7 - HandId: #569089428782317571-65-1444893726 - Holdem no limit (15/75/150) - 2015/10/15 07:22:06 UTC
+Table: 'Déglingos(132501458)#002' 3-max (real money) Seat #1 is the button
+Seat 1: vault69 (7811)
+Seat 2: Liliame (4873)
+Seat 3: manggy94 (500)
+*** ANTE/BLINDS ***
+Liliame posts ante 15
+manggy94 posts ante 15
+vault69 posts ante 15
+Liliame posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [Jh 8c]
+*** PRE-FLOP *** 
+vault69 raises 150 to 300
+Liliame folds
+manggy94 calls 150
+*** FLOP *** [Qh 5s 3s]
+manggy94 bets 185 and is all-in
+vault69 folds
+manggy94 collected 905 from pot
+*** SUMMARY ***
+Total pot 905 | No rake
+Board: [Qh 5s 3s]
+Seat 3: manggy94 (big blind) won 905
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 0,90€ + 0,10€ level: 7 - HandId: #569089428782317571-66-1444893748 - Holdem no limit (15/75/150) - 2015/10/15 07:22:28 UTC
+Table: 'Déglingos(132501458)#002' 3-max (real money) Seat #2 is the button
+Seat 1: vault69 (7496)
+Seat 2: Liliame (4783)
+Seat 3: manggy94 (905)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+vault69 posts ante 15
+Liliame posts ante 15
+manggy94 posts small blind 75
+vault69 posts big blind 150
+Dealt to manggy94 [4h 8d]
+*** PRE-FLOP *** 
+Liliame folds
+manggy94 folds
+vault69 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 1: vault69 (big blind) won 270
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 0,90€ + 0,10€ level: 7 - HandId: #569089428782317571-67-1444893754 - Holdem no limit (15/75/150) - 2015/10/15 07:22:34 UTC
+Table: 'Déglingos(132501458)#002' 3-max (real money) Seat #3 is the button
+Seat 1: vault69 (7601)
+Seat 2: Liliame (4768)
+Seat 3: manggy94 (815)
+*** ANTE/BLINDS ***
+vault69 posts ante 15
+Liliame posts ante 15
+manggy94 posts ante 15
+vault69 posts small blind 75
+Liliame posts big blind 150
+Dealt to manggy94 [8c Js]
+*** PRE-FLOP *** 
+manggy94 raises 650 to 800 and is all-in
+vault69 calls 725
+Liliame folds
+*** FLOP *** [Ad Qc 4d]
+*** TURN *** [Ad Qc 4d][2d]
+*** RIVER *** [Ad Qc 4d 2d][3d]
+*** SHOW DOWN ***
+manggy94 shows [8c Js] (High card : Ace)
+vault69 shows [8d 7d] (Flush Ace high)
+vault69 collected 1795 from pot
+*** SUMMARY ***
+Total pot 1795 | No rake
+Board: [Ad Qc 4d 2d 3d]
+Seat 1: vault69 (small blind) showed [8d 7d] and won 1795 with Flush Ace high
+Seat 3: manggy94 (button) showed [8c Js] and lost with High card : Ace
+
+

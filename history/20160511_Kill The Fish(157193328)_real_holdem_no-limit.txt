@@ -1,0 +1,82 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 0 - HandId: #675140202909401104-2-1462987015 - Holdem no limit (25/50) - 2016/05/11 17:16:55 UTC
+Table: 'Kill The Fish(157193328)#015' 8-max (real money) Seat #6 is the button
+Seat 2: Phabrysse11 (10025)
+Seat 3: manggy94 (10000)
+Seat 4: Don100Limit (10000)
+Seat 5: DO Dang (10000)
+Seat 6: helice89 (9975)
+Seat 8: kiwi420 (10000)
+*** ANTE/BLINDS ***
+Phabrysse11 posts small blind 25
+manggy94 posts big blind 50
+Dealt to manggy94 [As Qh]
+*** PRE-FLOP *** 
+Don100Limit folds
+DO Dang calls 50
+helice89 calls 50
+Phabrysse11 calls 25
+manggy94 raises 200 to 250
+DO Dang folds
+helice89 calls 200
+Phabrysse11 folds
+*** FLOP *** [5c 5d Th]
+manggy94 bets 400
+helice89 calls 400
+*** TURN *** [5c 5d Th][3d]
+manggy94 bets 933
+helice89 calls 933
+*** RIVER *** [5c 5d Th 3d][6s]
+manggy94 bets 2177
+helice89 raises 6215 to 8392 and is all-in
+manggy94 calls 6215
+*** SHOW DOWN ***
+manggy94 shows [As Qh] (One pair : 5)
+helice89 shows [5h Ah] (Trips of 5)
+helice89 collected 20050 from pot
+*** SUMMARY ***
+Total pot 20050 | No rake
+Board: [5c 5d Th 3d 6s]
+Seat 3: manggy94 (big blind) showed [As Qh] and lost with One pair : 5
+Seat 6: helice89 (button) showed [5h Ah] and won 20050 with Trips of 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 0 - HandId: #675140202909401104-3-1462987080 - Holdem no limit (25/50) - 2016/05/11 17:18:00 UTC
+Table: 'Kill The Fish(157193328)#015' 8-max (real money) Seat #2 is the button
+Seat 1: vgetawars (10000)
+Seat 3: manggy94 (25)
+Seat 4: Don100Limit (10000)
+Seat 5: DO Dang (9950)
+Seat 6: helice89 (20050)
+Seat 7: crapou (10000)
+Seat 8: kiwi420 (10000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 25 and is all-in
+Don100Limit posts big blind 50
+Dealt to manggy94 [Qh Th]
+*** PRE-FLOP *** 
+DO Dang folds
+helice89 raises 150 to 200
+crapou folds
+kiwi420 folds
+vgetawars calls 200
+Don100Limit folds
+*** FLOP *** [8s Ac 7s]
+helice89 checks
+vgetawars checks
+*** TURN *** [8s Ac 7s][Tc]
+helice89 bets 50
+vgetawars calls 50
+*** RIVER *** [8s Ac 7s Tc][3h]
+helice89 bets 575
+vgetawars folds
+*** SHOW DOWN ***
+manggy94 shows [Qh Th] (One pair : Tens)
+helice89 shows [Ah 7c] (Two pairs : Aces and 7)
+helice89 collected 1150 from pot
+*** SUMMARY ***
+Total pot 1150 | No rake
+Board: [8s Ac 7s Tc 3h]
+Seat 3: manggy94 (small blind) showed [Qh Th] and lost with One pair : Tens
+Seat 6: helice89 showed [Ah 7c] and won 1150 with Two pairs : Aces and 7
+
+

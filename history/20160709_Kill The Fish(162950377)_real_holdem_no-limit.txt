@@ -1,0 +1,742 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 7 - HandId: #699866540085870616-1-1468087205 - Holdem no limit (30/200/400) - 2016/07/09 18:00:05 UTC
+Table: 'Kill The Fish(162950377)#023' 8-max (real money) Seat #5 is the button
+Seat 1: --Synok-- (10000)
+Seat 2: P0iss0nss (10000)
+Seat 3: iam gregoa (15035)
+Seat 5: Cyrnos 77 (10000)
+Seat 6: le pp (10000)
+Seat 7: manggy94 (10000)
+Seat 8: Gincoca35 (10000)
+*** ANTE/BLINDS ***
+le pp posts ante 30
+manggy94 posts ante 30
+--Synok-- posts ante 30
+P0iss0nss posts ante 30
+iam gregoa posts ante 30
+Cyrnos 77 posts ante 30
+Gincoca35 posts ante 30
+le pp posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [6h 5c]
+*** PRE-FLOP *** 
+Gincoca35 folds
+--Synok-- folds
+P0iss0nss folds
+iam gregoa folds
+Cyrnos 77 folds
+le pp calls 200
+manggy94 checks
+*** FLOP *** [4d Ad 9s]
+le pp checks
+manggy94 checks
+*** TURN *** [4d Ad 9s][Tc]
+le pp bets 400
+manggy94 folds
+le pp collected 1410 from pot
+*** SUMMARY ***
+Total pot 1410 | No rake
+Board: [4d Ad 9s Tc]
+Seat 6: le pp (small blind) won 1410
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 7 - HandId: #699866540085870616-2-1468087250 - Holdem no limit (30/200/400) - 2016/07/09 18:00:50 UTC
+Table: 'Kill The Fish(162950377)#023' 8-max (real money) Seat #6 is the button
+Seat 1: --Synok-- (9970)
+Seat 2: P0iss0nss (9970)
+Seat 3: iam gregoa (15005)
+Seat 5: Cyrnos 77 (9970)
+Seat 6: le pp (10580)
+Seat 7: manggy94 (9570)
+Seat 8: Gincoca35 (9970)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+Gincoca35 posts ante 30
+--Synok-- posts ante 30
+P0iss0nss posts ante 30
+iam gregoa posts ante 30
+Cyrnos 77 posts ante 30
+le pp posts ante 30
+manggy94 posts small blind 200
+Gincoca35 posts big blind 400
+Dealt to manggy94 [6h Ac]
+*** PRE-FLOP *** 
+--Synok-- folds
+P0iss0nss raises 9540 to 9940 and is all-in
+iam gregoa folds
+Cyrnos 77 folds
+le pp folds
+manggy94 folds
+Gincoca35 calls 9540 and is all-in
+*** FLOP *** [4d Qd Ah]
+*** TURN *** [4d Qd Ah][Qc]
+*** RIVER *** [4d Qd Ah Qc][As]
+*** SHOW DOWN ***
+Gincoca35 shows [8c 8d] (Two pairs : Aces and Queens)
+P0iss0nss shows [Kh Jc] (Two pairs : Aces and Queens)
+P0iss0nss collected 20290 from pot
+*** SUMMARY ***
+Total pot 20290 | No rake
+Board: [4d Qd Ah Qc As]
+Seat 2: P0iss0nss showed [Kh Jc] and won 20290 with Two pairs : Aces and Queens
+Seat 8: Gincoca35 (big blind) showed [8c 8d] and lost with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 7 - HandId: #699866540085870616-3-1468087286 - Holdem no limit (30/200/400) - 2016/07/09 18:01:26 UTC
+Table: 'Kill The Fish(162950377)#023' 8-max (real money) Seat #7 is the button
+Seat 1: --Synok-- (9940)
+Seat 2: P0iss0nss (20290)
+Seat 3: iam gregoa (14975)
+Seat 5: Cyrnos 77 (9940)
+Seat 6: le pp (10550)
+Seat 7: manggy94 (9340)
+*** ANTE/BLINDS ***
+--Synok-- posts ante 30
+P0iss0nss posts ante 30
+iam gregoa posts ante 30
+Cyrnos 77 posts ante 30
+le pp posts ante 30
+manggy94 posts ante 30
+--Synok-- posts big blind 400
+Dealt to manggy94 [7s 2s]
+*** PRE-FLOP *** 
+P0iss0nss raises 400 to 800
+iam gregoa folds
+Cyrnos 77 folds
+le pp calls 800
+manggy94 folds
+--Synok-- calls 400
+*** FLOP *** [Td Qd Kh]
+--Synok-- checks
+P0iss0nss bets 1200
+le pp folds
+--Synok-- calls 1200
+*** TURN *** [Td Qd Kh][9d]
+--Synok-- checks
+P0iss0nss checks
+*** RIVER *** [Td Qd Kh 9d][6h]
+--Synok-- checks
+P0iss0nss checks
+*** SHOW DOWN ***
+P0iss0nss shows [Qh Th] (Two pairs : Queens and Tens)
+--Synok-- shows [Kd 9c] (Two pairs : Kings and 9)
+--Synok-- collected 4980 from pot
+*** SUMMARY ***
+Total pot 4980 | No rake
+Board: [Td Qd Kh 9d 6h]
+Seat 1: --Synok-- (big blind) showed [Kd 9c] and won 4980 with Two pairs : Kings and 9
+Seat 2: P0iss0nss showed [Qh Th] and lost with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 8 - HandId: #699866540085870616-4-1468087334 - Holdem no limit (40/250/500) - 2016/07/09 18:02:14 UTC
+Table: 'Kill The Fish(162950377)#023' 8-max (real money) Seat #8 is the button
+Seat 1: --Synok-- (12890)
+Seat 2: P0iss0nss (18260)
+Seat 3: iam gregoa (14945)
+Seat 5: Cyrnos 77 (9910)
+Seat 6: le pp (9720)
+Seat 7: manggy94 (9310)
+Seat 8: Missvice (13955)
+*** ANTE/BLINDS ***
+--Synok-- posts ante 40
+P0iss0nss posts ante 40
+iam gregoa posts ante 40
+Cyrnos 77 posts ante 40
+le pp posts ante 40
+manggy94 posts ante 40
+--Synok-- posts small blind 250
+P0iss0nss posts big blind 500
+Dealt to manggy94 [6d 8c]
+*** PRE-FLOP *** 
+iam gregoa folds
+Cyrnos 77 folds
+le pp raises 500 to 1000
+manggy94 folds
+--Synok-- raises 1000 to 2000
+P0iss0nss folds
+le pp calls 1000
+*** FLOP *** [4s 2c 8s]
+--Synok-- checks
+le pp checks
+*** TURN *** [4s 2c 8s][Qc]
+--Synok-- checks
+le pp checks
+*** RIVER *** [4s 2c 8s Qc][Jc]
+--Synok-- bets 4740
+le pp folds
+--Synok-- collected 9480 from pot
+*** SUMMARY ***
+Total pot 9480 | No rake
+Board: [4s 2c 8s Qc Jc]
+Seat 1: --Synok-- (small blind) won 9480
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 8 - HandId: #699866540085870616-5-1468087373 - Holdem no limit (40/250/500) - 2016/07/09 18:02:53 UTC
+Table: 'Kill The Fish(162950377)#023' 8-max (real money) Seat #1 is the button
+Seat 1: --Synok-- (15590)
+Seat 2: P0iss0nss (17720)
+Seat 3: iam gregoa (14905)
+Seat 5: Cyrnos 77 (9870)
+Seat 6: le pp (7680)
+Seat 7: manggy94 (9270)
+Seat 8: Missvice (13955)
+*** ANTE/BLINDS ***
+P0iss0nss posts ante 40
+iam gregoa posts ante 40
+--Synok-- posts ante 40
+Cyrnos 77 posts ante 40
+le pp posts ante 40
+manggy94 posts ante 40
+Missvice posts ante 40
+P0iss0nss posts small blind 250
+iam gregoa posts big blind 500
+Dealt to manggy94 [Jh 9c]
+*** PRE-FLOP *** 
+Cyrnos 77 folds
+le pp folds
+manggy94 folds
+Missvice folds
+--Synok-- folds
+P0iss0nss folds
+iam gregoa collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | No rake
+Seat 3: iam gregoa (big blind) won 1030
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 8 - HandId: #699866540085870616-6-1468087386 - Holdem no limit (40/250/500) - 2016/07/09 18:03:06 UTC
+Table: 'Kill The Fish(162950377)#023' 8-max (real money) Seat #2 is the button
+Seat 1: --Synok-- (15550)
+Seat 2: P0iss0nss (17430)
+Seat 3: iam gregoa (15395)
+Seat 4: cookys78 (10000)
+Seat 5: Cyrnos 77 (9830)
+Seat 6: le pp (7640)
+Seat 7: manggy94 (9230)
+Seat 8: Missvice (13915)
+*** ANTE/BLINDS ***
+iam gregoa posts ante 40
+cookys78 posts ante 40
+--Synok-- posts ante 40
+P0iss0nss posts ante 40
+Cyrnos 77 posts ante 40
+le pp posts ante 40
+manggy94 posts ante 40
+Missvice posts ante 40
+iam gregoa posts small blind 250
+cookys78 posts big blind 500
+Dealt to manggy94 [8c Js]
+*** PRE-FLOP *** 
+Cyrnos 77 folds
+le pp raises 500 to 1000
+manggy94 folds
+Missvice folds
+--Synok-- folds
+P0iss0nss folds
+iam gregoa calls 750
+cookys78 calls 500
+*** FLOP *** [Kc Kh 2s]
+iam gregoa checks
+cookys78 checks
+le pp checks
+*** TURN *** [Kc Kh 2s][7c]
+iam gregoa bets 1533
+cookys78 calls 1533
+le pp calls 1533
+*** RIVER *** [Kc Kh 2s 7c][2h]
+iam gregoa checks
+cookys78 bets 7427 and is all-in
+le pp calls 5067 and is all-in
+iam gregoa folds
+*** SHOW DOWN ***
+le pp shows [Ad Ah] (Two pairs : Aces and Kings)
+cookys78 shows [Ks 7h] (Full of Kings and 7)
+cookys78 collected 20413 from pot
+*** SUMMARY ***
+Total pot 20413 | No rake
+Board: [Kc Kh 2s 7c 2h]
+Seat 4: cookys78 (big blind) showed [Ks 7h] and won 20413 with Full of Kings and 7
+Seat 6: le pp showed [Ad Ah] and lost with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 8 - HandId: #699866540085870616-7-1468087459 - Holdem no limit (40/250/500) - 2016/07/09 18:04:19 UTC
+Table: 'Kill The Fish(162950377)#023' 8-max (real money) Seat #3 is the button
+Seat 1: --Synok-- (15510)
+Seat 2: P0iss0nss (17390)
+Seat 3: iam gregoa (12822)
+Seat 4: cookys78 (20413)
+Seat 5: Cyrnos 77 (9790)
+Seat 7: manggy94 (9190)
+Seat 8: Missvice (13875)
+*** ANTE/BLINDS ***
+cookys78 posts ante 40
+Cyrnos 77 posts ante 40
+--Synok-- posts ante 40
+P0iss0nss posts ante 40
+iam gregoa posts ante 40
+manggy94 posts ante 40
+Missvice posts ante 40
+cookys78 posts small blind 250
+Cyrnos 77 posts big blind 500
+Dealt to manggy94 [Jh Qd]
+*** PRE-FLOP *** 
+manggy94 calls 500
+Missvice folds
+--Synok-- folds
+P0iss0nss folds
+iam gregoa raises 1750 to 2250
+cookys78 folds
+Cyrnos 77 calls 1750
+manggy94 calls 1750
+*** FLOP *** [2h 6c 4c]
+Cyrnos 77 bets 7500 and is all-in
+manggy94 folds
+iam gregoa calls 7500
+*** TURN *** [2h 6c 4c][3c]
+*** RIVER *** [2h 6c 4c 3c][3h]
+*** SHOW DOWN ***
+Cyrnos 77 shows [Kd 7s] (One pair : 3)
+iam gregoa shows [As Ah] (Two pairs : Aces and 3)
+iam gregoa collected 22280 from pot
+*** SUMMARY ***
+Total pot 22280 | No rake
+Board: [2h 6c 4c 3c 3h]
+Seat 3: iam gregoa (button) showed [As Ah] and won 22280 with Two pairs : Aces and 3
+Seat 5: Cyrnos 77 (big blind) showed [Kd 7s] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 8 - HandId: #699866540085870616-8-1468087498 - Holdem no limit (40/250/500) - 2016/07/09 18:04:58 UTC
+Table: 'Kill The Fish(162950377)#023' 8-max (real money) Seat #4 is the button
+Seat 1: --Synok-- (15470)
+Seat 2: P0iss0nss (17350)
+Seat 3: iam gregoa (25312)
+Seat 4: cookys78 (20123)
+Seat 7: manggy94 (6900)
+Seat 8: Missvice (13835)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+--Synok-- posts ante 40
+P0iss0nss posts ante 40
+iam gregoa posts ante 40
+cookys78 posts ante 40
+Missvice posts ante 40
+manggy94 posts big blind 500
+Dealt to manggy94 [3s 2s]
+*** PRE-FLOP *** 
+Missvice folds
+--Synok-- raises 1000 to 1500
+P0iss0nss folds
+iam gregoa folds
+cookys78 folds
+manggy94 folds
+--Synok-- collected 2240 from pot
+*** SUMMARY ***
+Total pot 2240 | No rake
+Seat 1: --Synok-- won 2240
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 8 - HandId: #699866540085870616-9-1468087518 - Holdem no limit (40/250/500) - 2016/07/09 18:05:18 UTC
+Table: 'Kill The Fish(162950377)#023' 8-max (real money) Seat #5 is the button
+Seat 1: --Synok-- (16170)
+Seat 2: P0iss0nss (17310)
+Seat 3: iam gregoa (25272)
+Seat 4: cookys78 (20083)
+Seat 5: Phil Callins (10000)
+Seat 7: manggy94 (6360)
+Seat 8: Missvice (13795)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+Missvice posts ante 40
+--Synok-- posts ante 40
+P0iss0nss posts ante 40
+iam gregoa posts ante 40
+cookys78 posts ante 40
+manggy94 posts small blind 250
+Missvice posts big blind 500
+Dealt to manggy94 [7s Ac]
+*** PRE-FLOP *** 
+--Synok-- folds
+P0iss0nss folds
+iam gregoa raises 750 to 1250
+cookys78 folds
+manggy94 calls 1000
+Missvice folds
+*** FLOP *** [8h Ad 2h]
+manggy94 bets 5070 and is all-in
+iam gregoa calls 5070
+*** TURN *** [8h Ad 2h][As]
+*** RIVER *** [8h Ad 2h As][Jd]
+*** SHOW DOWN ***
+iam gregoa shows [3d 4d] (One pair : Aces)
+manggy94 shows [7s Ac] (Trips of Aces)
+manggy94 collected 13380 from pot
+*** SUMMARY ***
+Total pot 13380 | No rake
+Board: [8h Ad 2h As Jd]
+Seat 3: iam gregoa showed [3d 4d] and lost with One pair : Aces
+Seat 7: manggy94 (small blind) showed [7s Ac] and won 13380 with Trips of Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 8 - HandId: #699866540085870616-10-1468087564 - Holdem no limit (40/250/500) - 2016/07/09 18:06:04 UTC
+Table: 'Kill The Fish(162950377)#023' 8-max (real money) Seat #7 is the button
+Seat 2: P0iss0nss (17270)
+Seat 3: iam gregoa (18912)
+Seat 4: cookys78 (20043)
+Seat 5: Phil Callins (10000)
+Seat 6: cyril3 (10000)
+Seat 7: manggy94 (13380)
+Seat 8: Missvice (13255)
+*** ANTE/BLINDS ***
+Missvice posts ante 40
+P0iss0nss posts ante 40
+iam gregoa posts ante 40
+cookys78 posts ante 40
+Phil Callins posts ante 40
+cyril3 posts ante 40
+manggy94 posts ante 40
+Missvice posts small blind 250
+P0iss0nss posts big blind 500
+Dealt to manggy94 [9h Ac]
+*** PRE-FLOP *** 
+iam gregoa folds
+cookys78 folds
+Phil Callins raises 9460 to 9960 and is all-in
+cyril3 calls 9960 and is all-in
+manggy94 folds
+Missvice folds
+P0iss0nss calls 9460
+*** FLOP *** [7d Ah 4h]
+*** TURN *** [7d Ah 4h][7h]
+*** RIVER *** [7d Ah 4h 7h][9s]
+*** SHOW DOWN ***
+P0iss0nss shows [Js Ts] (One pair : 7)
+Phil Callins shows [As Tc] (Two pairs : Aces and 7)
+cyril3 shows [Jd Ad] (Two pairs : Aces and 7)
+cyril3 collected 30410 from pot
+*** SUMMARY ***
+Total pot 30410 | No rake
+Board: [7d Ah 4h 7h 9s]
+Seat 2: P0iss0nss (big blind) showed [Js Ts] and lost with One pair : 7
+Seat 5: Phil Callins showed [As Tc] and lost with Two pairs : Aces and 7
+Seat 6: cyril3 showed [Jd Ad] and won 30410 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 8 - HandId: #699866540085870616-11-1468087587 - Holdem no limit (40/250/500) - 2016/07/09 18:06:27 UTC
+Table: 'Kill The Fish(162950377)#023' 8-max (real money) Seat #8 is the button
+Seat 2: P0iss0nss (7270)
+Seat 3: iam gregoa (18872)
+Seat 4: cookys78 (20003)
+Seat 6: cyril3 (30410)
+Seat 7: manggy94 (13340)
+Seat 8: Missvice (12965)
+*** ANTE/BLINDS ***
+P0iss0nss posts ante 40
+iam gregoa posts ante 40
+cookys78 posts ante 40
+cyril3 posts ante 40
+manggy94 posts ante 40
+Missvice posts ante 40
+P0iss0nss posts small blind 250
+iam gregoa posts big blind 500
+Dealt to manggy94 [3d 8d]
+*** PRE-FLOP *** 
+cookys78 folds
+cyril3 folds
+manggy94 folds
+Missvice raises 500 to 1000
+P0iss0nss folds
+iam gregoa folds
+Missvice collected 1990 from pot
+*** SUMMARY ***
+Total pot 1990 | No rake
+Seat 8: Missvice (button) won 1990
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 8 - HandId: #699866540085870616-12-1468087605 - Holdem no limit (40/250/500) - 2016/07/09 18:06:45 UTC
+Table: 'Kill The Fish(162950377)#023' 8-max (real money) Seat #2 is the button
+Seat 2: P0iss0nss (6980)
+Seat 3: iam gregoa (18332)
+Seat 4: cookys78 (19963)
+Seat 6: cyril3 (30370)
+Seat 7: manggy94 (13300)
+Seat 8: Missvice (13915)
+*** ANTE/BLINDS ***
+iam gregoa posts ante 40
+cookys78 posts ante 40
+P0iss0nss posts ante 40
+cyril3 posts ante 40
+manggy94 posts ante 40
+Missvice posts ante 40
+iam gregoa posts small blind 250
+cookys78 posts big blind 500
+Dealt to manggy94 [9h Kd]
+*** PRE-FLOP *** 
+cyril3 raises 625 to 1125
+manggy94 folds
+Missvice folds
+P0iss0nss folds
+iam gregoa folds
+cookys78 calls 625
+*** FLOP *** [Kh 6s 5s]
+cookys78 checks
+cyril3 bets 1500
+cookys78 calls 1500
+*** TURN *** [Kh 6s 5s][7s]
+cookys78 checks
+cyril3 checks
+*** RIVER *** [Kh 6s 5s 7s][Tc]
+cookys78 bets 5740
+cyril3 folds
+cookys78 collected 11480 from pot
+*** SUMMARY ***
+Total pot 11480 | No rake
+Board: [Kh 6s 5s 7s Tc]
+Seat 4: cookys78 (big blind) won 11480
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 8 - HandId: #699866540085870616-13-1468087647 - Holdem no limit (40/250/500) - 2016/07/09 18:07:27 UTC
+Table: 'Kill The Fish(162950377)#023' 8-max (real money) Seat #3 is the button
+Seat 2: P0iss0nss (6940)
+Seat 3: iam gregoa (18042)
+Seat 4: cookys78 (23038)
+Seat 6: cyril3 (27705)
+Seat 7: manggy94 (13260)
+Seat 8: Missvice (13875)
+*** ANTE/BLINDS ***
+cookys78 posts ante 40
+cyril3 posts ante 40
+P0iss0nss posts ante 40
+iam gregoa posts ante 40
+manggy94 posts ante 40
+Missvice posts ante 40
+cookys78 posts small blind 250
+cyril3 posts big blind 500
+Dealt to manggy94 [2c Jh]
+*** PRE-FLOP *** 
+manggy94 folds
+Missvice folds
+P0iss0nss folds
+iam gregoa folds
+cookys78 calls 250
+cyril3 checks
+*** FLOP *** [9h 5c As]
+cookys78 checks
+cyril3 checks
+*** TURN *** [9h 5c As][Js]
+cookys78 checks
+cyril3 checks
+*** RIVER *** [9h 5c As Js][5s]
+cookys78 checks
+cyril3 checks
+*** SHOW DOWN ***
+cookys78 shows [7c 6d] (One pair : 5)
+cyril3 shows [4s 8c] (One pair : 5)
+cyril3 collected 620 from pot
+cookys78 collected 620 from pot
+*** SUMMARY ***
+Total pot 1240 | No rake
+Board: [9h 5c As Js 5s]
+Seat 4: cookys78 (small blind) showed [7c 6d] and won 620 with One pair : 5
+Seat 6: cyril3 (big blind) showed [4s 8c] and won 620 with One pair : 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 8 - HandId: #699866540085870616-14-1468087674 - Holdem no limit (40/250/500) - 2016/07/09 18:07:54 UTC
+Table: 'Kill The Fish(162950377)#023' 8-max (real money) Seat #4 is the button
+Seat 2: P0iss0nss (6900)
+Seat 3: iam gregoa (18002)
+Seat 4: cookys78 (23118)
+Seat 6: cyril3 (27785)
+Seat 7: manggy94 (13220)
+Seat 8: Missvice (13835)
+*** ANTE/BLINDS ***
+cyril3 posts ante 40
+manggy94 posts ante 40
+P0iss0nss posts ante 40
+iam gregoa posts ante 40
+cookys78 posts ante 40
+Missvice posts ante 40
+cyril3 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [Qs 3c]
+*** PRE-FLOP *** 
+Missvice folds
+P0iss0nss raises 6360 to 6860 and is all-in
+iam gregoa folds
+cookys78 folds
+cyril3 folds
+manggy94 folds
+P0iss0nss collected 7850 from pot
+*** SUMMARY ***
+Total pot 7850 | No rake
+Seat 2: P0iss0nss won 7850
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 9 - HandId: #699866540085870616-15-1468087702 - Holdem no limit (60/300/600) - 2016/07/09 18:08:22 UTC
+Table: 'Kill The Fish(162950377)#023' 8-max (real money) Seat #6 is the button
+Seat 2: P0iss0nss (7850)
+Seat 3: iam gregoa (17962)
+Seat 4: cookys78 (23078)
+Seat 5: NitBandit (28661)
+Seat 6: cyril3 (27495)
+Seat 7: manggy94 (12680)
+Seat 8: Missvice (13795)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+Missvice posts ante 60
+P0iss0nss posts ante 60
+iam gregoa posts ante 60
+cookys78 posts ante 60
+NitBandit posts ante 60
+cyril3 posts ante 60
+manggy94 posts small blind 300
+Missvice posts big blind 600
+Dealt to manggy94 [2s As]
+*** PRE-FLOP *** 
+P0iss0nss folds
+iam gregoa raises 1200 to 1800
+cookys78 folds
+NitBandit folds
+cyril3 folds
+manggy94 calls 1500
+Missvice folds
+*** FLOP *** [3d 5c 9s]
+manggy94 bets 600
+iam gregoa raises 5820 to 6420
+manggy94 folds
+iam gregoa collected 11640 from pot
+*** SUMMARY ***
+Total pot 11640 | No rake
+Board: [3d 5c 9s]
+Seat 3: iam gregoa won 11640
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 9 - HandId: #699866540085870604-32-1468087805 - Holdem no limit (60/300/600) - 2016/07/09 18:10:05 UTC
+Table: 'Kill The Fish(162950377)#011' 8-max (real money) Seat #4 is the button
+Seat 1: piplette9114 (34820)
+Seat 2: NJ67 (18385)
+Seat 3: manggy94 (10220)
+Seat 4: valdef94 (21879)
+Seat 5: GintarasLT (12276)
+Seat 6: OhCharbon (4975)
+Seat 7: elcaiman33 (8409)
+Seat 8: KOLARGOL (6590)
+*** ANTE/BLINDS ***
+OhCharbon posts ante 60
+elcaiman33 posts ante 60
+piplette9114 posts ante 60
+NJ67 posts ante 60
+manggy94 posts ante 60
+valdef94 posts ante 60
+KOLARGOL posts ante 60
+OhCharbon posts small blind 300
+elcaiman33 posts big blind 600
+Dealt to manggy94 [Qd Td]
+*** PRE-FLOP *** 
+KOLARGOL raises 5930 to 6530 and is all-in
+piplette9114 folds
+NJ67 folds
+manggy94 calls 6530
+valdef94 folds
+OhCharbon folds
+elcaiman33 folds
+*** FLOP *** [Ad 8s 8c]
+*** TURN *** [Ad 8s 8c][Qc]
+*** RIVER *** [Ad 8s 8c Qc][8d]
+*** SHOW DOWN ***
+manggy94 shows [Qd Td] (Full of 8 and Queens)
+KOLARGOL shows [9h As] (Full of 8 and Aces)
+KOLARGOL collected 14380 from pot
+*** SUMMARY ***
+Total pot 14380 | No rake
+Board: [Ad 8s 8c Qc 8d]
+Seat 3: manggy94 showed [Qd Td] and lost with Full of 8 and Queens
+Seat 8: KOLARGOL showed [9h As] and won 14380 with Full of 8 and Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 9 - HandId: #699866540085870604-33-1468087843 - Holdem no limit (60/300/600) - 2016/07/09 18:10:43 UTC
+Table: 'Kill The Fish(162950377)#011' 8-max (real money) Seat #6 is the button
+Seat 1: piplette9114 (34760)
+Seat 2: NJ67 (18325)
+Seat 3: manggy94 (3630)
+Seat 4: valdef94 (21819)
+Seat 5: GintarasLT (12276)
+Seat 6: OhCharbon (4615)
+Seat 7: elcaiman33 (7749)
+Seat 8: KOLARGOL (14380)
+*** ANTE/BLINDS ***
+elcaiman33 posts ante 60
+KOLARGOL posts ante 60
+piplette9114 posts ante 60
+NJ67 posts ante 60
+manggy94 posts ante 60
+valdef94 posts ante 60
+GintarasLT posts ante 60
+OhCharbon posts ante 60
+elcaiman33 posts small blind 300
+KOLARGOL posts big blind 600
+Dealt to manggy94 [2s 6c]
+*** PRE-FLOP *** 
+piplette9114 raises 34100 to 34700 and is all-in
+NJ67 folds
+manggy94 folds
+valdef94 folds
+GintarasLT folds
+OhCharbon folds
+elcaiman33 calls 7389 and is all-in
+KOLARGOL folds
+*** FLOP *** [Tc 7d 3d]
+*** TURN *** [Tc 7d 3d][9h]
+*** RIVER *** [Tc 7d 3d 9h][Td]
+*** SHOW DOWN ***
+elcaiman33 shows [Ks As] (One pair : Tens)
+piplette9114 shows [3c Ac] (Two pairs : Tens and 3)
+piplette9114 collected 43469 from pot
+*** SUMMARY ***
+Total pot 43469 | No rake
+Board: [Tc 7d 3d 9h Td]
+Seat 1: piplette9114 showed [3c Ac] and won 43469 with Two pairs : Tens and 3
+Seat 7: elcaiman33 (small blind) showed [Ks As] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 9€ + 1€ level: 9 - HandId: #699866540085870604-34-1468087868 - Holdem no limit (60/300/600) - 2016/07/09 18:11:08 UTC
+Table: 'Kill The Fish(162950377)#011' 8-max (real money) Seat #7 is the button
+Seat 1: piplette9114 (43469)
+Seat 2: NJ67 (18265)
+Seat 3: manggy94 (3570)
+Seat 4: valdef94 (21759)
+Seat 5: GintarasLT (12216)
+Seat 6: OhCharbon (4555)
+Seat 8: KOLARGOL (13720)
+*** ANTE/BLINDS ***
+KOLARGOL posts ante 60
+piplette9114 posts ante 60
+NJ67 posts ante 60
+manggy94 posts ante 60
+valdef94 posts ante 60
+GintarasLT posts ante 60
+OhCharbon posts ante 60
+KOLARGOL posts small blind 300
+piplette9114 posts big blind 600
+Dealt to manggy94 [2c 2s]
+*** PRE-FLOP *** 
+NJ67 raises 1920 to 2520
+manggy94 raises 990 to 3510 and is all-in
+valdef94 folds
+GintarasLT folds
+OhCharbon folds
+KOLARGOL folds
+piplette9114 folds
+NJ67 calls 990
+*** FLOP *** [9s 5d 5h]
+*** TURN *** [9s 5d 5h][Th]
+*** RIVER *** [9s 5d 5h Th][7d]
+*** SHOW DOWN ***
+manggy94 shows [2c 2s] (Two pairs : 5 and 2)
+NJ67 shows [Kc Ks] (Two pairs : Kings and 5)
+NJ67 collected 8340 from pot
+*** SUMMARY ***
+Total pot 8340 | No rake
+Board: [9s 5d 5h Th 7d]
+Seat 2: NJ67 showed [Kc Ks] and won 8340 with Two pairs : Kings and 5
+Seat 3: manggy94 showed [2c 2s] and lost with Two pairs : 5 and 2
+
+

@@ -1,0 +1,597 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level:  - HandId: #860532796953723152-1-1499424158 - Holdem no limit (10/40/80) - 2017/07/07 10:42:38 UTC
+Table: 'Freeroll(200358405)#271' 8-max (real money) Seat #2 is the button
+Seat 1: TED60 (3000)
+Seat 2: dan.05 (3000)
+Seat 3: manggy94 (3000)
+Seat 7: Alex.BZH.22 (3000)
+Seat 8: Gawri26 (3000)
+*** ANTE/BLINDS ***
+manggy94 posts ante 10
+Alex.BZH.22 posts ante 10
+TED60 posts ante 10
+dan.05 posts ante 10
+Gawri26 posts ante 10
+manggy94 posts small blind 40
+Alex.BZH.22 posts big blind 80
+Dealt to manggy94 [9s 2c]
+*** PRE-FLOP *** 
+Gawri26 calls 80
+TED60 calls 80
+dan.05 calls 80
+manggy94 folds
+Alex.BZH.22 checks
+*** FLOP *** [Kd 8h 3d]
+Alex.BZH.22 checks
+Gawri26 bets 80
+TED60 calls 80
+dan.05 folds
+Alex.BZH.22 folds
+*** TURN *** [Kd 8h 3d][Td]
+Gawri26 bets 285
+TED60 calls 285
+*** RIVER *** [Kd 8h 3d Td][3s]
+Gawri26 bets 1140
+TED60 folds
+Gawri26 collected 2280 from pot
+*** SUMMARY ***
+Total pot 2280 | No rake
+Board: [Kd 8h 3d Td 3s]
+Seat 8: Gawri26 won 2280
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level:  - HandId: #860532796953723152-2-1499424206 - Holdem no limit (10/40/80) - 2017/07/07 10:43:26 UTC
+Table: 'Freeroll(200358405)#271' 8-max (real money) Seat #3 is the button
+Seat 1: TED60 (2545)
+Seat 2: dan.05 (2910)
+Seat 3: manggy94 (2950)
+Seat 4: ivory82 (3000)
+Seat 5: yafloyd13 (3000)
+Seat 6: kim2b (3000)
+Seat 7: Alex.BZH.22 (2910)
+Seat 8: Gawri26 (3685)
+*** ANTE/BLINDS ***
+Alex.BZH.22 posts ante 10
+Gawri26 posts ante 10
+TED60 posts ante 10
+dan.05 posts ante 10
+manggy94 posts ante 10
+Alex.BZH.22 posts small blind 40
+Gawri26 posts big blind 80
+Dealt to manggy94 [Tc 5c]
+*** PRE-FLOP *** 
+TED60 folds
+dan.05 calls 80
+manggy94 calls 80
+Alex.BZH.22 calls 40
+Gawri26 checks
+*** FLOP *** [Jh 7c 3d]
+Alex.BZH.22 checks
+Gawri26 checks
+dan.05 checks
+manggy94 checks
+*** TURN *** [Jh 7c 3d][7d]
+Alex.BZH.22 checks
+Gawri26 checks
+dan.05 checks
+manggy94 checks
+*** RIVER *** [Jh 7c 3d 7d][Td]
+Alex.BZH.22 checks
+Gawri26 bets 370
+dan.05 folds
+manggy94 calls 370
+Alex.BZH.22 folds
+*** SHOW DOWN ***
+manggy94 shows [Tc 5c] (Two pairs : Tens and 7)
+Gawri26 shows [Ad 4d] (Flush Ace high)
+Gawri26 collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Board: [Jh 7c 3d 7d Td]
+Seat 3: manggy94 (button) showed [Tc 5c] and lost with Two pairs : Tens and 7
+Seat 8: Gawri26 (big blind) showed [Ad 4d] and won 1110 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level:  - HandId: #860532796953723152-3-1499424263 - Holdem no limit (10/40/80) - 2017/07/07 10:44:23 UTC
+Table: 'Freeroll(200358405)#271' 8-max (real money) Seat #7 is the button
+Seat 1: TED60 (2535)
+Seat 2: dan.05 (2820)
+Seat 3: manggy94 (2490)
+Seat 4: ivory82 (3000)
+Seat 5: yafloyd13 (3000)
+Seat 6: kim2b (3000)
+Seat 7: Alex.BZH.22 (2820)
+Seat 8: Gawri26 (4335)
+*** ANTE/BLINDS ***
+Gawri26 posts ante 10
+TED60 posts ante 10
+dan.05 posts ante 10
+manggy94 posts ante 10
+ivory82 posts ante 10
+yafloyd13 posts ante 10
+kim2b posts ante 10
+Alex.BZH.22 posts ante 10
+Gawri26 posts small blind 40
+TED60 posts big blind 80
+Dealt to manggy94 [4c Ad]
+*** PRE-FLOP *** 
+dan.05 calls 80
+manggy94 calls 80
+ivory82 folds
+yafloyd13 raises 2910 to 2990 and is all-in
+kim2b folds
+Alex.BZH.22 folds
+Gawri26 folds
+TED60 folds
+dan.05 calls 2730 and is all-in
+manggy94 folds
+*** FLOP *** [Kc 9c Qs]
+*** TURN *** [Kc 9c Qs][2s]
+*** RIVER *** [Kc 9c Qs 2s][Qh]
+*** SHOW DOWN ***
+dan.05 shows [Ah 9d] (Two pairs : Queens and 9)
+yafloyd13 shows [Jc 6c] (One pair : Queens)
+yafloyd13 collected 180 from side pot 1
+dan.05 collected 5900 from main pot
+*** SUMMARY ***
+Total pot 6080 | No rake
+Board: [Kc 9c Qs 2s Qh]
+Seat 2: dan.05 showed [Ah 9d] and won 5900 with Two pairs : Queens and 9
+Seat 5: yafloyd13 showed [Jc 6c] and won 180 with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #860532796953723152-4-1499424327 - Holdem no limit (12/50/100) - 2017/07/07 10:45:27 UTC
+Table: 'Freeroll(200358405)#271' 8-max (real money) Seat #8 is the button
+Seat 1: TED60 (2445)
+Seat 2: dan.05 (5900)
+Seat 3: manggy94 (2400)
+Seat 4: ivory82 (2990)
+Seat 5: yafloyd13 (180)
+Seat 6: kim2b (2990)
+Seat 7: Alex.BZH.22 (2810)
+Seat 8: Gawri26 (4285)
+*** ANTE/BLINDS ***
+TED60 posts ante 12
+dan.05 posts ante 12
+manggy94 posts ante 12
+ivory82 posts ante 12
+yafloyd13 posts ante 12
+kim2b posts ante 12
+Alex.BZH.22 posts ante 12
+Gawri26 posts ante 12
+TED60 posts small blind 50
+dan.05 posts big blind 100
+Dealt to manggy94 [7c Ks]
+*** PRE-FLOP *** 
+manggy94 folds
+ivory82 folds
+yafloyd13 raises 68 to 168 and is all-in
+kim2b calls 168
+Alex.BZH.22 folds
+Gawri26 raises 672 to 840
+TED60 folds
+dan.05 folds
+kim2b calls 672
+*** FLOP *** [5s 4s 5c]
+kim2b bets 2138 and is all-in
+Gawri26 calls 2138
+*** TURN *** [5s 4s 5c][Qc]
+*** RIVER *** [5s 4s 5c Qc][Js]
+*** SHOW DOWN ***
+yafloyd13 shows [7h As] (One pair : 5)
+kim2b shows [6d 4d] (Two pairs : 5 and 4)
+Gawri26 shows [Ad Ah] (Two pairs : Aces and 5)
+Gawri26 collected 6370 from pot
+*** SUMMARY ***
+Total pot 6370 | No rake
+Board: [5s 4s 5c Qc Js]
+Seat 5: yafloyd13 showed [7h As] and lost with One pair : 5
+Seat 6: kim2b showed [6d 4d] and lost with Two pairs : 5 and 4
+Seat 8: Gawri26 (button) showed [Ad Ah] and won 6370 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #860532796953723152-5-1499424368 - Holdem no limit (12/50/100) - 2017/07/07 10:46:08 UTC
+Table: 'Freeroll(200358405)#271' 8-max (real money) Seat #1 is the button
+Seat 1: TED60 (2383)
+Seat 2: dan.05 (5788)
+Seat 3: manggy94 (2388)
+Seat 4: ivory82 (2978)
+Seat 7: Alex.BZH.22 (2798)
+Seat 8: Gawri26 (7665)
+*** ANTE/BLINDS ***
+dan.05 posts ante 12
+manggy94 posts ante 12
+TED60 posts ante 12
+ivory82 posts ante 12
+Alex.BZH.22 posts ante 12
+Gawri26 posts ante 12
+dan.05 posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [5c Kc]
+*** PRE-FLOP *** 
+ivory82 calls 100
+Alex.BZH.22 folds
+Gawri26 calls 100
+TED60 calls 100
+dan.05 folds
+manggy94 checks
+*** FLOP *** [2d 3h Jh]
+manggy94 bets 261
+ivory82 folds
+Gawri26 calls 261
+TED60 folds
+*** TURN *** [2d 3h Jh][Td]
+manggy94 checks
+Gawri26 bets 1044
+manggy94 folds
+Gawri26 collected 2088 from pot
+*** SUMMARY ***
+Total pot 2088 | No rake
+Board: [2d 3h Jh Td]
+Seat 8: Gawri26 won 2088
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #860532796953723152-6-1499424414 - Holdem no limit (12/50/100) - 2017/07/07 10:46:54 UTC
+Table: 'Freeroll(200358405)#271' 8-max (real money) Seat #2 is the button
+Seat 1: TED60 (2271)
+Seat 2: dan.05 (5726)
+Seat 3: manggy94 (2015)
+Seat 4: ivory82 (2866)
+Seat 5: Theartscafe (3000)
+Seat 6: fram91322 (3000)
+Seat 7: Alex.BZH.22 (2786)
+Seat 8: Gawri26 (8336)
+*** ANTE/BLINDS ***
+manggy94 posts ante 12
+ivory82 posts ante 12
+TED60 posts ante 12
+dan.05 posts ante 12
+Theartscafe posts ante 12
+fram91322 posts ante 12
+Alex.BZH.22 posts ante 12
+Gawri26 posts ante 12
+manggy94 posts small blind 50
+ivory82 posts big blind 100
+Dealt to manggy94 [As 5d]
+*** PRE-FLOP *** 
+Theartscafe calls 100
+fram91322 folds
+Alex.BZH.22 folds
+Gawri26 calls 100
+TED60 calls 100
+dan.05 folds
+manggy94 calls 50
+ivory82 checks
+*** FLOP *** [4h 4d Jd]
+manggy94 checks
+ivory82 checks
+Theartscafe checks
+Gawri26 checks
+TED60 checks
+*** TURN *** [4h 4d Jd][Ad]
+manggy94 bets 298
+ivory82 folds
+Theartscafe folds
+Gawri26 raises 298 to 596
+TED60 folds
+manggy94 calls 298
+*** RIVER *** [4h 4d Jd Ad][Ah]
+manggy94 checks
+Gawri26 checks
+*** SHOW DOWN ***
+Gawri26 shows [5s 4s] (Full of 4 and Aces)
+manggy94 shows [As 5d] (Full of Aces and 4)
+manggy94 collected 1788 from pot
+*** SUMMARY ***
+Total pot 1788 | No rake
+Board: [4h 4d Jd Ad Ah]
+Seat 3: manggy94 (small blind) showed [As 5d] and won 1788 with Full of Aces and 4
+Seat 8: Gawri26 showed [5s 4s] and lost with Full of 4 and Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #860532796953723063-15-1499424576 - Holdem no limit (15/60/120) - 2017/07/07 10:49:36 UTC
+Table: 'Freeroll(200358405)#182' 8-max (real money) Seat #7 is the button
+Seat 1: fram91322 (2988)
+Seat 2: clemen54 (1684)
+Seat 3: bobby elvis (5490)
+Seat 4: k4itman (8453)
+Seat 5: Kant57070 (375)
+Seat 6: manggy94 (3095)
+Seat 7: Duloseille (18249)
+Seat 8: ced 1048 (4374)
+*** ANTE/BLINDS ***
+ced 1048 posts ante 15
+fram91322 posts ante 15
+clemen54 posts ante 15
+bobby elvis posts ante 15
+k4itman posts ante 15
+Kant57070 posts ante 15
+manggy94 posts ante 15
+Duloseille posts ante 15
+ced 1048 posts small blind 60
+fram91322 posts big blind 120
+Dealt to manggy94 [9h 5h]
+*** PRE-FLOP *** 
+clemen54 folds
+bobby elvis raises 5355 to 5475 and is all-in
+k4itman folds
+Kant57070 calls 360 and is all-in
+manggy94 folds
+Duloseille folds
+ced 1048 folds
+fram91322 folds
+*** FLOP *** [Qc 2h 2d]
+*** TURN *** [Qc 2h 2d][As]
+*** RIVER *** [Qc 2h 2d As][7d]
+*** SHOW DOWN ***
+Kant57070 shows [Kc 4c] (One pair : 2)
+bobby elvis shows [Kh Ks] (Two pairs : Kings and 2)
+bobby elvis collected 6135 from pot
+*** SUMMARY ***
+Total pot 6135 | No rake
+Board: [Qc 2h 2d As 7d]
+Seat 3: bobby elvis showed [Kh Ks] and won 6135 with Two pairs : Kings and 2
+Seat 5: Kant57070 showed [Kc 4c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #860532796953723063-16-1499424690 - Holdem no limit (20/80/160) - 2017/07/07 10:51:30 UTC
+Table: 'Freeroll(200358405)#182' 8-max (real money) Seat #8 is the button
+Seat 1: fram91322 (2853)
+Seat 2: clemen54 (1669)
+Seat 3: bobby elvis (6135)
+Seat 4: k4itman (8438)
+Seat 6: manggy94 (3080)
+Seat 7: Duloseille (18234)
+Seat 8: ced 1048 (4299)
+*** ANTE/BLINDS ***
+fram91322 posts ante 20
+clemen54 posts ante 20
+bobby elvis posts ante 20
+k4itman posts ante 20
+manggy94 posts ante 20
+Duloseille posts ante 20
+ced 1048 posts ante 20
+fram91322 posts small blind 80
+clemen54 posts big blind 160
+Dealt to manggy94 [Th 4h]
+*** PRE-FLOP *** 
+bobby elvis calls 160
+k4itman folds
+manggy94 folds
+Duloseille calls 160
+ced 1048 folds
+fram91322 calls 80
+clemen54 folds
+*** FLOP *** [4s Qs 4d]
+fram91322 checks
+bobby elvis bets 5955 and is all-in
+Duloseille folds
+fram91322 folds
+bobby elvis collected 6735 from pot
+*** SUMMARY ***
+Total pot 6735 | No rake
+Board: [4s Qs 4d]
+Seat 3: bobby elvis won 6735
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #860532796953723063-17-1499424749 - Holdem no limit (20/80/160) - 2017/07/07 10:52:29 UTC
+Table: 'Freeroll(200358405)#182' 8-max (real money) Seat #1 is the button
+Seat 1: fram91322 (2673)
+Seat 2: clemen54 (1489)
+Seat 3: bobby elvis (6735)
+Seat 4: k4itman (8418)
+Seat 5: romario34 (3000)
+Seat 6: manggy94 (3060)
+Seat 7: Duloseille (18054)
+Seat 8: ced 1048 (4279)
+*** ANTE/BLINDS ***
+clemen54 posts ante 20
+bobby elvis posts ante 20
+fram91322 posts ante 20
+k4itman posts ante 20
+romario34 posts ante 20
+manggy94 posts ante 20
+Duloseille posts ante 20
+ced 1048 posts ante 20
+clemen54 posts small blind 80
+bobby elvis posts big blind 160
+Dealt to manggy94 [9c 3d]
+*** PRE-FLOP *** 
+k4itman folds
+romario34 folds
+manggy94 folds
+Duloseille calls 160
+ced 1048 folds
+fram91322 calls 160
+clemen54 folds
+bobby elvis checks
+*** FLOP *** [Ah 7h Kc]
+bobby elvis checks
+Duloseille bets 480
+fram91322 folds
+bobby elvis folds
+Duloseille collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [Ah 7h Kc]
+Seat 7: Duloseille won 1200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #860532796953723063-18-1499424816 - Holdem no limit (20/80/160) - 2017/07/07 10:53:36 UTC
+Table: 'Freeroll(200358405)#182' 8-max (real money) Seat #2 is the button
+Seat 1: fram91322 (2493)
+Seat 2: clemen54 (1389)
+Seat 3: bobby elvis (6555)
+Seat 4: k4itman (8398)
+Seat 5: romario34 (2980)
+Seat 6: manggy94 (3040)
+Seat 7: Duloseille (18594)
+Seat 8: ced 1048 (4259)
+*** ANTE/BLINDS ***
+bobby elvis posts ante 20
+k4itman posts ante 20
+fram91322 posts ante 20
+clemen54 posts ante 20
+romario34 posts ante 20
+manggy94 posts ante 20
+Duloseille posts ante 20
+ced 1048 posts ante 20
+bobby elvis posts small blind 80
+k4itman posts big blind 160
+Dealt to manggy94 [Qh 4d]
+*** PRE-FLOP *** 
+romario34 folds
+manggy94 folds
+Duloseille folds
+ced 1048 folds
+fram91322 folds
+clemen54 folds
+bobby elvis calls 80
+k4itman checks
+*** FLOP *** [6s 5s As]
+bobby elvis checks
+k4itman bets 480
+bobby elvis folds
+k4itman collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [6s 5s As]
+Seat 4: k4itman (big blind) won 960
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #860532796953723063-19-1499424895 - Holdem no limit (25/100/200) - 2017/07/07 10:54:55 UTC
+Table: 'Freeroll(200358405)#182' 8-max (real money) Seat #3 is the button
+Seat 1: fram91322 (2473)
+Seat 2: clemen54 (1369)
+Seat 3: bobby elvis (6375)
+Seat 4: k4itman (8698)
+Seat 5: romario34 (2960)
+Seat 6: manggy94 (3020)
+Seat 7: Duloseille (18574)
+Seat 8: ced 1048 (4239)
+*** ANTE/BLINDS ***
+k4itman posts ante 25
+romario34 posts ante 25
+fram91322 posts ante 25
+clemen54 posts ante 25
+bobby elvis posts ante 25
+manggy94 posts ante 25
+Duloseille posts ante 25
+ced 1048 posts ante 25
+k4itman posts small blind 100
+romario34 posts big blind 200
+Dealt to manggy94 [7c Kd]
+*** PRE-FLOP *** 
+manggy94 calls 200
+Duloseille folds
+ced 1048 folds
+fram91322 folds
+clemen54 folds
+bobby elvis calls 200
+k4itman calls 100
+romario34 folds
+*** FLOP *** [Ah 2d Th]
+k4itman checks
+manggy94 checks
+bobby elvis checks
+*** TURN *** [Ah 2d Th][Qs]
+k4itman checks
+manggy94 checks
+bobby elvis checks
+*** RIVER *** [Ah 2d Th Qs][3c]
+k4itman bets 200
+manggy94 folds
+bobby elvis folds
+k4itman collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [Ah 2d Th Qs 3c]
+Seat 4: k4itman (small blind) won 1200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #860532796953723063-20-1499425203 - Holdem no limit (25/100/200) - 2017/07/07 11:00:03 UTC
+Table: 'Freeroll(200358405)#182' 8-max (real money) Seat #4 is the button
+Seat 1: fram91322 (2448)
+Seat 2: clemen54 (1344)
+Seat 3: bobby elvis (6150)
+Seat 4: k4itman (9473)
+Seat 5: romario34 (2735)
+Seat 6: manggy94 (2795)
+Seat 7: Duloseille (18549)
+Seat 8: ced 1048 (4214)
+*** ANTE/BLINDS ***
+romario34 posts ante 25
+manggy94 posts ante 25
+fram91322 posts ante 25
+clemen54 posts ante 25
+bobby elvis posts ante 25
+k4itman posts ante 25
+Duloseille posts ante 25
+ced 1048 posts ante 25
+romario34 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [Th Ah]
+*** PRE-FLOP *** 
+Duloseille folds
+ced 1048 folds
+fram91322 folds
+clemen54 folds
+bobby elvis folds
+k4itman folds
+romario34 folds
+manggy94 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 6: manggy94 (big blind) won 500
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #860532796953723063-21-1499425243 - Holdem no limit (25/100/200) - 2017/07/07 11:00:43 UTC
+Table: 'Freeroll(200358405)#182' 8-max (real money) Seat #5 is the button
+Seat 1: fram91322 (2423)
+Seat 2: clemen54 (1319)
+Seat 3: bobby elvis (6125)
+Seat 4: k4itman (9448)
+Seat 5: romario34 (2610)
+Seat 6: manggy94 (3070)
+Seat 7: Duloseille (18524)
+Seat 8: ced 1048 (4189)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+Duloseille posts ante 25
+fram91322 posts ante 25
+clemen54 posts ante 25
+bobby elvis posts ante 25
+k4itman posts ante 25
+romario34 posts ante 25
+ced 1048 posts ante 25
+manggy94 posts small blind 100
+Duloseille posts big blind 200
+Dealt to manggy94 [Jh Th]
+*** PRE-FLOP *** 
+ced 1048 folds
+fram91322 folds
+clemen54 folds
+bobby elvis folds
+k4itman folds
+romario34 folds
+manggy94 raises 200 to 400
+Duloseille calls 200
+*** FLOP *** [7h 8d 6h]
+manggy94 bets 500
+Duloseille raises 1500 to 2000
+manggy94 calls 1500
+*** TURN *** [7h 8d 6h][6c]
+manggy94 checks
+Duloseille bets 3333
+manggy94 calls 645 and is all-in
+*** RIVER *** [7h 8d 6h 6c][Qd]
+*** SHOW DOWN ***
+manggy94 shows [Jh Th] (One pair : 6)
+Duloseille shows [8h 7c] (Two pairs : 8 and 7)
+Duloseille collected 8978 from pot
+*** SUMMARY ***
+Total pot 8978 | No rake
+Board: [7h 8d 6h 6c Qd]
+Seat 6: manggy94 (small blind) showed [Jh Th] and lost with One pair : 6
+Seat 7: Duloseille (big blind) showed [8h 7c] and won 8978 with Two pairs : 8 and 7
+
+

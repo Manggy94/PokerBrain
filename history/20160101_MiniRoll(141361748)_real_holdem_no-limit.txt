@@ -1,0 +1,732 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #607144084565393419-26-1451679375 - Holdem no limit (150/300) - 2016/01/01 20:16:15 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #2 is the button
+Seat 1: seba0606 (11925)
+Seat 2: sarahkelya59 (13205)
+Seat 3: DEUNS 43 (35250)
+Seat 4: manggy94 (10000)
+Seat 5: TIFUS  34 (10395)
+Seat 6: ch-touille (19225)
+*** ANTE/BLINDS ***
+DEUNS 43 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [6d 8c]
+*** PRE-FLOP *** 
+TIFUS  34 folds
+ch-touille calls 300
+seba0606 folds
+sarahkelya59 folds
+DEUNS 43 calls 150
+manggy94 checks
+*** FLOP *** [3d 8s 4s]
+DEUNS 43 checks
+manggy94 bets 900
+ch-touille folds
+DEUNS 43 calls 900
+*** TURN *** [3d 8s 4s][Jd]
+DEUNS 43 checks
+manggy94 bets 8800 and is all-in
+DEUNS 43 folds
+manggy94 collected 11500 from pot
+*** SUMMARY ***
+Total pot 11500 | No rake
+Board: [3d 8s 4s Jd]
+Seat 4: manggy94 (big blind) won 11500
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #607144084565393419-27-1451679422 - Holdem no limit (150/300) - 2016/01/01 20:17:02 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #3 is the button
+Seat 1: seba0606 (11925)
+Seat 2: sarahkelya59 (13205)
+Seat 3: DEUNS 43 (34050)
+Seat 4: manggy94 (11500)
+Seat 5: TIFUS  34 (10395)
+Seat 6: ch-touille (18925)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+TIFUS  34 posts big blind 300
+Dealt to manggy94 [5d 3c]
+*** PRE-FLOP *** 
+ch-touille folds
+seba0606 folds
+sarahkelya59 calls 300
+DEUNS 43 calls 300
+manggy94 calls 150
+TIFUS  34 checks
+*** FLOP *** [Td 6h Ac]
+manggy94 checks
+TIFUS  34 checks
+sarahkelya59 checks
+DEUNS 43 bets 1035
+manggy94 folds
+TIFUS  34 folds
+sarahkelya59 folds
+DEUNS 43 collected 2235 from pot
+*** SUMMARY ***
+Total pot 2235 | No rake
+Board: [Td 6h Ac]
+Seat 3: DEUNS 43 (button) won 2235
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #607144084565393419-28-1451679464 - Holdem no limit (150/300) - 2016/01/01 20:17:44 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #4 is the button
+Seat 1: seba0606 (11925)
+Seat 2: sarahkelya59 (12905)
+Seat 3: DEUNS 43 (34950)
+Seat 4: manggy94 (11200)
+Seat 5: TIFUS  34 (10095)
+Seat 6: ch-touille (18925)
+*** ANTE/BLINDS ***
+TIFUS  34 posts small blind 150
+ch-touille posts big blind 300
+Dealt to manggy94 [5d Kd]
+*** PRE-FLOP *** 
+seba0606 folds
+sarahkelya59 calls 300
+DEUNS 43 calls 300
+manggy94 calls 300
+TIFUS  34 raises 9795 to 10095 and is all-in
+ch-touille folds
+sarahkelya59 folds
+DEUNS 43 folds
+manggy94 folds
+TIFUS  34 collected 11295 from pot
+*** SUMMARY ***
+Total pot 11295 | No rake
+Seat 5: TIFUS  34 (small blind) won 11295
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #607144084565393419-29-1451679490 - Holdem no limit (150/300) - 2016/01/01 20:18:10 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #5 is the button
+Seat 1: seba0606 (11925)
+Seat 2: sarahkelya59 (12605)
+Seat 3: DEUNS 43 (34650)
+Seat 4: manggy94 (10900)
+Seat 5: TIFUS  34 (11295)
+Seat 6: ch-touille (18625)
+*** ANTE/BLINDS ***
+ch-touille posts small blind 150
+seba0606 posts big blind 300
+Dealt to manggy94 [As Ad]
+*** PRE-FLOP *** 
+sarahkelya59 folds
+DEUNS 43 calls 300
+manggy94 calls 300
+TIFUS  34 calls 300
+ch-touille calls 150
+seba0606 checks
+*** FLOP *** [2s 5d Jc]
+ch-touille checks
+seba0606 bets 750
+DEUNS 43 folds
+manggy94 calls 750
+TIFUS  34 calls 750
+ch-touille folds
+*** TURN *** [2s 5d Jc][Td]
+seba0606 checks
+manggy94 bets 3750
+TIFUS  34 folds
+seba0606 raises 7125 to 10875 and is all-in
+manggy94 calls 6100 and is all-in
+*** RIVER *** [2s 5d Jc Td][7h]
+*** SHOW DOWN ***
+manggy94 shows [As Ad] (One pair : Aces)
+seba0606 shows [9c Jh] (One pair : Jacks)
+seba0606 collected 1025 from side pot 1
+manggy94 collected 23450 from main pot
+*** SUMMARY ***
+Total pot 24475 | No rake
+Board: [2s 5d Jc Td 7h]
+Seat 1: seba0606 (big blind) showed [9c Jh] and won 1025 with One pair : Jacks
+Seat 4: manggy94 showed [As Ad] and won 23450 with One pair : Aces
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #607144084565393419-30-1451679593 - Holdem no limit (150/300) - 2016/01/01 20:19:53 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #6 is the button
+Seat 1: seba0606 (1025)
+Seat 2: sarahkelya59 (12605)
+Seat 3: DEUNS 43 (34350)
+Seat 4: manggy94 (23450)
+Seat 5: TIFUS  34 (10245)
+Seat 6: ch-touille (18325)
+*** ANTE/BLINDS ***
+seba0606 posts small blind 150
+sarahkelya59 posts big blind 300
+Dealt to manggy94 [2d 4c]
+*** PRE-FLOP *** 
+DEUNS 43 calls 300
+manggy94 folds
+TIFUS  34 folds
+ch-touille calls 300
+seba0606 raises 725 to 1025 and is all-in
+sarahkelya59 calls 725
+DEUNS 43 folds
+ch-touille calls 725
+*** FLOP *** [Jc As Qd]
+sarahkelya59 checks
+ch-touille checks
+*** TURN *** [Jc As Qd][Ac]
+sarahkelya59 checks
+ch-touille checks
+*** RIVER *** [Jc As Qd Ac][Th]
+sarahkelya59 checks
+ch-touille bets 2250
+sarahkelya59 folds
+*** SHOW DOWN ***
+seba0606 shows [Kd 3s] (Straight Ace high)
+ch-touille shows [9c Kh] (Straight Ace high)
+ch-touille collected 3938 from side pot 1
+seba0606 collected 1687 from main pot
+*** SUMMARY ***
+Total pot 5625 | No rake
+Board: [Jc As Qd Ac Th]
+Seat 1: seba0606 (small blind) showed [Kd 3s] and won 1687 with Straight Ace high
+Seat 6: ch-touille (button) showed [9c Kh] and won 3938 with Straight Ace high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #607144084565393419-31-1451679694 - Holdem no limit (25/150/300) - 2016/01/01 20:21:34 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #1 is the button
+Seat 1: seba0606 (1687)
+Seat 2: sarahkelya59 (11580)
+Seat 3: DEUNS 43 (34050)
+Seat 4: manggy94 (23450)
+Seat 5: TIFUS  34 (10245)
+Seat 6: ch-touille (18988)
+*** ANTE/BLINDS ***
+sarahkelya59 posts ante 25
+DEUNS 43 posts ante 25
+seba0606 posts ante 25
+manggy94 posts ante 25
+TIFUS  34 posts ante 25
+ch-touille posts ante 25
+sarahkelya59 posts small blind 150
+DEUNS 43 posts big blind 300
+Dealt to manggy94 [8s Jh]
+*** PRE-FLOP *** 
+manggy94 calls 300
+TIFUS  34 folds
+ch-touille calls 300
+seba0606 folds
+sarahkelya59 calls 150
+DEUNS 43 checks
+*** FLOP *** [6d 3s Qh]
+sarahkelya59 checks
+DEUNS 43 bets 300
+manggy94 folds
+ch-touille calls 300
+sarahkelya59 calls 300
+*** TURN *** [6d 3s Qh][Kd]
+sarahkelya59 checks
+DEUNS 43 checks
+ch-touille checks
+*** RIVER *** [6d 3s Qh Kd][7h]
+sarahkelya59 bets 2250
+DEUNS 43 calls 2250
+ch-touille folds
+*** SHOW DOWN ***
+DEUNS 43 shows [Qc Ts] (One pair : Queens)
+sarahkelya59 shows [Ks Js] (One pair : Kings)
+sarahkelya59 collected 6750 from pot
+*** SUMMARY ***
+Total pot 6750 | No rake
+Board: [6d 3s Qh Kd 7h]
+Seat 2: sarahkelya59 (small blind) showed [Ks Js] and won 6750 with One pair : Kings
+Seat 3: DEUNS 43 (big blind) showed [Qc Ts] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #607144084565393419-32-1451679761 - Holdem no limit (25/150/300) - 2016/01/01 20:22:41 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #2 is the button
+Seat 1: seba0606 (1662)
+Seat 2: sarahkelya59 (15455)
+Seat 3: DEUNS 43 (31175)
+Seat 4: manggy94 (23125)
+Seat 5: TIFUS  34 (10220)
+Seat 6: ch-touille (18363)
+*** ANTE/BLINDS ***
+DEUNS 43 posts ante 25
+manggy94 posts ante 25
+seba0606 posts ante 25
+sarahkelya59 posts ante 25
+TIFUS  34 posts ante 25
+ch-touille posts ante 25
+DEUNS 43 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [5h 6d]
+*** PRE-FLOP *** 
+TIFUS  34 calls 300
+ch-touille folds
+seba0606 raises 1337 to 1637 and is all-in
+sarahkelya59 folds
+DEUNS 43 folds
+manggy94 folds
+TIFUS  34 calls 1337
+*** FLOP *** [5c Ad Jd]
+*** TURN *** [5c Ad Jd][Tc]
+*** RIVER *** [5c Ad Jd Tc][Ts]
+*** SHOW DOWN ***
+TIFUS  34 shows [Kc 9s] (One pair : Tens)
+seba0606 shows [Js Jh] (Full of Jacks and Tens)
+seba0606 collected 3874 from pot
+*** SUMMARY ***
+Total pot 3874 | No rake
+Board: [5c Ad Jd Tc Ts]
+Seat 1: seba0606 showed [Js Jh] and won 3874 with Full of Jacks and Tens
+Seat 5: TIFUS  34 showed [Kc 9s] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #607144084565393419-33-1451679800 - Holdem no limit (25/150/300) - 2016/01/01 20:23:20 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #3 is the button
+Seat 1: seba0606 (3874)
+Seat 2: sarahkelya59 (15430)
+Seat 3: DEUNS 43 (31000)
+Seat 4: manggy94 (22800)
+Seat 5: TIFUS  34 (8558)
+Seat 6: ch-touille (18338)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+TIFUS  34 posts ante 25
+seba0606 posts ante 25
+sarahkelya59 posts ante 25
+DEUNS 43 posts ante 25
+ch-touille posts ante 25
+manggy94 posts small blind 150
+TIFUS  34 posts big blind 300
+Dealt to manggy94 [9d Qd]
+*** PRE-FLOP *** 
+ch-touille calls 300
+seba0606 folds
+sarahkelya59 folds
+DEUNS 43 calls 300
+manggy94 calls 150
+TIFUS  34 raises 8233 to 8533 and is all-in
+ch-touille folds
+DEUNS 43 folds
+manggy94 folds
+TIFUS  34 collected 9583 from pot
+*** SUMMARY ***
+Total pot 9583 | No rake
+Seat 5: TIFUS  34 (big blind) won 9583
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #607144084565393419-34-1451679837 - Holdem no limit (25/150/300) - 2016/01/01 20:23:57 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #4 is the button
+Seat 1: seba0606 (3849)
+Seat 2: sarahkelya59 (15405)
+Seat 3: DEUNS 43 (30675)
+Seat 4: manggy94 (22475)
+Seat 5: TIFUS  34 (9583)
+Seat 6: ch-touille (18013)
+*** ANTE/BLINDS ***
+TIFUS  34 posts ante 25
+ch-touille posts ante 25
+seba0606 posts ante 25
+sarahkelya59 posts ante 25
+DEUNS 43 posts ante 25
+manggy94 posts ante 25
+TIFUS  34 posts small blind 150
+ch-touille posts big blind 300
+Dealt to manggy94 [4d 9c]
+*** PRE-FLOP *** 
+seba0606 folds
+sarahkelya59 folds
+DEUNS 43 raises 3107 to 3407
+manggy94 folds
+TIFUS  34 folds
+ch-touille folds
+DEUNS 43 collected 4007 from pot
+*** SUMMARY ***
+Total pot 4007 | No rake
+Seat 3: DEUNS 43 won 4007
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #607144084565393419-35-1451679861 - Holdem no limit (25/150/300) - 2016/01/01 20:24:21 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #5 is the button
+Seat 1: seba0606 (3824)
+Seat 2: sarahkelya59 (15380)
+Seat 3: DEUNS 43 (31250)
+Seat 4: manggy94 (22450)
+Seat 5: TIFUS  34 (9408)
+Seat 6: ch-touille (17688)
+*** ANTE/BLINDS ***
+ch-touille posts ante 25
+seba0606 posts ante 25
+sarahkelya59 posts ante 25
+DEUNS 43 posts ante 25
+manggy94 posts ante 25
+TIFUS  34 posts ante 25
+ch-touille posts small blind 150
+seba0606 posts big blind 300
+Dealt to manggy94 [6h Ts]
+*** PRE-FLOP *** 
+sarahkelya59 folds
+DEUNS 43 folds
+manggy94 folds
+TIFUS  34 folds
+ch-touille folds
+seba0606 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 1: seba0606 (big blind) won 600
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #607144084565393419-36-1451679878 - Holdem no limit (25/150/300) - 2016/01/01 20:24:38 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #6 is the button
+Seat 1: seba0606 (4099)
+Seat 2: sarahkelya59 (15355)
+Seat 3: DEUNS 43 (31225)
+Seat 4: manggy94 (22425)
+Seat 5: TIFUS  34 (9383)
+Seat 6: ch-touille (17513)
+*** ANTE/BLINDS ***
+seba0606 posts ante 25
+sarahkelya59 posts ante 25
+DEUNS 43 posts ante 25
+manggy94 posts ante 25
+TIFUS  34 posts ante 25
+ch-touille posts ante 25
+seba0606 posts small blind 150
+sarahkelya59 posts big blind 300
+Dealt to manggy94 [8c Ac]
+*** PRE-FLOP *** 
+DEUNS 43 calls 300
+manggy94 calls 300
+TIFUS  34 calls 300
+ch-touille calls 300
+seba0606 calls 150
+sarahkelya59 checks
+*** FLOP *** [Jh 2s Td]
+seba0606 checks
+sarahkelya59 checks
+DEUNS 43 checks
+manggy94 bets 1950
+TIFUS  34 folds
+ch-touille raises 1950 to 3900
+seba0606 folds
+sarahkelya59 folds
+DEUNS 43 folds
+manggy94 calls 1950
+*** TURN *** [Jh 2s Td][Qc]
+manggy94 bets 9750
+ch-touille calls 9750
+*** RIVER *** [Jh 2s Td Qc][3s]
+manggy94 checks
+ch-touille checks
+*** SHOW DOWN ***
+manggy94 shows [8c Ac] (High card : Ace)
+ch-touille shows [2h 2c] (Trips of 2)
+ch-touille collected 29250 from pot
+*** SUMMARY ***
+Total pot 29250 | No rake
+Board: [Jh 2s Td Qc 3s]
+Seat 4: manggy94 showed [8c Ac] and lost with High card : Ace
+Seat 6: ch-touille (button) showed [2h 2c] and won 29250 with Trips of 2
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #607144084565393419-37-1451679934 - Holdem no limit (25/150/300) - 2016/01/01 20:25:34 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #1 is the button
+Seat 1: seba0606 (3774)
+Seat 2: sarahkelya59 (15030)
+Seat 3: DEUNS 43 (30900)
+Seat 4: manggy94 (8450)
+Seat 5: TIFUS  34 (9058)
+Seat 6: ch-touille (32788)
+*** ANTE/BLINDS ***
+sarahkelya59 posts ante 25
+DEUNS 43 posts ante 25
+seba0606 posts ante 25
+manggy94 posts ante 25
+TIFUS  34 posts ante 25
+ch-touille posts ante 25
+sarahkelya59 posts small blind 150
+DEUNS 43 posts big blind 300
+Dealt to manggy94 [7h 6s]
+*** PRE-FLOP *** 
+manggy94 folds
+TIFUS  34 calls 300
+ch-touille folds
+seba0606 raises 3449 to 3749 and is all-in
+sarahkelya59 calls 3599
+DEUNS 43 folds
+TIFUS  34 calls 3449
+*** FLOP *** [Jc 6d Js]
+sarahkelya59 checks
+TIFUS  34 checks
+*** TURN *** [Jc 6d Js][3d]
+sarahkelya59 checks
+TIFUS  34 checks
+*** RIVER *** [Jc 6d Js 3d][3h]
+sarahkelya59 checks
+TIFUS  34 checks
+*** SHOW DOWN ***
+sarahkelya59 shows [Ah 5h] (Two pairs : Jacks and 3)
+TIFUS  34 shows [5c Tc] (Two pairs : Jacks and 3)
+seba0606 shows [Ks Jd] (Full of Jacks and 3)
+seba0606 collected 11697 from pot
+*** SUMMARY ***
+Total pot 11697 | No rake
+Board: [Jc 6d Js 3d 3h]
+Seat 1: seba0606 (button) showed [Ks Jd] and won 11697 with Full of Jacks and 3
+Seat 2: sarahkelya59 (small blind) showed [Ah 5h] and lost with Two pairs : Jacks and 3
+Seat 5: TIFUS  34 showed [5c Tc] and lost with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #607144084565393419-38-1451679985 - Holdem no limit (30/200/400) - 2016/01/01 20:26:25 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #2 is the button
+Seat 1: seba0606 (11697)
+Seat 2: sarahkelya59 (11256)
+Seat 3: DEUNS 43 (30575)
+Seat 4: manggy94 (8425)
+Seat 5: TIFUS  34 (5284)
+Seat 6: ch-touille (32763)
+*** ANTE/BLINDS ***
+DEUNS 43 posts ante 30
+manggy94 posts ante 30
+seba0606 posts ante 30
+sarahkelya59 posts ante 30
+TIFUS  34 posts ante 30
+ch-touille posts ante 30
+DEUNS 43 posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [Ks 3d]
+*** PRE-FLOP *** 
+TIFUS  34 calls 400
+ch-touille folds
+seba0606 folds
+sarahkelya59 calls 400
+DEUNS 43 calls 200
+manggy94 checks
+*** FLOP *** [9d 2s Jd]
+DEUNS 43 checks
+manggy94 checks
+TIFUS  34 bets 1187
+sarahkelya59 calls 1187
+DEUNS 43 folds
+manggy94 folds
+*** TURN *** [9d 2s Jd][Kd]
+TIFUS  34 bets 3667 and is all-in
+sarahkelya59 calls 3667
+*** RIVER *** [9d 2s Jd Kd][9c]
+*** SHOW DOWN ***
+TIFUS  34 shows [8h Jh] (Two pairs : Jacks and 9)
+sarahkelya59 shows [Qd Ts] (Straight King high)
+sarahkelya59 collected 11488 from pot
+*** SUMMARY ***
+Total pot 11488 | No rake
+Board: [9d 2s Jd Kd 9c]
+Seat 2: sarahkelya59 (button) showed [Qd Ts] and won 11488 with Straight King high
+Seat 5: TIFUS  34 showed [8h Jh] and lost with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #607144084565393419-39-1451680053 - Holdem no limit (30/200/400) - 2016/01/01 20:27:33 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #3 is the button
+Seat 1: seba0606 (11667)
+Seat 2: sarahkelya59 (17460)
+Seat 3: DEUNS 43 (30145)
+Seat 4: manggy94 (7995)
+Seat 6: ch-touille (32733)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+ch-touille posts ante 30
+seba0606 posts ante 30
+sarahkelya59 posts ante 30
+DEUNS 43 posts ante 30
+manggy94 posts small blind 200
+ch-touille posts big blind 400
+Dealt to manggy94 [3d 8s]
+*** PRE-FLOP *** 
+seba0606 folds
+sarahkelya59 calls 400
+DEUNS 43 calls 400
+manggy94 folds
+ch-touille checks
+*** FLOP *** [6h Kd 7s]
+ch-touille bets 775
+sarahkelya59 folds
+DEUNS 43 calls 775
+*** TURN *** [6h Kd 7s][2d]
+ch-touille bets 2067
+DEUNS 43 folds
+ch-touille collected 5167 from pot
+*** SUMMARY ***
+Total pot 5167 | No rake
+Board: [6h Kd 7s 2d]
+Seat 6: ch-touille (big blind) won 5167
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #607144084565393419-40-1451680078 - Holdem no limit (30/200/400) - 2016/01/01 20:27:58 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #5 is the button
+Seat 1: seba0606 (11637)
+Seat 2: sarahkelya59 (17030)
+Seat 3: DEUNS 43 (28940)
+Seat 4: manggy94 (7765)
+Seat 5: waharannais (10000)
+Seat 6: ch-touille (34628)
+*** ANTE/BLINDS ***
+ch-touille posts ante 30
+seba0606 posts ante 30
+sarahkelya59 posts ante 30
+DEUNS 43 posts ante 30
+manggy94 posts ante 30
+waharannais posts ante 30
+ch-touille posts small blind 200
+seba0606 posts big blind 400
+Dealt to manggy94 [8d 4d]
+*** PRE-FLOP *** 
+sarahkelya59 folds
+DEUNS 43 folds
+manggy94 calls 400
+waharannais folds
+ch-touille calls 200
+seba0606 checks
+*** FLOP *** [7s 6d Ad]
+ch-touille checks
+seba0606 checks
+manggy94 bets 7335 and is all-in
+ch-touille folds
+seba0606 folds
+manggy94 collected 8715 from pot
+*** SUMMARY ***
+Total pot 8715 | No rake
+Board: [7s 6d Ad]
+Seat 4: manggy94 won 8715
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #607144084565393419-41-1451680109 - Holdem no limit (30/200/400) - 2016/01/01 20:28:29 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #6 is the button
+Seat 1: seba0606 (11207)
+Seat 2: sarahkelya59 (17000)
+Seat 3: DEUNS 43 (28910)
+Seat 4: manggy94 (8715)
+Seat 5: waharannais (9970)
+Seat 6: ch-touille (34198)
+*** ANTE/BLINDS ***
+seba0606 posts ante 30
+sarahkelya59 posts ante 30
+DEUNS 43 posts ante 30
+manggy94 posts ante 30
+waharannais posts ante 30
+ch-touille posts ante 30
+seba0606 posts small blind 200
+sarahkelya59 posts big blind 400
+Dealt to manggy94 [2c 8d]
+*** PRE-FLOP *** 
+DEUNS 43 folds
+manggy94 folds
+waharannais calls 400
+ch-touille folds
+seba0606 folds
+sarahkelya59 checks
+*** FLOP *** [2h 4c 6s]
+sarahkelya59 checks
+waharannais checks
+*** TURN *** [2h 4c 6s][5h]
+sarahkelya59 checks
+waharannais checks
+*** RIVER *** [2h 4c 6s 5h][6d]
+sarahkelya59 checks
+waharannais checks
+*** SHOW DOWN ***
+sarahkelya59 shows [Ts Ks] (One pair : 6)
+waharannais shows [2s 9s] (Two pairs : 6 and 2)
+waharannais collected 1180 from pot
+*** SUMMARY ***
+Total pot 1180 | No rake
+Board: [2h 4c 6s 5h 6d]
+Seat 2: sarahkelya59 (big blind) showed [Ts Ks] and lost with One pair : 6
+Seat 5: waharannais showed [2s 9s] and won 1180 with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #607144084565393419-42-1451680157 - Holdem no limit (30/200/400) - 2016/01/01 20:29:17 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #1 is the button
+Seat 1: seba0606 (10977)
+Seat 2: sarahkelya59 (16570)
+Seat 3: DEUNS 43 (28880)
+Seat 4: manggy94 (8685)
+Seat 5: waharannais (10720)
+Seat 6: ch-touille (34168)
+*** ANTE/BLINDS ***
+sarahkelya59 posts ante 30
+DEUNS 43 posts ante 30
+seba0606 posts ante 30
+manggy94 posts ante 30
+waharannais posts ante 30
+ch-touille posts ante 30
+sarahkelya59 posts small blind 200
+DEUNS 43 posts big blind 400
+Dealt to manggy94 [3h As]
+*** PRE-FLOP *** 
+manggy94 calls 400
+waharannais calls 400
+ch-touille calls 400
+seba0606 folds
+sarahkelya59 calls 200
+DEUNS 43 checks
+*** FLOP *** [Jc 9d Kd]
+sarahkelya59 checks
+DEUNS 43 bets 400
+manggy94 folds
+waharannais folds
+ch-touille calls 400
+sarahkelya59 folds
+*** TURN *** [Jc 9d Kd][9c]
+DEUNS 43 bets 400
+ch-touille calls 400
+*** RIVER *** [Jc 9d Kd 9c][Td]
+DEUNS 43 bets 400
+ch-touille calls 400
+*** SHOW DOWN ***
+DEUNS 43 shows [3c Kc] (Two pairs : Kings and 9)
+ch-touille shows [6c Ks] (Two pairs : Kings and 9)
+ch-touille collected 2290 from pot
+DEUNS 43 collected 2290 from pot
+*** SUMMARY ***
+Total pot 4580 | No rake
+Board: [Jc 9d Kd 9c Td]
+Seat 3: DEUNS 43 (big blind) showed [3c Kc] and won 2290 with Two pairs : Kings and 9
+Seat 6: ch-touille showed [6c Ks] and won 2290 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #607144084565393419-43-1451680215 - Holdem no limit (30/200/400) - 2016/01/01 20:30:15 UTC
+Table: 'MiniRoll(141361748)#010' 6-max (real money) Seat #2 is the button
+Seat 1: seba0606 (10947)
+Seat 2: sarahkelya59 (16140)
+Seat 3: DEUNS 43 (29540)
+Seat 4: manggy94 (8255)
+Seat 5: waharannais (10290)
+Seat 6: ch-touille (34828)
+*** ANTE/BLINDS ***
+DEUNS 43 posts ante 30
+manggy94 posts ante 30
+seba0606 posts ante 30
+sarahkelya59 posts ante 30
+waharannais posts ante 30
+ch-touille posts ante 30
+DEUNS 43 posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [Ah 4s]
+*** PRE-FLOP *** 
+waharannais calls 400
+ch-touille folds
+seba0606 folds
+sarahkelya59 folds
+DEUNS 43 calls 200
+manggy94 checks
+*** FLOP *** [4c 7d Jh]
+DEUNS 43 checks
+manggy94 bets 1380
+waharannais calls 1380
+DEUNS 43 folds
+*** TURN *** [4c 7d Jh][7h]
+manggy94 bets 6445 and is all-in
+waharannais calls 6445
+*** RIVER *** [4c 7d Jh 7h][9d]
+*** SHOW DOWN ***
+manggy94 shows [Ah 4s] (Two pairs : 7 and 4)
+waharannais shows [Kc Jc] (Two pairs : Jacks and 7)
+waharannais collected 17030 from pot
+*** SUMMARY ***
+Total pot 17030 | No rake
+Board: [4c 7d Jh 7h 9d]
+Seat 4: manggy94 (big blind) showed [Ah 4s] and lost with Two pairs : 7 and 4
+Seat 5: waharannais showed [Kc Jc] and won 17030 with Two pairs : Jacks and 7
+
+

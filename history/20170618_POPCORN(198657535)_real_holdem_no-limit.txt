@@ -1,0 +1,808 @@
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #853227615928975423-124-1497816680 - Holdem no limit (120/500/1000) - 2017/06/18 20:11:20 UTC
+Table: 'POPCORN(198657535)#062' 6-max (real money) Seat #2 is the button
+Seat 1: satanas3005 (34660)
+Seat 2: MacDad (155284)
+Seat 4: manggy94 (10000)
+Seat 5: elmag54777 (12060)
+Seat 6: ondine65 (6246)
+*** ANTE/BLINDS ***
+manggy94 posts ante 120
+satanas3005 posts ante 120
+MacDad posts ante 120
+elmag54777 posts ante 120
+ondine65 posts ante 120
+manggy94 posts big blind 1000
+Dealt to manggy94 [7c Kd]
+*** PRE-FLOP *** 
+elmag54777 folds
+ondine65 folds
+satanas3005 folds
+MacDad calls 1000
+manggy94 checks
+*** FLOP *** [4d Jd 5c]
+manggy94 checks
+MacDad checks
+*** TURN *** [4d Jd 5c][5h]
+manggy94 checks
+MacDad checks
+*** RIVER *** [4d Jd 5c 5h][3c]
+manggy94 checks
+MacDad checks
+*** SHOW DOWN ***
+manggy94 shows [7c Kd] (One pair : 5)
+MacDad shows [Ad 8h] (One pair : 5)
+MacDad collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | No rake
+Board: [4d Jd 5c 5h 3c]
+Seat 2: MacDad (button) showed [Ad 8h] and won 2600 with One pair : 5
+Seat 4: manggy94 (big blind) showed [7c Kd] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #853227615928975423-125-1497816730 - Holdem no limit (120/500/1000) - 2017/06/18 20:12:10 UTC
+Table: 'POPCORN(198657535)#062' 6-max (real money) Seat #3 is the button
+Seat 1: satanas3005 (34540)
+Seat 2: MacDad (156764)
+Seat 3: ludo34400 (10000)
+Seat 4: manggy94 (8880)
+Seat 5: elmag54777 (11940)
+Seat 6: ondine65 (6126)
+*** ANTE/BLINDS ***
+manggy94 posts ante 120
+elmag54777 posts ante 120
+satanas3005 posts ante 120
+MacDad posts ante 120
+ondine65 posts ante 120
+manggy94 posts small blind 500
+elmag54777 posts big blind 1000
+Dealt to manggy94 [Td 3c]
+*** PRE-FLOP *** 
+ondine65 raises 5006 to 6006 and is all-in
+satanas3005 folds
+MacDad folds
+manggy94 folds
+elmag54777 calls 5006
+*** FLOP *** [6h 2d 8h]
+*** TURN *** [6h 2d 8h][7d]
+*** RIVER *** [6h 2d 8h 7d][7s]
+*** SHOW DOWN ***
+elmag54777 shows [Ts As] (One pair : 7)
+ondine65 shows [9c 9s] (Two pairs : 9 and 7)
+ondine65 collected 13112 from pot
+*** SUMMARY ***
+Total pot 13112 | No rake
+Board: [6h 2d 8h 7d 7s]
+Seat 5: elmag54777 (big blind) showed [Ts As] and lost with One pair : 7
+Seat 6: ondine65 showed [9c 9s] and won 13112 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #853227615928975423-126-1497816754 - Holdem no limit (120/500/1000) - 2017/06/18 20:12:34 UTC
+Table: 'POPCORN(198657535)#062' 6-max (real money) Seat #4 is the button
+Seat 1: satanas3005 (34420)
+Seat 2: MacDad (156644)
+Seat 3: ludo34400 (10000)
+Seat 4: manggy94 (8260)
+Seat 5: elmag54777 (5814)
+Seat 6: ondine65 (13112)
+*** ANTE/BLINDS ***
+elmag54777 posts ante 120
+ondine65 posts ante 120
+satanas3005 posts ante 120
+MacDad posts ante 120
+ludo34400 posts ante 120
+manggy94 posts ante 120
+elmag54777 posts small blind 500
+ondine65 posts big blind 1000
+Dealt to manggy94 [3s Jc]
+*** PRE-FLOP *** 
+satanas3005 folds
+MacDad folds
+ludo34400 raises 8880 to 9880 and is all-in
+manggy94 folds
+elmag54777 calls 5194 and is all-in
+ondine65 raises 3112 to 12992 and is all-in
+*** FLOP *** [8c Qs Ts]
+*** TURN *** [8c Qs Ts][4c]
+*** RIVER *** [8c Qs Ts 4c][Tc]
+*** SHOW DOWN ***
+ludo34400 shows [As 2s] (One pair : Tens)
+elmag54777 shows [5d Ad] (One pair : Tens)
+ondine65 shows [2d Ac] (One pair : Tens)
+ondine65 collected 13232 from side pot 2
+elmag54777 collected 5934 from main pot
+ludo34400 collected 10120 from side pot 1
+*** SUMMARY ***
+Total pot 29286 | No rake
+Board: [8c Qs Ts 4c Tc]
+Seat 3: ludo34400 showed [As 2s] and won 10120 with One pair : Tens
+Seat 5: elmag54777 (small blind) showed [5d Ad] and won 5934 with One pair : Tens
+Seat 6: ondine65 (big blind) showed [2d Ac] and won 13232 with One pair : Tens
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #853227615928975423-127-1497816787 - Holdem no limit (120/500/1000) - 2017/06/18 20:13:07 UTC
+Table: 'POPCORN(198657535)#062' 6-max (real money) Seat #5 is the button
+Seat 1: satanas3005 (34300)
+Seat 2: MacDad (156524)
+Seat 3: ludo34400 (10120)
+Seat 4: manggy94 (8140)
+Seat 5: elmag54777 (5934)
+Seat 6: ondine65 (13232)
+*** ANTE/BLINDS ***
+ondine65 posts ante 120
+satanas3005 posts ante 120
+MacDad posts ante 120
+ludo34400 posts ante 120
+manggy94 posts ante 120
+elmag54777 posts ante 120
+ondine65 posts small blind 500
+satanas3005 posts big blind 1000
+Dealt to manggy94 [6c 6d]
+*** PRE-FLOP *** 
+MacDad folds
+ludo34400 folds
+manggy94 raises 7020 to 8020 and is all-in
+elmag54777 folds
+ondine65 folds
+satanas3005 folds
+manggy94 collected 10240 from pot
+*** SUMMARY ***
+Total pot 10240 | No rake
+Seat 4: manggy94 won 10240
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #853227615928975423-128-1497816806 - Holdem no limit (120/500/1000) - 2017/06/18 20:13:26 UTC
+Table: 'POPCORN(198657535)#062' 6-max (real money) Seat #6 is the button
+Seat 1: satanas3005 (33180)
+Seat 2: MacDad (156404)
+Seat 3: ludo34400 (10000)
+Seat 4: manggy94 (10240)
+Seat 5: elmag54777 (5814)
+Seat 6: ondine65 (12612)
+*** ANTE/BLINDS ***
+satanas3005 posts ante 120
+MacDad posts ante 120
+ludo34400 posts ante 120
+manggy94 posts ante 120
+elmag54777 posts ante 120
+ondine65 posts ante 120
+satanas3005 posts small blind 500
+MacDad posts big blind 1000
+Dealt to manggy94 [Jc 9d]
+*** PRE-FLOP *** 
+ludo34400 folds
+manggy94 folds
+elmag54777 folds
+ondine65 folds
+satanas3005 folds
+MacDad collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 2: MacDad (big blind) won 2220
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #853227615928975423-129-1497816830 - Holdem no limit (120/500/1000) - 2017/06/18 20:13:50 UTC
+Table: 'POPCORN(198657535)#062' 6-max (real money) Seat #1 is the button
+Seat 1: satanas3005 (32560)
+Seat 2: MacDad (157504)
+Seat 3: ludo34400 (9880)
+Seat 4: manggy94 (10120)
+Seat 5: elmag54777 (5694)
+Seat 6: ondine65 (12492)
+*** ANTE/BLINDS ***
+MacDad posts ante 120
+ludo34400 posts ante 120
+satanas3005 posts ante 120
+manggy94 posts ante 120
+elmag54777 posts ante 120
+ondine65 posts ante 120
+MacDad posts small blind 500
+ludo34400 posts big blind 1000
+Dealt to manggy94 [Ad Th]
+*** PRE-FLOP *** 
+manggy94 raises 2000 to 3000
+elmag54777 folds
+ondine65 folds
+satanas3005 folds
+MacDad folds
+ludo34400 folds
+manggy94 collected 5220 from pot
+*** SUMMARY ***
+Total pot 5220 | No rake
+Seat 4: manggy94 won 5220
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #853227615928975423-130-1497816879 - Holdem no limit (120/500/1000) - 2017/06/18 20:14:39 UTC
+Table: 'POPCORN(198657535)#062' 6-max (real money) Seat #2 is the button
+Seat 1: satanas3005 (32440)
+Seat 2: MacDad (156884)
+Seat 3: ludo34400 (8760)
+Seat 4: manggy94 (12220)
+Seat 5: elmag54777 (5574)
+Seat 6: ondine65 (12372)
+*** ANTE/BLINDS ***
+ludo34400 posts ante 120
+manggy94 posts ante 120
+satanas3005 posts ante 120
+MacDad posts ante 120
+elmag54777 posts ante 120
+ondine65 posts ante 120
+ludo34400 posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [Jd 2d]
+*** PRE-FLOP *** 
+elmag54777 folds
+ondine65 raises 11252 to 12252 and is all-in
+satanas3005 folds
+MacDad folds
+ludo34400 calls 8140 and is all-in
+manggy94 folds
+*** FLOP *** [Ah As 6h]
+*** TURN *** [Ah As 6h][2c]
+*** RIVER *** [Ah As 6h 2c][8h]
+*** SHOW DOWN ***
+ludo34400 shows [Kd Ad] (Trips of Aces)
+ondine65 shows [Td Jc] (One pair : Aces)
+ondine65 collected 3612 from side pot 1
+ludo34400 collected 19000 from main pot
+*** SUMMARY ***
+Total pot 22612 | No rake
+Board: [Ah As 6h 2c 8h]
+Seat 3: ludo34400 (small blind) showed [Kd Ad] and won 19000 with Trips of Aces
+Seat 6: ondine65 showed [Td Jc] and won 3612 with One pair : Aces
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #853227615928975423-131-1497816918 - Holdem no limit (120/500/1000) - 2017/06/18 20:15:18 UTC
+Table: 'POPCORN(198657535)#062' 6-max (real money) Seat #3 is the button
+Seat 1: satanas3005 (32320)
+Seat 2: MacDad (156764)
+Seat 3: ludo34400 (19000)
+Seat 4: manggy94 (11100)
+Seat 5: elmag54777 (5454)
+Seat 6: ondine65 (3612)
+*** ANTE/BLINDS ***
+manggy94 posts ante 120
+elmag54777 posts ante 120
+satanas3005 posts ante 120
+MacDad posts ante 120
+ludo34400 posts ante 120
+ondine65 posts ante 120
+manggy94 posts small blind 500
+elmag54777 posts big blind 1000
+Dealt to manggy94 [2h 5s]
+*** PRE-FLOP *** 
+ondine65 raises 2492 to 3492 and is all-in
+satanas3005 folds
+MacDad calls 3492
+ludo34400 folds
+manggy94 folds
+elmag54777 folds
+*** FLOP *** [Ks Tc 4h]
+*** TURN *** [Ks Tc 4h][Kc]
+*** RIVER *** [Ks Tc 4h Kc][Qs]
+*** SHOW DOWN ***
+MacDad shows [Ad 6c] (One pair : Kings)
+ondine65 shows [Jc 9s] (Straight King high)
+ondine65 collected 9204 from pot
+*** SUMMARY ***
+Total pot 9204 | No rake
+Board: [Ks Tc 4h Kc Qs]
+Seat 2: MacDad showed [Ad 6c] and lost with One pair : Kings
+Seat 6: ondine65 showed [Jc 9s] and won 9204 with Straight King high
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #853227615928975423-132-1497816947 - Holdem no limit (120/500/1000) - 2017/06/18 20:15:47 UTC
+Table: 'POPCORN(198657535)#062' 6-max (real money) Seat #4 is the button
+Seat 1: satanas3005 (32200)
+Seat 2: MacDad (153152)
+Seat 3: ludo34400 (18880)
+Seat 4: manggy94 (10480)
+Seat 5: elmag54777 (4334)
+Seat 6: ondine65 (9204)
+*** ANTE/BLINDS ***
+elmag54777 posts ante 120
+ondine65 posts ante 120
+satanas3005 posts ante 120
+MacDad posts ante 120
+ludo34400 posts ante 120
+manggy94 posts ante 120
+elmag54777 posts small blind 500
+ondine65 posts big blind 1000
+Dealt to manggy94 [6s 7d]
+*** PRE-FLOP *** 
+satanas3005 folds
+MacDad raises 1000 to 2000
+ludo34400 folds
+manggy94 folds
+elmag54777 folds
+ondine65 calls 1000
+*** FLOP *** [3s Qs Ad]
+ondine65 checks
+MacDad bets 1000
+ondine65 folds
+MacDad collected 6220 from pot
+*** SUMMARY ***
+Total pot 6220 | No rake
+Board: [3s Qs Ad]
+Seat 2: MacDad won 6220
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #853227615928975423-133-1497816974 - Holdem no limit (120/500/1000) - 2017/06/18 20:16:14 UTC
+Table: 'POPCORN(198657535)#062' 6-max (real money) Seat #5 is the button
+Seat 1: satanas3005 (32080)
+Seat 2: MacDad (156252)
+Seat 3: ludo34400 (18760)
+Seat 4: manggy94 (10360)
+Seat 5: elmag54777 (3714)
+Seat 6: ondine65 (7084)
+*** ANTE/BLINDS ***
+ondine65 posts ante 120
+satanas3005 posts ante 120
+MacDad posts ante 120
+ludo34400 posts ante 120
+manggy94 posts ante 120
+elmag54777 posts ante 120
+ondine65 posts small blind 500
+satanas3005 posts big blind 1000
+Dealt to manggy94 [Kd Td]
+*** PRE-FLOP *** 
+MacDad raises 1000 to 2000
+ludo34400 folds
+manggy94 calls 2000
+elmag54777 folds
+ondine65 raises 4964 to 6964 and is all-in
+satanas3005 raises 24996 to 31960 and is all-in
+MacDad folds
+manggy94 calls 8240 and is all-in
+*** FLOP *** [Qh 4s Qc]
+*** TURN *** [Qh 4s Qc][Th]
+*** RIVER *** [Qh 4s Qc Th][5s]
+*** SHOW DOWN ***
+manggy94 shows [Kd Td] (Two pairs : Queens and Tens)
+ondine65 shows [Js Kh] (One pair : Queens)
+satanas3005 shows [Ac Tc] (Two pairs : Queens and Tens)
+satanas3005 collected 51884 from pot
+*** SUMMARY ***
+Total pot 51884 | No rake
+Board: [Qh 4s Qc Th 5s]
+Seat 1: satanas3005 (big blind) showed [Ac Tc] and won 51884 with Two pairs : Queens and Tens
+Seat 4: manggy94 showed [Kd Td] and lost with Two pairs : Queens and Tens
+Seat 6: ondine65 (small blind) showed [Js Kh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #853227615928975394-124-1497817014 - Holdem no limit (120/500/1000) - 2017/06/18 20:16:54 UTC
+Table: 'POPCORN(198657535)#033' 6-max (real money) Seat #4 is the button
+Seat 1: meloclo (16360)
+Seat 2: malou64200 (7660)
+Seat 3: Air rando72 (76009)
+Seat 4: manggy94 (10000)
+Seat 5: Teddy KKGB (26500)
+Seat 6: KC le requin (83471)
+*** ANTE/BLINDS ***
+Teddy KKGB posts ante 120
+KC le requin posts ante 120
+meloclo posts ante 120
+malou64200 posts ante 120
+Air rando72 posts ante 120
+Teddy KKGB posts small blind 500
+KC le requin posts big blind 1000
+*** PRE-FLOP *** 
+meloclo raises 1000 to 2000
+malou64200 folds
+Air rando72 folds
+Teddy KKGB folds
+KC le requin folds
+meloclo collected 4100 from pot
+*** SUMMARY ***
+Total pot 4100 | No rake
+Seat 1: meloclo won 4100
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #853227615928975394-125-1497817042 - Holdem no limit (120/500/1000) - 2017/06/18 20:17:22 UTC
+Table: 'POPCORN(198657535)#033' 6-max (real money) Seat #5 is the button
+Seat 1: meloclo (18340)
+Seat 2: malou64200 (7540)
+Seat 3: Air rando72 (75889)
+Seat 4: manggy94 (10000)
+Seat 5: Teddy KKGB (25880)
+Seat 6: KC le requin (82351)
+*** ANTE/BLINDS ***
+KC le requin posts ante 120
+meloclo posts ante 120
+malou64200 posts ante 120
+Air rando72 posts ante 120
+manggy94 posts ante 120
+Teddy KKGB posts ante 120
+KC le requin posts small blind 500
+meloclo posts big blind 1000
+Dealt to manggy94 [Kc Jh]
+*** PRE-FLOP *** 
+malou64200 folds
+Air rando72 raises 74769 to 75769 and is all-in
+manggy94 folds
+Teddy KKGB folds
+KC le requin folds
+meloclo folds
+Air rando72 collected 77989 from pot
+*** SUMMARY ***
+Total pot 77989 | No rake
+Seat 3: Air rando72 won 77989
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #853227615928975394-126-1497817059 - Holdem no limit (120/500/1000) - 2017/06/18 20:17:39 UTC
+Table: 'POPCORN(198657535)#033' 6-max (real money) Seat #6 is the button
+Seat 1: meloclo (17220)
+Seat 2: malou64200 (7420)
+Seat 3: Air rando72 (77989)
+Seat 4: manggy94 (9880)
+Seat 5: Teddy KKGB (25760)
+Seat 6: KC le requin (81731)
+*** ANTE/BLINDS ***
+meloclo posts ante 120
+malou64200 posts ante 120
+Air rando72 posts ante 120
+manggy94 posts ante 120
+Teddy KKGB posts ante 120
+KC le requin posts ante 120
+meloclo posts small blind 500
+malou64200 posts big blind 1000
+Dealt to manggy94 [Tc 4h]
+*** PRE-FLOP *** 
+Air rando72 folds
+manggy94 folds
+Teddy KKGB folds
+KC le requin raises 80611 to 81611 and is all-in
+meloclo folds
+malou64200 calls 6300 and is all-in
+*** FLOP *** [7d 6c 5h]
+*** TURN *** [7d 6c 5h][Jc]
+*** RIVER *** [7d 6c 5h Jc][Qs]
+*** SHOW DOWN ***
+malou64200 shows [Kh Kc] (One pair : Kings)
+KC le requin shows [3h Ah] (High card : Ace)
+KC le requin collected 74311 from side pot 1
+malou64200 collected 15820 from main pot
+*** SUMMARY ***
+Total pot 90131 | No rake
+Board: [7d 6c 5h Jc Qs]
+Seat 2: malou64200 (big blind) showed [Kh Kc] and won 15820 with One pair : Kings
+Seat 6: KC le requin (button) showed [3h Ah] and won 74311 with High card : Ace
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #853227615928975394-127-1497817085 - Holdem no limit (120/500/1000) - 2017/06/18 20:18:05 UTC
+Table: 'POPCORN(198657535)#033' 6-max (real money) Seat #1 is the button
+Seat 1: meloclo (16600)
+Seat 2: malou64200 (15820)
+Seat 3: Air rando72 (77869)
+Seat 4: manggy94 (9760)
+Seat 5: Teddy KKGB (25640)
+Seat 6: KC le requin (74311)
+*** ANTE/BLINDS ***
+malou64200 posts ante 120
+Air rando72 posts ante 120
+meloclo posts ante 120
+manggy94 posts ante 120
+Teddy KKGB posts ante 120
+KC le requin posts ante 120
+malou64200 posts small blind 500
+Air rando72 posts big blind 1000
+Dealt to manggy94 [Kc 5s]
+*** PRE-FLOP *** 
+manggy94 folds
+Teddy KKGB folds
+KC le requin folds
+meloclo folds
+malou64200 folds
+Air rando72 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 3: Air rando72 (big blind) won 2220
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #853227615928975394-128-1497817096 - Holdem no limit (120/500/1000) - 2017/06/18 20:18:16 UTC
+Table: 'POPCORN(198657535)#033' 6-max (real money) Seat #2 is the button
+Seat 1: meloclo (16480)
+Seat 2: malou64200 (15200)
+Seat 3: Air rando72 (78969)
+Seat 4: manggy94 (9640)
+Seat 5: Teddy KKGB (25520)
+Seat 6: KC le requin (74191)
+*** ANTE/BLINDS ***
+Air rando72 posts ante 120
+manggy94 posts ante 120
+meloclo posts ante 120
+malou64200 posts ante 120
+Teddy KKGB posts ante 120
+KC le requin posts ante 120
+Air rando72 posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [4d Kh]
+*** PRE-FLOP *** 
+Teddy KKGB folds
+KC le requin folds
+meloclo calls 1000
+malou64200 folds
+Air rando72 raises 77849 to 78849 and is all-in
+manggy94 folds
+meloclo folds
+Air rando72 collected 81569 from pot
+*** SUMMARY ***
+Total pot 81569 | No rake
+Seat 3: Air rando72 (small blind) won 81569
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #853227615928975394-129-1497817133 - Holdem no limit (120/500/1000) - 2017/06/18 20:18:53 UTC
+Table: 'POPCORN(198657535)#033' 6-max (real money) Seat #3 is the button
+Seat 1: meloclo (15360)
+Seat 2: malou64200 (15080)
+Seat 3: Air rando72 (81569)
+Seat 4: manggy94 (8520)
+Seat 5: Teddy KKGB (25400)
+Seat 6: KC le requin (74071)
+*** ANTE/BLINDS ***
+manggy94 posts ante 120
+Teddy KKGB posts ante 120
+meloclo posts ante 120
+malou64200 posts ante 120
+Air rando72 posts ante 120
+KC le requin posts ante 120
+manggy94 posts small blind 500
+Teddy KKGB posts big blind 1000
+Dealt to manggy94 [6s Ad]
+*** PRE-FLOP *** 
+KC le requin folds
+meloclo folds
+malou64200 calls 1000
+Air rando72 folds
+manggy94 calls 500
+Teddy KKGB raises 2800 to 3800
+malou64200 calls 2800
+manggy94 calls 2800
+*** FLOP *** [5c Qh 8c]
+manggy94 checks
+Teddy KKGB bets 12120
+malou64200 calls 11160 and is all-in
+manggy94 folds
+*** TURN *** [5c Qh 8c][6c]
+*** RIVER *** [5c Qh 8c 6c][4d]
+*** SHOW DOWN ***
+malou64200 shows [Qc 9c] (Flush Queen high)
+Teddy KKGB shows [Kc Kh] (One pair : Kings)
+Teddy KKGB collected 960 from side pot 1
+malou64200 collected 34440 from main pot
+*** SUMMARY ***
+Total pot 35400 | No rake
+Board: [5c Qh 8c 6c 4d]
+Seat 2: malou64200 showed [Qc 9c] and won 34440 with Flush Queen high
+Seat 5: Teddy KKGB (big blind) showed [Kc Kh] and won 960 with One pair : Kings
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #853227615928975394-130-1497817172 - Holdem no limit (120/500/1000) - 2017/06/18 20:19:32 UTC
+Table: 'POPCORN(198657535)#033' 6-max (real money) Seat #4 is the button
+Seat 1: meloclo (15240)
+Seat 2: malou64200 (34440)
+Seat 3: Air rando72 (81449)
+Seat 4: manggy94 (4600)
+Seat 5: Teddy KKGB (10320)
+Seat 6: KC le requin (73951)
+*** ANTE/BLINDS ***
+Teddy KKGB posts ante 120
+KC le requin posts ante 120
+meloclo posts ante 120
+malou64200 posts ante 120
+Air rando72 posts ante 120
+manggy94 posts ante 120
+Teddy KKGB posts small blind 500
+KC le requin posts big blind 1000
+Dealt to manggy94 [6h 3h]
+*** PRE-FLOP *** 
+meloclo folds
+malou64200 folds
+Air rando72 folds
+manggy94 folds
+Teddy KKGB raises 9200 to 10200 and is all-in
+KC le requin folds
+Teddy KKGB collected 11920 from pot
+*** SUMMARY ***
+Total pot 11920 | No rake
+Seat 5: Teddy KKGB (small blind) won 11920
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #853227615928975394-131-1497817203 - Holdem no limit (160/600/1200) - 2017/06/18 20:20:03 UTC
+Table: 'POPCORN(198657535)#033' 6-max (real money) Seat #5 is the button
+Seat 1: meloclo (15120)
+Seat 2: malou64200 (34320)
+Seat 3: Air rando72 (81329)
+Seat 4: manggy94 (4480)
+Seat 5: Teddy KKGB (11920)
+Seat 6: KC le requin (72831)
+*** ANTE/BLINDS ***
+KC le requin posts ante 160
+meloclo posts ante 160
+malou64200 posts ante 160
+Air rando72 posts ante 160
+manggy94 posts ante 160
+Teddy KKGB posts ante 160
+KC le requin posts small blind 600
+meloclo posts big blind 1200
+Dealt to manggy94 [5d 2s]
+*** PRE-FLOP *** 
+malou64200 folds
+Air rando72 folds
+manggy94 folds
+Teddy KKGB folds
+KC le requin raises 71471 to 72671 and is all-in
+meloclo folds
+KC le requin collected 74831 from pot
+*** SUMMARY ***
+Total pot 74831 | No rake
+Seat 6: KC le requin (small blind) won 74831
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #853227615928975394-132-1497817226 - Holdem no limit (160/600/1200) - 2017/06/18 20:20:26 UTC
+Table: 'POPCORN(198657535)#033' 6-max (real money) Seat #6 is the button
+Seat 1: meloclo (13760)
+Seat 2: malou64200 (34160)
+Seat 3: Air rando72 (81169)
+Seat 4: manggy94 (4320)
+Seat 5: Teddy KKGB (11760)
+Seat 6: KC le requin (74831)
+*** ANTE/BLINDS ***
+meloclo posts ante 160
+malou64200 posts ante 160
+Air rando72 posts ante 160
+manggy94 posts ante 160
+Teddy KKGB posts ante 160
+KC le requin posts ante 160
+meloclo posts small blind 600
+malou64200 posts big blind 1200
+Dealt to manggy94 [4c 2d]
+*** PRE-FLOP *** 
+Air rando72 folds
+manggy94 folds
+Teddy KKGB raises 10400 to 11600 and is all-in
+KC le requin folds
+meloclo raises 2000 to 13600 and is all-in
+malou64200 folds
+*** FLOP *** [Kd 5d 7c]
+*** TURN *** [Kd 5d 7c][3s]
+*** RIVER *** [Kd 5d 7c 3s][Qc]
+*** SHOW DOWN ***
+Teddy KKGB shows [Qd 9c] (One pair : Queens)
+meloclo shows [Ks Td] (One pair : Kings)
+meloclo collected 27360 from pot
+*** SUMMARY ***
+Total pot 27360 | No rake
+Board: [Kd 5d 7c 3s Qc]
+Seat 1: meloclo (small blind) showed [Ks Td] and won 27360 with One pair : Kings
+Seat 5: Teddy KKGB showed [Qd 9c] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #853227615928975394-133-1497817254 - Holdem no limit (160/600/1200) - 2017/06/18 20:20:54 UTC
+Table: 'POPCORN(198657535)#033' 6-max (real money) Seat #1 is the button
+Seat 1: meloclo (27360)
+Seat 2: malou64200 (32800)
+Seat 3: Air rando72 (81009)
+Seat 4: manggy94 (4160)
+Seat 6: KC le requin (74671)
+*** ANTE/BLINDS ***
+malou64200 posts ante 160
+Air rando72 posts ante 160
+meloclo posts ante 160
+manggy94 posts ante 160
+KC le requin posts ante 160
+malou64200 posts small blind 600
+Air rando72 posts big blind 1200
+Dealt to manggy94 [6h 2d]
+*** PRE-FLOP *** 
+manggy94 folds
+KC le requin raises 1200 to 2400
+meloclo calls 2400
+malou64200 folds
+Air rando72 folds
+*** FLOP *** [9s 8d 4d]
+KC le requin checks
+meloclo checks
+*** TURN *** [9s 8d 4d][Th]
+KC le requin checks
+meloclo checks
+*** RIVER *** [9s 8d 4d Th][2h]
+KC le requin checks
+meloclo checks
+*** SHOW DOWN ***
+meloclo shows [7d Ah] (High card : Ace)
+KC le requin shows [Qd Qc] (One pair : Queens)
+KC le requin collected 7400 from pot
+*** SUMMARY ***
+Total pot 7400 | No rake
+Board: [9s 8d 4d Th 2h]
+Seat 1: meloclo (button) showed [7d Ah] and lost with High card : Ace
+Seat 6: KC le requin showed [Qd Qc] and won 7400 with One pair : Queens
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #853227615928975394-134-1497817282 - Holdem no limit (160/600/1200) - 2017/06/18 20:21:22 UTC
+Table: 'POPCORN(198657535)#033' 6-max (real money) Seat #2 is the button
+Seat 1: meloclo (24800)
+Seat 2: malou64200 (32040)
+Seat 3: Air rando72 (79649)
+Seat 4: manggy94 (4000)
+Seat 6: KC le requin (79511)
+*** ANTE/BLINDS ***
+Air rando72 posts ante 160
+manggy94 posts ante 160
+meloclo posts ante 160
+malou64200 posts ante 160
+KC le requin posts ante 160
+Air rando72 posts small blind 600
+manggy94 posts big blind 1200
+Dealt to manggy94 [2s Td]
+*** PRE-FLOP *** 
+KC le requin raises 1200 to 2400
+meloclo folds
+malou64200 calls 2400
+Air rando72 folds
+manggy94 folds
+*** FLOP *** [Ah 5s 8c]
+KC le requin checks
+malou64200 checks
+*** TURN *** [Ah 5s 8c][4d]
+KC le requin checks
+malou64200 checks
+*** RIVER *** [Ah 5s 8c 4d][Ks]
+KC le requin checks
+malou64200 checks
+*** SHOW DOWN ***
+KC le requin shows [Qc 8h] (One pair : 8)
+malou64200 shows [7c Kc] (One pair : Kings)
+malou64200 collected 7400 from pot
+*** SUMMARY ***
+Total pot 7400 | No rake
+Board: [Ah 5s 8c 4d Ks]
+Seat 2: malou64200 (button) showed [7c Kc] and won 7400 with One pair : Kings
+Seat 6: KC le requin showed [Qc 8h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #853227615928975394-135-1497817309 - Holdem no limit (160/600/1200) - 2017/06/18 20:21:49 UTC
+Table: 'POPCORN(198657535)#033' 6-max (real money) Seat #3 is the button
+Seat 1: meloclo (24640)
+Seat 2: malou64200 (36880)
+Seat 3: Air rando72 (78889)
+Seat 4: manggy94 (2640)
+Seat 6: KC le requin (76951)
+*** ANTE/BLINDS ***
+manggy94 posts ante 160
+KC le requin posts ante 160
+meloclo posts ante 160
+malou64200 posts ante 160
+Air rando72 posts ante 160
+manggy94 posts small blind 600
+KC le requin posts big blind 1200
+Dealt to manggy94 [4s 8s]
+*** PRE-FLOP *** 
+meloclo folds
+malou64200 calls 1200
+Air rando72 folds
+manggy94 calls 600
+KC le requin checks
+*** FLOP *** [3s 5h 8h]
+manggy94 bets 1280 and is all-in
+KC le requin calls 1280
+malou64200 calls 1280
+*** TURN *** [3s 5h 8h][Th]
+KC le requin checks
+malou64200 checks
+*** RIVER *** [3s 5h 8h Th][7d]
+KC le requin checks
+malou64200 checks
+*** SHOW DOWN ***
+manggy94 shows [4s 8s] (One pair : 8)
+KC le requin shows [3d Jd] (One pair : 3)
+malou64200 shows [9s 9d] (One pair : 9)
+malou64200 collected 8240 from pot
+*** SUMMARY ***
+Total pot 8240 | No rake
+Board: [3s 5h 8h Th 7d]
+Seat 2: malou64200 showed [9s 9d] and won 8240 with One pair : 9
+Seat 4: manggy94 (small blind) showed [4s 8s] and lost with One pair : 8
+Seat 6: KC le requin (big blind) showed [3d Jd] and lost with One pair : 3
+
+

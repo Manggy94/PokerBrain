@@ -1,0 +1,458 @@
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #578854341872451585-1-1445448371 - Holdem no limit (10/20) - 2015/10/21 17:26:11 UTC
+Table: 'Starting Block - Deglingos(134775029)#0' 10-max (real money) Seat #4 is the button
+Seat 1: astek56 (500)
+Seat 2: ducky.B (500)
+Seat 3: FaroukVazaha (500)
+Seat 4: Kolos-KopiK (500)
+Seat 5: manggy94 (500)
+Seat 6: GCAM31 (500)
+Seat 7: -LaGuigne- (500)
+Seat 8: Voulzy (500)
+Seat 9: bosch60 (500)
+Seat 10: swifced (500)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+GCAM31 posts big blind 20
+Dealt to manggy94 [8d 6d]
+*** PRE-FLOP *** 
+-LaGuigne- raises 480 to 500 and is all-in
+Voulzy calls 500 and is all-in
+bosch60 calls 500 and is all-in
+swifced folds
+astek56 folds
+ducky.B folds
+FaroukVazaha folds
+Kolos-KopiK folds
+manggy94 calls 490 and is all-in
+GCAM31 folds
+*** FLOP *** [6h Qc 4s]
+*** TURN *** [6h Qc 4s][Jd]
+*** RIVER *** [6h Qc 4s Jd][Tc]
+*** SHOW DOWN ***
+-LaGuigne- shows [5c 8c] (High card : Queen)
+Voulzy shows [7h Ad] (High card : Ace)
+bosch60 shows [Ah 9h] (High card : Ace)
+manggy94 shows [8d 6d] (One pair : 6)
+manggy94 collected 2020 from pot
+*** SUMMARY ***
+Total pot 2020 | No rake
+Board: [6h Qc 4s Jd Tc]
+Seat 5: manggy94 (small blind) showed [8d 6d] and won 2020 with One pair : 6
+Seat 7: -LaGuigne- showed [5c 8c] and lost with High card : Queen
+Seat 8: Voulzy showed [7h Ad] and lost with High card : Ace
+Seat 9: bosch60 showed [Ah 9h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #578854341872451585-2-1445448432 - Holdem no limit (10/20) - 2015/10/21 17:27:12 UTC
+Table: 'Starting Block - Deglingos(134775029)#0' 10-max (real money) Seat #5 is the button
+Seat 1: astek56 (500)
+Seat 2: ducky.B (500)
+Seat 3: FaroukVazaha (500)
+Seat 4: Kolos-KopiK (500)
+Seat 5: manggy94 (2020)
+Seat 6: GCAM31 (480)
+Seat 10: swifced (500)
+*** ANTE/BLINDS ***
+GCAM31 posts small blind 10
+swifced posts big blind 20
+Dealt to manggy94 [9d 4s]
+*** PRE-FLOP *** 
+astek56 folds
+ducky.B calls 20
+FaroukVazaha folds
+Kolos-KopiK folds
+manggy94 folds
+GCAM31 calls 10
+swifced raises 480 to 500 and is all-in
+ducky.B calls 480 and is all-in
+GCAM31 folds
+*** FLOP *** [8h Jd Th]
+*** TURN *** [8h Jd Th][6s]
+*** RIVER *** [8h Jd Th 6s][5c]
+*** SHOW DOWN ***
+ducky.B shows [Js 5s] (Two pairs : Jacks and 5)
+swifced shows [7d 4d] (Straight 8 high)
+swifced collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [8h Jd Th 6s 5c]
+Seat 2: ducky.B showed [Js 5s] and lost with Two pairs : Jacks and 5
+Seat 10: swifced (big blind) showed [7d 4d] and won 1020 with Straight 8 high
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #578854341872451585-3-1445448512 - Holdem no limit (10/20) - 2015/10/21 17:28:32 UTC
+Table: 'Starting Block - Deglingos(134775029)#0' 10-max (real money) Seat #6 is the button
+Seat 1: astek56 (500)
+Seat 3: FaroukVazaha (500)
+Seat 4: Kolos-KopiK (500)
+Seat 5: manggy94 (2020)
+Seat 6: GCAM31 (460)
+Seat 10: swifced (1020)
+*** ANTE/BLINDS ***
+swifced posts small blind 10
+astek56 posts big blind 20
+Dealt to manggy94 [2h 4h]
+*** PRE-FLOP *** 
+FaroukVazaha folds
+Kolos-KopiK raises 20 to 40
+manggy94 folds
+GCAM31 folds
+swifced folds
+astek56 calls 20
+*** FLOP *** [Ts 3c 6c]
+astek56 checks
+Kolos-KopiK bets 30
+astek56 calls 30
+*** TURN *** [Ts 3c 6c][Ah]
+astek56 checks
+Kolos-KopiK checks
+*** RIVER *** [Ts 3c 6c Ah][Td]
+astek56 checks
+Kolos-KopiK checks
+*** SHOW DOWN ***
+Kolos-KopiK shows [8d Jd] (One pair : Tens)
+astek56 shows [3d Kd] (Two pairs : Tens and 3)
+astek56 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Ts 3c 6c Ah Td]
+Seat 1: astek56 (big blind) showed [3d Kd] and won 150 with Two pairs : Tens and 3
+Seat 4: Kolos-KopiK showed [8d Jd] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 1 - HandId: #578854341872451585-4-1445448594 - Holdem no limit (15/30) - 2015/10/21 17:29:54 UTC
+Table: 'Starting Block - Deglingos(134775029)#0' 10-max (real money) Seat #10 is the button
+Seat 1: astek56 (580)
+Seat 3: FaroukVazaha (500)
+Seat 4: Kolos-KopiK (430)
+Seat 5: manggy94 (2020)
+Seat 6: GCAM31 (460)
+Seat 10: swifced (1010)
+*** ANTE/BLINDS ***
+astek56 posts small blind 15
+FaroukVazaha posts big blind 30
+Dealt to manggy94 [7c 3h]
+*** PRE-FLOP *** 
+Kolos-KopiK folds
+manggy94 folds
+GCAM31 folds
+swifced folds
+astek56 calls 15
+FaroukVazaha raises 120 to 150
+astek56 folds
+FaroukVazaha collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: FaroukVazaha (big blind) won 180
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 1 - HandId: #578854341872451585-5-1445448633 - Holdem no limit (15/30) - 2015/10/21 17:30:33 UTC
+Table: 'Starting Block - Deglingos(134775029)#0' 10-max (real money) Seat #1 is the button
+Seat 1: astek56 (550)
+Seat 3: FaroukVazaha (530)
+Seat 4: Kolos-KopiK (430)
+Seat 5: manggy94 (2020)
+Seat 6: GCAM31 (460)
+Seat 10: swifced (1010)
+*** ANTE/BLINDS ***
+FaroukVazaha posts small blind 15
+Kolos-KopiK posts big blind 30
+Dealt to manggy94 [9s 7s]
+*** PRE-FLOP *** 
+manggy94 folds
+GCAM31 folds
+swifced raises 510 to 540
+astek56 folds
+FaroukVazaha calls 515 and is all-in
+Kolos-KopiK calls 400 and is all-in
+*** FLOP *** [8c Ac 5c]
+*** TURN *** [8c Ac 5c][Qs]
+*** RIVER *** [8c Ac 5c Qs][Tc]
+*** SHOW DOWN ***
+Kolos-KopiK shows [Kh Ah] (One pair : Aces)
+FaroukVazaha shows [Kc Qh] (Flush Ace high)
+swifced shows [2h 2s] (One pair : 2)
+swifced collected 10 from side pot 1
+FaroukVazaha collected 1490 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [8c Ac 5c Qs Tc]
+Seat 3: FaroukVazaha (small blind) showed [Kc Qh] and won 1490 with Flush Ace high
+Seat 4: Kolos-KopiK (big blind) showed [Kh Ah] and lost with One pair : Aces
+Seat 10: swifced showed [2h 2s] and won 10 with One pair : 2
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 1 - HandId: #578854341872451585-6-1445448679 - Holdem no limit (15/30) - 2015/10/21 17:31:19 UTC
+Table: 'Starting Block - Deglingos(134775029)#0' 10-max (real money) Seat #3 is the button
+Seat 1: astek56 (550)
+Seat 3: FaroukVazaha (1490)
+Seat 5: manggy94 (2020)
+Seat 6: GCAM31 (460)
+Seat 10: swifced (480)
+*** ANTE/BLINDS ***
+manggy94 posts big blind 30
+Dealt to manggy94 [4d Tc]
+*** PRE-FLOP *** 
+GCAM31 folds
+swifced folds
+astek56 folds
+FaroukVazaha raises 60 to 90
+manggy94 folds
+FaroukVazaha collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: FaroukVazaha (button) won 120
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 1 - HandId: #578854341872451585-7-1445448696 - Holdem no limit (15/30) - 2015/10/21 17:31:36 UTC
+Table: 'Starting Block - Deglingos(134775029)#0' 10-max (real money) Seat #4 is the button
+Seat 1: astek56 (550)
+Seat 3: FaroukVazaha (1520)
+Seat 5: manggy94 (1990)
+Seat 6: GCAM31 (460)
+Seat 10: swifced (480)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+GCAM31 posts big blind 30
+Dealt to manggy94 [Qs Jd]
+*** PRE-FLOP *** 
+swifced folds
+astek56 folds
+FaroukVazaha calls 30
+manggy94 calls 15
+GCAM31 checks
+*** FLOP *** [6h Ad 5h]
+manggy94 bets 90
+GCAM31 folds
+FaroukVazaha calls 90
+*** TURN *** [6h Ad 5h][7d]
+manggy94 checks
+FaroukVazaha checks
+*** RIVER *** [6h Ad 5h 7d][Td]
+manggy94 checks
+FaroukVazaha bets 270
+manggy94 folds
+FaroukVazaha collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [6h Ad 5h 7d Td]
+Seat 3: FaroukVazaha won 540
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #578854341872451585-8-1445448730 - Holdem no limit (20/40) - 2015/10/21 17:32:10 UTC
+Table: 'Starting Block - Deglingos(134775029)#0' 10-max (real money) Seat #5 is the button
+Seat 1: astek56 (550)
+Seat 3: FaroukVazaha (1670)
+Seat 5: manggy94 (1870)
+Seat 6: GCAM31 (430)
+Seat 10: swifced (480)
+*** ANTE/BLINDS ***
+GCAM31 posts small blind 20
+swifced posts big blind 40
+Dealt to manggy94 [Ts 9h]
+*** PRE-FLOP *** 
+astek56 folds
+FaroukVazaha raises 80 to 120
+manggy94 folds
+GCAM31 folds
+swifced raises 360 to 480 and is all-in
+FaroukVazaha calls 360
+*** FLOP *** [Kd 9d 8h]
+*** TURN *** [Kd 9d 8h][9c]
+*** RIVER *** [Kd 9d 8h 9c][Qd]
+*** SHOW DOWN ***
+FaroukVazaha shows [4c 4d] (Two pairs : 9 and 4)
+swifced shows [2d 3d] (Flush King high)
+swifced collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | No rake
+Board: [Kd 9d 8h 9c Qd]
+Seat 3: FaroukVazaha showed [4c 4d] and lost with Two pairs : 9 and 4
+Seat 10: swifced (big blind) showed [2d 3d] and won 980 with Flush King high
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #578854341872451585-9-1445448761 - Holdem no limit (20/40) - 2015/10/21 17:32:41 UTC
+Table: 'Starting Block - Deglingos(134775029)#0' 10-max (real money) Seat #6 is the button
+Seat 1: astek56 (550)
+Seat 3: FaroukVazaha (1190)
+Seat 5: manggy94 (1870)
+Seat 6: GCAM31 (410)
+Seat 10: swifced (980)
+*** ANTE/BLINDS ***
+swifced posts small blind 20
+astek56 posts big blind 40
+Dealt to manggy94 [4d 9d]
+*** PRE-FLOP *** 
+FaroukVazaha calls 40
+manggy94 calls 40
+GCAM31 calls 40
+swifced calls 20
+astek56 folds
+*** FLOP *** [9s 9c Th]
+swifced checks
+FaroukVazaha bets 100
+manggy94 calls 100
+GCAM31 folds
+swifced folds
+*** TURN *** [9s 9c Th][Ad]
+FaroukVazaha bets 100
+manggy94 raises 1630 to 1730 and is all-in
+FaroukVazaha calls 950 and is all-in
+*** RIVER *** [9s 9c Th Ad][3h]
+*** SHOW DOWN ***
+FaroukVazaha shows [8c Ts] (Two pairs : Tens and 9)
+manggy94 shows [4d 9d] (Trips of 9)
+manggy94 collected 3180 from pot
+*** SUMMARY ***
+Total pot 3180 | No rake
+Board: [9s 9c Th Ad 3h]
+Seat 3: FaroukVazaha showed [8c Ts] and lost with Two pairs : Tens and 9
+Seat 5: manggy94 showed [4d 9d] and won 3180 with Trips of 9
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #578854341872451585-10-1445448827 - Holdem no limit (20/40) - 2015/10/21 17:33:47 UTC
+Table: 'Starting Block - Deglingos(134775029)#0' 10-max (real money) Seat #10 is the button
+Seat 1: astek56 (510)
+Seat 5: manggy94 (3180)
+Seat 6: GCAM31 (370)
+Seat 10: swifced (940)
+*** ANTE/BLINDS ***
+astek56 posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [Ah 6d]
+*** PRE-FLOP *** 
+GCAM31 folds
+swifced raises 900 to 940 and is all-in
+astek56 folds
+manggy94 calls 900
+*** FLOP *** [2d 9c 6c]
+*** TURN *** [2d 9c 6c][2h]
+*** RIVER *** [2d 9c 6c 2h][4c]
+*** SHOW DOWN ***
+swifced shows [Js 7s] (One pair : 2)
+manggy94 shows [Ah 6d] (Two pairs : 6 and 2)
+manggy94 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Board: [2d 9c 6c 2h 4c]
+Seat 5: manggy94 (big blind) showed [Ah 6d] and won 1900 with Two pairs : 6 and 2
+Seat 10: swifced (button) showed [Js 7s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #578854341872451585-11-1445448845 - Holdem no limit (20/40) - 2015/10/21 17:34:05 UTC
+Table: 'Starting Block - Deglingos(134775029)#0' 10-max (real money) Seat #1 is the button
+Seat 1: astek56 (490)
+Seat 5: manggy94 (4140)
+Seat 6: GCAM31 (370)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+GCAM31 posts big blind 40
+Dealt to manggy94 [Kd Jd]
+*** PRE-FLOP *** 
+astek56 folds
+manggy94 calls 20
+GCAM31 checks
+*** FLOP *** [2s Td 7c]
+manggy94 bets 80
+GCAM31 folds
+manggy94 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [2s Td 7c]
+Seat 5: manggy94 (small blind) won 160
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #578854341872451585-12-1445448859 - Holdem no limit (20/40) - 2015/10/21 17:34:19 UTC
+Table: 'Starting Block - Deglingos(134775029)#0' 10-max (real money) Seat #5 is the button
+Seat 1: astek56 (490)
+Seat 5: manggy94 (4180)
+Seat 6: GCAM31 (330)
+*** ANTE/BLINDS ***
+GCAM31 posts small blind 20
+astek56 posts big blind 40
+Dealt to manggy94 [5d 6h]
+*** PRE-FLOP *** 
+manggy94 folds
+GCAM31 raises 290 to 330 and is all-in
+astek56 calls 290
+*** FLOP *** [2h 2s 6d]
+*** TURN *** [2h 2s 6d][7c]
+*** RIVER *** [2h 2s 6d 7c][9s]
+*** SHOW DOWN ***
+GCAM31 shows [Kc Jc] (One pair : 2)
+astek56 shows [Ac 4s] (One pair : 2)
+astek56 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [2h 2s 6d 7c 9s]
+Seat 1: astek56 (big blind) showed [Ac 4s] and won 660 with One pair : 2
+Seat 6: GCAM31 (small blind) showed [Kc Jc] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #578854341872451585-13-1445448887 - Holdem no limit (20/40) - 2015/10/21 17:34:47 UTC
+Table: 'Starting Block - Deglingos(134775029)#0' 10-max (real money) Seat #1 is the button
+Seat 1: astek56 (820)
+Seat 5: manggy94 (4180)
+*** ANTE/BLINDS ***
+astek56 posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [5h 2h]
+*** PRE-FLOP *** 
+astek56 raises 780 to 820 and is all-in
+manggy94 calls 780
+*** FLOP *** [8s Ac 3d]
+*** TURN *** [8s Ac 3d][5s]
+*** RIVER *** [8s Ac 3d 5s][6d]
+*** SHOW DOWN ***
+manggy94 shows [5h 2h] (One pair : 5)
+astek56 shows [3h As] (Two pairs : Aces and 3)
+astek56 collected 1640 from pot
+*** SUMMARY ***
+Total pot 1640 | No rake
+Board: [8s Ac 3d 5s 6d]
+Seat 1: astek56 (small blind) (button) showed [3h As] and won 1640 with Two pairs : Aces and 3
+Seat 5: manggy94 (big blind) showed [5h 2h] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #578854341872451585-14-1445448902 - Holdem no limit (20/40) - 2015/10/21 17:35:02 UTC
+Table: 'Starting Block - Deglingos(134775029)#0' 10-max (real money) Seat #5 is the button
+Seat 1: astek56 (1640)
+Seat 5: manggy94 (3360)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+astek56 posts big blind 40
+Dealt to manggy94 [2h Kd]
+*** PRE-FLOP *** 
+manggy94 raises 3320 to 3360 and is all-in
+astek56 folds
+manggy94 collected 3400 from pot
+*** SUMMARY ***
+Total pot 3400 | No rake
+Seat 5: manggy94 (small blind) (button) won 3400
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 3 - HandId: #578854341872451585-15-1445448910 - Holdem no limit (30/60) - 2015/10/21 17:35:10 UTC
+Table: 'Starting Block - Deglingos(134775029)#0' 10-max (real money) Seat #1 is the button
+Seat 1: astek56 (1600)
+Seat 5: manggy94 (3400)
+*** ANTE/BLINDS ***
+astek56 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [9h 9c]
+*** PRE-FLOP *** 
+astek56 raises 1540 to 1600 and is all-in
+manggy94 calls 1540
+*** FLOP *** [9s Kh 5c]
+*** TURN *** [9s Kh 5c][Kd]
+*** RIVER *** [9s Kh 5c Kd][Qh]
+*** SHOW DOWN ***
+astek56 shows [8s 7d] (One pair : Kings)
+manggy94 shows [9h 9c] (Full of 9 and Kings)
+manggy94 collected 3200 from pot
+*** SUMMARY ***
+Total pot 3200 | No rake
+Board: [9s Kh 5c Kd Qh]
+Seat 1: astek56 (small blind) (button) showed [8s 7d] and lost with One pair : Kings
+Seat 5: manggy94 (big blind) showed [9h 9c] and won 3200 with Full of 9 and Kings
+
+

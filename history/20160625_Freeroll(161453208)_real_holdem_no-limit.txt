@@ -1,0 +1,1203 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level:  - HandId: #693436248194285923-1-1466861488 - Holdem no limit (10/20) - 2016/06/25 13:31:28 UTC
+Table: 'Freeroll(161453208)#354' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (3000)
+Seat 2: undertaker82 (3000)
+Seat 3: C.Manson (3000)
+Seat 4: vavius (3000)
+Seat 5: Kyliannolhan (3000)
+Seat 7: ANTONIA30 (3000)
+Seat 8: COCOON971 (3000)
+*** ANTE/BLINDS ***
+undertaker82 posts small blind 10
+C.Manson posts big blind 20
+*** PRE-FLOP *** 
+Kyliannolhan raises 2980 to 3000 and is all-in
+ANTONIA30 folds
+undertaker82 calls 2990 and is all-in
+C.Manson folds
+*** FLOP *** [7h 4h Td]
+*** TURN *** [7h 4h Td][Ah]
+*** RIVER *** [7h 4h Td Ah][4c]
+*** SHOW DOWN ***
+Kyliannolhan shows [8d 9h] (One pair : 4)
+undertaker82 shows [Qh Kh] (Flush Ace high)
+undertaker82 collected 6020 from pot
+*** SUMMARY ***
+Total pot 6020 | No rake
+Board: [7h 4h Td Ah 4c]
+Seat 2: undertaker82 (small blind) showed [Qh Kh] and won 6020 with Flush Ace high
+Seat 5: Kyliannolhan showed [8d 9h] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level:  - HandId: #693436248194285923-2-1466861505 - Holdem no limit (10/20) - 2016/06/25 13:31:45 UTC
+Table: 'Freeroll(161453208)#354' 8-max (real money) Seat #2 is the button
+Seat 1: manggy94 (3000)
+Seat 2: undertaker82 (6020)
+Seat 3: C.Manson (2980)
+Seat 4: vavius (3000)
+Seat 6: Loranais2013 (3000)
+Seat 7: ANTONIA30 (3000)
+Seat 8: COCOON971 (3000)
+*** ANTE/BLINDS ***
+C.Manson posts small blind 10
+vavius posts big blind 20
+Dealt to manggy94 [6c Jc]
+*** PRE-FLOP *** 
+Loranais2013 folds
+ANTONIA30 calls 20
+COCOON971 calls 20
+manggy94 calls 20
+undertaker82 calls 20
+C.Manson calls 10
+vavius checks
+*** FLOP *** [Kd 2d Jd]
+C.Manson checks
+vavius checks
+ANTONIA30 bets 120
+COCOON971 folds
+manggy94 folds
+undertaker82 folds
+C.Manson folds
+vavius raises 2860 to 2980 and is all-in
+ANTONIA30 folds
+vavius collected 3220 from pot
+*** SUMMARY ***
+Total pot 3220 | No rake
+Board: [Kd 2d Jd]
+Seat 4: vavius (big blind) won 3220
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #693436248194285923-3-1466861648 - Holdem no limit (15/30) - 2016/06/25 13:34:08 UTC
+Table: 'Freeroll(161453208)#354' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (2980)
+Seat 2: undertaker82 (6000)
+Seat 3: C.Manson (2960)
+Seat 4: vavius (3220)
+Seat 5: phil76190 (3000)
+Seat 6: Loranais2013 (3000)
+Seat 7: ANTONIA30 (2860)
+Seat 8: COCOON971 (2980)
+*** ANTE/BLINDS ***
+vavius posts small blind 15
+phil76190 posts big blind 30
+Dealt to manggy94 [7d 7c]
+*** PRE-FLOP *** 
+Loranais2013 calls 30
+ANTONIA30 calls 30
+COCOON971 raises 30 to 60
+manggy94 calls 60
+undertaker82 calls 60
+C.Manson folds
+vavius calls 45
+phil76190 calls 30
+Loranais2013 calls 30
+ANTONIA30 calls 30
+*** FLOP *** [5d 9d Ad]
+vavius checks
+phil76190 checks
+Loranais2013 checks
+ANTONIA30 checks
+COCOON971 bets 30
+manggy94 folds
+undertaker82 calls 30
+vavius folds
+phil76190 calls 30
+Loranais2013 calls 30
+ANTONIA30 calls 30
+*** TURN *** [5d 9d Ad][9c]
+phil76190 checks
+Loranais2013 checks
+ANTONIA30 checks
+COCOON971 checks
+undertaker82 checks
+*** RIVER *** [5d 9d Ad 9c][As]
+phil76190 checks
+Loranais2013 checks
+ANTONIA30 bets 570
+COCOON971 folds
+undertaker82 folds
+phil76190 calls 570
+Loranais2013 folds
+*** SHOW DOWN ***
+phil76190 shows [Jc Kh] (Two pairs : Aces and 9)
+ANTONIA30 shows [Ac 8s] (Full of Aces and 9)
+ANTONIA30 collected 1710 from pot
+*** SUMMARY ***
+Total pot 1710 | No rake
+Board: [5d 9d Ad 9c As]
+Seat 5: phil76190 (big blind) showed [Jc Kh] and lost with Two pairs : Aces and 9
+Seat 7: ANTONIA30 showed [Ac 8s] and won 1710 with Full of Aces and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #693436248194285923-4-1466861796 - Holdem no limit (20/40) - 2016/06/25 13:36:36 UTC
+Table: 'Freeroll(161453208)#354' 8-max (real money) Seat #4 is the button
+Seat 1: manggy94 (2920)
+Seat 2: undertaker82 (5910)
+Seat 3: C.Manson (2960)
+Seat 4: vavius (3160)
+Seat 5: phil76190 (2340)
+Seat 6: Loranais2013 (2910)
+Seat 7: ANTONIA30 (3910)
+Seat 8: COCOON971 (2890)
+*** ANTE/BLINDS ***
+phil76190 posts small blind 20
+Loranais2013 posts big blind 40
+Dealt to manggy94 [3c Qd]
+*** PRE-FLOP *** 
+ANTONIA30 calls 40
+COCOON971 calls 40
+manggy94 folds
+undertaker82 folds
+C.Manson folds
+vavius folds
+phil76190 calls 20
+Loranais2013 checks
+*** FLOP *** [Kc 5c 9d]
+phil76190 checks
+Loranais2013 checks
+ANTONIA30 checks
+COCOON971 bets 40
+phil76190 folds
+Loranais2013 calls 40
+ANTONIA30 calls 40
+*** TURN *** [Kc 5c 9d][2h]
+Loranais2013 checks
+ANTONIA30 checks
+COCOON971 bets 40
+Loranais2013 calls 40
+ANTONIA30 calls 40
+*** RIVER *** [Kc 5c 9d 2h][7s]
+Loranais2013 checks
+ANTONIA30 checks
+COCOON971 bets 515
+Loranais2013 folds
+ANTONIA30 folds
+COCOON971 collected 915 from pot
+*** SUMMARY ***
+Total pot 915 | No rake
+Board: [Kc 5c 9d 2h 7s]
+Seat 8: COCOON971 won 915
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #693436248194285923-5-1466861943 - Holdem no limit (20/40) - 2016/06/25 13:39:03 UTC
+Table: 'Freeroll(161453208)#354' 8-max (real money) Seat #5 is the button
+Seat 1: manggy94 (2920)
+Seat 2: undertaker82 (5910)
+Seat 3: C.Manson (2960)
+Seat 4: vavius (3160)
+Seat 5: phil76190 (2300)
+Seat 6: Loranais2013 (2790)
+Seat 7: ANTONIA30 (3790)
+Seat 8: COCOON971 (3170)
+*** ANTE/BLINDS ***
+Loranais2013 posts small blind 20
+ANTONIA30 posts big blind 40
+Dealt to manggy94 [Ts Ah]
+*** PRE-FLOP *** 
+COCOON971 calls 40
+manggy94 raises 40 to 80
+undertaker82 folds
+C.Manson folds
+vavius folds
+phil76190 calls 80
+Loranais2013 calls 60
+ANTONIA30 calls 40
+COCOON971 calls 40
+*** FLOP *** [9h 7h 3d]
+Loranais2013 checks
+ANTONIA30 bets 300
+COCOON971 folds
+manggy94 calls 300
+phil76190 folds
+Loranais2013 calls 300
+*** TURN *** [9h 7h 3d][Ks]
+Loranais2013 checks
+ANTONIA30 bets 400
+manggy94 folds
+Loranais2013 calls 400
+*** RIVER *** [9h 7h 3d Ks][Ad]
+Loranais2013 checks
+ANTONIA30 bets 1080
+Loranais2013 folds
+ANTONIA30 collected 3180 from pot
+*** SUMMARY ***
+Total pot 3180 | No rake
+Board: [9h 7h 3d Ks Ad]
+Seat 7: ANTONIA30 (big blind) won 3180
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #693436248194285883-12-1466862120 - Holdem no limit (30/60) - 2016/06/25 13:42:00 UTC
+Table: 'Freeroll(161453208)#314' 8-max (real money) Seat #4 is the button
+Seat 1: tousavelo (2940)
+Seat 2: ramrecon (460)
+Seat 3: Lilooouna (7800)
+Seat 4: CHRISLEGREC7 (3395)
+Seat 5: didi.60 (2895)
+Seat 6: manggy94 (2540)
+Seat 7: Bootny. (2920)
+Seat 8: cyrilius (3590)
+*** ANTE/BLINDS ***
+didi.60 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [5h 4c]
+*** PRE-FLOP *** 
+Bootny. folds
+cyrilius folds
+tousavelo folds
+ramrecon folds
+Lilooouna calls 60
+CHRISLEGREC7 calls 60
+didi.60 folds
+manggy94 checks
+*** FLOP *** [Jh Js Tc]
+manggy94 checks
+Lilooouna checks
+CHRISLEGREC7 bets 60
+manggy94 folds
+Lilooouna calls 60
+*** TURN *** [Jh Js Tc][As]
+Lilooouna checks
+CHRISLEGREC7 bets 60
+Lilooouna calls 60
+*** RIVER *** [Jh Js Tc As][3d]
+Lilooouna checks
+CHRISLEGREC7 checks
+*** SHOW DOWN ***
+Lilooouna shows [8h 7h] (One pair : Jacks)
+CHRISLEGREC7 shows [7d Qs] (One pair : Jacks)
+CHRISLEGREC7 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [Jh Js Tc As 3d]
+Seat 3: Lilooouna showed [8h 7h] and lost with One pair : Jacks
+Seat 4: CHRISLEGREC7 (button) showed [7d Qs] and won 450 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #693436248194285883-13-1466862257 - Holdem no limit (40/80) - 2016/06/25 13:44:17 UTC
+Table: 'Freeroll(161453208)#314' 8-max (real money) Seat #5 is the button
+Seat 1: tousavelo (2940)
+Seat 2: ramrecon (460)
+Seat 3: Lilooouna (7620)
+Seat 4: CHRISLEGREC7 (3665)
+Seat 5: didi.60 (2865)
+Seat 6: manggy94 (2480)
+Seat 7: Bootny. (2920)
+Seat 8: cyrilius (3590)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+Bootny. posts big blind 80
+Dealt to manggy94 [Ac 4c]
+*** PRE-FLOP *** 
+cyrilius folds
+tousavelo folds
+ramrecon folds
+Lilooouna calls 80
+CHRISLEGREC7 calls 80
+didi.60 folds
+manggy94 folds
+Bootny. raises 240 to 320
+Lilooouna folds
+CHRISLEGREC7 calls 240
+*** FLOP *** [3s 8s 5h]
+Bootny. bets 2600 and is all-in
+CHRISLEGREC7 calls 2600
+*** TURN *** [3s 8s 5h][Tc]
+*** RIVER *** [3s 8s 5h Tc][9c]
+*** SHOW DOWN ***
+CHRISLEGREC7 shows [3c Qs] (One pair : 3)
+Bootny. shows [Kd Ts] (One pair : Tens)
+Bootny. collected 5960 from pot
+*** SUMMARY ***
+Total pot 5960 | No rake
+Board: [3s 8s 5h Tc 9c]
+Seat 4: CHRISLEGREC7 showed [3c Qs] and lost with One pair : 3
+Seat 7: Bootny. (big blind) showed [Kd Ts] and won 5960 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #693436248194285883-14-1466862322 - Holdem no limit (40/80) - 2016/06/25 13:45:22 UTC
+Table: 'Freeroll(161453208)#314' 8-max (real money) Seat #6 is the button
+Seat 1: tousavelo (2940)
+Seat 2: ramrecon (460)
+Seat 3: Lilooouna (7540)
+Seat 4: CHRISLEGREC7 (745)
+Seat 5: didi.60 (2865)
+Seat 6: manggy94 (2440)
+Seat 7: Bootny. (5960)
+Seat 8: cyrilius (3590)
+*** ANTE/BLINDS ***
+Bootny. posts small blind 40
+cyrilius posts big blind 80
+Dealt to manggy94 [4s 3c]
+*** PRE-FLOP *** 
+tousavelo folds
+ramrecon raises 380 to 460 and is all-in
+Lilooouna calls 460
+CHRISLEGREC7 folds
+didi.60 folds
+manggy94 folds
+Bootny. calls 420
+cyrilius folds
+*** FLOP *** [5c 2c 5h]
+Bootny. checks
+Lilooouna checks
+*** TURN *** [5c 2c 5h][Kh]
+Bootny. checks
+Lilooouna checks
+*** RIVER *** [5c 2c 5h Kh][Ts]
+Bootny. checks
+Lilooouna checks
+*** SHOW DOWN ***
+Lilooouna shows [Qc 7d] (One pair : 5)
+Bootny. shows [Qs 7s] (One pair : 5)
+ramrecon shows [Tc Ad] (Two pairs : Tens and 5)
+ramrecon collected 1460 from pot
+*** SUMMARY ***
+Total pot 1460 | No rake
+Board: [5c 2c 5h Kh Ts]
+Seat 2: ramrecon showed [Tc Ad] and won 1460 with Two pairs : Tens and 5
+Seat 3: Lilooouna showed [Qc 7d] and lost with One pair : 5
+Seat 7: Bootny. (small blind) showed [Qs 7s] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #693436248194285883-15-1466862391 - Holdem no limit (60/120) - 2016/06/25 13:46:31 UTC
+Table: 'Freeroll(161453208)#314' 8-max (real money) Seat #7 is the button
+Seat 1: tousavelo (2940)
+Seat 2: ramrecon (1460)
+Seat 3: Lilooouna (7080)
+Seat 4: CHRISLEGREC7 (745)
+Seat 5: didi.60 (2865)
+Seat 6: manggy94 (2440)
+Seat 7: Bootny. (5500)
+Seat 8: cyrilius (3510)
+*** ANTE/BLINDS ***
+cyrilius posts small blind 60
+tousavelo posts big blind 120
+Dealt to manggy94 [2h 8s]
+*** PRE-FLOP *** 
+ramrecon raises 1340 to 1460 and is all-in
+Lilooouna folds
+CHRISLEGREC7 calls 745 and is all-in
+didi.60 folds
+manggy94 folds
+Bootny. calls 1460
+cyrilius calls 1400
+tousavelo folds
+*** FLOP *** [9d Kh 7h]
+cyrilius bets 2050 and is all-in
+Bootny. calls 2050
+*** TURN *** [9d Kh 7h][Jh]
+*** RIVER *** [9d Kh 7h Jh][Qh]
+*** SHOW DOWN ***
+CHRISLEGREC7 shows [Jd 4h] (Flush King high)
+cyrilius shows [7s 5c] (One pair : 7)
+ramrecon shows [Th Ah] (Straight flush Ace)
+Bootny. shows [3d Kc] (One pair : Kings)
+Bootny. collected 4100 from side pot 1
+ramrecon collected 5245 from main pot
+*** SUMMARY ***
+Total pot 9345 | No rake
+Board: [9d Kh 7h Jh Qh]
+Seat 2: ramrecon showed [Th Ah] and won 5245 with Straight flush Ace
+Seat 4: CHRISLEGREC7 showed [Jd 4h] and lost with Flush King high
+Seat 7: Bootny. (button) showed [3d Kc] and won 4100 with One pair : Kings
+Seat 8: cyrilius (small blind) showed [7s 5c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #693436248194285883-16-1466862444 - Holdem no limit (60/120) - 2016/06/25 13:47:24 UTC
+Table: 'Freeroll(161453208)#314' 8-max (real money) Seat #8 is the button
+Seat 1: tousavelo (2820)
+Seat 2: ramrecon (5245)
+Seat 3: Lilooouna (7080)
+Seat 5: didi.60 (2865)
+Seat 6: manggy94 (2440)
+Seat 7: Bootny. (6090)
+*** ANTE/BLINDS ***
+tousavelo posts small blind 60
+ramrecon posts big blind 120
+Dealt to manggy94 [Ac 6h]
+*** PRE-FLOP *** 
+Lilooouna folds
+didi.60 folds
+manggy94 folds
+Bootny. folds
+tousavelo folds
+ramrecon collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: ramrecon (big blind) won 180
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #693436248194285883-17-1466862457 - Holdem no limit (60/120) - 2016/06/25 13:47:37 UTC
+Table: 'Freeroll(161453208)#314' 8-max (real money) Seat #1 is the button
+Seat 1: tousavelo (2760)
+Seat 2: ramrecon (5305)
+Seat 3: Lilooouna (7080)
+Seat 5: didi.60 (2865)
+Seat 6: manggy94 (2440)
+Seat 7: Bootny. (6090)
+*** ANTE/BLINDS ***
+ramrecon posts small blind 60
+Lilooouna posts big blind 120
+Dealt to manggy94 [Qs 9s]
+*** PRE-FLOP *** 
+didi.60 folds
+manggy94 folds
+Bootny. folds
+tousavelo folds
+ramrecon folds
+Lilooouna collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: Lilooouna (big blind) won 180
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #693436248194285883-18-1466862507 - Holdem no limit (10/60/120) - 2016/06/25 13:48:27 UTC
+Table: 'Freeroll(161453208)#314' 8-max (real money) Seat #2 is the button
+Seat 1: tousavelo (2760)
+Seat 2: ramrecon (5245)
+Seat 3: Lilooouna (7140)
+Seat 4: GioniTana (3000)
+Seat 5: didi.60 (2865)
+Seat 6: manggy94 (2440)
+Seat 7: Bootny. (6090)
+Seat 8: Fitzcheval (2840)
+*** ANTE/BLINDS ***
+Lilooouna posts ante 10
+GioniTana posts ante 10
+tousavelo posts ante 10
+ramrecon posts ante 10
+didi.60 posts ante 10
+manggy94 posts ante 10
+Bootny. posts ante 10
+Fitzcheval posts ante 10
+Lilooouna posts small blind 60
+GioniTana posts big blind 120
+Dealt to manggy94 [5c Qd]
+*** PRE-FLOP *** 
+didi.60 folds
+manggy94 folds
+Bootny. folds
+Fitzcheval calls 120
+tousavelo folds
+ramrecon folds
+Lilooouna calls 60
+GioniTana checks
+*** FLOP *** [Qh Qc 9d]
+Lilooouna checks
+GioniTana checks
+Fitzcheval checks
+*** TURN *** [Qh Qc 9d][3h]
+Lilooouna bets 120
+GioniTana folds
+Fitzcheval calls 120
+*** RIVER *** [Qh Qc 9d 3h][8h]
+Lilooouna bets 240
+Fitzcheval calls 240
+*** SHOW DOWN ***
+Fitzcheval shows [9s Kc] (Two pairs : Queens and 9)
+Lilooouna shows [7c Qs] (Trips of Queens)
+Lilooouna collected 1160 from pot
+*** SUMMARY ***
+Total pot 1160 | No rake
+Board: [Qh Qc 9d 3h 8h]
+Seat 3: Lilooouna (small blind) showed [7c Qs] and won 1160 with Trips of Queens
+Seat 8: Fitzcheval showed [9s Kc] and lost with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #693436248194285883-19-1466862582 - Holdem no limit (10/60/120) - 2016/06/25 13:49:42 UTC
+Table: 'Freeroll(161453208)#314' 8-max (real money) Seat #3 is the button
+Seat 1: tousavelo (2750)
+Seat 2: ramrecon (5235)
+Seat 3: Lilooouna (7810)
+Seat 4: GioniTana (2870)
+Seat 5: didi.60 (2855)
+Seat 6: manggy94 (2430)
+Seat 7: Bootny. (6080)
+Seat 8: Fitzcheval (2350)
+*** ANTE/BLINDS ***
+GioniTana posts ante 10
+didi.60 posts ante 10
+tousavelo posts ante 10
+ramrecon posts ante 10
+Lilooouna posts ante 10
+manggy94 posts ante 10
+Bootny. posts ante 10
+Fitzcheval posts ante 10
+GioniTana posts small blind 60
+didi.60 posts big blind 120
+Dealt to manggy94 [Kd Kc]
+*** PRE-FLOP *** 
+manggy94 folds
+Bootny. folds
+Fitzcheval calls 120
+tousavelo folds
+ramrecon folds
+Lilooouna calls 120
+GioniTana folds
+didi.60 folds
+*** FLOP *** [Qd Kh 5s]
+Fitzcheval checks
+Lilooouna checks
+*** TURN *** [Qd Kh 5s][Jd]
+Fitzcheval checks
+Lilooouna bets 120
+Fitzcheval calls 120
+*** RIVER *** [Qd Kh 5s Jd][7s]
+Fitzcheval checks
+Lilooouna checks
+*** SHOW DOWN ***
+Fitzcheval shows [Ac 8s] (High card : Ace)
+Lilooouna shows [9d Jc] (One pair : Jacks)
+Lilooouna collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Board: [Qd Kh 5s Jd 7s]
+Seat 3: Lilooouna (button) showed [9d Jc] and won 740 with One pair : Jacks
+Seat 8: Fitzcheval showed [Ac 8s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #693436248194285883-20-1466862644 - Holdem no limit (10/60/120) - 2016/06/25 13:50:44 UTC
+Table: 'Freeroll(161453208)#314' 8-max (real money) Seat #4 is the button
+Seat 1: tousavelo (2740)
+Seat 2: ramrecon (5225)
+Seat 3: Lilooouna (8300)
+Seat 4: GioniTana (2800)
+Seat 5: didi.60 (2725)
+Seat 6: manggy94 (2420)
+Seat 7: Bootny. (6070)
+Seat 8: Fitzcheval (2100)
+*** ANTE/BLINDS ***
+didi.60 posts ante 10
+manggy94 posts ante 10
+tousavelo posts ante 10
+ramrecon posts ante 10
+Lilooouna posts ante 10
+GioniTana posts ante 10
+Bootny. posts ante 10
+Fitzcheval posts ante 10
+didi.60 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [5c 3s]
+*** PRE-FLOP *** 
+Bootny. folds
+Fitzcheval folds
+tousavelo folds
+ramrecon folds
+Lilooouna calls 120
+GioniTana folds
+didi.60 calls 60
+manggy94 folds
+*** FLOP *** [Js 8h 4s]
+didi.60 bets 120
+Lilooouna calls 120
+*** TURN *** [Js 8h 4s][4c]
+didi.60 bets 120
+Lilooouna calls 120
+*** RIVER *** [Js 8h 4s 4c][5h]
+didi.60 bets 120
+Lilooouna calls 120
+*** SHOW DOWN ***
+didi.60 shows [2d Ad] (One pair : 4)
+Lilooouna shows [As Th] (One pair : 4)
+Lilooouna collected 1160 from pot
+*** SUMMARY ***
+Total pot 1160 | No rake
+Board: [Js 8h 4s 4c 5h]
+Seat 3: Lilooouna showed [As Th] and won 1160 with One pair : 4
+Seat 5: didi.60 (small blind) showed [2d Ad] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #693436248194285883-21-1466862685 - Holdem no limit (15/75/150) - 2016/06/25 13:51:25 UTC
+Table: 'Freeroll(161453208)#314' 8-max (real money) Seat #5 is the button
+Seat 1: tousavelo (2730)
+Seat 2: ramrecon (5215)
+Seat 3: Lilooouna (8970)
+Seat 4: GioniTana (2790)
+Seat 5: didi.60 (2235)
+Seat 6: manggy94 (2290)
+Seat 7: Bootny. (6060)
+Seat 8: Fitzcheval (2090)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+Bootny. posts ante 15
+tousavelo posts ante 15
+ramrecon posts ante 15
+Lilooouna posts ante 15
+GioniTana posts ante 15
+didi.60 posts ante 15
+Fitzcheval posts ante 15
+manggy94 posts small blind 75
+Bootny. posts big blind 150
+Dealt to manggy94 [9d Js]
+*** PRE-FLOP *** 
+Fitzcheval calls 150
+tousavelo folds
+ramrecon raises 150 to 300
+Lilooouna folds
+GioniTana raises 2475 to 2775 and is all-in
+didi.60 calls 2220 and is all-in
+manggy94 folds
+Bootny. folds
+Fitzcheval folds
+ramrecon calls 2475
+*** FLOP *** [As 7s 7d]
+*** TURN *** [As 7s 7d][4h]
+*** RIVER *** [As 7s 7d 4h][9h]
+*** SHOW DOWN ***
+GioniTana shows [Jc Jd] (Two pairs : Jacks and 7)
+didi.60 shows [6c 5h] (One pair : 7)
+ramrecon shows [Qc Qd] (Two pairs : Queens and 7)
+ramrecon collected 8265 from pot
+*** SUMMARY ***
+Total pot 8265 | No rake
+Board: [As 7s 7d 4h 9h]
+Seat 2: ramrecon showed [Qc Qd] and won 8265 with Two pairs : Queens and 7
+Seat 4: GioniTana showed [Jc Jd] and lost with Two pairs : Jacks and 7
+Seat 5: didi.60 (button) showed [6c 5h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #693436248194285871-20-1466862723 - Holdem no limit (15/75/150) - 2016/06/25 13:52:03 UTC
+Table: 'Freeroll(161453208)#302' 8-max (real money) Seat #7 is the button
+Seat 1: legrec76 (2820)
+Seat 3: gunth69 (7225)
+Seat 4: ma77t (8410)
+Seat 5: badri 38 (2475)
+Seat 6: squalbuz29 (3216)
+Seat 7: manggy94 (2200)
+Seat 8: Horus5962 (12248)
+*** ANTE/BLINDS ***
+Horus5962 posts ante 15
+legrec76 posts ante 15
+gunth69 posts ante 15
+ma77t posts ante 15
+badri 38 posts ante 15
+squalbuz29 posts ante 15
+Horus5962 posts small blind 75
+legrec76 posts big blind 150
+*** PRE-FLOP *** 
+gunth69 folds
+ma77t folds
+badri 38 folds
+squalbuz29 calls 150
+Horus5962 calls 75
+legrec76 checks
+*** FLOP *** [Jd 3h Th]
+Horus5962 bets 540
+legrec76 folds
+squalbuz29 folds
+Horus5962 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [Jd 3h Th]
+Seat 8: Horus5962 (small blind) won 1080
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #693436248194285871-21-1466862770 - Holdem no limit (15/75/150) - 2016/06/25 13:52:50 UTC
+Table: 'Freeroll(161453208)#302' 8-max (real money) Seat #8 is the button
+Seat 1: legrec76 (2655)
+Seat 2: BOB176366_ (3000)
+Seat 3: gunth69 (7210)
+Seat 4: ma77t (8395)
+Seat 5: badri 38 (2460)
+Seat 6: squalbuz29 (3051)
+Seat 7: manggy94 (2200)
+Seat 8: Horus5962 (12623)
+*** ANTE/BLINDS ***
+legrec76 posts ante 15
+BOB176366_ posts ante 15
+gunth69 posts ante 15
+ma77t posts ante 15
+badri 38 posts ante 15
+squalbuz29 posts ante 15
+manggy94 posts ante 15
+Horus5962 posts ante 15
+legrec76 posts small blind 75
+BOB176366_ posts big blind 150
+Dealt to manggy94 [2h 6s]
+*** PRE-FLOP *** 
+gunth69 folds
+ma77t folds
+badri 38 raises 2295 to 2445 and is all-in
+squalbuz29 raises 591 to 3036 and is all-in
+manggy94 folds
+Horus5962 folds
+legrec76 folds
+BOB176366_ folds
+*** FLOP *** [2s Td 3d]
+*** TURN *** [2s Td 3d][Jh]
+*** RIVER *** [2s Td 3d Jh][Ac]
+*** SHOW DOWN ***
+badri 38 shows [3s 9h] (One pair : 3)
+squalbuz29 shows [6c 8s] (High card : Ace)
+squalbuz29 collected 591 from side pot 1
+badri 38 collected 5235 from main pot
+*** SUMMARY ***
+Total pot 5826 | No rake
+Board: [2s Td 3d Jh Ac]
+Seat 5: badri 38 showed [3s 9h] and won 5235 with One pair : 3
+Seat 6: squalbuz29 showed [6c 8s] and won 591 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #693436248194285871-22-1466862827 - Holdem no limit (15/75/150) - 2016/06/25 13:53:47 UTC
+Table: 'Freeroll(161453208)#302' 8-max (real money) Seat #1 is the button
+Seat 1: legrec76 (2565)
+Seat 2: BOB176366_ (2835)
+Seat 3: gunth69 (7195)
+Seat 4: ma77t (8380)
+Seat 5: badri 38 (5235)
+Seat 6: squalbuz29 (591)
+Seat 7: manggy94 (2185)
+Seat 8: Horus5962 (12608)
+*** ANTE/BLINDS ***
+BOB176366_ posts ante 15
+gunth69 posts ante 15
+legrec76 posts ante 15
+ma77t posts ante 15
+badri 38 posts ante 15
+squalbuz29 posts ante 15
+manggy94 posts ante 15
+Horus5962 posts ante 15
+BOB176366_ posts small blind 75
+gunth69 posts big blind 150
+Dealt to manggy94 [2s Tc]
+*** PRE-FLOP *** 
+ma77t folds
+badri 38 raises 5070 to 5220 and is all-in
+squalbuz29 calls 576 and is all-in
+manggy94 folds
+Horus5962 folds
+legrec76 folds
+BOB176366_ folds
+gunth69 folds
+*** FLOP *** [5c Qd 8c]
+*** TURN *** [5c Qd 8c][9d]
+*** RIVER *** [5c Qd 8c 9d][Th]
+*** SHOW DOWN ***
+squalbuz29 shows [Kc 3s] (High card : King)
+badri 38 shows [2h 3d] (High card : Queen)
+badri 38 collected 4644 from side pot 1
+squalbuz29 collected 1497 from main pot
+*** SUMMARY ***
+Total pot 6141 | No rake
+Board: [5c Qd 8c 9d Th]
+Seat 5: badri 38 showed [2h 3d] and won 4644 with High card : Queen
+Seat 6: squalbuz29 showed [Kc 3s] and won 1497 with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #693436248194285835-21-1466863202 - Holdem no limit (20/100/200) - 2016/06/25 14:00:02 UTC
+Table: 'Freeroll(161453208)#266' 8-max (real money) Seat #5 is the button
+Seat 1: manggy94 (2170)
+Seat 2: Ti punch68 (8700)
+Seat 3: nanano99 (3195)
+Seat 4: Deuteronome (3615)
+Seat 5: mario80200 (7590)
+Seat 6: PhantomeM (2115)
+Seat 7: Yemade75 (7485)
+Seat 8: Sol3nn (3255)
+*** ANTE/BLINDS ***
+PhantomeM posts ante 20
+Yemade75 posts ante 20
+manggy94 posts ante 20
+Ti punch68 posts ante 20
+nanano99 posts ante 20
+Deuteronome posts ante 20
+mario80200 posts ante 20
+Sol3nn posts ante 20
+PhantomeM posts small blind 100
+Yemade75 posts big blind 200
+Dealt to manggy94 [5c 7h]
+*** PRE-FLOP *** 
+Sol3nn calls 200
+manggy94 folds
+Ti punch68 folds
+nanano99 calls 200
+Deuteronome folds
+mario80200 folds
+PhantomeM calls 100
+Yemade75 checks
+*** FLOP *** [6s 7d Jc]
+PhantomeM checks
+Yemade75 bets 960
+Sol3nn folds
+nanano99 raises 2015 to 2975 and is all-in
+PhantomeM folds
+Yemade75 calls 2015
+*** TURN *** [6s 7d Jc][9s]
+*** RIVER *** [6s 7d Jc 9s][8h]
+*** SHOW DOWN ***
+Yemade75 shows [2d 7c] (One pair : 7)
+nanano99 shows [7s Ad] (One pair : 7)
+nanano99 collected 6910 from pot
+*** SUMMARY ***
+Total pot 6910 | No rake
+Board: [6s 7d Jc 9s 8h]
+Seat 3: nanano99 showed [7s Ad] and won 6910 with One pair : 7
+Seat 7: Yemade75 (big blind) showed [2d 7c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #693436248194285835-22-1466863354 - Holdem no limit (25/125/250) - 2016/06/25 14:02:34 UTC
+Table: 'Freeroll(161453208)#266' 8-max (real money) Seat #6 is the button
+Seat 1: manggy94 (2150)
+Seat 2: Ti punch68 (8680)
+Seat 3: nanano99 (6910)
+Seat 4: Deuteronome (3595)
+Seat 5: mario80200 (7570)
+Seat 6: PhantomeM (1895)
+Seat 7: Yemade75 (4290)
+Seat 8: Sol3nn (3035)
+*** ANTE/BLINDS ***
+Yemade75 posts ante 25
+Sol3nn posts ante 25
+manggy94 posts ante 25
+Ti punch68 posts ante 25
+nanano99 posts ante 25
+Deuteronome posts ante 25
+mario80200 posts ante 25
+PhantomeM posts ante 25
+Yemade75 posts small blind 125
+Sol3nn posts big blind 250
+Dealt to manggy94 [Ts Jc]
+*** PRE-FLOP *** 
+manggy94 folds
+Ti punch68 folds
+nanano99 folds
+Deuteronome raises 500 to 750
+mario80200 folds
+PhantomeM folds
+Yemade75 calls 625
+Sol3nn folds
+*** FLOP *** [Ks 9d 6d]
+Yemade75 bets 3515 and is all-in
+Deuteronome calls 2820 and is all-in
+*** TURN *** [Ks 9d 6d][3h]
+*** RIVER *** [Ks 9d 6d 3h][5c]
+*** SHOW DOWN ***
+Deuteronome shows [Kh Kc] (Trips of Kings)
+Yemade75 shows [3s Td] (One pair : 3)
+Yemade75 collected 695 from side pot 1
+Deuteronome collected 7590 from main pot
+*** SUMMARY ***
+Total pot 8285 | No rake
+Board: [Ks 9d 6d 3h 5c]
+Seat 4: Deuteronome showed [Kh Kc] and won 7590 with Trips of Kings
+Seat 7: Yemade75 (small blind) showed [3s Td] and won 695 with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #693436248194285653-27-1466863418 - Holdem no limit (25/125/250) - 2016/06/25 14:03:38 UTC
+Table: 'Freeroll(161453208)#084' 8-max (real money) Seat #8 is the button
+Seat 1: manggy94 (2125)
+Seat 2: sonnygoal69 (6060)
+Seat 3: lesarde13 (2915)
+Seat 4: zero absolu (17265)
+Seat 5: christ45000 (18710)
+Seat 6: per sonare (8070)
+Seat 7: as coeur59 (8035)
+Seat 8: Jeyremz (4785)
+*** ANTE/BLINDS ***
+sonnygoal69 posts ante 25
+lesarde13 posts ante 25
+zero absolu posts ante 25
+christ45000 posts ante 25
+per sonare posts ante 25
+as coeur59 posts ante 25
+Jeyremz posts ante 25
+sonnygoal69 posts small blind 125
+lesarde13 posts big blind 250
+*** PRE-FLOP *** 
+zero absolu calls 250
+christ45000 calls 250
+per sonare folds
+as coeur59 folds
+Jeyremz folds
+sonnygoal69 folds
+lesarde13 checks
+*** FLOP *** [3d 7s 3c]
+lesarde13 bets 625
+zero absolu folds
+christ45000 raises 2300 to 2925
+lesarde13 calls 2015 and is all-in
+*** TURN *** [3d 7s 3c][4s]
+*** RIVER *** [3d 7s 3c 4s][Td]
+*** SHOW DOWN ***
+lesarde13 shows [7h 9h] (Two pairs : 7 and 3)
+christ45000 shows [7c 6c] (Two pairs : 7 and 3)
+christ45000 collected 3450 from side pot 1
+lesarde13 collected 3165 from main pot
+*** SUMMARY ***
+Total pot 6615 | No rake
+Board: [3d 7s 3c 4s Td]
+Seat 3: lesarde13 (big blind) showed [7h 9h] and won 3165 with Two pairs : 7 and 3
+Seat 5: christ45000 showed [7c 6c] and won 3450 with Two pairs : 7 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #693436248194285653-28-1466863456 - Holdem no limit (25/125/250) - 2016/06/25 14:04:16 UTC
+Table: 'Freeroll(161453208)#084' 8-max (real money) Seat #2 is the button
+Seat 1: manggy94 (2125)
+Seat 2: sonnygoal69 (5910)
+Seat 3: lesarde13 (3165)
+Seat 4: zero absolu (16990)
+Seat 5: christ45000 (18960)
+Seat 6: per sonare (8045)
+Seat 7: as coeur59 (8010)
+Seat 8: Jeyremz (4760)
+*** ANTE/BLINDS ***
+lesarde13 posts ante 25
+zero absolu posts ante 25
+manggy94 posts ante 25
+sonnygoal69 posts ante 25
+christ45000 posts ante 25
+per sonare posts ante 25
+as coeur59 posts ante 25
+Jeyremz posts ante 25
+lesarde13 posts small blind 125
+zero absolu posts big blind 250
+Dealt to manggy94 [2d 4d]
+*** PRE-FLOP *** 
+christ45000 folds
+per sonare raises 250 to 500
+as coeur59 folds
+Jeyremz calls 500
+manggy94 folds
+sonnygoal69 calls 500
+lesarde13 calls 375
+zero absolu folds
+*** FLOP *** [6s 8d Qc]
+lesarde13 bets 250
+per sonare calls 250
+Jeyremz folds
+sonnygoal69 folds
+*** TURN *** [6s 8d Qc][3h]
+lesarde13 bets 250
+per sonare calls 250
+*** RIVER *** [6s 8d Qc 3h][Kc]
+lesarde13 checks
+per sonare bets 875
+lesarde13 calls 875
+*** SHOW DOWN ***
+lesarde13 shows [8s 7d] (One pair : 8)
+per sonare shows [Jc Kh] (One pair : Kings)
+per sonare collected 5200 from pot
+*** SUMMARY ***
+Total pot 5200 | No rake
+Board: [6s 8d Qc 3h Kc]
+Seat 3: lesarde13 (small blind) showed [8s 7d] and lost with One pair : 8
+Seat 6: per sonare showed [Jc Kh] and won 5200 with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #693436248194285653-29-1466863540 - Holdem no limit (35/150/300) - 2016/06/25 14:05:40 UTC
+Table: 'Freeroll(161453208)#084' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (2100)
+Seat 2: sonnygoal69 (5385)
+Seat 3: lesarde13 (1265)
+Seat 4: zero absolu (16715)
+Seat 5: christ45000 (18935)
+Seat 6: per sonare (11345)
+Seat 7: as coeur59 (7985)
+Seat 8: Jeyremz (4235)
+*** ANTE/BLINDS ***
+zero absolu posts ante 35
+christ45000 posts ante 35
+manggy94 posts ante 35
+sonnygoal69 posts ante 35
+lesarde13 posts ante 35
+per sonare posts ante 35
+as coeur59 posts ante 35
+Jeyremz posts ante 35
+zero absolu posts small blind 150
+christ45000 posts big blind 300
+Dealt to manggy94 [6s 9h]
+*** PRE-FLOP *** 
+per sonare folds
+as coeur59 folds
+Jeyremz folds
+manggy94 folds
+sonnygoal69 folds
+lesarde13 folds
+zero absolu calls 150
+christ45000 checks
+*** FLOP *** [2c 9c Kc]
+zero absolu bets 300
+christ45000 folds
+zero absolu collected 1180 from pot
+*** SUMMARY ***
+Total pot 1180 | No rake
+Board: [2c 9c Kc]
+Seat 4: zero absolu (small blind) won 1180
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #693436248194285653-30-1466863574 - Holdem no limit (35/150/300) - 2016/06/25 14:06:14 UTC
+Table: 'Freeroll(161453208)#084' 8-max (real money) Seat #4 is the button
+Seat 1: manggy94 (2065)
+Seat 2: sonnygoal69 (5350)
+Seat 3: lesarde13 (1230)
+Seat 4: zero absolu (17260)
+Seat 5: christ45000 (18600)
+Seat 6: per sonare (11310)
+Seat 7: as coeur59 (7950)
+Seat 8: Jeyremz (4200)
+*** ANTE/BLINDS ***
+christ45000 posts ante 35
+per sonare posts ante 35
+manggy94 posts ante 35
+sonnygoal69 posts ante 35
+lesarde13 posts ante 35
+zero absolu posts ante 35
+as coeur59 posts ante 35
+Jeyremz posts ante 35
+christ45000 posts small blind 150
+per sonare posts big blind 300
+Dealt to manggy94 [Kd 7c]
+*** PRE-FLOP *** 
+as coeur59 folds
+Jeyremz calls 300
+manggy94 folds
+sonnygoal69 folds
+lesarde13 raises 750 to 1050
+zero absolu folds
+christ45000 folds
+per sonare folds
+Jeyremz calls 750
+*** FLOP *** [5h 9s 6h]
+Jeyremz bets 300
+lesarde13 calls 145 and is all-in
+*** TURN *** [5h 9s 6h][8d]
+*** RIVER *** [5h 9s 6h 8d][3h]
+*** SHOW DOWN ***
+lesarde13 shows [Ad 3d] (One pair : 3)
+Jeyremz shows [Ks Qh] (High card : King)
+Jeyremz collected 155 from side pot 1
+lesarde13 collected 3120 from main pot
+*** SUMMARY ***
+Total pot 3275 | No rake
+Board: [5h 9s 6h 8d 3h]
+Seat 3: lesarde13 showed [Ad 3d] and won 3120 with One pair : 3
+Seat 8: Jeyremz showed [Ks Qh] and won 155 with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #693436248194285653-31-1466863628 - Holdem no limit (35/150/300) - 2016/06/25 14:07:08 UTC
+Table: 'Freeroll(161453208)#084' 8-max (real money) Seat #5 is the button
+Seat 1: manggy94 (2030)
+Seat 2: sonnygoal69 (5315)
+Seat 3: lesarde13 (3120)
+Seat 4: zero absolu (17225)
+Seat 5: christ45000 (18415)
+Seat 6: per sonare (10975)
+Seat 7: as coeur59 (7915)
+Seat 8: Jeyremz (2970)
+*** ANTE/BLINDS ***
+per sonare posts ante 35
+as coeur59 posts ante 35
+manggy94 posts ante 35
+sonnygoal69 posts ante 35
+lesarde13 posts ante 35
+zero absolu posts ante 35
+christ45000 posts ante 35
+Jeyremz posts ante 35
+per sonare posts small blind 150
+as coeur59 posts big blind 300
+Dealt to manggy94 [Jh 2c]
+*** PRE-FLOP *** 
+Jeyremz folds
+manggy94 folds
+sonnygoal69 calls 300
+lesarde13 folds
+zero absolu folds
+christ45000 raises 300 to 600
+per sonare folds
+as coeur59 folds
+sonnygoal69 calls 300
+*** FLOP *** [2s 6d 4h]
+sonnygoal69 checks
+christ45000 bets 17780 and is all-in
+sonnygoal69 folds
+christ45000 collected 19710 from pot
+*** SUMMARY ***
+Total pot 19710 | No rake
+Board: [2s 6d 4h]
+Seat 5: christ45000 (button) won 19710
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #693436248194285653-32-1466863675 - Holdem no limit (35/150/300) - 2016/06/25 14:07:55 UTC
+Table: 'Freeroll(161453208)#084' 8-max (real money) Seat #6 is the button
+Seat 1: manggy94 (1995)
+Seat 2: sonnygoal69 (4680)
+Seat 3: lesarde13 (3085)
+Seat 4: zero absolu (17190)
+Seat 5: christ45000 (19710)
+Seat 6: per sonare (10790)
+Seat 7: as coeur59 (7580)
+Seat 8: Jeyremz (2935)
+*** ANTE/BLINDS ***
+as coeur59 posts ante 35
+Jeyremz posts ante 35
+manggy94 posts ante 35
+sonnygoal69 posts ante 35
+lesarde13 posts ante 35
+zero absolu posts ante 35
+christ45000 posts ante 35
+per sonare posts ante 35
+as coeur59 posts small blind 150
+Jeyremz posts big blind 300
+Dealt to manggy94 [Qh 9s]
+*** PRE-FLOP *** 
+manggy94 folds
+sonnygoal69 raises 1200 to 1500
+lesarde13 folds
+zero absolu folds
+christ45000 folds
+per sonare folds
+as coeur59 folds
+Jeyremz folds
+sonnygoal69 collected 2230 from pot
+*** SUMMARY ***
+Total pot 2230 | No rake
+Seat 2: sonnygoal69 won 2230
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #693436248194285653-33-1466863690 - Holdem no limit (35/150/300) - 2016/06/25 14:08:10 UTC
+Table: 'Freeroll(161453208)#084' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (1960)
+Seat 2: sonnygoal69 (5375)
+Seat 3: lesarde13 (3050)
+Seat 4: zero absolu (17155)
+Seat 5: christ45000 (19675)
+Seat 6: per sonare (10755)
+Seat 7: as coeur59 (7395)
+Seat 8: Jeyremz (2600)
+*** ANTE/BLINDS ***
+Jeyremz posts ante 35
+manggy94 posts ante 35
+sonnygoal69 posts ante 35
+lesarde13 posts ante 35
+zero absolu posts ante 35
+christ45000 posts ante 35
+per sonare posts ante 35
+as coeur59 posts ante 35
+Jeyremz posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Ah 5s]
+*** PRE-FLOP *** 
+sonnygoal69 folds
+lesarde13 raises 900 to 1200
+zero absolu folds
+christ45000 folds
+per sonare folds
+as coeur59 folds
+Jeyremz folds
+manggy94 calls 900
+*** FLOP *** [3d Ts Ks]
+manggy94 bets 725 and is all-in
+lesarde13 calls 725
+*** TURN *** [3d Ts Ks][5d]
+*** RIVER *** [3d Ts Ks 5d][7c]
+*** SHOW DOWN ***
+manggy94 shows [Ah 5s] (One pair : 5)
+lesarde13 shows [Kd Kc] (Trips of Kings)
+lesarde13 collected 4280 from pot
+*** SUMMARY ***
+Total pot 4280 | No rake
+Board: [3d Ts Ks 5d 7c]
+Seat 1: manggy94 (big blind) showed [Ah 5s] and lost with One pair : 5
+Seat 3: lesarde13 showed [Kd Kc] and won 4280 with Trips of Kings
+
+

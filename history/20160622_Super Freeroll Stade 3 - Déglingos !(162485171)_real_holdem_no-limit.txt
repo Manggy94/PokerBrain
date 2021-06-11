@@ -1,0 +1,74 @@
+Winamax Poker - Tournament "Super Freeroll Stade 3 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #697868495529967617-1-1466594200 - Holdem no limit (10/20) - 2016/06/22 11:16:40 UTC
+Table: 'Super Freeroll Stade 3 - Déglingos !(162485171)#0' 6-max (real money) Seat #1 is the button
+Seat 1: HkIrFeVeR (500)
+Seat 2: Chouwas88 (500)
+Seat 3: sebreizh356 (500)
+Seat 4: manggy94 (500)
+Seat 5: garden88 (500)
+Seat 6: cerrutisi80 (500)
+*** ANTE/BLINDS ***
+Chouwas88 posts small blind 10
+sebreizh356 posts big blind 20
+Dealt to manggy94 [5s Ah]
+*** PRE-FLOP *** 
+manggy94 calls 20
+garden88 folds
+cerrutisi80 folds
+HkIrFeVeR folds
+Chouwas88 calls 10
+sebreizh356 checks
+*** FLOP *** [Tc 5c 9c]
+Chouwas88 bets 20
+sebreizh356 calls 20
+manggy94 calls 20
+*** TURN *** [Tc 5c 9c][Th]
+Chouwas88 checks
+sebreizh356 checks
+manggy94 checks
+*** RIVER *** [Tc 5c 9c Th][3c]
+Chouwas88 checks
+sebreizh356 bets 120
+manggy94 folds
+Chouwas88 folds
+sebreizh356 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Tc 5c 9c Th 3c]
+Seat 3: sebreizh356 (big blind) won 240
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 3 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #697868495529967617-2-1466594256 - Holdem no limit (10/20) - 2016/06/22 11:17:36 UTC
+Table: 'Super Freeroll Stade 3 - Déglingos !(162485171)#0' 6-max (real money) Seat #2 is the button
+Seat 1: HkIrFeVeR (500)
+Seat 2: Chouwas88 (460)
+Seat 3: sebreizh356 (580)
+Seat 4: manggy94 (460)
+Seat 5: garden88 (500)
+Seat 6: cerrutisi80 (500)
+*** ANTE/BLINDS ***
+sebreizh356 posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [As Js]
+*** PRE-FLOP *** 
+garden88 folds
+cerrutisi80 folds
+HkIrFeVeR raises 40 to 60
+Chouwas88 folds
+sebreizh356 folds
+manggy94 raises 130 to 190
+HkIrFeVeR raises 310 to 500 and is all-in
+manggy94 calls 270 and is all-in
+*** FLOP *** [9h 8s 6s]
+*** TURN *** [9h 8s 6s][8h]
+*** RIVER *** [9h 8s 6s 8h][7h]
+*** SHOW DOWN ***
+manggy94 shows [As Js] (One pair : 8)
+HkIrFeVeR shows [Ah Kd] (One pair : 8)
+HkIrFeVeR collected 970 from pot
+*** SUMMARY ***
+Total pot 970 | No rake
+Board: [9h 8s 6s 8h 7h]
+Seat 1: HkIrFeVeR showed [Ah Kd] and won 970 with One pair : 8
+Seat 4: manggy94 (big blind) showed [As Js] and lost with One pair : 8
+
+

@@ -1,0 +1,76 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #641434897298227932-1-1456939830 - Holdem no limit (10/20) - 2016/03/02 17:30:30 UTC
+Table: 'Freeroll(149345700)#731' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (3000)
+Seat 2: sebchristol (3000)
+Seat 3: akim.bel (3000)
+Seat 4: saladetomate (3000)
+Seat 5: yannou5971 (3000)
+Seat 6: Chakib13 (3000)
+*** ANTE/BLINDS ***
+akim.bel posts small blind 10
+saladetomate posts big blind 20
+Dealt to manggy94 [7d Ts]
+*** PRE-FLOP *** 
+yannou5971 calls 20
+Chakib13 folds
+manggy94 folds
+sebchristol calls 20
+akim.bel calls 10
+saladetomate folds
+*** FLOP *** [Js 5s 3h]
+akim.bel checks
+yannou5971 checks
+sebchristol checks
+*** TURN *** [Js 5s 3h][7c]
+akim.bel checks
+yannou5971 checks
+sebchristol checks
+*** RIVER *** [Js 5s 3h 7c][2c]
+akim.bel bets 110
+yannou5971 folds
+sebchristol folds
+akim.bel collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [Js 5s 3h 7c 2c]
+Seat 3: akim.bel (small blind) won 190
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #641434897298227932-2-1456939960 - Holdem no limit (10/20) - 2016/03/02 17:32:40 UTC
+Table: 'Freeroll(149345700)#731' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (3000)
+Seat 2: sebchristol (2980)
+Seat 3: akim.bel (3060)
+Seat 4: saladetomate (2980)
+Seat 5: yannou5971 (2980)
+Seat 6: Chakib13 (3000)
+*** ANTE/BLINDS ***
+saladetomate posts small blind 10
+yannou5971 posts big blind 20
+Dealt to manggy94 [Js Qd]
+*** PRE-FLOP *** 
+Chakib13 folds
+manggy94 raises 60 to 80
+sebchristol folds
+akim.bel raises 190 to 270
+saladetomate folds
+yannou5971 folds
+manggy94 calls 190
+*** FLOP *** [Jd 9d 6s]
+manggy94 bets 570
+akim.bel calls 570
+*** TURN *** [Jd 9d 6s][4h]
+manggy94 bets 2160 and is all-in
+akim.bel calls 2160
+*** RIVER *** [Jd 9d 6s 4h][Ah]
+*** SHOW DOWN ***
+manggy94 shows [Js Qd] (One pair : Jacks)
+akim.bel shows [Jh As] (Two pairs : Aces and Jacks)
+akim.bel collected 6030 from pot
+*** SUMMARY ***
+Total pot 6030 | No rake
+Board: [Jd 9d 6s 4h Ah]
+Seat 1: manggy94 showed [Js Qd] and lost with One pair : Jacks
+Seat 3: akim.bel (button) showed [Jh As] and won 6030 with Two pairs : Aces and Jacks
+
+

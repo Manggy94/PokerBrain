@@ -1,0 +1,425 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #572522580825604123-1-1445509303 - Holdem no limit (25/150/300) - 2015/10/22 10:21:43 UTC
+Table: 'MiniRoll(133300801)#026' 9-max (real money) Seat #2 is the button
+Seat 2: spyder333 (10000)
+Seat 6: jujutheo (10000)
+Seat 7: manggy94 (10000)
+Seat 8: luffy6939 (10000)
+*** ANTE/BLINDS ***
+spyder333 posts ante 25
+manggy94 posts ante 25
+spyder333 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Kc Tc]
+*** PRE-FLOP *** 
+spyder333 calls 150
+manggy94 checks
+*** FLOP *** [5c 9d 4c]
+manggy94 bets 650
+spyder333 raises 650 to 1300
+manggy94 calls 650
+*** TURN *** [5c 9d 4c][Ac]
+manggy94 bets 3250
+spyder333 folds
+manggy94 collected 6500 from pot
+*** SUMMARY ***
+Total pot 6500 | No rake
+Board: [5c 9d 4c Ac]
+Seat 7: manggy94 (big blind) won 6500
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #572522580825604123-2-1445509323 - Holdem no limit (25/150/300) - 2015/10/22 10:22:03 UTC
+Table: 'MiniRoll(133300801)#026' 9-max (real money) Seat #2 is the button
+Seat 1: ledzep31 (10000)
+Seat 2: spyder333 (8375)
+Seat 3: latrack (10000)
+Seat 6: jujutheo (10000)
+Seat 7: manggy94 (11625)
+Seat 8: luffy6939 (10000)
+Seat 9: Barbosa59 (10000)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+luffy6939 posts ante 25
+ledzep31 posts ante 25
+spyder333 posts ante 25
+Barbosa59 posts ante 25
+manggy94 posts small blind 150
+luffy6939 posts big blind 300
+Dealt to manggy94 [Jc Qd]
+*** PRE-FLOP *** 
+Barbosa59 calls 300
+ledzep31 folds
+spyder333 calls 300
+manggy94 calls 150
+luffy6939 checks
+*** FLOP *** [Jd Qh 3s]
+manggy94 checks
+luffy6939 checks
+Barbosa59 checks
+spyder333 checks
+*** TURN *** [Jd Qh 3s][Kd]
+manggy94 bets 1325
+luffy6939 calls 1325
+Barbosa59 calls 1325
+spyder333 folds
+*** RIVER *** [Jd Qh 3s Kd][Td]
+manggy94 checks
+luffy6939 bets 3533
+Barbosa59 raises 3533 to 7066
+manggy94 folds
+luffy6939 calls 3533
+*** SHOW DOWN ***
+luffy6939 shows [Ac 9s] (Straight Ace high)
+Barbosa59 shows [5d 8d] (Flush King high)
+Barbosa59 collected 19432 from pot
+*** SUMMARY ***
+Total pot 19432 | No rake
+Board: [Jd Qh 3s Kd Td]
+Seat 8: luffy6939 (big blind) showed [Ac 9s] and lost with Straight Ace high
+Seat 9: Barbosa59 showed [5d 8d] and won 19432 with Flush King high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #572522580825604102-32-1445509404 - Holdem no limit (25/150/300) - 2015/10/22 10:23:24 UTC
+Table: 'MiniRoll(133300801)#005' 9-max (real money) Seat #8 is the button
+Seat 1: RoscaX2 (8550)
+Seat 2: sapafam29 (10350)
+Seat 3: dantonku63 (67700)
+Seat 4: 89-Beating (7800)
+Seat 6: doberman51 (6650)
+Seat 7: manggy94 (9975)
+Seat 8: gongleur54 (42275)
+Seat 9: Eightycent49 (6675)
+*** ANTE/BLINDS ***
+Eightycent49 posts ante 25
+RoscaX2 posts ante 25
+sapafam29 posts ante 25
+dantonku63 posts ante 25
+89-Beating posts ante 25
+doberman51 posts ante 25
+manggy94 posts ante 25
+gongleur54 posts ante 25
+Eightycent49 posts small blind 150
+RoscaX2 posts big blind 300
+Dealt to manggy94 [Kc 2c]
+*** PRE-FLOP *** 
+sapafam29 folds
+dantonku63 calls 300
+89-Beating folds
+doberman51 folds
+manggy94 calls 300
+gongleur54 calls 300
+Eightycent49 folds
+RoscaX2 folds
+*** FLOP *** [Th 5h Kd]
+dantonku63 bets 300
+manggy94 raises 9350 to 9650 and is all-in
+gongleur54 calls 9650
+dantonku63 folds
+*** TURN *** [Th 5h Kd][7h]
+*** RIVER *** [Th 5h Kd 7h][8h]
+*** SHOW DOWN ***
+gongleur54 shows [Ad Tc] (One pair : Tens)
+manggy94 shows [Kc 2c] (One pair : Kings)
+manggy94 collected 21150 from pot
+*** SUMMARY ***
+Total pot 21150 | No rake
+Board: [Th 5h Kd 7h 8h]
+Seat 7: manggy94 showed [Kc 2c] and won 21150 with One pair : Kings
+Seat 8: gongleur54 (button) showed [Ad Tc] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #572522580825604102-33-1445509450 - Holdem no limit (25/150/300) - 2015/10/22 10:24:10 UTC
+Table: 'MiniRoll(133300801)#005' 9-max (real money) Seat #9 is the button
+Seat 1: RoscaX2 (8225)
+Seat 2: sapafam29 (10325)
+Seat 3: dantonku63 (67075)
+Seat 4: 89-Beating (7775)
+Seat 6: doberman51 (6625)
+Seat 7: manggy94 (21150)
+Seat 8: gongleur54 (32300)
+Seat 9: Eightycent49 (6500)
+*** ANTE/BLINDS ***
+RoscaX2 posts ante 25
+sapafam29 posts ante 25
+dantonku63 posts ante 25
+89-Beating posts ante 25
+doberman51 posts ante 25
+manggy94 posts ante 25
+gongleur54 posts ante 25
+Eightycent49 posts ante 25
+RoscaX2 posts small blind 150
+sapafam29 posts big blind 300
+Dealt to manggy94 [Js 4c]
+*** PRE-FLOP *** 
+dantonku63 folds
+89-Beating folds
+doberman51 folds
+manggy94 folds
+gongleur54 folds
+Eightycent49 folds
+RoscaX2 folds
+sapafam29 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Seat 2: sapafam29 (big blind) won 650
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #572522580825604102-34-1445509465 - Holdem no limit (25/150/300) - 2015/10/22 10:24:25 UTC
+Table: 'MiniRoll(133300801)#005' 9-max (real money) Seat #1 is the button
+Seat 1: RoscaX2 (8050)
+Seat 2: sapafam29 (10650)
+Seat 3: dantonku63 (67050)
+Seat 4: 89-Beating (7750)
+Seat 5: jujutheo (10000)
+Seat 6: doberman51 (6600)
+Seat 7: manggy94 (21125)
+Seat 8: gongleur54 (32275)
+Seat 9: Eightycent49 (6475)
+*** ANTE/BLINDS ***
+sapafam29 posts ante 25
+dantonku63 posts ante 25
+RoscaX2 posts ante 25
+89-Beating posts ante 25
+jujutheo posts ante 25
+doberman51 posts ante 25
+manggy94 posts ante 25
+gongleur54 posts ante 25
+Eightycent49 posts ante 25
+sapafam29 posts small blind 150
+dantonku63 posts big blind 300
+Dealt to manggy94 [5c 5h]
+*** PRE-FLOP *** 
+89-Beating folds
+jujutheo folds
+doberman51 raises 450 to 750
+manggy94 raises 2175 to 2925
+gongleur54 folds
+Eightycent49 raises 3525 to 6450 and is all-in
+RoscaX2 folds
+sapafam29 folds
+dantonku63 folds
+doberman51 raises 125 to 6575 and is all-in
+manggy94 calls 3650
+*** FLOP *** [9c 3s Qc]
+*** TURN *** [9c 3s Qc][8d]
+*** RIVER *** [9c 3s Qc 8d][7c]
+*** SHOW DOWN ***
+doberman51 shows [Ts Kd] (High card : King)
+Eightycent49 shows [Ad Qh] (One pair : Queens)
+manggy94 shows [5c 5h] (One pair : 5)
+manggy94 collected 250 from side pot 1
+Eightycent49 collected 20025 from main pot
+*** SUMMARY ***
+Total pot 20275 | No rake
+Board: [9c 3s Qc 8d 7c]
+Seat 6: doberman51 showed [Ts Kd] and lost with High card : King
+Seat 7: manggy94 showed [5c 5h] and won 250 with One pair : 5
+Seat 9: Eightycent49 showed [Ad Qh] and won 20025 with One pair : Queens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #572522580825604102-35-1445509501 - Holdem no limit (25/150/300) - 2015/10/22 10:25:01 UTC
+Table: 'MiniRoll(133300801)#005' 9-max (real money) Seat #2 is the button
+Seat 1: RoscaX2 (8025)
+Seat 2: sapafam29 (10475)
+Seat 3: dantonku63 (66725)
+Seat 4: 89-Beating (7725)
+Seat 5: jujutheo (9975)
+Seat 7: manggy94 (14775)
+Seat 8: gongleur54 (32250)
+Seat 9: Eightycent49 (20025)
+*** ANTE/BLINDS ***
+dantonku63 posts ante 25
+89-Beating posts ante 25
+RoscaX2 posts ante 25
+sapafam29 posts ante 25
+jujutheo posts ante 25
+manggy94 posts ante 25
+gongleur54 posts ante 25
+Eightycent49 posts ante 25
+dantonku63 posts small blind 150
+89-Beating posts big blind 300
+Dealt to manggy94 [3s 8h]
+*** PRE-FLOP *** 
+jujutheo raises 300 to 600
+manggy94 folds
+gongleur54 folds
+Eightycent49 folds
+RoscaX2 folds
+sapafam29 folds
+dantonku63 folds
+89-Beating folds
+jujutheo collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | No rake
+Seat 5: jujutheo won 1250
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #572522580825604102-36-1445509539 - Holdem no limit (25/150/300) - 2015/10/22 10:25:39 UTC
+Table: 'MiniRoll(133300801)#005' 9-max (real money) Seat #3 is the button
+Seat 1: RoscaX2 (8000)
+Seat 2: sapafam29 (10450)
+Seat 3: dantonku63 (66550)
+Seat 4: 89-Beating (7400)
+Seat 5: jujutheo (10600)
+Seat 6: benoni44 (8200)
+Seat 7: manggy94 (14750)
+Seat 8: gongleur54 (32225)
+Seat 9: Eightycent49 (20000)
+*** ANTE/BLINDS ***
+89-Beating posts ante 25
+jujutheo posts ante 25
+RoscaX2 posts ante 25
+sapafam29 posts ante 25
+dantonku63 posts ante 25
+benoni44 posts ante 25
+manggy94 posts ante 25
+gongleur54 posts ante 25
+Eightycent49 posts ante 25
+89-Beating posts small blind 150
+jujutheo posts big blind 300
+Dealt to manggy94 [Kc Td]
+*** PRE-FLOP *** 
+benoni44 folds
+manggy94 calls 300
+gongleur54 folds
+Eightycent49 folds
+RoscaX2 folds
+sapafam29 raises 900 to 1200
+dantonku63 calls 1200
+89-Beating folds
+jujutheo calls 900
+manggy94 calls 900
+*** FLOP *** [6s 4h 7c]
+jujutheo checks
+manggy94 bets 13525 and is all-in
+sapafam29 calls 9225 and is all-in
+dantonku63 folds
+jujutheo folds
+*** TURN *** [6s 4h 7c][As]
+*** RIVER *** [6s 4h 7c As][4c]
+*** SHOW DOWN ***
+sapafam29 shows [Th Ah] (Two pairs : Aces and 4)
+manggy94 shows [Kc Td] (One pair : 4)
+manggy94 collected 4300 from side pot 1
+sapafam29 collected 23625 from main pot
+*** SUMMARY ***
+Total pot 27925 | No rake
+Board: [6s 4h 7c As 4c]
+Seat 2: sapafam29 showed [Th Ah] and won 23625 with Two pairs : Aces and 4
+Seat 7: manggy94 showed [Kc Td] and won 4300 with One pair : 4
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #572522580825604102-37-1445509621 - Holdem no limit (30/200/400) - 2015/10/22 10:27:01 UTC
+Table: 'MiniRoll(133300801)#005' 9-max (real money) Seat #4 is the button
+Seat 1: RoscaX2 (7975)
+Seat 2: sapafam29 (23625)
+Seat 3: dantonku63 (65325)
+Seat 4: 89-Beating (7225)
+Seat 5: jujutheo (9375)
+Seat 6: benoni44 (8175)
+Seat 7: manggy94 (4300)
+Seat 8: gongleur54 (32200)
+Seat 9: Eightycent49 (19975)
+*** ANTE/BLINDS ***
+jujutheo posts ante 30
+benoni44 posts ante 30
+RoscaX2 posts ante 30
+sapafam29 posts ante 30
+dantonku63 posts ante 30
+89-Beating posts ante 30
+manggy94 posts ante 30
+gongleur54 posts ante 30
+Eightycent49 posts ante 30
+jujutheo posts small blind 200
+benoni44 posts big blind 400
+Dealt to manggy94 [9s 7d]
+*** PRE-FLOP *** 
+manggy94 folds
+gongleur54 calls 400
+Eightycent49 calls 400
+RoscaX2 folds
+sapafam29 folds
+dantonku63 folds
+89-Beating folds
+jujutheo calls 200
+benoni44 checks
+*** FLOP *** [Ah 7h Qs]
+jujutheo checks
+benoni44 checks
+gongleur54 checks
+Eightycent49 checks
+*** TURN *** [Ah 7h Qs][Qc]
+jujutheo checks
+benoni44 checks
+gongleur54 checks
+Eightycent49 checks
+*** RIVER *** [Ah 7h Qs Qc][2c]
+jujutheo checks
+benoni44 checks
+gongleur54 checks
+Eightycent49 checks
+*** SHOW DOWN ***
+jujutheo shows [4c Ks] (One pair : Queens)
+benoni44 shows [4s 6c] (One pair : Queens)
+Eightycent49 shows [Ts Kd] (One pair : Queens)
+gongleur54 shows [Js Kh] (One pair : Queens)
+gongleur54 collected 1870 from pot
+*** SUMMARY ***
+Total pot 1870 | No rake
+Board: [Ah 7h Qs Qc 2c]
+Seat 5: jujutheo (small blind) showed [4c Ks] and lost with One pair : Queens
+Seat 6: benoni44 (big blind) showed [4s 6c] and lost with One pair : Queens
+Seat 8: gongleur54 showed [Js Kh] and won 1870 with One pair : Queens
+Seat 9: Eightycent49 showed [Ts Kd] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #572522580825604102-38-1445509719 - Holdem no limit (30/200/400) - 2015/10/22 10:28:39 UTC
+Table: 'MiniRoll(133300801)#005' 9-max (real money) Seat #5 is the button
+Seat 1: RoscaX2 (7945)
+Seat 2: sapafam29 (23595)
+Seat 3: dantonku63 (65295)
+Seat 4: 89-Beating (7195)
+Seat 5: jujutheo (8945)
+Seat 6: benoni44 (7745)
+Seat 7: manggy94 (4270)
+Seat 8: gongleur54 (33640)
+Seat 9: Eightycent49 (19545)
+*** ANTE/BLINDS ***
+benoni44 posts ante 30
+manggy94 posts ante 30
+RoscaX2 posts ante 30
+sapafam29 posts ante 30
+dantonku63 posts ante 30
+89-Beating posts ante 30
+jujutheo posts ante 30
+gongleur54 posts ante 30
+Eightycent49 posts ante 30
+benoni44 posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [9c 9d]
+*** PRE-FLOP *** 
+gongleur54 folds
+Eightycent49 calls 400
+RoscaX2 folds
+sapafam29 folds
+dantonku63 folds
+89-Beating folds
+jujutheo calls 400
+benoni44 raises 800 to 1200
+manggy94 raises 3040 to 4240 and is all-in
+Eightycent49 folds
+jujutheo folds
+benoni44 calls 3040
+*** FLOP *** [Qc 3d Qs]
+*** TURN *** [Qc 3d Qs][Kd]
+*** RIVER *** [Qc 3d Qs Kd][3c]
+*** SHOW DOWN ***
+manggy94 shows [9c 9d] (Two pairs : Queens and 9)
+benoni44 shows [As Ah] (Two pairs : Aces and Queens)
+benoni44 collected 9550 from pot
+*** SUMMARY ***
+Total pot 9550 | No rake
+Board: [Qc 3d Qs Kd 3c]
+Seat 6: benoni44 (small blind) showed [As Ah] and won 9550 with Two pairs : Aces and Queens
+Seat 7: manggy94 (big blind) showed [9c 9d] and lost with Two pairs : Queens and 9
+
+

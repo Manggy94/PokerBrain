@@ -1,0 +1,1909 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #541906112614498828-1-1439583329 - Holdem no limit (10/20) - 2015/08/14 20:15:29 UTC
+Table: 'Freeroll(126172349)#523' 6-max (real money) Seat #6 is the button
+Seat 1: holderlin (3000)
+Seat 2: kayzere (3000)
+Seat 3: luctatoo (3000)
+Seat 4: Ewenzo (3000)
+Seat 5: manggy94 (3000)
+Seat 6: ginky (3000)
+*** ANTE/BLINDS ***
+holderlin posts small blind 10
+kayzere posts big blind 20
+Dealt to manggy94 [7c 5d]
+*** PRE-FLOP *** 
+luctatoo calls 20
+Ewenzo folds
+manggy94 folds
+ginky raises 690 to 710
+holderlin raises 2290 to 3000 and is all-in
+kayzere folds
+luctatoo folds
+ginky calls 2290 and is all-in
+*** FLOP *** [Th 5c Ts]
+*** TURN *** [Th 5c Ts][Ad]
+*** RIVER *** [Th 5c Ts Ad][9d]
+*** SHOW DOWN ***
+holderlin shows [Qc Ac] (Two pairs : Aces and Tens)
+ginky shows [9c 9h] (Full of 9 and Tens)
+ginky collected 6040 from pot
+*** SUMMARY ***
+Total pot 6040 | No rake
+Board: [Th 5c Ts Ad 9d]
+Seat 1: holderlin (small blind) showed [Qc Ac] and lost with Two pairs : Aces and Tens
+Seat 6: ginky (button) showed [9c 9h] and won 6040 with Full of 9 and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #541906112614498828-2-1439583478 - Holdem no limit (10/20) - 2015/08/14 20:17:58 UTC
+Table: 'Freeroll(126172349)#523' 6-max (real money) Seat #1 is the button
+Seat 1: fredcat27 (3000)
+Seat 2: kayzere (2980)
+Seat 3: luctatoo (2980)
+Seat 4: Ewenzo (3000)
+Seat 5: manggy94 (3000)
+Seat 6: ginky (6040)
+*** ANTE/BLINDS ***
+kayzere posts small blind 10
+luctatoo posts big blind 20
+Dealt to manggy94 [Jc Qc]
+*** PRE-FLOP *** 
+Ewenzo folds
+manggy94 calls 20
+ginky calls 20
+kayzere calls 10
+luctatoo checks
+*** FLOP *** [5h Td Th]
+kayzere checks
+luctatoo checks
+manggy94 checks
+ginky bets 20
+kayzere calls 20
+luctatoo folds
+manggy94 calls 20
+*** TURN *** [5h Td Th][Js]
+kayzere checks
+manggy94 checks
+ginky checks
+*** RIVER *** [5h Td Th Js][Ac]
+kayzere checks
+manggy94 checks
+ginky checks
+*** SHOW DOWN ***
+kayzere shows [6d Kd] (One pair : Tens)
+ginky shows [9h 7h] (One pair : Tens)
+manggy94 shows [Jc Qc] (Two pairs : Jacks and Tens)
+manggy94 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [5h Td Th Js Ac]
+Seat 2: kayzere (small blind) showed [6d Kd] and lost with One pair : Tens
+Seat 5: manggy94 showed [Jc Qc] and won 140 with Two pairs : Jacks and Tens
+Seat 6: ginky showed [9h 7h] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #541906112614498828-3-1439583529 - Holdem no limit (15/30) - 2015/08/14 20:18:49 UTC
+Table: 'Freeroll(126172349)#523' 6-max (real money) Seat #2 is the button
+Seat 1: fredcat27 (3000)
+Seat 2: kayzere (2940)
+Seat 3: luctatoo (2960)
+Seat 4: Ewenzo (3000)
+Seat 5: manggy94 (3100)
+Seat 6: christ62110 (3000)
+*** ANTE/BLINDS ***
+luctatoo posts small blind 15
+Ewenzo posts big blind 30
+Dealt to manggy94 [Ah Js]
+*** PRE-FLOP *** 
+manggy94 raises 75 to 105
+christ62110 calls 105
+fredcat27 folds
+kayzere folds
+luctatoo folds
+Ewenzo folds
+*** FLOP *** [2d Kd 3d]
+manggy94 checks
+christ62110 checks
+*** TURN *** [2d Kd 3d][7c]
+manggy94 bets 255
+christ62110 calls 255
+*** RIVER *** [2d Kd 3d 7c][5h]
+manggy94 checks
+christ62110 bets 765
+manggy94 calls 765
+*** SHOW DOWN ***
+manggy94 shows [Ah Js] (High card : Ace)
+christ62110 shows [2s 5s] (Two pairs : 5 and 2)
+christ62110 collected 2295 from pot
+*** SUMMARY ***
+Total pot 2295 | No rake
+Board: [2d Kd 3d 7c 5h]
+Seat 5: manggy94 showed [Ah Js] and lost with High card : Ace
+Seat 6: christ62110 showed [2s 5s] and won 2295 with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #541906112614498643-3-1439583569 - Holdem no limit (15/30) - 2015/08/14 20:19:29 UTC
+Table: 'Freeroll(126172349)#338' 6-max (real money) Seat #4 is the button
+Seat 1: baba59440 (2980)
+Seat 2: jayce xxx x (3000)
+Seat 3: sortezcouver (3060)
+Seat 4: manggy94 (1975)
+Seat 5: Psgman17 (2970)
+Seat 6: jasonvan62 (6010)
+*** ANTE/BLINDS ***
+Psgman17 posts small blind 15
+jasonvan62 posts big blind 30
+*** PRE-FLOP *** 
+baba59440 calls 30
+jayce xxx x folds
+sortezcouver folds
+Psgman17 calls 15
+jasonvan62 checks
+*** FLOP *** [Js Kd As]
+Psgman17 checks
+jasonvan62 bets 30
+baba59440 calls 30
+Psgman17 calls 30
+*** TURN *** [Js Kd As][7s]
+Psgman17 checks
+jasonvan62 bets 60
+baba59440 calls 60
+Psgman17 calls 60
+*** RIVER *** [Js Kd As 7s][2h]
+Psgman17 checks
+jasonvan62 bets 180
+baba59440 calls 180
+Psgman17 folds
+*** SHOW DOWN ***
+baba59440 shows [Ac 3c] (One pair : Aces)
+jasonvan62 shows [2s Jd] (Two pairs : Jacks and 2)
+jasonvan62 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Js Kd As 7s 2h]
+Seat 1: baba59440 showed [Ac 3c] and lost with One pair : Aces
+Seat 6: jasonvan62 (big blind) showed [2s Jd] and won 720 with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #541906112614498643-4-1439583662 - Holdem no limit (15/30) - 2015/08/14 20:21:02 UTC
+Table: 'Freeroll(126172349)#338' 6-max (real money) Seat #5 is the button
+Seat 1: baba59440 (2680)
+Seat 2: jayce xxx x (3000)
+Seat 3: sortezcouver (3060)
+Seat 4: manggy94 (1975)
+Seat 5: Psgman17 (2850)
+Seat 6: Idcwdp (3000)
+*** ANTE/BLINDS ***
+baba59440 posts big blind 30
+Dealt to manggy94 [4s 7d]
+*** PRE-FLOP *** 
+jayce xxx x folds
+sortezcouver raises 60 to 90
+manggy94 folds
+Psgman17 folds
+baba59440 raises 2590 to 2680 and is all-in
+sortezcouver calls 2590
+*** FLOP *** [7h 6c 4h]
+*** TURN *** [7h 6c 4h][5h]
+*** RIVER *** [7h 6c 4h 5h][Td]
+*** SHOW DOWN ***
+sortezcouver shows [Js Qs] (High card : Queen)
+baba59440 shows [3h 3d] (Straight 7 high)
+baba59440 collected 5360 from pot
+*** SUMMARY ***
+Total pot 5360 | No rake
+Board: [7h 6c 4h 5h Td]
+Seat 1: baba59440 (big blind) showed [3h 3d] and won 5360 with Straight 7 high
+Seat 3: sortezcouver showed [Js Qs] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #541906112614498643-5-1439583696 - Holdem no limit (20/40) - 2015/08/14 20:21:36 UTC
+Table: 'Freeroll(126172349)#338' 6-max (real money) Seat #6 is the button
+Seat 1: baba59440 (5360)
+Seat 2: jayce xxx x (3000)
+Seat 3: sortezcouver (380)
+Seat 4: manggy94 (1975)
+Seat 5: Psgman17 (2850)
+Seat 6: Idcwdp (3000)
+*** ANTE/BLINDS ***
+baba59440 posts small blind 20
+jayce xxx x posts big blind 40
+Dealt to manggy94 [3c Kc]
+*** PRE-FLOP *** 
+sortezcouver folds
+manggy94 raises 100 to 140
+Psgman17 folds
+baba59440 calls 120
+jayce xxx x folds
+*** FLOP *** [3s 7c Tc]
+baba59440 checks
+manggy94 bets 1835 and is all-in
+baba59440 calls 1835
+*** TURN *** [3s 7c Tc][Td]
+*** RIVER *** [3s 7c Tc Td][9h]
+*** SHOW DOWN ***
+baba59440 shows [Jc Kd] (One pair : Tens)
+manggy94 shows [3c Kc] (Two pairs : Tens and 3)
+manggy94 collected 3990 from pot
+*** SUMMARY ***
+Total pot 3990 | No rake
+Board: [3s 7c Tc Td 9h]
+Seat 1: baba59440 (small blind) showed [Jc Kd] and lost with One pair : Tens
+Seat 4: manggy94 showed [3c Kc] and won 3990 with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #541906112614498643-6-1439583733 - Holdem no limit (20/40) - 2015/08/14 20:22:13 UTC
+Table: 'Freeroll(126172349)#338' 6-max (real money) Seat #1 is the button
+Seat 1: baba59440 (3385)
+Seat 2: jayce xxx x (2960)
+Seat 3: sortezcouver (380)
+Seat 4: manggy94 (3990)
+Seat 5: quabiss (4470)
+Seat 6: Idcwdp (3000)
+*** ANTE/BLINDS ***
+jayce xxx x posts small blind 20
+sortezcouver posts big blind 40
+Dealt to manggy94 [Jh 7h]
+*** PRE-FLOP *** 
+manggy94 calls 40
+quabiss folds
+Idcwdp folds
+baba59440 calls 40
+jayce xxx x folds
+sortezcouver raises 140 to 180
+manggy94 calls 140
+baba59440 calls 140
+*** FLOP *** [6h 7s 9s]
+sortezcouver bets 200 and is all-in
+manggy94 calls 200
+baba59440 calls 200
+*** TURN *** [6h 7s 9s][5h]
+manggy94 checks
+baba59440 checks
+*** RIVER *** [6h 7s 9s 5h][Jd]
+manggy94 bets 3610 and is all-in
+baba59440 folds
+*** SHOW DOWN ***
+sortezcouver shows [8d Js] (Straight 9 high)
+manggy94 shows [Jh 7h] (Two pairs : Jacks and 7)
+manggy94 collected 3610 from side pot 1
+sortezcouver collected 1160 from main pot
+*** SUMMARY ***
+Total pot 4770 | No rake
+Board: [6h 7s 9s 5h Jd]
+Seat 3: sortezcouver (big blind) showed [8d Js] and won 1160 with Straight 9 high
+Seat 4: manggy94 showed [Jh 7h] and won 3610 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #541906112614498643-7-1439583803 - Holdem no limit (20/40) - 2015/08/14 20:23:23 UTC
+Table: 'Freeroll(126172349)#338' 6-max (real money) Seat #2 is the button
+Seat 1: baba59440 (3005)
+Seat 2: jayce xxx x (2940)
+Seat 3: stef-fb (1290)
+Seat 4: manggy94 (3610)
+Seat 5: quabiss (4470)
+Seat 6: Idcwdp (3000)
+*** ANTE/BLINDS ***
+manggy94 posts big blind 40
+Dealt to manggy94 [Ac As]
+*** PRE-FLOP *** 
+quabiss folds
+Idcwdp folds
+baba59440 raises 2965 to 3005 and is all-in
+jayce xxx x folds
+manggy94 calls 2965
+*** FLOP *** [3d 9c 6h]
+*** TURN *** [3d 9c 6h][8h]
+*** RIVER *** [3d 9c 6h 8h][Kd]
+*** SHOW DOWN ***
+baba59440 shows [Ks Ad] (One pair : Kings)
+manggy94 shows [Ac As] (One pair : Aces)
+manggy94 collected 6010 from pot
+*** SUMMARY ***
+Total pot 6010 | No rake
+Board: [3d 9c 6h 8h Kd]
+Seat 1: baba59440 showed [Ks Ad] and lost with One pair : Kings
+Seat 4: manggy94 (big blind) showed [Ac As] and won 6010 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #541906112614498911-6-1439583832 - Holdem no limit (20/40) - 2015/08/14 20:23:52 UTC
+Table: 'Freeroll(126172349)#606' 6-max (real money) Seat #4 is the button
+Seat 1: laminetiti (6385)
+Seat 2: heidi59 (2955)
+Seat 3: Tornado77 (2720)
+Seat 4: Pedro78i (9285)
+Seat 5: manggy94 (6615)
+Seat 6: jyer50 (8770)
+*** ANTE/BLINDS ***
+jyer50 posts big blind 40
+*** PRE-FLOP *** 
+laminetiti folds
+heidi59 folds
+Tornado77 raises 40 to 80
+Pedro78i folds
+jyer50 calls 40
+*** FLOP *** [2d Td 4h]
+jyer50 checks
+Tornado77 checks
+*** TURN *** [2d Td 4h][2s]
+jyer50 bets 80
+Tornado77 raises 320 to 400
+jyer50 folds
+Tornado77 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [2d Td 4h 2s]
+Seat 3: Tornado77 won 640
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #541906112614498911-7-1439583872 - Holdem no limit (30/60) - 2015/08/14 20:24:32 UTC
+Table: 'Freeroll(126172349)#606' 6-max (real money) Seat #5 is the button
+Seat 1: laminetiti (6385)
+Seat 2: heidi59 (2955)
+Seat 3: Tornado77 (2880)
+Seat 4: Jolimourse (2290)
+Seat 5: manggy94 (6615)
+Seat 6: jyer50 (8610)
+*** ANTE/BLINDS ***
+jyer50 posts small blind 30
+laminetiti posts big blind 60
+*** PRE-FLOP *** 
+heidi59 folds
+Tornado77 calls 60
+jyer50 calls 30
+laminetiti checks
+*** FLOP *** [6h 5c 4d]
+jyer50 checks
+laminetiti checks
+Tornado77 checks
+*** TURN *** [6h 5c 4d][2c]
+jyer50 checks
+laminetiti bets 1810
+Tornado77 calls 1810
+jyer50 folds
+*** RIVER *** [6h 5c 4d 2c][4s]
+laminetiti bets 1618
+Tornado77 calls 1010 and is all-in
+*** SHOW DOWN ***
+Tornado77 shows [Jc 3h] (Straight 6 high)
+laminetiti shows [3d Jd] (Straight 6 high)
+laminetiti collected 3518 from side pot 1
+Tornado77 collected 2910 from main pot
+*** SUMMARY ***
+Total pot 6428 | No rake
+Board: [6h 5c 4d 2c 4s]
+Seat 1: laminetiti (big blind) showed [3d Jd] and won 3518 with Straight 6 high
+Seat 3: Tornado77 showed [Jc 3h] and won 2910 with Straight 6 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #541906112614498911-8-1439583914 - Holdem no limit (30/60) - 2015/08/14 20:25:14 UTC
+Table: 'Freeroll(126172349)#606' 6-max (real money) Seat #6 is the button
+Seat 1: laminetiti (6415)
+Seat 2: heidi59 (2955)
+Seat 3: letueur6902 (3000)
+Seat 4: Jolimourse (2290)
+Seat 5: manggy94 (6615)
+Seat 6: jyer50 (8550)
+*** ANTE/BLINDS ***
+laminetiti posts small blind 30
+heidi59 posts big blind 60
+Dealt to manggy94 [9h Jd]
+*** PRE-FLOP *** 
+letueur6902 raises 2940 to 3000 and is all-in
+Jolimourse folds
+manggy94 folds
+jyer50 raises 5550 to 8550 and is all-in
+laminetiti calls 6385 and is all-in
+heidi59 folds
+*** FLOP *** [6h Th 3h]
+*** TURN *** [6h Th 3h][3s]
+*** RIVER *** [6h Th 3h 3s][Td]
+*** SHOW DOWN ***
+letueur6902 shows [4s Qs] (Two pairs : Tens and 3)
+laminetiti shows [7h 7d] (Two pairs : Tens and 7)
+jyer50 shows [Ad Qd] (Two pairs : Tens and 3)
+jyer50 collected 2135 from side pot 1
+laminetiti collected 15890 from main pot
+*** SUMMARY ***
+Total pot 18025 | No rake
+Board: [6h Th 3h 3s Td]
+Seat 1: laminetiti (small blind) showed [7h 7d] and won 15890 with Two pairs : Tens and 7
+Seat 3: letueur6902 showed [4s Qs] and lost with Two pairs : Tens and 3
+Seat 6: jyer50 (button) showed [Ad Qd] and won 2135 with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #541906112614498911-9-1439583944 - Holdem no limit (30/60) - 2015/08/14 20:25:44 UTC
+Table: 'Freeroll(126172349)#606' 6-max (real money) Seat #1 is the button
+Seat 1: laminetiti (15890)
+Seat 2: heidi59 (2895)
+Seat 3: neuch29 (2850)
+Seat 4: Jolimourse (2290)
+Seat 5: manggy94 (6615)
+Seat 6: jyer50 (2135)
+*** ANTE/BLINDS ***
+heidi59 posts small blind 30
+neuch29 posts big blind 60
+Dealt to manggy94 [Qc 5h]
+*** PRE-FLOP *** 
+Jolimourse calls 60
+manggy94 folds
+jyer50 folds
+laminetiti folds
+heidi59 folds
+neuch29 checks
+*** FLOP *** [3c Jd 3s]
+neuch29 checks
+Jolimourse bets 60
+neuch29 calls 60
+*** TURN *** [3c Jd 3s][7h]
+neuch29 checks
+Jolimourse bets 60
+neuch29 calls 60
+*** RIVER *** [3c Jd 3s 7h][3d]
+neuch29 checks
+Jolimourse checks
+*** SHOW DOWN ***
+neuch29 shows [As Qh] (Trips of 3)
+Jolimourse shows [Jc Ac] (Full of 3 and Jacks)
+Jolimourse collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [3c Jd 3s 7h 3d]
+Seat 3: neuch29 (big blind) showed [As Qh] and lost with Trips of 3
+Seat 4: Jolimourse showed [Jc Ac] and won 390 with Full of 3 and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #541906112614498911-10-1439584010 - Holdem no limit (30/60) - 2015/08/14 20:26:50 UTC
+Table: 'Freeroll(126172349)#606' 6-max (real money) Seat #2 is the button
+Seat 1: laminetiti (15890)
+Seat 2: heidi59 (2865)
+Seat 3: neuch29 (2670)
+Seat 4: Jolimourse (2500)
+Seat 5: manggy94 (6615)
+Seat 6: jyer50 (2135)
+*** ANTE/BLINDS ***
+neuch29 posts small blind 30
+Jolimourse posts big blind 60
+Dealt to manggy94 [Tc 6s]
+*** PRE-FLOP *** 
+manggy94 folds
+jyer50 raises 60 to 120
+laminetiti calls 120
+heidi59 folds
+neuch29 calls 90
+Jolimourse calls 60
+*** FLOP *** [5h Th Ad]
+neuch29 checks
+Jolimourse checks
+jyer50 checks
+laminetiti checks
+*** TURN *** [5h Th Ad][Ac]
+neuch29 checks
+Jolimourse checks
+jyer50 checks
+laminetiti checks
+*** RIVER *** [5h Th Ad Ac][7s]
+neuch29 bets 60
+Jolimourse calls 60
+jyer50 folds
+laminetiti folds
+*** SHOW DOWN ***
+Jolimourse shows [9d 8s] (One pair : Aces)
+neuch29 shows [Qc Kd] (One pair : Aces)
+neuch29 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [5h Th Ad Ac 7s]
+Seat 3: neuch29 (small blind) showed [Qc Kd] and won 600 with One pair : Aces
+Seat 4: Jolimourse (big blind) showed [9d 8s] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #541906112614498911-11-1439584108 - Holdem no limit (40/80) - 2015/08/14 20:28:28 UTC
+Table: 'Freeroll(126172349)#606' 6-max (real money) Seat #3 is the button
+Seat 1: laminetiti (15770)
+Seat 2: heidi59 (2865)
+Seat 3: neuch29 (3090)
+Seat 4: Jolimourse (2320)
+Seat 5: manggy94 (6615)
+Seat 6: jyer50 (2015)
+*** ANTE/BLINDS ***
+Jolimourse posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [3d Ad]
+*** PRE-FLOP *** 
+jyer50 folds
+laminetiti calls 80
+heidi59 folds
+neuch29 folds
+Jolimourse calls 40
+manggy94 checks
+*** FLOP *** [9h Qd Jh]
+Jolimourse checks
+manggy94 checks
+laminetiti checks
+*** TURN *** [9h Qd Jh][2h]
+Jolimourse checks
+manggy94 checks
+laminetiti checks
+*** RIVER *** [9h Qd Jh 2h][9d]
+Jolimourse checks
+manggy94 checks
+laminetiti checks
+*** SHOW DOWN ***
+laminetiti shows [4h Kc] (One pair : 9)
+Jolimourse shows [Ah 5s] (One pair : 9)
+manggy94 shows [3d Ad] (One pair : 9)
+manggy94 collected 120 from pot
+Jolimourse collected 120 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [9h Qd Jh 2h 9d]
+Seat 1: laminetiti showed [4h Kc] and lost with One pair : 9
+Seat 4: Jolimourse (small blind) showed [Ah 5s] and won 120 with One pair : 9
+Seat 5: manggy94 (big blind) showed [3d Ad] and won 120 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #541906112614498911-12-1439584166 - Holdem no limit (40/80) - 2015/08/14 20:29:26 UTC
+Table: 'Freeroll(126172349)#606' 6-max (real money) Seat #4 is the button
+Seat 1: laminetiti (15690)
+Seat 2: heidi59 (2865)
+Seat 3: neuch29 (3090)
+Seat 4: Jolimourse (2360)
+Seat 5: manggy94 (6655)
+Seat 6: jyer50 (2015)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+jyer50 posts big blind 80
+Dealt to manggy94 [8d 7c]
+*** PRE-FLOP *** 
+laminetiti calls 80
+heidi59 folds
+neuch29 calls 80
+Jolimourse calls 80
+manggy94 calls 40
+jyer50 checks
+*** FLOP *** [4h 5h 3s]
+manggy94 checks
+jyer50 bets 200
+laminetiti calls 200
+neuch29 calls 200
+Jolimourse calls 200
+manggy94 folds
+*** TURN *** [4h 5h 3s][4s]
+jyer50 checks
+laminetiti checks
+neuch29 checks
+Jolimourse checks
+*** RIVER *** [4h 5h 3s 4s][2d]
+jyer50 checks
+laminetiti checks
+neuch29 bets 80
+Jolimourse calls 80
+jyer50 calls 80
+laminetiti calls 80
+*** SHOW DOWN ***
+laminetiti shows [8c 2s] (Two pairs : 4 and 2)
+neuch29 shows [Ks Ts] (One pair : 4)
+jyer50 shows [Qc 5c] (Two pairs : 5 and 4)
+Jolimourse shows [Ah 7s] (Straight 5 high)
+Jolimourse collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Board: [4h 5h 3s 4s 2d]
+Seat 1: laminetiti showed [8c 2s] and lost with Two pairs : 4 and 2
+Seat 3: neuch29 showed [Ks Ts] and lost with One pair : 4
+Seat 4: Jolimourse (button) showed [Ah 7s] and won 1520 with Straight 5 high
+Seat 6: jyer50 (big blind) showed [Qc 5c] and lost with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #541906112614498911-13-1439584260 - Holdem no limit (60/120) - 2015/08/14 20:31:00 UTC
+Table: 'Freeroll(126172349)#606' 6-max (real money) Seat #5 is the button
+Seat 1: laminetiti (15330)
+Seat 2: heidi59 (2865)
+Seat 3: neuch29 (2730)
+Seat 4: Jolimourse (3520)
+Seat 5: manggy94 (6575)
+Seat 6: jyer50 (1655)
+*** ANTE/BLINDS ***
+jyer50 posts small blind 60
+laminetiti posts big blind 120
+Dealt to manggy94 [7h 5c]
+*** PRE-FLOP *** 
+heidi59 calls 120
+neuch29 folds
+Jolimourse calls 120
+manggy94 folds
+jyer50 calls 60
+laminetiti checks
+*** FLOP *** [7c 9h 2c]
+jyer50 bets 1535 and is all-in
+laminetiti calls 1535
+heidi59 calls 1535
+Jolimourse calls 1535
+*** TURN *** [7c 9h 2c][Ks]
+laminetiti checks
+heidi59 checks
+Jolimourse checks
+*** RIVER *** [7c 9h 2c Ks][Th]
+laminetiti checks
+heidi59 checks
+Jolimourse checks
+*** SHOW DOWN ***
+laminetiti shows [9c 4s] (One pair : 9)
+heidi59 shows [Jd Jc] (One pair : Jacks)
+jyer50 shows [9s 5s] (One pair : 9)
+Jolimourse shows [Ts 9d] (Two pairs : Tens and 9)
+Jolimourse collected 6620 from pot
+*** SUMMARY ***
+Total pot 6620 | No rake
+Board: [7c 9h 2c Ks Th]
+Seat 1: laminetiti (big blind) showed [9c 4s] and lost with One pair : 9
+Seat 2: heidi59 showed [Jd Jc] and lost with One pair : Jacks
+Seat 4: Jolimourse showed [Ts 9d] and won 6620 with Two pairs : Tens and 9
+Seat 6: jyer50 (small blind) showed [9s 5s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #541906112614498850-18-1439584365 - Holdem no limit (60/120) - 2015/08/14 20:32:45 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #4 is the button
+Seat 1: chulesback (5585)
+Seat 2: Bigfish44 (4746)
+Seat 3: manggy94 (6575)
+Seat 4: DjiLee2X (3090)
+Seat 5: fabinou68 (5547)
+Seat 6: SKYZO__91 (5163)
+*** ANTE/BLINDS ***
+fabinou68 posts small blind 60
+SKYZO__91 posts big blind 120
+Dealt to manggy94 [9h 3c]
+*** PRE-FLOP *** 
+chulesback folds
+Bigfish44 calls 120
+manggy94 folds
+DjiLee2X calls 120
+fabinou68 calls 60
+SKYZO__91 checks
+*** FLOP *** [Ah 5d 7s]
+fabinou68 checks
+SKYZO__91 checks
+Bigfish44 checks
+DjiLee2X checks
+*** TURN *** [Ah 5d 7s][Tc]
+fabinou68 checks
+SKYZO__91 checks
+Bigfish44 checks
+DjiLee2X checks
+*** RIVER *** [Ah 5d 7s Tc][3s]
+fabinou68 checks
+SKYZO__91 checks
+Bigfish44 checks
+DjiLee2X checks
+*** SHOW DOWN ***
+Bigfish44 shows [6s Kc] (High card : Ace)
+DjiLee2X shows [Qd Ks] (High card : Ace)
+SKYZO__91 shows [4d Jh] (High card : Ace)
+fabinou68 shows [Td 4c] (One pair : Tens)
+fabinou68 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Ah 5d 7s Tc 3s]
+Seat 2: Bigfish44 showed [6s Kc] and lost with High card : Ace
+Seat 4: DjiLee2X (button) showed [Qd Ks] and lost with High card : Ace
+Seat 5: fabinou68 (small blind) showed [Td 4c] and won 480 with One pair : Tens
+Seat 6: SKYZO__91 (big blind) showed [4d Jh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #541906112614498850-19-1439584454 - Holdem no limit (10/60/120) - 2015/08/14 20:34:14 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #5 is the button
+Seat 1: chulesback (5585)
+Seat 2: Bigfish44 (4626)
+Seat 3: manggy94 (6575)
+Seat 4: DjiLee2X (2970)
+Seat 5: fabinou68 (5907)
+Seat 6: SKYZO__91 (5043)
+*** ANTE/BLINDS ***
+SKYZO__91 posts ante 10
+chulesback posts ante 10
+Bigfish44 posts ante 10
+manggy94 posts ante 10
+DjiLee2X posts ante 10
+fabinou68 posts ante 10
+SKYZO__91 posts small blind 60
+chulesback posts big blind 120
+Dealt to manggy94 [8s 2c]
+*** PRE-FLOP *** 
+Bigfish44 folds
+manggy94 folds
+DjiLee2X folds
+fabinou68 folds
+SKYZO__91 calls 60
+chulesback checks
+*** FLOP *** [6h 4h Td]
+SKYZO__91 bets 120
+chulesback calls 120
+*** TURN *** [6h 4h Td][Qc]
+SKYZO__91 bets 120
+chulesback raises 180 to 300
+SKYZO__91 calls 180
+*** RIVER *** [6h 4h Td Qc][Qh]
+SKYZO__91 checks
+chulesback bets 360
+SKYZO__91 folds
+chulesback collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [6h 4h Td Qc Qh]
+Seat 1: chulesback (big blind) won 1500
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #541906112614498850-20-1439584510 - Holdem no limit (10/60/120) - 2015/08/14 20:35:10 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #6 is the button
+Seat 1: chulesback (6175)
+Seat 2: Bigfish44 (4616)
+Seat 3: manggy94 (6565)
+Seat 4: DjiLee2X (2960)
+Seat 5: fabinou68 (5897)
+Seat 6: SKYZO__91 (4493)
+*** ANTE/BLINDS ***
+chulesback posts ante 10
+Bigfish44 posts ante 10
+manggy94 posts ante 10
+DjiLee2X posts ante 10
+fabinou68 posts ante 10
+SKYZO__91 posts ante 10
+chulesback posts small blind 60
+Bigfish44 posts big blind 120
+Dealt to manggy94 [2s Kc]
+*** PRE-FLOP *** 
+manggy94 folds
+DjiLee2X raises 360 to 480
+fabinou68 folds
+SKYZO__91 folds
+chulesback folds
+Bigfish44 calls 360
+*** FLOP *** [3s 7s 6c]
+Bigfish44 checks
+DjiLee2X checks
+*** TURN *** [3s 7s 6c][6h]
+Bigfish44 checks
+DjiLee2X checks
+*** RIVER *** [3s 7s 6c 6h][5h]
+Bigfish44 checks
+DjiLee2X bets 120
+Bigfish44 folds
+DjiLee2X collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [3s 7s 6c 6h 5h]
+Seat 4: DjiLee2X won 1200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #541906112614498850-21-1439584544 - Holdem no limit (10/60/120) - 2015/08/14 20:35:44 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #1 is the button
+Seat 1: chulesback (6105)
+Seat 2: Bigfish44 (4126)
+Seat 3: manggy94 (6555)
+Seat 4: DjiLee2X (3550)
+Seat 5: fabinou68 (5887)
+Seat 6: SKYZO__91 (4483)
+*** ANTE/BLINDS ***
+Bigfish44 posts ante 10
+manggy94 posts ante 10
+chulesback posts ante 10
+DjiLee2X posts ante 10
+fabinou68 posts ante 10
+SKYZO__91 posts ante 10
+Bigfish44 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [Qh 2h]
+*** PRE-FLOP *** 
+DjiLee2X calls 120
+fabinou68 folds
+SKYZO__91 folds
+chulesback folds
+Bigfish44 folds
+manggy94 checks
+*** FLOP *** [8c 5c 8h]
+manggy94 bets 360
+DjiLee2X raises 720 to 1080
+manggy94 folds
+DjiLee2X collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [8c 5c 8h]
+Seat 4: DjiLee2X won 1800
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #541906112614498850-22-1439584665 - Holdem no limit (15/75/150) - 2015/08/14 20:37:45 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #2 is the button
+Seat 1: chulesback (6095)
+Seat 2: Bigfish44 (4056)
+Seat 3: manggy94 (6065)
+Seat 4: DjiLee2X (4140)
+Seat 5: fabinou68 (5877)
+Seat 6: SKYZO__91 (4473)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+DjiLee2X posts ante 15
+chulesback posts ante 15
+Bigfish44 posts ante 15
+fabinou68 posts ante 15
+SKYZO__91 posts ante 15
+manggy94 posts small blind 75
+DjiLee2X posts big blind 150
+Dealt to manggy94 [Jc 5c]
+*** PRE-FLOP *** 
+fabinou68 calls 150
+SKYZO__91 raises 4308 to 4458 and is all-in
+chulesback folds
+Bigfish44 folds
+manggy94 folds
+DjiLee2X folds
+fabinou68 folds
+SKYZO__91 collected 4923 from pot
+*** SUMMARY ***
+Total pot 4923 | No rake
+Seat 6: SKYZO__91 won 4923
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #541906112614498850-23-1439584683 - Holdem no limit (15/75/150) - 2015/08/14 20:38:03 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #3 is the button
+Seat 1: chulesback (6080)
+Seat 2: Bigfish44 (4041)
+Seat 3: manggy94 (5975)
+Seat 4: DjiLee2X (3975)
+Seat 5: fabinou68 (5712)
+Seat 6: SKYZO__91 (4923)
+*** ANTE/BLINDS ***
+DjiLee2X posts ante 15
+fabinou68 posts ante 15
+chulesback posts ante 15
+Bigfish44 posts ante 15
+manggy94 posts ante 15
+SKYZO__91 posts ante 15
+DjiLee2X posts small blind 75
+fabinou68 posts big blind 150
+Dealt to manggy94 [5d 4d]
+*** PRE-FLOP *** 
+SKYZO__91 calls 150
+chulesback folds
+Bigfish44 folds
+manggy94 folds
+DjiLee2X calls 75
+fabinou68 checks
+*** FLOP *** [Jd Jh 7h]
+DjiLee2X checks
+fabinou68 checks
+SKYZO__91 checks
+*** TURN *** [Jd Jh 7h][3d]
+DjiLee2X checks
+fabinou68 bets 270
+SKYZO__91 folds
+DjiLee2X folds
+fabinou68 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [Jd Jh 7h 3d]
+Seat 5: fabinou68 (big blind) won 810
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #541906112614498850-24-1439584727 - Holdem no limit (15/75/150) - 2015/08/14 20:38:47 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #4 is the button
+Seat 1: chulesback (6065)
+Seat 2: Bigfish44 (4026)
+Seat 3: manggy94 (5960)
+Seat 4: DjiLee2X (3810)
+Seat 5: fabinou68 (6087)
+Seat 6: SKYZO__91 (4758)
+*** ANTE/BLINDS ***
+fabinou68 posts ante 15
+SKYZO__91 posts ante 15
+chulesback posts ante 15
+Bigfish44 posts ante 15
+manggy94 posts ante 15
+DjiLee2X posts ante 15
+fabinou68 posts small blind 75
+SKYZO__91 posts big blind 150
+Dealt to manggy94 [2h 7h]
+*** PRE-FLOP *** 
+chulesback raises 225 to 375
+Bigfish44 folds
+manggy94 folds
+DjiLee2X folds
+fabinou68 folds
+SKYZO__91 calls 225
+*** FLOP *** [Ts 9h 2c]
+SKYZO__91 bets 150
+chulesback calls 150
+*** TURN *** [Ts 9h 2c][3s]
+SKYZO__91 bets 4218 and is all-in
+chulesback folds
+SKYZO__91 collected 5433 from pot
+*** SUMMARY ***
+Total pot 5433 | No rake
+Board: [Ts 9h 2c 3s]
+Seat 6: SKYZO__91 (big blind) won 5433
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #541906112614498850-25-1439584786 - Holdem no limit (20/100/200) - 2015/08/14 20:39:46 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #5 is the button
+Seat 1: chulesback (5525)
+Seat 2: Bigfish44 (4011)
+Seat 3: manggy94 (5945)
+Seat 4: DjiLee2X (3795)
+Seat 5: fabinou68 (5997)
+Seat 6: SKYZO__91 (5433)
+*** ANTE/BLINDS ***
+SKYZO__91 posts ante 20
+chulesback posts ante 20
+Bigfish44 posts ante 20
+manggy94 posts ante 20
+DjiLee2X posts ante 20
+fabinou68 posts ante 20
+SKYZO__91 posts small blind 100
+chulesback posts big blind 200
+Dealt to manggy94 [Ts Ah]
+*** PRE-FLOP *** 
+Bigfish44 calls 200
+manggy94 calls 200
+DjiLee2X calls 200
+fabinou68 folds
+SKYZO__91 calls 100
+chulesback checks
+*** FLOP *** [2d Ad 5h]
+SKYZO__91 checks
+chulesback checks
+Bigfish44 bets 3791 and is all-in
+manggy94 calls 3791
+DjiLee2X folds
+SKYZO__91 folds
+chulesback folds
+*** TURN *** [2d Ad 5h][6d]
+*** RIVER *** [2d Ad 5h 6d][As]
+*** SHOW DOWN ***
+manggy94 shows [Ts Ah] (Trips of Aces)
+Bigfish44 shows [Ac Kd] (Trips of Aces)
+Bigfish44 collected 8702 from pot
+*** SUMMARY ***
+Total pot 8702 | No rake
+Board: [2d Ad 5h 6d As]
+Seat 2: Bigfish44 showed [Ac Kd] and won 8702 with Trips of Aces
+Seat 3: manggy94 showed [Ts Ah] and lost with Trips of Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #541906112614498850-26-1439584846 - Holdem no limit (20/100/200) - 2015/08/14 20:40:46 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #6 is the button
+Seat 1: chulesback (5305)
+Seat 2: Bigfish44 (8702)
+Seat 3: manggy94 (1934)
+Seat 4: DjiLee2X (3575)
+Seat 5: fabinou68 (5977)
+Seat 6: SKYZO__91 (5213)
+*** ANTE/BLINDS ***
+chulesback posts ante 20
+Bigfish44 posts ante 20
+manggy94 posts ante 20
+DjiLee2X posts ante 20
+fabinou68 posts ante 20
+SKYZO__91 posts ante 20
+chulesback posts small blind 100
+Bigfish44 posts big blind 200
+Dealt to manggy94 [Td 8d]
+*** PRE-FLOP *** 
+manggy94 folds
+DjiLee2X folds
+fabinou68 folds
+SKYZO__91 calls 200
+chulesback folds
+Bigfish44 checks
+*** FLOP *** [4d 8h 9d]
+Bigfish44 checks
+SKYZO__91 checks
+*** TURN *** [4d 8h 9d][3h]
+Bigfish44 checks
+SKYZO__91 bets 200
+Bigfish44 calls 200
+*** RIVER *** [4d 8h 9d 3h][3s]
+Bigfish44 checks
+SKYZO__91 checks
+*** SHOW DOWN ***
+Bigfish44 shows [7s Qd] (One pair : 3)
+SKYZO__91 shows [Qs 4s] (Two pairs : 4 and 3)
+SKYZO__91 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [4d 8h 9d 3h 3s]
+Seat 2: Bigfish44 (big blind) showed [7s Qd] and lost with One pair : 3
+Seat 6: SKYZO__91 (button) showed [Qs 4s] and won 1020 with Two pairs : 4 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #541906112614498850-27-1439584889 - Holdem no limit (20/100/200) - 2015/08/14 20:41:29 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #1 is the button
+Seat 1: chulesback (5185)
+Seat 2: Bigfish44 (8282)
+Seat 3: manggy94 (1914)
+Seat 4: DjiLee2X (3555)
+Seat 5: fabinou68 (5957)
+Seat 6: SKYZO__91 (5813)
+*** ANTE/BLINDS ***
+Bigfish44 posts ante 20
+manggy94 posts ante 20
+chulesback posts ante 20
+DjiLee2X posts ante 20
+fabinou68 posts ante 20
+SKYZO__91 posts ante 20
+Bigfish44 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [4c As]
+*** PRE-FLOP *** 
+DjiLee2X raises 200 to 400
+fabinou68 folds
+SKYZO__91 calls 400
+chulesback folds
+Bigfish44 calls 300
+manggy94 calls 200
+*** FLOP *** [Kc Ts Td]
+Bigfish44 checks
+manggy94 checks
+DjiLee2X bets 1720
+SKYZO__91 folds
+Bigfish44 folds
+manggy94 folds
+DjiLee2X collected 3440 from pot
+*** SUMMARY ***
+Total pot 3440 | No rake
+Board: [Kc Ts Td]
+Seat 4: DjiLee2X won 3440
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #541906112614498850-28-1439584926 - Holdem no limit (20/100/200) - 2015/08/14 20:42:06 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #2 is the button
+Seat 1: chulesback (5165)
+Seat 2: Bigfish44 (7862)
+Seat 3: manggy94 (1494)
+Seat 4: DjiLee2X (4855)
+Seat 5: fabinou68 (5937)
+Seat 6: SKYZO__91 (5393)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+DjiLee2X posts ante 20
+chulesback posts ante 20
+Bigfish44 posts ante 20
+fabinou68 posts ante 20
+SKYZO__91 posts ante 20
+manggy94 posts small blind 100
+DjiLee2X posts big blind 200
+Dealt to manggy94 [8s 3h]
+*** PRE-FLOP *** 
+fabinou68 calls 200
+SKYZO__91 calls 200
+chulesback folds
+Bigfish44 calls 200
+manggy94 folds
+DjiLee2X checks
+*** FLOP *** [5s 3c 2h]
+DjiLee2X checks
+fabinou68 bets 510
+SKYZO__91 folds
+Bigfish44 calls 510
+DjiLee2X folds
+*** TURN *** [5s 3c 2h][7c]
+fabinou68 bets 715
+Bigfish44 folds
+fabinou68 collected 2755 from pot
+*** SUMMARY ***
+Total pot 2755 | No rake
+Board: [5s 3c 2h 7c]
+Seat 5: fabinou68 won 2755
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #541906112614498850-29-1439584977 - Holdem no limit (25/125/250) - 2015/08/14 20:42:57 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #3 is the button
+Seat 1: chulesback (5145)
+Seat 2: Bigfish44 (7132)
+Seat 3: manggy94 (1374)
+Seat 4: DjiLee2X (4635)
+Seat 5: fabinou68 (7247)
+Seat 6: SKYZO__91 (5173)
+*** ANTE/BLINDS ***
+DjiLee2X posts ante 25
+fabinou68 posts ante 25
+chulesback posts ante 25
+Bigfish44 posts ante 25
+manggy94 posts ante 25
+SKYZO__91 posts ante 25
+DjiLee2X posts small blind 125
+fabinou68 posts big blind 250
+Dealt to manggy94 [Kh Ks]
+*** PRE-FLOP *** 
+SKYZO__91 calls 250
+chulesback folds
+Bigfish44 folds
+manggy94 raises 1099 to 1349 and is all-in
+DjiLee2X folds
+fabinou68 raises 1099 to 2448
+SKYZO__91 folds
+*** FLOP *** [9c 8s 3h]
+*** TURN *** [9c 8s 3h][9h]
+*** RIVER *** [9c 8s 3h 9h][As]
+*** SHOW DOWN ***
+manggy94 shows [Kh Ks] (Two pairs : Kings and 9)
+fabinou68 shows [4h 4d] (Two pairs : 9 and 4)
+fabinou68 collected 1099 from side pot 1
+manggy94 collected 3223 from main pot
+*** SUMMARY ***
+Total pot 4322 | No rake
+Board: [9c 8s 3h 9h As]
+Seat 3: manggy94 (button) showed [Kh Ks] and won 3223 with Two pairs : Kings and 9
+Seat 5: fabinou68 (big blind) showed [4h 4d] and won 1099 with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #541906112614498850-30-1439585013 - Holdem no limit (25/125/250) - 2015/08/14 20:43:33 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #4 is the button
+Seat 1: chulesback (5120)
+Seat 2: Bigfish44 (7107)
+Seat 3: manggy94 (3223)
+Seat 4: DjiLee2X (4485)
+Seat 5: fabinou68 (5873)
+Seat 6: SKYZO__91 (4898)
+*** ANTE/BLINDS ***
+fabinou68 posts ante 25
+SKYZO__91 posts ante 25
+chulesback posts ante 25
+Bigfish44 posts ante 25
+manggy94 posts ante 25
+DjiLee2X posts ante 25
+fabinou68 posts small blind 125
+SKYZO__91 posts big blind 250
+Dealt to manggy94 [Js 9s]
+*** PRE-FLOP *** 
+chulesback folds
+Bigfish44 calls 250
+manggy94 calls 250
+DjiLee2X folds
+fabinou68 calls 125
+SKYZO__91 checks
+*** FLOP *** [3h 4c 9d]
+fabinou68 checks
+SKYZO__91 checks
+Bigfish44 checks
+manggy94 bets 1150
+fabinou68 folds
+SKYZO__91 folds
+Bigfish44 folds
+manggy94 collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Board: [3h 4c 9d]
+Seat 3: manggy94 won 2300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #541906112614498850-31-1439585063 - Holdem no limit (25/125/250) - 2015/08/14 20:44:23 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #5 is the button
+Seat 1: chulesback (5095)
+Seat 2: Bigfish44 (6832)
+Seat 3: manggy94 (4098)
+Seat 4: DjiLee2X (4460)
+Seat 5: fabinou68 (5598)
+Seat 6: SKYZO__91 (4623)
+*** ANTE/BLINDS ***
+SKYZO__91 posts ante 25
+chulesback posts ante 25
+Bigfish44 posts ante 25
+manggy94 posts ante 25
+DjiLee2X posts ante 25
+fabinou68 posts ante 25
+SKYZO__91 posts small blind 125
+chulesback posts big blind 250
+Dealt to manggy94 [Kd Ks]
+*** PRE-FLOP *** 
+Bigfish44 calls 250
+manggy94 calls 250
+DjiLee2X folds
+fabinou68 folds
+SKYZO__91 folds
+chulesback checks
+*** FLOP *** [4s 7s 3d]
+chulesback checks
+Bigfish44 checks
+manggy94 bets 1025
+chulesback folds
+Bigfish44 folds
+manggy94 collected 2050 from pot
+*** SUMMARY ***
+Total pot 2050 | No rake
+Board: [4s 7s 3d]
+Seat 3: manggy94 won 2050
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #541906112614498850-32-1439585095 - Holdem no limit (25/125/250) - 2015/08/14 20:44:55 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #6 is the button
+Seat 1: chulesback (4820)
+Seat 2: Bigfish44 (6557)
+Seat 3: manggy94 (4848)
+Seat 4: DjiLee2X (4435)
+Seat 5: fabinou68 (5573)
+Seat 6: SKYZO__91 (4473)
+*** ANTE/BLINDS ***
+chulesback posts ante 25
+Bigfish44 posts ante 25
+manggy94 posts ante 25
+DjiLee2X posts ante 25
+fabinou68 posts ante 25
+SKYZO__91 posts ante 25
+chulesback posts small blind 125
+Bigfish44 posts big blind 250
+Dealt to manggy94 [2s Qs]
+*** PRE-FLOP *** 
+manggy94 folds
+DjiLee2X calls 250
+fabinou68 folds
+SKYZO__91 calls 250
+chulesback calls 125
+Bigfish44 checks
+*** FLOP *** [Ad Kh 9c]
+chulesback checks
+Bigfish44 checks
+DjiLee2X checks
+SKYZO__91 checks
+*** TURN *** [Ad Kh 9c][6h]
+chulesback checks
+Bigfish44 checks
+DjiLee2X checks
+SKYZO__91 checks
+*** RIVER *** [Ad Kh 9c 6h][5h]
+chulesback bets 375
+Bigfish44 folds
+DjiLee2X raises 1331 to 1706
+SKYZO__91 calls 1706
+chulesback calls 1331
+*** SHOW DOWN ***
+chulesback shows [3s Ah] (One pair : Aces)
+SKYZO__91 shows [7s 8c] (Straight 9 high)
+DjiLee2X shows [8h Qh] (Flush King high)
+DjiLee2X collected 6268 from pot
+*** SUMMARY ***
+Total pot 6268 | No rake
+Board: [Ad Kh 9c 6h 5h]
+Seat 1: chulesback (small blind) showed [3s Ah] and lost with One pair : Aces
+Seat 4: DjiLee2X showed [8h Qh] and won 6268 with Flush King high
+Seat 6: SKYZO__91 (button) showed [7s 8c] and lost with Straight 9 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #541906112614498850-33-1439585156 - Holdem no limit (35/150/300) - 2015/08/14 20:45:56 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #1 is the button
+Seat 1: chulesback (2839)
+Seat 2: Bigfish44 (6282)
+Seat 3: manggy94 (4823)
+Seat 4: DjiLee2X (8722)
+Seat 5: fabinou68 (5548)
+Seat 6: SKYZO__91 (2492)
+*** ANTE/BLINDS ***
+Bigfish44 posts ante 35
+manggy94 posts ante 35
+chulesback posts ante 35
+DjiLee2X posts ante 35
+fabinou68 posts ante 35
+SKYZO__91 posts ante 35
+Bigfish44 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Jd 3h]
+*** PRE-FLOP *** 
+DjiLee2X folds
+fabinou68 folds
+SKYZO__91 folds
+chulesback raises 300 to 600
+Bigfish44 folds
+manggy94 folds
+chulesback collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 1: chulesback (button) won 1260
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #541906112614498850-34-1439585171 - Holdem no limit (35/150/300) - 2015/08/14 20:46:11 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #2 is the button
+Seat 1: chulesback (3464)
+Seat 2: Bigfish44 (6097)
+Seat 3: manggy94 (4488)
+Seat 4: DjiLee2X (8687)
+Seat 5: fabinou68 (5513)
+Seat 6: SKYZO__91 (2457)
+*** ANTE/BLINDS ***
+manggy94 posts ante 35
+DjiLee2X posts ante 35
+chulesback posts ante 35
+Bigfish44 posts ante 35
+fabinou68 posts ante 35
+SKYZO__91 posts ante 35
+manggy94 posts small blind 150
+DjiLee2X posts big blind 300
+Dealt to manggy94 [Ah 6d]
+*** PRE-FLOP *** 
+fabinou68 folds
+SKYZO__91 folds
+chulesback folds
+Bigfish44 calls 300
+manggy94 calls 150
+DjiLee2X checks
+*** FLOP *** [8c 6h 7d]
+manggy94 bets 1110
+DjiLee2X folds
+Bigfish44 folds
+manggy94 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [8c 6h 7d]
+Seat 3: manggy94 (small blind) won 2220
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #541906112614498850-35-1439585192 - Holdem no limit (35/150/300) - 2015/08/14 20:46:32 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #3 is the button
+Seat 1: jjh76_x (2005)
+Seat 2: Bigfish44 (5762)
+Seat 3: manggy94 (5263)
+Seat 4: DjiLee2X (8352)
+Seat 5: fabinou68 (5478)
+Seat 6: SKYZO__91 (2422)
+*** ANTE/BLINDS ***
+DjiLee2X posts ante 35
+fabinou68 posts ante 35
+jjh76_x posts ante 35
+Bigfish44 posts ante 35
+manggy94 posts ante 35
+SKYZO__91 posts ante 35
+DjiLee2X posts small blind 150
+fabinou68 posts big blind 300
+Dealt to manggy94 [2s Ah]
+*** PRE-FLOP *** 
+SKYZO__91 raises 2087 to 2387 and is all-in
+jjh76_x folds
+Bigfish44 folds
+manggy94 folds
+DjiLee2X calls 2237
+fabinou68 folds
+*** FLOP *** [3s Tc 6c]
+*** TURN *** [3s Tc 6c][2c]
+*** RIVER *** [3s Tc 6c 2c][5c]
+*** SHOW DOWN ***
+DjiLee2X shows [Th Kh] (One pair : Tens)
+SKYZO__91 shows [8d Kc] (Flush King high)
+SKYZO__91 collected 5284 from pot
+*** SUMMARY ***
+Total pot 5284 | No rake
+Board: [3s Tc 6c 2c 5c]
+Seat 4: DjiLee2X (small blind) showed [Th Kh] and lost with One pair : Tens
+Seat 6: SKYZO__91 showed [8d Kc] and won 5284 with Flush King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #541906112614498850-36-1439585212 - Holdem no limit (35/150/300) - 2015/08/14 20:46:52 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #4 is the button
+Seat 1: jjh76_x (1970)
+Seat 2: Bigfish44 (5727)
+Seat 3: manggy94 (5228)
+Seat 4: DjiLee2X (5930)
+Seat 5: fabinou68 (5143)
+Seat 6: SKYZO__91 (5284)
+*** ANTE/BLINDS ***
+fabinou68 posts ante 35
+SKYZO__91 posts ante 35
+jjh76_x posts ante 35
+Bigfish44 posts ante 35
+manggy94 posts ante 35
+DjiLee2X posts ante 35
+fabinou68 posts small blind 150
+SKYZO__91 posts big blind 300
+Dealt to manggy94 [Js 2h]
+*** PRE-FLOP *** 
+jjh76_x folds
+Bigfish44 folds
+manggy94 folds
+DjiLee2X folds
+fabinou68 calls 150
+SKYZO__91 checks
+*** FLOP *** [9c 7d 5d]
+fabinou68 bets 300
+SKYZO__91 calls 300
+*** TURN *** [9c 7d 5d][6d]
+fabinou68 bets 300
+SKYZO__91 calls 300
+*** RIVER *** [9c 7d 5d 6d][Ts]
+fabinou68 bets 451
+SKYZO__91 folds
+fabinou68 collected 2461 from pot
+*** SUMMARY ***
+Total pot 2461 | No rake
+Board: [9c 7d 5d 6d Ts]
+Seat 5: fabinou68 (small blind) won 2461
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #541906112614498850-37-1439585235 - Holdem no limit (35/150/300) - 2015/08/14 20:47:15 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #5 is the button
+Seat 1: jjh76_x (1935)
+Seat 2: Bigfish44 (5692)
+Seat 3: manggy94 (5193)
+Seat 4: DjiLee2X (5895)
+Seat 5: fabinou68 (6218)
+Seat 6: SKYZO__91 (4349)
+*** ANTE/BLINDS ***
+SKYZO__91 posts ante 35
+jjh76_x posts ante 35
+Bigfish44 posts ante 35
+manggy94 posts ante 35
+DjiLee2X posts ante 35
+fabinou68 posts ante 35
+SKYZO__91 posts small blind 150
+jjh76_x posts big blind 300
+Dealt to manggy94 [Ks 3d]
+*** PRE-FLOP *** 
+Bigfish44 folds
+manggy94 folds
+DjiLee2X folds
+fabinou68 folds
+SKYZO__91 calls 150
+jjh76_x folds
+SKYZO__91 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Seat 6: SKYZO__91 (small blind) won 810
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #541906112614498850-38-1439585249 - Holdem no limit (35/150/300) - 2015/08/14 20:47:29 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #6 is the button
+Seat 1: jjh76_x (1600)
+Seat 2: Bigfish44 (5657)
+Seat 3: manggy94 (5158)
+Seat 4: DjiLee2X (5860)
+Seat 5: fabinou68 (6183)
+Seat 6: SKYZO__91 (4824)
+*** ANTE/BLINDS ***
+jjh76_x posts ante 35
+Bigfish44 posts ante 35
+manggy94 posts ante 35
+DjiLee2X posts ante 35
+fabinou68 posts ante 35
+SKYZO__91 posts ante 35
+jjh76_x posts small blind 150
+Bigfish44 posts big blind 300
+Dealt to manggy94 [7s 8s]
+*** PRE-FLOP *** 
+manggy94 folds
+DjiLee2X folds
+fabinou68 raises 300 to 600
+SKYZO__91 folds
+jjh76_x folds
+Bigfish44 folds
+fabinou68 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 5: fabinou68 won 1260
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #541906112614498850-39-1439585277 - Holdem no limit (35/150/300) - 2015/08/14 20:47:57 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #1 is the button
+Seat 1: jjh76_x (1415)
+Seat 2: Bigfish44 (5322)
+Seat 3: manggy94 (5123)
+Seat 4: DjiLee2X (5825)
+Seat 5: fabinou68 (6808)
+Seat 6: SKYZO__91 (4789)
+*** ANTE/BLINDS ***
+Bigfish44 posts ante 35
+manggy94 posts ante 35
+jjh76_x posts ante 35
+DjiLee2X posts ante 35
+fabinou68 posts ante 35
+SKYZO__91 posts ante 35
+Bigfish44 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [3c Ad]
+*** PRE-FLOP *** 
+DjiLee2X folds
+fabinou68 folds
+SKYZO__91 calls 300
+jjh76_x folds
+Bigfish44 calls 150
+manggy94 checks
+*** FLOP *** [Kh Tc Td]
+Bigfish44 checks
+manggy94 checks
+SKYZO__91 checks
+*** TURN *** [Kh Tc Td][Ks]
+Bigfish44 checks
+manggy94 checks
+SKYZO__91 checks
+*** RIVER *** [Kh Tc Td Ks][6s]
+Bigfish44 checks
+manggy94 bets 300
+SKYZO__91 calls 300
+Bigfish44 calls 300
+*** SHOW DOWN ***
+manggy94 shows [3c Ad] (Two pairs : Kings and Tens)
+SKYZO__91 shows [2c 2h] (Two pairs : Kings and Tens)
+Bigfish44 shows [Qh Qs] (Two pairs : Kings and Queens)
+Bigfish44 collected 2010 from pot
+*** SUMMARY ***
+Total pot 2010 | No rake
+Board: [Kh Tc Td Ks 6s]
+Seat 2: Bigfish44 (small blind) showed [Qh Qs] and won 2010 with Two pairs : Kings and Queens
+Seat 3: manggy94 (big blind) showed [3c Ad] and lost with Two pairs : Kings and Tens
+Seat 6: SKYZO__91 showed [2c 2h] and lost with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #541906112614498850-40-1439585322 - Holdem no limit (40/200/400) - 2015/08/14 20:48:42 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #2 is the button
+Seat 1: jjh76_x (1380)
+Seat 2: Bigfish44 (6697)
+Seat 3: manggy94 (4488)
+Seat 4: DjiLee2X (5790)
+Seat 5: fabinou68 (6773)
+Seat 6: SKYZO__91 (4154)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+DjiLee2X posts ante 40
+jjh76_x posts ante 40
+Bigfish44 posts ante 40
+fabinou68 posts ante 40
+SKYZO__91 posts ante 40
+manggy94 posts small blind 200
+DjiLee2X posts big blind 400
+Dealt to manggy94 [9c 4s]
+*** PRE-FLOP *** 
+fabinou68 folds
+SKYZO__91 folds
+jjh76_x folds
+Bigfish44 calls 400
+manggy94 folds
+DjiLee2X checks
+*** FLOP *** [4d 8h 9h]
+DjiLee2X checks
+Bigfish44 bets 400
+DjiLee2X calls 400
+*** TURN *** [4d 8h 9h][Qc]
+DjiLee2X checks
+Bigfish44 checks
+*** RIVER *** [4d 8h 9h Qc][Jc]
+DjiLee2X checks
+Bigfish44 checks
+*** SHOW DOWN ***
+DjiLee2X shows [7h 6d] (High card : Queen)
+Bigfish44 shows [Ah 8s] (One pair : 8)
+Bigfish44 collected 2040 from pot
+*** SUMMARY ***
+Total pot 2040 | No rake
+Board: [4d 8h 9h Qc Jc]
+Seat 2: Bigfish44 (button) showed [Ah 8s] and won 2040 with One pair : 8
+Seat 4: DjiLee2X (big blind) showed [7h 6d] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #541906112614498850-41-1439585346 - Holdem no limit (40/200/400) - 2015/08/14 20:49:06 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #3 is the button
+Seat 1: jjh76_x (1340)
+Seat 2: Bigfish44 (7897)
+Seat 3: manggy94 (4248)
+Seat 4: DjiLee2X (4950)
+Seat 5: fabinou68 (6733)
+Seat 6: SKYZO__91 (4114)
+*** ANTE/BLINDS ***
+DjiLee2X posts ante 40
+fabinou68 posts ante 40
+jjh76_x posts ante 40
+Bigfish44 posts ante 40
+manggy94 posts ante 40
+SKYZO__91 posts ante 40
+DjiLee2X posts small blind 200
+fabinou68 posts big blind 400
+Dealt to manggy94 [4h Th]
+*** PRE-FLOP *** 
+SKYZO__91 calls 400
+jjh76_x folds
+Bigfish44 calls 400
+manggy94 folds
+DjiLee2X folds
+fabinou68 checks
+*** FLOP *** [Js 3s Ks]
+fabinou68 checks
+SKYZO__91 bets 400
+Bigfish44 calls 400
+fabinou68 calls 400
+*** TURN *** [Js 3s Ks][7d]
+fabinou68 checks
+SKYZO__91 checks
+Bigfish44 bets 400
+fabinou68 calls 400
+SKYZO__91 folds
+*** RIVER *** [Js 3s Ks 7d][8c]
+fabinou68 checks
+Bigfish44 bets 400
+fabinou68 raises 786 to 1186
+Bigfish44 calls 786
+*** SHOW DOWN ***
+Bigfish44 shows [Kh 3h] (Two pairs : Kings and 3)
+fabinou68 shows [Qs As] (Flush Ace high)
+fabinou68 collected 6012 from pot
+*** SUMMARY ***
+Total pot 6012 | No rake
+Board: [Js 3s Ks 7d 8c]
+Seat 2: Bigfish44 showed [Kh 3h] and lost with Two pairs : Kings and 3
+Seat 5: fabinou68 (big blind) showed [Qs As] and won 6012 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #541906112614498850-42-1439585438 - Holdem no limit (40/200/400) - 2015/08/14 20:50:38 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #4 is the button
+Seat 1: jjh76_x (1300)
+Seat 2: Bigfish44 (5471)
+Seat 3: manggy94 (4208)
+Seat 4: DjiLee2X (4710)
+Seat 5: fabinou68 (10319)
+Seat 6: SKYZO__91 (3274)
+*** ANTE/BLINDS ***
+fabinou68 posts ante 40
+SKYZO__91 posts ante 40
+jjh76_x posts ante 40
+Bigfish44 posts ante 40
+manggy94 posts ante 40
+DjiLee2X posts ante 40
+fabinou68 posts small blind 200
+SKYZO__91 posts big blind 400
+Dealt to manggy94 [9d 6s]
+*** PRE-FLOP *** 
+jjh76_x folds
+Bigfish44 folds
+manggy94 folds
+DjiLee2X folds
+fabinou68 calls 200
+SKYZO__91 checks
+*** FLOP *** [As 3s 5h]
+fabinou68 bets 400
+SKYZO__91 calls 400
+*** TURN *** [As 3s 5h][Kh]
+fabinou68 bets 400
+SKYZO__91 calls 400
+*** RIVER *** [As 3s 5h Kh][Th]
+fabinou68 bets 400
+SKYZO__91 folds
+fabinou68 collected 3040 from pot
+*** SUMMARY ***
+Total pot 3040 | No rake
+Board: [As 3s 5h Kh Th]
+Seat 5: fabinou68 (small blind) won 3040
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #541906112614498850-43-1439585481 - Holdem no limit (40/200/400) - 2015/08/14 20:51:21 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #5 is the button
+Seat 1: jjh76_x (1260)
+Seat 2: Bigfish44 (5431)
+Seat 3: manggy94 (4168)
+Seat 4: DjiLee2X (4670)
+Seat 5: fabinou68 (11719)
+Seat 6: SKYZO__91 (2034)
+*** ANTE/BLINDS ***
+SKYZO__91 posts ante 40
+jjh76_x posts ante 40
+Bigfish44 posts ante 40
+manggy94 posts ante 40
+DjiLee2X posts ante 40
+fabinou68 posts ante 40
+SKYZO__91 posts small blind 200
+jjh76_x posts big blind 400
+Dealt to manggy94 [As Qc]
+*** PRE-FLOP *** 
+Bigfish44 calls 400
+manggy94 raises 1640 to 2040
+DjiLee2X folds
+fabinou68 folds
+SKYZO__91 calls 1794 and is all-in
+jjh76_x folds
+Bigfish44 raises 3351 to 5391 and is all-in
+manggy94 calls 2088 and is all-in
+*** FLOP *** [2s Kc 6c]
+*** TURN *** [2s Kc 6c][Th]
+*** RIVER *** [2s Kc 6c Th][8s]
+*** SHOW DOWN ***
+SKYZO__91 shows [8h 7d] (One pair : 8)
+manggy94 shows [As Qc] (High card : Ace)
+Bigfish44 shows [Qd Ah] (High card : Ace)
+Bigfish44 collected 3397 from side pot 2
+manggy94 collected 2134 from side pot 1
+SKYZO__91 collected 6622 from main pot
+*** SUMMARY ***
+Total pot 12153 | No rake
+Board: [2s Kc 6c Th 8s]
+Seat 2: Bigfish44 showed [Qd Ah] and won 3397 with High card : Ace
+Seat 3: manggy94 showed [As Qc] and won 2134 with High card : Ace
+Seat 6: SKYZO__91 (small blind) showed [8h 7d] and won 6622 with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #541906112614498850-44-1439585505 - Holdem no limit (50/250/500) - 2015/08/14 20:51:45 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #6 is the button
+Seat 1: jjh76_x (820)
+Seat 2: Bigfish44 (3397)
+Seat 3: manggy94 (2134)
+Seat 4: DjiLee2X (4630)
+Seat 5: fabinou68 (11679)
+Seat 6: SKYZO__91 (6622)
+*** ANTE/BLINDS ***
+jjh76_x posts ante 50
+Bigfish44 posts ante 50
+manggy94 posts ante 50
+DjiLee2X posts ante 50
+fabinou68 posts ante 50
+SKYZO__91 posts ante 50
+jjh76_x posts small blind 250
+Bigfish44 posts big blind 500
+Dealt to manggy94 [7d 6c]
+*** PRE-FLOP *** 
+manggy94 folds
+DjiLee2X folds
+fabinou68 folds
+SKYZO__91 folds
+jjh76_x folds
+Bigfish44 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 2: Bigfish44 (big blind) won 1050
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #541906112614498850-45-1439585520 - Holdem no limit (50/250/500) - 2015/08/14 20:52:00 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #1 is the button
+Seat 1: jjh76_x (520)
+Seat 2: Bigfish44 (3897)
+Seat 3: manggy94 (2084)
+Seat 4: DjiLee2X (4580)
+Seat 5: fabinou68 (11629)
+Seat 6: SKYZO__91 (6572)
+*** ANTE/BLINDS ***
+Bigfish44 posts ante 50
+manggy94 posts ante 50
+jjh76_x posts ante 50
+DjiLee2X posts ante 50
+fabinou68 posts ante 50
+SKYZO__91 posts ante 50
+Bigfish44 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [4s Ad]
+*** PRE-FLOP *** 
+DjiLee2X folds
+fabinou68 folds
+SKYZO__91 folds
+jjh76_x folds
+Bigfish44 calls 250
+manggy94 checks
+*** FLOP *** [9c Qc 8h]
+Bigfish44 bets 500
+manggy94 calls 500
+*** TURN *** [9c Qc 8h][5h]
+Bigfish44 bets 750
+manggy94 folds
+Bigfish44 collected 3050 from pot
+*** SUMMARY ***
+Total pot 3050 | No rake
+Board: [9c Qc 8h 5h]
+Seat 2: Bigfish44 (small blind) won 3050
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #541906112614498850-46-1439585555 - Holdem no limit (50/250/500) - 2015/08/14 20:52:35 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #2 is the button
+Seat 1: jjh76_x (470)
+Seat 2: Bigfish44 (5147)
+Seat 3: manggy94 (1034)
+Seat 4: DjiLee2X (4530)
+Seat 5: fabinou68 (11579)
+Seat 6: SKYZO__91 (6522)
+*** ANTE/BLINDS ***
+manggy94 posts ante 50
+DjiLee2X posts ante 50
+jjh76_x posts ante 50
+Bigfish44 posts ante 50
+fabinou68 posts ante 50
+SKYZO__91 posts ante 50
+manggy94 posts small blind 250
+DjiLee2X posts big blind 500
+Dealt to manggy94 [7d 9d]
+*** PRE-FLOP *** 
+fabinou68 folds
+SKYZO__91 calls 500
+jjh76_x folds
+Bigfish44 calls 500
+manggy94 calls 250
+DjiLee2X checks
+*** FLOP *** [5s 3h 3s]
+manggy94 checks
+DjiLee2X checks
+SKYZO__91 bets 500
+Bigfish44 calls 500
+manggy94 folds
+DjiLee2X folds
+*** TURN *** [5s 3h 3s][Qd]
+SKYZO__91 checks
+Bigfish44 checks
+*** RIVER *** [5s 3h 3s Qd][3c]
+SKYZO__91 bets 500
+Bigfish44 calls 500
+*** SHOW DOWN ***
+Bigfish44 shows [2s Ac] (Trips of 3)
+SKYZO__91 shows [Ad 5c] (Full of 3 and 5)
+SKYZO__91 collected 4300 from pot
+*** SUMMARY ***
+Total pot 4300 | No rake
+Board: [5s 3h 3s Qd 3c]
+Seat 2: Bigfish44 (button) showed [2s Ac] and lost with Trips of 3
+Seat 6: SKYZO__91 showed [Ad 5c] and won 4300 with Full of 3 and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #541906112614498850-47-1439585618 - Holdem no limit (50/250/500) - 2015/08/14 20:53:38 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #3 is the button
+Seat 1: jjh76_x (420)
+Seat 2: Bigfish44 (3597)
+Seat 3: manggy94 (484)
+Seat 4: DjiLee2X (3980)
+Seat 5: fabinou68 (11529)
+Seat 6: SKYZO__91 (9272)
+*** ANTE/BLINDS ***
+DjiLee2X posts ante 50
+fabinou68 posts ante 50
+jjh76_x posts ante 50
+Bigfish44 posts ante 50
+manggy94 posts ante 50
+SKYZO__91 posts ante 50
+DjiLee2X posts small blind 250
+fabinou68 posts big blind 500
+Dealt to manggy94 [3d 7c]
+*** PRE-FLOP *** 
+SKYZO__91 folds
+jjh76_x folds
+Bigfish44 folds
+manggy94 folds
+DjiLee2X calls 250
+fabinou68 checks
+*** FLOP *** [4d 6d 3c]
+DjiLee2X checks
+fabinou68 bets 500
+DjiLee2X folds
+fabinou68 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [4d 6d 3c]
+Seat 5: fabinou68 (big blind) won 1800
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #541906112614498850-48-1439585648 - Holdem no limit (50/250/500) - 2015/08/14 20:54:08 UTC
+Table: 'Freeroll(126172349)#545' 6-max (real money) Seat #4 is the button
+Seat 1: jjh76_x (370)
+Seat 2: Bigfish44 (3547)
+Seat 3: manggy94 (434)
+Seat 4: DjiLee2X (3430)
+Seat 5: fabinou68 (12279)
+Seat 6: SKYZO__91 (9222)
+*** ANTE/BLINDS ***
+fabinou68 posts ante 50
+SKYZO__91 posts ante 50
+jjh76_x posts ante 50
+Bigfish44 posts ante 50
+manggy94 posts ante 50
+DjiLee2X posts ante 50
+fabinou68 posts small blind 250
+SKYZO__91 posts big blind 500
+Dealt to manggy94 [9s Qd]
+*** PRE-FLOP *** 
+jjh76_x folds
+Bigfish44 folds
+manggy94 calls 384 and is all-in
+DjiLee2X folds
+fabinou68 calls 250
+SKYZO__91 checks
+*** FLOP *** [2d 3s 6s]
+fabinou68 bets 500
+SKYZO__91 calls 500
+*** TURN *** [2d 3s 6s][Kc]
+fabinou68 bets 500
+SKYZO__91 folds
+*** RIVER *** [2d 3s 6s Kc][5d]
+*** SHOW DOWN ***
+manggy94 shows [9s Qd] (High card : King)
+fabinou68 shows [8c 6c] (One pair : 6)
+fabinou68 collected 3184 from pot
+*** SUMMARY ***
+Total pot 3184 | No rake
+Board: [2d 3s 6s Kc 5d]
+Seat 3: manggy94 showed [9s Qd] and lost with High card : King
+Seat 5: fabinou68 (small blind) showed [8c 6c] and won 3184 with One pair : 6
+
+

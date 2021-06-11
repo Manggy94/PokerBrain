@@ -1,0 +1,589 @@
+Winamax Poker - Tournament "LA FIEVRE" buyIn: 9€ + 1€ level: 9 - HandId: #713501626731593786-80-1471374943 - Holdem no limit (75/400/800) - 2016/08/16 19:15:43 UTC
+Table: 'LA FIEVRE(166125043)#0057' 6-max (real money) Seat #5 is the button
+Seat 1: xX-Isidro-Xx (76842)
+Seat 2: manggy94 (20000)
+Seat 3: ganjeannot_ (13680)
+Seat 4: samfeurp53 (54385)
+Seat 5: letoncar23 (25260)
+Seat 6: boomboomas55 (23713)
+*** ANTE/BLINDS ***
+boomboomas55 posts ante 75
+xX-Isidro-Xx posts ante 75
+manggy94 posts ante 75
+ganjeannot_ posts ante 75
+samfeurp53 posts ante 75
+letoncar23 posts ante 75
+boomboomas55 posts small blind 400
+xX-Isidro-Xx posts big blind 800
+Dealt to manggy94 [2s 7s]
+*** PRE-FLOP *** 
+manggy94 folds
+ganjeannot_ folds
+samfeurp53 folds
+letoncar23 raises 1200 to 2000
+boomboomas55 calls 1600
+xX-Isidro-Xx folds
+*** FLOP *** [Th 8h Kd]
+boomboomas55 checks
+letoncar23 bets 23185 and is all-in
+boomboomas55 calls 21638 and is all-in
+*** TURN *** [Th 8h Kd][4c]
+*** RIVER *** [Th 8h Kd 4c][3c]
+*** SHOW DOWN ***
+letoncar23 shows [Jh Jc] (One pair : Jacks)
+boomboomas55 shows [Ks Qh] (One pair : Kings)
+boomboomas55 collected 48526 from main pot
+letoncar23 collected 1547 from side pot 1
+*** SUMMARY ***
+Total pot 50073 | No rake
+Board: [Th 8h Kd 4c 3c]
+Seat 5: letoncar23 (button) showed [Jh Jc] and won 1547 with One pair : Jacks
+Seat 6: boomboomas55 (small blind) showed [Ks Qh] and won 48526 with One pair : Kings
+
+
+Winamax Poker - Tournament "LA FIEVRE" buyIn: 9€ + 1€ level: 9 - HandId: #713501626731593786-81-1471374977 - Holdem no limit (75/400/800) - 2016/08/16 19:16:17 UTC
+Table: 'LA FIEVRE(166125043)#0057' 6-max (real money) Seat #6 is the button
+Seat 1: xX-Isidro-Xx (75967)
+Seat 2: manggy94 (19925)
+Seat 3: ganjeannot_ (13605)
+Seat 4: samfeurp53 (54310)
+Seat 5: letoncar23 (1547)
+Seat 6: boomboomas55 (48526)
+*** ANTE/BLINDS ***
+xX-Isidro-Xx posts ante 75
+manggy94 posts ante 75
+ganjeannot_ posts ante 75
+samfeurp53 posts ante 75
+letoncar23 posts ante 75
+boomboomas55 posts ante 75
+xX-Isidro-Xx posts small blind 400
+manggy94 posts big blind 800
+Dealt to manggy94 [6d 8s]
+*** PRE-FLOP *** 
+ganjeannot_ folds
+samfeurp53 raises 1200 to 2000
+letoncar23 calls 1472 and is all-in
+boomboomas55 folds
+xX-Isidro-Xx folds
+manggy94 folds
+*** FLOP *** [Kc 6h 3d]
+*** TURN *** [Kc 6h 3d][Qs]
+*** RIVER *** [Kc 6h 3d Qs][Qd]
+*** SHOW DOWN ***
+letoncar23 shows [8c Kh] (Two pairs : Kings and Queens)
+samfeurp53 shows [Qh 5h] (Trips of Queens)
+samfeurp53 collected 5122 from pot
+*** SUMMARY ***
+Total pot 5122 | No rake
+Board: [Kc 6h 3d Qs Qd]
+Seat 4: samfeurp53 showed [Qh 5h] and won 5122 with Trips of Queens
+Seat 5: letoncar23 showed [8c Kh] and lost with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "LA FIEVRE" buyIn: 9€ + 1€ level: 9 - HandId: #713501626731593786-82-1471375002 - Holdem no limit (75/400/800) - 2016/08/16 19:16:42 UTC
+Table: 'LA FIEVRE(166125043)#0057' 6-max (real money) Seat #1 is the button
+Seat 1: xX-Isidro-Xx (75492)
+Seat 2: manggy94 (19050)
+Seat 3: ganjeannot_ (13530)
+Seat 4: samfeurp53 (57357)
+Seat 6: boomboomas55 (48451)
+*** ANTE/BLINDS ***
+manggy94 posts ante 75
+ganjeannot_ posts ante 75
+xX-Isidro-Xx posts ante 75
+samfeurp53 posts ante 75
+boomboomas55 posts ante 75
+manggy94 posts small blind 400
+ganjeannot_ posts big blind 800
+Dealt to manggy94 [8s 9s]
+*** PRE-FLOP *** 
+samfeurp53 folds
+boomboomas55 raises 800 to 1600
+xX-Isidro-Xx folds
+manggy94 calls 1200
+ganjeannot_ folds
+*** FLOP *** [5c Qh 8c]
+manggy94 bets 2188
+boomboomas55 calls 2188
+*** TURN *** [5c Qh 8c][5d]
+manggy94 bets 4376
+boomboomas55 folds
+manggy94 collected 13127 from pot
+*** SUMMARY ***
+Total pot 13127 | No rake
+Board: [5c Qh 8c 5d]
+Seat 2: manggy94 (small blind) won 13127
+
+
+Winamax Poker - Tournament "LA FIEVRE" buyIn: 9€ + 1€ level: 10 - HandId: #713501626731593786-83-1471375047 - Holdem no limit (100/500/1000) - 2016/08/16 19:17:27 UTC
+Table: 'LA FIEVRE(166125043)#0057' 6-max (real money) Seat #2 is the button
+Seat 1: xX-Isidro-Xx (75417)
+Seat 2: manggy94 (23938)
+Seat 3: ganjeannot_ (12655)
+Seat 4: samfeurp53 (57282)
+Seat 5: Octopus 88 (20000)
+Seat 6: boomboomas55 (44588)
+*** ANTE/BLINDS ***
+ganjeannot_ posts ante 100
+samfeurp53 posts ante 100
+xX-Isidro-Xx posts ante 100
+manggy94 posts ante 100
+Octopus 88 posts ante 100
+boomboomas55 posts ante 100
+ganjeannot_ posts small blind 500
+samfeurp53 posts big blind 1000
+Dealt to manggy94 [Qd 6h]
+*** PRE-FLOP *** 
+Octopus 88 folds
+boomboomas55 folds
+xX-Isidro-Xx folds
+manggy94 folds
+ganjeannot_ raises 11555 to 12555 and is all-in
+samfeurp53 folds
+ganjeannot_ collected 14155 from pot
+*** SUMMARY ***
+Total pot 14155 | No rake
+Seat 3: ganjeannot_ (small blind) won 14155
+
+
+Winamax Poker - Tournament "LA FIEVRE" buyIn: 9€ + 1€ level: 10 - HandId: #713501626731593786-84-1471375174 - Holdem no limit (100/500/1000) - 2016/08/16 19:19:34 UTC
+Table: 'LA FIEVRE(166125043)#0057' 6-max (real money) Seat #3 is the button
+Seat 1: xX-Isidro-Xx (75317)
+Seat 2: manggy94 (23838)
+Seat 3: ganjeannot_ (14155)
+Seat 4: samfeurp53 (56182)
+Seat 5: Octopus 88 (19900)
+Seat 6: boomboomas55 (44488)
+*** ANTE/BLINDS ***
+samfeurp53 posts ante 100
+Octopus 88 posts ante 100
+xX-Isidro-Xx posts ante 100
+manggy94 posts ante 100
+ganjeannot_ posts ante 100
+boomboomas55 posts ante 100
+samfeurp53 posts small blind 500
+Octopus 88 posts big blind 1000
+Dealt to manggy94 [7s 8c]
+*** PRE-FLOP *** 
+boomboomas55 folds
+xX-Isidro-Xx calls 1000
+manggy94 folds
+ganjeannot_ folds
+samfeurp53 calls 500
+Octopus 88 folds
+*** FLOP *** [4d Tc 9h]
+samfeurp53 checks
+xX-Isidro-Xx checks
+*** TURN *** [4d Tc 9h][2c]
+samfeurp53 checks
+xX-Isidro-Xx checks
+*** RIVER *** [4d Tc 9h 2c][Kc]
+samfeurp53 checks
+xX-Isidro-Xx checks
+*** SHOW DOWN ***
+samfeurp53 shows [7d 6s] (High card : King)
+xX-Isidro-Xx shows [Ah 8s] (High card : Ace)
+xX-Isidro-Xx collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Board: [4d Tc 9h 2c Kc]
+Seat 1: xX-Isidro-Xx showed [Ah 8s] and won 3600 with High card : Ace
+Seat 4: samfeurp53 (small blind) showed [7d 6s] and lost with High card : King
+
+
+Winamax Poker - Tournament "LA FIEVRE" buyIn: 9€ + 1€ level: 10 - HandId: #713501626731593786-85-1471375200 - Holdem no limit (100/500/1000) - 2016/08/16 19:20:00 UTC
+Table: 'LA FIEVRE(166125043)#0057' 6-max (real money) Seat #4 is the button
+Seat 1: xX-Isidro-Xx (77817)
+Seat 2: manggy94 (23738)
+Seat 3: ganjeannot_ (14055)
+Seat 4: samfeurp53 (55082)
+Seat 5: Octopus 88 (18800)
+Seat 6: boomboomas55 (44388)
+*** ANTE/BLINDS ***
+Octopus 88 posts ante 100
+boomboomas55 posts ante 100
+xX-Isidro-Xx posts ante 100
+manggy94 posts ante 100
+ganjeannot_ posts ante 100
+samfeurp53 posts ante 100
+Octopus 88 posts small blind 500
+boomboomas55 posts big blind 1000
+Dealt to manggy94 [Tc 4h]
+*** PRE-FLOP *** 
+xX-Isidro-Xx folds
+manggy94 folds
+ganjeannot_ folds
+samfeurp53 folds
+Octopus 88 folds
+boomboomas55 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 6: boomboomas55 (big blind) won 2100
+
+
+Winamax Poker - Tournament "LA FIEVRE" buyIn: 9€ + 1€ level: 10 - HandId: #713501626731593786-86-1471375224 - Holdem no limit (100/500/1000) - 2016/08/16 19:20:24 UTC
+Table: 'LA FIEVRE(166125043)#0057' 6-max (real money) Seat #5 is the button
+Seat 1: xX-Isidro-Xx (77717)
+Seat 2: manggy94 (23638)
+Seat 3: ganjeannot_ (13955)
+Seat 4: samfeurp53 (54982)
+Seat 5: Octopus 88 (18200)
+Seat 6: boomboomas55 (45388)
+*** ANTE/BLINDS ***
+boomboomas55 posts ante 100
+xX-Isidro-Xx posts ante 100
+manggy94 posts ante 100
+ganjeannot_ posts ante 100
+samfeurp53 posts ante 100
+Octopus 88 posts ante 100
+boomboomas55 posts small blind 500
+xX-Isidro-Xx posts big blind 1000
+Dealt to manggy94 [5s 9c]
+*** PRE-FLOP *** 
+manggy94 folds
+ganjeannot_ folds
+samfeurp53 raises 1500 to 2500
+Octopus 88 folds
+boomboomas55 folds
+xX-Isidro-Xx folds
+samfeurp53 collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | No rake
+Seat 4: samfeurp53 won 4600
+
+
+Winamax Poker - Tournament "LA FIEVRE" buyIn: 9€ + 1€ level: 10 - HandId: #713501626731593786-87-1471375238 - Holdem no limit (100/500/1000) - 2016/08/16 19:20:38 UTC
+Table: 'LA FIEVRE(166125043)#0057' 6-max (real money) Seat #6 is the button
+Seat 1: xX-Isidro-Xx (76617)
+Seat 2: manggy94 (23538)
+Seat 3: ganjeannot_ (13855)
+Seat 4: samfeurp53 (56982)
+Seat 5: Octopus 88 (18100)
+Seat 6: boomboomas55 (44788)
+*** ANTE/BLINDS ***
+xX-Isidro-Xx posts ante 100
+manggy94 posts ante 100
+ganjeannot_ posts ante 100
+samfeurp53 posts ante 100
+Octopus 88 posts ante 100
+boomboomas55 posts ante 100
+xX-Isidro-Xx posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [Qd As]
+*** PRE-FLOP *** 
+ganjeannot_ folds
+samfeurp53 folds
+Octopus 88 folds
+boomboomas55 folds
+xX-Isidro-Xx calls 500
+manggy94 raises 2600 to 3600
+xX-Isidro-Xx calls 2600
+*** FLOP *** [2d Jc Kh]
+xX-Isidro-Xx bets 3900
+manggy94 calls 3900
+*** TURN *** [2d Jc Kh][Qh]
+xX-Isidro-Xx checks
+manggy94 checks
+*** RIVER *** [2d Jc Kh Qh][2h]
+xX-Isidro-Xx checks
+manggy94 checks
+*** SHOW DOWN ***
+xX-Isidro-Xx shows [4d Ac] (One pair : 2)
+manggy94 shows [Qd As] (Two pairs : Queens and 2)
+manggy94 collected 15600 from pot
+*** SUMMARY ***
+Total pot 15600 | No rake
+Board: [2d Jc Kh Qh 2h]
+Seat 1: xX-Isidro-Xx (small blind) showed [4d Ac] and lost with One pair : 2
+Seat 2: manggy94 (big blind) showed [Qd As] and won 15600 with Two pairs : Queens and 2
+
+
+Winamax Poker - Tournament "LA FIEVRE" buyIn: 9€ + 1€ level: 10 - HandId: #713501626731593786-88-1471375288 - Holdem no limit (100/500/1000) - 2016/08/16 19:21:28 UTC
+Table: 'LA FIEVRE(166125043)#0057' 6-max (real money) Seat #1 is the button
+Seat 1: xX-Isidro-Xx (69017)
+Seat 2: manggy94 (31538)
+Seat 3: ganjeannot_ (13755)
+Seat 4: samfeurp53 (56882)
+Seat 5: Octopus 88 (18000)
+Seat 6: boomboomas55 (44688)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+ganjeannot_ posts ante 100
+xX-Isidro-Xx posts ante 100
+samfeurp53 posts ante 100
+Octopus 88 posts ante 100
+boomboomas55 posts ante 100
+manggy94 posts small blind 500
+ganjeannot_ posts big blind 1000
+Dealt to manggy94 [2s 7s]
+*** PRE-FLOP *** 
+samfeurp53 raises 1500 to 2500
+Octopus 88 folds
+boomboomas55 folds
+xX-Isidro-Xx folds
+manggy94 folds
+ganjeannot_ folds
+samfeurp53 collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | No rake
+Seat 4: samfeurp53 won 4600
+
+
+Winamax Poker - Tournament "LA FIEVRE" buyIn: 9€ + 1€ level: 10 - HandId: #713501626731593786-89-1471375317 - Holdem no limit (100/500/1000) - 2016/08/16 19:21:57 UTC
+Table: 'LA FIEVRE(166125043)#0057' 6-max (real money) Seat #2 is the button
+Seat 1: xX-Isidro-Xx (68917)
+Seat 2: manggy94 (30938)
+Seat 3: ganjeannot_ (12655)
+Seat 4: samfeurp53 (58882)
+Seat 5: Octopus 88 (17900)
+Seat 6: boomboomas55 (44588)
+*** ANTE/BLINDS ***
+ganjeannot_ posts ante 100
+samfeurp53 posts ante 100
+xX-Isidro-Xx posts ante 100
+manggy94 posts ante 100
+Octopus 88 posts ante 100
+boomboomas55 posts ante 100
+ganjeannot_ posts small blind 500
+samfeurp53 posts big blind 1000
+Dealt to manggy94 [8c 3h]
+*** PRE-FLOP *** 
+Octopus 88 folds
+boomboomas55 raises 1540 to 2540
+xX-Isidro-Xx folds
+manggy94 folds
+ganjeannot_ folds
+samfeurp53 calls 1540
+*** FLOP *** [Qc 9c 5h]
+samfeurp53 checks
+boomboomas55 checks
+*** TURN *** [Qc 9c 5h][Ah]
+samfeurp53 checks
+boomboomas55 bets 4120
+samfeurp53 folds
+boomboomas55 collected 10300 from pot
+*** SUMMARY ***
+Total pot 10300 | No rake
+Board: [Qc 9c 5h Ah]
+Seat 6: boomboomas55 won 10300
+
+
+Winamax Poker - Tournament "LA FIEVRE" buyIn: 9€ + 1€ level: 10 - HandId: #713501626731593786-90-1471375358 - Holdem no limit (100/500/1000) - 2016/08/16 19:22:38 UTC
+Table: 'LA FIEVRE(166125043)#0057' 6-max (real money) Seat #3 is the button
+Seat 1: xX-Isidro-Xx (68817)
+Seat 2: manggy94 (30838)
+Seat 3: ganjeannot_ (12055)
+Seat 4: samfeurp53 (56242)
+Seat 5: Octopus 88 (17800)
+Seat 6: boomboomas55 (48128)
+*** ANTE/BLINDS ***
+samfeurp53 posts ante 100
+Octopus 88 posts ante 100
+xX-Isidro-Xx posts ante 100
+manggy94 posts ante 100
+ganjeannot_ posts ante 100
+boomboomas55 posts ante 100
+samfeurp53 posts small blind 500
+Octopus 88 posts big blind 1000
+Dealt to manggy94 [6c 5s]
+*** PRE-FLOP *** 
+boomboomas55 folds
+xX-Isidro-Xx folds
+manggy94 folds
+ganjeannot_ raises 10955 to 11955 and is all-in
+samfeurp53 calls 11455
+Octopus 88 folds
+*** FLOP *** [9d 9c Kd]
+*** TURN *** [9d 9c Kd][Jd]
+*** RIVER *** [9d 9c Kd Jd][4h]
+*** SHOW DOWN ***
+ganjeannot_ shows [8d 8c] (Two pairs : 9 and 8)
+samfeurp53 shows [Kh 7d] (Two pairs : Kings and 9)
+samfeurp53 collected 25510 from pot
+*** SUMMARY ***
+Total pot 25510 | No rake
+Board: [9d 9c Kd Jd 4h]
+Seat 3: ganjeannot_ (button) showed [8d 8c] and lost with Two pairs : 9 and 8
+Seat 4: samfeurp53 (small blind) showed [Kh 7d] and won 25510 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "LA FIEVRE" buyIn: 9€ + 1€ level: 10 - HandId: #713501626731593786-91-1471375386 - Holdem no limit (100/500/1000) - 2016/08/16 19:23:06 UTC
+Table: 'LA FIEVRE(166125043)#0057' 6-max (real money) Seat #4 is the button
+Seat 1: xX-Isidro-Xx (68717)
+Seat 2: manggy94 (30738)
+Seat 4: samfeurp53 (69697)
+Seat 5: Octopus 88 (16700)
+Seat 6: boomboomas55 (48028)
+*** ANTE/BLINDS ***
+Octopus 88 posts ante 100
+boomboomas55 posts ante 100
+xX-Isidro-Xx posts ante 100
+manggy94 posts ante 100
+samfeurp53 posts ante 100
+Octopus 88 posts small blind 500
+boomboomas55 posts big blind 1000
+Dealt to manggy94 [As Th]
+*** PRE-FLOP *** 
+xX-Isidro-Xx folds
+manggy94 raises 2000 to 3000
+samfeurp53 folds
+Octopus 88 folds
+boomboomas55 folds
+manggy94 collected 5000 from pot
+*** SUMMARY ***
+Total pot 5000 | No rake
+Seat 2: manggy94 won 5000
+
+
+Winamax Poker - Tournament "LA FIEVRE" buyIn: 9€ + 1€ level: 10 - HandId: #713501626731593786-92-1471375403 - Holdem no limit (100/500/1000) - 2016/08/16 19:23:23 UTC
+Table: 'LA FIEVRE(166125043)#0057' 6-max (real money) Seat #5 is the button
+Seat 1: xX-Isidro-Xx (68617)
+Seat 2: manggy94 (32638)
+Seat 3: tanker1524 (20000)
+Seat 4: samfeurp53 (69597)
+Seat 5: Octopus 88 (16100)
+Seat 6: boomboomas55 (46928)
+*** ANTE/BLINDS ***
+boomboomas55 posts ante 100
+xX-Isidro-Xx posts ante 100
+manggy94 posts ante 100
+tanker1524 posts ante 100
+samfeurp53 posts ante 100
+Octopus 88 posts ante 100
+boomboomas55 posts small blind 500
+xX-Isidro-Xx posts big blind 1000
+Dealt to manggy94 [2d Ac]
+*** PRE-FLOP *** 
+manggy94 folds
+tanker1524 folds
+samfeurp53 raises 1500 to 2500
+Octopus 88 folds
+boomboomas55 folds
+xX-Isidro-Xx folds
+samfeurp53 collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | No rake
+Seat 4: samfeurp53 won 4600
+
+
+Winamax Poker - Tournament "LA FIEVRE" buyIn: 9€ + 1€ level: 10 - HandId: #713501626731593786-93-1471375425 - Holdem no limit (100/500/1000) - 2016/08/16 19:23:45 UTC
+Table: 'LA FIEVRE(166125043)#0057' 6-max (real money) Seat #6 is the button
+Seat 1: xX-Isidro-Xx (67517)
+Seat 2: manggy94 (32538)
+Seat 3: tanker1524 (19900)
+Seat 4: samfeurp53 (71597)
+Seat 5: Octopus 88 (16000)
+Seat 6: boomboomas55 (46328)
+*** ANTE/BLINDS ***
+xX-Isidro-Xx posts ante 100
+manggy94 posts ante 100
+tanker1524 posts ante 100
+samfeurp53 posts ante 100
+Octopus 88 posts ante 100
+boomboomas55 posts ante 100
+xX-Isidro-Xx posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [9d 4s]
+*** PRE-FLOP *** 
+tanker1524 folds
+samfeurp53 folds
+Octopus 88 raises 2000 to 3000
+boomboomas55 folds
+xX-Isidro-Xx folds
+manggy94 folds
+Octopus 88 collected 5100 from pot
+*** SUMMARY ***
+Total pot 5100 | No rake
+Seat 5: Octopus 88 won 5100
+
+
+Winamax Poker - Tournament "LA FIEVRE" buyIn: 9€ + 1€ level: 10 - HandId: #713501626731593786-94-1471375463 - Holdem no limit (100/500/1000) - 2016/08/16 19:24:23 UTC
+Table: 'LA FIEVRE(166125043)#0057' 6-max (real money) Seat #1 is the button
+Seat 1: xX-Isidro-Xx (66917)
+Seat 2: manggy94 (31438)
+Seat 3: tanker1524 (19800)
+Seat 4: samfeurp53 (71497)
+Seat 5: Octopus 88 (18000)
+Seat 6: boomboomas55 (46228)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+tanker1524 posts ante 100
+xX-Isidro-Xx posts ante 100
+samfeurp53 posts ante 100
+Octopus 88 posts ante 100
+boomboomas55 posts ante 100
+manggy94 posts small blind 500
+tanker1524 posts big blind 1000
+Dealt to manggy94 [Kc 4s]
+*** PRE-FLOP *** 
+samfeurp53 folds
+Octopus 88 folds
+boomboomas55 folds
+xX-Isidro-Xx folds
+manggy94 raises 1000 to 2000
+tanker1524 calls 1000
+*** FLOP *** [Td Kh Ts]
+manggy94 bets 2300
+tanker1524 calls 2300
+*** TURN *** [Td Kh Ts][6s]
+manggy94 bets 4600
+tanker1524 folds
+manggy94 collected 13800 from pot
+*** SUMMARY ***
+Total pot 13800 | No rake
+Board: [Td Kh Ts 6s]
+Seat 2: manggy94 (small blind) won 13800
+
+
+Winamax Poker - Tournament "LA FIEVRE" buyIn: 9€ + 1€ level: 10 - HandId: #713501626731593786-95-1471375486 - Holdem no limit (100/500/1000) - 2016/08/16 19:24:46 UTC
+Table: 'LA FIEVRE(166125043)#0057' 6-max (real money) Seat #2 is the button
+Seat 1: xX-Isidro-Xx (66817)
+Seat 2: manggy94 (36238)
+Seat 3: tanker1524 (15400)
+Seat 4: samfeurp53 (71397)
+Seat 5: Octopus 88 (17900)
+Seat 6: boomboomas55 (46128)
+*** ANTE/BLINDS ***
+tanker1524 posts ante 100
+samfeurp53 posts ante 100
+xX-Isidro-Xx posts ante 100
+manggy94 posts ante 100
+Octopus 88 posts ante 100
+boomboomas55 posts ante 100
+tanker1524 posts small blind 500
+samfeurp53 posts big blind 1000
+Dealt to manggy94 [Ks Qh]
+*** PRE-FLOP *** 
+Octopus 88 raises 1500 to 2500
+boomboomas55 folds
+xX-Isidro-Xx folds
+manggy94 calls 2500
+tanker1524 calls 2000
+samfeurp53 raises 3000 to 5500
+Octopus 88 calls 3000
+manggy94 calls 3000
+tanker1524 calls 3000
+*** FLOP *** [Qc 7s 4s]
+tanker1524 checks
+samfeurp53 bets 10000
+Octopus 88 raises 2300 to 12300 and is all-in
+manggy94 calls 12300
+tanker1524 folds
+samfeurp53 calls 2300
+*** TURN *** [Qc 7s 4s][Td]
+samfeurp53 bets 19000
+manggy94 calls 18338 and is all-in
+*** RIVER *** [Qc 7s 4s Td][Js]
+*** SHOW DOWN ***
+manggy94 shows [Ks Qh] (One pair : Queens)
+Octopus 88 shows [Qs Kd] (One pair : Queens)
+samfeurp53 shows [As Ah] (One pair : Aces)
+samfeurp53 collected 96838 from pot
+*** SUMMARY ***
+Total pot 96838 | No rake
+Board: [Qc 7s 4s Td Js]
+Seat 2: manggy94 (button) showed [Ks Qh] and lost with One pair : Queens
+Seat 4: samfeurp53 (big blind) showed [As Ah] and won 96838 with One pair : Aces
+Seat 5: Octopus 88 showed [Qs Kd] and lost with One pair : Queens
+
+

@@ -1,0 +1,240 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #713786761020440577-1-1470160842 - Holdem no limit (10/20) - 2016/08/02 18:00:42 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166191431)#0' 6-max (real money) Seat #1 is the button
+Seat 1: domi_80 (500)
+Seat 2: jojo76440 (500)
+Seat 3: khal33 (500)
+Seat 4: manggy94 (500)
+Seat 5: CORAMARI (500)
+Seat 6: Auricheripou (500)
+*** ANTE/BLINDS ***
+jojo76440 posts small blind 10
+khal33 posts big blind 20
+Dealt to manggy94 [4h Tc]
+*** PRE-FLOP *** 
+manggy94 folds
+CORAMARI raises 480 to 500 and is all-in
+Auricheripou calls 500 and is all-in
+domi_80 folds
+jojo76440 folds
+khal33 calls 480 and is all-in
+*** FLOP *** [Ad Ah 9s]
+*** TURN *** [Ad Ah 9s][Qd]
+*** RIVER *** [Ad Ah 9s Qd][Kh]
+*** SHOW DOWN ***
+CORAMARI shows [4c 4d] (Two pairs : Aces and 4)
+Auricheripou shows [6c 3c] (One pair : Aces)
+khal33 shows [9c Js] (Two pairs : Aces and 9)
+khal33 collected 1510 from pot
+*** SUMMARY ***
+Total pot 1510 | No rake
+Board: [Ad Ah 9s Qd Kh]
+Seat 3: khal33 (big blind) showed [9c Js] and won 1510 with Two pairs : Aces and 9
+Seat 5: CORAMARI showed [4c 4d] and lost with Two pairs : Aces and 4
+Seat 6: Auricheripou showed [6c 3c] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #713786761020440577-2-1470160881 - Holdem no limit (10/20) - 2016/08/02 18:01:21 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166191431)#0' 6-max (real money) Seat #2 is the button
+Seat 1: domi_80 (500)
+Seat 2: jojo76440 (490)
+Seat 3: khal33 (1510)
+Seat 4: manggy94 (500)
+*** ANTE/BLINDS ***
+khal33 posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [8s 2d]
+*** PRE-FLOP *** 
+domi_80 folds
+jojo76440 raises 20 to 40
+khal33 raises 1470 to 1510 and is all-in
+manggy94 folds
+jojo76440 folds
+khal33 collected 1570 from pot
+*** SUMMARY ***
+Total pot 1570 | No rake
+Seat 3: khal33 (small blind) won 1570
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #713786761020440577-3-1470160906 - Holdem no limit (10/20) - 2016/08/02 18:01:46 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166191431)#0' 6-max (real money) Seat #3 is the button
+Seat 1: domi_80 (500)
+Seat 2: jojo76440 (450)
+Seat 3: khal33 (1570)
+Seat 4: manggy94 (480)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+domi_80 posts big blind 20
+Dealt to manggy94 [Qc 5h]
+*** PRE-FLOP *** 
+jojo76440 raises 20 to 40
+khal33 raises 1530 to 1570 and is all-in
+manggy94 folds
+domi_80 folds
+jojo76440 calls 410 and is all-in
+*** FLOP *** [Js 5s Kc]
+*** TURN *** [Js 5s Kc][6h]
+*** RIVER *** [Js 5s Kc 6h][3d]
+*** SHOW DOWN ***
+jojo76440 shows [9s 9c] (One pair : 9)
+khal33 shows [Qd Ah] (High card : Ace)
+khal33 collected 1120 from side pot 1
+jojo76440 collected 930 from main pot
+*** SUMMARY ***
+Total pot 2050 | No rake
+Board: [Js 5s Kc 6h 3d]
+Seat 2: jojo76440 showed [9s 9c] and won 930 with One pair : 9
+Seat 3: khal33 (button) showed [Qd Ah] and won 1120 with High card : Ace
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #713786761020440577-4-1470160926 - Holdem no limit (10/20) - 2016/08/02 18:02:06 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166191431)#0' 6-max (real money) Seat #4 is the button
+Seat 1: domi_80 (480)
+Seat 2: jojo76440 (930)
+Seat 3: khal33 (1120)
+Seat 4: manggy94 (470)
+*** ANTE/BLINDS ***
+domi_80 posts small blind 10
+jojo76440 posts big blind 20
+Dealt to manggy94 [4c 7s]
+*** PRE-FLOP *** 
+khal33 raises 1100 to 1120 and is all-in
+manggy94 folds
+domi_80 calls 470 and is all-in
+jojo76440 folds
+*** FLOP *** [2h 8h 8d]
+*** TURN *** [2h 8h 8d][Jc]
+*** RIVER *** [2h 8h 8d Jc][Qc]
+*** SHOW DOWN ***
+domi_80 shows [Ac 7d] (One pair : 8)
+khal33 shows [4d 3c] (One pair : 8)
+khal33 collected 640 from side pot 1
+domi_80 collected 980 from main pot
+*** SUMMARY ***
+Total pot 1620 | No rake
+Board: [2h 8h 8d Jc Qc]
+Seat 1: domi_80 (small blind) showed [Ac 7d] and won 980 with One pair : 8
+Seat 3: khal33 showed [4d 3c] and won 640 with One pair : 8
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #713786761020440577-5-1470160942 - Holdem no limit (10/20) - 2016/08/02 18:02:22 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166191431)#0' 6-max (real money) Seat #1 is the button
+Seat 1: domi_80 (980)
+Seat 2: jojo76440 (910)
+Seat 3: khal33 (640)
+Seat 4: manggy94 (470)
+*** ANTE/BLINDS ***
+jojo76440 posts small blind 10
+khal33 posts big blind 20
+Dealt to manggy94 [4c 5d]
+*** PRE-FLOP *** 
+manggy94 folds
+domi_80 calls 20
+jojo76440 raises 890 to 910 and is all-in
+khal33 calls 620 and is all-in
+domi_80 calls 890
+*** FLOP *** [Js Ts 2s]
+*** TURN *** [Js Ts 2s][2d]
+*** RIVER *** [Js Ts 2s 2d][2c]
+*** SHOW DOWN ***
+jojo76440 shows [Ac 6d] (Trips of 2)
+khal33 shows [Ah 7d] (Trips of 2)
+domi_80 shows [4d 4h] (Full of 2 and 4)
+domi_80 collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Board: [Js Ts 2s 2d 2c]
+Seat 1: domi_80 (button) showed [4d 4h] and won 2460 with Full of 2 and 4
+Seat 2: jojo76440 (small blind) showed [Ac 6d] and lost with Trips of 2
+Seat 3: khal33 (big blind) showed [Ah 7d] and lost with Trips of 2
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #713786761020440577-6-1470160965 - Holdem no limit (10/20) - 2016/08/02 18:02:45 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166191431)#0' 6-max (real money) Seat #4 is the button
+Seat 1: domi_80 (2530)
+Seat 4: manggy94 (470)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+domi_80 posts big blind 20
+Dealt to manggy94 [8h 2c]
+*** PRE-FLOP *** 
+manggy94 folds
+domi_80 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: domi_80 (big blind) won 30
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #713786761020440577-7-1470160969 - Holdem no limit (10/20) - 2016/08/02 18:02:49 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166191431)#0' 6-max (real money) Seat #1 is the button
+Seat 1: domi_80 (2540)
+Seat 4: manggy94 (460)
+*** ANTE/BLINDS ***
+domi_80 posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [Th 9d]
+*** PRE-FLOP *** 
+domi_80 calls 10
+manggy94 checks
+*** FLOP *** [Ah 5s 7d]
+manggy94 checks
+domi_80 checks
+*** TURN *** [Ah 5s 7d][3d]
+manggy94 checks
+domi_80 checks
+*** RIVER *** [Ah 5s 7d 3d][Qc]
+manggy94 checks
+domi_80 checks
+*** SHOW DOWN ***
+manggy94 shows [Th 9d] (High card : Ace)
+domi_80 shows [Jd 2s] (High card : Ace)
+domi_80 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Ah 5s 7d 3d Qc]
+Seat 1: domi_80 (small blind) (button) showed [Jd 2s] and won 40 with High card : Ace
+Seat 4: manggy94 (big blind) showed [Th 9d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #713786761020440577-8-1470160984 - Holdem no limit (10/20) - 2016/08/02 18:03:04 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166191431)#0' 6-max (real money) Seat #4 is the button
+Seat 1: domi_80 (2560)
+Seat 4: manggy94 (440)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+domi_80 posts big blind 20
+Dealt to manggy94 [4s 5c]
+*** PRE-FLOP *** 
+manggy94 folds
+domi_80 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: domi_80 (big blind) won 30
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #713786761020440577-9-1470160990 - Holdem no limit (10/20) - 2016/08/02 18:03:10 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166191431)#0' 6-max (real money) Seat #1 is the button
+Seat 1: domi_80 (2570)
+Seat 4: manggy94 (430)
+*** ANTE/BLINDS ***
+domi_80 posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [6h 5h]
+*** PRE-FLOP *** 
+domi_80 calls 10
+manggy94 checks
+*** FLOP *** [9h 5c Th]
+manggy94 bets 410 and is all-in
+domi_80 calls 410
+*** TURN *** [9h 5c Th][Qc]
+*** RIVER *** [9h 5c Th Qc][3s]
+*** SHOW DOWN ***
+manggy94 shows [6h 5h] (One pair : 5)
+domi_80 shows [8d Jd] (Straight Queen high)
+domi_80 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [9h 5c Th Qc 3s]
+Seat 1: domi_80 (small blind) (button) showed [8d Jd] and won 860 with Straight Queen high
+Seat 4: manggy94 (big blind) showed [6h 5h] and lost with One pair : 5
+
+

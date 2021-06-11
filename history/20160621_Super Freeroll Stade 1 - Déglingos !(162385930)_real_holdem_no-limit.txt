@@ -1,0 +1,104 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #697442258680545281-1-1466494233 - Holdem no limit (10/20) - 2016/06/21 07:30:33 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162385930)#0' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (500)
+Seat 2: SEBA 77 (500)
+Seat 3: samwin1977 (500)
+Seat 4: maanda (500)
+Seat 5: GwatheYy (500)
+Seat 6: Dabass67 (500)
+*** ANTE/BLINDS ***
+GwatheYy posts small blind 10
+Dabass67 posts big blind 20
+Dealt to manggy94 [Jd 3h]
+*** PRE-FLOP *** 
+manggy94 folds
+SEBA 77 raises 480 to 500 and is all-in
+samwin1977 folds
+maanda folds
+GwatheYy folds
+Dabass67 folds
+SEBA 77 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 2: SEBA 77 won 530
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #697442258680545281-2-1466494267 - Holdem no limit (10/20) - 2016/06/21 07:31:07 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162385930)#0' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (500)
+Seat 2: SEBA 77 (530)
+Seat 3: samwin1977 (500)
+Seat 4: maanda (500)
+Seat 5: GwatheYy (490)
+Seat 6: Dabass67 (480)
+*** ANTE/BLINDS ***
+Dabass67 posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [Ac 8c]
+*** PRE-FLOP *** 
+SEBA 77 calls 20
+samwin1977 folds
+maanda calls 20
+GwatheYy calls 20
+Dabass67 raises 20 to 40
+manggy94 calls 20
+SEBA 77 calls 20
+maanda raises 121 to 161
+GwatheYy calls 141
+Dabass67 calls 121
+manggy94 calls 121
+SEBA 77 calls 121
+*** FLOP *** [6h 5s Js]
+Dabass67 checks
+manggy94 bets 20
+SEBA 77 raises 349 to 369 and is all-in
+maanda calls 339 and is all-in
+GwatheYy folds
+Dabass67 calls 319 and is all-in
+manggy94 folds
+*** TURN *** [6h 5s Js][Jc]
+*** RIVER *** [6h 5s Js Jc][Ks]
+*** SHOW DOWN ***
+maanda shows [Qd 5c] (Two pairs : Jacks and 5)
+Dabass67 shows [Ad 8s] (One pair : Jacks)
+SEBA 77 shows [Tc Jh] (Trips of Jacks)
+SEBA 77 collected 1852 from pot
+*** SUMMARY ***
+Total pot 1852 | No rake
+Board: [6h 5s Js Jc Ks]
+Seat 2: SEBA 77 showed [Tc Jh] and won 1852 with Trips of Jacks
+Seat 4: maanda showed [Qd 5c] and lost with Two pairs : Jacks and 5
+Seat 6: Dabass67 (small blind) showed [Ad 8s] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #697442258680545281-3-1466494349 - Holdem no limit (10/20) - 2016/06/21 07:32:29 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(162385930)#0' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (319)
+Seat 2: SEBA 77 (1852)
+Seat 3: samwin1977 (500)
+Seat 5: GwatheYy (329)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+SEBA 77 posts big blind 20
+Dealt to manggy94 [Kh Jd]
+*** PRE-FLOP *** 
+samwin1977 calls 20
+GwatheYy calls 20
+manggy94 raises 299 to 319 and is all-in
+SEBA 77 folds
+samwin1977 calls 299
+GwatheYy folds
+*** FLOP *** [8c 8d Td]
+*** TURN *** [8c 8d Td][7h]
+*** RIVER *** [8c 8d Td 7h][Ac]
+*** SHOW DOWN ***
+manggy94 shows [Kh Jd] (One pair : 8)
+samwin1977 shows [Tc 9h] (Two pairs : Tens and 8)
+samwin1977 collected 678 from pot
+*** SUMMARY ***
+Total pot 678 | No rake
+Board: [8c 8d Td 7h Ac]
+Seat 1: manggy94 (small blind) showed [Kh Jd] and lost with One pair : 8
+Seat 3: samwin1977 showed [Tc 9h] and won 678 with Two pairs : Tens and 8
+
+

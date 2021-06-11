@@ -1,0 +1,870 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #596949799299710996-1-1450010705 - Holdem no limit (25/50) - 2015/12/13 12:45:05 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (10000)
+Seat 2: squatvt (10000)
+Seat 3: Fanta-Orange (10000)
+Seat 4: -IU- (10000)
+Seat 5: BacSijp (10000)
+Seat 6: mitouflin (10000)
+*** ANTE/BLINDS ***
+mitouflin posts small blind 25
+manggy94 posts big blind 50
+Dealt to manggy94 [9s 7c]
+*** PRE-FLOP *** 
+squatvt folds
+Fanta-Orange folds
+-IU- raises 200 to 250
+BacSijp calls 250
+mitouflin calls 225
+manggy94 folds
+*** FLOP *** [3c Kd 4d]
+mitouflin checks
+-IU- bets 533
+BacSijp calls 533
+mitouflin calls 533
+*** TURN *** [3c Kd 4d][Ks]
+mitouflin checks
+-IU- checks
+BacSijp checks
+*** RIVER *** [3c Kd 4d Ks][Ts]
+mitouflin checks
+-IU- bets 1799
+BacSijp folds
+mitouflin calls 1799
+*** SHOW DOWN ***
+-IU- shows [Js 2s] (One pair : Kings)
+mitouflin shows [Td 8d] (Two pairs : Kings and Tens)
+mitouflin collected 5997 from pot
+*** SUMMARY ***
+Total pot 5997 | No rake
+Board: [3c Kd 4d Ks Ts]
+Seat 4: -IU- showed [Js 2s] and lost with One pair : Kings
+Seat 6: mitouflin (small blind) showed [Td 8d] and won 5997 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #596949799299710996-2-1450010790 - Holdem no limit (25/50) - 2015/12/13 12:46:30 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (9950)
+Seat 2: squatvt (10000)
+Seat 3: Fanta-Orange (10000)
+Seat 4: -IU- (7418)
+Seat 5: BacSijp (9217)
+Seat 6: mitouflin (13415)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 25
+squatvt posts big blind 50
+Dealt to manggy94 [As Qs]
+*** PRE-FLOP *** 
+Fanta-Orange calls 50
+-IU- raises 150 to 200
+BacSijp folds
+mitouflin folds
+manggy94 raises 500 to 700
+squatvt folds
+Fanta-Orange folds
+-IU- calls 500
+*** FLOP *** [Kh 8s 5h]
+manggy94 bets 1500
+-IU- folds
+manggy94 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Kh 8s 5h]
+Seat 1: manggy94 (small blind) won 3000
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #596949799299710996-3-1450010834 - Holdem no limit (25/50) - 2015/12/13 12:47:14 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (10750)
+Seat 2: squatvt (9950)
+Seat 3: Fanta-Orange (9950)
+Seat 4: -IU- (6718)
+Seat 5: BacSijp (9217)
+Seat 6: mitouflin (13415)
+*** ANTE/BLINDS ***
+squatvt posts small blind 25
+Fanta-Orange posts big blind 50
+Dealt to manggy94 [Jc 2h]
+*** PRE-FLOP *** 
+-IU- folds
+BacSijp raises 50 to 100
+mitouflin folds
+manggy94 folds
+squatvt folds
+Fanta-Orange calls 50
+*** FLOP *** [6s Ks 7d]
+Fanta-Orange checks
+BacSijp bets 225
+Fanta-Orange calls 225
+*** TURN *** [6s Ks 7d][4s]
+Fanta-Orange checks
+BacSijp bets 675
+Fanta-Orange calls 675
+*** RIVER *** [6s Ks 7d 4s][9c]
+Fanta-Orange bets 1013
+BacSijp calls 1013
+*** SHOW DOWN ***
+Fanta-Orange shows [As 8d] (High card : Ace)
+BacSijp shows [Kc 4c] (Two pairs : Kings and 4)
+BacSijp collected 4051 from pot
+*** SUMMARY ***
+Total pot 4051 | No rake
+Board: [6s Ks 7d 4s 9c]
+Seat 3: Fanta-Orange (big blind) showed [As 8d] and lost with High card : Ace
+Seat 5: BacSijp showed [Kc 4c] and won 4051 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #596949799299710996-4-1450010874 - Holdem no limit (25/50) - 2015/12/13 12:47:54 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (10750)
+Seat 2: squatvt (9925)
+Seat 3: Fanta-Orange (7937)
+Seat 4: -IU- (6718)
+Seat 5: BacSijp (11255)
+Seat 6: mitouflin (13415)
+*** ANTE/BLINDS ***
+Fanta-Orange posts small blind 25
+-IU- posts big blind 50
+Dealt to manggy94 [Ac Kh]
+*** PRE-FLOP *** 
+BacSijp folds
+mitouflin raises 175 to 225
+manggy94 raises 525 to 750
+squatvt folds
+Fanta-Orange folds
+-IU- calls 700
+mitouflin calls 525
+*** FLOP *** [5c 8h 6s]
+-IU- checks
+mitouflin checks
+manggy94 bets 2275
+-IU- folds
+mitouflin folds
+manggy94 collected 4550 from pot
+*** SUMMARY ***
+Total pot 4550 | No rake
+Board: [5c 8h 6s]
+Seat 1: manggy94 won 4550
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #596949799299710996-5-1450010905 - Holdem no limit (25/50) - 2015/12/13 12:48:25 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (12275)
+Seat 2: squatvt (9925)
+Seat 3: Fanta-Orange (7912)
+Seat 4: -IU- (5968)
+Seat 5: BacSijp (11255)
+Seat 6: mitouflin (12665)
+*** ANTE/BLINDS ***
+-IU- posts small blind 25
+BacSijp posts big blind 50
+Dealt to manggy94 [8s 3c]
+*** PRE-FLOP *** 
+mitouflin folds
+manggy94 folds
+squatvt folds
+Fanta-Orange folds
+-IU- calls 25
+BacSijp checks
+*** FLOP *** [6d 9h Ks]
+-IU- bets 67
+BacSijp calls 67
+*** TURN *** [6d 9h Ks][2c]
+-IU- checks
+BacSijp bets 100
+-IU- calls 100
+*** RIVER *** [6d 9h Ks 2c][2h]
+-IU- bets 326
+BacSijp calls 326
+*** SHOW DOWN ***
+-IU- shows [5c 8d] (One pair : 2)
+BacSijp shows [9c 5h] (Two pairs : 9 and 2)
+BacSijp collected 1086 from pot
+*** SUMMARY ***
+Total pot 1086 | No rake
+Board: [6d 9h Ks 2c 2h]
+Seat 4: -IU- (small blind) showed [5c 8d] and lost with One pair : 2
+Seat 5: BacSijp (big blind) showed [9c 5h] and won 1086 with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #596949799299710996-6-1450010961 - Holdem no limit (25/50) - 2015/12/13 12:49:21 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (12275)
+Seat 2: squatvt (9925)
+Seat 3: Fanta-Orange (7912)
+Seat 4: -IU- (5425)
+Seat 5: BacSijp (11798)
+Seat 6: mitouflin (12665)
+*** ANTE/BLINDS ***
+BacSijp posts small blind 25
+mitouflin posts big blind 50
+Dealt to manggy94 [7h 3d]
+*** PRE-FLOP *** 
+manggy94 folds
+squatvt folds
+Fanta-Orange calls 50
+-IU- folds
+BacSijp folds
+mitouflin checks
+*** FLOP *** [Tc Kc Qs]
+mitouflin bets 100
+Fanta-Orange calls 100
+*** TURN *** [Tc Kc Qs][3h]
+mitouflin bets 125
+Fanta-Orange calls 125
+*** RIVER *** [Tc Kc Qs 3h][Ks]
+mitouflin checks
+Fanta-Orange bets 383
+mitouflin calls 383
+*** SHOW DOWN ***
+Fanta-Orange shows [8c Qc] (Two pairs : Kings and Queens)
+mitouflin shows [Qd 6h] (Two pairs : Kings and Queens)
+mitouflin collected 671 from pot
+Fanta-Orange collected 670 from pot
+*** SUMMARY ***
+Total pot 1341 | No rake
+Board: [Tc Kc Qs 3h Ks]
+Seat 3: Fanta-Orange showed [8c Qc] and won 670 with Two pairs : Kings and Queens
+Seat 6: mitouflin (big blind) showed [Qd 6h] and won 671 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #596949799299710996-7-1450010997 - Holdem no limit (25/50) - 2015/12/13 12:49:57 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (12275)
+Seat 2: squatvt (9925)
+Seat 3: Fanta-Orange (7924)
+Seat 4: -IU- (5425)
+Seat 5: BacSijp (11773)
+Seat 6: mitouflin (12678)
+*** ANTE/BLINDS ***
+mitouflin posts small blind 25
+manggy94 posts big blind 50
+Dealt to manggy94 [Ad 8c]
+*** PRE-FLOP *** 
+squatvt folds
+Fanta-Orange folds
+-IU- folds
+BacSijp folds
+mitouflin calls 25
+manggy94 checks
+*** FLOP *** [6c Td Jh]
+mitouflin bets 50
+manggy94 calls 50
+*** TURN *** [6c Td Jh][9d]
+mitouflin bets 50
+manggy94 calls 50
+*** RIVER *** [6c Td Jh 9d][5h]
+mitouflin bets 50
+manggy94 calls 50
+*** SHOW DOWN ***
+manggy94 shows [Ad 8c] (High card : Ace)
+mitouflin shows [8h Ts] (One pair : Tens)
+mitouflin collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [6c Td Jh 9d 5h]
+Seat 1: manggy94 (big blind) showed [Ad 8c] and lost with High card : Ace
+Seat 6: mitouflin (small blind) showed [8h Ts] and won 400 with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #596949799299710996-8-1450011026 - Holdem no limit (25/50) - 2015/12/13 12:50:26 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (12075)
+Seat 2: squatvt (9925)
+Seat 3: Fanta-Orange (7924)
+Seat 4: -IU- (5425)
+Seat 5: BacSijp (11773)
+Seat 6: mitouflin (12878)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 25
+squatvt posts big blind 50
+Dealt to manggy94 [2c Kh]
+*** PRE-FLOP *** 
+Fanta-Orange folds
+-IU- raises 125 to 175
+BacSijp calls 175
+mitouflin folds
+manggy94 calls 150
+squatvt folds
+*** FLOP *** [7d Td Ac]
+manggy94 checks
+-IU- bets 383
+BacSijp calls 383
+manggy94 folds
+*** TURN *** [7d Td Ac][7s]
+-IU- bets 894
+BacSijp calls 894
+*** RIVER *** [7d Td Ac 7s][4h]
+-IU- bets 1565
+BacSijp folds
+-IU- shows [8h Kd] (One pair : 7)
+-IU- collected 4694 from pot
+*** SUMMARY ***
+Total pot 4694 | No rake
+Board: [7d Td Ac 7s 4h]
+Seat 4: -IU- showed [8h Kd] and won 4694 with One pair : 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #596949799299710996-9-1450011072 - Holdem no limit (25/50) - 2015/12/13 12:51:12 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (11900)
+Seat 2: squatvt (9875)
+Seat 3: Fanta-Orange (7924)
+Seat 4: -IU- (7102)
+Seat 5: BacSijp (10321)
+Seat 6: mitouflin (12878)
+*** ANTE/BLINDS ***
+squatvt posts small blind 25
+Fanta-Orange posts big blind 50
+Dealt to manggy94 [9s 2s]
+*** PRE-FLOP *** 
+-IU- raises 100 to 150
+BacSijp folds
+mitouflin calls 150
+manggy94 folds
+squatvt raises 300 to 450
+Fanta-Orange folds
+-IU- calls 300
+mitouflin calls 300
+*** FLOP *** [Qc 8h 6c]
+squatvt bets 700
+-IU- raises 700 to 1400
+mitouflin calls 1400
+squatvt calls 700
+*** TURN *** [Qc 8h 6c][5h]
+squatvt checks
+-IU- checks
+mitouflin checks
+*** RIVER *** [Qc 8h 6c 5h][Qh]
+squatvt checks
+-IU- checks
+mitouflin bets 2800
+squatvt calls 2800
+-IU- calls 2800
+*** SHOW DOWN ***
+squatvt shows [Ac Kd] (One pair : Queens)
+mitouflin shows [8s 9h] (Two pairs : Queens and 8)
+-IU- shows [Qs 9d] (Trips of Queens)
+-IU- collected 14000 from pot
+*** SUMMARY ***
+Total pot 14000 | No rake
+Board: [Qc 8h 6c 5h Qh]
+Seat 2: squatvt (small blind) showed [Ac Kd] and lost with One pair : Queens
+Seat 4: -IU- showed [Qs 9d] and won 14000 with Trips of Queens
+Seat 6: mitouflin showed [8s 9h] and lost with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #596949799299710996-10-1450011138 - Holdem no limit (25/50) - 2015/12/13 12:52:18 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (11900)
+Seat 2: squatvt (5225)
+Seat 3: Fanta-Orange (7874)
+Seat 4: -IU- (16452)
+Seat 5: BacSijp (10321)
+Seat 6: mitouflin (8228)
+*** ANTE/BLINDS ***
+Fanta-Orange posts small blind 25
+-IU- posts big blind 50
+Dealt to manggy94 [6s 3s]
+*** PRE-FLOP *** 
+BacSijp folds
+mitouflin raises 200 to 250
+manggy94 folds
+squatvt calls 250
+Fanta-Orange folds
+-IU- folds
+*** FLOP *** [5h Td Kd]
+mitouflin bets 7978 and is all-in
+squatvt folds
+mitouflin collected 8553 from pot
+*** SUMMARY ***
+Total pot 8553 | No rake
+Board: [5h Td Kd]
+Seat 6: mitouflin won 8553
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #596949799299710996-11-1450011179 - Holdem no limit (25/50) - 2015/12/13 12:52:59 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (11900)
+Seat 2: squatvt (4975)
+Seat 3: Fanta-Orange (7849)
+Seat 4: -IU- (16402)
+Seat 5: BacSijp (10321)
+Seat 6: mitouflin (8553)
+*** ANTE/BLINDS ***
+-IU- posts small blind 25
+BacSijp posts big blind 50
+Dealt to manggy94 [6d Th]
+*** PRE-FLOP *** 
+mitouflin raises 200 to 250
+manggy94 folds
+squatvt folds
+Fanta-Orange folds
+-IU- folds
+BacSijp calls 200
+*** FLOP *** [Jc 8d 3h]
+BacSijp checks
+mitouflin bets 300
+BacSijp calls 300
+*** TURN *** [Jc 8d 3h][2d]
+BacSijp checks
+mitouflin checks
+*** RIVER *** [Jc 8d 3h 2d][5c]
+BacSijp bets 225
+mitouflin folds
+BacSijp collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [Jc 8d 3h 2d 5c]
+Seat 5: BacSijp (big blind) won 1350
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #596949799299710996-12-1450011230 - Holdem no limit (50/100) - 2015/12/13 12:53:50 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (11900)
+Seat 2: squatvt (4975)
+Seat 3: Fanta-Orange (7849)
+Seat 4: -IU- (16377)
+Seat 5: BacSijp (10896)
+Seat 6: mitouflin (8003)
+*** ANTE/BLINDS ***
+BacSijp posts small blind 50
+mitouflin posts big blind 100
+Dealt to manggy94 [Th 2h]
+*** PRE-FLOP *** 
+manggy94 folds
+squatvt raises 200 to 300
+Fanta-Orange folds
+-IU- calls 300
+BacSijp folds
+mitouflin folds
+*** FLOP *** [6h 4c 9d]
+squatvt checks
+-IU- checks
+*** TURN *** [6h 4c 9d][7d]
+squatvt checks
+-IU- checks
+*** RIVER *** [6h 4c 9d 7d][Qs]
+squatvt checks
+-IU- checks
+*** SHOW DOWN ***
+squatvt shows [8s As] (High card : Ace)
+-IU- shows [Ac Jh] (High card : Ace)
+-IU- collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [6h 4c 9d 7d Qs]
+Seat 2: squatvt showed [8s As] and lost with High card : Ace
+Seat 4: -IU- (button) showed [Ac Jh] and won 750 with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #596949799299710996-13-1450011272 - Holdem no limit (50/100) - 2015/12/13 12:54:32 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (11900)
+Seat 2: squatvt (4675)
+Seat 3: Fanta-Orange (7849)
+Seat 4: -IU- (16827)
+Seat 5: BacSijp (10846)
+Seat 6: mitouflin (7903)
+*** ANTE/BLINDS ***
+mitouflin posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [Qc 8s]
+*** PRE-FLOP *** 
+squatvt folds
+Fanta-Orange folds
+-IU- folds
+BacSijp raises 150 to 250
+mitouflin calls 200
+manggy94 folds
+*** FLOP *** [6h Jc 9s]
+mitouflin bets 250
+BacSijp raises 1100 to 1350
+mitouflin raises 6303 to 7653 and is all-in
+BacSijp calls 6303
+*** TURN *** [6h Jc 9s][Kh]
+*** RIVER *** [6h Jc 9s Kh][2h]
+*** SHOW DOWN ***
+BacSijp shows [Js As] (One pair : Jacks)
+mitouflin shows [9h 7h] (Flush King high)
+mitouflin collected 15906 from pot
+*** SUMMARY ***
+Total pot 15906 | No rake
+Board: [6h Jc 9s Kh 2h]
+Seat 5: BacSijp (button) showed [Js As] and lost with One pair : Jacks
+Seat 6: mitouflin (small blind) showed [9h 7h] and won 15906 with Flush King high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #596949799299710996-14-1450011602 - Holdem no limit (50/100) - 2015/12/13 13:00:02 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (11800)
+Seat 2: squatvt (4675)
+Seat 3: Fanta-Orange (7849)
+Seat 4: -IU- (16827)
+Seat 5: BacSijp (2943)
+Seat 6: mitouflin (15906)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 50
+squatvt posts big blind 100
+Dealt to manggy94 [Js Kd]
+*** PRE-FLOP *** 
+Fanta-Orange raises 200 to 300
+-IU- calls 300
+BacSijp folds
+mitouflin calls 300
+manggy94 calls 250
+squatvt raises 4375 to 4675 and is all-in
+Fanta-Orange folds
+-IU- folds
+mitouflin folds
+manggy94 calls 4375
+*** FLOP *** [2c 4c 3d]
+*** TURN *** [2c 4c 3d][Tc]
+*** RIVER *** [2c 4c 3d Tc][3c]
+*** SHOW DOWN ***
+manggy94 shows [Js Kd] (One pair : 3)
+squatvt shows [Kc Qc] (Flush King high)
+squatvt collected 10250 from pot
+*** SUMMARY ***
+Total pot 10250 | No rake
+Board: [2c 4c 3d Tc 3c]
+Seat 1: manggy94 (small blind) showed [Js Kd] and lost with One pair : 3
+Seat 2: squatvt (big blind) showed [Kc Qc] and won 10250 with Flush King high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #596949799299710996-15-1450011678 - Holdem no limit (50/100) - 2015/12/13 13:01:18 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (7125)
+Seat 2: squatvt (10250)
+Seat 3: Fanta-Orange (7549)
+Seat 4: -IU- (16527)
+Seat 5: BacSijp (2943)
+Seat 6: mitouflin (15606)
+*** ANTE/BLINDS ***
+squatvt posts small blind 50
+Fanta-Orange posts big blind 100
+Dealt to manggy94 [9c 6h]
+*** PRE-FLOP *** 
+-IU- raises 400 to 500
+BacSijp folds
+mitouflin calls 500
+manggy94 folds
+squatvt folds
+Fanta-Orange calls 400
+*** FLOP *** [8h Ac 9d]
+Fanta-Orange checks
+-IU- bets 775
+mitouflin calls 775
+Fanta-Orange folds
+*** TURN *** [8h Ac 9d][6s]
+-IU- bets 1550
+mitouflin folds
+-IU- collected 4650 from pot
+*** SUMMARY ***
+Total pot 4650 | No rake
+Board: [8h Ac 9d 6s]
+Seat 4: -IU- won 4650
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #596949799299710996-16-1450011715 - Holdem no limit (50/100) - 2015/12/13 13:01:55 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (7125)
+Seat 2: squatvt (10200)
+Seat 3: Fanta-Orange (7049)
+Seat 4: -IU- (18352)
+Seat 5: BacSijp (2943)
+Seat 6: mitouflin (14331)
+*** ANTE/BLINDS ***
+Fanta-Orange posts small blind 50
+-IU- posts big blind 100
+Dealt to manggy94 [6d Tc]
+*** PRE-FLOP *** 
+BacSijp folds
+mitouflin raises 400 to 500
+manggy94 folds
+squatvt folds
+Fanta-Orange calls 450
+-IU- calls 400
+*** FLOP *** [6h 2c Kc]
+Fanta-Orange checks
+-IU- checks
+mitouflin bets 750
+Fanta-Orange calls 750
+-IU- folds
+*** TURN *** [6h 2c Kc][2d]
+Fanta-Orange bets 1500
+mitouflin folds
+Fanta-Orange collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Board: [6h 2c Kc 2d]
+Seat 3: Fanta-Orange (small blind) won 4500
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #596949799299710996-17-1450011768 - Holdem no limit (50/100) - 2015/12/13 13:02:48 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (7125)
+Seat 2: squatvt (10200)
+Seat 3: Fanta-Orange (8799)
+Seat 4: -IU- (17852)
+Seat 5: BacSijp (2943)
+Seat 6: mitouflin (13081)
+*** ANTE/BLINDS ***
+-IU- posts small blind 50
+BacSijp posts big blind 100
+Dealt to manggy94 [9s 8h]
+*** PRE-FLOP *** 
+mitouflin folds
+manggy94 folds
+squatvt raises 200 to 300
+Fanta-Orange folds
+-IU- calls 250
+BacSijp raises 700 to 1000
+squatvt calls 700
+-IU- calls 700
+*** FLOP *** [Jh 3d 8c]
+-IU- checks
+BacSijp bets 1943 and is all-in
+squatvt folds
+-IU- calls 1943
+*** TURN *** [Jh 3d 8c][7c]
+*** RIVER *** [Jh 3d 8c 7c][Td]
+*** SHOW DOWN ***
+-IU- shows [Jc 6c] (One pair : Jacks)
+BacSijp shows [Ks Kc] (One pair : Kings)
+BacSijp collected 6886 from pot
+*** SUMMARY ***
+Total pot 6886 | No rake
+Board: [Jh 3d 8c 7c Td]
+Seat 4: -IU- (small blind) showed [Jc 6c] and lost with One pair : Jacks
+Seat 5: BacSijp (big blind) showed [Ks Kc] and won 6886 with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #596949799299710996-18-1450011849 - Holdem no limit (50/100) - 2015/12/13 13:04:09 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (7125)
+Seat 2: squatvt (9200)
+Seat 3: Fanta-Orange (8799)
+Seat 4: -IU- (14909)
+Seat 5: BacSijp (6886)
+Seat 6: mitouflin (13081)
+*** ANTE/BLINDS ***
+BacSijp posts small blind 50
+mitouflin posts big blind 100
+Dealt to manggy94 [Jc Ac]
+*** PRE-FLOP *** 
+manggy94 raises 250 to 350
+squatvt folds
+Fanta-Orange calls 350
+-IU- folds
+BacSijp folds
+mitouflin calls 250
+*** FLOP *** [5d 6s 8d]
+mitouflin checks
+manggy94 bets 1100
+Fanta-Orange folds
+mitouflin folds
+manggy94 collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | No rake
+Board: [5d 6s 8d]
+Seat 1: manggy94 won 2200
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #596949799299710996-19-1450011875 - Holdem no limit (50/100) - 2015/12/13 13:04:35 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (7875)
+Seat 2: squatvt (9200)
+Seat 3: Fanta-Orange (8449)
+Seat 4: -IU- (14909)
+Seat 5: BacSijp (6836)
+Seat 6: mitouflin (12731)
+*** ANTE/BLINDS ***
+mitouflin posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [Th 5h]
+*** PRE-FLOP *** 
+squatvt folds
+Fanta-Orange folds
+-IU- raises 200 to 300
+BacSijp folds
+mitouflin calls 250
+manggy94 calls 200
+*** FLOP *** [6d 9s Jc]
+mitouflin bets 900
+manggy94 folds
+-IU- calls 900
+*** TURN *** [6d 9s Jc][8s]
+mitouflin bets 11531 and is all-in
+-IU- folds
+mitouflin collected 14231 from pot
+*** SUMMARY ***
+Total pot 14231 | No rake
+Board: [6d 9s Jc 8s]
+Seat 6: mitouflin (small blind) won 14231
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #596949799299710996-20-1450011909 - Holdem no limit (50/100) - 2015/12/13 13:05:09 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (7575)
+Seat 2: squatvt (9200)
+Seat 3: Fanta-Orange (8449)
+Seat 4: -IU- (13709)
+Seat 5: BacSijp (6836)
+Seat 6: mitouflin (14231)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 50
+squatvt posts big blind 100
+Dealt to manggy94 [3h Qh]
+*** PRE-FLOP *** 
+Fanta-Orange folds
+-IU- raises 300 to 400
+BacSijp folds
+mitouflin calls 400
+manggy94 folds
+squatvt folds
+*** FLOP *** [9c Kc Kd]
+-IU- bets 633
+mitouflin folds
+-IU- collected 1583 from pot
+*** SUMMARY ***
+Total pot 1583 | No rake
+Board: [9c Kc Kd]
+Seat 4: -IU- won 1583
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #596949799299710996-21-1450011933 - Holdem no limit (50/100) - 2015/12/13 13:05:33 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (7525)
+Seat 2: squatvt (9100)
+Seat 3: Fanta-Orange (8449)
+Seat 4: -IU- (14259)
+Seat 5: BacSijp (6836)
+Seat 6: mitouflin (13831)
+*** ANTE/BLINDS ***
+squatvt posts small blind 50
+Fanta-Orange posts big blind 100
+Dealt to manggy94 [7s Qc]
+*** PRE-FLOP *** 
+-IU- folds
+BacSijp folds
+mitouflin folds
+manggy94 folds
+squatvt raises 300 to 400
+Fanta-Orange folds
+squatvt collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 2: squatvt (small blind) won 500
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #596949799299710996-22-1450011952 - Holdem no limit (50/100) - 2015/12/13 13:05:52 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (7525)
+Seat 2: squatvt (9200)
+Seat 3: Fanta-Orange (8349)
+Seat 4: -IU- (14259)
+Seat 5: BacSijp (6836)
+Seat 6: mitouflin (13831)
+*** ANTE/BLINDS ***
+Fanta-Orange posts small blind 50
+-IU- posts big blind 100
+Dealt to manggy94 [8d 4c]
+*** PRE-FLOP *** 
+BacSijp folds
+mitouflin raises 400 to 500
+manggy94 folds
+squatvt folds
+Fanta-Orange calls 450
+-IU- calls 400
+*** FLOP *** [Qc 9h 9s]
+Fanta-Orange bets 750
+-IU- folds
+mitouflin raises 12581 to 13331 and is all-in
+Fanta-Orange calls 7099 and is all-in
+*** TURN *** [Qc 9h 9s][Ac]
+*** RIVER *** [Qc 9h 9s Ac][8c]
+*** SHOW DOWN ***
+Fanta-Orange shows [7h 7c] (Two pairs : 9 and 7)
+mitouflin shows [Jc Jd] (Two pairs : Jacks and 9)
+mitouflin collected 22680 from pot
+*** SUMMARY ***
+Total pot 22680 | No rake
+Board: [Qc 9h 9s Ac 8c]
+Seat 3: Fanta-Orange (small blind) showed [7h 7c] and lost with Two pairs : 9 and 7
+Seat 6: mitouflin showed [Jc Jd] and won 22680 with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 2 - HandId: #596949799299710996-23-1450011991 - Holdem no limit (75/150) - 2015/12/13 13:06:31 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (7525)
+Seat 2: squatvt (9200)
+Seat 4: -IU- (13759)
+Seat 5: BacSijp (6836)
+Seat 6: mitouflin (22680)
+*** ANTE/BLINDS ***
+-IU- posts small blind 75
+BacSijp posts big blind 150
+Dealt to manggy94 [5c Kc]
+*** PRE-FLOP *** 
+mitouflin calls 150
+manggy94 calls 150
+squatvt folds
+-IU- folds
+BacSijp checks
+*** FLOP *** [2h 3h 7c]
+BacSijp checks
+mitouflin bets 225
+manggy94 raises 975 to 1200
+BacSijp raises 5486 to 6686 and is all-in
+mitouflin folds
+manggy94 calls 5486
+*** TURN *** [2h 3h 7c][Jd]
+*** RIVER *** [2h 3h 7c Jd][6s]
+*** SHOW DOWN ***
+manggy94 shows [5c Kc] (High card : King)
+BacSijp shows [2d 2c] (Trips of 2)
+BacSijp collected 14122 from pot
+*** SUMMARY ***
+Total pot 14122 | No rake
+Board: [2h 3h 7c Jd 6s]
+Seat 1: manggy94 showed [5c Kc] and lost with High card : King
+Seat 5: BacSijp (big blind) showed [2d 2c] and won 14122 with Trips of 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 2 - HandId: #596949799299710996-24-1450012029 - Holdem no limit (75/150) - 2015/12/13 13:07:09 UTC
+Table: 'Kill The Fish(138988206)#019' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (689)
+Seat 2: squatvt (9200)
+Seat 3: kk44 (10000)
+Seat 4: -IU- (13684)
+Seat 5: BacSijp (14122)
+Seat 6: mitouflin (22305)
+*** ANTE/BLINDS ***
+BacSijp posts small blind 75
+mitouflin posts big blind 150
+Dealt to manggy94 [Td Js]
+*** PRE-FLOP *** 
+manggy94 raises 539 to 689 and is all-in
+squatvt folds
+kk44 calls 689
+-IU- folds
+BacSijp folds
+mitouflin raises 21616 to 22305 and is all-in
+kk44 calls 9311 and is all-in
+*** FLOP *** [Th As 7h]
+*** TURN *** [Th As 7h][8s]
+*** RIVER *** [Th As 7h 8s][3c]
+*** SHOW DOWN ***
+manggy94 shows [Td Js] (One pair : Tens)
+kk44 shows [Ts Ah] (Two pairs : Aces and Tens)
+mitouflin shows [Ac Ad] (Trips of Aces)
+mitouflin collected 33069 from pot
+*** SUMMARY ***
+Total pot 33069 | No rake
+Board: [Th As 7h 8s 3c]
+Seat 1: manggy94 showed [Td Js] and lost with One pair : Tens
+Seat 3: kk44 showed [Ts Ah] and lost with Two pairs : Aces and Tens
+Seat 6: mitouflin (big blind) showed [Ac Ad] and won 33069 with Trips of Aces
+
+

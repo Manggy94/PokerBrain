@@ -1,0 +1,1378 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #1755523017011626577-1-1606843834 - Holdem no limit (12/50/100) - 2020/12/01 17:30:34 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #2 is the button
+Seat 1: Marconinho06 (20000)
+Seat 2: conena (20000)
+Seat 3: herveitalie (20000)
+Seat 4: manggy94 (20000)
+Seat 5: mckew (20000)
+Seat 6: Sala057 (20000)
+*** ANTE/BLINDS ***
+herveitalie posts ante 12
+manggy94 posts ante 12
+Marconinho06 posts ante 12
+conena posts ante 12
+mckew posts ante 12
+Sala057 posts ante 12
+herveitalie posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [9d Jc]
+*** PRE-FLOP *** 
+mckew folds
+Sala057 folds
+Marconinho06 folds
+conena calls 100
+herveitalie calls 50
+manggy94 checks
+*** FLOP *** [Tc 8h 6s]
+herveitalie checks
+manggy94 bets 186
+conena folds
+herveitalie folds
+manggy94 collected 558 from pot
+*** SUMMARY ***
+Total pot 558 | No rake
+Board: [Tc 8h 6s]
+Seat 4: manggy94 (big blind) won 558
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #1755523017011626577-2-1606843944 - Holdem no limit (12/50/100) - 2020/12/01 17:32:24 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #3 is the button
+Seat 1: Marconinho06 (19988)
+Seat 2: conena (19888)
+Seat 3: herveitalie (19888)
+Seat 4: manggy94 (20260)
+Seat 5: mckew (19988)
+Seat 6: Sala057 (19988)
+*** ANTE/BLINDS ***
+manggy94 posts ante 12
+mckew posts ante 12
+Marconinho06 posts ante 12
+conena posts ante 12
+herveitalie posts ante 12
+Sala057 posts ante 12
+manggy94 posts small blind 50
+mckew posts big blind 100
+Dealt to manggy94 [5d 8s]
+*** PRE-FLOP *** 
+Sala057 folds
+Marconinho06 folds
+conena raises 150 to 250
+herveitalie folds
+manggy94 folds
+mckew calls 150
+*** FLOP *** [Ac 4d Ts]
+mckew bets 100
+conena raises 150 to 250
+mckew calls 150
+*** TURN *** [Ac 4d Ts][Kd]
+mckew bets 100
+conena calls 100
+*** RIVER *** [Ac 4d Ts Kd][As]
+mckew bets 661
+conena folds
+mckew collected 1983 from pot
+*** SUMMARY ***
+Total pot 1983 | No rake
+Board: [Ac 4d Ts Kd As]
+Seat 5: mckew (big blind) won 1983
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1755523017011626577-3-1606843979 - Holdem no limit (14/60/120) - 2020/12/01 17:32:59 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #4 is the button
+Seat 1: Marconinho06 (19976)
+Seat 2: conena (19276)
+Seat 3: herveitalie (19876)
+Seat 4: manggy94 (20198)
+Seat 5: mckew (20698)
+Seat 6: Sala057 (19976)
+*** ANTE/BLINDS ***
+mckew posts ante 14
+Sala057 posts ante 14
+Marconinho06 posts ante 14
+conena posts ante 14
+herveitalie posts ante 14
+manggy94 posts ante 14
+mckew posts small blind 60
+Sala057 posts big blind 120
+Dealt to manggy94 [7d 9d]
+*** PRE-FLOP *** 
+Marconinho06 folds
+conena folds
+herveitalie calls 120
+manggy94 calls 120
+mckew calls 60
+Sala057 checks
+*** FLOP *** [Ad 7s Qs]
+mckew bets 120
+Sala057 folds
+herveitalie folds
+manggy94 calls 120
+*** TURN *** [Ad 7s Qs][Jh]
+mckew bets 120
+manggy94 calls 120
+*** RIVER *** [Ad 7s Qs Jh][6s]
+mckew bets 120
+manggy94 raises 816 to 936
+mckew calls 816
+*** SHOW DOWN ***
+manggy94 shows [7d 9d] (One pair : 7)
+mckew shows [2h Ac] (One pair : Aces)
+mckew collected 2916 from pot
+*** SUMMARY ***
+Total pot 2916 | No rake
+Board: [Ad 7s Qs Jh 6s]
+Seat 4: manggy94 (button) showed [7d 9d] and lost with One pair : 7
+Seat 5: mckew (small blind) showed [2h Ac] and won 2916 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1755523017011626577-4-1606844011 - Holdem no limit (14/60/120) - 2020/12/01 17:33:31 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #5 is the button
+Seat 1: Marconinho06 (19962)
+Seat 2: conena (19262)
+Seat 3: herveitalie (19742)
+Seat 4: manggy94 (18888)
+Seat 5: mckew (22304)
+Seat 6: Sala057 (19842)
+*** ANTE/BLINDS ***
+Sala057 posts ante 14
+Marconinho06 posts ante 14
+conena posts ante 14
+herveitalie posts ante 14
+manggy94 posts ante 14
+mckew posts ante 14
+Sala057 posts small blind 60
+Marconinho06 posts big blind 120
+Dealt to manggy94 [4c 9d]
+*** PRE-FLOP *** 
+conena calls 120
+herveitalie folds
+manggy94 folds
+mckew calls 120
+Sala057 folds
+Marconinho06 checks
+*** FLOP *** [9h 8s 8h]
+Marconinho06 checks
+conena checks
+mckew checks
+*** TURN *** [9h 8s 8h][5d]
+Marconinho06 checks
+conena checks
+mckew bets 120
+Marconinho06 folds
+conena calls 120
+*** RIVER *** [9h 8s 8h 5d][Qh]
+conena checks
+mckew bets 120
+conena calls 120
+*** SHOW DOWN ***
+conena shows [6d 5s] (Two pairs : 8 and 5)
+mckew shows [Qc 6s] (Two pairs : Queens and 8)
+mckew collected 984 from pot
+*** SUMMARY ***
+Total pot 984 | No rake
+Board: [9h 8s 8h 5d Qh]
+Seat 2: conena showed [6d 5s] and lost with Two pairs : 8 and 5
+Seat 5: mckew (button) showed [Qc 6s] and won 984 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1755523017011626577-5-1606844056 - Holdem no limit (14/60/120) - 2020/12/01 17:34:16 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #6 is the button
+Seat 1: Marconinho06 (19828)
+Seat 2: conena (18888)
+Seat 3: herveitalie (19728)
+Seat 4: manggy94 (18874)
+Seat 5: mckew (22914)
+Seat 6: Sala057 (19768)
+*** ANTE/BLINDS ***
+Marconinho06 posts ante 14
+conena posts ante 14
+herveitalie posts ante 14
+manggy94 posts ante 14
+mckew posts ante 14
+Sala057 posts ante 14
+Marconinho06 posts small blind 60
+conena posts big blind 120
+Dealt to manggy94 [2h Jc]
+*** PRE-FLOP *** 
+herveitalie folds
+manggy94 calls 120
+mckew folds
+Sala057 folds
+Marconinho06 folds
+conena checks
+*** FLOP *** [3c 2c 9d]
+conena checks
+manggy94 bets 192
+conena calls 192
+*** TURN *** [3c 2c 9d][3h]
+conena checks
+manggy94 bets 384
+conena calls 384
+*** RIVER *** [3c 2c 9d 3h][9c]
+conena checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [2h Jc] (Two pairs : 9 and 3)
+conena shows [Ac 2s] (Two pairs : 9 and 3)
+conena collected 1536 from pot
+*** SUMMARY ***
+Total pot 1536 | No rake
+Board: [3c 2c 9d 3h 9c]
+Seat 2: conena (big blind) showed [Ac 2s] and won 1536 with Two pairs : 9 and 3
+Seat 4: manggy94 showed [2h Jc] and lost with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1755523017011626577-6-1606844091 - Holdem no limit (14/60/120) - 2020/12/01 17:34:51 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #1 is the button
+Seat 1: Marconinho06 (19754)
+Seat 2: conena (19714)
+Seat 3: herveitalie (19714)
+Seat 4: manggy94 (18164)
+Seat 5: mckew (22900)
+Seat 6: Sala057 (19754)
+*** ANTE/BLINDS ***
+conena posts ante 14
+herveitalie posts ante 14
+Marconinho06 posts ante 14
+manggy94 posts ante 14
+mckew posts ante 14
+Sala057 posts ante 14
+conena posts small blind 60
+herveitalie posts big blind 120
+Dealt to manggy94 [Qd Qs]
+*** PRE-FLOP *** 
+manggy94 calls 120
+mckew folds
+Sala057 folds
+Marconinho06 folds
+conena calls 60
+herveitalie checks
+*** FLOP *** [4c 8d 3c]
+conena checks
+herveitalie checks
+manggy94 bets 222
+conena folds
+herveitalie calls 222
+*** TURN *** [4c 8d 3c][2s]
+herveitalie checks
+manggy94 bets 444
+herveitalie folds
+manggy94 collected 1332 from pot
+*** SUMMARY ***
+Total pot 1332 | No rake
+Board: [4c 8d 3c 2s]
+Seat 4: manggy94 won 1332
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1755523017011626577-7-1606844128 - Holdem no limit (16/70/140) - 2020/12/01 17:35:28 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #2 is the button
+Seat 1: Marconinho06 (19740)
+Seat 2: conena (19580)
+Seat 3: herveitalie (19358)
+Seat 4: manggy94 (18696)
+Seat 5: zine3 (20000)
+Seat 6: Sala057 (19740)
+*** ANTE/BLINDS ***
+herveitalie posts ante 16
+manggy94 posts ante 16
+Marconinho06 posts ante 16
+conena posts ante 16
+zine3 posts ante 16
+Sala057 posts ante 16
+herveitalie posts small blind 70
+manggy94 posts big blind 140
+Dealt to manggy94 [Ac 3h]
+*** PRE-FLOP *** 
+zine3 calls 140
+Sala057 folds
+Marconinho06 folds
+conena calls 140
+herveitalie folds
+manggy94 checks
+*** FLOP *** [4h Ts Qh]
+manggy94 checks
+zine3 checks
+conena checks
+*** TURN *** [4h Ts Qh][Kc]
+manggy94 checks
+zine3 checks
+conena checks
+*** RIVER *** [4h Ts Qh Kc][8d]
+manggy94 checks
+zine3 checks
+conena checks
+*** SHOW DOWN ***
+conena shows [3c 6c] (High card : King)
+manggy94 shows [Ac 3h] (High card : Ace)
+zine3 shows [5d Ad] (High card : Ace)
+zine3 collected 293 from pot
+manggy94 collected 293 from pot
+*** SUMMARY ***
+Total pot 586 | No rake
+Board: [4h Ts Qh Kc 8d]
+Seat 2: conena (button) showed [3c 6c] and lost with High card : King
+Seat 4: manggy94 (big blind) showed [Ac 3h] and won 293 with High card : Ace
+Seat 5: zine3 showed [5d Ad] and won 293 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1755523017011626577-8-1606844222 - Holdem no limit (16/70/140) - 2020/12/01 17:37:02 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #3 is the button
+Seat 1: Marconinho06 (19724)
+Seat 2: conena (19424)
+Seat 3: herveitalie (19272)
+Seat 4: manggy94 (18833)
+Seat 5: zine3 (20137)
+Seat 6: Sala057 (19724)
+*** ANTE/BLINDS ***
+manggy94 posts ante 16
+zine3 posts ante 16
+Marconinho06 posts ante 16
+conena posts ante 16
+herveitalie posts ante 16
+Sala057 posts ante 16
+manggy94 posts small blind 70
+zine3 posts big blind 140
+Dealt to manggy94 [Ks 2d]
+*** PRE-FLOP *** 
+Sala057 calls 140
+Marconinho06 folds
+conena calls 140
+herveitalie folds
+manggy94 calls 70
+zine3 checks
+*** FLOP *** [6c Ts 8d]
+manggy94 checks
+zine3 checks
+Sala057 checks
+conena bets 140
+manggy94 folds
+zine3 folds
+Sala057 calls 140
+*** TURN *** [6c Ts 8d][7h]
+Sala057 checks
+conena bets 140
+Sala057 calls 140
+*** RIVER *** [6c Ts 8d 7h][3h]
+Sala057 checks
+conena checks
+*** SHOW DOWN ***
+conena shows [8s Ac] (One pair : 8)
+Sala057 shows [8c 3c] (Two pairs : 8 and 3)
+Sala057 collected 1216 from pot
+*** SUMMARY ***
+Total pot 1216 | No rake
+Board: [6c Ts 8d 7h 3h]
+Seat 2: conena showed [8s Ac] and lost with One pair : 8
+Seat 6: Sala057 showed [8c 3c] and won 1216 with Two pairs : 8 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1755523017011626577-9-1606844287 - Holdem no limit (20/80/160) - 2020/12/01 17:38:07 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #4 is the button
+Seat 1: Marconinho06 (19708)
+Seat 2: conena (18988)
+Seat 3: herveitalie (19256)
+Seat 4: manggy94 (18677)
+Seat 5: zine3 (19981)
+Seat 6: Sala057 (20504)
+*** ANTE/BLINDS ***
+zine3 posts ante 20
+Sala057 posts ante 20
+Marconinho06 posts ante 20
+conena posts ante 20
+herveitalie posts ante 20
+manggy94 posts ante 20
+zine3 posts small blind 80
+Sala057 posts big blind 160
+Dealt to manggy94 [8s 5h]
+*** PRE-FLOP *** 
+Marconinho06 folds
+conena raises 240 to 400
+herveitalie folds
+manggy94 folds
+zine3 folds
+Sala057 folds
+conena collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Seat 2: conena won 760
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1755523017011626577-10-1606844309 - Holdem no limit (20/80/160) - 2020/12/01 17:38:29 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #5 is the button
+Seat 1: Marconinho06 (19688)
+Seat 2: conena (19328)
+Seat 3: herveitalie (19236)
+Seat 4: manggy94 (18657)
+Seat 5: zine3 (19881)
+Seat 6: Sala057 (20324)
+*** ANTE/BLINDS ***
+Sala057 posts ante 20
+Marconinho06 posts ante 20
+conena posts ante 20
+herveitalie posts ante 20
+manggy94 posts ante 20
+zine3 posts ante 20
+Sala057 posts small blind 80
+Marconinho06 posts big blind 160
+Dealt to manggy94 [5d 9s]
+*** PRE-FLOP *** 
+conena folds
+herveitalie raises 160 to 320
+manggy94 folds
+zine3 folds
+Sala057 folds
+Marconinho06 folds
+herveitalie collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Seat 3: herveitalie won 680
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1755523017011626577-11-1606844335 - Holdem no limit (20/80/160) - 2020/12/01 17:38:55 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #6 is the button
+Seat 1: Marconinho06 (19508)
+Seat 2: conena (19308)
+Seat 3: herveitalie (19576)
+Seat 4: manggy94 (18637)
+Seat 5: zine3 (19861)
+Seat 6: Sala057 (20224)
+*** ANTE/BLINDS ***
+Marconinho06 posts ante 20
+conena posts ante 20
+herveitalie posts ante 20
+manggy94 posts ante 20
+zine3 posts ante 20
+Sala057 posts ante 20
+Marconinho06 posts small blind 80
+conena posts big blind 160
+Dealt to manggy94 [9d Ah]
+*** PRE-FLOP *** 
+herveitalie folds
+manggy94 raises 160 to 320
+zine3 folds
+Sala057 folds
+Marconinho06 folds
+conena calls 160
+*** FLOP *** [9h 5c 8h]
+conena checks
+manggy94 bets 420
+conena calls 420
+*** TURN *** [9h 5c 8h][Jh]
+conena checks
+manggy94 bets 840
+conena raises 840 to 1680
+manggy94 calls 840
+*** RIVER *** [9h 5c 8h Jh][5h]
+conena checks
+manggy94 bets 2520
+conena calls 2520
+*** SHOW DOWN ***
+conena shows [Qs Ts] (Straight Queen high)
+manggy94 shows [9d Ah] (Flush Ace high)
+manggy94 collected 10080 from pot
+*** SUMMARY ***
+Total pot 10080 | No rake
+Board: [9h 5c 8h Jh 5h]
+Seat 2: conena (big blind) showed [Qs Ts] and lost with Straight Queen high
+Seat 4: manggy94 showed [9d Ah] and won 10080 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1755523017011626577-12-1606844373 - Holdem no limit (20/80/160) - 2020/12/01 17:39:33 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #1 is the button
+Seat 1: Marconinho06 (19408)
+Seat 2: conena (14348)
+Seat 3: herveitalie (19556)
+Seat 4: manggy94 (23757)
+Seat 5: zine3 (19841)
+Seat 6: Sala057 (20204)
+*** ANTE/BLINDS ***
+conena posts ante 20
+herveitalie posts ante 20
+Marconinho06 posts ante 20
+manggy94 posts ante 20
+zine3 posts ante 20
+Sala057 posts ante 20
+conena posts small blind 80
+herveitalie posts big blind 160
+Dealt to manggy94 [8c 7s]
+*** PRE-FLOP *** 
+manggy94 calls 160
+zine3 folds
+Sala057 calls 160
+Marconinho06 folds
+conena calls 80
+herveitalie checks
+*** FLOP *** [5d Ah Qh]
+conena bets 160
+herveitalie folds
+manggy94 folds
+Sala057 folds
+conena collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | No rake
+Board: [5d Ah Qh]
+Seat 2: conena (small blind) won 920
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1755523017011626577-13-1606844441 - Holdem no limit (25/100/200) - 2020/12/01 17:40:41 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #2 is the button
+Seat 1: Marconinho06 (19388)
+Seat 2: conena (14928)
+Seat 3: herveitalie (19376)
+Seat 4: manggy94 (23577)
+Seat 5: zine3 (19821)
+Seat 6: Sala057 (20024)
+*** ANTE/BLINDS ***
+herveitalie posts ante 25
+manggy94 posts ante 25
+Marconinho06 posts ante 25
+conena posts ante 25
+zine3 posts ante 25
+Sala057 posts ante 25
+herveitalie posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [7d Qs]
+*** PRE-FLOP *** 
+zine3 folds
+Sala057 folds
+Marconinho06 folds
+conena folds
+herveitalie calls 100
+manggy94 checks
+*** FLOP *** [8d 7c Kd]
+herveitalie checks
+manggy94 bets 275
+herveitalie calls 275
+*** TURN *** [8d 7c Kd][6d]
+herveitalie checks
+manggy94 bets 550
+herveitalie raises 550 to 1100
+manggy94 calls 550
+*** RIVER *** [8d 7c Kd 6d][9c]
+herveitalie bets 3200
+manggy94 folds
+herveitalie collected 6500 from pot
+*** SUMMARY ***
+Total pot 6500 | No rake
+Board: [8d 7c Kd 6d 9c]
+Seat 3: herveitalie (small blind) won 6500
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1755523017011626577-14-1606844492 - Holdem no limit (25/100/200) - 2020/12/01 17:41:32 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #3 is the button
+Seat 1: Marconinho06 (19363)
+Seat 2: conena (14903)
+Seat 3: herveitalie (21076)
+Seat 4: manggy94 (21977)
+Seat 5: zine3 (19796)
+Seat 6: Sala057 (19999)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+zine3 posts ante 25
+Marconinho06 posts ante 25
+conena posts ante 25
+herveitalie posts ante 25
+Sala057 posts ante 25
+manggy94 posts small blind 100
+zine3 posts big blind 200
+Dealt to manggy94 [6h Jd]
+*** PRE-FLOP *** 
+Sala057 folds
+Marconinho06 folds
+conena calls 200
+herveitalie folds
+manggy94 calls 100
+zine3 checks
+*** FLOP *** [6c Ad 9d]
+manggy94 bets 375
+zine3 folds
+conena calls 375
+*** TURN *** [6c Ad 9d][8c]
+manggy94 bets 750
+conena calls 750
+*** RIVER *** [6c Ad 9d 8c][4d]
+manggy94 bets 2250
+conena calls 2250
+*** SHOW DOWN ***
+conena shows [5s 6d] (One pair : 6)
+manggy94 shows [6h Jd] (One pair : 6)
+manggy94 collected 7500 from pot
+*** SUMMARY ***
+Total pot 7500 | No rake
+Board: [6c Ad 9d 8c 4d]
+Seat 2: conena showed [5s 6d] and lost with One pair : 6
+Seat 4: manggy94 (small blind) showed [6h Jd] and won 7500 with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1755523017011626577-15-1606844548 - Holdem no limit (25/100/200) - 2020/12/01 17:42:28 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #4 is the button
+Seat 1: Marconinho06 (19338)
+Seat 2: conena (11303)
+Seat 3: herveitalie (21051)
+Seat 4: manggy94 (25877)
+Seat 5: zine3 (19571)
+Seat 6: Sala057 (19974)
+*** ANTE/BLINDS ***
+zine3 posts ante 25
+Sala057 posts ante 25
+Marconinho06 posts ante 25
+conena posts ante 25
+herveitalie posts ante 25
+manggy94 posts ante 25
+zine3 posts small blind 100
+Sala057 posts big blind 200
+Dealt to manggy94 [9h 8s]
+*** PRE-FLOP *** 
+Marconinho06 folds
+conena calls 200
+herveitalie folds
+manggy94 calls 200
+zine3 calls 100
+Sala057 checks
+*** FLOP *** [7c Ah 2d]
+zine3 checks
+Sala057 checks
+conena checks
+manggy94 checks
+*** TURN *** [7c Ah 2d][8h]
+zine3 checks
+Sala057 checks
+conena checks
+manggy94 bets 475
+zine3 folds
+Sala057 calls 475
+conena folds
+*** RIVER *** [7c Ah 2d 8h][4s]
+Sala057 checks
+manggy94 checks
+*** SHOW DOWN ***
+Sala057 shows [Qh Ks] (High card : Ace)
+manggy94 shows [9h 8s] (One pair : 8)
+manggy94 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Board: [7c Ah 2d 8h 4s]
+Seat 4: manggy94 (button) showed [9h 8s] and won 1900 with One pair : 8
+Seat 6: Sala057 (big blind) showed [Qh Ks] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1755523017011626577-16-1606844640 - Holdem no limit (30/125/250) - 2020/12/01 17:44:00 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #5 is the button
+Seat 1: Marconinho06 (19313)
+Seat 2: conena (11078)
+Seat 3: herveitalie (21026)
+Seat 4: manggy94 (27077)
+Seat 5: zine3 (19346)
+Seat 6: Sala057 (19274)
+*** ANTE/BLINDS ***
+Sala057 posts ante 30
+Marconinho06 posts ante 30
+conena posts ante 30
+herveitalie posts ante 30
+manggy94 posts ante 30
+zine3 posts ante 30
+Sala057 posts small blind 125
+Marconinho06 posts big blind 250
+Dealt to manggy94 [8d 8c]
+*** PRE-FLOP *** 
+conena calls 250
+herveitalie folds
+manggy94 raises 500 to 750
+zine3 folds
+Sala057 calls 625
+Marconinho06 folds
+conena calls 500
+*** FLOP *** [3h Ts 4h]
+Sala057 checks
+conena checks
+manggy94 bets 1340
+Sala057 calls 1340
+conena calls 1340
+*** TURN *** [3h Ts 4h][Qd]
+Sala057 checks
+conena checks
+manggy94 checks
+*** RIVER *** [3h Ts 4h Qd][5c]
+Sala057 bets 5004
+conena folds
+manggy94 calls 5004
+*** SHOW DOWN ***
+manggy94 shows [8d 8c] (One pair : 8)
+Sala057 shows [6c Qs] (One pair : Queens)
+Sala057 collected 16708 from pot
+*** SUMMARY ***
+Total pot 16708 | No rake
+Board: [3h Ts 4h Qd 5c]
+Seat 4: manggy94 showed [8d 8c] and lost with One pair : 8
+Seat 6: Sala057 (small blind) showed [6c Qs] and won 16708 with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1755523017011626577-17-1606844689 - Holdem no limit (30/125/250) - 2020/12/01 17:44:49 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #6 is the button
+Seat 1: Marconinho06 (19033)
+Seat 2: conena (8958)
+Seat 3: herveitalie (20996)
+Seat 4: manggy94 (19953)
+Seat 5: zine3 (19316)
+Seat 6: Sala057 (28858)
+*** ANTE/BLINDS ***
+Marconinho06 posts ante 30
+conena posts ante 30
+herveitalie posts ante 30
+manggy94 posts ante 30
+zine3 posts ante 30
+Sala057 posts ante 30
+Marconinho06 posts small blind 125
+conena posts big blind 250
+Dealt to manggy94 [2c 8d]
+*** PRE-FLOP *** 
+herveitalie calls 250
+manggy94 folds
+zine3 calls 250
+Sala057 calls 250
+Marconinho06 folds
+conena checks
+*** FLOP *** [2d Ah Kc]
+conena checks
+herveitalie checks
+zine3 bets 250
+Sala057 raises 1082 to 1332
+conena folds
+herveitalie folds
+zine3 folds
+Sala057 shows [Ac 8h] (One pair : Aces)
+Sala057 collected 2887 from pot
+*** SUMMARY ***
+Total pot 2887 | No rake
+Board: [2d Ah Kc]
+Seat 6: Sala057 (button) showed [Ac 8h] and won 2887 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1755523017011626577-18-1606844748 - Holdem no limit (35/150/300) - 2020/12/01 17:45:48 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #1 is the button
+Seat 1: Marconinho06 (18878)
+Seat 2: conena (8678)
+Seat 3: herveitalie (20716)
+Seat 4: manggy94 (19923)
+Seat 5: zine3 (18786)
+Seat 6: Sala057 (30133)
+*** ANTE/BLINDS ***
+conena posts ante 35
+herveitalie posts ante 35
+Marconinho06 posts ante 35
+manggy94 posts ante 35
+zine3 posts ante 35
+Sala057 posts ante 35
+conena posts small blind 150
+herveitalie posts big blind 300
+Dealt to manggy94 [8c Js]
+*** PRE-FLOP *** 
+manggy94 calls 300
+zine3 folds
+Sala057 raises 984 to 1284
+Marconinho06 folds
+conena raises 7359 to 8643 and is all-in
+herveitalie folds
+manggy94 folds
+Sala057 calls 7359
+*** FLOP *** [9d Jh 8h]
+*** TURN *** [9d Jh 8h][4d]
+*** RIVER *** [9d Jh 8h 4d][Ah]
+*** SHOW DOWN ***
+conena shows [5d 2h] (High card : Ace)
+Sala057 shows [6d Ad] (One pair : Aces)
+Sala057 collected 18096 from pot
+*** SUMMARY ***
+Total pot 18096 | No rake
+Board: [9d Jh 8h 4d Ah]
+Seat 2: conena (small blind) showed [5d 2h] and lost with High card : Ace
+Seat 6: Sala057 showed [6d Ad] and won 18096 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1755523017011626577-19-1606844783 - Holdem no limit (35/150/300) - 2020/12/01 17:46:23 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #2 is the button
+Seat 1: Marconinho06 (18843)
+Seat 3: herveitalie (20381)
+Seat 4: manggy94 (19588)
+Seat 5: zine3 (18751)
+Seat 6: Sala057 (39551)
+*** ANTE/BLINDS ***
+herveitalie posts ante 35
+manggy94 posts ante 35
+Marconinho06 posts ante 35
+zine3 posts ante 35
+Sala057 posts ante 35
+herveitalie posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Js Ac]
+*** PRE-FLOP *** 
+zine3 folds
+Sala057 raises 700 to 1000
+Marconinho06 folds
+herveitalie folds
+manggy94 raises 4000 to 5000
+Sala057 calls 4000
+*** FLOP *** [7d 5c Th]
+manggy94 bets 5163
+Sala057 raises 29353 to 34516 and is all-in
+manggy94 calls 9390 and is all-in
+*** TURN *** [7d 5c Th][4d]
+*** RIVER *** [7d 5c Th 4d][Qc]
+*** SHOW DOWN ***
+manggy94 shows [Js Ac] (High card : Ace)
+Sala057 shows [Jd Kc] (High card : King)
+Sala057 collected 19963 from side pot 1
+manggy94 collected 39431 from main pot
+*** SUMMARY ***
+Total pot 59394 | No rake
+Board: [7d 5c Th 4d Qc]
+Seat 4: manggy94 (big blind) showed [Js Ac] and won 39431 with High card : Ace
+Seat 6: Sala057 showed [Jd Kc] and won 19963 with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1755523017011626577-20-1606844818 - Holdem no limit (35/150/300) - 2020/12/01 17:46:58 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #3 is the button
+Seat 1: Marconinho06 (18808)
+Seat 2: Loko86 (20000)
+Seat 3: herveitalie (20196)
+Seat 4: manggy94 (39431)
+Seat 5: zine3 (18716)
+Seat 6: Sala057 (19963)
+*** ANTE/BLINDS ***
+manggy94 posts ante 35
+zine3 posts ante 35
+Marconinho06 posts ante 35
+Loko86 posts ante 35
+herveitalie posts ante 35
+Sala057 posts ante 35
+manggy94 posts small blind 150
+zine3 posts big blind 300
+Dealt to manggy94 [5s 7c]
+*** PRE-FLOP *** 
+Sala057 folds
+Marconinho06 calls 300
+Loko86 folds
+herveitalie folds
+manggy94 folds
+zine3 checks
+*** FLOP *** [Ad 6c Kh]
+zine3 checks
+Marconinho06 checks
+*** TURN *** [Ad 6c Kh][Ts]
+zine3 checks
+Marconinho06 checks
+*** RIVER *** [Ad 6c Kh Ts][Kc]
+zine3 bets 300
+Marconinho06 raises 1560 to 1860
+zine3 folds
+Marconinho06 collected 3120 from pot
+*** SUMMARY ***
+Total pot 3120 | No rake
+Board: [Ad 6c Kh Ts Kc]
+Seat 1: Marconinho06 won 3120
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1755523017011626577-21-1606844869 - Holdem no limit (35/150/300) - 2020/12/01 17:47:49 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #4 is the button
+Seat 1: Marconinho06 (19733)
+Seat 2: Loko86 (19965)
+Seat 3: herveitalie (20161)
+Seat 4: manggy94 (39246)
+Seat 5: zine3 (18081)
+Seat 6: Sala057 (19928)
+*** ANTE/BLINDS ***
+zine3 posts ante 35
+Sala057 posts ante 35
+Marconinho06 posts ante 35
+Loko86 posts ante 35
+herveitalie posts ante 35
+manggy94 posts ante 35
+zine3 posts small blind 150
+Sala057 posts big blind 300
+Dealt to manggy94 [6c 3d]
+*** PRE-FLOP *** 
+Marconinho06 calls 300
+Loko86 calls 300
+herveitalie folds
+manggy94 calls 300
+zine3 folds
+Sala057 checks
+*** FLOP *** [9c 3c Th]
+Sala057 checks
+Marconinho06 checks
+Loko86 bets 300
+manggy94 calls 300
+Sala057 folds
+Marconinho06 calls 300
+*** TURN *** [9c 3c Th][2s]
+Marconinho06 checks
+Loko86 bets 300
+manggy94 raises 1050 to 1350
+Marconinho06 calls 1350
+Loko86 folds
+*** RIVER *** [9c 3c Th 2s][Tc]
+Marconinho06 bets 5460
+manggy94 calls 5460
+*** SHOW DOWN ***
+manggy94 shows [6c 3d] (Two pairs : Tens and 3)
+Marconinho06 shows [Qc Ac] (Flush Ace high)
+Marconinho06 collected 16380 from pot
+*** SUMMARY ***
+Total pot 16380 | No rake
+Board: [9c 3c Th 2s Tc]
+Seat 1: Marconinho06 showed [Qc Ac] and won 16380 with Flush Ace high
+Seat 4: manggy94 (button) showed [6c 3d] and lost with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #1755523017011626577-22-1606844968 - Holdem no limit (40/175/350) - 2020/12/01 17:49:28 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #5 is the button
+Seat 1: Marconinho06 (28668)
+Seat 2: Loko86 (19030)
+Seat 3: herveitalie (20126)
+Seat 4: manggy94 (31801)
+Seat 5: zine3 (17896)
+Seat 6: Sala057 (19593)
+*** ANTE/BLINDS ***
+Sala057 posts ante 40
+Marconinho06 posts ante 40
+Loko86 posts ante 40
+herveitalie posts ante 40
+manggy94 posts ante 40
+zine3 posts ante 40
+Sala057 posts small blind 175
+Marconinho06 posts big blind 350
+Dealt to manggy94 [3h 5s]
+*** PRE-FLOP *** 
+Loko86 calls 350
+herveitalie folds
+manggy94 calls 350
+zine3 folds
+Sala057 calls 175
+Marconinho06 checks
+*** FLOP *** [4c 9s 3d]
+Sala057 checks
+Marconinho06 checks
+Loko86 bets 350
+manggy94 calls 350
+Sala057 calls 350
+Marconinho06 calls 350
+*** TURN *** [4c 9s 3d][Qh]
+Sala057 checks
+Marconinho06 checks
+Loko86 bets 350
+manggy94 calls 350
+Sala057 folds
+Marconinho06 folds
+*** RIVER *** [4c 9s 3d Qh][2h]
+Loko86 bets 2173
+manggy94 folds
+Loko86 collected 5913 from pot
+*** SUMMARY ***
+Total pot 5913 | No rake
+Board: [4c 9s 3d Qh 2h]
+Seat 2: Loko86 won 5913
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #1755523017011626577-23-1606845050 - Holdem no limit (50/200/400) - 2020/12/01 17:50:50 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #6 is the button
+Seat 1: Marconinho06 (27928)
+Seat 2: Loko86 (21680)
+Seat 3: herveitalie (20086)
+Seat 4: manggy94 (30711)
+Seat 5: zine3 (17856)
+Seat 6: Sala057 (18853)
+*** ANTE/BLINDS ***
+Marconinho06 posts ante 50
+Loko86 posts ante 50
+herveitalie posts ante 50
+manggy94 posts ante 50
+zine3 posts ante 50
+Sala057 posts ante 50
+Marconinho06 posts small blind 200
+Loko86 posts big blind 400
+Dealt to manggy94 [4d 2s]
+*** PRE-FLOP *** 
+herveitalie raises 800 to 1200
+manggy94 folds
+zine3 folds
+Sala057 calls 1200
+Marconinho06 calls 1000
+Loko86 folds
+*** FLOP *** [Td Jd 9s]
+Marconinho06 checks
+herveitalie checks
+Sala057 bets 2686
+Marconinho06 calls 2686
+herveitalie raises 16150 to 18836 and is all-in
+Sala057 calls 14917 and is all-in
+Marconinho06 folds
+*** TURN *** [Td Jd 9s][Ad]
+*** RIVER *** [Td Jd 9s Ad][5h]
+*** SHOW DOWN ***
+herveitalie shows [9h 9c] (Trips of 9)
+Sala057 shows [Qc Kh] (Straight Ace high)
+Sala057 collected 42192 from main pot
+herveitalie collected 1233 from side pot 1
+*** SUMMARY ***
+Total pot 43425 | No rake
+Board: [Td Jd 9s Ad 5h]
+Seat 3: herveitalie showed [9h 9c] and won 1233 with Trips of 9
+Seat 6: Sala057 (button) showed [Qc Kh] and won 42192 with Straight Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #1755523017011626577-24-1606845123 - Holdem no limit (50/200/400) - 2020/12/01 17:52:03 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #1 is the button
+Seat 1: Marconinho06 (23992)
+Seat 2: Loko86 (21230)
+Seat 3: herveitalie (1233)
+Seat 4: manggy94 (30661)
+Seat 5: zine3 (17806)
+Seat 6: Sala057 (42192)
+*** ANTE/BLINDS ***
+Loko86 posts ante 50
+herveitalie posts ante 50
+Marconinho06 posts ante 50
+manggy94 posts ante 50
+zine3 posts ante 50
+Sala057 posts ante 50
+Loko86 posts small blind 200
+herveitalie posts big blind 400
+Dealt to manggy94 [2d 7h]
+*** PRE-FLOP *** 
+manggy94 folds
+zine3 calls 400
+Sala057 calls 400
+Marconinho06 calls 400
+Loko86 calls 200
+herveitalie raises 783 to 1183 and is all-in
+zine3 calls 783
+Sala057 calls 783
+Marconinho06 calls 783
+Loko86 calls 783
+*** FLOP *** [Qc 6h Js]
+Loko86 checks
+zine3 bets 800
+Sala057 raises 3998 to 4798
+Marconinho06 raises 17961 to 22759 and is all-in
+Loko86 folds
+zine3 calls 15773 and is all-in
+Sala057 raises 17961 to 40720
+*** TURN *** [Qc 6h Js][5d]
+*** RIVER *** [Qc 6h Js 5d][Ks]
+*** SHOW DOWN ***
+herveitalie shows [7c 9d] (High card : King)
+zine3 shows [Kh Jh] (Two pairs : Kings and Jacks)
+Marconinho06 shows [9s Ts] (Straight King high)
+Sala057 shows [Jd 6d] (Two pairs : Jacks and 6)
+Sala057 collected 17961 from side pot 1
+Marconinho06 collected 68306 from main pot
+*** SUMMARY ***
+Total pot 86267 | No rake
+Board: [Qc 6h Js 5d Ks]
+Seat 1: Marconinho06 (button) showed [9s Ts] and won 68306 with Straight King high
+Seat 3: herveitalie (big blind) showed [7c 9d] and lost with High card : King
+Seat 5: zine3 showed [Kh Jh] and lost with Two pairs : Kings and Jacks
+Seat 6: Sala057 showed [Jd 6d] and won 17961 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1755523017011626577-25-1606845214 - Holdem no limit (60/250/500) - 2020/12/01 17:53:34 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #2 is the button
+Seat 1: Marconinho06 (68306)
+Seat 2: Loko86 (19997)
+Seat 4: manggy94 (30611)
+Seat 6: Sala057 (18200)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+Marconinho06 posts ante 60
+Loko86 posts ante 60
+Sala057 posts ante 60
+manggy94 posts big blind 500
+Dealt to manggy94 [7d 9s]
+*** PRE-FLOP *** 
+Sala057 raises 17640 to 18140 and is all-in
+Marconinho06 calls 18140
+Loko86 folds
+manggy94 folds
+*** FLOP *** [2c 6h Qs]
+*** TURN *** [2c 6h Qs][5h]
+*** RIVER *** [2c 6h Qs 5h][Tc]
+*** SHOW DOWN ***
+Sala057 shows [Kd Ts] (One pair : Tens)
+Marconinho06 shows [Qc Qh] (Trips of Queens)
+Marconinho06 collected 37020 from pot
+*** SUMMARY ***
+Total pot 37020 | No rake
+Board: [2c 6h Qs 5h Tc]
+Seat 1: Marconinho06 showed [Qc Qh] and won 37020 with Trips of Queens
+Seat 6: Sala057 showed [Kd Ts] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1755523017011626577-26-1606845236 - Holdem no limit (60/250/500) - 2020/12/01 17:53:56 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #3 is the button
+Seat 1: Marconinho06 (87126)
+Seat 2: Loko86 (19937)
+Seat 3: sladiroger (19165)
+Seat 4: manggy94 (30051)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+Marconinho06 posts ante 60
+Loko86 posts ante 60
+manggy94 posts small blind 250
+Marconinho06 posts big blind 500
+Dealt to manggy94 [9d 8c]
+*** PRE-FLOP *** 
+Loko86 calls 500
+manggy94 calls 250
+Marconinho06 checks
+*** FLOP *** [2s Kc 6c]
+manggy94 checks
+Marconinho06 checks
+Loko86 bets 500
+manggy94 calls 500
+Marconinho06 folds
+*** TURN *** [2s Kc 6c][8d]
+manggy94 bets 1340
+Loko86 calls 1340
+*** RIVER *** [2s Kc 6c 8d][Td]
+manggy94 bets 2680
+Loko86 calls 2680
+*** SHOW DOWN ***
+manggy94 shows [9d 8c] (One pair : 8)
+Loko86 shows [Ks 7d] (One pair : Kings)
+Loko86 collected 10720 from pot
+*** SUMMARY ***
+Total pot 10720 | No rake
+Board: [2s Kc 6c 8d Td]
+Seat 2: Loko86 showed [Ks 7d] and won 10720 with One pair : Kings
+Seat 4: manggy94 (small blind) showed [9d 8c] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1755523017011626577-27-1606845276 - Holdem no limit (60/250/500) - 2020/12/01 17:54:36 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #4 is the button
+Seat 1: Marconinho06 (86566)
+Seat 2: Loko86 (25577)
+Seat 3: sladiroger (19165)
+Seat 4: manggy94 (24971)
+Seat 5: Xloi (19835)
+Seat 6: PROPRIANO2A (20000)
+*** ANTE/BLINDS ***
+Marconinho06 posts ante 60
+Loko86 posts ante 60
+sladiroger posts ante 60
+manggy94 posts ante 60
+Marconinho06 posts small blind 250
+Loko86 posts big blind 500
+Dealt to manggy94 [3c 4c]
+*** PRE-FLOP *** 
+sladiroger folds
+manggy94 calls 500
+Marconinho06 calls 250
+Loko86 checks
+*** FLOP *** [9c Qc 2s]
+Marconinho06 checks
+Loko86 checks
+manggy94 bets 870
+Marconinho06 calls 870
+Loko86 folds
+*** TURN *** [9c Qc 2s][Tc]
+Marconinho06 bets 500
+manggy94 raises 1990 to 2490
+Marconinho06 calls 1990
+*** RIVER *** [9c Qc 2s Tc][Ad]
+Marconinho06 checks
+manggy94 bets 4230
+Marconinho06 calls 4230
+*** SHOW DOWN ***
+Marconinho06 shows [Qd Ts] (Two pairs : Queens and Tens)
+manggy94 shows [3c 4c] (Flush Queen high)
+manggy94 collected 16920 from pot
+*** SUMMARY ***
+Total pot 16920 | No rake
+Board: [9c Qc 2s Tc Ad]
+Seat 1: Marconinho06 (small blind) showed [Qd Ts] and lost with Two pairs : Queens and Tens
+Seat 4: manggy94 (button) showed [3c 4c] and won 16920 with Flush Queen high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1755523017011626577-28-1606845665 - Holdem no limit (60/250/500) - 2020/12/01 18:01:05 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #1 is the button
+Seat 1: Marconinho06 (78416)
+Seat 2: Loko86 (25017)
+Seat 3: sladiroger (19105)
+Seat 4: manggy94 (33741)
+Seat 5: Xloi (19835)
+Seat 6: PROPRIANO2A (20000)
+*** ANTE/BLINDS ***
+Loko86 posts ante 60
+sladiroger posts ante 60
+Marconinho06 posts ante 60
+manggy94 posts ante 60
+Xloi posts ante 60
+PROPRIANO2A posts ante 60
+Loko86 posts small blind 250
+sladiroger posts big blind 500
+Dealt to manggy94 [3h Ac]
+*** PRE-FLOP *** 
+manggy94 raises 500 to 1000
+Xloi folds
+PROPRIANO2A calls 1000
+Marconinho06 calls 1000
+Loko86 calls 750
+sladiroger folds
+*** FLOP *** [Jc 2d Kd]
+Loko86 checks
+manggy94 checks
+PROPRIANO2A checks
+Marconinho06 checks
+*** TURN *** [Jc 2d Kd][Qh]
+Loko86 bets 3124
+manggy94 folds
+PROPRIANO2A calls 3124
+Marconinho06 folds
+*** RIVER *** [Jc 2d Kd Qh][3s]
+Loko86 bets 6372
+PROPRIANO2A raises 9444 to 15816 and is all-in
+Loko86 calls 9444
+*** SHOW DOWN ***
+PROPRIANO2A shows [6h Qd] (One pair : Queens)
+Loko86 shows [Qc 7d] (One pair : Queens)
+Loko86 collected 42740 from pot
+*** SUMMARY ***
+Total pot 42740 | No rake
+Board: [Jc 2d Kd Qh 3s]
+Seat 2: Loko86 (small blind) showed [Qc 7d] and won 42740 with One pair : Queens
+Seat 6: PROPRIANO2A showed [6h Qd] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #1755523017011626577-29-1606845733 - Holdem no limit (70/300/600) - 2020/12/01 18:02:13 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #2 is the button
+Seat 1: Marconinho06 (77356)
+Seat 2: Loko86 (47757)
+Seat 3: sladiroger (18545)
+Seat 4: manggy94 (32681)
+Seat 5: Xloi (19775)
+*** ANTE/BLINDS ***
+sladiroger posts ante 70
+manggy94 posts ante 70
+Marconinho06 posts ante 70
+Loko86 posts ante 70
+Xloi posts ante 70
+sladiroger posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [5d Tc]
+*** PRE-FLOP *** 
+Xloi folds
+Marconinho06 folds
+Loko86 calls 600
+sladiroger folds
+manggy94 checks
+*** FLOP *** [7h Js Ac]
+manggy94 checks
+Loko86 checks
+*** TURN *** [7h Js Ac][Ah]
+manggy94 checks
+Loko86 checks
+*** RIVER *** [7h Js Ac Ah][9d]
+manggy94 bets 925
+Loko86 calls 925
+*** SHOW DOWN ***
+manggy94 shows [5d Tc] (One pair : Aces)
+Loko86 shows [4d Kd] (One pair : Aces)
+Loko86 collected 3700 from pot
+*** SUMMARY ***
+Total pot 3700 | No rake
+Board: [7h Js Ac Ah 9d]
+Seat 2: Loko86 (button) showed [4d Kd] and won 3700 with One pair : Aces
+Seat 4: manggy94 (big blind) showed [5d Tc] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #1755523017011626577-30-1606845775 - Holdem no limit (70/300/600) - 2020/12/01 18:02:55 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #3 is the button
+Seat 1: Marconinho06 (77286)
+Seat 2: Loko86 (49862)
+Seat 3: sladiroger (18175)
+Seat 4: manggy94 (31086)
+Seat 5: Xloi (19705)
+Seat 6: Bluesaphire (20000)
+*** ANTE/BLINDS ***
+manggy94 posts ante 70
+Xloi posts ante 70
+Marconinho06 posts ante 70
+Loko86 posts ante 70
+sladiroger posts ante 70
+Bluesaphire posts ante 70
+manggy94 posts small blind 300
+Xloi posts big blind 600
+Dealt to manggy94 [2d As]
+*** PRE-FLOP *** 
+Bluesaphire folds
+Marconinho06 folds
+Loko86 calls 600
+sladiroger calls 600
+manggy94 calls 300
+Xloi checks
+*** FLOP *** [7c 7h 5d]
+manggy94 bets 600
+Xloi folds
+Loko86 calls 600
+sladiroger folds
+*** TURN *** [7c 7h 5d][Ac]
+manggy94 bets 2010
+Loko86 calls 2010
+*** RIVER *** [7c 7h 5d Ac][9d]
+manggy94 checks
+Loko86 bets 12543
+manggy94 calls 12543
+*** SHOW DOWN ***
+manggy94 shows [2d As] (Two pairs : Aces and 7)
+Loko86 shows [7d 8d] (Trips of 7)
+Loko86 collected 33126 from pot
+*** SUMMARY ***
+Total pot 33126 | No rake
+Board: [7c 7h 5d Ac 9d]
+Seat 2: Loko86 showed [7d 8d] and won 33126 with Trips of 7
+Seat 4: manggy94 (small blind) showed [2d As] and lost with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #1755523017011626577-31-1606845868 - Holdem no limit (80/350/700) - 2020/12/01 18:04:28 UTC
+Table: 'Freeroll(408739554)#0592' 6-max (real money) Seat #4 is the button
+Seat 1: Marconinho06 (77216)
+Seat 2: Loko86 (67165)
+Seat 3: sladiroger (17505)
+Seat 4: manggy94 (15263)
+Seat 5: Xloi (19035)
+Seat 6: Bluesaphire (19930)
+*** ANTE/BLINDS ***
+Xloi posts ante 80
+Bluesaphire posts ante 80
+Marconinho06 posts ante 80
+Loko86 posts ante 80
+sladiroger posts ante 80
+manggy94 posts ante 80
+Xloi posts small blind 350
+Bluesaphire posts big blind 700
+Dealt to manggy94 [2c Ts]
+*** PRE-FLOP *** 
+Marconinho06 calls 700
+Loko86 folds
+sladiroger folds
+manggy94 raises 700 to 1400
+Xloi folds
+Bluesaphire folds
+Marconinho06 calls 700
+*** FLOP *** [7h 8h Kh]
+Marconinho06 checks
+manggy94 bets 13783 and is all-in
+Marconinho06 calls 13783
+*** TURN *** [7h 8h Kh][9d]
+*** RIVER *** [7h 8h Kh 9d][Qh]
+*** SHOW DOWN ***
+manggy94 shows [2c Ts] (High card : King)
+Marconinho06 shows [9h Ks] (Flush King high)
+Marconinho06 collected 31896 from pot
+*** SUMMARY ***
+Total pot 31896 | No rake
+Board: [7h 8h Kh 9d Qh]
+Seat 1: Marconinho06 showed [9h Ks] and won 31896 with Flush King high
+Seat 4: manggy94 (button) showed [2c Ts] and lost with High card : King
+
+

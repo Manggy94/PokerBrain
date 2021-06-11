@@ -1,0 +1,2362 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #592046402641592332-1-1449072905 - Holdem no limit (25/50) - 2015/12/02 16:15:05 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #5 is the button
+Seat 1: JeremyVts (10000)
+Seat 2: tresores026 (10000)
+Seat 3: Asse74x (10000)
+Seat 4: xaneta7 (10000)
+Seat 5: pOte-pOte (10000)
+Seat 6: lapuce59999 (10000)
+Seat 7: manggy94 (10000)
+Seat 8: NeverRest (10000)
+*** ANTE/BLINDS ***
+lapuce59999 posts small blind 25
+manggy94 posts big blind 50
+Dealt to manggy94 [9s 5c]
+*** PRE-FLOP *** 
+NeverRest folds
+JeremyVts calls 50
+tresores026 folds
+Asse74x folds
+xaneta7 folds
+pOte-pOte folds
+lapuce59999 calls 25
+manggy94 checks
+*** FLOP *** [Qd 2s 7s]
+lapuce59999 bets 50
+manggy94 folds
+JeremyVts calls 50
+*** TURN *** [Qd 2s 7s][7h]
+lapuce59999 checks
+JeremyVts checks
+*** RIVER *** [Qd 2s 7s 7h][4c]
+lapuce59999 bets 9900 and is all-in
+JeremyVts folds
+lapuce59999 collected 10150 from pot
+*** SUMMARY ***
+Total pot 10150 | No rake
+Board: [Qd 2s 7s 7h 4c]
+Seat 6: lapuce59999 (small blind) won 10150
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #592046402641592332-2-1449073032 - Holdem no limit (25/50) - 2015/12/02 16:17:12 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #6 is the button
+Seat 1: JeremyVts (9900)
+Seat 2: tresores026 (10000)
+Seat 3: Asse74x (10000)
+Seat 4: xaneta7 (10000)
+Seat 5: pOte-pOte (10000)
+Seat 6: lapuce59999 (10150)
+Seat 7: manggy94 (9950)
+Seat 8: NeverRest (10000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 25
+NeverRest posts big blind 50
+Dealt to manggy94 [Qc Jh]
+*** PRE-FLOP *** 
+JeremyVts folds
+tresores026 folds
+Asse74x folds
+xaneta7 folds
+pOte-pOte folds
+lapuce59999 calls 50
+manggy94 calls 25
+NeverRest raises 150 to 200
+lapuce59999 calls 150
+manggy94 calls 150
+*** FLOP *** [9h 8s 4d]
+manggy94 checks
+NeverRest checks
+lapuce59999 bets 450
+manggy94 folds
+NeverRest folds
+lapuce59999 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [9h 8s 4d]
+Seat 6: lapuce59999 (button) won 1050
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #592046402641592332-3-1449073091 - Holdem no limit (50/100) - 2015/12/02 16:18:11 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #7 is the button
+Seat 1: JeremyVts (9900)
+Seat 2: tresores026 (10000)
+Seat 3: Asse74x (10000)
+Seat 4: xaneta7 (10000)
+Seat 5: pOte-pOte (10000)
+Seat 6: lapuce59999 (10550)
+Seat 7: manggy94 (9750)
+Seat 8: NeverRest (9800)
+*** ANTE/BLINDS ***
+NeverRest posts small blind 50
+JeremyVts posts big blind 100
+Dealt to manggy94 [Kc Jh]
+*** PRE-FLOP *** 
+tresores026 raises 150 to 250
+Asse74x calls 250
+xaneta7 folds
+pOte-pOte folds
+lapuce59999 calls 250
+manggy94 calls 250
+NeverRest folds
+JeremyVts calls 150
+*** FLOP *** [4h Qs 9s]
+JeremyVts bets 100
+tresores026 folds
+Asse74x calls 100
+lapuce59999 raises 10200 to 10300 and is all-in
+manggy94 folds
+JeremyVts folds
+Asse74x folds
+lapuce59999 collected 11800 from pot
+*** SUMMARY ***
+Total pot 11800 | No rake
+Board: [4h Qs 9s]
+Seat 6: lapuce59999 won 11800
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #592046402641592332-4-1449073167 - Holdem no limit (50/100) - 2015/12/02 16:19:27 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #8 is the button
+Seat 1: JeremyVts (9550)
+Seat 2: tresores026 (9750)
+Seat 3: Asse74x (9650)
+Seat 4: xaneta7 (10000)
+Seat 5: pOte-pOte (10000)
+Seat 6: lapuce59999 (11800)
+Seat 7: manggy94 (9500)
+Seat 8: NeverRest (9750)
+*** ANTE/BLINDS ***
+JeremyVts posts small blind 50
+tresores026 posts big blind 100
+Dealt to manggy94 [Ah 9c]
+*** PRE-FLOP *** 
+Asse74x folds
+xaneta7 folds
+pOte-pOte folds
+lapuce59999 folds
+manggy94 calls 100
+NeverRest folds
+JeremyVts calls 50
+tresores026 checks
+*** FLOP *** [3c 4c Ac]
+JeremyVts bets 100
+tresores026 folds
+manggy94 raises 500 to 600
+JeremyVts folds
+manggy94 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [3c 4c Ac]
+Seat 7: manggy94 won 1000
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #592046402641592332-5-1449073203 - Holdem no limit (50/100) - 2015/12/02 16:20:03 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #1 is the button
+Seat 1: JeremyVts (9350)
+Seat 2: tresores026 (9650)
+Seat 3: Asse74x (9650)
+Seat 4: xaneta7 (10000)
+Seat 5: pOte-pOte (10000)
+Seat 6: lapuce59999 (11800)
+Seat 7: manggy94 (9800)
+Seat 8: NeverRest (9750)
+*** ANTE/BLINDS ***
+tresores026 posts small blind 50
+Asse74x posts big blind 100
+Dealt to manggy94 [9h 5s]
+*** PRE-FLOP *** 
+xaneta7 folds
+pOte-pOte folds
+lapuce59999 calls 100
+manggy94 folds
+NeverRest calls 100
+JeremyVts folds
+tresores026 calls 50
+Asse74x checks
+*** FLOP *** [7s 4c 5c]
+tresores026 checks
+Asse74x bets 300
+lapuce59999 calls 300
+NeverRest raises 767 to 1067
+tresores026 folds
+Asse74x calls 767
+lapuce59999 calls 767
+*** TURN *** [7s 4c 5c][9s]
+Asse74x checks
+lapuce59999 checks
+NeverRest bets 2600
+Asse74x calls 2600
+lapuce59999 folds
+*** RIVER *** [7s 4c 5c 9s][Kc]
+Asse74x checks
+NeverRest checks
+*** SHOW DOWN ***
+Asse74x shows [6c Td] (High card : King)
+NeverRest shows [7c Ac] (Flush Ace high)
+NeverRest collected 8801 from pot
+*** SUMMARY ***
+Total pot 8801 | No rake
+Board: [7s 4c 5c 9s Kc]
+Seat 3: Asse74x (big blind) showed [6c Td] and lost with High card : King
+Seat 8: NeverRest showed [7c Ac] and won 8801 with Flush Ace high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 2 - HandId: #592046402641592332-6-1449073288 - Holdem no limit (75/150) - 2015/12/02 16:21:28 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #2 is the button
+Seat 1: JeremyVts (9350)
+Seat 2: tresores026 (9550)
+Seat 3: Asse74x (5883)
+Seat 4: xaneta7 (10000)
+Seat 5: pOte-pOte (10000)
+Seat 6: lapuce59999 (10633)
+Seat 7: manggy94 (9800)
+Seat 8: NeverRest (14784)
+*** ANTE/BLINDS ***
+Asse74x posts small blind 75
+xaneta7 posts big blind 150
+Dealt to manggy94 [5s Qc]
+*** PRE-FLOP *** 
+pOte-pOte folds
+lapuce59999 folds
+manggy94 folds
+NeverRest folds
+JeremyVts folds
+tresores026 folds
+Asse74x raises 5733 to 5883 and is all-in
+xaneta7 folds
+Asse74x collected 6033 from pot
+*** SUMMARY ***
+Total pot 6033 | No rake
+Seat 3: Asse74x (small blind) won 6033
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 2 - HandId: #592046402641592332-7-1449073315 - Holdem no limit (75/150) - 2015/12/02 16:21:55 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #3 is the button
+Seat 1: JeremyVts (9350)
+Seat 2: tresores026 (9550)
+Seat 3: Asse74x (6033)
+Seat 4: xaneta7 (9850)
+Seat 5: pOte-pOte (10000)
+Seat 6: lapuce59999 (10633)
+Seat 7: manggy94 (9800)
+Seat 8: NeverRest (14784)
+*** ANTE/BLINDS ***
+xaneta7 posts small blind 75
+pOte-pOte posts big blind 150
+Dealt to manggy94 [Jd Ts]
+*** PRE-FLOP *** 
+lapuce59999 calls 150
+manggy94 calls 150
+NeverRest folds
+JeremyVts raises 225 to 375
+tresores026 folds
+Asse74x folds
+xaneta7 folds
+pOte-pOte folds
+lapuce59999 calls 225
+manggy94 calls 225
+*** FLOP *** [9d 8d 8h]
+lapuce59999 checks
+manggy94 checks
+JeremyVts bets 1350
+lapuce59999 folds
+manggy94 calls 1350
+*** TURN *** [9d 8d 8h][Kc]
+manggy94 checks
+JeremyVts checks
+*** RIVER *** [9d 8d 8h Kc][3h]
+manggy94 checks
+JeremyVts bets 4050
+manggy94 folds
+JeremyVts collected 8100 from pot
+*** SUMMARY ***
+Total pot 8100 | No rake
+Board: [9d 8d 8h Kc 3h]
+Seat 1: JeremyVts won 8100
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 2 - HandId: #592046402641592332-8-1449073388 - Holdem no limit (75/150) - 2015/12/02 16:23:08 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #4 is the button
+Seat 1: JeremyVts (11675)
+Seat 2: tresores026 (9550)
+Seat 3: Asse74x (6033)
+Seat 4: xaneta7 (9775)
+Seat 5: pOte-pOte (9850)
+Seat 6: lapuce59999 (10258)
+Seat 7: manggy94 (8075)
+Seat 8: NeverRest (14784)
+*** ANTE/BLINDS ***
+pOte-pOte posts small blind 75
+lapuce59999 posts big blind 150
+Dealt to manggy94 [6s Tc]
+*** PRE-FLOP *** 
+manggy94 folds
+NeverRest folds
+JeremyVts folds
+tresores026 folds
+Asse74x folds
+xaneta7 folds
+pOte-pOte folds
+lapuce59999 collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Seat 6: lapuce59999 (big blind) won 225
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 2 - HandId: #592046402641592332-9-1449073403 - Holdem no limit (75/150) - 2015/12/02 16:23:23 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #5 is the button
+Seat 1: JeremyVts (11675)
+Seat 2: tresores026 (9550)
+Seat 3: Asse74x (6033)
+Seat 4: xaneta7 (9775)
+Seat 5: pOte-pOte (9775)
+Seat 6: lapuce59999 (10333)
+Seat 7: manggy94 (8075)
+Seat 8: NeverRest (14784)
+*** ANTE/BLINDS ***
+lapuce59999 posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [Qh Kh]
+*** PRE-FLOP *** 
+NeverRest folds
+JeremyVts raises 150 to 300
+tresores026 folds
+Asse74x calls 300
+xaneta7 folds
+pOte-pOte folds
+lapuce59999 folds
+manggy94 raises 975 to 1275
+JeremyVts folds
+Asse74x raises 4758 to 6033 and is all-in
+manggy94 calls 4758
+*** FLOP *** [8c 9c 7d]
+*** TURN *** [8c 9c 7d][5d]
+*** RIVER *** [8c 9c 7d 5d][7h]
+*** SHOW DOWN ***
+Asse74x shows [Ks 4s] (One pair : 7)
+manggy94 shows [Qh Kh] (One pair : 7)
+manggy94 collected 12441 from pot
+*** SUMMARY ***
+Total pot 12441 | No rake
+Board: [8c 9c 7d 5d 7h]
+Seat 3: Asse74x showed [Ks 4s] and lost with One pair : 7
+Seat 7: manggy94 (big blind) showed [Qh Kh] and won 12441 with One pair : 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 3 - HandId: #592046402641592332-10-1449073469 - Holdem no limit (100/200) - 2015/12/02 16:24:29 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #6 is the button
+Seat 1: JeremyVts (11375)
+Seat 2: tresores026 (9550)
+Seat 4: xaneta7 (9775)
+Seat 5: pOte-pOte (9775)
+Seat 6: lapuce59999 (10258)
+Seat 7: manggy94 (14483)
+Seat 8: NeverRest (14784)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+NeverRest posts big blind 200
+Dealt to manggy94 [9d 9s]
+*** PRE-FLOP *** 
+JeremyVts folds
+tresores026 raises 400 to 600
+xaneta7 folds
+pOte-pOte folds
+lapuce59999 calls 600
+manggy94 calls 500
+NeverRest folds
+*** FLOP *** [Jc Qd 2c]
+manggy94 checks
+tresores026 checks
+lapuce59999 checks
+*** TURN *** [Jc Qd 2c][7d]
+manggy94 bets 2000
+tresores026 folds
+lapuce59999 calls 2000
+*** RIVER *** [Jc Qd 2c 7d][3d]
+manggy94 checks
+lapuce59999 bets 7658 and is all-in
+manggy94 folds
+lapuce59999 collected 13658 from pot
+*** SUMMARY ***
+Total pot 13658 | No rake
+Board: [Jc Qd 2c 7d 3d]
+Seat 6: lapuce59999 (button) won 13658
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 3 - HandId: #592046402641592332-11-1449073508 - Holdem no limit (100/200) - 2015/12/02 16:25:08 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #7 is the button
+Seat 1: JeremyVts (11375)
+Seat 2: tresores026 (8950)
+Seat 3: GOTAGA-EU (10000)
+Seat 4: xaneta7 (9775)
+Seat 5: pOte-pOte (9775)
+Seat 6: lapuce59999 (13658)
+Seat 7: manggy94 (11883)
+Seat 8: NeverRest (14584)
+*** ANTE/BLINDS ***
+NeverRest posts small blind 100
+JeremyVts posts big blind 200
+Dealt to manggy94 [As Ks]
+*** PRE-FLOP *** 
+tresores026 folds
+GOTAGA-EU folds
+xaneta7 folds
+pOte-pOte folds
+lapuce59999 calls 200
+manggy94 raises 700 to 900
+NeverRest folds
+JeremyVts calls 700
+lapuce59999 calls 700
+*** FLOP *** [Ac 6d Qh]
+JeremyVts checks
+lapuce59999 checks
+manggy94 checks
+*** TURN *** [Ac 6d Qh][Kh]
+JeremyVts bets 400
+lapuce59999 folds
+manggy94 raises 3600 to 4000
+JeremyVts calls 3600
+*** RIVER *** [Ac 6d Qh Kh][Ad]
+JeremyVts bets 300
+manggy94 raises 6683 to 6983 and is all-in
+JeremyVts folds
+manggy94 collected 18083 from pot
+*** SUMMARY ***
+Total pot 18083 | No rake
+Board: [Ac 6d Qh Kh Ad]
+Seat 7: manggy94 (button) won 18083
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 3 - HandId: #592046402641592332-12-1449073570 - Holdem no limit (100/200) - 2015/12/02 16:26:10 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #8 is the button
+Seat 1: JeremyVts (6175)
+Seat 2: tresores026 (8950)
+Seat 3: GOTAGA-EU (10000)
+Seat 4: xaneta7 (9775)
+Seat 5: pOte-pOte (9775)
+Seat 6: lapuce59999 (12758)
+Seat 7: manggy94 (18083)
+Seat 8: NeverRest (14484)
+*** ANTE/BLINDS ***
+JeremyVts posts small blind 100
+tresores026 posts big blind 200
+Dealt to manggy94 [Qc 6c]
+*** PRE-FLOP *** 
+GOTAGA-EU folds
+xaneta7 folds
+pOte-pOte folds
+lapuce59999 calls 200
+manggy94 calls 200
+NeverRest folds
+JeremyVts raises 800 to 1000
+tresores026 folds
+lapuce59999 raises 11758 to 12758 and is all-in
+manggy94 folds
+JeremyVts calls 5175 and is all-in
+*** FLOP *** [2d 5s 7s]
+*** TURN *** [2d 5s 7s][9c]
+*** RIVER *** [2d 5s 7s 9c][Jc]
+*** SHOW DOWN ***
+JeremyVts shows [Ad 2h] (One pair : 2)
+lapuce59999 shows [Ac 7c] (One pair : 7)
+lapuce59999 collected 19333 from pot
+*** SUMMARY ***
+Total pot 19333 | No rake
+Board: [2d 5s 7s 9c Jc]
+Seat 1: JeremyVts (small blind) showed [Ad 2h] and lost with One pair : 2
+Seat 6: lapuce59999 showed [Ac 7c] and won 19333 with One pair : 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 3 - HandId: #592046402641592332-13-1449073608 - Holdem no limit (100/200) - 2015/12/02 16:26:48 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #1 is the button
+Seat 1: SHAARRK01 (10000)
+Seat 2: tresores026 (8750)
+Seat 3: GOTAGA-EU (10000)
+Seat 4: xaneta7 (9775)
+Seat 5: pOte-pOte (9775)
+Seat 6: lapuce59999 (19333)
+Seat 7: manggy94 (17883)
+Seat 8: NeverRest (14484)
+*** ANTE/BLINDS ***
+tresores026 posts small blind 100
+GOTAGA-EU posts big blind 200
+Dealt to manggy94 [4d 8s]
+*** PRE-FLOP *** 
+xaneta7 folds
+pOte-pOte folds
+lapuce59999 folds
+manggy94 folds
+NeverRest folds
+SHAARRK01 raises 400 to 600
+tresores026 folds
+GOTAGA-EU folds
+SHAARRK01 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 1: SHAARRK01 (button) won 900
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 4 - HandId: #592046402641592332-14-1449073650 - Holdem no limit (150/300) - 2015/12/02 16:27:30 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #2 is the button
+Seat 1: SHAARRK01 (10300)
+Seat 2: tresores026 (8650)
+Seat 3: GOTAGA-EU (9800)
+Seat 4: xaneta7 (9775)
+Seat 5: pOte-pOte (9775)
+Seat 6: lapuce59999 (19333)
+Seat 7: manggy94 (17883)
+Seat 8: NeverRest (14484)
+*** ANTE/BLINDS ***
+GOTAGA-EU posts small blind 150
+xaneta7 posts big blind 300
+Dealt to manggy94 [6c 6d]
+*** PRE-FLOP *** 
+pOte-pOte folds
+lapuce59999 folds
+manggy94 calls 300
+NeverRest folds
+SHAARRK01 folds
+tresores026 folds
+GOTAGA-EU raises 450 to 750
+xaneta7 folds
+manggy94 calls 450
+*** FLOP *** [Tc Ad Kd]
+GOTAGA-EU bets 900
+manggy94 folds
+GOTAGA-EU collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [Tc Ad Kd]
+Seat 3: GOTAGA-EU (small blind) won 2700
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 4 - HandId: #592046402641592332-15-1449073696 - Holdem no limit (150/300) - 2015/12/02 16:28:16 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #3 is the button
+Seat 1: SHAARRK01 (10300)
+Seat 2: tresores026 (8650)
+Seat 3: GOTAGA-EU (10850)
+Seat 4: xaneta7 (9475)
+Seat 5: pOte-pOte (9775)
+Seat 6: lapuce59999 (19333)
+Seat 7: manggy94 (17133)
+Seat 8: NeverRest (14484)
+*** ANTE/BLINDS ***
+xaneta7 posts small blind 150
+pOte-pOte posts big blind 300
+Dealt to manggy94 [8d 7s]
+*** PRE-FLOP *** 
+lapuce59999 folds
+manggy94 folds
+NeverRest folds
+SHAARRK01 raises 600 to 900
+tresores026 folds
+GOTAGA-EU folds
+xaneta7 raises 8575 to 9475 and is all-in
+pOte-pOte folds
+SHAARRK01 calls 8575
+*** FLOP *** [3d Ah 4s]
+*** TURN *** [3d Ah 4s][Qd]
+*** RIVER *** [3d Ah 4s Qd][2d]
+*** SHOW DOWN ***
+xaneta7 shows [Ts Th] (One pair : Tens)
+SHAARRK01 shows [Js As] (One pair : Aces)
+SHAARRK01 collected 19250 from pot
+*** SUMMARY ***
+Total pot 19250 | No rake
+Board: [3d Ah 4s Qd 2d]
+Seat 1: SHAARRK01 showed [Js As] and won 19250 with One pair : Aces
+Seat 4: xaneta7 (small blind) showed [Ts Th] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 4 - HandId: #592046402641592332-16-1449073754 - Holdem no limit (150/300) - 2015/12/02 16:29:14 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #4 is the button
+Seat 1: SHAARRK01 (20075)
+Seat 2: tresores026 (8650)
+Seat 3: GOTAGA-EU (10850)
+Seat 5: pOte-pOte (9475)
+Seat 6: lapuce59999 (19333)
+Seat 7: manggy94 (17133)
+Seat 8: NeverRest (14484)
+*** ANTE/BLINDS ***
+pOte-pOte posts small blind 150
+lapuce59999 posts big blind 300
+Dealt to manggy94 [Jc 6d]
+*** PRE-FLOP *** 
+manggy94 folds
+NeverRest folds
+SHAARRK01 folds
+tresores026 folds
+GOTAGA-EU folds
+pOte-pOte folds
+lapuce59999 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 6: lapuce59999 (big blind) won 450
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 4 - HandId: #592046402641592332-17-1449073774 - Holdem no limit (150/300) - 2015/12/02 16:29:34 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #5 is the button
+Seat 1: SHAARRK01 (20075)
+Seat 2: tresores026 (8650)
+Seat 3: GOTAGA-EU (10850)
+Seat 4: Kiara14 (10000)
+Seat 5: pOte-pOte (9325)
+Seat 6: lapuce59999 (19483)
+Seat 7: manggy94 (17133)
+Seat 8: NeverRest (14484)
+*** ANTE/BLINDS ***
+lapuce59999 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Ah 3h]
+*** PRE-FLOP *** 
+NeverRest folds
+SHAARRK01 folds
+tresores026 folds
+GOTAGA-EU folds
+Kiara14 folds
+pOte-pOte folds
+lapuce59999 calls 150
+manggy94 checks
+*** FLOP *** [Th Jh 8d]
+lapuce59999 checks
+manggy94 checks
+*** TURN *** [Th Jh 8d][Tc]
+lapuce59999 bets 300
+manggy94 calls 300
+*** RIVER *** [Th Jh 8d Tc][2s]
+lapuce59999 bets 900
+manggy94 calls 900
+*** SHOW DOWN ***
+manggy94 shows [Ah 3h] (One pair : Tens)
+lapuce59999 shows [2c As] (Two pairs : Tens and 2)
+lapuce59999 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Th Jh 8d Tc 2s]
+Seat 6: lapuce59999 (small blind) showed [2c As] and won 3000 with Two pairs : Tens and 2
+Seat 7: manggy94 (big blind) showed [Ah 3h] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 5 - HandId: #592046402641592332-18-1449073834 - Holdem no limit (25/150/300) - 2015/12/02 16:30:34 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #6 is the button
+Seat 1: SHAARRK01 (20075)
+Seat 2: tresores026 (8650)
+Seat 3: GOTAGA-EU (10850)
+Seat 4: Kiara14 (10000)
+Seat 5: pOte-pOte (9325)
+Seat 6: lapuce59999 (20983)
+Seat 7: manggy94 (15633)
+Seat 8: NeverRest (14484)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+NeverRest posts ante 25
+SHAARRK01 posts ante 25
+tresores026 posts ante 25
+GOTAGA-EU posts ante 25
+Kiara14 posts ante 25
+pOte-pOte posts ante 25
+lapuce59999 posts ante 25
+manggy94 posts small blind 150
+NeverRest posts big blind 300
+Dealt to manggy94 [3d 9h]
+*** PRE-FLOP *** 
+SHAARRK01 folds
+tresores026 raises 450 to 750
+GOTAGA-EU calls 750
+Kiara14 folds
+pOte-pOte folds
+lapuce59999 folds
+manggy94 folds
+NeverRest folds
+*** FLOP *** [Jh Kh 6d]
+tresores026 checks
+GOTAGA-EU bets 1200
+tresores026 calls 1200
+*** TURN *** [Jh Kh 6d][7c]
+tresores026 checks
+GOTAGA-EU checks
+*** RIVER *** [Jh Kh 6d 7c][6h]
+tresores026 checks
+GOTAGA-EU checks
+*** SHOW DOWN ***
+tresores026 shows [Ah 8d] (One pair : 6)
+GOTAGA-EU shows [Tc As] (One pair : 6)
+GOTAGA-EU collected 2275 from pot
+tresores026 collected 2275 from pot
+*** SUMMARY ***
+Total pot 4550 | No rake
+Board: [Jh Kh 6d 7c 6h]
+Seat 2: tresores026 showed [Ah 8d] and won 2275 with One pair : 6
+Seat 3: GOTAGA-EU showed [Tc As] and won 2275 with One pair : 6
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 5 - HandId: #592046402641592332-19-1449073893 - Holdem no limit (25/150/300) - 2015/12/02 16:31:33 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #7 is the button
+Seat 1: SHAARRK01 (20050)
+Seat 2: tresores026 (8950)
+Seat 3: GOTAGA-EU (11150)
+Seat 4: Kiara14 (9975)
+Seat 5: pOte-pOte (9300)
+Seat 6: lapuce59999 (20958)
+Seat 7: manggy94 (15458)
+Seat 8: NeverRest (14159)
+*** ANTE/BLINDS ***
+NeverRest posts ante 25
+SHAARRK01 posts ante 25
+tresores026 posts ante 25
+GOTAGA-EU posts ante 25
+Kiara14 posts ante 25
+pOte-pOte posts ante 25
+lapuce59999 posts ante 25
+manggy94 posts ante 25
+NeverRest posts small blind 150
+SHAARRK01 posts big blind 300
+Dealt to manggy94 [2h Ts]
+*** PRE-FLOP *** 
+tresores026 folds
+GOTAGA-EU folds
+Kiara14 raises 300 to 600
+pOte-pOte calls 600
+lapuce59999 folds
+manggy94 folds
+NeverRest folds
+SHAARRK01 folds
+*** FLOP *** [Kd 6d 6h]
+Kiara14 bets 300
+pOte-pOte calls 300
+*** TURN *** [Kd 6d 6h][Jd]
+Kiara14 bets 300
+pOte-pOte calls 300
+*** RIVER *** [Kd 6d 6h Jd][Ks]
+Kiara14 bets 300
+pOte-pOte raises 750 to 1050
+Kiara14 calls 750
+*** SHOW DOWN ***
+Kiara14 shows [8c As] (Two pairs : Kings and 6)
+pOte-pOte shows [4d Ad] (Flush Ace high)
+pOte-pOte collected 5150 from pot
+*** SUMMARY ***
+Total pot 5150 | No rake
+Board: [Kd 6d 6h Jd Ks]
+Seat 4: Kiara14 showed [8c As] and lost with Two pairs : Kings and 6
+Seat 5: pOte-pOte showed [4d Ad] and won 5150 with Flush Ace high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 5 - HandId: #592046402641592332-20-1449073941 - Holdem no limit (25/150/300) - 2015/12/02 16:32:21 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #8 is the button
+Seat 1: SHAARRK01 (19725)
+Seat 2: tresores026 (8925)
+Seat 3: GOTAGA-EU (11125)
+Seat 4: Kiara14 (7700)
+Seat 5: pOte-pOte (12175)
+Seat 6: lapuce59999 (20933)
+Seat 7: manggy94 (15433)
+Seat 8: NeverRest (13984)
+*** ANTE/BLINDS ***
+SHAARRK01 posts ante 25
+tresores026 posts ante 25
+GOTAGA-EU posts ante 25
+Kiara14 posts ante 25
+pOte-pOte posts ante 25
+lapuce59999 posts ante 25
+manggy94 posts ante 25
+NeverRest posts ante 25
+SHAARRK01 posts small blind 150
+tresores026 posts big blind 300
+Dealt to manggy94 [9h 3s]
+*** PRE-FLOP *** 
+GOTAGA-EU folds
+Kiara14 raises 300 to 600
+pOte-pOte folds
+lapuce59999 raises 20308 to 20908 and is all-in
+manggy94 folds
+NeverRest folds
+SHAARRK01 folds
+tresores026 folds
+Kiara14 folds
+lapuce59999 collected 22158 from pot
+*** SUMMARY ***
+Total pot 22158 | No rake
+Seat 6: lapuce59999 won 22158
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 5 - HandId: #592046402641592332-21-1449073968 - Holdem no limit (25/150/300) - 2015/12/02 16:32:48 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #1 is the button
+Seat 1: SHAARRK01 (19550)
+Seat 2: tresores026 (8600)
+Seat 3: GOTAGA-EU (11100)
+Seat 4: Kiara14 (7075)
+Seat 5: pOte-pOte (12150)
+Seat 6: lapuce59999 (22158)
+Seat 7: manggy94 (15408)
+Seat 8: NeverRest (13959)
+*** ANTE/BLINDS ***
+tresores026 posts ante 25
+GOTAGA-EU posts ante 25
+SHAARRK01 posts ante 25
+Kiara14 posts ante 25
+pOte-pOte posts ante 25
+lapuce59999 posts ante 25
+manggy94 posts ante 25
+NeverRest posts ante 25
+tresores026 posts small blind 150
+GOTAGA-EU posts big blind 300
+Dealt to manggy94 [6c 9c]
+*** PRE-FLOP *** 
+Kiara14 folds
+pOte-pOte folds
+lapuce59999 calls 300
+manggy94 folds
+NeverRest calls 300
+SHAARRK01 folds
+tresores026 calls 150
+GOTAGA-EU checks
+*** FLOP *** [2c Jd 5c]
+tresores026 checks
+GOTAGA-EU checks
+lapuce59999 bets 1400
+NeverRest calls 1400
+tresores026 folds
+GOTAGA-EU folds
+*** TURN *** [2c Jd 5c][Qs]
+lapuce59999 checks
+NeverRest checks
+*** RIVER *** [2c Jd 5c Qs][Ks]
+lapuce59999 bets 4200
+NeverRest folds
+lapuce59999 collected 8400 from pot
+*** SUMMARY ***
+Total pot 8400 | No rake
+Board: [2c Jd 5c Qs Ks]
+Seat 6: lapuce59999 won 8400
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #592046402641592332-22-1449074028 - Holdem no limit (30/200/400) - 2015/12/02 16:33:48 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #2 is the button
+Seat 1: SHAARRK01 (19525)
+Seat 2: tresores026 (8275)
+Seat 3: GOTAGA-EU (10775)
+Seat 4: Kiara14 (7050)
+Seat 5: pOte-pOte (12125)
+Seat 6: lapuce59999 (24633)
+Seat 7: manggy94 (15383)
+Seat 8: NeverRest (12234)
+*** ANTE/BLINDS ***
+GOTAGA-EU posts ante 30
+Kiara14 posts ante 30
+SHAARRK01 posts ante 30
+tresores026 posts ante 30
+pOte-pOte posts ante 30
+lapuce59999 posts ante 30
+manggy94 posts ante 30
+NeverRest posts ante 30
+GOTAGA-EU posts small blind 200
+Kiara14 posts big blind 400
+Dealt to manggy94 [3c 8d]
+*** PRE-FLOP *** 
+pOte-pOte folds
+lapuce59999 folds
+manggy94 folds
+NeverRest folds
+SHAARRK01 folds
+tresores026 calls 400
+GOTAGA-EU folds
+Kiara14 checks
+*** FLOP *** [Kd Qc 8s]
+Kiara14 checks
+tresores026 bets 600
+Kiara14 folds
+tresores026 collected 1840 from pot
+*** SUMMARY ***
+Total pot 1840 | No rake
+Board: [Kd Qc 8s]
+Seat 2: tresores026 (button) won 1840
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #592046402641592332-23-1449074059 - Holdem no limit (30/200/400) - 2015/12/02 16:34:19 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #3 is the button
+Seat 1: SHAARRK01 (19495)
+Seat 2: tresores026 (9085)
+Seat 3: GOTAGA-EU (10545)
+Seat 4: Kiara14 (6620)
+Seat 5: pOte-pOte (12095)
+Seat 6: lapuce59999 (24603)
+Seat 7: manggy94 (15353)
+Seat 8: NeverRest (12204)
+*** ANTE/BLINDS ***
+Kiara14 posts ante 30
+pOte-pOte posts ante 30
+SHAARRK01 posts ante 30
+tresores026 posts ante 30
+GOTAGA-EU posts ante 30
+lapuce59999 posts ante 30
+manggy94 posts ante 30
+NeverRest posts ante 30
+Kiara14 posts small blind 200
+pOte-pOte posts big blind 400
+Dealt to manggy94 [7h 3c]
+*** PRE-FLOP *** 
+lapuce59999 folds
+manggy94 folds
+NeverRest folds
+SHAARRK01 folds
+tresores026 folds
+GOTAGA-EU folds
+Kiara14 folds
+pOte-pOte collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Seat 5: pOte-pOte (big blind) won 840
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #592046402641592332-24-1449074072 - Holdem no limit (30/200/400) - 2015/12/02 16:34:32 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #4 is the button
+Seat 1: SHAARRK01 (19465)
+Seat 2: tresores026 (9055)
+Seat 3: GOTAGA-EU (10515)
+Seat 4: Kiara14 (6390)
+Seat 5: pOte-pOte (12505)
+Seat 6: lapuce59999 (24573)
+Seat 7: manggy94 (15323)
+Seat 8: NeverRest (12174)
+*** ANTE/BLINDS ***
+pOte-pOte posts ante 30
+lapuce59999 posts ante 30
+SHAARRK01 posts ante 30
+tresores026 posts ante 30
+GOTAGA-EU posts ante 30
+Kiara14 posts ante 30
+manggy94 posts ante 30
+NeverRest posts ante 30
+pOte-pOte posts small blind 200
+lapuce59999 posts big blind 400
+Dealt to manggy94 [9h 3h]
+*** PRE-FLOP *** 
+manggy94 folds
+NeverRest folds
+SHAARRK01 folds
+tresores026 folds
+GOTAGA-EU raises 400 to 800
+Kiara14 calls 800
+pOte-pOte calls 600
+lapuce59999 calls 400
+*** FLOP *** [Qd 4d 8h]
+pOte-pOte checks
+lapuce59999 bets 1720
+GOTAGA-EU folds
+Kiara14 folds
+pOte-pOte folds
+lapuce59999 collected 5160 from pot
+*** SUMMARY ***
+Total pot 5160 | No rake
+Board: [Qd 4d 8h]
+Seat 6: lapuce59999 (big blind) won 5160
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #592046402641592332-25-1449074121 - Holdem no limit (30/200/400) - 2015/12/02 16:35:21 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #5 is the button
+Seat 1: SHAARRK01 (19435)
+Seat 2: tresores026 (9025)
+Seat 3: GOTAGA-EU (9685)
+Seat 4: Kiara14 (5560)
+Seat 5: pOte-pOte (11675)
+Seat 6: lapuce59999 (27183)
+Seat 7: manggy94 (15293)
+Seat 8: NeverRest (12144)
+*** ANTE/BLINDS ***
+lapuce59999 posts ante 30
+manggy94 posts ante 30
+SHAARRK01 posts ante 30
+tresores026 posts ante 30
+GOTAGA-EU posts ante 30
+Kiara14 posts ante 30
+pOte-pOte posts ante 30
+NeverRest posts ante 30
+lapuce59999 posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [Js Jc]
+*** PRE-FLOP *** 
+NeverRest folds
+SHAARRK01 folds
+tresores026 folds
+GOTAGA-EU raises 400 to 800
+Kiara14 raises 4730 to 5530 and is all-in
+pOte-pOte folds
+lapuce59999 raises 21623 to 27153 and is all-in
+manggy94 folds
+GOTAGA-EU folds
+*** FLOP *** [5c 6c Ts]
+*** TURN *** [5c 6c Ts][3d]
+*** RIVER *** [5c 6c Ts 3d][7d]
+*** SHOW DOWN ***
+Kiara14 shows [Ks 6s] (One pair : 6)
+lapuce59999 shows [5s Ah] (One pair : 5)
+lapuce59999 collected 21623 from side pot 1
+Kiara14 collected 12500 from main pot
+*** SUMMARY ***
+Total pot 34123 | No rake
+Board: [5c 6c Ts 3d 7d]
+Seat 4: Kiara14 showed [Ks 6s] and won 12500 with One pair : 6
+Seat 6: lapuce59999 (small blind) showed [5s Ah] and won 21623 with One pair : 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #592046402641592332-26-1449074168 - Holdem no limit (40/250/500) - 2015/12/02 16:36:08 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #6 is the button
+Seat 1: SHAARRK01 (19405)
+Seat 2: tresores026 (8995)
+Seat 3: GOTAGA-EU (8855)
+Seat 4: Kiara14 (12500)
+Seat 5: pOte-pOte (11645)
+Seat 6: lapuce59999 (21623)
+Seat 7: manggy94 (14863)
+Seat 8: NeverRest (12114)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+NeverRest posts ante 40
+SHAARRK01 posts ante 40
+tresores026 posts ante 40
+GOTAGA-EU posts ante 40
+Kiara14 posts ante 40
+pOte-pOte posts ante 40
+lapuce59999 posts ante 40
+manggy94 posts small blind 250
+NeverRest posts big blind 500
+Dealt to manggy94 [8d 8h]
+*** PRE-FLOP *** 
+SHAARRK01 folds
+tresores026 folds
+GOTAGA-EU folds
+Kiara14 calls 500
+pOte-pOte folds
+lapuce59999 calls 500
+manggy94 calls 250
+NeverRest checks
+*** FLOP *** [Kc Qd 3c]
+manggy94 checks
+NeverRest checks
+Kiara14 checks
+lapuce59999 bets 1740
+manggy94 folds
+NeverRest folds
+Kiara14 folds
+lapuce59999 collected 4060 from pot
+*** SUMMARY ***
+Total pot 4060 | No rake
+Board: [Kc Qd 3c]
+Seat 6: lapuce59999 (button) won 4060
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #592046402641592332-27-1449074210 - Holdem no limit (40/250/500) - 2015/12/02 16:36:50 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #7 is the button
+Seat 1: SHAARRK01 (19365)
+Seat 2: tresores026 (8955)
+Seat 3: GOTAGA-EU (8815)
+Seat 4: Kiara14 (11960)
+Seat 5: pOte-pOte (11605)
+Seat 6: lapuce59999 (23403)
+Seat 7: manggy94 (14323)
+Seat 8: NeverRest (11574)
+*** ANTE/BLINDS ***
+NeverRest posts ante 40
+SHAARRK01 posts ante 40
+tresores026 posts ante 40
+GOTAGA-EU posts ante 40
+Kiara14 posts ante 40
+pOte-pOte posts ante 40
+lapuce59999 posts ante 40
+manggy94 posts ante 40
+NeverRest posts small blind 250
+SHAARRK01 posts big blind 500
+Dealt to manggy94 [Kc 6h]
+*** PRE-FLOP *** 
+tresores026 calls 500
+GOTAGA-EU folds
+Kiara14 folds
+pOte-pOte folds
+lapuce59999 folds
+manggy94 calls 500
+NeverRest calls 250
+SHAARRK01 raises 18825 to 19325 and is all-in
+tresores026 folds
+manggy94 folds
+NeverRest folds
+SHAARRK01 collected 21145 from pot
+*** SUMMARY ***
+Total pot 21145 | No rake
+Seat 1: SHAARRK01 (big blind) won 21145
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #592046402641592332-28-1449074244 - Holdem no limit (40/250/500) - 2015/12/02 16:37:24 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #8 is the button
+Seat 1: SHAARRK01 (21145)
+Seat 2: tresores026 (8415)
+Seat 3: GOTAGA-EU (8775)
+Seat 4: Kiara14 (11920)
+Seat 5: pOte-pOte (11565)
+Seat 6: lapuce59999 (23363)
+Seat 7: manggy94 (13783)
+Seat 8: NeverRest (11034)
+*** ANTE/BLINDS ***
+SHAARRK01 posts ante 40
+tresores026 posts ante 40
+GOTAGA-EU posts ante 40
+Kiara14 posts ante 40
+pOte-pOte posts ante 40
+lapuce59999 posts ante 40
+manggy94 posts ante 40
+NeverRest posts ante 40
+SHAARRK01 posts small blind 250
+tresores026 posts big blind 500
+Dealt to manggy94 [Jc 8h]
+*** PRE-FLOP *** 
+GOTAGA-EU folds
+Kiara14 calls 500
+pOte-pOte folds
+lapuce59999 calls 500
+manggy94 folds
+NeverRest folds
+SHAARRK01 folds
+tresores026 checks
+*** FLOP *** [Ad Jd 4s]
+tresores026 checks
+Kiara14 bets 500
+lapuce59999 calls 500
+tresores026 folds
+*** TURN *** [Ad Jd 4s][Qs]
+Kiara14 bets 3070
+lapuce59999 calls 3070
+*** RIVER *** [Ad Jd 4s Qs][Kc]
+Kiara14 checks
+lapuce59999 bets 19253 and is all-in
+Kiara14 calls 7810 and is all-in
+*** SHOW DOWN ***
+Kiara14 shows [4c 4d] (Trips of 4)
+lapuce59999 shows [7d 9d] (High card : Ace)
+lapuce59999 collected 11443 from side pot 1
+Kiara14 collected 24830 from main pot
+*** SUMMARY ***
+Total pot 36273 | No rake
+Board: [Ad Jd 4s Qs Kc]
+Seat 4: Kiara14 showed [4c 4d] and won 24830 with Trips of 4
+Seat 6: lapuce59999 showed [7d 9d] and won 11443 with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #592046402641592332-29-1449074311 - Holdem no limit (40/250/500) - 2015/12/02 16:38:31 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #1 is the button
+Seat 1: SHAARRK01 (20855)
+Seat 2: tresores026 (7875)
+Seat 3: GOTAGA-EU (8735)
+Seat 4: Kiara14 (24830)
+Seat 5: pOte-pOte (11525)
+Seat 6: lapuce59999 (11443)
+Seat 7: manggy94 (13743)
+Seat 8: NeverRest (10994)
+*** ANTE/BLINDS ***
+tresores026 posts ante 40
+GOTAGA-EU posts ante 40
+SHAARRK01 posts ante 40
+Kiara14 posts ante 40
+pOte-pOte posts ante 40
+lapuce59999 posts ante 40
+manggy94 posts ante 40
+NeverRest posts ante 40
+tresores026 posts small blind 250
+GOTAGA-EU posts big blind 500
+Dealt to manggy94 [2h 6h]
+*** PRE-FLOP *** 
+Kiara14 folds
+pOte-pOte folds
+lapuce59999 raises 10903 to 11403 and is all-in
+manggy94 folds
+NeverRest folds
+SHAARRK01 folds
+tresores026 folds
+GOTAGA-EU folds
+lapuce59999 collected 12473 from pot
+*** SUMMARY ***
+Total pot 12473 | No rake
+Seat 6: lapuce59999 won 12473
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 8 - HandId: #592046402641592332-30-1449074360 - Holdem no limit (60/300/600) - 2015/12/02 16:39:20 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #2 is the button
+Seat 1: SHAARRK01 (20815)
+Seat 2: tresores026 (7585)
+Seat 3: GOTAGA-EU (8195)
+Seat 4: Kiara14 (24790)
+Seat 5: pOte-pOte (11485)
+Seat 6: lapuce59999 (12473)
+Seat 7: manggy94 (13703)
+Seat 8: NeverRest (10954)
+*** ANTE/BLINDS ***
+GOTAGA-EU posts ante 60
+Kiara14 posts ante 60
+SHAARRK01 posts ante 60
+tresores026 posts ante 60
+pOte-pOte posts ante 60
+lapuce59999 posts ante 60
+manggy94 posts ante 60
+NeverRest posts ante 60
+GOTAGA-EU posts small blind 300
+Kiara14 posts big blind 600
+Dealt to manggy94 [7s Js]
+*** PRE-FLOP *** 
+pOte-pOte folds
+lapuce59999 calls 600
+manggy94 calls 600
+NeverRest folds
+SHAARRK01 folds
+tresores026 raises 6925 to 7525 and is all-in
+GOTAGA-EU folds
+Kiara14 folds
+lapuce59999 raises 4888 to 12413 and is all-in
+manggy94 folds
+*** FLOP *** [Td 5d 6c]
+*** TURN *** [Td 5d 6c][4s]
+*** RIVER *** [Td 5d 6c 4s][8h]
+*** SHOW DOWN ***
+tresores026 shows [2h 2c] (One pair : 2)
+lapuce59999 shows [Kd Ts] (One pair : Tens)
+lapuce59999 collected 21918 from pot
+*** SUMMARY ***
+Total pot 21918 | No rake
+Board: [Td 5d 6c 4s 8h]
+Seat 2: tresores026 (button) showed [2h 2c] and lost with One pair : 2
+Seat 6: lapuce59999 showed [Kd Ts] and won 21918 with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 8 - HandId: #592046402641592332-31-1449074406 - Holdem no limit (60/300/600) - 2015/12/02 16:40:06 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #3 is the button
+Seat 1: SHAARRK01 (20755)
+Seat 3: GOTAGA-EU (7835)
+Seat 4: Kiara14 (24130)
+Seat 5: pOte-pOte (11425)
+Seat 6: lapuce59999 (21918)
+Seat 7: manggy94 (13043)
+Seat 8: NeverRest (10894)
+*** ANTE/BLINDS ***
+Kiara14 posts ante 60
+pOte-pOte posts ante 60
+SHAARRK01 posts ante 60
+GOTAGA-EU posts ante 60
+lapuce59999 posts ante 60
+manggy94 posts ante 60
+NeverRest posts ante 60
+Kiara14 posts small blind 300
+pOte-pOte posts big blind 600
+Dealt to manggy94 [2s As]
+*** PRE-FLOP *** 
+lapuce59999 folds
+manggy94 raises 1920 to 2520
+NeverRest folds
+SHAARRK01 folds
+GOTAGA-EU folds
+Kiara14 folds
+pOte-pOte folds
+manggy94 collected 3840 from pot
+*** SUMMARY ***
+Total pot 3840 | No rake
+Seat 7: manggy94 won 3840
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 8 - HandId: #592046402641592332-32-1449074440 - Holdem no limit (60/300/600) - 2015/12/02 16:40:40 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #4 is the button
+Seat 1: SHAARRK01 (20695)
+Seat 2: Doc9445 (10000)
+Seat 3: GOTAGA-EU (7775)
+Seat 4: Kiara14 (23770)
+Seat 5: pOte-pOte (10765)
+Seat 6: lapuce59999 (21858)
+Seat 7: manggy94 (14303)
+Seat 8: NeverRest (10834)
+*** ANTE/BLINDS ***
+pOte-pOte posts ante 60
+lapuce59999 posts ante 60
+SHAARRK01 posts ante 60
+Doc9445 posts ante 60
+GOTAGA-EU posts ante 60
+Kiara14 posts ante 60
+manggy94 posts ante 60
+NeverRest posts ante 60
+pOte-pOte posts small blind 300
+lapuce59999 posts big blind 600
+Dealt to manggy94 [9s Qc]
+*** PRE-FLOP *** 
+manggy94 folds
+NeverRest folds
+SHAARRK01 folds
+Doc9445 calls 600
+GOTAGA-EU folds
+Kiara14 calls 600
+pOte-pOte calls 300
+lapuce59999 checks
+*** FLOP *** [As Ad 2c]
+pOte-pOte checks
+lapuce59999 checks
+Doc9445 checks
+Kiara14 checks
+*** TURN *** [As Ad 2c][2s]
+pOte-pOte checks
+lapuce59999 bets 1920
+Doc9445 folds
+Kiara14 folds
+pOte-pOte folds
+lapuce59999 collected 4800 from pot
+*** SUMMARY ***
+Total pot 4800 | No rake
+Board: [As Ad 2c 2s]
+Seat 6: lapuce59999 (big blind) won 4800
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 8 - HandId: #592046402641592332-33-1449074514 - Holdem no limit (60/300/600) - 2015/12/02 16:41:54 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #5 is the button
+Seat 1: SHAARRK01 (20635)
+Seat 2: Doc9445 (9340)
+Seat 3: GOTAGA-EU (7715)
+Seat 4: Kiara14 (23110)
+Seat 5: pOte-pOte (10105)
+Seat 6: lapuce59999 (24078)
+Seat 7: manggy94 (14243)
+Seat 8: NeverRest (10774)
+*** ANTE/BLINDS ***
+lapuce59999 posts ante 60
+manggy94 posts ante 60
+SHAARRK01 posts ante 60
+Doc9445 posts ante 60
+GOTAGA-EU posts ante 60
+Kiara14 posts ante 60
+pOte-pOte posts ante 60
+NeverRest posts ante 60
+lapuce59999 posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [Kh Ah]
+*** PRE-FLOP *** 
+NeverRest folds
+SHAARRK01 raises 1200 to 1800
+Doc9445 folds
+GOTAGA-EU folds
+Kiara14 folds
+pOte-pOte calls 1800
+lapuce59999 calls 1500
+manggy94 raises 12383 to 14183 and is all-in
+SHAARRK01 folds
+pOte-pOte calls 8245 and is all-in
+lapuce59999 folds
+*** FLOP *** [6s 6d Qd]
+*** TURN *** [6s 6d Qd][Kd]
+*** RIVER *** [6s 6d Qd Kd][8h]
+*** SHOW DOWN ***
+pOte-pOte shows [Jd Kc] (Two pairs : Kings and 6)
+manggy94 shows [Kh Ah] (Two pairs : Kings and 6)
+manggy94 collected 28308 from pot
+*** SUMMARY ***
+Total pot 28308 | No rake
+Board: [6s 6d Qd Kd 8h]
+Seat 5: pOte-pOte (button) showed [Jd Kc] and lost with Two pairs : Kings and 6
+Seat 7: manggy94 (big blind) showed [Kh Ah] and won 28308 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 9 - HandId: #592046402641592332-34-1449074587 - Holdem no limit (75/400/800) - 2015/12/02 16:43:07 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #6 is the button
+Seat 1: SHAARRK01 (18775)
+Seat 2: Doc9445 (9280)
+Seat 3: GOTAGA-EU (7655)
+Seat 4: Kiara14 (23050)
+Seat 6: lapuce59999 (22218)
+Seat 7: manggy94 (28308)
+Seat 8: NeverRest (10714)
+*** ANTE/BLINDS ***
+manggy94 posts ante 75
+NeverRest posts ante 75
+SHAARRK01 posts ante 75
+Doc9445 posts ante 75
+GOTAGA-EU posts ante 75
+Kiara14 posts ante 75
+lapuce59999 posts ante 75
+manggy94 posts small blind 400
+NeverRest posts big blind 800
+Dealt to manggy94 [3h 4d]
+*** PRE-FLOP *** 
+SHAARRK01 folds
+Doc9445 calls 800
+GOTAGA-EU folds
+Kiara14 folds
+lapuce59999 raises 21343 to 22143 and is all-in
+manggy94 folds
+NeverRest folds
+Doc9445 calls 8405 and is all-in
+*** FLOP *** [5s 4h Kh]
+*** TURN *** [5s 4h Kh][8c]
+*** RIVER *** [5s 4h Kh 8c][Ah]
+*** SHOW DOWN ***
+Doc9445 shows [Ks Js] (One pair : Kings)
+lapuce59999 shows [Kd Jh] (One pair : Kings)
+lapuce59999 collected 23006 from side pot 1
+Doc9445 collected 10067 from main pot
+*** SUMMARY ***
+Total pot 33073 | No rake
+Board: [5s 4h Kh 8c Ah]
+Seat 2: Doc9445 showed [Ks Js] and won 10067 with One pair : Kings
+Seat 6: lapuce59999 (button) showed [Kd Jh] and won 23006 with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 9 - HandId: #592046402641592332-35-1449074613 - Holdem no limit (75/400/800) - 2015/12/02 16:43:33 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #7 is the button
+Seat 1: SHAARRK01 (18700)
+Seat 2: Doc9445 (10067)
+Seat 3: GOTAGA-EU (7580)
+Seat 4: Kiara14 (22975)
+Seat 6: lapuce59999 (23006)
+Seat 7: manggy94 (27833)
+Seat 8: NeverRest (9839)
+*** ANTE/BLINDS ***
+NeverRest posts ante 75
+SHAARRK01 posts ante 75
+Doc9445 posts ante 75
+GOTAGA-EU posts ante 75
+Kiara14 posts ante 75
+lapuce59999 posts ante 75
+manggy94 posts ante 75
+NeverRest posts small blind 400
+SHAARRK01 posts big blind 800
+Dealt to manggy94 [7h 7s]
+*** PRE-FLOP *** 
+Doc9445 calls 800
+GOTAGA-EU folds
+Kiara14 raises 800 to 1600
+lapuce59999 raises 21331 to 22931 and is all-in
+manggy94 folds
+NeverRest folds
+SHAARRK01 folds
+Doc9445 folds
+Kiara14 folds
+lapuce59999 collected 27056 from pot
+*** SUMMARY ***
+Total pot 27056 | No rake
+Seat 6: lapuce59999 won 27056
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 9 - HandId: #592046402641592332-36-1449074641 - Holdem no limit (75/400/800) - 2015/12/02 16:44:01 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #8 is the button
+Seat 1: SHAARRK01 (17825)
+Seat 2: Doc9445 (9192)
+Seat 3: GOTAGA-EU (7505)
+Seat 4: Kiara14 (21300)
+Seat 6: lapuce59999 (27056)
+Seat 7: manggy94 (27758)
+Seat 8: NeverRest (9364)
+*** ANTE/BLINDS ***
+SHAARRK01 posts ante 75
+Doc9445 posts ante 75
+GOTAGA-EU posts ante 75
+Kiara14 posts ante 75
+lapuce59999 posts ante 75
+manggy94 posts ante 75
+NeverRest posts ante 75
+SHAARRK01 posts small blind 400
+Doc9445 posts big blind 800
+Dealt to manggy94 [9c 2c]
+*** PRE-FLOP *** 
+GOTAGA-EU folds
+Kiara14 folds
+lapuce59999 folds
+manggy94 folds
+NeverRest raises 8489 to 9289 and is all-in
+SHAARRK01 folds
+Doc9445 calls 8317 and is all-in
+*** FLOP *** [2h 8c 5c]
+*** TURN *** [2h 8c 5c][7h]
+*** RIVER *** [2h 8c 5c 7h][Ks]
+*** SHOW DOWN ***
+Doc9445 shows [Ac 5s] (One pair : 5)
+NeverRest shows [Tc Jd] (High card : King)
+NeverRest collected 172 from side pot 1
+Doc9445 collected 19159 from main pot
+*** SUMMARY ***
+Total pot 19331 | No rake
+Board: [2h 8c 5c 7h Ks]
+Seat 2: Doc9445 (big blind) showed [Ac 5s] and won 19159 with One pair : 5
+Seat 8: NeverRest (button) showed [Tc Jd] and won 172 with High card : King
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 9 - HandId: #592046402641592332-37-1449074665 - Holdem no limit (75/400/800) - 2015/12/02 16:44:25 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #1 is the button
+Seat 1: SHAARRK01 (17350)
+Seat 2: Doc9445 (19159)
+Seat 3: GOTAGA-EU (7430)
+Seat 4: Kiara14 (21225)
+Seat 6: lapuce59999 (26981)
+Seat 7: manggy94 (27683)
+Seat 8: NeverRest (172)
+*** ANTE/BLINDS ***
+Doc9445 posts ante 75
+GOTAGA-EU posts ante 75
+SHAARRK01 posts ante 75
+Kiara14 posts ante 75
+lapuce59999 posts ante 75
+manggy94 posts ante 75
+NeverRest posts ante 75
+Doc9445 posts small blind 400
+GOTAGA-EU posts big blind 800
+Dealt to manggy94 [Th 6s]
+*** PRE-FLOP *** 
+Kiara14 folds
+lapuce59999 raises 26106 to 26906 and is all-in
+manggy94 folds
+NeverRest calls 97 and is all-in
+SHAARRK01 folds
+Doc9445 folds
+GOTAGA-EU calls 6555 and is all-in
+*** FLOP *** [Kd 7d 7h]
+*** TURN *** [Kd 7d 7h][Qh]
+*** RIVER *** [Kd 7d 7h Qh][8d]
+*** SHOW DOWN ***
+NeverRest shows [3d 2s] (One pair : 7)
+GOTAGA-EU shows [Ac 4h] (One pair : 7)
+lapuce59999 shows [Td Jh] (One pair : 7)
+lapuce59999 collected 19551 from side pot 1
+GOTAGA-EU collected 15732 from main pot
+*** SUMMARY ***
+Total pot 35283 | No rake
+Board: [Kd 7d 7h Qh 8d]
+Seat 3: GOTAGA-EU (big blind) showed [Ac 4h] and won 15732 with One pair : 7
+Seat 6: lapuce59999 showed [Td Jh] and won 19551 with One pair : 7
+Seat 8: NeverRest showed [3d 2s] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 9 - HandId: #592046402641592332-38-1449074695 - Holdem no limit (75/400/800) - 2015/12/02 16:44:55 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #2 is the button
+Seat 1: SHAARRK01 (17275)
+Seat 2: Doc9445 (18684)
+Seat 3: GOTAGA-EU (15732)
+Seat 4: Kiara14 (21150)
+Seat 6: lapuce59999 (19551)
+Seat 7: manggy94 (27608)
+*** ANTE/BLINDS ***
+GOTAGA-EU posts ante 75
+Kiara14 posts ante 75
+SHAARRK01 posts ante 75
+Doc9445 posts ante 75
+lapuce59999 posts ante 75
+manggy94 posts ante 75
+GOTAGA-EU posts small blind 400
+Kiara14 posts big blind 800
+Dealt to manggy94 [7d 2s]
+*** PRE-FLOP *** 
+lapuce59999 raises 18676 to 19476 and is all-in
+manggy94 folds
+SHAARRK01 folds
+Doc9445 folds
+GOTAGA-EU folds
+Kiara14 folds
+lapuce59999 collected 21126 from pot
+*** SUMMARY ***
+Total pot 21126 | No rake
+Seat 6: lapuce59999 won 21126
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 10 - HandId: #592046402641592332-39-1449074718 - Holdem no limit (100/500/1000) - 2015/12/02 16:45:18 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #3 is the button
+Seat 1: SHAARRK01 (17200)
+Seat 2: Doc9445 (18609)
+Seat 3: GOTAGA-EU (15257)
+Seat 4: Kiara14 (20275)
+Seat 5: tonsawyer (8510)
+Seat 6: lapuce59999 (21126)
+Seat 7: manggy94 (27533)
+Seat 8: ric22520 (5535)
+*** ANTE/BLINDS ***
+Kiara14 posts ante 100
+tonsawyer posts ante 100
+SHAARRK01 posts ante 100
+Doc9445 posts ante 100
+GOTAGA-EU posts ante 100
+lapuce59999 posts ante 100
+manggy94 posts ante 100
+ric22520 posts ante 100
+Kiara14 posts small blind 500
+tonsawyer posts big blind 1000
+Dealt to manggy94 [Jc Kd]
+*** PRE-FLOP *** 
+lapuce59999 raises 20026 to 21026 and is all-in
+manggy94 folds
+ric22520 folds
+SHAARRK01 folds
+Doc9445 folds
+GOTAGA-EU folds
+Kiara14 calls 19675 and is all-in
+tonsawyer folds
+*** FLOP *** [6s Ks Qd]
+*** TURN *** [6s Ks Qd][Ts]
+*** RIVER *** [6s Ks Qd Ts][9d]
+*** SHOW DOWN ***
+Kiara14 shows [Ad Jd] (Straight Ace high)
+lapuce59999 shows [4c 4h] (One pair : 4)
+lapuce59999 collected 851 from side pot 1
+Kiara14 collected 42150 from main pot
+*** SUMMARY ***
+Total pot 43001 | No rake
+Board: [6s Ks Qd Ts 9d]
+Seat 4: Kiara14 (small blind) showed [Ad Jd] and won 42150 with Straight Ace high
+Seat 6: lapuce59999 showed [4c 4h] and won 851 with One pair : 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 10 - HandId: #592046402641592332-40-1449074758 - Holdem no limit (100/500/1000) - 2015/12/02 16:45:58 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #4 is the button
+Seat 1: SHAARRK01 (17100)
+Seat 2: Doc9445 (18509)
+Seat 3: GOTAGA-EU (15157)
+Seat 4: Kiara14 (42150)
+Seat 5: tonsawyer (7410)
+Seat 6: lapuce59999 (851)
+Seat 7: manggy94 (27433)
+Seat 8: ric22520 (5435)
+*** ANTE/BLINDS ***
+tonsawyer posts ante 100
+lapuce59999 posts ante 100
+SHAARRK01 posts ante 100
+Doc9445 posts ante 100
+GOTAGA-EU posts ante 100
+Kiara14 posts ante 100
+manggy94 posts ante 100
+ric22520 posts ante 100
+tonsawyer posts small blind 500
+lapuce59999 posts big blind 751 and is all-in
+Dealt to manggy94 [Ts 8c]
+*** PRE-FLOP *** 
+manggy94 folds
+ric22520 folds
+SHAARRK01 folds
+Doc9445 calls 1000
+GOTAGA-EU calls 1000
+Kiara14 calls 1000
+tonsawyer calls 500
+*** FLOP *** [As 2c 2d]
+tonsawyer checks
+Doc9445 checks
+GOTAGA-EU checks
+Kiara14 bets 41050 and is all-in
+tonsawyer folds
+Doc9445 folds
+GOTAGA-EU folds
+*** TURN *** [As 2c 2d][4s]
+*** RIVER *** [As 2c 2d 4s][Qs]
+*** SHOW DOWN ***
+lapuce59999 shows [7h 5h] (One pair : 2)
+Kiara14 shows [Ad 9c] (Two pairs : Aces and 2)
+Kiara14 collected 46601 from pot
+*** SUMMARY ***
+Total pot 46601 | No rake
+Board: [As 2c 2d 4s Qs]
+Seat 4: Kiara14 (button) showed [Ad 9c] and won 46601 with Two pairs : Aces and 2
+Seat 6: lapuce59999 (big blind) showed [7h 5h] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 10 - HandId: #592046402641592332-41-1449074827 - Holdem no limit (100/500/1000) - 2015/12/02 16:47:07 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #5 is the button
+Seat 1: SHAARRK01 (17000)
+Seat 2: Doc9445 (17409)
+Seat 3: GOTAGA-EU (14057)
+Seat 4: Kiara14 (46601)
+Seat 5: tonsawyer (6310)
+Seat 7: manggy94 (27333)
+Seat 8: ric22520 (5335)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+SHAARRK01 posts ante 100
+Doc9445 posts ante 100
+GOTAGA-EU posts ante 100
+Kiara14 posts ante 100
+tonsawyer posts ante 100
+ric22520 posts ante 100
+manggy94 posts big blind 1000
+Dealt to manggy94 [Ad 6d]
+*** PRE-FLOP *** 
+ric22520 folds
+SHAARRK01 folds
+Doc9445 calls 1000
+GOTAGA-EU folds
+Kiara14 folds
+tonsawyer raises 5210 to 6210 and is all-in
+manggy94 calls 5210
+Doc9445 folds
+*** FLOP *** [Ts 3s 5c]
+*** TURN *** [Ts 3s 5c][4s]
+*** RIVER *** [Ts 3s 5c 4s][3h]
+*** SHOW DOWN ***
+manggy94 shows [Ad 6d] (One pair : 3)
+tonsawyer shows [7h Ah] (One pair : 3)
+tonsawyer collected 14120 from pot
+*** SUMMARY ***
+Total pot 14120 | No rake
+Board: [Ts 3s 5c 4s 3h]
+Seat 5: tonsawyer (button) showed [7h Ah] and won 14120 with One pair : 3
+Seat 7: manggy94 (big blind) showed [Ad 6d] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 10 - HandId: #592046402641592332-42-1449074872 - Holdem no limit (100/500/1000) - 2015/12/02 16:47:52 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #6 is the button
+Seat 1: SHAARRK01 (16900)
+Seat 2: Doc9445 (16309)
+Seat 3: GOTAGA-EU (13957)
+Seat 4: Kiara14 (46501)
+Seat 5: tonsawyer (14120)
+Seat 6: mickarocco62 (57235)
+Seat 7: manggy94 (21023)
+Seat 8: ric22520 (5235)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+ric22520 posts ante 100
+SHAARRK01 posts ante 100
+Doc9445 posts ante 100
+GOTAGA-EU posts ante 100
+Kiara14 posts ante 100
+tonsawyer posts ante 100
+mickarocco62 posts ante 100
+manggy94 posts small blind 500
+ric22520 posts big blind 1000
+Dealt to manggy94 [Ks 2c]
+*** PRE-FLOP *** 
+SHAARRK01 folds
+Doc9445 calls 1000
+GOTAGA-EU folds
+Kiara14 folds
+tonsawyer folds
+mickarocco62 folds
+manggy94 folds
+ric22520 checks
+*** FLOP *** [Qc 3h 6c]
+ric22520 checks
+Doc9445 bets 1000
+ric22520 folds
+Doc9445 collected 4300 from pot
+*** SUMMARY ***
+Total pot 4300 | No rake
+Board: [Qc 3h 6c]
+Seat 2: Doc9445 won 4300
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 11 - HandId: #592046402641592332-43-1449074899 - Holdem no limit (150/600/1200) - 2015/12/02 16:48:19 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #7 is the button
+Seat 1: SHAARRK01 (16800)
+Seat 2: Doc9445 (18509)
+Seat 3: GOTAGA-EU (13857)
+Seat 4: Kiara14 (46401)
+Seat 5: tonsawyer (14020)
+Seat 6: mickarocco62 (57135)
+Seat 7: manggy94 (20423)
+Seat 8: ric22520 (4135)
+*** ANTE/BLINDS ***
+ric22520 posts ante 150
+SHAARRK01 posts ante 150
+Doc9445 posts ante 150
+GOTAGA-EU posts ante 150
+Kiara14 posts ante 150
+tonsawyer posts ante 150
+mickarocco62 posts ante 150
+manggy94 posts ante 150
+ric22520 posts small blind 600
+SHAARRK01 posts big blind 1200
+Dealt to manggy94 [4d Qh]
+*** PRE-FLOP *** 
+Doc9445 folds
+GOTAGA-EU folds
+Kiara14 folds
+tonsawyer folds
+mickarocco62 raises 55785 to 56985 and is all-in
+manggy94 folds
+ric22520 folds
+SHAARRK01 folds
+mickarocco62 collected 59985 from pot
+*** SUMMARY ***
+Total pot 59985 | No rake
+Seat 6: mickarocco62 won 59985
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 11 - HandId: #592046402641592332-44-1449074954 - Holdem no limit (150/600/1200) - 2015/12/02 16:49:14 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #8 is the button
+Seat 1: SHAARRK01 (15450)
+Seat 2: Doc9445 (18359)
+Seat 3: GOTAGA-EU (13707)
+Seat 4: Kiara14 (46251)
+Seat 5: tonsawyer (13870)
+Seat 6: mickarocco62 (59985)
+Seat 7: manggy94 (20273)
+Seat 8: ric22520 (3385)
+*** ANTE/BLINDS ***
+SHAARRK01 posts ante 150
+Doc9445 posts ante 150
+GOTAGA-EU posts ante 150
+Kiara14 posts ante 150
+tonsawyer posts ante 150
+mickarocco62 posts ante 150
+manggy94 posts ante 150
+ric22520 posts ante 150
+SHAARRK01 posts small blind 600
+Doc9445 posts big blind 1200
+Dealt to manggy94 [9s 2d]
+*** PRE-FLOP *** 
+GOTAGA-EU folds
+Kiara14 folds
+tonsawyer folds
+mickarocco62 calls 1200
+manggy94 folds
+ric22520 folds
+SHAARRK01 calls 600
+Doc9445 checks
+*** FLOP *** [2c Jc 7c]
+SHAARRK01 checks
+Doc9445 checks
+mickarocco62 checks
+*** TURN *** [2c Jc 7c][Td]
+SHAARRK01 checks
+Doc9445 checks
+mickarocco62 bets 1200
+SHAARRK01 raises 3600 to 4800
+Doc9445 folds
+mickarocco62 folds
+SHAARRK01 shows [4h 9h] (High card : Jack)
+SHAARRK01 collected 10800 from pot
+*** SUMMARY ***
+Total pot 10800 | No rake
+Board: [2c Jc 7c Td]
+Seat 1: SHAARRK01 (small blind) showed [4h 9h] and won 10800 with High card : Jack
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 11 - HandId: #592046402641592332-45-1449075024 - Holdem no limit (150/600/1200) - 2015/12/02 16:50:24 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #1 is the button
+Seat 1: SHAARRK01 (20100)
+Seat 2: Doc9445 (17009)
+Seat 3: GOTAGA-EU (13557)
+Seat 4: Kiara14 (46101)
+Seat 5: tonsawyer (13720)
+Seat 6: mickarocco62 (57435)
+Seat 7: manggy94 (20123)
+Seat 8: ric22520 (3235)
+*** ANTE/BLINDS ***
+Doc9445 posts ante 150
+GOTAGA-EU posts ante 150
+SHAARRK01 posts ante 150
+Kiara14 posts ante 150
+tonsawyer posts ante 150
+mickarocco62 posts ante 150
+manggy94 posts ante 150
+ric22520 posts ante 150
+Doc9445 posts small blind 600
+GOTAGA-EU posts big blind 1200
+Dealt to manggy94 [9s 8s]
+*** PRE-FLOP *** 
+Kiara14 folds
+tonsawyer folds
+mickarocco62 calls 1200
+manggy94 folds
+ric22520 folds
+SHAARRK01 folds
+Doc9445 calls 600
+GOTAGA-EU checks
+*** FLOP *** [As 9c 2s]
+Doc9445 checks
+GOTAGA-EU bets 1800
+mickarocco62 calls 1800
+Doc9445 folds
+*** TURN *** [As 9c 2s][3h]
+GOTAGA-EU bets 3000
+mickarocco62 calls 3000
+*** RIVER *** [As 9c 2s 3h][4s]
+GOTAGA-EU checks
+mickarocco62 checks
+*** SHOW DOWN ***
+mickarocco62 shows [Ks Td] (High card : Ace)
+GOTAGA-EU shows [Ac 3c] (Two pairs : Aces and 3)
+GOTAGA-EU collected 14400 from pot
+*** SUMMARY ***
+Total pot 14400 | No rake
+Board: [As 9c 2s 3h 4s]
+Seat 3: GOTAGA-EU (big blind) showed [Ac 3c] and won 14400 with Two pairs : Aces and 3
+Seat 6: mickarocco62 showed [Ks Td] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 12 - HandId: #592046402641592332-46-1449075084 - Holdem no limit (180/800/1600) - 2015/12/02 16:51:24 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #2 is the button
+Seat 1: SHAARRK01 (19950)
+Seat 2: Doc9445 (15659)
+Seat 3: GOTAGA-EU (21807)
+Seat 4: Kiara14 (45951)
+Seat 5: tonsawyer (13570)
+Seat 6: mickarocco62 (51285)
+Seat 7: manggy94 (19973)
+Seat 8: ric22520 (3085)
+*** ANTE/BLINDS ***
+GOTAGA-EU posts ante 180
+Kiara14 posts ante 180
+SHAARRK01 posts ante 180
+Doc9445 posts ante 180
+tonsawyer posts ante 180
+mickarocco62 posts ante 180
+manggy94 posts ante 180
+ric22520 posts ante 180
+GOTAGA-EU posts small blind 800
+Kiara14 posts big blind 1600
+Dealt to manggy94 [Kd 5c]
+*** PRE-FLOP *** 
+tonsawyer raises 11790 to 13390 and is all-in
+mickarocco62 folds
+manggy94 folds
+ric22520 folds
+SHAARRK01 folds
+Doc9445 folds
+GOTAGA-EU folds
+Kiara14 folds
+tonsawyer collected 17230 from pot
+*** SUMMARY ***
+Total pot 17230 | No rake
+Seat 5: tonsawyer won 17230
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 12 - HandId: #592046402641592332-47-1449075115 - Holdem no limit (180/800/1600) - 2015/12/02 16:51:55 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #3 is the button
+Seat 1: SHAARRK01 (19770)
+Seat 2: Doc9445 (15479)
+Seat 3: GOTAGA-EU (20827)
+Seat 4: Kiara14 (44171)
+Seat 5: tonsawyer (17230)
+Seat 6: mickarocco62 (51105)
+Seat 7: manggy94 (19793)
+Seat 8: ric22520 (2905)
+*** ANTE/BLINDS ***
+Kiara14 posts ante 180
+tonsawyer posts ante 180
+SHAARRK01 posts ante 180
+Doc9445 posts ante 180
+GOTAGA-EU posts ante 180
+mickarocco62 posts ante 180
+manggy94 posts ante 180
+ric22520 posts ante 180
+Kiara14 posts small blind 800
+tonsawyer posts big blind 1600
+Dealt to manggy94 [Ad 8h]
+*** PRE-FLOP *** 
+mickarocco62 calls 1600
+manggy94 calls 1600
+ric22520 raises 1125 to 2725 and is all-in
+SHAARRK01 folds
+Doc9445 calls 2725
+GOTAGA-EU folds
+Kiara14 folds
+tonsawyer folds
+mickarocco62 calls 1125
+manggy94 calls 1125
+*** FLOP *** [3c Kh 9s]
+mickarocco62 bets 1600
+manggy94 folds
+Doc9445 calls 1600
+*** TURN *** [3c Kh 9s][5d]
+mickarocco62 bets 1600
+Doc9445 calls 1600
+*** RIVER *** [3c Kh 9s 5d][8c]
+mickarocco62 bets 1600
+Doc9445 calls 1600
+*** SHOW DOWN ***
+mickarocco62 shows [6s 5s] (One pair : 5)
+ric22520 shows [Jd Kd] (One pair : Kings)
+Doc9445 shows [Th Td] (One pair : Tens)
+Doc9445 collected 9600 from side pot 1
+ric22520 collected 14740 from main pot
+*** SUMMARY ***
+Total pot 24340 | No rake
+Board: [3c Kh 9s 5d 8c]
+Seat 2: Doc9445 showed [Th Td] and won 9600 with One pair : Tens
+Seat 6: mickarocco62 showed [6s 5s] and lost with One pair : 5
+Seat 8: ric22520 showed [Jd Kd] and won 14740 with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 12 - HandId: #592046402641592332-48-1449075184 - Holdem no limit (180/800/1600) - 2015/12/02 16:53:04 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #4 is the button
+Seat 1: SHAARRK01 (19590)
+Seat 2: Doc9445 (17374)
+Seat 3: GOTAGA-EU (20647)
+Seat 4: Kiara14 (43191)
+Seat 5: tonsawyer (15450)
+Seat 6: mickarocco62 (43400)
+Seat 7: manggy94 (16888)
+Seat 8: ric22520 (14740)
+*** ANTE/BLINDS ***
+tonsawyer posts ante 180
+mickarocco62 posts ante 180
+SHAARRK01 posts ante 180
+Doc9445 posts ante 180
+GOTAGA-EU posts ante 180
+Kiara14 posts ante 180
+manggy94 posts ante 180
+ric22520 posts ante 180
+tonsawyer posts small blind 800
+mickarocco62 posts big blind 1600
+Dealt to manggy94 [Qs 8c]
+*** PRE-FLOP *** 
+manggy94 folds
+ric22520 folds
+SHAARRK01 folds
+Doc9445 calls 1600
+GOTAGA-EU folds
+Kiara14 folds
+tonsawyer calls 800
+mickarocco62 checks
+*** FLOP *** [9s 8s Jc]
+tonsawyer checks
+mickarocco62 checks
+Doc9445 bets 1600
+tonsawyer raises 12070 to 13670 and is all-in
+mickarocco62 folds
+Doc9445 calls 12070
+*** TURN *** [9s 8s Jc][3h]
+*** RIVER *** [9s 8s Jc 3h][Qc]
+*** SHOW DOWN ***
+tonsawyer shows [6s 5s] (High card : Queen)
+Doc9445 shows [Qd Qh] (Trips of Queens)
+Doc9445 collected 33580 from pot
+*** SUMMARY ***
+Total pot 33580 | No rake
+Board: [9s 8s Jc 3h Qc]
+Seat 2: Doc9445 showed [Qd Qh] and won 33580 with Trips of Queens
+Seat 5: tonsawyer (small blind) showed [6s 5s] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 12 - HandId: #592046402641592332-49-1449075223 - Holdem no limit (180/800/1600) - 2015/12/02 16:53:43 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #5 is the button
+Seat 1: SHAARRK01 (19410)
+Seat 2: Doc9445 (35504)
+Seat 3: GOTAGA-EU (20467)
+Seat 4: Kiara14 (43011)
+Seat 6: mickarocco62 (41620)
+Seat 7: manggy94 (16708)
+Seat 8: ric22520 (14560)
+*** ANTE/BLINDS ***
+mickarocco62 posts ante 180
+manggy94 posts ante 180
+SHAARRK01 posts ante 180
+Doc9445 posts ante 180
+GOTAGA-EU posts ante 180
+Kiara14 posts ante 180
+ric22520 posts ante 180
+mickarocco62 posts small blind 800
+manggy94 posts big blind 1600
+Dealt to manggy94 [7d 8s]
+*** PRE-FLOP *** 
+ric22520 folds
+SHAARRK01 raises 2400 to 4000
+Doc9445 folds
+GOTAGA-EU calls 4000
+Kiara14 folds
+mickarocco62 folds
+manggy94 folds
+*** FLOP *** [7h 3s Js]
+SHAARRK01 bets 15230 and is all-in
+GOTAGA-EU calls 15230
+*** TURN *** [7h 3s Js][2c]
+*** RIVER *** [7h 3s Js 2c][6d]
+*** SHOW DOWN ***
+SHAARRK01 shows [Jh Kh] (One pair : Jacks)
+GOTAGA-EU shows [Ac Jd] (One pair : Jacks)
+GOTAGA-EU collected 42120 from pot
+*** SUMMARY ***
+Total pot 42120 | No rake
+Board: [7h 3s Js 2c 6d]
+Seat 1: SHAARRK01 showed [Jh Kh] and lost with One pair : Jacks
+Seat 3: GOTAGA-EU showed [Ac Jd] and won 42120 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 13 - HandId: #592046402641592332-50-1449075253 - Holdem no limit (240/1000/2000) - 2015/12/02 16:54:13 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #6 is the button
+Seat 2: Doc9445 (35324)
+Seat 3: GOTAGA-EU (43177)
+Seat 4: Kiara14 (42831)
+Seat 6: mickarocco62 (40640)
+Seat 7: manggy94 (14928)
+Seat 8: ric22520 (14380)
+*** ANTE/BLINDS ***
+manggy94 posts ante 240
+ric22520 posts ante 240
+Doc9445 posts ante 240
+GOTAGA-EU posts ante 240
+Kiara14 posts ante 240
+mickarocco62 posts ante 240
+manggy94 posts small blind 1000
+ric22520 posts big blind 2000
+Dealt to manggy94 [Ts 5s]
+*** PRE-FLOP *** 
+Doc9445 calls 2000
+GOTAGA-EU folds
+Kiara14 folds
+mickarocco62 folds
+manggy94 folds
+ric22520 checks
+*** FLOP *** [Jd 4d 5c]
+ric22520 checks
+Doc9445 bets 2000
+ric22520 calls 2000
+*** TURN *** [Jd 4d 5c][Jh]
+ric22520 bets 10140 and is all-in
+Doc9445 folds
+ric22520 collected 20580 from pot
+*** SUMMARY ***
+Total pot 20580 | No rake
+Board: [Jd 4d 5c Jh]
+Seat 8: ric22520 (big blind) won 20580
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 13 - HandId: #592046402641592332-51-1449075288 - Holdem no limit (240/1000/2000) - 2015/12/02 16:54:48 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #7 is the button
+Seat 2: Doc9445 (31084)
+Seat 3: GOTAGA-EU (42937)
+Seat 4: Kiara14 (42591)
+Seat 6: mickarocco62 (40400)
+Seat 7: manggy94 (13688)
+Seat 8: ric22520 (20580)
+*** ANTE/BLINDS ***
+ric22520 posts ante 240
+Doc9445 posts ante 240
+GOTAGA-EU posts ante 240
+Kiara14 posts ante 240
+mickarocco62 posts ante 240
+manggy94 posts ante 240
+ric22520 posts small blind 1000
+Doc9445 posts big blind 2000
+Dealt to manggy94 [5s 2c]
+*** PRE-FLOP *** 
+GOTAGA-EU raises 2000 to 4000
+Kiara14 folds
+mickarocco62 folds
+manggy94 folds
+ric22520 calls 3000
+Doc9445 calls 2000
+*** FLOP *** [Tc Kd Ad]
+ric22520 checks
+Doc9445 checks
+GOTAGA-EU bets 3000
+ric22520 folds
+Doc9445 calls 3000
+*** TURN *** [Tc Kd Ad][6d]
+Doc9445 checks
+GOTAGA-EU checks
+*** RIVER *** [Tc Kd Ad 6d][7h]
+Doc9445 bets 12960
+GOTAGA-EU calls 12960
+*** SHOW DOWN ***
+GOTAGA-EU shows [Ac Ah] (Trips of Aces)
+Doc9445 shows [Qs Jc] (Straight Ace high)
+Doc9445 collected 45360 from pot
+*** SUMMARY ***
+Total pot 45360 | No rake
+Board: [Tc Kd Ad 6d 7h]
+Seat 2: Doc9445 (big blind) showed [Qs Jc] and won 45360 with Straight Ace high
+Seat 3: GOTAGA-EU showed [Ac Ah] and lost with Trips of Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 13 - HandId: #592046402641592332-52-1449075603 - Holdem no limit (240/1000/2000) - 2015/12/02 17:00:03 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #1 is the button
+Seat 1: aurel38290 (14427)
+Seat 2: Doc9445 (56244)
+Seat 3: GOTAGA-EU (22737)
+Seat 4: Kiara14 (42351)
+Seat 6: mickarocco62 (40160)
+Seat 7: manggy94 (13448)
+Seat 8: ric22520 (16340)
+*** ANTE/BLINDS ***
+Doc9445 posts ante 240
+GOTAGA-EU posts ante 240
+aurel38290 posts ante 240
+Kiara14 posts ante 240
+mickarocco62 posts ante 240
+manggy94 posts ante 240
+ric22520 posts ante 240
+Doc9445 posts small blind 1000
+GOTAGA-EU posts big blind 2000
+Dealt to manggy94 [6c 8c]
+*** PRE-FLOP *** 
+Kiara14 raises 2000 to 4000
+mickarocco62 folds
+manggy94 folds
+ric22520 folds
+aurel38290 folds
+Doc9445 calls 3000
+GOTAGA-EU raises 18497 to 22497 and is all-in
+Kiara14 raises 19614 to 42111 and is all-in
+Doc9445 calls 38111
+*** FLOP *** [4c Jh 5s]
+*** TURN *** [4c Jh 5s][4h]
+*** RIVER *** [4c Jh 5s 4h][Qs]
+*** SHOW DOWN ***
+GOTAGA-EU shows [3h As] (One pair : 4)
+Kiara14 shows [Th Tc] (Two pairs : Tens and 4)
+Doc9445 shows [Qd Ac] (Two pairs : Queens and 4)
+Doc9445 collected 108399 from pot
+*** SUMMARY ***
+Total pot 108399 | No rake
+Board: [4c Jh 5s 4h Qs]
+Seat 2: Doc9445 (small blind) showed [Qd Ac] and won 108399 with Two pairs : Queens and 4
+Seat 3: GOTAGA-EU (big blind) showed [3h As] and lost with One pair : 4
+Seat 4: Kiara14 showed [Th Tc] and lost with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 13 - HandId: #592046402641592332-53-1449075647 - Holdem no limit (240/1000/2000) - 2015/12/02 17:00:47 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #2 is the button
+Seat 1: aurel38290 (14187)
+Seat 2: Doc9445 (122292)
+Seat 6: mickarocco62 (39920)
+Seat 7: manggy94 (13208)
+Seat 8: ric22520 (16100)
+*** ANTE/BLINDS ***
+mickarocco62 posts ante 240
+aurel38290 posts ante 240
+Doc9445 posts ante 240
+manggy94 posts ante 240
+ric22520 posts ante 240
+mickarocco62 posts big blind 2000
+Dealt to manggy94 [8s 6s]
+*** PRE-FLOP *** 
+manggy94 folds
+ric22520 folds
+aurel38290 folds
+Doc9445 calls 2000
+mickarocco62 checks
+*** FLOP *** [4d Ac 7s]
+mickarocco62 bets 2000
+Doc9445 calls 2000
+*** TURN *** [4d Ac 7s][9s]
+mickarocco62 bets 2000
+Doc9445 calls 2000
+*** RIVER *** [4d Ac 7s 9s][2s]
+mickarocco62 bets 5000
+Doc9445 folds
+mickarocco62 collected 18200 from pot
+*** SUMMARY ***
+Total pot 18200 | No rake
+Board: [4d Ac 7s 9s 2s]
+Seat 6: mickarocco62 (big blind) won 18200
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 13 - HandId: #592046402641592332-54-1449075678 - Holdem no limit (240/1000/2000) - 2015/12/02 17:01:18 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #3 is the button
+Seat 1: aurel38290 (13947)
+Seat 2: Doc9445 (116052)
+Seat 6: mickarocco62 (46880)
+Seat 7: manggy94 (12968)
+Seat 8: ric22520 (15860)
+*** ANTE/BLINDS ***
+mickarocco62 posts ante 240
+manggy94 posts ante 240
+aurel38290 posts ante 240
+Doc9445 posts ante 240
+ric22520 posts ante 240
+mickarocco62 posts small blind 1000
+manggy94 posts big blind 2000
+Dealt to manggy94 [2h 3h]
+*** PRE-FLOP *** 
+ric22520 folds
+aurel38290 folds
+Doc9445 calls 2000
+mickarocco62 calls 1000
+manggy94 checks
+*** FLOP *** [As Ah 9h]
+mickarocco62 bets 2000
+manggy94 calls 2000
+Doc9445 raises 2000 to 4000
+mickarocco62 folds
+manggy94 calls 2000
+*** TURN *** [As Ah 9h][4s]
+manggy94 checks
+Doc9445 bets 8600
+manggy94 folds
+Doc9445 collected 25800 from pot
+*** SUMMARY ***
+Total pot 25800 | No rake
+Board: [As Ah 9h 4s]
+Seat 2: Doc9445 won 25800
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 14 - HandId: #592046402641592332-55-1449075741 - Holdem no limit (320/1250/2500) - 2015/12/02 17:02:21 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #6 is the button
+Seat 1: aurel38290 (13707)
+Seat 2: Doc9445 (127012)
+Seat 3: Exta17 (16780)
+Seat 4: _tcho-tcho_ (11270)
+Seat 5: keke4716 (37222)
+Seat 6: mickarocco62 (42640)
+Seat 7: manggy94 (6728)
+Seat 8: ric22520 (15620)
+*** ANTE/BLINDS ***
+manggy94 posts ante 320
+ric22520 posts ante 320
+aurel38290 posts ante 320
+Doc9445 posts ante 320
+Exta17 posts ante 320
+_tcho-tcho_ posts ante 320
+keke4716 posts ante 320
+mickarocco62 posts ante 320
+manggy94 posts small blind 1250
+ric22520 posts big blind 2500
+Dealt to manggy94 [Qd 7s]
+*** PRE-FLOP *** 
+aurel38290 raises 10887 to 13387 and is all-in
+Doc9445 folds
+Exta17 folds
+_tcho-tcho_ folds
+keke4716 raises 23515 to 36902 and is all-in
+mickarocco62 folds
+manggy94 folds
+ric22520 folds
+*** FLOP *** [Ad Jd 2d]
+*** TURN *** [Ad Jd 2d][7c]
+*** RIVER *** [Ad Jd 2d 7c][8d]
+*** SHOW DOWN ***
+aurel38290 shows [Ks Qh] (High card : Ace)
+keke4716 shows [Tc Ts] (One pair : Tens)
+keke4716 collected 56599 from pot
+*** SUMMARY ***
+Total pot 56599 | No rake
+Board: [Ad Jd 2d 7c 8d]
+Seat 1: aurel38290 showed [Ks Qh] and lost with High card : Ace
+Seat 5: keke4716 showed [Tc Ts] and won 56599 with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 14 - HandId: #592046402641592332-56-1449075780 - Holdem no limit (320/1250/2500) - 2015/12/02 17:03:00 UTC
+Table: 'Kill The Fish(137846545)#011' 8-max (real money) Seat #7 is the button
+Seat 2: Doc9445 (126692)
+Seat 3: Exta17 (16460)
+Seat 4: _tcho-tcho_ (10950)
+Seat 5: keke4716 (56599)
+Seat 6: mickarocco62 (42320)
+Seat 7: manggy94 (5158)
+Seat 8: ric22520 (12800)
+*** ANTE/BLINDS ***
+ric22520 posts ante 320
+Doc9445 posts ante 320
+Exta17 posts ante 320
+_tcho-tcho_ posts ante 320
+keke4716 posts ante 320
+mickarocco62 posts ante 320
+manggy94 posts ante 320
+ric22520 posts small blind 1250
+Doc9445 posts big blind 2500
+Dealt to manggy94 [5c Ks]
+*** PRE-FLOP *** 
+Exta17 folds
+_tcho-tcho_ folds
+keke4716 folds
+mickarocco62 folds
+manggy94 raises 2338 to 4838 and is all-in
+ric22520 raises 7642 to 12480 and is all-in
+Doc9445 folds
+*** FLOP *** [2s Tc 6c]
+*** TURN *** [2s Tc 6c][8h]
+*** RIVER *** [2s Tc 6c 8h][9c]
+*** SHOW DOWN ***
+manggy94 shows [5c Ks] (High card : King)
+ric22520 shows [Qh As] (High card : Ace)
+ric22520 collected 22058 from pot
+*** SUMMARY ***
+Total pot 22058 | No rake
+Board: [2s Tc 6c 8h 9c]
+Seat 7: manggy94 (button) showed [5c Ks] and lost with High card : King
+Seat 8: ric22520 (small blind) showed [Qh As] and won 22058 with High card : Ace
+
+

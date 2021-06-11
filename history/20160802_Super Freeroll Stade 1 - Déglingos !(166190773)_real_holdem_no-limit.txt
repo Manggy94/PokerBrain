@@ -1,0 +1,400 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #713783934931959809-1-1470160451 - Holdem no limit (10/20) - 2016/08/02 17:54:11 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166190773)#0' 6-max (real money) Seat #6 is the button
+Seat 1: LuchoMurieta (500)
+Seat 2: Cedofmars13 (500)
+Seat 3: Roi2Pic68 (500)
+Seat 4: D.S.P.R. (500)
+Seat 5: OgiBubili (500)
+Seat 6: manggy94 (500)
+*** ANTE/BLINDS ***
+LuchoMurieta posts small blind 10
+Cedofmars13 posts big blind 20
+Dealt to manggy94 [9s 5d]
+*** PRE-FLOP *** 
+Roi2Pic68 calls 20
+D.S.P.R. raises 480 to 500 and is all-in
+OgiBubili folds
+manggy94 folds
+LuchoMurieta calls 490 and is all-in
+Cedofmars13 folds
+Roi2Pic68 calls 480 and is all-in
+*** FLOP *** [9d Ad Td]
+*** TURN *** [9d Ad Td][5s]
+*** RIVER *** [9d Ad Td 5s][Jh]
+*** SHOW DOWN ***
+D.S.P.R. shows [7c 7s] (One pair : 7)
+LuchoMurieta shows [Kh 9h] (One pair : 9)
+Roi2Pic68 shows [9c Kc] (One pair : 9)
+Roi2Pic68 collected 760 from pot
+LuchoMurieta collected 760 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Board: [9d Ad Td 5s Jh]
+Seat 1: LuchoMurieta (small blind) showed [Kh 9h] and won 760 with One pair : 9
+Seat 3: Roi2Pic68 showed [9c Kc] and won 760 with One pair : 9
+Seat 4: D.S.P.R. showed [7c 7s] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #713783934931959809-2-1470160490 - Holdem no limit (10/20) - 2016/08/02 17:54:50 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166190773)#0' 6-max (real money) Seat #1 is the button
+Seat 1: LuchoMurieta (760)
+Seat 2: Cedofmars13 (480)
+Seat 3: Roi2Pic68 (760)
+Seat 5: OgiBubili (500)
+Seat 6: manggy94 (500)
+*** ANTE/BLINDS ***
+Cedofmars13 posts small blind 10
+Roi2Pic68 posts big blind 20
+Dealt to manggy94 [Ks 7c]
+*** PRE-FLOP *** 
+OgiBubili folds
+manggy94 folds
+LuchoMurieta raises 20 to 40
+Cedofmars13 raises 160 to 200
+Roi2Pic68 calls 180
+LuchoMurieta calls 160
+*** FLOP *** [4h Qh Jd]
+Cedofmars13 bets 280 and is all-in
+Roi2Pic68 calls 280
+LuchoMurieta calls 280
+*** TURN *** [4h Qh Jd][8h]
+Roi2Pic68 checks
+LuchoMurieta checks
+*** RIVER *** [4h Qh Jd 8h][Kh]
+Roi2Pic68 checks
+LuchoMurieta checks
+*** SHOW DOWN ***
+LuchoMurieta shows [Td 8d] (One pair : 8)
+Roi2Pic68 shows [5c 4c] (One pair : 4)
+Cedofmars13 shows [Ah Ac] (Flush Ace high)
+Cedofmars13 collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [4h Qh Jd 8h Kh]
+Seat 1: LuchoMurieta (button) showed [Td 8d] and lost with One pair : 8
+Seat 2: Cedofmars13 (small blind) showed [Ah Ac] and won 1440 with Flush Ace high
+Seat 3: Roi2Pic68 (big blind) showed [5c 4c] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #713783934931959809-3-1470160523 - Holdem no limit (10/20) - 2016/08/02 17:55:23 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166190773)#0' 6-max (real money) Seat #2 is the button
+Seat 1: LuchoMurieta (280)
+Seat 2: Cedofmars13 (1440)
+Seat 3: Roi2Pic68 (280)
+Seat 5: OgiBubili (500)
+Seat 6: manggy94 (500)
+*** ANTE/BLINDS ***
+Roi2Pic68 posts small blind 10
+OgiBubili posts big blind 20
+Dealt to manggy94 [3c Kc]
+*** PRE-FLOP *** 
+manggy94 calls 20
+LuchoMurieta raises 260 to 280 and is all-in
+Cedofmars13 folds
+Roi2Pic68 folds
+OgiBubili folds
+manggy94 calls 260
+*** FLOP *** [Th Jd 3d]
+*** TURN *** [Th Jd 3d][6c]
+*** RIVER *** [Th Jd 3d 6c][8s]
+*** SHOW DOWN ***
+LuchoMurieta shows [Ad 4c] (High card : Ace)
+manggy94 shows [3c Kc] (One pair : 3)
+manggy94 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Th Jd 3d 6c 8s]
+Seat 1: LuchoMurieta showed [Ad 4c] and lost with High card : Ace
+Seat 6: manggy94 showed [3c Kc] and won 590 with One pair : 3
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #713783934931959809-4-1470160543 - Holdem no limit (10/20) - 2016/08/02 17:55:43 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166190773)#0' 6-max (real money) Seat #3 is the button
+Seat 2: Cedofmars13 (1440)
+Seat 3: Roi2Pic68 (270)
+Seat 5: OgiBubili (480)
+Seat 6: manggy94 (810)
+*** ANTE/BLINDS ***
+OgiBubili posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [5d Td]
+*** PRE-FLOP *** 
+Cedofmars13 folds
+Roi2Pic68 calls 20
+OgiBubili calls 10
+manggy94 checks
+*** FLOP *** [3c 9s Jc]
+OgiBubili bets 20
+manggy94 folds
+Roi2Pic68 folds
+OgiBubili collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [3c 9s Jc]
+Seat 5: OgiBubili (small blind) won 80
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #713783934931959809-5-1470160582 - Holdem no limit (10/20) - 2016/08/02 17:56:22 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166190773)#0' 6-max (real money) Seat #5 is the button
+Seat 2: Cedofmars13 (1440)
+Seat 3: Roi2Pic68 (250)
+Seat 5: OgiBubili (520)
+Seat 6: manggy94 (790)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+Cedofmars13 posts big blind 20
+Dealt to manggy94 [3h 2c]
+*** PRE-FLOP *** 
+Roi2Pic68 folds
+OgiBubili calls 20
+manggy94 calls 10
+Cedofmars13 raises 80 to 100
+OgiBubili calls 80
+manggy94 folds
+*** FLOP *** [Qs As Th]
+Cedofmars13 bets 147
+OgiBubili calls 147
+*** TURN *** [Qs As Th][Kh]
+Cedofmars13 checks
+OgiBubili bets 273 and is all-in
+Cedofmars13 calls 273
+*** RIVER *** [Qs As Th Kh][7d]
+*** SHOW DOWN ***
+OgiBubili shows [Kd Tc] (Two pairs : Kings and Tens)
+Cedofmars13 shows [Ah Qd] (Two pairs : Aces and Queens)
+Cedofmars13 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Board: [Qs As Th Kh 7d]
+Seat 2: Cedofmars13 (big blind) showed [Ah Qd] and won 1060 with Two pairs : Aces and Queens
+Seat 5: OgiBubili (button) showed [Kd Tc] and lost with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #713783934931959809-6-1470160631 - Holdem no limit (15/30) - 2016/08/02 17:57:11 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166190773)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Cedofmars13 (1980)
+Seat 3: Roi2Pic68 (250)
+Seat 6: manggy94 (770)
+*** ANTE/BLINDS ***
+Cedofmars13 posts small blind 15
+Roi2Pic68 posts big blind 30
+Dealt to manggy94 [4d Js]
+*** PRE-FLOP *** 
+manggy94 folds
+Cedofmars13 raises 30 to 60
+Roi2Pic68 calls 30
+*** FLOP *** [9s 9c Kc]
+Cedofmars13 bets 90
+Roi2Pic68 calls 90
+*** TURN *** [9s 9c Kc][6h]
+Cedofmars13 bets 225
+Roi2Pic68 calls 100 and is all-in
+*** RIVER *** [9s 9c Kc 6h][3d]
+*** SHOW DOWN ***
+Roi2Pic68 shows [3c 8c] (Two pairs : 9 and 3)
+Cedofmars13 shows [Kd Qs] (Two pairs : Kings and 9)
+Cedofmars13 collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | No rake
+Board: [9s 9c Kc 6h 3d]
+Seat 2: Cedofmars13 (small blind) showed [Kd Qs] and won 625 with Two pairs : Kings and 9
+Seat 3: Roi2Pic68 (big blind) showed [3c 8c] and lost with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #713783934931959809-7-1470160678 - Holdem no limit (15/30) - 2016/08/02 17:57:58 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166190773)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Cedofmars13 (2230)
+Seat 6: manggy94 (770)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+Cedofmars13 posts big blind 30
+Dealt to manggy94 [Ks Kd]
+*** PRE-FLOP *** 
+manggy94 raises 30 to 60
+Cedofmars13 folds
+manggy94 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: manggy94 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #713783934931959809-8-1470160688 - Holdem no limit (15/30) - 2016/08/02 17:58:08 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166190773)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Cedofmars13 (2200)
+Seat 6: manggy94 (800)
+*** ANTE/BLINDS ***
+Cedofmars13 posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [5s Jh]
+*** PRE-FLOP *** 
+Cedofmars13 calls 15
+manggy94 checks
+*** FLOP *** [2d Qh Jc]
+manggy94 checks
+Cedofmars13 bets 30
+manggy94 raises 120 to 150
+Cedofmars13 folds
+manggy94 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [2d Qh Jc]
+Seat 6: manggy94 (big blind) won 240
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #713783934931959809-9-1470160702 - Holdem no limit (15/30) - 2016/08/02 17:58:22 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166190773)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Cedofmars13 (2140)
+Seat 6: manggy94 (860)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+Cedofmars13 posts big blind 30
+Dealt to manggy94 [2c 5h]
+*** PRE-FLOP *** 
+manggy94 folds
+Cedofmars13 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Cedofmars13 (big blind) won 45
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #713783934931959809-10-1470160708 - Holdem no limit (15/30) - 2016/08/02 17:58:28 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166190773)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Cedofmars13 (2155)
+Seat 6: manggy94 (845)
+*** ANTE/BLINDS ***
+Cedofmars13 posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [7s Td]
+*** PRE-FLOP *** 
+Cedofmars13 raises 30 to 60
+manggy94 calls 30
+*** FLOP *** [7c Qs Th]
+manggy94 checks
+Cedofmars13 bets 60
+manggy94 raises 240 to 300
+Cedofmars13 folds
+manggy94 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [7c Qs Th]
+Seat 6: manggy94 (big blind) won 480
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #713783934931959809-11-1470160721 - Holdem no limit (15/30) - 2016/08/02 17:58:41 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166190773)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Cedofmars13 (2035)
+Seat 6: manggy94 (965)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+Cedofmars13 posts big blind 30
+Dealt to manggy94 [3h 2s]
+*** PRE-FLOP *** 
+manggy94 calls 15
+Cedofmars13 checks
+*** FLOP *** [Ac Ts 7h]
+Cedofmars13 checks
+manggy94 checks
+*** TURN *** [Ac Ts 7h][Td]
+Cedofmars13 checks
+manggy94 checks
+*** RIVER *** [Ac Ts 7h Td][Jc]
+Cedofmars13 bets 30
+manggy94 folds
+Cedofmars13 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Ac Ts 7h Td Jc]
+Seat 2: Cedofmars13 (big blind) won 90
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #713783934931959809-12-1470160736 - Holdem no limit (15/30) - 2016/08/02 17:58:56 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166190773)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Cedofmars13 (2065)
+Seat 6: manggy94 (935)
+*** ANTE/BLINDS ***
+Cedofmars13 posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [9d Kh]
+*** PRE-FLOP *** 
+Cedofmars13 raises 30 to 60
+manggy94 raises 30 to 90
+Cedofmars13 folds
+manggy94 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 6: manggy94 (big blind) won 150
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #713783934931959809-13-1470160762 - Holdem no limit (15/30) - 2016/08/02 17:59:22 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166190773)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Cedofmars13 (2005)
+Seat 6: manggy94 (995)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+Cedofmars13 posts big blind 30
+Dealt to manggy94 [4c 4d]
+*** PRE-FLOP *** 
+manggy94 raises 120 to 150
+Cedofmars13 folds
+manggy94 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 6: manggy94 (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #713783934931959809-14-1470160772 - Holdem no limit (15/30) - 2016/08/02 17:59:32 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166190773)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Cedofmars13 (1975)
+Seat 6: manggy94 (1025)
+*** ANTE/BLINDS ***
+Cedofmars13 posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [Jh Ks]
+*** PRE-FLOP *** 
+Cedofmars13 raises 30 to 60
+manggy94 calls 30
+*** FLOP *** [5d Qd 7c]
+manggy94 checks
+Cedofmars13 bets 60
+manggy94 calls 60
+*** TURN *** [5d Qd 7c][2h]
+manggy94 checks
+Cedofmars13 bets 180
+manggy94 folds
+Cedofmars13 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [5d Qd 7c 2h]
+Seat 2: Cedofmars13 (small blind) (button) won 420
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #713783934931959809-15-1470160792 - Holdem no limit (15/30) - 2016/08/02 17:59:52 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(166190773)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Cedofmars13 (2095)
+Seat 6: manggy94 (905)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+Cedofmars13 posts big blind 30
+Dealt to manggy94 [9d 9h]
+*** PRE-FLOP *** 
+manggy94 raises 60 to 90
+Cedofmars13 calls 60
+*** FLOP *** [4d Qc 6d]
+Cedofmars13 checks
+manggy94 bets 180
+Cedofmars13 raises 180 to 360
+manggy94 raises 455 to 815 and is all-in
+Cedofmars13 calls 455
+*** TURN *** [4d Qc 6d][Js]
+*** RIVER *** [4d Qc 6d Js][2s]
+*** SHOW DOWN ***
+manggy94 shows [9d 9h] (One pair : 9)
+Cedofmars13 shows [Qh Kh] (One pair : Queens)
+Cedofmars13 collected 1810 from pot
+*** SUMMARY ***
+Total pot 1810 | No rake
+Board: [4d Qc 6d Js 2s]
+Seat 2: Cedofmars13 (big blind) showed [Qh Kh] and won 1810 with One pair : Queens
+Seat 6: manggy94 (small blind) (button) showed [9d 9h] and lost with One pair : 9
+
+

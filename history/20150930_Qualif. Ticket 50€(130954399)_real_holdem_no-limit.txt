@@ -1,0 +1,458 @@
+Winamax Poker - Tournament "Qualif. Ticket 50€" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #562444860972335105-39-1443603601 - Holdem no limit (40/80) - 2015/09/30 09:00:01 UTC
+Table: 'Qualif. Ticket 50€(130954399)#000' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (3000)
+Seat 2: toufik51 (2254)
+Seat 3: sherkan43 (3305)
+Seat 4: BZH_A_VEGAS (6380)
+Seat 5: K7DQ (2346)
+Seat 6: booba77210 (3000)
+*** ANTE/BLINDS ***
+toufik51 posts small blind 40
+sherkan43 posts big blind 80
+*** PRE-FLOP *** 
+BZH_A_VEGAS folds
+K7DQ raises 80 to 160
+toufik51 folds
+sherkan43 calls 80
+*** FLOP *** [7s 6s 4h]
+sherkan43 checks
+K7DQ checks
+*** TURN *** [7s 6s 4h][As]
+sherkan43 checks
+K7DQ bets 240
+sherkan43 folds
+K7DQ collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7s 6s 4h As]
+Seat 5: K7DQ (button) won 600
+
+
+Winamax Poker - Tournament "Qualif. Ticket 50€" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #562444860972335105-40-1443603681 - Holdem no limit (60/120) - 2015/09/30 09:01:21 UTC
+Table: 'Qualif. Ticket 50€(130954399)#000' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (3000)
+Seat 2: toufik51 (2214)
+Seat 3: sherkan43 (3145)
+Seat 4: BZH_A_VEGAS (6380)
+Seat 5: K7DQ (2546)
+Seat 6: booba77210 (3000)
+*** ANTE/BLINDS ***
+sherkan43 posts small blind 60
+BZH_A_VEGAS posts big blind 120
+Dealt to manggy94 [6c 9d]
+*** PRE-FLOP *** 
+K7DQ raises 120 to 240
+booba77210 folds
+manggy94 folds
+toufik51 folds
+sherkan43 calls 180
+BZH_A_VEGAS calls 120
+*** FLOP *** [4c Jc 5c]
+sherkan43 checks
+BZH_A_VEGAS checks
+K7DQ checks
+*** TURN *** [4c Jc 5c][Ks]
+sherkan43 bets 360
+BZH_A_VEGAS folds
+K7DQ folds
+sherkan43 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [4c Jc 5c Ks]
+Seat 3: sherkan43 (small blind) won 1080
+
+
+Winamax Poker - Tournament "Qualif. Ticket 50€" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #562444860972335105-41-1443603779 - Holdem no limit (60/120) - 2015/09/30 09:02:59 UTC
+Table: 'Qualif. Ticket 50€(130954399)#000' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (3000)
+Seat 2: toufik51 (2214)
+Seat 3: sherkan43 (3625)
+Seat 4: BZH_A_VEGAS (6140)
+Seat 5: K7DQ (2306)
+Seat 6: booba77210 (3000)
+*** ANTE/BLINDS ***
+BZH_A_VEGAS posts small blind 60
+K7DQ posts big blind 120
+Dealt to manggy94 [8c Qc]
+*** PRE-FLOP *** 
+booba77210 folds
+manggy94 calls 120
+toufik51 folds
+sherkan43 folds
+BZH_A_VEGAS raises 310 to 430
+K7DQ folds
+manggy94 calls 310
+*** FLOP *** [Kc Qd 8d]
+BZH_A_VEGAS bets 402
+manggy94 raises 1784 to 2186
+BZH_A_VEGAS raises 1784 to 3970
+manggy94 calls 384 and is all-in
+*** TURN *** [Kc Qd 8d][Ah]
+*** RIVER *** [Kc Qd 8d Ah][Qs]
+*** SHOW DOWN ***
+manggy94 shows [8c Qc] (Full of Queens and 8)
+BZH_A_VEGAS shows [Kd 9c] (Two pairs : Kings and Queens)
+BZH_A_VEGAS collected 1400 from side pot 1
+manggy94 collected 6120 from main pot
+*** SUMMARY ***
+Total pot 7520 | No rake
+Board: [Kc Qd 8d Ah Qs]
+Seat 1: manggy94 showed [8c Qc] and won 6120 with Full of Queens and 8
+Seat 4: BZH_A_VEGAS (small blind) showed [Kd 9c] and won 1400 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Qualif. Ticket 50€" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #562444860972335105-42-1443603834 - Holdem no limit (60/120) - 2015/09/30 09:03:54 UTC
+Table: 'Qualif. Ticket 50€(130954399)#000' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (6120)
+Seat 2: toufik51 (2214)
+Seat 3: sherkan43 (3625)
+Seat 4: BZH_A_VEGAS (3140)
+Seat 5: K7DQ (2186)
+*** ANTE/BLINDS ***
+K7DQ posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [9s 5c]
+*** PRE-FLOP *** 
+toufik51 calls 120
+sherkan43 folds
+BZH_A_VEGAS raises 420 to 540
+K7DQ folds
+manggy94 folds
+toufik51 folds
+BZH_A_VEGAS collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Seat 4: BZH_A_VEGAS (button) won 840
+
+
+Winamax Poker - Tournament "Qualif. Ticket 50€" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #562444860972335105-43-1443603872 - Holdem no limit (60/120) - 2015/09/30 09:04:32 UTC
+Table: 'Qualif. Ticket 50€(130954399)#000' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (6000)
+Seat 2: toufik51 (2094)
+Seat 3: sherkan43 (3625)
+Seat 4: BZH_A_VEGAS (3440)
+Seat 5: K7DQ (2126)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 60
+toufik51 posts big blind 120
+Dealt to manggy94 [Qc 7d]
+*** PRE-FLOP *** 
+sherkan43 folds
+BZH_A_VEGAS raises 240 to 360
+K7DQ folds
+manggy94 calls 300
+toufik51 folds
+*** FLOP *** [2d Js 3c]
+manggy94 bets 120
+BZH_A_VEGAS raises 660 to 780
+manggy94 folds
+BZH_A_VEGAS collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Board: [2d Js 3c]
+Seat 4: BZH_A_VEGAS won 1740
+
+
+Winamax Poker - Tournament "Qualif. Ticket 50€" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #562444860972335105-44-1443603984 - Holdem no limit (10/60/120) - 2015/09/30 09:06:24 UTC
+Table: 'Qualif. Ticket 50€(130954399)#000' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (5520)
+Seat 2: toufik51 (1974)
+Seat 3: sherkan43 (3625)
+Seat 4: BZH_A_VEGAS (4040)
+Seat 5: K7DQ (2126)
+*** ANTE/BLINDS ***
+toufik51 posts ante 10
+sherkan43 posts ante 10
+manggy94 posts ante 10
+BZH_A_VEGAS posts ante 10
+K7DQ posts ante 10
+toufik51 posts small blind 60
+sherkan43 posts big blind 120
+Dealt to manggy94 [Jd Kc]
+*** PRE-FLOP *** 
+BZH_A_VEGAS folds
+K7DQ folds
+manggy94 raises 350 to 470
+toufik51 folds
+sherkan43 raises 3145 to 3615 and is all-in
+manggy94 calls 3145
+*** FLOP *** [4d 3h 6d]
+*** TURN *** [4d 3h 6d][Qc]
+*** RIVER *** [4d 3h 6d Qc][5s]
+*** SHOW DOWN ***
+manggy94 shows [Jd Kc] (High card : King)
+sherkan43 shows [8c Ac] (High card : Ace)
+sherkan43 collected 7340 from pot
+*** SUMMARY ***
+Total pot 7340 | No rake
+Board: [4d 3h 6d Qc 5s]
+Seat 1: manggy94 (button) showed [Jd Kc] and lost with High card : King
+Seat 3: sherkan43 (big blind) showed [8c Ac] and won 7340 with High card : Ace
+
+
+Winamax Poker - Tournament "Qualif. Ticket 50€" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #562444860972335105-45-1443604010 - Holdem no limit (10/60/120) - 2015/09/30 09:06:50 UTC
+Table: 'Qualif. Ticket 50€(130954399)#000' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (1895)
+Seat 2: toufik51 (1904)
+Seat 3: sherkan43 (7340)
+Seat 4: BZH_A_VEGAS (4030)
+Seat 5: K7DQ (2116)
+*** ANTE/BLINDS ***
+sherkan43 posts ante 10
+BZH_A_VEGAS posts ante 10
+manggy94 posts ante 10
+toufik51 posts ante 10
+K7DQ posts ante 10
+sherkan43 posts small blind 60
+BZH_A_VEGAS posts big blind 120
+Dealt to manggy94 [5c 3h]
+*** PRE-FLOP *** 
+K7DQ folds
+manggy94 folds
+toufik51 folds
+sherkan43 raises 120 to 240
+BZH_A_VEGAS calls 120
+*** FLOP *** [7s Ah Jd]
+sherkan43 bets 353
+BZH_A_VEGAS calls 353
+*** TURN *** [7s Ah Jd][Qs]
+sherkan43 checks
+BZH_A_VEGAS checks
+*** RIVER *** [7s Ah Jd Qs][Qd]
+sherkan43 bets 927
+BZH_A_VEGAS folds
+sherkan43 collected 2163 from pot
+*** SUMMARY ***
+Total pot 2163 | No rake
+Board: [7s Ah Jd Qs Qd]
+Seat 3: sherkan43 (small blind) won 2163
+
+
+Winamax Poker - Tournament "Qualif. Ticket 50€" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #562444860972335105-46-1443604057 - Holdem no limit (10/60/120) - 2015/09/30 09:07:37 UTC
+Table: 'Qualif. Ticket 50€(130954399)#000' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (1885)
+Seat 2: toufik51 (1894)
+Seat 3: sherkan43 (7973)
+Seat 4: BZH_A_VEGAS (3427)
+Seat 5: K7DQ (2106)
+*** ANTE/BLINDS ***
+BZH_A_VEGAS posts ante 10
+K7DQ posts ante 10
+manggy94 posts ante 10
+toufik51 posts ante 10
+sherkan43 posts ante 10
+BZH_A_VEGAS posts small blind 60
+K7DQ posts big blind 120
+Dealt to manggy94 [8d Td]
+*** PRE-FLOP *** 
+manggy94 calls 120
+toufik51 folds
+sherkan43 calls 120
+BZH_A_VEGAS folds
+K7DQ checks
+*** FLOP *** [Tc Qc Kh]
+K7DQ checks
+manggy94 checks
+sherkan43 checks
+*** TURN *** [Tc Qc Kh][9s]
+K7DQ checks
+manggy94 checks
+sherkan43 checks
+*** RIVER *** [Tc Qc Kh 9s][Js]
+K7DQ checks
+manggy94 checks
+sherkan43 bets 235
+K7DQ folds
+manggy94 calls 235
+*** SHOW DOWN ***
+manggy94 shows [8d Td] (Straight King high)
+sherkan43 shows [Ah 3s] (Straight Ace high)
+sherkan43 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | No rake
+Board: [Tc Qc Kh 9s Js]
+Seat 1: manggy94 showed [8d Td] and lost with Straight King high
+Seat 3: sherkan43 (button) showed [Ah 3s] and won 940 with Straight Ace high
+
+
+Winamax Poker - Tournament "Qualif. Ticket 50€" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #562444860972335105-47-1443604091 - Holdem no limit (10/60/120) - 2015/09/30 09:08:11 UTC
+Table: 'Qualif. Ticket 50€(130954399)#000' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (1520)
+Seat 2: toufik51 (1884)
+Seat 3: sherkan43 (8548)
+Seat 4: BZH_A_VEGAS (3357)
+Seat 5: K7DQ (1976)
+*** ANTE/BLINDS ***
+K7DQ posts ante 10
+manggy94 posts ante 10
+toufik51 posts ante 10
+sherkan43 posts ante 10
+BZH_A_VEGAS posts ante 10
+K7DQ posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [Ks 3h]
+*** PRE-FLOP *** 
+toufik51 folds
+sherkan43 folds
+BZH_A_VEGAS raises 140 to 260
+K7DQ raises 1706 to 1966 and is all-in
+manggy94 folds
+BZH_A_VEGAS calls 1706
+*** FLOP *** [Qc 8d 8c]
+*** TURN *** [Qc 8d 8c][7c]
+*** RIVER *** [Qc 8d 8c 7c][Qh]
+*** SHOW DOWN ***
+K7DQ shows [Ts As] (Two pairs : Queens and 8)
+BZH_A_VEGAS shows [Qd Kc] (Full of Queens and 8)
+BZH_A_VEGAS collected 4102 from pot
+*** SUMMARY ***
+Total pot 4102 | No rake
+Board: [Qc 8d 8c 7c Qh]
+Seat 4: BZH_A_VEGAS (button) showed [Qd Kc] and won 4102 with Full of Queens and 8
+Seat 5: K7DQ (small blind) showed [Ts As] and lost with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Qualif. Ticket 50€" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #562444860972335108-23-1443604160 - Holdem no limit (10/60/120) - 2015/09/30 09:09:20 UTC
+Table: 'Qualif. Ticket 50€(130954399)#003' 6-max (real money) Seat #3 is the button
+Seat 1: Corsicadream (2942)
+Seat 2: teamexpresso (4862)
+Seat 3: booba77210 (3270)
+Seat 4: sherkan43 (8538)
+Seat 5: manggy94 (1390)
+Seat 6: solo35 (7996)
+*** ANTE/BLINDS ***
+solo35 posts ante 10
+Corsicadream posts ante 10
+teamexpresso posts ante 10
+booba77210 posts ante 10
+solo35 posts small blind 60
+Corsicadream posts big blind 120
+*** PRE-FLOP *** 
+teamexpresso calls 120
+booba77210 folds
+solo35 folds
+Corsicadream checks
+*** FLOP *** [7h 7c 4c]
+Corsicadream checks
+teamexpresso bets 180
+Corsicadream folds
+teamexpresso collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [7h 7c 4c]
+Seat 2: teamexpresso won 520
+
+
+Winamax Poker - Tournament "Qualif. Ticket 50€" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #562444860972335108-24-1443604179 - Holdem no limit (10/60/120) - 2015/09/30 09:09:39 UTC
+Table: 'Qualif. Ticket 50€(130954399)#003' 6-max (real money) Seat #6 is the button
+Seat 1: Corsicadream (2812)
+Seat 2: teamexpresso (5072)
+Seat 3: booba77210 (3260)
+Seat 4: sherkan43 (8538)
+Seat 5: manggy94 (1390)
+Seat 6: solo35 (7926)
+*** ANTE/BLINDS ***
+Corsicadream posts ante 10
+teamexpresso posts ante 10
+booba77210 posts ante 10
+sherkan43 posts ante 10
+manggy94 posts ante 10
+solo35 posts ante 10
+Corsicadream posts small blind 60
+teamexpresso posts big blind 120
+Dealt to manggy94 [4h 8s]
+*** PRE-FLOP *** 
+booba77210 folds
+sherkan43 folds
+manggy94 folds
+solo35 folds
+Corsicadream folds
+teamexpresso collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 2: teamexpresso (big blind) won 240
+
+
+Winamax Poker - Tournament "Qualif. Ticket 50€" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #562444860972335108-25-1443604191 - Holdem no limit (10/60/120) - 2015/09/30 09:09:51 UTC
+Table: 'Qualif. Ticket 50€(130954399)#003' 6-max (real money) Seat #1 is the button
+Seat 1: Corsicadream (2742)
+Seat 2: teamexpresso (5182)
+Seat 3: booba77210 (3250)
+Seat 4: sherkan43 (8528)
+Seat 5: manggy94 (1380)
+Seat 6: solo35 (7916)
+*** ANTE/BLINDS ***
+teamexpresso posts ante 10
+booba77210 posts ante 10
+Corsicadream posts ante 10
+sherkan43 posts ante 10
+manggy94 posts ante 10
+solo35 posts ante 10
+teamexpresso posts small blind 60
+booba77210 posts big blind 120
+Dealt to manggy94 [3s Ad]
+*** PRE-FLOP *** 
+sherkan43 folds
+manggy94 calls 120
+solo35 folds
+Corsicadream folds
+teamexpresso calls 60
+booba77210 checks
+*** FLOP *** [Th Js 3d]
+teamexpresso checks
+booba77210 checks
+manggy94 bets 420
+teamexpresso folds
+booba77210 folds
+manggy94 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [Th Js 3d]
+Seat 5: manggy94 won 840
+
+
+Winamax Poker - Tournament "Qualif. Ticket 50€" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #562444860972335108-26-1443604227 - Holdem no limit (10/60/120) - 2015/09/30 09:10:27 UTC
+Table: 'Qualif. Ticket 50€(130954399)#003' 6-max (real money) Seat #2 is the button
+Seat 1: Corsicadream (2732)
+Seat 2: teamexpresso (5052)
+Seat 3: booba77210 (3120)
+Seat 4: sherkan43 (8518)
+Seat 5: manggy94 (1670)
+Seat 6: solo35 (7906)
+*** ANTE/BLINDS ***
+booba77210 posts ante 10
+sherkan43 posts ante 10
+Corsicadream posts ante 10
+teamexpresso posts ante 10
+manggy94 posts ante 10
+solo35 posts ante 10
+booba77210 posts small blind 60
+sherkan43 posts big blind 120
+Dealt to manggy94 [Qs Qh]
+*** PRE-FLOP *** 
+manggy94 raises 360 to 480
+solo35 calls 480
+Corsicadream raises 2242 to 2722 and is all-in
+teamexpresso folds
+booba77210 raises 388 to 3110 and is all-in
+sherkan43 folds
+manggy94 calls 1180 and is all-in
+solo35 calls 2630
+*** FLOP *** [Jd 9c 8d]
+*** TURN *** [Jd 9c 8d][8h]
+*** RIVER *** [Jd 9c 8d 8h][7c]
+*** SHOW DOWN ***
+Corsicadream shows [Jh As] (Two pairs : Jacks and 8)
+booba77210 shows [Qd Ah] (One pair : 8)
+manggy94 shows [Qs Qh] (Two pairs : Queens and 8)
+solo35 shows [Tc Th] (Straight Jack high)
+solo35 collected 10782 from pot
+*** SUMMARY ***
+Total pot 10782 | No rake
+Board: [Jd 9c 8d 8h 7c]
+Seat 1: Corsicadream showed [Jh As] and lost with Two pairs : Jacks and 8
+Seat 3: booba77210 (small blind) showed [Qd Ah] and lost with One pair : 8
+Seat 5: manggy94 showed [Qs Qh] and lost with Two pairs : Queens and 8
+Seat 6: solo35 showed [Tc Th] and won 10782 with Straight Jack high
+
+

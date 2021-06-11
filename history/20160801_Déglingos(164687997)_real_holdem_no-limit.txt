@@ -1,0 +1,1545 @@
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #707329561158746113-31-1470053952 - Holdem no limit (15/30) - 2016/08/01 12:19:12 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (500)
+Seat 2: kidallamo (410)
+Seat 3: Doraemon99 (2270)
+*** ANTE/BLINDS ***
+kidallamo posts small blind 15
+Doraemon99 posts big blind 30
+*** PRE-FLOP *** 
+kidallamo folds
+Doraemon99 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Doraemon99 (big blind) won 45
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #707329561158746113-32-1470053956 - Holdem no limit (15/30) - 2016/08/01 12:19:16 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (500)
+Seat 2: kidallamo (395)
+Seat 3: Doraemon99 (2285)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [7c 7h]
+*** PRE-FLOP *** 
+kidallamo raises 30 to 60
+Doraemon99 folds
+manggy94 raises 440 to 500 and is all-in
+kidallamo calls 335 and is all-in
+*** FLOP *** [9s As Ac]
+*** TURN *** [9s As Ac][Qs]
+*** RIVER *** [9s As Ac Qs][6c]
+*** SHOW DOWN ***
+manggy94 shows [7c 7h] (Two pairs : Aces and 7)
+kidallamo shows [Ks Kh] (Two pairs : Aces and Kings)
+kidallamo collected 805 from main pot
+manggy94 collected 105 from side pot 1
+*** SUMMARY ***
+Total pot 910 | No rake
+Board: [9s As Ac Qs 6c]
+Seat 1: manggy94 (big blind) showed [7c 7h] and won 105 with Two pairs : Aces and 7
+Seat 2: kidallamo (button) showed [Ks Kh] and won 805 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #707329561158746113-33-1470053972 - Holdem no limit (15/30) - 2016/08/01 12:19:32 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (105)
+Seat 2: kidallamo (805)
+Seat 3: Doraemon99 (2270)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+kidallamo posts big blind 30
+Dealt to manggy94 [Jc 2d]
+*** PRE-FLOP *** 
+Doraemon99 folds
+manggy94 folds
+kidallamo collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: kidallamo (big blind) won 45
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #707329561158746113-34-1470053978 - Holdem no limit (15/30) - 2016/08/01 12:19:38 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (90)
+Seat 2: kidallamo (820)
+Seat 3: Doraemon99 (2270)
+*** ANTE/BLINDS ***
+kidallamo posts small blind 15
+Doraemon99 posts big blind 30
+Dealt to manggy94 [8d 5d]
+*** PRE-FLOP *** 
+manggy94 folds
+kidallamo calls 15
+Doraemon99 checks
+*** FLOP *** [3s 4d Ah]
+kidallamo checks
+Doraemon99 checks
+*** TURN *** [3s 4d Ah][2d]
+kidallamo checks
+Doraemon99 checks
+*** RIVER *** [3s 4d Ah 2d][4h]
+kidallamo checks
+Doraemon99 checks
+*** SHOW DOWN ***
+Doraemon99 shows [7s Qc] (One pair : 4)
+kidallamo shows [Ks 8s] (One pair : 4)
+kidallamo collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3s 4d Ah 2d 4h]
+Seat 2: kidallamo (small blind) showed [Ks 8s] and won 60 with One pair : 4
+Seat 3: Doraemon99 (big blind) showed [7s Qc] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #707329561158746113-35-1470053993 - Holdem no limit (15/30) - 2016/08/01 12:19:53 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (90)
+Seat 2: kidallamo (850)
+Seat 3: Doraemon99 (2240)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [Tc 2d]
+*** PRE-FLOP *** 
+kidallamo calls 30
+Doraemon99 calls 15
+manggy94 checks
+*** FLOP *** [3d Th 5d]
+Doraemon99 checks
+manggy94 bets 60 and is all-in
+kidallamo calls 60
+Doraemon99 calls 60
+*** TURN *** [3d Th 5d][9c]
+Doraemon99 checks
+kidallamo checks
+*** RIVER *** [3d Th 5d 9c][3c]
+Doraemon99 checks
+kidallamo checks
+*** SHOW DOWN ***
+kidallamo shows [Ac 5c] (Two pairs : 5 and 3)
+Doraemon99 shows [4d Qd] (One pair : 3)
+manggy94 shows [Tc 2d] (Two pairs : Tens and 3)
+manggy94 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [3d Th 5d 9c 3c]
+Seat 1: manggy94 (big blind) showed [Tc 2d] and won 270 with Two pairs : Tens and 3
+Seat 2: kidallamo (button) showed [Ac 5c] and lost with Two pairs : 5 and 3
+Seat 3: Doraemon99 (small blind) showed [4d Qd] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #707329561158746113-36-1470054010 - Holdem no limit (15/30) - 2016/08/01 12:20:10 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (270)
+Seat 2: kidallamo (760)
+Seat 3: Doraemon99 (2150)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+kidallamo posts big blind 30
+Dealt to manggy94 [Qd 8c]
+*** PRE-FLOP *** 
+Doraemon99 calls 30
+manggy94 calls 15
+kidallamo checks
+*** FLOP *** [9s 4h 5d]
+manggy94 checks
+kidallamo checks
+Doraemon99 checks
+*** TURN *** [9s 4h 5d][4s]
+manggy94 checks
+kidallamo checks
+Doraemon99 checks
+*** RIVER *** [9s 4h 5d 4s][Jc]
+manggy94 checks
+kidallamo bets 30
+Doraemon99 folds
+manggy94 folds
+kidallamo collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [9s 4h 5d 4s Jc]
+Seat 2: kidallamo (big blind) won 120
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #707329561158746113-37-1470054027 - Holdem no limit (15/30) - 2016/08/01 12:20:27 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (240)
+Seat 2: kidallamo (820)
+Seat 3: Doraemon99 (2120)
+*** ANTE/BLINDS ***
+kidallamo posts small blind 15
+Doraemon99 posts big blind 30
+Dealt to manggy94 [3c Qc]
+*** PRE-FLOP *** 
+manggy94 folds
+kidallamo calls 15
+Doraemon99 checks
+*** FLOP *** [Ts 9d As]
+kidallamo bets 30
+Doraemon99 calls 30
+*** TURN *** [Ts 9d As][Ks]
+kidallamo bets 30
+Doraemon99 folds
+kidallamo collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Ts 9d As Ks]
+Seat 2: kidallamo (small blind) won 150
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #707329561158746113-38-1470054042 - Holdem no limit (15/30) - 2016/08/01 12:20:42 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (240)
+Seat 2: kidallamo (880)
+Seat 3: Doraemon99 (2060)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [Qd Jh]
+*** PRE-FLOP *** 
+kidallamo folds
+Doraemon99 raises 30 to 60
+manggy94 raises 180 to 240 and is all-in
+Doraemon99 calls 180
+*** FLOP *** [6c 9d Tc]
+*** TURN *** [6c 9d Tc][Ad]
+*** RIVER *** [6c 9d Tc Ad][Jc]
+*** SHOW DOWN ***
+Doraemon99 shows [6d 3h] (One pair : 6)
+manggy94 shows [Qd Jh] (One pair : Jacks)
+manggy94 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [6c 9d Tc Ad Jc]
+Seat 1: manggy94 (big blind) showed [Qd Jh] and won 480 with One pair : Jacks
+Seat 3: Doraemon99 (small blind) showed [6d 3h] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #707329561158746113-39-1470054060 - Holdem no limit (15/30) - 2016/08/01 12:21:00 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (480)
+Seat 2: kidallamo (880)
+Seat 3: Doraemon99 (1820)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+kidallamo posts big blind 30
+Dealt to manggy94 [5d Jd]
+*** PRE-FLOP *** 
+Doraemon99 raises 30 to 60
+manggy94 folds
+kidallamo folds
+Doraemon99 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 3: Doraemon99 (button) won 105
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #707329561158746113-40-1470054069 - Holdem no limit (20/40) - 2016/08/01 12:21:09 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (465)
+Seat 2: kidallamo (850)
+Seat 3: Doraemon99 (1865)
+*** ANTE/BLINDS ***
+kidallamo posts small blind 20
+Doraemon99 posts big blind 40
+Dealt to manggy94 [7s 4s]
+*** PRE-FLOP *** 
+manggy94 folds
+kidallamo calls 20
+Doraemon99 checks
+*** FLOP *** [Qh Ac 8d]
+kidallamo checks
+Doraemon99 bets 40
+kidallamo calls 40
+*** TURN *** [Qh Ac 8d][Ad]
+kidallamo checks
+Doraemon99 bets 40
+kidallamo calls 40
+*** RIVER *** [Qh Ac 8d Ad][As]
+kidallamo checks
+Doraemon99 bets 240
+kidallamo folds
+Doraemon99 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Qh Ac 8d Ad As]
+Seat 3: Doraemon99 (big blind) won 480
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #707329561158746113-41-1470054088 - Holdem no limit (20/40) - 2016/08/01 12:21:28 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (465)
+Seat 2: kidallamo (730)
+Seat 3: Doraemon99 (1985)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [Ts 3h]
+*** PRE-FLOP *** 
+kidallamo raises 40 to 80
+Doraemon99 folds
+manggy94 folds
+kidallamo collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 2: kidallamo (button) won 140
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #707329561158746113-42-1470054098 - Holdem no limit (20/40) - 2016/08/01 12:21:38 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (425)
+Seat 2: kidallamo (790)
+Seat 3: Doraemon99 (1965)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+kidallamo posts big blind 40
+Dealt to manggy94 [Qh Ah]
+*** PRE-FLOP *** 
+Doraemon99 folds
+manggy94 raises 385 to 425 and is all-in
+kidallamo folds
+manggy94 collected 465 from pot
+*** SUMMARY ***
+Total pot 465 | No rake
+Seat 1: manggy94 (small blind) won 465
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #707329561158746113-43-1470054105 - Holdem no limit (20/40) - 2016/08/01 12:21:45 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (465)
+Seat 2: kidallamo (750)
+Seat 3: Doraemon99 (1965)
+*** ANTE/BLINDS ***
+kidallamo posts small blind 20
+Doraemon99 posts big blind 40
+Dealt to manggy94 [4s Jd]
+*** PRE-FLOP *** 
+manggy94 folds
+kidallamo raises 40 to 80
+Doraemon99 folds
+kidallamo collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: kidallamo (small blind) won 120
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #707329561158746113-44-1470054114 - Holdem no limit (20/40) - 2016/08/01 12:21:54 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (465)
+Seat 2: kidallamo (790)
+Seat 3: Doraemon99 (1925)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [7c 7d]
+*** PRE-FLOP *** 
+kidallamo folds
+Doraemon99 raises 80 to 120
+manggy94 raises 345 to 465 and is all-in
+Doraemon99 calls 345
+*** FLOP *** [6s 2d 2h]
+*** TURN *** [6s 2d 2h][8d]
+*** RIVER *** [6s 2d 2h 8d][3c]
+*** SHOW DOWN ***
+Doraemon99 shows [Ac 6d] (Two pairs : 6 and 2)
+manggy94 shows [7c 7d] (Two pairs : 7 and 2)
+manggy94 collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | No rake
+Board: [6s 2d 2h 8d 3c]
+Seat 1: manggy94 (big blind) showed [7c 7d] and won 930 with Two pairs : 7 and 2
+Seat 3: Doraemon99 (small blind) showed [Ac 6d] and lost with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #707329561158746113-45-1470054133 - Holdem no limit (20/40) - 2016/08/01 12:22:13 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (930)
+Seat 2: kidallamo (790)
+Seat 3: Doraemon99 (1460)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+kidallamo posts big blind 40
+Dealt to manggy94 [3s 5s]
+*** PRE-FLOP *** 
+Doraemon99 calls 40
+manggy94 folds
+kidallamo checks
+*** FLOP *** [Jc Qh 8s]
+kidallamo checks
+Doraemon99 checks
+*** TURN *** [Jc Qh 8s][Qs]
+kidallamo checks
+Doraemon99 checks
+*** RIVER *** [Jc Qh 8s Qs][Js]
+kidallamo checks
+Doraemon99 checks
+*** SHOW DOWN ***
+kidallamo shows [7h 5d] (Two pairs : Queens and Jacks)
+Doraemon99 shows [7d Ks] (Two pairs : Queens and Jacks)
+Doraemon99 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Jc Qh 8s Qs Js]
+Seat 2: kidallamo (big blind) showed [7h 5d] and lost with Two pairs : Queens and Jacks
+Seat 3: Doraemon99 (button) showed [7d Ks] and won 100 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #707329561158746113-46-1470054158 - Holdem no limit (20/40) - 2016/08/01 12:22:38 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (910)
+Seat 2: kidallamo (750)
+Seat 3: Doraemon99 (1520)
+*** ANTE/BLINDS ***
+kidallamo posts small blind 20
+Doraemon99 posts big blind 40
+Dealt to manggy94 [5s Kd]
+*** PRE-FLOP *** 
+manggy94 folds
+kidallamo folds
+Doraemon99 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Doraemon99 (big blind) won 60
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #707329561158746113-47-1470054163 - Holdem no limit (20/40) - 2016/08/01 12:22:43 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (910)
+Seat 2: kidallamo (730)
+Seat 3: Doraemon99 (1540)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [Jh Qc]
+*** PRE-FLOP *** 
+kidallamo raises 40 to 80
+Doraemon99 folds
+manggy94 raises 180 to 260
+kidallamo calls 180
+*** FLOP *** [Td 9s Qd]
+manggy94 bets 650 and is all-in
+kidallamo calls 470 and is all-in
+*** TURN *** [Td 9s Qd][Kh]
+*** RIVER *** [Td 9s Qd Kh][6h]
+*** SHOW DOWN ***
+kidallamo shows [Ah Th] (One pair : Tens)
+manggy94 shows [Jh Qc] (Straight King high)
+manggy94 collected 1660 from pot
+*** SUMMARY ***
+Total pot 1660 | No rake
+Board: [Td 9s Qd Kh 6h]
+Seat 1: manggy94 (big blind) showed [Jh Qc] and won 1660 with Straight King high
+Seat 2: kidallamo (button) showed [Ah Th] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #707329561158746113-48-1470054203 - Holdem no limit (20/40) - 2016/08/01 12:23:23 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (1660)
+Seat 3: Doraemon99 (1520)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+Doraemon99 posts big blind 40
+Dealt to manggy94 [5h Ac]
+*** PRE-FLOP *** 
+manggy94 raises 40 to 80
+Doraemon99 folds
+manggy94 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: manggy94 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #707329561158746113-49-1470054215 - Holdem no limit (20/40) - 2016/08/01 12:23:35 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (1700)
+Seat 3: Doraemon99 (1480)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [3c Qh]
+*** PRE-FLOP *** 
+Doraemon99 calls 20
+manggy94 checks
+*** FLOP *** [9h Kc Kh]
+manggy94 checks
+Doraemon99 checks
+*** TURN *** [9h Kc Kh][5h]
+manggy94 bets 40
+Doraemon99 calls 40
+*** RIVER *** [9h Kc Kh 5h][3h]
+manggy94 bets 40
+Doraemon99 raises 240 to 280
+manggy94 calls 240
+*** SHOW DOWN ***
+manggy94 shows [3c Qh] (Flush King high)
+Doraemon99 shows [2d Ah] (Flush Ace high)
+Doraemon99 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [9h Kc Kh 5h 3h]
+Seat 1: manggy94 (big blind) showed [3c Qh] and lost with Flush King high
+Seat 3: Doraemon99 (small blind) (button) showed [2d Ah] and won 720 with Flush Ace high
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #707329561158746113-50-1470054244 - Holdem no limit (30/60) - 2016/08/01 12:24:04 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (1340)
+Seat 2: maxchab (500)
+Seat 3: Doraemon99 (1840)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+maxchab posts big blind 60
+Dealt to manggy94 [8h 7d]
+*** PRE-FLOP *** 
+Doraemon99 folds
+manggy94 calls 30
+maxchab checks
+*** FLOP *** [Qc Th 2s]
+manggy94 bets 60
+maxchab folds
+manggy94 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Qc Th 2s]
+Seat 1: manggy94 (small blind) won 180
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #707329561158746113-51-1470054259 - Holdem no limit (30/60) - 2016/08/01 12:24:19 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (1400)
+Seat 2: maxchab (440)
+Seat 3: Doraemon99 (1840)
+*** ANTE/BLINDS ***
+maxchab posts small blind 30
+Doraemon99 posts big blind 60
+Dealt to manggy94 [8h 6d]
+*** PRE-FLOP *** 
+manggy94 folds
+maxchab folds
+Doraemon99 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Doraemon99 (big blind) won 90
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #707329561158746113-52-1470054264 - Holdem no limit (30/60) - 2016/08/01 12:24:24 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (1400)
+Seat 2: maxchab (410)
+Seat 3: Doraemon99 (1870)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [3s Ad]
+*** PRE-FLOP *** 
+maxchab raises 350 to 410 and is all-in
+Doraemon99 folds
+manggy94 calls 350
+*** FLOP *** [2c 2d 7h]
+*** TURN *** [2c 2d 7h][Qd]
+*** RIVER *** [2c 2d 7h Qd][4h]
+*** SHOW DOWN ***
+manggy94 shows [3s Ad] (One pair : 2)
+maxchab shows [Kh Qh] (Two pairs : Queens and 2)
+maxchab collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Board: [2c 2d 7h Qd 4h]
+Seat 1: manggy94 (big blind) showed [3s Ad] and lost with One pair : 2
+Seat 2: maxchab (button) showed [Kh Qh] and won 850 with Two pairs : Queens and 2
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #707329561158746113-53-1470054287 - Holdem no limit (30/60) - 2016/08/01 12:24:47 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (990)
+Seat 2: maxchab (850)
+Seat 3: Doraemon99 (1840)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+maxchab posts big blind 60
+Dealt to manggy94 [Th 5h]
+*** PRE-FLOP *** 
+Doraemon99 folds
+manggy94 raises 60 to 120
+maxchab folds
+manggy94 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: manggy94 (small blind) won 180
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #707329561158746113-54-1470054294 - Holdem no limit (30/60) - 2016/08/01 12:24:54 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (1050)
+Seat 2: maxchab (790)
+Seat 3: Doraemon99 (1840)
+*** ANTE/BLINDS ***
+maxchab posts small blind 30
+Doraemon99 posts big blind 60
+Dealt to manggy94 [8c Kd]
+*** PRE-FLOP *** 
+manggy94 folds
+maxchab raises 730 to 790 and is all-in
+Doraemon99 folds
+maxchab collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 2: maxchab (small blind) won 850
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #707329561158746113-55-1470054306 - Holdem no limit (30/60) - 2016/08/01 12:25:06 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (1050)
+Seat 2: maxchab (850)
+Seat 3: Doraemon99 (1780)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [Ad 7h]
+*** PRE-FLOP *** 
+maxchab folds
+Doraemon99 raises 60 to 120
+manggy94 raises 930 to 1050 and is all-in
+Doraemon99 calls 930
+*** FLOP *** [5s 7d 2h]
+*** TURN *** [5s 7d 2h][5h]
+*** RIVER *** [5s 7d 2h 5h][4d]
+*** SHOW DOWN ***
+Doraemon99 shows [9h Qh] (One pair : 5)
+manggy94 shows [Ad 7h] (Two pairs : 7 and 5)
+manggy94 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Board: [5s 7d 2h 5h 4d]
+Seat 1: manggy94 (big blind) showed [Ad 7h] and won 2100 with Two pairs : 7 and 5
+Seat 3: Doraemon99 (small blind) showed [9h Qh] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #707329561158746113-56-1470054337 - Holdem no limit (30/60) - 2016/08/01 12:25:37 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (2100)
+Seat 2: maxchab (850)
+Seat 3: Doraemon99 (730)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+maxchab posts big blind 60
+Dealt to manggy94 [Tc Jc]
+*** PRE-FLOP *** 
+Doraemon99 folds
+manggy94 raises 60 to 120
+maxchab raises 730 to 850 and is all-in
+manggy94 calls 730
+*** FLOP *** [8h Ah Td]
+*** TURN *** [8h Ah Td][6h]
+*** RIVER *** [8h Ah Td 6h][3h]
+*** SHOW DOWN ***
+manggy94 shows [Tc Jc] (One pair : Tens)
+maxchab shows [Ac Th] (Flush Ace high)
+maxchab collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Board: [8h Ah Td 6h 3h]
+Seat 1: manggy94 (small blind) showed [Tc Jc] and lost with One pair : Tens
+Seat 2: maxchab (big blind) showed [Ac Th] and won 1700 with Flush Ace high
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #707329561158746113-57-1470054356 - Holdem no limit (30/60) - 2016/08/01 12:25:56 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (1250)
+Seat 2: maxchab (1700)
+Seat 3: Doraemon99 (730)
+*** ANTE/BLINDS ***
+maxchab posts small blind 30
+Doraemon99 posts big blind 60
+Dealt to manggy94 [Qc 5c]
+*** PRE-FLOP *** 
+manggy94 folds
+maxchab folds
+Doraemon99 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Doraemon99 (big blind) won 90
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #707329561158746113-58-1470054379 - Holdem no limit (30/60) - 2016/08/01 12:26:19 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (1250)
+Seat 2: maxchab (1670)
+Seat 3: Doraemon99 (760)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [Td Kd]
+*** PRE-FLOP *** 
+maxchab folds
+Doraemon99 raises 60 to 120
+manggy94 raises 1130 to 1250 and is all-in
+Doraemon99 calls 640 and is all-in
+*** FLOP *** [Ad 2h 5s]
+*** TURN *** [Ad 2h 5s][3d]
+*** RIVER *** [Ad 2h 5s 3d][9h]
+*** SHOW DOWN ***
+manggy94 shows [Td Kd] (High card : Ace)
+Doraemon99 shows [9d 9c] (Trips of 9)
+Doraemon99 collected 1520 from main pot
+manggy94 collected 490 from side pot 1
+*** SUMMARY ***
+Total pot 2010 | No rake
+Board: [Ad 2h 5s 3d 9h]
+Seat 1: manggy94 (big blind) showed [Td Kd] and won 490 with High card : Ace
+Seat 3: Doraemon99 (small blind) showed [9d 9c] and won 1520 with Trips of 9
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #707329561158746113-59-1470054395 - Holdem no limit (30/60) - 2016/08/01 12:26:35 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (490)
+Seat 2: maxchab (1670)
+Seat 3: Doraemon99 (1520)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+maxchab posts big blind 60
+Dealt to manggy94 [Ts Qs]
+*** PRE-FLOP *** 
+Doraemon99 folds
+manggy94 raises 430 to 490 and is all-in
+maxchab folds
+manggy94 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 1: manggy94 (small blind) won 550
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #707329561158746113-60-1470054403 - Holdem no limit (30/60) - 2016/08/01 12:26:43 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (550)
+Seat 2: maxchab (1610)
+Seat 3: Doraemon99 (1520)
+*** ANTE/BLINDS ***
+maxchab posts small blind 30
+Doraemon99 posts big blind 60
+Dealt to manggy94 [3s 5s]
+*** PRE-FLOP *** 
+manggy94 folds
+maxchab folds
+Doraemon99 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Doraemon99 (big blind) won 90
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #707329561158746113-61-1470054407 - Holdem no limit (30/60) - 2016/08/01 12:26:47 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (550)
+Seat 2: maxchab (1580)
+Seat 3: Doraemon99 (1550)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [Qh 5s]
+*** PRE-FLOP *** 
+maxchab folds
+Doraemon99 folds
+manggy94 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: manggy94 (big blind) won 90
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #707329561158746113-62-1470054412 - Holdem no limit (30/60) - 2016/08/01 12:26:52 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (580)
+Seat 2: maxchab (1580)
+Seat 3: Doraemon99 (1520)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+maxchab posts big blind 60
+Dealt to manggy94 [Jc 8s]
+*** PRE-FLOP *** 
+Doraemon99 folds
+manggy94 raises 60 to 120
+maxchab folds
+manggy94 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: manggy94 (small blind) won 180
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #707329561158746113-63-1470054418 - Holdem no limit (30/60) - 2016/08/01 12:26:58 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (640)
+Seat 2: maxchab (1520)
+Seat 3: Doraemon99 (1520)
+*** ANTE/BLINDS ***
+maxchab posts small blind 30
+Doraemon99 posts big blind 60
+Dealt to manggy94 [3d 9c]
+*** PRE-FLOP *** 
+manggy94 folds
+maxchab raises 60 to 120
+Doraemon99 calls 60
+*** FLOP *** [5d 5s 9d]
+maxchab checks
+Doraemon99 checks
+*** TURN *** [5d 5s 9d][5h]
+maxchab bets 60
+Doraemon99 calls 60
+*** RIVER *** [5d 5s 9d 5h][8d]
+maxchab bets 60
+Doraemon99 folds
+maxchab collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [5d 5s 9d 5h 8d]
+Seat 2: maxchab (small blind) won 420
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #707329561158746113-64-1470054434 - Holdem no limit (40/80) - 2016/08/01 12:27:14 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (640)
+Seat 2: maxchab (1700)
+Seat 3: Doraemon99 (1340)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [8d Ks]
+*** PRE-FLOP *** 
+maxchab folds
+Doraemon99 folds
+manggy94 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: manggy94 (big blind) won 120
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #707329561158746113-65-1470054439 - Holdem no limit (40/80) - 2016/08/01 12:27:19 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (680)
+Seat 2: maxchab (1700)
+Seat 3: Doraemon99 (1300)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+maxchab posts big blind 80
+Dealt to manggy94 [3d 3h]
+*** PRE-FLOP *** 
+Doraemon99 calls 80
+manggy94 raises 600 to 680 and is all-in
+maxchab folds
+Doraemon99 calls 600
+*** FLOP *** [Kc 3s Qd]
+*** TURN *** [Kc 3s Qd][6c]
+*** RIVER *** [Kc 3s Qd 6c][Th]
+*** SHOW DOWN ***
+Doraemon99 shows [8s Qs] (One pair : Queens)
+manggy94 shows [3d 3h] (Trips of 3)
+manggy94 collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [Kc 3s Qd 6c Th]
+Seat 1: manggy94 (small blind) showed [3d 3h] and won 1440 with Trips of 3
+Seat 3: Doraemon99 (button) showed [8s Qs] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #707329561158746113-66-1470054459 - Holdem no limit (40/80) - 2016/08/01 12:27:39 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (1440)
+Seat 2: maxchab (1620)
+Seat 3: Doraemon99 (620)
+*** ANTE/BLINDS ***
+maxchab posts small blind 40
+Doraemon99 posts big blind 80
+Dealt to manggy94 [Qd 4c]
+*** PRE-FLOP *** 
+manggy94 folds
+maxchab raises 240 to 320
+Doraemon99 folds
+maxchab collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 2: maxchab (small blind) won 400
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #707329561158746113-67-1470054473 - Holdem no limit (40/80) - 2016/08/01 12:27:53 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (1440)
+Seat 2: maxchab (1700)
+Seat 3: Doraemon99 (540)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [3d 8c]
+*** PRE-FLOP *** 
+maxchab folds
+Doraemon99 raises 80 to 160
+manggy94 folds
+Doraemon99 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: Doraemon99 (small blind) won 240
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #707329561158746113-68-1470054481 - Holdem no limit (40/80) - 2016/08/01 12:28:01 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (1360)
+Seat 2: maxchab (1700)
+Seat 3: Doraemon99 (620)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+maxchab posts big blind 80
+Dealt to manggy94 [5c 6d]
+*** PRE-FLOP *** 
+Doraemon99 folds
+manggy94 folds
+maxchab collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: maxchab (big blind) won 120
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #707329561158746113-69-1470054487 - Holdem no limit (40/80) - 2016/08/01 12:28:07 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (1320)
+Seat 2: maxchab (1740)
+Seat 3: Doraemon99 (620)
+*** ANTE/BLINDS ***
+maxchab posts small blind 40
+Doraemon99 posts big blind 80
+Dealt to manggy94 [6s 3d]
+*** PRE-FLOP *** 
+manggy94 folds
+maxchab folds
+Doraemon99 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: Doraemon99 (big blind) won 120
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #707329561158746113-70-1470054498 - Holdem no limit (40/80) - 2016/08/01 12:28:18 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (1320)
+Seat 2: maxchab (1700)
+Seat 3: Doraemon99 (660)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [3d 2h]
+*** PRE-FLOP *** 
+maxchab folds
+Doraemon99 folds
+manggy94 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: manggy94 (big blind) won 120
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #707329561158746113-71-1470054504 - Holdem no limit (40/80) - 2016/08/01 12:28:24 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (1360)
+Seat 2: maxchab (1700)
+Seat 3: Doraemon99 (620)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+maxchab posts big blind 80
+Dealt to manggy94 [3h Kc]
+*** PRE-FLOP *** 
+Doraemon99 raises 80 to 160
+manggy94 raises 320 to 480
+maxchab folds
+Doraemon99 calls 320
+*** FLOP *** [8c 4d 6d]
+manggy94 checks
+Doraemon99 checks
+*** TURN *** [8c 4d 6d][6h]
+manggy94 bets 80
+Doraemon99 calls 80
+*** RIVER *** [8c 4d 6d 6h][Jd]
+manggy94 checks
+Doraemon99 checks
+*** SHOW DOWN ***
+manggy94 shows [3h Kc] (One pair : 6)
+Doraemon99 shows [9h Ks] (One pair : 6)
+Doraemon99 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [8c 4d 6d 6h Jd]
+Seat 1: manggy94 (small blind) showed [3h Kc] and lost with One pair : 6
+Seat 3: Doraemon99 (button) showed [9h Ks] and won 1200 with One pair : 6
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #707329561158746113-72-1470054525 - Holdem no limit (40/80) - 2016/08/01 12:28:45 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (800)
+Seat 2: maxchab (1620)
+Seat 3: Doraemon99 (1260)
+*** ANTE/BLINDS ***
+maxchab posts small blind 40
+Doraemon99 posts big blind 80
+Dealt to manggy94 [2c Jd]
+*** PRE-FLOP *** 
+manggy94 folds
+maxchab folds
+Doraemon99 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: Doraemon99 (big blind) won 120
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #707329561158746113-73-1470054540 - Holdem no limit (40/80) - 2016/08/01 12:29:00 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (800)
+Seat 2: maxchab (1580)
+Seat 3: Doraemon99 (1300)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [Ad Ks]
+*** PRE-FLOP *** 
+maxchab folds
+Doraemon99 folds
+manggy94 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: manggy94 (big blind) won 120
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #707329561158746113-74-1470054553 - Holdem no limit (40/80) - 2016/08/01 12:29:13 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (840)
+Seat 2: maxchab (1580)
+Seat 3: Doraemon99 (1260)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+maxchab posts big blind 80
+Dealt to manggy94 [8d Ac]
+*** PRE-FLOP *** 
+Doraemon99 folds
+manggy94 raises 240 to 320
+maxchab raises 240 to 560
+manggy94 calls 240
+*** FLOP *** [Qd Ad 3c]
+manggy94 bets 280 and is all-in
+maxchab calls 280
+*** TURN *** [Qd Ad 3c][8s]
+*** RIVER *** [Qd Ad 3c 8s][4d]
+*** SHOW DOWN ***
+maxchab shows [Jd Jc] (One pair : Jacks)
+manggy94 shows [8d Ac] (Two pairs : Aces and 8)
+manggy94 collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [Qd Ad 3c 8s 4d]
+Seat 1: manggy94 (small blind) showed [8d Ac] and won 1680 with Two pairs : Aces and 8
+Seat 2: maxchab (big blind) showed [Jd Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #707329561158746113-75-1470054579 - Holdem no limit (40/80) - 2016/08/01 12:29:39 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (1680)
+Seat 2: maxchab (740)
+Seat 3: Doraemon99 (1260)
+*** ANTE/BLINDS ***
+maxchab posts small blind 40
+Doraemon99 posts big blind 80
+Dealt to manggy94 [2d Ac]
+*** PRE-FLOP *** 
+manggy94 raises 160 to 240
+maxchab raises 500 to 740 and is all-in
+Doraemon99 folds
+manggy94 calls 500
+*** FLOP *** [Ah Qh 4s]
+*** TURN *** [Ah Qh 4s][3s]
+*** RIVER *** [Ah Qh 4s 3s][4h]
+*** SHOW DOWN ***
+manggy94 shows [2d Ac] (Two pairs : Aces and 4)
+maxchab shows [8s As] (Two pairs : Aces and 4)
+maxchab collected 780 from pot
+manggy94 collected 780 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [Ah Qh 4s 3s 4h]
+Seat 1: manggy94 (button) showed [2d Ac] and won 780 with Two pairs : Aces and 4
+Seat 2: maxchab (small blind) showed [8s As] and won 780 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #707329561158746113-76-1470054599 - Holdem no limit (40/80) - 2016/08/01 12:29:59 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (1720)
+Seat 2: maxchab (780)
+Seat 3: Doraemon99 (1180)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [6s Td]
+*** PRE-FLOP *** 
+maxchab raises 700 to 780 and is all-in
+Doraemon99 raises 400 to 1180 and is all-in
+manggy94 folds
+*** FLOP *** [3h 8d 7s]
+*** TURN *** [3h 8d 7s][8h]
+*** RIVER *** [3h 8d 7s 8h][9s]
+*** SHOW DOWN ***
+maxchab shows [4d Ad] (One pair : 8)
+Doraemon99 shows [Ah Jd] (One pair : 8)
+Doraemon99 collected 2040 from pot
+*** SUMMARY ***
+Total pot 2040 | No rake
+Board: [3h 8d 7s 8h 9s]
+Seat 2: maxchab (button) showed [4d Ad] and lost with One pair : 8
+Seat 3: Doraemon99 (small blind) showed [Ah Jd] and won 2040 with One pair : 8
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #707329561158746113-77-1470054614 - Holdem no limit (60/120) - 2016/08/01 12:30:14 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (1640)
+Seat 3: Doraemon99 (2040)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 60
+Doraemon99 posts big blind 120
+Dealt to manggy94 [Kc 2s]
+*** PRE-FLOP *** 
+manggy94 calls 60
+Doraemon99 checks
+*** FLOP *** [5c 8s 6h]
+Doraemon99 bets 120
+manggy94 folds
+Doraemon99 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [5c 8s 6h]
+Seat 3: Doraemon99 (big blind) won 360
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #707329561158746113-78-1470054623 - Holdem no limit (60/120) - 2016/08/01 12:30:23 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (1520)
+Seat 2: n.flantier (1160)
+Seat 3: Doraemon99 (2160)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [Jc Jh]
+*** PRE-FLOP *** 
+Doraemon99 folds
+manggy94 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: manggy94 (big blind) won 180
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #707329561158746113-79-1470054627 - Holdem no limit (60/120) - 2016/08/01 12:30:27 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (1580)
+Seat 2: n.flantier (1160)
+Seat 3: Doraemon99 (2100)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 60
+n.flantier posts big blind 120
+Dealt to manggy94 [Td Kd]
+*** PRE-FLOP *** 
+Doraemon99 folds
+manggy94 raises 240 to 360
+n.flantier folds
+manggy94 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 1: manggy94 (small blind) won 480
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #707329561158746113-80-1470054639 - Holdem no limit (60/120) - 2016/08/01 12:30:39 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (1700)
+Seat 2: n.flantier (1040)
+Seat 3: Doraemon99 (2100)
+*** ANTE/BLINDS ***
+n.flantier posts small blind 60
+Doraemon99 posts big blind 120
+Dealt to manggy94 [Ts Ad]
+*** PRE-FLOP *** 
+manggy94 raises 120 to 240
+n.flantier calls 180
+Doraemon99 folds
+*** FLOP *** [4s 2d 7h]
+n.flantier bets 120
+manggy94 raises 840 to 960
+n.flantier calls 680 and is all-in
+*** TURN *** [4s 2d 7h][Kd]
+*** RIVER *** [4s 2d 7h Kd][2c]
+*** SHOW DOWN ***
+manggy94 shows [Ts Ad] (One pair : 2)
+n.flantier shows [Ah 4h] (Two pairs : 4 and 2)
+n.flantier collected 2200 from main pot
+manggy94 collected 160 from side pot 1
+*** SUMMARY ***
+Total pot 2360 | No rake
+Board: [4s 2d 7h Kd 2c]
+Seat 1: manggy94 (button) showed [Ts Ad] and won 160 with One pair : 2
+Seat 2: n.flantier (small blind) showed [Ah 4h] and won 2200 with Two pairs : 4 and 2
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #707329561158746113-81-1470054657 - Holdem no limit (60/120) - 2016/08/01 12:30:57 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (660)
+Seat 2: n.flantier (2200)
+Seat 3: Doraemon99 (1980)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [Kd 9s]
+*** PRE-FLOP *** 
+n.flantier folds
+Doraemon99 folds
+manggy94 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: manggy94 (big blind) won 180
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #707329561158746113-82-1470054672 - Holdem no limit (60/120) - 2016/08/01 12:31:12 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (720)
+Seat 2: n.flantier (2200)
+Seat 3: Doraemon99 (1920)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 60
+n.flantier posts big blind 120
+Dealt to manggy94 [7d 7s]
+*** PRE-FLOP *** 
+Doraemon99 folds
+manggy94 raises 600 to 720 and is all-in
+n.flantier folds
+manggy94 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Seat 1: manggy94 (small blind) won 840
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #707329561158746113-83-1470054679 - Holdem no limit (60/120) - 2016/08/01 12:31:19 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (840)
+Seat 2: n.flantier (2080)
+Seat 3: Doraemon99 (1920)
+*** ANTE/BLINDS ***
+n.flantier posts small blind 60
+Doraemon99 posts big blind 120
+Dealt to manggy94 [Kh 7h]
+*** PRE-FLOP *** 
+manggy94 calls 120
+n.flantier calls 60
+Doraemon99 checks
+*** FLOP *** [Qc 9h 2c]
+n.flantier checks
+Doraemon99 checks
+manggy94 checks
+*** TURN *** [Qc 9h 2c][6d]
+n.flantier checks
+Doraemon99 checks
+manggy94 checks
+*** RIVER *** [Qc 9h 2c 6d][Ts]
+n.flantier checks
+Doraemon99 checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [Kh 7h] (High card : King)
+n.flantier shows [7c Js] (High card : Queen)
+Doraemon99 shows [6h 4d] (One pair : 6)
+Doraemon99 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Qc 9h 2c 6d Ts]
+Seat 1: manggy94 (button) showed [Kh 7h] and lost with High card : King
+Seat 2: n.flantier (small blind) showed [7c Js] and lost with High card : Queen
+Seat 3: Doraemon99 (big blind) showed [6h 4d] and won 360 with One pair : 6
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #707329561158746113-84-1470054734 - Holdem no limit (60/120) - 2016/08/01 12:32:14 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (720)
+Seat 2: n.flantier (1960)
+Seat 3: Doraemon99 (2160)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [5s 3d]
+*** PRE-FLOP *** 
+n.flantier raises 120 to 240
+Doraemon99 calls 180
+manggy94 folds
+*** FLOP *** [5h 8h Qs]
+Doraemon99 bets 240
+n.flantier calls 240
+*** TURN *** [5h 8h Qs][9h]
+Doraemon99 checks
+n.flantier bets 120
+Doraemon99 calls 120
+*** RIVER *** [5h 8h Qs 9h][9c]
+Doraemon99 checks
+n.flantier bets 120
+Doraemon99 calls 120
+*** SHOW DOWN ***
+Doraemon99 shows [6h 6d] (Two pairs : 9 and 6)
+n.flantier shows [6s 7d] (Straight 9 high)
+n.flantier collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [5h 8h Qs 9h 9c]
+Seat 2: n.flantier (button) showed [6s 7d] and won 1560 with Straight 9 high
+Seat 3: Doraemon99 (small blind) showed [6h 6d] and lost with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #707329561158746113-85-1470054757 - Holdem no limit (60/120) - 2016/08/01 12:32:37 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (600)
+Seat 2: n.flantier (2800)
+Seat 3: Doraemon99 (1440)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 60
+n.flantier posts big blind 120
+Dealt to manggy94 [Ad Qh]
+*** PRE-FLOP *** 
+Doraemon99 folds
+manggy94 raises 480 to 600 and is all-in
+n.flantier folds
+manggy94 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 1: manggy94 (small blind) won 720
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #707329561158746113-86-1470054764 - Holdem no limit (60/120) - 2016/08/01 12:32:44 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (720)
+Seat 2: n.flantier (2680)
+Seat 3: Doraemon99 (1440)
+*** ANTE/BLINDS ***
+n.flantier posts small blind 60
+Doraemon99 posts big blind 120
+Dealt to manggy94 [8d 8s]
+*** PRE-FLOP *** 
+manggy94 raises 600 to 720 and is all-in
+n.flantier folds
+Doraemon99 folds
+manggy94 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 1: manggy94 (button) won 900
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #707329561158746113-87-1470054780 - Holdem no limit (60/120) - 2016/08/01 12:33:00 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (900)
+Seat 2: n.flantier (2620)
+Seat 3: Doraemon99 (1320)
+*** ANTE/BLINDS ***
+Doraemon99 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [7d 9c]
+*** PRE-FLOP *** 
+n.flantier folds
+Doraemon99 raises 1200 to 1320 and is all-in
+manggy94 folds
+Doraemon99 collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Seat 3: Doraemon99 (small blind) won 1440
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #707329561158746113-88-1470054793 - Holdem no limit (10/60/120) - 2016/08/01 12:33:13 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (780)
+Seat 2: n.flantier (2620)
+Seat 3: Doraemon99 (1440)
+*** ANTE/BLINDS ***
+manggy94 posts ante 10
+n.flantier posts ante 10
+Doraemon99 posts ante 10
+manggy94 posts small blind 60
+n.flantier posts big blind 120
+Dealt to manggy94 [2c 3h]
+*** PRE-FLOP *** 
+Doraemon99 folds
+manggy94 folds
+n.flantier collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 2: n.flantier (big blind) won 210
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #707329561158746113-89-1470054799 - Holdem no limit (10/60/120) - 2016/08/01 12:33:19 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (710)
+Seat 2: n.flantier (2700)
+Seat 3: Doraemon99 (1430)
+*** ANTE/BLINDS ***
+n.flantier posts ante 10
+Doraemon99 posts ante 10
+manggy94 posts ante 10
+n.flantier posts small blind 60
+Doraemon99 posts big blind 120
+Dealt to manggy94 [8s 5h]
+*** PRE-FLOP *** 
+manggy94 folds
+n.flantier raises 120 to 240
+Doraemon99 calls 120
+*** FLOP *** [Ts 9d 8c]
+n.flantier bets 180
+Doraemon99 folds
+n.flantier collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [Ts 9d 8c]
+Seat 2: n.flantier (small blind) won 690
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #707329561158746113-90-1470054814 - Holdem no limit (10/60/120) - 2016/08/01 12:33:34 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (700)
+Seat 2: n.flantier (2960)
+Seat 3: Doraemon99 (1180)
+*** ANTE/BLINDS ***
+Doraemon99 posts ante 10
+manggy94 posts ante 10
+n.flantier posts ante 10
+Doraemon99 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [4h Kc]
+*** PRE-FLOP *** 
+n.flantier raises 120 to 240
+Doraemon99 raises 180 to 420
+manggy94 folds
+n.flantier calls 180
+*** FLOP *** [Jc 8s 3h]
+Doraemon99 bets 240
+n.flantier raises 240 to 480
+Doraemon99 raises 270 to 750 and is all-in
+n.flantier calls 270
+*** TURN *** [Jc 8s 3h][6s]
+*** RIVER *** [Jc 8s 3h 6s][4c]
+*** SHOW DOWN ***
+n.flantier shows [Js Kh] (One pair : Jacks)
+Doraemon99 shows [Qh Qs] (One pair : Queens)
+Doraemon99 collected 2490 from pot
+*** SUMMARY ***
+Total pot 2490 | No rake
+Board: [Jc 8s 3h 6s 4c]
+Seat 2: n.flantier (button) showed [Js Kh] and lost with One pair : Jacks
+Seat 3: Doraemon99 (small blind) showed [Qh Qs] and won 2490 with One pair : Queens
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #707329561158746113-91-1470054845 - Holdem no limit (10/60/120) - 2016/08/01 12:34:05 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (570)
+Seat 2: n.flantier (1780)
+Seat 3: Doraemon99 (2490)
+*** ANTE/BLINDS ***
+manggy94 posts ante 10
+n.flantier posts ante 10
+Doraemon99 posts ante 10
+manggy94 posts small blind 60
+n.flantier posts big blind 120
+Dealt to manggy94 [As Kh]
+*** PRE-FLOP *** 
+Doraemon99 folds
+manggy94 raises 440 to 560 and is all-in
+n.flantier calls 440
+*** FLOP *** [Qs 7c 5s]
+*** TURN *** [Qs 7c 5s][6d]
+*** RIVER *** [Qs 7c 5s 6d][Kc]
+*** SHOW DOWN ***
+n.flantier shows [Jh Ts] (High card : King)
+manggy94 shows [As Kh] (One pair : Kings)
+manggy94 collected 1150 from pot
+*** SUMMARY ***
+Total pot 1150 | No rake
+Board: [Qs 7c 5s 6d Kc]
+Seat 1: manggy94 (small blind) showed [As Kh] and won 1150 with One pair : Kings
+Seat 2: n.flantier (big blind) showed [Jh Ts] and lost with High card : King
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #707329561158746113-92-1470054865 - Holdem no limit (10/60/120) - 2016/08/01 12:34:25 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (1150)
+Seat 2: n.flantier (1210)
+Seat 3: Doraemon99 (2480)
+*** ANTE/BLINDS ***
+n.flantier posts ante 10
+Doraemon99 posts ante 10
+manggy94 posts ante 10
+n.flantier posts small blind 60
+Doraemon99 posts big blind 120
+Dealt to manggy94 [3d 8d]
+*** PRE-FLOP *** 
+manggy94 folds
+n.flantier folds
+Doraemon99 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 3: Doraemon99 (big blind) won 210
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #707329561158746113-93-1470054872 - Holdem no limit (10/60/120) - 2016/08/01 12:34:32 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (1140)
+Seat 2: n.flantier (1140)
+Seat 3: Doraemon99 (2560)
+*** ANTE/BLINDS ***
+Doraemon99 posts ante 10
+manggy94 posts ante 10
+n.flantier posts ante 10
+Doraemon99 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [9s Kd]
+*** PRE-FLOP *** 
+n.flantier folds
+Doraemon99 raises 120 to 240
+manggy94 calls 120
+*** FLOP *** [2s 7h Qs]
+Doraemon99 checks
+manggy94 bets 120
+Doraemon99 folds
+manggy94 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [2s 7h Qs]
+Seat 1: manggy94 (big blind) won 630
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #707329561158746113-94-1470054905 - Holdem no limit (10/60/120) - 2016/08/01 12:35:05 UTC
+Table: 'Déglingos(164687997)#000' 3-max (real money) Seat #3 is the button
+Seat 1: manggy94 (1400)
+Seat 2: n.flantier (1130)
+Seat 3: Doraemon99 (2310)
+*** ANTE/BLINDS ***
+manggy94 posts ante 10
+n.flantier posts ante 10
+Doraemon99 posts ante 10
+manggy94 posts small blind 60
+n.flantier posts big blind 120
+Dealt to manggy94 [9s Kh]
+*** PRE-FLOP *** 
+Doraemon99 folds
+manggy94 calls 60
+n.flantier checks
+*** FLOP *** [Kc 5c 8c]
+manggy94 bets 135
+n.flantier raises 135 to 270
+manggy94 calls 135
+*** TURN *** [Kc 5c 8c][2d]
+manggy94 checks
+n.flantier bets 180
+manggy94 calls 180
+*** RIVER *** [Kc 5c 8c 2d][Qh]
+manggy94 checks
+n.flantier checks
+*** SHOW DOWN ***
+n.flantier shows [3c 2h] (One pair : 2)
+manggy94 shows [9s Kh] (One pair : Kings)
+manggy94 collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | No rake
+Board: [Kc 5c 8c 2d Qh]
+Seat 1: manggy94 (small blind) showed [9s Kh] and won 1170 with One pair : Kings
+Seat 2: n.flantier (big blind) showed [3c 2h] and lost with One pair : 2
+
+

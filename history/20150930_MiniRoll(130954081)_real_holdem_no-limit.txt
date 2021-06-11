@@ -1,0 +1,146 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #562443495172734980-25-1443602673 - Holdem no limit (150/300) - 2015/09/30 08:44:33 UTC
+Table: 'MiniRoll(130954081)#003' 9-max (real money) Seat #2 is the button
+Seat 1: manggy94 (10000)
+Seat 2: Mick-As (22100)
+Seat 3: furawious (16500)
+Seat 4: julien3685 (20750)
+Seat 5: lapin9128 (13222)
+Seat 6: bboys77 (28300)
+Seat 7: decultieux c (9013)
+Seat 9: AdieuLescure (8400)
+*** ANTE/BLINDS ***
+furawious posts small blind 150
+julien3685 posts big blind 300
+Dealt to manggy94 [5s Th]
+*** PRE-FLOP *** 
+lapin9128 folds
+bboys77 calls 300
+decultieux c folds
+AdieuLescure folds
+manggy94 folds
+Mick-As folds
+furawious calls 150
+julien3685 checks
+*** FLOP *** [7d 5h Jh]
+furawious checks
+julien3685 bets 450
+bboys77 raises 1800 to 2250
+furawious calls 2250
+julien3685 folds
+*** TURN *** [7d 5h Jh][Kh]
+furawious checks
+bboys77 bets 5850
+furawious folds
+bboys77 collected 11700 from pot
+*** SUMMARY ***
+Total pot 11700 | No rake
+Board: [7d 5h Jh Kh]
+Seat 6: bboys77 won 11700
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #562443495172734980-26-1443602751 - Holdem no limit (25/150/300) - 2015/09/30 08:45:51 UTC
+Table: 'MiniRoll(130954081)#003' 9-max (real money) Seat #3 is the button
+Seat 1: manggy94 (10000)
+Seat 2: Mick-As (22100)
+Seat 3: furawious (13950)
+Seat 4: julien3685 (20000)
+Seat 5: lapin9128 (13222)
+Seat 6: bboys77 (31600)
+Seat 7: decultieux c (9013)
+Seat 8: mrdove (8900)
+Seat 9: AdieuLescure (8400)
+*** ANTE/BLINDS ***
+julien3685 posts ante 25
+lapin9128 posts ante 25
+manggy94 posts ante 25
+Mick-As posts ante 25
+furawious posts ante 25
+bboys77 posts ante 25
+decultieux c posts ante 25
+mrdove posts ante 25
+AdieuLescure posts ante 25
+julien3685 posts small blind 150
+lapin9128 posts big blind 300
+Dealt to manggy94 [7h As]
+*** PRE-FLOP *** 
+bboys77 folds
+decultieux c folds
+mrdove folds
+AdieuLescure folds
+manggy94 calls 300
+Mick-As folds
+furawious raises 600 to 900
+julien3685 folds
+lapin9128 folds
+manggy94 calls 600
+*** FLOP *** [Ad Kh 6h]
+manggy94 checks
+furawious bets 825
+manggy94 calls 825
+*** TURN *** [Ad Kh 6h][4c]
+manggy94 checks
+furawious bets 1500
+manggy94 calls 1500
+*** RIVER *** [Ad Kh 6h 4c][9d]
+manggy94 checks
+furawious bets 3563
+manggy94 calls 3563
+*** SHOW DOWN ***
+manggy94 shows [7h As] (One pair : Aces)
+furawious shows [Kd Ah] (Two pairs : Aces and Kings)
+furawious collected 14251 from pot
+*** SUMMARY ***
+Total pot 14251 | No rake
+Board: [Ad Kh 6h 4c 9d]
+Seat 1: manggy94 showed [7h As] and lost with One pair : Aces
+Seat 3: furawious (button) showed [Kd Ah] and won 14251 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #562443495172734980-27-1443602829 - Holdem no limit (25/150/300) - 2015/09/30 08:47:09 UTC
+Table: 'MiniRoll(130954081)#003' 9-max (real money) Seat #4 is the button
+Seat 1: manggy94 (3187)
+Seat 2: Mick-As (22075)
+Seat 3: furawious (21388)
+Seat 4: julien3685 (19825)
+Seat 5: lapin9128 (12897)
+Seat 6: bboys77 (31575)
+Seat 7: decultieux c (8988)
+Seat 8: mrdove (8875)
+Seat 9: AdieuLescure (8375)
+*** ANTE/BLINDS ***
+lapin9128 posts ante 25
+bboys77 posts ante 25
+manggy94 posts ante 25
+Mick-As posts ante 25
+furawious posts ante 25
+julien3685 posts ante 25
+decultieux c posts ante 25
+mrdove posts ante 25
+AdieuLescure posts ante 25
+lapin9128 posts small blind 150
+bboys77 posts big blind 300
+Dealt to manggy94 [As 8c]
+*** PRE-FLOP *** 
+decultieux c folds
+mrdove folds
+AdieuLescure folds
+manggy94 raises 2862 to 3162 and is all-in
+Mick-As folds
+furawious folds
+julien3685 folds
+lapin9128 folds
+bboys77 calls 2862
+*** FLOP *** [9d 5h 8h]
+*** TURN *** [9d 5h 8h][Jc]
+*** RIVER *** [9d 5h 8h Jc][7h]
+*** SHOW DOWN ***
+manggy94 shows [As 8c] (One pair : 8)
+bboys77 shows [Ac Jd] (One pair : Jacks)
+bboys77 collected 6699 from pot
+*** SUMMARY ***
+Total pot 6699 | No rake
+Board: [9d 5h 8h Jc 7h]
+Seat 1: manggy94 showed [As 8c] and lost with One pair : 8
+Seat 6: bboys77 (big blind) showed [Ac Jd] and won 6699 with One pair : Jacks
+
+

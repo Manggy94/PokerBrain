@@ -1,0 +1,1101 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #691443984664363025-54-1466407998 - Holdem no limit (40/250/500) - 2016/06/20 07:33:18 UTC
+Table: 'MiniRoll(160989348)#016' 6-max (real money) Seat #2 is the button
+Seat 1: makenzy85 (7735)
+Seat 2: Speeed16 (6929)
+Seat 3: chut83 (13085)
+Seat 4: manggy94 (10000)
+Seat 5: Dprime (8985)
+Seat 6: gwonibard (9835)
+*** ANTE/BLINDS ***
+chut83 posts ante 40
+manggy94 posts ante 40
+makenzy85 posts ante 40
+Speeed16 posts ante 40
+Dprime posts ante 40
+gwonibard posts ante 40
+chut83 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [As 2s]
+*** PRE-FLOP *** 
+Dprime folds
+gwonibard folds
+makenzy85 folds
+Speeed16 folds
+chut83 calls 250
+manggy94 checks
+*** FLOP *** [7s 2c 9d]
+chut83 checks
+manggy94 bets 620
+chut83 calls 620
+*** TURN *** [7s 2c 9d][8s]
+chut83 checks
+manggy94 checks
+*** RIVER *** [7s 2c 9d 8s][9s]
+chut83 checks
+manggy94 bets 1240
+chut83 folds
+manggy94 collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Board: [7s 2c 9d 8s 9s]
+Seat 4: manggy94 (big blind) won 3720
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #691443984664363025-55-1466408034 - Holdem no limit (40/250/500) - 2016/06/20 07:33:54 UTC
+Table: 'MiniRoll(160989348)#016' 6-max (real money) Seat #3 is the button
+Seat 1: makenzy85 (7695)
+Seat 2: Speeed16 (6889)
+Seat 3: chut83 (11925)
+Seat 4: manggy94 (11320)
+Seat 5: Dprime (8945)
+Seat 6: gwonibard (9795)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+Dprime posts ante 40
+makenzy85 posts ante 40
+Speeed16 posts ante 40
+chut83 posts ante 40
+gwonibard posts ante 40
+manggy94 posts small blind 250
+Dprime posts big blind 500
+Dealt to manggy94 [9d 7c]
+*** PRE-FLOP *** 
+gwonibard folds
+makenzy85 folds
+Speeed16 folds
+chut83 calls 500
+manggy94 calls 250
+Dprime checks
+*** FLOP *** [Jc As 3s]
+manggy94 checks
+Dprime checks
+chut83 checks
+*** TURN *** [Jc As 3s][5c]
+manggy94 bets 500
+Dprime folds
+chut83 calls 500
+*** RIVER *** [Jc As 3s 5c][3d]
+manggy94 checks
+chut83 checks
+*** SHOW DOWN ***
+chut83 shows [6s 4s] (One pair : 3)
+manggy94 shows [9d 7c] (One pair : 3)
+manggy94 collected 2740 from pot
+*** SUMMARY ***
+Total pot 2740 | No rake
+Board: [Jc As 3s 5c 3d]
+Seat 3: chut83 (button) showed [6s 4s] and lost with One pair : 3
+Seat 4: manggy94 (small blind) showed [9d 7c] and won 2740 with One pair : 3
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #691443984664363025-56-1466408088 - Holdem no limit (40/250/500) - 2016/06/20 07:34:48 UTC
+Table: 'MiniRoll(160989348)#016' 6-max (real money) Seat #4 is the button
+Seat 1: makenzy85 (7655)
+Seat 2: Speeed16 (6849)
+Seat 3: chut83 (10885)
+Seat 4: manggy94 (13020)
+Seat 5: Dprime (8405)
+Seat 6: gwonibard (9755)
+*** ANTE/BLINDS ***
+Dprime posts ante 40
+gwonibard posts ante 40
+makenzy85 posts ante 40
+Speeed16 posts ante 40
+chut83 posts ante 40
+manggy94 posts ante 40
+Dprime posts small blind 250
+gwonibard posts big blind 500
+Dealt to manggy94 [Ac 8s]
+*** PRE-FLOP *** 
+makenzy85 folds
+Speeed16 folds
+chut83 calls 500
+manggy94 calls 500
+Dprime calls 250
+gwonibard raises 9215 to 9715 and is all-in
+chut83 calls 9215
+manggy94 folds
+Dprime calls 7865 and is all-in
+*** FLOP *** [Jh 6s 7s]
+*** TURN *** [Jh 6s 7s][7h]
+*** RIVER *** [Jh 6s 7s 7h][3s]
+*** SHOW DOWN ***
+gwonibard shows [Ah Ts] (One pair : 7)
+Dprime shows [7c 5c] (Trips of 7)
+chut83 shows [Th Td] (Two pairs : Tens and 7)
+chut83 collected 2700 from side pot 1
+Dprime collected 25835 from main pot
+*** SUMMARY ***
+Total pot 28535 | No rake
+Board: [Jh 6s 7s 7h 3s]
+Seat 3: chut83 showed [Th Td] and won 2700 with Two pairs : Tens and 7
+Seat 5: Dprime (small blind) showed [7c 5c] and won 25835 with Trips of 7
+Seat 6: gwonibard (big blind) showed [Ah Ts] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #691443984664363025-57-1466408145 - Holdem no limit (40/250/500) - 2016/06/20 07:35:45 UTC
+Table: 'MiniRoll(160989348)#016' 6-max (real money) Seat #5 is the button
+Seat 1: makenzy85 (7615)
+Seat 2: Speeed16 (6809)
+Seat 3: chut83 (3830)
+Seat 4: manggy94 (12480)
+Seat 5: Dprime (25835)
+*** ANTE/BLINDS ***
+makenzy85 posts ante 40
+Speeed16 posts ante 40
+chut83 posts ante 40
+manggy94 posts ante 40
+Dprime posts ante 40
+makenzy85 posts big blind 500
+Dealt to manggy94 [9h 4h]
+*** PRE-FLOP *** 
+Speeed16 folds
+chut83 folds
+manggy94 calls 500
+Dprime calls 500
+makenzy85 checks
+*** FLOP *** [Jh 5h Jd]
+makenzy85 checks
+manggy94 bets 500
+Dprime folds
+makenzy85 folds
+manggy94 collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | No rake
+Board: [Jh 5h Jd]
+Seat 4: manggy94 won 2200
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #691443984664363025-58-1466408214 - Holdem no limit (40/250/500) - 2016/06/20 07:36:54 UTC
+Table: 'MiniRoll(160989348)#016' 6-max (real money) Seat #6 is the button
+Seat 1: makenzy85 (7075)
+Seat 2: Speeed16 (6769)
+Seat 3: chut83 (3790)
+Seat 4: manggy94 (13640)
+Seat 5: Dprime (25295)
+*** ANTE/BLINDS ***
+makenzy85 posts ante 40
+Speeed16 posts ante 40
+chut83 posts ante 40
+manggy94 posts ante 40
+Dprime posts ante 40
+makenzy85 posts small blind 250
+Speeed16 posts big blind 500
+Dealt to manggy94 [2d Js]
+*** PRE-FLOP *** 
+chut83 folds
+manggy94 folds
+Dprime folds
+makenzy85 calls 250
+Speeed16 checks
+*** FLOP *** [4s 4c 2h]
+makenzy85 checks
+Speeed16 checks
+*** TURN *** [4s 4c 2h][6d]
+makenzy85 checks
+Speeed16 checks
+*** RIVER *** [4s 4c 2h 6d][Kc]
+makenzy85 checks
+Speeed16 checks
+*** SHOW DOWN ***
+makenzy85 shows [Jh 8d] (One pair : 4)
+Speeed16 shows [3s Qs] (One pair : 4)
+Speeed16 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [4s 4c 2h 6d Kc]
+Seat 1: makenzy85 (small blind) showed [Jh 8d] and lost with One pair : 4
+Seat 2: Speeed16 (big blind) showed [3s Qs] and won 1200 with One pair : 4
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #691443984664363025-59-1466408274 - Holdem no limit (40/250/500) - 2016/06/20 07:37:54 UTC
+Table: 'MiniRoll(160989348)#016' 6-max (real money) Seat #1 is the button
+Seat 1: makenzy85 (6535)
+Seat 2: Speeed16 (7429)
+Seat 3: chut83 (3750)
+Seat 4: manggy94 (13600)
+Seat 5: Dprime (25255)
+*** ANTE/BLINDS ***
+Speeed16 posts ante 40
+chut83 posts ante 40
+makenzy85 posts ante 40
+manggy94 posts ante 40
+Dprime posts ante 40
+Speeed16 posts small blind 250
+chut83 posts big blind 500
+Dealt to manggy94 [6c 4d]
+*** PRE-FLOP *** 
+manggy94 folds
+Dprime calls 500
+makenzy85 folds
+Speeed16 folds
+chut83 checks
+*** FLOP *** [2d 7s Jd]
+chut83 checks
+Dprime checks
+*** TURN *** [2d 7s Jd][4c]
+chut83 checks
+Dprime checks
+*** RIVER *** [2d 7s Jd 4c][4s]
+chut83 bets 500
+Dprime folds
+chut83 collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | No rake
+Board: [2d 7s Jd 4c 4s]
+Seat 3: chut83 (big blind) won 1950
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #691443984664363025-60-1466408305 - Holdem no limit (60/300/600) - 2016/06/20 07:38:25 UTC
+Table: 'MiniRoll(160989348)#016' 6-max (real money) Seat #2 is the button
+Seat 1: makenzy85 (6495)
+Seat 2: Speeed16 (7139)
+Seat 3: chut83 (4660)
+Seat 4: manggy94 (13560)
+Seat 5: Dprime (24715)
+*** ANTE/BLINDS ***
+chut83 posts ante 60
+manggy94 posts ante 60
+makenzy85 posts ante 60
+Speeed16 posts ante 60
+Dprime posts ante 60
+chut83 posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [5d 6s]
+*** PRE-FLOP *** 
+Dprime folds
+makenzy85 calls 600
+Speeed16 folds
+chut83 calls 300
+manggy94 checks
+*** FLOP *** [Ks 4h 5c]
+chut83 checks
+manggy94 checks
+makenzy85 bets 5835 and is all-in
+chut83 folds
+manggy94 folds
+makenzy85 collected 7935 from pot
+*** SUMMARY ***
+Total pot 7935 | No rake
+Board: [Ks 4h 5c]
+Seat 1: makenzy85 won 7935
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #691443984664363015-67-1466408384 - Holdem no limit (60/300/600) - 2016/06/20 07:39:44 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #4 is the button
+Seat 1: Jimmybooba (40825)
+Seat 2: capucin45470 (52125)
+Seat 3: manggy94 (12900)
+Seat 4: makenzy85 (7935)
+Seat 5: ZaGaZaiiii (27760)
+Seat 6: k-ro93 (30947)
+*** ANTE/BLINDS ***
+ZaGaZaiiii posts ante 60
+k-ro93 posts ante 60
+Jimmybooba posts ante 60
+capucin45470 posts ante 60
+manggy94 posts ante 60
+ZaGaZaiiii posts small blind 300
+k-ro93 posts big blind 600
+Dealt to manggy94 [Ts 3d]
+*** PRE-FLOP *** 
+Jimmybooba calls 600
+capucin45470 calls 600
+manggy94 folds
+ZaGaZaiiii folds
+k-ro93 checks
+*** FLOP *** [4d 7s Tc]
+k-ro93 checks
+Jimmybooba bets 2400
+capucin45470 folds
+k-ro93 folds
+Jimmybooba collected 4800 from pot
+*** SUMMARY ***
+Total pot 4800 | No rake
+Board: [4d 7s Tc]
+Seat 1: Jimmybooba won 4800
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #691443984664363015-68-1466408442 - Holdem no limit (60/300/600) - 2016/06/20 07:40:42 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #5 is the button
+Seat 1: Jimmybooba (42565)
+Seat 2: capucin45470 (51465)
+Seat 3: manggy94 (12840)
+Seat 4: makenzy85 (7935)
+Seat 5: ZaGaZaiiii (27400)
+Seat 6: k-ro93 (30287)
+*** ANTE/BLINDS ***
+k-ro93 posts ante 60
+Jimmybooba posts ante 60
+capucin45470 posts ante 60
+manggy94 posts ante 60
+makenzy85 posts ante 60
+ZaGaZaiiii posts ante 60
+k-ro93 posts small blind 300
+Jimmybooba posts big blind 600
+Dealt to manggy94 [4c 9s]
+*** PRE-FLOP *** 
+capucin45470 raises 900 to 1500
+manggy94 folds
+makenzy85 folds
+ZaGaZaiiii folds
+k-ro93 folds
+Jimmybooba raises 3660 to 5160
+capucin45470 calls 3660
+*** FLOP *** [5h Ac Ks]
+Jimmybooba checks
+capucin45470 bets 5490
+Jimmybooba calls 5490
+*** TURN *** [5h Ac Ks][Qs]
+Jimmybooba checks
+capucin45470 checks
+*** RIVER *** [5h Ac Ks Qs][Jh]
+Jimmybooba bets 21960
+capucin45470 folds
+Jimmybooba collected 43920 from pot
+*** SUMMARY ***
+Total pot 43920 | No rake
+Board: [5h Ac Ks Qs Jh]
+Seat 1: Jimmybooba (big blind) won 43920
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #691443984664363015-69-1466408489 - Holdem no limit (60/300/600) - 2016/06/20 07:41:29 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #6 is the button
+Seat 1: Jimmybooba (53815)
+Seat 2: capucin45470 (40755)
+Seat 3: manggy94 (12780)
+Seat 4: makenzy85 (7875)
+Seat 5: ZaGaZaiiii (27340)
+Seat 6: k-ro93 (29927)
+*** ANTE/BLINDS ***
+Jimmybooba posts ante 60
+capucin45470 posts ante 60
+manggy94 posts ante 60
+makenzy85 posts ante 60
+ZaGaZaiiii posts ante 60
+k-ro93 posts ante 60
+Jimmybooba posts small blind 300
+capucin45470 posts big blind 600
+Dealt to manggy94 [Ad Qs]
+*** PRE-FLOP *** 
+manggy94 raises 600 to 1200
+makenzy85 raises 6615 to 7815 and is all-in
+ZaGaZaiiii folds
+k-ro93 folds
+Jimmybooba folds
+capucin45470 folds
+manggy94 calls 6615
+*** FLOP *** [9s As Jh]
+*** TURN *** [9s As Jh][7s]
+*** RIVER *** [9s As Jh 7s][9h]
+*** SHOW DOWN ***
+makenzy85 shows [Td Kc] (One pair : 9)
+manggy94 shows [Ad Qs] (Two pairs : Aces and 9)
+manggy94 collected 16890 from pot
+*** SUMMARY ***
+Total pot 16890 | No rake
+Board: [9s As Jh 7s 9h]
+Seat 3: manggy94 showed [Ad Qs] and won 16890 with Two pairs : Aces and 9
+Seat 4: makenzy85 showed [Td Kc] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #691443984664363015-70-1466408554 - Holdem no limit (60/300/600) - 2016/06/20 07:42:34 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #1 is the button
+Seat 1: Jimmybooba (53455)
+Seat 2: capucin45470 (40095)
+Seat 3: manggy94 (21795)
+Seat 5: ZaGaZaiiii (27280)
+Seat 6: k-ro93 (29867)
+*** ANTE/BLINDS ***
+capucin45470 posts ante 60
+manggy94 posts ante 60
+Jimmybooba posts ante 60
+ZaGaZaiiii posts ante 60
+k-ro93 posts ante 60
+capucin45470 posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [2c 6h]
+*** PRE-FLOP *** 
+ZaGaZaiiii calls 600
+k-ro93 folds
+Jimmybooba folds
+capucin45470 calls 300
+manggy94 checks
+*** FLOP *** [Ks 4s 7d]
+capucin45470 checks
+manggy94 bets 600
+ZaGaZaiiii folds
+capucin45470 calls 600
+*** TURN *** [Ks 4s 7d][4d]
+capucin45470 checks
+manggy94 bets 600
+capucin45470 raises 1950 to 2550
+manggy94 folds
+capucin45470 collected 6450 from pot
+*** SUMMARY ***
+Total pot 6450 | No rake
+Board: [Ks 4s 7d 4d]
+Seat 2: capucin45470 (small blind) won 6450
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #691443984664363015-71-1466408651 - Holdem no limit (75/400/800) - 2016/06/20 07:44:11 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #2 is the button
+Seat 1: Jimmybooba (53395)
+Seat 2: capucin45470 (42735)
+Seat 3: manggy94 (19935)
+Seat 4: zionbool (10000)
+Seat 5: ZaGaZaiiii (26620)
+Seat 6: k-ro93 (29807)
+*** ANTE/BLINDS ***
+manggy94 posts ante 75
+zionbool posts ante 75
+Jimmybooba posts ante 75
+capucin45470 posts ante 75
+ZaGaZaiiii posts ante 75
+k-ro93 posts ante 75
+manggy94 posts small blind 400
+zionbool posts big blind 800
+Dealt to manggy94 [Qs Td]
+*** PRE-FLOP *** 
+ZaGaZaiiii folds
+k-ro93 folds
+Jimmybooba raises 2450 to 3250
+capucin45470 folds
+manggy94 folds
+zionbool folds
+Jimmybooba collected 4900 from pot
+*** SUMMARY ***
+Total pot 4900 | No rake
+Seat 1: Jimmybooba won 4900
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #691443984664363015-72-1466408680 - Holdem no limit (75/400/800) - 2016/06/20 07:44:40 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #3 is the button
+Seat 1: Jimmybooba (54970)
+Seat 2: capucin45470 (42660)
+Seat 3: manggy94 (19460)
+Seat 4: zionbool (9125)
+Seat 5: ZaGaZaiiii (26545)
+Seat 6: k-ro93 (29732)
+*** ANTE/BLINDS ***
+zionbool posts ante 75
+ZaGaZaiiii posts ante 75
+Jimmybooba posts ante 75
+capucin45470 posts ante 75
+manggy94 posts ante 75
+k-ro93 posts ante 75
+zionbool posts small blind 400
+ZaGaZaiiii posts big blind 800
+Dealt to manggy94 [6h Kd]
+*** PRE-FLOP *** 
+k-ro93 folds
+Jimmybooba raises 800 to 1600
+capucin45470 folds
+manggy94 folds
+zionbool folds
+ZaGaZaiiii folds
+Jimmybooba collected 3250 from pot
+*** SUMMARY ***
+Total pot 3250 | No rake
+Seat 1: Jimmybooba won 3250
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #691443984664363015-73-1466408697 - Holdem no limit (75/400/800) - 2016/06/20 07:44:57 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #4 is the button
+Seat 1: Jimmybooba (56545)
+Seat 2: capucin45470 (42585)
+Seat 3: manggy94 (19385)
+Seat 4: zionbool (8650)
+Seat 5: ZaGaZaiiii (25670)
+Seat 6: k-ro93 (29657)
+*** ANTE/BLINDS ***
+ZaGaZaiiii posts ante 75
+k-ro93 posts ante 75
+Jimmybooba posts ante 75
+capucin45470 posts ante 75
+manggy94 posts ante 75
+zionbool posts ante 75
+ZaGaZaiiii posts small blind 400
+k-ro93 posts big blind 800
+Dealt to manggy94 [4h Tc]
+*** PRE-FLOP *** 
+Jimmybooba raises 800 to 1600
+capucin45470 folds
+manggy94 folds
+zionbool folds
+ZaGaZaiiii folds
+k-ro93 calls 800
+*** FLOP *** [7d Kc 7s]
+k-ro93 checks
+Jimmybooba bets 800
+k-ro93 folds
+Jimmybooba collected 4850 from pot
+*** SUMMARY ***
+Total pot 4850 | No rake
+Board: [7d Kc 7s]
+Seat 1: Jimmybooba won 4850
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #691443984664363015-74-1466408749 - Holdem no limit (75/400/800) - 2016/06/20 07:45:49 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #5 is the button
+Seat 1: Jimmybooba (58920)
+Seat 2: capucin45470 (42510)
+Seat 3: manggy94 (19310)
+Seat 4: zionbool (8575)
+Seat 5: ZaGaZaiiii (25195)
+Seat 6: k-ro93 (27982)
+*** ANTE/BLINDS ***
+k-ro93 posts ante 75
+Jimmybooba posts ante 75
+capucin45470 posts ante 75
+manggy94 posts ante 75
+zionbool posts ante 75
+ZaGaZaiiii posts ante 75
+k-ro93 posts small blind 400
+Jimmybooba posts big blind 800
+Dealt to manggy94 [Ks Qd]
+*** PRE-FLOP *** 
+capucin45470 folds
+manggy94 calls 800
+zionbool raises 2800 to 3600
+ZaGaZaiiii folds
+k-ro93 folds
+Jimmybooba calls 2800
+manggy94 folds
+*** FLOP *** [2h Jh Qc]
+Jimmybooba checks
+zionbool bets 4900 and is all-in
+Jimmybooba calls 4900
+*** TURN *** [2h Jh Qc][6d]
+*** RIVER *** [2h Jh Qc 6d][Jd]
+*** SHOW DOWN ***
+Jimmybooba shows [Ac 5h] (One pair : Jacks)
+zionbool shows [As Qh] (Two pairs : Queens and Jacks)
+zionbool collected 18650 from pot
+*** SUMMARY ***
+Total pot 18650 | No rake
+Board: [2h Jh Qc 6d Jd]
+Seat 1: Jimmybooba (big blind) showed [Ac 5h] and lost with One pair : Jacks
+Seat 4: zionbool showed [As Qh] and won 18650 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #691443984664363015-75-1466408825 - Holdem no limit (75/400/800) - 2016/06/20 07:47:05 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #6 is the button
+Seat 1: Jimmybooba (50345)
+Seat 2: capucin45470 (42435)
+Seat 3: manggy94 (18435)
+Seat 4: zionbool (18650)
+Seat 5: ZaGaZaiiii (25120)
+Seat 6: k-ro93 (27507)
+*** ANTE/BLINDS ***
+Jimmybooba posts ante 75
+capucin45470 posts ante 75
+manggy94 posts ante 75
+zionbool posts ante 75
+ZaGaZaiiii posts ante 75
+k-ro93 posts ante 75
+Jimmybooba posts small blind 400
+capucin45470 posts big blind 800
+Dealt to manggy94 [Ks 4s]
+*** PRE-FLOP *** 
+manggy94 folds
+zionbool calls 800
+ZaGaZaiiii folds
+k-ro93 folds
+Jimmybooba raises 2850 to 3650
+capucin45470 folds
+zionbool folds
+Jimmybooba collected 5700 from pot
+*** SUMMARY ***
+Total pot 5700 | No rake
+Seat 1: Jimmybooba (small blind) won 5700
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #691443984664363015-76-1466408872 - Holdem no limit (75/400/800) - 2016/06/20 07:47:52 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #1 is the button
+Seat 1: Jimmybooba (52320)
+Seat 2: capucin45470 (41560)
+Seat 3: manggy94 (18360)
+Seat 4: zionbool (17775)
+Seat 5: ZaGaZaiiii (25045)
+Seat 6: k-ro93 (27432)
+*** ANTE/BLINDS ***
+capucin45470 posts ante 75
+manggy94 posts ante 75
+Jimmybooba posts ante 75
+zionbool posts ante 75
+ZaGaZaiiii posts ante 75
+k-ro93 posts ante 75
+capucin45470 posts small blind 400
+manggy94 posts big blind 800
+Dealt to manggy94 [Th 6s]
+*** PRE-FLOP *** 
+zionbool calls 800
+ZaGaZaiiii folds
+k-ro93 folds
+Jimmybooba raises 800 to 1600
+capucin45470 folds
+manggy94 folds
+zionbool calls 800
+*** FLOP *** [Jh 5h 8c]
+zionbool checks
+Jimmybooba bets 4850
+zionbool folds
+Jimmybooba collected 9700 from pot
+*** SUMMARY ***
+Total pot 9700 | No rake
+Board: [Jh 5h 8c]
+Seat 1: Jimmybooba (button) won 9700
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #691443984664363015-77-1466408921 - Holdem no limit (75/400/800) - 2016/06/20 07:48:41 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #2 is the button
+Seat 1: Jimmybooba (55495)
+Seat 2: capucin45470 (41085)
+Seat 3: manggy94 (17485)
+Seat 4: zionbool (16100)
+Seat 5: ZaGaZaiiii (24970)
+Seat 6: k-ro93 (27357)
+*** ANTE/BLINDS ***
+manggy94 posts ante 75
+zionbool posts ante 75
+Jimmybooba posts ante 75
+capucin45470 posts ante 75
+ZaGaZaiiii posts ante 75
+k-ro93 posts ante 75
+manggy94 posts small blind 400
+zionbool posts big blind 800
+Dealt to manggy94 [8s 5s]
+*** PRE-FLOP *** 
+ZaGaZaiiii folds
+k-ro93 calls 800
+Jimmybooba folds
+capucin45470 folds
+manggy94 calls 400
+zionbool checks
+*** FLOP *** [4c 7s 8c]
+manggy94 bets 800
+zionbool calls 800
+k-ro93 calls 800
+*** TURN *** [4c 7s 8c][4h]
+manggy94 checks
+zionbool bets 3000
+k-ro93 calls 3000
+manggy94 calls 3000
+*** RIVER *** [4c 7s 8c 4h][Ah]
+manggy94 checks
+zionbool bets 1200
+k-ro93 calls 1200
+manggy94 calls 1200
+*** SHOW DOWN ***
+manggy94 shows [8s 5s] (Two pairs : 8 and 4)
+zionbool shows [8h Qc] (Two pairs : 8 and 4)
+k-ro93 shows [6c Ac] (Two pairs : Aces and 4)
+k-ro93 collected 17850 from pot
+*** SUMMARY ***
+Total pot 17850 | No rake
+Board: [4c 7s 8c 4h Ah]
+Seat 3: manggy94 (small blind) showed [8s 5s] and lost with Two pairs : 8 and 4
+Seat 4: zionbool (big blind) showed [8h Qc] and lost with Two pairs : 8 and 4
+Seat 6: k-ro93 showed [6c Ac] and won 17850 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #691443984664363015-78-1466409008 - Holdem no limit (100/500/1000) - 2016/06/20 07:50:08 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #3 is the button
+Seat 1: Jimmybooba (55420)
+Seat 2: capucin45470 (41010)
+Seat 3: manggy94 (11610)
+Seat 4: zionbool (10225)
+Seat 5: ZaGaZaiiii (24895)
+Seat 6: k-ro93 (39332)
+*** ANTE/BLINDS ***
+zionbool posts ante 100
+ZaGaZaiiii posts ante 100
+Jimmybooba posts ante 100
+capucin45470 posts ante 100
+manggy94 posts ante 100
+k-ro93 posts ante 100
+zionbool posts small blind 500
+ZaGaZaiiii posts big blind 1000
+Dealt to manggy94 [2d 8h]
+*** PRE-FLOP *** 
+k-ro93 folds
+Jimmybooba folds
+capucin45470 raises 2500 to 3500
+manggy94 folds
+zionbool folds
+ZaGaZaiiii folds
+capucin45470 collected 5600 from pot
+*** SUMMARY ***
+Total pot 5600 | No rake
+Seat 2: capucin45470 won 5600
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #691443984664363015-79-1466409050 - Holdem no limit (100/500/1000) - 2016/06/20 07:50:50 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #4 is the button
+Seat 1: Jimmybooba (55320)
+Seat 2: capucin45470 (43010)
+Seat 3: manggy94 (11510)
+Seat 4: zionbool (9625)
+Seat 5: ZaGaZaiiii (23795)
+Seat 6: k-ro93 (39232)
+*** ANTE/BLINDS ***
+ZaGaZaiiii posts ante 100
+k-ro93 posts ante 100
+Jimmybooba posts ante 100
+capucin45470 posts ante 100
+manggy94 posts ante 100
+zionbool posts ante 100
+ZaGaZaiiii posts small blind 500
+k-ro93 posts big blind 1000
+Dealt to manggy94 [Ad 3h]
+*** PRE-FLOP *** 
+Jimmybooba raises 3100 to 4100
+capucin45470 folds
+manggy94 folds
+zionbool folds
+ZaGaZaiiii folds
+k-ro93 folds
+Jimmybooba collected 6200 from pot
+*** SUMMARY ***
+Total pot 6200 | No rake
+Seat 1: Jimmybooba won 6200
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #691443984664363015-80-1466409106 - Holdem no limit (100/500/1000) - 2016/06/20 07:51:46 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #5 is the button
+Seat 1: Jimmybooba (57320)
+Seat 2: capucin45470 (42910)
+Seat 3: manggy94 (11410)
+Seat 4: zionbool (9525)
+Seat 5: ZaGaZaiiii (23195)
+Seat 6: k-ro93 (38132)
+*** ANTE/BLINDS ***
+k-ro93 posts ante 100
+Jimmybooba posts ante 100
+capucin45470 posts ante 100
+manggy94 posts ante 100
+zionbool posts ante 100
+ZaGaZaiiii posts ante 100
+k-ro93 posts small blind 500
+Jimmybooba posts big blind 1000
+Dealt to manggy94 [7s 9c]
+*** PRE-FLOP *** 
+capucin45470 folds
+manggy94 folds
+zionbool raises 1000 to 2000
+ZaGaZaiiii folds
+k-ro93 folds
+Jimmybooba calls 1000
+*** FLOP *** [2d 7h Kh]
+Jimmybooba checks
+zionbool bets 3400
+Jimmybooba calls 3400
+*** TURN *** [2d 7h Kh][Tc]
+Jimmybooba checks
+zionbool bets 4025 and is all-in
+Jimmybooba calls 4025
+*** RIVER *** [2d 7h Kh Tc][4h]
+*** SHOW DOWN ***
+zionbool shows [8h Ts] (One pair : Tens)
+Jimmybooba shows [Kd 2s] (Two pairs : Kings and 2)
+Jimmybooba collected 19950 from pot
+*** SUMMARY ***
+Total pot 19950 | No rake
+Board: [2d 7h Kh Tc 4h]
+Seat 1: Jimmybooba (big blind) showed [Kd 2s] and won 19950 with Two pairs : Kings and 2
+Seat 4: zionbool showed [8h Ts] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #691443984664363015-81-1466409185 - Holdem no limit (100/500/1000) - 2016/06/20 07:53:05 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #6 is the button
+Seat 1: Jimmybooba (67745)
+Seat 2: capucin45470 (42810)
+Seat 3: manggy94 (11310)
+Seat 5: ZaGaZaiiii (23095)
+Seat 6: k-ro93 (37532)
+*** ANTE/BLINDS ***
+Jimmybooba posts ante 100
+capucin45470 posts ante 100
+manggy94 posts ante 100
+ZaGaZaiiii posts ante 100
+k-ro93 posts ante 100
+Jimmybooba posts small blind 500
+capucin45470 posts big blind 1000
+Dealt to manggy94 [7c 3c]
+*** PRE-FLOP *** 
+manggy94 folds
+ZaGaZaiiii folds
+k-ro93 folds
+Jimmybooba calls 500
+capucin45470 raises 4000 to 5000
+Jimmybooba calls 4000
+*** FLOP *** [Td 3s 2h]
+Jimmybooba checks
+capucin45470 bets 5250
+Jimmybooba folds
+capucin45470 collected 15750 from pot
+*** SUMMARY ***
+Total pot 15750 | No rake
+Board: [Td 3s 2h]
+Seat 2: capucin45470 (big blind) won 15750
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #691443984664363015-82-1466409238 - Holdem no limit (100/500/1000) - 2016/06/20 07:53:58 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #1 is the button
+Seat 1: Jimmybooba (62645)
+Seat 2: capucin45470 (48210)
+Seat 3: manggy94 (11210)
+Seat 4: MenorAAh (43384)
+Seat 5: ZaGaZaiiii (22995)
+Seat 6: k-ro93 (37432)
+*** ANTE/BLINDS ***
+capucin45470 posts ante 100
+manggy94 posts ante 100
+Jimmybooba posts ante 100
+MenorAAh posts ante 100
+ZaGaZaiiii posts ante 100
+k-ro93 posts ante 100
+capucin45470 posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [Td Jc]
+*** PRE-FLOP *** 
+MenorAAh folds
+ZaGaZaiiii folds
+k-ro93 folds
+Jimmybooba raises 1000 to 2000
+capucin45470 folds
+manggy94 calls 1000
+*** FLOP *** [4d Js 4s]
+manggy94 bets 9110 and is all-in
+Jimmybooba calls 9110
+*** TURN *** [4d Js 4s][9d]
+*** RIVER *** [4d Js 4s 9d][8d]
+*** SHOW DOWN ***
+Jimmybooba shows [7d 9s] (Two pairs : 9 and 4)
+manggy94 shows [Td Jc] (Two pairs : Jacks and 4)
+manggy94 collected 23320 from pot
+*** SUMMARY ***
+Total pot 23320 | No rake
+Board: [4d Js 4s 9d 8d]
+Seat 1: Jimmybooba (button) showed [7d 9s] and lost with Two pairs : 9 and 4
+Seat 3: manggy94 (big blind) showed [Td Jc] and won 23320 with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #691443984664363015-83-1466409286 - Holdem no limit (100/500/1000) - 2016/06/20 07:54:46 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #2 is the button
+Seat 1: Jimmybooba (51435)
+Seat 2: capucin45470 (47610)
+Seat 3: manggy94 (23320)
+Seat 4: MenorAAh (43284)
+Seat 5: ZaGaZaiiii (22895)
+Seat 6: k-ro93 (37332)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+MenorAAh posts ante 100
+Jimmybooba posts ante 100
+capucin45470 posts ante 100
+ZaGaZaiiii posts ante 100
+k-ro93 posts ante 100
+manggy94 posts small blind 500
+MenorAAh posts big blind 1000
+Dealt to manggy94 [2h Qc]
+*** PRE-FLOP *** 
+ZaGaZaiiii folds
+k-ro93 folds
+Jimmybooba raises 1000 to 2000
+capucin45470 folds
+manggy94 folds
+MenorAAh folds
+Jimmybooba collected 4100 from pot
+*** SUMMARY ***
+Total pot 4100 | No rake
+Seat 1: Jimmybooba won 4100
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #691443984664363015-84-1466409602 - Holdem no limit (100/500/1000) - 2016/06/20 08:00:02 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #3 is the button
+Seat 1: Jimmybooba (53435)
+Seat 2: capucin45470 (47510)
+Seat 3: manggy94 (22720)
+Seat 4: MenorAAh (42184)
+Seat 5: ZaGaZaiiii (22795)
+Seat 6: k-ro93 (37232)
+*** ANTE/BLINDS ***
+MenorAAh posts ante 100
+ZaGaZaiiii posts ante 100
+Jimmybooba posts ante 100
+capucin45470 posts ante 100
+manggy94 posts ante 100
+k-ro93 posts ante 100
+MenorAAh posts small blind 500
+ZaGaZaiiii posts big blind 1000
+Dealt to manggy94 [3s 3c]
+*** PRE-FLOP *** 
+k-ro93 folds
+Jimmybooba calls 1000
+capucin45470 folds
+manggy94 calls 1000
+MenorAAh calls 500
+ZaGaZaiiii folds
+*** FLOP *** [8s 5s 7h]
+MenorAAh checks
+Jimmybooba bets 4600
+manggy94 folds
+MenorAAh folds
+Jimmybooba collected 9200 from pot
+*** SUMMARY ***
+Total pot 9200 | No rake
+Board: [8s 5s 7h]
+Seat 1: Jimmybooba won 9200
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #691443984664363015-85-1466409715 - Holdem no limit (150/600/1200) - 2016/06/20 08:01:55 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #4 is the button
+Seat 1: Jimmybooba (56935)
+Seat 2: capucin45470 (47410)
+Seat 3: manggy94 (21620)
+Seat 4: MenorAAh (41084)
+Seat 5: ZaGaZaiiii (21695)
+Seat 6: k-ro93 (37132)
+*** ANTE/BLINDS ***
+ZaGaZaiiii posts ante 150
+k-ro93 posts ante 150
+Jimmybooba posts ante 150
+capucin45470 posts ante 150
+manggy94 posts ante 150
+MenorAAh posts ante 150
+ZaGaZaiiii posts small blind 600
+k-ro93 posts big blind 1200
+Dealt to manggy94 [6c 4s]
+*** PRE-FLOP *** 
+Jimmybooba calls 1200
+capucin45470 raises 3600 to 4800
+manggy94 folds
+MenorAAh folds
+ZaGaZaiiii folds
+k-ro93 folds
+Jimmybooba calls 3600
+*** FLOP *** [7s Qh Ad]
+Jimmybooba checks
+capucin45470 bets 6150
+Jimmybooba folds
+capucin45470 collected 18450 from pot
+*** SUMMARY ***
+Total pot 18450 | No rake
+Board: [7s Qh Ad]
+Seat 2: capucin45470 won 18450
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #691443984664363015-86-1466409757 - Holdem no limit (150/600/1200) - 2016/06/20 08:02:37 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #5 is the button
+Seat 1: Jimmybooba (51985)
+Seat 2: capucin45470 (54760)
+Seat 3: manggy94 (21470)
+Seat 4: MenorAAh (40934)
+Seat 5: ZaGaZaiiii (20945)
+Seat 6: k-ro93 (35782)
+*** ANTE/BLINDS ***
+k-ro93 posts ante 150
+Jimmybooba posts ante 150
+capucin45470 posts ante 150
+manggy94 posts ante 150
+MenorAAh posts ante 150
+ZaGaZaiiii posts ante 150
+k-ro93 posts small blind 600
+Jimmybooba posts big blind 1200
+Dealt to manggy94 [7d Ah]
+*** PRE-FLOP *** 
+capucin45470 folds
+manggy94 raises 1200 to 2400
+MenorAAh raises 3000 to 5400
+ZaGaZaiiii folds
+k-ro93 folds
+Jimmybooba calls 4200
+manggy94 calls 3000
+*** FLOP *** [9d 5s 8d]
+Jimmybooba checks
+manggy94 checks
+MenorAAh bets 15000
+Jimmybooba calls 15000
+manggy94 folds
+*** TURN *** [9d 5s 8d][6s]
+Jimmybooba checks
+MenorAAh bets 20384 and is all-in
+Jimmybooba calls 20384
+*** RIVER *** [9d 5s 8d 6s][Jh]
+*** SHOW DOWN ***
+MenorAAh shows [Js Jc] (Trips of Jacks)
+Jimmybooba shows [Qd 7s] (Straight 9 high)
+Jimmybooba collected 88468 from pot
+*** SUMMARY ***
+Total pot 88468 | No rake
+Board: [9d 5s 8d 6s Jh]
+Seat 1: Jimmybooba (big blind) showed [Qd 7s] and won 88468 with Straight 9 high
+Seat 4: MenorAAh showed [Js Jc] and lost with Trips of Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #691443984664363015-87-1466409833 - Holdem no limit (150/600/1200) - 2016/06/20 08:03:53 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #6 is the button
+Seat 1: Jimmybooba (99519)
+Seat 2: capucin45470 (54610)
+Seat 3: manggy94 (15920)
+Seat 5: ZaGaZaiiii (20795)
+Seat 6: k-ro93 (35032)
+*** ANTE/BLINDS ***
+Jimmybooba posts ante 150
+capucin45470 posts ante 150
+manggy94 posts ante 150
+ZaGaZaiiii posts ante 150
+k-ro93 posts ante 150
+Jimmybooba posts small blind 600
+capucin45470 posts big blind 1200
+Dealt to manggy94 [Qs 3c]
+*** PRE-FLOP *** 
+manggy94 folds
+ZaGaZaiiii folds
+k-ro93 folds
+Jimmybooba folds
+capucin45470 collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Seat 2: capucin45470 (big blind) won 2550
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #691443984664363015-88-1466409843 - Holdem no limit (150/600/1200) - 2016/06/20 08:04:03 UTC
+Table: 'MiniRoll(160989348)#006' 6-max (real money) Seat #1 is the button
+Seat 1: Jimmybooba (98769)
+Seat 2: capucin45470 (55810)
+Seat 3: manggy94 (15770)
+Seat 5: ZaGaZaiiii (20645)
+Seat 6: k-ro93 (34882)
+*** ANTE/BLINDS ***
+capucin45470 posts ante 150
+manggy94 posts ante 150
+Jimmybooba posts ante 150
+ZaGaZaiiii posts ante 150
+k-ro93 posts ante 150
+capucin45470 posts small blind 600
+manggy94 posts big blind 1200
+Dealt to manggy94 [4d 4h]
+*** PRE-FLOP *** 
+ZaGaZaiiii folds
+k-ro93 folds
+Jimmybooba raises 3750 to 4950
+capucin45470 folds
+manggy94 raises 10670 to 15620 and is all-in
+Jimmybooba calls 10670
+*** FLOP *** [Ah 5h 7s]
+*** TURN *** [Ah 5h 7s][Qc]
+*** RIVER *** [Ah 5h 7s Qc][7c]
+*** SHOW DOWN ***
+manggy94 shows [4d 4h] (Two pairs : 7 and 4)
+Jimmybooba shows [7h 7d] (Quads of 7)
+Jimmybooba collected 32590 from pot
+*** SUMMARY ***
+Total pot 32590 | No rake
+Board: [Ah 5h 7s Qc 7c]
+Seat 1: Jimmybooba (button) showed [7h 7d] and won 32590 with Quads of 7
+Seat 3: manggy94 (big blind) showed [4d 4h] and lost with Two pairs : 7 and 4
+
+

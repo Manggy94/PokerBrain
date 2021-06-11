@@ -1,0 +1,292 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #541539176378532161-1-1439486130 - Omaha pot limit (10/20) - 2015/08/13 17:15:30 UTC
+Table: 'Freeroll(126086915)#320' 6-max (real money) Seat #6 is the button
+Seat 1: BARBARADU33 (3000)
+Seat 2: et.mi.lien (3000)
+Seat 3: jjj2202 (3000)
+Seat 4: manggy94 (3000)
+Seat 5: filiz69 (3000)
+Seat 6: pokercol (3000)
+*** ANTE/BLINDS ***
+BARBARADU33 posts small blind 10
+et.mi.lien posts big blind 20
+Dealt to manggy94 [7h 2d 9s 5c]
+*** PRE-FLOP *** 
+jjj2202 calls 20
+manggy94 folds
+filiz69 calls 20
+pokercol folds
+BARBARADU33 calls 10
+et.mi.lien checks
+*** FLOP *** [7d Jh As]
+BARBARADU33 checks
+et.mi.lien checks
+jjj2202 checks
+filiz69 checks
+*** TURN *** [7d Jh As][Kh]
+BARBARADU33 checks
+et.mi.lien checks
+jjj2202 checks
+filiz69 bets 80
+BARBARADU33 calls 80
+et.mi.lien folds
+jjj2202 calls 80
+*** RIVER *** [7d Jh As Kh][3s]
+BARBARADU33 checks
+jjj2202 checks
+filiz69 checks
+*** SHOW DOWN ***
+BARBARADU33 shows [6h 5h Kd 8s] (One pair : Kings)
+jjj2202 shows [8d 4h 3h Js] (Two pairs : Jacks and 3)
+filiz69 shows [Qs Jc 6s Ks] (Two pairs : Kings and Jacks)
+filiz69 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [7d Jh As Kh 3s]
+Seat 1: BARBARADU33 (small blind) showed [6h 5h Kd 8s] and lost with One pair : Kings
+Seat 3: jjj2202 showed [8d 4h 3h Js] and lost with Two pairs : Jacks and 3
+Seat 5: filiz69 showed [Qs Jc 6s Ks] and won 320 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #541539176378532161-2-1439486203 - Omaha pot limit (10/20) - 2015/08/13 17:16:43 UTC
+Table: 'Freeroll(126086915)#320' 6-max (real money) Seat #1 is the button
+Seat 1: BARBARADU33 (2900)
+Seat 2: et.mi.lien (2980)
+Seat 3: jjj2202 (2900)
+Seat 4: manggy94 (3000)
+Seat 5: filiz69 (3220)
+Seat 6: MUGIWARA_187 (3000)
+*** ANTE/BLINDS ***
+et.mi.lien posts small blind 10
+jjj2202 posts big blind 20
+Dealt to manggy94 [9d 2c Th Js]
+*** PRE-FLOP *** 
+manggy94 folds
+filiz69 calls 20
+MUGIWARA_187 calls 20
+BARBARADU33 calls 20
+et.mi.lien raises 100 to 120
+jjj2202 calls 100
+filiz69 calls 100
+MUGIWARA_187 calls 100
+BARBARADU33 calls 100
+*** FLOP *** [2s Kc Qd]
+et.mi.lien bets 600
+jjj2202 folds
+filiz69 folds
+MUGIWARA_187 raises 1800 to 2400
+BARBARADU33 folds
+et.mi.lien raises 460 to 2860 and is all-in
+MUGIWARA_187 calls 460
+*** TURN *** [2s Kc Qd][Ac]
+*** RIVER *** [2s Kc Qd Ac][4d]
+*** SHOW DOWN ***
+et.mi.lien shows [9s 2d Qc 3s] (Two pairs : Queens and 2)
+MUGIWARA_187 shows [As 6s 5c Qs] (Two pairs : Aces and Queens)
+MUGIWARA_187 collected 6320 from pot
+*** SUMMARY ***
+Total pot 6320 | No rake
+Board: [2s Kc Qd Ac 4d]
+Seat 2: et.mi.lien (small blind) showed [9s 2d Qc 3s] and lost with Two pairs : Queens and 2
+Seat 6: MUGIWARA_187 showed [As 6s 5c Qs] and won 6320 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #541539176378532161-3-1439486310 - Omaha pot limit (15/30) - 2015/08/13 17:18:30 UTC
+Table: 'Freeroll(126086915)#320' 6-max (real money) Seat #2 is the button
+Seat 1: BARBARADU33 (2780)
+Seat 2: Gilpat91 (3000)
+Seat 3: jjj2202 (2780)
+Seat 4: manggy94 (3000)
+Seat 5: filiz69 (3100)
+Seat 6: MUGIWARA_187 (6340)
+*** ANTE/BLINDS ***
+jjj2202 posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [3h 3c 4c As]
+*** PRE-FLOP *** 
+filiz69 calls 30
+MUGIWARA_187 calls 30
+BARBARADU33 calls 30
+jjj2202 calls 15
+manggy94 checks
+*** FLOP *** [Kd Qc 2s]
+jjj2202 checks
+manggy94 checks
+filiz69 checks
+MUGIWARA_187 checks
+BARBARADU33 bets 150
+jjj2202 folds
+manggy94 folds
+filiz69 calls 150
+MUGIWARA_187 folds
+*** TURN *** [Kd Qc 2s][Ks]
+filiz69 checks
+BARBARADU33 bets 450
+filiz69 calls 450
+*** RIVER *** [Kd Qc 2s Ks][8s]
+filiz69 checks
+BARBARADU33 bets 1350
+filiz69 calls 1350
+*** SHOW DOWN ***
+filiz69 shows [Js 8h Ts 9s] (Flush King high)
+BARBARADU33 shows [Kc 4d 8c 6h] (Full of Kings and 8)
+BARBARADU33 collected 4050 from pot
+*** SUMMARY ***
+Total pot 4050 | No rake
+Board: [Kd Qc 2s Ks 8s]
+Seat 1: BARBARADU33 showed [Kc 4d 8c 6h] and won 4050 with Full of Kings and 8
+Seat 5: filiz69 showed [Js 8h Ts 9s] and lost with Flush King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #541539176378532161-4-1439486405 - Omaha pot limit (15/30) - 2015/08/13 17:20:05 UTC
+Table: 'Freeroll(126086915)#320' 6-max (real money) Seat #3 is the button
+Seat 1: BARBARADU33 (4850)
+Seat 2: empetre79 (2990)
+Seat 3: jjj2202 (2750)
+Seat 4: manggy94 (2970)
+Seat 5: filiz69 (1120)
+Seat 6: MUGIWARA_187 (6310)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+filiz69 posts big blind 30
+Dealt to manggy94 [Jh 4s Tc Jc]
+*** PRE-FLOP *** 
+MUGIWARA_187 folds
+BARBARADU33 calls 30
+empetre79 folds
+jjj2202 calls 30
+manggy94 calls 15
+filiz69 checks
+*** FLOP *** [7h 2s 8d]
+manggy94 bets 120
+filiz69 calls 120
+BARBARADU33 raises 480 to 600
+jjj2202 folds
+manggy94 calls 480
+filiz69 calls 480
+*** TURN *** [7h 2s 8d][Kc]
+manggy94 checks
+filiz69 bets 490 and is all-in
+BARBARADU33 raises 2900 to 3390
+manggy94 folds
+*** RIVER *** [7h 2s 8d Kc][Ac]
+*** SHOW DOWN ***
+filiz69 shows [Ks 9d 6s Ah] (Two pairs : Aces and Kings)
+BARBARADU33 shows [3d 8s 7d 8c] (Trips of 8)
+BARBARADU33 collected 5800 from pot
+*** SUMMARY ***
+Total pot 5800 | No rake
+Board: [7h 2s 8d Kc Ac]
+Seat 1: BARBARADU33 showed [3d 8s 7d 8c] and won 5800 with Trips of 8
+Seat 5: filiz69 (big blind) showed [Ks 9d 6s Ah] and lost with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #541539176378532161-5-1439486466 - Omaha pot limit (15/30) - 2015/08/13 17:21:06 UTC
+Table: 'Freeroll(126086915)#320' 6-max (real money) Seat #4 is the button
+Seat 1: BARBARADU33 (6630)
+Seat 2: empetre79 (2990)
+Seat 3: jjj2202 (2720)
+Seat 4: manggy94 (2340)
+Seat 5: CHASSE (2965)
+Seat 6: MUGIWARA_187 (6310)
+*** ANTE/BLINDS ***
+MUGIWARA_187 posts big blind 30
+Dealt to manggy94 [Jd Kh 9s Td]
+*** PRE-FLOP *** 
+BARBARADU33 calls 30
+empetre79 folds
+jjj2202 calls 30
+manggy94 raises 120 to 150
+MUGIWARA_187 folds
+BARBARADU33 calls 120
+jjj2202 calls 120
+*** FLOP *** [3c 2h Qs]
+BARBARADU33 checks
+jjj2202 checks
+manggy94 bets 480
+BARBARADU33 folds
+jjj2202 calls 480
+*** TURN *** [3c 2h Qs][3d]
+jjj2202 checks
+manggy94 bets 1440
+jjj2202 folds
+manggy94 collected 2880 from pot
+*** SUMMARY ***
+Total pot 2880 | No rake
+Board: [3c 2h Qs 3d]
+Seat 4: manggy94 (button) won 2880
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #541539176378532161-6-1439486525 - Omaha pot limit (20/40) - 2015/08/13 17:22:05 UTC
+Table: 'Freeroll(126086915)#320' 6-max (real money) Seat #5 is the button
+Seat 1: BARBARADU33 (6480)
+Seat 2: empetre79 (2990)
+Seat 3: jjj2202 (2090)
+Seat 4: manggy94 (3150)
+Seat 5: CHASSE (2965)
+Seat 6: petanque 89 (3000)
+*** ANTE/BLINDS ***
+BARBARADU33 posts big blind 40
+Dealt to manggy94 [8c 5c 2h Qc]
+*** PRE-FLOP *** 
+empetre79 folds
+jjj2202 calls 40
+manggy94 calls 40
+BARBARADU33 checks
+*** FLOP *** [Kh 4h 9s]
+BARBARADU33 bets 120
+jjj2202 calls 120
+manggy94 folds
+*** TURN *** [Kh 4h 9s][7c]
+BARBARADU33 bets 360
+jjj2202 calls 360
+*** RIVER *** [Kh 4h 9s 7c][6d]
+BARBARADU33 bets 1080
+jjj2202 folds
+BARBARADU33 collected 2160 from pot
+*** SUMMARY ***
+Total pot 2160 | No rake
+Board: [Kh 4h 9s 7c 6d]
+Seat 1: BARBARADU33 (big blind) won 2160
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #541539176378532161-7-1439486578 - Omaha pot limit (20/40) - 2015/08/13 17:22:58 UTC
+Table: 'Freeroll(126086915)#320' 6-max (real money) Seat #6 is the button
+Seat 1: BARBARADU33 (7040)
+Seat 2: empetre79 (2990)
+Seat 3: jjj2202 (1570)
+Seat 4: manggy94 (3110)
+Seat 5: CHASSE (2965)
+Seat 6: Cocorico6241 (2940)
+*** ANTE/BLINDS ***
+BARBARADU33 posts small blind 20
+empetre79 posts big blind 40
+Dealt to manggy94 [Jc Ad 6d 4d]
+*** PRE-FLOP *** 
+jjj2202 calls 40
+manggy94 raises 140 to 180
+BARBARADU33 calls 160
+empetre79 folds
+jjj2202 raises 580 to 760
+manggy94 raises 580 to 1340
+BARBARADU33 calls 1160
+jjj2202 raises 230 to 1570 and is all-in
+manggy94 calls 230
+BARBARADU33 calls 230
+*** FLOP *** [2h Tc 8d]
+BARBARADU33 bets 3167
+manggy94 calls 1540 and is all-in
+*** TURN *** [2h Tc 8d][6s]
+*** RIVER *** [2h Tc 8d 6s][5h]
+*** SHOW DOWN ***
+jjj2202 shows [As Jh 5d 3h] (One pair : 5)
+manggy94 shows [Jc Ad 6d 4d] (One pair : 6)
+BARBARADU33 shows [2d 3d 9d 8c] (Two pairs : 8 and 2)
+BARBARADU33 collected 9457 from pot
+*** SUMMARY ***
+Total pot 9457 | No rake
+Board: [2h Tc 8d 6s 5h]
+Seat 1: BARBARADU33 (small blind) showed [2d 3d 9d 8c] and won 9457 with Two pairs : 8 and 2
+Seat 3: jjj2202 showed [As Jh 5d 3h] and lost with One pair : 5
+Seat 4: manggy94 showed [Jc Ad 6d 4d] and lost with One pair : 6
+
+

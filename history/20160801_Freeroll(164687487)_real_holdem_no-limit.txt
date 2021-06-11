@@ -1,0 +1,876 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #707327370725425531-15-1470053882 - Holdem no limit (60/120) - 2016/08/01 12:18:02 UTC
+Table: 'Freeroll(164687487)#378' 6-max (real money) Seat #5 is the button
+Seat 1: LeRob99 (14131)
+Seat 2: manggy94 (3000)
+Seat 3: clemb17 (120)
+Seat 4: OLIVIA POPE (3000)
+Seat 5: Ni roba (13019)
+Seat 6: CubaLibertad (2890)
+*** ANTE/BLINDS ***
+CubaLibertad posts small blind 60
+LeRob99 posts big blind 120
+Dealt to manggy94 [2c 7h]
+*** PRE-FLOP *** 
+manggy94 folds
+clemb17 folds
+OLIVIA POPE folds
+Ni roba calls 120
+CubaLibertad folds
+LeRob99 checks
+*** FLOP *** [Kc 9c 7c]
+LeRob99 bets 120
+Ni roba folds
+LeRob99 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Kc 9c 7c]
+Seat 1: LeRob99 (big blind) won 420
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #707327370725425355-20-1470053958 - Holdem no limit (10/60/120) - 2016/08/01 12:19:18 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #5 is the button
+Seat 1: claude34 (14920)
+Seat 3: Mikajess (2550)
+Seat 5: pairedeneuf (3530)
+Seat 6: manggy94 (3000)
+*** ANTE/BLINDS ***
+claude34 posts ante 10
+Mikajess posts ante 10
+pairedeneuf posts ante 10
+claude34 posts small blind 60
+Mikajess posts big blind 120
+*** PRE-FLOP *** 
+pairedeneuf folds
+claude34 calls 60
+Mikajess checks
+*** FLOP *** [Th 5d 8s]
+claude34 checks
+Mikajess bets 120
+claude34 calls 120
+*** TURN *** [Th 5d 8s][8c]
+claude34 checks
+Mikajess bets 120
+claude34 folds
+Mikajess collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Th 5d 8s 8c]
+Seat 3: Mikajess (big blind) won 630
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #707327370725425355-21-1470053992 - Holdem no limit (10/60/120) - 2016/08/01 12:19:52 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #1 is the button
+Seat 1: claude34 (14670)
+Seat 2: OrKidoKlaste (3000)
+Seat 3: Mikajess (2810)
+Seat 4: WHAOUH07 (5100)
+Seat 5: pairedeneuf (3520)
+Seat 6: manggy94 (3000)
+*** ANTE/BLINDS ***
+Mikajess posts ante 10
+WHAOUH07 posts ante 10
+claude34 posts ante 10
+pairedeneuf posts ante 10
+manggy94 posts ante 10
+Mikajess posts small blind 60
+WHAOUH07 posts big blind 120
+Dealt to manggy94 [2c 4s]
+*** PRE-FLOP *** 
+pairedeneuf folds
+manggy94 folds
+claude34 calls 120
+Mikajess raises 120 to 240
+WHAOUH07 calls 120
+claude34 calls 120
+*** FLOP *** [Kh 9d 6d]
+Mikajess bets 2560 and is all-in
+WHAOUH07 folds
+claude34 calls 2560
+*** TURN *** [Kh 9d 6d][2s]
+*** RIVER *** [Kh 9d 6d 2s][7h]
+*** SHOW DOWN ***
+claude34 shows [Ad 3d] (High card : Ace)
+Mikajess shows [Th 9s] (One pair : 9)
+Mikajess collected 5890 from pot
+*** SUMMARY ***
+Total pot 5890 | No rake
+Board: [Kh 9d 6d 2s 7h]
+Seat 1: claude34 (button) showed [Ad 3d] and lost with High card : Ace
+Seat 3: Mikajess (small blind) showed [Th 9s] and won 5890 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #707327370725425355-22-1470054020 - Holdem no limit (10/60/120) - 2016/08/01 12:20:20 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #3 is the button
+Seat 1: claude34 (11860)
+Seat 2: OrKidoKlaste (3000)
+Seat 3: Mikajess (5890)
+Seat 4: WHAOUH07 (4850)
+Seat 5: pairedeneuf (3510)
+Seat 6: manggy94 (2990)
+*** ANTE/BLINDS ***
+WHAOUH07 posts ante 10
+pairedeneuf posts ante 10
+claude34 posts ante 10
+OrKidoKlaste posts ante 10
+Mikajess posts ante 10
+manggy94 posts ante 10
+WHAOUH07 posts small blind 60
+pairedeneuf posts big blind 120
+Dealt to manggy94 [Ks 9s]
+*** PRE-FLOP *** 
+manggy94 calls 120
+claude34 folds
+OrKidoKlaste folds
+Mikajess calls 120
+WHAOUH07 calls 60
+pairedeneuf folds
+*** FLOP *** [4d 7s 6s]
+WHAOUH07 checks
+manggy94 checks
+Mikajess bets 270
+WHAOUH07 calls 270
+manggy94 calls 270
+*** TURN *** [4d 7s 6s][2h]
+WHAOUH07 checks
+manggy94 checks
+Mikajess bets 120
+WHAOUH07 calls 120
+manggy94 calls 120
+*** RIVER *** [4d 7s 6s 2h][6h]
+WHAOUH07 bets 120
+manggy94 folds
+Mikajess calls 120
+*** SHOW DOWN ***
+Mikajess shows [4s 3s] (Two pairs : 6 and 4)
+WHAOUH07 shows [As 6d] (Trips of 6)
+WHAOUH07 collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | No rake
+Board: [4d 7s 6s 2h 6h]
+Seat 3: Mikajess (button) showed [4s 3s] and lost with Two pairs : 6 and 4
+Seat 4: WHAOUH07 (small blind) showed [As 6d] and won 1950 with Trips of 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #707327370725425355-23-1470054066 - Holdem no limit (10/60/120) - 2016/08/01 12:21:06 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #4 is the button
+Seat 1: claude34 (11850)
+Seat 2: OrKidoKlaste (2990)
+Seat 3: Mikajess (5250)
+Seat 4: WHAOUH07 (6160)
+Seat 5: pairedeneuf (3380)
+Seat 6: manggy94 (2470)
+*** ANTE/BLINDS ***
+pairedeneuf posts ante 10
+manggy94 posts ante 10
+claude34 posts ante 10
+OrKidoKlaste posts ante 10
+Mikajess posts ante 10
+WHAOUH07 posts ante 10
+pairedeneuf posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [Ac 4d]
+*** PRE-FLOP *** 
+claude34 raises 120 to 240
+OrKidoKlaste folds
+Mikajess folds
+WHAOUH07 folds
+pairedeneuf folds
+manggy94 calls 120
+*** FLOP *** [Jh 5d 2h]
+manggy94 bets 120
+claude34 raises 120 to 240
+manggy94 calls 120
+*** TURN *** [Jh 5d 2h][Qs]
+manggy94 checks
+claude34 bets 840
+manggy94 folds
+claude34 collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | No rake
+Board: [Jh 5d 2h Qs]
+Seat 1: claude34 won 1920
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #707327370725425355-24-1470054121 - Holdem no limit (15/75/150) - 2016/08/01 12:22:01 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #5 is the button
+Seat 1: claude34 (12440)
+Seat 2: OrKidoKlaste (2980)
+Seat 3: Mikajess (5240)
+Seat 4: WHAOUH07 (6150)
+Seat 5: pairedeneuf (3310)
+Seat 6: manggy94 (1980)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+claude34 posts ante 15
+OrKidoKlaste posts ante 15
+Mikajess posts ante 15
+WHAOUH07 posts ante 15
+pairedeneuf posts ante 15
+manggy94 posts small blind 75
+claude34 posts big blind 150
+Dealt to manggy94 [Ks As]
+*** PRE-FLOP *** 
+OrKidoKlaste folds
+Mikajess calls 150
+WHAOUH07 calls 150
+pairedeneuf folds
+manggy94 raises 1815 to 1965 and is all-in
+claude34 calls 1815
+Mikajess folds
+WHAOUH07 calls 1815
+*** FLOP *** [Js 3d Qh]
+claude34 bets 150
+WHAOUH07 calls 150
+*** TURN *** [Js 3d Qh][Tc]
+claude34 bets 150
+WHAOUH07 calls 150
+*** RIVER *** [Js 3d Qh Tc][4d]
+claude34 bets 150
+WHAOUH07 calls 150
+*** SHOW DOWN ***
+claude34 shows [5c 5s] (One pair : 5)
+WHAOUH07 shows [6s 6d] (One pair : 6)
+manggy94 shows [Ks As] (Straight Ace high)
+manggy94 collected 6135 from main pot
+WHAOUH07 collected 900 from side pot 1
+*** SUMMARY ***
+Total pot 7035 | No rake
+Board: [Js 3d Qh Tc 4d]
+Seat 1: claude34 (big blind) showed [5c 5s] and lost with One pair : 5
+Seat 4: WHAOUH07 showed [6s 6d] and won 900 with One pair : 6
+Seat 6: manggy94 (small blind) showed [Ks As] and won 6135 with Straight Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #707327370725425355-25-1470054165 - Holdem no limit (15/75/150) - 2016/08/01 12:22:45 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #6 is the button
+Seat 1: claude34 (10010)
+Seat 2: OrKidoKlaste (2965)
+Seat 3: Mikajess (5075)
+Seat 4: WHAOUH07 (4620)
+Seat 5: pairedeneuf (3295)
+Seat 6: manggy94 (6135)
+*** ANTE/BLINDS ***
+claude34 posts ante 15
+OrKidoKlaste posts ante 15
+Mikajess posts ante 15
+WHAOUH07 posts ante 15
+pairedeneuf posts ante 15
+manggy94 posts ante 15
+claude34 posts small blind 75
+OrKidoKlaste posts big blind 150
+Dealt to manggy94 [5s 8d]
+*** PRE-FLOP *** 
+Mikajess folds
+WHAOUH07 folds
+pairedeneuf folds
+manggy94 folds
+claude34 calls 75
+OrKidoKlaste raises 150 to 300
+claude34 calls 150
+*** FLOP *** [7d 4s Ks]
+claude34 checks
+OrKidoKlaste bets 518
+claude34 folds
+OrKidoKlaste shows [Jc Ad] (High card : Ace)
+OrKidoKlaste collected 1208 from pot
+*** SUMMARY ***
+Total pot 1208 | No rake
+Board: [7d 4s Ks]
+Seat 2: OrKidoKlaste (big blind) showed [Jc Ad] and won 1208 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #707327370725425355-26-1470054218 - Holdem no limit (15/75/150) - 2016/08/01 12:23:38 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #1 is the button
+Seat 1: claude34 (9695)
+Seat 2: OrKidoKlaste (3340)
+Seat 3: Mikajess (5060)
+Seat 4: WHAOUH07 (4605)
+Seat 5: pairedeneuf (3280)
+Seat 6: manggy94 (6120)
+*** ANTE/BLINDS ***
+OrKidoKlaste posts ante 15
+Mikajess posts ante 15
+claude34 posts ante 15
+WHAOUH07 posts ante 15
+pairedeneuf posts ante 15
+manggy94 posts ante 15
+OrKidoKlaste posts small blind 75
+Mikajess posts big blind 150
+Dealt to manggy94 [Js 2d]
+*** PRE-FLOP *** 
+WHAOUH07 folds
+pairedeneuf folds
+manggy94 folds
+claude34 folds
+OrKidoKlaste raises 150 to 300
+Mikajess calls 150
+*** FLOP *** [Jd 5c Qh]
+OrKidoKlaste bets 690
+Mikajess folds
+OrKidoKlaste collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Board: [Jd 5c Qh]
+Seat 2: OrKidoKlaste (small blind) won 1380
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #707327370725425355-27-1470054244 - Holdem no limit (15/75/150) - 2016/08/01 12:24:04 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #2 is the button
+Seat 1: claude34 (9680)
+Seat 2: OrKidoKlaste (3715)
+Seat 3: Mikajess (4745)
+Seat 4: WHAOUH07 (4590)
+Seat 5: pairedeneuf (3265)
+Seat 6: manggy94 (6105)
+*** ANTE/BLINDS ***
+Mikajess posts ante 15
+WHAOUH07 posts ante 15
+claude34 posts ante 15
+OrKidoKlaste posts ante 15
+pairedeneuf posts ante 15
+manggy94 posts ante 15
+Mikajess posts small blind 75
+WHAOUH07 posts big blind 150
+Dealt to manggy94 [Kd Th]
+*** PRE-FLOP *** 
+pairedeneuf folds
+manggy94 calls 150
+claude34 calls 150
+OrKidoKlaste folds
+Mikajess calls 75
+WHAOUH07 checks
+*** FLOP *** [5h 8d 8h]
+Mikajess bets 4580 and is all-in
+WHAOUH07 calls 4425 and is all-in
+manggy94 folds
+claude34 calls 4580
+*** TURN *** [5h 8d 8h][2d]
+*** RIVER *** [5h 8d 8h 2d][6h]
+*** SHOW DOWN ***
+Mikajess shows [3d 5s] (Two pairs : 8 and 5)
+claude34 shows [As 5d] (Two pairs : 8 and 5)
+WHAOUH07 shows [Kh Jh] (Flush King high)
+WHAOUH07 collected 13965 from main pot
+claude34 collected 310 from side pot 1
+*** SUMMARY ***
+Total pot 14275 | No rake
+Board: [5h 8d 8h 2d 6h]
+Seat 1: claude34 showed [As 5d] and won 310 with Two pairs : 8 and 5
+Seat 3: Mikajess (small blind) showed [3d 5s] and lost with Two pairs : 8 and 5
+Seat 4: WHAOUH07 (big blind) showed [Kh Jh] and won 13965 with Flush King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #707327370725425355-28-1470054286 - Holdem no limit (20/100/200) - 2016/08/01 12:24:46 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #3 is the button
+Seat 1: claude34 (5245)
+Seat 2: OrKidoKlaste (3700)
+Seat 4: WHAOUH07 (13965)
+Seat 5: pairedeneuf (3250)
+Seat 6: manggy94 (5940)
+*** ANTE/BLINDS ***
+WHAOUH07 posts ante 20
+pairedeneuf posts ante 20
+claude34 posts ante 20
+OrKidoKlaste posts ante 20
+manggy94 posts ante 20
+WHAOUH07 posts small blind 100
+pairedeneuf posts big blind 200
+Dealt to manggy94 [8s 7s]
+*** PRE-FLOP *** 
+manggy94 folds
+claude34 raises 200 to 400
+OrKidoKlaste folds
+WHAOUH07 calls 300
+pairedeneuf folds
+*** FLOP *** [Th Qs 7h]
+WHAOUH07 checks
+claude34 bets 200
+WHAOUH07 raises 13345 to 13545 and is all-in
+claude34 calls 4625 and is all-in
+*** TURN *** [Th Qs 7h][2d]
+*** RIVER *** [Th Qs 7h 2d][Qd]
+*** SHOW DOWN ***
+claude34 shows [Kh Kc] (Two pairs : Kings and Queens)
+WHAOUH07 shows [Qh 8c] (Trips of Queens)
+WHAOUH07 collected 19470 from pot
+*** SUMMARY ***
+Total pot 19470 | No rake
+Board: [Th Qs 7h 2d Qd]
+Seat 1: claude34 showed [Kh Kc] and lost with Two pairs : Kings and Queens
+Seat 4: WHAOUH07 (small blind) showed [Qh 8c] and won 19470 with Trips of Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #707327370725425355-29-1470054318 - Holdem no limit (20/100/200) - 2016/08/01 12:25:18 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #4 is the button
+Seat 2: OrKidoKlaste (3680)
+Seat 4: WHAOUH07 (19470)
+Seat 5: pairedeneuf (3030)
+Seat 6: manggy94 (5920)
+*** ANTE/BLINDS ***
+pairedeneuf posts ante 20
+manggy94 posts ante 20
+OrKidoKlaste posts ante 20
+WHAOUH07 posts ante 20
+pairedeneuf posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [9s Qh]
+*** PRE-FLOP *** 
+OrKidoKlaste folds
+WHAOUH07 folds
+pairedeneuf folds
+manggy94 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 6: manggy94 (big blind) won 380
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #707327370725425355-30-1470054324 - Holdem no limit (20/100/200) - 2016/08/01 12:25:24 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #5 is the button
+Seat 2: OrKidoKlaste (3660)
+Seat 4: WHAOUH07 (19450)
+Seat 5: pairedeneuf (2910)
+Seat 6: manggy94 (6080)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+OrKidoKlaste posts ante 20
+WHAOUH07 posts ante 20
+pairedeneuf posts ante 20
+manggy94 posts small blind 100
+OrKidoKlaste posts big blind 200
+Dealt to manggy94 [Kd Qs]
+*** PRE-FLOP *** 
+WHAOUH07 calls 200
+pairedeneuf folds
+manggy94 raises 600 to 800
+OrKidoKlaste calls 600
+WHAOUH07 calls 600
+*** FLOP *** [4s Qh 9c]
+manggy94 bets 2480
+OrKidoKlaste folds
+WHAOUH07 calls 2480
+*** TURN *** [4s Qh 9c][8s]
+manggy94 bets 2780 and is all-in
+WHAOUH07 calls 2780
+*** RIVER *** [4s Qh 9c 8s][7h]
+*** SHOW DOWN ***
+WHAOUH07 shows [Qc 3c] (One pair : Queens)
+manggy94 shows [Kd Qs] (One pair : Queens)
+manggy94 collected 13000 from pot
+*** SUMMARY ***
+Total pot 13000 | No rake
+Board: [4s Qh 9c 8s 7h]
+Seat 4: WHAOUH07 showed [Qc 3c] and lost with One pair : Queens
+Seat 6: manggy94 (small blind) showed [Kd Qs] and won 13000 with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #707327370725425355-31-1470054354 - Holdem no limit (20/100/200) - 2016/08/01 12:25:54 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #6 is the button
+Seat 1: mamanolivia (8075)
+Seat 2: OrKidoKlaste (2840)
+Seat 3: le clone07 (7105)
+Seat 4: WHAOUH07 (13370)
+Seat 5: pairedeneuf (2890)
+Seat 6: manggy94 (13000)
+*** ANTE/BLINDS ***
+OrKidoKlaste posts ante 20
+le clone07 posts ante 20
+WHAOUH07 posts ante 20
+pairedeneuf posts ante 20
+manggy94 posts ante 20
+OrKidoKlaste posts small blind 100
+le clone07 posts big blind 200
+Dealt to manggy94 [Qh 4d]
+*** PRE-FLOP *** 
+WHAOUH07 raises 600 to 800
+pairedeneuf folds
+manggy94 folds
+OrKidoKlaste folds
+le clone07 folds
+WHAOUH07 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Seat 4: WHAOUH07 won 1200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #707327370725425355-32-1470054389 - Holdem no limit (20/100/200) - 2016/08/01 12:26:29 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #2 is the button
+Seat 1: mamanolivia (8075)
+Seat 2: OrKidoKlaste (2720)
+Seat 3: le clone07 (6885)
+Seat 4: WHAOUH07 (13750)
+Seat 5: pairedeneuf (2870)
+Seat 6: manggy94 (12980)
+*** ANTE/BLINDS ***
+le clone07 posts ante 20
+WHAOUH07 posts ante 20
+mamanolivia posts ante 20
+OrKidoKlaste posts ante 20
+pairedeneuf posts ante 20
+manggy94 posts ante 20
+le clone07 posts small blind 100
+WHAOUH07 posts big blind 200
+Dealt to manggy94 [8c Kc]
+*** PRE-FLOP *** 
+pairedeneuf folds
+manggy94 calls 200
+mamanolivia folds
+OrKidoKlaste folds
+le clone07 calls 100
+WHAOUH07 raises 400 to 600
+manggy94 calls 400
+le clone07 folds
+*** FLOP *** [5s 7s Ac]
+WHAOUH07 checks
+manggy94 checks
+*** TURN *** [5s 7s Ac][4c]
+WHAOUH07 checks
+manggy94 checks
+*** RIVER *** [5s 7s Ac 4c][7h]
+WHAOUH07 checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [8c Kc] (One pair : 7)
+WHAOUH07 shows [9d Ks] (One pair : 7)
+WHAOUH07 collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Board: [5s 7s Ac 4c 7h]
+Seat 4: WHAOUH07 (big blind) showed [9d Ks] and won 1520 with One pair : 7
+Seat 6: manggy94 showed [8c Kc] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #707327370725425355-33-1470054484 - Holdem no limit (25/125/250) - 2016/08/01 12:28:04 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #3 is the button
+Seat 1: mamanolivia (8055)
+Seat 2: OrKidoKlaste (2700)
+Seat 3: le clone07 (6665)
+Seat 4: WHAOUH07 (14650)
+Seat 5: pairedeneuf (2850)
+Seat 6: manggy94 (12360)
+*** ANTE/BLINDS ***
+WHAOUH07 posts ante 25
+pairedeneuf posts ante 25
+mamanolivia posts ante 25
+OrKidoKlaste posts ante 25
+le clone07 posts ante 25
+manggy94 posts ante 25
+WHAOUH07 posts small blind 125
+pairedeneuf posts big blind 250
+Dealt to manggy94 [6h Ad]
+*** PRE-FLOP *** 
+manggy94 raises 250 to 500
+mamanolivia folds
+OrKidoKlaste folds
+le clone07 folds
+WHAOUH07 folds
+pairedeneuf calls 250
+*** FLOP *** [Ac Ah Tc]
+pairedeneuf checks
+manggy94 checks
+*** TURN *** [Ac Ah Tc][Qh]
+pairedeneuf checks
+manggy94 bets 638
+pairedeneuf folds
+manggy94 collected 1913 from pot
+*** SUMMARY ***
+Total pot 1913 | No rake
+Board: [Ac Ah Tc Qh]
+Seat 6: manggy94 won 1913
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #707327370725425355-34-1470054516 - Holdem no limit (25/125/250) - 2016/08/01 12:28:36 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #4 is the button
+Seat 1: mamanolivia (8030)
+Seat 2: OrKidoKlaste (2675)
+Seat 3: le clone07 (6640)
+Seat 4: WHAOUH07 (14500)
+Seat 5: pairedeneuf (2325)
+Seat 6: manggy94 (13110)
+*** ANTE/BLINDS ***
+pairedeneuf posts ante 25
+manggy94 posts ante 25
+mamanolivia posts ante 25
+OrKidoKlaste posts ante 25
+le clone07 posts ante 25
+WHAOUH07 posts ante 25
+pairedeneuf posts small blind 125
+manggy94 posts big blind 250
+Dealt to manggy94 [Kh 4s]
+*** PRE-FLOP *** 
+mamanolivia calls 250
+OrKidoKlaste folds
+le clone07 folds
+WHAOUH07 calls 250
+pairedeneuf raises 2050 to 2300 and is all-in
+manggy94 folds
+mamanolivia folds
+WHAOUH07 folds
+pairedeneuf collected 3200 from pot
+*** SUMMARY ***
+Total pot 3200 | No rake
+Seat 5: pairedeneuf (small blind) won 3200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #707327370725425355-35-1470054561 - Holdem no limit (25/125/250) - 2016/08/01 12:29:21 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #5 is the button
+Seat 1: mamanolivia (7755)
+Seat 2: OrKidoKlaste (2650)
+Seat 3: le clone07 (6615)
+Seat 4: WHAOUH07 (14225)
+Seat 5: pairedeneuf (3200)
+Seat 6: manggy94 (12835)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+mamanolivia posts ante 25
+OrKidoKlaste posts ante 25
+le clone07 posts ante 25
+WHAOUH07 posts ante 25
+pairedeneuf posts ante 25
+manggy94 posts small blind 125
+mamanolivia posts big blind 250
+Dealt to manggy94 [7d Td]
+*** PRE-FLOP *** 
+OrKidoKlaste calls 250
+le clone07 folds
+WHAOUH07 folds
+pairedeneuf calls 250
+manggy94 calls 125
+mamanolivia checks
+*** FLOP *** [Jc 6s 6d]
+manggy94 checks
+mamanolivia checks
+OrKidoKlaste checks
+pairedeneuf checks
+*** TURN *** [Jc 6s 6d][2c]
+manggy94 checks
+mamanolivia checks
+OrKidoKlaste checks
+pairedeneuf checks
+*** RIVER *** [Jc 6s 6d 2c][Qc]
+manggy94 checks
+mamanolivia checks
+OrKidoKlaste checks
+pairedeneuf bets 1150
+manggy94 folds
+mamanolivia folds
+OrKidoKlaste folds
+pairedeneuf collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Board: [Jc 6s 6d 2c Qc]
+Seat 5: pairedeneuf (button) won 2300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #707327370725425355-36-1470054668 - Holdem no limit (35/150/300) - 2016/08/01 12:31:08 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #6 is the button
+Seat 1: mamanolivia (7480)
+Seat 2: OrKidoKlaste (2375)
+Seat 3: le clone07 (6590)
+Seat 4: WHAOUH07 (14200)
+Seat 5: pairedeneuf (4075)
+Seat 6: manggy94 (12560)
+*** ANTE/BLINDS ***
+mamanolivia posts ante 35
+OrKidoKlaste posts ante 35
+le clone07 posts ante 35
+WHAOUH07 posts ante 35
+pairedeneuf posts ante 35
+manggy94 posts ante 35
+mamanolivia posts small blind 150
+OrKidoKlaste posts big blind 300
+Dealt to manggy94 [9c As]
+*** PRE-FLOP *** 
+le clone07 folds
+WHAOUH07 calls 300
+pairedeneuf calls 300
+manggy94 raises 300 to 600
+mamanolivia folds
+OrKidoKlaste raises 1740 to 2340 and is all-in
+WHAOUH07 folds
+pairedeneuf raises 1700 to 4040 and is all-in
+manggy94 folds
+*** FLOP *** [Qc 3s 4c]
+*** TURN *** [Qc 3s 4c][2s]
+*** RIVER *** [Qc 3s 4c 2s][4d]
+*** SHOW DOWN ***
+OrKidoKlaste shows [6s 6h] (Two pairs : 6 and 4)
+pairedeneuf shows [3d 6d] (Two pairs : 4 and 3)
+pairedeneuf collected 1700 from side pot 1
+OrKidoKlaste collected 5940 from main pot
+*** SUMMARY ***
+Total pot 7640 | No rake
+Board: [Qc 3s 4c 2s 4d]
+Seat 2: OrKidoKlaste (big blind) showed [6s 6h] and won 5940 with Two pairs : 6 and 4
+Seat 5: pairedeneuf showed [3d 6d] and won 1700 with Two pairs : 4 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #707327370725425355-37-1470054715 - Holdem no limit (35/150/300) - 2016/08/01 12:31:55 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #1 is the button
+Seat 1: mamanolivia (7295)
+Seat 2: OrKidoKlaste (5940)
+Seat 3: le clone07 (6555)
+Seat 4: WHAOUH07 (13865)
+Seat 5: pairedeneuf (1700)
+Seat 6: manggy94 (11925)
+*** ANTE/BLINDS ***
+OrKidoKlaste posts ante 35
+le clone07 posts ante 35
+mamanolivia posts ante 35
+WHAOUH07 posts ante 35
+pairedeneuf posts ante 35
+manggy94 posts ante 35
+OrKidoKlaste posts small blind 150
+le clone07 posts big blind 300
+Dealt to manggy94 [8s Kc]
+*** PRE-FLOP *** 
+WHAOUH07 folds
+pairedeneuf raises 1365 to 1665 and is all-in
+manggy94 folds
+mamanolivia folds
+OrKidoKlaste folds
+le clone07 calls 1365
+*** FLOP *** [Ah 7c 4c]
+*** TURN *** [Ah 7c 4c][4h]
+*** RIVER *** [Ah 7c 4c 4h][9d]
+*** SHOW DOWN ***
+le clone07 shows [6s 6h] (Two pairs : 6 and 4)
+pairedeneuf shows [4s 2s] (Trips of 4)
+pairedeneuf collected 3690 from pot
+*** SUMMARY ***
+Total pot 3690 | No rake
+Board: [Ah 7c 4c 4h 9d]
+Seat 3: le clone07 (big blind) showed [6s 6h] and lost with Two pairs : 6 and 4
+Seat 5: pairedeneuf showed [4s 2s] and won 3690 with Trips of 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #707327370725425355-38-1470054747 - Holdem no limit (35/150/300) - 2016/08/01 12:32:27 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #2 is the button
+Seat 1: mamanolivia (7260)
+Seat 2: OrKidoKlaste (5755)
+Seat 3: le clone07 (4855)
+Seat 4: WHAOUH07 (13830)
+Seat 5: pairedeneuf (3690)
+Seat 6: manggy94 (11890)
+*** ANTE/BLINDS ***
+le clone07 posts ante 35
+WHAOUH07 posts ante 35
+mamanolivia posts ante 35
+OrKidoKlaste posts ante 35
+pairedeneuf posts ante 35
+manggy94 posts ante 35
+le clone07 posts small blind 150
+WHAOUH07 posts big blind 300
+Dealt to manggy94 [9d Kh]
+*** PRE-FLOP *** 
+pairedeneuf raises 960 to 1260
+manggy94 folds
+mamanolivia folds
+OrKidoKlaste folds
+le clone07 raises 3560 to 4820 and is all-in
+WHAOUH07 folds
+pairedeneuf calls 2395 and is all-in
+*** FLOP *** [8s Kd 9h]
+*** TURN *** [8s Kd 9h][6c]
+*** RIVER *** [8s Kd 9h 6c][Td]
+*** SHOW DOWN ***
+le clone07 shows [Ah 5d] (High card : Ace)
+pairedeneuf shows [Tc Jd] (One pair : Tens)
+pairedeneuf collected 7820 from main pot
+le clone07 collected 1165 from side pot 1
+*** SUMMARY ***
+Total pot 8985 | No rake
+Board: [8s Kd 9h 6c Td]
+Seat 3: le clone07 (small blind) showed [Ah 5d] and won 1165 with High card : Ace
+Seat 5: pairedeneuf showed [Tc Jd] and won 7820 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #707327370725425355-39-1470054778 - Holdem no limit (35/150/300) - 2016/08/01 12:32:58 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #3 is the button
+Seat 1: mamanolivia (7225)
+Seat 2: OrKidoKlaste (5720)
+Seat 3: le clone07 (1165)
+Seat 4: WHAOUH07 (13495)
+Seat 5: pairedeneuf (7820)
+Seat 6: manggy94 (11855)
+*** ANTE/BLINDS ***
+WHAOUH07 posts ante 35
+pairedeneuf posts ante 35
+mamanolivia posts ante 35
+OrKidoKlaste posts ante 35
+le clone07 posts ante 35
+manggy94 posts ante 35
+WHAOUH07 posts small blind 150
+pairedeneuf posts big blind 300
+Dealt to manggy94 [4s 7d]
+*** PRE-FLOP *** 
+manggy94 folds
+mamanolivia calls 300
+OrKidoKlaste folds
+le clone07 folds
+WHAOUH07 folds
+pairedeneuf checks
+*** FLOP *** [9d Kd 7s]
+pairedeneuf checks
+mamanolivia checks
+*** TURN *** [9d Kd 7s][4d]
+pairedeneuf checks
+mamanolivia checks
+*** RIVER *** [9d Kd 7s 4d][5s]
+pairedeneuf checks
+mamanolivia checks
+*** SHOW DOWN ***
+pairedeneuf shows [3d Js] (High card : King)
+mamanolivia shows [Ah 3h] (High card : Ace)
+mamanolivia collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [9d Kd 7s 4d 5s]
+Seat 1: mamanolivia showed [Ah 3h] and won 960 with High card : Ace
+Seat 5: pairedeneuf (big blind) showed [3d Js] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #707327370725425355-40-1470054825 - Holdem no limit (40/200/400) - 2016/08/01 12:33:45 UTC
+Table: 'Freeroll(164687487)#202' 6-max (real money) Seat #4 is the button
+Seat 1: mamanolivia (7850)
+Seat 2: OrKidoKlaste (5685)
+Seat 3: le clone07 (1130)
+Seat 4: WHAOUH07 (13310)
+Seat 5: pairedeneuf (7485)
+Seat 6: manggy94 (11820)
+*** ANTE/BLINDS ***
+pairedeneuf posts ante 40
+manggy94 posts ante 40
+mamanolivia posts ante 40
+OrKidoKlaste posts ante 40
+le clone07 posts ante 40
+WHAOUH07 posts ante 40
+pairedeneuf posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [4s 7c]
+*** PRE-FLOP *** 
+mamanolivia calls 400
+OrKidoKlaste folds
+le clone07 folds
+WHAOUH07 folds
+pairedeneuf calls 200
+manggy94 checks
+*** FLOP *** [8s Td 9h]
+pairedeneuf checks
+manggy94 checks
+mamanolivia checks
+*** TURN *** [8s Td 9h][Ks]
+pairedeneuf checks
+manggy94 checks
+mamanolivia checks
+*** RIVER *** [8s Td 9h Ks][5s]
+pairedeneuf checks
+manggy94 bets 400
+mamanolivia folds
+pairedeneuf folds
+manggy94 collected 1840 from pot
+*** SUMMARY ***
+Total pot 1840 | No rake
+Board: [8s Td 9h Ks 5s]
+Seat 6: manggy94 (big blind) won 1840
+
+

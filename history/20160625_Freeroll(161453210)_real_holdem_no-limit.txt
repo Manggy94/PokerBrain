@@ -1,0 +1,907 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #693436256784220220-1-1466866827 - Holdem no limit (10/20) - 2016/06/25 15:00:27 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #6 is the button
+Seat 1: Raxyor (3000)
+Seat 2: Ahpar79 (3000)
+Seat 3: flashnono (3000)
+Seat 4: torrex (3000)
+Seat 5: charly 2 (3000)
+Seat 6: manggy94 (3000)
+Seat 7: mariellem (3000)
+Seat 8: Tournesol02 (3000)
+*** ANTE/BLINDS ***
+mariellem posts small blind 10
+Tournesol02 posts big blind 20
+Dealt to manggy94 [Tc Qc]
+*** PRE-FLOP *** 
+Raxyor folds
+Ahpar79 calls 20
+flashnono folds
+torrex folds
+charly 2 folds
+manggy94 calls 20
+mariellem calls 10
+Tournesol02 checks
+*** FLOP *** [Ac 8h 6h]
+mariellem checks
+Tournesol02 checks
+Ahpar79 checks
+manggy94 checks
+*** TURN *** [Ac 8h 6h][Ks]
+mariellem checks
+Tournesol02 checks
+Ahpar79 bets 20
+manggy94 calls 20
+mariellem folds
+Tournesol02 folds
+*** RIVER *** [Ac 8h 6h Ks][6s]
+Ahpar79 bets 378
+manggy94 folds
+Ahpar79 collected 498 from pot
+*** SUMMARY ***
+Total pot 498 | No rake
+Board: [Ac 8h 6h Ks 6s]
+Seat 2: Ahpar79 won 498
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #693436256784220220-2-1466867000 - Holdem no limit (10/20) - 2016/06/25 15:03:20 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #7 is the button
+Seat 1: Raxyor (3000)
+Seat 2: Ahpar79 (3080)
+Seat 3: flashnono (3000)
+Seat 4: torrex (3000)
+Seat 5: charly 2 (3000)
+Seat 6: manggy94 (2960)
+Seat 7: mariellem (2980)
+Seat 8: Tournesol02 (2980)
+*** ANTE/BLINDS ***
+Tournesol02 posts small blind 10
+Raxyor posts big blind 20
+Dealt to manggy94 [Js Ad]
+*** PRE-FLOP *** 
+Ahpar79 calls 20
+flashnono folds
+torrex raises 20 to 40
+charly 2 folds
+manggy94 raises 120 to 160
+mariellem folds
+Tournesol02 folds
+Raxyor folds
+Ahpar79 calls 140
+torrex calls 120
+*** FLOP *** [Kc Th 7s]
+Ahpar79 checks
+torrex bets 255
+manggy94 calls 255
+Ahpar79 folds
+*** TURN *** [Kc Th 7s][6h]
+torrex bets 510
+manggy94 folds
+torrex collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Board: [Kc Th 7s 6h]
+Seat 4: torrex won 1530
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #693436256784220220-3-1466867075 - Holdem no limit (15/30) - 2016/06/25 15:04:35 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #8 is the button
+Seat 1: Raxyor (2980)
+Seat 2: Ahpar79 (2920)
+Seat 3: flashnono (3000)
+Seat 4: torrex (3605)
+Seat 5: charly 2 (3000)
+Seat 6: manggy94 (2545)
+Seat 7: mariellem (2980)
+Seat 8: Tournesol02 (2970)
+*** ANTE/BLINDS ***
+Raxyor posts small blind 15
+Ahpar79 posts big blind 30
+Dealt to manggy94 [4s Qh]
+*** PRE-FLOP *** 
+flashnono folds
+torrex calls 30
+charly 2 folds
+manggy94 folds
+mariellem calls 30
+Tournesol02 calls 30
+Raxyor calls 15
+Ahpar79 raises 2890 to 2920 and is all-in
+torrex folds
+mariellem folds
+Tournesol02 folds
+Raxyor folds
+Ahpar79 collected 3040 from pot
+*** SUMMARY ***
+Total pot 3040 | No rake
+Seat 2: Ahpar79 (big blind) won 3040
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #693436256784220220-4-1466867118 - Holdem no limit (15/30) - 2016/06/25 15:05:18 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #1 is the button
+Seat 1: Raxyor (2950)
+Seat 2: Ahpar79 (3040)
+Seat 3: flashnono (3000)
+Seat 4: torrex (3575)
+Seat 5: charly 2 (3000)
+Seat 6: manggy94 (2545)
+Seat 7: mariellem (2950)
+Seat 8: Tournesol02 (2940)
+*** ANTE/BLINDS ***
+Ahpar79 posts small blind 15
+flashnono posts big blind 30
+Dealt to manggy94 [3c Jd]
+*** PRE-FLOP *** 
+torrex raises 60 to 90
+charly 2 folds
+manggy94 folds
+mariellem calls 90
+Tournesol02 folds
+Raxyor folds
+Ahpar79 folds
+flashnono calls 60
+*** FLOP *** [9d 8d 2s]
+flashnono bets 2910 and is all-in
+torrex folds
+mariellem folds
+flashnono collected 3195 from pot
+*** SUMMARY ***
+Total pot 3195 | No rake
+Board: [9d 8d 2s]
+Seat 3: flashnono (big blind) won 3195
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #693436256784220220-5-1466867157 - Holdem no limit (15/30) - 2016/06/25 15:05:57 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #2 is the button
+Seat 1: Raxyor (2950)
+Seat 2: Ahpar79 (3025)
+Seat 3: flashnono (3195)
+Seat 4: torrex (3485)
+Seat 5: charly 2 (3000)
+Seat 6: manggy94 (2545)
+Seat 7: mariellem (2860)
+Seat 8: Tournesol02 (2940)
+*** ANTE/BLINDS ***
+flashnono posts small blind 15
+torrex posts big blind 30
+Dealt to manggy94 [Jh Td]
+*** PRE-FLOP *** 
+charly 2 folds
+manggy94 calls 30
+mariellem calls 30
+Tournesol02 folds
+Raxyor folds
+Ahpar79 folds
+flashnono folds
+torrex raises 105 to 135
+manggy94 calls 105
+mariellem calls 105
+*** FLOP *** [3d 5d Kh]
+torrex bets 210
+manggy94 folds
+mariellem calls 210
+*** TURN *** [3d 5d Kh][9h]
+torrex bets 420
+mariellem calls 420
+*** RIVER *** [3d 5d Kh 9h][Tc]
+torrex checks
+mariellem checks
+*** SHOW DOWN ***
+mariellem shows [Ah 2s] (High card : Ace)
+torrex shows [Ac 9c] (One pair : 9)
+torrex collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [3d 5d Kh 9h Tc]
+Seat 4: torrex (big blind) showed [Ac 9c] and won 1680 with One pair : 9
+Seat 7: mariellem showed [Ah 2s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #693436256784220220-6-1466867204 - Holdem no limit (20/40) - 2016/06/25 15:06:44 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #3 is the button
+Seat 1: Raxyor (2950)
+Seat 2: Ahpar79 (3025)
+Seat 3: flashnono (3180)
+Seat 4: torrex (4400)
+Seat 5: charly 2 (3000)
+Seat 6: manggy94 (2410)
+Seat 7: mariellem (2095)
+Seat 8: Tournesol02 (2940)
+*** ANTE/BLINDS ***
+torrex posts small blind 20
+charly 2 posts big blind 40
+Dealt to manggy94 [3h 6c]
+*** PRE-FLOP *** 
+manggy94 folds
+mariellem calls 40
+Tournesol02 folds
+Raxyor folds
+Ahpar79 folds
+flashnono folds
+torrex raises 40 to 80
+charly 2 folds
+mariellem calls 40
+*** FLOP *** [Qh 7d 2c]
+torrex bets 40
+mariellem raises 40 to 80
+torrex calls 40
+*** TURN *** [Qh 7d 2c][Ad]
+torrex checks
+mariellem bets 360
+torrex raises 360 to 720
+mariellem calls 360
+*** RIVER *** [Qh 7d 2c Ad][As]
+torrex bets 40
+mariellem calls 40
+*** SHOW DOWN ***
+mariellem shows [Kc 7c] (Two pairs : Aces and 7)
+torrex shows [Ac 2s] (Full of Aces and 2)
+torrex collected 1880 from pot
+*** SUMMARY ***
+Total pot 1880 | No rake
+Board: [Qh 7d 2c Ad As]
+Seat 4: torrex (small blind) showed [Ac 2s] and won 1880 with Full of Aces and 2
+Seat 7: mariellem showed [Kc 7c] and lost with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #693436256784220220-7-1466867272 - Holdem no limit (20/40) - 2016/06/25 15:07:52 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #4 is the button
+Seat 1: Raxyor (2950)
+Seat 2: Ahpar79 (3025)
+Seat 3: flashnono (3180)
+Seat 4: torrex (5360)
+Seat 5: charly 2 (2960)
+Seat 6: manggy94 (2410)
+Seat 7: mariellem (1175)
+Seat 8: Tournesol02 (2940)
+*** ANTE/BLINDS ***
+charly 2 posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [Ad 7s]
+*** PRE-FLOP *** 
+mariellem calls 40
+Tournesol02 folds
+Raxyor folds
+Ahpar79 folds
+flashnono folds
+torrex calls 40
+charly 2 calls 20
+manggy94 checks
+*** FLOP *** [6s As 7c]
+charly 2 checks
+manggy94 checks
+mariellem checks
+torrex checks
+*** TURN *** [6s As 7c][5d]
+charly 2 checks
+manggy94 bets 40
+mariellem calls 40
+torrex calls 40
+charly 2 calls 40
+*** RIVER *** [6s As 7c 5d][9d]
+charly 2 checks
+manggy94 bets 40
+mariellem folds
+torrex calls 40
+charly 2 folds
+*** SHOW DOWN ***
+torrex shows [9h 4h] (One pair : 9)
+manggy94 shows [Ad 7s] (Two pairs : Aces and 7)
+manggy94 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [6s As 7c 5d 9d]
+Seat 4: torrex (button) showed [9h 4h] and lost with One pair : 9
+Seat 6: manggy94 (big blind) showed [Ad 7s] and won 400 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #693436256784220220-8-1466867356 - Holdem no limit (20/40) - 2016/06/25 15:09:16 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #5 is the button
+Seat 1: Raxyor (2950)
+Seat 2: Ahpar79 (3025)
+Seat 3: flashnono (3180)
+Seat 4: torrex (5240)
+Seat 5: charly 2 (2880)
+Seat 6: manggy94 (2690)
+Seat 7: mariellem (1095)
+Seat 8: Tournesol02 (2940)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+mariellem posts big blind 40
+Dealt to manggy94 [Kd 2c]
+*** PRE-FLOP *** 
+Tournesol02 folds
+Raxyor calls 40
+Ahpar79 folds
+flashnono folds
+torrex calls 40
+charly 2 calls 40
+manggy94 calls 20
+mariellem checks
+*** FLOP *** [9d 2d 5s]
+manggy94 checks
+mariellem bets 40
+Raxyor folds
+torrex folds
+charly 2 calls 40
+manggy94 calls 40
+*** TURN *** [9d 2d 5s][2h]
+manggy94 checks
+mariellem checks
+charly 2 checks
+*** RIVER *** [9d 2d 5s 2h][6h]
+manggy94 bets 240
+mariellem folds
+charly 2 folds
+manggy94 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [9d 2d 5s 2h 6h]
+Seat 6: manggy94 (small blind) won 560
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #693436256784220220-9-1466867410 - Holdem no limit (30/60) - 2016/06/25 15:10:10 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #6 is the button
+Seat 1: Raxyor (2910)
+Seat 2: Ahpar79 (3025)
+Seat 3: flashnono (3180)
+Seat 4: torrex (5200)
+Seat 5: charly 2 (2800)
+Seat 6: manggy94 (2930)
+Seat 7: mariellem (1015)
+Seat 8: Tournesol02 (2940)
+*** ANTE/BLINDS ***
+mariellem posts small blind 30
+Tournesol02 posts big blind 60
+Dealt to manggy94 [9h Qd]
+*** PRE-FLOP *** 
+Raxyor folds
+Ahpar79 folds
+flashnono folds
+torrex raises 60 to 120
+charly 2 folds
+manggy94 folds
+mariellem calls 90
+Tournesol02 folds
+*** FLOP *** [3c Jd 5s]
+mariellem checks
+torrex checks
+*** TURN *** [3c Jd 5s][2d]
+mariellem bets 300
+torrex calls 300
+*** RIVER *** [3c Jd 5s 2d][Ts]
+mariellem bets 60
+torrex calls 60
+*** SHOW DOWN ***
+torrex shows [Qc Kc] (High card : King)
+mariellem shows [7s 3h] (One pair : 3)
+mariellem collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [3c Jd 5s 2d Ts]
+Seat 4: torrex showed [Qc Kc] and lost with High card : King
+Seat 7: mariellem (small blind) showed [7s 3h] and won 1020 with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #693436256784220220-10-1466867457 - Holdem no limit (30/60) - 2016/06/25 15:10:57 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #7 is the button
+Seat 1: Raxyor (2910)
+Seat 2: Ahpar79 (3025)
+Seat 3: flashnono (3180)
+Seat 4: torrex (4720)
+Seat 5: charly 2 (2800)
+Seat 6: manggy94 (2930)
+Seat 7: mariellem (1555)
+Seat 8: Tournesol02 (2880)
+*** ANTE/BLINDS ***
+Tournesol02 posts small blind 30
+Raxyor posts big blind 60
+Dealt to manggy94 [9h 9c]
+*** PRE-FLOP *** 
+Ahpar79 folds
+flashnono folds
+torrex raises 120 to 180
+charly 2 folds
+manggy94 calls 180
+mariellem raises 630 to 810
+Tournesol02 folds
+Raxyor folds
+torrex raises 2190 to 3000
+manggy94 folds
+mariellem calls 745 and is all-in
+*** FLOP *** [5c 5h Th]
+*** TURN *** [5c 5h Th][7s]
+*** RIVER *** [5c 5h Th 7s][Td]
+*** SHOW DOWN ***
+mariellem shows [Ac Ad] (Two pairs : Aces and Tens)
+torrex shows [Jh Jd] (Two pairs : Jacks and Tens)
+torrex collected 1445 from side pot 1
+mariellem collected 3380 from main pot
+*** SUMMARY ***
+Total pot 4825 | No rake
+Board: [5c 5h Th 7s Td]
+Seat 4: torrex showed [Jh Jd] and won 1445 with Two pairs : Jacks and Tens
+Seat 7: mariellem (button) showed [Ac Ad] and won 3380 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #693436256784220220-11-1466867570 - Holdem no limit (40/80) - 2016/06/25 15:12:50 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #8 is the button
+Seat 1: Raxyor (2850)
+Seat 2: Ahpar79 (3025)
+Seat 3: flashnono (3180)
+Seat 4: torrex (3165)
+Seat 5: charly 2 (2800)
+Seat 6: manggy94 (2750)
+Seat 7: mariellem (3380)
+Seat 8: Tournesol02 (2850)
+*** ANTE/BLINDS ***
+Raxyor posts small blind 40
+Ahpar79 posts big blind 80
+Dealt to manggy94 [Jc 8h]
+*** PRE-FLOP *** 
+flashnono folds
+torrex calls 80
+charly 2 calls 80
+manggy94 folds
+mariellem calls 80
+Tournesol02 calls 80
+Raxyor calls 40
+Ahpar79 checks
+*** FLOP *** [Jd Qh Tc]
+Raxyor bets 80
+Ahpar79 raises 80 to 160
+torrex calls 160
+charly 2 calls 160
+mariellem calls 160
+Tournesol02 folds
+Raxyor raises 2610 to 2770 and is all-in
+Ahpar79 folds
+torrex folds
+charly 2 folds
+mariellem folds
+Raxyor collected 3890 from pot
+*** SUMMARY ***
+Total pot 3890 | No rake
+Board: [Jd Qh Tc]
+Seat 1: Raxyor (small blind) won 3890
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #693436256784220220-12-1466867643 - Holdem no limit (40/80) - 2016/06/25 15:14:03 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #1 is the button
+Seat 1: Raxyor (3890)
+Seat 2: Ahpar79 (2785)
+Seat 3: flashnono (3180)
+Seat 4: torrex (2925)
+Seat 5: charly 2 (2560)
+Seat 6: manggy94 (2750)
+Seat 7: mariellem (3140)
+Seat 8: Tournesol02 (2770)
+*** ANTE/BLINDS ***
+Ahpar79 posts small blind 40
+flashnono posts big blind 80
+Dealt to manggy94 [9h Jh]
+*** PRE-FLOP *** 
+torrex raises 200 to 280
+charly 2 calls 280
+manggy94 folds
+mariellem folds
+Tournesol02 folds
+Raxyor folds
+Ahpar79 folds
+flashnono folds
+*** FLOP *** [8h Tc 3d]
+torrex bets 80
+charly 2 calls 80
+*** TURN *** [8h Tc 3d][Kd]
+torrex bets 420
+charly 2 calls 420
+*** RIVER *** [8h Tc 3d Kd][6c]
+torrex bets 1680
+charly 2 calls 1680
+*** SHOW DOWN ***
+charly 2 shows [Th Qc] (One pair : Tens)
+torrex shows [Kc 9d] (One pair : Kings)
+torrex collected 5040 from pot
+*** SUMMARY ***
+Total pot 5040 | No rake
+Board: [8h Tc 3d Kd 6c]
+Seat 4: torrex showed [Kc 9d] and won 5040 with One pair : Kings
+Seat 5: charly 2 showed [Th Qc] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #693436256784220220-13-1466867721 - Holdem no limit (40/80) - 2016/06/25 15:15:21 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #2 is the button
+Seat 1: Raxyor (3890)
+Seat 2: Ahpar79 (2745)
+Seat 3: flashnono (3100)
+Seat 4: torrex (5505)
+Seat 5: charly 2 (100)
+Seat 6: manggy94 (2750)
+Seat 7: mariellem (3140)
+Seat 8: Tournesol02 (2770)
+*** ANTE/BLINDS ***
+flashnono posts small blind 40
+torrex posts big blind 80
+Dealt to manggy94 [2c Kd]
+*** PRE-FLOP *** 
+charly 2 folds
+manggy94 folds
+mariellem calls 80
+Tournesol02 folds
+Raxyor folds
+Ahpar79 calls 80
+flashnono calls 40
+torrex checks
+*** FLOP *** [7s Ts 4s]
+flashnono bets 80
+torrex calls 80
+mariellem calls 80
+Ahpar79 calls 80
+*** TURN *** [7s Ts 4s][Js]
+flashnono checks
+torrex checks
+mariellem checks
+Ahpar79 bets 2585 and is all-in
+flashnono folds
+torrex folds
+mariellem raises 395 to 2980 and is all-in
+*** RIVER *** [7s Ts 4s Js][Jc]
+*** SHOW DOWN ***
+Ahpar79 shows [5s 5c] (Flush Jack high)
+mariellem shows [3c As] (Flush Ace high)
+mariellem collected 6205 from pot
+*** SUMMARY ***
+Total pot 6205 | No rake
+Board: [7s Ts 4s Js Jc]
+Seat 2: Ahpar79 (button) showed [5s 5c] and lost with Flush Jack high
+Seat 7: mariellem showed [3c As] and won 6205 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #693436256784220220-14-1466867792 - Holdem no limit (60/120) - 2016/06/25 15:16:32 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #3 is the button
+Seat 1: Raxyor (3890)
+Seat 3: flashnono (2940)
+Seat 4: torrex (5345)
+Seat 5: charly 2 (100)
+Seat 6: manggy94 (2750)
+Seat 7: mariellem (6205)
+Seat 8: Tournesol02 (2770)
+*** ANTE/BLINDS ***
+torrex posts small blind 60
+charly 2 posts big blind 100 and is all-in
+Dealt to manggy94 [6c 5c]
+*** PRE-FLOP *** 
+manggy94 folds
+mariellem calls 120
+Tournesol02 folds
+Raxyor folds
+flashnono calls 120
+torrex calls 60
+*** FLOP *** [Kc 9c 7d]
+torrex checks
+mariellem bets 120
+flashnono calls 120
+torrex raises 120 to 240
+mariellem calls 120
+flashnono calls 120
+*** TURN *** [Kc 9c 7d][Ac]
+torrex bets 120
+mariellem calls 120
+flashnono folds
+*** RIVER *** [Kc 9c 7d Ac][Th]
+torrex bets 1420
+mariellem folds
+*** SHOW DOWN ***
+charly 2 shows [2h Tc] (One pair : Tens)
+torrex shows [9s 7c] (Two pairs : 9 and 7)
+torrex collected 2840 from pot
+*** SUMMARY ***
+Total pot 2840 | No rake
+Board: [Kc 9c 7d Ac Th]
+Seat 4: torrex (small blind) showed [9s 7c] and won 2840 with Two pairs : 9 and 7
+Seat 5: charly 2 (big blind) showed [2h Tc] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #693436256784220220-15-1466867868 - Holdem no limit (60/120) - 2016/06/25 15:17:48 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #4 is the button
+Seat 1: Raxyor (3890)
+Seat 2: RHQ 25140 (7215)
+Seat 3: flashnono (2580)
+Seat 4: torrex (6285)
+Seat 6: manggy94 (2750)
+Seat 7: mariellem (5725)
+Seat 8: Tournesol02 (2770)
+*** ANTE/BLINDS ***
+manggy94 posts big blind 120
+Dealt to manggy94 [9d 4c]
+*** PRE-FLOP *** 
+mariellem calls 120
+Tournesol02 calls 120
+Raxyor raises 180 to 300
+RHQ 25140 folds
+flashnono calls 300
+torrex folds
+manggy94 folds
+mariellem calls 180
+Tournesol02 calls 180
+*** FLOP *** [3d Th Jc]
+mariellem checks
+Tournesol02 checks
+Raxyor bets 900
+flashnono raises 900 to 1800
+mariellem folds
+Tournesol02 folds
+Raxyor raises 900 to 2700
+flashnono calls 480 and is all-in
+*** TURN *** [3d Th Jc][Ah]
+*** RIVER *** [3d Th Jc Ah][Kd]
+*** SHOW DOWN ***
+flashnono shows [Jd Ks] (Two pairs : Kings and Jacks)
+Raxyor shows [Qs Qc] (Straight Ace high)
+Raxyor collected 6300 from pot
+*** SUMMARY ***
+Total pot 6300 | No rake
+Board: [3d Th Jc Ah Kd]
+Seat 1: Raxyor showed [Qs Qc] and won 6300 with Straight Ace high
+Seat 3: flashnono showed [Jd Ks] and lost with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #693436256784220220-16-1466867938 - Holdem no limit (10/60/120) - 2016/06/25 15:18:58 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #5 is the button
+Seat 1: Raxyor (7190)
+Seat 2: RHQ 25140 (7215)
+Seat 4: torrex (6285)
+Seat 5: micheldu08 (3000)
+Seat 6: manggy94 (2630)
+Seat 7: mariellem (5425)
+Seat 8: Tournesol02 (2470)
+*** ANTE/BLINDS ***
+manggy94 posts ante 10
+mariellem posts ante 10
+Raxyor posts ante 10
+RHQ 25140 posts ante 10
+torrex posts ante 10
+Tournesol02 posts ante 10
+manggy94 posts small blind 60
+mariellem posts big blind 120
+Dealt to manggy94 [6s 6h]
+*** PRE-FLOP *** 
+Tournesol02 folds
+Raxyor calls 120
+RHQ 25140 calls 120
+torrex calls 120
+manggy94 calls 60
+mariellem checks
+*** FLOP *** [7c Ah 2h]
+manggy94 checks
+mariellem bets 660
+Raxyor folds
+RHQ 25140 folds
+torrex folds
+manggy94 folds
+mariellem collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Board: [7c Ah 2h]
+Seat 7: mariellem (big blind) won 1320
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #693436256784220220-17-1466867975 - Holdem no limit (10/60/120) - 2016/06/25 15:19:35 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #6 is the button
+Seat 1: Raxyor (7060)
+Seat 2: RHQ 25140 (7085)
+Seat 3: Baboriginal (3000)
+Seat 4: torrex (6155)
+Seat 5: micheldu08 (3000)
+Seat 6: manggy94 (2500)
+Seat 7: mariellem (5955)
+Seat 8: Tournesol02 (2460)
+*** ANTE/BLINDS ***
+mariellem posts ante 10
+Tournesol02 posts ante 10
+Raxyor posts ante 10
+RHQ 25140 posts ante 10
+Baboriginal posts ante 10
+torrex posts ante 10
+micheldu08 posts ante 10
+manggy94 posts ante 10
+mariellem posts small blind 60
+Tournesol02 posts big blind 120
+Dealt to manggy94 [Qh 7d]
+*** PRE-FLOP *** 
+Raxyor folds
+RHQ 25140 calls 120
+Baboriginal folds
+torrex calls 120
+micheldu08 calls 120
+manggy94 folds
+mariellem calls 60
+Tournesol02 checks
+*** FLOP *** [6d 4c 5h]
+mariellem bets 120
+Tournesol02 folds
+RHQ 25140 calls 120
+torrex calls 120
+micheldu08 calls 120
+*** TURN *** [6d 4c 5h][Js]
+mariellem bets 120
+RHQ 25140 raises 120 to 240
+torrex folds
+micheldu08 folds
+mariellem calls 120
+*** RIVER *** [6d 4c 5h Js][3d]
+mariellem checks
+RHQ 25140 bets 120
+mariellem calls 120
+*** SHOW DOWN ***
+mariellem shows [6c Qc] (One pair : 6)
+RHQ 25140 shows [4d 4s] (Trips of 4)
+RHQ 25140 collected 1880 from pot
+*** SUMMARY ***
+Total pot 1880 | No rake
+Board: [6d 4c 5h Js 3d]
+Seat 2: RHQ 25140 showed [4d 4s] and won 1880 with Trips of 4
+Seat 7: mariellem (small blind) showed [6c Qc] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #693436256784220220-18-1466868056 - Holdem no limit (10/60/120) - 2016/06/25 15:20:56 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #7 is the button
+Seat 1: Raxyor (7050)
+Seat 2: RHQ 25140 (8355)
+Seat 3: Baboriginal (2990)
+Seat 4: torrex (5905)
+Seat 5: micheldu08 (2750)
+Seat 6: manggy94 (2490)
+Seat 7: mariellem (5345)
+Seat 8: Tournesol02 (2330)
+*** ANTE/BLINDS ***
+Tournesol02 posts ante 10
+Raxyor posts ante 10
+RHQ 25140 posts ante 10
+Baboriginal posts ante 10
+torrex posts ante 10
+micheldu08 posts ante 10
+manggy94 posts ante 10
+mariellem posts ante 10
+Tournesol02 posts small blind 60
+Raxyor posts big blind 120
+Dealt to manggy94 [9d 4c]
+*** PRE-FLOP *** 
+RHQ 25140 calls 120
+Baboriginal folds
+torrex raises 960 to 1080
+micheldu08 folds
+manggy94 folds
+mariellem folds
+Tournesol02 folds
+Raxyor folds
+RHQ 25140 calls 960
+*** FLOP *** [3c Kc Ks]
+RHQ 25140 checks
+torrex bets 120
+RHQ 25140 calls 120
+*** TURN *** [3c Kc Ks][Qc]
+RHQ 25140 checks
+torrex checks
+*** RIVER *** [3c Kc Ks Qc][5s]
+RHQ 25140 bets 1330
+torrex calls 1330
+*** SHOW DOWN ***
+torrex shows [Kh Ac] (Trips of Kings)
+RHQ 25140 shows [Qs Qh] (Full of Queens and Kings)
+RHQ 25140 collected 5320 from pot
+*** SUMMARY ***
+Total pot 5320 | No rake
+Board: [3c Kc Ks Qc 5s]
+Seat 2: RHQ 25140 showed [Qs Qh] and won 5320 with Full of Queens and Kings
+Seat 4: torrex showed [Kh Ac] and lost with Trips of Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #693436256784220220-19-1466868134 - Holdem no limit (15/75/150) - 2016/06/25 15:22:14 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #8 is the button
+Seat 1: Raxyor (6920)
+Seat 2: RHQ 25140 (11135)
+Seat 3: Baboriginal (2980)
+Seat 4: torrex (3365)
+Seat 5: micheldu08 (2740)
+Seat 6: manggy94 (2480)
+Seat 7: mariellem (5335)
+Seat 8: Tournesol02 (2260)
+*** ANTE/BLINDS ***
+Raxyor posts ante 15
+RHQ 25140 posts ante 15
+Baboriginal posts ante 15
+torrex posts ante 15
+micheldu08 posts ante 15
+manggy94 posts ante 15
+mariellem posts ante 15
+Tournesol02 posts ante 15
+Raxyor posts small blind 75
+RHQ 25140 posts big blind 150
+Dealt to manggy94 [5c Tc]
+*** PRE-FLOP *** 
+Baboriginal folds
+torrex calls 150
+micheldu08 calls 150
+manggy94 folds
+mariellem raises 150 to 300
+Tournesol02 folds
+Raxyor calls 225
+RHQ 25140 calls 150
+torrex calls 150
+micheldu08 folds
+*** FLOP *** [5s Ac Jc]
+Raxyor checks
+RHQ 25140 checks
+torrex checks
+mariellem bets 1470
+Raxyor folds
+RHQ 25140 folds
+torrex calls 1470
+*** TURN *** [5s Ac Jc][4c]
+torrex bets 150
+mariellem calls 150
+*** RIVER *** [5s Ac Jc 4c][Jd]
+torrex bets 150
+mariellem calls 150
+*** SHOW DOWN ***
+torrex shows [5h 9s] (Two pairs : Jacks and 5)
+mariellem shows [Kc Ah] (Two pairs : Aces and Jacks)
+mariellem collected 5010 from pot
+*** SUMMARY ***
+Total pot 5010 | No rake
+Board: [5s Ac Jc 4c Jd]
+Seat 4: torrex showed [5h 9s] and lost with Two pairs : Jacks and 5
+Seat 7: mariellem showed [Kc Ah] and won 5010 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #693436256784220220-20-1466868217 - Holdem no limit (15/75/150) - 2016/06/25 15:23:37 UTC
+Table: 'Freeroll(161453210)#059' 8-max (real money) Seat #1 is the button
+Seat 1: Raxyor (6605)
+Seat 2: RHQ 25140 (10820)
+Seat 3: Baboriginal (2965)
+Seat 4: torrex (1280)
+Seat 5: micheldu08 (2575)
+Seat 6: manggy94 (2465)
+Seat 7: mariellem (8260)
+Seat 8: Tournesol02 (2245)
+*** ANTE/BLINDS ***
+RHQ 25140 posts ante 15
+Baboriginal posts ante 15
+Raxyor posts ante 15
+torrex posts ante 15
+micheldu08 posts ante 15
+manggy94 posts ante 15
+mariellem posts ante 15
+Tournesol02 posts ante 15
+RHQ 25140 posts small blind 75
+Baboriginal posts big blind 150
+Dealt to manggy94 [Ah Jh]
+*** PRE-FLOP *** 
+torrex folds
+micheldu08 folds
+manggy94 raises 495 to 645
+mariellem folds
+Tournesol02 folds
+Raxyor folds
+RHQ 25140 calls 570
+Baboriginal raises 495 to 1140
+manggy94 raises 1310 to 2450 and is all-in
+RHQ 25140 calls 1805
+Baboriginal raises 500 to 2950 and is all-in
+RHQ 25140 calls 500
+*** FLOP *** [Qd 4s 9s]
+*** TURN *** [Qd 4s 9s][7c]
+*** RIVER *** [Qd 4s 9s 7c][Kc]
+*** SHOW DOWN ***
+RHQ 25140 shows [Jc Qc] (One pair : Queens)
+manggy94 shows [Ah Jh] (High card : Ace)
+Baboriginal shows [Ad Ac] (One pair : Aces)
+Baboriginal collected 8470 from pot
+*** SUMMARY ***
+Total pot 8470 | No rake
+Board: [Qd 4s 9s 7c Kc]
+Seat 2: RHQ 25140 (small blind) showed [Jc Qc] and lost with One pair : Queens
+Seat 3: Baboriginal (big blind) showed [Ad Ac] and won 8470 with One pair : Aces
+Seat 6: manggy94 showed [Ah Jh] and lost with High card : Ace
+
+

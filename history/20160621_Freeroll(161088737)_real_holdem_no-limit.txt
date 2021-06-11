@@ -1,0 +1,515 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #691870857168945359-12-1466534187 - Holdem no limit (15/75/150) - 2016/06/21 18:36:27 UTC
+Table: 'Freeroll(161088737)#0206' 8-max (real money) Seat #3 is the button
+Seat 1: ninoujacou (2880)
+Seat 2: portugator95 (2825)
+Seat 3: Lady59650 (8610)
+Seat 4: madnurse (11570)
+Seat 5: Benji59220 (2880)
+Seat 6: poupee66 (8910)
+Seat 7: moroco64 (6815)
+Seat 8: manggy94 (3000)
+*** ANTE/BLINDS ***
+madnurse posts ante 15
+Benji59220 posts ante 15
+ninoujacou posts ante 15
+portugator95 posts ante 15
+Lady59650 posts ante 15
+poupee66 posts ante 15
+moroco64 posts ante 15
+manggy94 posts ante 15
+madnurse posts small blind 75
+Benji59220 posts big blind 150
+Dealt to manggy94 [8d 2h]
+*** PRE-FLOP *** 
+poupee66 folds
+moroco64 calls 150
+manggy94 folds
+ninoujacou folds
+portugator95 folds
+Lady59650 calls 150
+madnurse calls 75
+Benji59220 checks
+*** FLOP *** [4s Jh Qc]
+madnurse checks
+Benji59220 checks
+moroco64 bets 150
+Lady59650 calls 150
+madnurse folds
+Benji59220 folds
+*** TURN *** [4s Jh Qc][Qh]
+moroco64 bets 150
+Lady59650 calls 150
+*** RIVER *** [4s Jh Qc Qh][Jd]
+moroco64 bets 1320
+Lady59650 folds
+moroco64 collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Board: [4s Jh Qc Qh Jd]
+Seat 7: moroco64 won 2640
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #691870857168945359-13-1466534268 - Holdem no limit (15/75/150) - 2016/06/21 18:37:48 UTC
+Table: 'Freeroll(161088737)#0206' 8-max (real money) Seat #4 is the button
+Seat 1: ninoujacou (2865)
+Seat 2: portugator95 (2810)
+Seat 3: Lady59650 (8145)
+Seat 4: madnurse (11405)
+Seat 5: Benji59220 (2715)
+Seat 6: poupee66 (8895)
+Seat 7: moroco64 (7670)
+Seat 8: manggy94 (2985)
+*** ANTE/BLINDS ***
+Benji59220 posts ante 15
+poupee66 posts ante 15
+ninoujacou posts ante 15
+portugator95 posts ante 15
+Lady59650 posts ante 15
+madnurse posts ante 15
+moroco64 posts ante 15
+manggy94 posts ante 15
+Benji59220 posts small blind 75
+poupee66 posts big blind 150
+Dealt to manggy94 [2c Ad]
+*** PRE-FLOP *** 
+moroco64 calls 150
+manggy94 folds
+ninoujacou folds
+portugator95 folds
+Lady59650 folds
+madnurse calls 150
+Benji59220 calls 75
+poupee66 checks
+*** FLOP *** [Kd 9c 3h]
+Benji59220 checks
+poupee66 checks
+moroco64 checks
+madnurse checks
+*** TURN *** [Kd 9c 3h][4h]
+Benji59220 checks
+poupee66 checks
+moroco64 checks
+madnurse checks
+*** RIVER *** [Kd 9c 3h 4h][4c]
+Benji59220 checks
+poupee66 checks
+moroco64 checks
+madnurse checks
+*** SHOW DOWN ***
+madnurse shows [6s 8s] (One pair : 4)
+poupee66 shows [Jd Ts] (One pair : 4)
+moroco64 shows [5s 7h] (One pair : 4)
+Benji59220 shows [Qh 6h] (One pair : 4)
+Benji59220 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Kd 9c 3h 4h 4c]
+Seat 4: madnurse (button) showed [6s 8s] and lost with One pair : 4
+Seat 5: Benji59220 (small blind) showed [Qh 6h] and won 720 with One pair : 4
+Seat 6: poupee66 (big blind) showed [Jd Ts] and lost with One pair : 4
+Seat 7: moroco64 showed [5s 7h] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #691870857168945359-14-1466534398 - Holdem no limit (20/100/200) - 2016/06/21 18:39:58 UTC
+Table: 'Freeroll(161088737)#0206' 8-max (real money) Seat #5 is the button
+Seat 1: ninoujacou (2850)
+Seat 2: portugator95 (2795)
+Seat 3: Lady59650 (8130)
+Seat 4: madnurse (11240)
+Seat 5: Benji59220 (3270)
+Seat 6: poupee66 (8730)
+Seat 7: moroco64 (7505)
+Seat 8: manggy94 (2970)
+*** ANTE/BLINDS ***
+poupee66 posts ante 20
+moroco64 posts ante 20
+ninoujacou posts ante 20
+portugator95 posts ante 20
+Lady59650 posts ante 20
+madnurse posts ante 20
+Benji59220 posts ante 20
+manggy94 posts ante 20
+poupee66 posts small blind 100
+moroco64 posts big blind 200
+Dealt to manggy94 [7d 9s]
+*** PRE-FLOP *** 
+manggy94 folds
+ninoujacou calls 200
+portugator95 folds
+Lady59650 calls 200
+madnurse folds
+Benji59220 folds
+poupee66 calls 100
+moroco64 checks
+*** FLOP *** [Ac 6d 6s]
+poupee66 checks
+moroco64 checks
+ninoujacou bets 400
+Lady59650 folds
+poupee66 calls 400
+moroco64 folds
+*** TURN *** [Ac 6d 6s][Qh]
+poupee66 checks
+ninoujacou bets 1000
+poupee66 calls 1000
+*** RIVER *** [Ac 6d 6s Qh][4h]
+poupee66 checks
+ninoujacou bets 1230 and is all-in
+poupee66 folds
+ninoujacou collected 4990 from pot
+*** SUMMARY ***
+Total pot 4990 | No rake
+Board: [Ac 6d 6s Qh 4h]
+Seat 1: ninoujacou won 4990
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #691870857168945359-15-1466534494 - Holdem no limit (20/100/200) - 2016/06/21 18:41:34 UTC
+Table: 'Freeroll(161088737)#0206' 8-max (real money) Seat #6 is the button
+Seat 1: ninoujacou (4990)
+Seat 2: portugator95 (2775)
+Seat 3: Lady59650 (7910)
+Seat 4: madnurse (11220)
+Seat 5: Benji59220 (3250)
+Seat 6: poupee66 (7110)
+Seat 7: moroco64 (7285)
+Seat 8: manggy94 (2950)
+*** ANTE/BLINDS ***
+moroco64 posts ante 20
+manggy94 posts ante 20
+ninoujacou posts ante 20
+portugator95 posts ante 20
+Lady59650 posts ante 20
+madnurse posts ante 20
+Benji59220 posts ante 20
+poupee66 posts ante 20
+moroco64 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [Jc Th]
+*** PRE-FLOP *** 
+ninoujacou folds
+portugator95 folds
+Lady59650 folds
+madnurse folds
+Benji59220 folds
+poupee66 folds
+moroco64 calls 100
+manggy94 checks
+*** FLOP *** [9d 6c As]
+moroco64 checks
+manggy94 checks
+*** TURN *** [9d 6c As][7c]
+moroco64 checks
+manggy94 checks
+*** RIVER *** [9d 6c As 7c][Ts]
+moroco64 checks
+manggy94 checks
+*** SHOW DOWN ***
+moroco64 shows [4s Qh] (High card : Ace)
+manggy94 shows [Jc Th] (One pair : Tens)
+manggy94 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [9d 6c As 7c Ts]
+Seat 7: moroco64 (small blind) showed [4s Qh] and lost with High card : Ace
+Seat 8: manggy94 (big blind) showed [Jc Th] and won 560 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #691870857168945359-16-1466534564 - Holdem no limit (25/125/250) - 2016/06/21 18:42:44 UTC
+Table: 'Freeroll(161088737)#0206' 8-max (real money) Seat #7 is the button
+Seat 1: ninoujacou (4970)
+Seat 2: portugator95 (2755)
+Seat 3: Lady59650 (7890)
+Seat 4: madnurse (11200)
+Seat 5: Benji59220 (3230)
+Seat 6: poupee66 (7090)
+Seat 7: moroco64 (7065)
+Seat 8: manggy94 (3290)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+ninoujacou posts ante 25
+portugator95 posts ante 25
+Lady59650 posts ante 25
+madnurse posts ante 25
+Benji59220 posts ante 25
+poupee66 posts ante 25
+moroco64 posts ante 25
+manggy94 posts small blind 125
+ninoujacou posts big blind 250
+Dealt to manggy94 [6d Th]
+*** PRE-FLOP *** 
+portugator95 folds
+Lady59650 folds
+madnurse folds
+Benji59220 folds
+poupee66 folds
+moroco64 raises 6790 to 7040 and is all-in
+manggy94 folds
+ninoujacou folds
+moroco64 collected 7615 from pot
+*** SUMMARY ***
+Total pot 7615 | No rake
+Seat 7: moroco64 (button) won 7615
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #691870857168945359-17-1466534625 - Holdem no limit (25/125/250) - 2016/06/21 18:43:45 UTC
+Table: 'Freeroll(161088737)#0206' 8-max (real money) Seat #8 is the button
+Seat 1: ninoujacou (4695)
+Seat 2: portugator95 (2730)
+Seat 3: Lady59650 (7865)
+Seat 4: madnurse (11175)
+Seat 5: Benji59220 (3205)
+Seat 6: poupee66 (7065)
+Seat 7: moroco64 (7615)
+Seat 8: manggy94 (3140)
+*** ANTE/BLINDS ***
+ninoujacou posts ante 25
+portugator95 posts ante 25
+Lady59650 posts ante 25
+madnurse posts ante 25
+Benji59220 posts ante 25
+poupee66 posts ante 25
+moroco64 posts ante 25
+manggy94 posts ante 25
+ninoujacou posts small blind 125
+portugator95 posts big blind 250
+Dealt to manggy94 [Kh Th]
+*** PRE-FLOP *** 
+Lady59650 folds
+madnurse folds
+Benji59220 calls 250
+poupee66 folds
+moroco64 folds
+manggy94 calls 250
+ninoujacou calls 125
+portugator95 folds
+*** FLOP *** [3s 9h Ks]
+ninoujacou checks
+Benji59220 checks
+manggy94 bets 600
+ninoujacou folds
+Benji59220 calls 600
+*** TURN *** [3s 9h Ks][6s]
+Benji59220 checks
+manggy94 checks
+*** RIVER *** [3s 9h Ks 6s][9d]
+Benji59220 bets 250
+manggy94 calls 250
+*** SHOW DOWN ***
+manggy94 shows [Kh Th] (Two pairs : Kings and 9)
+Benji59220 shows [8s 7s] (Flush King high)
+Benji59220 collected 2900 from pot
+*** SUMMARY ***
+Total pot 2900 | No rake
+Board: [3s 9h Ks 6s 9d]
+Seat 5: Benji59220 showed [8s 7s] and won 2900 with Flush King high
+Seat 8: manggy94 (button) showed [Kh Th] and lost with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #691870857168945359-18-1466534700 - Holdem no limit (25/125/250) - 2016/06/21 18:45:00 UTC
+Table: 'Freeroll(161088737)#0206' 8-max (real money) Seat #1 is the button
+Seat 1: ninoujacou (4420)
+Seat 2: portugator95 (2455)
+Seat 3: Lady59650 (7840)
+Seat 4: madnurse (11150)
+Seat 5: Benji59220 (4980)
+Seat 6: poupee66 (7040)
+Seat 7: moroco64 (7590)
+Seat 8: manggy94 (2015)
+*** ANTE/BLINDS ***
+portugator95 posts ante 25
+Lady59650 posts ante 25
+ninoujacou posts ante 25
+madnurse posts ante 25
+Benji59220 posts ante 25
+poupee66 posts ante 25
+moroco64 posts ante 25
+manggy94 posts ante 25
+portugator95 posts small blind 125
+Lady59650 posts big blind 250
+Dealt to manggy94 [Th 8d]
+*** PRE-FLOP *** 
+madnurse folds
+Benji59220 calls 250
+poupee66 folds
+moroco64 folds
+manggy94 folds
+ninoujacou folds
+portugator95 folds
+Lady59650 checks
+*** FLOP *** [6d Kh 5c]
+Lady59650 checks
+Benji59220 checks
+*** TURN *** [6d Kh 5c][9c]
+Lady59650 checks
+Benji59220 checks
+*** RIVER *** [6d Kh 5c 9c][3h]
+Lady59650 checks
+Benji59220 checks
+*** SHOW DOWN ***
+Lady59650 shows [4c Js] (High card : King)
+Benji59220 shows [Ac 3d] (One pair : 3)
+Benji59220 collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | No rake
+Board: [6d Kh 5c 9c 3h]
+Seat 3: Lady59650 (big blind) showed [4c Js] and lost with High card : King
+Seat 5: Benji59220 showed [Ac 3d] and won 825 with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #691870857168945359-19-1466534766 - Holdem no limit (35/150/300) - 2016/06/21 18:46:06 UTC
+Table: 'Freeroll(161088737)#0206' 8-max (real money) Seat #2 is the button
+Seat 1: ninoujacou (4395)
+Seat 2: portugator95 (2305)
+Seat 3: Lady59650 (7565)
+Seat 4: madnurse (11125)
+Seat 5: Benji59220 (5530)
+Seat 6: poupee66 (7015)
+Seat 7: moroco64 (7565)
+Seat 8: manggy94 (1990)
+*** ANTE/BLINDS ***
+Lady59650 posts ante 35
+madnurse posts ante 35
+ninoujacou posts ante 35
+portugator95 posts ante 35
+Benji59220 posts ante 35
+poupee66 posts ante 35
+moroco64 posts ante 35
+manggy94 posts ante 35
+Lady59650 posts small blind 150
+madnurse posts big blind 300
+Dealt to manggy94 [9s 9h]
+*** PRE-FLOP *** 
+Benji59220 folds
+poupee66 calls 300
+moroco64 folds
+manggy94 raises 300 to 600
+ninoujacou folds
+portugator95 folds
+Lady59650 folds
+madnurse calls 300
+poupee66 calls 300
+*** FLOP *** [6s Td Ah]
+madnurse checks
+poupee66 checks
+manggy94 checks
+*** TURN *** [6s Td Ah][Ac]
+madnurse bets 300
+poupee66 calls 300
+manggy94 calls 300
+*** RIVER *** [6s Td Ah Ac][3c]
+madnurse bets 300
+poupee66 calls 300
+manggy94 calls 300
+*** SHOW DOWN ***
+madnurse shows [Th Kc] (Two pairs : Aces and Tens)
+manggy94 shows [9s 9h] (Two pairs : Aces and 9)
+poupee66 shows [Ad 7c] (Trips of Aces)
+poupee66 collected 4030 from pot
+*** SUMMARY ***
+Total pot 4030 | No rake
+Board: [6s Td Ah Ac 3c]
+Seat 4: madnurse (big blind) showed [Th Kc] and lost with Two pairs : Aces and Tens
+Seat 6: poupee66 showed [Ad 7c] and won 4030 with Trips of Aces
+Seat 8: manggy94 showed [9s 9h] and lost with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #691870857168945359-20-1466534869 - Holdem no limit (35/150/300) - 2016/06/21 18:47:49 UTC
+Table: 'Freeroll(161088737)#0206' 8-max (real money) Seat #3 is the button
+Seat 1: ninoujacou (4360)
+Seat 2: portugator95 (2270)
+Seat 3: Lady59650 (7380)
+Seat 4: madnurse (9890)
+Seat 5: Benji59220 (5495)
+Seat 6: poupee66 (9810)
+Seat 7: moroco64 (7530)
+Seat 8: manggy94 (755)
+*** ANTE/BLINDS ***
+madnurse posts ante 35
+Benji59220 posts ante 35
+ninoujacou posts ante 35
+portugator95 posts ante 35
+Lady59650 posts ante 35
+poupee66 posts ante 35
+moroco64 posts ante 35
+manggy94 posts ante 35
+madnurse posts small blind 150
+Benji59220 posts big blind 300
+Dealt to manggy94 [Qc 5d]
+*** PRE-FLOP *** 
+poupee66 calls 300
+moroco64 calls 300
+manggy94 folds
+ninoujacou folds
+portugator95 folds
+Lady59650 calls 300
+madnurse calls 150
+Benji59220 checks
+*** FLOP *** [7c As 6d]
+madnurse bets 890
+Benji59220 folds
+poupee66 folds
+moroco64 folds
+Lady59650 calls 890
+*** TURN *** [7c As 6d][Qd]
+madnurse bets 300
+Lady59650 calls 300
+*** RIVER *** [7c As 6d Qd][Kd]
+madnurse bets 2080
+Lady59650 raises 3775 to 5855 and is all-in
+madnurse calls 3775
+*** SHOW DOWN ***
+madnurse shows [Ac Td] (One pair : Aces)
+Lady59650 shows [3d Ad] (Flush Ace high)
+Lady59650 collected 15870 from pot
+*** SUMMARY ***
+Total pot 15870 | No rake
+Board: [7c As 6d Qd Kd]
+Seat 3: Lady59650 (button) showed [3d Ad] and won 15870 with Flush Ace high
+Seat 4: madnurse (small blind) showed [Ac Td] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #691870857168945359-21-1466535038 - Holdem no limit (40/200/400) - 2016/06/21 18:50:38 UTC
+Table: 'Freeroll(161088737)#0206' 8-max (real money) Seat #4 is the button
+Seat 1: ninoujacou (4325)
+Seat 2: portugator95 (2235)
+Seat 3: Lady59650 (15870)
+Seat 4: madnurse (2510)
+Seat 5: Benji59220 (5160)
+Seat 6: poupee66 (9475)
+Seat 7: moroco64 (7195)
+Seat 8: manggy94 (720)
+*** ANTE/BLINDS ***
+Benji59220 posts ante 40
+poupee66 posts ante 40
+ninoujacou posts ante 40
+portugator95 posts ante 40
+Lady59650 posts ante 40
+madnurse posts ante 40
+moroco64 posts ante 40
+manggy94 posts ante 40
+Benji59220 posts small blind 200
+poupee66 posts big blind 400
+Dealt to manggy94 [As Th]
+*** PRE-FLOP *** 
+moroco64 folds
+manggy94 raises 280 to 680 and is all-in
+ninoujacou folds
+portugator95 folds
+Lady59650 folds
+madnurse raises 1790 to 2470 and is all-in
+Benji59220 folds
+poupee66 folds
+*** FLOP *** [4d 8c 5d]
+*** TURN *** [4d 8c 5d][3c]
+*** RIVER *** [4d 8c 5d 3c][4s]
+*** SHOW DOWN ***
+manggy94 shows [As Th] (One pair : 4)
+madnurse shows [4h Qh] (Trips of 4)
+madnurse collected 4070 from pot
+*** SUMMARY ***
+Total pot 4070 | No rake
+Board: [4d 8c 5d 3c 4s]
+Seat 4: madnurse (button) showed [4h Qh] and won 4070 with Trips of 4
+Seat 8: manggy94 showed [As Th] and lost with One pair : 4
+
+

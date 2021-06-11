@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Déglingos" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #621147284268122116-55-1453647748 - Holdem no limit (40/80) - 2016/01/24 15:02:28 UTC
+Table: 'Déglingos(144622122)#003' 3-max (real money) Seat #1 is the button
+Seat 1: manggy94 (500)
+Seat 2: jackyf34 (1160)
+Seat 3: sickcall59 (1360)
+*** ANTE/BLINDS ***
+jackyf34 posts small blind 40
+sickcall59 posts big blind 80
+Dealt to manggy94 [9c 3h]
+*** PRE-FLOP *** 
+manggy94 folds
+jackyf34 folds
+sickcall59 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: sickcall59 (big blind) won 120
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #621147284268122116-56-1453647754 - Holdem no limit (40/80) - 2016/01/24 15:02:34 UTC
+Table: 'Déglingos(144622122)#003' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (500)
+Seat 2: jackyf34 (1120)
+Seat 3: sickcall59 (1400)
+*** ANTE/BLINDS ***
+sickcall59 posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [Ks 9s]
+*** PRE-FLOP *** 
+jackyf34 calls 80
+sickcall59 raises 1320 to 1400 and is all-in
+manggy94 calls 420 and is all-in
+jackyf34 folds
+*** FLOP *** [5c Ac 6c]
+*** TURN *** [5c Ac 6c][Ts]
+*** RIVER *** [5c Ac 6c Ts][9c]
+*** SHOW DOWN ***
+manggy94 shows [Ks 9s] (One pair : 9)
+sickcall59 shows [3c As] (Flush Ace high)
+sickcall59 collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | No rake
+Board: [5c Ac 6c Ts 9c]
+Seat 1: manggy94 (big blind) showed [Ks 9s] and lost with One pair : 9
+Seat 3: sickcall59 (small blind) showed [3c As] and won 1980 with Flush Ace high
+
+

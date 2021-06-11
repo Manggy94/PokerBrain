@@ -1,0 +1,103 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 6 - HandId: #596503633802035220-4-1449933506 - Holdem no limit (30/200/400) - 2015/12/12 15:18:26 UTC
+Table: 'Hold'em(138884325)#019' 6-max (real money) Seat #3 is the button
+Seat 1: charday (11760)
+Seat 2: manggy94 (10000)
+Seat 3: Leopard2B (10000)
+Seat 5: AsamoahGyan3 (8270)
+Seat 6: quicho84 (9970)
+*** ANTE/BLINDS ***
+AsamoahGyan3 posts ante 30
+quicho84 posts ante 30
+charday posts ante 30
+manggy94 posts ante 30
+Leopard2B posts ante 30
+AsamoahGyan3 posts small blind 200
+quicho84 posts big blind 400
+Dealt to manggy94 [3h 4d]
+*** PRE-FLOP *** 
+charday folds
+manggy94 folds
+Leopard2B folds
+AsamoahGyan3 folds
+quicho84 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Seat 6: quicho84 (big blind) won 750
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 6 - HandId: #596503633802035220-5-1449933516 - Holdem no limit (30/200/400) - 2015/12/12 15:18:36 UTC
+Table: 'Hold'em(138884325)#019' 6-max (real money) Seat #5 is the button
+Seat 1: charday (11730)
+Seat 2: manggy94 (9970)
+Seat 3: Leopard2B (9970)
+Seat 5: AsamoahGyan3 (8040)
+Seat 6: quicho84 (10290)
+*** ANTE/BLINDS ***
+quicho84 posts ante 30
+charday posts ante 30
+manggy94 posts ante 30
+Leopard2B posts ante 30
+AsamoahGyan3 posts ante 30
+quicho84 posts small blind 200
+charday posts big blind 400
+Dealt to manggy94 [Ts 5s]
+*** PRE-FLOP *** 
+manggy94 folds
+Leopard2B raises 400 to 800
+AsamoahGyan3 folds
+quicho84 calls 600
+charday folds
+*** FLOP *** [2h Kd 4d]
+quicho84 checks
+Leopard2B bets 1200
+quicho84 folds
+Leopard2B collected 3350 from pot
+*** SUMMARY ***
+Total pot 3350 | No rake
+Board: [2h Kd 4d]
+Seat 3: Leopard2B won 3350
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 6 - HandId: #596503633802035220-6-1449933555 - Holdem no limit (30/200/400) - 2015/12/12 15:19:15 UTC
+Table: 'Hold'em(138884325)#019' 6-max (real money) Seat #6 is the button
+Seat 1: charday (11300)
+Seat 2: manggy94 (9940)
+Seat 3: Leopard2B (11290)
+Seat 4: GoldenBarbie (10000)
+Seat 5: AsamoahGyan3 (8010)
+Seat 6: quicho84 (9460)
+*** ANTE/BLINDS ***
+charday posts ante 30
+manggy94 posts ante 30
+Leopard2B posts ante 30
+GoldenBarbie posts ante 30
+AsamoahGyan3 posts ante 30
+quicho84 posts ante 30
+charday posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [Td 9c]
+*** PRE-FLOP *** 
+Leopard2B folds
+GoldenBarbie raises 400 to 800
+AsamoahGyan3 folds
+quicho84 folds
+charday folds
+manggy94 calls 400
+*** FLOP *** [5h Ts 7h]
+manggy94 checks
+GoldenBarbie bets 1000
+manggy94 raises 8110 to 9110 and is all-in
+GoldenBarbie calls 8110
+*** TURN *** [5h Ts 7h][3s]
+*** RIVER *** [5h Ts 7h 3s][4d]
+*** SHOW DOWN ***
+manggy94 shows [Td 9c] (One pair : Tens)
+GoldenBarbie shows [Kc Kh] (One pair : Kings)
+GoldenBarbie collected 20200 from pot
+*** SUMMARY ***
+Total pot 20200 | No rake
+Board: [5h Ts 7h 3s 4d]
+Seat 2: manggy94 (big blind) showed [Td 9c] and lost with One pair : Tens
+Seat 4: GoldenBarbie showed [Kc Kh] and won 20200 with One pair : Kings
+
+

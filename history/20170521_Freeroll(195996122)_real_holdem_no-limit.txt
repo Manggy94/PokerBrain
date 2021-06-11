@@ -1,0 +1,543 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #841796934132826580-10-1495391405 - Holdem no limit (10/40/80) - 2017/05/21 18:30:05 UTC
+Table: 'Freeroll(195996122)#0467' 8-max (real money) Seat #8 is the button
+Seat 1: Arnaud_Mn (3281)
+Seat 2: nome59 (3000)
+Seat 3: BARBOUILLA (12574)
+Seat 4: manggy94 (3000)
+Seat 5: veru (2811)
+Seat 6: 91zappa91 (5563)
+Seat 7: farida69 (3000)
+Seat 8: Maniez nc (2771)
+*** ANTE/BLINDS ***
+Arnaud_Mn posts ante 10
+nome59 posts ante 10
+BARBOUILLA posts ante 10
+manggy94 posts ante 10
+veru posts ante 10
+91zappa91 posts ante 10
+farida69 posts ante 10
+Maniez nc posts ante 10
+Arnaud_Mn posts small blind 40
+nome59 posts big blind 80
+Dealt to manggy94 [Qc 4s]
+*** PRE-FLOP *** 
+BARBOUILLA calls 80
+manggy94 folds
+veru folds
+91zappa91 folds
+farida69 calls 80
+Maniez nc folds
+Arnaud_Mn calls 40
+nome59 checks
+*** FLOP *** [3h Ad 3c]
+Arnaud_Mn checks
+nome59 bets 120
+BARBOUILLA calls 120
+farida69 folds
+Arnaud_Mn calls 120
+*** TURN *** [3h Ad 3c][3s]
+Arnaud_Mn checks
+nome59 checks
+BARBOUILLA bets 1040
+Arnaud_Mn calls 1040
+nome59 folds
+*** RIVER *** [3h Ad 3c 3s][9c]
+Arnaud_Mn checks
+BARBOUILLA checks
+*** SHOW DOWN ***
+BARBOUILLA shows [5h 5s] (Full of 3 and 5)
+Arnaud_Mn shows [Ah 3d] (Quads of 3)
+Arnaud_Mn collected 2840 from pot
+*** SUMMARY ***
+Total pot 2840 | No rake
+Board: [3h Ad 3c 3s 9c]
+Seat 1: Arnaud_Mn (small blind) showed [Ah 3d] and won 2840 with Quads of 3
+Seat 3: BARBOUILLA showed [5h 5s] and lost with Full of 3 and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #841796934132826580-11-1495391454 - Holdem no limit (12/50/100) - 2017/05/21 18:30:54 UTC
+Table: 'Freeroll(195996122)#0467' 8-max (real money) Seat #1 is the button
+Seat 1: Arnaud_Mn (4871)
+Seat 2: nome59 (2790)
+Seat 3: BARBOUILLA (11324)
+Seat 4: manggy94 (2990)
+Seat 5: veru (2801)
+Seat 6: 91zappa91 (5553)
+Seat 7: farida69 (2910)
+Seat 8: Maniez nc (2761)
+*** ANTE/BLINDS ***
+nome59 posts ante 12
+BARBOUILLA posts ante 12
+Arnaud_Mn posts ante 12
+manggy94 posts ante 12
+veru posts ante 12
+91zappa91 posts ante 12
+farida69 posts ante 12
+Maniez nc posts ante 12
+nome59 posts small blind 50
+BARBOUILLA posts big blind 100
+Dealt to manggy94 [8d Qh]
+*** PRE-FLOP *** 
+manggy94 folds
+veru folds
+91zappa91 folds
+farida69 folds
+Maniez nc folds
+Arnaud_Mn folds
+nome59 raises 300 to 400
+BARBOUILLA calls 300
+*** FLOP *** [7h 2c Ac]
+nome59 checks
+BARBOUILLA checks
+*** TURN *** [7h 2c Ac][5s]
+nome59 bets 896
+BARBOUILLA calls 896
+*** RIVER *** [7h 2c Ac 5s][Ad]
+nome59 checks
+BARBOUILLA checks
+*** SHOW DOWN ***
+nome59 shows [Jc 6c] (One pair : Aces)
+BARBOUILLA shows [Qc 9s] (One pair : Aces)
+BARBOUILLA collected 2688 from pot
+*** SUMMARY ***
+Total pot 2688 | No rake
+Board: [7h 2c Ac 5s Ad]
+Seat 2: nome59 (small blind) showed [Jc 6c] and lost with One pair : Aces
+Seat 3: BARBOUILLA (big blind) showed [Qc 9s] and won 2688 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #841796934132826580-12-1495391506 - Holdem no limit (12/50/100) - 2017/05/21 18:31:46 UTC
+Table: 'Freeroll(195996122)#0467' 8-max (real money) Seat #2 is the button
+Seat 1: Arnaud_Mn (4859)
+Seat 2: nome59 (1482)
+Seat 3: BARBOUILLA (12704)
+Seat 4: manggy94 (2978)
+Seat 5: veru (2789)
+Seat 6: 91zappa91 (5541)
+Seat 7: farida69 (2898)
+Seat 8: Maniez nc (2749)
+*** ANTE/BLINDS ***
+BARBOUILLA posts ante 12
+manggy94 posts ante 12
+Arnaud_Mn posts ante 12
+nome59 posts ante 12
+veru posts ante 12
+91zappa91 posts ante 12
+farida69 posts ante 12
+Maniez nc posts ante 12
+BARBOUILLA posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [Ad 4c]
+*** PRE-FLOP *** 
+veru folds
+91zappa91 raises 150 to 250
+farida69 folds
+Maniez nc folds
+Arnaud_Mn folds
+nome59 calls 250
+BARBOUILLA folds
+manggy94 calls 150
+*** FLOP *** [Kd Kc Jh]
+manggy94 checks
+91zappa91 bets 250
+nome59 folds
+manggy94 folds
+91zappa91 collected 1146 from pot
+*** SUMMARY ***
+Total pot 1146 | No rake
+Board: [Kd Kc Jh]
+Seat 6: 91zappa91 won 1146
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #841796934132826580-13-1495391560 - Holdem no limit (12/50/100) - 2017/05/21 18:32:40 UTC
+Table: 'Freeroll(195996122)#0467' 8-max (real money) Seat #3 is the button
+Seat 1: Arnaud_Mn (4847)
+Seat 2: nome59 (1220)
+Seat 3: BARBOUILLA (12642)
+Seat 4: manggy94 (2716)
+Seat 5: veru (2777)
+Seat 6: 91zappa91 (6175)
+Seat 7: farida69 (2886)
+Seat 8: Maniez nc (2737)
+*** ANTE/BLINDS ***
+manggy94 posts ante 12
+veru posts ante 12
+Arnaud_Mn posts ante 12
+nome59 posts ante 12
+BARBOUILLA posts ante 12
+91zappa91 posts ante 12
+farida69 posts ante 12
+Maniez nc posts ante 12
+manggy94 posts small blind 50
+veru posts big blind 100
+Dealt to manggy94 [5d 3s]
+*** PRE-FLOP *** 
+91zappa91 folds
+farida69 calls 100
+Maniez nc folds
+Arnaud_Mn folds
+nome59 raises 350 to 450
+BARBOUILLA folds
+manggy94 folds
+veru folds
+farida69 calls 350
+*** FLOP *** [Jh 2c 2h]
+farida69 checks
+nome59 checks
+*** TURN *** [Jh 2c 2h][2d]
+farida69 bets 2037
+nome59 calls 758 and is all-in
+*** RIVER *** [Jh 2c 2h 2d][9h]
+*** SHOW DOWN ***
+nome59 shows [Js Jd] (Full of Jacks and 2)
+farida69 shows [Ah Ad] (Full of 2 and Aces)
+farida69 collected 1279 from side pot 1
+nome59 collected 2662 from main pot
+*** SUMMARY ***
+Total pot 3941 | No rake
+Board: [Jh 2c 2h 2d 9h]
+Seat 2: nome59 showed [Js Jd] and won 2662 with Full of Jacks and 2
+Seat 7: farida69 showed [Ah Ad] and won 1279 with Full of 2 and Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #841796934132826580-14-1495391622 - Holdem no limit (15/60/120) - 2017/05/21 18:33:42 UTC
+Table: 'Freeroll(195996122)#0467' 8-max (real money) Seat #4 is the button
+Seat 1: Arnaud_Mn (4835)
+Seat 2: nome59 (2662)
+Seat 3: BARBOUILLA (12630)
+Seat 4: manggy94 (2654)
+Seat 5: veru (2665)
+Seat 6: 91zappa91 (6163)
+Seat 7: farida69 (1666)
+Seat 8: Maniez nc (2725)
+*** ANTE/BLINDS ***
+veru posts ante 15
+91zappa91 posts ante 15
+Arnaud_Mn posts ante 15
+nome59 posts ante 15
+BARBOUILLA posts ante 15
+manggy94 posts ante 15
+farida69 posts ante 15
+Maniez nc posts ante 15
+veru posts small blind 60
+91zappa91 posts big blind 120
+Dealt to manggy94 [Qs 2s]
+*** PRE-FLOP *** 
+farida69 calls 120
+Maniez nc folds
+Arnaud_Mn calls 120
+nome59 calls 120
+BARBOUILLA calls 120
+manggy94 folds
+veru folds
+91zappa91 raises 120 to 240
+farida69 calls 120
+Arnaud_Mn folds
+nome59 calls 120
+BARBOUILLA raises 120 to 360
+91zappa91 calls 120
+farida69 calls 120
+nome59 calls 120
+*** FLOP *** [9h 2c 3c]
+91zappa91 bets 600
+farida69 folds
+nome59 folds
+BARBOUILLA calls 600
+*** TURN *** [9h 2c 3c][7h]
+91zappa91 bets 1440
+BARBOUILLA calls 1440
+*** RIVER *** [9h 2c 3c 7h][Tc]
+91zappa91 bets 1200
+BARBOUILLA calls 1200
+*** SHOW DOWN ***
+BARBOUILLA shows [Ah Js] (High card : Ace)
+91zappa91 shows [8h 9c] (One pair : 9)
+91zappa91 collected 8220 from pot
+*** SUMMARY ***
+Total pot 8220 | No rake
+Board: [9h 2c 3c 7h Tc]
+Seat 3: BARBOUILLA showed [Ah Js] and lost with High card : Ace
+Seat 6: 91zappa91 (big blind) showed [8h 9c] and won 8220 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #841796934132826580-15-1495391753 - Holdem no limit (15/60/120) - 2017/05/21 18:35:53 UTC
+Table: 'Freeroll(195996122)#0467' 8-max (real money) Seat #5 is the button
+Seat 1: Arnaud_Mn (4700)
+Seat 2: nome59 (2287)
+Seat 3: BARBOUILLA (9015)
+Seat 4: manggy94 (2639)
+Seat 5: veru (2590)
+Seat 6: 91zappa91 (10768)
+Seat 7: farida69 (1291)
+Seat 8: Maniez nc (2710)
+*** ANTE/BLINDS ***
+91zappa91 posts ante 15
+farida69 posts ante 15
+Arnaud_Mn posts ante 15
+nome59 posts ante 15
+BARBOUILLA posts ante 15
+manggy94 posts ante 15
+veru posts ante 15
+Maniez nc posts ante 15
+91zappa91 posts small blind 60
+farida69 posts big blind 120
+Dealt to manggy94 [4s Qd]
+*** PRE-FLOP *** 
+Maniez nc folds
+Arnaud_Mn folds
+nome59 raises 300 to 420
+BARBOUILLA folds
+manggy94 folds
+veru folds
+91zappa91 folds
+farida69 calls 300
+*** FLOP *** [9h 7h 4h]
+farida69 checks
+nome59 bets 1020
+farida69 folds
+nome59 collected 2040 from pot
+*** SUMMARY ***
+Total pot 2040 | No rake
+Board: [9h 7h 4h]
+Seat 2: nome59 won 2040
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #841796934132826580-16-1495391775 - Holdem no limit (15/60/120) - 2017/05/21 18:36:15 UTC
+Table: 'Freeroll(195996122)#0467' 8-max (real money) Seat #6 is the button
+Seat 1: Arnaud_Mn (4685)
+Seat 2: nome59 (2872)
+Seat 3: BARBOUILLA (9000)
+Seat 4: manggy94 (2624)
+Seat 5: veru (2575)
+Seat 6: 91zappa91 (10693)
+Seat 7: farida69 (856)
+Seat 8: Maniez nc (2695)
+*** ANTE/BLINDS ***
+farida69 posts ante 15
+Maniez nc posts ante 15
+Arnaud_Mn posts ante 15
+nome59 posts ante 15
+BARBOUILLA posts ante 15
+manggy94 posts ante 15
+veru posts ante 15
+91zappa91 posts ante 15
+farida69 posts small blind 60
+Maniez nc posts big blind 120
+Dealt to manggy94 [Ac Js]
+*** PRE-FLOP *** 
+Arnaud_Mn folds
+nome59 folds
+BARBOUILLA calls 120
+manggy94 raises 240 to 360
+veru folds
+91zappa91 folds
+farida69 folds
+Maniez nc folds
+BARBOUILLA calls 240
+*** FLOP *** [2s 9h 3d]
+BARBOUILLA checks
+manggy94 bets 680
+BARBOUILLA folds
+manggy94 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Board: [2s 9h 3d]
+Seat 4: manggy94 won 1700
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #841796934132826580-17-1495391812 - Holdem no limit (20/80/160) - 2017/05/21 18:36:52 UTC
+Table: 'Freeroll(195996122)#0467' 8-max (real money) Seat #7 is the button
+Seat 1: Arnaud_Mn (4670)
+Seat 2: nome59 (2857)
+Seat 3: BARBOUILLA (8625)
+Seat 4: manggy94 (3269)
+Seat 5: veru (2560)
+Seat 6: 91zappa91 (10678)
+Seat 7: farida69 (781)
+Seat 8: Maniez nc (2560)
+*** ANTE/BLINDS ***
+Maniez nc posts ante 20
+Arnaud_Mn posts ante 20
+nome59 posts ante 20
+BARBOUILLA posts ante 20
+manggy94 posts ante 20
+veru posts ante 20
+91zappa91 posts ante 20
+farida69 posts ante 20
+Maniez nc posts small blind 80
+Arnaud_Mn posts big blind 160
+Dealt to manggy94 [8h 7h]
+*** PRE-FLOP *** 
+nome59 raises 400 to 560
+BARBOUILLA calls 560
+manggy94 calls 560
+veru folds
+91zappa91 folds
+farida69 folds
+Maniez nc folds
+Arnaud_Mn calls 400
+*** FLOP *** [3s 4s Jc]
+Arnaud_Mn bets 160
+nome59 raises 400 to 560
+BARBOUILLA calls 560
+manggy94 folds
+Arnaud_Mn raises 400 to 960
+nome59 raises 400 to 1360
+BARBOUILLA calls 800
+Arnaud_Mn calls 400
+*** TURN *** [3s 4s Jc][3h]
+Arnaud_Mn checks
+nome59 bets 917 and is all-in
+BARBOUILLA calls 917
+Arnaud_Mn calls 917
+*** RIVER *** [3s 4s Jc 3h][Ks]
+Arnaud_Mn bets 395
+BARBOUILLA folds
+*** SHOW DOWN ***
+Arnaud_Mn shows [Js Qs] (Flush King high)
+nome59 shows [Kd Kh] (Full of Kings and 3)
+nome59 collected 9311 from main pot
+Arnaud_Mn collected 395 from side pot 1
+*** SUMMARY ***
+Total pot 9706 | No rake
+Board: [3s 4s Jc 3h Ks]
+Seat 1: Arnaud_Mn (big blind) showed [Js Qs] and won 395 with Flush King high
+Seat 2: nome59 showed [Kd Kh] and won 9311 with Full of Kings and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #841796934132826580-18-1495391894 - Holdem no limit (20/80/160) - 2017/05/21 18:38:14 UTC
+Table: 'Freeroll(195996122)#0467' 8-max (real money) Seat #8 is the button
+Seat 1: Arnaud_Mn (1813)
+Seat 2: nome59 (9311)
+Seat 3: BARBOUILLA (5768)
+Seat 4: manggy94 (2689)
+Seat 5: veru (2540)
+Seat 6: 91zappa91 (10658)
+Seat 7: farida69 (761)
+Seat 8: Maniez nc (2460)
+*** ANTE/BLINDS ***
+Arnaud_Mn posts ante 20
+nome59 posts ante 20
+BARBOUILLA posts ante 20
+manggy94 posts ante 20
+veru posts ante 20
+91zappa91 posts ante 20
+farida69 posts ante 20
+Maniez nc posts ante 20
+Arnaud_Mn posts small blind 80
+nome59 posts big blind 160
+Dealt to manggy94 [2d Tc]
+*** PRE-FLOP *** 
+BARBOUILLA folds
+manggy94 folds
+veru folds
+91zappa91 folds
+farida69 folds
+Maniez nc folds
+Arnaud_Mn folds
+nome59 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 2: nome59 (big blind) won 400
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #841796934132826580-19-1495391911 - Holdem no limit (20/80/160) - 2017/05/21 18:38:31 UTC
+Table: 'Freeroll(195996122)#0467' 8-max (real money) Seat #1 is the button
+Seat 1: Arnaud_Mn (1713)
+Seat 2: nome59 (9531)
+Seat 3: BARBOUILLA (5748)
+Seat 4: manggy94 (2669)
+Seat 5: veru (2520)
+Seat 6: 91zappa91 (10638)
+Seat 7: farida69 (741)
+Seat 8: Maniez nc (2440)
+*** ANTE/BLINDS ***
+nome59 posts ante 20
+BARBOUILLA posts ante 20
+Arnaud_Mn posts ante 20
+manggy94 posts ante 20
+veru posts ante 20
+91zappa91 posts ante 20
+farida69 posts ante 20
+Maniez nc posts ante 20
+nome59 posts small blind 80
+BARBOUILLA posts big blind 160
+Dealt to manggy94 [4h 9s]
+*** PRE-FLOP *** 
+manggy94 folds
+veru folds
+91zappa91 folds
+farida69 calls 160
+Maniez nc folds
+Arnaud_Mn folds
+nome59 calls 80
+BARBOUILLA checks
+*** FLOP *** [3d 9c Jh]
+nome59 checks
+BARBOUILLA checks
+farida69 bets 561 and is all-in
+nome59 calls 561
+BARBOUILLA folds
+*** TURN *** [3d 9c Jh][Qc]
+*** RIVER *** [3d 9c Jh Qc][2c]
+*** SHOW DOWN ***
+nome59 shows [Qh 5h] (One pair : Queens)
+farida69 shows [Th Kh] (Straight King high)
+farida69 collected 1762 from pot
+*** SUMMARY ***
+Total pot 1762 | No rake
+Board: [3d 9c Jh Qc 2c]
+Seat 2: nome59 (small blind) showed [Qh 5h] and lost with One pair : Queens
+Seat 7: farida69 showed [Th Kh] and won 1762 with Straight King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #841796934132826580-20-1495391974 - Holdem no limit (25/100/200) - 2017/05/21 18:39:34 UTC
+Table: 'Freeroll(195996122)#0467' 8-max (real money) Seat #2 is the button
+Seat 1: Arnaud_Mn (1693)
+Seat 2: nome59 (8790)
+Seat 3: BARBOUILLA (5568)
+Seat 4: manggy94 (2649)
+Seat 5: veru (2500)
+Seat 6: 91zappa91 (10618)
+Seat 7: farida69 (1762)
+Seat 8: Maniez nc (2420)
+*** ANTE/BLINDS ***
+BARBOUILLA posts ante 25
+manggy94 posts ante 25
+Arnaud_Mn posts ante 25
+nome59 posts ante 25
+veru posts ante 25
+91zappa91 posts ante 25
+farida69 posts ante 25
+Maniez nc posts ante 25
+BARBOUILLA posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [7c Kc]
+*** PRE-FLOP *** 
+veru folds
+91zappa91 folds
+farida69 folds
+Maniez nc folds
+Arnaud_Mn raises 1468 to 1668 and is all-in
+nome59 calls 1668
+BARBOUILLA folds
+manggy94 calls 1468
+*** FLOP *** [9h 4s Ks]
+manggy94 checks
+nome59 bets 5304
+manggy94 calls 956 and is all-in
+*** TURN *** [9h 4s Ks][Ts]
+*** RIVER *** [9h 4s Ks Ts][Js]
+*** SHOW DOWN ***
+Arnaud_Mn shows [9c Kh] (Two pairs : Kings and 9)
+manggy94 shows [7c Kc] (One pair : Kings)
+nome59 shows [Kd Qc] (Straight King high)
+nome59 collected 11564 from pot
+*** SUMMARY ***
+Total pot 11564 | No rake
+Board: [9h 4s Ks Ts Js]
+Seat 1: Arnaud_Mn showed [9c Kh] and lost with Two pairs : Kings and 9
+Seat 2: nome59 (button) showed [Kd Qc] and won 11564 with Straight King high
+Seat 4: manggy94 (big blind) showed [7c Kc] and lost with One pair : Kings
+
+

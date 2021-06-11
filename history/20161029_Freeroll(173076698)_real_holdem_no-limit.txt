@@ -1,0 +1,392 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #743358757609668618-1-1477692927 - Holdem no limit (10/20) - 2016/10/28 22:15:27 UTC
+Table: 'Freeroll(173076698)#009' 8-max (real money) Seat #4 is the button
+Seat 1: manggy94 (3000)
+Seat 2: aureliendu51 (3000)
+Seat 3: Aymcoz (3000)
+Seat 4: WheelerJDSD (3000)
+Seat 5: gelain (3000)
+Seat 6: ariyaz77 (3000)
+Seat 7: Misterslc2 (3000)
+Seat 8: Redrad psg (3000)
+*** ANTE/BLINDS ***
+gelain posts small blind 10
+ariyaz77 posts big blind 20
+Dealt to manggy94 [6c Jd]
+*** PRE-FLOP *** 
+Misterslc2 folds
+Redrad psg folds
+manggy94 folds
+aureliendu51 raises 2980 to 3000 and is all-in
+Aymcoz folds
+WheelerJDSD folds
+gelain folds
+ariyaz77 folds
+aureliendu51 collected 3030 from pot
+*** SUMMARY ***
+Total pot 3030 | No rake
+Seat 2: aureliendu51 won 3030
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #743358757609668618-2-1477693234 - Holdem no limit (15/30) - 2016/10/28 22:20:34 UTC
+Table: 'Freeroll(173076698)#009' 8-max (real money) Seat #5 is the button
+Seat 1: manggy94 (3000)
+Seat 2: aureliendu51 (3030)
+Seat 3: Aymcoz (3000)
+Seat 4: WheelerJDSD (3000)
+Seat 5: gelain (2990)
+Seat 6: ariyaz77 (2980)
+Seat 7: Misterslc2 (3000)
+Seat 8: Redrad psg (3000)
+*** ANTE/BLINDS ***
+ariyaz77 posts small blind 15
+Misterslc2 posts big blind 30
+Dealt to manggy94 [5h Kh]
+*** PRE-FLOP *** 
+Redrad psg folds
+manggy94 calls 30
+aureliendu51 folds
+Aymcoz calls 30
+WheelerJDSD folds
+gelain raises 60 to 90
+ariyaz77 folds
+Misterslc2 folds
+manggy94 calls 60
+Aymcoz calls 60
+*** FLOP *** [Qs Th 6h]
+manggy94 bets 158
+Aymcoz calls 158
+gelain raises 158 to 316
+manggy94 calls 158
+Aymcoz calls 158
+*** TURN *** [Qs Th 6h][Kd]
+manggy94 bets 842
+Aymcoz calls 842
+gelain calls 842
+*** RIVER *** [Qs Th 6h Kd][6d]
+manggy94 checks
+Aymcoz checks
+gelain checks
+*** SHOW DOWN ***
+Aymcoz shows [Js 8d] (One pair : 6)
+gelain shows [Qd Ah] (Two pairs : Queens and 6)
+manggy94 shows [5h Kh] (Two pairs : Kings and 6)
+manggy94 collected 3789 from pot
+*** SUMMARY ***
+Total pot 3789 | No rake
+Board: [Qs Th 6h Kd 6d]
+Seat 1: manggy94 showed [5h Kh] and won 3789 with Two pairs : Kings and 6
+Seat 3: Aymcoz showed [Js 8d] and lost with One pair : 6
+Seat 5: gelain (button) showed [Qd Ah] and lost with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #743358757609668618-3-1477693347 - Holdem no limit (20/40) - 2016/10/28 22:22:27 UTC
+Table: 'Freeroll(173076698)#009' 8-max (real money) Seat #6 is the button
+Seat 1: manggy94 (5541)
+Seat 2: aureliendu51 (3030)
+Seat 3: Aymcoz (1752)
+Seat 4: WheelerJDSD (3000)
+Seat 5: gelain (1742)
+Seat 6: ariyaz77 (2965)
+Seat 7: Misterslc2 (2970)
+Seat 8: Redrad psg (3000)
+*** ANTE/BLINDS ***
+Misterslc2 posts small blind 20
+Redrad psg posts big blind 40
+Dealt to manggy94 [6c 4c]
+*** PRE-FLOP *** 
+manggy94 calls 40
+aureliendu51 raises 2990 to 3030 and is all-in
+Aymcoz folds
+WheelerJDSD folds
+gelain folds
+ariyaz77 folds
+Misterslc2 folds
+Redrad psg folds
+manggy94 folds
+aureliendu51 collected 3130 from pot
+*** SUMMARY ***
+Total pot 3130 | No rake
+Seat 2: aureliendu51 won 3130
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #743358757609668618-4-1477693373 - Holdem no limit (20/40) - 2016/10/28 22:22:53 UTC
+Table: 'Freeroll(173076698)#009' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (5501)
+Seat 2: aureliendu51 (3130)
+Seat 3: Aymcoz (1752)
+Seat 4: WheelerJDSD (3000)
+Seat 5: gelain (1742)
+Seat 6: ariyaz77 (2965)
+Seat 7: Misterslc2 (2950)
+Seat 8: Redrad psg (2960)
+*** ANTE/BLINDS ***
+Redrad psg posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [Ts Kd]
+*** PRE-FLOP *** 
+aureliendu51 raises 3090 to 3130 and is all-in
+Aymcoz folds
+WheelerJDSD folds
+gelain folds
+ariyaz77 folds
+Misterslc2 folds
+Redrad psg folds
+manggy94 calls 3090
+*** FLOP *** [Jh Kh 8d]
+*** TURN *** [Jh Kh 8d][Ah]
+*** RIVER *** [Jh Kh 8d Ah][5d]
+*** SHOW DOWN ***
+aureliendu51 shows [Qc 5c] (One pair : 5)
+manggy94 shows [Ts Kd] (One pair : Kings)
+manggy94 collected 6280 from pot
+*** SUMMARY ***
+Total pot 6280 | No rake
+Board: [Jh Kh 8d Ah 5d]
+Seat 1: manggy94 (big blind) showed [Ts Kd] and won 6280 with One pair : Kings
+Seat 2: aureliendu51 showed [Qc 5c] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #743358757609668618-5-1477693403 - Holdem no limit (20/40) - 2016/10/28 22:23:23 UTC
+Table: 'Freeroll(173076698)#009' 8-max (real money) Seat #8 is the button
+Seat 1: manggy94 (8651)
+Seat 3: Aymcoz (1752)
+Seat 4: WheelerJDSD (3000)
+Seat 5: gelain (1742)
+Seat 6: ariyaz77 (2965)
+Seat 7: Misterslc2 (2950)
+Seat 8: Redrad psg (2940)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+Aymcoz posts big blind 40
+Dealt to manggy94 [8d 7s]
+*** PRE-FLOP *** 
+WheelerJDSD folds
+gelain folds
+ariyaz77 folds
+Misterslc2 raises 40 to 80
+Redrad psg folds
+manggy94 calls 60
+Aymcoz calls 40
+*** FLOP *** [5d 4d 4s]
+manggy94 checks
+Aymcoz checks
+Misterslc2 checks
+*** TURN *** [5d 4d 4s][7d]
+manggy94 bets 180
+Aymcoz raises 220 to 400
+Misterslc2 folds
+manggy94 calls 220
+*** RIVER *** [5d 4d 4s 7d][Ac]
+manggy94 checks
+Aymcoz bets 280
+manggy94 calls 280
+*** SHOW DOWN ***
+manggy94 shows [8d 7s] (Two pairs : 7 and 4)
+Aymcoz shows [9c 7c] (Two pairs : 7 and 4)
+Aymcoz collected 800 from pot
+manggy94 collected 800 from pot
+*** SUMMARY ***
+Total pot 1600 | No rake
+Board: [5d 4d 4s 7d Ac]
+Seat 1: manggy94 (small blind) showed [8d 7s] and won 800 with Two pairs : 7 and 4
+Seat 3: Aymcoz (big blind) showed [9c 7c] and won 800 with Two pairs : 7 and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #743358757609668618-6-1477693457 - Holdem no limit (20/40) - 2016/10/28 22:24:17 UTC
+Table: 'Freeroll(173076698)#009' 8-max (real money) Seat #1 is the button
+Seat 1: manggy94 (8691)
+Seat 2: Louigi69 (3000)
+Seat 3: Aymcoz (1792)
+Seat 4: WheelerJDSD (3000)
+Seat 5: gelain (1742)
+Seat 6: ariyaz77 (2965)
+Seat 7: Misterslc2 (2870)
+Seat 8: Redrad psg (2940)
+*** ANTE/BLINDS ***
+Aymcoz posts small blind 20
+WheelerJDSD posts big blind 40
+Dealt to manggy94 [As 8c]
+*** PRE-FLOP *** 
+gelain folds
+ariyaz77 folds
+Misterslc2 folds
+Redrad psg folds
+manggy94 calls 40
+Aymcoz calls 20
+WheelerJDSD folds
+*** FLOP *** [Ks 4d 6s]
+Aymcoz bets 80
+manggy94 calls 80
+*** TURN *** [Ks 4d 6s][4c]
+Aymcoz bets 240
+manggy94 calls 240
+*** RIVER *** [Ks 4d 6s 4c][5h]
+Aymcoz bets 720
+manggy94 calls 720
+*** SHOW DOWN ***
+manggy94 shows [As 8c] (One pair : 4)
+Aymcoz shows [7h Kc] (Two pairs : Kings and 4)
+Aymcoz collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | No rake
+Board: [Ks 4d 6s 4c 5h]
+Seat 1: manggy94 (button) showed [As 8c] and lost with One pair : 4
+Seat 3: Aymcoz (small blind) showed [7h Kc] and won 2200 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #743358757609668618-7-1477693530 - Holdem no limit (30/60) - 2016/10/28 22:25:30 UTC
+Table: 'Freeroll(173076698)#009' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (7611)
+Seat 2: Louigi69 (3000)
+Seat 3: Aymcoz (2912)
+Seat 4: WheelerJDSD (2960)
+Seat 5: gelain (1742)
+Seat 6: ariyaz77 (2965)
+Seat 7: Misterslc2 (2870)
+Seat 8: Redrad psg (2940)
+*** ANTE/BLINDS ***
+WheelerJDSD posts small blind 30
+gelain posts big blind 60
+Dealt to manggy94 [Jh Ac]
+*** PRE-FLOP *** 
+ariyaz77 folds
+Misterslc2 folds
+Redrad psg folds
+manggy94 raises 60 to 120
+Louigi69 folds
+Aymcoz folds
+WheelerJDSD folds
+gelain folds
+manggy94 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 1: manggy94 won 210
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #743358757609668618-8-1477693563 - Holdem no limit (30/60) - 2016/10/28 22:26:03 UTC
+Table: 'Freeroll(173076698)#009' 8-max (real money) Seat #4 is the button
+Seat 1: manggy94 (7701)
+Seat 2: Louigi69 (3000)
+Seat 3: Aymcoz (2912)
+Seat 4: WheelerJDSD (2930)
+Seat 5: gelain (1682)
+Seat 6: ariyaz77 (2965)
+Seat 7: Misterslc2 (2870)
+Seat 8: Redrad psg (2940)
+*** ANTE/BLINDS ***
+gelain posts small blind 30
+ariyaz77 posts big blind 60
+Dealt to manggy94 [9d Kh]
+*** PRE-FLOP *** 
+Misterslc2 calls 60
+Redrad psg folds
+manggy94 calls 60
+Louigi69 calls 60
+Aymcoz calls 60
+WheelerJDSD folds
+gelain folds
+ariyaz77 folds
+*** FLOP *** [6d 5d Js]
+Misterslc2 bets 120
+manggy94 folds
+Louigi69 calls 120
+Aymcoz calls 120
+*** TURN *** [6d 5d Js][7h]
+Misterslc2 bets 270
+Louigi69 calls 270
+Aymcoz folds
+*** RIVER *** [6d 5d Js 7h][7d]
+Misterslc2 checks
+Louigi69 checks
+*** SHOW DOWN ***
+Louigi69 shows [8h Ac] (One pair : 7)
+Misterslc2 shows [Td Jd] (Flush Jack high)
+Misterslc2 collected 1230 from pot
+*** SUMMARY ***
+Total pot 1230 | No rake
+Board: [6d 5d Js 7h 7d]
+Seat 2: Louigi69 showed [8h Ac] and lost with One pair : 7
+Seat 7: Misterslc2 showed [Td Jd] and won 1230 with Flush Jack high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #743358757609668618-9-1477693662 - Holdem no limit (40/80) - 2016/10/28 22:27:42 UTC
+Table: 'Freeroll(173076698)#009' 8-max (real money) Seat #5 is the button
+Seat 1: manggy94 (7641)
+Seat 2: Louigi69 (2550)
+Seat 3: Aymcoz (2732)
+Seat 4: WheelerJDSD (2930)
+Seat 5: gelain (1652)
+Seat 6: ariyaz77 (2905)
+Seat 7: Misterslc2 (3650)
+Seat 8: Redrad psg (2940)
+*** ANTE/BLINDS ***
+ariyaz77 posts small blind 40
+Misterslc2 posts big blind 80
+Dealt to manggy94 [Jd Js]
+*** PRE-FLOP *** 
+Redrad psg folds
+manggy94 raises 160 to 240
+Louigi69 calls 240
+Aymcoz folds
+WheelerJDSD folds
+gelain folds
+ariyaz77 folds
+Misterslc2 folds
+*** FLOP *** [3d 5d 2d]
+manggy94 bets 600
+Louigi69 raises 1710 to 2310 and is all-in
+manggy94 calls 1710
+*** TURN *** [3d 5d 2d][2c]
+*** RIVER *** [3d 5d 2d 2c][As]
+*** SHOW DOWN ***
+manggy94 shows [Jd Js] (Two pairs : Jacks and 2)
+Louigi69 shows [Ac 6c] (Two pairs : Aces and 2)
+Louigi69 collected 5220 from pot
+*** SUMMARY ***
+Total pot 5220 | No rake
+Board: [3d 5d 2d 2c As]
+Seat 1: manggy94 showed [Jd Js] and lost with Two pairs : Jacks and 2
+Seat 2: Louigi69 showed [Ac 6c] and won 5220 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #743358757609668618-10-1477693707 - Holdem no limit (40/80) - 2016/10/28 22:28:27 UTC
+Table: 'Freeroll(173076698)#009' 8-max (real money) Seat #6 is the button
+Seat 1: manggy94 (5091)
+Seat 2: Louigi69 (5220)
+Seat 3: Aymcoz (2732)
+Seat 4: WheelerJDSD (2930)
+Seat 5: gelain (1652)
+Seat 6: ariyaz77 (2865)
+Seat 7: Misterslc2 (3570)
+Seat 8: Redrad psg (2940)
+*** ANTE/BLINDS ***
+Misterslc2 posts small blind 40
+Redrad psg posts big blind 80
+Dealt to manggy94 [Ah Js]
+*** PRE-FLOP *** 
+manggy94 raises 200 to 280
+Louigi69 calls 280
+Aymcoz calls 280
+WheelerJDSD folds
+gelain folds
+ariyaz77 folds
+Misterslc2 folds
+Redrad psg folds
+*** FLOP *** [9h Ts Td]
+manggy94 bets 960
+Louigi69 raises 3980 to 4940 and is all-in
+Aymcoz folds
+manggy94 calls 3851 and is all-in
+*** TURN *** [9h Ts Td][3s]
+*** RIVER *** [9h Ts Td 3s][5s]
+*** SHOW DOWN ***
+manggy94 shows [Ah Js] (One pair : Tens)
+Louigi69 shows [Jd Jc] (Two pairs : Jacks and Tens)
+Louigi69 collected 10711 from pot
+*** SUMMARY ***
+Total pot 10711 | No rake
+Board: [9h Ts Td 3s 5s]
+Seat 1: manggy94 showed [Ah Js] and lost with One pair : Tens
+Seat 2: Louigi69 showed [Jd Jc] and won 10711 with Two pairs : Jacks and Tens
+
+

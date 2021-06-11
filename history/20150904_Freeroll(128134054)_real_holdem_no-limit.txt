@@ -1,0 +1,43 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #550331571433898073-1-1441394128 - Holdem no limit (10/20) - 2015/09/04 19:15:28 UTC
+Table: 'Freeroll(128134054)#0088' 9-max (real money) Seat #4 is the button
+Seat 1: soso84200 (3000)
+Seat 2: combrinho (3000)
+Seat 3: Rdihkla (3000)
+Seat 4: jyer50 (3000)
+Seat 5: manggy94 (3000)
+Seat 6: antillaa83 (3000)
+Seat 7: Lavren (3000)
+Seat 8: jedi81 (3000)
+Seat 9: chris298300 (3000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+antillaa83 posts big blind 20
+Dealt to manggy94 [Kd Ad]
+*** PRE-FLOP *** 
+Lavren folds
+jedi81 folds
+chris298300 folds
+soso84200 folds
+combrinho calls 20
+Rdihkla raises 80 to 100
+jyer50 folds
+manggy94 raises 240 to 340
+antillaa83 folds
+combrinho folds
+Rdihkla calls 240
+*** FLOP *** [8c Js Qs]
+manggy94 bets 2660 and is all-in
+Rdihkla calls 2660 and is all-in
+*** TURN *** [8c Js Qs][7s]
+*** RIVER *** [8c Js Qs 7s][As]
+*** SHOW DOWN ***
+manggy94 shows [Kd Ad] (One pair : Aces)
+Rdihkla shows [Ac 8d] (Two pairs : Aces and 8)
+Rdihkla collected 6040 from pot
+*** SUMMARY ***
+Total pot 6040 | No rake
+Board: [8c Js Qs 7s As]
+Seat 3: Rdihkla showed [Ac 8d] and won 6040 with Two pairs : Aces and 8
+Seat 5: manggy94 (small blind) showed [Kd Ad] and lost with One pair : Aces
+
+

@@ -1,0 +1,152 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #700239107023962133-14-1468426776 - Holdem no limit (150/300) - 2016/07/13 16:19:36 UTC
+Table: 'MiniRoll(163037122)#020' 8-max (real money) Seat #5 is the button
+Seat 1: povero (36950)
+Seat 2: sagoku (9150)
+Seat 3: manggy94 (10000)
+Seat 4: yenyen14750 (9400)
+Seat 5: Spinalian 88 (9575)
+Seat 6: Hulk0208 (17482)
+Seat 8: YeahSY (17443)
+*** ANTE/BLINDS ***
+Hulk0208 posts small blind 150
+YeahSY posts big blind 300
+Dealt to manggy94 [Th 9d]
+*** PRE-FLOP *** 
+povero calls 300
+sagoku calls 300
+manggy94 folds
+yenyen14750 folds
+Spinalian 88 folds
+Hulk0208 calls 150
+YeahSY checks
+*** FLOP *** [Ad Ks 3s]
+Hulk0208 checks
+YeahSY checks
+povero checks
+sagoku bets 1200
+Hulk0208 folds
+YeahSY folds
+povero folds
+sagoku collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [Ad Ks 3s]
+Seat 2: sagoku won 2400
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #700239107023962133-15-1468426845 - Holdem no limit (25/150/300) - 2016/07/13 16:20:45 UTC
+Table: 'MiniRoll(163037122)#020' 8-max (real money) Seat #6 is the button
+Seat 1: povero (36650)
+Seat 2: sagoku (10050)
+Seat 3: manggy94 (10000)
+Seat 4: yenyen14750 (9400)
+Seat 5: Spinalian 88 (9575)
+Seat 6: Hulk0208 (17182)
+Seat 8: YeahSY (17143)
+*** ANTE/BLINDS ***
+YeahSY posts ante 25
+povero posts ante 25
+sagoku posts ante 25
+manggy94 posts ante 25
+yenyen14750 posts ante 25
+Spinalian 88 posts ante 25
+Hulk0208 posts ante 25
+YeahSY posts small blind 150
+povero posts big blind 300
+Dealt to manggy94 [2d Jh]
+*** PRE-FLOP *** 
+sagoku calls 300
+manggy94 folds
+yenyen14750 folds
+Spinalian 88 calls 300
+Hulk0208 calls 300
+YeahSY calls 150
+povero checks
+*** FLOP *** [6c Jc 7d]
+YeahSY checks
+povero checks
+sagoku checks
+Spinalian 88 checks
+Hulk0208 checks
+*** TURN *** [6c Jc 7d][4h]
+YeahSY checks
+povero checks
+sagoku checks
+Spinalian 88 checks
+Hulk0208 checks
+*** RIVER *** [6c Jc 7d 4h][9c]
+YeahSY bets 1000
+povero folds
+sagoku folds
+Spinalian 88 folds
+Hulk0208 calls 1000
+*** SHOW DOWN ***
+Hulk0208 shows [4c As] (One pair : 4)
+YeahSY shows [Kh Kd] (One pair : Kings)
+YeahSY collected 3675 from pot
+*** SUMMARY ***
+Total pot 3675 | No rake
+Board: [6c Jc 7d 4h 9c]
+Seat 6: Hulk0208 (button) showed [4c As] and lost with One pair : 4
+Seat 8: YeahSY (small blind) showed [Kh Kd] and won 3675 with One pair : Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #700239107023962133-16-1468426936 - Holdem no limit (25/150/300) - 2016/07/13 16:22:16 UTC
+Table: 'MiniRoll(163037122)#020' 8-max (real money) Seat #8 is the button
+Seat 1: povero (36325)
+Seat 2: sagoku (9725)
+Seat 3: manggy94 (9975)
+Seat 4: yenyen14750 (9375)
+Seat 5: Spinalian 88 (9250)
+Seat 6: Hulk0208 (15857)
+Seat 7: jesus83 (10000)
+Seat 8: YeahSY (19493)
+*** ANTE/BLINDS ***
+povero posts ante 25
+sagoku posts ante 25
+manggy94 posts ante 25
+yenyen14750 posts ante 25
+Spinalian 88 posts ante 25
+Hulk0208 posts ante 25
+jesus83 posts ante 25
+YeahSY posts ante 25
+povero posts small blind 150
+sagoku posts big blind 300
+Dealt to manggy94 [Ah Qd]
+*** PRE-FLOP *** 
+manggy94 raises 950 to 1250
+yenyen14750 folds
+Spinalian 88 folds
+Hulk0208 folds
+jesus83 folds
+YeahSY calls 1250
+povero calls 1100
+sagoku folds
+*** FLOP *** [8s Ac As]
+povero checks
+manggy94 checks
+YeahSY checks
+*** TURN *** [8s Ac As][5c]
+povero checks
+manggy94 bets 4250
+YeahSY calls 4250
+povero raises 4250 to 8500
+manggy94 raises 200 to 8700 and is all-in
+YeahSY calls 4450
+povero calls 200
+*** RIVER *** [8s Ac As 5c][Kc]
+povero bets 24855
+YeahSY calls 9518 and is all-in
+*** SHOW DOWN ***
+manggy94 shows [Ah Qd] (Trips of Aces)
+YeahSY shows [7c Tc] (Flush Ace high)
+povero shows [Ad Kh] (Full of Aces and Kings)
+povero collected 64723 from pot
+*** SUMMARY ***
+Total pot 64723 | No rake
+Board: [8s Ac As 5c Kc]
+Seat 1: povero (small blind) showed [Ad Kh] and won 64723 with Full of Aces and Kings
+Seat 3: manggy94 showed [Ah Qd] and lost with Trips of Aces
+Seat 8: YeahSY (button) showed [7c Tc] and lost with Flush Ace high
+
+

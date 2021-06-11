@@ -1,0 +1,831 @@
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #716140905609822418-39-1471891650 - Holdem no limit (60/300/600) - 2016/08/22 18:47:30 UTC
+Table: 'COCKTAIL(166739548)#0209' 6-max (real money) Seat #1 is the button
+Seat 1: Astchoum (33988)
+Seat 2: benjamin91 (32331)
+Seat 3: ILOHKOS (21124)
+Seat 4: FouSaucisson (45677)
+Seat 5: manggy94 (26880)
+Seat 6: banania-w (20000)
+*** ANTE/BLINDS ***
+benjamin91 posts ante 60
+ILOHKOS posts ante 60
+Astchoum posts ante 60
+FouSaucisson posts ante 60
+manggy94 posts ante 60
+banania-w posts ante 60
+benjamin91 posts small blind 300
+ILOHKOS posts big blind 600
+Dealt to manggy94 [3h Ah]
+*** PRE-FLOP *** 
+FouSaucisson folds
+manggy94 calls 600
+banania-w calls 600
+Astchoum folds
+benjamin91 calls 300
+ILOHKOS checks
+*** FLOP *** [9c 5c 2c]
+benjamin91 bets 600
+ILOHKOS folds
+manggy94 folds
+banania-w calls 600
+*** TURN *** [9c 5c 2c][5h]
+benjamin91 bets 600
+banania-w calls 600
+*** RIVER *** [9c 5c 2c 5h][Qc]
+benjamin91 bets 600
+banania-w folds
+benjamin91 collected 5760 from pot
+*** SUMMARY ***
+Total pot 5760 | No rake
+Board: [9c 5c 2c 5h Qc]
+Seat 2: benjamin91 (small blind) won 5760
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #716140905609822418-40-1471891719 - Holdem no limit (60/300/600) - 2016/08/22 18:48:39 UTC
+Table: 'COCKTAIL(166739548)#0209' 6-max (real money) Seat #2 is the button
+Seat 1: Astchoum (33928)
+Seat 2: benjamin91 (35631)
+Seat 3: ILOHKOS (20464)
+Seat 4: FouSaucisson (45617)
+Seat 5: manggy94 (26220)
+Seat 6: banania-w (18140)
+*** ANTE/BLINDS ***
+ILOHKOS posts ante 60
+FouSaucisson posts ante 60
+Astchoum posts ante 60
+benjamin91 posts ante 60
+manggy94 posts ante 60
+banania-w posts ante 60
+ILOHKOS posts small blind 300
+FouSaucisson posts big blind 600
+Dealt to manggy94 [Js 5d]
+*** PRE-FLOP *** 
+manggy94 folds
+banania-w folds
+Astchoum raises 1860 to 2460
+benjamin91 folds
+ILOHKOS folds
+FouSaucisson folds
+Astchoum collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Seat 1: Astchoum won 3720
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #716140905609822418-41-1471891789 - Holdem no limit (60/300/600) - 2016/08/22 18:49:49 UTC
+Table: 'COCKTAIL(166739548)#0209' 6-max (real money) Seat #3 is the button
+Seat 1: Astchoum (35128)
+Seat 2: benjamin91 (35571)
+Seat 3: ILOHKOS (20104)
+Seat 4: FouSaucisson (44957)
+Seat 5: manggy94 (26160)
+Seat 6: banania-w (18080)
+*** ANTE/BLINDS ***
+FouSaucisson posts ante 60
+manggy94 posts ante 60
+Astchoum posts ante 60
+benjamin91 posts ante 60
+ILOHKOS posts ante 60
+banania-w posts ante 60
+FouSaucisson posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [5h 8d]
+*** PRE-FLOP *** 
+banania-w raises 600 to 1200
+Astchoum calls 1200
+benjamin91 calls 1200
+ILOHKOS folds
+FouSaucisson folds
+manggy94 folds
+*** FLOP *** [Ah 9s Td]
+banania-w checks
+Astchoum bets 1800
+benjamin91 raises 1800 to 3600
+banania-w raises 13220 to 16820 and is all-in
+Astchoum folds
+benjamin91 calls 13220
+*** TURN *** [Ah 9s Td][Kd]
+*** RIVER *** [Ah 9s Td Kd][Qh]
+*** SHOW DOWN ***
+benjamin91 shows [Ts Ac] (Two pairs : Aces and Tens)
+banania-w shows [9d 9c] (Trips of 9)
+banania-w collected 40300 from pot
+*** SUMMARY ***
+Total pot 40300 | No rake
+Board: [Ah 9s Td Kd Qh]
+Seat 2: benjamin91 showed [Ts Ac] and lost with Two pairs : Aces and Tens
+Seat 6: banania-w showed [9d 9c] and won 40300 with Trips of 9
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #716140905609822418-42-1471891842 - Holdem no limit (60/300/600) - 2016/08/22 18:50:42 UTC
+Table: 'COCKTAIL(166739548)#0209' 6-max (real money) Seat #4 is the button
+Seat 1: Astchoum (32068)
+Seat 2: benjamin91 (17491)
+Seat 3: ILOHKOS (20044)
+Seat 4: FouSaucisson (44597)
+Seat 5: manggy94 (25500)
+Seat 6: banania-w (40300)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+banania-w posts ante 60
+Astchoum posts ante 60
+benjamin91 posts ante 60
+ILOHKOS posts ante 60
+FouSaucisson posts ante 60
+manggy94 posts small blind 300
+banania-w posts big blind 600
+Dealt to manggy94 [9d 6s]
+*** PRE-FLOP *** 
+Astchoum calls 600
+benjamin91 calls 600
+ILOHKOS folds
+FouSaucisson raises 1200 to 1800
+manggy94 folds
+banania-w folds
+Astchoum calls 1200
+benjamin91 calls 1200
+*** FLOP *** [7s 4s 2h]
+Astchoum checks
+benjamin91 checks
+FouSaucisson checks
+*** TURN *** [7s 4s 2h][9c]
+Astchoum bets 1800
+benjamin91 folds
+FouSaucisson folds
+Astchoum collected 8460 from pot
+*** SUMMARY ***
+Total pot 8460 | No rake
+Board: [7s 4s 2h 9c]
+Seat 1: Astchoum won 8460
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #716140905609822418-43-1471891933 - Holdem no limit (60/300/600) - 2016/08/22 18:52:13 UTC
+Table: 'COCKTAIL(166739548)#0209' 6-max (real money) Seat #5 is the button
+Seat 1: Astchoum (36868)
+Seat 2: benjamin91 (15631)
+Seat 3: ILOHKOS (19984)
+Seat 4: FouSaucisson (42737)
+Seat 5: manggy94 (25140)
+Seat 6: banania-w (39640)
+*** ANTE/BLINDS ***
+banania-w posts ante 60
+Astchoum posts ante 60
+benjamin91 posts ante 60
+ILOHKOS posts ante 60
+FouSaucisson posts ante 60
+manggy94 posts ante 60
+banania-w posts small blind 300
+Astchoum posts big blind 600
+Dealt to manggy94 [Ac 7s]
+*** PRE-FLOP *** 
+benjamin91 folds
+ILOHKOS raises 900 to 1500
+FouSaucisson folds
+manggy94 calls 1500
+banania-w calls 1200
+Astchoum calls 900
+*** FLOP *** [As 3c Ks]
+banania-w checks
+Astchoum checks
+ILOHKOS checks
+manggy94 checks
+*** TURN *** [As 3c Ks][Ah]
+banania-w checks
+Astchoum checks
+ILOHKOS checks
+manggy94 bets 3180
+banania-w folds
+Astchoum folds
+ILOHKOS folds
+manggy94 collected 9540 from pot
+*** SUMMARY ***
+Total pot 9540 | No rake
+Board: [As 3c Ks Ah]
+Seat 5: manggy94 (button) won 9540
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #716140905609822418-44-1471892023 - Holdem no limit (60/300/600) - 2016/08/22 18:53:43 UTC
+Table: 'COCKTAIL(166739548)#0209' 6-max (real money) Seat #6 is the button
+Seat 1: Astchoum (35308)
+Seat 2: benjamin91 (15571)
+Seat 3: ILOHKOS (18424)
+Seat 4: FouSaucisson (42677)
+Seat 5: manggy94 (29940)
+Seat 6: banania-w (38080)
+*** ANTE/BLINDS ***
+Astchoum posts ante 60
+benjamin91 posts ante 60
+ILOHKOS posts ante 60
+FouSaucisson posts ante 60
+manggy94 posts ante 60
+banania-w posts ante 60
+Astchoum posts small blind 300
+benjamin91 posts big blind 600
+Dealt to manggy94 [4h Kh]
+*** PRE-FLOP *** 
+ILOHKOS folds
+FouSaucisson folds
+manggy94 calls 600
+banania-w calls 600
+Astchoum calls 300
+benjamin91 checks
+*** FLOP *** [7s 9c Jc]
+Astchoum bets 1200
+benjamin91 calls 1200
+manggy94 folds
+banania-w raises 6360 to 7560
+Astchoum folds
+benjamin91 folds
+banania-w collected 12720 from pot
+*** SUMMARY ***
+Total pot 12720 | No rake
+Board: [7s 9c Jc]
+Seat 6: banania-w (button) won 12720
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #716140905609822418-45-1471892404 - Holdem no limit (75/400/800) - 2016/08/22 19:00:04 UTC
+Table: 'COCKTAIL(166739548)#0209' 6-max (real money) Seat #1 is the button
+Seat 1: Astchoum (33448)
+Seat 2: benjamin91 (13711)
+Seat 3: ILOHKOS (18364)
+Seat 4: FouSaucisson (42617)
+Seat 5: manggy94 (29280)
+Seat 6: banania-w (42580)
+*** ANTE/BLINDS ***
+benjamin91 posts ante 75
+ILOHKOS posts ante 75
+Astchoum posts ante 75
+FouSaucisson posts ante 75
+manggy94 posts ante 75
+banania-w posts ante 75
+benjamin91 posts small blind 400
+ILOHKOS posts big blind 800
+Dealt to manggy94 [8s 6d]
+*** PRE-FLOP *** 
+FouSaucisson folds
+manggy94 folds
+banania-w folds
+Astchoum folds
+benjamin91 raises 800 to 1600
+ILOHKOS calls 800
+*** FLOP *** [4d 4h 4c]
+benjamin91 bets 12036 and is all-in
+ILOHKOS folds
+benjamin91 collected 15686 from pot
+*** SUMMARY ***
+Total pot 15686 | No rake
+Board: [4d 4h 4c]
+Seat 2: benjamin91 (small blind) won 15686
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #716140905609822418-46-1471892524 - Holdem no limit (75/400/800) - 2016/08/22 19:02:04 UTC
+Table: 'COCKTAIL(166739548)#0209' 6-max (real money) Seat #2 is the button
+Seat 1: Astchoum (33373)
+Seat 2: benjamin91 (15686)
+Seat 3: ILOHKOS (16689)
+Seat 4: FouSaucisson (42542)
+Seat 5: manggy94 (29205)
+Seat 6: banania-w (42505)
+*** ANTE/BLINDS ***
+ILOHKOS posts ante 75
+FouSaucisson posts ante 75
+Astchoum posts ante 75
+benjamin91 posts ante 75
+manggy94 posts ante 75
+banania-w posts ante 75
+ILOHKOS posts small blind 400
+FouSaucisson posts big blind 800
+Dealt to manggy94 [3d Kh]
+*** PRE-FLOP *** 
+manggy94 folds
+banania-w folds
+Astchoum folds
+benjamin91 calls 800
+ILOHKOS calls 400
+FouSaucisson checks
+*** FLOP *** [7c 4s 5d]
+ILOHKOS checks
+FouSaucisson checks
+benjamin91 bets 1900
+ILOHKOS folds
+FouSaucisson calls 1900
+*** TURN *** [7c 4s 5d][Ah]
+FouSaucisson checks
+benjamin91 checks
+*** RIVER *** [7c 4s 5d Ah][7s]
+FouSaucisson checks
+benjamin91 bets 6650
+FouSaucisson folds
+benjamin91 collected 13300 from pot
+*** SUMMARY ***
+Total pot 13300 | No rake
+Board: [7c 4s 5d Ah 7s]
+Seat 2: benjamin91 (button) won 13300
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #716140905609822418-47-1471892583 - Holdem no limit (75/400/800) - 2016/08/22 19:03:03 UTC
+Table: 'COCKTAIL(166739548)#0209' 6-max (real money) Seat #3 is the button
+Seat 1: Astchoum (33298)
+Seat 2: benjamin91 (19561)
+Seat 3: ILOHKOS (15814)
+Seat 4: FouSaucisson (39767)
+Seat 5: manggy94 (29130)
+Seat 6: banania-w (42430)
+*** ANTE/BLINDS ***
+FouSaucisson posts ante 75
+manggy94 posts ante 75
+Astchoum posts ante 75
+benjamin91 posts ante 75
+ILOHKOS posts ante 75
+banania-w posts ante 75
+FouSaucisson posts small blind 400
+manggy94 posts big blind 800
+Dealt to manggy94 [6s Jc]
+*** PRE-FLOP *** 
+banania-w folds
+Astchoum calls 800
+benjamin91 raises 1600 to 2400
+ILOHKOS folds
+FouSaucisson folds
+manggy94 folds
+Astchoum calls 1600
+*** FLOP *** [8h 8c 2s]
+Astchoum checks
+benjamin91 bets 17086 and is all-in
+Astchoum folds
+benjamin91 collected 23536 from pot
+*** SUMMARY ***
+Total pot 23536 | No rake
+Board: [8h 8c 2s]
+Seat 2: benjamin91 won 23536
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #716140905609822418-48-1471892623 - Holdem no limit (75/400/800) - 2016/08/22 19:03:43 UTC
+Table: 'COCKTAIL(166739548)#0209' 6-max (real money) Seat #4 is the button
+Seat 1: Astchoum (30823)
+Seat 2: benjamin91 (23536)
+Seat 3: ILOHKOS (15739)
+Seat 4: FouSaucisson (39292)
+Seat 5: manggy94 (28255)
+Seat 6: banania-w (42355)
+*** ANTE/BLINDS ***
+manggy94 posts ante 75
+banania-w posts ante 75
+Astchoum posts ante 75
+benjamin91 posts ante 75
+ILOHKOS posts ante 75
+FouSaucisson posts ante 75
+manggy94 posts small blind 400
+banania-w posts big blind 800
+Dealt to manggy94 [Js Ah]
+*** PRE-FLOP *** 
+Astchoum folds
+benjamin91 calls 800
+ILOHKOS folds
+FouSaucisson folds
+manggy94 raises 1600 to 2400
+banania-w folds
+benjamin91 calls 1600
+*** FLOP *** [Ac As 7d]
+manggy94 checks
+benjamin91 bets 800
+manggy94 raises 3200 to 4000
+benjamin91 calls 3200
+*** TURN *** [Ac As 7d][9c]
+manggy94 bets 14050
+benjamin91 folds
+manggy94 collected 28100 from pot
+*** SUMMARY ***
+Total pot 28100 | No rake
+Board: [Ac As 7d 9c]
+Seat 5: manggy94 (small blind) won 28100
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #716140905609822418-49-1471892663 - Holdem no limit (75/400/800) - 2016/08/22 19:04:23 UTC
+Table: 'COCKTAIL(166739548)#0209' 6-max (real money) Seat #5 is the button
+Seat 1: Astchoum (30748)
+Seat 2: benjamin91 (17061)
+Seat 3: ILOHKOS (15664)
+Seat 4: FouSaucisson (39217)
+Seat 5: manggy94 (35830)
+Seat 6: banania-w (41480)
+*** ANTE/BLINDS ***
+banania-w posts ante 75
+Astchoum posts ante 75
+benjamin91 posts ante 75
+ILOHKOS posts ante 75
+FouSaucisson posts ante 75
+manggy94 posts ante 75
+banania-w posts small blind 400
+Astchoum posts big blind 800
+Dealt to manggy94 [3c 7c]
+*** PRE-FLOP *** 
+benjamin91 folds
+ILOHKOS folds
+FouSaucisson folds
+manggy94 calls 800
+banania-w folds
+Astchoum checks
+*** FLOP *** [Kh 3h 4d]
+Astchoum bets 2800
+manggy94 folds
+Astchoum collected 5250 from pot
+*** SUMMARY ***
+Total pot 5250 | No rake
+Board: [Kh 3h 4d]
+Seat 1: Astchoum (big blind) won 5250
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #716140905609822418-50-1471892702 - Holdem no limit (75/400/800) - 2016/08/22 19:05:02 UTC
+Table: 'COCKTAIL(166739548)#0209' 6-max (real money) Seat #6 is the button
+Seat 1: Astchoum (32323)
+Seat 2: benjamin91 (16986)
+Seat 3: ILOHKOS (15589)
+Seat 4: FouSaucisson (39142)
+Seat 5: manggy94 (34955)
+Seat 6: banania-w (41005)
+*** ANTE/BLINDS ***
+Astchoum posts ante 75
+benjamin91 posts ante 75
+ILOHKOS posts ante 75
+FouSaucisson posts ante 75
+manggy94 posts ante 75
+banania-w posts ante 75
+Astchoum posts small blind 400
+benjamin91 posts big blind 800
+Dealt to manggy94 [5d Ad]
+*** PRE-FLOP *** 
+ILOHKOS folds
+FouSaucisson folds
+manggy94 raises 800 to 1600
+banania-w folds
+Astchoum calls 1200
+benjamin91 calls 800
+*** FLOP *** [6h 3d 2s]
+Astchoum bets 2400
+benjamin91 folds
+manggy94 calls 2400
+*** TURN *** [6h 3d 2s][Tc]
+Astchoum bets 2400
+manggy94 calls 2400
+*** RIVER *** [6h 3d 2s Tc][7c]
+Astchoum checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [5d Ad] (High card : Ace)
+Astchoum shows [2h 4h] (One pair : 2)
+Astchoum collected 14850 from pot
+*** SUMMARY ***
+Total pot 14850 | No rake
+Board: [6h 3d 2s Tc 7c]
+Seat 1: Astchoum (small blind) showed [2h 4h] and won 14850 with One pair : 2
+Seat 5: manggy94 showed [5d Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #716140905609822418-51-1471892751 - Holdem no limit (75/400/800) - 2016/08/22 19:05:51 UTC
+Table: 'COCKTAIL(166739548)#0209' 6-max (real money) Seat #1 is the button
+Seat 1: Astchoum (40698)
+Seat 2: benjamin91 (15311)
+Seat 3: ILOHKOS (15514)
+Seat 4: FouSaucisson (39067)
+Seat 5: manggy94 (28480)
+Seat 6: banania-w (40930)
+*** ANTE/BLINDS ***
+benjamin91 posts ante 75
+ILOHKOS posts ante 75
+Astchoum posts ante 75
+FouSaucisson posts ante 75
+manggy94 posts ante 75
+banania-w posts ante 75
+benjamin91 posts small blind 400
+ILOHKOS posts big blind 800
+Dealt to manggy94 [Tc 2h]
+*** PRE-FLOP *** 
+FouSaucisson folds
+manggy94 folds
+banania-w folds
+Astchoum folds
+benjamin91 calls 400
+ILOHKOS checks
+*** FLOP *** [4s 9s Qs]
+benjamin91 bets 1025
+ILOHKOS folds
+benjamin91 collected 3075 from pot
+*** SUMMARY ***
+Total pot 3075 | No rake
+Board: [4s 9s Qs]
+Seat 2: benjamin91 (small blind) won 3075
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #716140905609822418-52-1471892779 - Holdem no limit (75/400/800) - 2016/08/22 19:06:19 UTC
+Table: 'COCKTAIL(166739548)#0209' 6-max (real money) Seat #2 is the button
+Seat 1: Astchoum (40623)
+Seat 2: benjamin91 (16486)
+Seat 3: ILOHKOS (14639)
+Seat 4: FouSaucisson (38992)
+Seat 5: manggy94 (28405)
+Seat 6: banania-w (40855)
+*** ANTE/BLINDS ***
+ILOHKOS posts ante 75
+FouSaucisson posts ante 75
+Astchoum posts ante 75
+benjamin91 posts ante 75
+manggy94 posts ante 75
+banania-w posts ante 75
+ILOHKOS posts small blind 400
+FouSaucisson posts big blind 800
+Dealt to manggy94 [5h Jh]
+*** PRE-FLOP *** 
+manggy94 folds
+banania-w folds
+Astchoum folds
+benjamin91 raises 800 to 1600
+ILOHKOS folds
+FouSaucisson folds
+benjamin91 collected 3250 from pot
+*** SUMMARY ***
+Total pot 3250 | No rake
+Seat 2: benjamin91 (button) won 3250
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #716140905609822418-53-1471892804 - Holdem no limit (75/400/800) - 2016/08/22 19:06:44 UTC
+Table: 'COCKTAIL(166739548)#0209' 6-max (real money) Seat #3 is the button
+Seat 1: Astchoum (40548)
+Seat 2: benjamin91 (18061)
+Seat 3: ILOHKOS (14164)
+Seat 4: FouSaucisson (38117)
+Seat 5: manggy94 (28330)
+Seat 6: banania-w (40780)
+*** ANTE/BLINDS ***
+FouSaucisson posts ante 75
+manggy94 posts ante 75
+Astchoum posts ante 75
+benjamin91 posts ante 75
+ILOHKOS posts ante 75
+banania-w posts ante 75
+FouSaucisson posts small blind 400
+manggy94 posts big blind 800
+Dealt to manggy94 [Qs 3s]
+*** PRE-FLOP *** 
+banania-w folds
+Astchoum folds
+benjamin91 folds
+ILOHKOS folds
+FouSaucisson folds
+manggy94 collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Seat 5: manggy94 (big blind) won 1650
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #716140905609822418-54-1471892829 - Holdem no limit (75/400/800) - 2016/08/22 19:07:09 UTC
+Table: 'COCKTAIL(166739548)#0209' 6-max (real money) Seat #4 is the button
+Seat 1: Astchoum (40473)
+Seat 2: benjamin91 (17986)
+Seat 3: ILOHKOS (14089)
+Seat 4: FouSaucisson (37642)
+Seat 5: manggy94 (29105)
+Seat 6: banania-w (40705)
+*** ANTE/BLINDS ***
+manggy94 posts ante 75
+banania-w posts ante 75
+Astchoum posts ante 75
+benjamin91 posts ante 75
+ILOHKOS posts ante 75
+FouSaucisson posts ante 75
+manggy94 posts small blind 400
+banania-w posts big blind 800
+Dealt to manggy94 [Kd Ad]
+*** PRE-FLOP *** 
+Astchoum raises 1600 to 2400
+benjamin91 calls 2400
+ILOHKOS folds
+FouSaucisson folds
+manggy94 raises 26630 to 29030 and is all-in
+banania-w folds
+Astchoum raises 11368 to 40398 and is all-in
+benjamin91 folds
+*** FLOP *** [9s 9d 3d]
+*** TURN *** [9s 9d 3d][Th]
+*** RIVER *** [9s 9d 3d Th][4d]
+*** SHOW DOWN ***
+manggy94 shows [Kd Ad] (Flush Ace high)
+Astchoum shows [Ts Td] (Full of Tens and 9)
+Astchoum collected 73078 from pot
+*** SUMMARY ***
+Total pot 73078 | No rake
+Board: [9s 9d 3d Th 4d]
+Seat 1: Astchoum showed [Ts Td] and won 73078 with Full of Tens and 9
+Seat 5: manggy94 (small blind) showed [Kd Ad] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #716140905609822248-91-1471892880 - Holdem no limit (100/500/1000) - 2016/08/22 19:08:00 UTC
+Table: 'COCKTAIL(166739548)#0039' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (20000)
+Seat 2: benourses (28005)
+Seat 3: Xprophete (40980)
+Seat 4: vivi29160 (53732)
+Seat 5: M-ToTheWina (8553)
+Seat 6: KroKmesbool (28730)
+*** ANTE/BLINDS ***
+Xprophete posts ante 100
+vivi29160 posts ante 100
+manggy94 posts ante 100
+benourses posts ante 100
+M-ToTheWina posts ante 100
+KroKmesbool posts ante 100
+Xprophete posts small blind 500
+vivi29160 posts big blind 1000
+Dealt to manggy94 [3s Tc]
+*** PRE-FLOP *** 
+M-ToTheWina raises 1500 to 2500
+KroKmesbool raises 3000 to 5500
+manggy94 folds
+benourses folds
+Xprophete calls 5000
+vivi29160 folds
+M-ToTheWina raises 2953 to 8453 and is all-in
+KroKmesbool calls 2953
+Xprophete calls 2953
+*** FLOP *** [Ts 2h 2s]
+Xprophete bets 32427 and is all-in
+KroKmesbool calls 20177 and is all-in
+*** TURN *** [Ts 2h 2s][Js]
+*** RIVER *** [Ts 2h 2s Js][2d]
+*** SHOW DOWN ***
+KroKmesbool shows [7h 7c] (Full of 2 and 7)
+Xprophete shows [Ac Td] (Full of 2 and Tens)
+M-ToTheWina shows [Ad Jc] (Full of 2 and Jacks)
+M-ToTheWina collected 26959 from main pot
+Xprophete collected 52604 from side pot 1
+*** SUMMARY ***
+Total pot 79563 | No rake
+Board: [Ts 2h 2s Js 2d]
+Seat 3: Xprophete (small blind) showed [Ac Td] and won 52604 with Full of 2 and Tens
+Seat 5: M-ToTheWina showed [Ad Jc] and won 26959 with Full of 2 and Jacks
+Seat 6: KroKmesbool showed [7h 7c] and lost with Full of 2 and 7
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #716140905609822248-92-1471892938 - Holdem no limit (100/500/1000) - 2016/08/22 19:08:58 UTC
+Table: 'COCKTAIL(166739548)#0039' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (19900)
+Seat 2: benourses (27905)
+Seat 3: Xprophete (52604)
+Seat 4: vivi29160 (52632)
+Seat 5: M-ToTheWina (26959)
+*** ANTE/BLINDS ***
+vivi29160 posts ante 100
+M-ToTheWina posts ante 100
+manggy94 posts ante 100
+benourses posts ante 100
+Xprophete posts ante 100
+vivi29160 posts small blind 500
+M-ToTheWina posts big blind 1000
+Dealt to manggy94 [Ah 5h]
+*** PRE-FLOP *** 
+manggy94 raises 1000 to 2000
+benourses raises 4000 to 6000
+Xprophete folds
+vivi29160 folds
+M-ToTheWina folds
+manggy94 calls 4000
+*** FLOP *** [8h 9c 8s]
+manggy94 checks
+benourses checks
+*** TURN *** [8h 9c 8s][Qc]
+manggy94 bets 7000
+benourses raises 14805 to 21805 and is all-in
+manggy94 folds
+benourses collected 42805 from pot
+*** SUMMARY ***
+Total pot 42805 | No rake
+Board: [8h 9c 8s Qc]
+Seat 2: benourses won 42805
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #716140905609822248-93-1471892983 - Holdem no limit (100/500/1000) - 2016/08/22 19:09:43 UTC
+Table: 'COCKTAIL(166739548)#0039' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (6800)
+Seat 2: benourses (42805)
+Seat 3: Xprophete (52504)
+Seat 4: vivi29160 (52032)
+Seat 5: M-ToTheWina (25859)
+Seat 6: ribambelle29 (20000)
+*** ANTE/BLINDS ***
+M-ToTheWina posts ante 100
+ribambelle29 posts ante 100
+manggy94 posts ante 100
+benourses posts ante 100
+Xprophete posts ante 100
+vivi29160 posts ante 100
+M-ToTheWina posts small blind 500
+ribambelle29 posts big blind 1000
+Dealt to manggy94 [Kh 8s]
+*** PRE-FLOP *** 
+manggy94 raises 5700 to 6700 and is all-in
+benourses folds
+Xprophete folds
+vivi29160 folds
+M-ToTheWina folds
+ribambelle29 calls 5700
+*** FLOP *** [Kc Ah 5s]
+*** TURN *** [Kc Ah 5s][8h]
+*** RIVER *** [Kc Ah 5s 8h][4s]
+*** SHOW DOWN ***
+ribambelle29 shows [7d Td] (High card : Ace)
+manggy94 shows [Kh 8s] (Two pairs : Kings and 8)
+manggy94 collected 14500 from pot
+*** SUMMARY ***
+Total pot 14500 | No rake
+Board: [Kc Ah 5s 8h 4s]
+Seat 1: manggy94 showed [Kh 8s] and won 14500 with Two pairs : Kings and 8
+Seat 6: ribambelle29 (big blind) showed [7d Td] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #716140905609822248-94-1471893012 - Holdem no limit (100/500/1000) - 2016/08/22 19:10:12 UTC
+Table: 'COCKTAIL(166739548)#0039' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (14500)
+Seat 2: benourses (42705)
+Seat 3: Xprophete (52404)
+Seat 4: vivi29160 (51932)
+Seat 5: M-ToTheWina (25259)
+Seat 6: ribambelle29 (13200)
+*** ANTE/BLINDS ***
+ribambelle29 posts ante 100
+manggy94 posts ante 100
+benourses posts ante 100
+Xprophete posts ante 100
+vivi29160 posts ante 100
+M-ToTheWina posts ante 100
+ribambelle29 posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [Jd Td]
+*** PRE-FLOP *** 
+benourses folds
+Xprophete calls 1000
+vivi29160 folds
+M-ToTheWina raises 2500 to 3500
+ribambelle29 calls 3000
+manggy94 calls 2500
+Xprophete calls 2500
+*** FLOP *** [6s 2h 8h]
+ribambelle29 checks
+manggy94 checks
+Xprophete checks
+M-ToTheWina checks
+*** TURN *** [6s 2h 8h][6d]
+ribambelle29 bets 9600 and is all-in
+manggy94 folds
+Xprophete folds
+M-ToTheWina folds
+ribambelle29 collected 24200 from pot
+*** SUMMARY ***
+Total pot 24200 | No rake
+Board: [6s 2h 8h 6d]
+Seat 6: ribambelle29 (small blind) won 24200
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #716140905609822248-95-1471893066 - Holdem no limit (100/500/1000) - 2016/08/22 19:11:06 UTC
+Table: 'COCKTAIL(166739548)#0039' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (10900)
+Seat 2: benourses (42605)
+Seat 3: Xprophete (48804)
+Seat 4: vivi29160 (51832)
+Seat 5: M-ToTheWina (21659)
+Seat 6: ribambelle29 (24200)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+benourses posts ante 100
+Xprophete posts ante 100
+vivi29160 posts ante 100
+M-ToTheWina posts ante 100
+ribambelle29 posts ante 100
+manggy94 posts small blind 500
+benourses posts big blind 1000
+Dealt to manggy94 [Ah 6d]
+*** PRE-FLOP *** 
+Xprophete calls 1000
+vivi29160 folds
+M-ToTheWina folds
+ribambelle29 raises 3000 to 4000
+manggy94 raises 6800 to 10800 and is all-in
+benourses folds
+Xprophete raises 37904 to 48704 and is all-in
+ribambelle29 calls 20100 and is all-in
+*** FLOP *** [Jc Qc 2s]
+*** TURN *** [Jc Qc 2s][9s]
+*** RIVER *** [Jc Qc 2s 9s][8d]
+*** SHOW DOWN ***
+manggy94 shows [Ah 6d] (High card : Ace)
+Xprophete shows [3s As] (High card : Ace)
+ribambelle29 shows [Ac Jd] (One pair : Jacks)
+ribambelle29 collected 60600 from main pot
+Xprophete collected 24604 from side pot 1
+*** SUMMARY ***
+Total pot 85204 | No rake
+Board: [Jc Qc 2s 9s 8d]
+Seat 1: manggy94 (small blind) showed [Ah 6d] and lost with High card : Ace
+Seat 3: Xprophete showed [3s As] and won 24604 with High card : Ace
+Seat 6: ribambelle29 (button) showed [Ac Jd] and won 60600 with One pair : Jacks
+
+

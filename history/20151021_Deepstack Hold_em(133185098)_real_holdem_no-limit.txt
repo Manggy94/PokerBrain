@@ -1,0 +1,76 @@
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 4,50€ + 0,50€ level: 8 - HandId: #572025640224555045-31-1445413593 - Holdem no limit (75/400/800) - 2015/10/21 07:46:33 UTC
+Table: 'Deepstack Hold'em(133185098)#036' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (20000)
+Seat 2: SuperSly (21750)
+Seat 3: chaounnois (20075)
+Seat 4: Revelation-8 (12010)
+Seat 5: elfe13330 (33460)
+Seat 6: gptdq (30775)
+*** ANTE/BLINDS ***
+chaounnois posts ante 75
+Revelation-8 posts ante 75
+manggy94 posts ante 75
+SuperSly posts ante 75
+elfe13330 posts ante 75
+gptdq posts ante 75
+chaounnois posts small blind 400
+Revelation-8 posts big blind 800
+Dealt to manggy94 [5s 5c]
+*** PRE-FLOP *** 
+elfe13330 folds
+gptdq folds
+manggy94 calls 800
+SuperSly folds
+chaounnois raises 1600 to 2400
+Revelation-8 folds
+manggy94 calls 1600
+*** FLOP *** [6c Qs 9c]
+chaounnois bets 3025
+manggy94 folds
+chaounnois collected 9075 from pot
+*** SUMMARY ***
+Total pot 9075 | No rake
+Board: [6c Qs 9c]
+Seat 3: chaounnois (small blind) won 9075
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 4,50€ + 0,50€ level: 9 - HandId: #572025640224555045-32-1445413667 - Holdem no limit (100/500/1000) - 2015/10/21 07:47:47 UTC
+Table: 'Deepstack Hold'em(133185098)#036' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (17525)
+Seat 2: SuperSly (21675)
+Seat 3: chaounnois (23650)
+Seat 4: Revelation-8 (11135)
+Seat 5: elfe13330 (33385)
+Seat 6: gptdq (30700)
+*** ANTE/BLINDS ***
+Revelation-8 posts ante 100
+elfe13330 posts ante 100
+manggy94 posts ante 100
+SuperSly posts ante 100
+chaounnois posts ante 100
+gptdq posts ante 100
+Revelation-8 posts small blind 500
+elfe13330 posts big blind 1000
+Dealt to manggy94 [Kh 8h]
+*** PRE-FLOP *** 
+gptdq folds
+manggy94 raises 3100 to 4100
+SuperSly folds
+chaounnois folds
+Revelation-8 folds
+elfe13330 raises 29185 to 33285 and is all-in
+manggy94 calls 13325 and is all-in
+*** FLOP *** [Ac 7s Jh]
+*** TURN *** [Ac 7s Jh][2c]
+*** RIVER *** [Ac 7s Jh 2c][8s]
+*** SHOW DOWN ***
+manggy94 shows [Kh 8h] (One pair : 8)
+elfe13330 shows [Qs Qh] (One pair : Queens)
+elfe13330 collected 51810 from pot
+*** SUMMARY ***
+Total pot 51810 | No rake
+Board: [Ac 7s Jh 2c 8s]
+Seat 1: manggy94 showed [Kh 8h] and lost with One pair : 8
+Seat 5: elfe13330 (big blind) showed [Qs Qh] and won 51810 with One pair : Queens
+
+

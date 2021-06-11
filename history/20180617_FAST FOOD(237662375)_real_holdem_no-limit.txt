@@ -1,0 +1,1343 @@
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #1020752128114688033-7-1529231015 - Holdem no limit (20/100/200) - 2018/06/17 10:23:35 UTC
+Table: 'FAST FOOD(237662375)#032' 8-max (real money) Seat #2 is the button
+Seat 1: sebho91 (11555)
+Seat 2: Figaro Qua (9660)
+Seat 3: sevanglet (8540)
+Seat 4: yoyolas80 (10000)
+Seat 5: manggy94 (10000)
+Seat 6: _ZINGALI_ (9450)
+Seat 7: Onlyonerise (19455)
+Seat 8: Trew2Ball (9410)
+*** ANTE/BLINDS ***
+sevanglet posts ante 20
+yoyolas80 posts ante 20
+sebho91 posts ante 20
+Figaro Qua posts ante 20
+manggy94 posts ante 20
+_ZINGALI_ posts ante 20
+Onlyonerise posts ante 20
+Trew2Ball posts ante 20
+sevanglet posts small blind 100
+yoyolas80 posts big blind 200
+Dealt to manggy94 [3h Td]
+*** PRE-FLOP *** 
+manggy94 folds
+_ZINGALI_ folds
+Onlyonerise folds
+Trew2Ball folds
+sebho91 folds
+Figaro Qua folds
+sevanglet calls 100
+yoyolas80 checks
+*** FLOP *** [Jh Jc 9s]
+sevanglet checks
+yoyolas80 bets 200
+sevanglet calls 200
+*** TURN *** [Jh Jc 9s][Js]
+sevanglet bets 200
+yoyolas80 calls 200
+*** RIVER *** [Jh Jc 9s Js][5h]
+sevanglet bets 200
+yoyolas80 raises 200 to 400
+sevanglet calls 200
+*** SHOW DOWN ***
+sevanglet shows [3c 8c] (Trips of Jacks)
+yoyolas80 shows [9c 5s] (Full of Jacks and 9)
+yoyolas80 collected 2160 from pot
+*** SUMMARY ***
+Total pot 2160 | No rake
+Board: [Jh Jc 9s Js 5h]
+Seat 3: sevanglet (small blind) showed [3c 8c] and lost with Trips of Jacks
+Seat 4: yoyolas80 (big blind) showed [9c 5s] and won 2160 with Full of Jacks and 9
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1020752128114688033-8-1529231065 - Holdem no limit (30/125/250) - 2018/06/17 10:24:25 UTC
+Table: 'FAST FOOD(237662375)#032' 8-max (real money) Seat #3 is the button
+Seat 1: sebho91 (11535)
+Seat 2: Figaro Qua (9640)
+Seat 3: sevanglet (7520)
+Seat 4: yoyolas80 (11140)
+Seat 5: manggy94 (9980)
+Seat 6: _ZINGALI_ (9430)
+Seat 7: Onlyonerise (19435)
+Seat 8: Trew2Ball (9390)
+*** ANTE/BLINDS ***
+yoyolas80 posts ante 30
+manggy94 posts ante 30
+sebho91 posts ante 30
+Figaro Qua posts ante 30
+sevanglet posts ante 30
+_ZINGALI_ posts ante 30
+Onlyonerise posts ante 30
+Trew2Ball posts ante 30
+yoyolas80 posts small blind 125
+manggy94 posts big blind 250
+Dealt to manggy94 [7d Ad]
+*** PRE-FLOP *** 
+_ZINGALI_ folds
+Onlyonerise folds
+Trew2Ball calls 250
+sebho91 calls 250
+Figaro Qua raises 750 to 1000
+sevanglet calls 1000
+yoyolas80 folds
+manggy94 calls 750
+Trew2Ball folds
+sebho91 folds
+*** FLOP *** [8s Ah 8d]
+manggy94 bets 1933
+Figaro Qua calls 1933
+sevanglet folds
+*** TURN *** [8s Ah 8d][8h]
+manggy94 bets 3866
+Figaro Qua raises 2811 to 6677 and is all-in
+manggy94 calls 2811
+*** RIVER *** [8s Ah 8d 8h][6c]
+*** SHOW DOWN ***
+Figaro Qua shows [Td As] (Full of 8 and Aces)
+manggy94 shows [7d Ad] (Full of 8 and Aces)
+manggy94 collected 10543 from pot
+Figaro Qua collected 10542 from pot
+*** SUMMARY ***
+Total pot 21085 | No rake
+Board: [8s Ah 8d 8h 6c]
+Seat 2: Figaro Qua showed [Td As] and won 10542 with Full of 8 and Aces
+Seat 5: manggy94 (big blind) showed [7d Ad] and won 10543 with Full of 8 and Aces
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1020752128114688033-9-1529231151 - Holdem no limit (30/125/250) - 2018/06/17 10:25:51 UTC
+Table: 'FAST FOOD(237662375)#032' 8-max (real money) Seat #4 is the button
+Seat 1: sebho91 (11255)
+Seat 2: Figaro Qua (10542)
+Seat 3: sevanglet (6490)
+Seat 4: yoyolas80 (10985)
+Seat 5: manggy94 (10883)
+Seat 6: _ZINGALI_ (9400)
+Seat 7: Onlyonerise (19405)
+Seat 8: Trew2Ball (9110)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+_ZINGALI_ posts ante 30
+sebho91 posts ante 30
+Figaro Qua posts ante 30
+sevanglet posts ante 30
+yoyolas80 posts ante 30
+Onlyonerise posts ante 30
+Trew2Ball posts ante 30
+manggy94 posts small blind 125
+_ZINGALI_ posts big blind 250
+Dealt to manggy94 [3d Jh]
+*** PRE-FLOP *** 
+Onlyonerise folds
+Trew2Ball folds
+sebho91 folds
+Figaro Qua folds
+sevanglet folds
+yoyolas80 raises 250 to 500
+manggy94 folds
+_ZINGALI_ folds
+yoyolas80 collected 1115 from pot
+*** SUMMARY ***
+Total pot 1115 | No rake
+Seat 4: yoyolas80 (button) won 1115
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1020752128114688033-10-1529231171 - Holdem no limit (30/125/250) - 2018/06/17 10:26:11 UTC
+Table: 'FAST FOOD(237662375)#032' 8-max (real money) Seat #5 is the button
+Seat 1: sebho91 (11225)
+Seat 2: Figaro Qua (10512)
+Seat 3: sevanglet (6460)
+Seat 4: yoyolas80 (11570)
+Seat 5: manggy94 (10728)
+Seat 6: _ZINGALI_ (9120)
+Seat 7: Onlyonerise (19375)
+Seat 8: Trew2Ball (9080)
+*** ANTE/BLINDS ***
+_ZINGALI_ posts ante 30
+Onlyonerise posts ante 30
+sebho91 posts ante 30
+Figaro Qua posts ante 30
+sevanglet posts ante 30
+yoyolas80 posts ante 30
+manggy94 posts ante 30
+Trew2Ball posts ante 30
+_ZINGALI_ posts small blind 125
+Onlyonerise posts big blind 250
+Dealt to manggy94 [Kc Ah]
+*** PRE-FLOP *** 
+Trew2Ball folds
+sebho91 calls 250
+Figaro Qua raises 500 to 750
+sevanglet calls 750
+yoyolas80 folds
+manggy94 raises 3115 to 3865
+_ZINGALI_ folds
+Onlyonerise folds
+sebho91 folds
+Figaro Qua calls 3115
+sevanglet raises 2565 to 6430 and is all-in
+manggy94 calls 2565
+Figaro Qua calls 2565
+*** FLOP *** [Jd 2d 5d]
+Figaro Qua checks
+manggy94 checks
+*** TURN *** [Jd 2d 5d][6c]
+Figaro Qua bets 4052 and is all-in
+manggy94 calls 4052
+*** RIVER *** [Jd 2d 5d 6c][Qh]
+*** SHOW DOWN ***
+sevanglet shows [Kh Ad] (High card : Ace)
+manggy94 shows [Kc Ah] (High card : Ace)
+Figaro Qua shows [Qd Kd] (Flush King high)
+Figaro Qua collected 28259 from pot
+*** SUMMARY ***
+Total pot 28259 | No rake
+Board: [Jd 2d 5d 6c Qh]
+Seat 2: Figaro Qua showed [Qd Kd] and won 28259 with Flush King high
+Seat 3: sevanglet showed [Kh Ad] and lost with High card : Ace
+Seat 5: manggy94 (button) showed [Kc Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1020752128114688033-11-1529231215 - Holdem no limit (30/125/250) - 2018/06/17 10:26:55 UTC
+Table: 'FAST FOOD(237662375)#032' 8-max (real money) Seat #6 is the button
+Seat 1: sebho91 (10945)
+Seat 2: Figaro Qua (28259)
+Seat 3: thekingSpeed (10000)
+Seat 4: yoyolas80 (11540)
+Seat 5: manggy94 (216)
+Seat 6: _ZINGALI_ (8965)
+Seat 7: Onlyonerise (19095)
+Seat 8: Trew2Ball (9050)
+*** ANTE/BLINDS ***
+Onlyonerise posts ante 30
+Trew2Ball posts ante 30
+sebho91 posts ante 30
+Figaro Qua posts ante 30
+thekingSpeed posts ante 30
+yoyolas80 posts ante 30
+manggy94 posts ante 30
+_ZINGALI_ posts ante 30
+Onlyonerise posts small blind 125
+Trew2Ball posts big blind 250
+Dealt to manggy94 [3d 6d]
+*** PRE-FLOP *** 
+sebho91 folds
+Figaro Qua folds
+thekingSpeed folds
+yoyolas80 folds
+manggy94 folds
+_ZINGALI_ folds
+Onlyonerise raises 250 to 500
+Trew2Ball folds
+Onlyonerise collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Seat 7: Onlyonerise (small blind) won 990
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1020752128114688033-12-1529231247 - Holdem no limit (40/150/300) - 2018/06/17 10:27:27 UTC
+Table: 'FAST FOOD(237662375)#032' 8-max (real money) Seat #7 is the button
+Seat 1: sebho91 (10915)
+Seat 2: Figaro Qua (28229)
+Seat 3: thekingSpeed (9970)
+Seat 4: yoyolas80 (11510)
+Seat 5: manggy94 (186)
+Seat 6: _ZINGALI_ (8935)
+Seat 7: Onlyonerise (19555)
+Seat 8: Trew2Ball (8770)
+*** ANTE/BLINDS ***
+Trew2Ball posts ante 40
+sebho91 posts ante 40
+Figaro Qua posts ante 40
+thekingSpeed posts ante 40
+yoyolas80 posts ante 40
+manggy94 posts ante 40
+_ZINGALI_ posts ante 40
+Onlyonerise posts ante 40
+Trew2Ball posts small blind 150
+sebho91 posts big blind 300
+Dealt to manggy94 [8c 2h]
+*** PRE-FLOP *** 
+Figaro Qua raises 300 to 600
+thekingSpeed calls 600
+yoyolas80 folds
+manggy94 folds
+_ZINGALI_ folds
+Onlyonerise raises 18915 to 19515 and is all-in
+Trew2Ball folds
+sebho91 folds
+Figaro Qua folds
+thekingSpeed folds
+Onlyonerise collected 21485 from pot
+*** SUMMARY ***
+Total pot 21485 | No rake
+Seat 7: Onlyonerise (button) won 21485
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1020752128114688033-13-1529231299 - Holdem no limit (40/150/300) - 2018/06/17 10:28:19 UTC
+Table: 'FAST FOOD(237662375)#032' 8-max (real money) Seat #8 is the button
+Seat 1: sebho91 (10575)
+Seat 2: Figaro Qua (27589)
+Seat 4: yoyolas80 (11470)
+Seat 5: manggy94 (146)
+Seat 6: _ZINGALI_ (8895)
+Seat 7: Onlyonerise (21485)
+Seat 8: Trew2Ball (8580)
+*** ANTE/BLINDS ***
+sebho91 posts ante 40
+Figaro Qua posts ante 40
+yoyolas80 posts ante 40
+manggy94 posts ante 40
+_ZINGALI_ posts ante 40
+Onlyonerise posts ante 40
+Trew2Ball posts ante 40
+sebho91 posts small blind 150
+Figaro Qua posts big blind 300
+Dealt to manggy94 [Tc Ks]
+*** PRE-FLOP *** 
+yoyolas80 folds
+manggy94 calls 106 and is all-in
+_ZINGALI_ folds
+Onlyonerise calls 300
+Trew2Ball folds
+sebho91 calls 150
+Figaro Qua checks
+*** FLOP *** [Qc Ac 6d]
+sebho91 checks
+Figaro Qua checks
+Onlyonerise checks
+*** TURN *** [Qc Ac 6d][9s]
+sebho91 checks
+Figaro Qua checks
+Onlyonerise checks
+*** RIVER *** [Qc Ac 6d 9s][Js]
+sebho91 checks
+Figaro Qua checks
+Onlyonerise checks
+*** SHOW DOWN ***
+Figaro Qua shows [7d 4h] (High card : Ace)
+Onlyonerise shows [4d 2d] (High card : Ace)
+sebho91 shows [8d 6s] (One pair : 6)
+manggy94 shows [Tc Ks] (Straight Ace high)
+manggy94 collected 704 from main pot
+sebho91 collected 582 from side pot 1
+*** SUMMARY ***
+Total pot 1286 | No rake
+Board: [Qc Ac 6d 9s Js]
+Seat 1: sebho91 (small blind) showed [8d 6s] and won 582 with One pair : 6
+Seat 2: Figaro Qua (big blind) showed [7d 4h] and lost with High card : Ace
+Seat 5: manggy94 showed [Tc Ks] and won 704 with Straight Ace high
+Seat 7: Onlyonerise showed [4d 2d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1020752128114688033-14-1529231401 - Holdem no limit (50/200/400) - 2018/06/17 10:30:01 UTC
+Table: 'FAST FOOD(237662375)#032' 8-max (real money) Seat #1 is the button
+Seat 1: sebho91 (10817)
+Seat 2: Figaro Qua (27249)
+Seat 3: MuggsyBogues (10000)
+Seat 4: yoyolas80 (11430)
+Seat 5: manggy94 (704)
+Seat 6: _ZINGALI_ (8855)
+Seat 7: Onlyonerise (21145)
+Seat 8: Trew2Ball (8540)
+*** ANTE/BLINDS ***
+Figaro Qua posts ante 50
+MuggsyBogues posts ante 50
+sebho91 posts ante 50
+yoyolas80 posts ante 50
+manggy94 posts ante 50
+_ZINGALI_ posts ante 50
+Onlyonerise posts ante 50
+Trew2Ball posts ante 50
+Figaro Qua posts small blind 200
+MuggsyBogues posts big blind 400
+Dealt to manggy94 [Jd 9h]
+*** PRE-FLOP *** 
+yoyolas80 folds
+manggy94 raises 254 to 654 and is all-in
+_ZINGALI_ folds
+Onlyonerise calls 654
+Trew2Ball folds
+sebho91 calls 654
+Figaro Qua calls 454
+MuggsyBogues folds
+*** FLOP *** [8c 7d 9s]
+Figaro Qua checks
+Onlyonerise bets 400
+sebho91 folds
+Figaro Qua calls 400
+*** TURN *** [8c 7d 9s][Ks]
+Figaro Qua bets 2108
+Onlyonerise calls 2108
+*** RIVER *** [8c 7d 9s Ks][Ah]
+Figaro Qua checks
+Onlyonerise checks
+*** SHOW DOWN ***
+manggy94 shows [Jd 9h] (One pair : 9)
+Onlyonerise shows [4s 9d] (One pair : 9)
+Figaro Qua shows [Kd 6s] (One pair : Kings)
+Figaro Qua collected 8432 from pot
+*** SUMMARY ***
+Total pot 8432 | No rake
+Board: [8c 7d 9s Ks Ah]
+Seat 2: Figaro Qua (small blind) showed [Kd 6s] and won 8432 with One pair : Kings
+Seat 5: manggy94 showed [Jd 9h] and lost with One pair : 9
+Seat 7: Onlyonerise showed [4s 9d] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1020752128114688016-13-1529231550 - Holdem no limit (50/200/400) - 2018/06/17 10:32:30 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #1 is the button
+Seat 1: BARKINGMAD (10979)
+Seat 2: upmcj (7140)
+Seat 3: manggy94 (10000)
+Seat 4: entr0pie (16732)
+Seat 5: losc59221 (11880)
+Seat 6: AL-4-AS-08 (3926)
+Seat 7: Elferun (14051)
+Seat 8: goldenbosch (12070)
+*** ANTE/BLINDS ***
+upmcj posts ante 50
+manggy94 posts ante 50
+BARKINGMAD posts ante 50
+entr0pie posts ante 50
+losc59221 posts ante 50
+AL-4-AS-08 posts ante 50
+Elferun posts ante 50
+goldenbosch posts ante 50
+upmcj posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [2s 3d]
+*** PRE-FLOP *** 
+entr0pie raises 425 to 825
+losc59221 calls 825
+AL-4-AS-08 folds
+Elferun folds
+goldenbosch folds
+BARKINGMAD calls 825
+upmcj folds
+manggy94 folds
+*** FLOP *** [4s Ks Jd]
+entr0pie bets 965
+losc59221 folds
+BARKINGMAD calls 965
+*** TURN *** [4s Ks Jd][Td]
+entr0pie bets 1645
+BARKINGMAD raises 7494 to 9139 and is all-in
+entr0pie calls 7494
+*** RIVER *** [4s Ks Jd Td][9c]
+*** SHOW DOWN ***
+entr0pie shows [Kh Kc] (Trips of Kings)
+BARKINGMAD shows [As Qd] (Straight Ace high)
+BARKINGMAD collected 23683 from pot
+*** SUMMARY ***
+Total pot 23683 | No rake
+Board: [4s Ks Jd Td 9c]
+Seat 1: BARKINGMAD (button) showed [As Qd] and won 23683 with Straight Ace high
+Seat 4: entr0pie showed [Kh Kc] and lost with Trips of Kings
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1020752128114688016-14-1529231617 - Holdem no limit (60/250/500) - 2018/06/17 10:33:37 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #2 is the button
+Seat 1: BARKINGMAD (23683)
+Seat 2: upmcj (6890)
+Seat 3: manggy94 (9550)
+Seat 4: entr0pie (5753)
+Seat 5: losc59221 (11005)
+Seat 6: AL-4-AS-08 (3876)
+Seat 7: Elferun (14001)
+Seat 8: goldenbosch (12020)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+entr0pie posts ante 60
+BARKINGMAD posts ante 60
+upmcj posts ante 60
+losc59221 posts ante 60
+AL-4-AS-08 posts ante 60
+Elferun posts ante 60
+goldenbosch posts ante 60
+manggy94 posts small blind 250
+entr0pie posts big blind 500
+Dealt to manggy94 [As 2h]
+*** PRE-FLOP *** 
+losc59221 raises 750 to 1250
+AL-4-AS-08 folds
+Elferun folds
+goldenbosch calls 1250
+BARKINGMAD folds
+upmcj folds
+manggy94 folds
+entr0pie raises 4443 to 5693 and is all-in
+losc59221 calls 4443
+goldenbosch raises 6267 to 11960 and is all-in
+losc59221 calls 5252 and is all-in
+*** FLOP *** [3s 6d 7c]
+*** TURN *** [3s 6d 7c][4h]
+*** RIVER *** [3s 6d 7c 4h][5d]
+*** SHOW DOWN ***
+entr0pie shows [Kc Qs] (Straight 7 high)
+losc59221 shows [Jh Ks] (Straight 7 high)
+goldenbosch shows [Tc Ts] (Straight 7 high)
+goldenbosch collected 12204 from side pot 2
+losc59221 collected 11188 from side pot 1
+entr0pie collected 5936 from main pot
+*** SUMMARY ***
+Total pot 29328 | No rake
+Board: [3s 6d 7c 4h 5d]
+Seat 4: entr0pie (big blind) showed [Kc Qs] and won 5936 with Straight 7 high
+Seat 5: losc59221 showed [Jh Ks] and won 11188 with Straight 7 high
+Seat 8: goldenbosch showed [Tc Ts] and won 12204 with Straight 7 high
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1020752128114688016-15-1529231680 - Holdem no limit (60/250/500) - 2018/06/17 10:34:40 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #3 is the button
+Seat 1: BARKINGMAD (23623)
+Seat 2: upmcj (6830)
+Seat 3: manggy94 (9240)
+Seat 4: entr0pie (5936)
+Seat 5: losc59221 (11188)
+Seat 6: AL-4-AS-08 (3816)
+Seat 7: Elferun (13941)
+Seat 8: goldenbosch (12204)
+*** ANTE/BLINDS ***
+entr0pie posts ante 60
+losc59221 posts ante 60
+BARKINGMAD posts ante 60
+upmcj posts ante 60
+manggy94 posts ante 60
+AL-4-AS-08 posts ante 60
+Elferun posts ante 60
+goldenbosch posts ante 60
+entr0pie posts small blind 250
+losc59221 posts big blind 500
+Dealt to manggy94 [6d 5s]
+*** PRE-FLOP *** 
+AL-4-AS-08 raises 3256 to 3756 and is all-in
+Elferun folds
+goldenbosch folds
+BARKINGMAD folds
+upmcj folds
+manggy94 folds
+entr0pie folds
+losc59221 folds
+AL-4-AS-08 collected 4986 from pot
+*** SUMMARY ***
+Total pot 4986 | No rake
+Seat 6: AL-4-AS-08 won 4986
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1020752128114688016-16-1529231712 - Holdem no limit (60/250/500) - 2018/06/17 10:35:12 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #4 is the button
+Seat 1: BARKINGMAD (23563)
+Seat 2: upmcj (6770)
+Seat 3: manggy94 (9180)
+Seat 4: entr0pie (5626)
+Seat 5: losc59221 (10628)
+Seat 6: AL-4-AS-08 (4986)
+Seat 7: Elferun (13881)
+Seat 8: goldenbosch (12144)
+*** ANTE/BLINDS ***
+losc59221 posts ante 60
+AL-4-AS-08 posts ante 60
+BARKINGMAD posts ante 60
+upmcj posts ante 60
+manggy94 posts ante 60
+entr0pie posts ante 60
+Elferun posts ante 60
+goldenbosch posts ante 60
+losc59221 posts small blind 250
+AL-4-AS-08 posts big blind 500
+Dealt to manggy94 [3c 9d]
+*** PRE-FLOP *** 
+Elferun calls 500
+goldenbosch calls 500
+BARKINGMAD folds
+upmcj folds
+manggy94 folds
+entr0pie folds
+losc59221 calls 250
+AL-4-AS-08 checks
+*** FLOP *** [Qs 5c Ah]
+losc59221 bets 500
+AL-4-AS-08 folds
+Elferun raises 3480 to 3980
+goldenbosch folds
+losc59221 folds
+Elferun collected 6960 from pot
+*** SUMMARY ***
+Total pot 6960 | No rake
+Board: [Qs 5c Ah]
+Seat 7: Elferun won 6960
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1020752128114688016-17-1529231755 - Holdem no limit (60/250/500) - 2018/06/17 10:35:55 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #5 is the button
+Seat 1: BARKINGMAD (23503)
+Seat 2: upmcj (6710)
+Seat 3: manggy94 (9120)
+Seat 4: entr0pie (5566)
+Seat 5: losc59221 (9568)
+Seat 6: AL-4-AS-08 (4426)
+Seat 7: Elferun (16301)
+Seat 8: goldenbosch (11584)
+*** ANTE/BLINDS ***
+AL-4-AS-08 posts ante 60
+Elferun posts ante 60
+BARKINGMAD posts ante 60
+upmcj posts ante 60
+manggy94 posts ante 60
+entr0pie posts ante 60
+losc59221 posts ante 60
+goldenbosch posts ante 60
+AL-4-AS-08 posts small blind 250
+Elferun posts big blind 500
+Dealt to manggy94 [Ah As]
+*** PRE-FLOP *** 
+goldenbosch folds
+BARKINGMAD folds
+upmcj folds
+manggy94 raises 1000 to 1500
+entr0pie folds
+losc59221 folds
+AL-4-AS-08 folds
+Elferun calls 1000
+*** FLOP *** [2d Ad 9c]
+Elferun checks
+manggy94 checks
+*** TURN *** [2d Ad 9c][3d]
+Elferun checks
+manggy94 bets 500
+Elferun folds
+manggy94 collected 4230 from pot
+*** SUMMARY ***
+Total pot 4230 | No rake
+Board: [2d Ad 9c 3d]
+Seat 3: manggy94 won 4230
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1020752128114688016-18-1529231804 - Holdem no limit (80/300/600) - 2018/06/17 10:36:44 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #6 is the button
+Seat 1: BARKINGMAD (23443)
+Seat 2: upmcj (6650)
+Seat 3: manggy94 (11290)
+Seat 4: entr0pie (5506)
+Seat 5: losc59221 (9508)
+Seat 6: AL-4-AS-08 (4116)
+Seat 7: Elferun (14741)
+Seat 8: goldenbosch (11524)
+*** ANTE/BLINDS ***
+Elferun posts ante 80
+goldenbosch posts ante 80
+BARKINGMAD posts ante 80
+upmcj posts ante 80
+manggy94 posts ante 80
+entr0pie posts ante 80
+losc59221 posts ante 80
+AL-4-AS-08 posts ante 80
+Elferun posts small blind 300
+goldenbosch posts big blind 600
+Dealt to manggy94 [2s 7d]
+*** PRE-FLOP *** 
+BARKINGMAD folds
+upmcj folds
+manggy94 folds
+entr0pie raises 4826 to 5426 and is all-in
+losc59221 raises 4002 to 9428 and is all-in
+AL-4-AS-08 calls 4036 and is all-in
+Elferun raises 4826 to 14254
+goldenbosch folds
+*** FLOP *** [Qs Td Qc]
+*** TURN *** [Qs Td Qc][4c]
+*** RIVER *** [Qs Td Qc 4c][As]
+*** SHOW DOWN ***
+entr0pie shows [6d Kd] (One pair : Queens)
+losc59221 shows [Ks Qh] (Trips of Queens)
+AL-4-AS-08 shows [Kc Jh] (Straight Ace high)
+Elferun shows [Js Jc] (Two pairs : Queens and Jacks)
+Elferun collected 4826 from side pot 2
+AL-4-AS-08 collected 17384 from main pot
+losc59221 collected 12174 from side pot 1
+*** SUMMARY ***
+Total pot 34384 | No rake
+Board: [Qs Td Qc 4c As]
+Seat 4: entr0pie showed [6d Kd] and lost with One pair : Queens
+Seat 5: losc59221 showed [Ks Qh] and won 12174 with Trips of Queens
+Seat 6: AL-4-AS-08 (button) showed [Kc Jh] and won 17384 with Straight Ace high
+Seat 7: Elferun (small blind) showed [Js Jc] and won 4826 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1020752128114688016-19-1529231864 - Holdem no limit (80/300/600) - 2018/06/17 10:37:44 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #7 is the button
+Seat 1: BARKINGMAD (23363)
+Seat 2: upmcj (6570)
+Seat 3: manggy94 (11210)
+Seat 5: losc59221 (12174)
+Seat 6: AL-4-AS-08 (17384)
+Seat 7: Elferun (5233)
+Seat 8: goldenbosch (10844)
+*** ANTE/BLINDS ***
+goldenbosch posts ante 80
+BARKINGMAD posts ante 80
+upmcj posts ante 80
+manggy94 posts ante 80
+losc59221 posts ante 80
+AL-4-AS-08 posts ante 80
+Elferun posts ante 80
+goldenbosch posts small blind 300
+BARKINGMAD posts big blind 600
+Dealt to manggy94 [8h 5s]
+*** PRE-FLOP *** 
+upmcj folds
+manggy94 folds
+losc59221 calls 600
+AL-4-AS-08 folds
+Elferun folds
+goldenbosch calls 300
+BARKINGMAD checks
+*** FLOP *** [2h Tc 8d]
+goldenbosch checks
+BARKINGMAD checks
+losc59221 checks
+*** TURN *** [2h Tc 8d][7d]
+goldenbosch checks
+BARKINGMAD checks
+losc59221 bets 600
+goldenbosch folds
+BARKINGMAD folds
+losc59221 collected 2960 from pot
+*** SUMMARY ***
+Total pot 2960 | No rake
+Board: [2h Tc 8d 7d]
+Seat 5: losc59221 won 2960
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1020752128114688016-20-1529231926 - Holdem no limit (80/300/600) - 2018/06/17 10:38:46 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #8 is the button
+Seat 1: BARKINGMAD (22683)
+Seat 2: upmcj (6490)
+Seat 3: manggy94 (11130)
+Seat 4: ---7--7--- (10000)
+Seat 5: losc59221 (13854)
+Seat 6: AL-4-AS-08 (17304)
+Seat 7: Elferun (5153)
+Seat 8: goldenbosch (10164)
+*** ANTE/BLINDS ***
+BARKINGMAD posts ante 80
+upmcj posts ante 80
+manggy94 posts ante 80
+---7--7--- posts ante 80
+losc59221 posts ante 80
+AL-4-AS-08 posts ante 80
+Elferun posts ante 80
+goldenbosch posts ante 80
+BARKINGMAD posts small blind 300
+upmcj posts big blind 600
+Dealt to manggy94 [6c 7h]
+*** PRE-FLOP *** 
+manggy94 folds
+---7--7--- raises 9320 to 9920 and is all-in
+losc59221 folds
+AL-4-AS-08 folds
+Elferun folds
+goldenbosch folds
+BARKINGMAD folds
+upmcj folds
+---7--7--- collected 11460 from pot
+*** SUMMARY ***
+Total pot 11460 | No rake
+Seat 4: ---7--7--- won 11460
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1020752128114688016-21-1529231972 - Holdem no limit (100/400/800) - 2018/06/17 10:39:32 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #1 is the button
+Seat 1: BARKINGMAD (22303)
+Seat 2: upmcj (5810)
+Seat 3: manggy94 (11050)
+Seat 4: ---7--7--- (11460)
+Seat 5: losc59221 (13774)
+Seat 6: AL-4-AS-08 (17224)
+Seat 7: Elferun (5073)
+Seat 8: goldenbosch (10084)
+*** ANTE/BLINDS ***
+upmcj posts ante 100
+manggy94 posts ante 100
+BARKINGMAD posts ante 100
+---7--7--- posts ante 100
+losc59221 posts ante 100
+AL-4-AS-08 posts ante 100
+Elferun posts ante 100
+goldenbosch posts ante 100
+upmcj posts small blind 400
+manggy94 posts big blind 800
+Dealt to manggy94 [Jc Qh]
+*** PRE-FLOP *** 
+---7--7--- raises 10560 to 11360 and is all-in
+losc59221 folds
+AL-4-AS-08 folds
+Elferun folds
+goldenbosch folds
+BARKINGMAD folds
+upmcj folds
+manggy94 folds
+---7--7--- collected 13360 from pot
+*** SUMMARY ***
+Total pot 13360 | No rake
+Seat 4: ---7--7--- won 13360
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1020752128114688016-22-1529232000 - Holdem no limit (100/400/800) - 2018/06/17 10:40:00 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #2 is the button
+Seat 1: BARKINGMAD (22203)
+Seat 2: upmcj (5310)
+Seat 3: manggy94 (10150)
+Seat 4: ---7--7--- (13360)
+Seat 5: losc59221 (13674)
+Seat 6: AL-4-AS-08 (17124)
+Seat 7: Elferun (4973)
+Seat 8: goldenbosch (9984)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+---7--7--- posts ante 100
+BARKINGMAD posts ante 100
+upmcj posts ante 100
+losc59221 posts ante 100
+AL-4-AS-08 posts ante 100
+Elferun posts ante 100
+goldenbosch posts ante 100
+manggy94 posts small blind 400
+---7--7--- posts big blind 800
+Dealt to manggy94 [3h 8c]
+*** PRE-FLOP *** 
+losc59221 calls 800
+AL-4-AS-08 folds
+Elferun folds
+goldenbosch folds
+BARKINGMAD folds
+upmcj folds
+manggy94 folds
+---7--7--- checks
+*** FLOP *** [Td 5c Th]
+---7--7--- checks
+losc59221 bets 800
+---7--7--- calls 800
+*** TURN *** [Td 5c Th][3d]
+---7--7--- checks
+losc59221 bets 1600
+---7--7--- calls 1600
+*** RIVER *** [Td 5c Th 3d][Jd]
+---7--7--- checks
+losc59221 checks
+*** SHOW DOWN ***
+losc59221 shows [6h 5h] (Two pairs : Tens and 5)
+---7--7--- shows [Ts 5s] (Full of Tens and 5)
+---7--7--- collected 7600 from pot
+*** SUMMARY ***
+Total pot 7600 | No rake
+Board: [Td 5c Th 3d Jd]
+Seat 4: ---7--7--- (big blind) showed [Ts 5s] and won 7600 with Full of Tens and 5
+Seat 5: losc59221 showed [6h 5h] and lost with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1020752128114688016-23-1529232043 - Holdem no limit (100/400/800) - 2018/06/17 10:40:43 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #3 is the button
+Seat 1: BARKINGMAD (22103)
+Seat 2: upmcj (5210)
+Seat 3: manggy94 (9650)
+Seat 4: ---7--7--- (17660)
+Seat 5: losc59221 (10374)
+Seat 6: AL-4-AS-08 (17024)
+Seat 7: Elferun (4873)
+Seat 8: goldenbosch (9884)
+*** ANTE/BLINDS ***
+---7--7--- posts ante 100
+losc59221 posts ante 100
+BARKINGMAD posts ante 100
+upmcj posts ante 100
+manggy94 posts ante 100
+AL-4-AS-08 posts ante 100
+Elferun posts ante 100
+goldenbosch posts ante 100
+---7--7--- posts small blind 400
+losc59221 posts big blind 800
+Dealt to manggy94 [9d Kc]
+*** PRE-FLOP *** 
+AL-4-AS-08 folds
+Elferun folds
+goldenbosch folds
+BARKINGMAD folds
+upmcj raises 4310 to 5110 and is all-in
+manggy94 folds
+---7--7--- folds
+losc59221 folds
+upmcj collected 7110 from pot
+*** SUMMARY ***
+Total pot 7110 | No rake
+Seat 2: upmcj won 7110
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1020752128114688016-24-1529232064 - Holdem no limit (100/400/800) - 2018/06/17 10:41:04 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #4 is the button
+Seat 1: BARKINGMAD (22003)
+Seat 2: upmcj (7110)
+Seat 3: manggy94 (9550)
+Seat 4: ---7--7--- (17160)
+Seat 5: losc59221 (9474)
+Seat 6: AL-4-AS-08 (16924)
+Seat 7: Elferun (4773)
+Seat 8: goldenbosch (9784)
+*** ANTE/BLINDS ***
+losc59221 posts ante 100
+AL-4-AS-08 posts ante 100
+BARKINGMAD posts ante 100
+upmcj posts ante 100
+manggy94 posts ante 100
+---7--7--- posts ante 100
+Elferun posts ante 100
+goldenbosch posts ante 100
+losc59221 posts small blind 400
+AL-4-AS-08 posts big blind 800
+Dealt to manggy94 [4d 2d]
+*** PRE-FLOP *** 
+Elferun folds
+goldenbosch folds
+BARKINGMAD raises 1200 to 2000
+upmcj folds
+manggy94 folds
+---7--7--- folds
+losc59221 calls 1600
+AL-4-AS-08 folds
+*** FLOP *** [5h Ac Qc]
+losc59221 checks
+BARKINGMAD bets 2800
+losc59221 raises 4574 to 7374 and is all-in
+BARKINGMAD calls 4574
+*** TURN *** [5h Ac Qc][Ad]
+*** RIVER *** [5h Ac Qc Ad][Kd]
+*** SHOW DOWN ***
+losc59221 shows [Qd 6d] (Two pairs : Aces and Queens)
+BARKINGMAD shows [Ah 6c] (Trips of Aces)
+BARKINGMAD collected 20348 from pot
+*** SUMMARY ***
+Total pot 20348 | No rake
+Board: [5h Ac Qc Ad Kd]
+Seat 1: BARKINGMAD showed [Ah 6c] and won 20348 with Trips of Aces
+Seat 5: losc59221 (small blind) showed [Qd 6d] and lost with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1020752128114688016-25-1529232132 - Holdem no limit (120/500/1000) - 2018/06/17 10:42:12 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #5 is the button
+Seat 1: BARKINGMAD (32877)
+Seat 2: upmcj (7010)
+Seat 3: manggy94 (9450)
+Seat 4: ---7--7--- (17060)
+Seat 6: AL-4-AS-08 (16024)
+Seat 7: Elferun (4673)
+Seat 8: goldenbosch (9684)
+*** ANTE/BLINDS ***
+AL-4-AS-08 posts ante 120
+Elferun posts ante 120
+BARKINGMAD posts ante 120
+upmcj posts ante 120
+manggy94 posts ante 120
+---7--7--- posts ante 120
+goldenbosch posts ante 120
+AL-4-AS-08 posts small blind 500
+Elferun posts big blind 1000
+Dealt to manggy94 [4d 7c]
+*** PRE-FLOP *** 
+goldenbosch folds
+BARKINGMAD raises 31757 to 32757 and is all-in
+upmcj folds
+manggy94 folds
+---7--7--- folds
+AL-4-AS-08 folds
+Elferun folds
+BARKINGMAD collected 35097 from pot
+*** SUMMARY ***
+Total pot 35097 | No rake
+Seat 1: BARKINGMAD won 35097
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1020752128114688016-26-1529232170 - Holdem no limit (120/500/1000) - 2018/06/17 10:42:50 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #6 is the button
+Seat 1: BARKINGMAD (35097)
+Seat 2: upmcj (6890)
+Seat 3: manggy94 (9330)
+Seat 4: ---7--7--- (16940)
+Seat 6: AL-4-AS-08 (15404)
+Seat 7: Elferun (3553)
+Seat 8: goldenbosch (9564)
+*** ANTE/BLINDS ***
+Elferun posts ante 120
+goldenbosch posts ante 120
+BARKINGMAD posts ante 120
+upmcj posts ante 120
+manggy94 posts ante 120
+---7--7--- posts ante 120
+AL-4-AS-08 posts ante 120
+Elferun posts small blind 500
+goldenbosch posts big blind 1000
+Dealt to manggy94 [9c Kd]
+*** PRE-FLOP *** 
+BARKINGMAD folds
+upmcj raises 5770 to 6770 and is all-in
+manggy94 calls 6770
+---7--7--- folds
+AL-4-AS-08 folds
+Elferun folds
+goldenbosch calls 5770
+*** FLOP *** [2s Th 3h]
+goldenbosch bets 2674 and is all-in
+manggy94 folds
+*** TURN *** [2s Th 3h][Jd]
+*** RIVER *** [2s Th 3h Jd][Qs]
+*** SHOW DOWN ***
+upmcj shows [4s 4h] (One pair : 4)
+goldenbosch shows [Td Qh] (Two pairs : Queens and Tens)
+goldenbosch collected 24324 from pot
+*** SUMMARY ***
+Total pot 24324 | No rake
+Board: [2s Th 3h Jd Qs]
+Seat 2: upmcj showed [4s 4h] and lost with One pair : 4
+Seat 8: goldenbosch (big blind) showed [Td Qh] and won 24324 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1020752128114688016-27-1529232203 - Holdem no limit (120/500/1000) - 2018/06/17 10:43:23 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #7 is the button
+Seat 1: BARKINGMAD (34977)
+Seat 3: manggy94 (2440)
+Seat 4: ---7--7--- (16820)
+Seat 6: AL-4-AS-08 (15284)
+Seat 7: Elferun (2933)
+Seat 8: goldenbosch (24324)
+*** ANTE/BLINDS ***
+goldenbosch posts ante 120
+BARKINGMAD posts ante 120
+manggy94 posts ante 120
+---7--7--- posts ante 120
+AL-4-AS-08 posts ante 120
+Elferun posts ante 120
+goldenbosch posts small blind 500
+BARKINGMAD posts big blind 1000
+Dealt to manggy94 [9d Qc]
+*** PRE-FLOP *** 
+manggy94 raises 1320 to 2320 and is all-in
+---7--7--- folds
+AL-4-AS-08 folds
+Elferun folds
+goldenbosch folds
+BARKINGMAD calls 1320
+*** FLOP *** [Jd 9s 7s]
+*** TURN *** [Jd 9s 7s][As]
+*** RIVER *** [Jd 9s 7s As][4h]
+*** SHOW DOWN ***
+BARKINGMAD shows [2c Tc] (High card : Ace)
+manggy94 shows [9d Qc] (One pair : 9)
+manggy94 collected 5860 from pot
+*** SUMMARY ***
+Total pot 5860 | No rake
+Board: [Jd 9s 7s As 4h]
+Seat 1: BARKINGMAD (big blind) showed [2c Tc] and lost with High card : Ace
+Seat 3: manggy94 showed [9d Qc] and won 5860 with One pair : 9
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1020752128114688016-28-1529232223 - Holdem no limit (120/500/1000) - 2018/06/17 10:43:43 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #8 is the button
+Seat 1: BARKINGMAD (32537)
+Seat 3: manggy94 (5860)
+Seat 4: ---7--7--- (16700)
+Seat 6: AL-4-AS-08 (15164)
+Seat 7: Elferun (2813)
+Seat 8: goldenbosch (23704)
+*** ANTE/BLINDS ***
+BARKINGMAD posts ante 120
+manggy94 posts ante 120
+---7--7--- posts ante 120
+AL-4-AS-08 posts ante 120
+Elferun posts ante 120
+goldenbosch posts ante 120
+BARKINGMAD posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [3s 5s]
+*** PRE-FLOP *** 
+---7--7--- raises 1500 to 2500
+AL-4-AS-08 folds
+Elferun folds
+goldenbosch folds
+BARKINGMAD raises 29917 to 32417 and is all-in
+manggy94 folds
+---7--7--- calls 14080 and is all-in
+*** FLOP *** [Kc Th 4c]
+*** TURN *** [Kc Th 4c][Ad]
+*** RIVER *** [Kc Th 4c Ad][6h]
+*** SHOW DOWN ***
+BARKINGMAD shows [5h 5d] (One pair : 5)
+---7--7--- shows [Jd Jh] (One pair : Jacks)
+---7--7--- collected 34880 from main pot
+BARKINGMAD collected 15837 from side pot 1
+*** SUMMARY ***
+Total pot 50717 | No rake
+Board: [Kc Th 4c Ad 6h]
+Seat 1: BARKINGMAD (small blind) showed [5h 5d] and won 15837 with One pair : 5
+Seat 4: ---7--7--- showed [Jd Jh] and won 34880 with One pair : Jacks
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1020752128114688016-29-1529232241 - Holdem no limit (120/500/1000) - 2018/06/17 10:44:01 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #1 is the button
+Seat 1: BARKINGMAD (15837)
+Seat 3: manggy94 (4740)
+Seat 4: ---7--7--- (34880)
+Seat 5: Aspins25 (7500)
+Seat 6: AL-4-AS-08 (15044)
+Seat 7: Elferun (2693)
+Seat 8: goldenbosch (23584)
+*** ANTE/BLINDS ***
+manggy94 posts ante 120
+---7--7--- posts ante 120
+BARKINGMAD posts ante 120
+Aspins25 posts ante 120
+AL-4-AS-08 posts ante 120
+Elferun posts ante 120
+goldenbosch posts ante 120
+manggy94 posts small blind 500
+---7--7--- posts big blind 1000
+Dealt to manggy94 [Jh 4s]
+*** PRE-FLOP *** 
+Aspins25 folds
+AL-4-AS-08 folds
+Elferun folds
+goldenbosch calls 1000
+BARKINGMAD calls 1000
+manggy94 folds
+---7--7--- checks
+*** FLOP *** [7s Ts Kh]
+---7--7--- checks
+goldenbosch checks
+BARKINGMAD bets 3255
+---7--7--- folds
+goldenbosch folds
+BARKINGMAD collected 7595 from pot
+*** SUMMARY ***
+Total pot 7595 | No rake
+Board: [7s Ts Kh]
+Seat 1: BARKINGMAD (button) won 7595
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1020752128114688016-30-1529232266 - Holdem no limit (120/500/1000) - 2018/06/17 10:44:26 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #3 is the button
+Seat 1: BARKINGMAD (19057)
+Seat 3: manggy94 (4120)
+Seat 4: ---7--7--- (33760)
+Seat 5: Aspins25 (7380)
+Seat 6: AL-4-AS-08 (14924)
+Seat 7: Elferun (2573)
+Seat 8: goldenbosch (22464)
+*** ANTE/BLINDS ***
+---7--7--- posts ante 120
+Aspins25 posts ante 120
+BARKINGMAD posts ante 120
+manggy94 posts ante 120
+AL-4-AS-08 posts ante 120
+Elferun posts ante 120
+goldenbosch posts ante 120
+---7--7--- posts small blind 500
+Aspins25 posts big blind 1000
+Dealt to manggy94 [3s Kd]
+*** PRE-FLOP *** 
+AL-4-AS-08 folds
+Elferun folds
+goldenbosch folds
+BARKINGMAD raises 17937 to 18937 and is all-in
+manggy94 folds
+---7--7--- folds
+Aspins25 folds
+BARKINGMAD collected 21277 from pot
+*** SUMMARY ***
+Total pot 21277 | No rake
+Seat 1: BARKINGMAD won 21277
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1020752128114688016-31-1529232280 - Holdem no limit (120/500/1000) - 2018/06/17 10:44:40 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #4 is the button
+Seat 1: BARKINGMAD (21277)
+Seat 3: manggy94 (4000)
+Seat 4: ---7--7--- (33140)
+Seat 5: Aspins25 (6260)
+Seat 6: AL-4-AS-08 (14804)
+Seat 7: Elferun (2453)
+Seat 8: goldenbosch (22344)
+*** ANTE/BLINDS ***
+Aspins25 posts ante 120
+AL-4-AS-08 posts ante 120
+BARKINGMAD posts ante 120
+manggy94 posts ante 120
+---7--7--- posts ante 120
+Elferun posts ante 120
+goldenbosch posts ante 120
+Aspins25 posts small blind 500
+AL-4-AS-08 posts big blind 1000
+Dealt to manggy94 [Qc Kh]
+*** PRE-FLOP *** 
+Elferun folds
+goldenbosch folds
+BARKINGMAD folds
+manggy94 raises 2880 to 3880 and is all-in
+---7--7--- folds
+Aspins25 folds
+AL-4-AS-08 calls 2880
+*** FLOP *** [3s 4h Kd]
+*** TURN *** [3s 4h Kd][5s]
+*** RIVER *** [3s 4h Kd 5s][Jh]
+*** SHOW DOWN ***
+AL-4-AS-08 shows [3h 2c] (One pair : 3)
+manggy94 shows [Qc Kh] (One pair : Kings)
+manggy94 collected 9100 from pot
+*** SUMMARY ***
+Total pot 9100 | No rake
+Board: [3s 4h Kd 5s Jh]
+Seat 3: manggy94 showed [Qc Kh] and won 9100 with One pair : Kings
+Seat 6: AL-4-AS-08 (big blind) showed [3h 2c] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1020752128114688016-32-1529232303 - Holdem no limit (160/600/1200) - 2018/06/17 10:45:03 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #5 is the button
+Seat 1: BARKINGMAD (21157)
+Seat 3: manggy94 (9100)
+Seat 4: ---7--7--- (33020)
+Seat 5: Aspins25 (5640)
+Seat 6: AL-4-AS-08 (10804)
+Seat 7: Elferun (2333)
+Seat 8: goldenbosch (22224)
+*** ANTE/BLINDS ***
+AL-4-AS-08 posts ante 160
+Elferun posts ante 160
+BARKINGMAD posts ante 160
+manggy94 posts ante 160
+---7--7--- posts ante 160
+Aspins25 posts ante 160
+goldenbosch posts ante 160
+AL-4-AS-08 posts small blind 600
+Elferun posts big blind 1200
+Dealt to manggy94 [5c Jc]
+*** PRE-FLOP *** 
+goldenbosch folds
+BARKINGMAD folds
+manggy94 folds
+---7--7--- folds
+Aspins25 raises 4280 to 5480 and is all-in
+AL-4-AS-08 calls 4880
+Elferun folds
+*** FLOP *** [9s Ah 2h]
+*** TURN *** [9s Ah 2h][Th]
+*** RIVER *** [9s Ah 2h Th][4c]
+*** SHOW DOWN ***
+AL-4-AS-08 shows [5s Kh] (High card : Ace)
+Aspins25 shows [6d 6s] (One pair : 6)
+Aspins25 collected 13280 from pot
+*** SUMMARY ***
+Total pot 13280 | No rake
+Board: [9s Ah 2h Th 4c]
+Seat 5: Aspins25 (button) showed [6d 6s] and won 13280 with One pair : 6
+Seat 6: AL-4-AS-08 (small blind) showed [5s Kh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1020752128114688016-33-1529232329 - Holdem no limit (160/600/1200) - 2018/06/17 10:45:29 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #6 is the button
+Seat 1: BARKINGMAD (20997)
+Seat 2: Badboy080919 (41870)
+Seat 3: manggy94 (8940)
+Seat 4: ---7--7--- (32860)
+Seat 5: Aspins25 (13280)
+Seat 6: AL-4-AS-08 (5164)
+Seat 7: Elferun (973)
+Seat 8: goldenbosch (22064)
+*** ANTE/BLINDS ***
+Elferun posts ante 160
+goldenbosch posts ante 160
+BARKINGMAD posts ante 160
+Badboy080919 posts ante 160
+manggy94 posts ante 160
+---7--7--- posts ante 160
+Aspins25 posts ante 160
+AL-4-AS-08 posts ante 160
+Elferun posts small blind 600
+goldenbosch posts big blind 1200
+Dealt to manggy94 [Jh Kc]
+*** PRE-FLOP *** 
+BARKINGMAD calls 1200
+Badboy080919 calls 1200
+manggy94 calls 1200
+---7--7--- folds
+Aspins25 folds
+AL-4-AS-08 folds
+Elferun folds
+goldenbosch checks
+*** FLOP *** [5c 4d 8h]
+goldenbosch checks
+BARKINGMAD checks
+Badboy080919 bets 6680
+manggy94 folds
+goldenbosch folds
+BARKINGMAD folds
+Badboy080919 shows [9d 8c] (One pair : 8)
+Badboy080919 collected 13360 from pot
+*** SUMMARY ***
+Total pot 13360 | No rake
+Board: [5c 4d 8h]
+Seat 2: Badboy080919 showed [9d 8c] and won 13360 with One pair : 8
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1020752128114688016-34-1529232375 - Holdem no limit (160/600/1200) - 2018/06/17 10:46:15 UTC
+Table: 'FAST FOOD(237662375)#015' 8-max (real money) Seat #7 is the button
+Seat 1: BARKINGMAD (19637)
+Seat 2: Badboy080919 (47190)
+Seat 3: manggy94 (7580)
+Seat 4: ---7--7--- (32700)
+Seat 5: Aspins25 (13120)
+Seat 6: AL-4-AS-08 (5004)
+Seat 7: Elferun (213)
+Seat 8: goldenbosch (20704)
+*** ANTE/BLINDS ***
+goldenbosch posts ante 160
+BARKINGMAD posts ante 160
+Badboy080919 posts ante 160
+manggy94 posts ante 160
+---7--7--- posts ante 160
+Aspins25 posts ante 160
+AL-4-AS-08 posts ante 160
+Elferun posts ante 160
+goldenbosch posts small blind 600
+BARKINGMAD posts big blind 1200
+Dealt to manggy94 [Kh Kc]
+*** PRE-FLOP *** 
+Badboy080919 folds
+manggy94 calls 1200
+---7--7--- folds
+Aspins25 calls 1200
+AL-4-AS-08 raises 3644 to 4844 and is all-in
+Elferun folds
+goldenbosch folds
+BARKINGMAD calls 3644
+manggy94 raises 2576 to 7420 and is all-in
+Aspins25 calls 6220
+BARKINGMAD calls 2576
+*** FLOP *** [Qh Jd 4d]
+BARKINGMAD bets 12057 and is all-in
+Aspins25 calls 5540 and is all-in
+*** TURN *** [Qh Jd 4d][Td]
+*** RIVER *** [Qh Jd 4d Td][Th]
+*** SHOW DOWN ***
+manggy94 shows [Kh Kc] (Two pairs : Kings and Tens)
+AL-4-AS-08 shows [7c 9c] (One pair : Tens)
+BARKINGMAD shows [7d 5d] (Flush Jack high)
+Aspins25 shows [9d Qd] (Flush Queen high)
+Aspins25 collected 40064 from main pot
+BARKINGMAD collected 6517 from side pot 1
+*** SUMMARY ***
+Total pot 46581 | No rake
+Board: [Qh Jd 4d Td Th]
+Seat 1: BARKINGMAD (big blind) showed [7d 5d] and won 6517 with Flush Jack high
+Seat 3: manggy94 showed [Kh Kc] and lost with Two pairs : Kings and Tens
+Seat 5: Aspins25 showed [9d Qd] and won 40064 with Flush Queen high
+Seat 6: AL-4-AS-08 showed [7c 9c] and lost with One pair : Tens
+
+

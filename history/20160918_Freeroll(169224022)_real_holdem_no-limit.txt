@@ -1,0 +1,82 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #726811640187584778-6-1474195015 - Holdem no limit (20/40) - 2016/09/18 10:36:55 UTC
+Table: 'Freeroll(169224022)#265' 8-max (real money) Seat #8 is the button
+Seat 1: TequilaSolo (3985)
+Seat 2: manggy94 (3000)
+Seat 3: BOISDONIEN (2890)
+Seat 5: vivi83000 (2890)
+Seat 6: Jump3r (130)
+Seat 7: SuperPacha (11250)
+Seat 8: LOLA59223 (2855)
+*** ANTE/BLINDS ***
+TequilaSolo posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [Qs 5c]
+*** PRE-FLOP *** 
+BOISDONIEN calls 40
+vivi83000 calls 40
+Jump3r folds
+SuperPacha folds
+LOLA59223 raises 40 to 80
+TequilaSolo calls 60
+manggy94 folds
+BOISDONIEN calls 40
+vivi83000 calls 40
+*** FLOP *** [2s Td Tc]
+TequilaSolo checks
+BOISDONIEN checks
+vivi83000 bets 40
+LOLA59223 raises 40 to 80
+TequilaSolo folds
+BOISDONIEN folds
+vivi83000 calls 40
+*** TURN *** [2s Td Tc][5d]
+vivi83000 checks
+LOLA59223 bets 520
+vivi83000 folds
+LOLA59223 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [2s Td Tc 5d]
+Seat 8: LOLA59223 (button) won 1040
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #726811640187584778-7-1474195081 - Holdem no limit (20/40) - 2016/09/18 10:38:01 UTC
+Table: 'Freeroll(169224022)#265' 8-max (real money) Seat #1 is the button
+Seat 1: TequilaSolo (3905)
+Seat 2: manggy94 (2960)
+Seat 3: BOISDONIEN (2810)
+Seat 4: Zhakro (3000)
+Seat 5: vivi83000 (2730)
+Seat 6: Jump3r (130)
+Seat 7: SuperPacha (11250)
+Seat 8: LOLA59223 (3215)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+BOISDONIEN posts big blind 40
+Dealt to manggy94 [9c Kh]
+*** PRE-FLOP *** 
+Zhakro folds
+vivi83000 calls 40
+Jump3r folds
+SuperPacha folds
+LOLA59223 calls 40
+TequilaSolo calls 40
+manggy94 raises 2920 to 2960 and is all-in
+BOISDONIEN folds
+vivi83000 folds
+LOLA59223 folds
+TequilaSolo calls 2920
+*** FLOP *** [2h Ts As]
+*** TURN *** [2h Ts As][8s]
+*** RIVER *** [2h Ts As 8s][Jh]
+*** SHOW DOWN ***
+manggy94 shows [9c Kh] (High card : Ace)
+TequilaSolo shows [Js 4s] (Flush Ace high)
+TequilaSolo collected 6040 from pot
+*** SUMMARY ***
+Total pot 6040 | No rake
+Board: [2h Ts As 8s Jh]
+Seat 1: TequilaSolo (button) showed [Js 4s] and won 6040 with Flush Ace high
+Seat 2: manggy94 (small blind) showed [9c Kh] and lost with High card : Ace
+
+

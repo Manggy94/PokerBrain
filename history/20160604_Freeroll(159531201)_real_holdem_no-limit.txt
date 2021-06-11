@@ -1,0 +1,2256 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #685181290986602608-10-1465042226 - Holdem no limit (30/60) - 2016/06/04 12:10:26 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #2 is the button
+Seat 1: SaltyPlay (2905)
+Seat 2: didoudur13 (3040)
+Seat 3: fredlaf1974 (2890)
+Seat 4: Catoche26 (2820)
+Seat 5: mika500 (6345)
+Seat 6: manggy94 (3000)
+*** ANTE/BLINDS ***
+fredlaf1974 posts small blind 30
+Catoche26 posts big blind 60
+Dealt to manggy94 [Kd 9s]
+*** PRE-FLOP *** 
+mika500 calls 60
+manggy94 calls 60
+SaltyPlay folds
+didoudur13 calls 60
+fredlaf1974 folds
+Catoche26 checks
+*** FLOP *** [9c 9d As]
+Catoche26 checks
+mika500 checks
+manggy94 checks
+didoudur13 checks
+*** TURN *** [9c 9d As][6h]
+Catoche26 bets 60
+mika500 folds
+manggy94 raises 390 to 450
+didoudur13 folds
+Catoche26 calls 390
+*** RIVER *** [9c 9d As 6h][2s]
+Catoche26 bets 60
+manggy94 raises 1290 to 1350
+Catoche26 calls 1290
+*** SHOW DOWN ***
+Catoche26 shows [Ac Kh] (Two pairs : Aces and 9)
+manggy94 shows [Kd 9s] (Trips of 9)
+manggy94 collected 3870 from pot
+*** SUMMARY ***
+Total pot 3870 | No rake
+Board: [9c 9d As 6h 2s]
+Seat 4: Catoche26 (big blind) showed [Ac Kh] and lost with Two pairs : Aces and 9
+Seat 6: manggy94 showed [Kd 9s] and won 3870 with Trips of 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #685181290986602608-11-1465042282 - Holdem no limit (30/60) - 2016/06/04 12:11:22 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #3 is the button
+Seat 1: SaltyPlay (2905)
+Seat 2: didoudur13 (2980)
+Seat 3: fredlaf1974 (2860)
+Seat 4: Catoche26 (960)
+Seat 5: mika500 (6285)
+Seat 6: manggy94 (5010)
+*** ANTE/BLINDS ***
+Catoche26 posts small blind 30
+mika500 posts big blind 60
+Dealt to manggy94 [Ac Th]
+*** PRE-FLOP *** 
+manggy94 calls 60
+SaltyPlay folds
+didoudur13 raises 210 to 270
+fredlaf1974 folds
+Catoche26 calls 240
+mika500 folds
+manggy94 calls 210
+*** FLOP *** [4h 5d Kd]
+Catoche26 checks
+manggy94 checks
+didoudur13 bets 580
+Catoche26 folds
+manggy94 folds
+didoudur13 collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Board: [4h 5d Kd]
+Seat 2: didoudur13 won 1450
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #685181290986602608-12-1465042318 - Holdem no limit (30/60) - 2016/06/04 12:11:58 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #4 is the button
+Seat 1: SaltyPlay (2905)
+Seat 2: didoudur13 (3580)
+Seat 3: fredlaf1974 (2860)
+Seat 4: Catoche26 (690)
+Seat 5: mika500 (6225)
+Seat 6: manggy94 (4740)
+*** ANTE/BLINDS ***
+mika500 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [Td 5s]
+*** PRE-FLOP *** 
+SaltyPlay folds
+didoudur13 calls 60
+fredlaf1974 folds
+Catoche26 calls 60
+mika500 calls 30
+manggy94 checks
+*** FLOP *** [6c 7d 3d]
+mika500 checks
+manggy94 bets 120
+didoudur13 calls 120
+Catoche26 raises 510 to 630 and is all-in
+mika500 folds
+manggy94 folds
+didoudur13 calls 510
+*** TURN *** [6c 7d 3d][8c]
+*** RIVER *** [6c 7d 3d 8c][6h]
+*** SHOW DOWN ***
+didoudur13 shows [3c Ah] (Two pairs : 6 and 3)
+Catoche26 shows [5h 4h] (Straight 8 high)
+Catoche26 collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | No rake
+Board: [6c 7d 3d 8c 6h]
+Seat 2: didoudur13 showed [3c Ah] and lost with Two pairs : 6 and 3
+Seat 4: Catoche26 (button) showed [5h 4h] and won 1620 with Straight 8 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #685181290986602608-13-1465042366 - Holdem no limit (40/80) - 2016/06/04 12:12:46 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #5 is the button
+Seat 1: SaltyPlay (2905)
+Seat 2: didoudur13 (2890)
+Seat 3: fredlaf1974 (2860)
+Seat 4: Catoche26 (1620)
+Seat 5: mika500 (6165)
+Seat 6: manggy94 (4560)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+SaltyPlay posts big blind 80
+Dealt to manggy94 [Qc 8h]
+*** PRE-FLOP *** 
+didoudur13 folds
+fredlaf1974 folds
+Catoche26 calls 80
+mika500 calls 80
+manggy94 calls 40
+SaltyPlay folds
+*** FLOP *** [3d Ah 5s]
+manggy94 checks
+Catoche26 checks
+mika500 checks
+*** TURN *** [3d Ah 5s][5d]
+manggy94 bets 160
+Catoche26 folds
+mika500 calls 160
+*** RIVER *** [3d Ah 5s 5d][Qs]
+manggy94 bets 320
+mika500 calls 320
+*** SHOW DOWN ***
+mika500 shows [Jh Ks] (One pair : 5)
+manggy94 shows [Qc 8h] (Two pairs : Queens and 5)
+manggy94 collected 1280 from pot
+*** SUMMARY ***
+Total pot 1280 | No rake
+Board: [3d Ah 5s 5d Qs]
+Seat 5: mika500 (button) showed [Jh Ks] and lost with One pair : 5
+Seat 6: manggy94 (small blind) showed [Qc 8h] and won 1280 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #685181290986602608-14-1465042406 - Holdem no limit (40/80) - 2016/06/04 12:13:26 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #6 is the button
+Seat 1: SaltyPlay (2825)
+Seat 2: didoudur13 (2890)
+Seat 3: fredlaf1974 (2860)
+Seat 4: Catoche26 (1540)
+Seat 5: mika500 (5605)
+Seat 6: manggy94 (5280)
+*** ANTE/BLINDS ***
+SaltyPlay posts small blind 40
+didoudur13 posts big blind 80
+Dealt to manggy94 [7d 4h]
+*** PRE-FLOP *** 
+fredlaf1974 folds
+Catoche26 calls 80
+mika500 calls 80
+manggy94 folds
+SaltyPlay folds
+didoudur13 checks
+*** FLOP *** [Qc Ks Ad]
+didoudur13 checks
+Catoche26 checks
+mika500 bets 80
+didoudur13 folds
+Catoche26 folds
+mika500 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Qc Ks Ad]
+Seat 5: mika500 won 360
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #685181290986602608-15-1465042427 - Holdem no limit (40/80) - 2016/06/04 12:13:47 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #1 is the button
+Seat 1: SaltyPlay (2785)
+Seat 2: didoudur13 (2810)
+Seat 3: fredlaf1974 (2860)
+Seat 4: Catoche26 (1460)
+Seat 5: mika500 (5805)
+Seat 6: manggy94 (5280)
+*** ANTE/BLINDS ***
+didoudur13 posts small blind 40
+fredlaf1974 posts big blind 80
+Dealt to manggy94 [Kc Th]
+*** PRE-FLOP *** 
+Catoche26 folds
+mika500 calls 80
+manggy94 calls 80
+SaltyPlay folds
+didoudur13 calls 40
+fredlaf1974 folds
+*** FLOP *** [Qh 4c 2c]
+didoudur13 checks
+mika500 checks
+manggy94 bets 160
+didoudur13 folds
+mika500 calls 160
+*** TURN *** [Qh 4c 2c][6c]
+mika500 checks
+manggy94 checks
+*** RIVER *** [Qh 4c 2c 6c][9d]
+mika500 checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [Kc Th] (High card : King)
+mika500 shows [6s 5s] (One pair : 6)
+mika500 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Qh 4c 2c 6c 9d]
+Seat 5: mika500 showed [6s 5s] and won 640 with One pair : 6
+Seat 6: manggy94 showed [Kc Th] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #685181290986602608-16-1465042464 - Holdem no limit (40/80) - 2016/06/04 12:14:24 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #2 is the button
+Seat 1: SaltyPlay (2785)
+Seat 2: didoudur13 (2730)
+Seat 3: fredlaf1974 (2780)
+Seat 4: Catoche26 (1460)
+Seat 5: mika500 (6205)
+Seat 6: manggy94 (5040)
+*** ANTE/BLINDS ***
+fredlaf1974 posts small blind 40
+Catoche26 posts big blind 80
+Dealt to manggy94 [2d 4s]
+*** PRE-FLOP *** 
+mika500 calls 80
+manggy94 folds
+SaltyPlay folds
+didoudur13 calls 80
+fredlaf1974 folds
+Catoche26 checks
+*** FLOP *** [2c 4c Ts]
+Catoche26 checks
+mika500 checks
+didoudur13 checks
+*** TURN *** [2c 4c Ts][8s]
+Catoche26 checks
+mika500 checks
+didoudur13 checks
+*** RIVER *** [2c 4c Ts 8s][7c]
+Catoche26 checks
+mika500 checks
+didoudur13 checks
+*** SHOW DOWN ***
+Catoche26 shows [Kd 5d] (High card : King)
+mika500 shows [Qs 9c] (High card : Queen)
+didoudur13 shows [6d Kh] (High card : King)
+didoudur13 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [2c 4c Ts 8s 7c]
+Seat 2: didoudur13 (button) showed [6d Kh] and won 280 with High card : King
+Seat 4: Catoche26 (big blind) showed [Kd 5d] and lost with High card : King
+Seat 5: mika500 showed [Qs 9c] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #685181290986602608-17-1465042502 - Holdem no limit (40/80) - 2016/06/04 12:15:02 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #3 is the button
+Seat 1: SaltyPlay (2785)
+Seat 2: didoudur13 (2930)
+Seat 3: fredlaf1974 (2740)
+Seat 4: Catoche26 (1380)
+Seat 5: mika500 (6125)
+Seat 6: manggy94 (5040)
+*** ANTE/BLINDS ***
+Catoche26 posts small blind 40
+mika500 posts big blind 80
+Dealt to manggy94 [Jh 6s]
+*** PRE-FLOP *** 
+manggy94 folds
+SaltyPlay folds
+didoudur13 calls 80
+fredlaf1974 folds
+Catoche26 calls 40
+mika500 raises 80 to 160
+didoudur13 calls 80
+Catoche26 calls 80
+*** FLOP *** [Kc Tc Qs]
+Catoche26 checks
+mika500 bets 80
+didoudur13 calls 80
+Catoche26 calls 80
+*** TURN *** [Kc Tc Qs][Jd]
+Catoche26 bets 1140 and is all-in
+mika500 calls 1140
+didoudur13 folds
+*** RIVER *** [Kc Tc Qs Jd][3h]
+*** SHOW DOWN ***
+Catoche26 shows [Ac 3d] (Straight Ace high)
+mika500 shows [Jc Ah] (Straight Ace high)
+mika500 collected 1500 from pot
+Catoche26 collected 1500 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Kc Tc Qs Jd 3h]
+Seat 4: Catoche26 (small blind) showed [Ac 3d] and won 1500 with Straight Ace high
+Seat 5: mika500 (big blind) showed [Jc Ah] and won 1500 with Straight Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #685181290986602608-18-1465042539 - Holdem no limit (60/120) - 2016/06/04 12:15:39 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #4 is the button
+Seat 1: SaltyPlay (2785)
+Seat 2: didoudur13 (2690)
+Seat 3: fredlaf1974 (2740)
+Seat 4: Catoche26 (1500)
+Seat 5: mika500 (6245)
+Seat 6: manggy94 (5040)
+*** ANTE/BLINDS ***
+mika500 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [8h 4h]
+*** PRE-FLOP *** 
+SaltyPlay folds
+didoudur13 folds
+fredlaf1974 folds
+Catoche26 folds
+mika500 calls 60
+manggy94 checks
+*** FLOP *** [6s 8c 8d]
+mika500 checks
+manggy94 checks
+*** TURN *** [6s 8c 8d][4d]
+mika500 checks
+manggy94 checks
+*** RIVER *** [6s 8c 8d 4d][Ks]
+mika500 bets 120
+manggy94 raises 180 to 300
+mika500 calls 180
+*** SHOW DOWN ***
+mika500 shows [3h Qs] (One pair : 8)
+manggy94 shows [8h 4h] (Full of 8 and 4)
+manggy94 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [6s 8c 8d 4d Ks]
+Seat 5: mika500 (small blind) showed [3h Qs] and lost with One pair : 8
+Seat 6: manggy94 (big blind) showed [8h 4h] and won 840 with Full of 8 and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #685181290986602608-19-1465042570 - Holdem no limit (60/120) - 2016/06/04 12:16:10 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #5 is the button
+Seat 1: SaltyPlay (2785)
+Seat 2: didoudur13 (2690)
+Seat 3: fredlaf1974 (2740)
+Seat 4: Catoche26 (1500)
+Seat 5: mika500 (5825)
+Seat 6: manggy94 (5460)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 60
+SaltyPlay posts big blind 120
+Dealt to manggy94 [7s Tc]
+*** PRE-FLOP *** 
+didoudur13 folds
+fredlaf1974 calls 120
+Catoche26 raises 1380 to 1500 and is all-in
+mika500 calls 1500
+manggy94 folds
+SaltyPlay folds
+fredlaf1974 calls 1380
+*** FLOP *** [Qc 5c 6h]
+fredlaf1974 bets 1240 and is all-in
+mika500 calls 1240
+*** TURN *** [Qc 5c 6h][Jc]
+*** RIVER *** [Qc 5c 6h Jc][2s]
+*** SHOW DOWN ***
+fredlaf1974 shows [Kd 9c] (High card : King)
+Catoche26 shows [Qd Qs] (Trips of Queens)
+mika500 shows [Qh Ad] (One pair : Queens)
+mika500 collected 2480 from side pot 1
+Catoche26 collected 4680 from main pot
+*** SUMMARY ***
+Total pot 7160 | No rake
+Board: [Qc 5c 6h Jc 2s]
+Seat 3: fredlaf1974 showed [Kd 9c] and lost with High card : King
+Seat 4: Catoche26 showed [Qd Qs] and won 4680 with Trips of Queens
+Seat 5: mika500 (button) showed [Qh Ad] and won 2480 with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #685181290986602608-20-1465042602 - Holdem no limit (60/120) - 2016/06/04 12:16:42 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #6 is the button
+Seat 1: SaltyPlay (2665)
+Seat 2: didoudur13 (2690)
+Seat 4: Catoche26 (4680)
+Seat 5: mika500 (5565)
+Seat 6: manggy94 (5400)
+*** ANTE/BLINDS ***
+SaltyPlay posts small blind 60
+didoudur13 posts big blind 120
+Dealt to manggy94 [3d 3c]
+*** PRE-FLOP *** 
+Catoche26 folds
+mika500 calls 120
+manggy94 raises 120 to 240
+SaltyPlay folds
+didoudur13 calls 120
+mika500 calls 120
+*** FLOP *** [3h 2h 9c]
+didoudur13 checks
+mika500 checks
+manggy94 bets 390
+didoudur13 folds
+mika500 calls 390
+*** TURN *** [3h 2h 9c][2s]
+mika500 checks
+manggy94 bets 780
+mika500 folds
+manggy94 collected 2340 from pot
+*** SUMMARY ***
+Total pot 2340 | No rake
+Board: [3h 2h 9c 2s]
+Seat 6: manggy94 (button) won 2340
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #685181290986602608-21-1465042634 - Holdem no limit (60/120) - 2016/06/04 12:17:14 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #1 is the button
+Seat 1: SaltyPlay (2605)
+Seat 2: didoudur13 (2450)
+Seat 3: Mumu-al (3000)
+Seat 4: Catoche26 (4680)
+Seat 5: mika500 (4935)
+Seat 6: manggy94 (6330)
+*** ANTE/BLINDS ***
+didoudur13 posts small blind 60
+Mumu-al posts big blind 120
+Dealt to manggy94 [Qd Js]
+*** PRE-FLOP *** 
+Catoche26 folds
+mika500 folds
+manggy94 calls 120
+SaltyPlay folds
+didoudur13 calls 60
+Mumu-al raises 2880 to 3000 and is all-in
+manggy94 folds
+didoudur13 folds
+Mumu-al collected 3240 from pot
+*** SUMMARY ***
+Total pot 3240 | No rake
+Seat 3: Mumu-al (big blind) won 3240
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #685181290986602608-22-1465042648 - Holdem no limit (60/120) - 2016/06/04 12:17:28 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #2 is the button
+Seat 1: SaltyPlay (2605)
+Seat 2: didoudur13 (2330)
+Seat 3: Mumu-al (3240)
+Seat 4: Catoche26 (4680)
+Seat 5: mika500 (4935)
+Seat 6: manggy94 (6210)
+*** ANTE/BLINDS ***
+Mumu-al posts small blind 60
+Catoche26 posts big blind 120
+Dealt to manggy94 [6s Js]
+*** PRE-FLOP *** 
+mika500 folds
+manggy94 calls 120
+SaltyPlay folds
+didoudur13 calls 120
+Mumu-al raises 3120 to 3240 and is all-in
+Catoche26 calls 3120
+manggy94 folds
+didoudur13 folds
+*** FLOP *** [4s 9h 7s]
+*** TURN *** [4s 9h 7s][5h]
+*** RIVER *** [4s 9h 7s 5h][Jc]
+*** SHOW DOWN ***
+Mumu-al shows [8d 5s] (One pair : 5)
+Catoche26 shows [Jh Kc] (One pair : Jacks)
+Catoche26 collected 6720 from pot
+*** SUMMARY ***
+Total pot 6720 | No rake
+Board: [4s 9h 7s 5h Jc]
+Seat 3: Mumu-al (small blind) showed [8d 5s] and lost with One pair : 5
+Seat 4: Catoche26 (big blind) showed [Jh Kc] and won 6720 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #685181290986602608-23-1465042671 - Holdem no limit (60/120) - 2016/06/04 12:17:51 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #3 is the button
+Seat 1: SaltyPlay (2605)
+Seat 2: didoudur13 (2210)
+Seat 4: Catoche26 (8160)
+Seat 5: mika500 (4935)
+Seat 6: manggy94 (6090)
+*** ANTE/BLINDS ***
+Catoche26 posts small blind 60
+mika500 posts big blind 120
+Dealt to manggy94 [2s 9c]
+*** PRE-FLOP *** 
+manggy94 folds
+SaltyPlay folds
+didoudur13 folds
+Catoche26 calls 60
+mika500 checks
+*** FLOP *** [Ac Ts Kc]
+Catoche26 checks
+mika500 bets 120
+Catoche26 calls 120
+*** TURN *** [Ac Ts Kc][8c]
+Catoche26 checks
+mika500 bets 120
+Catoche26 folds
+mika500 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Ac Ts Kc 8c]
+Seat 5: mika500 (big blind) won 600
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #685181290986602608-24-1465042691 - Holdem no limit (60/120) - 2016/06/04 12:18:11 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #4 is the button
+Seat 1: SaltyPlay (2605)
+Seat 2: didoudur13 (2210)
+Seat 3: tycheffe (3000)
+Seat 4: Catoche26 (7920)
+Seat 5: mika500 (5175)
+Seat 6: manggy94 (6090)
+*** ANTE/BLINDS ***
+mika500 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [3s 3d]
+*** PRE-FLOP *** 
+SaltyPlay folds
+didoudur13 folds
+tycheffe calls 120
+Catoche26 calls 120
+mika500 calls 60
+manggy94 checks
+*** FLOP *** [8s Qd 3c]
+mika500 checks
+manggy94 bets 480
+tycheffe calls 480
+Catoche26 folds
+mika500 folds
+*** TURN *** [8s Qd 3c][Qh]
+manggy94 checks
+tycheffe checks
+*** RIVER *** [8s Qd 3c Qh][2s]
+manggy94 bets 1440
+tycheffe folds
+manggy94 collected 2880 from pot
+*** SUMMARY ***
+Total pot 2880 | No rake
+Board: [8s Qd 3c Qh 2s]
+Seat 6: manggy94 (big blind) won 2880
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #685181290986602608-25-1465042740 - Holdem no limit (10/60/120) - 2016/06/04 12:19:00 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #5 is the button
+Seat 1: SaltyPlay (2605)
+Seat 2: didoudur13 (2210)
+Seat 3: tycheffe (2400)
+Seat 4: Catoche26 (7800)
+Seat 5: mika500 (5055)
+Seat 6: manggy94 (6930)
+*** ANTE/BLINDS ***
+manggy94 posts ante 10
+SaltyPlay posts ante 10
+didoudur13 posts ante 10
+tycheffe posts ante 10
+Catoche26 posts ante 10
+mika500 posts ante 10
+manggy94 posts small blind 60
+SaltyPlay posts big blind 120
+Dealt to manggy94 [Kc 3s]
+*** PRE-FLOP *** 
+didoudur13 folds
+tycheffe calls 120
+Catoche26 calls 120
+mika500 calls 120
+manggy94 calls 60
+SaltyPlay folds
+*** FLOP *** [3d 7h 5c]
+manggy94 checks
+tycheffe checks
+Catoche26 checks
+mika500 checks
+*** TURN *** [3d 7h 5c][Kh]
+manggy94 bets 330
+tycheffe folds
+Catoche26 calls 330
+mika500 folds
+*** RIVER *** [3d 7h 5c Kh][3h]
+manggy94 bets 1800
+Catoche26 folds
+manggy94 collected 3120 from pot
+*** SUMMARY ***
+Total pot 3120 | No rake
+Board: [3d 7h 5c Kh 3h]
+Seat 6: manggy94 (small blind) won 3120
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #685181290986602608-26-1465042779 - Holdem no limit (10/60/120) - 2016/06/04 12:19:39 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #6 is the button
+Seat 1: SaltyPlay (2475)
+Seat 2: didoudur13 (2200)
+Seat 3: tycheffe (2270)
+Seat 4: Catoche26 (7340)
+Seat 5: mika500 (4925)
+Seat 6: manggy94 (7790)
+*** ANTE/BLINDS ***
+SaltyPlay posts ante 10
+didoudur13 posts ante 10
+tycheffe posts ante 10
+Catoche26 posts ante 10
+mika500 posts ante 10
+manggy94 posts ante 10
+SaltyPlay posts small blind 60
+didoudur13 posts big blind 120
+Dealt to manggy94 [Ad Qs]
+*** PRE-FLOP *** 
+tycheffe raises 2140 to 2260 and is all-in
+Catoche26 folds
+mika500 calls 2260
+manggy94 calls 2260
+SaltyPlay folds
+didoudur13 folds
+*** FLOP *** [Ks Tc 5d]
+mika500 bets 120
+manggy94 calls 120
+*** TURN *** [Ks Tc 5d][Jc]
+mika500 bets 2535 and is all-in
+manggy94 calls 2535
+*** RIVER *** [Ks Tc 5d Jc][8d]
+*** SHOW DOWN ***
+tycheffe shows [Jd Jh] (Trips of Jacks)
+mika500 shows [Ts Qh] (One pair : Tens)
+manggy94 shows [Ad Qs] (Straight Ace high)
+manggy94 collected 12330 from pot
+*** SUMMARY ***
+Total pot 12330 | No rake
+Board: [Ks Tc 5d Jc 8d]
+Seat 3: tycheffe showed [Jd Jh] and lost with Trips of Jacks
+Seat 5: mika500 showed [Ts Qh] and lost with One pair : Tens
+Seat 6: manggy94 (button) showed [Ad Qs] and won 12330 with Straight Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #685181290986602608-27-1465042811 - Holdem no limit (10/60/120) - 2016/06/04 12:20:11 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #1 is the button
+Seat 1: SaltyPlay (2405)
+Seat 2: didoudur13 (2070)
+Seat 4: Catoche26 (7330)
+Seat 5: Peluchito (3000)
+Seat 6: manggy94 (15195)
+*** ANTE/BLINDS ***
+didoudur13 posts ante 10
+Catoche26 posts ante 10
+SaltyPlay posts ante 10
+Peluchito posts ante 10
+manggy94 posts ante 10
+didoudur13 posts small blind 60
+Catoche26 posts big blind 120
+Dealt to manggy94 [Kc Kh]
+*** PRE-FLOP *** 
+Peluchito calls 120
+manggy94 raises 1980 to 2100
+SaltyPlay folds
+didoudur13 folds
+Catoche26 folds
+Peluchito folds
+manggy94 collected 2450 from pot
+*** SUMMARY ***
+Total pot 2450 | No rake
+Seat 6: manggy94 won 2450
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #685181290986602608-28-1465042833 - Holdem no limit (10/60/120) - 2016/06/04 12:20:33 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #2 is the button
+Seat 1: SaltyPlay (2395)
+Seat 2: didoudur13 (2000)
+Seat 3: SANTONI.R (2445)
+Seat 4: Catoche26 (7200)
+Seat 5: Peluchito (2870)
+Seat 6: manggy94 (15535)
+*** ANTE/BLINDS ***
+Catoche26 posts ante 10
+Peluchito posts ante 10
+SaltyPlay posts ante 10
+didoudur13 posts ante 10
+manggy94 posts ante 10
+Catoche26 posts small blind 60
+Peluchito posts big blind 120
+Dealt to manggy94 [7s 2d]
+*** PRE-FLOP *** 
+manggy94 folds
+SaltyPlay folds
+didoudur13 calls 120
+Catoche26 calls 60
+Peluchito checks
+*** FLOP *** [3d Kc 3s]
+Catoche26 checks
+Peluchito bets 120
+didoudur13 calls 120
+Catoche26 folds
+*** TURN *** [3d Kc 3s][6c]
+Peluchito checks
+didoudur13 bets 325
+Peluchito folds
+didoudur13 collected 975 from pot
+*** SUMMARY ***
+Total pot 975 | No rake
+Board: [3d Kc 3s 6c]
+Seat 2: didoudur13 (button) won 975
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #685181290986602608-29-1465042867 - Holdem no limit (10/60/120) - 2016/06/04 12:21:07 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #4 is the button
+Seat 1: SaltyPlay (2385)
+Seat 2: didoudur13 (2400)
+Seat 3: SANTONI.R (2445)
+Seat 4: Catoche26 (7070)
+Seat 5: Peluchito (2620)
+Seat 6: manggy94 (15525)
+*** ANTE/BLINDS ***
+Peluchito posts ante 10
+manggy94 posts ante 10
+SaltyPlay posts ante 10
+didoudur13 posts ante 10
+SANTONI.R posts ante 10
+Catoche26 posts ante 10
+Peluchito posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [3d As]
+*** PRE-FLOP *** 
+SaltyPlay folds
+didoudur13 calls 120
+SANTONI.R folds
+Catoche26 calls 120
+Peluchito folds
+manggy94 checks
+*** FLOP *** [9d 4h Tc]
+manggy94 checks
+didoudur13 checks
+Catoche26 checks
+*** TURN *** [9d 4h Tc][3h]
+manggy94 checks
+didoudur13 checks
+Catoche26 checks
+*** RIVER *** [9d 4h Tc 3h][Ts]
+manggy94 checks
+didoudur13 checks
+Catoche26 checks
+*** SHOW DOWN ***
+didoudur13 shows [2d Qd] (One pair : Tens)
+Catoche26 shows [7c 8s] (One pair : Tens)
+manggy94 shows [3d As] (Two pairs : Tens and 3)
+manggy94 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [9d 4h Tc 3h Ts]
+Seat 2: didoudur13 showed [2d Qd] and lost with One pair : Tens
+Seat 4: Catoche26 (button) showed [7c 8s] and lost with One pair : Tens
+Seat 6: manggy94 (big blind) showed [3d As] and won 480 with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #685181290986602608-30-1465042897 - Holdem no limit (15/75/150) - 2016/06/04 12:21:37 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #5 is the button
+Seat 1: SaltyPlay (2375)
+Seat 2: didoudur13 (2270)
+Seat 3: SANTONI.R (2435)
+Seat 4: Catoche26 (6940)
+Seat 5: Peluchito (2550)
+Seat 6: manggy94 (15875)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+SaltyPlay posts ante 15
+didoudur13 posts ante 15
+SANTONI.R posts ante 15
+Catoche26 posts ante 15
+Peluchito posts ante 15
+manggy94 posts small blind 75
+SaltyPlay posts big blind 150
+Dealt to manggy94 [5d 2s]
+*** PRE-FLOP *** 
+didoudur13 calls 150
+SANTONI.R folds
+Catoche26 calls 150
+Peluchito folds
+manggy94 calls 75
+SaltyPlay folds
+*** FLOP *** [Th 5s 3h]
+manggy94 bets 150
+didoudur13 raises 420 to 570
+Catoche26 raises 6205 to 6775 and is all-in
+manggy94 folds
+didoudur13 calls 1535 and is all-in
+*** TURN *** [Th 5s 3h][Qd]
+*** RIVER *** [Th 5s 3h Qd][7s]
+*** SHOW DOWN ***
+didoudur13 shows [Tc Kh] (One pair : Tens)
+Catoche26 shows [Ah Ad] (One pair : Aces)
+Catoche26 collected 9720 from pot
+*** SUMMARY ***
+Total pot 9720 | No rake
+Board: [Th 5s 3h Qd 7s]
+Seat 2: didoudur13 showed [Tc Kh] and lost with One pair : Tens
+Seat 4: Catoche26 showed [Ah Ad] and won 9720 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #685181290986602608-31-1465042932 - Holdem no limit (15/75/150) - 2016/06/04 12:22:12 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #6 is the button
+Seat 1: SaltyPlay (2210)
+Seat 3: SANTONI.R (2420)
+Seat 4: Catoche26 (9720)
+Seat 5: Peluchito (2535)
+Seat 6: manggy94 (15560)
+*** ANTE/BLINDS ***
+SaltyPlay posts ante 15
+SANTONI.R posts ante 15
+Catoche26 posts ante 15
+Peluchito posts ante 15
+manggy94 posts ante 15
+SaltyPlay posts small blind 75
+SANTONI.R posts big blind 150
+Dealt to manggy94 [Tc 8h]
+*** PRE-FLOP *** 
+Catoche26 calls 150
+Peluchito calls 150
+manggy94 folds
+SaltyPlay folds
+SANTONI.R folds
+*** FLOP *** [9s 5s Kc]
+Catoche26 checks
+Peluchito bets 150
+Catoche26 calls 150
+*** TURN *** [9s 5s Kc][Qs]
+Catoche26 checks
+Peluchito checks
+*** RIVER *** [9s 5s Kc Qs][4c]
+Catoche26 checks
+Peluchito bets 150
+Catoche26 folds
+Peluchito collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [9s 5s Kc Qs 4c]
+Seat 5: Peluchito won 1050
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #685181290986602608-32-1465042964 - Holdem no limit (15/75/150) - 2016/06/04 12:22:44 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #1 is the button
+Seat 1: SaltyPlay (2120)
+Seat 2: DJksty38 (3903)
+Seat 3: SANTONI.R (2255)
+Seat 4: Catoche26 (9405)
+Seat 5: Peluchito (3120)
+Seat 6: manggy94 (15545)
+*** ANTE/BLINDS ***
+SANTONI.R posts ante 15
+Catoche26 posts ante 15
+SaltyPlay posts ante 15
+Peluchito posts ante 15
+manggy94 posts ante 15
+SANTONI.R posts small blind 75
+Catoche26 posts big blind 150
+Dealt to manggy94 [4s Kc]
+*** PRE-FLOP *** 
+Peluchito folds
+manggy94 folds
+SaltyPlay folds
+SANTONI.R folds
+Catoche26 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 4: Catoche26 (big blind) won 300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #685181290986602608-33-1465042978 - Holdem no limit (15/75/150) - 2016/06/04 12:22:58 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #3 is the button
+Seat 1: SaltyPlay (2105)
+Seat 2: DJksty38 (3903)
+Seat 3: SANTONI.R (2165)
+Seat 4: Catoche26 (9540)
+Seat 5: Peluchito (3105)
+Seat 6: manggy94 (15530)
+*** ANTE/BLINDS ***
+Catoche26 posts ante 15
+Peluchito posts ante 15
+SaltyPlay posts ante 15
+DJksty38 posts ante 15
+SANTONI.R posts ante 15
+manggy94 posts ante 15
+Catoche26 posts small blind 75
+Peluchito posts big blind 150
+Dealt to manggy94 [Ad 4h]
+*** PRE-FLOP *** 
+manggy94 raises 150 to 300
+SaltyPlay folds
+DJksty38 folds
+SANTONI.R folds
+Catoche26 calls 225
+Peluchito calls 150
+*** FLOP *** [Kc 3s Jd]
+Catoche26 checks
+Peluchito checks
+manggy94 bets 990
+Catoche26 folds
+Peluchito folds
+manggy94 collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | No rake
+Board: [Kc 3s Jd]
+Seat 6: manggy94 won 1980
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #685181290986602608-34-1465043012 - Holdem no limit (15/75/150) - 2016/06/04 12:23:32 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #4 is the button
+Seat 1: SaltyPlay (2090)
+Seat 2: DJksty38 (3888)
+Seat 3: SANTONI.R (2150)
+Seat 4: Catoche26 (9225)
+Seat 5: Peluchito (2790)
+Seat 6: manggy94 (16205)
+*** ANTE/BLINDS ***
+Peluchito posts ante 15
+manggy94 posts ante 15
+SaltyPlay posts ante 15
+DJksty38 posts ante 15
+SANTONI.R posts ante 15
+Catoche26 posts ante 15
+Peluchito posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [Kh Qs]
+*** PRE-FLOP *** 
+SaltyPlay folds
+DJksty38 folds
+SANTONI.R folds
+Catoche26 calls 150
+Peluchito folds
+manggy94 checks
+*** FLOP *** [4c 2h 9s]
+manggy94 bets 233
+Catoche26 calls 233
+*** TURN *** [4c 2h 9s][8h]
+manggy94 bets 466
+Catoche26 calls 466
+*** RIVER *** [4c 2h 9s 8h][5s]
+manggy94 checks
+Catoche26 bets 8361 and is all-in
+manggy94 folds
+Catoche26 collected 10224 from pot
+*** SUMMARY ***
+Total pot 10224 | No rake
+Board: [4c 2h 9s 8h 5s]
+Seat 4: Catoche26 (button) won 10224
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #685181290986602608-35-1465043039 - Holdem no limit (15/75/150) - 2016/06/04 12:23:59 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #5 is the button
+Seat 1: SaltyPlay (2075)
+Seat 2: DJksty38 (3873)
+Seat 3: SANTONI.R (2135)
+Seat 4: Catoche26 (10224)
+Seat 5: Peluchito (2700)
+Seat 6: manggy94 (15341)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+SaltyPlay posts ante 15
+DJksty38 posts ante 15
+SANTONI.R posts ante 15
+Catoche26 posts ante 15
+Peluchito posts ante 15
+manggy94 posts small blind 75
+SaltyPlay posts big blind 150
+Dealt to manggy94 [As 2h]
+*** PRE-FLOP *** 
+DJksty38 folds
+SANTONI.R folds
+Catoche26 calls 150
+Peluchito folds
+manggy94 calls 75
+SaltyPlay folds
+*** FLOP *** [Ac Th 5d]
+manggy94 bets 270
+Catoche26 folds
+manggy94 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [Ac Th 5d]
+Seat 6: manggy94 (small blind) won 810
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #685181290986602608-36-1465043058 - Holdem no limit (15/75/150) - 2016/06/04 12:24:18 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #6 is the button
+Seat 1: SaltyPlay (1910)
+Seat 2: DJksty38 (3858)
+Seat 3: SANTONI.R (2120)
+Seat 4: Catoche26 (10059)
+Seat 5: Peluchito (2685)
+Seat 6: manggy94 (15716)
+*** ANTE/BLINDS ***
+SaltyPlay posts ante 15
+DJksty38 posts ante 15
+SANTONI.R posts ante 15
+Catoche26 posts ante 15
+Peluchito posts ante 15
+manggy94 posts ante 15
+SaltyPlay posts small blind 75
+DJksty38 posts big blind 150
+Dealt to manggy94 [6s 5c]
+*** PRE-FLOP *** 
+SANTONI.R folds
+Catoche26 calls 150
+Peluchito calls 150
+manggy94 folds
+SaltyPlay folds
+DJksty38 checks
+*** FLOP *** [9d Ad 9h]
+DJksty38 checks
+Catoche26 checks
+Peluchito checks
+*** TURN *** [9d Ad 9h][Js]
+DJksty38 checks
+Catoche26 checks
+Peluchito bets 150
+DJksty38 calls 150
+Catoche26 folds
+*** RIVER *** [9d Ad 9h Js][Kc]
+DJksty38 checks
+Peluchito bets 225
+DJksty38 raises 3318 to 3543 and is all-in
+Peluchito folds
+DJksty38 collected 4683 from pot
+*** SUMMARY ***
+Total pot 4683 | No rake
+Board: [9d Ad 9h Js Kc]
+Seat 2: DJksty38 (big blind) won 4683
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #685181290986602608-37-1465043121 - Holdem no limit (20/100/200) - 2016/06/04 12:25:21 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #1 is the button
+Seat 1: SaltyPlay (1820)
+Seat 2: DJksty38 (4683)
+Seat 3: SANTONI.R (2105)
+Seat 4: Catoche26 (9894)
+Seat 5: Peluchito (2145)
+Seat 6: manggy94 (15701)
+*** ANTE/BLINDS ***
+DJksty38 posts ante 20
+SANTONI.R posts ante 20
+SaltyPlay posts ante 20
+Catoche26 posts ante 20
+Peluchito posts ante 20
+manggy94 posts ante 20
+DJksty38 posts small blind 100
+SANTONI.R posts big blind 200
+Dealt to manggy94 [2h Qh]
+*** PRE-FLOP *** 
+Catoche26 folds
+Peluchito folds
+manggy94 raises 200 to 400
+SaltyPlay folds
+DJksty38 folds
+SANTONI.R folds
+manggy94 collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Seat 6: manggy94 won 820
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #685181290986602608-38-1465043144 - Holdem no limit (20/100/200) - 2016/06/04 12:25:44 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #2 is the button
+Seat 1: SaltyPlay (1800)
+Seat 2: DJksty38 (4563)
+Seat 3: SANTONI.R (1885)
+Seat 4: Catoche26 (9874)
+Seat 5: Peluchito (2125)
+Seat 6: manggy94 (16101)
+*** ANTE/BLINDS ***
+SANTONI.R posts ante 20
+Catoche26 posts ante 20
+SaltyPlay posts ante 20
+DJksty38 posts ante 20
+Peluchito posts ante 20
+manggy94 posts ante 20
+SANTONI.R posts small blind 100
+Catoche26 posts big blind 200
+Dealt to manggy94 [Th 6s]
+*** PRE-FLOP *** 
+Peluchito raises 1905 to 2105 and is all-in
+manggy94 folds
+SaltyPlay folds
+DJksty38 folds
+SANTONI.R folds
+Catoche26 folds
+Peluchito collected 2525 from pot
+*** SUMMARY ***
+Total pot 2525 | No rake
+Seat 5: Peluchito won 2525
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #685181290986602608-39-1465043156 - Holdem no limit (20/100/200) - 2016/06/04 12:25:56 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #3 is the button
+Seat 1: SaltyPlay (1780)
+Seat 2: DJksty38 (4543)
+Seat 3: SANTONI.R (1765)
+Seat 4: Catoche26 (9654)
+Seat 5: Peluchito (2525)
+Seat 6: manggy94 (16081)
+*** ANTE/BLINDS ***
+Catoche26 posts ante 20
+Peluchito posts ante 20
+SaltyPlay posts ante 20
+DJksty38 posts ante 20
+SANTONI.R posts ante 20
+manggy94 posts ante 20
+Catoche26 posts small blind 100
+Peluchito posts big blind 200
+Dealt to manggy94 [2d Ts]
+*** PRE-FLOP *** 
+manggy94 folds
+SaltyPlay folds
+DJksty38 raises 300 to 500
+SANTONI.R folds
+Catoche26 folds
+Peluchito folds
+DJksty38 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | No rake
+Seat 2: DJksty38 won 920
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #685181290986602608-40-1465043181 - Holdem no limit (20/100/200) - 2016/06/04 12:26:21 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #4 is the button
+Seat 1: SaltyPlay (1760)
+Seat 2: DJksty38 (4943)
+Seat 3: SANTONI.R (1745)
+Seat 4: Catoche26 (9534)
+Seat 5: Peluchito (2305)
+Seat 6: manggy94 (16061)
+*** ANTE/BLINDS ***
+Peluchito posts ante 20
+manggy94 posts ante 20
+SaltyPlay posts ante 20
+DJksty38 posts ante 20
+SANTONI.R posts ante 20
+Catoche26 posts ante 20
+Peluchito posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [3d 9s]
+*** PRE-FLOP *** 
+SaltyPlay folds
+DJksty38 folds
+SANTONI.R folds
+Catoche26 folds
+Peluchito raises 300 to 500
+manggy94 calls 300
+*** FLOP *** [6c 7h Ks]
+Peluchito checks
+manggy94 bets 560
+Peluchito raises 1225 to 1785 and is all-in
+manggy94 folds
+Peluchito collected 3465 from pot
+*** SUMMARY ***
+Total pot 3465 | No rake
+Board: [6c 7h Ks]
+Seat 5: Peluchito (small blind) won 3465
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #685181290986602608-41-1465043229 - Holdem no limit (20/100/200) - 2016/06/04 12:27:09 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #5 is the button
+Seat 1: SaltyPlay (1740)
+Seat 2: DJksty38 (4923)
+Seat 3: SANTONI.R (1725)
+Seat 4: Catoche26 (9514)
+Seat 5: Peluchito (3465)
+Seat 6: manggy94 (14981)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+SaltyPlay posts ante 20
+DJksty38 posts ante 20
+SANTONI.R posts ante 20
+Catoche26 posts ante 20
+Peluchito posts ante 20
+manggy94 posts small blind 100
+SaltyPlay posts big blind 200
+Dealt to manggy94 [Ah 5c]
+*** PRE-FLOP *** 
+DJksty38 raises 300 to 500
+SANTONI.R folds
+Catoche26 folds
+Peluchito raises 2945 to 3445 and is all-in
+manggy94 folds
+SaltyPlay folds
+DJksty38 calls 2945
+*** FLOP *** [6s Th Qd]
+*** TURN *** [6s Th Qd][Ts]
+*** RIVER *** [6s Th Qd Ts][9h]
+*** SHOW DOWN ***
+Peluchito shows [Ac Ad] (Two pairs : Aces and Tens)
+DJksty38 shows [Tc Jc] (Trips of Tens)
+DJksty38 collected 7310 from pot
+*** SUMMARY ***
+Total pot 7310 | No rake
+Board: [6s Th Qd Ts 9h]
+Seat 2: DJksty38 showed [Tc Jc] and won 7310 with Trips of Tens
+Seat 5: Peluchito (button) showed [Ac Ad] and lost with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #685181290986602608-42-1465043254 - Holdem no limit (25/125/250) - 2016/06/04 12:27:34 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #6 is the button
+Seat 1: SaltyPlay (1520)
+Seat 2: DJksty38 (8768)
+Seat 3: SANTONI.R (1705)
+Seat 4: Catoche26 (9494)
+Seat 6: manggy94 (14861)
+*** ANTE/BLINDS ***
+SaltyPlay posts ante 25
+DJksty38 posts ante 25
+SANTONI.R posts ante 25
+Catoche26 posts ante 25
+manggy94 posts ante 25
+SaltyPlay posts small blind 125
+DJksty38 posts big blind 250
+Dealt to manggy94 [2d 4s]
+*** PRE-FLOP *** 
+SANTONI.R folds
+Catoche26 calls 250
+manggy94 calls 250
+SaltyPlay folds
+DJksty38 checks
+*** FLOP *** [4c 7s 7d]
+DJksty38 checks
+Catoche26 checks
+manggy94 bets 500
+DJksty38 folds
+Catoche26 folds
+manggy94 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [4c 7s 7d]
+Seat 6: manggy94 (button) won 1500
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #685181290986602608-43-1465043277 - Holdem no limit (25/125/250) - 2016/06/04 12:27:57 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #1 is the button
+Seat 1: SaltyPlay (1370)
+Seat 2: DJksty38 (8493)
+Seat 3: SANTONI.R (1680)
+Seat 4: Catoche26 (9219)
+Seat 5: pink626 (2840)
+Seat 6: manggy94 (15586)
+*** ANTE/BLINDS ***
+DJksty38 posts ante 25
+SANTONI.R posts ante 25
+SaltyPlay posts ante 25
+Catoche26 posts ante 25
+pink626 posts ante 25
+manggy94 posts ante 25
+DJksty38 posts small blind 125
+SANTONI.R posts big blind 250
+Dealt to manggy94 [Kh 3d]
+*** PRE-FLOP *** 
+Catoche26 folds
+pink626 calls 250
+manggy94 calls 250
+SaltyPlay folds
+DJksty38 folds
+SANTONI.R checks
+*** FLOP *** [5s 9d Qh]
+SANTONI.R checks
+pink626 checks
+manggy94 checks
+*** TURN *** [5s 9d Qh][4c]
+SANTONI.R checks
+pink626 checks
+manggy94 checks
+*** RIVER *** [5s 9d Qh 4c][4d]
+SANTONI.R bets 1405 and is all-in
+pink626 folds
+manggy94 folds
+SANTONI.R collected 2430 from pot
+*** SUMMARY ***
+Total pot 2430 | No rake
+Board: [5s 9d Qh 4c 4d]
+Seat 3: SANTONI.R (big blind) won 2430
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #685181290986602608-44-1465043365 - Holdem no limit (25/125/250) - 2016/06/04 12:29:25 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #2 is the button
+Seat 1: SaltyPlay (1345)
+Seat 2: DJksty38 (8343)
+Seat 3: SANTONI.R (2430)
+Seat 4: Catoche26 (9194)
+Seat 5: pink626 (2565)
+Seat 6: manggy94 (15311)
+*** ANTE/BLINDS ***
+SANTONI.R posts ante 25
+Catoche26 posts ante 25
+SaltyPlay posts ante 25
+DJksty38 posts ante 25
+pink626 posts ante 25
+manggy94 posts ante 25
+SANTONI.R posts small blind 125
+Catoche26 posts big blind 250
+Dealt to manggy94 [3s Kd]
+*** PRE-FLOP *** 
+pink626 folds
+manggy94 folds
+SaltyPlay folds
+DJksty38 raises 375 to 625
+SANTONI.R calls 500
+Catoche26 calls 375
+*** FLOP *** [6d 7h As]
+SANTONI.R checks
+Catoche26 checks
+DJksty38 checks
+*** TURN *** [6d 7h As][4c]
+SANTONI.R checks
+Catoche26 checks
+DJksty38 checks
+*** RIVER *** [6d 7h As 4c][3d]
+SANTONI.R checks
+Catoche26 checks
+DJksty38 checks
+*** SHOW DOWN ***
+DJksty38 shows [2d 2h] (One pair : 2)
+Catoche26 shows [Jc 9d] (High card : Ace)
+SANTONI.R shows [9h 4h] (One pair : 4)
+SANTONI.R collected 2025 from pot
+*** SUMMARY ***
+Total pot 2025 | No rake
+Board: [6d 7h As 4c 3d]
+Seat 2: DJksty38 (button) showed [2d 2h] and lost with One pair : 2
+Seat 3: SANTONI.R (small blind) showed [9h 4h] and won 2025 with One pair : 4
+Seat 4: Catoche26 (big blind) showed [Jc 9d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #685181290986602608-45-1465043438 - Holdem no limit (35/150/300) - 2016/06/04 12:30:38 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #3 is the button
+Seat 1: SaltyPlay (1320)
+Seat 2: DJksty38 (7693)
+Seat 3: SANTONI.R (3805)
+Seat 4: Catoche26 (8544)
+Seat 5: pink626 (2540)
+Seat 6: manggy94 (15286)
+*** ANTE/BLINDS ***
+Catoche26 posts ante 35
+pink626 posts ante 35
+SaltyPlay posts ante 35
+DJksty38 posts ante 35
+SANTONI.R posts ante 35
+manggy94 posts ante 35
+Catoche26 posts small blind 150
+pink626 posts big blind 300
+Dealt to manggy94 [2h 5h]
+*** PRE-FLOP *** 
+manggy94 folds
+SaltyPlay folds
+DJksty38 raises 300 to 600
+SANTONI.R folds
+Catoche26 calls 450
+pink626 folds
+*** FLOP *** [8c Jh 2c]
+Catoche26 checks
+DJksty38 bets 855
+Catoche26 calls 855
+*** TURN *** [8c Jh 2c][Jd]
+Catoche26 checks
+DJksty38 checks
+*** RIVER *** [8c Jh 2c Jd][2d]
+Catoche26 checks
+DJksty38 checks
+*** SHOW DOWN ***
+Catoche26 shows [Th Qh] (Two pairs : Jacks and 2)
+DJksty38 shows [8s Ks] (Two pairs : Jacks and 8)
+DJksty38 collected 3420 from pot
+*** SUMMARY ***
+Total pot 3420 | No rake
+Board: [8c Jh 2c Jd 2d]
+Seat 2: DJksty38 showed [8s Ks] and won 3420 with Two pairs : Jacks and 8
+Seat 4: Catoche26 (small blind) showed [Th Qh] and lost with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #685181290986602608-46-1465043505 - Holdem no limit (35/150/300) - 2016/06/04 12:31:45 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #4 is the button
+Seat 1: SaltyPlay (1285)
+Seat 2: DJksty38 (9623)
+Seat 3: SANTONI.R (3770)
+Seat 4: Catoche26 (7054)
+Seat 5: pink626 (2205)
+Seat 6: manggy94 (15251)
+*** ANTE/BLINDS ***
+pink626 posts ante 35
+manggy94 posts ante 35
+SaltyPlay posts ante 35
+DJksty38 posts ante 35
+SANTONI.R posts ante 35
+Catoche26 posts ante 35
+pink626 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Ks Td]
+*** PRE-FLOP *** 
+SaltyPlay folds
+DJksty38 folds
+SANTONI.R calls 300
+Catoche26 folds
+pink626 calls 150
+manggy94 checks
+*** FLOP *** [4s Qd 9d]
+pink626 checks
+manggy94 bets 300
+SANTONI.R calls 300
+pink626 folds
+*** TURN *** [4s Qd 9d][Qc]
+manggy94 checks
+SANTONI.R bets 300
+manggy94 calls 300
+*** RIVER *** [4s Qd 9d Qc][6d]
+manggy94 bets 1155
+SANTONI.R folds
+manggy94 collected 3465 from pot
+*** SUMMARY ***
+Total pot 3465 | No rake
+Board: [4s Qd 9d Qc 6d]
+Seat 6: manggy94 (big blind) won 3465
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #685181290986602608-47-1465043606 - Holdem no limit (40/200/400) - 2016/06/04 12:33:26 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #5 is the button
+Seat 1: SaltyPlay (1250)
+Seat 2: DJksty38 (9588)
+Seat 3: SANTONI.R (2835)
+Seat 4: Catoche26 (7019)
+Seat 5: pink626 (1870)
+Seat 6: manggy94 (16626)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+SaltyPlay posts ante 40
+DJksty38 posts ante 40
+SANTONI.R posts ante 40
+Catoche26 posts ante 40
+pink626 posts ante 40
+manggy94 posts small blind 200
+SaltyPlay posts big blind 400
+Dealt to manggy94 [Ah Ad]
+*** PRE-FLOP *** 
+DJksty38 folds
+SANTONI.R folds
+Catoche26 calls 400
+pink626 folds
+manggy94 raises 1440 to 1840
+SaltyPlay folds
+Catoche26 calls 1440
+*** FLOP *** [5d 9s 5c]
+manggy94 checks
+Catoche26 checks
+*** TURN *** [5d 9s 5c][4h]
+manggy94 bets 4320
+Catoche26 raises 819 to 5139 and is all-in
+manggy94 calls 819
+*** RIVER *** [5d 9s 5c 4h][Td]
+*** SHOW DOWN ***
+manggy94 shows [Ah Ad] (Two pairs : Aces and 5)
+Catoche26 shows [Ks 5s] (Trips of 5)
+Catoche26 collected 14598 from pot
+*** SUMMARY ***
+Total pot 14598 | No rake
+Board: [5d 9s 5c 4h Td]
+Seat 4: Catoche26 showed [Ks 5s] and won 14598 with Trips of 5
+Seat 6: manggy94 (small blind) showed [Ah Ad] and lost with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #685181290986602608-48-1465043660 - Holdem no limit (40/200/400) - 2016/06/04 12:34:20 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #6 is the button
+Seat 1: SaltyPlay (810)
+Seat 2: DJksty38 (9548)
+Seat 3: SANTONI.R (2795)
+Seat 4: Catoche26 (14598)
+Seat 5: pink626 (1830)
+Seat 6: manggy94 (9607)
+*** ANTE/BLINDS ***
+SaltyPlay posts ante 40
+DJksty38 posts ante 40
+SANTONI.R posts ante 40
+Catoche26 posts ante 40
+pink626 posts ante 40
+manggy94 posts ante 40
+SaltyPlay posts small blind 200
+DJksty38 posts big blind 400
+Dealt to manggy94 [3h Kh]
+*** PRE-FLOP *** 
+SANTONI.R folds
+Catoche26 calls 400
+pink626 folds
+manggy94 calls 400
+SaltyPlay folds
+DJksty38 checks
+*** FLOP *** [5c Ah 5s]
+DJksty38 checks
+Catoche26 checks
+manggy94 checks
+*** TURN *** [5c Ah 5s][2c]
+DJksty38 checks
+Catoche26 bets 400
+manggy94 folds
+DJksty38 folds
+Catoche26 collected 2040 from pot
+*** SUMMARY ***
+Total pot 2040 | No rake
+Board: [5c Ah 5s 2c]
+Seat 4: Catoche26 won 2040
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #685181290986602608-49-1465043703 - Holdem no limit (40/200/400) - 2016/06/04 12:35:03 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #1 is the button
+Seat 1: SaltyPlay (570)
+Seat 2: DJksty38 (9108)
+Seat 3: SANTONI.R (2755)
+Seat 4: Catoche26 (15798)
+Seat 5: pink626 (1790)
+Seat 6: manggy94 (9167)
+*** ANTE/BLINDS ***
+DJksty38 posts ante 40
+SANTONI.R posts ante 40
+SaltyPlay posts ante 40
+Catoche26 posts ante 40
+pink626 posts ante 40
+manggy94 posts ante 40
+DJksty38 posts small blind 200
+SANTONI.R posts big blind 400
+Dealt to manggy94 [Qs 2d]
+*** PRE-FLOP *** 
+Catoche26 folds
+pink626 folds
+manggy94 folds
+SaltyPlay folds
+DJksty38 raises 8668 to 9068 and is all-in
+SANTONI.R folds
+DJksty38 collected 9708 from pot
+*** SUMMARY ***
+Total pot 9708 | No rake
+Seat 2: DJksty38 (small blind) won 9708
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #685181290986602608-50-1465043734 - Holdem no limit (40/200/400) - 2016/06/04 12:35:34 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #2 is the button
+Seat 1: SaltyPlay (530)
+Seat 2: DJksty38 (9708)
+Seat 3: SANTONI.R (2315)
+Seat 4: Catoche26 (15758)
+Seat 5: pink626 (1750)
+Seat 6: manggy94 (9127)
+*** ANTE/BLINDS ***
+SANTONI.R posts ante 40
+Catoche26 posts ante 40
+SaltyPlay posts ante 40
+DJksty38 posts ante 40
+pink626 posts ante 40
+manggy94 posts ante 40
+SANTONI.R posts small blind 200
+Catoche26 posts big blind 400
+Dealt to manggy94 [7h 8c]
+*** PRE-FLOP *** 
+pink626 folds
+manggy94 calls 400
+SaltyPlay folds
+DJksty38 folds
+SANTONI.R folds
+Catoche26 checks
+*** FLOP *** [Kh As 4s]
+Catoche26 checks
+manggy94 checks
+*** TURN *** [Kh As 4s][9c]
+Catoche26 checks
+manggy94 bets 620
+Catoche26 folds
+manggy94 collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Board: [Kh As 4s 9c]
+Seat 6: manggy94 won 1860
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #685181290986602608-51-1465043777 - Holdem no limit (40/200/400) - 2016/06/04 12:36:17 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #3 is the button
+Seat 1: SaltyPlay (490)
+Seat 2: DJksty38 (9668)
+Seat 3: SANTONI.R (2075)
+Seat 4: Catoche26 (15318)
+Seat 5: pink626 (1710)
+Seat 6: manggy94 (9927)
+*** ANTE/BLINDS ***
+Catoche26 posts ante 40
+pink626 posts ante 40
+SaltyPlay posts ante 40
+DJksty38 posts ante 40
+SANTONI.R posts ante 40
+manggy94 posts ante 40
+Catoche26 posts small blind 200
+pink626 posts big blind 400
+Dealt to manggy94 [Jc Qc]
+*** PRE-FLOP *** 
+manggy94 calls 400
+SaltyPlay folds
+DJksty38 folds
+SANTONI.R calls 400
+Catoche26 calls 200
+pink626 checks
+*** FLOP *** [5d Kc Ks]
+Catoche26 checks
+pink626 checks
+manggy94 checks
+SANTONI.R bets 400
+Catoche26 folds
+pink626 calls 400
+manggy94 folds
+*** TURN *** [5d Kc Ks][6s]
+pink626 checks
+SANTONI.R checks
+*** RIVER *** [5d Kc Ks 6s][Tc]
+pink626 checks
+SANTONI.R checks
+*** SHOW DOWN ***
+pink626 shows [7d Ad] (One pair : Kings)
+SANTONI.R shows [4c 4h] (Two pairs : Kings and 4)
+SANTONI.R collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Board: [5d Kc Ks 6s Tc]
+Seat 3: SANTONI.R (button) showed [4c 4h] and won 2640 with Two pairs : Kings and 4
+Seat 5: pink626 (big blind) showed [7d Ad] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #685181290986602608-52-1465043866 - Holdem no limit (50/250/500) - 2016/06/04 12:37:46 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #4 is the button
+Seat 1: SaltyPlay (450)
+Seat 2: DJksty38 (9628)
+Seat 3: SANTONI.R (3875)
+Seat 4: Catoche26 (14878)
+Seat 5: pink626 (870)
+Seat 6: manggy94 (9487)
+*** ANTE/BLINDS ***
+pink626 posts ante 50
+manggy94 posts ante 50
+SaltyPlay posts ante 50
+DJksty38 posts ante 50
+SANTONI.R posts ante 50
+Catoche26 posts ante 50
+pink626 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [9c 7c]
+*** PRE-FLOP *** 
+SaltyPlay folds
+DJksty38 folds
+SANTONI.R raises 500 to 1000
+Catoche26 folds
+pink626 calls 570 and is all-in
+manggy94 folds
+*** FLOP *** [Kc Jc Ts]
+*** TURN *** [Kc Jc Ts][7s]
+*** RIVER *** [Kc Jc Ts 7s][4s]
+*** SHOW DOWN ***
+pink626 shows [Ac 4c] (One pair : 4)
+SANTONI.R shows [Kd Tc] (Two pairs : Kings and Tens)
+SANTONI.R collected 2620 from pot
+*** SUMMARY ***
+Total pot 2620 | No rake
+Board: [Kc Jc Ts 7s 4s]
+Seat 3: SANTONI.R showed [Kd Tc] and won 2620 with Two pairs : Kings and Tens
+Seat 5: pink626 (small blind) showed [Ac 4c] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #685181290986602608-53-1465043901 - Holdem no limit (50/250/500) - 2016/06/04 12:38:21 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #5 is the button
+Seat 1: SaltyPlay (400)
+Seat 2: DJksty38 (9578)
+Seat 3: SANTONI.R (5445)
+Seat 4: Catoche26 (14828)
+Seat 6: manggy94 (8937)
+*** ANTE/BLINDS ***
+manggy94 posts ante 50
+SaltyPlay posts ante 50
+DJksty38 posts ante 50
+SANTONI.R posts ante 50
+Catoche26 posts ante 50
+manggy94 posts small blind 250
+SaltyPlay posts big blind 350 and is all-in
+Dealt to manggy94 [Ac 6s]
+*** PRE-FLOP *** 
+DJksty38 folds
+SANTONI.R folds
+Catoche26 calls 500
+manggy94 calls 250
+*** FLOP *** [Kh Ad 7c]
+manggy94 bets 800
+Catoche26 calls 800
+*** TURN *** [Kh Ad 7c][5h]
+manggy94 checks
+Catoche26 checks
+*** RIVER *** [Kh Ad 7c 5h][Ts]
+manggy94 checks
+Catoche26 checks
+*** SHOW DOWN ***
+SaltyPlay shows [Jc 2h] (High card : Ace)
+Catoche26 shows [Tc Qh] (One pair : Tens)
+manggy94 shows [Ac 6s] (One pair : Aces)
+manggy94 collected 3200 from pot
+*** SUMMARY ***
+Total pot 3200 | No rake
+Board: [Kh Ad 7c 5h Ts]
+Seat 1: SaltyPlay (big blind) showed [Jc 2h] and lost with High card : Ace
+Seat 4: Catoche26 showed [Tc Qh] and lost with One pair : Tens
+Seat 6: manggy94 (small blind) showed [Ac 6s] and won 3200 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 12 - HandId: #685181290986602608-54-1465043935 - Holdem no limit (50/250/500) - 2016/06/04 12:38:55 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #6 is the button
+Seat 2: DJksty38 (9528)
+Seat 3: SANTONI.R (5395)
+Seat 4: Catoche26 (13478)
+Seat 6: manggy94 (10787)
+*** ANTE/BLINDS ***
+DJksty38 posts ante 50
+SANTONI.R posts ante 50
+Catoche26 posts ante 50
+manggy94 posts ante 50
+DJksty38 posts big blind 500
+Dealt to manggy94 [7h 9h]
+*** PRE-FLOP *** 
+SANTONI.R folds
+Catoche26 folds
+manggy94 calls 500
+DJksty38 checks
+*** FLOP *** [8d 9d 8s]
+DJksty38 checks
+manggy94 bets 600
+DJksty38 raises 8378 to 8978 and is all-in
+manggy94 folds
+DJksty38 shows [6d 4d] (One pair : 8)
+DJksty38 collected 10778 from pot
+*** SUMMARY ***
+Total pot 10778 | No rake
+Board: [8d 9d 8s]
+Seat 2: DJksty38 (big blind) showed [6d 4d] and won 10778 with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 13 - HandId: #685181290986602608-55-1465043985 - Holdem no limit (70/300/600) - 2016/06/04 12:39:45 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #1 is the button
+Seat 1: pjtoulom (8700)
+Seat 2: DJksty38 (10778)
+Seat 3: SANTONI.R (5345)
+Seat 4: Catoche26 (13428)
+Seat 5: Nicobalo7517 (15175)
+Seat 6: manggy94 (9637)
+*** ANTE/BLINDS ***
+DJksty38 posts ante 70
+SANTONI.R posts ante 70
+Catoche26 posts ante 70
+Nicobalo7517 posts ante 70
+manggy94 posts ante 70
+DJksty38 posts small blind 300
+SANTONI.R posts big blind 600
+Dealt to manggy94 [Ts 6d]
+*** PRE-FLOP *** 
+Catoche26 folds
+Nicobalo7517 calls 600
+manggy94 folds
+DJksty38 calls 300
+SANTONI.R checks
+*** FLOP *** [5d 9h 3h]
+DJksty38 checks
+SANTONI.R bets 4675 and is all-in
+Nicobalo7517 folds
+DJksty38 folds
+SANTONI.R shows [Jc Jd] (One pair : Jacks)
+SANTONI.R collected 6825 from pot
+*** SUMMARY ***
+Total pot 6825 | No rake
+Board: [5d 9h 3h]
+Seat 3: SANTONI.R (big blind) showed [Jc Jd] and won 6825 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 13 - HandId: #685181290986602608-56-1465044031 - Holdem no limit (70/300/600) - 2016/06/04 12:40:31 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #2 is the button
+Seat 1: pjtoulom (8700)
+Seat 2: DJksty38 (10108)
+Seat 3: SANTONI.R (6825)
+Seat 4: Catoche26 (13358)
+Seat 5: Nicobalo7517 (14505)
+Seat 6: manggy94 (9567)
+*** ANTE/BLINDS ***
+SANTONI.R posts ante 70
+Catoche26 posts ante 70
+pjtoulom posts ante 70
+DJksty38 posts ante 70
+Nicobalo7517 posts ante 70
+manggy94 posts ante 70
+SANTONI.R posts small blind 300
+Catoche26 posts big blind 600
+Dealt to manggy94 [5c 2c]
+*** PRE-FLOP *** 
+Nicobalo7517 calls 600
+manggy94 folds
+pjtoulom folds
+DJksty38 calls 600
+SANTONI.R folds
+Catoche26 checks
+*** FLOP *** [9c Qd 2d]
+Catoche26 checks
+Nicobalo7517 checks
+DJksty38 bets 9438 and is all-in
+Catoche26 folds
+Nicobalo7517 folds
+DJksty38 collected 11958 from pot
+*** SUMMARY ***
+Total pot 11958 | No rake
+Board: [9c Qd 2d]
+Seat 2: DJksty38 (button) won 11958
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 13 - HandId: #685181290986602608-57-1465044071 - Holdem no limit (70/300/600) - 2016/06/04 12:41:11 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #3 is the button
+Seat 1: pjtoulom (8630)
+Seat 2: DJksty38 (11958)
+Seat 3: SANTONI.R (6455)
+Seat 4: Catoche26 (12688)
+Seat 5: Nicobalo7517 (13835)
+Seat 6: manggy94 (9497)
+*** ANTE/BLINDS ***
+Catoche26 posts ante 70
+Nicobalo7517 posts ante 70
+pjtoulom posts ante 70
+DJksty38 posts ante 70
+SANTONI.R posts ante 70
+manggy94 posts ante 70
+Catoche26 posts small blind 300
+Nicobalo7517 posts big blind 600
+Dealt to manggy94 [4s Ks]
+*** PRE-FLOP *** 
+manggy94 calls 600
+pjtoulom calls 600
+DJksty38 folds
+SANTONI.R raises 5785 to 6385 and is all-in
+Catoche26 folds
+Nicobalo7517 calls 5785
+manggy94 folds
+pjtoulom folds
+*** FLOP *** [Tc 3c 2d]
+*** TURN *** [Tc 3c 2d][Th]
+*** RIVER *** [Tc 3c 2d Th][7h]
+*** SHOW DOWN ***
+SANTONI.R shows [Kd Ac] (One pair : Tens)
+Nicobalo7517 shows [Td Qs] (Trips of Tens)
+Nicobalo7517 collected 14690 from pot
+*** SUMMARY ***
+Total pot 14690 | No rake
+Board: [Tc 3c 2d Th 7h]
+Seat 3: SANTONI.R (button) showed [Kd Ac] and lost with One pair : Tens
+Seat 5: Nicobalo7517 (big blind) showed [Td Qs] and won 14690 with Trips of Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 13 - HandId: #685181290986602608-58-1465044125 - Holdem no limit (70/300/600) - 2016/06/04 12:42:05 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #4 is the button
+Seat 1: pjtoulom (7960)
+Seat 2: DJksty38 (11888)
+Seat 4: Catoche26 (12318)
+Seat 5: Nicobalo7517 (22070)
+Seat 6: manggy94 (8827)
+*** ANTE/BLINDS ***
+Nicobalo7517 posts ante 70
+manggy94 posts ante 70
+pjtoulom posts ante 70
+DJksty38 posts ante 70
+Catoche26 posts ante 70
+Nicobalo7517 posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [Tc 7s]
+*** PRE-FLOP *** 
+pjtoulom folds
+DJksty38 folds
+Catoche26 folds
+Nicobalo7517 calls 300
+manggy94 checks
+*** FLOP *** [6c 5h Ad]
+Nicobalo7517 checks
+manggy94 bets 775
+Nicobalo7517 folds
+manggy94 collected 2325 from pot
+*** SUMMARY ***
+Total pot 2325 | No rake
+Board: [6c 5h Ad]
+Seat 6: manggy94 (big blind) won 2325
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 14 - HandId: #685181290986602608-59-1465044158 - Holdem no limit (80/400/800) - 2016/06/04 12:42:38 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #5 is the button
+Seat 1: pjtoulom (7890)
+Seat 2: DJksty38 (11818)
+Seat 4: Catoche26 (12248)
+Seat 5: Nicobalo7517 (21400)
+Seat 6: manggy94 (9707)
+*** ANTE/BLINDS ***
+manggy94 posts ante 80
+pjtoulom posts ante 80
+DJksty38 posts ante 80
+Catoche26 posts ante 80
+Nicobalo7517 posts ante 80
+manggy94 posts small blind 400
+pjtoulom posts big blind 800
+Dealt to manggy94 [Ah 5c]
+*** PRE-FLOP *** 
+DJksty38 folds
+Catoche26 folds
+Nicobalo7517 raises 20520 to 21320 and is all-in
+manggy94 folds
+pjtoulom folds
+Nicobalo7517 collected 22920 from pot
+*** SUMMARY ***
+Total pot 22920 | No rake
+Seat 5: Nicobalo7517 (button) won 22920
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 14 - HandId: #685181290986602608-60-1465044178 - Holdem no limit (80/400/800) - 2016/06/04 12:42:58 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #6 is the button
+Seat 1: pjtoulom (7010)
+Seat 2: DJksty38 (11738)
+Seat 4: Catoche26 (12168)
+Seat 5: Nicobalo7517 (22920)
+Seat 6: manggy94 (9227)
+*** ANTE/BLINDS ***
+pjtoulom posts ante 80
+DJksty38 posts ante 80
+Catoche26 posts ante 80
+Nicobalo7517 posts ante 80
+manggy94 posts ante 80
+pjtoulom posts small blind 400
+DJksty38 posts big blind 800
+Dealt to manggy94 [2d 7c]
+*** PRE-FLOP *** 
+Catoche26 folds
+Nicobalo7517 calls 800
+manggy94 folds
+pjtoulom folds
+DJksty38 checks
+*** FLOP *** [Kc 2h Qs]
+DJksty38 checks
+Nicobalo7517 checks
+*** TURN *** [Kc 2h Qs][4d]
+DJksty38 checks
+Nicobalo7517 checks
+*** RIVER *** [Kc 2h Qs 4d][Ks]
+DJksty38 checks
+Nicobalo7517 checks
+*** SHOW DOWN ***
+DJksty38 shows [Jh 6d] (One pair : Kings)
+Nicobalo7517 shows [9s Ac] (One pair : Kings)
+Nicobalo7517 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [Kc 2h Qs 4d Ks]
+Seat 2: DJksty38 (big blind) showed [Jh 6d] and lost with One pair : Kings
+Seat 5: Nicobalo7517 showed [9s Ac] and won 2400 with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 14 - HandId: #685181290986602608-61-1465044225 - Holdem no limit (80/400/800) - 2016/06/04 12:43:45 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #1 is the button
+Seat 1: pjtoulom (6530)
+Seat 2: DJksty38 (10858)
+Seat 3: MarechalgenC (11262)
+Seat 4: Catoche26 (12088)
+Seat 5: Nicobalo7517 (24440)
+Seat 6: manggy94 (9147)
+*** ANTE/BLINDS ***
+DJksty38 posts ante 80
+MarechalgenC posts ante 80
+pjtoulom posts ante 80
+Catoche26 posts ante 80
+Nicobalo7517 posts ante 80
+manggy94 posts ante 80
+DJksty38 posts small blind 400
+MarechalgenC posts big blind 800
+Dealt to manggy94 [Ad 4h]
+*** PRE-FLOP *** 
+Catoche26 folds
+Nicobalo7517 calls 800
+manggy94 calls 800
+pjtoulom folds
+DJksty38 folds
+MarechalgenC checks
+*** FLOP *** [9h Jd Th]
+MarechalgenC bets 800
+Nicobalo7517 folds
+manggy94 folds
+MarechalgenC collected 4080 from pot
+*** SUMMARY ***
+Total pot 4080 | No rake
+Board: [9h Jd Th]
+Seat 3: MarechalgenC (big blind) won 4080
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 14 - HandId: #685181290986602608-62-1465044273 - Holdem no limit (80/400/800) - 2016/06/04 12:44:33 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #2 is the button
+Seat 1: pjtoulom (6450)
+Seat 2: DJksty38 (10378)
+Seat 3: MarechalgenC (13662)
+Seat 4: Catoche26 (12008)
+Seat 5: Nicobalo7517 (23560)
+Seat 6: manggy94 (8267)
+*** ANTE/BLINDS ***
+MarechalgenC posts ante 80
+Catoche26 posts ante 80
+pjtoulom posts ante 80
+DJksty38 posts ante 80
+Nicobalo7517 posts ante 80
+manggy94 posts ante 80
+MarechalgenC posts small blind 400
+Catoche26 posts big blind 800
+Dealt to manggy94 [Ad 5d]
+*** PRE-FLOP *** 
+Nicobalo7517 calls 800
+manggy94 calls 800
+pjtoulom folds
+DJksty38 folds
+MarechalgenC calls 400
+Catoche26 checks
+*** FLOP *** [Qs Js Ac]
+MarechalgenC checks
+Catoche26 checks
+Nicobalo7517 checks
+manggy94 bets 3680
+MarechalgenC folds
+Catoche26 folds
+Nicobalo7517 folds
+manggy94 collected 7360 from pot
+*** SUMMARY ***
+Total pot 7360 | No rake
+Board: [Qs Js Ac]
+Seat 6: manggy94 won 7360
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 14 - HandId: #685181290986602608-63-1465044316 - Holdem no limit (80/400/800) - 2016/06/04 12:45:16 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #3 is the button
+Seat 1: pjtoulom (6370)
+Seat 2: DJksty38 (10298)
+Seat 3: MarechalgenC (12782)
+Seat 4: Catoche26 (11128)
+Seat 5: Nicobalo7517 (22680)
+Seat 6: manggy94 (11067)
+*** ANTE/BLINDS ***
+Catoche26 posts ante 80
+Nicobalo7517 posts ante 80
+pjtoulom posts ante 80
+DJksty38 posts ante 80
+MarechalgenC posts ante 80
+manggy94 posts ante 80
+Catoche26 posts small blind 400
+Nicobalo7517 posts big blind 800
+Dealt to manggy94 [Qs Ad]
+*** PRE-FLOP *** 
+manggy94 raises 1600 to 2400
+pjtoulom folds
+DJksty38 folds
+MarechalgenC folds
+Catoche26 folds
+Nicobalo7517 calls 1600
+*** FLOP *** [Ac Ts As]
+Nicobalo7517 checks
+manggy94 checks
+*** TURN *** [Ac Ts As][Qc]
+Nicobalo7517 checks
+manggy94 checks
+*** RIVER *** [Ac Ts As Qc][5c]
+Nicobalo7517 checks
+manggy94 bets 5680
+Nicobalo7517 folds
+manggy94 collected 11360 from pot
+*** SUMMARY ***
+Total pot 11360 | No rake
+Board: [Ac Ts As Qc 5c]
+Seat 6: manggy94 won 11360
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 15 - HandId: #685181290986602608-64-1465044352 - Holdem no limit (100/500/1000) - 2016/06/04 12:45:52 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #4 is the button
+Seat 1: pjtoulom (6290)
+Seat 2: DJksty38 (10218)
+Seat 3: MarechalgenC (12702)
+Seat 4: Catoche26 (10648)
+Seat 5: Nicobalo7517 (20200)
+Seat 6: manggy94 (14267)
+*** ANTE/BLINDS ***
+Nicobalo7517 posts ante 100
+manggy94 posts ante 100
+pjtoulom posts ante 100
+DJksty38 posts ante 100
+MarechalgenC posts ante 100
+Catoche26 posts ante 100
+Nicobalo7517 posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [3h 7h]
+*** PRE-FLOP *** 
+pjtoulom folds
+DJksty38 raises 1000 to 2000
+MarechalgenC folds
+Catoche26 folds
+Nicobalo7517 folds
+manggy94 folds
+DJksty38 collected 4100 from pot
+*** SUMMARY ***
+Total pot 4100 | No rake
+Seat 2: DJksty38 won 4100
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 15 - HandId: #685181290986602608-65-1465044370 - Holdem no limit (100/500/1000) - 2016/06/04 12:46:10 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #5 is the button
+Seat 1: pjtoulom (6190)
+Seat 2: DJksty38 (12218)
+Seat 3: MarechalgenC (12602)
+Seat 4: Catoche26 (10548)
+Seat 5: Nicobalo7517 (19600)
+Seat 6: manggy94 (13167)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+pjtoulom posts ante 100
+DJksty38 posts ante 100
+MarechalgenC posts ante 100
+Catoche26 posts ante 100
+Nicobalo7517 posts ante 100
+manggy94 posts small blind 500
+pjtoulom posts big blind 1000
+Dealt to manggy94 [7s 6s]
+*** PRE-FLOP *** 
+DJksty38 folds
+MarechalgenC calls 1000
+Catoche26 folds
+Nicobalo7517 calls 1000
+manggy94 calls 500
+pjtoulom checks
+*** FLOP *** [Kd 8d 9h]
+manggy94 checks
+pjtoulom checks
+MarechalgenC bets 1000
+Nicobalo7517 calls 1000
+manggy94 calls 1000
+pjtoulom folds
+*** TURN *** [Kd 8d 9h][Td]
+manggy94 bets 7600
+MarechalgenC folds
+Nicobalo7517 calls 7600
+*** RIVER *** [Kd 8d 9h Td][4d]
+manggy94 checks
+Nicobalo7517 checks
+*** SHOW DOWN ***
+manggy94 shows [7s 6s] (Straight Ten high)
+Nicobalo7517 shows [6d 3d] (Flush King high)
+Nicobalo7517 collected 22800 from pot
+*** SUMMARY ***
+Total pot 22800 | No rake
+Board: [Kd 8d 9h Td 4d]
+Seat 5: Nicobalo7517 (button) showed [6d 3d] and won 22800 with Flush King high
+Seat 6: manggy94 (small blind) showed [7s 6s] and lost with Straight Ten high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 15 - HandId: #685181290986602608-66-1465044438 - Holdem no limit (100/500/1000) - 2016/06/04 12:47:18 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #6 is the button
+Seat 1: pjtoulom (5090)
+Seat 2: DJksty38 (12118)
+Seat 3: MarechalgenC (10502)
+Seat 4: Catoche26 (10448)
+Seat 5: Nicobalo7517 (32700)
+Seat 6: manggy94 (3467)
+*** ANTE/BLINDS ***
+pjtoulom posts ante 100
+DJksty38 posts ante 100
+MarechalgenC posts ante 100
+Catoche26 posts ante 100
+Nicobalo7517 posts ante 100
+manggy94 posts ante 100
+pjtoulom posts small blind 500
+DJksty38 posts big blind 1000
+Dealt to manggy94 [8h 5d]
+*** PRE-FLOP *** 
+MarechalgenC folds
+Catoche26 calls 1000
+Nicobalo7517 calls 1000
+manggy94 folds
+pjtoulom folds
+DJksty38 checks
+*** FLOP *** [Qs 2c 6d]
+DJksty38 bets 11018 and is all-in
+Catoche26 folds
+Nicobalo7517 calls 11018
+*** TURN *** [Qs 2c 6d][7d]
+*** RIVER *** [Qs 2c 6d 7d][Jh]
+*** SHOW DOWN ***
+Nicobalo7517 shows [8d Qh] (One pair : Queens)
+DJksty38 shows [Qd Jd] (Two pairs : Queens and Jacks)
+DJksty38 collected 26136 from pot
+*** SUMMARY ***
+Total pot 26136 | No rake
+Board: [Qs 2c 6d 7d Jh]
+Seat 2: DJksty38 (big blind) showed [Qd Jd] and won 26136 with Two pairs : Queens and Jacks
+Seat 5: Nicobalo7517 showed [8d Qh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 15 - HandId: #685181290986602608-67-1465044482 - Holdem no limit (100/500/1000) - 2016/06/04 12:48:02 UTC
+Table: 'Freeroll(159531201)#111' 6-max (real money) Seat #1 is the button
+Seat 1: pjtoulom (4490)
+Seat 2: DJksty38 (26136)
+Seat 3: MarechalgenC (10402)
+Seat 4: Catoche26 (9348)
+Seat 5: Nicobalo7517 (20582)
+Seat 6: manggy94 (3367)
+*** ANTE/BLINDS ***
+DJksty38 posts ante 100
+MarechalgenC posts ante 100
+pjtoulom posts ante 100
+Catoche26 posts ante 100
+Nicobalo7517 posts ante 100
+manggy94 posts ante 100
+DJksty38 posts small blind 500
+MarechalgenC posts big blind 1000
+Dealt to manggy94 [3h Ad]
+*** PRE-FLOP *** 
+Catoche26 folds
+Nicobalo7517 folds
+manggy94 raises 2267 to 3267 and is all-in
+pjtoulom raises 1123 to 4390 and is all-in
+DJksty38 calls 3890
+MarechalgenC folds
+*** FLOP *** [Ah Jd Ts]
+*** TURN *** [Ah Jd Ts][Qs]
+*** RIVER *** [Ah Jd Ts Qs][6s]
+*** SHOW DOWN ***
+DJksty38 shows [9h 9d] (One pair : 9)
+manggy94 shows [3h Ad] (One pair : Aces)
+pjtoulom shows [Kc As] (Straight Ace high)
+pjtoulom collected 13647 from pot
+*** SUMMARY ***
+Total pot 13647 | No rake
+Board: [Ah Jd Ts Qs 6s]
+Seat 1: pjtoulom (button) showed [Kc As] and won 13647 with Straight Ace high
+Seat 2: DJksty38 (small blind) showed [9h 9d] and lost with One pair : 9
+Seat 6: manggy94 showed [3h Ad] and lost with One pair : Aces
+
+

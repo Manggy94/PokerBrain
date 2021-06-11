@@ -1,0 +1,93 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #545829135742665438-1-1440447331 - Holdem no limit (10/20) - 2015/08/24 20:15:31 UTC
+Table: 'Freeroll(127085749)#733' 6-max (real money) Seat #4 is the button
+Seat 1: greta2004 (3000)
+Seat 2: Pascaldas (3000)
+Seat 3: BukG (3000)
+Seat 4: manggy94 (3000)
+Seat 5: LeClaud (3000)
+Seat 6: Alex.BZH.22 (3000)
+*** ANTE/BLINDS ***
+LeClaud posts small blind 10
+Alex.BZH.22 posts big blind 20
+Dealt to manggy94 [9h 6d]
+*** PRE-FLOP *** 
+greta2004 calls 20
+Pascaldas calls 20
+BukG calls 20
+manggy94 folds
+LeClaud calls 10
+Alex.BZH.22 folds
+*** FLOP *** [4h Td 9s]
+LeClaud checks
+greta2004 checks
+Pascaldas checks
+BukG checks
+*** TURN *** [4h Td 9s][Jh]
+LeClaud checks
+greta2004 checks
+Pascaldas checks
+BukG checks
+*** RIVER *** [4h Td 9s Jh][Kh]
+LeClaud bets 100
+greta2004 calls 100
+Pascaldas raises 400 to 500
+BukG calls 500
+LeClaud folds
+greta2004 calls 400
+*** SHOW DOWN ***
+Pascaldas shows [7s Qc] (Straight King high)
+BukG shows [2s Qs] (Straight King high)
+greta2004 shows [7h Qh] (Flush King high)
+greta2004 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Board: [4h Td 9s Jh Kh]
+Seat 1: greta2004 showed [7h Qh] and won 1700 with Flush King high
+Seat 2: Pascaldas showed [7s Qc] and lost with Straight King high
+Seat 3: BukG showed [2s Qs] and lost with Straight King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #545829135742665438-2-1440447592 - Holdem no limit (15/30) - 2015/08/24 20:19:52 UTC
+Table: 'Freeroll(127085749)#733' 6-max (real money) Seat #5 is the button
+Seat 1: greta2004 (4180)
+Seat 2: Pascaldas (2480)
+Seat 3: BukG (2480)
+Seat 4: manggy94 (3000)
+Seat 5: LeClaud (2880)
+Seat 6: Alex.BZH.22 (2980)
+*** ANTE/BLINDS ***
+Alex.BZH.22 posts small blind 15
+greta2004 posts big blind 30
+Dealt to manggy94 [Kh 8h]
+*** PRE-FLOP *** 
+Pascaldas calls 30
+BukG calls 30
+manggy94 raises 135 to 165
+LeClaud calls 165
+Alex.BZH.22 folds
+greta2004 calls 135
+Pascaldas folds
+BukG folds
+*** FLOP *** [Ks 5h Qs]
+greta2004 checks
+manggy94 checks
+LeClaud bets 570
+greta2004 raises 3445 to 4015 and is all-in
+manggy94 calls 2835 and is all-in
+LeClaud calls 2145 and is all-in
+*** TURN *** [Ks 5h Qs][Tc]
+*** RIVER *** [Ks 5h Qs Tc][3s]
+*** SHOW DOWN ***
+manggy94 shows [Kh 8h] (One pair : Kings)
+LeClaud shows [Ts 9s] (Flush King high)
+greta2004 shows [Kd Ah] (One pair : Kings)
+greta2004 collected 1420 from side pot 1
+LeClaud collected 8715 from main pot
+*** SUMMARY ***
+Total pot 10135 | No rake
+Board: [Ks 5h Qs Tc 3s]
+Seat 1: greta2004 (big blind) showed [Kd Ah] and won 1420 with One pair : Kings
+Seat 4: manggy94 showed [Kh 8h] and lost with One pair : Kings
+Seat 5: LeClaud (button) showed [Ts 9s] and won 8715 with Flush King high
+
+

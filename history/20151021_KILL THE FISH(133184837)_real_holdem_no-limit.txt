@@ -1,0 +1,456 @@
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #572024519238090760-15-1445441492 - Holdem no limit (25/150/300) - 2015/10/21 15:31:32 UTC
+Table: 'KILL THE FISH(133184837)#007' 9-max (real money) Seat #6 is the button
+Seat 1: ukinismuilas (9575)
+Seat 2: bim-bim33 (10350)
+Seat 3: Matyio14 (25275)
+Seat 4: BAAdebeat (18100)
+Seat 5: kITcHEn-cHeF (33225)
+Seat 6: romuald73 (9100)
+Seat 7: UthinkIMgod (8850)
+Seat 8: manggy94 (10000)
+Seat 9: razeteur3060 (6500)
+*** ANTE/BLINDS ***
+UthinkIMgod posts ante 25
+manggy94 posts ante 25
+ukinismuilas posts ante 25
+bim-bim33 posts ante 25
+Matyio14 posts ante 25
+BAAdebeat posts ante 25
+kITcHEn-cHeF posts ante 25
+romuald73 posts ante 25
+razeteur3060 posts ante 25
+UthinkIMgod posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [3s 4h]
+*** PRE-FLOP *** 
+razeteur3060 folds
+ukinismuilas folds
+bim-bim33 raises 300 to 600
+Matyio14 raises 750 to 1350
+BAAdebeat folds
+kITcHEn-cHeF raises 31850 to 33200 and is all-in
+romuald73 folds
+UthinkIMgod folds
+manggy94 folds
+bim-bim33 calls 9725 and is all-in
+Matyio14 calls 23900 and is all-in
+*** FLOP *** [Kc 6c Td]
+*** TURN *** [Kc 6c Td][Ts]
+*** RIVER *** [Kc 6c Td Ts][5c]
+*** SHOW DOWN ***
+bim-bim33 shows [Ad 9d] (One pair : Tens)
+Matyio14 shows [As Qd] (One pair : Tens)
+kITcHEn-cHeF shows [9c 9h] (Two pairs : Tens and 9)
+kITcHEn-cHeF collected 69450 from pot
+*** SUMMARY ***
+Total pot 69450 | No rake
+Board: [Kc 6c Td Ts 5c]
+Seat 2: bim-bim33 showed [Ad 9d] and lost with One pair : Tens
+Seat 3: Matyio14 showed [As Qd] and lost with One pair : Tens
+Seat 5: kITcHEn-cHeF showed [9c 9h] and won 69450 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #572024519238090760-16-1445441553 - Holdem no limit (25/150/300) - 2015/10/21 15:32:33 UTC
+Table: 'KILL THE FISH(133184837)#007' 9-max (real money) Seat #7 is the button
+Seat 1: ukinismuilas (9550)
+Seat 4: BAAdebeat (18075)
+Seat 5: kITcHEn-cHeF (69450)
+Seat 6: romuald73 (9075)
+Seat 7: UthinkIMgod (8675)
+Seat 8: manggy94 (9675)
+Seat 9: razeteur3060 (6475)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+razeteur3060 posts ante 25
+ukinismuilas posts ante 25
+BAAdebeat posts ante 25
+kITcHEn-cHeF posts ante 25
+romuald73 posts ante 25
+UthinkIMgod posts ante 25
+manggy94 posts small blind 150
+razeteur3060 posts big blind 300
+Dealt to manggy94 [Ks 9d]
+*** PRE-FLOP *** 
+ukinismuilas folds
+BAAdebeat folds
+kITcHEn-cHeF calls 300
+romuald73 raises 8750 to 9050 and is all-in
+UthinkIMgod folds
+manggy94 folds
+razeteur3060 folds
+kITcHEn-cHeF calls 8750
+*** FLOP *** [Kc 3h 3d]
+*** TURN *** [Kc 3h 3d][5h]
+*** RIVER *** [Kc 3h 3d 5h][4s]
+*** SHOW DOWN ***
+romuald73 shows [As 9c] (One pair : 3)
+kITcHEn-cHeF shows [Jh Kd] (Two pairs : Kings and 3)
+kITcHEn-cHeF collected 18725 from pot
+*** SUMMARY ***
+Total pot 18725 | No rake
+Board: [Kc 3h 3d 5h 4s]
+Seat 5: kITcHEn-cHeF showed [Jh Kd] and won 18725 with Two pairs : Kings and 3
+Seat 6: romuald73 showed [As 9c] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #572024519238090760-17-1445441607 - Holdem no limit (30/200/400) - 2015/10/21 15:33:27 UTC
+Table: 'KILL THE FISH(133184837)#007' 9-max (real money) Seat #8 is the button
+Seat 1: ukinismuilas (9525)
+Seat 3: bodydu 86 (10000)
+Seat 4: BAAdebeat (18050)
+Seat 5: kITcHEn-cHeF (79100)
+Seat 7: UthinkIMgod (8650)
+Seat 8: manggy94 (9500)
+Seat 9: razeteur3060 (6150)
+*** ANTE/BLINDS ***
+razeteur3060 posts ante 30
+ukinismuilas posts ante 30
+bodydu 86 posts ante 30
+BAAdebeat posts ante 30
+kITcHEn-cHeF posts ante 30
+UthinkIMgod posts ante 30
+manggy94 posts ante 30
+razeteur3060 posts small blind 200
+ukinismuilas posts big blind 400
+Dealt to manggy94 [Th 8d]
+*** PRE-FLOP *** 
+bodydu 86 folds
+BAAdebeat folds
+kITcHEn-cHeF folds
+UthinkIMgod raises 400 to 800
+manggy94 folds
+razeteur3060 folds
+ukinismuilas folds
+UthinkIMgod collected 1610 from pot
+*** SUMMARY ***
+Total pot 1610 | No rake
+Seat 7: UthinkIMgod won 1610
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #572024519238090760-18-1445441635 - Holdem no limit (30/200/400) - 2015/10/21 15:33:55 UTC
+Table: 'KILL THE FISH(133184837)#007' 9-max (real money) Seat #9 is the button
+Seat 1: ukinismuilas (9095)
+Seat 3: bodydu 86 (9970)
+Seat 4: BAAdebeat (18020)
+Seat 5: kITcHEn-cHeF (79070)
+Seat 7: UthinkIMgod (9430)
+Seat 8: manggy94 (9470)
+Seat 9: razeteur3060 (5920)
+*** ANTE/BLINDS ***
+ukinismuilas posts ante 30
+bodydu 86 posts ante 30
+BAAdebeat posts ante 30
+kITcHEn-cHeF posts ante 30
+UthinkIMgod posts ante 30
+manggy94 posts ante 30
+razeteur3060 posts ante 30
+ukinismuilas posts small blind 200
+bodydu 86 posts big blind 400
+Dealt to manggy94 [Ks Qd]
+*** PRE-FLOP *** 
+BAAdebeat folds
+kITcHEn-cHeF folds
+UthinkIMgod folds
+manggy94 raises 1210 to 1610
+razeteur3060 folds
+ukinismuilas folds
+bodydu 86 folds
+manggy94 collected 2420 from pot
+*** SUMMARY ***
+Total pot 2420 | No rake
+Seat 8: manggy94 won 2420
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #572024519238090760-19-1445441671 - Holdem no limit (30/200/400) - 2015/10/21 15:34:31 UTC
+Table: 'KILL THE FISH(133184837)#007' 9-max (real money) Seat #1 is the button
+Seat 1: ukinismuilas (8865)
+Seat 3: bodydu 86 (9540)
+Seat 4: BAAdebeat (17990)
+Seat 5: kITcHEn-cHeF (79040)
+Seat 6: TONY6727 (8490)
+Seat 7: UthinkIMgod (9400)
+Seat 8: manggy94 (10250)
+Seat 9: razeteur3060 (5890)
+*** ANTE/BLINDS ***
+bodydu 86 posts ante 30
+BAAdebeat posts ante 30
+ukinismuilas posts ante 30
+kITcHEn-cHeF posts ante 30
+TONY6727 posts ante 30
+UthinkIMgod posts ante 30
+manggy94 posts ante 30
+razeteur3060 posts ante 30
+bodydu 86 posts small blind 200
+BAAdebeat posts big blind 400
+Dealt to manggy94 [Jh 6s]
+*** PRE-FLOP *** 
+kITcHEn-cHeF folds
+TONY6727 folds
+UthinkIMgod raises 400 to 800
+manggy94 folds
+razeteur3060 folds
+ukinismuilas folds
+bodydu 86 calls 600
+BAAdebeat calls 400
+*** FLOP *** [5h 8s 3d]
+bodydu 86 checks
+BAAdebeat bets 1760
+UthinkIMgod folds
+bodydu 86 folds
+BAAdebeat collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | No rake
+Board: [5h 8s 3d]
+Seat 4: BAAdebeat (big blind) won 4400
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #572024519238090760-20-1445441722 - Holdem no limit (30/200/400) - 2015/10/21 15:35:22 UTC
+Table: 'KILL THE FISH(133184837)#007' 9-max (real money) Seat #3 is the button
+Seat 1: ukinismuilas (8835)
+Seat 2: Yoplax78 (10000)
+Seat 3: bodydu 86 (8710)
+Seat 4: BAAdebeat (19800)
+Seat 5: kITcHEn-cHeF (79010)
+Seat 6: TONY6727 (8460)
+Seat 7: UthinkIMgod (8570)
+Seat 8: manggy94 (10220)
+Seat 9: razeteur3060 (5860)
+*** ANTE/BLINDS ***
+BAAdebeat posts ante 30
+kITcHEn-cHeF posts ante 30
+ukinismuilas posts ante 30
+Yoplax78 posts ante 30
+bodydu 86 posts ante 30
+TONY6727 posts ante 30
+UthinkIMgod posts ante 30
+manggy94 posts ante 30
+razeteur3060 posts ante 30
+BAAdebeat posts small blind 200
+kITcHEn-cHeF posts big blind 400
+Dealt to manggy94 [8d 3s]
+*** PRE-FLOP *** 
+TONY6727 folds
+UthinkIMgod folds
+manggy94 folds
+razeteur3060 raises 5430 to 5830 and is all-in
+ukinismuilas folds
+Yoplax78 folds
+bodydu 86 folds
+BAAdebeat calls 5630
+kITcHEn-cHeF calls 5430
+*** FLOP *** [5c 3h 2d]
+BAAdebeat checks
+kITcHEn-cHeF bets 73150 and is all-in
+BAAdebeat folds
+*** TURN *** [5c 3h 2d][Kc]
+*** RIVER *** [5c 3h 2d Kc][2c]
+*** SHOW DOWN ***
+razeteur3060 shows [Qh Ac] (One pair : 2)
+kITcHEn-cHeF shows [9s 9c] (Two pairs : 9 and 2)
+kITcHEn-cHeF collected 90910 from pot
+*** SUMMARY ***
+Total pot 90910 | No rake
+Board: [5c 3h 2d Kc 2c]
+Seat 5: kITcHEn-cHeF (big blind) showed [9s 9c] and won 90910 with Two pairs : 9 and 2
+Seat 9: razeteur3060 showed [Qh Ac] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #572024519238090760-21-1445441788 - Holdem no limit (40/250/500) - 2015/10/21 15:36:28 UTC
+Table: 'KILL THE FISH(133184837)#007' 9-max (real money) Seat #4 is the button
+Seat 1: ukinismuilas (8805)
+Seat 2: Yoplax78 (9970)
+Seat 3: bodydu 86 (8680)
+Seat 4: BAAdebeat (13940)
+Seat 5: kITcHEn-cHeF (90910)
+Seat 6: TONY6727 (8430)
+Seat 7: UthinkIMgod (8540)
+Seat 8: manggy94 (10190)
+*** ANTE/BLINDS ***
+kITcHEn-cHeF posts ante 40
+TONY6727 posts ante 40
+ukinismuilas posts ante 40
+Yoplax78 posts ante 40
+bodydu 86 posts ante 40
+BAAdebeat posts ante 40
+UthinkIMgod posts ante 40
+manggy94 posts ante 40
+kITcHEn-cHeF posts small blind 250
+TONY6727 posts big blind 500
+Dealt to manggy94 [3s 6d]
+*** PRE-FLOP *** 
+UthinkIMgod folds
+manggy94 folds
+ukinismuilas folds
+Yoplax78 folds
+bodydu 86 raises 1775 to 2275
+BAAdebeat raises 11625 to 13900 and is all-in
+kITcHEn-cHeF folds
+TONY6727 folds
+bodydu 86 calls 6365 and is all-in
+*** FLOP *** [2h 8h 2d]
+*** TURN *** [2h 8h 2d][Jc]
+*** RIVER *** [2h 8h 2d Jc][6h]
+*** SHOW DOWN ***
+bodydu 86 shows [Kd Ac] (One pair : 2)
+BAAdebeat shows [Kc Qh] (One pair : 2)
+BAAdebeat collected 5260 from side pot 1
+bodydu 86 collected 18350 from main pot
+*** SUMMARY ***
+Total pot 23610 | No rake
+Board: [2h 8h 2d Jc 6h]
+Seat 3: bodydu 86 showed [Kd Ac] and won 18350 with One pair : 2
+Seat 4: BAAdebeat (button) showed [Kc Qh] and won 5260 with One pair : 2
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #572024519238090760-22-1445441852 - Holdem no limit (40/250/500) - 2015/10/21 15:37:32 UTC
+Table: 'KILL THE FISH(133184837)#007' 9-max (real money) Seat #5 is the button
+Seat 1: ukinismuilas (8765)
+Seat 2: Yoplax78 (9930)
+Seat 3: bodydu 86 (18350)
+Seat 4: BAAdebeat (5260)
+Seat 5: kITcHEn-cHeF (90620)
+Seat 6: TONY6727 (7890)
+Seat 7: UthinkIMgod (8500)
+Seat 8: manggy94 (10150)
+Seat 9: aurel412 (10000)
+*** ANTE/BLINDS ***
+TONY6727 posts ante 40
+UthinkIMgod posts ante 40
+ukinismuilas posts ante 40
+Yoplax78 posts ante 40
+bodydu 86 posts ante 40
+BAAdebeat posts ante 40
+kITcHEn-cHeF posts ante 40
+manggy94 posts ante 40
+aurel412 posts ante 40
+TONY6727 posts small blind 250
+UthinkIMgod posts big blind 500
+Dealt to manggy94 [Th Qd]
+*** PRE-FLOP *** 
+manggy94 folds
+aurel412 folds
+ukinismuilas folds
+Yoplax78 folds
+bodydu 86 folds
+BAAdebeat raises 4720 to 5220 and is all-in
+kITcHEn-cHeF folds
+TONY6727 raises 2630 to 7850 and is all-in
+UthinkIMgod folds
+*** FLOP *** [Qh 9s As]
+*** TURN *** [Qh 9s As][Ac]
+*** RIVER *** [Qh 9s As Ac][Td]
+*** SHOW DOWN ***
+BAAdebeat shows [6c Jc] (One pair : Aces)
+TONY6727 shows [Jd Js] (Two pairs : Aces and Jacks)
+TONY6727 collected 13930 from pot
+*** SUMMARY ***
+Total pot 13930 | No rake
+Board: [Qh 9s As Ac Td]
+Seat 4: BAAdebeat showed [6c Jc] and lost with One pair : Aces
+Seat 6: TONY6727 (small blind) showed [Jd Js] and won 13930 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #572024519238090760-23-1445441882 - Holdem no limit (40/250/500) - 2015/10/21 15:38:02 UTC
+Table: 'KILL THE FISH(133184837)#007' 9-max (real money) Seat #6 is the button
+Seat 1: ukinismuilas (8725)
+Seat 2: Yoplax78 (9890)
+Seat 3: bodydu 86 (18310)
+Seat 5: kITcHEn-cHeF (90580)
+Seat 6: TONY6727 (13930)
+Seat 7: UthinkIMgod (7960)
+Seat 8: manggy94 (10110)
+Seat 9: aurel412 (9960)
+*** ANTE/BLINDS ***
+UthinkIMgod posts ante 40
+manggy94 posts ante 40
+ukinismuilas posts ante 40
+Yoplax78 posts ante 40
+bodydu 86 posts ante 40
+kITcHEn-cHeF posts ante 40
+TONY6727 posts ante 40
+aurel412 posts ante 40
+UthinkIMgod posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [7s Jd]
+*** PRE-FLOP *** 
+aurel412 calls 500
+ukinismuilas folds
+Yoplax78 folds
+bodydu 86 folds
+kITcHEn-cHeF calls 500
+TONY6727 folds
+UthinkIMgod folds
+manggy94 checks
+*** FLOP *** [6c 7d 4c]
+manggy94 bets 2070
+aurel412 calls 2070
+kITcHEn-cHeF calls 2070
+*** TURN *** [6c 7d 4c][9s]
+manggy94 bets 7500 and is all-in
+aurel412 calls 7350 and is all-in
+kITcHEn-cHeF folds
+*** RIVER *** [6c 7d 4c 9s][Kd]
+*** SHOW DOWN ***
+aurel412 shows [Jc 9c] (One pair : 9)
+manggy94 shows [7s Jd] (One pair : 7)
+manggy94 collected 150 from side pot 1
+aurel412 collected 22980 from main pot
+*** SUMMARY ***
+Total pot 23130 | No rake
+Board: [6c 7d 4c 9s Kd]
+Seat 8: manggy94 (big blind) showed [7s Jd] and won 150 with One pair : 7
+Seat 9: aurel412 showed [Jc 9c] and won 22980 with One pair : 9
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 8 - HandId: #572024519238090760-24-1445441991 - Holdem no limit (60/300/600) - 2015/10/21 15:39:51 UTC
+Table: 'KILL THE FISH(133184837)#007' 9-max (real money) Seat #7 is the button
+Seat 1: ukinismuilas (8685)
+Seat 2: Yoplax78 (9850)
+Seat 3: bodydu 86 (18270)
+Seat 4: Peanuts_5d9 (10000)
+Seat 5: kITcHEn-cHeF (87970)
+Seat 6: TONY6727 (13890)
+Seat 7: UthinkIMgod (7670)
+Seat 8: manggy94 (150)
+Seat 9: aurel412 (22980)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+aurel412 posts ante 60
+ukinismuilas posts ante 60
+Yoplax78 posts ante 60
+bodydu 86 posts ante 60
+Peanuts_5d9 posts ante 60
+kITcHEn-cHeF posts ante 60
+TONY6727 posts ante 60
+UthinkIMgod posts ante 60
+manggy94 posts small blind 90 and is all-in
+aurel412 posts big blind 600
+Dealt to manggy94 [Tc Ac]
+*** PRE-FLOP *** 
+ukinismuilas folds
+Yoplax78 folds
+bodydu 86 folds
+Peanuts_5d9 folds
+kITcHEn-cHeF calls 600
+TONY6727 calls 600
+UthinkIMgod raises 7010 to 7610 and is all-in
+aurel412 folds
+kITcHEn-cHeF folds
+TONY6727 raises 6220 to 13830 and is all-in
+*** FLOP *** [Kh Kc Td]
+*** TURN *** [Kh Kc Td][2h]
+*** RIVER *** [Kh Kc Td 2h][Ah]
+*** SHOW DOWN ***
+manggy94 shows [Tc Ac] (Two pairs : Aces and Kings)
+UthinkIMgod shows [Kd Ad] (Full of Kings and Aces)
+TONY6727 shows [2s 7s] (Two pairs : Kings and 2)
+TONY6727 collected 6220 from side pot 1
+UthinkIMgod collected 17050 from main pot
+*** SUMMARY ***
+Total pot 23270 | No rake
+Board: [Kh Kc Td 2h Ah]
+Seat 6: TONY6727 showed [2s 7s] and won 6220 with Two pairs : Kings and 2
+Seat 7: UthinkIMgod (button) showed [Kd Ad] and won 17050 with Full of Kings and Aces
+Seat 8: manggy94 (small blind) showed [Tc Ac] and lost with Two pairs : Aces and Kings
+
+

@@ -1,0 +1,3267 @@
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1352656008064794726-24-1577625656 - Holdem no limit (30/125/250) - 2019/12/29 13:20:56 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #6 is the button
+Seat 1: jlcollet81 (33630)
+Seat 2: manggy94 (20000)
+Seat 3: CABO-VERDE08 (22738)
+Seat 4: ptimarie (46352)
+Seat 5: Milwauks64 (21505)
+Seat 6: LEANE74 (22281)
+*** ANTE/BLINDS ***
+jlcollet81 posts ante 30
+manggy94 posts ante 30
+CABO-VERDE08 posts ante 30
+ptimarie posts ante 30
+Milwauks64 posts ante 30
+LEANE74 posts ante 30
+jlcollet81 posts small blind 125
+manggy94 posts big blind 250
+Dealt to manggy94 [9d 8h]
+*** PRE-FLOP *** 
+CABO-VERDE08 folds
+ptimarie folds
+Milwauks64 raises 250 to 500
+LEANE74 folds
+jlcollet81 calls 375
+manggy94 calls 250
+*** FLOP *** [2c 3c 7d]
+jlcollet81 bets 250
+manggy94 calls 250
+Milwauks64 calls 250
+*** TURN *** [2c 3c 7d][6s]
+jlcollet81 bets 250
+manggy94 calls 250
+Milwauks64 calls 250
+*** RIVER *** [2c 3c 7d 6s][Jd]
+jlcollet81 bets 250
+manggy94 folds
+Milwauks64 calls 250
+*** SHOW DOWN ***
+Milwauks64 shows [Ah Kd] (High card : Ace)
+jlcollet81 shows [2d Ts] (One pair : 2)
+jlcollet81 collected 3680 from pot
+*** SUMMARY ***
+Total pot 3680 | No rake
+Board: [2c 3c 7d 6s Jd]
+Seat 1: jlcollet81 (small blind) showed [2d Ts] and won 3680 with One pair : 2
+Seat 5: Milwauks64 showed [Ah Kd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #1352656008064794726-25-1577625705 - Holdem no limit (30/125/250) - 2019/12/29 13:21:45 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #1 is the button
+Seat 1: jlcollet81 (36030)
+Seat 2: manggy94 (18970)
+Seat 3: CABO-VERDE08 (22708)
+Seat 4: ptimarie (46322)
+Seat 5: Milwauks64 (20225)
+Seat 6: LEANE74 (22251)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+CABO-VERDE08 posts ante 30
+jlcollet81 posts ante 30
+ptimarie posts ante 30
+Milwauks64 posts ante 30
+LEANE74 posts ante 30
+manggy94 posts small blind 125
+CABO-VERDE08 posts big blind 250
+Dealt to manggy94 [3s Kd]
+*** PRE-FLOP *** 
+ptimarie folds
+Milwauks64 folds
+LEANE74 raises 250 to 500
+jlcollet81 calls 500
+manggy94 folds
+CABO-VERDE08 folds
+*** FLOP *** [5c 4h 6d]
+LEANE74 checks
+jlcollet81 checks
+*** TURN *** [5c 4h 6d][9d]
+LEANE74 checks
+jlcollet81 checks
+*** RIVER *** [5c 4h 6d 9d][5s]
+LEANE74 bets 500
+jlcollet81 folds
+LEANE74 collected 2055 from pot
+*** SUMMARY ***
+Total pot 2055 | No rake
+Board: [5c 4h 6d 9d 5s]
+Seat 6: LEANE74 won 2055
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1352656008064794726-26-1577625799 - Holdem no limit (40/150/300) - 2019/12/29 13:23:19 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #2 is the button
+Seat 1: jlcollet81 (35500)
+Seat 2: manggy94 (18815)
+Seat 3: CABO-VERDE08 (22428)
+Seat 4: ptimarie (46292)
+Seat 5: Milwauks64 (20195)
+Seat 6: LEANE74 (23276)
+*** ANTE/BLINDS ***
+CABO-VERDE08 posts ante 40
+ptimarie posts ante 40
+jlcollet81 posts ante 40
+manggy94 posts ante 40
+Milwauks64 posts ante 40
+LEANE74 posts ante 40
+CABO-VERDE08 posts small blind 150
+ptimarie posts big blind 300
+Dealt to manggy94 [7d 8d]
+*** PRE-FLOP *** 
+Milwauks64 raises 300 to 600
+LEANE74 folds
+jlcollet81 calls 600
+manggy94 calls 600
+CABO-VERDE08 folds
+ptimarie calls 300
+*** FLOP *** [3s 4h Kh]
+ptimarie checks
+Milwauks64 checks
+jlcollet81 checks
+manggy94 checks
+*** TURN *** [3s 4h Kh][Qc]
+ptimarie bets 2790
+Milwauks64 calls 2790
+jlcollet81 calls 2790
+manggy94 folds
+*** RIVER *** [3s 4h Kh Qc][3c]
+ptimarie bets 11160
+Milwauks64 calls 11160
+jlcollet81 folds
+*** SHOW DOWN ***
+Milwauks64 shows [Ac Qh] (Two pairs : Queens and 3)
+ptimarie shows [Qd Kd] (Two pairs : Kings and Queens)
+ptimarie collected 33480 from pot
+*** SUMMARY ***
+Total pot 33480 | No rake
+Board: [3s 4h Kh Qc 3c]
+Seat 4: ptimarie (big blind) showed [Qd Kd] and won 33480 with Two pairs : Kings and Queens
+Seat 5: Milwauks64 showed [Ac Qh] and lost with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1352656008064794726-27-1577625888 - Holdem no limit (40/150/300) - 2019/12/29 13:24:48 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #3 is the button
+Seat 1: jlcollet81 (32070)
+Seat 2: manggy94 (18175)
+Seat 3: CABO-VERDE08 (22238)
+Seat 4: ptimarie (65182)
+Seat 5: Milwauks64 (5605)
+Seat 6: LEANE74 (23236)
+*** ANTE/BLINDS ***
+ptimarie posts ante 40
+Milwauks64 posts ante 40
+jlcollet81 posts ante 40
+manggy94 posts ante 40
+CABO-VERDE08 posts ante 40
+LEANE74 posts ante 40
+ptimarie posts small blind 150
+Milwauks64 posts big blind 300
+Dealt to manggy94 [Qs Jc]
+*** PRE-FLOP *** 
+LEANE74 raises 450 to 750
+jlcollet81 raises 4950 to 5700
+manggy94 folds
+CABO-VERDE08 folds
+ptimarie folds
+Milwauks64 folds
+LEANE74 folds
+jlcollet81 collected 7140 from pot
+*** SUMMARY ***
+Total pot 7140 | No rake
+Seat 1: jlcollet81 won 7140
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1352656008064794726-28-1577625915 - Holdem no limit (40/150/300) - 2019/12/29 13:25:15 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #4 is the button
+Seat 1: jlcollet81 (33470)
+Seat 2: manggy94 (18135)
+Seat 3: CABO-VERDE08 (22198)
+Seat 4: ptimarie (64992)
+Seat 5: Milwauks64 (5265)
+Seat 6: LEANE74 (22446)
+*** ANTE/BLINDS ***
+Milwauks64 posts ante 40
+LEANE74 posts ante 40
+jlcollet81 posts ante 40
+manggy94 posts ante 40
+CABO-VERDE08 posts ante 40
+ptimarie posts ante 40
+Milwauks64 posts small blind 150
+LEANE74 posts big blind 300
+Dealt to manggy94 [Ks 9d]
+*** PRE-FLOP *** 
+jlcollet81 raises 990 to 1290
+manggy94 calls 1290
+CABO-VERDE08 folds
+ptimarie calls 1290
+Milwauks64 folds
+LEANE74 folds
+*** FLOP *** [Kd 9s Js]
+jlcollet81 checks
+manggy94 checks
+ptimarie checks
+*** TURN *** [Kd 9s Js][8s]
+jlcollet81 bets 300
+manggy94 raises 2430 to 2730
+ptimarie folds
+jlcollet81 calls 2430
+*** RIVER *** [Kd 9s Js 8s][6c]
+jlcollet81 checks
+manggy94 bets 10020
+jlcollet81 folds
+manggy94 collected 20040 from pot
+*** SUMMARY ***
+Total pot 20040 | No rake
+Board: [Kd 9s Js 8s 6c]
+Seat 2: manggy94 won 20040
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1352656008064794726-29-1577625954 - Holdem no limit (40/150/300) - 2019/12/29 13:25:54 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #5 is the button
+Seat 1: jlcollet81 (29410)
+Seat 2: manggy94 (24095)
+Seat 3: CABO-VERDE08 (22158)
+Seat 4: ptimarie (63662)
+Seat 5: Milwauks64 (5075)
+Seat 6: LEANE74 (22106)
+*** ANTE/BLINDS ***
+LEANE74 posts ante 40
+jlcollet81 posts ante 40
+manggy94 posts ante 40
+CABO-VERDE08 posts ante 40
+ptimarie posts ante 40
+Milwauks64 posts ante 40
+LEANE74 posts small blind 150
+jlcollet81 posts big blind 300
+Dealt to manggy94 [5s 4h]
+*** PRE-FLOP *** 
+manggy94 folds
+CABO-VERDE08 calls 300
+ptimarie raises 300 to 600
+Milwauks64 folds
+LEANE74 calls 450
+jlcollet81 calls 300
+CABO-VERDE08 calls 300
+*** FLOP *** [Ah 8s 2c]
+LEANE74 checks
+jlcollet81 checks
+CABO-VERDE08 checks
+ptimarie bets 2640
+LEANE74 folds
+jlcollet81 folds
+CABO-VERDE08 folds
+ptimarie collected 5280 from pot
+*** SUMMARY ***
+Total pot 5280 | No rake
+Board: [Ah 8s 2c]
+Seat 4: ptimarie won 5280
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1352656008064794726-30-1577626024 - Holdem no limit (40/150/300) - 2019/12/29 13:27:04 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #6 is the button
+Seat 1: jlcollet81 (28770)
+Seat 2: manggy94 (24055)
+Seat 3: CABO-VERDE08 (21518)
+Seat 4: ptimarie (65662)
+Seat 5: Milwauks64 (5035)
+Seat 6: LEANE74 (21466)
+*** ANTE/BLINDS ***
+jlcollet81 posts ante 40
+manggy94 posts ante 40
+CABO-VERDE08 posts ante 40
+ptimarie posts ante 40
+Milwauks64 posts ante 40
+LEANE74 posts ante 40
+jlcollet81 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Kc Js]
+*** PRE-FLOP *** 
+CABO-VERDE08 calls 300
+ptimarie folds
+Milwauks64 folds
+LEANE74 folds
+jlcollet81 calls 150
+manggy94 checks
+*** FLOP *** [9h 3d 6c]
+jlcollet81 checks
+manggy94 bets 570
+CABO-VERDE08 raises 1380 to 1950
+jlcollet81 folds
+manggy94 folds
+CABO-VERDE08 collected 3660 from pot
+*** SUMMARY ***
+Total pot 3660 | No rake
+Board: [9h 3d 6c]
+Seat 3: CABO-VERDE08 won 3660
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1352656008064794726-31-1577626076 - Holdem no limit (40/150/300) - 2019/12/29 13:27:56 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #1 is the button
+Seat 1: jlcollet81 (28430)
+Seat 2: manggy94 (23145)
+Seat 3: CABO-VERDE08 (22888)
+Seat 4: ptimarie (65622)
+Seat 5: Milwauks64 (4995)
+Seat 6: LEANE74 (21426)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+CABO-VERDE08 posts ante 40
+jlcollet81 posts ante 40
+ptimarie posts ante 40
+Milwauks64 posts ante 40
+LEANE74 posts ante 40
+manggy94 posts small blind 150
+CABO-VERDE08 posts big blind 300
+Dealt to manggy94 [6s 4s]
+*** PRE-FLOP *** 
+ptimarie raises 300 to 600
+Milwauks64 folds
+LEANE74 folds
+jlcollet81 raises 2700 to 3300
+manggy94 folds
+CABO-VERDE08 folds
+ptimarie calls 2700
+*** FLOP *** [Qc 3h Ah]
+ptimarie checks
+jlcollet81 bets 300
+ptimarie folds
+jlcollet81 shows [Kc Kd] (One pair : Kings)
+jlcollet81 collected 7590 from pot
+*** SUMMARY ***
+Total pot 7590 | No rake
+Board: [Qc 3h Ah]
+Seat 1: jlcollet81 (button) showed [Kc Kd] and won 7590 with One pair : Kings
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1352656008064794726-32-1577626131 - Holdem no limit (40/150/300) - 2019/12/29 13:28:51 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #2 is the button
+Seat 1: jlcollet81 (32380)
+Seat 2: manggy94 (22955)
+Seat 3: CABO-VERDE08 (22548)
+Seat 4: ptimarie (62282)
+Seat 5: Milwauks64 (4955)
+Seat 6: LEANE74 (21386)
+*** ANTE/BLINDS ***
+CABO-VERDE08 posts ante 40
+ptimarie posts ante 40
+jlcollet81 posts ante 40
+manggy94 posts ante 40
+Milwauks64 posts ante 40
+LEANE74 posts ante 40
+CABO-VERDE08 posts small blind 150
+ptimarie posts big blind 300
+Dealt to manggy94 [Js 3d]
+*** PRE-FLOP *** 
+Milwauks64 folds
+LEANE74 folds
+jlcollet81 calls 300
+manggy94 calls 300
+CABO-VERDE08 calls 150
+ptimarie checks
+*** FLOP *** [9c As 3c]
+CABO-VERDE08 checks
+ptimarie bets 1440
+jlcollet81 folds
+manggy94 folds
+CABO-VERDE08 folds
+ptimarie collected 2880 from pot
+*** SUMMARY ***
+Total pot 2880 | No rake
+Board: [9c As 3c]
+Seat 4: ptimarie (big blind) won 2880
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1352656008064794726-33-1577626208 - Holdem no limit (40/150/300) - 2019/12/29 13:30:08 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #3 is the button
+Seat 1: jlcollet81 (32040)
+Seat 2: manggy94 (22615)
+Seat 3: CABO-VERDE08 (22208)
+Seat 4: ptimarie (63382)
+Seat 5: Milwauks64 (4915)
+Seat 6: LEANE74 (21346)
+*** ANTE/BLINDS ***
+ptimarie posts ante 40
+Milwauks64 posts ante 40
+jlcollet81 posts ante 40
+manggy94 posts ante 40
+CABO-VERDE08 posts ante 40
+LEANE74 posts ante 40
+ptimarie posts small blind 150
+Milwauks64 posts big blind 300
+Dealt to manggy94 [Kc 4s]
+*** PRE-FLOP *** 
+LEANE74 raises 300 to 600
+jlcollet81 calls 600
+manggy94 folds
+CABO-VERDE08 folds
+ptimarie folds
+Milwauks64 raises 4275 to 4875 and is all-in
+LEANE74 calls 4275
+jlcollet81 calls 4275
+*** FLOP *** [7h 2s 2h]
+LEANE74 bets 15015
+jlcollet81 folds
+*** TURN *** [7h 2s 2h][Tc]
+*** RIVER *** [7h 2s 2h Tc][5d]
+*** SHOW DOWN ***
+Milwauks64 shows [8h Qd] (One pair : 2)
+LEANE74 shows [7d Ah] (Two pairs : 7 and 2)
+LEANE74 collected 30030 from pot
+*** SUMMARY ***
+Total pot 30030 | No rake
+Board: [7h 2s 2h Tc 5d]
+Seat 5: Milwauks64 (big blind) showed [8h Qd] and lost with One pair : 2
+Seat 6: LEANE74 showed [7d Ah] and won 30030 with Two pairs : 7 and 2
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #1352656008064794726-34-1577626250 - Holdem no limit (40/150/300) - 2019/12/29 13:30:50 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #4 is the button
+Seat 1: jlcollet81 (27125)
+Seat 2: manggy94 (22575)
+Seat 3: CABO-VERDE08 (22168)
+Seat 4: ptimarie (63192)
+Seat 6: LEANE74 (31446)
+*** ANTE/BLINDS ***
+LEANE74 posts ante 40
+jlcollet81 posts ante 40
+manggy94 posts ante 40
+CABO-VERDE08 posts ante 40
+ptimarie posts ante 40
+LEANE74 posts big blind 300
+Dealt to manggy94 [Qd Jd]
+*** PRE-FLOP *** 
+jlcollet81 folds
+manggy94 raises 600 to 900
+CABO-VERDE08 calls 900
+ptimarie folds
+LEANE74 calls 600
+*** FLOP *** [8d 3h Ts]
+LEANE74 checks
+manggy94 bets 750
+CABO-VERDE08 raises 1825 to 2575
+LEANE74 folds
+manggy94 calls 1825
+*** TURN *** [8d 3h Ts][7d]
+manggy94 checks
+CABO-VERDE08 bets 4200
+manggy94 calls 4200
+*** RIVER *** [8d 3h Ts 7d][4d]
+manggy94 bets 8225
+CABO-VERDE08 folds
+manggy94 collected 24675 from pot
+*** SUMMARY ***
+Total pot 24675 | No rake
+Board: [8d 3h Ts 7d 4d]
+Seat 2: manggy94 won 24675
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1352656008064794726-35-1577626298 - Holdem no limit (50/200/400) - 2019/12/29 13:31:38 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #5 is the button
+Seat 1: jlcollet81 (27085)
+Seat 2: manggy94 (31310)
+Seat 3: CABO-VERDE08 (14453)
+Seat 4: ptimarie (63152)
+Seat 6: LEANE74 (30506)
+*** ANTE/BLINDS ***
+LEANE74 posts ante 50
+jlcollet81 posts ante 50
+manggy94 posts ante 50
+CABO-VERDE08 posts ante 50
+ptimarie posts ante 50
+LEANE74 posts small blind 200
+jlcollet81 posts big blind 400
+Dealt to manggy94 [7h Js]
+*** PRE-FLOP *** 
+manggy94 folds
+CABO-VERDE08 raises 1250 to 1650
+ptimarie folds
+LEANE74 folds
+jlcollet81 calls 1250
+*** FLOP *** [Ks Jd 3h]
+jlcollet81 checks
+CABO-VERDE08 bets 12753 and is all-in
+jlcollet81 folds
+CABO-VERDE08 collected 16503 from pot
+*** SUMMARY ***
+Total pot 16503 | No rake
+Board: [Ks Jd 3h]
+Seat 3: CABO-VERDE08 won 16503
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1352656008064794726-36-1577626317 - Holdem no limit (50/200/400) - 2019/12/29 13:31:57 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #6 is the button
+Seat 1: jlcollet81 (25385)
+Seat 2: manggy94 (31260)
+Seat 3: CABO-VERDE08 (16503)
+Seat 4: ptimarie (63102)
+Seat 6: LEANE74 (30256)
+*** ANTE/BLINDS ***
+jlcollet81 posts ante 50
+manggy94 posts ante 50
+CABO-VERDE08 posts ante 50
+ptimarie posts ante 50
+LEANE74 posts ante 50
+jlcollet81 posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [Td 3h]
+*** PRE-FLOP *** 
+CABO-VERDE08 folds
+ptimarie folds
+LEANE74 raises 400 to 800
+jlcollet81 calls 600
+manggy94 folds
+*** FLOP *** [7d Ad 7s]
+jlcollet81 checks
+LEANE74 bets 800
+jlcollet81 calls 800
+*** TURN *** [7d Ad 7s][Th]
+jlcollet81 checks
+LEANE74 bets 600
+jlcollet81 calls 600
+*** RIVER *** [7d Ad 7s Th][2s]
+jlcollet81 checks
+LEANE74 checks
+*** SHOW DOWN ***
+LEANE74 shows [6d 8d] (One pair : 7)
+jlcollet81 shows [Kh Qc] (One pair : 7)
+jlcollet81 collected 5050 from pot
+*** SUMMARY ***
+Total pot 5050 | No rake
+Board: [7d Ad 7s Th 2s]
+Seat 1: jlcollet81 (small blind) showed [Kh Qc] and won 5050 with One pair : 7
+Seat 6: LEANE74 (button) showed [6d 8d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1352656008064794726-37-1577626352 - Holdem no limit (50/200/400) - 2019/12/29 13:32:32 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #1 is the button
+Seat 1: jlcollet81 (28185)
+Seat 2: manggy94 (30810)
+Seat 3: CABO-VERDE08 (16453)
+Seat 4: ptimarie (63052)
+Seat 6: LEANE74 (28006)
+*** ANTE/BLINDS ***
+manggy94 posts ante 50
+CABO-VERDE08 posts ante 50
+jlcollet81 posts ante 50
+ptimarie posts ante 50
+LEANE74 posts ante 50
+manggy94 posts small blind 200
+CABO-VERDE08 posts big blind 400
+Dealt to manggy94 [Kc 6d]
+*** PRE-FLOP *** 
+ptimarie raises 400 to 800
+LEANE74 folds
+jlcollet81 folds
+manggy94 folds
+CABO-VERDE08 calls 400
+*** FLOP *** [8s Js 3h]
+CABO-VERDE08 checks
+ptimarie bets 2050
+CABO-VERDE08 raises 2050 to 4100
+ptimarie calls 2050
+*** TURN *** [8s Js 3h][Kd]
+CABO-VERDE08 checks
+ptimarie bets 10250
+CABO-VERDE08 raises 1253 to 11503 and is all-in
+ptimarie calls 1253
+*** RIVER *** [8s Js 3h Kd][4d]
+*** SHOW DOWN ***
+CABO-VERDE08 shows [7s Qs] (High card : King)
+ptimarie shows [8h Kh] (Two pairs : Kings and 8)
+ptimarie collected 33256 from pot
+*** SUMMARY ***
+Total pot 33256 | No rake
+Board: [8s Js 3h Kd 4d]
+Seat 3: CABO-VERDE08 (big blind) showed [7s Qs] and lost with High card : King
+Seat 4: ptimarie showed [8h Kh] and won 33256 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1352656008064794726-38-1577626409 - Holdem no limit (50/200/400) - 2019/12/29 13:33:29 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #2 is the button
+Seat 1: jlcollet81 (28135)
+Seat 2: manggy94 (30560)
+Seat 4: ptimarie (79855)
+Seat 5: ben3385 (20000)
+Seat 6: LEANE74 (27956)
+*** ANTE/BLINDS ***
+ptimarie posts ante 50
+jlcollet81 posts ante 50
+manggy94 posts ante 50
+ben3385 posts ante 50
+LEANE74 posts ante 50
+ptimarie posts big blind 400
+Dealt to manggy94 [8s As]
+*** PRE-FLOP *** 
+ben3385 calls 400
+LEANE74 folds
+jlcollet81 folds
+manggy94 raises 800 to 1200
+ptimarie folds
+ben3385 calls 800
+*** FLOP *** [3c Ad 7d]
+ben3385 checks
+manggy94 checks
+*** TURN *** [3c Ad 7d][Ac]
+ben3385 checks
+manggy94 bets 1525
+ben3385 folds
+manggy94 collected 4575 from pot
+*** SUMMARY ***
+Total pot 4575 | No rake
+Board: [3c Ad 7d Ac]
+Seat 2: manggy94 (button) won 4575
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1352656008064794726-39-1577626440 - Holdem no limit (50/200/400) - 2019/12/29 13:34:00 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #3 is the button
+Seat 1: jlcollet81 (28085)
+Seat 2: manggy94 (32360)
+Seat 3: Pikka Pikka (20000)
+Seat 4: ptimarie (79405)
+Seat 5: ben3385 (18750)
+Seat 6: LEANE74 (27906)
+*** ANTE/BLINDS ***
+ptimarie posts ante 50
+ben3385 posts ante 50
+jlcollet81 posts ante 50
+manggy94 posts ante 50
+LEANE74 posts ante 50
+ptimarie posts small blind 200
+ben3385 posts big blind 400
+Dealt to manggy94 [2s Kc]
+*** PRE-FLOP *** 
+LEANE74 folds
+jlcollet81 calls 400
+manggy94 folds
+ptimarie folds
+ben3385 checks
+*** FLOP *** [9s 9c 4s]
+ben3385 checks
+jlcollet81 bets 400
+ben3385 calls 400
+*** TURN *** [9s 9c 4s][Tc]
+ben3385 checks
+jlcollet81 bets 400
+ben3385 calls 400
+*** RIVER *** [9s 9c 4s Tc][3d]
+ben3385 checks
+jlcollet81 checks
+*** SHOW DOWN ***
+ben3385 shows [Kh Js] (One pair : 9)
+jlcollet81 shows [Ks Ad] (One pair : 9)
+jlcollet81 collected 2850 from pot
+*** SUMMARY ***
+Total pot 2850 | No rake
+Board: [9s 9c 4s Tc 3d]
+Seat 1: jlcollet81 showed [Ks Ad] and won 2850 with One pair : 9
+Seat 5: ben3385 (big blind) showed [Kh Js] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1352656008064794726-40-1577626473 - Holdem no limit (50/200/400) - 2019/12/29 13:34:33 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #4 is the button
+Seat 1: jlcollet81 (29685)
+Seat 2: manggy94 (32310)
+Seat 3: Pikka Pikka (20000)
+Seat 4: ptimarie (79155)
+Seat 5: ben3385 (17500)
+Seat 6: LEANE74 (27856)
+*** ANTE/BLINDS ***
+ben3385 posts ante 50
+LEANE74 posts ante 50
+jlcollet81 posts ante 50
+manggy94 posts ante 50
+Pikka Pikka posts ante 50
+ptimarie posts ante 50
+ben3385 posts small blind 200
+LEANE74 posts big blind 400
+Dealt to manggy94 [7h 6s]
+*** PRE-FLOP *** 
+jlcollet81 folds
+manggy94 folds
+Pikka Pikka folds
+ptimarie folds
+ben3385 calls 200
+LEANE74 raises 27406 to 27806 and is all-in
+ben3385 folds
+LEANE74 collected 28506 from pot
+*** SUMMARY ***
+Total pot 28506 | No rake
+Seat 6: LEANE74 (big blind) won 28506
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1352656008064794726-41-1577626502 - Holdem no limit (50/200/400) - 2019/12/29 13:35:02 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #5 is the button
+Seat 1: jlcollet81 (29635)
+Seat 2: manggy94 (32260)
+Seat 3: Pikka Pikka (19950)
+Seat 4: ptimarie (79105)
+Seat 5: ben3385 (17050)
+Seat 6: LEANE74 (28506)
+*** ANTE/BLINDS ***
+LEANE74 posts ante 50
+jlcollet81 posts ante 50
+manggy94 posts ante 50
+Pikka Pikka posts ante 50
+ptimarie posts ante 50
+ben3385 posts ante 50
+LEANE74 posts small blind 200
+jlcollet81 posts big blind 400
+Dealt to manggy94 [7s Qh]
+*** PRE-FLOP *** 
+manggy94 folds
+Pikka Pikka folds
+ptimarie folds
+ben3385 folds
+LEANE74 raises 600 to 1000
+jlcollet81 calls 600
+*** FLOP *** [Kc 4h 7c]
+LEANE74 bets 1400
+jlcollet81 calls 1400
+*** TURN *** [Kc 4h 7c][5c]
+LEANE74 bets 5100
+jlcollet81 calls 5100
+*** RIVER *** [Kc 4h 7c 5c][4c]
+LEANE74 checks
+jlcollet81 checks
+*** SHOW DOWN ***
+LEANE74 shows [Jd Js] (Two pairs : Jacks and 4)
+jlcollet81 shows [5s 6c] (Flush King high)
+jlcollet81 collected 15300 from pot
+*** SUMMARY ***
+Total pot 15300 | No rake
+Board: [Kc 4h 7c 5c 4c]
+Seat 1: jlcollet81 (big blind) showed [5s 6c] and won 15300 with Flush King high
+Seat 6: LEANE74 (small blind) showed [Jd Js] and lost with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1352656008064794726-42-1577626542 - Holdem no limit (50/200/400) - 2019/12/29 13:35:42 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #6 is the button
+Seat 1: jlcollet81 (37385)
+Seat 2: manggy94 (32210)
+Seat 3: Pikka Pikka (19900)
+Seat 4: ptimarie (79055)
+Seat 5: ben3385 (17000)
+Seat 6: LEANE74 (20956)
+*** ANTE/BLINDS ***
+jlcollet81 posts ante 50
+manggy94 posts ante 50
+Pikka Pikka posts ante 50
+ptimarie posts ante 50
+ben3385 posts ante 50
+LEANE74 posts ante 50
+jlcollet81 posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [5h 2s]
+*** PRE-FLOP *** 
+Pikka Pikka folds
+ptimarie folds
+ben3385 calls 400
+LEANE74 folds
+jlcollet81 calls 200
+manggy94 checks
+*** FLOP *** [Kd Qs Ac]
+jlcollet81 bets 1500
+manggy94 folds
+ben3385 folds
+jlcollet81 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Kd Qs Ac]
+Seat 1: jlcollet81 (small blind) won 3000
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1352656008064794726-43-1577626566 - Holdem no limit (50/200/400) - 2019/12/29 13:36:06 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #1 is the button
+Seat 1: jlcollet81 (38435)
+Seat 2: manggy94 (31760)
+Seat 3: Pikka Pikka (19850)
+Seat 4: ptimarie (79005)
+Seat 5: ben3385 (16550)
+Seat 6: LEANE74 (20906)
+*** ANTE/BLINDS ***
+manggy94 posts ante 50
+Pikka Pikka posts ante 50
+jlcollet81 posts ante 50
+ptimarie posts ante 50
+ben3385 posts ante 50
+LEANE74 posts ante 50
+manggy94 posts small blind 200
+Pikka Pikka posts big blind 400
+Dealt to manggy94 [8s 6d]
+*** PRE-FLOP *** 
+ptimarie raises 400 to 800
+ben3385 folds
+LEANE74 folds
+jlcollet81 folds
+manggy94 folds
+Pikka Pikka folds
+ptimarie collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 4: ptimarie won 1700
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1352656008064794726-44-1577626580 - Holdem no limit (50/200/400) - 2019/12/29 13:36:20 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #2 is the button
+Seat 1: jlcollet81 (38385)
+Seat 2: manggy94 (31510)
+Seat 3: Pikka Pikka (19400)
+Seat 4: ptimarie (79855)
+Seat 5: ben3385 (16500)
+Seat 6: LEANE74 (20856)
+*** ANTE/BLINDS ***
+Pikka Pikka posts ante 50
+ptimarie posts ante 50
+jlcollet81 posts ante 50
+manggy94 posts ante 50
+ben3385 posts ante 50
+LEANE74 posts ante 50
+Pikka Pikka posts small blind 200
+ptimarie posts big blind 400
+Dealt to manggy94 [Qc 5c]
+*** PRE-FLOP *** 
+ben3385 raises 1200 to 1600
+LEANE74 calls 1600
+jlcollet81 folds
+manggy94 calls 1600
+Pikka Pikka folds
+ptimarie folds
+*** FLOP *** [8h Td As]
+ben3385 bets 14850 and is all-in
+LEANE74 folds
+manggy94 folds
+ben3385 collected 20550 from pot
+*** SUMMARY ***
+Total pot 20550 | No rake
+Board: [8h Td As]
+Seat 5: ben3385 won 20550
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1352656008064794726-45-1577626626 - Holdem no limit (50/200/400) - 2019/12/29 13:37:06 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #3 is the button
+Seat 1: jlcollet81 (38335)
+Seat 2: manggy94 (29860)
+Seat 3: Pikka Pikka (19150)
+Seat 4: ptimarie (79405)
+Seat 5: ben3385 (20550)
+Seat 6: LEANE74 (19206)
+*** ANTE/BLINDS ***
+ptimarie posts ante 50
+ben3385 posts ante 50
+jlcollet81 posts ante 50
+manggy94 posts ante 50
+Pikka Pikka posts ante 50
+LEANE74 posts ante 50
+ptimarie posts small blind 200
+ben3385 posts big blind 400
+Dealt to manggy94 [9h 4h]
+*** PRE-FLOP *** 
+LEANE74 raises 400 to 800
+jlcollet81 calls 800
+manggy94 folds
+Pikka Pikka calls 800
+ptimarie calls 600
+ben3385 folds
+*** FLOP *** [Ks Jc Kc]
+ptimarie checks
+LEANE74 bets 400
+jlcollet81 folds
+Pikka Pikka folds
+ptimarie raises 2350 to 2750
+LEANE74 calls 2350
+*** TURN *** [Ks Jc Kc][9d]
+ptimarie checks
+LEANE74 bets 2000
+ptimarie folds
+LEANE74 collected 11400 from pot
+*** SUMMARY ***
+Total pot 11400 | No rake
+Board: [Ks Jc Kc 9d]
+Seat 6: LEANE74 won 11400
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1352656008064794726-46-1577626701 - Holdem no limit (50/200/400) - 2019/12/29 13:38:21 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #4 is the button
+Seat 1: jlcollet81 (37485)
+Seat 2: manggy94 (29810)
+Seat 3: Pikka Pikka (18300)
+Seat 4: ptimarie (75805)
+Seat 5: ben3385 (20100)
+Seat 6: LEANE74 (25006)
+*** ANTE/BLINDS ***
+ben3385 posts ante 50
+LEANE74 posts ante 50
+jlcollet81 posts ante 50
+manggy94 posts ante 50
+Pikka Pikka posts ante 50
+ptimarie posts ante 50
+ben3385 posts small blind 200
+LEANE74 posts big blind 400
+Dealt to manggy94 [2d 8h]
+*** PRE-FLOP *** 
+jlcollet81 calls 400
+manggy94 folds
+Pikka Pikka folds
+ptimarie folds
+ben3385 folds
+LEANE74 checks
+*** FLOP *** [3s 3d Kd]
+LEANE74 checks
+jlcollet81 checks
+*** TURN *** [3s 3d Kd][Ah]
+LEANE74 checks
+jlcollet81 checks
+*** RIVER *** [3s 3d Kd Ah][9c]
+LEANE74 bets 400
+jlcollet81 folds
+LEANE74 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Board: [3s 3d Kd Ah 9c]
+Seat 6: LEANE74 (big blind) won 1700
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #1352656008064794726-47-1577626727 - Holdem no limit (50/200/400) - 2019/12/29 13:38:47 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #5 is the button
+Seat 1: jlcollet81 (37035)
+Seat 2: manggy94 (29760)
+Seat 3: Pikka Pikka (18250)
+Seat 4: ptimarie (75755)
+Seat 5: ben3385 (19850)
+Seat 6: LEANE74 (25856)
+*** ANTE/BLINDS ***
+LEANE74 posts ante 50
+jlcollet81 posts ante 50
+manggy94 posts ante 50
+Pikka Pikka posts ante 50
+ptimarie posts ante 50
+ben3385 posts ante 50
+LEANE74 posts small blind 200
+jlcollet81 posts big blind 400
+Dealt to manggy94 [5h 5c]
+*** PRE-FLOP *** 
+manggy94 raises 400 to 800
+Pikka Pikka folds
+ptimarie folds
+ben3385 folds
+LEANE74 calls 600
+jlcollet81 calls 400
+*** FLOP *** [Ah 3d 3s]
+LEANE74 checks
+jlcollet81 checks
+manggy94 checks
+*** TURN *** [Ah 3d 3s][9c]
+LEANE74 checks
+jlcollet81 bets 400
+manggy94 calls 400
+LEANE74 calls 400
+*** RIVER *** [Ah 3d 3s 9c][Ks]
+LEANE74 checks
+jlcollet81 bets 400
+manggy94 calls 400
+LEANE74 calls 400
+*** SHOW DOWN ***
+jlcollet81 shows [9s 7d] (Two pairs : 9 and 3)
+manggy94 shows [5h 5c] (Two pairs : 5 and 3)
+LEANE74 shows [Kc Td] (Two pairs : Kings and 3)
+LEANE74 collected 5100 from pot
+*** SUMMARY ***
+Total pot 5100 | No rake
+Board: [Ah 3d 3s 9c Ks]
+Seat 1: jlcollet81 (big blind) showed [9s 7d] and lost with Two pairs : 9 and 3
+Seat 2: manggy94 showed [5h 5c] and lost with Two pairs : 5 and 3
+Seat 6: LEANE74 (small blind) showed [Kc Td] and won 5100 with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1352656008064794726-48-1577626777 - Holdem no limit (60/250/500) - 2019/12/29 13:39:37 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #6 is the button
+Seat 1: jlcollet81 (35385)
+Seat 2: manggy94 (28110)
+Seat 3: niglo057 (20000)
+Seat 4: ptimarie (75705)
+Seat 5: ben3385 (19800)
+Seat 6: LEANE74 (29306)
+*** ANTE/BLINDS ***
+jlcollet81 posts ante 60
+manggy94 posts ante 60
+niglo057 posts ante 60
+ptimarie posts ante 60
+ben3385 posts ante 60
+LEANE74 posts ante 60
+jlcollet81 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [Ad 3c]
+*** PRE-FLOP *** 
+niglo057 calls 500
+ptimarie calls 500
+ben3385 folds
+LEANE74 folds
+jlcollet81 calls 250
+manggy94 checks
+*** FLOP *** [7s 3h 5c]
+jlcollet81 checks
+manggy94 bets 1180
+niglo057 folds
+ptimarie folds
+jlcollet81 calls 1180
+*** TURN *** [7s 3h 5c][Jh]
+jlcollet81 checks
+manggy94 bets 1750
+jlcollet81 calls 1750
+*** RIVER *** [7s 3h 5c Jh][Ts]
+jlcollet81 checks
+manggy94 checks
+*** SHOW DOWN ***
+jlcollet81 shows [2d 6d] (High card : Jack)
+manggy94 shows [Ad 3c] (One pair : 3)
+manggy94 collected 8220 from pot
+*** SUMMARY ***
+Total pot 8220 | No rake
+Board: [7s 3h 5c Jh Ts]
+Seat 1: jlcollet81 (small blind) showed [2d 6d] and lost with High card : Jack
+Seat 2: manggy94 (big blind) showed [Ad 3c] and won 8220 with One pair : 3
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1352656008064794726-49-1577626828 - Holdem no limit (60/250/500) - 2019/12/29 13:40:28 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #1 is the button
+Seat 1: jlcollet81 (31895)
+Seat 2: manggy94 (32840)
+Seat 3: niglo057 (19440)
+Seat 4: ptimarie (75145)
+Seat 5: ben3385 (19740)
+Seat 6: LEANE74 (29246)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+niglo057 posts ante 60
+jlcollet81 posts ante 60
+ptimarie posts ante 60
+ben3385 posts ante 60
+LEANE74 posts ante 60
+manggy94 posts small blind 250
+niglo057 posts big blind 500
+Dealt to manggy94 [Th Ts]
+*** PRE-FLOP *** 
+ptimarie folds
+ben3385 raises 500 to 1000
+LEANE74 raises 4000 to 5000
+jlcollet81 folds
+manggy94 calls 4750
+niglo057 folds
+ben3385 calls 4000
+*** FLOP *** [9c 6h 8h]
+manggy94 bets 15860
+ben3385 folds
+LEANE74 folds
+manggy94 collected 31720 from pot
+*** SUMMARY ***
+Total pot 31720 | No rake
+Board: [9c 6h 8h]
+Seat 2: manggy94 (small blind) won 31720
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1352656008064794726-50-1577626866 - Holdem no limit (60/250/500) - 2019/12/29 13:41:06 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #2 is the button
+Seat 1: jlcollet81 (31835)
+Seat 2: manggy94 (43640)
+Seat 3: niglo057 (18880)
+Seat 4: ptimarie (75085)
+Seat 5: ben3385 (14680)
+Seat 6: LEANE74 (24186)
+*** ANTE/BLINDS ***
+niglo057 posts ante 60
+ptimarie posts ante 60
+jlcollet81 posts ante 60
+manggy94 posts ante 60
+ben3385 posts ante 60
+LEANE74 posts ante 60
+niglo057 posts small blind 250
+ptimarie posts big blind 500
+Dealt to manggy94 [8h Qc]
+*** PRE-FLOP *** 
+ben3385 folds
+LEANE74 folds
+jlcollet81 calls 500
+manggy94 calls 500
+niglo057 calls 250
+ptimarie checks
+*** FLOP *** [8c Jc Qs]
+niglo057 checks
+ptimarie checks
+jlcollet81 bets 500
+manggy94 calls 500
+niglo057 calls 500
+ptimarie folds
+*** TURN *** [8c Jc Qs][4s]
+niglo057 checks
+jlcollet81 bets 500
+manggy94 raises 500 to 1000
+niglo057 calls 1000
+jlcollet81 calls 500
+*** RIVER *** [8c Jc Qs 4s][2d]
+niglo057 checks
+jlcollet81 checks
+manggy94 bets 4573
+niglo057 folds
+jlcollet81 folds
+manggy94 collected 11433 from pot
+*** SUMMARY ***
+Total pot 11433 | No rake
+Board: [8c Jc Qs 4s 2d]
+Seat 2: manggy94 (button) won 11433
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1352656008064794726-51-1577626957 - Holdem no limit (60/250/500) - 2019/12/29 13:42:37 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #3 is the button
+Seat 1: jlcollet81 (29775)
+Seat 2: manggy94 (48440)
+Seat 3: niglo057 (16820)
+Seat 4: ptimarie (74525)
+Seat 5: ben3385 (14620)
+Seat 6: LEANE74 (24126)
+*** ANTE/BLINDS ***
+ptimarie posts ante 60
+ben3385 posts ante 60
+jlcollet81 posts ante 60
+manggy94 posts ante 60
+niglo057 posts ante 60
+LEANE74 posts ante 60
+ptimarie posts small blind 250
+ben3385 posts big blind 500
+Dealt to manggy94 [7h Jd]
+*** PRE-FLOP *** 
+LEANE74 raises 1500 to 2000
+jlcollet81 folds
+manggy94 folds
+niglo057 folds
+ptimarie folds
+ben3385 folds
+LEANE74 collected 3110 from pot
+*** SUMMARY ***
+Total pot 3110 | No rake
+Seat 6: LEANE74 won 3110
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1352656008064794726-52-1577626987 - Holdem no limit (60/250/500) - 2019/12/29 13:43:07 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #4 is the button
+Seat 1: jlcollet81 (29715)
+Seat 2: manggy94 (48380)
+Seat 3: niglo057 (16760)
+Seat 4: ptimarie (74215)
+Seat 5: ben3385 (14060)
+Seat 6: LEANE74 (25176)
+*** ANTE/BLINDS ***
+ben3385 posts ante 60
+LEANE74 posts ante 60
+jlcollet81 posts ante 60
+manggy94 posts ante 60
+niglo057 posts ante 60
+ptimarie posts ante 60
+ben3385 posts small blind 250
+LEANE74 posts big blind 500
+Dealt to manggy94 [As 3c]
+*** PRE-FLOP *** 
+jlcollet81 raises 29155 to 29655 and is all-in
+manggy94 folds
+niglo057 calls 16700 and is all-in
+ptimarie folds
+ben3385 folds
+LEANE74 folds
+*** FLOP *** [6c 6d 3s]
+*** TURN *** [6c 6d 3s][7h]
+*** RIVER *** [6c 6d 3s 7h][5h]
+*** SHOW DOWN ***
+niglo057 shows [Jc Qd] (One pair : 6)
+jlcollet81 shows [8h 8d] (Two pairs : 8 and 6)
+jlcollet81 collected 47465 from pot
+*** SUMMARY ***
+Total pot 47465 | No rake
+Board: [6c 6d 3s 7h 5h]
+Seat 1: jlcollet81 showed [8h 8d] and won 47465 with Two pairs : 8 and 6
+Seat 3: niglo057 showed [Jc Qd] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1352656008064794726-53-1577627022 - Holdem no limit (60/250/500) - 2019/12/29 13:43:42 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #5 is the button
+Seat 1: jlcollet81 (47465)
+Seat 2: manggy94 (48320)
+Seat 4: ptimarie (74155)
+Seat 5: ben3385 (13750)
+Seat 6: LEANE74 (24616)
+*** ANTE/BLINDS ***
+LEANE74 posts ante 60
+jlcollet81 posts ante 60
+manggy94 posts ante 60
+ptimarie posts ante 60
+ben3385 posts ante 60
+LEANE74 posts small blind 250
+jlcollet81 posts big blind 500
+Dealt to manggy94 [9h Kc]
+*** PRE-FLOP *** 
+manggy94 raises 500 to 1000
+ptimarie calls 1000
+ben3385 folds
+LEANE74 folds
+jlcollet81 calls 500
+*** FLOP *** [4s Qh 6h]
+jlcollet81 checks
+manggy94 bets 500
+ptimarie calls 500
+jlcollet81 folds
+*** TURN *** [4s Qh 6h][Ts]
+manggy94 bets 500
+ptimarie raises 3700 to 4200
+manggy94 calls 3700
+*** RIVER *** [4s Qh 6h Ts][4c]
+manggy94 bets 2500
+ptimarie folds
+manggy94 collected 15450 from pot
+*** SUMMARY ***
+Total pot 15450 | No rake
+Board: [4s Qh 6h Ts 4c]
+Seat 2: manggy94 won 15450
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1352656008064794726-54-1577627085 - Holdem no limit (60/250/500) - 2019/12/29 13:44:45 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #6 is the button
+Seat 1: jlcollet81 (46405)
+Seat 2: manggy94 (55510)
+Seat 4: ptimarie (68395)
+Seat 5: ben3385 (13690)
+Seat 6: LEANE74 (24306)
+*** ANTE/BLINDS ***
+jlcollet81 posts ante 60
+manggy94 posts ante 60
+ptimarie posts ante 60
+ben3385 posts ante 60
+LEANE74 posts ante 60
+jlcollet81 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [5d Ad]
+*** PRE-FLOP *** 
+ptimarie folds
+ben3385 folds
+LEANE74 raises 500 to 1000
+jlcollet81 calls 750
+manggy94 calls 500
+*** FLOP *** [2h Jd Kh]
+jlcollet81 checks
+manggy94 bets 1250
+LEANE74 folds
+jlcollet81 folds
+manggy94 collected 4550 from pot
+*** SUMMARY ***
+Total pot 4550 | No rake
+Board: [2h Jd Kh]
+Seat 2: manggy94 (big blind) won 4550
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1352656008064794726-55-1577627112 - Holdem no limit (60/250/500) - 2019/12/29 13:45:12 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #1 is the button
+Seat 1: jlcollet81 (45345)
+Seat 2: manggy94 (57750)
+Seat 3: Toffinside27 (20000)
+Seat 4: ptimarie (68335)
+Seat 5: ben3385 (13630)
+Seat 6: LEANE74 (23246)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+Toffinside27 posts ante 60
+jlcollet81 posts ante 60
+ptimarie posts ante 60
+ben3385 posts ante 60
+LEANE74 posts ante 60
+manggy94 posts small blind 250
+Toffinside27 posts big blind 500
+Dealt to manggy94 [Td 3c]
+*** PRE-FLOP *** 
+ptimarie folds
+ben3385 folds
+LEANE74 folds
+jlcollet81 folds
+manggy94 folds
+Toffinside27 collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Seat 3: Toffinside27 (big blind) won 1110
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1352656008064794726-56-1577627121 - Holdem no limit (60/250/500) - 2019/12/29 13:45:21 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #2 is the button
+Seat 1: jlcollet81 (45285)
+Seat 2: manggy94 (57440)
+Seat 3: Toffinside27 (20550)
+Seat 4: ptimarie (68275)
+Seat 5: ben3385 (13570)
+Seat 6: LEANE74 (23186)
+*** ANTE/BLINDS ***
+Toffinside27 posts ante 60
+ptimarie posts ante 60
+jlcollet81 posts ante 60
+manggy94 posts ante 60
+ben3385 posts ante 60
+LEANE74 posts ante 60
+Toffinside27 posts small blind 250
+ptimarie posts big blind 500
+Dealt to manggy94 [8s Jh]
+*** PRE-FLOP *** 
+ben3385 folds
+LEANE74 raises 750 to 1250
+jlcollet81 raises 5000 to 6250
+manggy94 folds
+Toffinside27 folds
+ptimarie folds
+LEANE74 raises 16876 to 23126 and is all-in
+jlcollet81 calls 16876
+*** FLOP *** [Th As Ac]
+*** TURN *** [Th As Ac][Qh]
+*** RIVER *** [Th As Ac Qh][Kh]
+*** SHOW DOWN ***
+LEANE74 shows [Qd Qc] (Full of Queens and Aces)
+jlcollet81 shows [Ks Kc] (Full of Kings and Aces)
+jlcollet81 collected 47362 from pot
+*** SUMMARY ***
+Total pot 47362 | No rake
+Board: [Th As Ac Qh Kh]
+Seat 1: jlcollet81 showed [Ks Kc] and won 47362 with Full of Kings and Aces
+Seat 6: LEANE74 showed [Qd Qc] and lost with Full of Queens and Aces
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1352656008064794726-57-1577627174 - Holdem no limit (60/250/500) - 2019/12/29 13:46:14 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #3 is the button
+Seat 1: jlcollet81 (69461)
+Seat 2: manggy94 (57380)
+Seat 3: Toffinside27 (20240)
+Seat 4: ptimarie (67715)
+Seat 5: ben3385 (13510)
+*** ANTE/BLINDS ***
+ptimarie posts ante 60
+ben3385 posts ante 60
+jlcollet81 posts ante 60
+manggy94 posts ante 60
+Toffinside27 posts ante 60
+ptimarie posts small blind 250
+ben3385 posts big blind 500
+Dealt to manggy94 [2d 7s]
+*** PRE-FLOP *** 
+jlcollet81 raises 500 to 1000
+manggy94 folds
+Toffinside27 folds
+ptimarie folds
+ben3385 calls 500
+*** FLOP *** [Kh 2h 6c]
+ben3385 checks
+jlcollet81 bets 500
+ben3385 calls 500
+*** TURN *** [Kh 2h 6c][Jc]
+ben3385 checks
+jlcollet81 checks
+*** RIVER *** [Kh 2h 6c Jc][4h]
+ben3385 checks
+jlcollet81 checks
+*** SHOW DOWN ***
+jlcollet81 shows [Qs Td] (High card : King)
+ben3385 shows [8d As] (High card : Ace)
+ben3385 collected 3550 from pot
+*** SUMMARY ***
+Total pot 3550 | No rake
+Board: [Kh 2h 6c Jc 4h]
+Seat 1: jlcollet81 showed [Qs Td] and lost with High card : King
+Seat 5: ben3385 (big blind) showed [8d As] and won 3550 with High card : Ace
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #1352656008064794726-58-1577627210 - Holdem no limit (60/250/500) - 2019/12/29 13:46:50 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #4 is the button
+Seat 1: jlcollet81 (67901)
+Seat 2: manggy94 (57320)
+Seat 3: Toffinside27 (20180)
+Seat 4: ptimarie (67405)
+Seat 5: ben3385 (15500)
+Seat 6: HmongH (20000)
+*** ANTE/BLINDS ***
+ben3385 posts ante 60
+HmongH posts ante 60
+jlcollet81 posts ante 60
+manggy94 posts ante 60
+Toffinside27 posts ante 60
+ptimarie posts ante 60
+ben3385 posts small blind 250
+HmongH posts big blind 500
+Dealt to manggy94 [9c 7s]
+*** PRE-FLOP *** 
+jlcollet81 raises 500 to 1000
+manggy94 folds
+Toffinside27 folds
+ptimarie calls 1000
+ben3385 folds
+HmongH calls 500
+*** FLOP *** [As 7h 4c]
+HmongH checks
+jlcollet81 checks
+ptimarie checks
+*** TURN *** [As 7h 4c][3c]
+HmongH bets 1246
+jlcollet81 folds
+ptimarie calls 1246
+*** RIVER *** [As 7h 4c 3c][Ac]
+HmongH checks
+ptimarie checks
+*** SHOW DOWN ***
+ptimarie shows [Ks 3s] (Two pairs : Aces and 3)
+HmongH shows [4d Jh] (Two pairs : Aces and 4)
+HmongH collected 6102 from pot
+*** SUMMARY ***
+Total pot 6102 | No rake
+Board: [As 7h 4c 3c Ac]
+Seat 4: ptimarie (button) showed [Ks 3s] and lost with Two pairs : Aces and 3
+Seat 6: HmongH (big blind) showed [4d Jh] and won 6102 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1352656008064794726-59-1577627268 - Holdem no limit (80/300/600) - 2019/12/29 13:47:48 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #5 is the button
+Seat 1: jlcollet81 (66841)
+Seat 2: manggy94 (57260)
+Seat 3: Toffinside27 (20120)
+Seat 4: ptimarie (65099)
+Seat 5: ben3385 (15190)
+Seat 6: HmongH (23796)
+*** ANTE/BLINDS ***
+HmongH posts ante 80
+jlcollet81 posts ante 80
+manggy94 posts ante 80
+Toffinside27 posts ante 80
+ptimarie posts ante 80
+ben3385 posts ante 80
+HmongH posts small blind 300
+jlcollet81 posts big blind 600
+Dealt to manggy94 [Qc Ah]
+*** PRE-FLOP *** 
+manggy94 raises 1200 to 1800
+Toffinside27 folds
+ptimarie folds
+ben3385 folds
+HmongH calls 1500
+jlcollet81 calls 1200
+*** FLOP *** [Js 5d 7c]
+HmongH checks
+jlcollet81 bets 2940
+manggy94 calls 2940
+HmongH calls 2940
+*** TURN *** [Js 5d 7c][8s]
+HmongH checks
+jlcollet81 bets 2100
+manggy94 calls 2100
+HmongH folds
+*** RIVER *** [Js 5d 7c 8s][3d]
+jlcollet81 bets 2100
+manggy94 raises 6900 to 9000
+jlcollet81 calls 6900
+*** SHOW DOWN ***
+manggy94 shows [Qc Ah] (High card : Ace)
+jlcollet81 shows [2d Jd] (One pair : Jacks)
+jlcollet81 collected 36900 from pot
+*** SUMMARY ***
+Total pot 36900 | No rake
+Board: [Js 5d 7c 8s 3d]
+Seat 1: jlcollet81 (big blind) showed [2d Jd] and won 36900 with One pair : Jacks
+Seat 2: manggy94 showed [Qc Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1352656008064794726-60-1577627336 - Holdem no limit (80/300/600) - 2019/12/29 13:48:56 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #6 is the button
+Seat 1: jlcollet81 (87821)
+Seat 2: manggy94 (41340)
+Seat 3: Toffinside27 (20040)
+Seat 4: ptimarie (65019)
+Seat 5: ben3385 (15110)
+Seat 6: HmongH (18976)
+*** ANTE/BLINDS ***
+jlcollet81 posts ante 80
+manggy94 posts ante 80
+Toffinside27 posts ante 80
+ptimarie posts ante 80
+ben3385 posts ante 80
+HmongH posts ante 80
+jlcollet81 posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [Th 9c]
+*** PRE-FLOP *** 
+Toffinside27 folds
+ptimarie folds
+ben3385 folds
+HmongH folds
+jlcollet81 raises 87141 to 87741 and is all-in
+manggy94 folds
+jlcollet81 collected 88821 from pot
+*** SUMMARY ***
+Total pot 88821 | No rake
+Seat 1: jlcollet81 (small blind) won 88821
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1352656008064794726-61-1577627386 - Holdem no limit (80/300/600) - 2019/12/29 13:49:46 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #1 is the button
+Seat 1: jlcollet81 (88821)
+Seat 2: manggy94 (40660)
+Seat 3: Toffinside27 (19960)
+Seat 4: ptimarie (64939)
+Seat 5: ben3385 (15030)
+Seat 6: HmongH (18896)
+*** ANTE/BLINDS ***
+manggy94 posts ante 80
+Toffinside27 posts ante 80
+jlcollet81 posts ante 80
+ptimarie posts ante 80
+ben3385 posts ante 80
+HmongH posts ante 80
+manggy94 posts small blind 300
+Toffinside27 posts big blind 600
+Dealt to manggy94 [7s 4c]
+*** PRE-FLOP *** 
+ptimarie raises 600 to 1200
+ben3385 calls 1200
+HmongH folds
+jlcollet81 calls 1200
+manggy94 folds
+Toffinside27 calls 600
+*** FLOP *** [Qs 8d Jc]
+Toffinside27 bets 5580
+ptimarie calls 5580
+ben3385 calls 5580
+jlcollet81 calls 5580
+*** TURN *** [Qs 8d Jc][3s]
+Toffinside27 bets 13100 and is all-in
+ptimarie folds
+ben3385 folds
+jlcollet81 calls 13100
+*** RIVER *** [Qs 8d Jc 3s][9d]
+*** SHOW DOWN ***
+jlcollet81 shows [As 9s] (One pair : 9)
+Toffinside27 shows [8h 8s] (Trips of 8)
+Toffinside27 collected 54100 from pot
+*** SUMMARY ***
+Total pot 54100 | No rake
+Board: [Qs 8d Jc 3s 9d]
+Seat 1: jlcollet81 (button) showed [As 9s] and lost with One pair : 9
+Seat 3: Toffinside27 (big blind) showed [8h 8s] and won 54100 with Trips of 8
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1352656008064794726-62-1577627505 - Holdem no limit (80/300/600) - 2019/12/29 13:51:45 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #2 is the button
+Seat 1: jlcollet81 (68861)
+Seat 2: manggy94 (40280)
+Seat 3: Toffinside27 (54100)
+Seat 4: ptimarie (58079)
+Seat 5: ben3385 (8170)
+Seat 6: HmongH (18816)
+*** ANTE/BLINDS ***
+Toffinside27 posts ante 80
+ptimarie posts ante 80
+jlcollet81 posts ante 80
+manggy94 posts ante 80
+ben3385 posts ante 80
+HmongH posts ante 80
+Toffinside27 posts small blind 300
+ptimarie posts big blind 600
+Dealt to manggy94 [7c Tc]
+*** PRE-FLOP *** 
+ben3385 folds
+HmongH folds
+jlcollet81 calls 600
+manggy94 calls 600
+Toffinside27 calls 300
+ptimarie checks
+*** FLOP *** [6d 3c 6h]
+Toffinside27 checks
+ptimarie checks
+jlcollet81 checks
+manggy94 checks
+*** TURN *** [6d 3c 6h][Jh]
+Toffinside27 checks
+ptimarie checks
+jlcollet81 bets 2880
+manggy94 folds
+Toffinside27 folds
+ptimarie folds
+jlcollet81 collected 5760 from pot
+*** SUMMARY ***
+Total pot 5760 | No rake
+Board: [6d 3c 6h Jh]
+Seat 1: jlcollet81 won 5760
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1352656008064794726-63-1577627570 - Holdem no limit (80/300/600) - 2019/12/29 13:52:50 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #3 is the button
+Seat 1: jlcollet81 (71061)
+Seat 2: manggy94 (39600)
+Seat 3: Toffinside27 (53420)
+Seat 4: ptimarie (57399)
+Seat 5: ben3385 (8090)
+Seat 6: HmongH (18736)
+*** ANTE/BLINDS ***
+ptimarie posts ante 80
+ben3385 posts ante 80
+jlcollet81 posts ante 80
+manggy94 posts ante 80
+Toffinside27 posts ante 80
+HmongH posts ante 80
+ptimarie posts small blind 300
+ben3385 posts big blind 600
+Dealt to manggy94 [Th 7h]
+*** PRE-FLOP *** 
+HmongH folds
+jlcollet81 calls 600
+manggy94 calls 600
+Toffinside27 calls 600
+ptimarie folds
+ben3385 checks
+*** FLOP *** [Qd 2d 6d]
+ben3385 checks
+jlcollet81 checks
+manggy94 bets 7800
+Toffinside27 folds
+ben3385 folds
+jlcollet81 folds
+manggy94 collected 10980 from pot
+*** SUMMARY ***
+Total pot 10980 | No rake
+Board: [Qd 2d 6d]
+Seat 2: manggy94 won 10980
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1352656008064794726-64-1577627612 - Holdem no limit (80/300/600) - 2019/12/29 13:53:32 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #4 is the button
+Seat 1: jlcollet81 (70381)
+Seat 2: manggy94 (42100)
+Seat 3: Toffinside27 (52740)
+Seat 4: ptimarie (57019)
+Seat 5: ben3385 (7410)
+Seat 6: HmongH (18656)
+*** ANTE/BLINDS ***
+ben3385 posts ante 80
+HmongH posts ante 80
+jlcollet81 posts ante 80
+manggy94 posts ante 80
+Toffinside27 posts ante 80
+ptimarie posts ante 80
+ben3385 posts small blind 300
+HmongH posts big blind 600
+Dealt to manggy94 [7c Qc]
+*** PRE-FLOP *** 
+jlcollet81 calls 600
+manggy94 calls 600
+Toffinside27 calls 600
+ptimarie folds
+ben3385 folds
+HmongH checks
+*** FLOP *** [9c Qh Ac]
+HmongH checks
+jlcollet81 bets 600
+manggy94 raises 1890 to 2490
+Toffinside27 calls 2490
+HmongH raises 15486 to 17976 and is all-in
+jlcollet81 folds
+manggy94 calls 15486
+Toffinside27 folds
+*** TURN *** [9c Qh Ac][2h]
+*** RIVER *** [9c Qh Ac 2h][6s]
+*** SHOW DOWN ***
+manggy94 shows [7c Qc] (One pair : Queens)
+HmongH shows [As 9h] (Two pairs : Aces and 9)
+HmongH collected 42222 from pot
+*** SUMMARY ***
+Total pot 42222 | No rake
+Board: [9c Qh Ac 2h 6s]
+Seat 2: manggy94 showed [7c Qc] and lost with One pair : Queens
+Seat 6: HmongH (big blind) showed [As 9h] and won 42222 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1352656008064794726-65-1577627665 - Holdem no limit (80/300/600) - 2019/12/29 13:54:25 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #5 is the button
+Seat 1: jlcollet81 (69101)
+Seat 2: manggy94 (23444)
+Seat 3: Toffinside27 (49570)
+Seat 4: ptimarie (56939)
+Seat 5: ben3385 (7030)
+Seat 6: HmongH (42222)
+*** ANTE/BLINDS ***
+HmongH posts ante 80
+jlcollet81 posts ante 80
+manggy94 posts ante 80
+Toffinside27 posts ante 80
+ptimarie posts ante 80
+ben3385 posts ante 80
+HmongH posts small blind 300
+jlcollet81 posts big blind 600
+Dealt to manggy94 [5c 9d]
+*** PRE-FLOP *** 
+manggy94 folds
+Toffinside27 folds
+ptimarie folds
+ben3385 folds
+HmongH calls 300
+jlcollet81 checks
+*** FLOP *** [2d Th Ah]
+HmongH bets 600
+jlcollet81 raises 600 to 1200
+HmongH calls 600
+*** TURN *** [2d Th Ah][4s]
+HmongH checks
+jlcollet81 bets 600
+HmongH calls 600
+*** RIVER *** [2d Th Ah 4s][2c]
+HmongH checks
+jlcollet81 checks
+*** SHOW DOWN ***
+jlcollet81 shows [Tc 6s] (Two pairs : Tens and 2)
+HmongH shows [3h Ts] (Two pairs : Tens and 2)
+HmongH collected 2640 from pot
+jlcollet81 collected 2640 from pot
+*** SUMMARY ***
+Total pot 5280 | No rake
+Board: [2d Th Ah 4s 2c]
+Seat 1: jlcollet81 (big blind) showed [Tc 6s] and won 2640 with Two pairs : Tens and 2
+Seat 6: HmongH (small blind) showed [3h Ts] and won 2640 with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1352656008064794726-66-1577628062 - Holdem no limit (100/400/800) - 2019/12/29 14:01:02 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #6 is the button
+Seat 1: jlcollet81 (69261)
+Seat 2: manggy94 (23364)
+Seat 3: Toffinside27 (49490)
+Seat 4: ptimarie (56859)
+Seat 5: ben3385 (6950)
+Seat 6: HmongH (42382)
+*** ANTE/BLINDS ***
+jlcollet81 posts ante 100
+manggy94 posts ante 100
+Toffinside27 posts ante 100
+ptimarie posts ante 100
+ben3385 posts ante 100
+HmongH posts ante 100
+jlcollet81 posts small blind 400
+manggy94 posts big blind 800
+Dealt to manggy94 [4h 7c]
+*** PRE-FLOP *** 
+Toffinside27 folds
+ptimarie raises 800 to 1600
+ben3385 folds
+HmongH calls 1600
+jlcollet81 calls 1200
+manggy94 folds
+*** FLOP *** [Js 5s 8d]
+jlcollet81 checks
+ptimarie bets 3100
+HmongH calls 3100
+jlcollet81 folds
+*** TURN *** [Js 5s 8d][2h]
+ptimarie checks
+HmongH bets 4223
+ptimarie folds
+HmongH collected 16623 from pot
+*** SUMMARY ***
+Total pot 16623 | No rake
+Board: [Js 5s 8d 2h]
+Seat 6: HmongH (button) won 16623
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1352656008064794726-67-1577628229 - Holdem no limit (100/400/800) - 2019/12/29 14:03:49 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #1 is the button
+Seat 1: jlcollet81 (67561)
+Seat 2: manggy94 (22464)
+Seat 3: Toffinside27 (49390)
+Seat 4: ptimarie (52059)
+Seat 5: ben3385 (6850)
+Seat 6: HmongH (49982)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+Toffinside27 posts ante 100
+jlcollet81 posts ante 100
+ptimarie posts ante 100
+ben3385 posts ante 100
+HmongH posts ante 100
+manggy94 posts small blind 400
+Toffinside27 posts big blind 800
+Dealt to manggy94 [6d 8h]
+*** PRE-FLOP *** 
+ptimarie calls 800
+ben3385 folds
+HmongH calls 800
+jlcollet81 raises 66661 to 67461 and is all-in
+manggy94 folds
+Toffinside27 folds
+ptimarie calls 51159 and is all-in
+HmongH folds
+*** FLOP *** [2d 7h Jc]
+*** TURN *** [2d 7h Jc][Jh]
+*** RIVER *** [2d 7h Jc Jh][Td]
+*** SHOW DOWN ***
+ptimarie shows [Qd Ac] (One pair : Jacks)
+jlcollet81 shows [9h 9s] (Two pairs : Jacks and 9)
+jlcollet81 collected 122020 from pot
+*** SUMMARY ***
+Total pot 122020 | No rake
+Board: [2d 7h Jc Jh Td]
+Seat 1: jlcollet81 (button) showed [9h 9s] and won 122020 with Two pairs : Jacks and 9
+Seat 4: ptimarie showed [Qd Ac] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1352656008064794726-68-1577628272 - Holdem no limit (100/400/800) - 2019/12/29 14:04:32 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #2 is the button
+Seat 1: jlcollet81 (122020)
+Seat 2: manggy94 (21964)
+Seat 3: Toffinside27 (48490)
+Seat 5: ben3385 (6750)
+Seat 6: HmongH (49082)
+*** ANTE/BLINDS ***
+Toffinside27 posts ante 100
+ben3385 posts ante 100
+jlcollet81 posts ante 100
+manggy94 posts ante 100
+HmongH posts ante 100
+Toffinside27 posts small blind 400
+ben3385 posts big blind 800
+Dealt to manggy94 [Js 4d]
+*** PRE-FLOP *** 
+HmongH folds
+jlcollet81 folds
+manggy94 folds
+Toffinside27 folds
+ben3385 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 5: ben3385 (big blind) won 1700
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1352656008064794726-69-1577628305 - Holdem no limit (100/400/800) - 2019/12/29 14:05:05 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #3 is the button
+Seat 1: jlcollet81 (121920)
+Seat 2: manggy94 (21864)
+Seat 3: Toffinside27 (47990)
+Seat 5: ben3385 (7550)
+Seat 6: HmongH (48982)
+*** ANTE/BLINDS ***
+ben3385 posts ante 100
+HmongH posts ante 100
+jlcollet81 posts ante 100
+manggy94 posts ante 100
+Toffinside27 posts ante 100
+ben3385 posts small blind 400
+HmongH posts big blind 800
+Dealt to manggy94 [5c 2s]
+*** PRE-FLOP *** 
+jlcollet81 raises 800 to 1600
+manggy94 folds
+Toffinside27 folds
+ben3385 folds
+HmongH calls 800
+*** FLOP *** [4c Kc 3s]
+HmongH checks
+jlcollet81 bets 800
+HmongH folds
+jlcollet81 collected 4900 from pot
+*** SUMMARY ***
+Total pot 4900 | No rake
+Board: [4c Kc 3s]
+Seat 1: jlcollet81 won 4900
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1352656008064794726-70-1577628346 - Holdem no limit (100/400/800) - 2019/12/29 14:05:46 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #5 is the button
+Seat 1: jlcollet81 (124320)
+Seat 2: manggy94 (21764)
+Seat 3: Toffinside27 (47890)
+Seat 5: ben3385 (7050)
+Seat 6: HmongH (47282)
+*** ANTE/BLINDS ***
+HmongH posts ante 100
+jlcollet81 posts ante 100
+manggy94 posts ante 100
+Toffinside27 posts ante 100
+ben3385 posts ante 100
+HmongH posts small blind 400
+jlcollet81 posts big blind 800
+Dealt to manggy94 [6h As]
+*** PRE-FLOP *** 
+manggy94 folds
+Toffinside27 folds
+ben3385 raises 6150 to 6950 and is all-in
+HmongH calls 6550
+jlcollet81 calls 6150
+*** FLOP *** [3h 9c 4c]
+HmongH checks
+jlcollet81 checks
+*** TURN *** [3h 9c 4c][Th]
+HmongH checks
+jlcollet81 checks
+*** RIVER *** [3h 9c 4c Th][7c]
+HmongH checks
+jlcollet81 checks
+*** SHOW DOWN ***
+jlcollet81 shows [2c Kh] (High card : King)
+HmongH shows [Ah 8c] (High card : Ace)
+ben3385 shows [Kd 7d] (One pair : 7)
+ben3385 collected 21350 from pot
+*** SUMMARY ***
+Total pot 21350 | No rake
+Board: [3h 9c 4c Th 7c]
+Seat 1: jlcollet81 (big blind) showed [2c Kh] and lost with High card : King
+Seat 5: ben3385 (button) showed [Kd 7d] and won 21350 with One pair : 7
+Seat 6: HmongH (small blind) showed [Ah 8c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1352656008064794726-71-1577628378 - Holdem no limit (100/400/800) - 2019/12/29 14:06:18 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #6 is the button
+Seat 1: jlcollet81 (117270)
+Seat 2: manggy94 (21664)
+Seat 3: Toffinside27 (47790)
+Seat 5: ben3385 (21350)
+Seat 6: HmongH (40232)
+*** ANTE/BLINDS ***
+jlcollet81 posts ante 100
+manggy94 posts ante 100
+Toffinside27 posts ante 100
+ben3385 posts ante 100
+HmongH posts ante 100
+jlcollet81 posts small blind 400
+manggy94 posts big blind 800
+Dealt to manggy94 [8d 7s]
+*** PRE-FLOP *** 
+Toffinside27 folds
+ben3385 calls 800
+HmongH folds
+jlcollet81 raises 800 to 1600
+manggy94 folds
+ben3385 calls 800
+*** FLOP *** [5d 7d Qc]
+jlcollet81 checks
+ben3385 checks
+*** TURN *** [5d 7d Qc][8c]
+jlcollet81 bets 4500
+ben3385 calls 4500
+*** RIVER *** [5d 7d Qc 8c][Qs]
+jlcollet81 bets 111070 and is all-in
+ben3385 folds
+jlcollet81 shows [9s 6s] (Straight 9 high)
+jlcollet81 collected 124570 from pot
+*** SUMMARY ***
+Total pot 124570 | No rake
+Board: [5d 7d Qc 8c Qs]
+Seat 1: jlcollet81 (small blind) showed [9s 6s] and won 124570 with Straight 9 high
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1352656008064794726-72-1577628409 - Holdem no limit (100/400/800) - 2019/12/29 14:06:49 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #1 is the button
+Seat 1: jlcollet81 (124570)
+Seat 2: manggy94 (20764)
+Seat 3: Toffinside27 (47690)
+Seat 5: ben3385 (15150)
+Seat 6: HmongH (40132)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+Toffinside27 posts ante 100
+jlcollet81 posts ante 100
+ben3385 posts ante 100
+HmongH posts ante 100
+manggy94 posts small blind 400
+Toffinside27 posts big blind 800
+Dealt to manggy94 [6h 8c]
+*** PRE-FLOP *** 
+ben3385 folds
+HmongH calls 800
+jlcollet81 calls 800
+manggy94 folds
+Toffinside27 checks
+*** FLOP *** [8h Qd 3s]
+Toffinside27 bets 800
+HmongH calls 800
+jlcollet81 folds
+*** TURN *** [8h Qd 3s][Ah]
+Toffinside27 checks
+HmongH bets 1950
+Toffinside27 folds
+HmongH collected 6850 from pot
+*** SUMMARY ***
+Total pot 6850 | No rake
+Board: [8h Qd 3s Ah]
+Seat 6: HmongH won 6850
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1352656008064794726-73-1577628446 - Holdem no limit (100/400/800) - 2019/12/29 14:07:26 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #2 is the button
+Seat 1: jlcollet81 (123670)
+Seat 2: manggy94 (20264)
+Seat 3: Toffinside27 (45990)
+Seat 4: baricou (20000)
+Seat 5: ben3385 (15050)
+Seat 6: HmongH (43332)
+*** ANTE/BLINDS ***
+Toffinside27 posts ante 100
+baricou posts ante 100
+jlcollet81 posts ante 100
+manggy94 posts ante 100
+ben3385 posts ante 100
+HmongH posts ante 100
+Toffinside27 posts small blind 400
+baricou posts big blind 800
+Dealt to manggy94 [4s Td]
+*** PRE-FLOP *** 
+ben3385 raises 14150 to 14950 and is all-in
+HmongH folds
+jlcollet81 calls 14950
+manggy94 folds
+Toffinside27 folds
+baricou folds
+*** FLOP *** [7s 8h Qh]
+*** TURN *** [7s 8h Qh][Kc]
+*** RIVER *** [7s 8h Qh Kc][4d]
+*** SHOW DOWN ***
+ben3385 shows [Tc Ah] (High card : Ace)
+jlcollet81 shows [Ad 4h] (One pair : 4)
+jlcollet81 collected 31700 from pot
+*** SUMMARY ***
+Total pot 31700 | No rake
+Board: [7s 8h Qh Kc 4d]
+Seat 1: jlcollet81 showed [Ad 4h] and won 31700 with One pair : 4
+Seat 5: ben3385 showed [Tc Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #1352656008064794726-74-1577628490 - Holdem no limit (100/400/800) - 2019/12/29 14:08:10 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #3 is the button
+Seat 1: jlcollet81 (140320)
+Seat 2: manggy94 (20164)
+Seat 3: Toffinside27 (45490)
+Seat 4: baricou (19100)
+Seat 6: HmongH (43232)
+*** ANTE/BLINDS ***
+baricou posts ante 100
+HmongH posts ante 100
+jlcollet81 posts ante 100
+manggy94 posts ante 100
+Toffinside27 posts ante 100
+baricou posts small blind 400
+HmongH posts big blind 800
+Dealt to manggy94 [5h 3d]
+*** PRE-FLOP *** 
+jlcollet81 folds
+manggy94 folds
+Toffinside27 calls 800
+baricou calls 400
+HmongH checks
+*** FLOP *** [7h 6d Th]
+baricou bets 800
+HmongH folds
+Toffinside27 calls 800
+*** TURN *** [7h 6d Th][4h]
+baricou checks
+Toffinside27 checks
+*** RIVER *** [7h 6d Th 4h][2d]
+baricou bets 3600
+Toffinside27 folds
+baricou collected 8100 from pot
+*** SUMMARY ***
+Total pot 8100 | No rake
+Board: [7h 6d Th 4h 2d]
+Seat 4: baricou (small blind) won 8100
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1352656008064794726-75-1577628586 - Holdem no limit (120/500/1000) - 2019/12/29 14:09:46 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #4 is the button
+Seat 1: jlcollet81 (140220)
+Seat 2: manggy94 (20064)
+Seat 3: Toffinside27 (43790)
+Seat 4: baricou (21900)
+Seat 6: HmongH (42332)
+*** ANTE/BLINDS ***
+HmongH posts ante 120
+jlcollet81 posts ante 120
+manggy94 posts ante 120
+Toffinside27 posts ante 120
+baricou posts ante 120
+HmongH posts small blind 500
+jlcollet81 posts big blind 1000
+Dealt to manggy94 [3d As]
+*** PRE-FLOP *** 
+manggy94 calls 1000
+Toffinside27 folds
+baricou folds
+HmongH calls 500
+jlcollet81 checks
+*** FLOP *** [5s 6d Ah]
+HmongH checks
+jlcollet81 bets 1000
+manggy94 raises 17944 to 18944 and is all-in
+HmongH folds
+jlcollet81 folds
+manggy94 collected 23544 from pot
+*** SUMMARY ***
+Total pot 23544 | No rake
+Board: [5s 6d Ah]
+Seat 2: manggy94 won 23544
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1352656008064794726-76-1577628632 - Holdem no limit (120/500/1000) - 2019/12/29 14:10:32 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #6 is the button
+Seat 1: jlcollet81 (138100)
+Seat 2: manggy94 (23544)
+Seat 3: Toffinside27 (43670)
+Seat 4: baricou (21780)
+Seat 6: HmongH (41212)
+*** ANTE/BLINDS ***
+jlcollet81 posts ante 120
+manggy94 posts ante 120
+Toffinside27 posts ante 120
+baricou posts ante 120
+HmongH posts ante 120
+jlcollet81 posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [5h Qs]
+*** PRE-FLOP *** 
+Toffinside27 calls 1000
+baricou calls 1000
+HmongH folds
+jlcollet81 calls 500
+manggy94 checks
+*** FLOP *** [Td Qc Qd]
+jlcollet81 checks
+manggy94 checks
+Toffinside27 bets 1000
+baricou folds
+jlcollet81 folds
+manggy94 calls 1000
+*** TURN *** [Td Qc Qd][7c]
+manggy94 checks
+Toffinside27 checks
+*** RIVER *** [Td Qc Qd 7c][2c]
+manggy94 bets 3300
+Toffinside27 calls 3300
+*** SHOW DOWN ***
+Toffinside27 shows [Th Jd] (Two pairs : Queens and Tens)
+manggy94 shows [5h Qs] (Trips of Queens)
+manggy94 collected 13200 from pot
+*** SUMMARY ***
+Total pot 13200 | No rake
+Board: [Td Qc Qd 7c 2c]
+Seat 2: manggy94 (big blind) showed [5h Qs] and won 13200 with Trips of Queens
+Seat 3: Toffinside27 showed [Th Jd] and lost with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1352656008064794726-77-1577628705 - Holdem no limit (120/500/1000) - 2019/12/29 14:11:45 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #1 is the button
+Seat 1: jlcollet81 (136980)
+Seat 2: manggy94 (31324)
+Seat 3: Toffinside27 (38250)
+Seat 4: baricou (20660)
+Seat 5: mikmacana (20000)
+Seat 6: HmongH (41092)
+*** ANTE/BLINDS ***
+manggy94 posts ante 120
+Toffinside27 posts ante 120
+jlcollet81 posts ante 120
+baricou posts ante 120
+mikmacana posts ante 120
+HmongH posts ante 120
+manggy94 posts small blind 500
+Toffinside27 posts big blind 1000
+Dealt to manggy94 [4h Qd]
+*** PRE-FLOP *** 
+baricou folds
+mikmacana calls 1000
+HmongH calls 1000
+jlcollet81 raises 4000 to 5000
+manggy94 folds
+Toffinside27 folds
+mikmacana calls 4000
+HmongH calls 4000
+*** FLOP *** [3h Ts Jd]
+mikmacana checks
+HmongH checks
+jlcollet81 bets 131860 and is all-in
+mikmacana folds
+HmongH calls 35972 and is all-in
+*** TURN *** [3h Ts Jd][Ah]
+*** RIVER *** [3h Ts Jd Ah][Jh]
+*** SHOW DOWN ***
+jlcollet81 shows [Qc Ad] (Two pairs : Aces and Jacks)
+HmongH shows [9h 8h] (Flush Ace high)
+HmongH collected 89164 from main pot
+jlcollet81 collected 95888 from side pot 1
+*** SUMMARY ***
+Total pot 185052 | No rake
+Board: [3h Ts Jd Ah Jh]
+Seat 1: jlcollet81 (button) showed [Qc Ad] and won 95888 with Two pairs : Aces and Jacks
+Seat 6: HmongH showed [9h 8h] and won 89164 with Flush Ace high
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1352656008064794726-78-1577628758 - Holdem no limit (120/500/1000) - 2019/12/29 14:12:38 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #2 is the button
+Seat 1: jlcollet81 (95888)
+Seat 2: manggy94 (30704)
+Seat 3: Toffinside27 (37130)
+Seat 4: baricou (20540)
+Seat 5: mikmacana (14880)
+Seat 6: HmongH (89164)
+*** ANTE/BLINDS ***
+Toffinside27 posts ante 120
+baricou posts ante 120
+jlcollet81 posts ante 120
+manggy94 posts ante 120
+mikmacana posts ante 120
+HmongH posts ante 120
+Toffinside27 posts small blind 500
+baricou posts big blind 1000
+Dealt to manggy94 [9d 2s]
+*** PRE-FLOP *** 
+mikmacana folds
+HmongH folds
+jlcollet81 calls 1000
+manggy94 folds
+Toffinside27 calls 500
+baricou checks
+*** FLOP *** [Ts Kh Ks]
+Toffinside27 bets 1000
+baricou folds
+jlcollet81 folds
+Toffinside27 collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Board: [Ts Kh Ks]
+Seat 3: Toffinside27 (small blind) won 4720
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1352656008064794726-79-1577628795 - Holdem no limit (120/500/1000) - 2019/12/29 14:13:15 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #3 is the button
+Seat 1: jlcollet81 (94768)
+Seat 2: manggy94 (30584)
+Seat 3: Toffinside27 (39730)
+Seat 4: baricou (19420)
+Seat 5: mikmacana (14760)
+Seat 6: HmongH (89044)
+*** ANTE/BLINDS ***
+baricou posts ante 120
+mikmacana posts ante 120
+jlcollet81 posts ante 120
+manggy94 posts ante 120
+Toffinside27 posts ante 120
+HmongH posts ante 120
+baricou posts small blind 500
+mikmacana posts big blind 1000
+Dealt to manggy94 [As 2h]
+*** PRE-FLOP *** 
+HmongH folds
+jlcollet81 folds
+manggy94 calls 1000
+Toffinside27 calls 1000
+baricou calls 500
+mikmacana checks
+*** FLOP *** [3s 2s Qh]
+baricou checks
+mikmacana bets 1000
+manggy94 calls 1000
+Toffinside27 calls 1000
+baricou folds
+*** TURN *** [3s 2s Qh][Qs]
+mikmacana bets 1000
+manggy94 raises 2000 to 3000
+Toffinside27 calls 3000
+mikmacana calls 2000
+*** RIVER *** [3s 2s Qh Qs][Ks]
+mikmacana bets 1000
+manggy94 raises 18720 to 19720
+Toffinside27 folds
+mikmacana calls 8640 and is all-in
+*** SHOW DOWN ***
+mikmacana shows [5s 4s] (Flush King high)
+manggy94 shows [As 2h] (Flush Ace high)
+manggy94 collected 46080 from pot
+*** SUMMARY ***
+Total pot 46080 | No rake
+Board: [3s 2s Qh Qs Ks]
+Seat 2: manggy94 showed [As 2h] and won 46080 with Flush Ace high
+Seat 5: mikmacana (big blind) showed [5s 4s] and lost with Flush King high
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1352656008064794726-80-1577628895 - Holdem no limit (120/500/1000) - 2019/12/29 14:14:55 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #4 is the button
+Seat 1: jlcollet81 (94648)
+Seat 2: manggy94 (51824)
+Seat 3: Toffinside27 (34610)
+Seat 4: baricou (18300)
+Seat 6: HmongH (88924)
+*** ANTE/BLINDS ***
+HmongH posts ante 120
+jlcollet81 posts ante 120
+manggy94 posts ante 120
+Toffinside27 posts ante 120
+baricou posts ante 120
+HmongH posts big blind 1000
+Dealt to manggy94 [5h Js]
+*** PRE-FLOP *** 
+jlcollet81 raises 1000 to 2000
+manggy94 folds
+Toffinside27 folds
+baricou folds
+HmongH calls 1000
+*** FLOP *** [Ad 3c 7s]
+HmongH checks
+jlcollet81 checks
+*** TURN *** [Ad 3c 7s][Ac]
+HmongH checks
+jlcollet81 bets 1000
+HmongH calls 1000
+*** RIVER *** [Ad 3c 7s Ac][Ah]
+HmongH bets 1000
+jlcollet81 folds
+HmongH collected 7600 from pot
+*** SUMMARY ***
+Total pot 7600 | No rake
+Board: [Ad 3c 7s Ac Ah]
+Seat 6: HmongH (big blind) won 7600
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1352656008064794726-81-1577628931 - Holdem no limit (120/500/1000) - 2019/12/29 14:15:31 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #5 is the button
+Seat 1: jlcollet81 (91528)
+Seat 2: manggy94 (51704)
+Seat 3: Toffinside27 (34490)
+Seat 4: baricou (18180)
+Seat 5: FiShDePaYeS (20000)
+Seat 6: HmongH (92404)
+*** ANTE/BLINDS ***
+HmongH posts ante 120
+jlcollet81 posts ante 120
+manggy94 posts ante 120
+Toffinside27 posts ante 120
+baricou posts ante 120
+HmongH posts small blind 500
+jlcollet81 posts big blind 1000
+Dealt to manggy94 [6d Kc]
+*** PRE-FLOP *** 
+manggy94 folds
+Toffinside27 folds
+baricou raises 1000 to 2000
+HmongH calls 1500
+jlcollet81 calls 1000
+*** FLOP *** [Ac 5h 7s]
+HmongH checks
+jlcollet81 checks
+baricou bets 16060 and is all-in
+HmongH folds
+jlcollet81 folds
+baricou collected 22660 from pot
+*** SUMMARY ***
+Total pot 22660 | No rake
+Board: [Ac 5h 7s]
+Seat 4: baricou won 22660
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #1352656008064794726-82-1577628974 - Holdem no limit (120/500/1000) - 2019/12/29 14:16:14 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #6 is the button
+Seat 1: jlcollet81 (89408)
+Seat 2: manggy94 (51584)
+Seat 3: Toffinside27 (34370)
+Seat 4: baricou (22660)
+Seat 5: FiShDePaYeS (20000)
+Seat 6: HmongH (90284)
+*** ANTE/BLINDS ***
+jlcollet81 posts ante 120
+manggy94 posts ante 120
+Toffinside27 posts ante 120
+baricou posts ante 120
+FiShDePaYeS posts ante 120
+HmongH posts ante 120
+jlcollet81 posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [2c Ad]
+*** PRE-FLOP *** 
+Toffinside27 folds
+baricou folds
+FiShDePaYeS raises 2000 to 3000
+HmongH folds
+jlcollet81 folds
+manggy94 calls 2000
+*** FLOP *** [7d 8d 7h]
+manggy94 checks
+FiShDePaYeS bets 3610
+manggy94 calls 3610
+*** TURN *** [7d 8d 7h][6c]
+manggy94 bets 1000
+FiShDePaYeS raises 8220 to 9220
+manggy94 folds
+FiShDePaYeS collected 24660 from pot
+*** SUMMARY ***
+Total pot 24660 | No rake
+Board: [7d 8d 7h 6c]
+Seat 5: FiShDePaYeS won 24660
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1352656008064794726-83-1577629029 - Holdem no limit (160/600/1200) - 2019/12/29 14:17:09 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #1 is the button
+Seat 1: jlcollet81 (88788)
+Seat 2: manggy94 (43854)
+Seat 3: Toffinside27 (34250)
+Seat 4: baricou (22540)
+Seat 5: FiShDePaYeS (28710)
+Seat 6: HmongH (90164)
+*** ANTE/BLINDS ***
+manggy94 posts ante 160
+Toffinside27 posts ante 160
+jlcollet81 posts ante 160
+baricou posts ante 160
+FiShDePaYeS posts ante 160
+HmongH posts ante 160
+manggy94 posts small blind 600
+Toffinside27 posts big blind 1200
+Dealt to manggy94 [Ac 9s]
+*** PRE-FLOP *** 
+baricou calls 1200
+FiShDePaYeS raises 2400 to 3600
+HmongH folds
+jlcollet81 calls 3600
+manggy94 folds
+Toffinside27 folds
+baricou calls 2400
+*** FLOP *** [Kc Kh 6h]
+baricou checks
+FiShDePaYeS bets 6780
+jlcollet81 raises 78248 to 85028 and is all-in
+baricou folds
+FiShDePaYeS calls 18170 and is all-in
+*** TURN *** [Kc Kh 6h][Jc]
+*** RIVER *** [Kc Kh 6h Jc][8s]
+*** SHOW DOWN ***
+jlcollet81 shows [Qh 3h] (One pair : Kings)
+FiShDePaYeS shows [As Ks] (Trips of Kings)
+FiShDePaYeS collected 63460 from main pot
+jlcollet81 collected 60078 from side pot 1
+*** SUMMARY ***
+Total pot 123538 | No rake
+Board: [Kc Kh 6h Jc 8s]
+Seat 1: jlcollet81 (button) showed [Qh 3h] and won 60078 with One pair : Kings
+Seat 5: FiShDePaYeS showed [As Ks] and won 63460 with Trips of Kings
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1352656008064794726-84-1577629076 - Holdem no limit (160/600/1200) - 2019/12/29 14:17:56 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #2 is the button
+Seat 1: jlcollet81 (60078)
+Seat 2: manggy94 (43094)
+Seat 3: Toffinside27 (32890)
+Seat 4: baricou (18780)
+Seat 5: FiShDePaYeS (63460)
+Seat 6: HmongH (90004)
+*** ANTE/BLINDS ***
+Toffinside27 posts ante 160
+baricou posts ante 160
+jlcollet81 posts ante 160
+manggy94 posts ante 160
+FiShDePaYeS posts ante 160
+HmongH posts ante 160
+Toffinside27 posts small blind 600
+baricou posts big blind 1200
+Dealt to manggy94 [6s Kc]
+*** PRE-FLOP *** 
+FiShDePaYeS calls 1200
+HmongH calls 1200
+jlcollet81 raises 6360 to 7560
+manggy94 folds
+Toffinside27 folds
+baricou folds
+FiShDePaYeS folds
+HmongH calls 6360
+*** FLOP *** [6d 5s 7d]
+HmongH checks
+jlcollet81 checks
+*** TURN *** [6d 5s 7d][Qh]
+HmongH checks
+jlcollet81 checks
+*** RIVER *** [6d 5s 7d Qh][5h]
+HmongH bets 5308
+jlcollet81 folds
+HmongH collected 24388 from pot
+*** SUMMARY ***
+Total pot 24388 | No rake
+Board: [6d 5s 7d Qh 5h]
+Seat 6: HmongH won 24388
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1352656008064794726-85-1577629111 - Holdem no limit (160/600/1200) - 2019/12/29 14:18:31 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #3 is the button
+Seat 1: jlcollet81 (52358)
+Seat 2: manggy94 (42934)
+Seat 3: Toffinside27 (32130)
+Seat 4: baricou (17420)
+Seat 5: FiShDePaYeS (62100)
+Seat 6: HmongH (101364)
+*** ANTE/BLINDS ***
+baricou posts ante 160
+FiShDePaYeS posts ante 160
+jlcollet81 posts ante 160
+manggy94 posts ante 160
+Toffinside27 posts ante 160
+HmongH posts ante 160
+baricou posts small blind 600
+FiShDePaYeS posts big blind 1200
+Dealt to manggy94 [9h Ts]
+*** PRE-FLOP *** 
+HmongH folds
+jlcollet81 folds
+manggy94 calls 1200
+Toffinside27 folds
+baricou calls 600
+FiShDePaYeS checks
+*** FLOP *** [Th Ah 7s]
+baricou checks
+FiShDePaYeS checks
+manggy94 bets 2280
+baricou folds
+FiShDePaYeS folds
+manggy94 collected 6840 from pot
+*** SUMMARY ***
+Total pot 6840 | No rake
+Board: [Th Ah 7s]
+Seat 2: manggy94 won 6840
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1352656008064794726-86-1577629164 - Holdem no limit (160/600/1200) - 2019/12/29 14:19:24 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #4 is the button
+Seat 1: jlcollet81 (52198)
+Seat 2: manggy94 (46134)
+Seat 3: Toffinside27 (31970)
+Seat 4: baricou (16060)
+Seat 5: FiShDePaYeS (60740)
+Seat 6: HmongH (101204)
+*** ANTE/BLINDS ***
+FiShDePaYeS posts ante 160
+HmongH posts ante 160
+jlcollet81 posts ante 160
+manggy94 posts ante 160
+Toffinside27 posts ante 160
+baricou posts ante 160
+FiShDePaYeS posts small blind 600
+HmongH posts big blind 1200
+Dealt to manggy94 [Jc 5d]
+*** PRE-FLOP *** 
+jlcollet81 raises 1200 to 2400
+manggy94 folds
+Toffinside27 folds
+baricou folds
+FiShDePaYeS folds
+HmongH calls 1200
+*** FLOP *** [7s 5h 8h]
+HmongH checks
+jlcollet81 bets 1200
+HmongH raises 1200 to 2400
+jlcollet81 calls 1200
+*** TURN *** [7s 5h 8h][3d]
+HmongH checks
+jlcollet81 bets 1200
+HmongH raises 1200 to 2400
+jlcollet81 calls 1200
+*** RIVER *** [7s 5h 8h 3d][2s]
+HmongH checks
+jlcollet81 checks
+*** SHOW DOWN ***
+jlcollet81 shows [Td 7d] (One pair : 7)
+HmongH shows [8d 8c] (Trips of 8)
+HmongH collected 15960 from pot
+*** SUMMARY ***
+Total pot 15960 | No rake
+Board: [7s 5h 8h 3d 2s]
+Seat 1: jlcollet81 showed [Td 7d] and lost with One pair : 7
+Seat 6: HmongH (big blind) showed [8d 8c] and won 15960 with Trips of 8
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1352656008064794726-87-1577629216 - Holdem no limit (160/600/1200) - 2019/12/29 14:20:16 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #5 is the button
+Seat 1: jlcollet81 (44838)
+Seat 2: manggy94 (45974)
+Seat 3: Toffinside27 (31810)
+Seat 4: baricou (15900)
+Seat 5: FiShDePaYeS (59980)
+Seat 6: HmongH (109804)
+*** ANTE/BLINDS ***
+HmongH posts ante 160
+jlcollet81 posts ante 160
+manggy94 posts ante 160
+Toffinside27 posts ante 160
+baricou posts ante 160
+FiShDePaYeS posts ante 160
+HmongH posts small blind 600
+jlcollet81 posts big blind 1200
+Dealt to manggy94 [9s 8s]
+*** PRE-FLOP *** 
+manggy94 calls 1200
+Toffinside27 folds
+baricou calls 1200
+FiShDePaYeS folds
+HmongH calls 600
+jlcollet81 raises 1200 to 2400
+manggy94 calls 1200
+baricou calls 1200
+HmongH calls 1200
+*** FLOP *** [Qd Js Ks]
+HmongH checks
+jlcollet81 checks
+manggy94 bets 5280
+baricou raises 8060 to 13340 and is all-in
+HmongH calls 13340
+jlcollet81 raises 28938 to 42278 and is all-in
+manggy94 calls 36998
+HmongH folds
+*** TURN *** [Qd Js Ks][6h]
+*** RIVER *** [Qd Js Ks 6h][6d]
+*** SHOW DOWN ***
+manggy94 shows [9s 8s] (One pair : 6)
+jlcollet81 shows [Tc Qs] (Two pairs : Queens and 6)
+baricou shows [Kd 2d] (Two pairs : Kings and 6)
+baricou collected 63920 from main pot
+jlcollet81 collected 57876 from side pot 1
+*** SUMMARY ***
+Total pot 121796 | No rake
+Board: [Qd Js Ks 6h 6d]
+Seat 1: jlcollet81 (big blind) showed [Tc Qs] and won 57876 with Two pairs : Queens and 6
+Seat 2: manggy94 showed [9s 8s] and lost with One pair : 6
+Seat 4: baricou showed [Kd 2d] and won 63920 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1352656008064794726-88-1577629300 - Holdem no limit (160/600/1200) - 2019/12/29 14:21:40 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #6 is the button
+Seat 1: jlcollet81 (57876)
+Seat 2: manggy94 (1136)
+Seat 3: Toffinside27 (31650)
+Seat 4: baricou (63920)
+Seat 5: FiShDePaYeS (59820)
+Seat 6: HmongH (93904)
+*** ANTE/BLINDS ***
+jlcollet81 posts ante 160
+manggy94 posts ante 160
+Toffinside27 posts ante 160
+baricou posts ante 160
+FiShDePaYeS posts ante 160
+HmongH posts ante 160
+jlcollet81 posts small blind 600
+manggy94 posts big blind 976 and is all-in
+Dealt to manggy94 [Qc 7c]
+*** PRE-FLOP *** 
+Toffinside27 raises 3960 to 4936
+baricou folds
+FiShDePaYeS folds
+HmongH folds
+jlcollet81 raises 52780 to 57716 and is all-in
+Toffinside27 calls 26554 and is all-in
+*** FLOP *** [Qs 9c Jh]
+*** TURN *** [Qs 9c Jh][6c]
+*** RIVER *** [Qs 9c Jh 6c][3c]
+*** SHOW DOWN ***
+jlcollet81 shows [5h Kc] (High card : King)
+manggy94 shows [Qc 7c] (Flush Queen high)
+Toffinside27 shows [Ah Qh] (One pair : Queens)
+Toffinside27 collected 61028 from side pot 1
+manggy94 collected 3888 from main pot
+jlcollet81 collected 26226 from side pot 2
+*** SUMMARY ***
+Total pot 91142 | No rake
+Board: [Qs 9c Jh 6c 3c]
+Seat 1: jlcollet81 (small blind) showed [5h Kc] and won 26226 with High card : King
+Seat 2: manggy94 (big blind) showed [Qc 7c] and won 3888 with Flush Queen high
+Seat 3: Toffinside27 showed [Ah Qh] and won 61028 with One pair : Queens
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1352656008064794726-89-1577629325 - Holdem no limit (160/600/1200) - 2019/12/29 14:22:05 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #1 is the button
+Seat 1: jlcollet81 (26226)
+Seat 2: manggy94 (3888)
+Seat 3: Toffinside27 (61028)
+Seat 4: baricou (63760)
+Seat 5: FiShDePaYeS (59660)
+Seat 6: HmongH (93744)
+*** ANTE/BLINDS ***
+manggy94 posts ante 160
+Toffinside27 posts ante 160
+jlcollet81 posts ante 160
+baricou posts ante 160
+FiShDePaYeS posts ante 160
+HmongH posts ante 160
+manggy94 posts small blind 600
+Toffinside27 posts big blind 1200
+Dealt to manggy94 [9h 5c]
+*** PRE-FLOP *** 
+baricou folds
+FiShDePaYeS folds
+HmongH calls 1200
+jlcollet81 raises 24866 to 26066 and is all-in
+manggy94 folds
+Toffinside27 folds
+HmongH calls 24866
+*** FLOP *** [6s 6h 9d]
+*** TURN *** [6s 6h 9d][8h]
+*** RIVER *** [6s 6h 9d 8h][8d]
+*** SHOW DOWN ***
+jlcollet81 shows [Qs Ac] (Two pairs : 8 and 6)
+HmongH shows [8s 8c] (Quads of 8)
+HmongH collected 54892 from pot
+*** SUMMARY ***
+Total pot 54892 | No rake
+Board: [6s 6h 9d 8h 8d]
+Seat 1: jlcollet81 (button) showed [Qs Ac] and lost with Two pairs : 8 and 6
+Seat 6: HmongH showed [8s 8c] and won 54892 with Quads of 8
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1352656008064794726-90-1577629377 - Holdem no limit (160/600/1200) - 2019/12/29 14:22:57 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #2 is the button
+Seat 2: manggy94 (3128)
+Seat 3: Toffinside27 (59668)
+Seat 4: baricou (63600)
+Seat 5: FiShDePaYeS (59500)
+Seat 6: HmongH (122410)
+*** ANTE/BLINDS ***
+Toffinside27 posts ante 160
+baricou posts ante 160
+manggy94 posts ante 160
+FiShDePaYeS posts ante 160
+HmongH posts ante 160
+Toffinside27 posts small blind 600
+baricou posts big blind 1200
+Dealt to manggy94 [2c 7c]
+*** PRE-FLOP *** 
+FiShDePaYeS raises 1200 to 2400
+HmongH folds
+manggy94 folds
+Toffinside27 folds
+baricou folds
+FiShDePaYeS collected 5000 from pot
+*** SUMMARY ***
+Total pot 5000 | No rake
+Seat 5: FiShDePaYeS won 5000
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1352656008064794726-91-1577629418 - Holdem no limit (160/600/1200) - 2019/12/29 14:23:38 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #3 is the button
+Seat 1: TotalRegal83 (127176)
+Seat 2: manggy94 (2968)
+Seat 3: Toffinside27 (58908)
+Seat 4: baricou (62240)
+Seat 5: FiShDePaYeS (61940)
+Seat 6: HmongH (122250)
+*** ANTE/BLINDS ***
+baricou posts ante 160
+FiShDePaYeS posts ante 160
+TotalRegal83 posts ante 160
+manggy94 posts ante 160
+Toffinside27 posts ante 160
+HmongH posts ante 160
+baricou posts small blind 600
+FiShDePaYeS posts big blind 1200
+Dealt to manggy94 [2h 2s]
+*** PRE-FLOP *** 
+HmongH folds
+TotalRegal83 raises 2400 to 3600
+manggy94 folds
+Toffinside27 folds
+baricou folds
+FiShDePaYeS calls 2400
+*** FLOP *** [Kh 5s 6h]
+FiShDePaYeS bets 6570
+TotalRegal83 folds
+FiShDePaYeS collected 15330 from pot
+*** SUMMARY ***
+Total pot 15330 | No rake
+Board: [Kh 5s 6h]
+Seat 5: FiShDePaYeS (big blind) won 15330
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #1352656008064794726-92-1577629467 - Holdem no limit (160/600/1200) - 2019/12/29 14:24:27 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #4 is the button
+Seat 1: TotalRegal83 (123416)
+Seat 2: manggy94 (2808)
+Seat 3: Toffinside27 (58748)
+Seat 4: baricou (61480)
+Seat 5: FiShDePaYeS (66940)
+Seat 6: HmongH (122090)
+*** ANTE/BLINDS ***
+FiShDePaYeS posts ante 160
+HmongH posts ante 160
+TotalRegal83 posts ante 160
+manggy94 posts ante 160
+Toffinside27 posts ante 160
+baricou posts ante 160
+FiShDePaYeS posts small blind 600
+HmongH posts big blind 1200
+Dealt to manggy94 [8s Kh]
+*** PRE-FLOP *** 
+TotalRegal83 raises 122056 to 123256 and is all-in
+manggy94 folds
+Toffinside27 folds
+baricou calls 61320 and is all-in
+FiShDePaYeS folds
+HmongH folds
+*** FLOP *** [2h Ts 5d]
+*** TURN *** [2h Ts 5d][5h]
+*** RIVER *** [2h Ts 5d 5h][6h]
+*** SHOW DOWN ***
+baricou shows [Kd Ad] (One pair : 5)
+TotalRegal83 shows [9h 9c] (Two pairs : 9 and 5)
+TotalRegal83 collected 187336 from pot
+*** SUMMARY ***
+Total pot 187336 | No rake
+Board: [2h Ts 5d 5h 6h]
+Seat 1: TotalRegal83 showed [9h 9c] and won 187336 with Two pairs : 9 and 5
+Seat 4: baricou (button) showed [Kd Ad] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1352656008064794726-93-1577629501 - Holdem no limit (200/800/1600) - 2019/12/29 14:25:01 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #5 is the button
+Seat 1: TotalRegal83 (187336)
+Seat 2: manggy94 (2648)
+Seat 3: Toffinside27 (58588)
+Seat 5: FiShDePaYeS (66180)
+Seat 6: HmongH (120730)
+*** ANTE/BLINDS ***
+HmongH posts ante 200
+TotalRegal83 posts ante 200
+manggy94 posts ante 200
+Toffinside27 posts ante 200
+FiShDePaYeS posts ante 200
+HmongH posts small blind 800
+TotalRegal83 posts big blind 1600
+Dealt to manggy94 [4s Tc]
+*** PRE-FLOP *** 
+manggy94 folds
+Toffinside27 folds
+FiShDePaYeS folds
+HmongH calls 800
+TotalRegal83 checks
+*** FLOP *** [7c 7h 5h]
+HmongH checks
+TotalRegal83 checks
+*** TURN *** [7c 7h 5h][Kd]
+HmongH bets 1600
+TotalRegal83 folds
+HmongH collected 5800 from pot
+*** SUMMARY ***
+Total pot 5800 | No rake
+Board: [7c 7h 5h Kd]
+Seat 6: HmongH (small blind) won 5800
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1352656008064794726-94-1577629574 - Holdem no limit (200/800/1600) - 2019/12/29 14:26:14 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #6 is the button
+Seat 1: TotalRegal83 (185536)
+Seat 2: manggy94 (2448)
+Seat 3: Toffinside27 (58388)
+Seat 5: FiShDePaYeS (65980)
+Seat 6: HmongH (123130)
+*** ANTE/BLINDS ***
+TotalRegal83 posts ante 200
+manggy94 posts ante 200
+Toffinside27 posts ante 200
+FiShDePaYeS posts ante 200
+HmongH posts ante 200
+TotalRegal83 posts small blind 800
+manggy94 posts big blind 1600
+Dealt to manggy94 [Qd Td]
+*** PRE-FLOP *** 
+Toffinside27 raises 1600 to 3200
+FiShDePaYeS calls 3200
+HmongH folds
+TotalRegal83 folds
+manggy94 calls 648 and is all-in
+*** FLOP *** [7h 4c 4s]
+Toffinside27 checks
+FiShDePaYeS bets 5224
+Toffinside27 folds
+*** TURN *** [7h 4c 4s][5d]
+*** RIVER *** [7h 4c 4s 5d][Jh]
+*** SHOW DOWN ***
+manggy94 shows [Qd Td] (One pair : 4)
+FiShDePaYeS shows [Qs Tc] (One pair : 4)
+FiShDePaYeS collected 11400 from side pot 1
+manggy94 collected 4272 from main pot
+*** SUMMARY ***
+Total pot 15672 | No rake
+Board: [7h 4c 4s 5d Jh]
+Seat 2: manggy94 (big blind) showed [Qd Td] and won 4272 with One pair : 4
+Seat 5: FiShDePaYeS showed [Qs Tc] and won 11400 with One pair : 4
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1352656008064794726-95-1577629628 - Holdem no limit (200/800/1600) - 2019/12/29 14:27:08 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #1 is the button
+Seat 1: TotalRegal83 (184536)
+Seat 2: manggy94 (4272)
+Seat 3: Toffinside27 (54988)
+Seat 5: FiShDePaYeS (68756)
+Seat 6: HmongH (122930)
+*** ANTE/BLINDS ***
+manggy94 posts ante 200
+Toffinside27 posts ante 200
+TotalRegal83 posts ante 200
+FiShDePaYeS posts ante 200
+HmongH posts ante 200
+manggy94 posts small blind 800
+Toffinside27 posts big blind 1600
+Dealt to manggy94 [4d Kh]
+*** PRE-FLOP *** 
+FiShDePaYeS folds
+HmongH calls 1600
+TotalRegal83 calls 1600
+manggy94 folds
+Toffinside27 checks
+*** FLOP *** [Jd Ac Jc]
+Toffinside27 bets 1600
+HmongH calls 1600
+TotalRegal83 folds
+*** TURN *** [Jd Ac Jc][Qc]
+Toffinside27 bets 1600
+HmongH calls 1600
+*** RIVER *** [Jd Ac Jc Qc][Ah]
+Toffinside27 bets 1600
+HmongH folds
+Toffinside27 collected 14600 from pot
+*** SUMMARY ***
+Total pot 14600 | No rake
+Board: [Jd Ac Jc Qc Ah]
+Seat 3: Toffinside27 (big blind) won 14600
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1352656008064794726-96-1577629665 - Holdem no limit (200/800/1600) - 2019/12/29 14:27:45 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #2 is the button
+Seat 1: TotalRegal83 (182736)
+Seat 2: manggy94 (3272)
+Seat 3: Toffinside27 (62988)
+Seat 5: FiShDePaYeS (68556)
+Seat 6: HmongH (117930)
+*** ANTE/BLINDS ***
+Toffinside27 posts ante 200
+FiShDePaYeS posts ante 200
+TotalRegal83 posts ante 200
+manggy94 posts ante 200
+HmongH posts ante 200
+Toffinside27 posts small blind 800
+FiShDePaYeS posts big blind 1600
+Dealt to manggy94 [5s Th]
+*** PRE-FLOP *** 
+HmongH calls 1600
+TotalRegal83 folds
+manggy94 folds
+Toffinside27 calls 800
+FiShDePaYeS checks
+*** FLOP *** [3c 2s Ad]
+Toffinside27 bets 1600
+FiShDePaYeS folds
+HmongH folds
+Toffinside27 collected 7400 from pot
+*** SUMMARY ***
+Total pot 7400 | No rake
+Board: [3c 2s Ad]
+Seat 3: Toffinside27 (small blind) won 7400
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1352656008064794726-97-1577629693 - Holdem no limit (200/800/1600) - 2019/12/29 14:28:13 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #3 is the button
+Seat 1: TotalRegal83 (182536)
+Seat 2: manggy94 (3072)
+Seat 3: Toffinside27 (66988)
+Seat 4: NZ Hero (140084)
+Seat 5: FiShDePaYeS (66756)
+Seat 6: HmongH (116130)
+*** ANTE/BLINDS ***
+FiShDePaYeS posts ante 200
+HmongH posts ante 200
+TotalRegal83 posts ante 200
+manggy94 posts ante 200
+Toffinside27 posts ante 200
+FiShDePaYeS posts small blind 800
+HmongH posts big blind 1600
+Dealt to manggy94 [7c 2d]
+*** PRE-FLOP *** 
+TotalRegal83 raises 2400 to 4000
+manggy94 folds
+Toffinside27 folds
+FiShDePaYeS calls 3200
+HmongH folds
+*** FLOP *** [3d Ah 5c]
+FiShDePaYeS checks
+TotalRegal83 bets 4000
+FiShDePaYeS raises 9300 to 13300
+TotalRegal83 raises 165036 to 178336 and is all-in
+FiShDePaYeS calls 49256 and is all-in
+*** TURN *** [3d Ah 5c][Jh]
+*** RIVER *** [3d Ah 5c Jh][6h]
+*** SHOW DOWN ***
+FiShDePaYeS shows [Ac Qd] (One pair : Aces)
+TotalRegal83 shows [Kc As] (One pair : Aces)
+TotalRegal83 collected 251492 from pot
+*** SUMMARY ***
+Total pot 251492 | No rake
+Board: [3d Ah 5c Jh 6h]
+Seat 1: TotalRegal83 showed [Kc As] and won 251492 with One pair : Aces
+Seat 5: FiShDePaYeS (small blind) showed [Ac Qd] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1352656008064794726-98-1577629732 - Holdem no limit (200/800/1600) - 2019/12/29 14:28:52 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #5 is the button
+Seat 1: TotalRegal83 (251492)
+Seat 2: manggy94 (2872)
+Seat 3: Toffinside27 (66788)
+Seat 4: NZ Hero (140084)
+Seat 6: HmongH (114330)
+*** ANTE/BLINDS ***
+HmongH posts ante 200
+TotalRegal83 posts ante 200
+manggy94 posts ante 200
+Toffinside27 posts ante 200
+NZ Hero posts ante 200
+HmongH posts small blind 800
+TotalRegal83 posts big blind 1600
+Dealt to manggy94 [Ah Kc]
+*** PRE-FLOP *** 
+manggy94 raises 1072 to 2672 and is all-in
+Toffinside27 folds
+NZ Hero raises 137212 to 139884 and is all-in
+HmongH folds
+TotalRegal83 folds
+*** FLOP *** [Ks Tc 3h]
+*** TURN *** [Ks Tc 3h][2s]
+*** RIVER *** [Ks Tc 3h 2s][Qh]
+*** SHOW DOWN ***
+manggy94 shows [Ah Kc] (One pair : Kings)
+NZ Hero shows [As Qs] (One pair : Queens)
+NZ Hero collected 137212 from side pot 1
+manggy94 collected 8744 from main pot
+*** SUMMARY ***
+Total pot 145956 | No rake
+Board: [Ks Tc 3h 2s Qh]
+Seat 2: manggy94 showed [Ah Kc] and won 8744 with One pair : Kings
+Seat 4: NZ Hero showed [As Qs] and won 137212 with One pair : Queens
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1352656008064794726-99-1577629754 - Holdem no limit (200/800/1600) - 2019/12/29 14:29:14 UTC
+Table: 'DESPERADO(314939769)#0101' 6-max (real money) Seat #6 is the button
+Seat 1: TotalRegal83 (249692)
+Seat 2: manggy94 (8744)
+Seat 3: Toffinside27 (66588)
+Seat 4: NZ Hero (137212)
+Seat 5: yaya3365 (83794)
+Seat 6: HmongH (113330)
+*** ANTE/BLINDS ***
+TotalRegal83 posts ante 200
+manggy94 posts ante 200
+Toffinside27 posts ante 200
+NZ Hero posts ante 200
+yaya3365 posts ante 200
+HmongH posts ante 200
+TotalRegal83 posts small blind 800
+manggy94 posts big blind 1600
+Dealt to manggy94 [Jh Kh]
+*** PRE-FLOP *** 
+Toffinside27 calls 1600
+NZ Hero folds
+yaya3365 raises 1600 to 3200
+HmongH calls 3200
+TotalRegal83 folds
+manggy94 calls 1600
+Toffinside27 calls 1600
+*** FLOP *** [6s Qd Ah]
+manggy94 checks
+Toffinside27 bets 1600
+yaya3365 raises 4000 to 5600
+HmongH folds
+manggy94 folds
+Toffinside27 folds
+yaya3365 collected 22000 from pot
+*** SUMMARY ***
+Total pot 22000 | No rake
+Board: [6s Qd Ah]
+Seat 5: yaya3365 won 22000
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1352656008064794625-104-1577629807 - Holdem no limit (200/800/1600) - 2019/12/29 14:30:07 UTC
+Table: 'DESPERADO(314939769)#0000' 6-max (real money) Seat #3 is the button
+Seat 1: Dase55 (179996)
+Seat 2: KiLL-Falou88 (153330)
+Seat 3: manggy94 (5344)
+Seat 4: yolo83000 (69125)
+Seat 6: AAngelicAA (48500)
+*** ANTE/BLINDS ***
+yolo83000 posts ante 200
+AAngelicAA posts ante 200
+Dase55 posts ante 200
+KiLL-Falou88 posts ante 200
+yolo83000 posts small blind 800
+AAngelicAA posts big blind 1600
+*** PRE-FLOP *** 
+Dase55 raises 4800 to 6400
+KiLL-Falou88 folds
+yolo83000 raises 62525 to 68925 and is all-in
+AAngelicAA folds
+Dase55 calls 62525
+*** FLOP *** [5c 7d 6h]
+*** TURN *** [5c 7d 6h][4h]
+*** RIVER *** [5c 7d 6h 4h][8s]
+*** SHOW DOWN ***
+Dase55 shows [3h As] (Straight 8 high)
+yolo83000 shows [9h Ah] (Straight 9 high)
+yolo83000 collected 140250 from pot
+*** SUMMARY ***
+Total pot 140250 | No rake
+Board: [5c 7d 6h 4h 8s]
+Seat 1: Dase55 showed [3h As] and lost with Straight 8 high
+Seat 4: yolo83000 (small blind) showed [9h Ah] and won 140250 with Straight 9 high
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1352656008064794625-105-1577629848 - Holdem no limit (200/800/1600) - 2019/12/29 14:30:48 UTC
+Table: 'DESPERADO(314939769)#0000' 6-max (real money) Seat #4 is the button
+Seat 1: Dase55 (110871)
+Seat 2: KiLL-Falou88 (153130)
+Seat 3: manggy94 (5344)
+Seat 4: yolo83000 (140250)
+Seat 6: AAngelicAA (46700)
+*** ANTE/BLINDS ***
+AAngelicAA posts ante 200
+Dase55 posts ante 200
+KiLL-Falou88 posts ante 200
+manggy94 posts ante 200
+yolo83000 posts ante 200
+AAngelicAA posts small blind 800
+Dase55 posts big blind 1600
+Dealt to manggy94 [Js Ad]
+*** PRE-FLOP *** 
+KiLL-Falou88 folds
+manggy94 raises 3544 to 5144 and is all-in
+yolo83000 raises 134906 to 140050 and is all-in
+AAngelicAA folds
+Dase55 calls 109071 and is all-in
+*** FLOP *** [2s Kh 7c]
+*** TURN *** [2s Kh 7c][Qc]
+*** RIVER *** [2s Kh 7c Qc][7d]
+*** SHOW DOWN ***
+Dase55 shows [Tc 8h] (One pair : 7)
+manggy94 shows [Js Ad] (One pair : 7)
+yolo83000 shows [Ah Jd] (One pair : 7)
+yolo83000 collected 249049 from side pot 1
+manggy94 collected 8616 from main pot
+*** SUMMARY ***
+Total pot 257665 | No rake
+Board: [2s Kh 7c Qc 7d]
+Seat 1: Dase55 (big blind) showed [Tc 8h] and lost with One pair : 7
+Seat 3: manggy94 showed [Js Ad] and won 8616 with One pair : 7
+Seat 4: yolo83000 (button) showed [Ah Jd] and won 249049 with One pair : 7
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1352656008064794625-106-1577629876 - Holdem no limit (200/800/1600) - 2019/12/29 14:31:16 UTC
+Table: 'DESPERADO(314939769)#0000' 6-max (real money) Seat #6 is the button
+Seat 2: KiLL-Falou88 (152930)
+Seat 3: manggy94 (8616)
+Seat 4: yolo83000 (249049)
+Seat 5: Fauferkoi (41913)
+Seat 6: AAngelicAA (45700)
+*** ANTE/BLINDS ***
+KiLL-Falou88 posts ante 200
+manggy94 posts ante 200
+yolo83000 posts ante 200
+Fauferkoi posts ante 200
+AAngelicAA posts ante 200
+KiLL-Falou88 posts big blind 1600
+Dealt to manggy94 [7c 8c]
+*** PRE-FLOP *** 
+manggy94 folds
+yolo83000 calls 1600
+Fauferkoi calls 1600
+AAngelicAA folds
+KiLL-Falou88 checks
+*** FLOP *** [Ks Jc 2h]
+KiLL-Falou88 checks
+yolo83000 checks
+Fauferkoi checks
+*** TURN *** [Ks Jc 2h][Ts]
+KiLL-Falou88 checks
+yolo83000 bets 1600
+Fauferkoi folds
+KiLL-Falou88 folds
+yolo83000 collected 7400 from pot
+*** SUMMARY ***
+Total pot 7400 | No rake
+Board: [Ks Jc 2h Ts]
+Seat 4: yolo83000 won 7400
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1352656008064794625-107-1577629910 - Holdem no limit (200/800/1600) - 2019/12/29 14:31:50 UTC
+Table: 'DESPERADO(314939769)#0000' 6-max (real money) Seat #1 is the button
+Seat 2: KiLL-Falou88 (151130)
+Seat 3: manggy94 (8416)
+Seat 4: yolo83000 (253049)
+Seat 5: Fauferkoi (40113)
+Seat 6: AAngelicAA (45500)
+*** ANTE/BLINDS ***
+KiLL-Falou88 posts ante 200
+manggy94 posts ante 200
+yolo83000 posts ante 200
+Fauferkoi posts ante 200
+AAngelicAA posts ante 200
+KiLL-Falou88 posts small blind 800
+manggy94 posts big blind 1600
+Dealt to manggy94 [2c 6d]
+*** PRE-FLOP *** 
+yolo83000 raises 4000 to 5600
+Fauferkoi folds
+AAngelicAA folds
+KiLL-Falou88 calls 4800
+manggy94 folds
+*** FLOP *** [Ac 2s 4s]
+KiLL-Falou88 checks
+yolo83000 checks
+*** TURN *** [Ac 2s 4s][5c]
+KiLL-Falou88 checks
+yolo83000 checks
+*** RIVER *** [Ac 2s 4s 5c][6c]
+KiLL-Falou88 checks
+yolo83000 checks
+*** SHOW DOWN ***
+yolo83000 shows [Jc Kd] (High card : Ace)
+KiLL-Falou88 shows [8d 8h] (One pair : 8)
+KiLL-Falou88 collected 13800 from pot
+*** SUMMARY ***
+Total pot 13800 | No rake
+Board: [Ac 2s 4s 5c 6c]
+Seat 2: KiLL-Falou88 (small blind) showed [8d 8h] and won 13800 with One pair : 8
+Seat 4: yolo83000 showed [Jc Kd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "DESPERADO" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #1352656008064794625-108-1577629961 - Holdem no limit (200/800/1600) - 2019/12/29 14:32:41 UTC
+Table: 'DESPERADO(314939769)#0000' 6-max (real money) Seat #2 is the button
+Seat 1: Sc4redMon3y (27131)
+Seat 2: KiLL-Falou88 (159130)
+Seat 3: manggy94 (6616)
+Seat 4: yolo83000 (247249)
+Seat 5: Fauferkoi (39913)
+Seat 6: AAngelicAA (45300)
+*** ANTE/BLINDS ***
+manggy94 posts ante 200
+yolo83000 posts ante 200
+Sc4redMon3y posts ante 200
+KiLL-Falou88 posts ante 200
+Fauferkoi posts ante 200
+AAngelicAA posts ante 200
+manggy94 posts small blind 800
+yolo83000 posts big blind 1600
+Dealt to manggy94 [Kc Qc]
+*** PRE-FLOP *** 
+Fauferkoi folds
+AAngelicAA folds
+Sc4redMon3y folds
+KiLL-Falou88 raises 1600 to 3200
+manggy94 calls 2400
+yolo83000 folds
+*** FLOP *** [6c 9s 7h]
+manggy94 checks
+KiLL-Falou88 bets 3404
+manggy94 calls 3216 and is all-in
+*** TURN *** [6c 9s 7h][Jh]
+*** RIVER *** [6c 9s 7h Jh][8d]
+*** SHOW DOWN ***
+manggy94 shows [Kc Qc] (High card : King)
+KiLL-Falou88 shows [9c 8c] (Two pairs : 9 and 8)
+KiLL-Falou88 collected 15820 from pot
+*** SUMMARY ***
+Total pot 15820 | No rake
+Board: [6c 9s 7h Jh 8d]
+Seat 2: KiLL-Falou88 (button) showed [9c 8c] and won 15820 with Two pairs : 9 and 8
+Seat 3: manggy94 (small blind) showed [Kc Qc] and lost with High card : King
+
+

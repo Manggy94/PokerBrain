@@ -1,0 +1,845 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 0 - HandId: #538926032376299523-1-1438875928 - Holdem no limit (10/20) - 2015/08/06 15:45:28 UTC
+Table: 'Hold'em(125478495)#002' 6-max (play money) Seat #3 is the button
+Seat 1: kaklasss (1500)
+Seat 2: louloulouuu (3000)
+Seat 3: manggy94 (1500)
+Seat 5: efire (1500)
+Seat 6: TheJoker4444 (1500)
+*** ANTE/BLINDS ***
+efire posts small blind 10
+TheJoker4444 posts big blind 20
+Dealt to manggy94 [2h 3c]
+*** PRE-FLOP *** 
+kaklasss folds
+louloulouuu calls 20
+manggy94 folds
+efire calls 10
+TheJoker4444 checks
+*** FLOP *** [3h Kh 4c]
+efire checks
+TheJoker4444 bets 20
+louloulouuu calls 20
+efire folds
+*** TURN *** [3h Kh 4c][Tc]
+TheJoker4444 bets 20
+louloulouuu calls 20
+*** RIVER *** [3h Kh 4c Tc][Ad]
+TheJoker4444 bets 20
+louloulouuu calls 20
+*** SHOW DOWN ***
+TheJoker4444 shows [2d Kc] (One pair : Kings)
+louloulouuu shows [2s Ac] (One pair : Aces)
+louloulouuu collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [3h Kh 4c Tc Ad]
+Seat 2: louloulouuu showed [2s Ac] and won 180 with One pair : Aces
+Seat 6: TheJoker4444 (big blind) showed [2d Kc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 0 - HandId: #538926032376299523-2-1438875971 - Holdem no limit (10/20) - 2015/08/06 15:46:11 UTC
+Table: 'Hold'em(125478495)#002' 6-max (play money) Seat #5 is the button
+Seat 1: kaklasss (1500)
+Seat 2: louloulouuu (3100)
+Seat 3: manggy94 (1500)
+Seat 4: Bouyouf_ (1500)
+Seat 5: efire (1480)
+Seat 6: TheJoker4444 (1420)
+*** ANTE/BLINDS ***
+TheJoker4444 posts small blind 10
+kaklasss posts big blind 20
+Dealt to manggy94 [9d 9s]
+*** PRE-FLOP *** 
+louloulouuu raises 3080 to 3100 and is all-in
+manggy94 folds
+Bouyouf_ folds
+efire folds
+TheJoker4444 folds
+kaklasss calls 1480 and is all-in
+*** FLOP *** [3s 2s 9h]
+*** TURN *** [3s 2s 9h][5c]
+*** RIVER *** [3s 2s 9h 5c][Qc]
+*** SHOW DOWN ***
+kaklasss shows [Jd Ac] (High card : Ace)
+louloulouuu shows [Kc Js] (High card : King)
+louloulouuu collected 1600 from side pot 1
+kaklasss collected 3010 from main pot
+*** SUMMARY ***
+Total pot 4610 | No rake
+Board: [3s 2s 9h 5c Qc]
+Seat 1: kaklasss (big blind) showed [Jd Ac] and won 3010 with High card : Ace
+Seat 2: louloulouuu showed [Kc Js] and won 1600 with High card : King
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 0 - HandId: #538926032376299523-3-1438876008 - Holdem no limit (10/20) - 2015/08/06 15:46:48 UTC
+Table: 'Hold'em(125478495)#002' 6-max (play money) Seat #6 is the button
+Seat 1: kaklasss (3010)
+Seat 2: louloulouuu (1600)
+Seat 3: manggy94 (1500)
+Seat 4: Bouyouf_ (1500)
+Seat 5: efire (1480)
+Seat 6: TheJoker4444 (1410)
+*** ANTE/BLINDS ***
+kaklasss posts small blind 10
+louloulouuu posts big blind 20
+Dealt to manggy94 [8c Kd]
+*** PRE-FLOP *** 
+manggy94 calls 20
+Bouyouf_ folds
+efire calls 20
+TheJoker4444 calls 20
+kaklasss calls 10
+louloulouuu checks
+*** FLOP *** [3s 2s Ac]
+kaklasss checks
+louloulouuu checks
+manggy94 checks
+efire checks
+TheJoker4444 checks
+*** TURN *** [3s 2s Ac][4h]
+kaklasss checks
+louloulouuu bets 1580 and is all-in
+manggy94 folds
+efire folds
+TheJoker4444 folds
+kaklasss folds
+louloulouuu collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [3s 2s Ac 4h]
+Seat 2: louloulouuu (big blind) won 1680
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 0 - HandId: #538926032376299523-4-1438876058 - Holdem no limit (10/20) - 2015/08/06 15:47:38 UTC
+Table: 'Hold'em(125478495)#002' 6-max (play money) Seat #1 is the button
+Seat 1: kaklasss (2990)
+Seat 2: louloulouuu (1680)
+Seat 3: manggy94 (1480)
+Seat 5: efire (1460)
+Seat 6: TheJoker4444 (1390)
+*** ANTE/BLINDS ***
+louloulouuu posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [6d Ts]
+*** PRE-FLOP *** 
+efire calls 20
+TheJoker4444 raises 20 to 40
+kaklasss calls 40
+louloulouuu folds
+manggy94 folds
+efire calls 20
+*** FLOP *** [2c Qc 9s]
+efire checks
+TheJoker4444 bets 20
+kaklasss calls 20
+efire folds
+*** TURN *** [2c Qc 9s][Ad]
+TheJoker4444 bets 20
+kaklasss raises 20 to 40
+TheJoker4444 calls 20
+*** RIVER *** [2c Qc 9s Ad][Tc]
+TheJoker4444 checks
+kaklasss bets 2890 and is all-in
+TheJoker4444 calls 1290 and is all-in
+*** SHOW DOWN ***
+kaklasss shows [8s As] (One pair : Aces)
+TheJoker4444 shows [Ah Jh] (One pair : Aces)
+TheJoker4444 collected 2850 from main pot
+kaklasss collected 1600 from side pot 1
+*** SUMMARY ***
+Total pot 4450 | No rake
+Board: [2c Qc 9s Ad Tc]
+Seat 1: kaklasss (button) showed [8s As] and won 1600 with One pair : Aces
+Seat 6: TheJoker4444 showed [Ah Jh] and won 2850 with One pair : Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 0 - HandId: #538926032376299523-5-1438876129 - Holdem no limit (10/20) - 2015/08/06 15:48:49 UTC
+Table: 'Hold'em(125478495)#002' 6-max (play money) Seat #2 is the button
+Seat 1: kaklasss (1600)
+Seat 2: louloulouuu (1670)
+Seat 3: manggy94 (1460)
+Seat 4: titoune68700 (3030)
+Seat 5: efire (1420)
+Seat 6: TheJoker4444 (2850)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+titoune68700 posts big blind 20
+Dealt to manggy94 [Tc 8h]
+*** PRE-FLOP *** 
+efire calls 20
+TheJoker4444 calls 20
+kaklasss calls 20
+louloulouuu folds
+manggy94 folds
+titoune68700 checks
+*** FLOP *** [6c Ac 4d]
+titoune68700 checks
+efire checks
+TheJoker4444 bets 20
+kaklasss raises 130 to 150
+titoune68700 folds
+efire calls 150
+TheJoker4444 folds
+*** TURN *** [6c Ac 4d][Ad]
+efire checks
+kaklasss bets 1430 and is all-in
+efire calls 1250 and is all-in
+*** RIVER *** [6c Ac 4d Ad][5c]
+*** SHOW DOWN ***
+efire shows [As Jh] (Trips of Aces)
+kaklasss shows [6h 6s] (Full of 6 and Aces)
+kaklasss collected 3090 from pot
+*** SUMMARY ***
+Total pot 3090 | No rake
+Board: [6c Ac 4d Ad 5c]
+Seat 1: kaklasss showed [6h 6s] and won 3090 with Full of 6 and Aces
+Seat 5: efire showed [As Jh] and lost with Trips of Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 0 - HandId: #538926032376299523-6-1438876216 - Holdem no limit (10/20) - 2015/08/06 15:50:16 UTC
+Table: 'Hold'em(125478495)#002' 6-max (play money) Seat #3 is the button
+Seat 1: kaklasss (3090)
+Seat 2: louloulouuu (1670)
+Seat 3: manggy94 (1450)
+Seat 4: titoune68700 (3010)
+Seat 5: efire (3000)
+*** ANTE/BLINDS ***
+titoune68700 posts small blind 10
+efire posts big blind 20
+Dealt to manggy94 [Qs 5s]
+*** PRE-FLOP *** 
+kaklasss calls 20
+louloulouuu folds
+manggy94 calls 20
+titoune68700 raises 2990 to 3010 and is all-in
+efire folds
+kaklasss folds
+manggy94 folds
+titoune68700 collected 3070 from pot
+*** SUMMARY ***
+Total pot 3070 | No rake
+Seat 4: titoune68700 (small blind) won 3070
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 0 - HandId: #538926032376299523-7-1438876251 - Holdem no limit (10/20) - 2015/08/06 15:50:51 UTC
+Table: 'Hold'em(125478495)#002' 6-max (play money) Seat #4 is the button
+Seat 1: kaklasss (3070)
+Seat 2: louloulouuu (1670)
+Seat 3: manggy94 (1430)
+Seat 4: titoune68700 (3070)
+Seat 6: cumpagnu (4505)
+*** ANTE/BLINDS ***
+cumpagnu posts big blind 20
+Dealt to manggy94 [Kh 4s]
+*** PRE-FLOP *** 
+kaklasss folds
+louloulouuu raises 1650 to 1670 and is all-in
+manggy94 folds
+titoune68700 folds
+cumpagnu raises 1650 to 3320
+*** FLOP *** [2d As 6c]
+*** TURN *** [2d As 6c][Ad]
+*** RIVER *** [2d As 6c Ad][Jh]
+*** SHOW DOWN ***
+louloulouuu shows [Jc Ks] (Two pairs : Aces and Jacks)
+cumpagnu shows [7d Qs] (One pair : Aces)
+cumpagnu collected 1650 from side pot 1
+louloulouuu collected 3340 from main pot
+*** SUMMARY ***
+Total pot 4990 | No rake
+Board: [2d As 6c Ad Jh]
+Seat 2: louloulouuu showed [Jc Ks] and won 3340 with Two pairs : Aces and Jacks
+Seat 6: cumpagnu (big blind) showed [7d Qs] and won 1650 with One pair : Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 1 - HandId: #538926032376299521-9-1438876288 - Holdem no limit (15/30) - 2015/08/06 15:51:28 UTC
+Table: 'Hold'em(125478495)#000' 6-max (play money) Seat #5 is the button
+Seat 1: boiscaymen (3500)
+Seat 2: ikam (1950)
+Seat 3: manggy94 (1430)
+Seat 4: Pompierspp67 (3270)
+Seat 5: mick37 (1490)
+Seat 6: lecanaille (4560)
+*** ANTE/BLINDS ***
+lecanaille posts small blind 15
+boiscaymen posts big blind 30
+Dealt to manggy94 [5d Js]
+*** PRE-FLOP *** 
+ikam raises 1920 to 1950 and is all-in
+manggy94 folds
+Pompierspp67 folds
+mick37 calls 1490 and is all-in
+lecanaille calls 1935
+boiscaymen raises 1550 to 3500 and is all-in
+lecanaille calls 1550
+*** FLOP *** [5h Ad 7h]
+*** TURN *** [5h Ad 7h][Ac]
+*** RIVER *** [5h Ad 7h Ac][Jh]
+*** SHOW DOWN ***
+boiscaymen shows [Qs Qc] (Two pairs : Aces and Queens)
+ikam shows [7s 8c] (Two pairs : Aces and 7)
+mick37 shows [Jd Kd] (Two pairs : Aces and Jacks)
+lecanaille shows [Kh Qh] (Flush King high)
+lecanaille collected 10440 from pot
+*** SUMMARY ***
+Total pot 10440 | No rake
+Board: [5h Ad 7h Ac Jh]
+Seat 1: boiscaymen (big blind) showed [Qs Qc] and lost with Two pairs : Aces and Queens
+Seat 2: ikam showed [7s 8c] and lost with Two pairs : Aces and 7
+Seat 5: mick37 (button) showed [Jd Kd] and lost with Two pairs : Aces and Jacks
+Seat 6: lecanaille (small blind) showed [Kh Qh] and won 10440 with Flush King high
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 1 - HandId: #538926032376299521-10-1438876329 - Holdem no limit (15/30) - 2015/08/06 15:52:09 UTC
+Table: 'Hold'em(125478495)#000' 6-max (play money) Seat #6 is the button
+Seat 1: boiscaymen (3000)
+Seat 3: manggy94 (1430)
+Seat 4: Pompierspp67 (3270)
+Seat 5: mick37 (1500)
+Seat 6: lecanaille (11500)
+*** ANTE/BLINDS ***
+boiscaymen posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [8s 5s]
+*** PRE-FLOP *** 
+Pompierspp67 calls 30
+mick37 folds
+lecanaille folds
+boiscaymen raises 2970 to 3000 and is all-in
+manggy94 folds
+Pompierspp67 folds
+boiscaymen collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 1: boiscaymen (small blind) won 3060
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 1 - HandId: #538926032376299521-11-1438876346 - Holdem no limit (15/30) - 2015/08/06 15:52:26 UTC
+Table: 'Hold'em(125478495)#000' 6-max (play money) Seat #1 is the button
+Seat 2: Didy95 (2750)
+Seat 3: manggy94 (1400)
+Seat 4: Pompierspp67 (3240)
+Seat 5: mick37 (1500)
+Seat 6: lecanaille (11500)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+Pompierspp67 posts big blind 30
+Dealt to manggy94 [Td 9s]
+*** PRE-FLOP *** 
+mick37 raises 1470 to 1500 and is all-in
+lecanaille calls 1500
+manggy94 folds
+Pompierspp67 folds
+*** FLOP *** [Qs Ah Qd]
+*** TURN *** [Qs Ah Qd][2d]
+*** RIVER *** [Qs Ah Qd 2d][3d]
+*** SHOW DOWN ***
+lecanaille shows [Th Ts] (Two pairs : Queens and Tens)
+mick37 shows [Ac 7h] (Two pairs : Aces and Queens)
+mick37 collected 3045 from pot
+*** SUMMARY ***
+Total pot 3045 | No rake
+Board: [Qs Ah Qd 2d 3d]
+Seat 5: mick37 showed [Ac 7h] and won 3045 with Two pairs : Aces and Queens
+Seat 6: lecanaille showed [Th Ts] and lost with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 1 - HandId: #538926032376299521-12-1438876377 - Holdem no limit (15/30) - 2015/08/06 15:52:57 UTC
+Table: 'Hold'em(125478495)#000' 6-max (play money) Seat #3 is the button
+Seat 1: mentalo11 (1500)
+Seat 2: Didy95 (2750)
+Seat 3: manggy94 (1385)
+Seat 4: Pompierspp67 (3210)
+Seat 5: mick37 (3045)
+Seat 6: lecanaille (10000)
+*** ANTE/BLINDS ***
+Pompierspp67 posts small blind 15
+mick37 posts big blind 30
+Dealt to manggy94 [Qd 6c]
+*** PRE-FLOP *** 
+lecanaille folds
+mentalo11 folds
+Didy95 calls 30
+manggy94 calls 30
+Pompierspp67 folds
+mick37 checks
+*** FLOP *** [Ts 6h 6s]
+mick37 checks
+Didy95 bets 30
+manggy94 calls 30
+mick37 folds
+*** TURN *** [Ts 6h 6s][Tc]
+Didy95 bets 30
+manggy94 raises 225 to 255
+Didy95 folds
+manggy94 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [Ts 6h 6s Tc]
+Seat 3: manggy94 (button) won 450
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 1 - HandId: #538926032376299521-13-1438876421 - Holdem no limit (15/30) - 2015/08/06 15:53:41 UTC
+Table: 'Hold'em(125478495)#000' 6-max (play money) Seat #4 is the button
+Seat 1: willolo (1500)
+Seat 2: Didy95 (2660)
+Seat 3: manggy94 (1520)
+Seat 4: Pompierspp67 (3195)
+Seat 5: mick37 (3015)
+Seat 6: lecanaille (10000)
+*** ANTE/BLINDS ***
+mick37 posts small blind 15
+lecanaille posts big blind 30
+Dealt to manggy94 [Tc Kh]
+*** PRE-FLOP *** 
+willolo raises 60 to 90
+Didy95 folds
+manggy94 calls 90
+Pompierspp67 calls 90
+mick37 calls 75
+lecanaille folds
+*** FLOP *** [Ks 8s 6c]
+mick37 checks
+willolo bets 390
+manggy94 calls 390
+Pompierspp67 folds
+mick37 folds
+*** TURN *** [Ks 8s 6c][9d]
+willolo bets 1020 and is all-in
+manggy94 calls 1020
+*** RIVER *** [Ks 8s 6c 9d][8h]
+*** SHOW DOWN ***
+manggy94 shows [Tc Kh] (Two pairs : Kings and 8)
+willolo shows [Kd Ah] (Two pairs : Kings and 8)
+willolo collected 3210 from pot
+*** SUMMARY ***
+Total pot 3210 | No rake
+Board: [Ks 8s 6c 9d 8h]
+Seat 1: willolo showed [Kd Ah] and won 3210 with Two pairs : Kings and 8
+Seat 3: manggy94 showed [Tc Kh] and lost with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 1 - HandId: #538926032376299521-14-1438876473 - Holdem no limit (15/30) - 2015/08/06 15:54:33 UTC
+Table: 'Hold'em(125478495)#000' 6-max (play money) Seat #5 is the button
+Seat 1: TOINOU7373 (4515)
+Seat 2: Didy95 (2660)
+Seat 3: manggy94 (20)
+Seat 4: Pompierspp67 (3105)
+Seat 5: mick37 (2925)
+Seat 6: lecanaille (9970)
+*** ANTE/BLINDS ***
+lecanaille posts small blind 15
+TOINOU7373 posts big blind 30
+Dealt to manggy94 [Ac 4c]
+*** PRE-FLOP *** 
+Didy95 folds
+manggy94 calls 20 and is all-in
+Pompierspp67 folds
+mick37 calls 30
+lecanaille calls 15
+TOINOU7373 checks
+*** FLOP *** [Jc 3c 6h]
+lecanaille checks
+TOINOU7373 checks
+mick37 checks
+*** TURN *** [Jc 3c 6h][6d]
+lecanaille checks
+TOINOU7373 checks
+mick37 checks
+*** RIVER *** [Jc 3c 6h 6d][Qh]
+lecanaille checks
+TOINOU7373 checks
+mick37 bets 83
+lecanaille folds
+TOINOU7373 folds
+*** SHOW DOWN ***
+manggy94 shows [Ac 4c] (One pair : 6)
+mick37 shows [Qc 7d] (Two pairs : Queens and 6)
+mick37 collected 193 from pot
+*** SUMMARY ***
+Total pot 193 | No rake
+Board: [Jc 3c 6h 6d Qh]
+Seat 3: manggy94 showed [Ac 4c] and lost with One pair : 6
+Seat 5: mick37 (button) showed [Qc 7d] and won 193 with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 1 - HandId: #538926032376299521-15-1438876802 - Holdem no limit (15/30) - 2015/08/06 16:00:02 UTC
+Table: 'Hold'em(125478495)#000' 6-max (play money) Seat #6 is the button
+Seat 2: Didy95 (2660)
+Seat 3: manggy94 (1500)
+Seat 4: Pompierspp67 (3105)
+Seat 5: mick37 (3005)
+Seat 6: lecanaille (9940)
+*** ANTE/BLINDS ***
+Didy95 posts big blind 30
+Dealt to manggy94 [As 8s]
+*** PRE-FLOP *** 
+manggy94 raises 30 to 60
+Pompierspp67 folds
+mick37 calls 60
+lecanaille raises 210 to 270
+Didy95 folds
+manggy94 calls 210
+mick37 calls 210
+*** FLOP *** [7h 2d Ts]
+manggy94 bets 30
+mick37 calls 30
+lecanaille calls 30
+*** TURN *** [7h 2d Ts][3d]
+manggy94 checks
+mick37 checks
+lecanaille bets 30
+manggy94 calls 30
+mick37 calls 30
+*** RIVER *** [7h 2d Ts 3d][Qs]
+manggy94 checks
+mick37 checks
+lecanaille bets 1020
+manggy94 folds
+mick37 folds
+lecanaille collected 2040 from pot
+*** SUMMARY ***
+Total pot 2040 | No rake
+Board: [7h 2d Ts 3d Qs]
+Seat 6: lecanaille (button) won 2040
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 2 - HandId: #538926032376299521-16-1438876946 - Holdem no limit (20/40) - 2015/08/06 16:02:26 UTC
+Table: 'Hold'em(125478495)#000' 6-max (play money) Seat #1 is the button
+Seat 2: Didy95 (2630)
+Seat 3: manggy94 (1170)
+Seat 4: Pompierspp67 (3105)
+Seat 5: mick37 (2675)
+Seat 6: lecanaille (10630)
+*** ANTE/BLINDS ***
+Didy95 posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [4s 9s]
+*** PRE-FLOP *** 
+Pompierspp67 folds
+mick37 calls 40
+lecanaille folds
+Didy95 calls 20
+manggy94 checks
+*** FLOP *** [Ah 6h Jc]
+Didy95 checks
+manggy94 checks
+mick37 checks
+*** TURN *** [Ah 6h Jc][6d]
+Didy95 checks
+manggy94 checks
+mick37 checks
+*** RIVER *** [Ah 6h Jc 6d][5h]
+Didy95 checks
+manggy94 checks
+mick37 checks
+*** SHOW DOWN ***
+manggy94 shows [4s 9s] (One pair : 6)
+Didy95 shows [2c Kd] (One pair : 6)
+mick37 shows [3d Kh] (One pair : 6)
+mick37 collected 60 from pot
+Didy95 collected 60 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ah 6h Jc 6d 5h]
+Seat 2: Didy95 (small blind) showed [2c Kd] and won 60 with One pair : 6
+Seat 3: manggy94 (big blind) showed [4s 9s] and lost with One pair : 6
+Seat 5: mick37 showed [3d Kh] and won 60 with One pair : 6
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 2 - HandId: #538926032376299521-17-1438876995 - Holdem no limit (20/40) - 2015/08/06 16:03:15 UTC
+Table: 'Hold'em(125478495)#000' 6-max (play money) Seat #2 is the button
+Seat 1: laurent2006 (1440)
+Seat 2: Didy95 (2650)
+Seat 3: manggy94 (1130)
+Seat 4: Pompierspp67 (3105)
+Seat 5: mick37 (2695)
+Seat 6: lecanaille (10630)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+Pompierspp67 posts big blind 40
+Dealt to manggy94 [4s 2c]
+*** PRE-FLOP *** 
+mick37 folds
+lecanaille calls 40
+laurent2006 calls 40
+Didy95 calls 40
+manggy94 folds
+Pompierspp67 folds
+*** FLOP *** [3s Kc 3d]
+lecanaille bets 40
+laurent2006 raises 160 to 200
+Didy95 calls 200
+lecanaille calls 160
+*** TURN *** [3s Kc 3d][8d]
+lecanaille checks
+laurent2006 bets 1200 and is all-in
+Didy95 calls 1200
+lecanaille folds
+*** RIVER *** [3s Kc 3d 8d][Ah]
+*** SHOW DOWN ***
+laurent2006 shows [Jd Kd] (Two pairs : Kings and 3)
+Didy95 shows [3h 7h] (Trips of 3)
+Didy95 collected 3180 from pot
+*** SUMMARY ***
+Total pot 3180 | No rake
+Board: [3s Kc 3d 8d Ah]
+Seat 1: laurent2006 showed [Jd Kd] and lost with Two pairs : Kings and 3
+Seat 2: Didy95 (button) showed [3h 7h] and won 3180 with Trips of 3
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 2 - HandId: #538926032376299521-18-1438877078 - Holdem no limit (20/40) - 2015/08/06 16:04:38 UTC
+Table: 'Hold'em(125478495)#000' 6-max (play money) Seat #3 is the button
+Seat 2: Didy95 (4390)
+Seat 3: manggy94 (1110)
+Seat 4: Pompierspp67 (3065)
+Seat 5: mick37 (2695)
+Seat 6: lecanaille (10390)
+*** ANTE/BLINDS ***
+Pompierspp67 posts small blind 20
+mick37 posts big blind 40
+Dealt to manggy94 [3h 4c]
+*** PRE-FLOP *** 
+lecanaille raises 80 to 120
+Didy95 folds
+manggy94 folds
+Pompierspp67 folds
+mick37 calls 80
+*** FLOP *** [Jc Ks 5c]
+mick37 bets 40
+lecanaille calls 40
+*** TURN *** [Jc Ks 5c][2d]
+mick37 bets 40
+lecanaille calls 40
+*** RIVER *** [Jc Ks 5c 2d][3d]
+mick37 checks
+lecanaille checks
+*** SHOW DOWN ***
+mick37 shows [5h Ad] (One pair : 5)
+lecanaille shows [Ah Jh] (One pair : Jacks)
+lecanaille collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Jc Ks 5c 2d 3d]
+Seat 5: mick37 (big blind) showed [5h Ad] and lost with One pair : 5
+Seat 6: lecanaille showed [Ah Jh] and won 420 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 2 - HandId: #538926032376299521-19-1438877121 - Holdem no limit (20/40) - 2015/08/06 16:05:21 UTC
+Table: 'Hold'em(125478495)#000' 6-max (play money) Seat #4 is the button
+Seat 1: moviolitini (3120)
+Seat 2: Didy95 (4390)
+Seat 3: manggy94 (1110)
+Seat 4: Pompierspp67 (3045)
+Seat 5: mick37 (2495)
+Seat 6: lecanaille (10610)
+*** ANTE/BLINDS ***
+mick37 posts small blind 20
+lecanaille posts big blind 40
+Dealt to manggy94 [8h 5d]
+*** PRE-FLOP *** 
+moviolitini folds
+Didy95 calls 40
+manggy94 folds
+Pompierspp67 folds
+mick37 calls 20
+lecanaille checks
+*** FLOP *** [Ad Jd Ks]
+mick37 checks
+lecanaille checks
+Didy95 checks
+*** TURN *** [Ad Jd Ks][4h]
+mick37 checks
+lecanaille checks
+Didy95 checks
+*** RIVER *** [Ad Jd Ks 4h][7s]
+mick37 checks
+lecanaille checks
+Didy95 checks
+*** SHOW DOWN ***
+Didy95 shows [8d 6d] (High card : Ace)
+lecanaille shows [8s Qh] (High card : Ace)
+mick37 shows [5s Js] (One pair : Jacks)
+mick37 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ad Jd Ks 4h 7s]
+Seat 2: Didy95 showed [8d 6d] and lost with High card : Ace
+Seat 5: mick37 (small blind) showed [5s Js] and won 120 with One pair : Jacks
+Seat 6: lecanaille (big blind) showed [8s Qh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 2 - HandId: #538926032376299521-20-1438877180 - Holdem no limit (20/40) - 2015/08/06 16:06:20 UTC
+Table: 'Hold'em(125478495)#000' 6-max (play money) Seat #5 is the button
+Seat 1: moviolitini (3120)
+Seat 2: Didy95 (4350)
+Seat 3: manggy94 (1110)
+Seat 4: Pompierspp67 (3045)
+Seat 5: mick37 (2575)
+Seat 6: lecanaille (10570)
+*** ANTE/BLINDS ***
+lecanaille posts small blind 20
+moviolitini posts big blind 40
+Dealt to manggy94 [Ah 8c]
+*** PRE-FLOP *** 
+Didy95 folds
+manggy94 calls 40
+Pompierspp67 folds
+mick37 calls 40
+lecanaille calls 20
+moviolitini folds
+*** FLOP *** [Qd 6h Kc]
+lecanaille bets 80
+manggy94 calls 80
+mick37 calls 80
+*** TURN *** [Qd 6h Kc][4h]
+lecanaille checks
+manggy94 checks
+mick37 bets 300
+lecanaille calls 300
+manggy94 folds
+*** RIVER *** [Qd 6h Kc 4h][Qs]
+lecanaille checks
+mick37 checks
+*** SHOW DOWN ***
+mick37 shows [4c Kh] (Two pairs : Kings and Queens)
+lecanaille shows [Ks 7s] (Two pairs : Kings and Queens)
+lecanaille collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [Qd 6h Kc 4h Qs]
+Seat 5: mick37 (button) showed [4c Kh] and lost with Two pairs : Kings and Queens
+Seat 6: lecanaille (small blind) showed [Ks 7s] and won 1000 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 2 - HandId: #538926032376299521-21-1438877234 - Holdem no limit (20/40) - 2015/08/06 16:07:14 UTC
+Table: 'Hold'em(125478495)#000' 6-max (play money) Seat #6 is the button
+Seat 1: moviolitini (3080)
+Seat 3: manggy94 (990)
+Seat 4: Pompierspp67 (3045)
+Seat 5: mick37 (2155)
+Seat 6: lecanaille (11150)
+*** ANTE/BLINDS ***
+moviolitini posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [3s 9s]
+*** PRE-FLOP *** 
+Pompierspp67 folds
+mick37 folds
+lecanaille calls 40
+moviolitini folds
+manggy94 checks
+*** FLOP *** [Th 2s 5s]
+manggy94 bets 100
+lecanaille folds
+manggy94 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Th 2s 5s]
+Seat 3: manggy94 (big blind) won 200
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 2 - HandId: #538926032376299521-22-1438877261 - Holdem no limit (20/40) - 2015/08/06 16:07:41 UTC
+Table: 'Hold'em(125478495)#000' 6-max (play money) Seat #1 is the button
+Seat 1: moviolitini (3060)
+Seat 3: manggy94 (1050)
+Seat 4: Pompierspp67 (3045)
+Seat 5: mick37 (2155)
+Seat 6: lecanaille (11110)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+Pompierspp67 posts big blind 40
+Dealt to manggy94 [5h Jc]
+*** PRE-FLOP *** 
+mick37 calls 40
+lecanaille folds
+moviolitini folds
+manggy94 folds
+Pompierspp67 folds
+mick37 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 5: mick37 won 100
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 2 - HandId: #538926032376299521-23-1438877277 - Holdem no limit (20/40) - 2015/08/06 16:07:57 UTC
+Table: 'Hold'em(125478495)#000' 6-max (play money) Seat #3 is the button
+Seat 1: moviolitini (3060)
+Seat 3: manggy94 (1030)
+Seat 4: Pompierspp67 (3005)
+Seat 5: mick37 (2215)
+Seat 6: lecanaille (11110)
+*** ANTE/BLINDS ***
+Pompierspp67 posts small blind 20
+mick37 posts big blind 40
+Dealt to manggy94 [8h Qh]
+*** PRE-FLOP *** 
+lecanaille raises 80 to 120
+moviolitini folds
+manggy94 calls 120
+Pompierspp67 folds
+mick37 calls 80
+*** FLOP *** [Td 7c 8d]
+mick37 checks
+lecanaille bets 190
+manggy94 calls 190
+mick37 calls 190
+*** TURN *** [Td 7c 8d][2s]
+mick37 checks
+lecanaille checks
+manggy94 checks
+*** RIVER *** [Td 7c 8d 2s][Jd]
+mick37 bets 475
+lecanaille folds
+manggy94 calls 475
+*** SHOW DOWN ***
+manggy94 shows [8h Qh] (One pair : 8)
+mick37 shows [Qc Qs] (One pair : Queens)
+mick37 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Board: [Td 7c 8d 2s Jd]
+Seat 3: manggy94 (button) showed [8h Qh] and lost with One pair : 8
+Seat 5: mick37 (big blind) showed [Qc Qs] and won 1900 with One pair : Queens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 9 + 1 level: 3 - HandId: #538926032376299521-24-1438877330 - Holdem no limit (30/60) - 2015/08/06 16:08:50 UTC
+Table: 'Hold'em(125478495)#000' 6-max (play money) Seat #4 is the button
+Seat 1: moviolitini (3060)
+Seat 2: Coolman69 (3000)
+Seat 3: manggy94 (245)
+Seat 4: Pompierspp67 (2985)
+Seat 5: mick37 (3330)
+Seat 6: lecanaille (10800)
+*** ANTE/BLINDS ***
+mick37 posts small blind 30
+lecanaille posts big blind 60
+Dealt to manggy94 [2h Th]
+*** PRE-FLOP *** 
+moviolitini folds
+Coolman69 calls 60
+manggy94 calls 60
+Pompierspp67 folds
+mick37 calls 30
+lecanaille checks
+*** FLOP *** [Ad 7c 8h]
+mick37 checks
+lecanaille checks
+Coolman69 bets 180
+manggy94 raises 5 to 185 and is all-in
+mick37 folds
+lecanaille folds
+Coolman69 calls 5
+*** TURN *** [Ad 7c 8h][8d]
+*** RIVER *** [Ad 7c 8h 8d][Qh]
+*** SHOW DOWN ***
+manggy94 shows [2h Th] (One pair : 8)
+Coolman69 shows [6h 6d] (Two pairs : 8 and 6)
+Coolman69 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Ad 7c 8h 8d Qh]
+Seat 2: Coolman69 showed [6h 6d] and won 610 with Two pairs : 8 and 6
+Seat 3: manggy94 showed [2h Th] and lost with One pair : 8
+
+

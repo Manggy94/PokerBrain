@@ -1,0 +1,414 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 3 - HandId: #679246402097774603-7-1463828947 - Holdem no limit (100/200) - 2016/05/21 11:09:07 UTC
+Table: 'Hold'em(158149377)#0010' 4-max (real money) Seat #3 is the button
+Seat 1: kajumille (10000)
+Seat 2: manggy94 (10000)
+Seat 3: LeKikiF0u (23925)
+Seat 4: BleuPetrole (8575)
+*** ANTE/BLINDS ***
+BleuPetrole posts small blind 100
+kajumille posts big blind 200
+Dealt to manggy94 [7s 6c]
+*** PRE-FLOP *** 
+manggy94 folds
+LeKikiF0u folds
+BleuPetrole folds
+kajumille collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: kajumille (big blind) won 300
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 3 - HandId: #679246402097774603-8-1463828954 - Holdem no limit (100/200) - 2016/05/21 11:09:14 UTC
+Table: 'Hold'em(158149377)#0010' 4-max (real money) Seat #4 is the button
+Seat 1: kajumille (10100)
+Seat 2: manggy94 (10000)
+Seat 3: LeKikiF0u (23925)
+Seat 4: BleuPetrole (8475)
+*** ANTE/BLINDS ***
+kajumille posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [Kd 3s]
+*** PRE-FLOP *** 
+LeKikiF0u raises 200 to 400
+BleuPetrole folds
+kajumille calls 300
+manggy94 calls 200
+*** FLOP *** [7h 5s 6h]
+kajumille checks
+manggy94 checks
+LeKikiF0u checks
+*** TURN *** [7h 5s 6h][2d]
+kajumille checks
+manggy94 bets 600
+LeKikiF0u folds
+kajumille calls 600
+*** RIVER *** [7h 5s 6h 2d][9h]
+kajumille checks
+manggy94 bets 1200
+kajumille calls 1200
+*** SHOW DOWN ***
+manggy94 shows [Kd 3s] (High card : King)
+kajumille shows [8h Ad] (Straight 9 high)
+kajumille collected 4800 from pot
+*** SUMMARY ***
+Total pot 4800 | No rake
+Board: [7h 5s 6h 2d 9h]
+Seat 1: kajumille (small blind) showed [8h Ad] and won 4800 with Straight 9 high
+Seat 2: manggy94 (big blind) showed [Kd 3s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 3 - HandId: #679246402097774603-9-1463829011 - Holdem no limit (100/200) - 2016/05/21 11:10:11 UTC
+Table: 'Hold'em(158149377)#0010' 4-max (real money) Seat #1 is the button
+Seat 1: kajumille (12700)
+Seat 2: manggy94 (7800)
+Seat 3: LeKikiF0u (23525)
+Seat 4: BleuPetrole (8475)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+LeKikiF0u posts big blind 200
+Dealt to manggy94 [4d Jh]
+*** PRE-FLOP *** 
+BleuPetrole folds
+kajumille folds
+manggy94 folds
+LeKikiF0u collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: LeKikiF0u (big blind) won 300
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 3 - HandId: #679246402097774603-10-1463829026 - Holdem no limit (100/200) - 2016/05/21 11:10:26 UTC
+Table: 'Hold'em(158149377)#0010' 4-max (real money) Seat #2 is the button
+Seat 1: kajumille (12700)
+Seat 2: manggy94 (7700)
+Seat 3: LeKikiF0u (23625)
+Seat 4: BleuPetrole (8475)
+*** ANTE/BLINDS ***
+LeKikiF0u posts small blind 100
+BleuPetrole posts big blind 200
+Dealt to manggy94 [9c Qs]
+*** PRE-FLOP *** 
+kajumille raises 600 to 800
+manggy94 folds
+LeKikiF0u folds
+BleuPetrole calls 600
+*** FLOP *** [7s 3s 7h]
+BleuPetrole checks
+kajumille bets 1275
+BleuPetrole raises 1525 to 2800
+kajumille raises 9100 to 11900 and is all-in
+BleuPetrole calls 4875 and is all-in
+*** TURN *** [7s 3s 7h][Ad]
+*** RIVER *** [7s 3s 7h Ad][Jh]
+*** SHOW DOWN ***
+BleuPetrole shows [4s Ks] (One pair : 7)
+kajumille shows [Js Jc] (Full of Jacks and 7)
+kajumille collected 21275 from pot
+*** SUMMARY ***
+Total pot 21275 | No rake
+Board: [7s 3s 7h Ad Jh]
+Seat 1: kajumille showed [Js Jc] and won 21275 with Full of Jacks and 7
+Seat 4: BleuPetrole (big blind) showed [4s Ks] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 3 - HandId: #679246402097774603-11-1463829079 - Holdem no limit (100/200) - 2016/05/21 11:11:19 UTC
+Table: 'Hold'em(158149377)#0010' 4-max (real money) Seat #3 is the button
+Seat 1: kajumille (21275)
+Seat 2: manggy94 (7700)
+Seat 3: LeKikiF0u (23525)
+*** ANTE/BLINDS ***
+kajumille posts big blind 200
+Dealt to manggy94 [As 9d]
+*** PRE-FLOP *** 
+manggy94 raises 300 to 500
+LeKikiF0u folds
+kajumille folds
+manggy94 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 2: manggy94 won 700
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 3 - HandId: #679246402097774603-12-1463829106 - Holdem no limit (100/200) - 2016/05/21 11:11:46 UTC
+Table: 'Hold'em(158149377)#0010' 4-max (real money) Seat #4 is the button
+Seat 1: kajumille (21075)
+Seat 2: manggy94 (7900)
+Seat 3: LeKikiF0u (23525)
+*** ANTE/BLINDS ***
+kajumille posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [6d Jh]
+*** PRE-FLOP *** 
+LeKikiF0u raises 200 to 400
+kajumille folds
+manggy94 calls 200
+*** FLOP *** [Js Jd Kc]
+manggy94 checks
+LeKikiF0u checks
+*** TURN *** [Js Jd Kc][5d]
+manggy94 bets 450
+LeKikiF0u calls 450
+*** RIVER *** [Js Jd Kc 5d][8s]
+manggy94 bets 1800
+LeKikiF0u folds
+manggy94 collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Board: [Js Jd Kc 5d 8s]
+Seat 2: manggy94 (big blind) won 3600
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #679246402097774603-13-1463829154 - Holdem no limit (150/300) - 2016/05/21 11:12:34 UTC
+Table: 'Hold'em(158149377)#0010' 4-max (real money) Seat #1 is the button
+Seat 1: kajumille (20975)
+Seat 2: manggy94 (8850)
+Seat 3: LeKikiF0u (22675)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+LeKikiF0u posts big blind 300
+Dealt to manggy94 [Ac 2d]
+*** PRE-FLOP *** 
+kajumille raises 300 to 600
+manggy94 calls 450
+LeKikiF0u calls 300
+*** FLOP *** [Tc 3s Kh]
+manggy94 checks
+LeKikiF0u checks
+kajumille bets 900
+manggy94 folds
+LeKikiF0u folds
+kajumille collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [Tc 3s Kh]
+Seat 1: kajumille (button) won 2700
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #679246402097774603-14-1463829192 - Holdem no limit (150/300) - 2016/05/21 11:13:12 UTC
+Table: 'Hold'em(158149377)#0010' 4-max (real money) Seat #2 is the button
+Seat 1: kajumille (22175)
+Seat 2: manggy94 (8250)
+Seat 3: LeKikiF0u (22075)
+*** ANTE/BLINDS ***
+LeKikiF0u posts small blind 150
+kajumille posts big blind 300
+Dealt to manggy94 [Js 5s]
+*** PRE-FLOP *** 
+manggy94 calls 300
+LeKikiF0u folds
+kajumille checks
+*** FLOP *** [Tc 8s 8d]
+kajumille checks
+manggy94 bets 750
+kajumille calls 750
+*** TURN *** [Tc 8s 8d][Ks]
+kajumille checks
+manggy94 checks
+*** RIVER *** [Tc 8s 8d Ks][2d]
+kajumille bets 1500
+manggy94 folds
+kajumille collected 3750 from pot
+*** SUMMARY ***
+Total pot 3750 | No rake
+Board: [Tc 8s 8d Ks 2d]
+Seat 1: kajumille (big blind) won 3750
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #679246402097774603-15-1463829259 - Holdem no limit (150/300) - 2016/05/21 11:14:19 UTC
+Table: 'Hold'em(158149377)#0010' 4-max (real money) Seat #3 is the button
+Seat 1: kajumille (23375)
+Seat 2: manggy94 (7200)
+Seat 3: LeKikiF0u (21925)
+Seat 4: ludpca (7950)
+*** ANTE/BLINDS ***
+kajumille posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [3d Qh]
+*** PRE-FLOP *** 
+LeKikiF0u raises 300 to 600
+kajumille folds
+manggy94 calls 300
+*** FLOP *** [8c 2s 4h]
+manggy94 bets 675
+LeKikiF0u raises 1387 to 2062
+manggy94 folds
+LeKikiF0u collected 4087 from pot
+*** SUMMARY ***
+Total pot 4087 | No rake
+Board: [8c 2s 4h]
+Seat 3: LeKikiF0u (button) won 4087
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #679246402097774603-16-1463829286 - Holdem no limit (150/300) - 2016/05/21 11:14:46 UTC
+Table: 'Hold'em(158149377)#0010' 4-max (real money) Seat #1 is the button
+Seat 1: kajumille (23225)
+Seat 2: manggy94 (5925)
+Seat 3: LeKikiF0u (23350)
+Seat 4: ludpca (7950)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+LeKikiF0u posts big blind 300
+Dealt to manggy94 [3d 2c]
+*** PRE-FLOP *** 
+ludpca folds
+kajumille folds
+manggy94 calls 150
+LeKikiF0u checks
+*** FLOP *** [2d 2s Ts]
+manggy94 bets 600
+LeKikiF0u folds
+manggy94 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [2d 2s Ts]
+Seat 2: manggy94 (small blind) won 1200
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #679246402097774603-17-1463829325 - Holdem no limit (25/150/300) - 2016/05/21 11:15:25 UTC
+Table: 'Hold'em(158149377)#0010' 4-max (real money) Seat #2 is the button
+Seat 1: kajumille (23225)
+Seat 2: manggy94 (6225)
+Seat 3: LeKikiF0u (23050)
+Seat 4: ludpca (7950)
+*** ANTE/BLINDS ***
+LeKikiF0u posts ante 25
+ludpca posts ante 25
+kajumille posts ante 25
+manggy94 posts ante 25
+LeKikiF0u posts small blind 150
+ludpca posts big blind 300
+Dealt to manggy94 [7h 6h]
+*** PRE-FLOP *** 
+kajumille folds
+manggy94 raises 300 to 600
+LeKikiF0u calls 450
+ludpca calls 300
+*** FLOP *** [9h Qs 5s]
+LeKikiF0u checks
+ludpca bets 1267
+manggy94 folds
+LeKikiF0u folds
+ludpca collected 3167 from pot
+*** SUMMARY ***
+Total pot 3167 | No rake
+Board: [9h Qs 5s]
+Seat 4: ludpca (big blind) won 3167
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #679246402097774603-18-1463829366 - Holdem no limit (25/150/300) - 2016/05/21 11:16:06 UTC
+Table: 'Hold'em(158149377)#0010' 4-max (real money) Seat #3 is the button
+Seat 1: kajumille (23200)
+Seat 2: manggy94 (5600)
+Seat 3: LeKikiF0u (22425)
+Seat 4: ludpca (9225)
+*** ANTE/BLINDS ***
+ludpca posts ante 25
+kajumille posts ante 25
+manggy94 posts ante 25
+LeKikiF0u posts ante 25
+ludpca posts small blind 150
+kajumille posts big blind 300
+Dealt to manggy94 [9s Ac]
+*** PRE-FLOP *** 
+manggy94 raises 300 to 600
+LeKikiF0u calls 600
+ludpca calls 450
+kajumille calls 300
+*** FLOP *** [Js Td Ah]
+ludpca checks
+kajumille checks
+manggy94 bets 1667
+LeKikiF0u calls 1667
+ludpca folds
+kajumille folds
+*** TURN *** [Js Td Ah][4d]
+manggy94 bets 3308 and is all-in
+LeKikiF0u calls 3308
+*** RIVER *** [Js Td Ah 4d][6s]
+*** SHOW DOWN ***
+LeKikiF0u shows [Jd Kc] (One pair : Jacks)
+manggy94 shows [9s Ac] (One pair : Aces)
+manggy94 collected 12450 from pot
+*** SUMMARY ***
+Total pot 12450 | No rake
+Board: [Js Td Ah 4d 6s]
+Seat 2: manggy94 showed [9s Ac] and won 12450 with One pair : Aces
+Seat 3: LeKikiF0u (button) showed [Jd Kc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #679246402097774603-19-1463829426 - Holdem no limit (25/150/300) - 2016/05/21 11:17:06 UTC
+Table: 'Hold'em(158149377)#0010' 4-max (real money) Seat #4 is the button
+Seat 1: kajumille (22575)
+Seat 2: manggy94 (12450)
+Seat 3: LeKikiF0u (16825)
+Seat 4: ludpca (8600)
+*** ANTE/BLINDS ***
+kajumille posts ante 25
+manggy94 posts ante 25
+LeKikiF0u posts ante 25
+ludpca posts ante 25
+kajumille posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Ac 5s]
+*** PRE-FLOP *** 
+LeKikiF0u folds
+ludpca calls 300
+kajumille calls 150
+manggy94 checks
+*** FLOP *** [4d 3s Ah]
+kajumille bets 1000
+manggy94 calls 1000
+ludpca folds
+*** TURN *** [4d 3s Ah][Kc]
+kajumille bets 2250
+manggy94 calls 2250
+*** RIVER *** [4d 3s Ah Kc][9h]
+kajumille bets 5000
+manggy94 calls 5000
+*** SHOW DOWN ***
+manggy94 shows [Ac 5s] (One pair : Aces)
+kajumille shows [4c As] (Two pairs : Aces and 4)
+kajumille collected 17500 from pot
+*** SUMMARY ***
+Total pot 17500 | No rake
+Board: [4d 3s Ah Kc 9h]
+Seat 1: kajumille (small blind) showed [4c As] and won 17500 with Two pairs : Aces and 4
+Seat 2: manggy94 (big blind) showed [Ac 5s] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #679246402097774603-20-1463829475 - Holdem no limit (25/150/300) - 2016/05/21 11:17:55 UTC
+Table: 'Hold'em(158149377)#0010' 4-max (real money) Seat #1 is the button
+Seat 1: kajumille (31500)
+Seat 2: manggy94 (3875)
+Seat 3: LeKikiF0u (16800)
+Seat 4: ludpca (8275)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+LeKikiF0u posts ante 25
+kajumille posts ante 25
+ludpca posts ante 25
+manggy94 posts small blind 150
+LeKikiF0u posts big blind 300
+Dealt to manggy94 [3d 8h]
+*** PRE-FLOP *** 
+ludpca folds
+kajumille calls 300
+manggy94 calls 150
+LeKikiF0u checks
+*** FLOP *** [7h Kc Ah]
+manggy94 bets 3550 and is all-in
+LeKikiF0u folds
+kajumille calls 3550
+*** TURN *** [7h Kc Ah][4d]
+*** RIVER *** [7h Kc Ah 4d][3s]
+*** SHOW DOWN ***
+manggy94 shows [3d 8h] (One pair : 3)
+kajumille shows [As 6c] (One pair : Aces)
+kajumille collected 8100 from pot
+*** SUMMARY ***
+Total pot 8100 | No rake
+Board: [7h Kc Ah 4d 3s]
+Seat 1: kajumille (button) showed [As 6c] and won 8100 with One pair : Aces
+Seat 2: manggy94 (small blind) showed [3d 8h] and lost with One pair : 3
+
+

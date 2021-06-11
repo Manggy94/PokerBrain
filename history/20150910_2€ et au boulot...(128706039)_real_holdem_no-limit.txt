@@ -1,0 +1,150 @@
+Winamax Poker - Tournament "2€ et au boulot..." buyIn: 1,80€ + 0,20€ level: 8 - HandId: #552788228302700556-2-1441872683 - Holdem no limit (60/300/600) - 2015/09/10 08:11:23 UTC
+Table: '2€ et au boulot...(128706039)#011' 9-max (real money) Seat #8 is the button
+Seat 1: sigerzzz (86326)
+Seat 2: Mio-oiM (29867)
+Seat 3: Karhma (14289)
+Seat 4: A536842 (15830)
+Seat 5: BrazilNuts (19989)
+Seat 6: brelan22 (11260)
+Seat 7: BuDoKaii88 (16860)
+Seat 8: Yayabke (8740)
+Seat 9: manggy94 (10000)
+*** ANTE/BLINDS ***
+brelan22 posts ante 60
+BuDoKaii88 posts ante 60
+Yayabke posts ante 60
+brelan22 posts small blind 300
+BuDoKaii88 posts big blind 600
+*** PRE-FLOP *** 
+Yayabke calls 600
+brelan22 calls 300
+BuDoKaii88 checks
+*** FLOP *** [8d Qd 9h]
+brelan22 bets 600
+BuDoKaii88 calls 600
+Yayabke calls 600
+*** TURN *** [8d Qd 9h][5s]
+brelan22 checks
+BuDoKaii88 checks
+Yayabke checks
+*** RIVER *** [8d Qd 9h 5s][3h]
+brelan22 checks
+BuDoKaii88 checks
+Yayabke checks
+*** SHOW DOWN ***
+BuDoKaii88 shows [Ts 8s] (One pair : 8)
+Yayabke shows [Ad Jc] (High card : Ace)
+brelan22 shows [Ks Kd] (One pair : Kings)
+brelan22 collected 3780 from pot
+*** SUMMARY ***
+Total pot 3780 | No rake
+Board: [8d Qd 9h 5s 3h]
+Seat 6: brelan22 (small blind) showed [Ks Kd] and won 3780 with One pair : Kings
+Seat 7: BuDoKaii88 (big blind) showed [Ts 8s] and lost with One pair : 8
+Seat 8: Yayabke (button) showed [Ad Jc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "2€ et au boulot..." buyIn: 1,80€ + 0,20€ level: 8 - HandId: #552788228302700556-3-1441872714 - Holdem no limit (60/300/600) - 2015/09/10 08:11:54 UTC
+Table: '2€ et au boulot...(128706039)#011' 9-max (real money) Seat #6 is the button
+Seat 1: sigerzzz (86326)
+Seat 2: Mio-oiM (29867)
+Seat 3: Karhma (14289)
+Seat 4: A536842 (15830)
+Seat 5: BrazilNuts (19989)
+Seat 6: brelan22 (13780)
+Seat 7: BuDoKaii88 (15600)
+Seat 8: Yayabke (7480)
+Seat 9: manggy94 (10000)
+*** ANTE/BLINDS ***
+BuDoKaii88 posts ante 60
+Yayabke posts ante 60
+sigerzzz posts ante 60
+Mio-oiM posts ante 60
+Karhma posts ante 60
+A536842 posts ante 60
+BrazilNuts posts ante 60
+brelan22 posts ante 60
+manggy94 posts ante 60
+BuDoKaii88 posts small blind 300
+Yayabke posts big blind 600
+Dealt to manggy94 [6d 5c]
+*** PRE-FLOP *** 
+manggy94 folds
+sigerzzz raises 600 to 1200
+Mio-oiM folds
+Karhma folds
+A536842 folds
+BrazilNuts folds
+brelan22 folds
+BuDoKaii88 calls 900
+Yayabke calls 600
+*** FLOP *** [7d 9s 5d]
+BuDoKaii88 checks
+Yayabke checks
+sigerzzz checks
+*** TURN *** [7d 9s 5d][9c]
+BuDoKaii88 checks
+Yayabke bets 600
+sigerzzz calls 600
+BuDoKaii88 calls 600
+*** RIVER *** [7d 9s 5d 9c][6h]
+BuDoKaii88 checks
+Yayabke bets 3960
+sigerzzz folds
+BuDoKaii88 folds
+Yayabke collected 9900 from pot
+*** SUMMARY ***
+Total pot 9900 | No rake
+Board: [7d 9s 5d 9c 6h]
+Seat 8: Yayabke (big blind) won 9900
+
+
+Winamax Poker - Tournament "2€ et au boulot..." buyIn: 1,80€ + 0,20€ level: 8 - HandId: #552788228302700556-4-1441872768 - Holdem no limit (60/300/600) - 2015/09/10 08:12:48 UTC
+Table: '2€ et au boulot...(128706039)#011' 9-max (real money) Seat #7 is the button
+Seat 1: sigerzzz (84466)
+Seat 2: Mio-oiM (29807)
+Seat 3: Karhma (14229)
+Seat 4: A536842 (15770)
+Seat 5: BrazilNuts (19929)
+Seat 6: Natty King (10000)
+Seat 7: BuDoKaii88 (13740)
+Seat 8: THUNDERDAN54 (18470)
+Seat 9: manggy94 (9940)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+sigerzzz posts ante 60
+Mio-oiM posts ante 60
+Karhma posts ante 60
+A536842 posts ante 60
+BrazilNuts posts ante 60
+Natty King posts ante 60
+BuDoKaii88 posts ante 60
+manggy94 posts big blind 600
+Dealt to manggy94 [7d Kd]
+*** PRE-FLOP *** 
+sigerzzz raises 600 to 1200
+Mio-oiM folds
+Karhma folds
+A536842 folds
+BrazilNuts folds
+Natty King folds
+BuDoKaii88 folds
+manggy94 calls 600
+*** FLOP *** [Ad 2d 9c]
+manggy94 bets 2880
+sigerzzz calls 2880
+*** TURN *** [Ad 2d 9c][9d]
+manggy94 bets 5800 and is all-in
+sigerzzz calls 5800
+*** RIVER *** [Ad 2d 9c 9d][4c]
+*** SHOW DOWN ***
+manggy94 shows [7d Kd] (Flush Ace high)
+sigerzzz shows [As Ah] (Full of Aces and 9)
+sigerzzz collected 20240 from pot
+*** SUMMARY ***
+Total pot 20240 | No rake
+Board: [Ad 2d 9c 9d 4c]
+Seat 1: sigerzzz showed [As Ah] and won 20240 with Full of Aces and 9
+Seat 9: manggy94 (big blind) showed [7d Kd] and lost with Flush Ace high
+
+

@@ -1,0 +1,154 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #715684595399393656-1-1471791628 - Holdem no limit (10/20) - 2016/08/21 15:00:28 UTC
+Table: 'Freeroll(166633305)#375' 8-max (real money) Seat #8 is the button
+Seat 1: HoplaMunschy (3000)
+Seat 2: sharzy (3000)
+Seat 3: dragon11200 (3000)
+Seat 4: lattanavong (3000)
+Seat 5: MegAAKKill (3000)
+Seat 6: FERIZAJ123 (3000)
+Seat 7: manggy94 (3000)
+Seat 8: scalap783 (3000)
+*** ANTE/BLINDS ***
+HoplaMunschy posts small blind 10
+sharzy posts big blind 20
+Dealt to manggy94 [4d Ad]
+*** PRE-FLOP *** 
+dragon11200 folds
+lattanavong folds
+MegAAKKill raises 2980 to 3000 and is all-in
+FERIZAJ123 folds
+manggy94 folds
+scalap783 calls 3000 and is all-in
+HoplaMunschy folds
+sharzy folds
+*** FLOP *** [Ac Jd Tc]
+*** TURN *** [Ac Jd Tc][Th]
+*** RIVER *** [Ac Jd Tc Th][8d]
+*** SHOW DOWN ***
+MegAAKKill shows [8c Qd] (Two pairs : Tens and 8)
+scalap783 shows [Jc Ks] (Two pairs : Jacks and Tens)
+scalap783 collected 6030 from pot
+*** SUMMARY ***
+Total pot 6030 | No rake
+Board: [Ac Jd Tc Th 8d]
+Seat 5: MegAAKKill showed [8c Qd] and lost with Two pairs : Tens and 8
+Seat 8: scalap783 (button) showed [Jc Ks] and won 6030 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #715684595399393656-2-1471791891 - Holdem no limit (15/30) - 2016/08/21 15:04:51 UTC
+Table: 'Freeroll(166633305)#375' 8-max (real money) Seat #1 is the button
+Seat 1: HoplaMunschy (2990)
+Seat 2: sharzy (2980)
+Seat 3: dragon11200 (3000)
+Seat 4: lattanavong (3000)
+Seat 6: FERIZAJ123 (3000)
+Seat 7: manggy94 (3000)
+Seat 8: scalap783 (6030)
+*** ANTE/BLINDS ***
+sharzy posts small blind 15
+dragon11200 posts big blind 30
+Dealt to manggy94 [4h 5h]
+*** PRE-FLOP *** 
+lattanavong calls 30
+FERIZAJ123 calls 30
+manggy94 calls 30
+scalap783 raises 195 to 225
+HoplaMunschy folds
+sharzy folds
+dragon11200 folds
+lattanavong calls 195
+FERIZAJ123 calls 195
+manggy94 calls 195
+*** FLOP *** [8s Kd 4d]
+lattanavong bets 2775 and is all-in
+FERIZAJ123 calls 2775 and is all-in
+manggy94 folds
+scalap783 folds
+*** TURN *** [8s Kd 4d][4s]
+*** RIVER *** [8s Kd 4d 4s][6c]
+*** SHOW DOWN ***
+FERIZAJ123 shows [7c 8h] (Two pairs : 8 and 4)
+lattanavong shows [8c 4c] (Full of 4 and 8)
+lattanavong collected 6495 from pot
+*** SUMMARY ***
+Total pot 6495 | No rake
+Board: [8s Kd 4d 4s 6c]
+Seat 4: lattanavong showed [8c 4c] and won 6495 with Full of 4 and 8
+Seat 6: FERIZAJ123 showed [7c 8h] and lost with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #715684595399393656-3-1471791941 - Holdem no limit (15/30) - 2016/08/21 15:05:41 UTC
+Table: 'Freeroll(166633305)#375' 8-max (real money) Seat #2 is the button
+Seat 1: HoplaMunschy (2990)
+Seat 2: sharzy (2965)
+Seat 3: dragon11200 (2970)
+Seat 4: lattanavong (6495)
+Seat 5: Vastine2606 (3000)
+Seat 7: manggy94 (2775)
+Seat 8: scalap783 (5805)
+*** ANTE/BLINDS ***
+dragon11200 posts small blind 15
+lattanavong posts big blind 30
+Dealt to manggy94 [2s 5h]
+*** PRE-FLOP *** 
+Vastine2606 folds
+manggy94 folds
+scalap783 calls 30
+HoplaMunschy folds
+sharzy calls 30
+dragon11200 folds
+lattanavong checks
+*** FLOP *** [Tc 8d Qh]
+lattanavong checks
+scalap783 bets 105
+sharzy folds
+lattanavong calls 105
+*** TURN *** [Tc 8d Qh][Ac]
+lattanavong checks
+scalap783 bets 315
+lattanavong folds
+scalap783 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Tc 8d Qh Ac]
+Seat 8: scalap783 won 630
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #715684595399393656-4-1471791995 - Holdem no limit (20/40) - 2016/08/21 15:06:35 UTC
+Table: 'Freeroll(166633305)#375' 8-max (real money) Seat #3 is the button
+Seat 1: HoplaMunschy (2990)
+Seat 2: sharzy (2935)
+Seat 3: dragon11200 (2955)
+Seat 4: lattanavong (6360)
+Seat 5: Vastine2606 (3000)
+Seat 6: ludaow (3000)
+Seat 7: manggy94 (2775)
+Seat 8: scalap783 (5985)
+*** ANTE/BLINDS ***
+lattanavong posts small blind 20
+Vastine2606 posts big blind 40
+Dealt to manggy94 [Kc Ac]
+*** PRE-FLOP *** 
+ludaow folds
+manggy94 raises 1160 to 1200
+scalap783 folds
+HoplaMunschy raises 1790 to 2990 and is all-in
+sharzy folds
+dragon11200 folds
+lattanavong folds
+Vastine2606 folds
+manggy94 calls 1575 and is all-in
+*** FLOP *** [Qh 7c 4s]
+*** TURN *** [Qh 7c 4s][6s]
+*** RIVER *** [Qh 7c 4s 6s][Ad]
+*** SHOW DOWN ***
+manggy94 shows [Kc Ac] (One pair : Aces)
+HoplaMunschy shows [7d Ah] (Two pairs : Aces and 7)
+HoplaMunschy collected 5825 from pot
+*** SUMMARY ***
+Total pot 5825 | No rake
+Board: [Qh 7c 4s 6s Ad]
+Seat 1: HoplaMunschy showed [7d Ah] and won 5825 with Two pairs : Aces and 7
+Seat 7: manggy94 showed [Kc Ac] and lost with One pair : Aces
+
+

@@ -1,0 +1,153 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #692296101880922187-12-1466592659 - Holdem no limit (10/60/120) - 2016/06/22 10:50:59 UTC
+Table: 'Freeroll(161187747)#074' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (3000)
+Seat 2: pupuce32190 (1690)
+Seat 3: Jakoncey (6225)
+Seat 4: SATELITE4300 (2820)
+Seat 5: Stinson21 (2340)
+Seat 6: TheDrinox (10745)
+Seat 7: KenshiNfr (5720)
+Seat 8: Ox6gen (3180)
+*** ANTE/BLINDS ***
+Ox6gen posts ante 10
+manggy94 posts ante 10
+pupuce32190 posts ante 10
+Jakoncey posts ante 10
+SATELITE4300 posts ante 10
+Stinson21 posts ante 10
+TheDrinox posts ante 10
+Ox6gen posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [6c Qs]
+*** PRE-FLOP *** 
+pupuce32190 folds
+Jakoncey raises 900 to 1020
+SATELITE4300 raises 1790 to 2810 and is all-in
+Stinson21 calls 2330 and is all-in
+TheDrinox folds
+Ox6gen folds
+manggy94 folds
+Jakoncey calls 1790
+*** FLOP *** [6h 7s 8d]
+*** TURN *** [6h 7s 8d][2d]
+*** RIVER *** [6h 7s 8d 2d][9s]
+*** SHOW DOWN ***
+Jakoncey shows [Js Ad] (High card : Ace)
+Stinson21 shows [Ks Ts] (Straight Ten high)
+SATELITE4300 shows [Th Qc] (Straight Ten high)
+SATELITE4300 collected 4580 from side pot 1
+Stinson21 collected 3620 from main pot
+*** SUMMARY ***
+Total pot 8200 | No rake
+Board: [6h 7s 8d 2d 9s]
+Seat 3: Jakoncey showed [Js Ad] and lost with High card : Ace
+Seat 4: SATELITE4300 showed [Th Qc] and won 4580 with Straight Ten high
+Seat 5: Stinson21 showed [Ks Ts] and won 3620 with Straight Ten high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #692296101880922187-13-1466592685 - Holdem no limit (15/75/150) - 2016/06/22 10:51:25 UTC
+Table: 'Freeroll(161187747)#074' 8-max (real money) Seat #8 is the button
+Seat 1: manggy94 (2870)
+Seat 2: pupuce32190 (1680)
+Seat 3: Jakoncey (3405)
+Seat 4: SATELITE4300 (4580)
+Seat 5: Stinson21 (3620)
+Seat 6: TheDrinox (10735)
+Seat 7: KenshiNfr (5720)
+Seat 8: Ox6gen (3110)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+pupuce32190 posts ante 15
+Jakoncey posts ante 15
+SATELITE4300 posts ante 15
+Stinson21 posts ante 15
+TheDrinox posts ante 15
+KenshiNfr posts ante 15
+Ox6gen posts ante 15
+manggy94 posts small blind 75
+pupuce32190 posts big blind 150
+Dealt to manggy94 [3d Ah]
+*** PRE-FLOP *** 
+Jakoncey calls 150
+SATELITE4300 folds
+Stinson21 folds
+TheDrinox folds
+KenshiNfr folds
+Ox6gen calls 150
+manggy94 calls 75
+pupuce32190 checks
+*** FLOP *** [Ks 4s 4d]
+manggy94 bets 150
+pupuce32190 folds
+Jakoncey calls 150
+Ox6gen calls 150
+*** TURN *** [Ks 4s 4d][7c]
+manggy94 checks
+Jakoncey bets 825
+Ox6gen calls 825
+manggy94 folds
+*** RIVER *** [Ks 4s 4d 7c][7s]
+Jakoncey bets 2265 and is all-in
+Ox6gen calls 1970 and is all-in
+*** SHOW DOWN ***
+Ox6gen shows [8s 5s] (Flush King high)
+Jakoncey shows [6h 4c] (Full of 4 and 7)
+Jakoncey collected 7055 from pot
+*** SUMMARY ***
+Total pot 7055 | No rake
+Board: [Ks 4s 4d 7c 7s]
+Seat 3: Jakoncey showed [6h 4c] and won 7055 with Full of 4 and 7
+Seat 8: Ox6gen (button) showed [8s 5s] and lost with Flush King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #692296101880922187-14-1466592743 - Holdem no limit (15/75/150) - 2016/06/22 10:52:23 UTC
+Table: 'Freeroll(161187747)#074' 8-max (real money) Seat #1 is the button
+Seat 1: manggy94 (2555)
+Seat 2: pupuce32190 (1515)
+Seat 3: Jakoncey (7055)
+Seat 4: SATELITE4300 (4565)
+Seat 5: Stinson21 (3605)
+Seat 6: TheDrinox (10720)
+Seat 7: KenshiNfr (5705)
+*** ANTE/BLINDS ***
+pupuce32190 posts ante 15
+Jakoncey posts ante 15
+manggy94 posts ante 15
+SATELITE4300 posts ante 15
+Stinson21 posts ante 15
+TheDrinox posts ante 15
+KenshiNfr posts ante 15
+pupuce32190 posts small blind 75
+Jakoncey posts big blind 150
+Dealt to manggy94 [5c 5d]
+*** PRE-FLOP *** 
+SATELITE4300 calls 150
+Stinson21 calls 150
+TheDrinox folds
+KenshiNfr folds
+manggy94 raises 2390 to 2540 and is all-in
+pupuce32190 calls 1425 and is all-in
+Jakoncey calls 2390
+SATELITE4300 raises 2010 to 4550 and is all-in
+Stinson21 calls 3440 and is all-in
+Jakoncey calls 2010
+*** FLOP *** [Ac 3h Qs]
+*** TURN *** [Ac 3h Qs][6c]
+*** RIVER *** [Ac 3h Qs 6c][9s]
+*** SHOW DOWN ***
+manggy94 shows [5c 5d] (One pair : 5)
+pupuce32190 shows [Ad 4s] (One pair : Aces)
+Jakoncey shows [Js 5h] (High card : Ace)
+Stinson21 shows [Jd Kh] (High card : Ace)
+SATELITE4300 shows [8h As] (One pair : Aces)
+SATELITE4300 collected 16835 from pot
+*** SUMMARY ***
+Total pot 16835 | No rake
+Board: [Ac 3h Qs 6c 9s]
+Seat 1: manggy94 (button) showed [5c 5d] and lost with One pair : 5
+Seat 2: pupuce32190 (small blind) showed [Ad 4s] and lost with One pair : Aces
+Seat 3: Jakoncey (big blind) showed [Js 5h] and lost with High card : Ace
+Seat 4: SATELITE4300 showed [8h As] and won 16835 with One pair : Aces
+Seat 5: Stinson21 showed [Jd Kh] and lost with High card : Ace
+
+

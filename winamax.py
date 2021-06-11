@@ -114,6 +114,8 @@ class WinamaxHandHistory:
         for player in self.table.players:
             if player_name==player.name:
                 self.table.bet(player, bb)
+                player.position = Position('BB')
+        self.table.distribute_positions()
                 #print("%s pose  %s en tant que BB" %(player.name, bb))
 
     def parse_hero(self, hero_txt):

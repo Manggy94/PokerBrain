@@ -1,0 +1,30 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #600922884566679651-2-1450729183 - Holdem no limit (150/300) - 2015/12/21 20:19:43 UTC
+Table: 'MiniRoll(139913262)#098' 6-max (real money) Seat #5 is the button
+Seat 1: JaysonBurne (10000)
+Seat 2: leregicide (20000)
+Seat 3: Vinsso93 (10000)
+Seat 4: oursonx (10000)
+Seat 6: manggy94 (10000)
+*** ANTE/BLINDS ***
+leregicide posts small blind 150
+Vinsso93 posts big blind 300
+Dealt to manggy94 [Kc 4d]
+*** PRE-FLOP *** 
+oursonx folds
+manggy94 raises 9700 to 10000 and is all-in
+leregicide calls 9850
+Vinsso93 folds
+*** FLOP *** [2h Kd 6h]
+*** TURN *** [2h Kd 6h][Qd]
+*** RIVER *** [2h Kd 6h Qd][8s]
+*** SHOW DOWN ***
+manggy94 shows [Kc 4d] (One pair : Kings)
+leregicide shows [Ad Ah] (One pair : Aces)
+leregicide collected 20300 from pot
+*** SUMMARY ***
+Total pot 20300 | No rake
+Board: [2h Kd 6h Qd 8s]
+Seat 2: leregicide (small blind) showed [Ad Ah] and won 20300 with One pair : Aces
+Seat 6: manggy94 showed [Kc 4d] and lost with One pair : Kings
+
+

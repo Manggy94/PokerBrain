@@ -1,0 +1,101 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #1743646161127866897-2-1606147322 - Holdem no limit (12/50/100) - 2020/11/23 16:02:02 UTC
+Table: 'Freeroll(405974258)#0528' 8-max (real money) Seat #1 is the button
+Seat 1: Wamblette (19938)
+Seat 2: jesus3lopzz (19888)
+Seat 3: Bombay_sz (19988)
+Seat 4: Yoyoyara (19988)
+Seat 5: Josekahg (19888)
+Seat 6: manggy94 (20000)
+Seat 7: emorejjen87 (20000)
+Seat 8: Micklf (60310)
+*** ANTE/BLINDS ***
+jesus3lopzz posts ante 12
+Bombay_sz posts ante 12
+Wamblette posts ante 12
+Yoyoyara posts ante 12
+Josekahg posts ante 12
+manggy94 posts ante 12
+emorejjen87 posts ante 12
+Micklf posts ante 12
+jesus3lopzz posts small blind 50
+Bombay_sz posts big blind 100
+Dealt to manggy94 [Tc 8h]
+*** PRE-FLOP *** 
+Yoyoyara raises 100 to 200
+Josekahg calls 200
+manggy94 calls 200
+emorejjen87 folds
+Micklf folds
+Wamblette calls 200
+jesus3lopzz raises 600 to 800
+Bombay_sz calls 700
+Yoyoyara calls 600
+Josekahg raises 19076 to 19876 and is all-in
+manggy94 folds
+Wamblette folds
+jesus3lopzz calls 19076 and is all-in
+Bombay_sz calls 19076
+Yoyoyara folds
+*** FLOP *** [Jh 2s Th]
+*** TURN *** [Jh 2s Th][Jc]
+*** RIVER *** [Jh 2s Th Jc][5s]
+*** SHOW DOWN ***
+Bombay_sz shows [Ac 6c] (One pair : Jacks)
+Josekahg shows [9c Kd] (One pair : Jacks)
+jesus3lopzz shows [Qc Ad] (One pair : Jacks)
+jesus3lopzz collected 60924 from pot
+*** SUMMARY ***
+Total pot 60924 | No rake
+Board: [Jh 2s Th Jc 5s]
+Seat 2: jesus3lopzz (small blind) showed [Qc Ad] and won 60924 with One pair : Jacks
+Seat 3: Bombay_sz (big blind) showed [Ac 6c] and lost with One pair : Jacks
+Seat 5: Josekahg showed [9c Kd] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1743646161127866897-3-1606147394 - Holdem no limit (14/60/120) - 2020/11/23 16:03:14 UTC
+Table: 'Freeroll(405974258)#0528' 8-max (real money) Seat #2 is the button
+Seat 1: Wamblette (19726)
+Seat 2: jesus3lopzz (60924)
+Seat 3: Bombay_sz (100)
+Seat 4: Yoyoyara (19176)
+Seat 5: Diego_29 (20000)
+Seat 6: manggy94 (19788)
+Seat 7: emorejjen87 (19988)
+Seat 8: Micklf (60298)
+*** ANTE/BLINDS ***
+Bombay_sz posts ante 14
+Yoyoyara posts ante 14
+Wamblette posts ante 14
+jesus3lopzz posts ante 14
+Diego_29 posts ante 14
+manggy94 posts ante 14
+emorejjen87 posts ante 14
+Micklf posts ante 14
+Bombay_sz posts small blind 60
+Yoyoyara posts big blind 120
+Dealt to manggy94 [Ks 9s]
+*** PRE-FLOP *** 
+Diego_29 raises 19866 to 19986 and is all-in
+manggy94 calls 19774 and is all-in
+emorejjen87 folds
+Micklf folds
+Wamblette folds
+jesus3lopzz folds
+Bombay_sz calls 26 and is all-in
+Yoyoyara folds
+*** FLOP *** [Tc Ad Qd]
+*** TURN *** [Tc Ad Qd][Ah]
+*** RIVER *** [Tc Ad Qd Ah][Kc]
+*** SHOW DOWN ***
+Bombay_sz shows [Jh 4d] (Straight Ace high)
+manggy94 shows [Ks 9s] (Two pairs : Aces and Kings)
+Diego_29 shows [Ac Qh] (Full of Aces and Queens)
+Diego_29 collected 40078 from pot
+*** SUMMARY ***
+Total pot 40078 | No rake
+Board: [Tc Ad Qd Ah Kc]
+Seat 3: Bombay_sz (small blind) showed [Jh 4d] and lost with Straight Ace high
+Seat 5: Diego_29 showed [Ac Qh] and won 40078 with Full of Aces and Queens
+Seat 6: manggy94 showed [Ks 9s] and lost with Two pairs : Aces and Kings
+
+

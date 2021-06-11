@@ -1,0 +1,945 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level:  - HandId: #853652100431740962-2-1497873635 - Holdem no limit (15/75/150) - 2017/06/19 12:00:35 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #1 is the button
+Seat 1: l_ancien78 (9910)
+Seat 2: BenLeff (10000)
+Seat 3: GloryA_Hole (10105)
+Seat 5: manggy94 (10000)
+Seat 6: ClashYin (9985)
+*** ANTE/BLINDS ***
+GloryA_Hole posts ante 15
+manggy94 posts ante 15
+l_ancien78 posts ante 15
+ClashYin posts ante 15
+GloryA_Hole posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [As 4c]
+*** PRE-FLOP *** 
+ClashYin calls 150
+l_ancien78 calls 150
+GloryA_Hole calls 75
+manggy94 checks
+*** FLOP *** [Ac 2c Jc]
+GloryA_Hole checks
+manggy94 checks
+ClashYin checks
+l_ancien78 checks
+*** TURN *** [Ac 2c Jc][Kd]
+GloryA_Hole checks
+manggy94 checks
+ClashYin checks
+l_ancien78 bets 375
+GloryA_Hole folds
+manggy94 calls 375
+ClashYin folds
+*** RIVER *** [Ac 2c Jc Kd][Jh]
+manggy94 checks
+l_ancien78 checks
+*** SHOW DOWN ***
+l_ancien78 shows [Kh 9c] (Two pairs : Kings and Jacks)
+manggy94 shows [As 4c] (Two pairs : Aces and Jacks)
+manggy94 collected 1410 from pot
+*** SUMMARY ***
+Total pot 1410 | No rake
+Board: [Ac 2c Jc Kd Jh]
+Seat 1: l_ancien78 (button) showed [Kh 9c] and lost with Two pairs : Kings and Jacks
+Seat 5: manggy94 (big blind) showed [As 4c] and won 1410 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level:  - HandId: #853652100431740962-3-1497873772 - Holdem no limit (15/75/150) - 2017/06/19 12:02:52 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #3 is the button
+Seat 1: l_ancien78 (9370)
+Seat 2: BenLeff (10000)
+Seat 3: GloryA_Hole (9940)
+Seat 4: LadyAvA (10000)
+Seat 5: manggy94 (10870)
+Seat 6: ClashYin (9820)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+ClashYin posts ante 15
+l_ancien78 posts ante 15
+BenLeff posts ante 15
+GloryA_Hole posts ante 15
+manggy94 posts small blind 75
+ClashYin posts big blind 150
+Dealt to manggy94 [2h Kc]
+*** PRE-FLOP *** 
+l_ancien78 raises 300 to 450
+BenLeff folds
+GloryA_Hole folds
+manggy94 folds
+ClashYin folds
+l_ancien78 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Seat 1: l_ancien78 won 750
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level:  - HandId: #853652100431740962-4-1497873823 - Holdem no limit (15/75/150) - 2017/06/19 12:03:43 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #5 is the button
+Seat 1: l_ancien78 (9655)
+Seat 2: BenLeff (9985)
+Seat 3: GloryA_Hole (9925)
+Seat 4: LadyAvA (10000)
+Seat 5: manggy94 (10780)
+Seat 6: ClashYin (9655)
+*** ANTE/BLINDS ***
+ClashYin posts ante 15
+l_ancien78 posts ante 15
+BenLeff posts ante 15
+GloryA_Hole posts ante 15
+LadyAvA posts ante 15
+manggy94 posts ante 15
+ClashYin posts small blind 75
+l_ancien78 posts big blind 150
+Dealt to manggy94 [3h Ah]
+*** PRE-FLOP *** 
+BenLeff folds
+GloryA_Hole raises 225 to 375
+LadyAvA folds
+manggy94 calls 375
+ClashYin folds
+l_ancien78 calls 225
+*** FLOP *** [Th 3d 9s]
+l_ancien78 checks
+GloryA_Hole bets 450
+manggy94 folds
+l_ancien78 calls 450
+*** TURN *** [Th 3d 9s][7c]
+l_ancien78 checks
+GloryA_Hole checks
+*** RIVER *** [Th 3d 9s 7c][5d]
+l_ancien78 bets 1245
+GloryA_Hole folds
+l_ancien78 collected 3435 from pot
+*** SUMMARY ***
+Total pot 3435 | No rake
+Board: [Th 3d 9s 7c 5d]
+Seat 1: l_ancien78 (big blind) won 3435
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level:  - HandId: #853652100431740962-5-1497873933 - Holdem no limit (15/75/150) - 2017/06/19 12:05:33 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #6 is the button
+Seat 1: l_ancien78 (11005)
+Seat 2: BenLeff (9970)
+Seat 3: GloryA_Hole (9085)
+Seat 4: LadyAvA (9985)
+Seat 5: manggy94 (10390)
+Seat 6: ClashYin (9565)
+*** ANTE/BLINDS ***
+l_ancien78 posts ante 15
+BenLeff posts ante 15
+GloryA_Hole posts ante 15
+LadyAvA posts ante 15
+manggy94 posts ante 15
+ClashYin posts ante 15
+l_ancien78 posts small blind 75
+BenLeff posts big blind 150
+Dealt to manggy94 [Kh Tc]
+*** PRE-FLOP *** 
+GloryA_Hole folds
+LadyAvA folds
+manggy94 calls 150
+ClashYin folds
+l_ancien78 folds
+BenLeff checks
+*** FLOP *** [6d Kc 3h]
+BenLeff checks
+manggy94 checks
+*** TURN *** [6d Kc 3h][4h]
+BenLeff checks
+manggy94 bets 233
+BenLeff calls 233
+*** RIVER *** [6d Kc 3h 4h][Kd]
+BenLeff checks
+manggy94 bets 466
+BenLeff folds
+manggy94 collected 1397 from pot
+*** SUMMARY ***
+Total pot 1397 | No rake
+Board: [6d Kc 3h 4h Kd]
+Seat 5: manggy94 won 1397
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #853652100431740962-6-1497874003 - Holdem no limit (20/100/200) - 2017/06/19 12:06:43 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #1 is the button
+Seat 1: l_ancien78 (10915)
+Seat 2: BenLeff (9572)
+Seat 3: GloryA_Hole (9070)
+Seat 4: LadyAvA (9970)
+Seat 5: manggy94 (10923)
+Seat 6: ClashYin (9550)
+*** ANTE/BLINDS ***
+BenLeff posts ante 20
+GloryA_Hole posts ante 20
+l_ancien78 posts ante 20
+LadyAvA posts ante 20
+manggy94 posts ante 20
+ClashYin posts ante 20
+BenLeff posts small blind 100
+GloryA_Hole posts big blind 200
+Dealt to manggy94 [Ad 6s]
+*** PRE-FLOP *** 
+LadyAvA raises 200 to 400
+manggy94 folds
+ClashYin calls 400
+l_ancien78 folds
+BenLeff folds
+GloryA_Hole folds
+*** FLOP *** [8s Js 4h]
+LadyAvA bets 610
+ClashYin calls 610
+*** TURN *** [8s Js 4h][Jh]
+LadyAvA bets 1220
+ClashYin calls 1220
+*** RIVER *** [8s Js 4h Jh][Ts]
+LadyAvA checks
+ClashYin checks
+*** SHOW DOWN ***
+LadyAvA shows [Td As] (Two pairs : Jacks and Tens)
+ClashYin shows [4s 4d] (Full of 4 and Jacks)
+ClashYin collected 4880 from pot
+*** SUMMARY ***
+Total pot 4880 | No rake
+Board: [8s Js 4h Jh Ts]
+Seat 4: LadyAvA showed [Td As] and lost with Two pairs : Jacks and Tens
+Seat 6: ClashYin showed [4s 4d] and won 4880 with Full of 4 and Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #853652100431740962-7-1497874081 - Holdem no limit (20/100/200) - 2017/06/19 12:08:01 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #2 is the button
+Seat 1: l_ancien78 (10895)
+Seat 2: BenLeff (9452)
+Seat 3: GloryA_Hole (8850)
+Seat 4: LadyAvA (7720)
+Seat 5: manggy94 (10903)
+Seat 6: ClashYin (12180)
+*** ANTE/BLINDS ***
+GloryA_Hole posts ante 20
+LadyAvA posts ante 20
+l_ancien78 posts ante 20
+BenLeff posts ante 20
+manggy94 posts ante 20
+ClashYin posts ante 20
+GloryA_Hole posts small blind 100
+LadyAvA posts big blind 200
+Dealt to manggy94 [Tc Td]
+*** PRE-FLOP *** 
+manggy94 calls 200
+ClashYin calls 200
+l_ancien78 folds
+BenLeff folds
+GloryA_Hole raises 800 to 1000
+LadyAvA folds
+manggy94 raises 2000 to 3000
+ClashYin calls 2800
+GloryA_Hole folds
+*** FLOP *** [9h 4s 8s]
+manggy94 bets 3660
+ClashYin folds
+manggy94 collected 10980 from pot
+*** SUMMARY ***
+Total pot 10980 | No rake
+Board: [9h 4s 8s]
+Seat 5: manggy94 won 10980
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #853652100431740962-8-1497874155 - Holdem no limit (20/100/200) - 2017/06/19 12:09:15 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #3 is the button
+Seat 1: l_ancien78 (10875)
+Seat 2: BenLeff (9432)
+Seat 3: GloryA_Hole (7830)
+Seat 4: LadyAvA (7500)
+Seat 5: manggy94 (15203)
+Seat 6: ClashYin (9160)
+*** ANTE/BLINDS ***
+LadyAvA posts ante 20
+manggy94 posts ante 20
+l_ancien78 posts ante 20
+BenLeff posts ante 20
+GloryA_Hole posts ante 20
+ClashYin posts ante 20
+LadyAvA posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [5d 5c]
+*** PRE-FLOP *** 
+ClashYin folds
+l_ancien78 raises 400 to 600
+BenLeff folds
+GloryA_Hole folds
+LadyAvA folds
+manggy94 calls 400
+*** FLOP *** [2d Jd As]
+manggy94 checks
+l_ancien78 bets 600
+manggy94 calls 600
+*** TURN *** [2d Jd As][7c]
+manggy94 checks
+l_ancien78 bets 1647
+manggy94 folds
+l_ancien78 collected 4267 from pot
+*** SUMMARY ***
+Total pot 4267 | No rake
+Board: [2d Jd As 7c]
+Seat 1: l_ancien78 won 4267
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #853652100431740962-9-1497874202 - Holdem no limit (20/100/200) - 2017/06/19 12:10:02 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #4 is the button
+Seat 1: l_ancien78 (12275)
+Seat 2: BenLeff (9412)
+Seat 3: GloryA_Hole (7810)
+Seat 4: LadyAvA (7380)
+Seat 5: manggy94 (13983)
+Seat 6: ClashYin (9140)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+ClashYin posts ante 20
+l_ancien78 posts ante 20
+BenLeff posts ante 20
+GloryA_Hole posts ante 20
+LadyAvA posts ante 20
+manggy94 posts small blind 100
+ClashYin posts big blind 200
+Dealt to manggy94 [4c 6d]
+*** PRE-FLOP *** 
+l_ancien78 folds
+BenLeff folds
+GloryA_Hole folds
+LadyAvA raises 400 to 600
+manggy94 folds
+ClashYin folds
+LadyAvA collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Seat 4: LadyAvA (button) won 1020
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #853652100431740962-10-1497874232 - Holdem no limit (20/100/200) - 2017/06/19 12:10:32 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #5 is the button
+Seat 1: l_ancien78 (12255)
+Seat 2: BenLeff (9392)
+Seat 3: GloryA_Hole (7790)
+Seat 4: LadyAvA (7780)
+Seat 5: manggy94 (13863)
+Seat 6: ClashYin (8920)
+*** ANTE/BLINDS ***
+ClashYin posts ante 20
+l_ancien78 posts ante 20
+BenLeff posts ante 20
+GloryA_Hole posts ante 20
+LadyAvA posts ante 20
+manggy94 posts ante 20
+ClashYin posts small blind 100
+l_ancien78 posts big blind 200
+Dealt to manggy94 [Js Jc]
+*** PRE-FLOP *** 
+BenLeff folds
+GloryA_Hole folds
+LadyAvA folds
+manggy94 raises 200 to 400
+ClashYin calls 300
+l_ancien78 folds
+*** FLOP *** [4s 5h 9d]
+ClashYin checks
+manggy94 bets 560
+ClashYin folds
+manggy94 collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [4s 5h 9d]
+Seat 5: manggy94 (button) won 1680
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #853652100431740962-11-1497874330 - Holdem no limit (20/100/200) - 2017/06/19 12:12:10 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #6 is the button
+Seat 1: l_ancien78 (12035)
+Seat 2: BenLeff (9372)
+Seat 3: GloryA_Hole (7770)
+Seat 4: LadyAvA (7760)
+Seat 5: manggy94 (14563)
+Seat 6: ClashYin (8500)
+*** ANTE/BLINDS ***
+l_ancien78 posts ante 20
+BenLeff posts ante 20
+GloryA_Hole posts ante 20
+LadyAvA posts ante 20
+manggy94 posts ante 20
+ClashYin posts ante 20
+l_ancien78 posts small blind 100
+BenLeff posts big blind 200
+Dealt to manggy94 [5c 4c]
+*** PRE-FLOP *** 
+GloryA_Hole raises 240 to 440
+LadyAvA folds
+manggy94 calls 440
+ClashYin folds
+l_ancien78 folds
+BenLeff folds
+*** FLOP *** [As 7c 3s]
+GloryA_Hole bets 500
+manggy94 folds
+GloryA_Hole collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [As 7c 3s]
+Seat 3: GloryA_Hole won 1800
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #853652100431740962-12-1497874408 - Holdem no limit (20/100/200) - 2017/06/19 12:13:28 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #1 is the button
+Seat 1: l_ancien78 (11915)
+Seat 2: BenLeff (9152)
+Seat 3: GloryA_Hole (8610)
+Seat 4: LadyAvA (7740)
+Seat 5: manggy94 (14103)
+Seat 6: ClashYin (8480)
+*** ANTE/BLINDS ***
+BenLeff posts ante 20
+GloryA_Hole posts ante 20
+l_ancien78 posts ante 20
+LadyAvA posts ante 20
+manggy94 posts ante 20
+ClashYin posts ante 20
+BenLeff posts small blind 100
+GloryA_Hole posts big blind 200
+Dealt to manggy94 [8h Kc]
+*** PRE-FLOP *** 
+LadyAvA folds
+manggy94 folds
+ClashYin folds
+l_ancien78 raises 400 to 600
+BenLeff folds
+GloryA_Hole folds
+l_ancien78 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Seat 1: l_ancien78 (button) won 1020
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #853652100431740962-13-1497874487 - Holdem no limit (30/125/250) - 2017/06/19 12:14:47 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #2 is the button
+Seat 1: l_ancien78 (12315)
+Seat 2: BenLeff (9032)
+Seat 3: GloryA_Hole (8390)
+Seat 4: LadyAvA (7720)
+Seat 5: manggy94 (14083)
+Seat 6: ClashYin (8460)
+*** ANTE/BLINDS ***
+GloryA_Hole posts ante 30
+LadyAvA posts ante 30
+l_ancien78 posts ante 30
+BenLeff posts ante 30
+manggy94 posts ante 30
+ClashYin posts ante 30
+GloryA_Hole posts small blind 125
+LadyAvA posts big blind 250
+Dealt to manggy94 [6h Ks]
+*** PRE-FLOP *** 
+manggy94 folds
+ClashYin calls 250
+l_ancien78 calls 250
+BenLeff folds
+GloryA_Hole folds
+LadyAvA checks
+*** FLOP *** [6c Ah Kc]
+LadyAvA checks
+ClashYin checks
+l_ancien78 bets 500
+LadyAvA folds
+ClashYin folds
+l_ancien78 collected 1555 from pot
+*** SUMMARY ***
+Total pot 1555 | No rake
+Board: [6c Ah Kc]
+Seat 1: l_ancien78 won 1555
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #853652100431740962-14-1497874559 - Holdem no limit (30/125/250) - 2017/06/19 12:15:59 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #3 is the button
+Seat 1: l_ancien78 (13090)
+Seat 2: BenLeff (9002)
+Seat 3: GloryA_Hole (8235)
+Seat 4: LadyAvA (7440)
+Seat 5: manggy94 (14053)
+Seat 6: ClashYin (8180)
+*** ANTE/BLINDS ***
+LadyAvA posts ante 30
+manggy94 posts ante 30
+l_ancien78 posts ante 30
+BenLeff posts ante 30
+GloryA_Hole posts ante 30
+ClashYin posts ante 30
+LadyAvA posts small blind 125
+manggy94 posts big blind 250
+Dealt to manggy94 [6h 9d]
+*** PRE-FLOP *** 
+ClashYin folds
+l_ancien78 folds
+BenLeff folds
+GloryA_Hole raises 375 to 625
+LadyAvA folds
+manggy94 folds
+GloryA_Hole collected 1180 from pot
+*** SUMMARY ***
+Total pot 1180 | No rake
+Seat 3: GloryA_Hole (button) won 1180
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #853652100431740962-15-1497874686 - Holdem no limit (30/125/250) - 2017/06/19 12:18:06 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #4 is the button
+Seat 1: l_ancien78 (13060)
+Seat 2: BenLeff (8972)
+Seat 3: GloryA_Hole (8760)
+Seat 4: LadyAvA (7285)
+Seat 5: manggy94 (13773)
+Seat 6: ClashYin (8150)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+ClashYin posts ante 30
+l_ancien78 posts ante 30
+BenLeff posts ante 30
+GloryA_Hole posts ante 30
+LadyAvA posts ante 30
+manggy94 posts small blind 125
+ClashYin posts big blind 250
+Dealt to manggy94 [5s 9c]
+*** PRE-FLOP *** 
+l_ancien78 raises 500 to 750
+BenLeff folds
+GloryA_Hole folds
+LadyAvA folds
+manggy94 folds
+ClashYin calls 500
+*** FLOP *** [9h Ah 5c]
+ClashYin checks
+l_ancien78 bets 750
+ClashYin calls 750
+*** TURN *** [9h Ah 5c][7h]
+ClashYin checks
+l_ancien78 checks
+*** RIVER *** [9h Ah 5c 7h][4s]
+ClashYin bets 3305
+l_ancien78 folds
+ClashYin collected 6610 from pot
+*** SUMMARY ***
+Total pot 6610 | No rake
+Board: [9h Ah 5c 7h 4s]
+Seat 6: ClashYin (big blind) won 6610
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #853652100431740962-16-1497874751 - Holdem no limit (30/125/250) - 2017/06/19 12:19:11 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #5 is the button
+Seat 1: l_ancien78 (11530)
+Seat 2: BenLeff (8942)
+Seat 3: GloryA_Hole (8730)
+Seat 4: LadyAvA (7255)
+Seat 5: manggy94 (13618)
+Seat 6: ClashYin (9925)
+*** ANTE/BLINDS ***
+ClashYin posts ante 30
+l_ancien78 posts ante 30
+BenLeff posts ante 30
+GloryA_Hole posts ante 30
+LadyAvA posts ante 30
+manggy94 posts ante 30
+ClashYin posts small blind 125
+l_ancien78 posts big blind 250
+Dealt to manggy94 [3d Qs]
+*** PRE-FLOP *** 
+BenLeff folds
+GloryA_Hole folds
+LadyAvA folds
+manggy94 folds
+ClashYin calls 125
+l_ancien78 raises 750 to 1000
+ClashYin folds
+l_ancien78 collected 1430 from pot
+*** SUMMARY ***
+Total pot 1430 | No rake
+Seat 1: l_ancien78 (big blind) won 1430
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #853652100431740962-17-1497874802 - Holdem no limit (30/125/250) - 2017/06/19 12:20:02 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #6 is the button
+Seat 1: l_ancien78 (11930)
+Seat 2: BenLeff (8912)
+Seat 3: GloryA_Hole (8700)
+Seat 4: LadyAvA (7225)
+Seat 5: manggy94 (13588)
+Seat 6: ClashYin (9645)
+*** ANTE/BLINDS ***
+l_ancien78 posts ante 30
+BenLeff posts ante 30
+GloryA_Hole posts ante 30
+LadyAvA posts ante 30
+manggy94 posts ante 30
+ClashYin posts ante 30
+l_ancien78 posts small blind 125
+BenLeff posts big blind 250
+Dealt to manggy94 [Qs 9s]
+*** PRE-FLOP *** 
+GloryA_Hole folds
+LadyAvA raises 500 to 750
+manggy94 calls 750
+ClashYin folds
+l_ancien78 folds
+BenLeff calls 500
+*** FLOP *** [Ac Kd Ts]
+BenLeff checks
+LadyAvA bets 1278
+manggy94 folds
+BenLeff calls 1278
+*** TURN *** [Ac Kd Ts][8s]
+BenLeff checks
+LadyAvA bets 5167 and is all-in
+BenLeff calls 5167
+*** RIVER *** [Ac Kd Ts 8s][7s]
+*** SHOW DOWN ***
+LadyAvA shows [Ah Qh] (One pair : Aces)
+BenLeff shows [Ad Kc] (Two pairs : Aces and Kings)
+BenLeff collected 15445 from pot
+*** SUMMARY ***
+Total pot 15445 | No rake
+Board: [Ac Kd Ts 8s 7s]
+Seat 2: BenLeff (big blind) showed [Ad Kc] and won 15445 with Two pairs : Aces and Kings
+Seat 4: LadyAvA showed [Ah Qh] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #853652100431740962-18-1497874896 - Holdem no limit (30/125/250) - 2017/06/19 12:21:36 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #1 is the button
+Seat 1: l_ancien78 (11775)
+Seat 2: BenLeff (17132)
+Seat 3: GloryA_Hole (8670)
+Seat 5: manggy94 (12808)
+Seat 6: ClashYin (9615)
+*** ANTE/BLINDS ***
+BenLeff posts ante 30
+GloryA_Hole posts ante 30
+l_ancien78 posts ante 30
+manggy94 posts ante 30
+ClashYin posts ante 30
+BenLeff posts small blind 125
+GloryA_Hole posts big blind 250
+Dealt to manggy94 [3s 7h]
+*** PRE-FLOP *** 
+manggy94 folds
+ClashYin raises 250 to 500
+l_ancien78 calls 500
+BenLeff folds
+GloryA_Hole folds
+*** FLOP *** [As 7d 4s]
+ClashYin bets 763
+l_ancien78 calls 763
+*** TURN *** [As 7d 4s][3c]
+ClashYin bets 875
+l_ancien78 raises 2026 to 2901
+ClashYin folds
+l_ancien78 collected 6827 from pot
+*** SUMMARY ***
+Total pot 6827 | No rake
+Board: [As 7d 4s 3c]
+Seat 1: l_ancien78 (button) won 6827
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #853652100431740962-19-1497874991 - Holdem no limit (40/150/300) - 2017/06/19 12:23:11 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #2 is the button
+Seat 1: l_ancien78 (14408)
+Seat 2: BenLeff (16977)
+Seat 3: GloryA_Hole (8390)
+Seat 4: blackangels3 (10000)
+Seat 5: manggy94 (12778)
+Seat 6: ClashYin (7447)
+*** ANTE/BLINDS ***
+GloryA_Hole posts ante 40
+blackangels3 posts ante 40
+l_ancien78 posts ante 40
+BenLeff posts ante 40
+manggy94 posts ante 40
+ClashYin posts ante 40
+GloryA_Hole posts small blind 150
+blackangels3 posts big blind 300
+Dealt to manggy94 [4h Ac]
+*** PRE-FLOP *** 
+manggy94 calls 300
+ClashYin folds
+l_ancien78 raises 900 to 1200
+BenLeff folds
+GloryA_Hole folds
+blackangels3 folds
+manggy94 folds
+l_ancien78 collected 2190 from pot
+*** SUMMARY ***
+Total pot 2190 | No rake
+Seat 1: l_ancien78 won 2190
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #853652100431740962-20-1497875085 - Holdem no limit (40/150/300) - 2017/06/19 12:24:45 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #3 is the button
+Seat 1: l_ancien78 (15358)
+Seat 2: BenLeff (16937)
+Seat 3: GloryA_Hole (8200)
+Seat 4: blackangels3 (9660)
+Seat 5: manggy94 (12438)
+Seat 6: ClashYin (7407)
+*** ANTE/BLINDS ***
+blackangels3 posts ante 40
+manggy94 posts ante 40
+l_ancien78 posts ante 40
+BenLeff posts ante 40
+GloryA_Hole posts ante 40
+ClashYin posts ante 40
+blackangels3 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Kd 8d]
+*** PRE-FLOP *** 
+ClashYin folds
+l_ancien78 folds
+BenLeff folds
+GloryA_Hole folds
+blackangels3 raises 450 to 750
+manggy94 calls 450
+*** FLOP *** [Tc 3d 8c]
+blackangels3 bets 900
+manggy94 calls 900
+*** TURN *** [Tc 3d 8c][8h]
+blackangels3 bets 3540
+manggy94 raises 7208 to 10748 and is all-in
+blackangels3 folds
+manggy94 collected 17828 from pot
+*** SUMMARY ***
+Total pot 17828 | No rake
+Board: [Tc 3d 8c 8h]
+Seat 5: manggy94 (big blind) won 17828
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #853652100431740962-21-1497875150 - Holdem no limit (40/150/300) - 2017/06/19 12:25:50 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #4 is the button
+Seat 1: l_ancien78 (15318)
+Seat 2: BenLeff (16897)
+Seat 3: GloryA_Hole (8160)
+Seat 4: blackangels3 (4430)
+Seat 5: manggy94 (17828)
+Seat 6: ClashYin (7367)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+ClashYin posts ante 40
+l_ancien78 posts ante 40
+BenLeff posts ante 40
+GloryA_Hole posts ante 40
+blackangels3 posts ante 40
+manggy94 posts small blind 150
+ClashYin posts big blind 300
+Dealt to manggy94 [Jc 4d]
+*** PRE-FLOP *** 
+l_ancien78 folds
+BenLeff calls 300
+GloryA_Hole raises 750 to 1050
+blackangels3 calls 1050
+manggy94 folds
+ClashYin folds
+BenLeff folds
+*** FLOP *** [5c 7s 8s]
+GloryA_Hole bets 2100
+blackangels3 raises 1240 to 3340 and is all-in
+GloryA_Hole calls 1240
+*** TURN *** [5c 7s 8s][5s]
+*** RIVER *** [5c 7s 8s 5s][Th]
+*** SHOW DOWN ***
+blackangels3 shows [7d Jd] (Two pairs : 7 and 5)
+GloryA_Hole shows [9d 9c] (Two pairs : 9 and 5)
+GloryA_Hole collected 9770 from pot
+*** SUMMARY ***
+Total pot 9770 | No rake
+Board: [5c 7s 8s 5s Th]
+Seat 3: GloryA_Hole showed [9d 9c] and won 9770 with Two pairs : 9 and 5
+Seat 4: blackangels3 (button) showed [7d Jd] and lost with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #853652100431740962-22-1497875290 - Holdem no limit (40/150/300) - 2017/06/19 12:28:10 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #5 is the button
+Seat 1: l_ancien78 (15278)
+Seat 2: BenLeff (16557)
+Seat 3: GloryA_Hole (13500)
+Seat 5: manggy94 (17638)
+Seat 6: ClashYin (7027)
+*** ANTE/BLINDS ***
+ClashYin posts ante 40
+l_ancien78 posts ante 40
+BenLeff posts ante 40
+GloryA_Hole posts ante 40
+manggy94 posts ante 40
+ClashYin posts small blind 150
+l_ancien78 posts big blind 300
+Dealt to manggy94 [6c 7h]
+*** PRE-FLOP *** 
+BenLeff raises 300 to 600
+GloryA_Hole folds
+manggy94 folds
+ClashYin folds
+l_ancien78 folds
+BenLeff collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | No rake
+Seat 2: BenLeff won 1250
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #853652100431740962-23-1497875356 - Holdem no limit (40/150/300) - 2017/06/19 12:29:16 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #6 is the button
+Seat 1: l_ancien78 (14938)
+Seat 2: BenLeff (17167)
+Seat 3: GloryA_Hole (13460)
+Seat 5: manggy94 (17598)
+Seat 6: ClashYin (6837)
+*** ANTE/BLINDS ***
+l_ancien78 posts ante 40
+BenLeff posts ante 40
+GloryA_Hole posts ante 40
+manggy94 posts ante 40
+ClashYin posts ante 40
+l_ancien78 posts small blind 150
+BenLeff posts big blind 300
+Dealt to manggy94 [8d Tc]
+*** PRE-FLOP *** 
+GloryA_Hole folds
+manggy94 folds
+ClashYin raises 300 to 600
+l_ancien78 calls 450
+BenLeff folds
+*** FLOP *** [Kh Ah 3s]
+l_ancien78 checks
+ClashYin checks
+*** TURN *** [Kh Ah 3s][Ac]
+l_ancien78 checks
+ClashYin bets 1700
+l_ancien78 calls 1700
+*** RIVER *** [Kh Ah 3s Ac][6h]
+l_ancien78 checks
+ClashYin checks
+*** SHOW DOWN ***
+ClashYin shows [9d 5h] (One pair : Aces)
+l_ancien78 shows [4d Kd] (Two pairs : Aces and Kings)
+l_ancien78 collected 5100 from pot
+*** SUMMARY ***
+Total pot 5100 | No rake
+Board: [Kh Ah 3s Ac 6h]
+Seat 1: l_ancien78 (small blind) showed [4d Kd] and won 5100 with Two pairs : Aces and Kings
+Seat 6: ClashYin (button) showed [9d 5h] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #853652100431740962-24-1497875442 - Holdem no limit (50/200/400) - 2017/06/19 12:30:42 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #1 is the button
+Seat 1: l_ancien78 (17698)
+Seat 2: BenLeff (16827)
+Seat 3: GloryA_Hole (13420)
+Seat 4: HardCarry1 (28097)
+Seat 5: manggy94 (17558)
+Seat 6: ClashYin (4497)
+*** ANTE/BLINDS ***
+BenLeff posts ante 50
+GloryA_Hole posts ante 50
+l_ancien78 posts ante 50
+HardCarry1 posts ante 50
+manggy94 posts ante 50
+ClashYin posts ante 50
+BenLeff posts small blind 200
+GloryA_Hole posts big blind 400
+Dealt to manggy94 [4d 2s]
+*** PRE-FLOP *** 
+HardCarry1 folds
+manggy94 folds
+ClashYin folds
+l_ancien78 folds
+BenLeff calls 200
+GloryA_Hole raises 12970 to 13370 and is all-in
+BenLeff folds
+GloryA_Hole collected 14070 from pot
+*** SUMMARY ***
+Total pot 14070 | No rake
+Seat 3: GloryA_Hole (big blind) won 14070
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #853652100431740962-25-1497875484 - Holdem no limit (50/200/400) - 2017/06/19 12:31:24 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #2 is the button
+Seat 1: l_ancien78 (17648)
+Seat 2: BenLeff (16377)
+Seat 3: GloryA_Hole (14070)
+Seat 4: HardCarry1 (28047)
+Seat 5: manggy94 (17508)
+Seat 6: ClashYin (4447)
+*** ANTE/BLINDS ***
+GloryA_Hole posts ante 50
+HardCarry1 posts ante 50
+l_ancien78 posts ante 50
+BenLeff posts ante 50
+manggy94 posts ante 50
+ClashYin posts ante 50
+GloryA_Hole posts small blind 200
+HardCarry1 posts big blind 400
+Dealt to manggy94 [Ac 3c]
+*** PRE-FLOP *** 
+manggy94 calls 400
+ClashYin folds
+l_ancien78 folds
+BenLeff folds
+GloryA_Hole raises 1600 to 2000
+HardCarry1 folds
+manggy94 calls 1600
+*** FLOP *** [Tc 9s 9h]
+GloryA_Hole bets 2000
+manggy94 folds
+GloryA_Hole collected 6700 from pot
+*** SUMMARY ***
+Total pot 6700 | No rake
+Board: [Tc 9s 9h]
+Seat 3: GloryA_Hole (small blind) won 6700
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #853652100431740962-26-1497875576 - Holdem no limit (50/200/400) - 2017/06/19 12:32:56 UTC
+Table: 'Kill The Fish(198756368)#033' 6-max (real money) Seat #3 is the button
+Seat 1: l_ancien78 (17598)
+Seat 2: BenLeff (16327)
+Seat 3: GloryA_Hole (16720)
+Seat 4: HardCarry1 (27597)
+Seat 5: manggy94 (15458)
+Seat 6: ClashYin (4397)
+*** ANTE/BLINDS ***
+HardCarry1 posts ante 50
+manggy94 posts ante 50
+l_ancien78 posts ante 50
+BenLeff posts ante 50
+GloryA_Hole posts ante 50
+ClashYin posts ante 50
+HardCarry1 posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [Kh Qc]
+*** PRE-FLOP *** 
+ClashYin folds
+l_ancien78 folds
+BenLeff folds
+GloryA_Hole raises 480 to 880
+HardCarry1 folds
+manggy94 calls 480
+*** FLOP *** [7h 7c Td]
+manggy94 checks
+GloryA_Hole checks
+*** TURN *** [7h 7c Td][Kd]
+manggy94 checks
+GloryA_Hole bets 800
+manggy94 raises 800 to 1600
+GloryA_Hole raises 2000 to 3600
+manggy94 calls 2000
+*** RIVER *** [7h 7c Td Kd][9d]
+manggy94 checks
+GloryA_Hole bets 12190 and is all-in
+manggy94 calls 10928 and is all-in
+*** SHOW DOWN ***
+manggy94 shows [Kh Qc] (Two pairs : Kings and 7)
+GloryA_Hole shows [7s Ad] (Trips of 7)
+GloryA_Hole collected 32578 from pot
+*** SUMMARY ***
+Total pot 32578 | No rake
+Board: [7h 7c Td Kd 9d]
+Seat 3: GloryA_Hole (button) showed [7s Ad] and won 32578 with Trips of 7
+Seat 5: manggy94 (big blind) showed [Kh Qc] and lost with Two pairs : Kings and 7
+
+

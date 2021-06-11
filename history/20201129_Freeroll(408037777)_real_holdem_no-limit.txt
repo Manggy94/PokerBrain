@@ -1,0 +1,751 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #1752508907747541102-1-1606671032 - Holdem no limit (12/50/100) - 2020/11/29 17:30:32 UTC
+Table: 'Freeroll(408037777)#0109' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (20000)
+Seat 2: Benaab11 (20000)
+Seat 3: Murderone (20000)
+Seat 4: YounRoscan (20000)
+Seat 5: Fito6981 (20000)
+Seat 6: pippinchtazz (20000)
+*** ANTE/BLINDS ***
+Benaab11 posts ante 12
+Murderone posts ante 12
+manggy94 posts ante 12
+YounRoscan posts ante 12
+Fito6981 posts ante 12
+pippinchtazz posts ante 12
+Benaab11 posts small blind 50
+Murderone posts big blind 100
+Dealt to manggy94 [Ad 8s]
+*** PRE-FLOP *** 
+YounRoscan calls 100
+Fito6981 folds
+pippinchtazz folds
+manggy94 calls 100
+Benaab11 folds
+Murderone checks
+*** FLOP *** [9d 9s 2s]
+Murderone checks
+YounRoscan checks
+manggy94 bets 100
+Murderone folds
+YounRoscan calls 100
+*** TURN *** [9d 9s 2s][Kc]
+YounRoscan checks
+manggy94 bets 311
+YounRoscan calls 311
+*** RIVER *** [9d 9s 2s Kc][7s]
+YounRoscan checks
+manggy94 checks
+*** SHOW DOWN ***
+YounRoscan shows [Qh Th] (One pair : 9)
+manggy94 shows [Ad 8s] (One pair : 9)
+manggy94 collected 1244 from pot
+*** SUMMARY ***
+Total pot 1244 | No rake
+Board: [9d 9s 2s Kc 7s]
+Seat 1: manggy94 (button) showed [Ad 8s] and won 1244 with One pair : 9
+Seat 4: YounRoscan showed [Qh Th] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #1752508907747541102-2-1606671163 - Holdem no limit (12/50/100) - 2020/11/29 17:32:43 UTC
+Table: 'Freeroll(408037777)#0109' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (20721)
+Seat 2: Benaab11 (19938)
+Seat 3: Murderone (19888)
+Seat 4: YounRoscan (19477)
+Seat 5: Fito6981 (19988)
+Seat 6: pippinchtazz (19988)
+*** ANTE/BLINDS ***
+Murderone posts ante 12
+YounRoscan posts ante 12
+manggy94 posts ante 12
+Benaab11 posts ante 12
+Fito6981 posts ante 12
+pippinchtazz posts ante 12
+Murderone posts small blind 50
+YounRoscan posts big blind 100
+Dealt to manggy94 [6h Qs]
+*** PRE-FLOP *** 
+Fito6981 calls 100
+pippinchtazz calls 100
+manggy94 folds
+Benaab11 folds
+Murderone folds
+YounRoscan checks
+*** FLOP *** [Ac Js Jc]
+YounRoscan checks
+Fito6981 checks
+pippinchtazz checks
+*** TURN *** [Ac Js Jc][As]
+YounRoscan checks
+Fito6981 checks
+pippinchtazz checks
+*** RIVER *** [Ac Js Jc As][6c]
+YounRoscan checks
+Fito6981 bets 100
+pippinchtazz folds
+YounRoscan folds
+Fito6981 collected 522 from pot
+*** SUMMARY ***
+Total pot 522 | No rake
+Board: [Ac Js Jc As 6c]
+Seat 5: Fito6981 won 522
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1752508907747541102-3-1606671199 - Holdem no limit (14/60/120) - 2020/11/29 17:33:19 UTC
+Table: 'Freeroll(408037777)#0109' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (20709)
+Seat 2: Benaab11 (19926)
+Seat 3: Murderone (19826)
+Seat 4: YounRoscan (19365)
+Seat 5: Fito6981 (20298)
+Seat 6: pippinchtazz (19876)
+*** ANTE/BLINDS ***
+YounRoscan posts ante 14
+Fito6981 posts ante 14
+manggy94 posts ante 14
+Benaab11 posts ante 14
+Murderone posts ante 14
+pippinchtazz posts ante 14
+YounRoscan posts small blind 60
+Fito6981 posts big blind 120
+Dealt to manggy94 [7d 8s]
+*** PRE-FLOP *** 
+pippinchtazz folds
+manggy94 folds
+Benaab11 calls 120
+Murderone folds
+YounRoscan calls 60
+Fito6981 checks
+*** FLOP *** [9h Tc 9d]
+YounRoscan checks
+Fito6981 checks
+Benaab11 checks
+*** TURN *** [9h Tc 9d][Qh]
+YounRoscan checks
+Fito6981 checks
+Benaab11 bets 120
+YounRoscan calls 120
+Fito6981 calls 120
+*** RIVER *** [9h Tc 9d Qh][9c]
+YounRoscan checks
+Fito6981 checks
+Benaab11 bets 536
+YounRoscan calls 536
+Fito6981 folds
+*** SHOW DOWN ***
+YounRoscan shows [3h Kd] (Trips of 9)
+Benaab11 shows [9s As] (Quads of 9)
+Benaab11 collected 1876 from pot
+*** SUMMARY ***
+Total pot 1876 | No rake
+Board: [9h Tc 9d Qh 9c]
+Seat 2: Benaab11 showed [9s As] and won 1876 with Quads of 9
+Seat 4: YounRoscan (small blind) showed [3h Kd] and lost with Trips of 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1752508907747541102-4-1606671269 - Holdem no limit (14/60/120) - 2020/11/29 17:34:29 UTC
+Table: 'Freeroll(408037777)#0109' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (20695)
+Seat 2: Benaab11 (21012)
+Seat 3: Murderone (19812)
+Seat 4: YounRoscan (18575)
+Seat 5: Fito6981 (20044)
+Seat 6: pippinchtazz (19862)
+*** ANTE/BLINDS ***
+Fito6981 posts ante 14
+pippinchtazz posts ante 14
+manggy94 posts ante 14
+Benaab11 posts ante 14
+Murderone posts ante 14
+YounRoscan posts ante 14
+Fito6981 posts small blind 60
+pippinchtazz posts big blind 120
+Dealt to manggy94 [Qs Qd]
+*** PRE-FLOP *** 
+manggy94 raises 360 to 480
+Benaab11 calls 480
+Murderone folds
+YounRoscan calls 480
+Fito6981 folds
+pippinchtazz folds
+*** FLOP *** [8d 3s 7d]
+manggy94 bets 852
+Benaab11 calls 852
+YounRoscan folds
+*** TURN *** [8d 3s 7d][2d]
+manggy94 bets 1704
+Benaab11 calls 1704
+*** RIVER *** [8d 3s 7d 2d][9s]
+manggy94 bets 3408
+Benaab11 folds
+manggy94 collected 10224 from pot
+*** SUMMARY ***
+Total pot 10224 | No rake
+Board: [8d 3s 7d 2d 9s]
+Seat 1: manggy94 won 10224
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1752508907747541102-5-1606671334 - Holdem no limit (16/70/140) - 2020/11/29 17:35:34 UTC
+Table: 'Freeroll(408037777)#0109' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (24461)
+Seat 2: Benaab11 (17962)
+Seat 3: Murderone (19798)
+Seat 4: YounRoscan (18081)
+Seat 5: Fito6981 (19970)
+Seat 6: pippinchtazz (19728)
+*** ANTE/BLINDS ***
+pippinchtazz posts ante 16
+manggy94 posts ante 16
+Benaab11 posts ante 16
+Murderone posts ante 16
+YounRoscan posts ante 16
+Fito6981 posts ante 16
+pippinchtazz posts small blind 70
+manggy94 posts big blind 140
+Dealt to manggy94 [3c 4c]
+*** PRE-FLOP *** 
+Benaab11 folds
+Murderone folds
+YounRoscan calls 140
+Fito6981 calls 140
+pippinchtazz calls 70
+manggy94 checks
+*** FLOP *** [3h 7d 8d]
+pippinchtazz bets 700
+manggy94 folds
+YounRoscan calls 700
+Fito6981 folds
+*** TURN *** [3h 7d 8d][5s]
+pippinchtazz bets 2380
+YounRoscan calls 2380
+*** RIVER *** [3h 7d 8d 5s][Jh]
+pippinchtazz bets 16492 and is all-in
+YounRoscan calls 14845 and is all-in
+*** SHOW DOWN ***
+YounRoscan shows [Jd 6c] (One pair : Jacks)
+pippinchtazz shows [Td 6d] (High card : Jack)
+pippinchtazz collected 1647 from side pot 1
+YounRoscan collected 36506 from main pot
+*** SUMMARY ***
+Total pot 38153 | No rake
+Board: [3h 7d 8d 5s Jh]
+Seat 4: YounRoscan showed [Jd 6c] and won 36506 with One pair : Jacks
+Seat 6: pippinchtazz (small blind) showed [Td 6d] and won 1647 with High card : Jack
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1752508907747541102-6-1606671389 - Holdem no limit (16/70/140) - 2020/11/29 17:36:29 UTC
+Table: 'Freeroll(408037777)#0109' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (24305)
+Seat 2: Benaab11 (17946)
+Seat 3: Murderone (19782)
+Seat 4: YounRoscan (36506)
+Seat 5: Fito6981 (19814)
+Seat 6: pippinchtazz (1647)
+*** ANTE/BLINDS ***
+manggy94 posts ante 16
+Benaab11 posts ante 16
+Murderone posts ante 16
+YounRoscan posts ante 16
+Fito6981 posts ante 16
+pippinchtazz posts ante 16
+manggy94 posts small blind 70
+Benaab11 posts big blind 140
+Dealt to manggy94 [2h 8s]
+*** PRE-FLOP *** 
+Murderone folds
+YounRoscan calls 140
+Fito6981 calls 140
+pippinchtazz raises 1491 to 1631 and is all-in
+manggy94 folds
+Benaab11 calls 1491
+YounRoscan calls 1491
+Fito6981 calls 1491
+*** FLOP *** [5c Ah 4d]
+Benaab11 checks
+YounRoscan checks
+Fito6981 checks
+*** TURN *** [5c Ah 4d][Th]
+Benaab11 checks
+YounRoscan checks
+Fito6981 checks
+*** RIVER *** [5c Ah 4d Th][5d]
+Benaab11 checks
+YounRoscan checks
+Fito6981 bets 3345
+Benaab11 folds
+YounRoscan folds
+*** SHOW DOWN ***
+Fito6981 shows [6s 9h] (One pair : 5)
+pippinchtazz shows [Kh 9s] (One pair : 5)
+pippinchtazz collected 6690 from main pot
+Fito6981 collected 3345 from side pot 1
+*** SUMMARY ***
+Total pot 10035 | No rake
+Board: [5c Ah 4d Th 5d]
+Seat 5: Fito6981 showed [6s 9h] and won 3345 with One pair : 5
+Seat 6: pippinchtazz (button) showed [Kh 9s] and won 6690 with One pair : 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1752508907747541102-7-1606671442 - Holdem no limit (16/70/140) - 2020/11/29 17:37:22 UTC
+Table: 'Freeroll(408037777)#0109' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (24219)
+Seat 2: Benaab11 (16299)
+Seat 3: Murderone (19766)
+Seat 4: YounRoscan (34859)
+Seat 5: Fito6981 (18167)
+Seat 6: pippinchtazz (6690)
+*** ANTE/BLINDS ***
+Benaab11 posts ante 16
+Murderone posts ante 16
+manggy94 posts ante 16
+YounRoscan posts ante 16
+Fito6981 posts ante 16
+pippinchtazz posts ante 16
+Benaab11 posts small blind 70
+Murderone posts big blind 140
+Dealt to manggy94 [Qh 2d]
+*** PRE-FLOP *** 
+YounRoscan calls 140
+Fito6981 calls 140
+pippinchtazz raises 6534 to 6674 and is all-in
+manggy94 folds
+Benaab11 folds
+Murderone folds
+YounRoscan calls 6534
+Fito6981 calls 6534
+*** FLOP *** [Qs 4h 2h]
+YounRoscan checks
+Fito6981 checks
+*** TURN *** [Qs 4h 2h][Js]
+YounRoscan checks
+Fito6981 checks
+*** RIVER *** [Qs 4h 2h Js][Jh]
+YounRoscan checks
+Fito6981 checks
+*** SHOW DOWN ***
+YounRoscan shows [3h 3s] (Two pairs : Jacks and 3)
+pippinchtazz shows [5c Kc] (One pair : Jacks)
+Fito6981 shows [Ts Qc] (Two pairs : Queens and Jacks)
+Fito6981 collected 20328 from pot
+*** SUMMARY ***
+Total pot 20328 | No rake
+Board: [Qs 4h 2h Js Jh]
+Seat 4: YounRoscan showed [3h 3s] and lost with Two pairs : Jacks and 3
+Seat 5: Fito6981 showed [Ts Qc] and won 20328 with Two pairs : Queens and Jacks
+Seat 6: pippinchtazz showed [5c Kc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1752508907747541102-8-1606671499 - Holdem no limit (20/80/160) - 2020/11/29 17:38:19 UTC
+Table: 'Freeroll(408037777)#0109' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (24203)
+Seat 2: Benaab11 (16213)
+Seat 3: Murderone (19610)
+Seat 4: YounRoscan (28169)
+Seat 5: Fito6981 (31805)
+*** ANTE/BLINDS ***
+Murderone posts ante 20
+YounRoscan posts ante 20
+manggy94 posts ante 20
+Benaab11 posts ante 20
+Fito6981 posts ante 20
+Murderone posts small blind 80
+YounRoscan posts big blind 160
+Dealt to manggy94 [8d 6s]
+*** PRE-FLOP *** 
+Fito6981 folds
+manggy94 folds
+Benaab11 folds
+Murderone folds
+YounRoscan collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 4: YounRoscan (big blind) won 340
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1752508907747541102-9-1606671522 - Holdem no limit (20/80/160) - 2020/11/29 17:38:42 UTC
+Table: 'Freeroll(408037777)#0109' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (24183)
+Seat 2: Benaab11 (16193)
+Seat 3: Murderone (19510)
+Seat 4: YounRoscan (28329)
+Seat 5: Fito6981 (31785)
+Seat 6: Jacq62 (20000)
+*** ANTE/BLINDS ***
+YounRoscan posts ante 20
+Fito6981 posts ante 20
+manggy94 posts ante 20
+Benaab11 posts ante 20
+Murderone posts ante 20
+Jacq62 posts ante 20
+YounRoscan posts small blind 80
+Fito6981 posts big blind 160
+Dealt to manggy94 [9c Tc]
+*** PRE-FLOP *** 
+Jacq62 folds
+manggy94 raises 160 to 320
+Benaab11 calls 320
+Murderone folds
+YounRoscan calls 240
+Fito6981 folds
+*** FLOP *** [As 4d 6d]
+YounRoscan checks
+manggy94 checks
+Benaab11 bets 620
+YounRoscan folds
+manggy94 folds
+Benaab11 collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Board: [As 4d 6d]
+Seat 2: Benaab11 won 1860
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1752508907747541102-10-1606671556 - Holdem no limit (20/80/160) - 2020/11/29 17:39:16 UTC
+Table: 'Freeroll(408037777)#0109' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (23843)
+Seat 2: Benaab11 (17093)
+Seat 3: Murderone (19490)
+Seat 4: YounRoscan (27989)
+Seat 5: Fito6981 (31605)
+Seat 6: Jacq62 (19980)
+*** ANTE/BLINDS ***
+Fito6981 posts ante 20
+Jacq62 posts ante 20
+manggy94 posts ante 20
+Benaab11 posts ante 20
+Murderone posts ante 20
+YounRoscan posts ante 20
+Fito6981 posts small blind 80
+Jacq62 posts big blind 160
+Dealt to manggy94 [3h 2c]
+*** PRE-FLOP *** 
+manggy94 folds
+Benaab11 calls 160
+Murderone folds
+YounRoscan calls 160
+Fito6981 calls 80
+Jacq62 checks
+*** FLOP *** [Qd 2s Ac]
+Fito6981 checks
+Jacq62 checks
+Benaab11 checks
+YounRoscan checks
+*** TURN *** [Qd 2s Ac][Jh]
+Fito6981 checks
+Jacq62 checks
+Benaab11 checks
+YounRoscan checks
+*** RIVER *** [Qd 2s Ac Jh][3d]
+Fito6981 checks
+Jacq62 checks
+Benaab11 checks
+YounRoscan checks
+*** SHOW DOWN ***
+YounRoscan shows [6h Jc] (One pair : Jacks)
+Fito6981 shows [9h 5s] (High card : Ace)
+Jacq62 shows [Tc 7d] (High card : Ace)
+Benaab11 shows [Qh 9d] (One pair : Queens)
+Benaab11 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Board: [Qd 2s Ac Jh 3d]
+Seat 2: Benaab11 showed [Qh 9d] and won 760 with One pair : Queens
+Seat 4: YounRoscan (button) showed [6h Jc] and lost with One pair : Jacks
+Seat 5: Fito6981 (small blind) showed [9h 5s] and lost with High card : Ace
+Seat 6: Jacq62 (big blind) showed [Tc 7d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1752508907747541102-11-1606671620 - Holdem no limit (20/80/160) - 2020/11/29 17:40:20 UTC
+Table: 'Freeroll(408037777)#0109' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (23823)
+Seat 2: Benaab11 (17673)
+Seat 3: Murderone (19470)
+Seat 4: YounRoscan (27809)
+Seat 5: Fito6981 (31425)
+Seat 6: Jacq62 (19800)
+*** ANTE/BLINDS ***
+Jacq62 posts ante 20
+manggy94 posts ante 20
+Benaab11 posts ante 20
+Murderone posts ante 20
+YounRoscan posts ante 20
+Fito6981 posts ante 20
+Jacq62 posts small blind 80
+manggy94 posts big blind 160
+Dealt to manggy94 [2s Jc]
+*** PRE-FLOP *** 
+Benaab11 folds
+Murderone folds
+YounRoscan calls 160
+Fito6981 folds
+Jacq62 calls 80
+manggy94 checks
+*** FLOP *** [2c Th 5d]
+Jacq62 bets 3869
+manggy94 folds
+YounRoscan folds
+Jacq62 collected 4469 from pot
+*** SUMMARY ***
+Total pot 4469 | No rake
+Board: [2c Th 5d]
+Seat 6: Jacq62 (small blind) won 4469
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1752508907747541102-12-1606671654 - Holdem no limit (25/100/200) - 2020/11/29 17:40:54 UTC
+Table: 'Freeroll(408037777)#0109' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (23643)
+Seat 2: Benaab11 (17653)
+Seat 3: Murderone (19450)
+Seat 4: YounRoscan (27629)
+Seat 5: Fito6981 (31405)
+Seat 6: Jacq62 (20220)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+Benaab11 posts ante 25
+Murderone posts ante 25
+YounRoscan posts ante 25
+Fito6981 posts ante 25
+Jacq62 posts ante 25
+manggy94 posts small blind 100
+Benaab11 posts big blind 200
+Dealt to manggy94 [7d Ac]
+*** PRE-FLOP *** 
+Murderone calls 200
+YounRoscan calls 200
+Fito6981 calls 200
+Jacq62 folds
+manggy94 calls 100
+Benaab11 raises 200 to 400
+Murderone calls 200
+YounRoscan calls 200
+Fito6981 calls 200
+manggy94 calls 200
+*** FLOP *** [3d Tc 3h]
+manggy94 checks
+Benaab11 checks
+Murderone checks
+YounRoscan checks
+Fito6981 checks
+*** TURN *** [3d Tc 3h][Jh]
+manggy94 checks
+Benaab11 bets 2150
+Murderone calls 2150
+YounRoscan calls 2150
+Fito6981 folds
+manggy94 folds
+*** RIVER *** [3d Tc 3h Jh][7s]
+Benaab11 bets 8600
+Murderone calls 8600
+YounRoscan calls 8600
+*** SHOW DOWN ***
+Benaab11 shows [Qs Kd] (One pair : 3)
+Murderone shows [4c 3c] (Trips of 3)
+YounRoscan shows [3s 6d] (Trips of 3)
+YounRoscan collected 17200 from pot
+Murderone collected 17200 from pot
+*** SUMMARY ***
+Total pot 34400 | No rake
+Board: [3d Tc 3h Jh 7s]
+Seat 2: Benaab11 (big blind) showed [Qs Kd] and lost with One pair : 3
+Seat 3: Murderone showed [4c 3c] and won 17200 with Trips of 3
+Seat 4: YounRoscan showed [3s 6d] and won 17200 with Trips of 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1752508907747541102-13-1606671783 - Holdem no limit (30/125/250) - 2020/11/29 17:43:03 UTC
+Table: 'Freeroll(408037777)#0109' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (23218)
+Seat 2: Benaab11 (6478)
+Seat 3: Murderone (25475)
+Seat 4: YounRoscan (33654)
+Seat 5: Fito6981 (30980)
+Seat 6: Jacq62 (20195)
+*** ANTE/BLINDS ***
+Benaab11 posts ante 30
+Murderone posts ante 30
+manggy94 posts ante 30
+YounRoscan posts ante 30
+Fito6981 posts ante 30
+Jacq62 posts ante 30
+Benaab11 posts small blind 125
+Murderone posts big blind 250
+Dealt to manggy94 [2h 4s]
+*** PRE-FLOP *** 
+YounRoscan calls 250
+Fito6981 calls 250
+Jacq62 folds
+manggy94 folds
+Benaab11 calls 125
+Murderone checks
+*** FLOP *** [Th Qs Ad]
+Benaab11 checks
+Murderone checks
+YounRoscan checks
+Fito6981 checks
+*** TURN *** [Th Qs Ad][5h]
+Benaab11 checks
+Murderone checks
+YounRoscan checks
+Fito6981 bets 250
+Benaab11 calls 250
+Murderone calls 250
+YounRoscan folds
+*** RIVER *** [Th Qs Ad 5h][8c]
+Benaab11 checks
+Murderone checks
+Fito6981 bets 728
+Benaab11 folds
+Murderone folds
+Fito6981 shows [Ah As] (Trips of Aces)
+Fito6981 collected 2658 from pot
+*** SUMMARY ***
+Total pot 2658 | No rake
+Board: [Th Qs Ad 5h 8c]
+Seat 5: Fito6981 showed [Ah As] and won 2658 with Trips of Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1752508907747541102-14-1606671878 - Holdem no limit (30/125/250) - 2020/11/29 17:44:38 UTC
+Table: 'Freeroll(408037777)#0109' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (23188)
+Seat 2: Benaab11 (5948)
+Seat 3: Murderone (24945)
+Seat 4: YounRoscan (33374)
+Seat 5: Fito6981 (32380)
+Seat 6: Jacq62 (20165)
+*** ANTE/BLINDS ***
+Murderone posts ante 30
+YounRoscan posts ante 30
+manggy94 posts ante 30
+Benaab11 posts ante 30
+Fito6981 posts ante 30
+Jacq62 posts ante 30
+Murderone posts small blind 125
+YounRoscan posts big blind 250
+Dealt to manggy94 [4d 7d]
+*** PRE-FLOP *** 
+Fito6981 folds
+Jacq62 calls 250
+manggy94 calls 250
+Benaab11 folds
+Murderone calls 125
+YounRoscan checks
+*** FLOP *** [As 4c 6c]
+Murderone checks
+YounRoscan checks
+Jacq62 checks
+manggy94 bets 250
+Murderone calls 250
+YounRoscan calls 250
+Jacq62 folds
+*** TURN *** [As 4c 6c][Kd]
+Murderone checks
+YounRoscan bets 250
+manggy94 calls 250
+Murderone calls 250
+*** RIVER *** [As 4c 6c Kd][8h]
+Murderone checks
+YounRoscan bets 250
+manggy94 calls 250
+Murderone folds
+*** SHOW DOWN ***
+manggy94 shows [4d 7d] (One pair : 4)
+YounRoscan shows [Tc Ah] (One pair : Aces)
+YounRoscan collected 3180 from pot
+*** SUMMARY ***
+Total pot 3180 | No rake
+Board: [As 4c 6c Kd 8h]
+Seat 1: manggy94 showed [4d 7d] and lost with One pair : 4
+Seat 4: YounRoscan (big blind) showed [Tc Ah] and won 3180 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1752508907747541102-15-1606671969 - Holdem no limit (35/150/300) - 2020/11/29 17:46:09 UTC
+Table: 'Freeroll(408037777)#0109' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (22158)
+Seat 2: Benaab11 (5918)
+Seat 3: Murderone (24165)
+Seat 4: YounRoscan (35524)
+Seat 5: Fito6981 (32350)
+Seat 6: Jacq62 (19885)
+*** ANTE/BLINDS ***
+YounRoscan posts ante 35
+Fito6981 posts ante 35
+manggy94 posts ante 35
+Benaab11 posts ante 35
+Murderone posts ante 35
+Jacq62 posts ante 35
+YounRoscan posts small blind 150
+Fito6981 posts big blind 300
+Dealt to manggy94 [Jc Ad]
+*** PRE-FLOP *** 
+Jacq62 raises 300 to 600
+manggy94 raises 300 to 900
+Benaab11 raises 4983 to 5883 and is all-in
+Murderone folds
+YounRoscan calls 5733
+Fito6981 calls 5583
+Jacq62 calls 5283
+manggy94 calls 4983
+*** FLOP *** [4h 9h Ks]
+YounRoscan checks
+Fito6981 checks
+Jacq62 checks
+manggy94 bets 10200
+YounRoscan raises 19406 to 29606 and is all-in
+Fito6981 calls 26432 and is all-in
+Jacq62 folds
+manggy94 folds
+*** TURN *** [4h 9h Ks][4c]
+*** RIVER *** [4h 9h Ks 4c][4s]
+*** SHOW DOWN ***
+Benaab11 shows [As Qc] (Trips of 4)
+YounRoscan shows [9s Ah] (Full of 4 and 9)
+Fito6981 shows [Kd 7s] (Full of 4 and Kings)
+Fito6981 collected 92689 from main pot
+YounRoscan collected 3174 from side pot 1
+*** SUMMARY ***
+Total pot 95863 | No rake
+Board: [4h 9h Ks 4c 4s]
+Seat 2: Benaab11 showed [As Qc] and lost with Trips of 4
+Seat 4: YounRoscan (small blind) showed [9s Ah] and won 3174 with Full of 4 and 9
+Seat 5: Fito6981 (big blind) showed [Kd 7s] and won 92689 with Full of 4 and Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1752508907747541102-16-1606672070 - Holdem no limit (35/150/300) - 2020/11/29 17:47:50 UTC
+Table: 'Freeroll(408037777)#0109' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (6040)
+Seat 3: Murderone (24130)
+Seat 4: YounRoscan (3174)
+Seat 5: Fito6981 (92689)
+Seat 6: Jacq62 (13967)
+*** ANTE/BLINDS ***
+Fito6981 posts ante 35
+Jacq62 posts ante 35
+manggy94 posts ante 35
+Murderone posts ante 35
+YounRoscan posts ante 35
+Fito6981 posts small blind 150
+Jacq62 posts big blind 300
+Dealt to manggy94 [Ac Qh]
+*** PRE-FLOP *** 
+manggy94 raises 5705 to 6005 and is all-in
+Murderone raises 18090 to 24095 and is all-in
+YounRoscan calls 3139 and is all-in
+Fito6981 folds
+Jacq62 folds
+*** FLOP *** [2d 7d 9s]
+*** TURN *** [2d 7d 9s][2s]
+*** RIVER *** [2d 7d 9s 2s][Th]
+*** SHOW DOWN ***
+manggy94 shows [Ac Qh] (One pair : 2)
+Murderone shows [Ks As] (One pair : 2)
+YounRoscan shows [9d 2h] (Full of 2 and 9)
+YounRoscan collected 10042 from main pot
+Murderone collected 23822 from side pot 1
+*** SUMMARY ***
+Total pot 33864 | No rake
+Board: [2d 7d 9s 2s Th]
+Seat 1: manggy94 showed [Ac Qh] and lost with One pair : 2
+Seat 3: Murderone showed [Ks As] and won 23822 with One pair : 2
+Seat 4: YounRoscan (button) showed [9d 2h] and won 10042 with Full of 2 and 9
+
+

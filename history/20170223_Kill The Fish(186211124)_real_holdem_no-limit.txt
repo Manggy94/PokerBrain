@@ -1,0 +1,51 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #799770687731400715-55-1487862419 - Holdem no limit (40/250/500) - 2017/02/23 15:06:59 UTC
+Table: 'Kill The Fish(186211124)#010' 8-max (real money) Seat #8 is the button
+Seat 1: thdmc (26912)
+Seat 2: drazaaa75 (16290)
+Seat 3: nico353 (33098)
+Seat 4: manggy94 (10000)
+Seat 5: FindAPush (18440)
+Seat 6: brunatch44 (13490)
+Seat 7: Reborn596 (42090)
+Seat 8: DarenTurlute (8530)
+*** ANTE/BLINDS ***
+thdmc posts ante 40
+drazaaa75 posts ante 40
+nico353 posts ante 40
+manggy94 posts ante 40
+FindAPush posts ante 40
+brunatch44 posts ante 40
+Reborn596 posts ante 40
+DarenTurlute posts ante 40
+thdmc posts small blind 250
+drazaaa75 posts big blind 500
+Dealt to manggy94 [Td Ac]
+*** PRE-FLOP *** 
+nico353 raises 750 to 1250
+manggy94 calls 1250
+FindAPush folds
+brunatch44 folds
+Reborn596 folds
+DarenTurlute folds
+thdmc folds
+drazaaa75 folds
+*** FLOP *** [9c 4h 8d]
+nico353 bets 1785
+manggy94 calls 1785
+*** TURN *** [9c 4h 8d][Kd]
+nico353 checks
+manggy94 checks
+*** RIVER *** [9c 4h 8d Kd][4d]
+nico353 bets 7140
+manggy94 calls 6925 and is all-in
+*** SHOW DOWN ***
+manggy94 shows [Td Ac] (One pair : 4)
+nico353 shows [Kc Jd] (Two pairs : Kings and 4)
+nico353 collected 21205 from pot
+*** SUMMARY ***
+Total pot 21205 | No rake
+Board: [9c 4h 8d Kd 4d]
+Seat 3: nico353 showed [Kc Jd] and won 21205 with Two pairs : Kings and 4
+Seat 4: manggy94 showed [Td Ac] and lost with One pair : 4
+
+

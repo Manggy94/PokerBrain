@@ -1,0 +1,48 @@
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 0 - HandId: #596732937811001345-1-1448727051 - Holdem no limit (10/20) - 2015/11/28 16:10:51 UTC
+Table: 'Starting Block Winamax Poker Tour(138937714)#0' 10-max (real money) Seat #3 is the button
+Seat 1: Marrakic (1500)
+Seat 2: Wissem1981 (1500)
+Seat 3: KeKe Bling (1500)
+Seat 4: jattoub2709 (1500)
+Seat 5: Colt45acp (1500)
+Seat 6: dartagnan_ (1500)
+Seat 7: chelmi 50 (1500)
+Seat 8: Alanbraxe (1500)
+Seat 9: manggy94 (1500)
+Seat 10: mars93 (1500)
+*** ANTE/BLINDS ***
+jattoub2709 posts small blind 10
+Colt45acp posts big blind 20
+Dealt to manggy94 [Jd 2d]
+*** PRE-FLOP *** 
+dartagnan_ folds
+chelmi 50 folds
+Alanbraxe folds
+manggy94 calls 20
+mars93 raises 60 to 80
+Marrakic folds
+Wissem1981 calls 80
+KeKe Bling raises 1420 to 1500 and is all-in
+jattoub2709 folds
+Colt45acp folds
+manggy94 calls 1480 and is all-in
+mars93 calls 1420 and is all-in
+Wissem1981 calls 1420 and is all-in
+*** FLOP *** [6d Ah Qh]
+*** TURN *** [6d Ah Qh][Kc]
+*** RIVER *** [6d Ah Qh Kc][Kh]
+*** SHOW DOWN ***
+KeKe Bling shows [9s 9h] (Two pairs : Kings and 9)
+manggy94 shows [Jd 2d] (One pair : Kings)
+mars93 shows [Th Td] (Two pairs : Kings and Tens)
+Wissem1981 shows [8d Kd] (Trips of Kings)
+Wissem1981 collected 6030 from pot
+*** SUMMARY ***
+Total pot 6030 | No rake
+Board: [6d Ah Qh Kc Kh]
+Seat 2: Wissem1981 showed [8d Kd] and won 6030 with Trips of Kings
+Seat 3: KeKe Bling (button) showed [9s 9h] and lost with Two pairs : Kings and 9
+Seat 9: manggy94 showed [Jd 2d] and lost with One pair : Kings
+Seat 10: mars93 showed [Th Td] and lost with Two pairs : Kings and Tens
+
+

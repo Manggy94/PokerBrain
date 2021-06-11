@@ -1,0 +1,52 @@
+Winamax Poker - Tournament "Déglingos" buyIn: 4,50€ + 0,50€ level: 7 - HandId: #664939342048788484-48-1461060693 - Holdem no limit (15/75/150) - 2016/04/19 10:11:33 UTC
+Table: 'Déglingos(154818255)#003' 3-max (real money) Seat #1 is the button
+Seat 1: klakfr (4500)
+Seat 2: babyoflove75 (2080)
+Seat 3: manggy94 (500)
+*** ANTE/BLINDS ***
+babyoflove75 posts ante 15
+manggy94 posts ante 15
+klakfr posts ante 15
+babyoflove75 posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [6h 2h]
+*** PRE-FLOP *** 
+klakfr raises 150 to 300
+babyoflove75 folds
+manggy94 folds
+klakfr collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 1: klakfr (button) won 570
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 4,50€ + 0,50€ level: 7 - HandId: #664939342048788484-49-1461060734 - Holdem no limit (15/75/150) - 2016/04/19 10:12:14 UTC
+Table: 'Déglingos(154818255)#003' 3-max (real money) Seat #2 is the button
+Seat 1: klakfr (4755)
+Seat 2: babyoflove75 (1990)
+Seat 3: manggy94 (335)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+klakfr posts ante 15
+babyoflove75 posts ante 15
+manggy94 posts small blind 75
+klakfr posts big blind 150
+Dealt to manggy94 [9s Jh]
+*** PRE-FLOP *** 
+babyoflove75 folds
+manggy94 raises 170 to 320 and is all-in
+klakfr calls 170
+*** FLOP *** [4d 6s 8s]
+*** TURN *** [4d 6s 8s][6h]
+*** RIVER *** [4d 6s 8s 6h][7d]
+*** SHOW DOWN ***
+manggy94 shows [9s Jh] (One pair : 6)
+klakfr shows [7h Qd] (Two pairs : 7 and 6)
+klakfr collected 685 from pot
+*** SUMMARY ***
+Total pot 685 | No rake
+Board: [4d 6s 8s 6h 7d]
+Seat 1: klakfr (big blind) showed [7h Qd] and won 685 with Two pairs : 7 and 6
+Seat 3: manggy94 (small blind) showed [9s Jh] and lost with One pair : 6
+
+

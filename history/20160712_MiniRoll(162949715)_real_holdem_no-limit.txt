@@ -1,0 +1,1142 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #699863696817520648-39-1468341387 - Holdem no limit (40/250/500) - 2016/07/12 16:36:27 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #6 is the button
+Seat 1: serval2101 (13434)
+Seat 2: barrelsss77 (34522)
+Seat 3: ScAAre cAArd (16433)
+Seat 4: davstreemer (15297)
+Seat 5: mallette31 (12574)
+Seat 6: QuantumP. (8920)
+Seat 7: nikko26 (9120)
+Seat 8: manggy94 (10000)
+*** ANTE/BLINDS ***
+nikko26 posts ante 40
+manggy94 posts ante 40
+serval2101 posts ante 40
+barrelsss77 posts ante 40
+ScAAre cAArd posts ante 40
+davstreemer posts ante 40
+mallette31 posts ante 40
+QuantumP. posts ante 40
+nikko26 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [3s 7d]
+*** PRE-FLOP *** 
+serval2101 calls 500
+barrelsss77 folds
+ScAAre cAArd folds
+davstreemer calls 500
+mallette31 folds
+QuantumP. folds
+nikko26 folds
+manggy94 checks
+*** FLOP *** [2h Qd Qc]
+manggy94 checks
+serval2101 checks
+davstreemer checks
+*** TURN *** [2h Qd Qc][4h]
+manggy94 checks
+serval2101 checks
+davstreemer checks
+*** RIVER *** [2h Qd Qc 4h][2d]
+manggy94 bets 1035
+serval2101 folds
+davstreemer folds
+manggy94 collected 3105 from pot
+*** SUMMARY ***
+Total pot 3105 | No rake
+Board: [2h Qd Qc 4h 2d]
+Seat 8: manggy94 (big blind) won 3105
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #699863696817520648-40-1468341445 - Holdem no limit (40/250/500) - 2016/07/12 16:37:25 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #7 is the button
+Seat 1: serval2101 (12894)
+Seat 2: barrelsss77 (34482)
+Seat 3: ScAAre cAArd (16393)
+Seat 4: davstreemer (14757)
+Seat 5: mallette31 (12534)
+Seat 6: QuantumP. (8880)
+Seat 7: nikko26 (8830)
+Seat 8: manggy94 (11530)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+serval2101 posts ante 40
+barrelsss77 posts ante 40
+ScAAre cAArd posts ante 40
+davstreemer posts ante 40
+mallette31 posts ante 40
+QuantumP. posts ante 40
+nikko26 posts ante 40
+manggy94 posts small blind 250
+serval2101 posts big blind 500
+Dealt to manggy94 [7c 2d]
+*** PRE-FLOP *** 
+barrelsss77 raises 500 to 1000
+ScAAre cAArd folds
+davstreemer folds
+mallette31 calls 1000
+QuantumP. folds
+nikko26 folds
+manggy94 folds
+serval2101 folds
+*** FLOP *** [Ac 9s Ts]
+barrelsss77 checks
+mallette31 bets 3070
+barrelsss77 raises 30372 to 33442 and is all-in
+mallette31 calls 8424 and is all-in
+*** TURN *** [Ac 9s Ts][Td]
+*** RIVER *** [Ac 9s Ts Td][Js]
+*** SHOW DOWN ***
+barrelsss77 shows [Ah 9c] (Two pairs : Aces and Tens)
+mallette31 shows [Ad Ks] (Two pairs : Aces and Tens)
+mallette31 collected 26058 from main pot
+barrelsss77 collected 21948 from side pot 1
+*** SUMMARY ***
+Total pot 48006 | No rake
+Board: [Ac 9s Ts Td Js]
+Seat 2: barrelsss77 showed [Ah 9c] and won 21948 with Two pairs : Aces and Tens
+Seat 5: mallette31 showed [Ad Ks] and won 26058 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #699863696817520648-41-1468341529 - Holdem no limit (60/300/600) - 2016/07/12 16:38:49 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #8 is the button
+Seat 1: serval2101 (12354)
+Seat 2: barrelsss77 (21948)
+Seat 3: ScAAre cAArd (16353)
+Seat 4: davstreemer (14717)
+Seat 5: mallette31 (26058)
+Seat 6: QuantumP. (8840)
+Seat 7: nikko26 (8790)
+Seat 8: manggy94 (11240)
+*** ANTE/BLINDS ***
+serval2101 posts ante 60
+barrelsss77 posts ante 60
+ScAAre cAArd posts ante 60
+davstreemer posts ante 60
+mallette31 posts ante 60
+QuantumP. posts ante 60
+nikko26 posts ante 60
+manggy94 posts ante 60
+serval2101 posts small blind 300
+barrelsss77 posts big blind 600
+Dealt to manggy94 [Kc Qc]
+*** PRE-FLOP *** 
+ScAAre cAArd folds
+davstreemer folds
+mallette31 folds
+QuantumP. folds
+nikko26 folds
+manggy94 raises 1200 to 1800
+serval2101 folds
+barrelsss77 calls 1200
+*** FLOP *** [Ad 2c 6h]
+barrelsss77 checks
+manggy94 bets 1800
+barrelsss77 folds
+manggy94 collected 6180 from pot
+*** SUMMARY ***
+Total pot 6180 | No rake
+Board: [Ad 2c 6h]
+Seat 8: manggy94 (button) won 6180
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #699863696817520648-42-1468341625 - Holdem no limit (60/300/600) - 2016/07/12 16:40:25 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #1 is the button
+Seat 1: serval2101 (11994)
+Seat 2: barrelsss77 (20088)
+Seat 3: ScAAre cAArd (16293)
+Seat 4: davstreemer (14657)
+Seat 5: mallette31 (25998)
+Seat 6: QuantumP. (8780)
+Seat 7: nikko26 (8730)
+Seat 8: manggy94 (13760)
+*** ANTE/BLINDS ***
+barrelsss77 posts ante 60
+ScAAre cAArd posts ante 60
+serval2101 posts ante 60
+davstreemer posts ante 60
+mallette31 posts ante 60
+QuantumP. posts ante 60
+nikko26 posts ante 60
+manggy94 posts ante 60
+barrelsss77 posts small blind 300
+ScAAre cAArd posts big blind 600
+Dealt to manggy94 [Jh 5d]
+*** PRE-FLOP *** 
+davstreemer folds
+mallette31 calls 600
+QuantumP. folds
+nikko26 raises 8070 to 8670 and is all-in
+manggy94 folds
+serval2101 folds
+barrelsss77 folds
+ScAAre cAArd folds
+mallette31 calls 8070
+*** FLOP *** [3c 9c 2s]
+*** TURN *** [3c 9c 2s][5s]
+*** RIVER *** [3c 9c 2s 5s][4h]
+*** SHOW DOWN ***
+mallette31 shows [8d Ad] (Straight 5 high)
+nikko26 shows [9h Ac] (Straight 5 high)
+nikko26 collected 9360 from pot
+mallette31 collected 9360 from pot
+*** SUMMARY ***
+Total pot 18720 | No rake
+Board: [3c 9c 2s 5s 4h]
+Seat 5: mallette31 showed [8d Ad] and won 9360 with Straight 5 high
+Seat 7: nikko26 showed [9h Ac] and won 9360 with Straight 5 high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #699863696817520648-43-1468341650 - Holdem no limit (60/300/600) - 2016/07/12 16:40:50 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #2 is the button
+Seat 1: serval2101 (11934)
+Seat 2: barrelsss77 (19728)
+Seat 3: ScAAre cAArd (15633)
+Seat 4: davstreemer (14597)
+Seat 5: mallette31 (26628)
+Seat 6: QuantumP. (8720)
+Seat 7: nikko26 (9360)
+Seat 8: manggy94 (13700)
+*** ANTE/BLINDS ***
+ScAAre cAArd posts ante 60
+davstreemer posts ante 60
+serval2101 posts ante 60
+barrelsss77 posts ante 60
+mallette31 posts ante 60
+QuantumP. posts ante 60
+nikko26 posts ante 60
+manggy94 posts ante 60
+ScAAre cAArd posts small blind 300
+davstreemer posts big blind 600
+Dealt to manggy94 [Qs 2d]
+*** PRE-FLOP *** 
+mallette31 folds
+QuantumP. folds
+nikko26 folds
+manggy94 folds
+serval2101 folds
+barrelsss77 folds
+ScAAre cAArd raises 900 to 1500
+davstreemer folds
+ScAAre cAArd collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | No rake
+Seat 3: ScAAre cAArd (small blind) won 2580
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #699863696817520648-44-1468341696 - Holdem no limit (60/300/600) - 2016/07/12 16:41:36 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #3 is the button
+Seat 1: serval2101 (11874)
+Seat 2: barrelsss77 (19668)
+Seat 3: ScAAre cAArd (16653)
+Seat 4: davstreemer (13937)
+Seat 5: mallette31 (26568)
+Seat 6: QuantumP. (8660)
+Seat 7: nikko26 (9300)
+Seat 8: manggy94 (13640)
+*** ANTE/BLINDS ***
+davstreemer posts ante 60
+mallette31 posts ante 60
+serval2101 posts ante 60
+barrelsss77 posts ante 60
+ScAAre cAArd posts ante 60
+QuantumP. posts ante 60
+nikko26 posts ante 60
+manggy94 posts ante 60
+davstreemer posts small blind 300
+mallette31 posts big blind 600
+Dealt to manggy94 [Jc 6d]
+*** PRE-FLOP *** 
+QuantumP. folds
+nikko26 folds
+manggy94 folds
+serval2101 folds
+barrelsss77 folds
+ScAAre cAArd folds
+davstreemer calls 300
+mallette31 checks
+*** FLOP *** [3s 8s Qd]
+davstreemer checks
+mallette31 checks
+*** TURN *** [3s 8s Qd][Jd]
+davstreemer checks
+mallette31 checks
+*** RIVER *** [3s 8s Qd Jd][7h]
+davstreemer checks
+mallette31 checks
+*** SHOW DOWN ***
+davstreemer shows [9h Ah] (High card : Ace)
+mallette31 shows [7d 9c] (One pair : 7)
+mallette31 collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [3s 8s Qd Jd 7h]
+Seat 4: davstreemer (small blind) showed [9h Ah] and lost with High card : Ace
+Seat 5: mallette31 (big blind) showed [7d 9c] and won 1680 with One pair : 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #699863696817520648-45-1468341768 - Holdem no limit (60/300/600) - 2016/07/12 16:42:48 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #4 is the button
+Seat 1: serval2101 (11814)
+Seat 2: barrelsss77 (19608)
+Seat 3: ScAAre cAArd (16593)
+Seat 4: davstreemer (13277)
+Seat 5: mallette31 (27588)
+Seat 6: QuantumP. (8600)
+Seat 7: nikko26 (9240)
+Seat 8: manggy94 (13580)
+*** ANTE/BLINDS ***
+mallette31 posts ante 60
+QuantumP. posts ante 60
+serval2101 posts ante 60
+barrelsss77 posts ante 60
+ScAAre cAArd posts ante 60
+davstreemer posts ante 60
+nikko26 posts ante 60
+manggy94 posts ante 60
+mallette31 posts small blind 300
+QuantumP. posts big blind 600
+Dealt to manggy94 [6c 3c]
+*** PRE-FLOP *** 
+nikko26 folds
+manggy94 folds
+serval2101 folds
+barrelsss77 folds
+ScAAre cAArd raises 900 to 1500
+davstreemer folds
+mallette31 folds
+QuantumP. raises 7040 to 8540 and is all-in
+ScAAre cAArd folds
+QuantumP. collected 10820 from pot
+*** SUMMARY ***
+Total pot 10820 | No rake
+Seat 6: QuantumP. (big blind) won 10820
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #699863696817520648-46-1468341826 - Holdem no limit (60/300/600) - 2016/07/12 16:43:46 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #5 is the button
+Seat 1: serval2101 (11754)
+Seat 2: barrelsss77 (19548)
+Seat 3: ScAAre cAArd (15033)
+Seat 4: davstreemer (13217)
+Seat 5: mallette31 (27228)
+Seat 6: QuantumP. (10820)
+Seat 7: nikko26 (9180)
+Seat 8: manggy94 (13520)
+*** ANTE/BLINDS ***
+QuantumP. posts ante 60
+nikko26 posts ante 60
+serval2101 posts ante 60
+barrelsss77 posts ante 60
+ScAAre cAArd posts ante 60
+davstreemer posts ante 60
+mallette31 posts ante 60
+manggy94 posts ante 60
+QuantumP. posts small blind 300
+nikko26 posts big blind 600
+Dealt to manggy94 [Jh Ac]
+*** PRE-FLOP *** 
+manggy94 raises 1200 to 1800
+serval2101 folds
+barrelsss77 folds
+ScAAre cAArd folds
+davstreemer calls 1800
+mallette31 folds
+QuantumP. folds
+nikko26 folds
+*** FLOP *** [4d 8d 7h]
+manggy94 bets 1500
+davstreemer folds
+manggy94 collected 6480 from pot
+*** SUMMARY ***
+Total pot 6480 | No rake
+Board: [4d 8d 7h]
+Seat 8: manggy94 won 6480
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #699863696817520648-47-1468341908 - Holdem no limit (75/400/800) - 2016/07/12 16:45:08 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #6 is the button
+Seat 1: serval2101 (11694)
+Seat 2: barrelsss77 (19488)
+Seat 3: ScAAre cAArd (14973)
+Seat 4: davstreemer (11357)
+Seat 5: mallette31 (27168)
+Seat 6: QuantumP. (10460)
+Seat 7: nikko26 (8520)
+Seat 8: manggy94 (16640)
+*** ANTE/BLINDS ***
+nikko26 posts ante 75
+manggy94 posts ante 75
+serval2101 posts ante 75
+barrelsss77 posts ante 75
+ScAAre cAArd posts ante 75
+davstreemer posts ante 75
+mallette31 posts ante 75
+QuantumP. posts ante 75
+nikko26 posts small blind 400
+manggy94 posts big blind 800
+Dealt to manggy94 [Js 6s]
+*** PRE-FLOP *** 
+serval2101 folds
+barrelsss77 raises 1600 to 2400
+ScAAre cAArd folds
+davstreemer calls 2400
+mallette31 folds
+QuantumP. folds
+nikko26 raises 6045 to 8445 and is all-in
+manggy94 folds
+barrelsss77 raises 10968 to 19413 and is all-in
+davstreemer folds
+*** FLOP *** [4h 5h Jd]
+*** TURN *** [4h 5h Jd][Kh]
+*** RIVER *** [4h 5h Jd Kh][6c]
+*** SHOW DOWN ***
+nikko26 shows [Ah Tc] (High card : Ace)
+barrelsss77 shows [Kc Kd] (Trips of Kings)
+barrelsss77 collected 31658 from pot
+*** SUMMARY ***
+Total pot 31658 | No rake
+Board: [4h 5h Jd Kh 6c]
+Seat 2: barrelsss77 showed [Kc Kd] and won 31658 with Trips of Kings
+Seat 7: nikko26 (small blind) showed [Ah Tc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #699863696817520648-48-1468341960 - Holdem no limit (75/400/800) - 2016/07/12 16:46:00 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #7 is the button
+Seat 1: serval2101 (11619)
+Seat 2: barrelsss77 (31658)
+Seat 3: ScAAre cAArd (14898)
+Seat 4: davstreemer (8882)
+Seat 5: mallette31 (27093)
+Seat 6: QuantumP. (10385)
+Seat 8: manggy94 (15765)
+*** ANTE/BLINDS ***
+manggy94 posts ante 75
+serval2101 posts ante 75
+barrelsss77 posts ante 75
+ScAAre cAArd posts ante 75
+davstreemer posts ante 75
+mallette31 posts ante 75
+QuantumP. posts ante 75
+manggy94 posts small blind 400
+serval2101 posts big blind 800
+Dealt to manggy94 [6c 7c]
+*** PRE-FLOP *** 
+barrelsss77 calls 800
+ScAAre cAArd folds
+davstreemer folds
+mallette31 calls 800
+QuantumP. folds
+manggy94 calls 400
+serval2101 checks
+*** FLOP *** [9h 2d 9d]
+manggy94 checks
+serval2101 checks
+barrelsss77 checks
+mallette31 checks
+*** TURN *** [9h 2d 9d][7h]
+manggy94 bets 800
+serval2101 folds
+barrelsss77 folds
+mallette31 calls 800
+*** RIVER *** [9h 2d 9d 7h][8h]
+manggy94 checks
+mallette31 checks
+*** SHOW DOWN ***
+manggy94 shows [6c 7c] (Two pairs : 9 and 7)
+mallette31 shows [7s Qs] (Two pairs : 9 and 7)
+mallette31 collected 5325 from pot
+*** SUMMARY ***
+Total pot 5325 | No rake
+Board: [9h 2d 9d 7h 8h]
+Seat 5: mallette31 showed [7s Qs] and won 5325 with Two pairs : 9 and 7
+Seat 8: manggy94 (small blind) showed [6c 7c] and lost with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #699863696817520648-49-1468342034 - Holdem no limit (75/400/800) - 2016/07/12 16:47:14 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #8 is the button
+Seat 1: serval2101 (10744)
+Seat 2: barrelsss77 (30783)
+Seat 3: ScAAre cAArd (14823)
+Seat 4: davstreemer (8807)
+Seat 5: mallette31 (30743)
+Seat 6: QuantumP. (10310)
+Seat 8: manggy94 (14090)
+*** ANTE/BLINDS ***
+serval2101 posts ante 75
+barrelsss77 posts ante 75
+ScAAre cAArd posts ante 75
+davstreemer posts ante 75
+mallette31 posts ante 75
+QuantumP. posts ante 75
+manggy94 posts ante 75
+serval2101 posts small blind 400
+barrelsss77 posts big blind 800
+Dealt to manggy94 [4d Qc]
+*** PRE-FLOP *** 
+ScAAre cAArd folds
+davstreemer folds
+mallette31 folds
+QuantumP. folds
+manggy94 raises 800 to 1600
+serval2101 folds
+barrelsss77 calls 800
+*** FLOP *** [5d 2s 4s]
+barrelsss77 checks
+manggy94 bets 1600
+barrelsss77 folds
+manggy94 collected 5725 from pot
+*** SUMMARY ***
+Total pot 5725 | No rake
+Board: [5d 2s 4s]
+Seat 8: manggy94 (button) won 5725
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #699863696817520648-50-1468342057 - Holdem no limit (75/400/800) - 2016/07/12 16:47:37 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #1 is the button
+Seat 1: serval2101 (10269)
+Seat 2: barrelsss77 (29108)
+Seat 3: ScAAre cAArd (14748)
+Seat 4: davstreemer (8732)
+Seat 5: mallette31 (30668)
+Seat 6: QuantumP. (10235)
+Seat 8: manggy94 (16540)
+*** ANTE/BLINDS ***
+barrelsss77 posts ante 75
+ScAAre cAArd posts ante 75
+serval2101 posts ante 75
+davstreemer posts ante 75
+mallette31 posts ante 75
+QuantumP. posts ante 75
+manggy94 posts ante 75
+barrelsss77 posts small blind 400
+ScAAre cAArd posts big blind 800
+Dealt to manggy94 [8s 4h]
+*** PRE-FLOP *** 
+davstreemer raises 7857 to 8657 and is all-in
+mallette31 folds
+QuantumP. raises 1503 to 10160 and is all-in
+manggy94 folds
+serval2101 folds
+barrelsss77 calls 9760
+ScAAre cAArd folds
+*** FLOP *** [Kd 2c 2h]
+*** TURN *** [Kd 2c 2h][2s]
+*** RIVER *** [Kd 2c 2h 2s][Kc]
+*** SHOW DOWN ***
+davstreemer shows [Ad Js] (Full of 2 and Kings)
+QuantumP. shows [Td Tc] (Full of 2 and Kings)
+barrelsss77 shows [Kh Th] (Full of Kings and 2)
+barrelsss77 collected 30302 from pot
+*** SUMMARY ***
+Total pot 30302 | No rake
+Board: [Kd 2c 2h 2s Kc]
+Seat 2: barrelsss77 (small blind) showed [Kh Th] and won 30302 with Full of Kings and 2
+Seat 4: davstreemer showed [Ad Js] and lost with Full of 2 and Kings
+Seat 6: QuantumP. showed [Td Tc] and lost with Full of 2 and Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #699863696817520648-51-1468342081 - Holdem no limit (75/400/800) - 2016/07/12 16:48:01 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #2 is the button
+Seat 1: serval2101 (10194)
+Seat 2: barrelsss77 (49175)
+Seat 3: ScAAre cAArd (13873)
+Seat 5: mallette31 (30593)
+Seat 7: Fenomeno-31 (22333)
+Seat 8: manggy94 (16465)
+*** ANTE/BLINDS ***
+ScAAre cAArd posts ante 75
+mallette31 posts ante 75
+serval2101 posts ante 75
+barrelsss77 posts ante 75
+Fenomeno-31 posts ante 75
+manggy94 posts ante 75
+ScAAre cAArd posts small blind 400
+mallette31 posts big blind 800
+Dealt to manggy94 [Kc 4h]
+*** PRE-FLOP *** 
+Fenomeno-31 folds
+manggy94 folds
+serval2101 folds
+barrelsss77 calls 800
+ScAAre cAArd folds
+mallette31 raises 800 to 1600
+barrelsss77 calls 800
+*** FLOP *** [3d 5h 8s]
+mallette31 checks
+barrelsss77 checks
+*** TURN *** [3d 5h 8s][6c]
+mallette31 checks
+barrelsss77 checks
+*** RIVER *** [3d 5h 8s 6c][As]
+mallette31 checks
+barrelsss77 bets 2025
+mallette31 raises 2025 to 4050
+barrelsss77 folds
+mallette31 collected 10125 from pot
+*** SUMMARY ***
+Total pot 10125 | No rake
+Board: [3d 5h 8s 6c As]
+Seat 5: mallette31 (big blind) won 10125
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #699863696817520648-52-1468342130 - Holdem no limit (75/400/800) - 2016/07/12 16:48:50 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #3 is the button
+Seat 1: serval2101 (10119)
+Seat 2: barrelsss77 (45475)
+Seat 3: ScAAre cAArd (13398)
+Seat 4: yuen1 (34390)
+Seat 5: mallette31 (34993)
+Seat 6: Gaboulou (10518)
+Seat 7: Fenomeno-31 (22258)
+Seat 8: manggy94 (16390)
+*** ANTE/BLINDS ***
+mallette31 posts ante 75
+Gaboulou posts ante 75
+serval2101 posts ante 75
+barrelsss77 posts ante 75
+ScAAre cAArd posts ante 75
+Fenomeno-31 posts ante 75
+manggy94 posts ante 75
+mallette31 posts small blind 400
+Gaboulou posts big blind 800
+Dealt to manggy94 [6h 9h]
+*** PRE-FLOP *** 
+Fenomeno-31 raises 800 to 1600
+manggy94 folds
+serval2101 calls 1600
+barrelsss77 calls 1600
+ScAAre cAArd calls 1600
+mallette31 folds
+Gaboulou folds
+*** FLOP *** [Jc As Tc]
+Fenomeno-31 checks
+serval2101 bets 800
+barrelsss77 calls 800
+ScAAre cAArd raises 10923 to 11723 and is all-in
+Fenomeno-31 folds
+serval2101 calls 7644 and is all-in
+barrelsss77 folds
+*** TURN *** [Jc As Tc][3c]
+*** RIVER *** [Jc As Tc 3c][8c]
+*** SHOW DOWN ***
+serval2101 shows [Ad 5d] (One pair : Aces)
+ScAAre cAArd shows [Th Ah] (Two pairs : Aces and Tens)
+ScAAre cAArd collected 29092 from pot
+*** SUMMARY ***
+Total pot 29092 | No rake
+Board: [Jc As Tc 3c 8c]
+Seat 1: serval2101 showed [Ad 5d] and lost with One pair : Aces
+Seat 3: ScAAre cAArd (button) showed [Th Ah] and won 29092 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #699863696817520648-53-1468342178 - Holdem no limit (75/400/800) - 2016/07/12 16:49:38 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #5 is the button
+Seat 2: barrelsss77 (43000)
+Seat 3: ScAAre cAArd (29092)
+Seat 4: yuen1 (34390)
+Seat 5: mallette31 (34518)
+Seat 6: Gaboulou (9643)
+Seat 7: Fenomeno-31 (20583)
+Seat 8: manggy94 (16315)
+*** ANTE/BLINDS ***
+Gaboulou posts ante 75
+Fenomeno-31 posts ante 75
+barrelsss77 posts ante 75
+ScAAre cAArd posts ante 75
+yuen1 posts ante 75
+mallette31 posts ante 75
+manggy94 posts ante 75
+Gaboulou posts small blind 400
+Fenomeno-31 posts big blind 800
+Dealt to manggy94 [4s Td]
+*** PRE-FLOP *** 
+manggy94 folds
+barrelsss77 folds
+ScAAre cAArd folds
+yuen1 calls 800
+mallette31 raises 800 to 1600
+Gaboulou calls 1200
+Fenomeno-31 folds
+yuen1 calls 800
+*** FLOP *** [3s Kc Ad]
+Gaboulou checks
+yuen1 checks
+mallette31 bets 6125
+Gaboulou folds
+yuen1 folds
+mallette31 collected 12250 from pot
+*** SUMMARY ***
+Total pot 12250 | No rake
+Board: [3s Kc Ad]
+Seat 5: mallette31 (button) won 12250
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #699863696817520648-54-1468342234 - Holdem no limit (100/500/1000) - 2016/07/12 16:50:34 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #6 is the button
+Seat 1: Maloumix (32262)
+Seat 2: barrelsss77 (42925)
+Seat 3: ScAAre cAArd (29017)
+Seat 4: yuen1 (32715)
+Seat 5: mallette31 (38968)
+Seat 6: Gaboulou (7968)
+Seat 7: Fenomeno-31 (19708)
+Seat 8: manggy94 (16240)
+*** ANTE/BLINDS ***
+Fenomeno-31 posts ante 100
+manggy94 posts ante 100
+Maloumix posts ante 100
+barrelsss77 posts ante 100
+ScAAre cAArd posts ante 100
+yuen1 posts ante 100
+mallette31 posts ante 100
+Gaboulou posts ante 100
+Fenomeno-31 posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [Ah 5s]
+*** PRE-FLOP *** 
+Maloumix calls 1000
+barrelsss77 folds
+ScAAre cAArd raises 27917 to 28917 and is all-in
+yuen1 folds
+mallette31 folds
+Gaboulou folds
+Fenomeno-31 folds
+manggy94 folds
+Maloumix folds
+ScAAre cAArd shows [Qc Qh] (One pair : Queens)
+ScAAre cAArd collected 32217 from pot
+*** SUMMARY ***
+Total pot 32217 | No rake
+Seat 3: ScAAre cAArd showed [Qc Qh] and won 32217 with One pair : Queens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #699863696817520648-55-1468342267 - Holdem no limit (100/500/1000) - 2016/07/12 16:51:07 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #7 is the button
+Seat 1: Maloumix (31162)
+Seat 2: barrelsss77 (42825)
+Seat 3: ScAAre cAArd (32217)
+Seat 4: yuen1 (32615)
+Seat 5: mallette31 (38868)
+Seat 6: Gaboulou (7868)
+Seat 7: Fenomeno-31 (19108)
+Seat 8: manggy94 (15140)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+Maloumix posts ante 100
+barrelsss77 posts ante 100
+ScAAre cAArd posts ante 100
+yuen1 posts ante 100
+mallette31 posts ante 100
+Gaboulou posts ante 100
+Fenomeno-31 posts ante 100
+manggy94 posts small blind 500
+Maloumix posts big blind 1000
+Dealt to manggy94 [4d As]
+*** PRE-FLOP *** 
+barrelsss77 folds
+ScAAre cAArd folds
+yuen1 raises 1000 to 2000
+mallette31 folds
+Gaboulou folds
+Fenomeno-31 folds
+manggy94 folds
+Maloumix calls 1000
+*** FLOP *** [2d 3c Tc]
+Maloumix checks
+yuen1 bets 1000
+Maloumix raises 2000 to 3000
+yuen1 calls 2000
+*** TURN *** [2d 3c Tc][Ah]
+Maloumix checks
+yuen1 bets 5650
+Maloumix calls 5650
+*** RIVER *** [2d 3c Tc Ah][8c]
+Maloumix checks
+yuen1 bets 21865 and is all-in
+Maloumix folds
+yuen1 collected 44465 from pot
+*** SUMMARY ***
+Total pot 44465 | No rake
+Board: [2d 3c Tc Ah 8c]
+Seat 4: yuen1 won 44465
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #699863696817520648-56-1468342349 - Holdem no limit (100/500/1000) - 2016/07/12 16:52:29 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #8 is the button
+Seat 1: Maloumix (20412)
+Seat 2: barrelsss77 (42725)
+Seat 3: ScAAre cAArd (32117)
+Seat 4: yuen1 (44465)
+Seat 5: mallette31 (38768)
+Seat 6: Gaboulou (7768)
+Seat 7: Fenomeno-31 (19008)
+Seat 8: manggy94 (14540)
+*** ANTE/BLINDS ***
+Maloumix posts ante 100
+barrelsss77 posts ante 100
+ScAAre cAArd posts ante 100
+yuen1 posts ante 100
+mallette31 posts ante 100
+Gaboulou posts ante 100
+Fenomeno-31 posts ante 100
+manggy94 posts ante 100
+Maloumix posts small blind 500
+barrelsss77 posts big blind 1000
+Dealt to manggy94 [8h Ts]
+*** PRE-FLOP *** 
+ScAAre cAArd folds
+yuen1 calls 1000
+mallette31 calls 1000
+Gaboulou folds
+Fenomeno-31 calls 1000
+manggy94 folds
+Maloumix calls 500
+barrelsss77 checks
+*** FLOP *** [Kh 6d 2s]
+Maloumix checks
+barrelsss77 checks
+yuen1 checks
+mallette31 bets 2500
+Fenomeno-31 folds
+Maloumix folds
+barrelsss77 calls 2500
+yuen1 folds
+*** TURN *** [Kh 6d 2s][Th]
+barrelsss77 checks
+mallette31 bets 3410
+barrelsss77 folds
+mallette31 collected 14210 from pot
+*** SUMMARY ***
+Total pot 14210 | No rake
+Board: [Kh 6d 2s Th]
+Seat 5: mallette31 won 14210
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #699863696817520648-57-1468342448 - Holdem no limit (100/500/1000) - 2016/07/12 16:54:08 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #1 is the button
+Seat 1: Maloumix (19312)
+Seat 2: barrelsss77 (39125)
+Seat 3: ScAAre cAArd (32017)
+Seat 4: yuen1 (43365)
+Seat 5: mallette31 (45968)
+Seat 6: Gaboulou (7668)
+Seat 7: Fenomeno-31 (17908)
+Seat 8: manggy94 (14440)
+*** ANTE/BLINDS ***
+barrelsss77 posts ante 100
+ScAAre cAArd posts ante 100
+Maloumix posts ante 100
+yuen1 posts ante 100
+mallette31 posts ante 100
+Gaboulou posts ante 100
+Fenomeno-31 posts ante 100
+manggy94 posts ante 100
+barrelsss77 posts small blind 500
+ScAAre cAArd posts big blind 1000
+Dealt to manggy94 [Kd 8d]
+*** PRE-FLOP *** 
+yuen1 folds
+mallette31 calls 1000
+Gaboulou folds
+Fenomeno-31 calls 1000
+manggy94 calls 1000
+Maloumix folds
+barrelsss77 calls 500
+ScAAre cAArd checks
+*** FLOP *** [As 6c Ks]
+barrelsss77 checks
+ScAAre cAArd checks
+mallette31 bets 1500
+Fenomeno-31 folds
+manggy94 calls 1500
+barrelsss77 calls 1500
+ScAAre cAArd folds
+*** TURN *** [As 6c Ks][Ts]
+barrelsss77 checks
+mallette31 bets 2000
+manggy94 folds
+barrelsss77 calls 2000
+*** RIVER *** [As 6c Ks Ts][Td]
+barrelsss77 bets 14300
+mallette31 calls 14300
+*** SHOW DOWN ***
+mallette31 shows [6s Ac] (Two pairs : Aces and Tens)
+barrelsss77 shows [Jh Qh] (Straight Ace high)
+barrelsss77 collected 42900 from pot
+*** SUMMARY ***
+Total pot 42900 | No rake
+Board: [As 6c Ks Ts Td]
+Seat 2: barrelsss77 (small blind) showed [Jh Qh] and won 42900 with Straight Ace high
+Seat 5: mallette31 showed [6s Ac] and lost with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #699863696817520648-58-1468342802 - Holdem no limit (100/500/1000) - 2016/07/12 17:00:02 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #2 is the button
+Seat 1: Maloumix (19212)
+Seat 2: barrelsss77 (63125)
+Seat 3: ScAAre cAArd (30917)
+Seat 4: yuen1 (43265)
+Seat 5: mallette31 (27068)
+Seat 6: Gaboulou (7568)
+Seat 7: Fenomeno-31 (16808)
+Seat 8: manggy94 (11840)
+*** ANTE/BLINDS ***
+ScAAre cAArd posts ante 100
+yuen1 posts ante 100
+Maloumix posts ante 100
+barrelsss77 posts ante 100
+mallette31 posts ante 100
+Gaboulou posts ante 100
+Fenomeno-31 posts ante 100
+manggy94 posts ante 100
+ScAAre cAArd posts small blind 500
+yuen1 posts big blind 1000
+Dealt to manggy94 [6s 2s]
+*** PRE-FLOP *** 
+mallette31 folds
+Gaboulou folds
+Fenomeno-31 calls 1000
+manggy94 folds
+Maloumix calls 1000
+barrelsss77 calls 1000
+ScAAre cAArd folds
+yuen1 checks
+*** FLOP *** [Ad Js 7h]
+yuen1 checks
+Fenomeno-31 checks
+Maloumix checks
+barrelsss77 bets 2650
+yuen1 folds
+Fenomeno-31 folds
+Maloumix folds
+barrelsss77 collected 7950 from pot
+*** SUMMARY ***
+Total pot 7950 | No rake
+Board: [Ad Js 7h]
+Seat 2: barrelsss77 (button) won 7950
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #699863696817520648-59-1468342893 - Holdem no limit (150/600/1200) - 2016/07/12 17:01:33 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #3 is the button
+Seat 1: Maloumix (18112)
+Seat 2: barrelsss77 (67325)
+Seat 3: ScAAre cAArd (30317)
+Seat 4: yuen1 (42165)
+Seat 5: mallette31 (26968)
+Seat 6: Gaboulou (7468)
+Seat 7: Fenomeno-31 (15708)
+Seat 8: manggy94 (11740)
+*** ANTE/BLINDS ***
+yuen1 posts ante 150
+mallette31 posts ante 150
+Maloumix posts ante 150
+barrelsss77 posts ante 150
+ScAAre cAArd posts ante 150
+Gaboulou posts ante 150
+Fenomeno-31 posts ante 150
+manggy94 posts ante 150
+yuen1 posts small blind 600
+mallette31 posts big blind 1200
+Dealt to manggy94 [As 5h]
+*** PRE-FLOP *** 
+Gaboulou folds
+Fenomeno-31 folds
+manggy94 raises 1200 to 2400
+Maloumix folds
+barrelsss77 calls 2400
+ScAAre cAArd folds
+yuen1 calls 1800
+mallette31 folds
+*** FLOP *** [6c 2c 6s]
+yuen1 checks
+manggy94 bets 1200
+barrelsss77 calls 1200
+yuen1 calls 1200
+*** TURN *** [6c 2c 6s][Td]
+yuen1 checks
+manggy94 bets 1200
+barrelsss77 calls 1200
+yuen1 calls 1200
+*** RIVER *** [6c 2c 6s Td][4d]
+yuen1 checks
+manggy94 checks
+barrelsss77 bets 8400
+yuen1 folds
+manggy94 folds
+barrelsss77 collected 25200 from pot
+*** SUMMARY ***
+Total pot 25200 | No rake
+Board: [6c 2c 6s Td 4d]
+Seat 2: barrelsss77 won 25200
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #699863696817520648-60-1468343001 - Holdem no limit (150/600/1200) - 2016/07/12 17:03:21 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #4 is the button
+Seat 1: Maloumix (17962)
+Seat 2: barrelsss77 (79175)
+Seat 3: ScAAre cAArd (30167)
+Seat 4: yuen1 (37215)
+Seat 5: mallette31 (25618)
+Seat 6: Gaboulou (7318)
+Seat 7: Fenomeno-31 (15558)
+Seat 8: manggy94 (6790)
+*** ANTE/BLINDS ***
+mallette31 posts ante 150
+Gaboulou posts ante 150
+Maloumix posts ante 150
+barrelsss77 posts ante 150
+ScAAre cAArd posts ante 150
+yuen1 posts ante 150
+Fenomeno-31 posts ante 150
+manggy94 posts ante 150
+mallette31 posts small blind 600
+Gaboulou posts big blind 1200
+Dealt to manggy94 [Th 2c]
+*** PRE-FLOP *** 
+Fenomeno-31 folds
+manggy94 folds
+Maloumix calls 1200
+barrelsss77 raises 3600 to 4800
+ScAAre cAArd folds
+yuen1 calls 4800
+mallette31 calls 4200
+Gaboulou raises 2368 to 7168 and is all-in
+Maloumix folds
+barrelsss77 calls 2368
+yuen1 calls 2368
+mallette31 calls 2368
+*** FLOP *** [6d Jd 8c]
+mallette31 checks
+barrelsss77 bets 71857 and is all-in
+yuen1 calls 29897 and is all-in
+mallette31 folds
+*** TURN *** [6d Jd 8c][8s]
+*** RIVER *** [6d Jd 8c 8s][9s]
+*** SHOW DOWN ***
+yuen1 shows [4s 5d] (One pair : 8)
+Gaboulou shows [9c Qc] (Two pairs : 9 and 8)
+barrelsss77 shows [Qs Qh] (Two pairs : Queens and 8)
+barrelsss77 collected 132826 from pot
+*** SUMMARY ***
+Total pot 132826 | No rake
+Board: [6d Jd 8c 8s 9s]
+Seat 2: barrelsss77 showed [Qs Qh] and won 132826 with Two pairs : Queens and 8
+Seat 4: yuen1 (button) showed [4s 5d] and lost with One pair : 8
+Seat 6: Gaboulou (big blind) showed [9c Qc] and lost with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #699863696817520648-61-1468343096 - Holdem no limit (150/600/1200) - 2016/07/12 17:04:56 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #5 is the button
+Seat 1: Maloumix (16612)
+Seat 2: barrelsss77 (132826)
+Seat 3: ScAAre cAArd (30017)
+Seat 5: mallette31 (18300)
+Seat 7: Fenomeno-31 (15408)
+Seat 8: manggy94 (6640)
+*** ANTE/BLINDS ***
+Fenomeno-31 posts ante 150
+Maloumix posts ante 150
+barrelsss77 posts ante 150
+ScAAre cAArd posts ante 150
+mallette31 posts ante 150
+manggy94 posts ante 150
+Fenomeno-31 posts big blind 1200
+Dealt to manggy94 [Jh 8d]
+*** PRE-FLOP *** 
+manggy94 folds
+Maloumix folds
+barrelsss77 folds
+ScAAre cAArd folds
+mallette31 folds
+Fenomeno-31 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 7: Fenomeno-31 (big blind) won 2100
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #699863696817520648-62-1468343115 - Holdem no limit (150/600/1200) - 2016/07/12 17:05:15 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #6 is the button
+Seat 1: Maloumix (16462)
+Seat 2: barrelsss77 (132676)
+Seat 3: ScAAre cAArd (29867)
+Seat 5: mallette31 (18150)
+Seat 7: Fenomeno-31 (16158)
+Seat 8: manggy94 (6490)
+*** ANTE/BLINDS ***
+Fenomeno-31 posts ante 150
+manggy94 posts ante 150
+Maloumix posts ante 150
+barrelsss77 posts ante 150
+ScAAre cAArd posts ante 150
+mallette31 posts ante 150
+Fenomeno-31 posts small blind 600
+manggy94 posts big blind 1200
+Dealt to manggy94 [Td Qd]
+*** PRE-FLOP *** 
+Maloumix calls 1200
+barrelsss77 folds
+ScAAre cAArd folds
+mallette31 calls 1200
+Fenomeno-31 raises 14808 to 16008 and is all-in
+manggy94 calls 5140 and is all-in
+Maloumix folds
+mallette31 folds
+*** FLOP *** [9d Jh 5d]
+*** TURN *** [9d Jh 5d][7s]
+*** RIVER *** [9d Jh 5d 7s][Kh]
+*** SHOW DOWN ***
+Fenomeno-31 shows [Qc 9c] (One pair : 9)
+manggy94 shows [Td Qd] (Straight King high)
+manggy94 collected 15980 from main pot
+Fenomeno-31 collected 9668 from side pot 1
+*** SUMMARY ***
+Total pot 25648 | No rake
+Board: [9d Jh 5d 7s Kh]
+Seat 7: Fenomeno-31 (small blind) showed [Qc 9c] and won 9668 with One pair : 9
+Seat 8: manggy94 (big blind) showed [Td Qd] and won 15980 with Straight King high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #699863696817520648-63-1468343150 - Holdem no limit (150/600/1200) - 2016/07/12 17:05:50 UTC
+Table: 'MiniRoll(162949715)#007' 8-max (real money) Seat #7 is the button
+Seat 1: Maloumix (15112)
+Seat 2: barrelsss77 (132526)
+Seat 3: ScAAre cAArd (29717)
+Seat 5: mallette31 (16800)
+Seat 7: Fenomeno-31 (9668)
+Seat 8: manggy94 (15980)
+*** ANTE/BLINDS ***
+manggy94 posts ante 150
+Maloumix posts ante 150
+barrelsss77 posts ante 150
+ScAAre cAArd posts ante 150
+mallette31 posts ante 150
+Fenomeno-31 posts ante 150
+manggy94 posts small blind 600
+Maloumix posts big blind 1200
+Dealt to manggy94 [As Jd]
+*** PRE-FLOP *** 
+barrelsss77 raises 2400 to 3600
+ScAAre cAArd folds
+mallette31 folds
+Fenomeno-31 folds
+manggy94 raises 12230 to 15830 and is all-in
+Maloumix calls 13762 and is all-in
+barrelsss77 calls 12230
+*** FLOP *** [5s Qd Kd]
+*** TURN *** [5s Qd Kd][Qs]
+*** RIVER *** [5s Qd Kd Qs][8c]
+*** SHOW DOWN ***
+manggy94 shows [As Jd] (One pair : Queens)
+Maloumix shows [Th Qh] (Trips of Queens)
+barrelsss77 shows [2d 2h] (Two pairs : Queens and 2)
+barrelsss77 collected 1736 from side pot 1
+Maloumix collected 45786 from main pot
+*** SUMMARY ***
+Total pot 47522 | No rake
+Board: [5s Qd Kd Qs 8c]
+Seat 1: Maloumix (big blind) showed [Th Qh] and won 45786 with Trips of Queens
+Seat 2: barrelsss77 showed [2d 2h] and won 1736 with Two pairs : Queens and 2
+Seat 8: manggy94 (small blind) showed [As Jd] and lost with One pair : Queens
+
+

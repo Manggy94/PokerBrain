@@ -1,0 +1,236 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #697384920867143859-2-1467656345 - Holdem no limit (15/30) - 2016/07/04 18:19:05 UTC
+Table: 'Freeroll(162372580)#0178' 8-max (real money) Seat #6 is the button
+Seat 1: 313SA (9040)
+Seat 2: Pitcho12000 (3000)
+Seat 3: Briardjean (3000)
+Seat 4: menfou2tou (3000)
+Seat 5: 10-12-15Ange (3000)
+Seat 6: manggy94 (3000)
+Seat 7: kilam7294 (2980)
+Seat 8: Shark cops (2980)
+*** ANTE/BLINDS ***
+kilam7294 posts small blind 15
+Shark cops posts big blind 30
+*** PRE-FLOP *** 
+313SA folds
+Pitcho12000 folds
+Briardjean raises 2970 to 3000 and is all-in
+menfou2tou folds
+10-12-15Ange folds
+kilam7294 folds
+Shark cops folds
+Briardjean collected 3045 from pot
+*** SUMMARY ***
+Total pot 3045 | No rake
+Seat 3: Briardjean won 3045
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #697384920867143859-3-1467656377 - Holdem no limit (15/30) - 2016/07/04 18:19:37 UTC
+Table: 'Freeroll(162372580)#0178' 8-max (real money) Seat #7 is the button
+Seat 1: 313SA (9040)
+Seat 2: Pitcho12000 (3000)
+Seat 3: Briardjean (3045)
+Seat 4: menfou2tou (3000)
+Seat 5: 10-12-15Ange (3000)
+Seat 6: manggy94 (3000)
+Seat 7: kilam7294 (2965)
+Seat 8: Shark cops (2950)
+*** ANTE/BLINDS ***
+Shark cops posts small blind 15
+313SA posts big blind 30
+Dealt to manggy94 [7d 2c]
+*** PRE-FLOP *** 
+Pitcho12000 folds
+Briardjean calls 30
+menfou2tou folds
+10-12-15Ange calls 30
+manggy94 folds
+kilam7294 folds
+Shark cops calls 15
+313SA checks
+*** FLOP *** [Kh 6c 4d]
+Shark cops checks
+313SA checks
+Briardjean checks
+10-12-15Ange checks
+*** TURN *** [Kh 6c 4d][2h]
+Shark cops checks
+313SA checks
+Briardjean bets 30
+10-12-15Ange folds
+Shark cops calls 30
+313SA folds
+*** RIVER *** [Kh 6c 4d 2h][9c]
+Shark cops checks
+Briardjean bets 30
+Shark cops folds
+Briardjean collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Kh 6c 4d 2h 9c]
+Seat 3: Briardjean won 210
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #697384920867143859-4-1467656448 - Holdem no limit (15/30) - 2016/07/04 18:20:48 UTC
+Table: 'Freeroll(162372580)#0178' 8-max (real money) Seat #8 is the button
+Seat 1: 313SA (9010)
+Seat 2: Pitcho12000 (3000)
+Seat 3: Briardjean (3165)
+Seat 4: menfou2tou (3000)
+Seat 5: 10-12-15Ange (2970)
+Seat 6: manggy94 (3000)
+Seat 7: kilam7294 (2965)
+Seat 8: Shark cops (2890)
+*** ANTE/BLINDS ***
+313SA posts small blind 15
+Pitcho12000 posts big blind 30
+Dealt to manggy94 [4s 4c]
+*** PRE-FLOP *** 
+Briardjean folds
+menfou2tou folds
+10-12-15Ange folds
+manggy94 raises 75 to 105
+kilam7294 folds
+Shark cops raises 2785 to 2890 and is all-in
+313SA folds
+Pitcho12000 folds
+manggy94 calls 2785
+*** FLOP *** [9s 6c 7d]
+*** TURN *** [9s 6c 7d][2h]
+*** RIVER *** [9s 6c 7d 2h][8h]
+*** SHOW DOWN ***
+manggy94 shows [4s 4c] (One pair : 4)
+Shark cops shows [Tc Ts] (Straight Ten high)
+Shark cops collected 5825 from pot
+*** SUMMARY ***
+Total pot 5825 | No rake
+Board: [9s 6c 7d 2h 8h]
+Seat 6: manggy94 showed [4s 4c] and lost with One pair : 4
+Seat 8: Shark cops (button) showed [Tc Ts] and won 5825 with Straight Ten high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #697384920867143859-5-1467656477 - Holdem no limit (15/30) - 2016/07/04 18:21:17 UTC
+Table: 'Freeroll(162372580)#0178' 8-max (real money) Seat #1 is the button
+Seat 1: 313SA (8995)
+Seat 2: Pitcho12000 (2970)
+Seat 3: Briardjean (3165)
+Seat 4: menfou2tou (3000)
+Seat 5: 10-12-15Ange (2970)
+Seat 6: manggy94 (110)
+Seat 7: kilam7294 (2965)
+Seat 8: Shark cops (5825)
+*** ANTE/BLINDS ***
+Pitcho12000 posts small blind 15
+Briardjean posts big blind 30
+Dealt to manggy94 [5s Th]
+*** PRE-FLOP *** 
+menfou2tou folds
+10-12-15Ange calls 30
+manggy94 folds
+kilam7294 folds
+Shark cops calls 30
+313SA folds
+Pitcho12000 folds
+Briardjean checks
+*** FLOP *** [6s Td Ac]
+Briardjean checks
+10-12-15Ange checks
+Shark cops checks
+*** TURN *** [6s Td Ac][2h]
+Briardjean checks
+10-12-15Ange bets 53
+Shark cops folds
+Briardjean folds
+10-12-15Ange collected 158 from pot
+*** SUMMARY ***
+Total pot 158 | No rake
+Board: [6s Td Ac 2h]
+Seat 5: 10-12-15Ange won 158
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #697384920867143859-6-1467656512 - Holdem no limit (20/40) - 2016/07/04 18:21:52 UTC
+Table: 'Freeroll(162372580)#0178' 8-max (real money) Seat #2 is the button
+Seat 1: 313SA (8995)
+Seat 2: Pitcho12000 (2955)
+Seat 3: Briardjean (3135)
+Seat 4: menfou2tou (3000)
+Seat 5: 10-12-15Ange (3045)
+Seat 6: manggy94 (110)
+Seat 7: kilam7294 (2965)
+Seat 8: Shark cops (5795)
+*** ANTE/BLINDS ***
+Briardjean posts small blind 20
+menfou2tou posts big blind 40
+Dealt to manggy94 [Td 8c]
+*** PRE-FLOP *** 
+10-12-15Ange raises 60 to 100
+manggy94 folds
+kilam7294 folds
+Shark cops calls 100
+313SA folds
+Pitcho12000 folds
+Briardjean folds
+menfou2tou calls 60
+*** FLOP *** [2d Jd Js]
+menfou2tou checks
+10-12-15Ange bets 160
+Shark cops calls 160
+menfou2tou folds
+*** TURN *** [2d Jd Js][Qc]
+10-12-15Ange checks
+Shark cops checks
+*** RIVER *** [2d Jd Js Qc][4h]
+10-12-15Ange bets 427
+Shark cops calls 427
+*** SHOW DOWN ***
+10-12-15Ange shows [Th 8h] (One pair : Jacks)
+Shark cops shows [2c Ac] (Two pairs : Jacks and 2)
+Shark cops collected 1494 from pot
+*** SUMMARY ***
+Total pot 1494 | No rake
+Board: [2d Jd Js Qc 4h]
+Seat 5: 10-12-15Ange showed [Th 8h] and lost with One pair : Jacks
+Seat 8: Shark cops showed [2c Ac] and won 1494 with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #697384920867143859-7-1467656641 - Holdem no limit (20/40) - 2016/07/04 18:24:01 UTC
+Table: 'Freeroll(162372580)#0178' 8-max (real money) Seat #3 is the button
+Seat 1: 313SA (8995)
+Seat 2: Pitcho12000 (2955)
+Seat 3: Briardjean (3115)
+Seat 4: menfou2tou (2900)
+Seat 5: 10-12-15Ange (2358)
+Seat 6: manggy94 (110)
+Seat 7: kilam7294 (2965)
+Seat 8: Shark cops (6602)
+*** ANTE/BLINDS ***
+menfou2tou posts small blind 20
+10-12-15Ange posts big blind 40
+Dealt to manggy94 [4d 7d]
+*** PRE-FLOP *** 
+manggy94 raises 70 to 110 and is all-in
+kilam7294 folds
+Shark cops folds
+313SA folds
+Pitcho12000 calls 110
+Briardjean folds
+menfou2tou calls 90
+10-12-15Ange raises 2248 to 2358 and is all-in
+Pitcho12000 folds
+menfou2tou calls 2248
+*** FLOP *** [6s 5s Jh]
+*** TURN *** [6s 5s Jh][6d]
+*** RIVER *** [6s 5s Jh 6d][2d]
+*** SHOW DOWN ***
+10-12-15Ange shows [8d 3c] (One pair : 6)
+manggy94 shows [4d 7d] (One pair : 6)
+menfou2tou shows [Qd Js] (Two pairs : Jacks and 6)
+menfou2tou collected 4936 from pot
+*** SUMMARY ***
+Total pot 4936 | No rake
+Board: [6s 5s Jh 6d 2d]
+Seat 4: menfou2tou (small blind) showed [Qd Js] and won 4936 with Two pairs : Jacks and 6
+Seat 5: 10-12-15Ange (big blind) showed [8d 3c] and lost with One pair : 6
+Seat 6: manggy94 showed [4d 7d] and lost with One pair : 6
+
+

@@ -1,0 +1,121 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 13 - HandId: #620521000726954002-43-1453568402 - Holdem no limit (240/1000/2000) - 2016/01/23 17:00:02 UTC
+Table: 'Kill The Fish(144476304)#017' 8-max (real money) Seat #6 is the button
+Seat 1: AS-sASs1 (10616)
+Seat 2: VINBAS (13205)
+Seat 3: manggy94 (2735)
+Seat 4: lapouf (33559)
+Seat 5: All Levels (23150)
+Seat 6: kR2uno (12389)
+Seat 7: ballotin67 (20911)
+Seat 8: El tsar 33 (56500)
+*** ANTE/BLINDS ***
+ballotin67 posts ante 240
+El tsar 33 posts ante 240
+AS-sASs1 posts ante 240
+VINBAS posts ante 240
+manggy94 posts ante 240
+lapouf posts ante 240
+All Levels posts ante 240
+kR2uno posts ante 240
+ballotin67 posts small blind 1000
+El tsar 33 posts big blind 2000
+Dealt to manggy94 [4c 9h]
+*** PRE-FLOP *** 
+AS-sASs1 raises 8376 to 10376 and is all-in
+VINBAS folds
+manggy94 folds
+lapouf folds
+All Levels folds
+kR2uno folds
+ballotin67 folds
+El tsar 33 folds
+AS-sASs1 collected 15296 from pot
+*** SUMMARY ***
+Total pot 15296 | No rake
+Seat 1: AS-sASs1 won 15296
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 13 - HandId: #620521000726954002-44-1453568462 - Holdem no limit (240/1000/2000) - 2016/01/23 17:01:02 UTC
+Table: 'Kill The Fish(144476304)#017' 8-max (real money) Seat #7 is the button
+Seat 1: AS-sASs1 (15296)
+Seat 3: manggy94 (2495)
+Seat 4: lapouf (33319)
+Seat 5: All Levels (22910)
+Seat 6: kR2uno (12149)
+Seat 7: ballotin67 (19671)
+Seat 8: El tsar 33 (54260)
+*** ANTE/BLINDS ***
+El tsar 33 posts ante 240
+AS-sASs1 posts ante 240
+manggy94 posts ante 240
+lapouf posts ante 240
+All Levels posts ante 240
+kR2uno posts ante 240
+ballotin67 posts ante 240
+El tsar 33 posts small blind 1000
+AS-sASs1 posts big blind 2000
+Dealt to manggy94 [2h Tc]
+*** PRE-FLOP *** 
+manggy94 folds
+lapouf calls 2000
+All Levels folds
+kR2uno folds
+ballotin67 folds
+El tsar 33 calls 1000
+AS-sASs1 checks
+*** FLOP *** [5c 6c 3c]
+El tsar 33 checks
+AS-sASs1 bets 13056 and is all-in
+lapouf folds
+El tsar 33 folds
+AS-sASs1 collected 20736 from pot
+*** SUMMARY ***
+Total pot 20736 | No rake
+Board: [5c 6c 3c]
+Seat 1: AS-sASs1 (big blind) won 20736
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 13 - HandId: #620521000726954002-45-1453568502 - Holdem no limit (240/1000/2000) - 2016/01/23 17:01:42 UTC
+Table: 'Kill The Fish(144476304)#017' 8-max (real money) Seat #8 is the button
+Seat 1: AS-sASs1 (20736)
+Seat 3: manggy94 (2255)
+Seat 4: lapouf (31079)
+Seat 5: All Levels (22670)
+Seat 6: kR2uno (11909)
+Seat 7: ballotin67 (19431)
+Seat 8: El tsar 33 (52020)
+*** ANTE/BLINDS ***
+AS-sASs1 posts ante 240
+manggy94 posts ante 240
+lapouf posts ante 240
+All Levels posts ante 240
+kR2uno posts ante 240
+ballotin67 posts ante 240
+El tsar 33 posts ante 240
+AS-sASs1 posts small blind 1000
+manggy94 posts big blind 2000
+Dealt to manggy94 [Qh Th]
+*** PRE-FLOP *** 
+lapouf folds
+All Levels folds
+kR2uno folds
+ballotin67 raises 17191 to 19191 and is all-in
+El tsar 33 calls 19191
+AS-sASs1 folds
+manggy94 calls 15 and is all-in
+*** FLOP *** [5s Kh 9c]
+*** TURN *** [5s Kh 9c][9h]
+*** RIVER *** [5s Kh 9c 9h][8s]
+*** SHOW DOWN ***
+manggy94 shows [Qh Th] (One pair : 9)
+El tsar 33 shows [As Qs] (One pair : 9)
+ballotin67 shows [Qd Qc] (Two pairs : Queens and 9)
+ballotin67 collected 43077 from pot
+*** SUMMARY ***
+Total pot 43077 | No rake
+Board: [5s Kh 9c 9h 8s]
+Seat 3: manggy94 (big blind) showed [Qh Th] and lost with One pair : 9
+Seat 7: ballotin67 showed [Qd Qc] and won 43077 with Two pairs : Queens and 9
+Seat 8: El tsar 33 (button) showed [As Qs] and lost with One pair : 9
+
+

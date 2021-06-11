@@ -1,0 +1,183 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #639855581988914034-1-1456686932 - Holdem no limit (10/20) - 2016/02/28 19:15:32 UTC
+Table: 'Freeroll(148977987)#0881' 8-max (real money) Seat #1 is the button
+Seat 1: dougy69 (3000)
+Seat 2: jeanodumas (3000)
+Seat 3: cyrilhaou (3000)
+Seat 4: lucatoni1983 (3000)
+Seat 5: Ironman25000 (3000)
+Seat 6: manggy94 (3000)
+Seat 7: Ledz62 (3000)
+Seat 8: austin66 (3000)
+*** ANTE/BLINDS ***
+jeanodumas posts small blind 10
+cyrilhaou posts big blind 20
+Dealt to manggy94 [5h 9h]
+*** PRE-FLOP *** 
+lucatoni1983 calls 20
+Ironman25000 folds
+manggy94 folds
+Ledz62 folds
+austin66 folds
+dougy69 calls 20
+jeanodumas folds
+cyrilhaou folds
+*** FLOP *** [Qh 5d 7s]
+lucatoni1983 bets 20
+dougy69 calls 20
+*** TURN *** [Qh 5d 7s][2d]
+lucatoni1983 bets 20
+dougy69 calls 20
+*** RIVER *** [Qh 5d 7s 2d][2c]
+lucatoni1983 bets 20
+dougy69 calls 20
+*** SHOW DOWN ***
+dougy69 shows [Jd Th] (One pair : 2)
+lucatoni1983 shows [5s Qd] (Two pairs : Queens and 5)
+lucatoni1983 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [Qh 5d 7s 2d 2c]
+Seat 1: dougy69 (button) showed [Jd Th] and lost with One pair : 2
+Seat 4: lucatoni1983 showed [5s Qd] and won 190 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #639855581988914034-2-1456687293 - Holdem no limit (20/40) - 2016/02/28 19:21:33 UTC
+Table: 'Freeroll(148977987)#0881' 8-max (real money) Seat #2 is the button
+Seat 1: dougy69 (2920)
+Seat 2: jeanodumas (2990)
+Seat 3: cyrilhaou (2980)
+Seat 4: lucatoni1983 (3110)
+Seat 5: Ironman25000 (3000)
+Seat 6: manggy94 (3000)
+Seat 7: Ledz62 (3000)
+Seat 8: austin66 (3000)
+*** ANTE/BLINDS ***
+cyrilhaou posts small blind 20
+lucatoni1983 posts big blind 40
+Dealt to manggy94 [2c 7h]
+*** PRE-FLOP *** 
+Ironman25000 folds
+manggy94 calls 40
+Ledz62 folds
+austin66 folds
+dougy69 calls 40
+jeanodumas folds
+cyrilhaou folds
+lucatoni1983 checks
+*** FLOP *** [6h 3d Jc]
+lucatoni1983 checks
+manggy94 bets 140
+dougy69 calls 140
+lucatoni1983 calls 140
+*** TURN *** [6h 3d Jc][4c]
+lucatoni1983 checks
+manggy94 checks
+dougy69 bets 40
+lucatoni1983 raises 40 to 80
+manggy94 folds
+dougy69 calls 40
+*** RIVER *** [6h 3d Jc 4c][Qc]
+lucatoni1983 checks
+dougy69 checks
+*** SHOW DOWN ***
+dougy69 shows [Th 3c] (One pair : 3)
+lucatoni1983 shows [7s 5h] (Straight 7 high)
+lucatoni1983 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [6h 3d Jc 4c Qc]
+Seat 1: dougy69 showed [Th 3c] and lost with One pair : 3
+Seat 4: lucatoni1983 (big blind) showed [7s 5h] and won 720 with Straight 7 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #639855581988914034-3-1456687345 - Holdem no limit (20/40) - 2016/02/28 19:22:25 UTC
+Table: 'Freeroll(148977987)#0881' 8-max (real money) Seat #3 is the button
+Seat 1: dougy69 (2660)
+Seat 2: jeanodumas (2990)
+Seat 3: cyrilhaou (2960)
+Seat 4: lucatoni1983 (3570)
+Seat 5: Ironman25000 (3000)
+Seat 6: manggy94 (2820)
+Seat 7: Ledz62 (3000)
+Seat 8: austin66 (3000)
+*** ANTE/BLINDS ***
+lucatoni1983 posts small blind 20
+Ironman25000 posts big blind 40
+Dealt to manggy94 [9s 3h]
+*** PRE-FLOP *** 
+manggy94 folds
+Ledz62 folds
+austin66 folds
+dougy69 raises 40 to 80
+jeanodumas calls 80
+cyrilhaou folds
+lucatoni1983 calls 60
+Ironman25000 folds
+*** FLOP *** [Kd 3s 4s]
+lucatoni1983 checks
+dougy69 checks
+jeanodumas checks
+*** TURN *** [Kd 3s 4s][4d]
+lucatoni1983 checks
+dougy69 bets 40
+jeanodumas folds
+lucatoni1983 calls 40
+*** RIVER *** [Kd 3s 4s 4d][Kh]
+lucatoni1983 checks
+dougy69 bets 240
+lucatoni1983 calls 240
+*** SHOW DOWN ***
+dougy69 shows [Ad 6h] (Two pairs : Kings and 4)
+lucatoni1983 shows [2s Ac] (Two pairs : Kings and 4)
+lucatoni1983 collected 420 from pot
+dougy69 collected 420 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [Kd 3s 4s 4d Kh]
+Seat 1: dougy69 showed [Ad 6h] and won 420 with Two pairs : Kings and 4
+Seat 4: lucatoni1983 (small blind) showed [2s Ac] and won 420 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #639855581988914034-4-1456687395 - Holdem no limit (20/40) - 2016/02/28 19:23:15 UTC
+Table: 'Freeroll(148977987)#0881' 8-max (real money) Seat #4 is the button
+Seat 1: dougy69 (2720)
+Seat 2: jeanodumas (2910)
+Seat 3: cyrilhaou (2960)
+Seat 4: lucatoni1983 (3630)
+Seat 5: Ironman25000 (2960)
+Seat 6: manggy94 (2820)
+Seat 7: Ledz62 (3000)
+Seat 8: austin66 (3000)
+*** ANTE/BLINDS ***
+Ironman25000 posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [Kc As]
+*** PRE-FLOP *** 
+Ledz62 folds
+austin66 folds
+dougy69 calls 40
+jeanodumas folds
+cyrilhaou folds
+lucatoni1983 calls 40
+Ironman25000 folds
+manggy94 raises 140 to 180
+dougy69 calls 140
+lucatoni1983 calls 140
+*** FLOP *** [Ks 9s 8s]
+manggy94 bets 560
+dougy69 folds
+lucatoni1983 raises 2890 to 3450 and is all-in
+manggy94 calls 2080 and is all-in
+*** TURN *** [Ks 9s 8s][Td]
+*** RIVER *** [Ks 9s 8s Td][3d]
+*** SHOW DOWN ***
+manggy94 shows [Kc As] (One pair : Kings)
+lucatoni1983 shows [Qs Js] (Flush King high)
+lucatoni1983 collected 6650 from pot
+*** SUMMARY ***
+Total pot 6650 | No rake
+Board: [Ks 9s 8s Td 3d]
+Seat 4: lucatoni1983 (button) showed [Qs Js] and won 6650 with Flush King high
+Seat 6: manggy94 (big blind) showed [Kc As] and lost with One pair : Kings
+
+

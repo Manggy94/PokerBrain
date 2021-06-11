@@ -1,0 +1,968 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #1756900816750379430-1-1606914029 - Holdem no limit (12/50/100) - 2020/12/02 13:00:29 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #4 is the button
+Seat 1: Idenan1 (20000)
+Seat 2: Choumil (20000)
+Seat 3: manggy94 (20000)
+Seat 4: Cow.Bad.BOy (20000)
+Seat 5: nor73 (20000)
+Seat 6: Filou 34 (20000)
+*** ANTE/BLINDS ***
+nor73 posts ante 12
+Filou 34 posts ante 12
+Idenan1 posts ante 12
+Choumil posts ante 12
+manggy94 posts ante 12
+Cow.Bad.BOy posts ante 12
+nor73 posts small blind 50
+Filou 34 posts big blind 100
+Dealt to manggy94 [As Jh]
+*** PRE-FLOP *** 
+Idenan1 folds
+Choumil folds
+manggy94 raises 322 to 422
+Cow.Bad.BOy folds
+nor73 folds
+Filou 34 calls 322
+*** FLOP *** [7d Qc 4c]
+Filou 34 checks
+manggy94 bets 483
+Filou 34 folds
+manggy94 collected 1449 from pot
+*** SUMMARY ***
+Total pot 1449 | No rake
+Board: [7d Qc 4c]
+Seat 3: manggy94 won 1449
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #1756900816750379430-2-1606914064 - Holdem no limit (12/50/100) - 2020/12/02 13:01:04 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #5 is the button
+Seat 1: Idenan1 (19988)
+Seat 2: Choumil (19988)
+Seat 3: manggy94 (20532)
+Seat 4: Cow.Bad.BOy (19988)
+Seat 5: nor73 (19938)
+Seat 6: Filou 34 (19566)
+*** ANTE/BLINDS ***
+Filou 34 posts ante 12
+Idenan1 posts ante 12
+Choumil posts ante 12
+manggy94 posts ante 12
+Cow.Bad.BOy posts ante 12
+nor73 posts ante 12
+Filou 34 posts small blind 50
+Idenan1 posts big blind 100
+Dealt to manggy94 [Qh Kh]
+*** PRE-FLOP *** 
+Choumil folds
+manggy94 raises 300 to 400
+Cow.Bad.BOy folds
+nor73 calls 400
+Filou 34 folds
+Idenan1 folds
+*** FLOP *** [4s 9h 8s]
+manggy94 bets 511
+nor73 calls 511
+*** TURN *** [4s 9h 8s][Jc]
+manggy94 bets 1022
+nor73 calls 1022
+*** RIVER *** [4s 9h 8s Jc][4d]
+manggy94 checks
+nor73 bets 17993 and is all-in
+manggy94 folds
+nor73 collected 22081 from pot
+*** SUMMARY ***
+Total pot 22081 | No rake
+Board: [4s 9h 8s Jc 4d]
+Seat 5: nor73 (button) won 22081
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #1756900816750379430-3-1606914103 - Holdem no limit (12/50/100) - 2020/12/02 13:01:43 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #6 is the button
+Seat 1: Idenan1 (19876)
+Seat 2: Choumil (19976)
+Seat 3: manggy94 (18587)
+Seat 4: Cow.Bad.BOy (19976)
+Seat 5: nor73 (22081)
+Seat 6: Filou 34 (19504)
+*** ANTE/BLINDS ***
+Idenan1 posts ante 12
+Choumil posts ante 12
+manggy94 posts ante 12
+Cow.Bad.BOy posts ante 12
+nor73 posts ante 12
+Filou 34 posts ante 12
+Idenan1 posts small blind 50
+Choumil posts big blind 100
+Dealt to manggy94 [Js 2d]
+*** PRE-FLOP *** 
+manggy94 folds
+Cow.Bad.BOy calls 100
+nor73 folds
+Filou 34 calls 100
+Idenan1 folds
+Choumil checks
+*** FLOP *** [3d 5h 6d]
+Choumil checks
+Cow.Bad.BOy checks
+Filou 34 checks
+*** TURN *** [3d 5h 6d][Ac]
+Choumil bets 211
+Cow.Bad.BOy calls 211
+Filou 34 calls 211
+*** RIVER *** [3d 5h 6d Ac][Tc]
+Choumil bets 528
+Cow.Bad.BOy calls 528
+Filou 34 calls 528
+*** SHOW DOWN ***
+Choumil shows [Ad 8c] (One pair : Aces)
+Cow.Bad.BOy shows [7s 6s] (One pair : 6)
+Filou 34 shows [Ah 5d] (Two pairs : Aces and 5)
+Filou 34 collected 2639 from pot
+*** SUMMARY ***
+Total pot 2639 | No rake
+Board: [3d 5h 6d Ac Tc]
+Seat 2: Choumil (big blind) showed [Ad 8c] and lost with One pair : Aces
+Seat 4: Cow.Bad.BOy showed [7s 6s] and lost with One pair : 6
+Seat 6: Filou 34 (button) showed [Ah 5d] and won 2639 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #1756900816750379430-4-1606914167 - Holdem no limit (12/50/100) - 2020/12/02 13:02:47 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #1 is the button
+Seat 1: Idenan1 (19814)
+Seat 2: Choumil (19125)
+Seat 3: manggy94 (18575)
+Seat 4: Cow.Bad.BOy (19125)
+Seat 5: nor73 (22069)
+Seat 6: Filou 34 (21292)
+*** ANTE/BLINDS ***
+Choumil posts ante 12
+manggy94 posts ante 12
+Idenan1 posts ante 12
+Cow.Bad.BOy posts ante 12
+nor73 posts ante 12
+Filou 34 posts ante 12
+Choumil posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [Tc 2c]
+*** PRE-FLOP *** 
+Cow.Bad.BOy calls 100
+nor73 calls 100
+Filou 34 folds
+Idenan1 folds
+Choumil calls 50
+manggy94 checks
+*** FLOP *** [Jd 7c 3s]
+Choumil checks
+manggy94 checks
+Cow.Bad.BOy checks
+nor73 checks
+*** TURN *** [Jd 7c 3s][Ac]
+Choumil checks
+manggy94 checks
+Cow.Bad.BOy checks
+nor73 checks
+*** RIVER *** [Jd 7c 3s Ac][Ah]
+Choumil bets 354
+manggy94 folds
+Cow.Bad.BOy calls 354
+nor73 calls 354
+*** SHOW DOWN ***
+Choumil shows [Td 3c] (Two pairs : Aces and 3)
+Cow.Bad.BOy shows [Js 9s] (Two pairs : Aces and Jacks)
+nor73 shows [6c Ad] (Trips of Aces)
+nor73 collected 1534 from pot
+*** SUMMARY ***
+Total pot 1534 | No rake
+Board: [Jd 7c 3s Ac Ah]
+Seat 2: Choumil (small blind) showed [Td 3c] and lost with Two pairs : Aces and 3
+Seat 4: Cow.Bad.BOy showed [Js 9s] and lost with Two pairs : Aces and Jacks
+Seat 5: nor73 showed [6c Ad] and won 1534 with Trips of Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1756900816750379430-5-1606914237 - Holdem no limit (14/60/120) - 2020/12/02 13:03:57 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #2 is the button
+Seat 1: Idenan1 (19802)
+Seat 2: Choumil (18659)
+Seat 3: manggy94 (18463)
+Seat 4: Cow.Bad.BOy (18659)
+Seat 5: nor73 (23137)
+Seat 6: Filou 34 (21280)
+*** ANTE/BLINDS ***
+manggy94 posts ante 14
+Cow.Bad.BOy posts ante 14
+Idenan1 posts ante 14
+Choumil posts ante 14
+nor73 posts ante 14
+Filou 34 posts ante 14
+manggy94 posts small blind 60
+Cow.Bad.BOy posts big blind 120
+Dealt to manggy94 [9d 4h]
+*** PRE-FLOP *** 
+nor73 folds
+Filou 34 folds
+Idenan1 raises 120 to 240
+Choumil folds
+manggy94 folds
+Cow.Bad.BOy calls 120
+*** FLOP *** [9s 8s 8h]
+Cow.Bad.BOy checks
+Idenan1 checks
+*** TURN *** [9s 8s 8h][As]
+Cow.Bad.BOy checks
+Idenan1 checks
+*** RIVER *** [9s 8s 8h As][Ks]
+Cow.Bad.BOy checks
+Idenan1 bets 3540
+Cow.Bad.BOy folds
+Idenan1 collected 4164 from pot
+*** SUMMARY ***
+Total pot 4164 | No rake
+Board: [9s 8s 8h As Ks]
+Seat 1: Idenan1 won 4164
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1756900816750379430-6-1606914282 - Holdem no limit (14/60/120) - 2020/12/02 13:04:42 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #3 is the button
+Seat 1: Idenan1 (20172)
+Seat 2: Choumil (18645)
+Seat 3: manggy94 (18389)
+Seat 4: Cow.Bad.BOy (18405)
+Seat 5: nor73 (23123)
+Seat 6: Karim 95 (20000)
+*** ANTE/BLINDS ***
+Cow.Bad.BOy posts ante 14
+nor73 posts ante 14
+Idenan1 posts ante 14
+Choumil posts ante 14
+manggy94 posts ante 14
+Karim 95 posts ante 14
+Cow.Bad.BOy posts small blind 60
+nor73 posts big blind 120
+Dealt to manggy94 [Jh 7h]
+*** PRE-FLOP *** 
+Karim 95 calls 120
+Idenan1 folds
+Choumil calls 120
+manggy94 calls 120
+Cow.Bad.BOy calls 60
+nor73 checks
+*** FLOP *** [Kd 9s Th]
+Cow.Bad.BOy checks
+nor73 checks
+Karim 95 bets 684
+Choumil calls 684
+manggy94 calls 684
+Cow.Bad.BOy folds
+nor73 calls 684
+*** TURN *** [Kd 9s Th][7d]
+nor73 checks
+Karim 95 checks
+Choumil checks
+manggy94 checks
+*** RIVER *** [Kd 9s Th 7d][8s]
+nor73 checks
+Karim 95 bets 4866
+Choumil folds
+manggy94 raises 8648 to 13514
+nor73 folds
+Karim 95 raises 5668 to 19182 and is all-in
+manggy94 calls 4057 and is all-in
+*** SHOW DOWN ***
+manggy94 shows [Jh 7h] (Straight Jack high)
+Karim 95 shows [9c 6d] (Straight Ten high)
+Karim 95 collected 1611 from side pot 1
+manggy94 collected 38562 from main pot
+*** SUMMARY ***
+Total pot 40173 | No rake
+Board: [Kd 9s Th 7d 8s]
+Seat 3: manggy94 (button) showed [Jh 7h] and won 38562 with Straight Jack high
+Seat 6: Karim 95 showed [9c 6d] and won 1611 with Straight Ten high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1756900816750379430-7-1606914361 - Holdem no limit (16/70/140) - 2020/12/02 13:06:01 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #4 is the button
+Seat 1: Idenan1 (20158)
+Seat 2: Choumil (17827)
+Seat 3: manggy94 (38562)
+Seat 4: Cow.Bad.BOy (18271)
+Seat 5: nor73 (22305)
+Seat 6: Karim 95 (1611)
+*** ANTE/BLINDS ***
+nor73 posts ante 16
+Karim 95 posts ante 16
+Idenan1 posts ante 16
+Choumil posts ante 16
+manggy94 posts ante 16
+Cow.Bad.BOy posts ante 16
+nor73 posts small blind 70
+Karim 95 posts big blind 140
+Dealt to manggy94 [Th 2d]
+*** PRE-FLOP *** 
+Idenan1 folds
+Choumil folds
+manggy94 folds
+Cow.Bad.BOy folds
+nor73 calls 70
+Karim 95 raises 1455 to 1595 and is all-in
+nor73 calls 1455
+*** FLOP *** [8d Jd Tc]
+*** TURN *** [8d Jd Tc][Qc]
+*** RIVER *** [8d Jd Tc Qc][7s]
+*** SHOW DOWN ***
+Karim 95 shows [Td Kh] (One pair : Tens)
+nor73 shows [9h Ad] (Straight Queen high)
+nor73 collected 3286 from pot
+*** SUMMARY ***
+Total pot 3286 | No rake
+Board: [8d Jd Tc Qc 7s]
+Seat 5: nor73 (small blind) showed [9h Ad] and won 3286 with Straight Queen high
+Seat 6: Karim 95 (big blind) showed [Td Kh] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1756900816750379430-8-1606914395 - Holdem no limit (16/70/140) - 2020/12/02 13:06:35 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #5 is the button
+Seat 1: Idenan1 (20142)
+Seat 2: Choumil (17811)
+Seat 3: manggy94 (38546)
+Seat 4: Cow.Bad.BOy (18255)
+Seat 5: nor73 (23980)
+Seat 6: MaXXiMUUuus (20000)
+*** ANTE/BLINDS ***
+Idenan1 posts ante 16
+Choumil posts ante 16
+manggy94 posts ante 16
+Cow.Bad.BOy posts ante 16
+nor73 posts ante 16
+Idenan1 posts big blind 140
+Dealt to manggy94 [9s 4h]
+*** PRE-FLOP *** 
+Choumil calls 140
+manggy94 calls 140
+Cow.Bad.BOy calls 140
+nor73 calls 140
+Idenan1 raises 140 to 280
+Choumil raises 140 to 420
+manggy94 folds
+Cow.Bad.BOy calls 280
+nor73 calls 280
+Idenan1 calls 140
+*** FLOP *** [4d 9c Ks]
+Idenan1 checks
+Choumil checks
+Cow.Bad.BOy checks
+nor73 checks
+*** TURN *** [4d 9c Ks][6c]
+Idenan1 checks
+Choumil checks
+Cow.Bad.BOy bets 1900
+nor73 folds
+Idenan1 folds
+Choumil calls 1900
+*** RIVER *** [4d 9c Ks 6c][Jh]
+Choumil checks
+Cow.Bad.BOy bets 15919 and is all-in
+Choumil folds
+Cow.Bad.BOy collected 21619 from pot
+*** SUMMARY ***
+Total pot 21619 | No rake
+Board: [4d 9c Ks 6c Jh]
+Seat 4: Cow.Bad.BOy won 21619
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1756900816750379430-9-1606914459 - Holdem no limit (16/70/140) - 2020/12/02 13:07:39 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #6 is the button
+Seat 1: Idenan1 (19706)
+Seat 2: Choumil (15475)
+Seat 3: manggy94 (38390)
+Seat 4: Cow.Bad.BOy (21619)
+Seat 5: nor73 (23544)
+Seat 6: MaXXiMUUuus (20000)
+*** ANTE/BLINDS ***
+Idenan1 posts ante 16
+Choumil posts ante 16
+manggy94 posts ante 16
+Cow.Bad.BOy posts ante 16
+nor73 posts ante 16
+Idenan1 posts small blind 70
+Choumil posts big blind 140
+Dealt to manggy94 [6c 9d]
+*** PRE-FLOP *** 
+manggy94 calls 140
+Cow.Bad.BOy calls 140
+nor73 calls 140
+Idenan1 folds
+Choumil checks
+*** FLOP *** [3s 7s 4s]
+Choumil checks
+manggy94 checks
+Cow.Bad.BOy checks
+nor73 checks
+*** TURN *** [3s 7s 4s][8h]
+Choumil checks
+manggy94 checks
+Cow.Bad.BOy bets 710
+nor73 folds
+Choumil folds
+manggy94 calls 710
+*** RIVER *** [3s 7s 4s 8h][Js]
+manggy94 bets 1065
+Cow.Bad.BOy raises 19688 to 20753 and is all-in
+manggy94 folds
+Cow.Bad.BOy collected 23948 from pot
+*** SUMMARY ***
+Total pot 23948 | No rake
+Board: [3s 7s 4s 8h Js]
+Seat 4: Cow.Bad.BOy won 23948
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1756900816750379430-10-1606914515 - Holdem no limit (20/80/160) - 2020/12/02 13:08:35 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #1 is the button
+Seat 1: Idenan1 (19620)
+Seat 2: Choumil (15319)
+Seat 3: manggy94 (36459)
+Seat 4: Cow.Bad.BOy (23948)
+Seat 5: nor73 (23388)
+Seat 6: MaXXiMUUuus (20000)
+*** ANTE/BLINDS ***
+Choumil posts ante 20
+manggy94 posts ante 20
+Idenan1 posts ante 20
+Cow.Bad.BOy posts ante 20
+nor73 posts ante 20
+MaXXiMUUuus posts ante 20
+Choumil posts small blind 80
+manggy94 posts big blind 160
+Dealt to manggy94 [Tc 8c]
+*** PRE-FLOP *** 
+Cow.Bad.BOy calls 160
+nor73 calls 160
+MaXXiMUUuus folds
+Idenan1 folds
+Choumil calls 80
+manggy94 checks
+*** FLOP *** [6s 4s Qc]
+Choumil checks
+manggy94 checks
+Cow.Bad.BOy checks
+nor73 checks
+*** TURN *** [6s 4s Qc][9h]
+Choumil bets 380
+manggy94 calls 380
+Cow.Bad.BOy folds
+nor73 folds
+*** RIVER *** [6s 4s Qc 9h][3d]
+Choumil checks
+manggy94 bets 760
+Choumil folds
+manggy94 collected 2280 from pot
+*** SUMMARY ***
+Total pot 2280 | No rake
+Board: [6s 4s Qc 9h 3d]
+Seat 3: manggy94 (big blind) won 2280
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1756900816750379430-11-1606914570 - Holdem no limit (20/80/160) - 2020/12/02 13:09:30 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #2 is the button
+Seat 1: Idenan1 (19600)
+Seat 2: Choumil (14759)
+Seat 3: manggy94 (37419)
+Seat 4: Cow.Bad.BOy (23768)
+Seat 5: nor73 (23208)
+Seat 6: MaXXiMUUuus (19980)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+Cow.Bad.BOy posts ante 20
+Idenan1 posts ante 20
+Choumil posts ante 20
+nor73 posts ante 20
+MaXXiMUUuus posts ante 20
+manggy94 posts small blind 80
+Cow.Bad.BOy posts big blind 160
+Dealt to manggy94 [Ah 4s]
+*** PRE-FLOP *** 
+nor73 calls 160
+MaXXiMUUuus folds
+Idenan1 folds
+Choumil folds
+manggy94 calls 80
+Cow.Bad.BOy checks
+*** FLOP *** [Qd Qs Kh]
+manggy94 checks
+Cow.Bad.BOy checks
+nor73 checks
+*** TURN *** [Qd Qs Kh][6c]
+manggy94 checks
+Cow.Bad.BOy checks
+nor73 checks
+*** RIVER *** [Qd Qs Kh 6c][2d]
+manggy94 checks
+Cow.Bad.BOy checks
+nor73 checks
+*** SHOW DOWN ***
+manggy94 shows [Ah 4s] (One pair : Queens)
+nor73 shows [Tc 9d] (One pair : Queens)
+Cow.Bad.BOy shows [8d Kd] (Two pairs : Kings and Queens)
+Cow.Bad.BOy collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Qd Qs Kh 6c 2d]
+Seat 3: manggy94 (small blind) showed [Ah 4s] and lost with One pair : Queens
+Seat 4: Cow.Bad.BOy (big blind) showed [8d Kd] and won 600 with Two pairs : Kings and Queens
+Seat 5: nor73 showed [Tc 9d] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1756900816750379430-12-1606914632 - Holdem no limit (25/100/200) - 2020/12/02 13:10:32 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #3 is the button
+Seat 1: Idenan1 (19580)
+Seat 2: Choumil (14739)
+Seat 3: manggy94 (37239)
+Seat 4: Cow.Bad.BOy (24188)
+Seat 5: nor73 (23028)
+Seat 6: MaXXiMUUuus (19960)
+*** ANTE/BLINDS ***
+Cow.Bad.BOy posts ante 25
+nor73 posts ante 25
+Idenan1 posts ante 25
+Choumil posts ante 25
+manggy94 posts ante 25
+MaXXiMUUuus posts ante 25
+Cow.Bad.BOy posts small blind 100
+nor73 posts big blind 200
+Dealt to manggy94 [6c 8d]
+*** PRE-FLOP *** 
+MaXXiMUUuus folds
+Idenan1 raises 800 to 1000
+Choumil folds
+manggy94 folds
+Cow.Bad.BOy folds
+nor73 folds
+Idenan1 collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Seat 1: Idenan1 won 1450
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1756900816750379430-13-1606914655 - Holdem no limit (25/100/200) - 2020/12/02 13:10:55 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #4 is the button
+Seat 1: Idenan1 (20005)
+Seat 2: Choumil (14714)
+Seat 3: manggy94 (37214)
+Seat 4: Cow.Bad.BOy (24063)
+Seat 5: nor73 (22803)
+Seat 6: MaXXiMUUuus (19935)
+*** ANTE/BLINDS ***
+nor73 posts ante 25
+MaXXiMUUuus posts ante 25
+Idenan1 posts ante 25
+Choumil posts ante 25
+manggy94 posts ante 25
+Cow.Bad.BOy posts ante 25
+nor73 posts small blind 100
+MaXXiMUUuus posts big blind 200
+Dealt to manggy94 [8h 9s]
+*** PRE-FLOP *** 
+Idenan1 folds
+Choumil folds
+manggy94 calls 200
+Cow.Bad.BOy folds
+nor73 raises 800 to 1000
+MaXXiMUUuus folds
+manggy94 calls 800
+*** FLOP *** [Qc 8d Tc]
+nor73 checks
+manggy94 bets 1175
+nor73 calls 1175
+*** TURN *** [Qc 8d Tc][Jc]
+nor73 checks
+manggy94 bets 2350
+nor73 calls 2350
+*** RIVER *** [Qc 8d Tc Jc][4s]
+nor73 bets 18253 and is all-in
+manggy94 calls 18253
+*** SHOW DOWN ***
+manggy94 shows [8h 9s] (Straight Queen high)
+nor73 shows [Kc Ah] (Straight Ace high)
+nor73 collected 45906 from pot
+*** SUMMARY ***
+Total pot 45906 | No rake
+Board: [Qc 8d Tc Jc 4s]
+Seat 3: manggy94 showed [8h 9s] and lost with Straight Queen high
+Seat 5: nor73 (small blind) showed [Kc Ah] and won 45906 with Straight Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1756900816750379430-14-1606914714 - Holdem no limit (25/100/200) - 2020/12/02 13:11:54 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #5 is the button
+Seat 1: Idenan1 (19980)
+Seat 2: Choumil (14689)
+Seat 3: manggy94 (14411)
+Seat 4: Cow.Bad.BOy (24038)
+Seat 5: nor73 (45906)
+Seat 6: MaXXiMUUuus (19710)
+*** ANTE/BLINDS ***
+MaXXiMUUuus posts ante 25
+Idenan1 posts ante 25
+Choumil posts ante 25
+manggy94 posts ante 25
+Cow.Bad.BOy posts ante 25
+nor73 posts ante 25
+MaXXiMUUuus posts small blind 100
+Idenan1 posts big blind 200
+Dealt to manggy94 [8h Js]
+*** PRE-FLOP *** 
+Choumil folds
+manggy94 calls 200
+Cow.Bad.BOy calls 200
+nor73 folds
+MaXXiMUUuus calls 100
+Idenan1 checks
+*** FLOP *** [8s Qh 2h]
+MaXXiMUUuus checks
+Idenan1 checks
+manggy94 checks
+Cow.Bad.BOy checks
+*** TURN *** [8s Qh 2h][5d]
+MaXXiMUUuus bets 475
+Idenan1 folds
+manggy94 calls 475
+Cow.Bad.BOy raises 2375 to 2850
+MaXXiMUUuus calls 2375
+manggy94 calls 2375
+*** RIVER *** [8s Qh 2h 5d][7c]
+MaXXiMUUuus checks
+manggy94 checks
+Cow.Bad.BOy bets 20963 and is all-in
+MaXXiMUUuus calls 16635 and is all-in
+manggy94 folds
+*** SHOW DOWN ***
+MaXXiMUUuus shows [Qs 3s] (One pair : Queens)
+Cow.Bad.BOy shows [Qd 6h] (One pair : Queens)
+Cow.Bad.BOy collected 47098 from pot
+*** SUMMARY ***
+Total pot 47098 | No rake
+Board: [8s Qh 2h 5d 7c]
+Seat 4: Cow.Bad.BOy showed [Qd 6h] and won 47098 with One pair : Queens
+Seat 6: MaXXiMUUuus (small blind) showed [Qs 3s] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1756900816750379430-15-1606914783 - Holdem no limit (30/125/250) - 2020/12/02 13:13:03 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #6 is the button
+Seat 1: Idenan1 (19755)
+Seat 2: Choumil (14664)
+Seat 3: manggy94 (11336)
+Seat 4: Cow.Bad.BOy (47098)
+Seat 5: nor73 (45881)
+*** ANTE/BLINDS ***
+Idenan1 posts ante 30
+Choumil posts ante 30
+manggy94 posts ante 30
+Cow.Bad.BOy posts ante 30
+nor73 posts ante 30
+Idenan1 posts small blind 125
+Choumil posts big blind 250
+Dealt to manggy94 [Jh 7c]
+*** PRE-FLOP *** 
+manggy94 calls 250
+Cow.Bad.BOy calls 250
+nor73 folds
+Idenan1 folds
+Choumil checks
+*** FLOP *** [Qc 9h 2c]
+Choumil checks
+manggy94 checks
+Cow.Bad.BOy checks
+*** TURN *** [Qc 9h 2c][7s]
+Choumil bets 513
+manggy94 calls 513
+Cow.Bad.BOy calls 513
+*** RIVER *** [Qc 9h 2c 7s][2s]
+Choumil checks
+manggy94 checks
+Cow.Bad.BOy bets 2564
+Choumil folds
+manggy94 calls 2564
+*** SHOW DOWN ***
+manggy94 shows [Jh 7c] (Two pairs : 7 and 2)
+Cow.Bad.BOy shows [Jc Qd] (Two pairs : Queens and 2)
+Cow.Bad.BOy collected 7692 from pot
+*** SUMMARY ***
+Total pot 7692 | No rake
+Board: [Qc 9h 2c 7s 2s]
+Seat 3: manggy94 showed [Jh 7c] and lost with Two pairs : 7 and 2
+Seat 4: Cow.Bad.BOy showed [Jc Qd] and won 7692 with Two pairs : Queens and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1756900816750379430-16-1606914823 - Holdem no limit (30/125/250) - 2020/12/02 13:13:43 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #1 is the button
+Seat 1: Idenan1 (19600)
+Seat 2: Choumil (13871)
+Seat 3: manggy94 (7979)
+Seat 4: Cow.Bad.BOy (51433)
+Seat 5: nor73 (45851)
+Seat 6: MishimaLaS (20000)
+*** ANTE/BLINDS ***
+Choumil posts ante 30
+manggy94 posts ante 30
+Idenan1 posts ante 30
+Cow.Bad.BOy posts ante 30
+nor73 posts ante 30
+MishimaLaS posts ante 30
+Choumil posts small blind 125
+manggy94 posts big blind 250
+Dealt to manggy94 [6h 3d]
+*** PRE-FLOP *** 
+Cow.Bad.BOy folds
+nor73 calls 250
+MishimaLaS calls 250
+Idenan1 raises 250 to 500
+Choumil calls 375
+manggy94 folds
+nor73 calls 250
+MishimaLaS calls 250
+*** FLOP *** [9d 8d Ad]
+Choumil checks
+nor73 bets 2375
+MishimaLaS raises 17095 to 19470 and is all-in
+Idenan1 folds
+Choumil folds
+nor73 calls 17095
+*** TURN *** [9d 8d Ad][7s]
+*** RIVER *** [9d 8d Ad 7s][4s]
+*** SHOW DOWN ***
+MishimaLaS shows [8c 5d] (One pair : 8)
+nor73 shows [Td Kd] (Flush Ace high)
+nor73 collected 41370 from pot
+*** SUMMARY ***
+Total pot 41370 | No rake
+Board: [9d 8d Ad 7s 4s]
+Seat 5: nor73 showed [Td Kd] and won 41370 with Flush Ace high
+Seat 6: MishimaLaS showed [8c 5d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1756900816750379430-17-1606914890 - Holdem no limit (30/125/250) - 2020/12/02 13:14:50 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #2 is the button
+Seat 1: Idenan1 (19070)
+Seat 2: Choumil (13341)
+Seat 3: manggy94 (7699)
+Seat 4: Cow.Bad.BOy (51403)
+Seat 5: nor73 (67221)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+Cow.Bad.BOy posts ante 30
+Idenan1 posts ante 30
+Choumil posts ante 30
+nor73 posts ante 30
+manggy94 posts small blind 125
+Cow.Bad.BOy posts big blind 250
+Dealt to manggy94 [8c 3c]
+*** PRE-FLOP *** 
+nor73 folds
+Idenan1 folds
+Choumil folds
+manggy94 calls 125
+Cow.Bad.BOy checks
+*** FLOP *** [Qs 9h 2s]
+manggy94 bets 325
+Cow.Bad.BOy folds
+manggy94 collected 975 from pot
+*** SUMMARY ***
+Total pot 975 | No rake
+Board: [Qs 9h 2s]
+Seat 3: manggy94 (small blind) won 975
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1756900816750379430-18-1606914914 - Holdem no limit (30/125/250) - 2020/12/02 13:15:14 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #3 is the button
+Seat 1: Idenan1 (19040)
+Seat 2: Choumil (13311)
+Seat 3: manggy94 (8069)
+Seat 4: Cow.Bad.BOy (51123)
+Seat 5: nor73 (67191)
+*** ANTE/BLINDS ***
+Cow.Bad.BOy posts ante 30
+nor73 posts ante 30
+Idenan1 posts ante 30
+Choumil posts ante 30
+manggy94 posts ante 30
+Cow.Bad.BOy posts small blind 125
+nor73 posts big blind 250
+Dealt to manggy94 [Jd 6s]
+*** PRE-FLOP *** 
+Idenan1 raises 250 to 500
+Choumil folds
+manggy94 folds
+Cow.Bad.BOy calls 375
+nor73 folds
+*** FLOP *** [5h Qs 4s]
+Cow.Bad.BOy checks
+Idenan1 bets 250
+Cow.Bad.BOy raises 50343 to 50593 and is all-in
+Idenan1 folds
+Cow.Bad.BOy collected 52243 from pot
+*** SUMMARY ***
+Total pot 52243 | No rake
+Board: [5h Qs 4s]
+Seat 4: Cow.Bad.BOy (small blind) won 52243
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1756900816750379430-19-1606914952 - Holdem no limit (35/150/300) - 2020/12/02 13:15:52 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #4 is the button
+Seat 1: Idenan1 (18260)
+Seat 2: Choumil (13281)
+Seat 3: manggy94 (8039)
+Seat 4: Cow.Bad.BOy (52243)
+Seat 5: nor73 (66911)
+Seat 6: Elyesdu13 (20000)
+*** ANTE/BLINDS ***
+nor73 posts ante 35
+Elyesdu13 posts ante 35
+Idenan1 posts ante 35
+Choumil posts ante 35
+manggy94 posts ante 35
+Cow.Bad.BOy posts ante 35
+nor73 posts small blind 150
+Elyesdu13 posts big blind 300
+Dealt to manggy94 [7d Kd]
+*** PRE-FLOP *** 
+Idenan1 folds
+Choumil folds
+manggy94 raises 600 to 900
+Cow.Bad.BOy calls 900
+nor73 folds
+Elyesdu13 calls 600
+*** FLOP *** [8s Ad 5s]
+Elyesdu13 bets 300
+manggy94 raises 1680 to 1980
+Cow.Bad.BOy folds
+Elyesdu13 folds
+manggy94 collected 5340 from pot
+*** SUMMARY ***
+Total pot 5340 | No rake
+Board: [8s Ad 5s]
+Seat 3: manggy94 won 5340
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1756900816750379430-20-1606914980 - Holdem no limit (35/150/300) - 2020/12/02 13:16:20 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #5 is the button
+Seat 1: Idenan1 (18225)
+Seat 2: Choumil (13246)
+Seat 3: manggy94 (10464)
+Seat 4: Cow.Bad.BOy (51308)
+Seat 5: nor73 (66726)
+Seat 6: Elyesdu13 (18765)
+*** ANTE/BLINDS ***
+Elyesdu13 posts ante 35
+Idenan1 posts ante 35
+Choumil posts ante 35
+manggy94 posts ante 35
+Cow.Bad.BOy posts ante 35
+nor73 posts ante 35
+Elyesdu13 posts small blind 150
+Idenan1 posts big blind 300
+Dealt to manggy94 [Kh 2h]
+*** PRE-FLOP *** 
+Choumil folds
+manggy94 raises 300 to 600
+Cow.Bad.BOy folds
+nor73 folds
+Elyesdu13 raises 18130 to 18730 and is all-in
+Idenan1 folds
+manggy94 folds
+Elyesdu13 collected 19840 from pot
+*** SUMMARY ***
+Total pot 19840 | No rake
+Seat 6: Elyesdu13 (small blind) won 19840
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1756900816750379430-21-1606915003 - Holdem no limit (35/150/300) - 2020/12/02 13:16:43 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #6 is the button
+Seat 1: Idenan1 (17890)
+Seat 2: Choumil (13211)
+Seat 3: manggy94 (9829)
+Seat 4: Cow.Bad.BOy (51273)
+Seat 5: nor73 (66691)
+Seat 6: Elyesdu13 (19840)
+*** ANTE/BLINDS ***
+Idenan1 posts ante 35
+Choumil posts ante 35
+manggy94 posts ante 35
+Cow.Bad.BOy posts ante 35
+nor73 posts ante 35
+Elyesdu13 posts ante 35
+Idenan1 posts small blind 150
+Choumil posts big blind 300
+Dealt to manggy94 [6s Tc]
+*** PRE-FLOP *** 
+manggy94 folds
+Cow.Bad.BOy folds
+nor73 folds
+Elyesdu13 calls 300
+Idenan1 folds
+Choumil checks
+*** FLOP *** [Ts 5d 7c]
+Choumil checks
+Elyesdu13 checks
+*** TURN *** [Ts 5d 7c][Qc]
+Choumil bets 480
+Elyesdu13 raises 480 to 960
+Choumil raises 480 to 1440
+Elyesdu13 raises 480 to 1920
+Choumil calls 480
+*** RIVER *** [Ts 5d 7c Qc][4d]
+Choumil checks
+Elyesdu13 bets 4551
+Choumil calls 4551
+*** SHOW DOWN ***
+Choumil shows [Qh 2d] (One pair : Queens)
+Elyesdu13 shows [Jc Qd] (One pair : Queens)
+Elyesdu13 collected 13902 from pot
+*** SUMMARY ***
+Total pot 13902 | No rake
+Board: [Ts 5d 7c Qc 4d]
+Seat 2: Choumil (big blind) showed [Qh 2d] and lost with One pair : Queens
+Seat 6: Elyesdu13 (button) showed [Jc Qd] and won 13902 with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1756900816750379430-22-1606915046 - Holdem no limit (35/150/300) - 2020/12/02 13:17:26 UTC
+Table: 'Freeroll(409060348)#0421' 6-max (real money) Seat #1 is the button
+Seat 1: Idenan1 (17705)
+Seat 2: Choumil (6405)
+Seat 3: manggy94 (9794)
+Seat 4: Cow.Bad.BOy (51238)
+Seat 5: nor73 (66656)
+Seat 6: Elyesdu13 (26936)
+*** ANTE/BLINDS ***
+Choumil posts ante 35
+manggy94 posts ante 35
+Idenan1 posts ante 35
+Cow.Bad.BOy posts ante 35
+nor73 posts ante 35
+Elyesdu13 posts ante 35
+Choumil posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Tc Ts]
+*** PRE-FLOP *** 
+Cow.Bad.BOy calls 300
+nor73 calls 300
+Elyesdu13 raises 25567 to 25867
+Idenan1 calls 17670 and is all-in
+Choumil folds
+manggy94 calls 9459 and is all-in
+Cow.Bad.BOy folds
+nor73 folds
+*** FLOP *** [8d Qs Jh]
+*** TURN *** [8d Qs Jh][5c]
+*** RIVER *** [8d Qs Jh 5c][2c]
+*** SHOW DOWN ***
+manggy94 shows [Tc Ts] (One pair : Tens)
+Idenan1 shows [Qc 9s] (One pair : Queens)
+Elyesdu13 shows [4c Ad] (High card : Ace)
+Elyesdu13 collected 8197 from side pot 1
+Idenan1 collected 46059 from main pot
+*** SUMMARY ***
+Total pot 54256 | No rake
+Board: [8d Qs Jh 5c 2c]
+Seat 1: Idenan1 (button) showed [Qc 9s] and won 46059 with One pair : Queens
+Seat 3: manggy94 (big blind) showed [Tc Ts] and lost with One pair : Tens
+Seat 6: Elyesdu13 showed [4c Ad] and won 8197 with High card : Ace
+
+

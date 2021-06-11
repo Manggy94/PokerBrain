@@ -1,0 +1,111 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1755522995536789890-14-1606833944 - Holdem no limit (35/150/300) - 2020/12/01 14:45:44 UTC
+Table: 'Freeroll(408739549)#0385' 8-max (real money) Seat #1 is the button
+Seat 1: DDR13 (14202)
+Seat 2: Ninaflush66 (81483)
+Seat 3: PinkFred (24239)
+Seat 4: Yahia936 (49793)
+Seat 5: dany34250 (19493)
+Seat 6: Poison31700 (16954)
+Seat 7: manggy94 (20000)
+Seat 8: Tofini (38384)
+*** ANTE/BLINDS ***
+Ninaflush66 posts ante 35
+PinkFred posts ante 35
+DDR13 posts ante 35
+Yahia936 posts ante 35
+dany34250 posts ante 35
+Poison31700 posts ante 35
+manggy94 posts ante 35
+Tofini posts ante 35
+Ninaflush66 posts small blind 150
+PinkFred posts big blind 300
+Dealt to manggy94 [Qc 6d]
+*** PRE-FLOP *** 
+Yahia936 calls 300
+dany34250 folds
+Poison31700 folds
+manggy94 folds
+Tofini folds
+DDR13 calls 300
+Ninaflush66 calls 150
+PinkFred checks
+*** FLOP *** [9c Kh Td]
+Ninaflush66 checks
+PinkFred checks
+Yahia936 checks
+DDR13 checks
+*** TURN *** [9c Kh Td][Ah]
+Ninaflush66 checks
+PinkFred checks
+Yahia936 checks
+DDR13 checks
+*** RIVER *** [9c Kh Td Ah][Kc]
+Ninaflush66 checks
+PinkFred checks
+Yahia936 checks
+DDR13 checks
+*** SHOW DOWN ***
+Ninaflush66 shows [5s 7c] (One pair : Kings)
+PinkFred shows [5c 7h] (One pair : Kings)
+Yahia936 shows [7s 2h] (One pair : Kings)
+DDR13 shows [Jc 2s] (One pair : Kings)
+DDR13 collected 1480 from pot
+*** SUMMARY ***
+Total pot 1480 | No rake
+Board: [9c Kh Td Ah Kc]
+Seat 1: DDR13 (button) showed [Jc 2s] and won 1480 with One pair : Kings
+Seat 2: Ninaflush66 (small blind) showed [5s 7c] and lost with One pair : Kings
+Seat 3: PinkFred (big blind) showed [5c 7h] and lost with One pair : Kings
+Seat 4: Yahia936 showed [7s 2h] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1755522995536789890-15-1606834031 - Holdem no limit (35/150/300) - 2020/12/01 14:47:11 UTC
+Table: 'Freeroll(408739549)#0385' 8-max (real money) Seat #2 is the button
+Seat 1: DDR13 (15347)
+Seat 2: Ninaflush66 (81148)
+Seat 3: PinkFred (23904)
+Seat 4: Yahia936 (49458)
+Seat 5: dany34250 (19458)
+Seat 6: Poison31700 (16919)
+Seat 7: manggy94 (19965)
+Seat 8: Tofini (38349)
+*** ANTE/BLINDS ***
+PinkFred posts ante 35
+Yahia936 posts ante 35
+DDR13 posts ante 35
+Ninaflush66 posts ante 35
+dany34250 posts ante 35
+Poison31700 posts ante 35
+manggy94 posts ante 35
+Tofini posts ante 35
+PinkFred posts small blind 150
+Yahia936 posts big blind 300
+Dealt to manggy94 [Ah Ks]
+*** PRE-FLOP *** 
+dany34250 folds
+Poison31700 raises 16584 to 16884 and is all-in
+manggy94 calls 16884
+Tofini folds
+DDR13 calls 15312 and is all-in
+Ninaflush66 folds
+PinkFred raises 6985 to 23869 and is all-in
+Yahia936 folds
+manggy94 calls 3046 and is all-in
+*** FLOP *** [9h Kd Th]
+*** TURN *** [9h Kd Th][8d]
+*** RIVER *** [9h Kd Th 8d][7h]
+*** SHOW DOWN ***
+DDR13 shows [7d 7c] (Trips of 7)
+Poison31700 shows [3s 3h] (One pair : 3)
+manggy94 shows [Ah Ks] (One pair : Kings)
+PinkFred shows [Kc Kh] (Trips of Kings)
+PinkFred collected 76575 from pot
+*** SUMMARY ***
+Total pot 76575 | No rake
+Board: [9h Kd Th 8d 7h]
+Seat 1: DDR13 showed [7d 7c] and lost with Trips of 7
+Seat 3: PinkFred (small blind) showed [Kc Kh] and won 76575 with Trips of Kings
+Seat 6: Poison31700 showed [3s 3h] and lost with One pair : 3
+Seat 7: manggy94 showed [Ah Ks] and lost with One pair : Kings
+
+

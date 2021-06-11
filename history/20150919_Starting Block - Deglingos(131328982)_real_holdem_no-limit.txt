@@ -1,0 +1,119 @@
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #564053682706972673-1-1442673639 - Holdem no limit (10/20) - 2015/09/19 14:40:39 UTC
+Table: 'Starting Block - Deglingos(131328982)#0' 10-max (real money) Seat #2 is the button
+Seat 1: bouldog666 (500)
+Seat 2: calcuttajohn (500)
+Seat 3: schriner67 (500)
+Seat 4: BlockingCall (500)
+Seat 5: jayjay7777 (500)
+Seat 6: ifonly69 (500)
+Seat 7: mamamiya09 (500)
+Seat 8: Tooommy7 (500)
+Seat 9: manggy94 (500)
+Seat 10: laurent m (500)
+*** ANTE/BLINDS ***
+schriner67 posts small blind 10
+BlockingCall posts big blind 20
+Dealt to manggy94 [2c Td]
+*** PRE-FLOP *** 
+jayjay7777 raises 480 to 500 and is all-in
+ifonly69 calls 500 and is all-in
+mamamiya09 folds
+Tooommy7 folds
+manggy94 folds
+laurent m folds
+bouldog666 folds
+calcuttajohn folds
+schriner67 folds
+BlockingCall folds
+*** FLOP *** [7c Th 7h]
+*** TURN *** [7c Th 7h][4s]
+*** RIVER *** [7c Th 7h 4s][6s]
+*** SHOW DOWN ***
+jayjay7777 shows [Ah Ts] (Two pairs : Tens and 7)
+ifonly69 shows [Ac As] (Two pairs : Aces and 7)
+ifonly69 collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | No rake
+Board: [7c Th 7h 4s 6s]
+Seat 5: jayjay7777 showed [Ah Ts] and lost with Two pairs : Tens and 7
+Seat 6: ifonly69 showed [Ac As] and won 1030 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #564053682706972673-2-1442673666 - Holdem no limit (10/20) - 2015/09/19 14:41:06 UTC
+Table: 'Starting Block - Deglingos(131328982)#0' 10-max (real money) Seat #3 is the button
+Seat 1: bouldog666 (500)
+Seat 2: calcuttajohn (500)
+Seat 3: schriner67 (490)
+Seat 4: BlockingCall (480)
+Seat 6: ifonly69 (1030)
+Seat 7: mamamiya09 (500)
+Seat 8: Tooommy7 (500)
+Seat 9: manggy94 (500)
+Seat 10: laurent m (500)
+*** ANTE/BLINDS ***
+BlockingCall posts small blind 10
+ifonly69 posts big blind 20
+Dealt to manggy94 [Th 5d]
+*** PRE-FLOP *** 
+mamamiya09 folds
+Tooommy7 folds
+manggy94 folds
+laurent m folds
+bouldog666 folds
+calcuttajohn folds
+schriner67 folds
+BlockingCall raises 460 to 480 and is all-in
+ifonly69 calls 460
+*** FLOP *** [5h Kh 6s]
+*** TURN *** [5h Kh 6s][Jh]
+*** RIVER *** [5h Kh 6s Jh][Ah]
+*** SHOW DOWN ***
+ifonly69 shows [9c Kc] (One pair : Kings)
+BlockingCall shows [Jd Qh] (Flush Ace high)
+BlockingCall collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [5h Kh 6s Jh Ah]
+Seat 4: BlockingCall (small blind) showed [Jd Qh] and won 960 with Flush Ace high
+Seat 6: ifonly69 (big blind) showed [9c Kc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #564053682706972673-3-1442673712 - Holdem no limit (10/20) - 2015/09/19 14:41:52 UTC
+Table: 'Starting Block - Deglingos(131328982)#0' 10-max (real money) Seat #4 is the button
+Seat 1: bouldog666 (500)
+Seat 2: calcuttajohn (500)
+Seat 3: schriner67 (490)
+Seat 4: BlockingCall (960)
+Seat 6: ifonly69 (550)
+Seat 7: mamamiya09 (500)
+Seat 8: Tooommy7 (500)
+Seat 9: manggy94 (500)
+Seat 10: laurent m (500)
+*** ANTE/BLINDS ***
+ifonly69 posts small blind 10
+mamamiya09 posts big blind 20
+Dealt to manggy94 [2s 2h]
+*** PRE-FLOP *** 
+Tooommy7 folds
+manggy94 raises 480 to 500 and is all-in
+laurent m folds
+bouldog666 folds
+calcuttajohn calls 500 and is all-in
+schriner67 folds
+BlockingCall folds
+ifonly69 folds
+mamamiya09 folds
+*** FLOP *** [3h Qd 6c]
+*** TURN *** [3h Qd 6c][6s]
+*** RIVER *** [3h Qd 6c 6s][Js]
+*** SHOW DOWN ***
+manggy94 shows [2s 2h] (Two pairs : 6 and 2)
+calcuttajohn shows [Ac Qs] (Two pairs : Queens and 6)
+calcuttajohn collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | No rake
+Board: [3h Qd 6c 6s Js]
+Seat 2: calcuttajohn showed [Ac Qs] and won 1030 with Two pairs : Queens and 6
+Seat 9: manggy94 showed [2s 2h] and lost with Two pairs : 6 and 2
+
+

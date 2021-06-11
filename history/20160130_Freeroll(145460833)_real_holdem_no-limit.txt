@@ -1,0 +1,843 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #624749520583918306-1-1454158830 - Holdem no limit (10/20) - 2016/01/30 13:00:30 UTC
+Table: 'Freeroll(145460833)#737' 6-max (real money) Seat #4 is the button
+Seat 1: gregyssa (3000)
+Seat 2: flo tatoo (3000)
+Seat 3: manggy94 (3000)
+Seat 4: fantasia7 (3000)
+Seat 5: Barnabou11 (3000)
+Seat 6: Ryderstan (3000)
+*** ANTE/BLINDS ***
+Barnabou11 posts small blind 10
+Ryderstan posts big blind 20
+Dealt to manggy94 [4h Td]
+*** PRE-FLOP *** 
+gregyssa folds
+flo tatoo folds
+manggy94 folds
+fantasia7 calls 20
+Barnabou11 folds
+Ryderstan raises 20 to 40
+fantasia7 calls 20
+*** FLOP *** [Jc 4s 8c]
+Ryderstan checks
+fantasia7 checks
+*** TURN *** [Jc 4s 8c][Kh]
+Ryderstan checks
+fantasia7 checks
+*** RIVER *** [Jc 4s 8c Kh][6c]
+Ryderstan checks
+fantasia7 checks
+*** SHOW DOWN ***
+Ryderstan shows [9h Ad] (High card : Ace)
+fantasia7 shows [6h 3s] (One pair : 6)
+fantasia7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Jc 4s 8c Kh 6c]
+Seat 4: fantasia7 (button) showed [6h 3s] and won 90 with One pair : 6
+Seat 6: Ryderstan (big blind) showed [9h Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #624749520583918306-2-1454158946 - Holdem no limit (10/20) - 2016/01/30 13:02:26 UTC
+Table: 'Freeroll(145460833)#737' 6-max (real money) Seat #5 is the button
+Seat 1: gregyssa (3000)
+Seat 2: flo tatoo (3000)
+Seat 3: manggy94 (3000)
+Seat 4: fantasia7 (3050)
+Seat 5: Barnabou11 (2990)
+Seat 6: Ryderstan (2960)
+*** ANTE/BLINDS ***
+Ryderstan posts small blind 10
+gregyssa posts big blind 20
+Dealt to manggy94 [2s 8s]
+*** PRE-FLOP *** 
+flo tatoo folds
+manggy94 folds
+fantasia7 folds
+Barnabou11 folds
+Ryderstan calls 10
+gregyssa folds
+Ryderstan collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Seat 6: Ryderstan (small blind) won 40
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #624749520583918306-3-1454158967 - Holdem no limit (10/20) - 2016/01/30 13:02:47 UTC
+Table: 'Freeroll(145460833)#737' 6-max (real money) Seat #6 is the button
+Seat 1: gregyssa (2980)
+Seat 2: flo tatoo (3000)
+Seat 3: manggy94 (3000)
+Seat 4: fantasia7 (3050)
+Seat 5: Barnabou11 (2990)
+Seat 6: Ryderstan (2980)
+*** ANTE/BLINDS ***
+gregyssa posts small blind 10
+flo tatoo posts big blind 20
+Dealt to manggy94 [8s 9h]
+*** PRE-FLOP *** 
+manggy94 folds
+fantasia7 calls 20
+Barnabou11 folds
+Ryderstan raises 2960 to 2980 and is all-in
+gregyssa folds
+flo tatoo folds
+fantasia7 folds
+Ryderstan collected 3030 from pot
+*** SUMMARY ***
+Total pot 3030 | No rake
+Seat 6: Ryderstan (button) won 3030
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #624749520583918306-4-1454158984 - Holdem no limit (10/20) - 2016/01/30 13:03:04 UTC
+Table: 'Freeroll(145460833)#737' 6-max (real money) Seat #1 is the button
+Seat 1: gregyssa (2970)
+Seat 2: flo tatoo (2980)
+Seat 3: manggy94 (3000)
+Seat 4: fantasia7 (3030)
+Seat 5: Barnabou11 (2990)
+Seat 6: Ryderstan (3030)
+*** ANTE/BLINDS ***
+flo tatoo posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [9d Td]
+*** PRE-FLOP *** 
+fantasia7 calls 20
+Barnabou11 folds
+Ryderstan calls 20
+gregyssa folds
+flo tatoo raises 2960 to 2980 and is all-in
+manggy94 folds
+fantasia7 folds
+Ryderstan folds
+flo tatoo collected 3040 from pot
+*** SUMMARY ***
+Total pot 3040 | No rake
+Seat 2: flo tatoo (small blind) won 3040
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #624749520583918306-5-1454159017 - Holdem no limit (15/30) - 2016/01/30 13:03:37 UTC
+Table: 'Freeroll(145460833)#737' 6-max (real money) Seat #2 is the button
+Seat 1: gregyssa (2970)
+Seat 2: flo tatoo (3040)
+Seat 3: manggy94 (2980)
+Seat 4: fantasia7 (3010)
+Seat 5: Barnabou11 (2990)
+Seat 6: Ryderstan (3010)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+fantasia7 posts big blind 30
+Dealt to manggy94 [3c Jc]
+*** PRE-FLOP *** 
+Barnabou11 folds
+Ryderstan calls 30
+gregyssa folds
+flo tatoo folds
+manggy94 folds
+fantasia7 checks
+*** FLOP *** [7d Qc 5d]
+fantasia7 checks
+Ryderstan checks
+*** TURN *** [7d Qc 5d][3h]
+fantasia7 bets 30
+Ryderstan folds
+fantasia7 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [7d Qc 5d 3h]
+Seat 4: fantasia7 (big blind) won 105
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #624749520583918306-6-1454159060 - Holdem no limit (15/30) - 2016/01/30 13:04:20 UTC
+Table: 'Freeroll(145460833)#737' 6-max (real money) Seat #3 is the button
+Seat 1: gregyssa (2970)
+Seat 2: flo tatoo (3040)
+Seat 3: manggy94 (2965)
+Seat 4: fantasia7 (3055)
+Seat 5: Barnabou11 (2990)
+Seat 6: Ryderstan (2980)
+*** ANTE/BLINDS ***
+fantasia7 posts small blind 15
+Barnabou11 posts big blind 30
+Dealt to manggy94 [Qh 6d]
+*** PRE-FLOP *** 
+Ryderstan calls 30
+gregyssa folds
+flo tatoo folds
+manggy94 folds
+fantasia7 calls 15
+Barnabou11 folds
+*** FLOP *** [Jc Kd Td]
+fantasia7 checks
+Ryderstan bets 2950 and is all-in
+fantasia7 folds
+Ryderstan collected 3040 from pot
+*** SUMMARY ***
+Total pot 3040 | No rake
+Board: [Jc Kd Td]
+Seat 6: Ryderstan won 3040
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #624749520583918306-7-1454159091 - Holdem no limit (15/30) - 2016/01/30 13:04:51 UTC
+Table: 'Freeroll(145460833)#737' 6-max (real money) Seat #4 is the button
+Seat 1: gregyssa (2970)
+Seat 2: flo tatoo (3040)
+Seat 3: manggy94 (2965)
+Seat 4: fantasia7 (3025)
+Seat 5: Barnabou11 (2960)
+Seat 6: Ryderstan (3040)
+*** ANTE/BLINDS ***
+Barnabou11 posts small blind 15
+Ryderstan posts big blind 30
+Dealt to manggy94 [Td Th]
+*** PRE-FLOP *** 
+gregyssa raises 75 to 105
+flo tatoo folds
+manggy94 raises 255 to 360
+fantasia7 folds
+Barnabou11 folds
+Ryderstan calls 330
+gregyssa calls 255
+*** FLOP *** [Tc 5h 6s]
+Ryderstan checks
+gregyssa bets 1095
+manggy94 calls 1095
+Ryderstan folds
+*** TURN *** [Tc 5h 6s][3h]
+gregyssa checks
+manggy94 checks
+*** RIVER *** [Tc 5h 6s 3h][8h]
+gregyssa checks
+manggy94 bets 1510 and is all-in
+gregyssa folds
+manggy94 collected 4795 from pot
+*** SUMMARY ***
+Total pot 4795 | No rake
+Board: [Tc 5h 6s 3h 8h]
+Seat 3: manggy94 won 4795
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #624749520583918306-8-1454159134 - Holdem no limit (15/30) - 2016/01/30 13:05:34 UTC
+Table: 'Freeroll(145460833)#737' 6-max (real money) Seat #5 is the button
+Seat 1: gregyssa (1515)
+Seat 2: flo tatoo (3040)
+Seat 3: manggy94 (4795)
+Seat 4: fantasia7 (3025)
+Seat 5: Barnabou11 (2945)
+Seat 6: Ryderstan (2680)
+*** ANTE/BLINDS ***
+Ryderstan posts small blind 15
+gregyssa posts big blind 30
+Dealt to manggy94 [9s Qs]
+*** PRE-FLOP *** 
+flo tatoo folds
+manggy94 calls 30
+fantasia7 folds
+Barnabou11 folds
+Ryderstan calls 15
+gregyssa raises 1485 to 1515 and is all-in
+manggy94 folds
+Ryderstan folds
+gregyssa collected 1575 from pot
+*** SUMMARY ***
+Total pot 1575 | No rake
+Seat 1: gregyssa (big blind) won 1575
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #624749520583918306-9-1454159156 - Holdem no limit (15/30) - 2016/01/30 13:05:56 UTC
+Table: 'Freeroll(145460833)#737' 6-max (real money) Seat #6 is the button
+Seat 1: gregyssa (1575)
+Seat 2: flo tatoo (3040)
+Seat 3: manggy94 (4765)
+Seat 4: fantasia7 (3025)
+Seat 5: Barnabou11 (2945)
+Seat 6: Ryderstan (2650)
+*** ANTE/BLINDS ***
+gregyssa posts small blind 15
+flo tatoo posts big blind 30
+Dealt to manggy94 [6h 6d]
+*** PRE-FLOP *** 
+manggy94 calls 30
+fantasia7 calls 30
+Barnabou11 folds
+Ryderstan calls 30
+gregyssa raises 509 to 539
+flo tatoo folds
+manggy94 calls 509
+fantasia7 calls 509
+Ryderstan calls 509
+*** FLOP *** [Jc 5c 7c]
+gregyssa checks
+manggy94 checks
+fantasia7 checks
+Ryderstan bets 2111 and is all-in
+gregyssa folds
+manggy94 folds
+fantasia7 folds
+Ryderstan collected 4297 from pot
+*** SUMMARY ***
+Total pot 4297 | No rake
+Board: [Jc 5c 7c]
+Seat 6: Ryderstan (button) won 4297
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #624749520583918013-17-1454159241 - Holdem no limit (20/40) - 2016/01/30 13:07:21 UTC
+Table: 'Freeroll(145460833)#444' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (4226)
+Seat 2: Kev59115 (5345)
+Seat 3: riri44110 (2880)
+Seat 4: c-la-crizz (4020)
+Seat 5: St-ph 972 (2880)
+Seat 6: Getgetc2L (2875)
+*** ANTE/BLINDS ***
+Kev59115 posts small blind 20
+riri44110 posts big blind 40
+Dealt to manggy94 [6s Qh]
+*** PRE-FLOP *** 
+c-la-crizz raises 100 to 140
+St-ph 972 folds
+Getgetc2L folds
+manggy94 folds
+Kev59115 calls 120
+riri44110 folds
+*** FLOP *** [Jh 3h 3s]
+Kev59115 bets 652
+c-la-crizz calls 652
+*** TURN *** [Jh 3h 3s][7d]
+Kev59115 checks
+c-la-crizz checks
+*** RIVER *** [Jh 3h 3s 7d][4d]
+Kev59115 checks
+c-la-crizz bets 1624
+Kev59115 folds
+c-la-crizz collected 3248 from pot
+*** SUMMARY ***
+Total pot 3248 | No rake
+Board: [Jh 3h 3s 7d 4d]
+Seat 4: c-la-crizz won 3248
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #624749520583918013-18-1454159279 - Holdem no limit (20/40) - 2016/01/30 13:07:59 UTC
+Table: 'Freeroll(145460833)#444' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (4226)
+Seat 2: Kev59115 (4553)
+Seat 3: riri44110 (2840)
+Seat 4: c-la-crizz (4852)
+Seat 5: St-ph 972 (2880)
+Seat 6: Getgetc2L (2875)
+*** ANTE/BLINDS ***
+riri44110 posts small blind 20
+c-la-crizz posts big blind 40
+Dealt to manggy94 [Qc Qs]
+*** PRE-FLOP *** 
+St-ph 972 folds
+Getgetc2L folds
+manggy94 raises 100 to 140
+Kev59115 calls 140
+riri44110 folds
+c-la-crizz calls 100
+*** FLOP *** [Th Tc 8c]
+c-la-crizz checks
+manggy94 bets 440
+Kev59115 folds
+c-la-crizz calls 440
+*** TURN *** [Th Tc 8c][4d]
+c-la-crizz checks
+manggy94 checks
+*** RIVER *** [Th Tc 8c 4d][Ad]
+c-la-crizz bets 1320
+manggy94 folds
+c-la-crizz shows [3c Ts] (Trips of Tens)
+c-la-crizz collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Board: [Th Tc 8c 4d Ad]
+Seat 4: c-la-crizz (big blind) showed [3c Ts] and won 2640 with Trips of Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #624749520583918013-19-1454159307 - Holdem no limit (20/40) - 2016/01/30 13:08:27 UTC
+Table: 'Freeroll(145460833)#444' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (3646)
+Seat 2: Kev59115 (4413)
+Seat 3: riri44110 (2820)
+Seat 4: c-la-crizz (5592)
+Seat 5: St-ph 972 (2880)
+Seat 6: Getgetc2L (2875)
+*** ANTE/BLINDS ***
+c-la-crizz posts small blind 20
+St-ph 972 posts big blind 40
+Dealt to manggy94 [Kd As]
+*** PRE-FLOP *** 
+Getgetc2L folds
+manggy94 raises 100 to 140
+Kev59115 folds
+riri44110 folds
+c-la-crizz raises 100 to 240
+St-ph 972 folds
+manggy94 calls 100
+*** FLOP *** [2s Qh Jc]
+c-la-crizz checks
+manggy94 checks
+*** TURN *** [2s Qh Jc][9h]
+c-la-crizz bets 520
+manggy94 calls 520
+*** RIVER *** [2s Qh Jc 9h][6h]
+c-la-crizz bets 1560
+manggy94 calls 1560
+*** SHOW DOWN ***
+manggy94 shows [Kd As] (High card : Ace)
+c-la-crizz shows [Js Ad] (One pair : Jacks)
+c-la-crizz collected 4680 from pot
+*** SUMMARY ***
+Total pot 4680 | No rake
+Board: [2s Qh Jc 9h 6h]
+Seat 1: manggy94 showed [Kd As] and lost with High card : Ace
+Seat 4: c-la-crizz (small blind) showed [Js Ad] and won 4680 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #624749520583918013-20-1454159334 - Holdem no limit (20/40) - 2016/01/30 13:08:54 UTC
+Table: 'Freeroll(145460833)#444' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (1326)
+Seat 2: Kev59115 (4413)
+Seat 3: riri44110 (2820)
+Seat 4: c-la-crizz (7952)
+Seat 5: St-ph 972 (2840)
+Seat 6: Getgetc2L (2875)
+*** ANTE/BLINDS ***
+St-ph 972 posts small blind 20
+Getgetc2L posts big blind 40
+Dealt to manggy94 [8c Kd]
+*** PRE-FLOP *** 
+manggy94 calls 40
+Kev59115 calls 40
+riri44110 folds
+c-la-crizz folds
+St-ph 972 folds
+Getgetc2L folds
+*** FLOP *** [2c Qs Ad]
+manggy94 checks
+Kev59115 checks
+*** TURN *** [2c Qs Ad][2h]
+manggy94 bets 40
+Kev59115 calls 40
+*** RIVER *** [2c Qs Ad 2h][4h]
+manggy94 checks
+Kev59115 checks
+*** SHOW DOWN ***
+manggy94 shows [8c Kd] (One pair : 2)
+Kev59115 shows [4d 8d] (Two pairs : 4 and 2)
+Kev59115 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [2c Qs Ad 2h 4h]
+Seat 1: manggy94 showed [8c Kd] and lost with One pair : 2
+Seat 2: Kev59115 showed [4d 8d] and won 220 with Two pairs : 4 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #624749520583918013-21-1454159359 - Holdem no limit (20/40) - 2016/01/30 13:09:19 UTC
+Table: 'Freeroll(145460833)#444' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (1246)
+Seat 2: Kev59115 (4553)
+Seat 3: riri44110 (2820)
+Seat 4: c-la-crizz (7952)
+Seat 5: St-ph 972 (2820)
+Seat 6: Getgetc2L (2835)
+*** ANTE/BLINDS ***
+Getgetc2L posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [8h 7d]
+*** PRE-FLOP *** 
+Kev59115 raises 40 to 80
+riri44110 folds
+c-la-crizz calls 80
+St-ph 972 folds
+Getgetc2L folds
+manggy94 calls 40
+*** FLOP *** [2d 3c 3s]
+manggy94 checks
+Kev59115 bets 40
+c-la-crizz calls 40
+manggy94 folds
+*** TURN *** [2d 3c 3s][8s]
+Kev59115 bets 40
+c-la-crizz calls 40
+*** RIVER *** [2d 3c 3s 8s][Qd]
+Kev59115 bets 1332
+c-la-crizz raises 1332 to 2664
+Kev59115 folds
+c-la-crizz collected 4416 from pot
+*** SUMMARY ***
+Total pot 4416 | No rake
+Board: [2d 3c 3s 8s Qd]
+Seat 4: c-la-crizz won 4416
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #624749520583918013-22-1454159393 - Holdem no limit (30/60) - 2016/01/30 13:09:53 UTC
+Table: 'Freeroll(145460833)#444' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (1166)
+Seat 2: Kev59115 (3061)
+Seat 3: riri44110 (2820)
+Seat 4: c-la-crizz (9544)
+Seat 5: St-ph 972 (2820)
+Seat 6: Getgetc2L (2815)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+Kev59115 posts big blind 60
+Dealt to manggy94 [6d 3s]
+*** PRE-FLOP *** 
+riri44110 folds
+c-la-crizz calls 60
+St-ph 972 folds
+Getgetc2L folds
+manggy94 calls 30
+Kev59115 raises 60 to 120
+c-la-crizz calls 60
+manggy94 calls 60
+*** FLOP *** [Kc 4h Td]
+manggy94 checks
+Kev59115 bets 1172
+c-la-crizz folds
+manggy94 folds
+Kev59115 collected 1532 from pot
+*** SUMMARY ***
+Total pot 1532 | No rake
+Board: [Kc 4h Td]
+Seat 2: Kev59115 (big blind) won 1532
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #624749520583918013-23-1454159415 - Holdem no limit (30/60) - 2016/01/30 13:10:15 UTC
+Table: 'Freeroll(145460833)#444' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (1046)
+Seat 2: Kev59115 (3301)
+Seat 3: riri44110 (2820)
+Seat 4: c-la-crizz (9424)
+Seat 5: St-ph 972 (2820)
+Seat 6: Getgetc2L (2815)
+*** ANTE/BLINDS ***
+Kev59115 posts small blind 30
+riri44110 posts big blind 60
+Dealt to manggy94 [Ts Qc]
+*** PRE-FLOP *** 
+c-la-crizz folds
+St-ph 972 folds
+Getgetc2L folds
+manggy94 raises 150 to 210
+Kev59115 folds
+riri44110 folds
+manggy94 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: manggy94 (button) won 300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #624749520583918013-24-1454159428 - Holdem no limit (30/60) - 2016/01/30 13:10:28 UTC
+Table: 'Freeroll(145460833)#444' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (1136)
+Seat 2: Kev59115 (3271)
+Seat 3: riri44110 (2760)
+Seat 4: c-la-crizz (9424)
+Seat 5: St-ph 972 (2820)
+Seat 6: Getgetc2L (2815)
+*** ANTE/BLINDS ***
+riri44110 posts small blind 30
+c-la-crizz posts big blind 60
+Dealt to manggy94 [2c 2s]
+*** PRE-FLOP *** 
+St-ph 972 folds
+Getgetc2L calls 60
+manggy94 raises 1076 to 1136 and is all-in
+Kev59115 folds
+riri44110 folds
+c-la-crizz folds
+Getgetc2L folds
+manggy94 collected 1286 from pot
+*** SUMMARY ***
+Total pot 1286 | No rake
+Seat 1: manggy94 won 1286
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #624749520583918013-25-1454159449 - Holdem no limit (30/60) - 2016/01/30 13:10:49 UTC
+Table: 'Freeroll(145460833)#444' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (1286)
+Seat 2: Kev59115 (3271)
+Seat 3: riri44110 (2730)
+Seat 4: c-la-crizz (9364)
+Seat 5: St-ph 972 (2820)
+Seat 6: Getgetc2L (2755)
+*** ANTE/BLINDS ***
+c-la-crizz posts small blind 30
+St-ph 972 posts big blind 60
+Dealt to manggy94 [2s 2h]
+*** PRE-FLOP *** 
+Getgetc2L calls 60
+manggy94 calls 60
+Kev59115 raises 3211 to 3271 and is all-in
+riri44110 folds
+c-la-crizz folds
+St-ph 972 folds
+Getgetc2L calls 2695 and is all-in
+manggy94 folds
+*** FLOP *** [2c 9d Qd]
+*** TURN *** [2c 9d Qd][Qc]
+*** RIVER *** [2c 9d Qd Qc][5h]
+*** SHOW DOWN ***
+Getgetc2L shows [4d 4c] (Two pairs : Queens and 4)
+Kev59115 shows [Ad Qs] (Trips of Queens)
+Kev59115 collected 6176 from pot
+*** SUMMARY ***
+Total pot 6176 | No rake
+Board: [2c 9d Qd Qc 5h]
+Seat 2: Kev59115 showed [Ad Qs] and won 6176 with Trips of Queens
+Seat 6: Getgetc2L showed [4d 4c] and lost with Two pairs : Queens and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #624749520583918013-26-1454159490 - Holdem no limit (30/60) - 2016/01/30 13:11:30 UTC
+Table: 'Freeroll(145460833)#444' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (1226)
+Seat 2: Kev59115 (6176)
+Seat 3: riri44110 (2730)
+Seat 4: c-la-crizz (9334)
+Seat 5: St-ph 972 (2760)
+*** ANTE/BLINDS ***
+St-ph 972 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [2d 6h]
+*** PRE-FLOP *** 
+Kev59115 raises 60 to 120
+riri44110 raises 2610 to 2730 and is all-in
+c-la-crizz folds
+St-ph 972 folds
+manggy94 folds
+Kev59115 calls 2610
+*** FLOP *** [Qs 9s Kd]
+*** TURN *** [Qs 9s Kd][3c]
+*** RIVER *** [Qs 9s Kd 3c][5c]
+*** SHOW DOWN ***
+Kev59115 shows [Tc Qd] (One pair : Queens)
+riri44110 shows [5s 5h] (Trips of 5)
+riri44110 collected 5550 from pot
+*** SUMMARY ***
+Total pot 5550 | No rake
+Board: [Qs 9s Kd 3c 5c]
+Seat 2: Kev59115 showed [Tc Qd] and lost with One pair : Queens
+Seat 3: riri44110 showed [5s 5h] and won 5550 with Trips of 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #624749520583918013-27-1454159513 - Holdem no limit (30/60) - 2016/01/30 13:11:53 UTC
+Table: 'Freeroll(145460833)#444' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (1166)
+Seat 2: Kev59115 (3446)
+Seat 3: riri44110 (5550)
+Seat 4: c-la-crizz (9334)
+Seat 5: St-ph 972 (2730)
+Seat 6: BIBO972 (2835)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+Kev59115 posts big blind 60
+Dealt to manggy94 [9c 6s]
+*** PRE-FLOP *** 
+riri44110 folds
+c-la-crizz calls 60
+St-ph 972 folds
+BIBO972 folds
+manggy94 folds
+Kev59115 raises 3386 to 3446 and is all-in
+c-la-crizz folds
+Kev59115 collected 3536 from pot
+*** SUMMARY ***
+Total pot 3536 | No rake
+Seat 2: Kev59115 (big blind) won 3536
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #624749520583918013-28-1454159537 - Holdem no limit (30/60) - 2016/01/30 13:12:17 UTC
+Table: 'Freeroll(145460833)#444' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (1136)
+Seat 2: Kev59115 (3536)
+Seat 3: riri44110 (5550)
+Seat 4: c-la-crizz (9274)
+Seat 5: St-ph 972 (2730)
+Seat 6: BIBO972 (2835)
+*** ANTE/BLINDS ***
+Kev59115 posts small blind 30
+riri44110 posts big blind 60
+Dealt to manggy94 [2s 3s]
+*** PRE-FLOP *** 
+c-la-crizz calls 60
+St-ph 972 folds
+BIBO972 folds
+manggy94 folds
+Kev59115 raises 60 to 120
+riri44110 raises 60 to 180
+c-la-crizz calls 120
+Kev59115 calls 60
+*** FLOP *** [4s 6s Qh]
+Kev59115 checks
+riri44110 bets 540
+c-la-crizz calls 540
+Kev59115 folds
+*** TURN *** [4s 6s Qh][Ac]
+riri44110 checks
+c-la-crizz bets 1620
+riri44110 calls 1620
+*** RIVER *** [4s 6s Qh Ac][2h]
+riri44110 checks
+c-la-crizz checks
+*** SHOW DOWN ***
+c-la-crizz shows [Jh 6h] (One pair : 6)
+riri44110 shows [Kc Qd] (One pair : Queens)
+riri44110 collected 4860 from pot
+*** SUMMARY ***
+Total pot 4860 | No rake
+Board: [4s 6s Qh Ac 2h]
+Seat 3: riri44110 (big blind) showed [Kc Qd] and won 4860 with One pair : Queens
+Seat 4: c-la-crizz showed [Jh 6h] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #624749520583918013-29-1454159586 - Holdem no limit (40/80) - 2016/01/30 13:13:06 UTC
+Table: 'Freeroll(145460833)#444' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (1136)
+Seat 2: Kev59115 (3356)
+Seat 3: riri44110 (8070)
+Seat 4: c-la-crizz (6934)
+Seat 5: St-ph 972 (2730)
+Seat 6: BIBO972 (2835)
+*** ANTE/BLINDS ***
+riri44110 posts small blind 40
+c-la-crizz posts big blind 80
+Dealt to manggy94 [4h 5c]
+*** PRE-FLOP *** 
+St-ph 972 folds
+BIBO972 folds
+manggy94 folds
+Kev59115 calls 80
+riri44110 calls 40
+c-la-crizz raises 240 to 320
+Kev59115 calls 240
+riri44110 folds
+*** FLOP *** [7c Td Kh]
+c-la-crizz bets 720
+Kev59115 raises 2316 to 3036 and is all-in
+c-la-crizz raises 2316 to 5352
+*** TURN *** [7c Td Kh][7s]
+*** RIVER *** [7c Td Kh 7s][Kc]
+*** SHOW DOWN ***
+Kev59115 shows [2s Th] (Two pairs : Kings and Tens)
+c-la-crizz shows [Kd 6d] (Full of Kings and 7)
+c-la-crizz collected 9108 from pot
+*** SUMMARY ***
+Total pot 9108 | No rake
+Board: [7c Td Kh 7s Kc]
+Seat 2: Kev59115 (button) showed [2s Th] and lost with Two pairs : Kings and Tens
+Seat 4: c-la-crizz (big blind) showed [Kd 6d] and won 9108 with Full of Kings and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #624749520583918013-30-1454159622 - Holdem no limit (40/80) - 2016/01/30 13:13:42 UTC
+Table: 'Freeroll(145460833)#444' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (1136)
+Seat 3: riri44110 (7990)
+Seat 4: c-la-crizz (10370)
+Seat 5: St-ph 972 (2730)
+Seat 6: BIBO972 (2835)
+*** ANTE/BLINDS ***
+c-la-crizz posts small blind 40
+St-ph 972 posts big blind 80
+Dealt to manggy94 [Kd Qd]
+*** PRE-FLOP *** 
+BIBO972 folds
+manggy94 raises 200 to 280
+riri44110 folds
+c-la-crizz calls 240
+St-ph 972 folds
+*** FLOP *** [4s 4h 5h]
+c-la-crizz checks
+manggy94 bets 856 and is all-in
+c-la-crizz folds
+manggy94 collected 1496 from pot
+*** SUMMARY ***
+Total pot 1496 | No rake
+Board: [4s 4h 5h]
+Seat 1: manggy94 won 1496
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #624749520583918013-31-1454159647 - Holdem no limit (40/80) - 2016/01/30 13:14:07 UTC
+Table: 'Freeroll(145460833)#444' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (1496)
+Seat 3: riri44110 (7990)
+Seat 4: c-la-crizz (10090)
+Seat 5: St-ph 972 (2650)
+Seat 6: BIBO972 (2835)
+*** ANTE/BLINDS ***
+St-ph 972 posts small blind 40
+BIBO972 posts big blind 80
+Dealt to manggy94 [5h 8s]
+*** PRE-FLOP *** 
+manggy94 folds
+riri44110 raises 160 to 240
+c-la-crizz folds
+St-ph 972 folds
+BIBO972 folds
+riri44110 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: riri44110 won 360
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #624749520583918013-32-1454159659 - Holdem no limit (40/80) - 2016/01/30 13:14:19 UTC
+Table: 'Freeroll(145460833)#444' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (1496)
+Seat 3: riri44110 (8110)
+Seat 4: c-la-crizz (10090)
+Seat 5: St-ph 972 (2610)
+Seat 6: BIBO972 (2755)
+*** ANTE/BLINDS ***
+BIBO972 posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [Js 7h]
+*** PRE-FLOP *** 
+riri44110 raises 80 to 160
+c-la-crizz folds
+St-ph 972 folds
+BIBO972 folds
+manggy94 folds
+riri44110 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 3: riri44110 won 280
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #624749520583918013-33-1454159669 - Holdem no limit (40/80) - 2016/01/30 13:14:29 UTC
+Table: 'Freeroll(145460833)#444' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (1416)
+Seat 3: riri44110 (8230)
+Seat 4: c-la-crizz (10090)
+Seat 5: St-ph 972 (2610)
+Seat 6: BIBO972 (2715)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+riri44110 posts big blind 80
+Dealt to manggy94 [7s Ac]
+*** PRE-FLOP *** 
+c-la-crizz folds
+St-ph 972 folds
+BIBO972 folds
+manggy94 raises 80 to 160
+riri44110 calls 80
+*** FLOP *** [4h 4s Ah]
+manggy94 bets 320
+riri44110 raises 320 to 640
+manggy94 calls 320
+*** TURN *** [4h 4s Ah][2c]
+manggy94 bets 616 and is all-in
+riri44110 calls 616
+*** RIVER *** [4h 4s Ah 2c][5d]
+*** SHOW DOWN ***
+manggy94 shows [7s Ac] (Two pairs : Aces and 4)
+riri44110 shows [4c 3c] (Straight 5 high)
+riri44110 collected 2832 from pot
+*** SUMMARY ***
+Total pot 2832 | No rake
+Board: [4h 4s Ah 2c 5d]
+Seat 1: manggy94 (small blind) showed [7s Ac] and lost with Two pairs : Aces and 4
+Seat 3: riri44110 (big blind) showed [4c 3c] and won 2832 with Straight 5 high
+
+

@@ -1,0 +1,1368 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #1752508877682770533-1-1606654832 - Holdem no limit (12/50/100) - 2020/11/29 13:00:32 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (20000)
+Seat 2: kj59194 (20000)
+Seat 3: zlatandu22 (20000)
+Seat 4: Omardavid19 (20000)
+Seat 5: BALTAZAR7 (20000)
+Seat 6: michalodino (20000)
+*** ANTE/BLINDS ***
+Omardavid19 posts ante 12
+BALTAZAR7 posts ante 12
+manggy94 posts ante 12
+kj59194 posts ante 12
+zlatandu22 posts ante 12
+michalodino posts ante 12
+Omardavid19 posts small blind 50
+BALTAZAR7 posts big blind 100
+Dealt to manggy94 [3h 5h]
+*** PRE-FLOP *** 
+michalodino folds
+manggy94 folds
+kj59194 calls 100
+zlatandu22 raises 250 to 350
+Omardavid19 raises 250 to 600
+BALTAZAR7 folds
+kj59194 calls 500
+zlatandu22 calls 250
+*** FLOP *** [8c Ks 8h]
+Omardavid19 checks
+kj59194 checks
+zlatandu22 checks
+*** TURN *** [8c Ks 8h][9c]
+Omardavid19 checks
+kj59194 checks
+zlatandu22 checks
+*** RIVER *** [8c Ks 8h 9c][3s]
+Omardavid19 checks
+kj59194 checks
+zlatandu22 checks
+*** SHOW DOWN ***
+kj59194 shows [6s Qs] (One pair : 8)
+Omardavid19 shows [6h 7c] (One pair : 8)
+zlatandu22 shows [Td Qc] (One pair : 8)
+zlatandu22 collected 1972 from pot
+*** SUMMARY ***
+Total pot 1972 | No rake
+Board: [8c Ks 8h 9c 3s]
+Seat 2: kj59194 showed [6s Qs] and lost with One pair : 8
+Seat 3: zlatandu22 (button) showed [Td Qc] and won 1972 with One pair : 8
+Seat 4: Omardavid19 (small blind) showed [6h 7c] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #1752508877682770533-2-1606654904 - Holdem no limit (12/50/100) - 2020/11/29 13:01:44 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (19988)
+Seat 2: kj59194 (19388)
+Seat 3: zlatandu22 (21360)
+Seat 4: Omardavid19 (19388)
+Seat 5: BALTAZAR7 (19888)
+Seat 6: michalodino (19988)
+*** ANTE/BLINDS ***
+BALTAZAR7 posts ante 12
+michalodino posts ante 12
+manggy94 posts ante 12
+kj59194 posts ante 12
+zlatandu22 posts ante 12
+Omardavid19 posts ante 12
+BALTAZAR7 posts small blind 50
+michalodino posts big blind 100
+Dealt to manggy94 [4c 3c]
+*** PRE-FLOP *** 
+manggy94 calls 100
+kj59194 calls 100
+zlatandu22 raises 100 to 200
+Omardavid19 raises 1022 to 1222
+BALTAZAR7 folds
+michalodino calls 1122
+manggy94 folds
+kj59194 calls 1122
+zlatandu22 calls 1022
+*** FLOP *** [3d 7s Qc]
+michalodino checks
+kj59194 bets 100
+zlatandu22 folds
+Omardavid19 raises 18054 to 18154 and is all-in
+michalodino folds
+kj59194 folds
+Omardavid19 collected 23364 from pot
+*** SUMMARY ***
+Total pot 23364 | No rake
+Board: [3d 7s Qc]
+Seat 4: Omardavid19 (button) won 23364
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #1752508877682770533-3-1606654963 - Holdem no limit (12/50/100) - 2020/11/29 13:02:43 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (19876)
+Seat 2: kj59194 (18054)
+Seat 3: zlatandu22 (20126)
+Seat 4: Omardavid19 (23364)
+Seat 5: BALTAZAR7 (19826)
+Seat 6: michalodino (18754)
+*** ANTE/BLINDS ***
+michalodino posts ante 12
+manggy94 posts ante 12
+kj59194 posts ante 12
+zlatandu22 posts ante 12
+Omardavid19 posts ante 12
+BALTAZAR7 posts ante 12
+michalodino posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [Td 2c]
+*** PRE-FLOP *** 
+kj59194 calls 100
+zlatandu22 calls 100
+Omardavid19 calls 100
+BALTAZAR7 folds
+michalodino calls 50
+manggy94 checks
+*** FLOP *** [Qd 3d 6s]
+michalodino checks
+manggy94 checks
+kj59194 checks
+zlatandu22 checks
+Omardavid19 bets 2353
+michalodino folds
+manggy94 folds
+kj59194 folds
+zlatandu22 calls 2353
+*** TURN *** [Qd 3d 6s][7s]
+zlatandu22 bets 3917
+Omardavid19 calls 3917
+*** RIVER *** [Qd 3d 6s 7s][5d]
+zlatandu22 bets 13744 and is all-in
+Omardavid19 raises 3238 to 16982 and is all-in
+*** SHOW DOWN ***
+zlatandu22 shows [Jd 7d] (Flush Queen high)
+Omardavid19 shows [As 3c] (One pair : 3)
+Omardavid19 collected 3238 from side pot 1
+zlatandu22 collected 40600 from main pot
+*** SUMMARY ***
+Total pot 43838 | No rake
+Board: [Qd 3d 6s 7s 5d]
+Seat 3: zlatandu22 showed [Jd 7d] and won 40600 with Flush Queen high
+Seat 4: Omardavid19 showed [As 3c] and won 3238 with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1752508877682770533-4-1606655074 - Holdem no limit (14/60/120) - 2020/11/29 13:04:34 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (19764)
+Seat 2: kj59194 (17942)
+Seat 3: zlatandu22 (40600)
+Seat 4: Omardavid19 (3238)
+Seat 5: BALTAZAR7 (19814)
+Seat 6: michalodino (18642)
+*** ANTE/BLINDS ***
+manggy94 posts ante 14
+kj59194 posts ante 14
+zlatandu22 posts ante 14
+Omardavid19 posts ante 14
+BALTAZAR7 posts ante 14
+michalodino posts ante 14
+manggy94 posts small blind 60
+kj59194 posts big blind 120
+Dealt to manggy94 [3c 3h]
+*** PRE-FLOP *** 
+zlatandu22 folds
+Omardavid19 raises 3104 to 3224 and is all-in
+BALTAZAR7 folds
+michalodino calls 3224
+manggy94 folds
+kj59194 calls 3104
+*** FLOP *** [5d 8s 9c]
+kj59194 checks
+michalodino checks
+*** TURN *** [5d 8s 9c][6s]
+kj59194 bets 14704 and is all-in
+michalodino folds
+*** RIVER *** [5d 8s 9c 6s][Td]
+*** SHOW DOWN ***
+kj59194 shows [6d 4d] (One pair : 6)
+Omardavid19 shows [Qh Qs] (One pair : Queens)
+Omardavid19 collected 9816 from main pot
+kj59194 collected 14704 from side pot 1
+*** SUMMARY ***
+Total pot 24520 | No rake
+Board: [5d 8s 9c 6s Td]
+Seat 2: kj59194 (big blind) showed [6d 4d] and won 14704 with One pair : 6
+Seat 4: Omardavid19 showed [Qh Qs] and won 9816 with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1752508877682770533-5-1606655126 - Holdem no limit (16/70/140) - 2020/11/29 13:05:26 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (19690)
+Seat 2: kj59194 (14704)
+Seat 3: zlatandu22 (40586)
+Seat 4: Omardavid19 (9816)
+Seat 5: BALTAZAR7 (19800)
+Seat 6: michalodino (15404)
+*** ANTE/BLINDS ***
+kj59194 posts ante 16
+zlatandu22 posts ante 16
+manggy94 posts ante 16
+Omardavid19 posts ante 16
+BALTAZAR7 posts ante 16
+michalodino posts ante 16
+kj59194 posts small blind 70
+zlatandu22 posts big blind 140
+Dealt to manggy94 [4s Jh]
+*** PRE-FLOP *** 
+Omardavid19 raises 9660 to 9800 and is all-in
+BALTAZAR7 folds
+michalodino calls 9800
+manggy94 folds
+kj59194 raises 4888 to 14688 and is all-in
+zlatandu22 folds
+michalodino calls 4888
+*** FLOP *** [8c 9s Js]
+*** TURN *** [8c 9s Js][Jc]
+*** RIVER *** [8c 9s Js Jc][5s]
+*** SHOW DOWN ***
+kj59194 shows [3h Kc] (One pair : Jacks)
+Omardavid19 shows [Td 2h] (One pair : Jacks)
+michalodino shows [Ah 4h] (One pair : Jacks)
+michalodino collected 39412 from pot
+*** SUMMARY ***
+Total pot 39412 | No rake
+Board: [8c 9s Js Jc 5s]
+Seat 2: kj59194 (small blind) showed [3h Kc] and lost with One pair : Jacks
+Seat 4: Omardavid19 showed [Td 2h] and lost with One pair : Jacks
+Seat 6: michalodino showed [Ah 4h] and won 39412 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1752508877682770533-6-1606655174 - Holdem no limit (16/70/140) - 2020/11/29 13:06:14 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (19674)
+Seat 2: marmat1406 (20000)
+Seat 3: zlatandu22 (40430)
+Seat 4: Xicota (26708)
+Seat 5: BALTAZAR7 (19784)
+Seat 6: michalodino (40112)
+*** ANTE/BLINDS ***
+zlatandu22 posts ante 16
+Xicota posts ante 16
+manggy94 posts ante 16
+BALTAZAR7 posts ante 16
+michalodino posts ante 16
+zlatandu22 posts small blind 70
+Xicota posts big blind 140
+Dealt to manggy94 [7d 4d]
+*** PRE-FLOP *** 
+BALTAZAR7 raises 19628 to 19768 and is all-in
+michalodino folds
+manggy94 folds
+zlatandu22 folds
+Xicota folds
+BALTAZAR7 collected 20058 from pot
+*** SUMMARY ***
+Total pot 20058 | No rake
+Seat 5: BALTAZAR7 won 20058
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1752508877682770533-7-1606655198 - Holdem no limit (16/70/140) - 2020/11/29 13:06:38 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (19658)
+Seat 2: marmat1406 (20000)
+Seat 3: zlatandu22 (40344)
+Seat 4: Xicota (26552)
+Seat 5: BALTAZAR7 (20058)
+Seat 6: michalodino (40096)
+*** ANTE/BLINDS ***
+Xicota posts ante 16
+BALTAZAR7 posts ante 16
+manggy94 posts ante 16
+marmat1406 posts ante 16
+zlatandu22 posts ante 16
+michalodino posts ante 16
+Xicota posts small blind 70
+BALTAZAR7 posts big blind 140
+Dealt to manggy94 [4h Kd]
+*** PRE-FLOP *** 
+michalodino calls 140
+manggy94 folds
+marmat1406 folds
+zlatandu22 raises 140 to 280
+Xicota folds
+BALTAZAR7 calls 140
+michalodino folds
+*** FLOP *** [Ah 8h Jc]
+BALTAZAR7 bets 866
+zlatandu22 folds
+BALTAZAR7 collected 1732 from pot
+*** SUMMARY ***
+Total pot 1732 | No rake
+Board: [Ah 8h Jc]
+Seat 5: BALTAZAR7 (big blind) won 1732
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1752508877682770533-8-1606655286 - Holdem no limit (20/80/160) - 2020/11/29 13:08:06 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (19642)
+Seat 2: marmat1406 (19984)
+Seat 3: zlatandu22 (40048)
+Seat 4: Xicota (26466)
+Seat 5: BALTAZAR7 (20628)
+Seat 6: michalodino (39940)
+*** ANTE/BLINDS ***
+BALTAZAR7 posts ante 20
+michalodino posts ante 20
+manggy94 posts ante 20
+marmat1406 posts ante 20
+zlatandu22 posts ante 20
+Xicota posts ante 20
+BALTAZAR7 posts small blind 80
+michalodino posts big blind 160
+Dealt to manggy94 [5c 3s]
+*** PRE-FLOP *** 
+manggy94 folds
+marmat1406 folds
+zlatandu22 raises 400 to 560
+Xicota calls 560
+BALTAZAR7 folds
+michalodino calls 400
+*** FLOP *** [3h As 3c]
+michalodino checks
+zlatandu22 checks
+Xicota bets 160
+michalodino calls 160
+zlatandu22 raises 400 to 560
+Xicota calls 400
+michalodino folds
+*** TURN *** [3h As 3c][4d]
+zlatandu22 bets 640
+Xicota calls 640
+*** RIVER *** [3h As 3c 4d][Ts]
+zlatandu22 bets 1615
+Xicota calls 1615
+*** SHOW DOWN ***
+Xicota shows [2c 2d] (Two pairs : 3 and 2)
+zlatandu22 shows [Ad Th] (Two pairs : Aces and Tens)
+zlatandu22 collected 7670 from pot
+*** SUMMARY ***
+Total pot 7670 | No rake
+Board: [3h As 3c 4d Ts]
+Seat 3: zlatandu22 showed [Ad Th] and won 7670 with Two pairs : Aces and Tens
+Seat 4: Xicota (button) showed [2c 2d] and lost with Two pairs : 3 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1752508877682770533-9-1606655379 - Holdem no limit (20/80/160) - 2020/11/29 13:09:39 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (19622)
+Seat 2: marmat1406 (19964)
+Seat 3: zlatandu22 (44323)
+Seat 4: Xicota (23071)
+Seat 5: BALTAZAR7 (20528)
+Seat 6: michalodino (39200)
+*** ANTE/BLINDS ***
+michalodino posts ante 20
+manggy94 posts ante 20
+marmat1406 posts ante 20
+zlatandu22 posts ante 20
+Xicota posts ante 20
+BALTAZAR7 posts ante 20
+michalodino posts small blind 80
+manggy94 posts big blind 160
+Dealt to manggy94 [2d Jc]
+*** PRE-FLOP *** 
+marmat1406 raises 19784 to 19944 and is all-in
+zlatandu22 folds
+Xicota calls 19944
+BALTAZAR7 folds
+michalodino folds
+manggy94 folds
+*** FLOP *** [Kc 8h Qc]
+*** TURN *** [Kc 8h Qc][2c]
+*** RIVER *** [Kc 8h Qc 2c][Jd]
+*** SHOW DOWN ***
+Xicota shows [4d Kd] (One pair : Kings)
+marmat1406 shows [Td Ac] (Straight Ace high)
+marmat1406 collected 40248 from pot
+*** SUMMARY ***
+Total pot 40248 | No rake
+Board: [Kc 8h Qc 2c Jd]
+Seat 2: marmat1406 showed [Td Ac] and won 40248 with Straight Ace high
+Seat 4: Xicota showed [4d Kd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1752508877682770533-10-1606655412 - Holdem no limit (20/80/160) - 2020/11/29 13:10:12 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (19442)
+Seat 2: marmat1406 (40248)
+Seat 3: zlatandu22 (44303)
+Seat 4: Xicota (3107)
+Seat 5: BALTAZAR7 (20508)
+Seat 6: michalodino (39100)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+marmat1406 posts ante 20
+zlatandu22 posts ante 20
+Xicota posts ante 20
+BALTAZAR7 posts ante 20
+michalodino posts ante 20
+manggy94 posts small blind 80
+marmat1406 posts big blind 160
+Dealt to manggy94 [Qc 9c]
+*** PRE-FLOP *** 
+zlatandu22 folds
+Xicota calls 160
+BALTAZAR7 calls 160
+michalodino folds
+manggy94 calls 80
+marmat1406 checks
+*** FLOP *** [9h 8s 3d]
+manggy94 bets 760
+marmat1406 calls 760
+Xicota calls 760
+BALTAZAR7 folds
+*** TURN *** [9h 8s 3d][Qh]
+manggy94 checks
+marmat1406 bets 1520
+Xicota calls 1520
+manggy94 raises 7600 to 9120
+marmat1406 calls 7600
+Xicota calls 647 and is all-in
+*** RIVER *** [9h 8s 3d Qh][2c]
+manggy94 bets 9382 and is all-in
+marmat1406 folds
+*** SHOW DOWN ***
+Xicota shows [3s 2s] (Two pairs : 3 and 2)
+manggy94 shows [Qc 9c] (Two pairs : Queens and 9)
+manggy94 collected 32829 from pot
+*** SUMMARY ***
+Total pot 32829 | No rake
+Board: [9h 8s 3d Qh 2c]
+Seat 1: manggy94 (small blind) showed [Qc 9c] and won 32829 with Two pairs : Queens and 9
+Seat 4: Xicota showed [3s 2s] and lost with Two pairs : 3 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1752508877682770533-11-1606655496 - Holdem no limit (25/100/200) - 2020/11/29 13:11:36 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (32829)
+Seat 2: marmat1406 (30188)
+Seat 3: zlatandu22 (44283)
+Seat 5: BALTAZAR7 (20328)
+Seat 6: michalodino (39080)
+*** ANTE/BLINDS ***
+marmat1406 posts ante 25
+zlatandu22 posts ante 25
+manggy94 posts ante 25
+BALTAZAR7 posts ante 25
+michalodino posts ante 25
+marmat1406 posts small blind 100
+zlatandu22 posts big blind 200
+Dealt to manggy94 [3d 5d]
+*** PRE-FLOP *** 
+BALTAZAR7 raises 20103 to 20303 and is all-in
+michalodino folds
+manggy94 folds
+marmat1406 calls 20203
+zlatandu22 folds
+*** FLOP *** [Td 8d 8c]
+*** TURN *** [Td 8d 8c][Ks]
+*** RIVER *** [Td 8d 8c Ks][Ts]
+*** SHOW DOWN ***
+BALTAZAR7 shows [6c 6s] (Two pairs : Tens and 8)
+marmat1406 shows [4h Ah] (Two pairs : Tens and 8)
+marmat1406 collected 40931 from pot
+*** SUMMARY ***
+Total pot 40931 | No rake
+Board: [Td 8d 8c Ks Ts]
+Seat 2: marmat1406 (small blind) showed [4h Ah] and won 40931 with Two pairs : Tens and 8
+Seat 5: BALTAZAR7 showed [6c 6s] and lost with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1752508877682770533-12-1606655526 - Holdem no limit (25/100/200) - 2020/11/29 13:12:06 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (32804)
+Seat 2: marmat1406 (50791)
+Seat 3: zlatandu22 (44058)
+Seat 5: Thunderon (19298)
+Seat 6: michalodino (39055)
+*** ANTE/BLINDS ***
+zlatandu22 posts ante 25
+Thunderon posts ante 25
+manggy94 posts ante 25
+marmat1406 posts ante 25
+michalodino posts ante 25
+zlatandu22 posts small blind 100
+Thunderon posts big blind 200
+Dealt to manggy94 [7d Th]
+*** PRE-FLOP *** 
+michalodino folds
+manggy94 folds
+marmat1406 calls 200
+zlatandu22 calls 100
+Thunderon folds
+*** FLOP *** [3d 9h 8c]
+zlatandu22 bets 600
+marmat1406 calls 600
+*** TURN *** [3d 9h 8c][Ad]
+zlatandu22 checks
+marmat1406 checks
+*** RIVER *** [3d 9h 8c Ad][Ah]
+zlatandu22 checks
+marmat1406 checks
+*** SHOW DOWN ***
+zlatandu22 shows [7c 6c] (One pair : Aces)
+marmat1406 shows [Tc Qs] (One pair : Aces)
+marmat1406 collected 1925 from pot
+*** SUMMARY ***
+Total pot 1925 | No rake
+Board: [3d 9h 8c Ad Ah]
+Seat 2: marmat1406 (button) showed [Tc Qs] and won 1925 with One pair : Aces
+Seat 3: zlatandu22 (small blind) showed [7c 6c] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1752508877682770533-13-1606655573 - Holdem no limit (25/100/200) - 2020/11/29 13:12:53 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (32779)
+Seat 2: marmat1406 (51891)
+Seat 3: zlatandu22 (43233)
+Seat 4: Oxi009 (20000)
+Seat 5: Thunderon (19073)
+Seat 6: michalodino (39030)
+*** ANTE/BLINDS ***
+Thunderon posts ante 25
+michalodino posts ante 25
+manggy94 posts ante 25
+marmat1406 posts ante 25
+zlatandu22 posts ante 25
+Thunderon posts small blind 100
+michalodino posts big blind 200
+Dealt to manggy94 [6d 4c]
+*** PRE-FLOP *** 
+manggy94 folds
+marmat1406 folds
+zlatandu22 folds
+Thunderon folds
+michalodino collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 6: michalodino (big blind) won 425
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1752508877682770533-14-1606655582 - Holdem no limit (30/125/250) - 2020/11/29 13:13:02 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (32754)
+Seat 2: marmat1406 (51866)
+Seat 3: zlatandu22 (43208)
+Seat 4: Oxi009 (20000)
+Seat 5: Thunderon (18948)
+Seat 6: michalodino (39230)
+*** ANTE/BLINDS ***
+michalodino posts ante 30
+manggy94 posts ante 30
+marmat1406 posts ante 30
+zlatandu22 posts ante 30
+Oxi009 posts ante 30
+Thunderon posts ante 30
+michalodino posts small blind 125
+manggy94 posts big blind 250
+Dealt to manggy94 [As 6c]
+*** PRE-FLOP *** 
+marmat1406 folds
+zlatandu22 folds
+Oxi009 calls 250
+Thunderon folds
+michalodino folds
+manggy94 checks
+*** FLOP *** [Kc Ac 9d]
+manggy94 checks
+Oxi009 bets 1125
+manggy94 calls 1125
+*** TURN *** [Kc Ac 9d][9c]
+manggy94 bets 1528
+Oxi009 folds
+manggy94 collected 4583 from pot
+*** SUMMARY ***
+Total pot 4583 | No rake
+Board: [Kc Ac 9d 9c]
+Seat 1: manggy94 (big blind) won 4583
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1752508877682770533-15-1606655632 - Holdem no limit (30/125/250) - 2020/11/29 13:13:52 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (34404)
+Seat 2: marmat1406 (51836)
+Seat 3: zlatandu22 (43178)
+Seat 4: Oxi009 (18595)
+Seat 5: Thunderon (18918)
+Seat 6: michalodino (39075)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+marmat1406 posts ante 30
+zlatandu22 posts ante 30
+Oxi009 posts ante 30
+Thunderon posts ante 30
+michalodino posts ante 30
+manggy94 posts small blind 125
+marmat1406 posts big blind 250
+Dealt to manggy94 [Js 9d]
+*** PRE-FLOP *** 
+zlatandu22 folds
+Oxi009 calls 250
+Thunderon folds
+michalodino folds
+manggy94 calls 125
+marmat1406 checks
+*** FLOP *** [7d 4c 3h]
+manggy94 checks
+marmat1406 checks
+Oxi009 checks
+*** TURN *** [7d 4c 3h][Qh]
+manggy94 checks
+marmat1406 checks
+Oxi009 checks
+*** RIVER *** [7d 4c 3h Qh][6d]
+manggy94 checks
+marmat1406 bets 930
+Oxi009 folds
+manggy94 folds
+marmat1406 collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Board: [7d 4c 3h Qh 6d]
+Seat 2: marmat1406 (big blind) won 1860
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1752508877682770533-16-1606655678 - Holdem no limit (30/125/250) - 2020/11/29 13:14:38 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (34124)
+Seat 2: marmat1406 (52486)
+Seat 3: zlatandu22 (43148)
+Seat 4: Oxi009 (18315)
+Seat 5: Thunderon (18888)
+Seat 6: michalodino (39045)
+*** ANTE/BLINDS ***
+marmat1406 posts ante 30
+zlatandu22 posts ante 30
+manggy94 posts ante 30
+Oxi009 posts ante 30
+Thunderon posts ante 30
+michalodino posts ante 30
+marmat1406 posts small blind 125
+zlatandu22 posts big blind 250
+Dealt to manggy94 [8c 6d]
+*** PRE-FLOP *** 
+Oxi009 calls 250
+Thunderon folds
+michalodino calls 250
+manggy94 folds
+marmat1406 calls 125
+zlatandu22 raises 500 to 750
+Oxi009 calls 500
+michalodino calls 500
+marmat1406 calls 500
+*** FLOP *** [Jh Td 7d]
+marmat1406 checks
+zlatandu22 bets 750
+Oxi009 folds
+michalodino folds
+marmat1406 folds
+zlatandu22 collected 3930 from pot
+*** SUMMARY ***
+Total pot 3930 | No rake
+Board: [Jh Td 7d]
+Seat 3: zlatandu22 (big blind) won 3930
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1752508877682770533-17-1606655740 - Holdem no limit (35/150/300) - 2020/11/29 13:15:40 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (34094)
+Seat 2: marmat1406 (51706)
+Seat 3: zlatandu22 (45548)
+Seat 4: Oxi009 (17535)
+Seat 5: Thunderon (18858)
+Seat 6: michalodino (38265)
+*** ANTE/BLINDS ***
+zlatandu22 posts ante 35
+Oxi009 posts ante 35
+manggy94 posts ante 35
+marmat1406 posts ante 35
+Thunderon posts ante 35
+michalodino posts ante 35
+zlatandu22 posts small blind 150
+Oxi009 posts big blind 300
+Dealt to manggy94 [7s 5c]
+*** PRE-FLOP *** 
+Thunderon raises 18523 to 18823 and is all-in
+michalodino folds
+manggy94 folds
+marmat1406 folds
+zlatandu22 calls 18673
+Oxi009 folds
+*** FLOP *** [7d Qs 2s]
+*** TURN *** [7d Qs 2s][8c]
+*** RIVER *** [7d Qs 2s 8c][Kh]
+*** SHOW DOWN ***
+Thunderon shows [3d 3s] (One pair : 3)
+zlatandu22 shows [6h 6c] (One pair : 6)
+zlatandu22 collected 38156 from pot
+*** SUMMARY ***
+Total pot 38156 | No rake
+Board: [7d Qs 2s 8c Kh]
+Seat 3: zlatandu22 (small blind) showed [6h 6c] and won 38156 with One pair : 6
+Seat 5: Thunderon showed [3d 3s] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1752508877682770533-18-1606655777 - Holdem no limit (35/150/300) - 2020/11/29 13:16:17 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (34059)
+Seat 2: marmat1406 (51671)
+Seat 3: zlatandu22 (64846)
+Seat 4: Oxi009 (17200)
+Seat 6: michalodino (38230)
+*** ANTE/BLINDS ***
+Oxi009 posts ante 35
+michalodino posts ante 35
+manggy94 posts ante 35
+marmat1406 posts ante 35
+zlatandu22 posts ante 35
+Oxi009 posts small blind 150
+michalodino posts big blind 300
+Dealt to manggy94 [9s 2c]
+*** PRE-FLOP *** 
+manggy94 folds
+marmat1406 raises 51336 to 51636 and is all-in
+zlatandu22 folds
+Oxi009 folds
+michalodino calls 37895 and is all-in
+*** FLOP *** [8h Qd 5c]
+*** TURN *** [8h Qd 5c][5d]
+*** RIVER *** [8h Qd 5c 5d][Js]
+*** SHOW DOWN ***
+michalodino shows [3d 3h] (Two pairs : 5 and 3)
+marmat1406 shows [Ah Qs] (Two pairs : Queens and 5)
+marmat1406 collected 90156 from pot
+*** SUMMARY ***
+Total pot 90156 | No rake
+Board: [8h Qd 5c 5d Js]
+Seat 2: marmat1406 showed [Ah Qs] and won 90156 with Two pairs : Queens and 5
+Seat 6: michalodino (big blind) showed [3d 3h] and lost with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1752508877682770533-19-1606655806 - Holdem no limit (35/150/300) - 2020/11/29 13:16:46 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (34024)
+Seat 2: marmat1406 (90156)
+Seat 3: zlatandu22 (64811)
+Seat 4: Oxi009 (17015)
+Seat 5: windbmax (20000)
+*** ANTE/BLINDS ***
+manggy94 posts ante 35
+marmat1406 posts ante 35
+zlatandu22 posts ante 35
+Oxi009 posts ante 35
+manggy94 posts big blind 300
+Dealt to manggy94 [Kc 8h]
+*** PRE-FLOP *** 
+marmat1406 calls 300
+zlatandu22 folds
+Oxi009 calls 300
+manggy94 checks
+*** FLOP *** [5s 2s 9s]
+manggy94 checks
+marmat1406 checks
+Oxi009 checks
+*** TURN *** [5s 2s 9s][Kh]
+manggy94 bets 520
+marmat1406 calls 520
+Oxi009 calls 520
+*** RIVER *** [5s 2s 9s Kh][Tc]
+manggy94 checks
+marmat1406 checks
+Oxi009 checks
+*** SHOW DOWN ***
+marmat1406 shows [8s 7c] (High card : King)
+Oxi009 shows [6h 3s] (High card : King)
+manggy94 shows [Kc 8h] (One pair : Kings)
+manggy94 collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | No rake
+Board: [5s 2s 9s Kh Tc]
+Seat 1: manggy94 (big blind) showed [Kc 8h] and won 2600 with One pair : Kings
+Seat 2: marmat1406 showed [8s 7c] and lost with High card : King
+Seat 4: Oxi009 (button) showed [6h 3s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1752508877682770533-20-1606655843 - Holdem no limit (35/150/300) - 2020/11/29 13:17:23 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (35769)
+Seat 2: marmat1406 (89301)
+Seat 3: zlatandu22 (64776)
+Seat 4: Oxi009 (16160)
+Seat 5: windbmax (20000)
+*** ANTE/BLINDS ***
+manggy94 posts ante 35
+marmat1406 posts ante 35
+zlatandu22 posts ante 35
+Oxi009 posts ante 35
+windbmax posts ante 35
+manggy94 posts small blind 150
+marmat1406 posts big blind 300
+Dealt to manggy94 [9c Kd]
+*** PRE-FLOP *** 
+zlatandu22 raises 900 to 1200
+Oxi009 calls 1200
+windbmax folds
+manggy94 calls 1050
+marmat1406 calls 900
+*** FLOP *** [2c 2s 8c]
+manggy94 checks
+marmat1406 checks
+zlatandu22 checks
+Oxi009 checks
+*** TURN *** [2c 2s 8c][Jh]
+manggy94 checks
+marmat1406 bets 4975
+zlatandu22 folds
+Oxi009 folds
+manggy94 folds
+marmat1406 collected 9950 from pot
+*** SUMMARY ***
+Total pot 9950 | No rake
+Board: [2c 2s 8c Jh]
+Seat 2: marmat1406 (big blind) won 9950
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #1752508877682770533-21-1606655894 - Holdem no limit (40/175/350) - 2020/11/29 13:18:14 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (34534)
+Seat 2: marmat1406 (93041)
+Seat 3: zlatandu22 (63541)
+Seat 4: Oxi009 (14925)
+Seat 5: windbmax (19965)
+Seat 6: SHEITAN.1996 (20000)
+*** ANTE/BLINDS ***
+marmat1406 posts ante 40
+zlatandu22 posts ante 40
+manggy94 posts ante 40
+Oxi009 posts ante 40
+windbmax posts ante 40
+SHEITAN.1996 posts ante 40
+marmat1406 posts small blind 175
+zlatandu22 posts big blind 350
+Dealt to manggy94 [3c 4c]
+*** PRE-FLOP *** 
+Oxi009 calls 350
+windbmax folds
+SHEITAN.1996 raises 19610 to 19960 and is all-in
+manggy94 folds
+marmat1406 calls 19785
+zlatandu22 folds
+Oxi009 folds
+*** FLOP *** [As 3s Kc]
+*** TURN *** [As 3s Kc][Ts]
+*** RIVER *** [As 3s Kc Ts][2c]
+*** SHOW DOWN ***
+marmat1406 shows [Kh 9c] (One pair : Kings)
+SHEITAN.1996 shows [7h Ad] (One pair : Aces)
+SHEITAN.1996 collected 40860 from pot
+*** SUMMARY ***
+Total pot 40860 | No rake
+Board: [As 3s Kc Ts 2c]
+Seat 2: marmat1406 (small blind) showed [Kh 9c] and lost with One pair : Kings
+Seat 6: SHEITAN.1996 showed [7h Ad] and won 40860 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #1752508877682770533-22-1606655918 - Holdem no limit (40/175/350) - 2020/11/29 13:18:38 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (34494)
+Seat 2: marmat1406 (73041)
+Seat 3: zlatandu22 (63151)
+Seat 4: Oxi009 (14535)
+Seat 5: windbmax (19925)
+Seat 6: SHEITAN.1996 (40860)
+*** ANTE/BLINDS ***
+zlatandu22 posts ante 40
+Oxi009 posts ante 40
+manggy94 posts ante 40
+marmat1406 posts ante 40
+windbmax posts ante 40
+SHEITAN.1996 posts ante 40
+zlatandu22 posts small blind 175
+Oxi009 posts big blind 350
+Dealt to manggy94 [3s 8s]
+*** PRE-FLOP *** 
+windbmax folds
+SHEITAN.1996 raises 40470 to 40820 and is all-in
+manggy94 folds
+marmat1406 folds
+zlatandu22 folds
+Oxi009 folds
+SHEITAN.1996 collected 41585 from pot
+*** SUMMARY ***
+Total pot 41585 | No rake
+Seat 6: SHEITAN.1996 won 41585
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #1752508877682770533-23-1606655939 - Holdem no limit (40/175/350) - 2020/11/29 13:18:59 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (34454)
+Seat 2: marmat1406 (73001)
+Seat 3: zlatandu22 (62936)
+Seat 4: Oxi009 (14145)
+Seat 5: windbmax (19885)
+Seat 6: SHEITAN.1996 (41585)
+*** ANTE/BLINDS ***
+Oxi009 posts ante 40
+windbmax posts ante 40
+manggy94 posts ante 40
+marmat1406 posts ante 40
+zlatandu22 posts ante 40
+SHEITAN.1996 posts ante 40
+Oxi009 posts small blind 175
+windbmax posts big blind 350
+Dealt to manggy94 [4c 9d]
+*** PRE-FLOP *** 
+SHEITAN.1996 raises 41195 to 41545 and is all-in
+manggy94 folds
+marmat1406 folds
+zlatandu22 folds
+Oxi009 folds
+windbmax folds
+SHEITAN.1996 collected 42310 from pot
+*** SUMMARY ***
+Total pot 42310 | No rake
+Seat 6: SHEITAN.1996 won 42310
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #1752508877682770533-24-1606655960 - Holdem no limit (40/175/350) - 2020/11/29 13:19:20 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (34414)
+Seat 2: marmat1406 (72961)
+Seat 3: zlatandu22 (62896)
+Seat 4: Oxi009 (13930)
+Seat 5: windbmax (19495)
+Seat 6: SHEITAN.1996 (42310)
+*** ANTE/BLINDS ***
+windbmax posts ante 40
+SHEITAN.1996 posts ante 40
+manggy94 posts ante 40
+marmat1406 posts ante 40
+zlatandu22 posts ante 40
+Oxi009 posts ante 40
+windbmax posts small blind 175
+SHEITAN.1996 posts big blind 350
+Dealt to manggy94 [5d 4d]
+*** PRE-FLOP *** 
+manggy94 calls 350
+marmat1406 folds
+zlatandu22 folds
+Oxi009 calls 350
+windbmax calls 175
+SHEITAN.1996 checks
+*** FLOP *** [As 9d Ac]
+windbmax checks
+SHEITAN.1996 checks
+manggy94 checks
+Oxi009 bets 1575
+windbmax calls 1575
+SHEITAN.1996 folds
+manggy94 folds
+*** TURN *** [As 9d Ac][6c]
+windbmax bets 350
+Oxi009 raises 2201 to 2551
+windbmax calls 2201
+*** RIVER *** [As 9d Ac 6c][5h]
+windbmax checks
+Oxi009 checks
+*** SHOW DOWN ***
+Oxi009 shows [Td 9s] (Two pairs : Aces and 9)
+windbmax shows [Th Ah] (Trips of Aces)
+windbmax collected 9892 from pot
+*** SUMMARY ***
+Total pot 9892 | No rake
+Board: [As 9d Ac 6c 5h]
+Seat 4: Oxi009 (button) showed [Td 9s] and lost with Two pairs : Aces and 9
+Seat 5: windbmax (small blind) showed [Th Ah] and won 9892 with Trips of Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #1752508877682770533-25-1606656032 - Holdem no limit (50/200/400) - 2020/11/29 13:20:32 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (34024)
+Seat 2: marmat1406 (72921)
+Seat 3: zlatandu22 (62856)
+Seat 4: Oxi009 (9414)
+Seat 5: windbmax (24871)
+Seat 6: SHEITAN.1996 (41920)
+*** ANTE/BLINDS ***
+SHEITAN.1996 posts ante 50
+manggy94 posts ante 50
+marmat1406 posts ante 50
+zlatandu22 posts ante 50
+Oxi009 posts ante 50
+windbmax posts ante 50
+SHEITAN.1996 posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [2c 6d]
+*** PRE-FLOP *** 
+marmat1406 calls 400
+zlatandu22 calls 400
+Oxi009 raises 8964 to 9364 and is all-in
+windbmax folds
+SHEITAN.1996 raises 32506 to 41870 and is all-in
+manggy94 folds
+marmat1406 folds
+zlatandu22 folds
+*** FLOP *** [Tc Jd 9c]
+*** TURN *** [Tc Jd 9c][4d]
+*** RIVER *** [Tc Jd 9c 4d][2d]
+*** SHOW DOWN ***
+Oxi009 shows [Th Ts] (Trips of Tens)
+SHEITAN.1996 shows [Js Qd] (One pair : Jacks)
+SHEITAN.1996 collected 32506 from side pot 1
+Oxi009 collected 20228 from main pot
+*** SUMMARY ***
+Total pot 52734 | No rake
+Board: [Tc Jd 9c 4d 2d]
+Seat 4: Oxi009 showed [Th Ts] and won 20228 with Trips of Tens
+Seat 6: SHEITAN.1996 (small blind) showed [Js Qd] and won 32506 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #1752508877682770533-26-1606656058 - Holdem no limit (50/200/400) - 2020/11/29 13:20:58 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (33574)
+Seat 2: marmat1406 (72471)
+Seat 3: zlatandu22 (62406)
+Seat 4: Oxi009 (20228)
+Seat 5: windbmax (24821)
+Seat 6: SHEITAN.1996 (32506)
+*** ANTE/BLINDS ***
+manggy94 posts ante 50
+marmat1406 posts ante 50
+zlatandu22 posts ante 50
+Oxi009 posts ante 50
+windbmax posts ante 50
+SHEITAN.1996 posts ante 50
+manggy94 posts small blind 200
+marmat1406 posts big blind 400
+Dealt to manggy94 [6s Th]
+*** PRE-FLOP *** 
+zlatandu22 calls 400
+Oxi009 folds
+windbmax folds
+SHEITAN.1996 folds
+manggy94 folds
+marmat1406 checks
+*** FLOP *** [7h 7c 2h]
+marmat1406 checks
+zlatandu22 checks
+*** TURN *** [7h 7c 2h][Td]
+marmat1406 checks
+zlatandu22 checks
+*** RIVER *** [7h 7c 2h Td][7d]
+marmat1406 checks
+zlatandu22 checks
+*** SHOW DOWN ***
+zlatandu22 shows [8s 9h] (Trips of 7)
+marmat1406 shows [Qd 9c] (Trips of 7)
+marmat1406 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Board: [7h 7c 2h Td 7d]
+Seat 2: marmat1406 (big blind) showed [Qd 9c] and won 1300 with Trips of 7
+Seat 3: zlatandu22 showed [8s 9h] and lost with Trips of 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #1752508877682770533-27-1606656089 - Holdem no limit (50/200/400) - 2020/11/29 13:21:29 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (33324)
+Seat 2: marmat1406 (73321)
+Seat 3: zlatandu22 (61956)
+Seat 4: Oxi009 (20178)
+Seat 5: windbmax (24771)
+Seat 6: SHEITAN.1996 (32456)
+*** ANTE/BLINDS ***
+marmat1406 posts ante 50
+zlatandu22 posts ante 50
+manggy94 posts ante 50
+Oxi009 posts ante 50
+windbmax posts ante 50
+SHEITAN.1996 posts ante 50
+marmat1406 posts small blind 200
+zlatandu22 posts big blind 400
+Dealt to manggy94 [7c 8s]
+*** PRE-FLOP *** 
+Oxi009 calls 400
+windbmax folds
+SHEITAN.1996 calls 400
+manggy94 calls 400
+marmat1406 calls 200
+zlatandu22 raises 800 to 1200
+Oxi009 calls 800
+SHEITAN.1996 calls 800
+manggy94 folds
+marmat1406 calls 800
+*** FLOP *** [5d Ks Qs]
+marmat1406 checks
+zlatandu22 checks
+Oxi009 checks
+SHEITAN.1996 checks
+*** TURN *** [5d Ks Qs][5s]
+marmat1406 checks
+zlatandu22 checks
+Oxi009 checks
+SHEITAN.1996 bets 1400
+marmat1406 calls 1400
+zlatandu22 folds
+Oxi009 folds
+*** RIVER *** [5d Ks Qs 5s][Jd]
+marmat1406 checks
+SHEITAN.1996 checks
+*** SHOW DOWN ***
+marmat1406 shows [Td Qc] (Two pairs : Queens and 5)
+SHEITAN.1996 shows [Qd 8h] (Two pairs : Queens and 5)
+SHEITAN.1996 collected 4150 from pot
+marmat1406 collected 4150 from pot
+*** SUMMARY ***
+Total pot 8300 | No rake
+Board: [5d Ks Qs 5s Jd]
+Seat 2: marmat1406 (small blind) showed [Td Qc] and won 4150 with Two pairs : Queens and 5
+Seat 6: SHEITAN.1996 showed [Qd 8h] and won 4150 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #1752508877682770533-28-1606656142 - Holdem no limit (50/200/400) - 2020/11/29 13:22:22 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (32874)
+Seat 2: marmat1406 (74821)
+Seat 3: zlatandu22 (60706)
+Seat 4: Oxi009 (18928)
+Seat 5: windbmax (24721)
+Seat 6: SHEITAN.1996 (33956)
+*** ANTE/BLINDS ***
+zlatandu22 posts ante 50
+Oxi009 posts ante 50
+manggy94 posts ante 50
+marmat1406 posts ante 50
+windbmax posts ante 50
+SHEITAN.1996 posts ante 50
+zlatandu22 posts small blind 200
+Oxi009 posts big blind 400
+Dealt to manggy94 [Tc 4h]
+*** PRE-FLOP *** 
+windbmax calls 400
+SHEITAN.1996 calls 400
+manggy94 folds
+marmat1406 calls 400
+zlatandu22 calls 200
+Oxi009 checks
+*** FLOP *** [9c Th Kc]
+zlatandu22 checks
+Oxi009 checks
+windbmax checks
+SHEITAN.1996 bets 600
+marmat1406 folds
+zlatandu22 calls 600
+Oxi009 folds
+windbmax folds
+*** TURN *** [9c Th Kc][9s]
+zlatandu22 bets 400
+SHEITAN.1996 calls 400
+*** RIVER *** [9c Th Kc 9s][4c]
+zlatandu22 checks
+SHEITAN.1996 checks
+*** SHOW DOWN ***
+zlatandu22 shows [6d 8d] (One pair : 9)
+SHEITAN.1996 shows [Qh 5h] (One pair : 9)
+SHEITAN.1996 collected 4300 from pot
+*** SUMMARY ***
+Total pot 4300 | No rake
+Board: [9c Th Kc 9s 4c]
+Seat 3: zlatandu22 (small blind) showed [6d 8d] and lost with One pair : 9
+Seat 6: SHEITAN.1996 showed [Qh 5h] and won 4300 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1752508877682770533-29-1606656185 - Holdem no limit (60/250/500) - 2020/11/29 13:23:05 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (32824)
+Seat 2: marmat1406 (74371)
+Seat 3: zlatandu22 (59256)
+Seat 4: Oxi009 (18478)
+Seat 5: windbmax (24271)
+Seat 6: SHEITAN.1996 (36806)
+*** ANTE/BLINDS ***
+Oxi009 posts ante 60
+windbmax posts ante 60
+manggy94 posts ante 60
+marmat1406 posts ante 60
+zlatandu22 posts ante 60
+SHEITAN.1996 posts ante 60
+Oxi009 posts small blind 250
+windbmax posts big blind 500
+Dealt to manggy94 [8h 7h]
+*** PRE-FLOP *** 
+SHEITAN.1996 raises 36246 to 36746 and is all-in
+manggy94 folds
+marmat1406 folds
+zlatandu22 folds
+Oxi009 folds
+windbmax folds
+SHEITAN.1996 collected 37856 from pot
+*** SUMMARY ***
+Total pot 37856 | No rake
+Seat 6: SHEITAN.1996 won 37856
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1752508877682770533-30-1606656205 - Holdem no limit (60/250/500) - 2020/11/29 13:23:25 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (32764)
+Seat 2: marmat1406 (74311)
+Seat 3: zlatandu22 (59196)
+Seat 4: Oxi009 (18168)
+Seat 5: windbmax (23711)
+Seat 6: SHEITAN.1996 (37856)
+*** ANTE/BLINDS ***
+windbmax posts ante 60
+SHEITAN.1996 posts ante 60
+manggy94 posts ante 60
+marmat1406 posts ante 60
+zlatandu22 posts ante 60
+Oxi009 posts ante 60
+windbmax posts small blind 250
+SHEITAN.1996 posts big blind 500
+Dealt to manggy94 [7s 4c]
+*** PRE-FLOP *** 
+manggy94 folds
+marmat1406 raises 73751 to 74251 and is all-in
+zlatandu22 folds
+Oxi009 folds
+windbmax folds
+SHEITAN.1996 calls 37296 and is all-in
+*** FLOP *** [7h Ks 5s]
+*** TURN *** [7h Ks 5s][8c]
+*** RIVER *** [7h Ks 5s 8c][6c]
+*** SHOW DOWN ***
+marmat1406 shows [Th Jd] (High card : King)
+SHEITAN.1996 shows [Ac 9c] (Straight 9 high)
+SHEITAN.1996 collected 76202 from main pot
+marmat1406 collected 36455 from side pot 1
+*** SUMMARY ***
+Total pot 112657 | No rake
+Board: [7h Ks 5s 8c 6c]
+Seat 2: marmat1406 showed [Th Jd] and won 36455 with High card : King
+Seat 6: SHEITAN.1996 (big blind) showed [Ac 9c] and won 76202 with Straight 9 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1752508877682770533-31-1606656235 - Holdem no limit (60/250/500) - 2020/11/29 13:23:55 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (32704)
+Seat 2: marmat1406 (36455)
+Seat 3: zlatandu22 (59136)
+Seat 4: Oxi009 (18108)
+Seat 5: windbmax (23401)
+Seat 6: SHEITAN.1996 (76202)
+*** ANTE/BLINDS ***
+SHEITAN.1996 posts ante 60
+manggy94 posts ante 60
+marmat1406 posts ante 60
+zlatandu22 posts ante 60
+Oxi009 posts ante 60
+windbmax posts ante 60
+SHEITAN.1996 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [5c 7h]
+*** PRE-FLOP *** 
+marmat1406 raises 35895 to 36395 and is all-in
+zlatandu22 folds
+Oxi009 folds
+windbmax folds
+SHEITAN.1996 raises 35895 to 72290
+manggy94 folds
+*** FLOP *** [Qs Th Ks]
+*** TURN *** [Qs Th Ks][Jh]
+*** RIVER *** [Qs Th Ks Jh][Ts]
+*** SHOW DOWN ***
+marmat1406 shows [Td 7d] (Trips of Tens)
+SHEITAN.1996 shows [Kd Jc] (Two pairs : Kings and Jacks)
+SHEITAN.1996 collected 35895 from side pot 1
+marmat1406 collected 73650 from main pot
+*** SUMMARY ***
+Total pot 109545 | No rake
+Board: [Qs Th Ks Jh Ts]
+Seat 2: marmat1406 showed [Td 7d] and won 73650 with Trips of Tens
+Seat 6: SHEITAN.1996 (small blind) showed [Kd Jc] and won 35895 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1752508877682770533-32-1606656258 - Holdem no limit (60/250/500) - 2020/11/29 13:24:18 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (32144)
+Seat 2: marmat1406 (73650)
+Seat 3: zlatandu22 (59076)
+Seat 4: Oxi009 (18048)
+Seat 5: windbmax (23341)
+Seat 6: SHEITAN.1996 (39747)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+marmat1406 posts ante 60
+zlatandu22 posts ante 60
+Oxi009 posts ante 60
+windbmax posts ante 60
+SHEITAN.1996 posts ante 60
+manggy94 posts small blind 250
+marmat1406 posts big blind 500
+Dealt to manggy94 [Kc As]
+*** PRE-FLOP *** 
+zlatandu22 folds
+Oxi009 folds
+windbmax calls 500
+SHEITAN.1996 folds
+manggy94 raises 1860 to 2360
+marmat1406 calls 1860
+windbmax folds
+*** FLOP *** [8s Js Kh]
+manggy94 checks
+marmat1406 bets 500
+manggy94 raises 3040 to 3540
+marmat1406 folds
+manggy94 collected 9620 from pot
+*** SUMMARY ***
+Total pot 9620 | No rake
+Board: [8s Js Kh]
+Seat 1: manggy94 (small blind) won 9620
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1752508877682770533-33-1606656287 - Holdem no limit (60/250/500) - 2020/11/29 13:24:47 UTC
+Table: 'Freeroll(408037770)#0612' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (35804)
+Seat 2: marmat1406 (70730)
+Seat 3: zlatandu22 (59016)
+Seat 4: Oxi009 (17988)
+Seat 5: windbmax (22781)
+Seat 6: SHEITAN.1996 (39687)
+*** ANTE/BLINDS ***
+marmat1406 posts ante 60
+zlatandu22 posts ante 60
+manggy94 posts ante 60
+Oxi009 posts ante 60
+windbmax posts ante 60
+SHEITAN.1996 posts ante 60
+marmat1406 posts small blind 250
+zlatandu22 posts big blind 500
+Dealt to manggy94 [Kd As]
+*** PRE-FLOP *** 
+Oxi009 calls 500
+windbmax folds
+SHEITAN.1996 raises 39127 to 39627 and is all-in
+manggy94 calls 35744 and is all-in
+marmat1406 folds
+zlatandu22 raises 19329 to 58956 and is all-in
+Oxi009 folds
+*** FLOP *** [2d 8h 6h]
+*** TURN *** [2d 8h 6h][4d]
+*** RIVER *** [2d 8h 6h 4d][Kh]
+*** SHOW DOWN ***
+manggy94 shows [Kd As] (One pair : Kings)
+zlatandu22 shows [Ah Qc] (High card : Ace)
+SHEITAN.1996 shows [8s 2s] (Two pairs : 8 and 2)
+SHEITAN.1996 collected 116108 from main pot
+zlatandu22 collected 19329 from side pot 1
+*** SUMMARY ***
+Total pot 135437 | No rake
+Board: [2d 8h 6h 4d Kh]
+Seat 1: manggy94 (button) showed [Kd As] and lost with One pair : Kings
+Seat 3: zlatandu22 (big blind) showed [Ah Qc] and won 19329 with High card : Ace
+Seat 6: SHEITAN.1996 showed [8s 2s] and won 116108 with Two pairs : 8 and 2
+
+

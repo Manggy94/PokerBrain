@@ -1,0 +1,47 @@
+Winamax Poker - Tournament "POPCORN" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #713503271704068120-55-1471375603 - Holdem no limit (25/150/300) - 2016/08/16 19:26:43 UTC
+Table: 'POPCORN(166125426)#023' 6-max (real money) Seat #1 is the button
+Seat 1: CRIS13081 (37835)
+Seat 2: JACKSONNAY (14819)
+Seat 3: Alex.Nuleau (25671)
+Seat 4: Mahouge8700 (12375)
+Seat 5: M.Chatouille (9300)
+Seat 6: manggy94 (10000)
+*** ANTE/BLINDS ***
+JACKSONNAY posts ante 25
+Alex.Nuleau posts ante 25
+CRIS13081 posts ante 25
+Mahouge8700 posts ante 25
+M.Chatouille posts ante 25
+manggy94 posts ante 25
+JACKSONNAY posts small blind 150
+Alex.Nuleau posts big blind 300
+Dealt to manggy94 [9s Ah]
+*** PRE-FLOP *** 
+Mahouge8700 raises 300 to 600
+M.Chatouille folds
+manggy94 raises 300 to 900
+CRIS13081 folds
+JACKSONNAY folds
+Alex.Nuleau folds
+Mahouge8700 calls 300
+*** FLOP *** [Ac Jd Jc]
+Mahouge8700 checks
+manggy94 bets 1800
+Mahouge8700 calls 1800
+*** TURN *** [Ac Jd Jc][Ts]
+Mahouge8700 checks
+manggy94 checks
+*** RIVER *** [Ac Jd Jc Ts][7s]
+Mahouge8700 bets 9650 and is all-in
+manggy94 calls 7275 and is all-in
+*** SHOW DOWN ***
+manggy94 shows [9s Ah] (Two pairs : Aces and Jacks)
+Mahouge8700 shows [Ks Qc] (Straight Ace high)
+Mahouge8700 collected 22925 from pot
+*** SUMMARY ***
+Total pot 22925 | No rake
+Board: [Ac Jd Jc Ts 7s]
+Seat 4: Mahouge8700 showed [Ks Qc] and won 22925 with Straight Ace high
+Seat 6: manggy94 showed [9s Ah] and lost with Two pairs : Aces and Jacks
+
+

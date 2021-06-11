@@ -1,0 +1,81 @@
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 0.90€ + 0.10€ level:  - HandId: #798746114693005338-1-1487699550 - Holdem no limit (40/250/500) - 2017/02/21 17:52:30 UTC
+Table: 'Hold'em [180 Max](185972572)#25' 6-max (real money) Seat #3 is the button
+Seat 3: Winounette84 (10000)
+Seat 4: manggy94 (10000)
+*** ANTE/BLINDS ***
+Winounette84 posts ante 40
+manggy94 posts ante 40
+Winounette84 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [8c 7d]
+*** PRE-FLOP *** 
+Winounette84 calls 250
+manggy94 checks
+*** FLOP *** [Jc Ac 8s]
+manggy94 checks
+Winounette84 bets 500
+manggy94 folds
+Winounette84 collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Board: [Jc Ac 8s]
+Seat 3: Winounette84 (small blind) (button) won 1580
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 0.90€ + 0.10€ level:  - HandId: #798746114693005338-2-1487699568 - Holdem no limit (40/250/500) - 2017/02/21 17:52:48 UTC
+Table: 'Hold'em [180 Max](185972572)#25' 6-max (real money) Seat #3 is the button
+Seat 3: Winounette84 (10540)
+Seat 4: manggy94 (9460)
+Seat 6: Amy82 (10000)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+Amy82 posts ante 40
+Winounette84 posts ante 40
+manggy94 posts small blind 250
+Amy82 posts big blind 500
+Dealt to manggy94 [3c 5h]
+*** PRE-FLOP *** 
+Winounette84 folds
+manggy94 folds
+Amy82 collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Seat 6: Amy82 (big blind) won 870
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 0.90€ + 0.10€ level:  - HandId: #798746114693005338-3-1487699572 - Holdem no limit (40/250/500) - 2017/02/21 17:52:52 UTC
+Table: 'Hold'em [180 Max](185972572)#25' 6-max (real money) Seat #4 is the button
+Seat 3: Winounette84 (10500)
+Seat 4: manggy94 (9170)
+Seat 6: Amy82 (10330)
+*** ANTE/BLINDS ***
+Amy82 posts ante 40
+Winounette84 posts ante 40
+manggy94 posts ante 40
+Amy82 posts small blind 250
+Winounette84 posts big blind 500
+Dealt to manggy94 [2d As]
+*** PRE-FLOP *** 
+manggy94 raises 1000 to 1500
+Amy82 calls 1250
+Winounette84 calls 1000
+*** FLOP *** [9d 6s 9s]
+Amy82 checks
+Winounette84 bets 4620
+manggy94 calls 4620
+Amy82 folds
+*** TURN *** [9d 6s 9s][Td]
+Winounette84 bets 4340 and is all-in
+manggy94 calls 3010 and is all-in
+*** RIVER *** [9d 6s 9s Td][6d]
+*** SHOW DOWN ***
+manggy94 shows [2d As] (Two pairs : 9 and 6)
+Winounette84 shows [Ah 6h] (Full of 6 and 9)
+Winounette84 collected 21210 from pot
+*** SUMMARY ***
+Total pot 21210 | No rake
+Board: [9d 6s 9s Td 6d]
+Seat 3: Winounette84 (big blind) showed [Ah 6h] and won 21210 with Full of 6 and 9
+Seat 4: manggy94 (button) showed [2d As] and lost with Two pairs : 9 and 6
+
+

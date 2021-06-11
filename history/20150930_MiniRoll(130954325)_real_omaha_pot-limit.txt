@@ -1,0 +1,355 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #562444543144755213-3-1443598861 - Omaha pot limit (50/100) - 2015/09/30 07:41:01 UTC
+Table: 'MiniRoll(130954325)#012' 6-max (real money) Seat #1 is the button
+Seat 1: BigBamTheory (15325)
+Seat 2: Chip Bully13 (10100)
+Seat 3: theboss62700 (10000)
+Seat 4: manggy94 (10000)
+Seat 5: janyo (10000)
+*** ANTE/BLINDS ***
+BigBamTheory posts small blind 50
+Chip Bully13 posts big blind 100
+*** PRE-FLOP *** 
+BigBamTheory calls 50
+Chip Bully13 checks
+*** FLOP *** [8h Qh 6d]
+Chip Bully13 checks
+BigBamTheory bets 100
+Chip Bully13 calls 100
+*** TURN *** [8h Qh 6d][Kh]
+Chip Bully13 checks
+BigBamTheory checks
+*** RIVER *** [8h Qh 6d Kh][4s]
+Chip Bully13 bets 400
+BigBamTheory folds
+Chip Bully13 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [8h Qh 6d Kh 4s]
+Seat 2: Chip Bully13 (big blind) won 800
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #562444543144755213-4-1443598882 - Omaha pot limit (50/100) - 2015/09/30 07:41:22 UTC
+Table: 'MiniRoll(130954325)#012' 6-max (real money) Seat #1 is the button
+Seat 1: BigBamTheory (15125)
+Seat 2: Chip Bully13 (10300)
+Seat 3: theboss62700 (10000)
+Seat 4: manggy94 (10000)
+Seat 5: janyo (10000)
+*** ANTE/BLINDS ***
+Chip Bully13 posts small blind 50
+theboss62700 posts big blind 100
+Dealt to manggy94 [Qs 6s Th 5d]
+*** PRE-FLOP *** 
+manggy94 folds
+janyo folds
+BigBamTheory folds
+Chip Bully13 calls 50
+theboss62700 checks
+*** FLOP *** [5c 6h Kh]
+Chip Bully13 checks
+theboss62700 bets 200
+Chip Bully13 folds
+theboss62700 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [5c 6h Kh]
+Seat 3: theboss62700 (big blind) won 400
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #562444543144755213-5-1443598909 - Omaha pot limit (50/100) - 2015/09/30 07:41:49 UTC
+Table: 'MiniRoll(130954325)#012' 6-max (real money) Seat #2 is the button
+Seat 1: BigBamTheory (15125)
+Seat 2: Chip Bully13 (10200)
+Seat 3: theboss62700 (10100)
+Seat 4: manggy94 (10000)
+Seat 5: janyo (10000)
+Seat 6: cover up (10000)
+*** ANTE/BLINDS ***
+theboss62700 posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [Ad Qh As Qc]
+*** PRE-FLOP *** 
+janyo calls 100
+cover up folds
+BigBamTheory calls 100
+Chip Bully13 calls 100
+theboss62700 calls 50
+manggy94 checks
+*** FLOP *** [2h 2s 2d]
+theboss62700 bets 100
+manggy94 raises 700 to 800
+janyo folds
+BigBamTheory folds
+Chip Bully13 folds
+theboss62700 calls 700
+*** TURN *** [2h 2s 2d][Tc]
+theboss62700 checks
+manggy94 bets 2100
+theboss62700 folds
+manggy94 collected 4200 from pot
+*** SUMMARY ***
+Total pot 4200 | No rake
+Board: [2h 2s 2d Tc]
+Seat 4: manggy94 (big blind) won 4200
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #562444543144755213-6-1443599018 - Omaha pot limit (75/150) - 2015/09/30 07:43:38 UTC
+Table: 'MiniRoll(130954325)#012' 6-max (real money) Seat #3 is the button
+Seat 1: BigBamTheory (15025)
+Seat 2: Chip Bully13 (10100)
+Seat 3: theboss62700 (9200)
+Seat 4: manggy94 (11200)
+Seat 5: janyo (9900)
+Seat 6: cover up (10000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 75
+janyo posts big blind 150
+Dealt to manggy94 [Jc 8c Qs 9h]
+*** PRE-FLOP *** 
+cover up folds
+BigBamTheory calls 150
+Chip Bully13 calls 150
+theboss62700 calls 150
+manggy94 calls 75
+janyo checks
+*** FLOP *** [Qc 3c 9s]
+manggy94 checks
+janyo checks
+BigBamTheory checks
+Chip Bully13 checks
+theboss62700 checks
+*** TURN *** [Qc 3c 9s][6s]
+manggy94 bets 750
+janyo calls 750
+BigBamTheory calls 750
+Chip Bully13 calls 750
+theboss62700 calls 750
+*** RIVER *** [Qc 3c 9s 6s][Jd]
+manggy94 bets 4500
+janyo folds
+BigBamTheory folds
+Chip Bully13 calls 4500
+theboss62700 raises 3800 to 8300 and is all-in
+manggy94 calls 3800
+Chip Bully13 calls 3800
+*** SHOW DOWN ***
+Chip Bully13 shows [8s Th As 2s] (Straight Queen high)
+manggy94 shows [Jc 8c Qs 9h] (Two pairs : Queens and Jacks)
+theboss62700 shows [Kh 4c 4d Ts] (Straight King high)
+theboss62700 collected 29400 from pot
+*** SUMMARY ***
+Total pot 29400 | No rake
+Board: [Qc 3c 9s 6s Jd]
+Seat 2: Chip Bully13 showed [8s Th As 2s] and lost with Straight Queen high
+Seat 3: theboss62700 (button) showed [Kh 4c 4d Ts] and won 29400 with Straight King high
+Seat 4: manggy94 (small blind) showed [Jc 8c Qs 9h] and lost with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #562444543144755213-7-1443599141 - Omaha pot limit (75/150) - 2015/09/30 07:45:41 UTC
+Table: 'MiniRoll(130954325)#012' 6-max (real money) Seat #4 is the button
+Seat 1: BigBamTheory (14125)
+Seat 2: Chip Bully13 (900)
+Seat 3: theboss62700 (29400)
+Seat 4: manggy94 (2000)
+Seat 5: janyo (9000)
+Seat 6: cover up (10000)
+*** ANTE/BLINDS ***
+janyo posts small blind 75
+cover up posts big blind 150
+Dealt to manggy94 [Tc Kd Jh Qd]
+*** PRE-FLOP *** 
+BigBamTheory calls 150
+Chip Bully13 folds
+theboss62700 calls 150
+manggy94 raises 675 to 825
+janyo calls 750
+cover up folds
+BigBamTheory calls 675
+theboss62700 calls 675
+*** FLOP *** [2s 9d Js]
+janyo checks
+BigBamTheory bets 2588
+theboss62700 folds
+manggy94 calls 1175 and is all-in
+janyo folds
+*** TURN *** [2s 9d Js][Ts]
+*** RIVER *** [2s 9d Js Ts][Ah]
+*** SHOW DOWN ***
+manggy94 shows [Tc Kd Jh Qd] (Straight Ace high)
+BigBamTheory shows [5h Jd Jc 8d] (Trips of Jacks)
+BigBamTheory collected 1413 from side pot 1
+manggy94 collected 5800 from main pot
+*** SUMMARY ***
+Total pot 7213 | No rake
+Board: [2s 9d Js Ts Ah]
+Seat 1: BigBamTheory showed [5h Jd Jc 8d] and won 1413 with Trips of Jacks
+Seat 4: manggy94 (button) showed [Tc Kd Jh Qd] and won 5800 with Straight Ace high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #562444543144755213-8-1443599202 - Omaha pot limit (75/150) - 2015/09/30 07:46:42 UTC
+Table: 'MiniRoll(130954325)#012' 6-max (real money) Seat #5 is the button
+Seat 1: BigBamTheory (12125)
+Seat 2: Chip Bully13 (900)
+Seat 3: theboss62700 (28575)
+Seat 4: manggy94 (5800)
+Seat 5: janyo (8175)
+Seat 6: cover up (9850)
+*** ANTE/BLINDS ***
+cover up posts small blind 75
+BigBamTheory posts big blind 150
+Dealt to manggy94 [4s 9c 2s Jh]
+*** PRE-FLOP *** 
+Chip Bully13 folds
+theboss62700 raises 300 to 450
+manggy94 folds
+janyo folds
+cover up folds
+BigBamTheory calls 300
+*** FLOP *** [6h 2h 6d]
+BigBamTheory checks
+theboss62700 bets 650
+BigBamTheory folds
+theboss62700 collected 1625 from pot
+*** SUMMARY ***
+Total pot 1625 | No rake
+Board: [6h 2h 6d]
+Seat 3: theboss62700 won 1625
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #562444543144755213-9-1443599243 - Omaha pot limit (75/150) - 2015/09/30 07:47:23 UTC
+Table: 'MiniRoll(130954325)#012' 6-max (real money) Seat #6 is the button
+Seat 1: BigBamTheory (11675)
+Seat 2: Chip Bully13 (900)
+Seat 3: theboss62700 (29100)
+Seat 4: manggy94 (5800)
+Seat 5: janyo (8175)
+*** ANTE/BLINDS ***
+BigBamTheory posts small blind 75
+Chip Bully13 posts big blind 150
+Dealt to manggy94 [2d 2c 4d Kh]
+*** PRE-FLOP *** 
+theboss62700 folds
+manggy94 calls 150
+janyo calls 150
+BigBamTheory calls 75
+Chip Bully13 checks
+*** FLOP *** [8d Jd Jc]
+BigBamTheory checks
+Chip Bully13 checks
+manggy94 checks
+janyo checks
+*** TURN *** [8d Jd Jc][8h]
+BigBamTheory checks
+Chip Bully13 checks
+manggy94 checks
+janyo checks
+*** RIVER *** [8d Jd Jc 8h][Qs]
+BigBamTheory checks
+Chip Bully13 checks
+manggy94 checks
+janyo checks
+*** SHOW DOWN ***
+Chip Bully13 shows [9h 2s 6c 3c] (One pair : Jacks)
+manggy94 shows [2d 2c 4d Kh] (Two pairs : Jacks and 2)
+janyo shows [Ac 7h Ts 3d] (One pair : Jacks)
+BigBamTheory shows [9c 7c 5d Qc] (Two pairs : Queens and Jacks)
+BigBamTheory collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [8d Jd Jc 8h Qs]
+Seat 1: BigBamTheory (small blind) showed [9c 7c 5d Qc] and won 600 with Two pairs : Queens and Jacks
+Seat 2: Chip Bully13 (big blind) showed [9h 2s 6c 3c] and lost with One pair : Jacks
+Seat 4: manggy94 showed [2d 2c 4d Kh] and lost with Two pairs : Jacks and 2
+Seat 5: janyo showed [Ac 7h Ts 3d] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #562444543144755213-10-1443599285 - Omaha pot limit (100/200) - 2015/09/30 07:48:05 UTC
+Table: 'MiniRoll(130954325)#012' 6-max (real money) Seat #1 is the button
+Seat 1: BigBamTheory (12125)
+Seat 2: Chip Bully13 (750)
+Seat 3: theboss62700 (29100)
+Seat 4: manggy94 (5650)
+Seat 5: janyo (8025)
+*** ANTE/BLINDS ***
+Chip Bully13 posts small blind 100
+theboss62700 posts big blind 200
+Dealt to manggy94 [Qc 7d Qs Kc]
+*** PRE-FLOP *** 
+manggy94 raises 500 to 700
+janyo calls 700
+BigBamTheory calls 700
+Chip Bully13 raises 50 to 750 and is all-in
+theboss62700 folds
+manggy94 calls 50
+janyo calls 50
+BigBamTheory calls 50
+*** FLOP *** [Qh 3h Th]
+manggy94 checks
+janyo checks
+BigBamTheory checks
+*** TURN *** [Qh 3h Th][5d]
+manggy94 bets 3200
+janyo calls 3200
+BigBamTheory folds
+*** RIVER *** [Qh 3h Th 5d][4d]
+manggy94 bets 1700 and is all-in
+janyo calls 1700
+*** SHOW DOWN ***
+Chip Bully13 shows [9c As Qd 5s] (Two pairs : Queens and 5)
+janyo shows [3s 3c Ad Kd] (Trips of 3)
+manggy94 shows [Qc 7d Qs Kc] (Trips of Queens)
+manggy94 collected 13000 from pot
+*** SUMMARY ***
+Total pot 13000 | No rake
+Board: [Qh 3h Th 5d 4d]
+Seat 2: Chip Bully13 (small blind) showed [9c As Qd 5s] and lost with Two pairs : Queens and 5
+Seat 4: manggy94 showed [Qc 7d Qs Kc] and won 13000 with Trips of Queens
+Seat 5: janyo showed [3s 3c Ad Kd] and lost with Trips of 3
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #562444543144755213-11-1443599341 - Omaha pot limit (100/200) - 2015/09/30 07:49:01 UTC
+Table: 'MiniRoll(130954325)#012' 6-max (real money) Seat #2 is the button
+Seat 1: BigBamTheory (11375)
+Seat 2: lynx971 (10000)
+Seat 3: theboss62700 (28900)
+Seat 4: manggy94 (13000)
+Seat 5: janyo (2375)
+Seat 6: tonel59 (10000)
+*** ANTE/BLINDS ***
+theboss62700 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [6s Kd 8c 8h]
+*** PRE-FLOP *** 
+janyo calls 200
+tonel59 calls 200
+BigBamTheory folds
+theboss62700 calls 100
+manggy94 checks
+*** FLOP *** [8d Td Ah]
+theboss62700 checks
+manggy94 bets 800
+janyo raises 1375 to 2175 and is all-in
+tonel59 folds
+theboss62700 calls 2175
+manggy94 calls 1375
+*** TURN *** [8d Td Ah][2d]
+theboss62700 checks
+manggy94 checks
+*** RIVER *** [8d Td Ah 2d][6c]
+theboss62700 bets 3663
+manggy94 raises 6962 to 10625 and is all-in
+theboss62700 calls 6962
+*** SHOW DOWN ***
+manggy94 shows [6s Kd 8c 8h] (Trips of 8)
+janyo shows [9c 5d 2h 9d] (Flush Ten high)
+theboss62700 shows [Ad 7s 7c 9s] (Straight Ten high)
+theboss62700 collected 21250 from side pot 1
+janyo collected 7325 from main pot
+*** SUMMARY ***
+Total pot 28575 | No rake
+Board: [8d Td Ah 2d 6c]
+Seat 3: theboss62700 (small blind) showed [Ad 7s 7c 9s] and won 21250 with Straight Ten high
+Seat 4: manggy94 (big blind) showed [6s Kd 8c 8h] and lost with Trips of 8
+Seat 5: janyo showed [9c 5d 2h 9d] and won 7325 with Flush Ten high
+
+

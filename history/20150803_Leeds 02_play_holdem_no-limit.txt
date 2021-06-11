@@ -1,0 +1,2876 @@
+Winamax Poker - CashGame - HandId: #7813225-271-1438627184 - Holdem no limit (0.01/0.02) - 2015/08/03 18:39:44 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #5 is the button
+Seat 1: rouillaxben (47.99)
+Seat 3: joeBLACK44 (3.42)
+Seat 6: razhoule (2)
+Seat 7: davidoha (2)
+Seat 8: manggy94 (2)
+Seat 9: semail kader (1.74)
+*** ANTE/BLINDS ***
+razhoule posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [8s 2d]
+*** PRE-FLOP *** 
+semail kader calls 0.02
+rouillaxben calls 0.02
+joeBLACK44 calls 0.02
+razhoule raises 0.10 to 0.12
+manggy94 folds
+semail kader calls 0.10
+rouillaxben calls 0.10
+joeBLACK44 calls 0.10
+*** FLOP *** [Qh Ks 6c]
+razhoule bets 0.50
+semail kader folds
+rouillaxben folds
+joeBLACK44 calls 0.50
+*** TURN *** [Qh Ks 6c][7d]
+razhoule checks
+joeBLACK44 checks
+*** RIVER *** [Qh Ks 6c 7d][9c]
+razhoule bets 1.38 and is all-in
+joeBLACK44 folds
+razhoule collected 2.78 from pot
+*** SUMMARY ***
+Total pot 2.78 | Rake 0.10
+Board: [Qh Ks 6c 7d 9c]
+Seat 6: razhoule (small blind) won 2.78
+
+
+Winamax Poker - CashGame - HandId: #7813225-272-1438627254 - Holdem no limit (0.01/0.02) - 2015/08/03 18:40:54 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #6 is the button
+Seat 1: rouillaxben (47.87)
+Seat 3: joeBLACK44 (2.80)
+Seat 6: razhoule (2.78)
+Seat 7: davidoha (2)
+Seat 8: manggy94 (1.98)
+Seat 9: semail kader (1.62)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+semail kader posts big blind 0.02
+Dealt to manggy94 [6d Td]
+*** PRE-FLOP *** 
+rouillaxben calls 0.02
+joeBLACK44 folds
+razhoule raises 0.07 to 0.09
+manggy94 folds
+semail kader calls 0.07
+rouillaxben calls 0.07
+*** FLOP *** [9d 7c 9c]
+semail kader checks
+rouillaxben bets 47.78 and is all-in
+razhoule calls 2.69 and is all-in
+semail kader folds
+*** TURN *** [9d 7c 9c][4c]
+*** RIVER *** [9d 7c 9c 4c][7h]
+*** SHOW DOWN ***
+rouillaxben shows [5h Js] (Two pairs : 9 and 7)
+razhoule shows [Ks Kc] (Two pairs : Kings and 9)
+razhoule collected 5.29 from main pot
+rouillaxben collected 45.09 from side pot 1
+*** SUMMARY ***
+Total pot 50.38 | Rake 0.37
+Board: [9d 7c 9c 4c 7h]
+Seat 1: rouillaxben showed [5h Js] and won 45.09 with Two pairs : 9 and 7
+Seat 6: razhoule (button) showed [Ks Kc] and won 5.29 with Two pairs : Kings and 9
+
+
+Winamax Poker - CashGame - HandId: #7813225-273-1438627291 - Holdem no limit (0.01/0.02) - 2015/08/03 18:41:31 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #8 is the button
+Seat 1: rouillaxben (45.09)
+Seat 3: joeBLACK44 (2.80)
+Seat 6: razhoule (5.29)
+Seat 8: manggy94 (1.97)
+Seat 9: semail kader (1.53)
+*** ANTE/BLINDS ***
+semail kader posts small blind 0.01
+rouillaxben posts big blind 0.02
+Dealt to manggy94 [9d 6d]
+*** PRE-FLOP *** 
+joeBLACK44 folds
+razhoule raises 0.05 to 0.07
+manggy94 calls 0.07
+semail kader calls 0.06
+rouillaxben calls 0.05
+*** FLOP *** [7d Ad 3h]
+semail kader checks
+rouillaxben bets 0.28
+razhoule calls 0.28
+manggy94 calls 0.28
+semail kader calls 0.28
+*** TURN *** [7d Ad 3h][9s]
+semail kader checks
+rouillaxben bets 1.40
+razhoule calls 1.40
+manggy94 folds
+semail kader folds
+*** RIVER *** [7d Ad 3h 9s][2d]
+rouillaxben bets 2.10
+razhoule raises 1.44 to 3.54 and is all-in
+rouillaxben calls 1.44
+*** SHOW DOWN ***
+rouillaxben shows [4d 3s] (One pair : 3)
+razhoule shows [As Qc] (One pair : Aces)
+razhoule collected 10.55 from pot
+*** SUMMARY ***
+Total pot 10.55 | Rake 0.73
+Board: [7d Ad 3h 9s 2d]
+Seat 1: rouillaxben (big blind) showed [4d 3s] and lost with One pair : 3
+Seat 6: razhoule showed [As Qc] and won 10.55 with One pair : Aces
+
+
+Winamax Poker - CashGame - HandId: #7813225-274-1438627345 - Holdem no limit (0.01/0.02) - 2015/08/03 18:42:25 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #9 is the button
+Seat 1: rouillaxben (39.80)
+Seat 3: joeBLACK44 (2.80)
+Seat 6: razhoule (10.55)
+Seat 8: manggy94 (1.62)
+Seat 9: semail kader (1.18)
+*** ANTE/BLINDS ***
+rouillaxben posts small blind 0.01
+joeBLACK44 posts big blind 0.02
+Dealt to manggy94 [7h 6d]
+*** PRE-FLOP *** 
+razhoule calls 0.02
+manggy94 folds
+semail kader raises 1.16 to 1.18 and is all-in
+rouillaxben folds
+joeBLACK44 folds
+razhoule folds
+semail kader collected 1.23 from pot
+*** SUMMARY ***
+Total pot 1.23 | No rake
+Seat 9: semail kader (button) won 1.23
+
+
+Winamax Poker - CashGame - HandId: #7813225-275-1438627366 - Holdem no limit (0.01/0.02) - 2015/08/03 18:42:46 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #1 is the button
+Seat 1: rouillaxben (39.79)
+Seat 3: joeBLACK44 (2.78)
+Seat 6: razhoule (10.53)
+Seat 8: manggy94 (1.62)
+Seat 9: semail kader (1.23)
+*** ANTE/BLINDS ***
+joeBLACK44 posts small blind 0.01
+razhoule posts big blind 0.02
+Dealt to manggy94 [2d 3h]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+semail kader raises 1.21 to 1.23 and is all-in
+rouillaxben folds
+joeBLACK44 calls 1.22
+razhoule raises 1.21 to 2.44
+manggy94 folds
+joeBLACK44 calls 1.21
+*** FLOP *** [9h 4d Kh]
+joeBLACK44 checks
+razhoule checks
+*** TURN *** [9h 4d Kh][Th]
+joeBLACK44 checks
+razhoule bets 8.09 and is all-in
+joeBLACK44 folds
+*** RIVER *** [9h 4d Kh Th][2h]
+*** SHOW DOWN ***
+semail kader shows [Qc 8s] (High card : King)
+razhoule shows [Jc 9c] (One pair : 9)
+razhoule collected 13.82 from pot
+*** SUMMARY ***
+Total pot 13.82 | Rake 0.40
+Board: [9h 4d Kh Th 2h]
+Seat 6: razhoule (big blind) showed [Jc 9c] and won 13.82 with One pair : 9
+Seat 9: semail kader showed [Qc 8s] and lost with High card : King
+
+
+Winamax Poker - CashGame - HandId: #7813225-276-1438627420 - Holdem no limit (0.01/0.02) - 2015/08/03 18:43:40 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #3 is the button
+Seat 1: rouillaxben (39.79)
+Seat 3: joeBLACK44 (0.34)
+Seat 6: razhoule (13.82)
+Seat 8: manggy94 (1.60)
+Seat 9: semail kader (0)
+*** ANTE/BLINDS ***
+razhoule posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [Ah Qd]
+*** PRE-FLOP *** 
+rouillaxben folds
+joeBLACK44 folds
+razhoule calls 0.01
+manggy94 raises 0.27 to 0.29
+razhoule calls 0.27
+*** FLOP *** [9c Ks 4d]
+razhoule checks
+manggy94 bets 0.43
+razhoule calls 0.43
+*** TURN *** [9c Ks 4d][Js]
+razhoule checks
+manggy94 checks
+*** RIVER *** [9c Ks 4d Js][Qc]
+razhoule bets 1.44
+manggy94 calls 0.88 and is all-in
+*** SHOW DOWN ***
+manggy94 shows [Ah Qd] (One pair : Queens)
+razhoule shows [Kd 4c] (Two pairs : Kings and 4)
+razhoule collected 3.55 from pot
+*** SUMMARY ***
+Total pot 3.55 | Rake 0.21
+Board: [9c Ks 4d Js Qc]
+Seat 6: razhoule (small blind) showed [Kd 4c] and won 3.55 with Two pairs : Kings and 4
+Seat 8: manggy94 (big blind) showed [Ah Qd] and lost with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #7813225-277-1438627479 - Holdem no limit (0.01/0.02) - 2015/08/03 18:44:39 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #6 is the button
+Seat 1: rouillaxben (39.79)
+Seat 3: joeBLACK44 (0.34)
+Seat 4: mishhto (2)
+Seat 6: razhoule (15.21)
+Seat 8: manggy94 (2)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+rouillaxben posts big blind 0.02
+mishhto posts big blind 0.02 out of position
+Dealt to manggy94 [8c Kd]
+*** PRE-FLOP *** 
+joeBLACK44 calls 0.02
+mishhto checks
+razhoule calls 0.02
+manggy94 calls 0.01
+rouillaxben checks
+*** FLOP *** [6s 7d 4h]
+manggy94 checks
+rouillaxben bets 0.10
+joeBLACK44 calls 0.10
+mishhto folds
+razhoule calls 0.10
+manggy94 calls 0.10
+*** TURN *** [6s 7d 4h][Qc]
+manggy94 checks
+rouillaxben bets 0.50
+joeBLACK44 folds
+razhoule calls 0.50
+manggy94 folds
+*** RIVER *** [6s 7d 4h Qc][7c]
+rouillaxben checks
+razhoule bets 1.50
+rouillaxben folds
+razhoule collected 2.90 from pot
+*** SUMMARY ***
+Total pot 2.90 | Rake 0.10
+Board: [6s 7d 4h Qc 7c]
+Seat 6: razhoule (button) won 2.90
+
+
+Winamax Poker - CashGame - HandId: #7813225-278-1438627567 - Holdem no limit (0.01/0.02) - 2015/08/03 18:46:07 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #8 is the button
+Seat 1: rouillaxben (39.17)
+Seat 3: joeBLACK44 (0.22)
+Seat 4: mishhto (2)
+Seat 6: razhoule (15.99)
+Seat 8: manggy94 (1.88)
+*** ANTE/BLINDS ***
+rouillaxben posts small blind 0.01
+joeBLACK44 posts big blind 0.02
+Dealt to manggy94 [Ks 9s]
+*** PRE-FLOP *** 
+mishhto calls 0.02
+razhoule calls 0.02
+manggy94 raises 0.34 to 0.36
+rouillaxben calls 0.35
+joeBLACK44 folds
+mishhto raises 1.64 to 2 and is all-in
+razhoule calls 1.98
+manggy94 calls 1.52 and is all-in
+rouillaxben folds
+*** FLOP *** [3s As Qs]
+*** TURN *** [3s As Qs][Td]
+*** RIVER *** [3s As Qs Td][7d]
+*** SHOW DOWN ***
+mishhto shows [Ts 9c] (One pair : Tens)
+razhoule shows [3d Ah] (Two pairs : Aces and 3)
+manggy94 shows [Ks 9s] (Flush Ace high)
+manggy94 collected 5.63 from main pot
+razhoule collected 0.22 from side pot 1
+*** SUMMARY ***
+Total pot 5.85 | Rake 0.41
+Board: [3s As Qs Td 7d]
+Seat 4: mishhto showed [Ts 9c] and lost with One pair : Tens
+Seat 6: razhoule showed [3d Ah] and won 0.22 with Two pairs : Aces and 3
+Seat 8: manggy94 (button) showed [Ks 9s] and won 5.63 with Flush Ace high
+
+
+Winamax Poker - CashGame - HandId: #7813225-279-1438627646 - Holdem no limit (0.01/0.02) - 2015/08/03 18:47:26 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #1 is the button
+Seat 1: rouillaxben (38.81)
+Seat 3: joeBLACK44 (0.20)
+Seat 4: mishhto (2)
+Seat 6: razhoule (14.21)
+Seat 8: manggy94 (5.63)
+*** ANTE/BLINDS ***
+joeBLACK44 posts small blind 0.01
+mishhto posts big blind 0.02
+Dealt to manggy94 [Ts Jd]
+*** PRE-FLOP *** 
+razhoule calls 0.02
+manggy94 calls 0.02
+rouillaxben calls 0.02
+joeBLACK44 calls 0.01
+mishhto checks
+*** FLOP *** [Qc Kh 3d]
+joeBLACK44 folds
+mishhto checks
+razhoule bets 0.10
+manggy94 calls 0.10
+rouillaxben calls 0.10
+mishhto folds
+*** TURN *** [Qc Kh 3d][4d]
+razhoule checks
+manggy94 checks
+rouillaxben checks
+*** RIVER *** [Qc Kh 3d 4d][4c]
+razhoule bets 0.40
+manggy94 folds
+rouillaxben calls 0.40
+*** SHOW DOWN ***
+razhoule shows [As Jh] (One pair : 4)
+rouillaxben shows [2h Qs] (Two pairs : Queens and 4)
+rouillaxben collected 1.12 from pot
+*** SUMMARY ***
+Total pot 1.12 | Rake 0.08
+Board: [Qc Kh 3d 4d 4c]
+Seat 1: rouillaxben (button) showed [2h Qs] and won 1.12 with Two pairs : Queens and 4
+Seat 6: razhoule showed [As Jh] and lost with One pair : 4
+
+
+Winamax Poker - CashGame - HandId: #7813225-280-1438627784 - Holdem no limit (0.01/0.02) - 2015/08/03 18:49:44 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #3 is the button
+Seat 1: rouillaxben (39.41)
+Seat 3: joeBLACK44 (0.18)
+Seat 4: mishhto (2)
+Seat 6: razhoule (13.69)
+Seat 8: manggy94 (5.51)
+*** ANTE/BLINDS ***
+razhoule posts big blind 0.02
+Dealt to manggy94 [Kd Th]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+rouillaxben calls 0.02
+joeBLACK44 calls 0.02
+razhoule raises 0.02 to 0.04
+manggy94 raises 0.18 to 0.22
+rouillaxben folds
+joeBLACK44 folds
+razhoule raises 0.18 to 0.40
+manggy94 calls 0.18
+*** FLOP *** [8c As 4h]
+razhoule bets 0.84
+manggy94 folds
+razhoule collected 1.63 from pot
+*** SUMMARY ***
+Total pot 1.63 | Rake 0.05
+Board: [8c As 4h]
+Seat 6: razhoule (big blind) won 1.63
+
+
+Winamax Poker - CashGame - HandId: #7813225-281-1438627835 - Holdem no limit (0.01/0.02) - 2015/08/03 18:50:35 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #4 is the button
+Seat 1: rouillaxben (39.39)
+Seat 3: joeBLACK44 (0.16)
+Seat 6: razhoule (14.08)
+Seat 8: manggy94 (5.11)
+*** ANTE/BLINDS ***
+razhoule posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [3h 2h]
+*** PRE-FLOP *** 
+rouillaxben calls 0.02
+joeBLACK44 folds
+razhoule calls 0.01
+manggy94 checks
+*** FLOP *** [8h Jh Kh]
+razhoule checks
+manggy94 bets 1.69
+rouillaxben folds
+razhoule folds
+manggy94 collected 1.75 from pot
+*** SUMMARY ***
+Total pot 1.75 | No rake
+Board: [8h Jh Kh]
+Seat 8: manggy94 (big blind) won 1.75
+
+
+Winamax Poker - CashGame - HandId: #7813225-282-1438627872 - Holdem no limit (0.01/0.02) - 2015/08/03 18:51:12 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #6 is the button
+Seat 1: rouillaxben (39.37)
+Seat 3: joeBLACK44 (0.16)
+Seat 6: razhoule (14.06)
+Seat 8: manggy94 (5.15)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+rouillaxben posts big blind 0.02
+Dealt to manggy94 [Qh 9c]
+*** PRE-FLOP *** 
+joeBLACK44 calls 0.02
+razhoule calls 0.02
+manggy94 calls 0.01
+rouillaxben checks
+*** FLOP *** [6s 5c Td]
+manggy94 checks
+rouillaxben checks
+joeBLACK44 bets 0.14 and is all-in
+razhoule calls 0.14
+manggy94 folds
+rouillaxben calls 0.14
+*** TURN *** [6s 5c Td][Jc]
+rouillaxben checks
+razhoule bets 0.02
+rouillaxben calls 0.02
+*** RIVER *** [6s 5c Td Jc][7h]
+rouillaxben bets 1.83
+razhoule folds
+*** SHOW DOWN ***
+joeBLACK44 shows [Tc 2c] (One pair : Tens)
+rouillaxben shows [4c 3d] (Straight 7 high)
+rouillaxben collected 2.33 from pot
+*** SUMMARY ***
+Total pot 2.33 | Rake 0.04
+Board: [6s 5c Td Jc 7h]
+Seat 1: rouillaxben (big blind) showed [4c 3d] and won 2.33 with Straight 7 high
+Seat 3: joeBLACK44 showed [Tc 2c] and lost with One pair : Tens
+
+
+Winamax Poker - CashGame - HandId: #7813225-283-1438627927 - Holdem no limit (0.01/0.02) - 2015/08/03 18:52:07 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #8 is the button
+Seat 1: rouillaxben (39.69)
+Seat 3: joeBLACK44 (0)
+Seat 6: razhoule (13.88)
+Seat 8: manggy94 (5.13)
+*** ANTE/BLINDS ***
+rouillaxben posts small blind 0.01
+razhoule posts big blind 0.02
+Dealt to manggy94 [7d Qs]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+rouillaxben calls 0.01
+razhoule checks
+*** FLOP *** [3s Ks As]
+rouillaxben checks
+razhoule bets 0.06
+manggy94 calls 0.06
+rouillaxben folds
+*** TURN *** [3s Ks As][6h]
+razhoule bets 0.18
+manggy94 folds
+razhoule collected 0.35 from pot
+*** SUMMARY ***
+Total pot 0.35 | Rake 0.01
+Board: [3s Ks As 6h]
+Seat 6: razhoule (big blind) won 0.35
+
+
+Winamax Poker - CashGame - HandId: #7813225-284-1438627965 - Holdem no limit (0.01/0.02) - 2015/08/03 18:52:45 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #1 is the button
+Seat 1: rouillaxben (39.67)
+Seat 6: razhoule (13.97)
+Seat 8: manggy94 (5.05)
+*** ANTE/BLINDS ***
+razhoule posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [5c Qc]
+*** PRE-FLOP *** 
+rouillaxben calls 0.02
+razhoule calls 0.01
+manggy94 raises 0.56 to 0.58
+rouillaxben calls 0.56
+razhoule calls 0.56
+*** FLOP *** [5s 7s 2h]
+razhoule checks
+manggy94 bets 1.82
+rouillaxben calls 1.82
+razhoule calls 1.82
+*** TURN *** [5s 7s 2h][Ad]
+razhoule checks
+manggy94 checks
+rouillaxben bets 2.97
+razhoule calls 2.97
+manggy94 folds
+*** RIVER *** [5s 7s 2h Ad][As]
+razhoule checks
+rouillaxben bets 8.69
+razhoule folds
+rouillaxben collected 20.98 from pot
+*** SUMMARY ***
+Total pot 20.98 | Rake 0.85
+Board: [5s 7s 2h Ad As]
+Seat 1: rouillaxben (button) won 20.98
+
+
+Winamax Poker - CashGame - HandId: #7813225-285-1438628043 - Holdem no limit (0.01/0.02) - 2015/08/03 18:54:03 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #6 is the button
+Seat 1: rouillaxben (46.59)
+Seat 6: razhoule (8.60)
+Seat 8: manggy94 (2.65)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+rouillaxben posts big blind 0.02
+Dealt to manggy94 [2d 7s]
+*** PRE-FLOP *** 
+razhoule raises 0.05 to 0.07
+manggy94 folds
+rouillaxben calls 0.05
+*** FLOP *** [6h 6s 3s]
+rouillaxben bets 0.15
+razhoule raises 0.15 to 0.30
+rouillaxben calls 0.15
+*** TURN *** [6h 6s 3s][6c]
+rouillaxben bets 0.75
+razhoule raises 2.25 to 3
+rouillaxben folds
+razhoule collected 4.35 from pot
+*** SUMMARY ***
+Total pot 4.35 | Rake 0.15
+Board: [6h 6s 3s 6c]
+Seat 6: razhoule (button) won 4.35
+
+
+Winamax Poker - CashGame - HandId: #7813225-286-1438628084 - Holdem no limit (0.01/0.02) - 2015/08/03 18:54:44 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #8 is the button
+Seat 1: rouillaxben (45.47)
+Seat 6: razhoule (9.58)
+Seat 8: manggy94 (2.64)
+*** ANTE/BLINDS ***
+rouillaxben posts small blind 0.01
+razhoule posts big blind 0.02
+Dealt to manggy94 [Jd Ah]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+rouillaxben calls 0.01
+razhoule checks
+*** FLOP *** [4s Th 2h]
+rouillaxben checks
+razhoule bets 0.02
+manggy94 calls 0.02
+rouillaxben raises 0.02 to 0.04
+razhoule raises 0.02 to 0.06
+manggy94 calls 0.04
+rouillaxben calls 0.02
+*** TURN *** [4s Th 2h][Qh]
+rouillaxben bets 0.02
+razhoule calls 0.02
+manggy94 calls 0.02
+*** RIVER *** [4s Th 2h Qh][3d]
+rouillaxben bets 45.37 and is all-in
+razhoule folds
+manggy94 folds
+rouillaxben collected 45.65 from pot
+*** SUMMARY ***
+Total pot 45.65 | Rake 0.02
+Board: [4s Th 2h Qh 3d]
+Seat 1: rouillaxben (small blind) won 45.65
+
+
+Winamax Poker - CashGame - HandId: #7813225-287-1438628151 - Holdem no limit (0.01/0.02) - 2015/08/03 18:55:51 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #1 is the button
+Seat 1: rouillaxben (45.65)
+Seat 6: razhoule (9.48)
+Seat 8: manggy94 (2.54)
+*** ANTE/BLINDS ***
+razhoule posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [Qd 6h]
+*** PRE-FLOP *** 
+rouillaxben calls 0.02
+razhoule calls 0.01
+manggy94 checks
+*** FLOP *** [2h Jd 3s]
+razhoule checks
+manggy94 checks
+rouillaxben checks
+*** TURN *** [2h Jd 3s][3c]
+razhoule checks
+manggy94 checks
+rouillaxben bets 45.63 and is all-in
+razhoule calls 9.46 and is all-in
+manggy94 folds
+*** RIVER *** [2h Jd 3s 3c][6s]
+*** SHOW DOWN ***
+rouillaxben shows [Qc Td] (One pair : 3)
+razhoule shows [3h Js] (Full of 3 and Jacks)
+razhoule collected 17.75 from main pot
+rouillaxben collected 36.17 from side pot 1
+*** SUMMARY ***
+Total pot 53.92 | Rake 1.23
+Board: [2h Jd 3s 3c 6s]
+Seat 1: rouillaxben (button) showed [Qc Td] and won 36.17 with One pair : 3
+Seat 6: razhoule (small blind) showed [3h Js] and won 17.75 with Full of 3 and Jacks
+
+
+Winamax Poker - CashGame - HandId: #7813225-288-1438628193 - Holdem no limit (0.01/0.02) - 2015/08/03 18:56:33 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #6 is the button
+Seat 1: rouillaxben (36.17)
+Seat 6: razhoule (17.75)
+Seat 8: manggy94 (2.52)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+rouillaxben posts big blind 0.02
+Dealt to manggy94 [Tc Ah]
+*** PRE-FLOP *** 
+razhoule calls 0.02
+manggy94 calls 0.01
+rouillaxben checks
+*** FLOP *** [5h 7s Th]
+manggy94 checks
+rouillaxben checks
+razhoule checks
+*** TURN *** [5h 7s Th][8s]
+manggy94 checks
+rouillaxben bets 36.15 and is all-in
+razhoule folds
+manggy94 calls 2.50 and is all-in
+*** RIVER *** [5h 7s Th 8s][6h]
+*** SHOW DOWN ***
+rouillaxben shows [7d Ac] (One pair : 7)
+manggy94 shows [Tc Ah] (One pair : Tens)
+manggy94 collected 4.73 from main pot
+rouillaxben collected 33.65 from side pot 1
+*** SUMMARY ***
+Total pot 38.38 | Rake 0.33
+Board: [5h 7s Th 8s 6h]
+Seat 1: rouillaxben (big blind) showed [7d Ac] and won 33.65 with One pair : 7
+Seat 8: manggy94 (small blind) showed [Tc Ah] and won 4.73 with One pair : Tens
+
+
+Winamax Poker - CashGame - HandId: #7813225-289-1438628230 - Holdem no limit (0.01/0.02) - 2015/08/03 18:57:10 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #8 is the button
+Seat 1: rouillaxben (33.65)
+Seat 6: razhoule (17.73)
+Seat 8: manggy94 (4.73)
+*** ANTE/BLINDS ***
+rouillaxben posts small blind 0.01
+razhoule posts big blind 0.02
+Dealt to manggy94 [8c Qd]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+rouillaxben raises 33.63 to 33.65 and is all-in
+razhoule calls 17.71 and is all-in
+manggy94 folds
+*** FLOP *** [8s 6c Ks]
+*** TURN *** [8s 6c Ks][Kh]
+*** RIVER *** [8s 6c Ks Kh][Js]
+*** SHOW DOWN ***
+razhoule shows [Ah 9h] (One pair : Kings)
+rouillaxben shows [6s Kc] (Full of Kings and 6)
+rouillaxben collected 49.90 from pot
+*** SUMMARY ***
+Total pot 49.90 | Rake 1.50
+Board: [8s 6c Ks Kh Js]
+Seat 1: rouillaxben (small blind) showed [6s Kc] and won 49.90 with Full of Kings and 6
+Seat 6: razhoule (big blind) showed [Ah 9h] and lost with One pair : Kings
+
+
+Winamax Poker - CashGame - HandId: #7813225-290-1438628254 - Holdem no limit (0.01/0.02) - 2015/08/03 18:57:34 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #1 is the button
+Seat 1: rouillaxben (49.90)
+Seat 6: razhoule (2)
+Seat 8: manggy94 (4.71)
+*** ANTE/BLINDS ***
+razhoule posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [Kc 5c]
+*** PRE-FLOP *** 
+rouillaxben calls 0.02
+razhoule calls 0.01
+manggy94 checks
+*** FLOP *** [6c 2s 4s]
+razhoule checks
+manggy94 checks
+rouillaxben bets 0.06
+razhoule raises 1.92 to 1.98 and is all-in
+manggy94 folds
+rouillaxben folds
+razhoule collected 2.09 from pot
+*** SUMMARY ***
+Total pot 2.09 | Rake 0.01
+Board: [6c 2s 4s]
+Seat 6: razhoule (small blind) won 2.09
+
+
+Winamax Poker - CashGame - HandId: #7813225-291-1438628306 - Holdem no limit (0.01/0.02) - 2015/08/03 18:58:26 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #6 is the button
+Seat 1: rouillaxben (49.82)
+Seat 6: razhoule (2.09)
+Seat 8: manggy94 (4.69)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+rouillaxben posts big blind 0.02
+Dealt to manggy94 [4c 2s]
+*** PRE-FLOP *** 
+razhoule calls 0.02
+manggy94 calls 0.01
+rouillaxben checks
+*** FLOP *** [2h As 3c]
+manggy94 checks
+rouillaxben bets 0.02
+razhoule calls 0.02
+manggy94 calls 0.02
+*** TURN *** [2h As 3c][9d]
+manggy94 checks
+rouillaxben bets 0.12
+razhoule calls 0.12
+manggy94 calls 0.12
+*** RIVER *** [2h As 3c 9d][Qs]
+manggy94 checks
+rouillaxben bets 0.48
+razhoule raises 0.48 to 0.96
+manggy94 folds
+rouillaxben calls 0.48
+*** SHOW DOWN ***
+rouillaxben shows [8s Js] (High card : Ace)
+razhoule shows [Qc 7h] (One pair : Queens)
+razhoule collected 2.24 from pot
+*** SUMMARY ***
+Total pot 2.24 | Rake 0.16
+Board: [2h As 3c 9d Qs]
+Seat 1: rouillaxben (big blind) showed [8s Js] and lost with High card : Ace
+Seat 6: razhoule (button) showed [Qc 7h] and won 2.24 with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #7813225-292-1438628346 - Holdem no limit (0.01/0.02) - 2015/08/03 18:59:06 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #8 is the button
+Seat 1: rouillaxben (48.70)
+Seat 6: razhoule (3.21)
+Seat 8: manggy94 (4.53)
+*** ANTE/BLINDS ***
+rouillaxben posts small blind 0.01
+razhoule posts big blind 0.02
+Dealt to manggy94 [9c 2h]
+*** PRE-FLOP *** 
+manggy94 folds
+rouillaxben calls 0.01
+razhoule checks
+*** FLOP *** [4d 8c Ks]
+rouillaxben checks
+razhoule checks
+*** TURN *** [4d 8c Ks][7c]
+rouillaxben checks
+razhoule bets 0.04
+rouillaxben calls 0.04
+*** RIVER *** [4d 8c Ks 7c][Ts]
+rouillaxben bets 48.64 and is all-in
+razhoule calls 3.15 and is all-in
+*** SHOW DOWN ***
+razhoule shows [4h 5h] (One pair : 4)
+rouillaxben shows [Jh 9h] (Straight Jack high)
+rouillaxben collected 51.49 from pot
+*** SUMMARY ***
+Total pot 51.49 | Rake 0.42
+Board: [4d 8c Ks 7c Ts]
+Seat 1: rouillaxben (small blind) showed [Jh 9h] and won 51.49 with Straight Jack high
+Seat 6: razhoule (big blind) showed [4h 5h] and lost with One pair : 4
+
+
+Winamax Poker - CashGame - HandId: #7813225-293-1438628405 - Holdem no limit (0.01/0.02) - 2015/08/03 19:00:05 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #1 is the button
+Seat 1: rouillaxben (51.49)
+Seat 6: razhoule (2)
+Seat 7: X-Ayann03-X (2)
+Seat 8: manggy94 (4.53)
+*** ANTE/BLINDS ***
+razhoule posts small blind 0.01
+X-Ayann03-X posts big blind 0.02
+Dealt to manggy94 [6s 3s]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+rouillaxben calls 0.02
+razhoule calls 0.01
+X-Ayann03-X checks
+*** FLOP *** [Jd Tc Kc]
+razhoule checks
+X-Ayann03-X checks
+manggy94 checks
+rouillaxben bets 51.47 and is all-in
+razhoule calls 1.98 and is all-in
+X-Ayann03-X folds
+manggy94 folds
+*** TURN *** [Jd Tc Kc][Jc]
+*** RIVER *** [Jd Tc Kc Jc][Ad]
+*** SHOW DOWN ***
+razhoule shows [5s 9c] (One pair : Jacks)
+rouillaxben shows [Qc Qh] (Straight Ace high)
+rouillaxben collected 53.27 from pot
+*** SUMMARY ***
+Total pot 53.27 | Rake 0.26
+Board: [Jd Tc Kc Jc Ad]
+Seat 1: rouillaxben (button) showed [Qc Qh] and won 53.27 with Straight Ace high
+Seat 6: razhoule (small blind) showed [5s 9c] and lost with One pair : Jacks
+
+
+Winamax Poker - CashGame - HandId: #7813225-294-1438628448 - Holdem no limit (0.01/0.02) - 2015/08/03 19:00:48 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #6 is the button
+Seat 1: rouillaxben (53.27)
+Seat 3: poukets (2)
+Seat 6: razhoule (2)
+Seat 7: X-Ayann03-X (1.98)
+Seat 8: manggy94 (4.51)
+*** ANTE/BLINDS ***
+X-Ayann03-X posts small blind 0.01
+manggy94 posts big blind 0.02
+poukets posts big blind 0.02 out of position
+Dealt to manggy94 [7h As]
+*** PRE-FLOP *** 
+rouillaxben calls 0.02
+poukets checks
+razhoule raises 0.09 to 0.11
+X-Ayann03-X folds
+manggy94 raises 0.09 to 0.20
+rouillaxben folds
+poukets calls 0.18
+razhoule raises 0.09 to 0.29
+manggy94 calls 0.09
+poukets raises 0.09 to 0.38
+razhoule raises 0.09 to 0.47
+manggy94 calls 0.18
+poukets raises 0.09 to 0.56
+razhoule raises 0.09 to 0.65
+manggy94 calls 0.18
+poukets raises 1.35 to 2 and is all-in
+razhoule calls 1.35 and is all-in
+manggy94 calls 1.35
+*** FLOP *** [4d 2d Qc]
+*** TURN *** [4d 2d Qc][9c]
+*** RIVER *** [4d 2d Qc 9c][9s]
+*** SHOW DOWN ***
+poukets shows [Th 4h] (Two pairs : 9 and 4)
+manggy94 shows [7h As] (One pair : 9)
+razhoule shows [5h 5c] (Two pairs : 9 and 5)
+razhoule collected 5.64 from pot
+*** SUMMARY ***
+Total pot 5.64 | Rake 0.39
+Board: [4d 2d Qc 9c 9s]
+Seat 3: poukets showed [Th 4h] and lost with Two pairs : 9 and 4
+Seat 6: razhoule (button) showed [5h 5c] and won 5.64 with Two pairs : 9 and 5
+Seat 8: manggy94 (big blind) showed [7h As] and lost with One pair : 9
+
+
+Winamax Poker - CashGame - HandId: #7813225-295-1438628543 - Holdem no limit (0.01/0.02) - 2015/08/03 19:02:23 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #7 is the button
+Seat 1: rouillaxben (53.25)
+Seat 3: poukets (0)
+Seat 4: xxloulaxx (0.80)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (5.64)
+Seat 7: X-Ayann03-X (1.97)
+Seat 8: manggy94 (2.51)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+rouillaxben posts big blind 0.02
+xxloulaxx posts big blind 0.02 out of position
+cricri53 x posts big blind 0.02 out of position
+Dealt to manggy94 [2h Kh]
+*** PRE-FLOP *** 
+xxloulaxx checks
+cricri53 x checks
+razhoule calls 0.02
+X-Ayann03-X calls 0.02
+manggy94 calls 0.01
+rouillaxben checks
+*** FLOP *** [7h 8h 6d]
+manggy94 checks
+rouillaxben bets 0.12
+xxloulaxx calls 0.12
+cricri53 x folds
+razhoule calls 0.12
+X-Ayann03-X calls 0.12
+manggy94 calls 0.12
+*** TURN *** [7h 8h 6d][6h]
+manggy94 checks
+rouillaxben bets 2.38
+xxloulaxx calls 0.66 and is all-in
+razhoule raises 3.12 to 5.50 and is all-in
+X-Ayann03-X calls 1.83 and is all-in
+manggy94 calls 2.37 and is all-in
+rouillaxben calls 3.12
+*** RIVER *** [7h 8h 6d 6h][Th]
+*** SHOW DOWN ***
+xxloulaxx shows [Ah Kd] (Flush Ace high)
+razhoule shows [2c 4h] (Flush Ten high)
+X-Ayann03-X shows [4c 5h] (Flush Ten high)
+manggy94 shows [2h Kh] (Flush King high)
+rouillaxben shows [7d 6s] (Full of 6 and 7)
+rouillaxben collected 15.50 from pot
+*** SUMMARY ***
+Total pot 15.50 | Rake 1.08
+Board: [7h 8h 6d 6h Th]
+Seat 1: rouillaxben (big blind) showed [7d 6s] and won 15.50 with Full of 6 and 7
+Seat 4: xxloulaxx showed [Ah Kd] and lost with Flush Ace high
+Seat 6: razhoule showed [2c 4h] and lost with Flush Ten high
+Seat 7: X-Ayann03-X (button) showed [4c 5h] and lost with Flush Ten high
+Seat 8: manggy94 (small blind) showed [2h Kh] and lost with Flush King high
+
+
+Winamax Poker - CashGame - HandId: #7813225-296-1438628657 - Holdem no limit (0.01/0.02) - 2015/08/03 19:04:17 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #8 is the button
+Seat 1: rouillaxben (63.11)
+Seat 4: xxloulaxx (0)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (2)
+Seat 7: X-Ayann03-X (0)
+Seat 8: manggy94 (2)
+*** ANTE/BLINDS ***
+rouillaxben posts small blind 0.01
+cricri53 x posts big blind 0.02
+Dealt to manggy94 [3s 9h]
+*** PRE-FLOP *** 
+razhoule raises 1.98 to 2 and is all-in
+manggy94 folds
+rouillaxben folds
+cricri53 x folds
+razhoule collected 2.03 from pot
+*** SUMMARY ***
+Total pot 2.03 | No rake
+Seat 6: razhoule won 2.03
+
+
+Winamax Poker - CashGame - HandId: #7813225-297-1438628686 - Holdem no limit (0.01/0.02) - 2015/08/03 19:04:46 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #1 is the button
+Seat 1: rouillaxben (63.10)
+Seat 4: xxloulaxx (0.80)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (2.03)
+Seat 8: manggy94 (2)
+*** ANTE/BLINDS ***
+cricri53 x posts small blind 0.01
+razhoule posts big blind 0.02
+Dealt to manggy94 [3d 9d]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+rouillaxben calls 0.02
+cricri53 x calls 0.01
+razhoule raises 2.01 to 2.03 and is all-in
+manggy94 folds
+rouillaxben folds
+cricri53 x calls 1.98 and is all-in
+*** FLOP *** [9s Kc 8d]
+*** TURN *** [9s Kc 8d][6h]
+*** RIVER *** [9s Kc 8d 6h][5s]
+*** SHOW DOWN ***
+cricri53 x shows [Qc As] (High card : Ace)
+razhoule shows [4d Ks] (One pair : Kings)
+razhoule collected 3.81 from pot
+*** SUMMARY ***
+Total pot 3.81 | Rake 0.26
+Board: [9s Kc 8d 6h 5s]
+Seat 5: cricri53 x (small blind) showed [Qc As] and lost with High card : Ace
+Seat 6: razhoule (big blind) showed [4d Ks] and won 3.81 with One pair : Kings
+
+
+Winamax Poker - CashGame - HandId: #7813225-298-1438628736 - Holdem no limit (0.01/0.02) - 2015/08/03 19:05:36 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #5 is the button
+Seat 1: rouillaxben (63.08)
+Seat 4: xxloulaxx (0.80)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (3.81)
+Seat 8: manggy94 (2)
+Seat 9: Coachdjam (2)
+*** ANTE/BLINDS ***
+razhoule posts small blind 0.01
+manggy94 posts big blind 0.02
+xxloulaxx posts small blind 0.01 out of position
+Coachdjam posts big blind 0.02 out of position
+Dealt to manggy94 [Qs Qd]
+*** PRE-FLOP *** 
+Coachdjam raises 0.02 to 0.04
+rouillaxben calls 0.04
+xxloulaxx folds
+cricri53 x folds
+razhoule raises 1.61 to 1.65
+manggy94 calls 1.63
+Coachdjam raises 0.35 to 2 and is all-in
+rouillaxben calls 1.96
+razhoule calls 0.35
+manggy94 calls 0.35 and is all-in
+*** FLOP *** [6c 8h 2c]
+razhoule checks
+rouillaxben bets 4
+razhoule calls 1.81 and is all-in
+*** TURN *** [6c 8h 2c][2s]
+*** RIVER *** [6c 8h 2c 2s][Td]
+*** SHOW DOWN ***
+razhoule shows [Jc Ks] (One pair : 2)
+manggy94 shows [Qs Qd] (Two pairs : Queens and 2)
+rouillaxben shows [5h 6d] (Two pairs : 6 and 2)
+Coachdjam shows [As 2d] (Trips of 2)
+Coachdjam collected 7.49 from main pot
+rouillaxben collected 5.57 from side pot 1
+*** SUMMARY ***
+Total pot 13.06 | Rake 0.76
+Board: [6c 8h 2c 2s Td]
+Seat 1: rouillaxben showed [5h 6d] and won 5.57 with Two pairs : 6 and 2
+Seat 6: razhoule (small blind) showed [Jc Ks] and lost with One pair : 2
+Seat 8: manggy94 (big blind) showed [Qs Qd] and lost with Two pairs : Queens and 2
+Seat 9: Coachdjam showed [As 2d] and won 7.49 with Trips of 2
+
+
+Winamax Poker - CashGame - HandId: #7813225-299-1438628788 - Holdem no limit (0.01/0.02) - 2015/08/03 19:06:28 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #6 is the button
+Seat 1: rouillaxben (62.65)
+Seat 2: onbluemoon (2)
+Seat 4: xxloulaxx (0.79)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (2)
+Seat 7: pokkker (2)
+Seat 8: manggy94 (2)
+Seat 9: Coachdjam (7.49)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+Coachdjam posts big blind 0.02
+onbluemoon posts big blind 0.02 out of position
+Dealt to manggy94 [Kc Qs]
+*** PRE-FLOP *** 
+rouillaxben raises 0.07 to 0.09
+onbluemoon folds
+xxloulaxx calls 0.09
+cricri53 x folds
+razhoule raises 0.32 to 0.41
+manggy94 calls 0.40
+Coachdjam calls 0.39
+rouillaxben raises 1.75 to 2.16
+xxloulaxx calls 0.70 and is all-in
+razhoule calls 1.59 and is all-in
+manggy94 folds
+Coachdjam raises 1.75 to 3.91
+rouillaxben calls 1.75
+*** FLOP *** [Js 8s Td]
+Coachdjam bets 0.02
+rouillaxben calls 0.02
+*** TURN *** [Js 8s Td][Jd]
+Coachdjam bets 0.02
+rouillaxben calls 0.02
+*** RIVER *** [Js 8s Td Jd][6s]
+Coachdjam checks
+rouillaxben bets 58.70 and is all-in
+Coachdjam folds
+*** SHOW DOWN ***
+xxloulaxx shows [9s Tc] (Two pairs : Jacks and Tens)
+razhoule shows [4c 3s] (One pair : Jacks)
+rouillaxben shows [6c 6d] (Full of 6 and Jacks)
+rouillaxben collected 69.10 from pot
+*** SUMMARY ***
+Total pot 69.10 | Rake 0.72
+Board: [Js 8s Td Jd 6s]
+Seat 1: rouillaxben showed [6c 6d] and won 69.10 with Full of 6 and Jacks
+Seat 4: xxloulaxx showed [9s Tc] and lost with Two pairs : Jacks and Tens
+Seat 6: razhoule (button) showed [4c 3s] and lost with One pair : Jacks
+
+
+Winamax Poker - CashGame - HandId: #7813225-300-1438628862 - Holdem no limit (0.01/0.02) - 2015/08/03 19:07:42 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #8 is the button
+Seat 1: rouillaxben (69.10)
+Seat 2: onbluemoon (1.98)
+Seat 4: xxloulaxx (0)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (2)
+Seat 7: pokkker (2)
+Seat 8: manggy94 (1.59)
+Seat 9: Coachdjam (3.54)
+*** ANTE/BLINDS ***
+Coachdjam posts small blind 0.01
+rouillaxben posts big blind 0.02
+pokkker posts big blind 0.02 out of position
+Dealt to manggy94 [Qd Ac]
+*** PRE-FLOP *** 
+onbluemoon folds
+cricri53 x folds
+razhoule raises 1.98 to 2 and is all-in
+pokkker calls 1.98 and is all-in
+manggy94 calls 1.59 and is all-in
+Coachdjam folds
+rouillaxben folds
+*** FLOP *** [5d 4s Js]
+*** TURN *** [5d 4s Js][3d]
+*** RIVER *** [5d 4s Js 3d][5s]
+*** SHOW DOWN ***
+pokkker shows [7d Kd] (One pair : 5)
+razhoule shows [Tc Ah] (One pair : 5)
+manggy94 shows [Qd Ac] (One pair : 5)
+manggy94 collected 4.49 from main pot
+razhoule collected 0.76 from side pot 1
+*** SUMMARY ***
+Total pot 5.25 | Rake 0.37
+Board: [5d 4s Js 3d 5s]
+Seat 6: razhoule showed [Tc Ah] and won 0.76 with One pair : 5
+Seat 7: pokkker showed [7d Kd] and lost with One pair : 5
+Seat 8: manggy94 (button) showed [Qd Ac] and won 4.49 with One pair : 5
+
+
+Winamax Poker - CashGame - HandId: #7813225-301-1438629045 - Holdem no limit (0.01/0.02) - 2015/08/03 19:10:45 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #9 is the button
+Seat 1: rouillaxben (69.08)
+Seat 2: onbluemoon (1.98)
+Seat 4: Aurel300980 (2)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (0.76)
+Seat 7: pokkker (0)
+Seat 8: manggy94 (4.49)
+Seat 9: Coachdjam (3.53)
+*** ANTE/BLINDS ***
+rouillaxben posts small blind 0.01
+onbluemoon posts big blind 0.02
+Aurel300980 posts big blind 0.02 out of position
+Dealt to manggy94 [7s 5d]
+*** PRE-FLOP *** 
+Aurel300980 checks
+cricri53 x calls 0.02
+manggy94 folds
+rouillaxben calls 0.01
+onbluemoon checks
+*** FLOP *** [3s Kc 9s]
+rouillaxben checks
+onbluemoon checks
+Aurel300980 bets 0.05
+cricri53 x folds
+rouillaxben calls 0.05
+onbluemoon folds
+*** TURN *** [3s Kc 9s][Js]
+rouillaxben checks
+Aurel300980 bets 0.06
+rouillaxben calls 0.06
+*** RIVER *** [3s Kc 9s Js][9c]
+rouillaxben checks
+Aurel300980 bets 0.30
+rouillaxben calls 0.30
+*** SHOW DOWN ***
+rouillaxben shows [Qd 7c] (One pair : 9)
+Aurel300980 shows [Jh Kd] (Two pairs : Kings and Jacks)
+Aurel300980 collected 0.84 from pot
+*** SUMMARY ***
+Total pot 0.84 | Rake 0.06
+Board: [3s Kc 9s Js 9c]
+Seat 1: rouillaxben (small blind) showed [Qd 7c] and lost with One pair : 9
+Seat 4: Aurel300980 showed [Jh Kd] and won 0.84 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - CashGame - HandId: #7813225-302-1438629142 - Holdem no limit (0.01/0.02) - 2015/08/03 19:12:22 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #1 is the button
+Seat 1: rouillaxben (68.65)
+Seat 2: onbluemoon (1.96)
+Seat 4: Aurel300980 (2.41)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (2)
+Seat 7: pokkker (2)
+Seat 8: manggy94 (4.49)
+Seat 9: Coachdjam (3.53)
+*** ANTE/BLINDS ***
+Aurel300980 posts big blind 0.02
+Dealt to manggy94 [4s 5s]
+*** PRE-FLOP *** 
+cricri53 x calls 0.02
+razhoule raises 0.02 to 0.04
+pokkker calls 0.04
+manggy94 calls 0.04
+rouillaxben calls 0.04
+Aurel300980 calls 0.02
+cricri53 x calls 0.02
+*** FLOP *** [2s Td 5d]
+Aurel300980 checks
+cricri53 x checks
+razhoule bets 0.02
+pokkker calls 0.02
+manggy94 calls 0.02
+rouillaxben calls 0.02
+Aurel300980 calls 0.02
+cricri53 x calls 0.02
+*** TURN *** [2s Td 5d][7h]
+Aurel300980 checks
+cricri53 x checks
+razhoule bets 0.36
+pokkker calls 0.36
+manggy94 folds
+rouillaxben calls 0.36
+Aurel300980 folds
+cricri53 x folds
+*** RIVER *** [2s Td 5d 7h][7s]
+razhoule bets 1.58 and is all-in
+pokkker folds
+rouillaxben folds
+razhoule collected 2.93 from pot
+*** SUMMARY ***
+Total pot 2.93 | Rake 0.09
+Board: [2s Td 5d 7h 7s]
+Seat 6: razhoule won 2.93
+
+
+Winamax Poker - CashGame - HandId: #7813225-303-1438629292 - Holdem no limit (0.01/0.02) - 2015/08/03 19:14:52 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #2 is the button
+Seat 1: rouillaxben (68.23)
+Seat 3: MALAGA68 (1.48)
+Seat 4: Aurel300980 (2.35)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (2.93)
+Seat 7: pokkker (1.58)
+Seat 8: manggy94 (4.43)
+Seat 9: Coachdjam (3.53)
+*** ANTE/BLINDS ***
+Aurel300980 posts small blind 0.01
+cricri53 x posts big blind 0.02
+Dealt to manggy94 [Jh 7h]
+*** PRE-FLOP *** 
+razhoule calls 0.02
+pokkker calls 0.02
+manggy94 calls 0.02
+rouillaxben calls 0.02
+Aurel300980 calls 0.01
+cricri53 x checks
+*** FLOP *** [Qs 7s 3c]
+Aurel300980 checks
+cricri53 x checks
+razhoule checks
+pokkker checks
+manggy94 checks
+rouillaxben checks
+*** TURN *** [Qs 7s 3c][Tc]
+Aurel300980 bets 0.03
+cricri53 x calls 0.03
+razhoule calls 0.03
+pokkker calls 0.03
+manggy94 calls 0.03
+rouillaxben calls 0.03
+*** RIVER *** [Qs 7s 3c Tc][9h]
+Aurel300980 bets 0.10
+cricri53 x calls 0.10
+razhoule raises 0.60 to 0.70
+pokkker folds
+manggy94 folds
+rouillaxben folds
+Aurel300980 folds
+cricri53 x folds
+razhoule collected 1.16 from pot
+*** SUMMARY ***
+Total pot 1.16 | Rake 0.04
+Board: [Qs 7s 3c Tc 9h]
+Seat 6: razhoule won 1.16
+
+
+Winamax Poker - CashGame - HandId: #7813225-304-1438629417 - Holdem no limit (0.01/0.02) - 2015/08/03 19:16:57 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #4 is the button
+Seat 1: rouillaxben (68.18)
+Seat 3: MALAGA68 (1.48)
+Seat 4: Aurel300980 (2.20)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (3.34)
+Seat 7: pokkker (1.53)
+Seat 8: manggy94 (4.38)
+*** ANTE/BLINDS ***
+cricri53 x posts small blind 0.01
+razhoule posts big blind 0.02
+MALAGA68 posts big blind 0.02 out of position
+Dealt to manggy94 [Kh 2h]
+*** PRE-FLOP *** 
+pokkker raises 0.48 to 0.50
+manggy94 calls 0.50
+rouillaxben folds
+MALAGA68 calls 0.48
+Aurel300980 folds
+cricri53 x folds
+razhoule calls 0.48
+*** FLOP *** [Jd 8h 2c]
+razhoule bets 2.01
+pokkker calls 1.03 and is all-in
+manggy94 folds
+MALAGA68 calls 0.98 and is all-in
+*** TURN *** [Jd 8h 2c][6s]
+*** RIVER *** [Jd 8h 2c 6s][Js]
+*** SHOW DOWN ***
+MALAGA68 shows [As 4c] (One pair : Jacks)
+pokkker shows [Ah Th] (One pair : Jacks)
+razhoule shows [6c 9h] (Two pairs : Jacks and 6)
+razhoule collected 5.70 from pot
+*** SUMMARY ***
+Total pot 5.70 | Rake 0.33
+Board: [Jd 8h 2c 6s Js]
+Seat 3: MALAGA68 showed [As 4c] and lost with One pair : Jacks
+Seat 6: razhoule (big blind) showed [6c 9h] and won 5.70 with Two pairs : Jacks and 6
+Seat 7: pokkker showed [Ah Th] and lost with One pair : Jacks
+
+
+Winamax Poker - CashGame - HandId: #7813225-305-1438629507 - Holdem no limit (0.01/0.02) - 2015/08/03 19:18:27 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #5 is the button
+Seat 1: rouillaxben (68.18)
+Seat 3: MALAGA68 (0)
+Seat 4: Aurel300980 (2.20)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (6.53)
+Seat 7: pokkker (0)
+Seat 8: manggy94 (3.88)
+Seat 9: 9NeMeSiS9 (2)
+*** ANTE/BLINDS ***
+razhoule posts small blind 0.01
+manggy94 posts big blind 0.02
+9NeMeSiS9 posts big blind 0.02 out of position
+Dealt to manggy94 [9c Jh]
+*** PRE-FLOP *** 
+9NeMeSiS9 checks
+Aurel300980 folds
+cricri53 x folds
+razhoule calls 0.01
+manggy94 checks
+*** FLOP *** [Th Kd Kh]
+razhoule checks
+manggy94 checks
+9NeMeSiS9 bets 0.06
+razhoule calls 0.06
+manggy94 calls 0.06
+*** TURN *** [Th Kd Kh][4d]
+razhoule checks
+manggy94 checks
+9NeMeSiS9 bets 0.25
+razhoule folds
+manggy94 folds
+9NeMeSiS9 collected 0.47 from pot
+*** SUMMARY ***
+Total pot 0.47 | Rake 0.02
+Board: [Th Kd Kh 4d]
+Seat 9: 9NeMeSiS9 won 0.47
+
+
+Winamax Poker - CashGame - HandId: #7813225-306-1438629624 - Holdem no limit (0.01/0.02) - 2015/08/03 19:20:24 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #6 is the button
+Seat 2: Yassin34 (2)
+Seat 4: Aurel300980 (2.20)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (6.45)
+Seat 7: pokkker (2)
+Seat 8: manggy94 (3.80)
+Seat 9: 9NeMeSiS9 (2.14)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+9NeMeSiS9 posts big blind 0.02
+Yassin34 posts big blind 0.02 out of position
+Dealt to manggy94 [Qc 7s]
+*** PRE-FLOP *** 
+Yassin34 checks
+Aurel300980 folds
+cricri53 x calls 0.02
+razhoule calls 0.02
+manggy94 calls 0.01
+9NeMeSiS9 checks
+*** FLOP *** [Ks Kd 9s]
+manggy94 checks
+9NeMeSiS9 checks
+Yassin34 checks
+cricri53 x folds
+razhoule bets 0.02
+manggy94 calls 0.02
+9NeMeSiS9 calls 0.02
+Yassin34 folds
+*** TURN *** [Ks Kd 9s][2s]
+manggy94 checks
+9NeMeSiS9 bets 0.10
+razhoule raises 0.10 to 0.20
+manggy94 folds
+9NeMeSiS9 raises 0.20 to 0.40
+razhoule folds
+9NeMeSiS9 collected 0.72 from pot
+*** SUMMARY ***
+Total pot 0.72 | Rake 0.04
+Board: [Ks Kd 9s 2s]
+Seat 9: 9NeMeSiS9 (big blind) won 0.72
+
+
+Winamax Poker - CashGame - HandId: #7813225-307-1438629791 - Holdem no limit (0.01/0.02) - 2015/08/03 19:23:11 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #8 is the button
+Seat 1: marcosG730 (2)
+Seat 2: Yassin34 (1.98)
+Seat 4: Aurel300980 (2.20)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (6.21)
+Seat 7: pokkker (2)
+Seat 8: manggy94 (3.76)
+Seat 9: 9NeMeSiS9 (2.42)
+*** ANTE/BLINDS ***
+9NeMeSiS9 posts small blind 0.01
+marcosG730 posts big blind 0.02
+pokkker posts small blind 0.01 out of position
+Dealt to manggy94 [Jc 4s]
+*** PRE-FLOP *** 
+Yassin34 folds
+Aurel300980 calls 0.02
+cricri53 x calls 0.02
+razhoule raises 0.02 to 0.04
+pokkker calls 0.04
+manggy94 folds
+9NeMeSiS9 folds
+marcosG730 raises 0.02 to 0.06
+Aurel300980 folds
+cricri53 x calls 0.04
+razhoule calls 0.02
+pokkker calls 0.02
+*** FLOP *** [9h 8d Qc]
+marcosG730 bets 0.02
+cricri53 x calls 0.02
+razhoule calls 0.02
+pokkker raises 0.02 to 0.04
+marcosG730 raises 0.02 to 0.06
+cricri53 x folds
+razhoule raises 0.02 to 0.08
+pokkker raises 0.02 to 0.10
+marcosG730 calls 0.04
+razhoule calls 0.02
+*** TURN *** [9h 8d Qc][4d]
+marcosG730 bets 0.02
+razhoule folds
+pokkker raises 0.78 to 0.80
+marcosG730 raises 0.78 to 1.58
+pokkker raises 0.25 to 1.83 and is all-in
+marcosG730 calls 0.25
+*** RIVER *** [9h 8d Qc 4d][Ks]
+*** SHOW DOWN ***
+pokkker shows [Qd 8c] (Two pairs : Queens and 8)
+marcosG730 shows [4c Kc] (Two pairs : Kings and 4)
+marcosG730 collected 3.98 from pot
+*** SUMMARY ***
+Total pot 3.98 | Rake 0.28
+Board: [9h 8d Qc 4d Ks]
+Seat 1: marcosG730 (big blind) showed [4c Kc] and won 3.98 with Two pairs : Kings and 4
+Seat 7: pokkker showed [Qd 8c] and lost with Two pairs : Queens and 8
+
+
+Winamax Poker - CashGame - HandId: #7813225-308-1438629976 - Holdem no limit (0.01/0.02) - 2015/08/03 19:26:16 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #9 is the button
+Seat 1: marcosG730 (3.99)
+Seat 2: Yassin34 (1.98)
+Seat 4: Aurel300980 (2.18)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (6.05)
+Seat 7: pokkker (0)
+Seat 8: manggy94 (3.76)
+Seat 9: 9NeMeSiS9 (2.41)
+*** ANTE/BLINDS ***
+marcosG730 posts small blind 0.01
+Yassin34 posts big blind 0.02
+Dealt to manggy94 [4d Jh]
+*** PRE-FLOP *** 
+Aurel300980 folds
+cricri53 x calls 0.02
+razhoule raises 0.02 to 0.04
+manggy94 folds
+9NeMeSiS9 folds
+marcosG730 raises 0.02 to 0.06
+Yassin34 calls 0.04
+cricri53 x calls 0.04
+razhoule raises 0.02 to 0.08
+marcosG730 calls 0.02
+Yassin34 calls 0.02
+cricri53 x calls 0.02
+*** FLOP *** [5s Kc 5h]
+marcosG730 bets 0.02
+Yassin34 folds
+cricri53 x calls 0.02
+razhoule calls 0.02
+*** TURN *** [5s Kc 5h][4c]
+marcosG730 bets 0.02
+cricri53 x calls 0.02
+razhoule raises 0.02 to 0.04
+marcosG730 calls 0.02
+cricri53 x calls 0.02
+*** RIVER *** [5s Kc 5h 4c][9c]
+marcosG730 checks
+cricri53 x bets 0.02
+razhoule raises 0.54 to 0.56
+marcosG730 folds
+cricri53 x calls 0.54
+*** SHOW DOWN ***
+cricri53 x shows [Ks Tc] (Two pairs : Kings and 5)
+razhoule shows [8d 5d] (Trips of 5)
+razhoule collected 1.51 from pot
+*** SUMMARY ***
+Total pot 1.51 | Rake 0.11
+Board: [5s Kc 5h 4c 9c]
+Seat 5: cricri53 x showed [Ks Tc] and lost with Two pairs : Kings and 5
+Seat 6: razhoule showed [8d 5d] and won 1.51 with Trips of 5
+
+
+Winamax Poker - CashGame - HandId: #7813225-309-1438630059 - Holdem no limit (0.01/0.02) - 2015/08/03 19:27:39 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #1 is the button
+Seat 1: marcosG730 (3.85)
+Seat 2: Yassin34 (1.90)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (6.86)
+Seat 7: pokkker (2)
+Seat 8: manggy94 (3.76)
+Seat 9: 9NeMeSiS9 (2.41)
+*** ANTE/BLINDS ***
+Yassin34 posts small blind 0.01
+cricri53 x posts big blind 0.02
+Dealt to manggy94 [5h 4h]
+*** PRE-FLOP *** 
+razhoule raises 6.84 to 6.86 and is all-in
+pokkker calls 2 and is all-in
+manggy94 folds
+9NeMeSiS9 calls 2.41 and is all-in
+marcosG730 calls 3.85 and is all-in
+Yassin34 calls 1.89 and is all-in
+cricri53 x folds
+*** FLOP *** [8h 4d Td]
+*** TURN *** [8h 4d Td][5c]
+*** RIVER *** [8h 4d Td 5c][3c]
+*** SHOW DOWN ***
+Yassin34 shows [7c 4s] (One pair : 4)
+pokkker shows [2d Js] (High card : Jack)
+9NeMeSiS9 shows [Kh Ks] (One pair : Kings)
+marcosG730 shows [As Ac] (One pair : Aces)
+razhoule shows [Qd 8s] (One pair : 8)
+razhoule collected 3.01 from side pot 1
+marcosG730 collected 13.12 from main pot
+*** SUMMARY ***
+Total pot 16.13 | Rake 0.91
+Board: [8h 4d Td 5c 3c]
+Seat 1: marcosG730 (button) showed [As Ac] and won 13.12 with One pair : Aces
+Seat 2: Yassin34 (small blind) showed [7c 4s] and lost with One pair : 4
+Seat 6: razhoule showed [Qd 8s] and won 3.01 with One pair : 8
+Seat 7: pokkker showed [2d Js] and lost with High card : Jack
+Seat 9: 9NeMeSiS9 showed [Kh Ks] and lost with One pair : Kings
+
+
+Winamax Poker - CashGame - HandId: #7813225-310-1438630117 - Holdem no limit (0.01/0.02) - 2015/08/03 19:28:37 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #2 is the button
+Seat 1: marcosG730 (13.12)
+Seat 2: Yassin34 (0)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (3.01)
+Seat 7: pokkker (2)
+Seat 8: manggy94 (3.76)
+Seat 9: 9NeMeSiS9 (0)
+*** ANTE/BLINDS ***
+cricri53 x posts small blind 0.01
+razhoule posts big blind 0.02
+Dealt to manggy94 [7c 6c]
+*** PRE-FLOP *** 
+pokkker calls 0.02
+manggy94 calls 0.02
+marcosG730 raises 0.02 to 0.04
+cricri53 x folds
+razhoule raises 2.97 to 3.01 and is all-in
+pokkker calls 1.98 and is all-in
+manggy94 folds
+marcosG730 calls 2.97
+*** FLOP *** [Kh 3h 3s]
+*** TURN *** [Kh 3h 3s][8h]
+*** RIVER *** [Kh 3h 3s 8h][Qh]
+*** SHOW DOWN ***
+pokkker shows [4c 7s] (One pair : 3)
+marcosG730 shows [2d Ks] (Two pairs : Kings and 3)
+razhoule shows [7d Kc] (Two pairs : Kings and 3)
+razhoule collected 3.77 from pot
+marcosG730 collected 3.76 from pot
+*** SUMMARY ***
+Total pot 7.53 | Rake 0.52
+Board: [Kh 3h 3s 8h Qh]
+Seat 1: marcosG730 showed [2d Ks] and won 3.76 with Two pairs : Kings and 3
+Seat 6: razhoule (big blind) showed [7d Kc] and won 3.77 with Two pairs : Kings and 3
+Seat 7: pokkker showed [4c 7s] and lost with One pair : 3
+
+
+Winamax Poker - CashGame - HandId: #7813225-311-1438630159 - Holdem no limit (0.01/0.02) - 2015/08/03 19:29:19 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #5 is the button
+Seat 1: marcosG730 (13.87)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (3.77)
+Seat 7: pokkker (0)
+Seat 8: manggy94 (3.74)
+*** ANTE/BLINDS ***
+razhoule posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [Kh 6c]
+*** PRE-FLOP *** 
+marcosG730 raises 0.02 to 0.04
+cricri53 x folds
+razhoule calls 0.03
+manggy94 calls 0.02
+*** FLOP *** [7d 2s Ah]
+razhoule checks
+manggy94 checks
+marcosG730 bets 0.02
+razhoule folds
+manggy94 calls 0.02
+*** TURN *** [7d 2s Ah][Jc]
+manggy94 checks
+marcosG730 bets 0.02
+manggy94 folds
+marcosG730 collected 0.17 from pot
+*** SUMMARY ***
+Total pot 0.17 | Rake 0.01
+Board: [7d 2s Ah Jc]
+Seat 1: marcosG730 won 0.17
+
+
+Winamax Poker - CashGame - HandId: #7813225-312-1438630214 - Holdem no limit (0.01/0.02) - 2015/08/03 19:30:14 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #6 is the button
+Seat 1: marcosG730 (13.96)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (3.73)
+Seat 7: pokkker (2)
+Seat 8: manggy94 (3.68)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+marcosG730 posts big blind 0.02
+Dealt to manggy94 [Qc Qs]
+*** PRE-FLOP *** 
+cricri53 x calls 0.02
+razhoule raises 0.02 to 0.04
+manggy94 calls 0.03
+marcosG730 raises 0.02 to 0.06
+cricri53 x calls 0.04
+razhoule raises 0.02 to 0.08
+manggy94 calls 0.04
+marcosG730 raises 2.89 to 2.97
+cricri53 x folds
+razhoule raises 0.76 to 3.73 and is all-in
+manggy94 calls 3.60 and is all-in
+marcosG730 calls 0.76
+*** FLOP *** [6c 7c Js]
+*** TURN *** [6c 7c Js][Jd]
+*** RIVER *** [6c 7c Js Jd][3s]
+*** SHOW DOWN ***
+razhoule shows [As 6d] (Two pairs : Jacks and 6)
+manggy94 shows [Qc Qs] (Two pairs : Queens and Jacks)
+marcosG730 shows [Kc Ks] (Two pairs : Kings and Jacks)
+marcosG730 collected 10.47 from pot
+*** SUMMARY ***
+Total pot 10.47 | Rake 0.73
+Board: [6c 7c Js Jd 3s]
+Seat 1: marcosG730 (big blind) showed [Kc Ks] and won 10.47 with Two pairs : Kings and Jacks
+Seat 6: razhoule (button) showed [As 6d] and lost with Two pairs : Jacks and 6
+Seat 8: manggy94 (small blind) showed [Qc Qs] and lost with Two pairs : Queens and Jacks
+
+
+Winamax Poker - CashGame - HandId: #7813225-313-1438630305 - Holdem no limit (0.01/0.02) - 2015/08/03 19:31:45 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #8 is the button
+Seat 1: marcosG730 (20.70)
+Seat 3: El Toxo (2)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (2)
+Seat 7: pokkker (2)
+Seat 8: manggy94 (2)
+*** ANTE/BLINDS ***
+marcosG730 posts small blind 0.01
+El Toxo posts big blind 0.02
+pokkker posts small blind 0.01 out of position
+Dealt to manggy94 [9h Ts]
+*** PRE-FLOP *** 
+cricri53 x calls 0.02
+razhoule raises 1.98 to 2 and is all-in
+pokkker calls 1.99 and is all-in
+manggy94 calls 2 and is all-in
+marcosG730 calls 1.99
+El Toxo calls 1.98 and is all-in
+cricri53 x folds
+*** FLOP *** [7d 6d 8c]
+*** TURN *** [7d 6d 8c][6h]
+*** RIVER *** [7d 6d 8c 6h][6c]
+*** SHOW DOWN ***
+marcosG730 shows [7s 5d] (Full of 6 and 7)
+El Toxo shows [Qs Ah] (Trips of 6)
+pokkker shows [Js 3h] (Trips of 6)
+manggy94 shows [9h Ts] (Straight Ten high)
+razhoule shows [Th 6s] (Quads of 6)
+razhoule collected 9.37 from pot
+*** SUMMARY ***
+Total pot 9.37 | Rake 0.65
+Board: [7d 6d 8c 6h 6c]
+Seat 1: marcosG730 (small blind) showed [7s 5d] and lost with Full of 6 and 7
+Seat 3: El Toxo (big blind) showed [Qs Ah] and lost with Trips of 6
+Seat 6: razhoule showed [Th 6s] and won 9.37 with Quads of 6
+Seat 7: pokkker showed [Js 3h] and lost with Trips of 6
+Seat 8: manggy94 (button) showed [9h Ts] and lost with Straight Ten high
+
+
+Winamax Poker - CashGame - HandId: #7813225-314-1438630343 - Holdem no limit (0.01/0.02) - 2015/08/03 19:32:23 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #1 is the button
+Seat 1: marcosG730 (18.70)
+Seat 3: El Toxo (0)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (9.37)
+Seat 7: pokkker (2)
+Seat 8: manggy94 (2)
+*** ANTE/BLINDS ***
+cricri53 x posts big blind 0.02
+Dealt to manggy94 [5d Td]
+*** PRE-FLOP *** 
+razhoule calls 0.02
+manggy94 raises 1.98 to 2 and is all-in
+marcosG730 raises 1.98 to 3.98
+cricri53 x folds
+razhoule folds
+*** FLOP *** [Kc 4s Qd]
+*** TURN *** [Kc 4s Qd][5s]
+*** RIVER *** [Kc 4s Qd 5s][8d]
+*** SHOW DOWN ***
+marcosG730 shows [4c 9c] (One pair : 4)
+manggy94 shows [5d Td] (One pair : 5)
+manggy94 collected 3.78 from main pot
+marcosG730 collected 1.98 from side pot 1
+*** SUMMARY ***
+Total pot 5.76 | Rake 0.26
+Board: [Kc 4s Qd 5s 8d]
+Seat 1: marcosG730 (button) showed [4c 9c] and won 1.98 with One pair : 4
+Seat 8: manggy94 showed [5d Td] and won 3.78 with One pair : 5
+
+
+Winamax Poker - CashGame - HandId: #7813225-315-1438630382 - Holdem no limit (0.01/0.02) - 2015/08/03 19:33:02 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #3 is the button
+Seat 1: marcosG730 (16.70)
+Seat 3: El Toxo (2)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (9.35)
+Seat 7: pokkker (2)
+Seat 8: manggy94 (3.78)
+*** ANTE/BLINDS ***
+cricri53 x posts small blind 0.01
+razhoule posts big blind 0.02
+Dealt to manggy94 [7c Kc]
+*** PRE-FLOP *** 
+pokkker raises 0.02 to 0.04
+manggy94 calls 0.04
+marcosG730 calls 0.04
+cricri53 x folds
+razhoule calls 0.02
+*** FLOP *** [Tc 7h 9c]
+razhoule checks
+pokkker bets 0.02
+manggy94 raises 1.55 to 1.57
+marcosG730 folds
+razhoule calls 1.57
+pokkker calls 1.55
+*** TURN *** [Tc 7h 9c][2d]
+razhoule bets 4.88
+pokkker folds
+manggy94 calls 2.17 and is all-in
+*** RIVER *** [Tc 7h 9c 2d][2s]
+*** SHOW DOWN ***
+manggy94 shows [7c Kc] (Two pairs : 7 and 2)
+razhoule shows [Ts Kh] (Two pairs : Tens and 2)
+razhoule collected 11.33 from pot
+*** SUMMARY ***
+Total pot 11.33 | Rake 0.60
+Board: [Tc 7h 9c 2d 2s]
+Seat 6: razhoule (big blind) showed [Ts Kh] and won 11.33 with Two pairs : Tens and 2
+Seat 8: manggy94 showed [7c Kc] and lost with Two pairs : 7 and 2
+
+
+Winamax Poker - CashGame - HandId: #7813225-316-1438630527 - Holdem no limit (0.01/0.02) - 2015/08/03 19:35:27 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #5 is the button
+Seat 1: marcosG730 (16.66)
+Seat 3: El Toxo (2)
+Seat 4: Micky47 (2)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (14.19)
+Seat 7: pokkker (0.39)
+Seat 8: manggy94 (2)
+Seat 9: thibaut62 (2)
+*** ANTE/BLINDS ***
+razhoule posts small blind 0.01
+manggy94 posts big blind 0.02
+El Toxo posts small blind 0.01 out of position
+thibaut62 posts big blind 0.02 out of position
+Micky47 posts big blind 0.02 out of position
+Dealt to manggy94 [6d 5s]
+*** PRE-FLOP *** 
+thibaut62 checks
+marcosG730 folds
+El Toxo calls 0.02
+Micky47 checks
+cricri53 x folds
+razhoule calls 0.01
+manggy94 checks
+*** FLOP *** [5d 4c 2s]
+razhoule checks
+manggy94 checks
+thibaut62 checks
+El Toxo checks
+Micky47 checks
+*** TURN *** [5d 4c 2s][As]
+razhoule checks
+manggy94 checks
+thibaut62 checks
+El Toxo checks
+Micky47 bets 0.11
+razhoule folds
+manggy94 calls 0.11
+thibaut62 folds
+El Toxo calls 0.11
+*** RIVER *** [5d 4c 2s As][Ac]
+manggy94 checks
+El Toxo checks
+Micky47 bets 1.87 and is all-in
+manggy94 folds
+El Toxo folds
+Micky47 collected 2.28 from pot
+*** SUMMARY ***
+Total pot 2.28 | Rake 0.03
+Board: [5d 4c 2s As Ac]
+Seat 4: Micky47 won 2.28
+
+
+Winamax Poker - CashGame - HandId: #7813225-317-1438630688 - Holdem no limit (0.01/0.02) - 2015/08/03 19:38:08 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #6 is the button
+Seat 1: marcosG730 (16.66)
+Seat 2: Baby_hazzard (2)
+Seat 3: El Toxo (1.86)
+Seat 4: Micky47 (2.28)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (14.17)
+Seat 7: pokkker (0.39)
+Seat 8: manggy94 (2)
+Seat 9: thibaut62 (1.98)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+thibaut62 posts big blind 0.02
+Baby_hazzard posts big blind 0.02 out of position
+Dealt to manggy94 [Jc 9s]
+*** PRE-FLOP *** 
+marcosG730 folds
+Baby_hazzard raises 0.02 to 0.04
+El Toxo calls 0.04
+Micky47 calls 0.04
+cricri53 x folds
+razhoule calls 0.04
+manggy94 calls 0.03
+thibaut62 calls 0.02
+*** FLOP *** [2s 5d 9c]
+manggy94 checks
+thibaut62 checks
+Baby_hazzard bets 0.02
+El Toxo calls 0.02
+Micky47 folds
+razhoule raises 0.30 to 0.32
+manggy94 calls 0.32
+thibaut62 folds
+Baby_hazzard calls 0.30
+El Toxo calls 0.30
+*** TURN *** [2s 5d 9c][8s]
+manggy94 checks
+Baby_hazzard bets 0.02
+El Toxo raises 0.02 to 0.04
+razhoule raises 1.62 to 1.66
+manggy94 folds
+Baby_hazzard calls 1.62 and is all-in
+El Toxo calls 1.46 and is all-in
+*** RIVER *** [2s 5d 9c 8s][6d]
+*** SHOW DOWN ***
+El Toxo shows [Kh Js] (High card : King)
+Baby_hazzard shows [Tc Th] (One pair : Tens)
+razhoule shows [Jh 3d] (High card : Jack)
+razhoule collected 0.02 from side pot 1
+Baby_hazzard collected 5.89 from main pot
+*** SUMMARY ***
+Total pot 5.91 | Rake 0.41
+Board: [2s 5d 9c 8s 6d]
+Seat 2: Baby_hazzard showed [Tc Th] and won 5.89 with One pair : Tens
+Seat 3: El Toxo showed [Kh Js] and lost with High card : King
+Seat 6: razhoule (button) showed [Jh 3d] and won 0.02 with High card : Jack
+
+
+Winamax Poker - CashGame - HandId: #7813225-318-1438630913 - Holdem no limit (0.01/0.02) - 2015/08/03 19:41:53 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #8 is the button
+Seat 1: marcosG730 (16.66)
+Seat 2: Baby_hazzard (5.89)
+Seat 3: El Toxo (0)
+Seat 4: Micky47 (2.24)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (12.17)
+Seat 8: manggy94 (2)
+Seat 9: thibaut62 (1.94)
+*** ANTE/BLINDS ***
+marcosG730 posts big blind 0.02
+Dealt to manggy94 [3c 5h]
+*** PRE-FLOP *** 
+Baby_hazzard calls 0.02
+Micky47 raises 0.02 to 0.04
+cricri53 x folds
+razhoule raises 0.02 to 0.06
+manggy94 folds
+marcosG730 raises 0.02 to 0.08
+Baby_hazzard calls 0.06
+Micky47 calls 0.04
+razhoule raises 0.32 to 0.40
+marcosG730 raises 0.32 to 0.72
+Baby_hazzard folds
+Micky47 folds
+razhoule raises 0.32 to 1.04
+marcosG730 raises 10.02 to 11.06
+razhoule calls 10.02
+*** FLOP *** [2h 6d 3d]
+marcosG730 bets 1.48
+razhoule calls 1.11 and is all-in
+*** TURN *** [2h 6d 3d][8h]
+*** RIVER *** [2h 6d 3d 8h][6c]
+*** SHOW DOWN ***
+marcosG730 shows [9d Td] (One pair : 6)
+razhoule shows [Tc Qh] (One pair : 6)
+razhoule collected 23 from main pot
+marcosG730 collected 0.37 from side pot 1
+*** SUMMARY ***
+Total pot 23.37 | Rake 1.50
+Board: [2h 6d 3d 8h 6c]
+Seat 1: marcosG730 (big blind) showed [9d Td] and won 0.37 with One pair : 6
+Seat 6: razhoule showed [Tc Qh] and won 23 with One pair : 6
+
+
+Winamax Poker - CashGame - HandId: #7813225-319-1438631010 - Holdem no limit (0.01/0.02) - 2015/08/03 19:43:30 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #9 is the button
+Seat 1: marcosG730 (4.49)
+Seat 2: Baby_hazzard (5.81)
+Seat 3: El Toxo (2)
+Seat 4: Micky47 (2.16)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (23)
+Seat 8: manggy94 (2)
+Seat 9: thibaut62 (1.94)
+*** ANTE/BLINDS ***
+marcosG730 posts small blind 0.01
+Baby_hazzard posts big blind 0.02
+Dealt to manggy94 [2c 9h]
+*** PRE-FLOP *** 
+El Toxo calls 0.02
+Micky47 calls 0.02
+cricri53 x calls 0.02
+razhoule calls 0.02
+manggy94 folds
+marcosG730 folds
+Baby_hazzard raises 0.02 to 0.04
+El Toxo calls 0.02
+Micky47 calls 0.02
+cricri53 x calls 0.02
+razhoule raises 22.96 to 23 and is all-in
+Baby_hazzard calls 5.77 and is all-in
+El Toxo folds
+Micky47 folds
+cricri53 x folds
+*** FLOP *** [Ks 6c 7c]
+*** TURN *** [Ks 6c 7c][Tc]
+*** RIVER *** [Ks 6c 7c Tc][Qs]
+*** SHOW DOWN ***
+Baby_hazzard shows [5c 5d] (One pair : 5)
+razhoule shows [4d 5s] (High card : King)
+razhoule collected 17.19 from side pot 1
+Baby_hazzard collected 10.99 from main pot
+*** SUMMARY ***
+Total pot 28.18 | Rake 0.76
+Board: [Ks 6c 7c Tc Qs]
+Seat 2: Baby_hazzard (big blind) showed [5c 5d] and won 10.99 with One pair : 5
+Seat 6: razhoule showed [4d 5s] and won 17.19 with High card : King
+
+
+Winamax Poker - CashGame - HandId: #7813225-320-1438631121 - Holdem no limit (0.01/0.02) - 2015/08/03 19:45:21 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #1 is the button
+Seat 1: marcosG730 (4.48)
+Seat 2: Baby_hazzard (10.99)
+Seat 3: El Toxo (1.96)
+Seat 4: Micky47 (2.12)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (17.19)
+Seat 8: manggy94 (2)
+Seat 9: thibaut62 (1.94)
+*** ANTE/BLINDS ***
+Baby_hazzard posts small blind 0.01
+El Toxo posts big blind 0.02
+Dealt to manggy94 [8c 3d]
+*** PRE-FLOP *** 
+Micky47 raises 0.08 to 0.10
+cricri53 x folds
+razhoule calls 0.10
+manggy94 folds
+marcosG730 raises 2.27 to 2.37
+Baby_hazzard calls 2.36
+El Toxo folds
+Micky47 calls 2.02 and is all-in
+razhoule raises 2.27 to 4.64
+marcosG730 calls 2.11 and is all-in
+Baby_hazzard calls 2.27
+*** FLOP *** [4c Qc 8d]
+Baby_hazzard checks
+razhoule bets 12
+Baby_hazzard calls 6.35 and is all-in
+*** TURN *** [4c Qc 8d][Jd]
+*** RIVER *** [4c Qc 8d Jd][Ac]
+*** SHOW DOWN ***
+Baby_hazzard shows [2d 5d] (High card : Ace)
+Micky47 shows [7s 6s] (High card : Ace)
+marcosG730 shows [As 4h] (Two pairs : Aces and 4)
+razhoule shows [Qs 7c] (One pair : Queens)
+razhoule collected 18.18 from side pot 1
+marcosG730 collected 14.57 from main pot
+*** SUMMARY ***
+Total pot 32.75 | Rake 1.50
+Board: [4c Qc 8d Jd Ac]
+Seat 1: marcosG730 (button) showed [As 4h] and won 14.57 with Two pairs : Aces and 4
+Seat 2: Baby_hazzard (small blind) showed [2d 5d] and lost with High card : Ace
+Seat 4: Micky47 showed [7s 6s] and lost with High card : Ace
+Seat 6: razhoule showed [Qs 7c] and won 18.18 with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #7813225-321-1438631256 - Holdem no limit (0.01/0.02) - 2015/08/03 19:47:36 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #2 is the button
+Seat 1: marcosG730 (14.57)
+Seat 2: Baby_hazzard (2)
+Seat 4: Micky47 (0)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (18.73)
+Seat 7: CHANCARD72 (1.50)
+Seat 8: manggy94 (2)
+Seat 9: Lionkyser (2)
+*** ANTE/BLINDS ***
+razhoule posts big blind 0.02
+CHANCARD72 posts big blind 0.02 out of position
+Lionkyser posts big blind 0.02 out of position
+Dealt to manggy94 [9d 7d]
+*** PRE-FLOP *** 
+CHANCARD72 checks
+manggy94 calls 0.02
+Lionkyser checks
+marcosG730 raises 4.64 to 4.66
+razhoule raises 4.64 to 9.30
+CHANCARD72 calls 1.48 and is all-in
+manggy94 calls 1.98 and is all-in
+Lionkyser calls 1.98 and is all-in
+marcosG730 raises 5.27 to 14.57 and is all-in
+razhoule calls 5.27
+*** FLOP *** [Jc 6h Jh]
+*** TURN *** [Jc 6h Jh][Jd]
+*** RIVER *** [Jc 6h Jh Jd][Tc]
+*** SHOW DOWN ***
+manggy94 shows [9d 7d] (Trips of Jacks)
+Lionkyser shows [Qc 8h] (Trips of Jacks)
+marcosG730 shows [Ad 7s] (Trips of Jacks)
+razhoule shows [Ah 4h] (Trips of Jacks)
+CHANCARD72 shows [Ac 9s] (Trips of Jacks)
+CHANCARD72 collected 2.34 from main pot
+razhoule collected 15.41 from side pot 1
+marcosG730 collected 15.39 from side pot 1
+*** SUMMARY ***
+Total pot 33.14 | Rake 1.50
+Board: [Jc 6h Jh Jd Tc]
+Seat 1: marcosG730 showed [Ad 7s] and won 15.39 with Trips of Jacks
+Seat 6: razhoule (big blind) showed [Ah 4h] and won 15.41 with Trips of Jacks
+Seat 7: CHANCARD72 showed [Ac 9s] and won 2.34 with Trips of Jacks
+Seat 8: manggy94 showed [9d 7d] and lost with Trips of Jacks
+Seat 9: Lionkyser showed [Qc 8h] and lost with Trips of Jacks
+
+
+Winamax Poker - CashGame - HandId: #7813225-322-1438631305 - Holdem no limit (0.01/0.02) - 2015/08/03 19:48:25 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #3 is the button
+Seat 1: marcosG730 (15.39)
+Seat 2: Baby_hazzard (2)
+Seat 3: alinos38 (2)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (19.57)
+Seat 7: CHANCARD72 (2.34)
+Seat 8: manggy94 (2)
+Seat 9: Lionkyser (0)
+*** ANTE/BLINDS ***
+razhoule posts small blind 0.01
+CHANCARD72 posts big blind 0.02
+Dealt to manggy94 [Kd 9h]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+marcosG730 raises 4.90 to 4.92
+razhoule calls 4.91
+CHANCARD72 calls 2.32 and is all-in
+manggy94 calls 1.98 and is all-in
+*** FLOP *** [Ts 4h 8c]
+razhoule checks
+marcosG730 bets 10.47 and is all-in
+razhoule calls 10.47
+*** TURN *** [Ts 4h 8c][Jh]
+*** RIVER *** [Ts 4h 8c Jh][3s]
+*** SHOW DOWN ***
+razhoule shows [5c 3c] (One pair : 3)
+manggy94 shows [Kd 9h] (High card : King)
+marcosG730 shows [7s Jd] (One pair : Jacks)
+CHANCARD72 shows [Jc Qd] (One pair : Jacks)
+CHANCARD72 collected 8.43 from main pot
+marcosG730 collected 25.19 from side pot 1
+*** SUMMARY ***
+Total pot 33.62 | Rake 1.50
+Board: [Ts 4h 8c Jh 3s]
+Seat 1: marcosG730 showed [7s Jd] and won 25.19 with One pair : Jacks
+Seat 6: razhoule (small blind) showed [5c 3c] and lost with One pair : 3
+Seat 7: CHANCARD72 (big blind) showed [Jc Qd] and won 8.43 with One pair : Jacks
+Seat 8: manggy94 showed [Kd 9h] and lost with High card : King
+
+
+Winamax Poker - CashGame - HandId: #7813225-323-1438631347 - Holdem no limit (0.01/0.02) - 2015/08/03 19:49:07 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #6 is the button
+Seat 1: marcosG730 (25.19)
+Seat 2: Baby_hazzard (2)
+Seat 3: alinos38 (2)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (4.18)
+Seat 7: CHANCARD72 (8.43)
+Seat 8: manggy94 (2)
+Seat 9: Lionkyser (2)
+*** ANTE/BLINDS ***
+CHANCARD72 posts small blind 0.01
+manggy94 posts big blind 0.02
+alinos38 posts big blind 0.02 out of position
+Dealt to manggy94 [Jd Td]
+*** PRE-FLOP *** 
+Lionkyser raises 1.98 to 2 and is all-in
+marcosG730 raises 9.45 to 11.45
+Baby_hazzard calls 2 and is all-in
+alinos38 folds
+razhoule calls 4.18 and is all-in
+CHANCARD72 folds
+manggy94 calls 1.98 and is all-in
+*** FLOP *** [2h Ad As]
+*** TURN *** [2h Ad As][4h]
+*** RIVER *** [2h Ad As 4h][9h]
+*** SHOW DOWN ***
+manggy94 shows [Jd Td] (One pair : Aces)
+Lionkyser shows [3c Jc] (One pair : Aces)
+marcosG730 shows [8h 5d] (One pair : Aces)
+Baby_hazzard shows [8c 9c] (Two pairs : Aces and 9)
+razhoule shows [4s 6h] (Two pairs : Aces and 4)
+razhoule collected 4.07 from side pot 1
+Baby_hazzard collected 9.38 from main pot
+marcosG730 collected 7.27 from side pot 2
+*** SUMMARY ***
+Total pot 20.72 | Rake 0.94
+Board: [2h Ad As 4h 9h]
+Seat 1: marcosG730 showed [8h 5d] and won 7.27 with One pair : Aces
+Seat 2: Baby_hazzard showed [8c 9c] and won 9.38 with Two pairs : Aces and 9
+Seat 6: razhoule (button) showed [4s 6h] and won 4.07 with Two pairs : Aces and 4
+Seat 8: manggy94 (big blind) showed [Jd Td] and lost with One pair : Aces
+Seat 9: Lionkyser showed [3c Jc] and lost with One pair : Aces
+
+
+Winamax Poker - CashGame - HandId: #7813225-324-1438631433 - Holdem no limit (0.01/0.02) - 2015/08/03 19:50:33 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #7 is the button
+Seat 1: marcosG730 (21.01)
+Seat 2: Baby_hazzard (9.38)
+Seat 3: alinos38 (1.98)
+Seat 4: Shinji22 (2)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (4.07)
+Seat 7: CHANCARD72 (8.42)
+Seat 8: manggy94 (2)
+Seat 9: Lionkyser (0)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+marcosG730 posts big blind 0.02
+cricri53 x posts small blind 0.01 out of position
+Shinji22 posts big blind 0.02 out of position
+cricri53 x posts big blind 0.02 out of position
+Dealt to manggy94 [Qc Ah]
+*** PRE-FLOP *** 
+Baby_hazzard calls 0.02
+alinos38 calls 0.02
+Shinji22 checks
+cricri53 x checks
+razhoule raises 0.14 to 0.16
+CHANCARD72 raises 8.26 to 8.42 and is all-in
+manggy94 calls 1.99 and is all-in
+marcosG730 calls 8.40
+Baby_hazzard folds
+alinos38 calls 1.96 and is all-in
+Shinji22 calls 1.98 and is all-in
+cricri53 x folds
+razhoule calls 3.91 and is all-in
+*** FLOP *** [5h 3h 4d]
+*** TURN *** [5h 3h 4d][4c]
+*** RIVER *** [5h 3h 4d 4c][Qs]
+*** SHOW DOWN ***
+marcosG730 shows [Js 3d] (Two pairs : 4 and 3)
+alinos38 shows [Jh 2s] (One pair : 4)
+Shinji22 shows [2d 2h] (Two pairs : 4 and 2)
+razhoule shows [5s Tc] (Two pairs : 5 and 4)
+manggy94 shows [Qc Ah] (Two pairs : Queens and 4)
+CHANCARD72 shows [Ac Ad] (Two pairs : Aces and 4)
+CHANCARD72 collected 25.44 from pot
+*** SUMMARY ***
+Total pot 25.44 | Rake 1.50
+Board: [5h 3h 4d 4c Qs]
+Seat 1: marcosG730 (big blind) showed [Js 3d] and lost with Two pairs : 4 and 3
+Seat 3: alinos38 showed [Jh 2s] and lost with One pair : 4
+Seat 4: Shinji22 showed [2d 2h] and lost with Two pairs : 4 and 2
+Seat 6: razhoule showed [5s Tc] and lost with Two pairs : 5 and 4
+Seat 7: CHANCARD72 (button) showed [Ac Ad] and won 25.44 with Two pairs : Aces and 4
+Seat 8: manggy94 (small blind) showed [Qc Ah] and lost with Two pairs : Queens and 4
+
+
+Winamax Poker - CashGame - HandId: #7813225-325-1438631500 - Holdem no limit (0.01/0.02) - 2015/08/03 19:51:40 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #8 is the button
+Seat 1: marcosG730 (12.59)
+Seat 2: Baby_hazzard (9.36)
+Seat 3: alinos38 (0)
+Seat 4: Shinji22 (2)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (2)
+Seat 7: CHANCARD72 (25.44)
+Seat 8: manggy94 (2)
+Seat 9: Lionkyser (2)
+*** ANTE/BLINDS ***
+marcosG730 posts small blind 0.01
+Baby_hazzard posts big blind 0.02
+Dealt to manggy94 [2s 7h]
+*** PRE-FLOP *** 
+Shinji22 folds
+cricri53 x calls 0.02
+razhoule raises 1.98 to 2 and is all-in
+CHANCARD72 calls 2
+manggy94 folds
+marcosG730 raises 10.59 to 12.59 and is all-in
+Baby_hazzard folds
+cricri53 x folds
+CHANCARD72 calls 10.59
+*** FLOP *** [6s 4h 5c]
+*** TURN *** [6s 4h 5c][Jh]
+*** RIVER *** [6s 4h 5c Jh][7d]
+*** SHOW DOWN ***
+marcosG730 shows [3c Qc] (Straight 7 high)
+razhoule shows [4c Ac] (One pair : 4)
+CHANCARD72 shows [Jd 8d] (Straight 8 high)
+CHANCARD72 collected 25.72 from pot
+*** SUMMARY ***
+Total pot 25.72 | Rake 1.50
+Board: [6s 4h 5c Jh 7d]
+Seat 1: marcosG730 (small blind) showed [3c Qc] and lost with Straight 7 high
+Seat 6: razhoule showed [4c Ac] and lost with One pair : 4
+Seat 7: CHANCARD72 showed [Jd 8d] and won 25.72 with Straight 8 high
+
+
+Winamax Poker - CashGame - HandId: #7813225-326-1438631547 - Holdem no limit (0.01/0.02) - 2015/08/03 19:52:27 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #1 is the button
+Seat 1: marcosG730 (0)
+Seat 2: Baby_hazzard (9.34)
+Seat 3: alinos38 (2)
+Seat 4: Shinji22 (2)
+Seat 5: cricri53 x (2)
+Seat 6: razhoule (2)
+Seat 7: CHANCARD72 (38.57)
+Seat 8: manggy94 (2)
+Seat 9: Lionkyser (2)
+*** ANTE/BLINDS ***
+Baby_hazzard posts small blind 0.01
+alinos38 posts big blind 0.02
+Dealt to manggy94 [6s 6d]
+*** PRE-FLOP *** 
+Shinji22 folds
+razhoule raises 1.98 to 2 and is all-in
+CHANCARD72 folds
+manggy94 calls 2 and is all-in
+Baby_hazzard folds
+alinos38 calls 1.98 and is all-in
+*** FLOP *** [3h 3d 6h]
+*** TURN *** [3h 3d 6h][Th]
+*** RIVER *** [3h 3d 6h Th][2h]
+*** SHOW DOWN ***
+alinos38 shows [7s 3c] (Trips of 3)
+razhoule shows [Qs 4c] (One pair : 3)
+manggy94 shows [6s 6d] (Full of 6 and 3)
+manggy94 collected 5.62 from pot
+*** SUMMARY ***
+Total pot 5.62 | Rake 0.39
+Board: [3h 3d 6h Th 2h]
+Seat 3: alinos38 (big blind) showed [7s 3c] and lost with Trips of 3
+Seat 6: razhoule showed [Qs 4c] and lost with One pair : 3
+Seat 8: manggy94 showed [6s 6d] and won 5.62 with Full of 6 and 3
+
+
+Winamax Poker - CashGame - HandId: #7813225-327-1438631638 - Holdem no limit (0.01/0.02) - 2015/08/03 19:53:58 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #2 is the button
+Seat 2: Baby_hazzard (9.33)
+Seat 3: alinos38 (0)
+Seat 4: Shinji22 (2)
+Seat 6: razhoule (2)
+Seat 8: manggy94 (5.62)
+Seat 9: Lionkyser (2)
+*** ANTE/BLINDS ***
+Lionkyser posts small blind 0.01
+Shinji22 posts big blind 0.02
+Dealt to manggy94 [4c Td]
+*** PRE-FLOP *** 
+razhoule raises 1.98 to 2 and is all-in
+manggy94 folds
+Lionkyser calls 1.99 and is all-in
+Baby_hazzard calls 2
+Shinji22 folds
+*** FLOP *** [5h Ah 6s]
+*** TURN *** [5h Ah 6s][9c]
+*** RIVER *** [5h Ah 6s 9c][2c]
+*** SHOW DOWN ***
+razhoule shows [8c 8h] (One pair : 8)
+Lionkyser shows [9h Kd] (One pair : 9)
+Baby_hazzard shows [3d 4d] (Straight 6 high)
+Baby_hazzard collected 5.63 from pot
+*** SUMMARY ***
+Total pot 5.63 | Rake 0.39
+Board: [5h Ah 6s 9c 2c]
+Seat 2: Baby_hazzard (button) showed [3d 4d] and won 5.63 with Straight 6 high
+Seat 6: razhoule showed [8c 8h] and lost with One pair : 8
+Seat 9: Lionkyser (small blind) showed [9h Kd] and lost with One pair : 9
+
+
+Winamax Poker - CashGame - HandId: #7813225-328-1438631674 - Holdem no limit (0.01/0.02) - 2015/08/03 19:54:34 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #3 is the button
+Seat 2: Baby_hazzard (12.96)
+Seat 3: alinos38 (2)
+Seat 4: Shinji22 (2)
+Seat 6: razhoule (2)
+Seat 8: manggy94 (5.62)
+Seat 9: Lionkyser (0)
+*** ANTE/BLINDS ***
+Shinji22 posts small blind 0.01
+razhoule posts big blind 0.02
+Dealt to manggy94 [Jc 6c]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+Baby_hazzard calls 0.02
+Shinji22 folds
+razhoule raises 1.98 to 2 and is all-in
+manggy94 folds
+Baby_hazzard calls 1.98
+*** FLOP *** [5d 9s 6s]
+*** TURN *** [5d 9s 6s][Qd]
+*** RIVER *** [5d 9s 6s Qd][4h]
+*** SHOW DOWN ***
+Baby_hazzard shows [8d 8s] (One pair : 8)
+razhoule shows [5h 4c] (Two pairs : 5 and 4)
+razhoule collected 3.77 from pot
+*** SUMMARY ***
+Total pot 3.77 | Rake 0.26
+Board: [5d 9s 6s Qd 4h]
+Seat 2: Baby_hazzard showed [8d 8s] and lost with One pair : 8
+Seat 6: razhoule (big blind) showed [5h 4c] and won 3.77 with Two pairs : 5 and 4
+
+
+Winamax Poker - CashGame - HandId: #7813225-329-1438631708 - Holdem no limit (0.01/0.02) - 2015/08/03 19:55:08 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #4 is the button
+Seat 2: Baby_hazzard (10.96)
+Seat 3: alinos38 (2)
+Seat 4: Shinji22 (2)
+Seat 6: razhoule (3.77)
+Seat 8: manggy94 (5.60)
+Seat 9: Lionkyser (2)
+*** ANTE/BLINDS ***
+razhoule posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [8d 5s]
+*** PRE-FLOP *** 
+Lionkyser raises 1.98 to 2 and is all-in
+Baby_hazzard calls 2
+Shinji22 folds
+razhoule calls 1.99
+manggy94 folds
+*** FLOP *** [Ks Qh Kh]
+razhoule checks
+Baby_hazzard bets 1.02
+razhoule folds
+*** TURN *** [Ks Qh Kh][5d]
+*** RIVER *** [Ks Qh Kh 5d][3h]
+*** SHOW DOWN ***
+Baby_hazzard shows [9s 8h] (One pair : Kings)
+Lionkyser shows [5c 9c] (Two pairs : Kings and 5)
+Lionkyser collected 5.63 from main pot
+Baby_hazzard collected 1.02 from side pot 1
+*** SUMMARY ***
+Total pot 6.65 | Rake 0.39
+Board: [Ks Qh Kh 5d 3h]
+Seat 2: Baby_hazzard showed [9s 8h] and won 1.02 with One pair : Kings
+Seat 9: Lionkyser showed [5c 9c] and won 5.63 with Two pairs : Kings and 5
+
+
+Winamax Poker - CashGame - HandId: #7813225-330-1438631784 - Holdem no limit (0.01/0.02) - 2015/08/03 19:56:24 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #6 is the button
+Seat 1: laroue12 (2)
+Seat 2: Baby_hazzard (8.96)
+Seat 3: alinos38 (2)
+Seat 4: Shinji22 (2)
+Seat 7: Yul__totor (2)
+Seat 8: manggy94 (5.58)
+Seat 9: Lionkyser (5.63)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+Lionkyser posts big blind 0.02
+laroue12 posts big blind 0.02 out of position
+Dealt to manggy94 [Ah 9s]
+*** PRE-FLOP *** 
+laroue12 checks
+Baby_hazzard calls 0.02
+Shinji22 folds
+manggy94 calls 0.01
+Lionkyser raises 5.61 to 5.63 and is all-in
+laroue12 calls 1.98 and is all-in
+Baby_hazzard calls 5.61
+manggy94 calls 5.56 and is all-in
+*** FLOP *** [6c 9h Jh]
+*** TURN *** [6c 9h Jh][4d]
+*** RIVER *** [6c 9h Jh 4d][3h]
+*** SHOW DOWN ***
+laroue12 shows [6h Qd] (One pair : 6)
+Baby_hazzard shows [4s 2c] (One pair : 4)
+manggy94 shows [Ah 9s] (One pair : 9)
+Lionkyser shows [Ac 9d] (One pair : 9)
+Lionkyser collected 8.86 from side pot 1
+manggy94 collected 8.76 from main pot
+*** SUMMARY ***
+Total pot 17.62 | Rake 1.22
+Board: [6c 9h Jh 4d 3h]
+Seat 1: laroue12 showed [6h Qd] and lost with One pair : 6
+Seat 2: Baby_hazzard showed [4s 2c] and lost with One pair : 4
+Seat 8: manggy94 (small blind) showed [Ah 9s] and won 8.76 with One pair : 9
+Seat 9: Lionkyser (big blind) showed [Ac 9d] and won 8.86 with One pair : 9
+
+
+Winamax Poker - CashGame - HandId: #7813225-331-1438631839 - Holdem no limit (0.01/0.02) - 2015/08/03 19:57:19 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #8 is the button
+Seat 1: laroue12 (2)
+Seat 2: Baby_hazzard (3.33)
+Seat 3: alinos38 (2)
+Seat 4: Shinji22 (2)
+Seat 7: Yul__totor (2)
+Seat 8: manggy94 (8.76)
+Seat 9: Lionkyser (8.86)
+*** ANTE/BLINDS ***
+Lionkyser posts small blind 0.01
+laroue12 posts big blind 0.02
+Yul__totor posts big blind 0.02 out of position
+Dealt to manggy94 [4h Qc]
+*** PRE-FLOP *** 
+Baby_hazzard raises 3.31 to 3.33 and is all-in
+Shinji22 folds
+Yul__totor calls 1.98 and is all-in
+manggy94 folds
+Lionkyser calls 3.32
+laroue12 calls 1.98 and is all-in
+*** FLOP *** [3h 4d 5s]
+*** TURN *** [3h 4d 5s][3d]
+*** RIVER *** [3h 4d 5s 3d][3s]
+*** SHOW DOWN ***
+laroue12 shows [6d 7d] (Straight 7 high)
+Baby_hazzard shows [Ts Js] (Trips of 3)
+Yul__totor shows [8s 8d] (Full of 3 and 8)
+Lionkyser shows [Ah Kd] (Trips of 3)
+Lionkyser collected 2.49 from side pot 1
+Yul__totor collected 7.48 from main pot
+*** SUMMARY ***
+Total pot 9.97 | Rake 0.69
+Board: [3h 4d 5s 3d 3s]
+Seat 1: laroue12 (big blind) showed [6d 7d] and lost with Straight 7 high
+Seat 2: Baby_hazzard showed [Ts Js] and lost with Trips of 3
+Seat 7: Yul__totor showed [8s 8d] and won 7.48 with Full of 3 and 8
+Seat 9: Lionkyser (small blind) showed [Ah Kd] and won 2.49 with Trips of 3
+
+
+Winamax Poker - CashGame - HandId: #7813225-332-1438631897 - Holdem no limit (0.01/0.02) - 2015/08/03 19:58:17 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #9 is the button
+Seat 1: laroue12 (0)
+Seat 2: Baby_hazzard (0)
+Seat 3: alinos38 (2)
+Seat 4: Shinji22 (2)
+Seat 7: Yul__totor (7.48)
+Seat 8: manggy94 (8.76)
+Seat 9: Lionkyser (8.02)
+*** ANTE/BLINDS ***
+alinos38 posts big blind 0.02
+Dealt to manggy94 [8c 5c]
+*** PRE-FLOP *** 
+Shinji22 folds
+Yul__totor calls 0.02
+manggy94 calls 0.02
+Lionkyser calls 0.02
+alinos38 checks
+*** FLOP *** [7s 8d 3s]
+alinos38 checks
+Yul__totor checks
+manggy94 bets 2.43
+Lionkyser raises 5.57 to 8 and is all-in
+alinos38 calls 1.98 and is all-in
+Yul__totor folds
+manggy94 folds
+*** TURN *** [7s 8d 3s][5h]
+*** RIVER *** [7s 8d 3s 5h][2c]
+*** SHOW DOWN ***
+alinos38 shows [4c Qh] (High card : Queen)
+Lionkyser shows [Qc 3d] (One pair : 3)
+Lionkyser collected 12.04 from pot
+*** SUMMARY ***
+Total pot 12.04 | Rake 0.45
+Board: [7s 8d 3s 5h 2c]
+Seat 3: alinos38 (big blind) showed [4c Qh] and lost with High card : Queen
+Seat 9: Lionkyser (button) showed [Qc 3d] and won 12.04 with One pair : 3
+
+
+Winamax Poker - CashGame - HandId: #7813225-333-1438631987 - Holdem no limit (0.01/0.02) - 2015/08/03 19:59:47 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #1 is the button
+Seat 1: laroue12 (2)
+Seat 3: alinos38 (2)
+Seat 4: Shinji22 (2)
+Seat 7: Yul__totor (7.46)
+Seat 8: manggy94 (6.31)
+Seat 9: Lionkyser (12.04)
+*** ANTE/BLINDS ***
+Shinji22 denies big blind
+alinos38 posts small blind 0.01
+Yul__totor posts big blind 0.02
+Dealt to manggy94 [Kh 6c]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+Lionkyser raises 6.22 to 6.24
+alinos38 calls 1.99 and is all-in
+Yul__totor folds
+manggy94 folds
+*** FLOP *** [Td 2h 7c]
+*** TURN *** [Td 2h 7c][5d]
+*** RIVER *** [Td 2h 7c 5d][2c]
+*** SHOW DOWN ***
+alinos38 shows [9s Ks] (One pair : 2)
+Lionkyser shows [Js 9d] (One pair : 2)
+Lionkyser collected 4.24 from side pot 1
+alinos38 collected 3.78 from main pot
+*** SUMMARY ***
+Total pot 8.02 | Rake 0.26
+Board: [Td 2h 7c 5d 2c]
+Seat 3: alinos38 (small blind) showed [9s Ks] and won 3.78 with One pair : 2
+Seat 9: Lionkyser showed [Js 9d] and won 4.24 with One pair : 2
+
+
+Winamax Poker - CashGame - HandId: #7813225-334-1438632051 - Holdem no limit (0.01/0.02) - 2015/08/03 20:00:51 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #3 is the button
+Seat 1: laroue12 (2)
+Seat 3: alinos38 (3.78)
+Seat 4: Shinji22 (2)
+Seat 7: Yul__totor (7.44)
+Seat 8: manggy94 (6.29)
+Seat 9: Lionkyser (10.04)
+*** ANTE/BLINDS ***
+Yul__totor posts small blind 0.01
+manggy94 posts big blind 0.02
+laroue12 posts small blind 0.01 out of position
+Dealt to manggy94 [4s 9c]
+*** PRE-FLOP *** 
+Lionkyser raises 6.76 to 6.78
+laroue12 calls 1.99 and is all-in
+alinos38 calls 3.78 and is all-in
+Yul__totor calls 6.77
+manggy94 folds
+*** FLOP *** [9d 2c 9h]
+Yul__totor bets 0.66 and is all-in
+Lionkyser raises 0.66 to 1.32
+*** TURN *** [9d 2c 9h][9s]
+*** RIVER *** [9d 2c 9h 9s][8c]
+*** SHOW DOWN ***
+laroue12 shows [7h Qc] (Trips of 9)
+alinos38 shows [2h 6s] (Full of 9 and 2)
+Yul__totor shows [Ah Ad] (Full of 9 and Aces)
+Lionkyser shows [Jc 3d] (Trips of 9)
+Lionkyser collected 0.66 from side pot 1
+Yul__totor collected 19.34 from main pot
+*** SUMMARY ***
+Total pot 20 | Rake 1.34
+Board: [9d 2c 9h 9s 8c]
+Seat 1: laroue12 showed [7h Qc] and lost with Trips of 9
+Seat 3: alinos38 (button) showed [2h 6s] and lost with Full of 9 and 2
+Seat 7: Yul__totor (small blind) showed [Ah Ad] and won 19.34 with Full of 9 and Aces
+Seat 9: Lionkyser showed [Jc 3d] and won 0.66 with Trips of 9
+
+
+Winamax Poker - CashGame - HandId: #7813225-335-1438632132 - Holdem no limit (0.01/0.02) - 2015/08/03 20:02:12 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #7 is the button
+Seat 1: laroue12 (0)
+Seat 3: alinos38 (2)
+Seat 4: Shinji22 (2)
+Seat 7: Yul__totor (19.34)
+Seat 8: manggy94 (6.27)
+Seat 9: Lionkyser (2.60)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+Lionkyser posts big blind 0.02
+Dealt to manggy94 [Kc 6c]
+*** PRE-FLOP *** 
+alinos38 folds
+Yul__totor calls 0.02
+manggy94 calls 0.01
+Lionkyser checks
+*** FLOP *** [6s 9d 7h]
+manggy94 checks
+Lionkyser checks
+Yul__totor bets 0.02
+manggy94 calls 0.02
+Lionkyser folds
+*** TURN *** [6s 9d 7h][Jd]
+manggy94 bets 1.64
+Yul__totor folds
+manggy94 collected 1.73 from pot
+*** SUMMARY ***
+Total pot 1.73 | Rake 0.01
+Board: [6s 9d 7h Jd]
+Seat 8: manggy94 (small blind) won 1.73
+
+
+Winamax Poker - CashGame - HandId: #7813225-336-1438632279 - Holdem no limit (0.01/0.02) - 2015/08/03 20:04:39 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #8 is the button
+Seat 3: alinos38 (2)
+Seat 4: Shinji22 (2)
+Seat 7: Yul__totor (19.30)
+Seat 8: manggy94 (6.32)
+Seat 9: Lionkyser (2.58)
+*** ANTE/BLINDS ***
+alinos38 posts big blind 0.02
+Dealt to manggy94 [8c Js]
+*** PRE-FLOP *** 
+Yul__totor calls 0.02
+manggy94 calls 0.02
+alinos38 checks
+*** FLOP *** [2h Qh Ts]
+alinos38 checks
+Yul__totor checks
+manggy94 checks
+*** TURN *** [2h Qh Ts][Td]
+alinos38 bets 0.02
+Yul__totor raises 0.10 to 0.12
+manggy94 folds
+alinos38 calls 0.10
+*** RIVER *** [2h Qh Ts Td][Jh]
+alinos38 bets 0.02
+Yul__totor raises 0.34 to 0.36
+alinos38 raises 0.34 to 0.70
+Yul__totor raises 0.34 to 1.04
+alinos38 calls 0.34
+*** SHOW DOWN ***
+alinos38 shows [9s Ac] (One pair : Tens)
+Yul__totor shows [Qs Tc] (Full of Tens and Queens)
+Yul__totor collected 2.23 from pot
+*** SUMMARY ***
+Total pot 2.23 | Rake 0.15
+Board: [2h Qh Ts Td Jh]
+Seat 3: alinos38 (big blind) showed [9s Ac] and lost with One pair : Tens
+Seat 7: Yul__totor showed [Qs Tc] and won 2.23 with Full of Tens and Queens
+
+
+Winamax Poker - CashGame - HandId: #7813225-337-1438632363 - Holdem no limit (0.01/0.02) - 2015/08/03 20:06:03 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #9 is the button
+Seat 3: alinos38 (2)
+Seat 7: Yul__totor (20.35)
+Seat 8: manggy94 (6.30)
+Seat 9: Lionkyser (2.58)
+*** ANTE/BLINDS ***
+alinos38 posts small blind 0.01
+Yul__totor posts big blind 0.02
+Dealt to manggy94 [4h Qh]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+alinos38 raises 0.08 to 0.10
+Yul__totor folds
+manggy94 folds
+alinos38 collected 0.14 from pot
+*** SUMMARY ***
+Total pot 0.14 | No rake
+Seat 3: alinos38 (small blind) won 0.14
+
+
+Winamax Poker - CashGame - HandId: #7813225-338-1438632445 - Holdem no limit (0.01/0.02) - 2015/08/03 20:07:25 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #7 is the button
+Seat 3: alinos38 (2.04)
+Seat 5: 777mx (2)
+Seat 7: Yul__totor (20.33)
+Seat 8: manggy94 (6.28)
+Seat 9: Lionkyser (2.58)
+*** ANTE/BLINDS ***
+Yul__totor posts small blind 0.01
+alinos38 posts big blind 0.02
+*** PRE-FLOP *** 
+Yul__totor calls 0.01
+alinos38 checks
+*** FLOP *** [7d 2h 5h]
+alinos38 checks
+Yul__totor checks
+*** TURN *** [7d 2h 5h][Ks]
+alinos38 bets 0.02
+Yul__totor calls 0.02
+*** RIVER *** [7d 2h 5h Ks][5d]
+alinos38 folds
+Yul__totor collected 0.07 from pot
+*** SUMMARY ***
+Total pot 0.07 | Rake 0.01
+Board: [7d 2h 5h Ks 5d]
+Seat 7: Yul__totor (small blind) (button) won 0.07
+
+
+Winamax Poker - CashGame - HandId: #7813225-339-1438632520 - Holdem no limit (0.01/0.02) - 2015/08/03 20:08:40 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #7 is the button
+Seat 3: alinos38 (2)
+Seat 5: 777mx (2)
+Seat 7: Yul__totor (20.36)
+Seat 8: manggy94 (6.28)
+Seat 9: Lionkyser (2.58)
+*** ANTE/BLINDS ***
+alinos38 posts small blind 0.01
+777mx posts big blind 0.02
+*** PRE-FLOP *** 
+Yul__totor calls 0.02
+alinos38 raises 0.08 to 0.10
+777mx calls 0.08
+Yul__totor calls 0.08
+*** FLOP *** [Jd Qh 4c]
+alinos38 bets 0.02
+777mx raises 0.02 to 0.04
+Yul__totor raises 0.40 to 0.44
+alinos38 raises 0.40 to 0.84
+777mx folds
+Yul__totor calls 0.40
+*** TURN *** [Jd Qh 4c][9s]
+alinos38 checks
+Yul__totor checks
+*** RIVER *** [Jd Qh 4c 9s][Ad]
+alinos38 checks
+Yul__totor bets 2.02
+alinos38 folds
+Yul__totor collected 3.91 from pot
+*** SUMMARY ***
+Total pot 3.91 | Rake 0.13
+Board: [Jd Qh 4c 9s Ad]
+Seat 7: Yul__totor (button) won 3.91
+
+
+Winamax Poker - CashGame - HandId: #7813225-340-1438632622 - Holdem no limit (0.01/0.02) - 2015/08/03 20:10:22 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #5 is the button
+Seat 5: 777mx (1.86)
+Seat 7: Yul__totor (21.31)
+Seat 8: manggy94 (6.28)
+*** ANTE/BLINDS ***
+777mx posts small blind 0.01
+Yul__totor posts big blind 0.02
+*** PRE-FLOP *** 
+777mx calls 0.01
+Yul__totor checks
+*** FLOP *** [5d 4d Ac]
+Yul__totor checks
+777mx checks
+*** TURN *** [5d 4d Ac][Kd]
+Yul__totor checks
+777mx bets 0.11
+Yul__totor calls 0.11
+*** RIVER *** [5d 4d Ac Kd][Tc]
+Yul__totor checks
+777mx checks
+*** SHOW DOWN ***
+Yul__totor shows [2d Qc] (High card : Ace)
+777mx shows [7h Kc] (One pair : Kings)
+777mx collected 0.24 from pot
+*** SUMMARY ***
+Total pot 0.24 | Rake 0.02
+Board: [5d 4d Ac Kd Tc]
+Seat 5: 777mx (small blind) (button) showed [7h Kc] and won 0.24 with One pair : Kings
+Seat 7: Yul__totor (big blind) showed [2d Qc] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #7813225-341-1438632705 - Holdem no limit (0.01/0.02) - 2015/08/03 20:11:45 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #5 is the button
+Seat 5: 777mx (1.97)
+Seat 6: MisterQ1988 (2)
+Seat 7: Yul__totor (21.18)
+Seat 8: manggy94 (6.28)
+Seat 9: Nyko_14 (2)
+*** ANTE/BLINDS ***
+Yul__totor posts small blind 0.01
+Nyko_14 posts big blind 0.02
+*** PRE-FLOP *** 
+777mx calls 0.02
+Yul__totor calls 0.01
+Nyko_14 checks
+*** FLOP *** [4c Ad Kd]
+Yul__totor bets 0.02
+Nyko_14 folds
+777mx raises 0.07 to 0.09
+Yul__totor calls 0.07
+*** TURN *** [4c Ad Kd][Jd]
+Yul__totor checks
+777mx checks
+*** RIVER *** [4c Ad Kd Jd][4h]
+Yul__totor checks
+777mx bets 0.12
+Yul__totor calls 0.12
+*** SHOW DOWN ***
+Yul__totor shows [5s Kh] (Two pairs : Kings and 4)
+777mx shows [Js Ks] (Two pairs : Kings and Jacks)
+777mx collected 0.45 from pot
+*** SUMMARY ***
+Total pot 0.45 | Rake 0.03
+Board: [4c Ad Kd Jd 4h]
+Seat 5: 777mx (button) showed [Js Ks] and won 0.45 with Two pairs : Kings and Jacks
+Seat 7: Yul__totor (small blind) showed [5s Kh] and lost with Two pairs : Kings and 4
+
+
+Winamax Poker - CashGame - HandId: #7813225-342-1438632807 - Holdem no limit (0.01/0.02) - 2015/08/03 20:13:27 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #7 is the button
+Seat 5: 777mx (2.19)
+Seat 6: MisterQ1988 (2)
+Seat 7: Yul__totor (20.95)
+Seat 8: manggy94 (6.28)
+Seat 9: Nyko_14 (1.98)
+*** ANTE/BLINDS ***
+Nyko_14 posts small blind 0.01
+777mx posts big blind 0.02
+MisterQ1988 posts big blind 0.02 out of position
+*** PRE-FLOP *** 
+MisterQ1988 checks
+Yul__totor calls 0.02
+Nyko_14 calls 0.01
+777mx checks
+*** FLOP *** [5s 2c 8s]
+Nyko_14 bets 0.15
+777mx folds
+MisterQ1988 folds
+Yul__totor folds
+Nyko_14 collected 0.22 from pot
+*** SUMMARY ***
+Total pot 0.22 | Rake 0.01
+Board: [5s 2c 8s]
+Seat 9: Nyko_14 (small blind) won 0.22
+
+
+Winamax Poker - CashGame - HandId: #7813225-343-1438632875 - Holdem no limit (0.01/0.02) - 2015/08/03 20:14:35 UTC
+Table: 'Leeds 02' 9-max (play money) Seat #9 is the button
+Seat 1: Yassin34 (2)
+Seat 2: tedprud74 (2)
+Seat 5: 777mx (2.17)
+Seat 6: MisterQ1988 (1.98)
+Seat 7: Yul__totor (20.93)
+Seat 8: manggy94 (6.28)
+Seat 9: Nyko_14 (2.03)
+*** ANTE/BLINDS ***
+777mx posts small blind 0.01
+MisterQ1988 posts big blind 0.02
+*** PRE-FLOP *** 
+Yul__totor calls 0.02
+Nyko_14 calls 0.02
+777mx calls 0.01
+MisterQ1988 checks
+*** FLOP *** [8d Th 4d]
+777mx checks
+MisterQ1988 checks
+Yul__totor checks
+Nyko_14 bets 0.15
+777mx folds
+MisterQ1988 folds
+Yul__totor calls 0.15
+*** TURN *** [8d Th 4d][5c]
+Yul__totor checks
+Nyko_14 bets 0.38
+Yul__totor calls 0.38
+*** RIVER *** [8d Th 4d 5c][Td]
+Yul__totor checks
+Nyko_14 checks
+*** SHOW DOWN ***
+Yul__totor shows [Qh 9h] (One pair : Tens)
+Nyko_14 shows [As 4c] (Two pairs : Tens and 4)
+Nyko_14 collected 1.07 from pot
+*** SUMMARY ***
+Total pot 1.07 | Rake 0.07
+Board: [8d Th 4d 5c Td]
+Seat 7: Yul__totor showed [Qh 9h] and lost with One pair : Tens
+Seat 9: Nyko_14 (button) showed [As 4c] and won 1.07 with Two pairs : Tens and 4
+
+

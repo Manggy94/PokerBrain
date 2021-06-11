@@ -1,0 +1,1065 @@
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 2 - HandId: #684014674789793837-32-1464807245 - Holdem no limit (75/150) - 2016/06/01 18:54:05 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #2 is the button
+Seat 1: -CHATOUNET- (11175)
+Seat 2: fabien 77 (18961)
+Seat 3: manggy94 (10000)
+Seat 4: -UgotLittUp- (13037)
+Seat 5: sphere31 (6827)
+Seat 6: gatchanajack (10000)
+*** ANTE/BLINDS ***
+-UgotLittUp- posts small blind 75
+sphere31 posts big blind 150
+*** PRE-FLOP *** 
+gatchanajack folds
+-CHATOUNET- folds
+fabien 77 folds
+-UgotLittUp- folds
+sphere31 collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Seat 5: sphere31 (big blind) won 225
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 2 - HandId: #684014674789793837-33-1464807267 - Holdem no limit (75/150) - 2016/06/01 18:54:27 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #4 is the button
+Seat 1: -CHATOUNET- (11175)
+Seat 2: fabien 77 (18961)
+Seat 3: manggy94 (10000)
+Seat 4: -UgotLittUp- (12962)
+Seat 5: sphere31 (6902)
+Seat 6: gatchanajack (10000)
+*** ANTE/BLINDS ***
+sphere31 posts small blind 75
+gatchanajack posts big blind 150
+Dealt to manggy94 [4d 4s]
+*** PRE-FLOP *** 
+-CHATOUNET- folds
+fabien 77 calls 150
+manggy94 raises 450 to 600
+-UgotLittUp- folds
+sphere31 folds
+gatchanajack calls 450
+fabien 77 folds
+*** FLOP *** [Jh Qh 6h]
+gatchanajack checks
+manggy94 bets 713
+gatchanajack folds
+manggy94 collected 2138 from pot
+*** SUMMARY ***
+Total pot 2138 | No rake
+Board: [Jh Qh 6h]
+Seat 3: manggy94 won 2138
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 2 - HandId: #684014674789793837-34-1464807604 - Holdem no limit (75/150) - 2016/06/01 19:00:04 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #5 is the button
+Seat 1: -CHATOUNET- (11175)
+Seat 2: fabien 77 (18811)
+Seat 3: manggy94 (10825)
+Seat 4: -UgotLittUp- (12962)
+Seat 5: sphere31 (6827)
+Seat 6: gatchanajack (9400)
+*** ANTE/BLINDS ***
+gatchanajack posts small blind 75
+-CHATOUNET- posts big blind 150
+Dealt to manggy94 [2s 3h]
+*** PRE-FLOP *** 
+fabien 77 raises 150 to 300
+manggy94 folds
+-UgotLittUp- folds
+sphere31 folds
+gatchanajack calls 225
+-CHATOUNET- folds
+*** FLOP *** [9c 9d Qh]
+gatchanajack checks
+fabien 77 checks
+*** TURN *** [9c 9d Qh][4s]
+gatchanajack bets 150
+fabien 77 calls 150
+*** RIVER *** [9c 9d Qh 4s][6s]
+gatchanajack bets 150
+fabien 77 calls 150
+*** SHOW DOWN ***
+gatchanajack shows [Td Jc] (One pair : 9)
+fabien 77 shows [8d 8h] (Two pairs : 9 and 8)
+fabien 77 collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [9c 9d Qh 4s 6s]
+Seat 2: fabien 77 showed [8d 8h] and won 1350 with Two pairs : 9 and 8
+Seat 6: gatchanajack (small blind) showed [Td Jc] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 2 - HandId: #684014674789793837-35-1464807681 - Holdem no limit (75/150) - 2016/06/01 19:01:21 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #6 is the button
+Seat 1: -CHATOUNET- (11025)
+Seat 2: fabien 77 (19561)
+Seat 3: manggy94 (10825)
+Seat 4: -UgotLittUp- (12962)
+Seat 5: sphere31 (6827)
+Seat 6: gatchanajack (8800)
+*** ANTE/BLINDS ***
+-CHATOUNET- posts small blind 75
+fabien 77 posts big blind 150
+Dealt to manggy94 [6h 5h]
+*** PRE-FLOP *** 
+manggy94 calls 150
+-UgotLittUp- folds
+sphere31 calls 150
+gatchanajack folds
+-CHATOUNET- calls 75
+fabien 77 checks
+*** FLOP *** [2c Tc Kc]
+-CHATOUNET- checks
+fabien 77 checks
+manggy94 checks
+sphere31 checks
+*** TURN *** [2c Tc Kc][9c]
+-CHATOUNET- checks
+fabien 77 checks
+manggy94 checks
+sphere31 checks
+*** RIVER *** [2c Tc Kc 9c][Qs]
+-CHATOUNET- checks
+fabien 77 checks
+manggy94 checks
+sphere31 checks
+*** SHOW DOWN ***
+fabien 77 shows [8s 9s] (One pair : 9)
+manggy94 shows [6h 5h] (High card : King)
+sphere31 shows [Ah 6d] (High card : Ace)
+-CHATOUNET- shows [Ts As] (One pair : Tens)
+-CHATOUNET- collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [2c Tc Kc 9c Qs]
+Seat 1: -CHATOUNET- (small blind) showed [Ts As] and won 600 with One pair : Tens
+Seat 2: fabien 77 (big blind) showed [8s 9s] and lost with One pair : 9
+Seat 3: manggy94 showed [6h 5h] and lost with High card : King
+Seat 5: sphere31 showed [Ah 6d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 2 - HandId: #684014674789793837-36-1464807800 - Holdem no limit (75/150) - 2016/06/01 19:03:20 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #1 is the button
+Seat 1: -CHATOUNET- (11475)
+Seat 2: fabien 77 (19411)
+Seat 3: manggy94 (10675)
+Seat 4: -UgotLittUp- (12962)
+Seat 5: sphere31 (6677)
+Seat 6: gatchanajack (8800)
+*** ANTE/BLINDS ***
+fabien 77 posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [4c Ks]
+*** PRE-FLOP *** 
+-UgotLittUp- folds
+sphere31 folds
+gatchanajack folds
+-CHATOUNET- folds
+fabien 77 raises 150 to 300
+manggy94 calls 150
+*** FLOP *** [8h 7d Kd]
+fabien 77 bets 450
+manggy94 calls 450
+*** TURN *** [8h 7d Kd][2s]
+fabien 77 bets 1500
+manggy94 raises 1500 to 3000
+fabien 77 calls 1500
+*** RIVER *** [8h 7d Kd 2s][8c]
+fabien 77 checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [4c Ks] (Two pairs : Kings and 8)
+fabien 77 shows [Ad Kh] (Two pairs : Kings and 8)
+fabien 77 collected 7500 from pot
+*** SUMMARY ***
+Total pot 7500 | No rake
+Board: [8h 7d Kd 2s 8c]
+Seat 2: fabien 77 (small blind) showed [Ad Kh] and won 7500 with Two pairs : Kings and 8
+Seat 3: manggy94 (big blind) showed [4c Ks] and lost with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 2 - HandId: #684014674789793837-37-1464807850 - Holdem no limit (75/150) - 2016/06/01 19:04:10 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #2 is the button
+Seat 1: -CHATOUNET- (11475)
+Seat 2: fabien 77 (23161)
+Seat 3: manggy94 (6925)
+Seat 4: -UgotLittUp- (12962)
+Seat 5: sphere31 (6677)
+Seat 6: gatchanajack (8800)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 75
+-UgotLittUp- posts big blind 150
+Dealt to manggy94 [5s 4s]
+*** PRE-FLOP *** 
+sphere31 folds
+gatchanajack calls 150
+-CHATOUNET- folds
+fabien 77 folds
+manggy94 calls 75
+-UgotLittUp- checks
+*** FLOP *** [Ac 8c 9s]
+manggy94 checks
+-UgotLittUp- checks
+gatchanajack bets 450
+manggy94 folds
+-UgotLittUp- folds
+gatchanajack collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ac 8c 9s]
+Seat 6: gatchanajack won 900
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 2 - HandId: #684014674789793837-38-1464807890 - Holdem no limit (75/150) - 2016/06/01 19:04:50 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #3 is the button
+Seat 1: -CHATOUNET- (11475)
+Seat 2: fabien 77 (23161)
+Seat 3: manggy94 (6775)
+Seat 4: -UgotLittUp- (12812)
+Seat 5: sphere31 (6677)
+Seat 6: gatchanajack (9100)
+*** ANTE/BLINDS ***
+-UgotLittUp- posts small blind 75
+sphere31 posts big blind 150
+Dealt to manggy94 [2d Jd]
+*** PRE-FLOP *** 
+gatchanajack folds
+-CHATOUNET- folds
+fabien 77 folds
+manggy94 raises 150 to 300
+-UgotLittUp- folds
+sphere31 calls 150
+*** FLOP *** [Tc Th Qs]
+sphere31 checks
+manggy94 bets 675
+sphere31 folds
+manggy94 collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [Tc Th Qs]
+Seat 3: manggy94 (button) won 1350
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 3 - HandId: #684014674789793837-39-1464807956 - Holdem no limit (100/200) - 2016/06/01 19:05:56 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #4 is the button
+Seat 1: -CHATOUNET- (11475)
+Seat 2: fabien 77 (23161)
+Seat 3: manggy94 (7150)
+Seat 4: -UgotLittUp- (12737)
+Seat 5: sphere31 (6377)
+Seat 6: gatchanajack (9100)
+*** ANTE/BLINDS ***
+sphere31 posts small blind 100
+gatchanajack posts big blind 200
+Dealt to manggy94 [Th 2h]
+*** PRE-FLOP *** 
+-CHATOUNET- folds
+fabien 77 raises 500 to 700
+manggy94 folds
+-UgotLittUp- folds
+sphere31 raises 5677 to 6377 and is all-in
+gatchanajack folds
+fabien 77 calls 5677
+*** FLOP *** [Qc 6h 8d]
+*** TURN *** [Qc 6h 8d][Ts]
+*** RIVER *** [Qc 6h 8d Ts][5d]
+*** SHOW DOWN ***
+fabien 77 shows [Ah Jh] (High card : Ace)
+sphere31 shows [5c 5h] (Trips of 5)
+sphere31 collected 12954 from pot
+*** SUMMARY ***
+Total pot 12954 | No rake
+Board: [Qc 6h 8d Ts 5d]
+Seat 2: fabien 77 showed [Ah Jh] and lost with High card : Ace
+Seat 5: sphere31 (small blind) showed [5c 5h] and won 12954 with Trips of 5
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 3 - HandId: #684014674789793837-40-1464808023 - Holdem no limit (100/200) - 2016/06/01 19:07:03 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #5 is the button
+Seat 1: -CHATOUNET- (11475)
+Seat 2: fabien 77 (16784)
+Seat 3: manggy94 (7150)
+Seat 4: -UgotLittUp- (12737)
+Seat 5: sphere31 (12954)
+Seat 6: gatchanajack (8900)
+*** ANTE/BLINDS ***
+gatchanajack posts small blind 100
+-CHATOUNET- posts big blind 200
+Dealt to manggy94 [5h 7s]
+*** PRE-FLOP *** 
+fabien 77 folds
+manggy94 folds
+-UgotLittUp- raises 200 to 400
+sphere31 folds
+gatchanajack folds
+-CHATOUNET- folds
+-UgotLittUp- collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 4: -UgotLittUp- won 700
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 3 - HandId: #684014674789793837-41-1464808066 - Holdem no limit (100/200) - 2016/06/01 19:07:46 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #6 is the button
+Seat 1: -CHATOUNET- (11275)
+Seat 2: fabien 77 (16784)
+Seat 3: manggy94 (7150)
+Seat 4: -UgotLittUp- (13037)
+Seat 5: sphere31 (12954)
+Seat 6: gatchanajack (8800)
+*** ANTE/BLINDS ***
+-CHATOUNET- posts small blind 100
+fabien 77 posts big blind 200
+Dealt to manggy94 [7h 3h]
+*** PRE-FLOP *** 
+manggy94 folds
+-UgotLittUp- folds
+sphere31 folds
+gatchanajack folds
+-CHATOUNET- raises 400 to 600
+fabien 77 calls 400
+*** FLOP *** [6d 9c 8h]
+-CHATOUNET- bets 792
+fabien 77 raises 792 to 1584
+-CHATOUNET- calls 792
+*** TURN *** [6d 9c 8h][4d]
+-CHATOUNET- checks
+fabien 77 bets 14600 and is all-in
+-CHATOUNET- folds
+fabien 77 collected 18968 from pot
+*** SUMMARY ***
+Total pot 18968 | No rake
+Board: [6d 9c 8h 4d]
+Seat 2: fabien 77 (big blind) won 18968
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 3 - HandId: #684014674789793837-42-1464808124 - Holdem no limit (100/200) - 2016/06/01 19:08:44 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #1 is the button
+Seat 1: -CHATOUNET- (9091)
+Seat 2: fabien 77 (18968)
+Seat 3: manggy94 (7150)
+Seat 4: -UgotLittUp- (13037)
+Seat 5: sphere31 (12954)
+Seat 6: gatchanajack (8800)
+*** ANTE/BLINDS ***
+fabien 77 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [3d Td]
+*** PRE-FLOP *** 
+-UgotLittUp- raises 200 to 400
+sphere31 calls 400
+gatchanajack folds
+-CHATOUNET- calls 400
+fabien 77 folds
+manggy94 folds
+*** FLOP *** [3c 6c Ks]
+-UgotLittUp- checks
+sphere31 checks
+-CHATOUNET- checks
+*** TURN *** [3c 6c Ks][6h]
+-UgotLittUp- bets 400
+sphere31 folds
+-CHATOUNET- folds
+-UgotLittUp- collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Board: [3c 6c Ks 6h]
+Seat 4: -UgotLittUp- won 1900
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 3 - HandId: #684014674789793837-43-1464808167 - Holdem no limit (100/200) - 2016/06/01 19:09:27 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #2 is the button
+Seat 1: -CHATOUNET- (8691)
+Seat 2: fabien 77 (18868)
+Seat 3: manggy94 (6950)
+Seat 4: -UgotLittUp- (14137)
+Seat 5: sphere31 (12554)
+Seat 6: gatchanajack (8800)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+-UgotLittUp- posts big blind 200
+Dealt to manggy94 [Ah 5s]
+*** PRE-FLOP *** 
+sphere31 raises 200 to 400
+gatchanajack folds
+-CHATOUNET- folds
+fabien 77 raises 800 to 1200
+manggy94 folds
+-UgotLittUp- folds
+sphere31 raises 2400 to 3600
+fabien 77 calls 2400
+*** FLOP *** [Js 9h 8h]
+sphere31 checks
+fabien 77 bets 15268 and is all-in
+sphere31 calls 8954 and is all-in
+*** TURN *** [Js 9h 8h][Ad]
+*** RIVER *** [Js 9h 8h Ad][3c]
+*** SHOW DOWN ***
+sphere31 shows [Ac As] (Trips of Aces)
+fabien 77 shows [Th Jd] (One pair : Jacks)
+fabien 77 collected 6314 from side pot 1
+sphere31 collected 25408 from main pot
+*** SUMMARY ***
+Total pot 31722 | No rake
+Board: [Js 9h 8h Ad 3c]
+Seat 2: fabien 77 (button) showed [Th Jd] and won 6314 with One pair : Jacks
+Seat 5: sphere31 showed [Ac As] and won 25408 with Trips of Aces
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 3 - HandId: #684014674789793837-44-1464808226 - Holdem no limit (100/200) - 2016/06/01 19:10:26 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #3 is the button
+Seat 1: -CHATOUNET- (8691)
+Seat 2: fabien 77 (6314)
+Seat 3: manggy94 (6850)
+Seat 4: -UgotLittUp- (13937)
+Seat 5: sphere31 (25408)
+Seat 6: gatchanajack (8800)
+*** ANTE/BLINDS ***
+-UgotLittUp- posts small blind 100
+sphere31 posts big blind 200
+Dealt to manggy94 [2h 6d]
+*** PRE-FLOP *** 
+gatchanajack folds
+-CHATOUNET- folds
+fabien 77 folds
+manggy94 folds
+-UgotLittUp- folds
+sphere31 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 5: sphere31 (big blind) won 300
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 3 - HandId: #684014674789793837-45-1464808248 - Holdem no limit (100/200) - 2016/06/01 19:10:48 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #4 is the button
+Seat 1: -CHATOUNET- (8691)
+Seat 2: fabien 77 (6314)
+Seat 3: manggy94 (6850)
+Seat 4: -UgotLittUp- (13837)
+Seat 5: sphere31 (25508)
+Seat 6: gatchanajack (8800)
+*** ANTE/BLINDS ***
+sphere31 posts small blind 100
+gatchanajack posts big blind 200
+Dealt to manggy94 [Qh 3c]
+*** PRE-FLOP *** 
+-CHATOUNET- folds
+fabien 77 folds
+manggy94 folds
+-UgotLittUp- folds
+sphere31 calls 100
+gatchanajack checks
+*** FLOP *** [2s Ks 4d]
+sphere31 checks
+gatchanajack bets 200
+sphere31 folds
+gatchanajack collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [2s Ks 4d]
+Seat 6: gatchanajack (big blind) won 600
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 3 - HandId: #684014674789793837-46-1464808286 - Holdem no limit (100/200) - 2016/06/01 19:11:26 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #5 is the button
+Seat 1: -CHATOUNET- (8691)
+Seat 2: fabien 77 (6314)
+Seat 3: manggy94 (6850)
+Seat 4: -UgotLittUp- (13837)
+Seat 5: sphere31 (25308)
+Seat 6: gatchanajack (9000)
+*** ANTE/BLINDS ***
+gatchanajack posts small blind 100
+-CHATOUNET- posts big blind 200
+Dealt to manggy94 [8s Tc]
+*** PRE-FLOP *** 
+fabien 77 raises 6114 to 6314 and is all-in
+manggy94 folds
+-UgotLittUp- folds
+sphere31 folds
+gatchanajack calls 6214
+-CHATOUNET- folds
+*** FLOP *** [2s Jc 8d]
+*** TURN *** [2s Jc 8d][6c]
+*** RIVER *** [2s Jc 8d 6c][9d]
+*** SHOW DOWN ***
+gatchanajack shows [7c 7d] (One pair : 7)
+fabien 77 shows [Js As] (One pair : Jacks)
+fabien 77 collected 12828 from pot
+*** SUMMARY ***
+Total pot 12828 | No rake
+Board: [2s Jc 8d 6c 9d]
+Seat 2: fabien 77 showed [Js As] and won 12828 with One pair : Jacks
+Seat 6: gatchanajack (small blind) showed [7c 7d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 3 - HandId: #684014674789793837-47-1464808323 - Holdem no limit (100/200) - 2016/06/01 19:12:03 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #6 is the button
+Seat 1: -CHATOUNET- (8491)
+Seat 2: fabien 77 (12828)
+Seat 3: manggy94 (6850)
+Seat 4: -UgotLittUp- (13837)
+Seat 5: sphere31 (25308)
+Seat 6: gatchanajack (2686)
+*** ANTE/BLINDS ***
+-CHATOUNET- posts small blind 100
+fabien 77 posts big blind 200
+Dealt to manggy94 [Jd 3c]
+*** PRE-FLOP *** 
+manggy94 folds
+-UgotLittUp- raises 200 to 400
+sphere31 raises 400 to 800
+gatchanajack folds
+-CHATOUNET- folds
+fabien 77 folds
+-UgotLittUp- calls 400
+*** FLOP *** [4c 2c 5s]
+-UgotLittUp- checks
+sphere31 bets 900
+-UgotLittUp- calls 900
+*** TURN *** [4c 2c 5s][Ks]
+-UgotLittUp- checks
+sphere31 checks
+*** RIVER *** [4c 2c 5s Ks][5d]
+-UgotLittUp- checks
+sphere31 checks
+*** SHOW DOWN ***
+-UgotLittUp- shows [8s Ad] (One pair : 5)
+sphere31 shows [Th Tc] (Two pairs : Tens and 5)
+sphere31 collected 3700 from pot
+*** SUMMARY ***
+Total pot 3700 | No rake
+Board: [4c 2c 5s Ks 5d]
+Seat 4: -UgotLittUp- showed [8s Ad] and lost with One pair : 5
+Seat 5: sphere31 showed [Th Tc] and won 3700 with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 3 - HandId: #684014674789793837-48-1464808370 - Holdem no limit (100/200) - 2016/06/01 19:12:50 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #1 is the button
+Seat 1: -CHATOUNET- (8391)
+Seat 2: fabien 77 (12628)
+Seat 3: manggy94 (6850)
+Seat 4: -UgotLittUp- (12137)
+Seat 5: sphere31 (27308)
+Seat 6: gatchanajack (2686)
+*** ANTE/BLINDS ***
+fabien 77 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [9d 7c]
+*** PRE-FLOP *** 
+-UgotLittUp- folds
+sphere31 folds
+gatchanajack folds
+-CHATOUNET- folds
+fabien 77 folds
+manggy94 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: manggy94 (big blind) won 300
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 3 - HandId: #684014674789793837-49-1464808412 - Holdem no limit (100/200) - 2016/06/01 19:13:32 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #2 is the button
+Seat 1: -CHATOUNET- (8391)
+Seat 2: fabien 77 (12528)
+Seat 3: manggy94 (6950)
+Seat 4: -UgotLittUp- (12137)
+Seat 5: sphere31 (27308)
+Seat 6: gatchanajack (2686)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+-UgotLittUp- posts big blind 200
+Dealt to manggy94 [9d Tc]
+*** PRE-FLOP *** 
+sphere31 folds
+gatchanajack folds
+-CHATOUNET- folds
+fabien 77 folds
+manggy94 calls 100
+-UgotLittUp- checks
+*** FLOP *** [Jh Ad 7h]
+manggy94 bets 400
+-UgotLittUp- calls 400
+*** TURN *** [Jh Ad 7h][7d]
+manggy94 checks
+-UgotLittUp- checks
+*** RIVER *** [Jh Ad 7h 7d][2s]
+manggy94 checks
+-UgotLittUp- checks
+*** SHOW DOWN ***
+manggy94 shows [9d Tc] (One pair : 7)
+-UgotLittUp- shows [Ks Td] (One pair : 7)
+-UgotLittUp- collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [Jh Ad 7h 7d 2s]
+Seat 3: manggy94 (small blind) showed [9d Tc] and lost with One pair : 7
+Seat 4: -UgotLittUp- (big blind) showed [Ks Td] and won 1200 with One pair : 7
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 3 - HandId: #684014674789793837-50-1464808496 - Holdem no limit (100/200) - 2016/06/01 19:14:56 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #3 is the button
+Seat 1: -CHATOUNET- (8391)
+Seat 2: fabien 77 (12528)
+Seat 3: manggy94 (6350)
+Seat 4: -UgotLittUp- (12737)
+Seat 5: sphere31 (27308)
+Seat 6: gatchanajack (2686)
+*** ANTE/BLINDS ***
+-UgotLittUp- posts small blind 100
+sphere31 posts big blind 200
+Dealt to manggy94 [Jh 4d]
+*** PRE-FLOP *** 
+gatchanajack folds
+-CHATOUNET- folds
+fabien 77 calls 200
+manggy94 folds
+-UgotLittUp- folds
+sphere31 checks
+*** FLOP *** [2c Ks 4h]
+sphere31 checks
+fabien 77 checks
+*** TURN *** [2c Ks 4h][Qs]
+sphere31 checks
+fabien 77 bets 200
+sphere31 calls 200
+*** RIVER *** [2c Ks 4h Qs][Ah]
+sphere31 checks
+fabien 77 bets 500
+sphere31 folds
+fabien 77 collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Board: [2c Ks 4h Qs Ah]
+Seat 2: fabien 77 won 1400
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 4 - HandId: #684014674789793837-51-1464808552 - Holdem no limit (150/300) - 2016/06/01 19:15:52 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #4 is the button
+Seat 1: -CHATOUNET- (8391)
+Seat 2: fabien 77 (13028)
+Seat 3: manggy94 (6350)
+Seat 4: -UgotLittUp- (12637)
+Seat 5: sphere31 (26908)
+Seat 6: gatchanajack (2686)
+*** ANTE/BLINDS ***
+sphere31 posts small blind 150
+gatchanajack posts big blind 300
+Dealt to manggy94 [4d Js]
+*** PRE-FLOP *** 
+-CHATOUNET- folds
+fabien 77 folds
+manggy94 folds
+-UgotLittUp- raises 300 to 600
+sphere31 folds
+gatchanajack folds
+-UgotLittUp- collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 4: -UgotLittUp- (button) won 1050
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 4 - HandId: #684014674789793837-52-1464808571 - Holdem no limit (150/300) - 2016/06/01 19:16:11 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #5 is the button
+Seat 1: -CHATOUNET- (8391)
+Seat 2: fabien 77 (13028)
+Seat 3: manggy94 (6350)
+Seat 4: -UgotLittUp- (13087)
+Seat 5: sphere31 (26758)
+Seat 6: gatchanajack (2386)
+*** ANTE/BLINDS ***
+gatchanajack posts small blind 150
+-CHATOUNET- posts big blind 300
+Dealt to manggy94 [2c Jc]
+*** PRE-FLOP *** 
+fabien 77 folds
+manggy94 folds
+-UgotLittUp- raises 300 to 600
+sphere31 calls 600
+gatchanajack folds
+-CHATOUNET- calls 300
+*** FLOP *** [Ts 4c Js]
+-CHATOUNET- checks
+-UgotLittUp- checks
+sphere31 checks
+*** TURN *** [Ts 4c Js][9c]
+-CHATOUNET- checks
+-UgotLittUp- checks
+sphere31 checks
+*** RIVER *** [Ts 4c Js 9c][Ah]
+-CHATOUNET- checks
+-UgotLittUp- bets 1307
+sphere31 folds
+-CHATOUNET- folds
+-UgotLittUp- collected 3257 from pot
+*** SUMMARY ***
+Total pot 3257 | No rake
+Board: [Ts 4c Js 9c Ah]
+Seat 4: -UgotLittUp- won 3257
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 4 - HandId: #684014674789793837-53-1464808698 - Holdem no limit (150/300) - 2016/06/01 19:18:18 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #6 is the button
+Seat 1: -CHATOUNET- (7791)
+Seat 2: fabien 77 (13028)
+Seat 3: manggy94 (6350)
+Seat 4: -UgotLittUp- (14437)
+Seat 5: sphere31 (26158)
+Seat 6: gatchanajack (2236)
+*** ANTE/BLINDS ***
+-CHATOUNET- posts small blind 150
+fabien 77 posts big blind 300
+Dealt to manggy94 [6h 4s]
+*** PRE-FLOP *** 
+manggy94 folds
+-UgotLittUp- folds
+sphere31 folds
+gatchanajack folds
+-CHATOUNET- raises 450 to 750
+fabien 77 folds
+-CHATOUNET- collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 1: -CHATOUNET- (small blind) won 1050
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 4 - HandId: #684014674789793837-54-1464808715 - Holdem no limit (150/300) - 2016/06/01 19:18:35 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #1 is the button
+Seat 1: -CHATOUNET- (8091)
+Seat 2: fabien 77 (12728)
+Seat 3: manggy94 (6350)
+Seat 4: -UgotLittUp- (14437)
+Seat 5: sphere31 (26158)
+Seat 6: gatchanajack (2236)
+*** ANTE/BLINDS ***
+fabien 77 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [9d Tc]
+*** PRE-FLOP *** 
+-UgotLittUp- folds
+sphere31 folds
+gatchanajack folds
+-CHATOUNET- folds
+fabien 77 raises 300 to 600
+manggy94 calls 300
+*** FLOP *** [8d Jh Qh]
+fabien 77 checks
+manggy94 checks
+*** TURN *** [8d Jh Qh][6h]
+fabien 77 checks
+manggy94 bets 1200
+fabien 77 folds
+manggy94 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [8d Jh Qh 6h]
+Seat 3: manggy94 (big blind) won 2400
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 4 - HandId: #684014674789793837-55-1464808755 - Holdem no limit (150/300) - 2016/06/01 19:19:15 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #2 is the button
+Seat 1: -CHATOUNET- (8091)
+Seat 2: fabien 77 (12128)
+Seat 3: manggy94 (6950)
+Seat 4: -UgotLittUp- (14437)
+Seat 5: sphere31 (26158)
+Seat 6: gatchanajack (2236)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+-UgotLittUp- posts big blind 300
+Dealt to manggy94 [8d 6h]
+*** PRE-FLOP *** 
+sphere31 folds
+gatchanajack folds
+-CHATOUNET- folds
+fabien 77 raises 750 to 1050
+manggy94 folds
+-UgotLittUp- folds
+fabien 77 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 2: fabien 77 (button) won 1500
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 4 - HandId: #684014674789793837-56-1464808807 - Holdem no limit (150/300) - 2016/06/01 19:20:07 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #3 is the button
+Seat 1: -CHATOUNET- (8091)
+Seat 2: fabien 77 (12578)
+Seat 3: manggy94 (6800)
+Seat 4: -UgotLittUp- (14137)
+Seat 5: sphere31 (26158)
+Seat 6: gatchanajack (2236)
+*** ANTE/BLINDS ***
+-UgotLittUp- posts small blind 150
+sphere31 posts big blind 300
+Dealt to manggy94 [5h Jd]
+*** PRE-FLOP *** 
+gatchanajack folds
+-CHATOUNET- raises 450 to 750
+fabien 77 folds
+manggy94 folds
+-UgotLittUp- folds
+sphere31 folds
+-CHATOUNET- collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Seat 1: -CHATOUNET- won 1200
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 4 - HandId: #684014674789793837-57-1464808856 - Holdem no limit (150/300) - 2016/06/01 19:20:56 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #4 is the button
+Seat 1: -CHATOUNET- (8541)
+Seat 2: fabien 77 (12578)
+Seat 3: manggy94 (6800)
+Seat 4: -UgotLittUp- (13987)
+Seat 5: sphere31 (25858)
+Seat 6: gatchanajack (2236)
+*** ANTE/BLINDS ***
+sphere31 posts small blind 150
+gatchanajack posts big blind 300
+Dealt to manggy94 [2s 4d]
+*** PRE-FLOP *** 
+-CHATOUNET- raises 450 to 750
+fabien 77 folds
+manggy94 folds
+-UgotLittUp- folds
+sphere31 folds
+gatchanajack folds
+-CHATOUNET- collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Seat 1: -CHATOUNET- won 1200
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 4 - HandId: #684014674789793837-58-1464808944 - Holdem no limit (150/300) - 2016/06/01 19:22:24 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #5 is the button
+Seat 1: -CHATOUNET- (8991)
+Seat 2: fabien 77 (12578)
+Seat 3: manggy94 (6800)
+Seat 4: -UgotLittUp- (13987)
+Seat 5: sphere31 (25708)
+Seat 6: gatchanajack (1936)
+*** ANTE/BLINDS ***
+gatchanajack posts small blind 150
+-CHATOUNET- posts big blind 300
+Dealt to manggy94 [3c 8d]
+*** PRE-FLOP *** 
+fabien 77 folds
+manggy94 folds
+-UgotLittUp- folds
+sphere31 folds
+gatchanajack raises 300 to 600
+-CHATOUNET- folds
+gatchanajack collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 6: gatchanajack (small blind) won 900
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 4 - HandId: #684014674789793837-59-1464808973 - Holdem no limit (150/300) - 2016/06/01 19:22:53 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #6 is the button
+Seat 1: -CHATOUNET- (8691)
+Seat 2: fabien 77 (12578)
+Seat 3: manggy94 (6800)
+Seat 4: -UgotLittUp- (13987)
+Seat 5: sphere31 (25708)
+Seat 6: gatchanajack (2236)
+*** ANTE/BLINDS ***
+-CHATOUNET- posts small blind 150
+fabien 77 posts big blind 300
+Dealt to manggy94 [2h 7h]
+*** PRE-FLOP *** 
+manggy94 folds
+-UgotLittUp- folds
+sphere31 folds
+gatchanajack folds
+-CHATOUNET- raises 450 to 750
+fabien 77 calls 450
+*** FLOP *** [7c Qs 4d]
+-CHATOUNET- bets 750
+fabien 77 calls 750
+*** TURN *** [7c Qs 4d][8c]
+-CHATOUNET- checks
+fabien 77 checks
+*** RIVER *** [7c Qs 4d 8c][Td]
+-CHATOUNET- checks
+fabien 77 checks
+*** SHOW DOWN ***
+-CHATOUNET- shows [Jh Ks] (High card : King)
+fabien 77 shows [8d 6d] (One pair : 8)
+fabien 77 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [7c Qs 4d 8c Td]
+Seat 1: -CHATOUNET- (small blind) showed [Jh Ks] and lost with High card : King
+Seat 2: fabien 77 (big blind) showed [8d 6d] and won 3000 with One pair : 8
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 4 - HandId: #684014674789793837-60-1464809043 - Holdem no limit (150/300) - 2016/06/01 19:24:03 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #1 is the button
+Seat 1: -CHATOUNET- (7191)
+Seat 2: fabien 77 (14078)
+Seat 3: manggy94 (6800)
+Seat 4: -UgotLittUp- (13987)
+Seat 5: sphere31 (25708)
+Seat 6: gatchanajack (2236)
+*** ANTE/BLINDS ***
+fabien 77 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [2d Kc]
+*** PRE-FLOP *** 
+-UgotLittUp- folds
+sphere31 raises 750 to 1050
+gatchanajack folds
+-CHATOUNET- folds
+fabien 77 folds
+manggy94 folds
+sphere31 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 5: sphere31 won 1500
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 4 - HandId: #684014674789793837-61-1464809098 - Holdem no limit (150/300) - 2016/06/01 19:24:58 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #2 is the button
+Seat 1: -CHATOUNET- (7191)
+Seat 2: fabien 77 (13928)
+Seat 3: manggy94 (6500)
+Seat 4: -UgotLittUp- (13987)
+Seat 5: sphere31 (26158)
+Seat 6: gatchanajack (2236)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+-UgotLittUp- posts big blind 300
+Dealt to manggy94 [8c As]
+*** PRE-FLOP *** 
+sphere31 folds
+gatchanajack folds
+-CHATOUNET- folds
+fabien 77 folds
+manggy94 calls 150
+-UgotLittUp- checks
+*** FLOP *** [9s Kc 5d]
+manggy94 checks
+-UgotLittUp- checks
+*** TURN *** [9s Kc 5d][4c]
+manggy94 checks
+-UgotLittUp- bets 450
+manggy94 folds
+-UgotLittUp- collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [9s Kc 5d 4c]
+Seat 4: -UgotLittUp- (big blind) won 1050
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 5 - HandId: #684014674789793837-62-1464809136 - Holdem no limit (25/150/300) - 2016/06/01 19:25:36 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #3 is the button
+Seat 1: -CHATOUNET- (7191)
+Seat 2: fabien 77 (13928)
+Seat 3: manggy94 (6200)
+Seat 4: -UgotLittUp- (14287)
+Seat 5: sphere31 (26158)
+Seat 6: gatchanajack (2236)
+*** ANTE/BLINDS ***
+-UgotLittUp- posts ante 25
+sphere31 posts ante 25
+-CHATOUNET- posts ante 25
+fabien 77 posts ante 25
+manggy94 posts ante 25
+gatchanajack posts ante 25
+-UgotLittUp- posts small blind 150
+sphere31 posts big blind 300
+Dealt to manggy94 [Kd 5s]
+*** PRE-FLOP *** 
+gatchanajack folds
+-CHATOUNET- folds
+fabien 77 calls 300
+manggy94 folds
+-UgotLittUp- folds
+sphere31 checks
+*** FLOP *** [5h As 8h]
+sphere31 checks
+fabien 77 bets 300
+sphere31 folds
+fabien 77 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [5h As 8h]
+Seat 2: fabien 77 won 1200
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 5 - HandId: #684014674789793837-63-1464809171 - Holdem no limit (25/150/300) - 2016/06/01 19:26:11 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #4 is the button
+Seat 1: -CHATOUNET- (7166)
+Seat 2: fabien 77 (14503)
+Seat 3: manggy94 (6175)
+Seat 4: -UgotLittUp- (14112)
+Seat 5: sphere31 (25833)
+Seat 6: gatchanajack (2211)
+*** ANTE/BLINDS ***
+sphere31 posts ante 25
+gatchanajack posts ante 25
+-CHATOUNET- posts ante 25
+fabien 77 posts ante 25
+manggy94 posts ante 25
+-UgotLittUp- posts ante 25
+sphere31 posts small blind 150
+gatchanajack posts big blind 300
+Dealt to manggy94 [5d 3c]
+*** PRE-FLOP *** 
+-CHATOUNET- raises 450 to 750
+fabien 77 folds
+manggy94 folds
+-UgotLittUp- folds
+sphere31 folds
+gatchanajack folds
+-CHATOUNET- collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Seat 1: -CHATOUNET- won 1350
+
+
+Winamax Poker - Tournament "POPCORN" buyIn: 0,90€ + 0,90€ + 0,20€ level: 5 - HandId: #684014674789793837-64-1464809217 - Holdem no limit (25/150/300) - 2016/06/01 19:26:57 UTC
+Table: 'POPCORN(159259577)#044' 6-max (real money) Seat #5 is the button
+Seat 1: -CHATOUNET- (7741)
+Seat 2: fabien 77 (14478)
+Seat 3: manggy94 (6150)
+Seat 4: -UgotLittUp- (14087)
+Seat 5: sphere31 (25658)
+Seat 6: gatchanajack (1886)
+*** ANTE/BLINDS ***
+gatchanajack posts ante 25
+-CHATOUNET- posts ante 25
+fabien 77 posts ante 25
+manggy94 posts ante 25
+-UgotLittUp- posts ante 25
+sphere31 posts ante 25
+gatchanajack posts small blind 150
+-CHATOUNET- posts big blind 300
+Dealt to manggy94 [Jc Qc]
+*** PRE-FLOP *** 
+fabien 77 folds
+manggy94 raises 900 to 1200
+-UgotLittUp- folds
+sphere31 raises 1200 to 2400
+gatchanajack folds
+-CHATOUNET- folds
+manggy94 calls 1200
+*** FLOP *** [Qs 9h Td]
+manggy94 bets 3725 and is all-in
+sphere31 calls 3725
+*** TURN *** [Qs 9h Td][3c]
+*** RIVER *** [Qs 9h Td 3c][Ah]
+*** SHOW DOWN ***
+manggy94 shows [Jc Qc] (One pair : Queens)
+sphere31 shows [As Ad] (Trips of Aces)
+sphere31 collected 12850 from pot
+*** SUMMARY ***
+Total pot 12850 | No rake
+Board: [Qs 9h Td 3c Ah]
+Seat 3: manggy94 showed [Jc Qc] and lost with One pair : Queens
+Seat 5: sphere31 (button) showed [As Ad] and won 12850 with Trips of Aces
+
+

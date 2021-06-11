@@ -1,0 +1,473 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #539281775927493046-1-1438961007 - Holdem no limit (15/75/150) - 2015/08/07 15:23:27 UTC
+Table: 'Freeroll(125561323)#437' 9-max (real money) Seat #7 is the button
+Seat 1: manggy94 (3000)
+Seat 2: gmanou34 (3678)
+Seat 3: TORNADO0216 (2680)
+Seat 4: yan08 (7000)
+Seat 5: leroutier48 (6815)
+Seat 6: Tumouche3 (8710)
+Seat 7: tetu37 (5285)
+Seat 8: tiga74 (2615)
+Seat 9: voxroad (2565)
+*** ANTE/BLINDS ***
+tiga74 posts ante 15
+voxroad posts ante 15
+manggy94 posts ante 15
+gmanou34 posts ante 15
+TORNADO0216 posts ante 15
+yan08 posts ante 15
+leroutier48 posts ante 15
+Tumouche3 posts ante 15
+tetu37 posts ante 15
+tiga74 posts small blind 75
+voxroad posts big blind 150
+Dealt to manggy94 [3d 7s]
+*** PRE-FLOP *** 
+manggy94 folds
+gmanou34 folds
+TORNADO0216 folds
+yan08 calls 150
+leroutier48 folds
+Tumouche3 folds
+tetu37 folds
+tiga74 calls 75
+voxroad checks
+*** FLOP *** [2s 4d Ah]
+tiga74 checks
+voxroad checks
+yan08 bets 150
+tiga74 calls 150
+voxroad folds
+*** TURN *** [2s 4d Ah][7d]
+tiga74 bets 225
+yan08 calls 225
+*** RIVER *** [2s 4d Ah 7d][Ts]
+tiga74 bets 525
+yan08 calls 525
+*** SHOW DOWN ***
+yan08 shows [8c 8s] (One pair : 8)
+tiga74 shows [Ac Jc] (One pair : Aces)
+tiga74 collected 2385 from pot
+*** SUMMARY ***
+Total pot 2385 | No rake
+Board: [2s 4d Ah 7d Ts]
+Seat 4: yan08 showed [8c 8s] and lost with One pair : 8
+Seat 8: tiga74 (small blind) showed [Ac Jc] and won 2385 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #539281775927493046-2-1438961192 - Holdem no limit (20/100/200) - 2015/08/07 15:26:32 UTC
+Table: 'Freeroll(125561323)#437' 9-max (real money) Seat #8 is the button
+Seat 1: manggy94 (2985)
+Seat 2: gmanou34 (3663)
+Seat 3: TORNADO0216 (2665)
+Seat 4: yan08 (5935)
+Seat 5: leroutier48 (6800)
+Seat 6: Tumouche3 (8695)
+Seat 7: tetu37 (5270)
+Seat 8: tiga74 (3935)
+Seat 9: voxroad (2400)
+*** ANTE/BLINDS ***
+voxroad posts ante 20
+manggy94 posts ante 20
+gmanou34 posts ante 20
+TORNADO0216 posts ante 20
+yan08 posts ante 20
+leroutier48 posts ante 20
+Tumouche3 posts ante 20
+tetu37 posts ante 20
+tiga74 posts ante 20
+voxroad posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [8h Qs]
+*** PRE-FLOP *** 
+gmanou34 folds
+TORNADO0216 folds
+yan08 raises 400 to 600
+leroutier48 folds
+Tumouche3 folds
+tetu37 folds
+tiga74 folds
+voxroad folds
+manggy94 calls 400
+*** FLOP *** [6s 2c Kc]
+manggy94 checks
+yan08 bets 740
+manggy94 folds
+yan08 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [6s 2c Kc]
+Seat 4: yan08 won 2220
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #539281775927493046-3-1438961236 - Holdem no limit (20/100/200) - 2015/08/07 15:27:16 UTC
+Table: 'Freeroll(125561323)#437' 9-max (real money) Seat #9 is the button
+Seat 1: manggy94 (2365)
+Seat 2: gmanou34 (3643)
+Seat 3: TORNADO0216 (2645)
+Seat 4: yan08 (6795)
+Seat 5: leroutier48 (6780)
+Seat 6: Tumouche3 (8675)
+Seat 7: tetu37 (5250)
+Seat 8: tiga74 (3915)
+Seat 9: voxroad (2280)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+gmanou34 posts ante 20
+TORNADO0216 posts ante 20
+yan08 posts ante 20
+leroutier48 posts ante 20
+Tumouche3 posts ante 20
+tetu37 posts ante 20
+tiga74 posts ante 20
+voxroad posts ante 20
+manggy94 posts small blind 100
+gmanou34 posts big blind 200
+Dealt to manggy94 [Ah 9c]
+*** PRE-FLOP *** 
+TORNADO0216 folds
+yan08 folds
+leroutier48 folds
+Tumouche3 folds
+tetu37 calls 200
+tiga74 calls 200
+voxroad raises 2060 to 2260 and is all-in
+manggy94 folds
+gmanou34 folds
+tetu37 folds
+tiga74 calls 2060
+*** FLOP *** [Jh 2c 5h]
+*** TURN *** [Jh 2c 5h][Qh]
+*** RIVER *** [Jh 2c 5h Qh][As]
+*** SHOW DOWN ***
+tiga74 shows [Js Ts] (One pair : Jacks)
+voxroad shows [2h 2d] (Trips of 2)
+voxroad collected 5200 from pot
+*** SUMMARY ***
+Total pot 5200 | No rake
+Board: [Jh 2c 5h Qh As]
+Seat 8: tiga74 showed [Js Ts] and lost with One pair : Jacks
+Seat 9: voxroad (button) showed [2h 2d] and won 5200 with Trips of 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #539281775927493046-4-1438961314 - Holdem no limit (25/125/250) - 2015/08/07 15:28:34 UTC
+Table: 'Freeroll(125561323)#437' 9-max (real money) Seat #1 is the button
+Seat 1: manggy94 (2245)
+Seat 2: gmanou34 (3423)
+Seat 3: TORNADO0216 (2625)
+Seat 4: yan08 (6775)
+Seat 5: leroutier48 (6760)
+Seat 6: Tumouche3 (8655)
+Seat 7: tetu37 (5030)
+Seat 8: tiga74 (1635)
+Seat 9: voxroad (5200)
+*** ANTE/BLINDS ***
+gmanou34 posts ante 25
+TORNADO0216 posts ante 25
+manggy94 posts ante 25
+yan08 posts ante 25
+leroutier48 posts ante 25
+Tumouche3 posts ante 25
+tetu37 posts ante 25
+tiga74 posts ante 25
+voxroad posts ante 25
+gmanou34 posts small blind 125
+TORNADO0216 posts big blind 250
+Dealt to manggy94 [Qc 7d]
+*** PRE-FLOP *** 
+yan08 folds
+leroutier48 folds
+Tumouche3 folds
+tetu37 folds
+tiga74 calls 250
+voxroad folds
+manggy94 folds
+gmanou34 calls 125
+TORNADO0216 folds
+*** FLOP *** [5d 2s Ad]
+gmanou34 checks
+tiga74 checks
+*** TURN *** [5d 2s Ad][As]
+gmanou34 checks
+tiga74 checks
+*** RIVER *** [5d 2s Ad As][Jc]
+gmanou34 checks
+tiga74 checks
+*** SHOW DOWN ***
+tiga74 shows [8c 9h] (One pair : Aces)
+gmanou34 shows [Tc 6h] (One pair : Aces)
+gmanou34 collected 975 from pot
+*** SUMMARY ***
+Total pot 975 | No rake
+Board: [5d 2s Ad As Jc]
+Seat 2: gmanou34 (small blind) showed [Tc 6h] and won 975 with One pair : Aces
+Seat 8: tiga74 showed [8c 9h] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #539281775927493046-5-1438961362 - Holdem no limit (25/125/250) - 2015/08/07 15:29:22 UTC
+Table: 'Freeroll(125561323)#437' 9-max (real money) Seat #2 is the button
+Seat 1: manggy94 (2220)
+Seat 2: gmanou34 (4123)
+Seat 3: TORNADO0216 (2350)
+Seat 4: yan08 (6750)
+Seat 5: leroutier48 (6735)
+Seat 6: Tumouche3 (8630)
+Seat 7: tetu37 (5005)
+Seat 8: tiga74 (1360)
+Seat 9: voxroad (5175)
+*** ANTE/BLINDS ***
+TORNADO0216 posts ante 25
+yan08 posts ante 25
+manggy94 posts ante 25
+gmanou34 posts ante 25
+leroutier48 posts ante 25
+Tumouche3 posts ante 25
+tetu37 posts ante 25
+tiga74 posts ante 25
+voxroad posts ante 25
+TORNADO0216 posts small blind 125
+yan08 posts big blind 250
+Dealt to manggy94 [7c 9s]
+*** PRE-FLOP *** 
+leroutier48 folds
+Tumouche3 calls 250
+tetu37 calls 250
+tiga74 folds
+voxroad folds
+manggy94 folds
+gmanou34 folds
+TORNADO0216 folds
+yan08 checks
+*** FLOP *** [Jh 6h Ts]
+yan08 checks
+Tumouche3 bets 733
+tetu37 raises 3997 to 4730 and is all-in
+yan08 folds
+Tumouche3 calls 3997
+*** TURN *** [Jh 6h Ts][Jd]
+*** RIVER *** [Jh 6h Ts Jd][Kd]
+*** SHOW DOWN ***
+Tumouche3 shows [7h Kh] (Two pairs : Kings and Jacks)
+tetu37 shows [Qs Js] (Trips of Jacks)
+tetu37 collected 10560 from pot
+*** SUMMARY ***
+Total pot 10560 | No rake
+Board: [Jh 6h Ts Jd Kd]
+Seat 6: Tumouche3 showed [7h Kh] and lost with Two pairs : Kings and Jacks
+Seat 7: tetu37 showed [Qs Js] and won 10560 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #539281775927492758-28-1438961436 - Holdem no limit (35/150/300) - 2015/08/07 15:30:36 UTC
+Table: 'Freeroll(125561323)#149' 9-max (real money) Seat #8 is the button
+Seat 1: Avocate56 (11695)
+Seat 2: h-rico (8115)
+Seat 3: hairred (1628)
+Seat 4: Philma (2365)
+Seat 5: manggy94 (2195)
+Seat 6: iWanna_FuckU (5364)
+Seat 7: TTT31BBB (4412)
+Seat 8: uk subs (6423)
+Seat 9: labarraka (7720)
+*** ANTE/BLINDS ***
+labarraka posts ante 35
+Avocate56 posts ante 35
+h-rico posts ante 35
+hairred posts ante 35
+Philma posts ante 35
+manggy94 posts ante 35
+iWanna_FuckU posts ante 35
+TTT31BBB posts ante 35
+uk subs posts ante 35
+labarraka posts small blind 150
+Avocate56 posts big blind 300
+Dealt to manggy94 [7c Kh]
+*** PRE-FLOP *** 
+h-rico folds
+hairred calls 300
+Philma folds
+manggy94 calls 300
+iWanna_FuckU calls 300
+TTT31BBB calls 300
+uk subs folds
+labarraka folds
+Avocate56 checks
+*** FLOP *** [3h 2s Ts]
+Avocate56 bets 300
+hairred calls 300
+manggy94 folds
+iWanna_FuckU calls 300
+TTT31BBB folds
+*** TURN *** [3h 2s Ts][Qd]
+Avocate56 bets 300
+hairred calls 300
+iWanna_FuckU calls 300
+*** RIVER *** [3h 2s Ts Qd][6c]
+Avocate56 checks
+hairred checks
+iWanna_FuckU checks
+*** SHOW DOWN ***
+Avocate56 shows [7s 9s] (High card : Queen)
+iWanna_FuckU shows [4c Ad] (High card : Ace)
+hairred shows [Ah 9h] (High card : Ace)
+hairred collected 3765 from pot
+*** SUMMARY ***
+Total pot 3765 | No rake
+Board: [3h 2s Ts Qd 6c]
+Seat 1: Avocate56 (big blind) showed [7s 9s] and lost with High card : Queen
+Seat 3: hairred showed [Ah 9h] and won 3765 with High card : Ace
+Seat 6: iWanna_FuckU showed [4c Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #539281775927492761-21-1438961521 - Holdem no limit (35/150/300) - 2015/08/07 15:32:01 UTC
+Table: 'Freeroll(125561323)#152' 9-max (real money) Seat #3 is the button
+Seat 1: manggy94 (1860)
+Seat 2: Manu 4 AS (2460)
+Seat 3: padebol0738 (2405)
+Seat 4: Joudolyon (6499)
+Seat 5: J-LimitLess (7090)
+Seat 6: SEBDURE03 (2125)
+Seat 7: Amandine-38 (12350)
+Seat 8: Sp1deryann (7265)
+Seat 9: Nino1501 (22726)
+*** ANTE/BLINDS ***
+Joudolyon posts ante 35
+J-LimitLess posts ante 35
+manggy94 posts ante 35
+Manu 4 AS posts ante 35
+padebol0738 posts ante 35
+SEBDURE03 posts ante 35
+Amandine-38 posts ante 35
+Sp1deryann posts ante 35
+Nino1501 posts ante 35
+Joudolyon posts small blind 150
+J-LimitLess posts big blind 300
+Dealt to manggy94 [2s Ac]
+*** PRE-FLOP *** 
+SEBDURE03 folds
+Amandine-38 folds
+Sp1deryann calls 300
+Nino1501 folds
+manggy94 calls 300
+Manu 4 AS folds
+padebol0738 raises 900 to 1200
+Joudolyon folds
+J-LimitLess folds
+Sp1deryann calls 900
+manggy94 calls 900
+*** FLOP *** [4s 2c 8h]
+Sp1deryann checks
+manggy94 checks
+padebol0738 bets 1170 and is all-in
+Sp1deryann folds
+manggy94 folds
+padebol0738 collected 5535 from pot
+*** SUMMARY ***
+Total pot 5535 | No rake
+Board: [4s 2c 8h]
+Seat 3: padebol0738 (button) won 5535
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 10 - HandId: #539281775927492761-22-1438961589 - Holdem no limit (35/150/300) - 2015/08/07 15:33:09 UTC
+Table: 'Freeroll(125561323)#152' 9-max (real money) Seat #4 is the button
+Seat 1: manggy94 (625)
+Seat 2: Manu 4 AS (2425)
+Seat 3: padebol0738 (5535)
+Seat 4: Joudolyon (6314)
+Seat 5: J-LimitLess (6755)
+Seat 6: SEBDURE03 (2090)
+Seat 7: Amandine-38 (12315)
+Seat 8: Sp1deryann (6030)
+Seat 9: Nino1501 (22691)
+*** ANTE/BLINDS ***
+J-LimitLess posts ante 35
+SEBDURE03 posts ante 35
+manggy94 posts ante 35
+Manu 4 AS posts ante 35
+padebol0738 posts ante 35
+Joudolyon posts ante 35
+Amandine-38 posts ante 35
+Sp1deryann posts ante 35
+Nino1501 posts ante 35
+J-LimitLess posts small blind 150
+SEBDURE03 posts big blind 300
+Dealt to manggy94 [2h Th]
+*** PRE-FLOP *** 
+Amandine-38 folds
+Sp1deryann calls 300
+Nino1501 calls 300
+manggy94 folds
+Manu 4 AS folds
+padebol0738 folds
+Joudolyon raises 300 to 600
+J-LimitLess folds
+SEBDURE03 folds
+Sp1deryann calls 300
+Nino1501 calls 300
+*** FLOP *** [8s 3h 4s]
+Sp1deryann checks
+Nino1501 bets 300
+Joudolyon calls 300
+Sp1deryann calls 300
+*** TURN *** [8s 3h 4s][Jh]
+Sp1deryann checks
+Nino1501 bets 750
+Joudolyon calls 750
+Sp1deryann folds
+*** RIVER *** [8s 3h 4s Jh][Js]
+Nino1501 bets 1650
+Joudolyon folds
+Nino1501 collected 6615 from pot
+*** SUMMARY ***
+Total pot 6615 | No rake
+Board: [8s 3h 4s Jh Js]
+Seat 9: Nino1501 won 6615
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 11 - HandId: #539281775927492761-23-1438961706 - Holdem no limit (40/200/400) - 2015/08/07 15:35:06 UTC
+Table: 'Freeroll(125561323)#152' 9-max (real money) Seat #5 is the button
+Seat 1: manggy94 (590)
+Seat 3: padebol0738 (5500)
+Seat 4: Joudolyon (4629)
+Seat 5: J-LimitLess (6570)
+Seat 6: SEBDURE03 (1755)
+Seat 7: Amandine-38 (12280)
+Seat 8: Sp1deryann (5095)
+Seat 9: Nino1501 (25971)
+*** ANTE/BLINDS ***
+SEBDURE03 posts ante 40
+Amandine-38 posts ante 40
+manggy94 posts ante 40
+padebol0738 posts ante 40
+Joudolyon posts ante 40
+J-LimitLess posts ante 40
+Sp1deryann posts ante 40
+Nino1501 posts ante 40
+SEBDURE03 posts small blind 200
+Amandine-38 posts big blind 400
+Dealt to manggy94 [6c 8c]
+*** PRE-FLOP *** 
+Sp1deryann folds
+Nino1501 raises 400 to 800
+manggy94 calls 550 and is all-in
+padebol0738 folds
+Joudolyon folds
+J-LimitLess raises 5730 to 6530 and is all-in
+SEBDURE03 folds
+Amandine-38 folds
+Nino1501 calls 5730
+*** FLOP *** [9d 2s 6h]
+*** TURN *** [9d 2s 6h][9s]
+*** RIVER *** [9d 2s 6h 9s][Ah]
+*** SHOW DOWN ***
+manggy94 shows [6c 8c] (Two pairs : 9 and 6)
+Nino1501 shows [Qh Kd] (One pair : 9)
+J-LimitLess shows [7c 7s] (Two pairs : 9 and 7)
+J-LimitLess collected 14530 from pot
+*** SUMMARY ***
+Total pot 14530 | No rake
+Board: [9d 2s 6h 9s Ah]
+Seat 1: manggy94 showed [6c 8c] and lost with Two pairs : 9 and 6
+Seat 5: J-LimitLess (button) showed [7c 7s] and won 14530 with Two pairs : 9 and 7
+Seat 9: Nino1501 showed [Qh Kd] and lost with One pair : 9
+
+

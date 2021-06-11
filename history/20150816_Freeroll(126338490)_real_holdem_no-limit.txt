@@ -1,0 +1,45 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #542619682776023326-1-1439752529 - Holdem no limit (10/20) - 2015/08/16 19:15:29 UTC
+Table: 'Freeroll(126338490)#0285' 9-max (real money) Seat #4 is the button
+Seat 1: moradpsg (3000)
+Seat 2: fuegogtx (3000)
+Seat 3: Murat67500 (3000)
+Seat 4: JULIE_1991 (3000)
+Seat 5: manggy94 (3000)
+Seat 6: sokoman (3000)
+Seat 7: mouscraife (3000)
+Seat 8: nico991 (3000)
+Seat 9: 75-Dabou (3000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+sokoman posts big blind 20
+Dealt to manggy94 [Jd As]
+*** PRE-FLOP *** 
+mouscraife calls 20
+nico991 folds
+75-Dabou calls 20
+moradpsg folds
+fuegogtx raises 80 to 100
+Murat67500 folds
+JULIE_1991 folds
+manggy94 raises 260 to 360
+sokoman folds
+mouscraife folds
+75-Dabou raises 2640 to 3000 and is all-in
+fuegogtx calls 2900 and is all-in
+manggy94 calls 2640 and is all-in
+*** FLOP *** [Ts 9s 7c]
+*** TURN *** [Ts 9s 7c][Jc]
+*** RIVER *** [Ts 9s 7c Jc][2h]
+*** SHOW DOWN ***
+manggy94 shows [Jd As] (One pair : Jacks)
+75-Dabou shows [Ad Kc] (High card : Ace)
+fuegogtx shows [Qs Ks] (Straight King high)
+fuegogtx collected 9040 from pot
+*** SUMMARY ***
+Total pot 9040 | No rake
+Board: [Ts 9s 7c Jc 2h]
+Seat 2: fuegogtx showed [Qs Ks] and won 9040 with Straight King high
+Seat 5: manggy94 (small blind) showed [Jd As] and lost with One pair : Jacks
+Seat 9: 75-Dabou showed [Ad Kc] and lost with High card : Ace
+
+

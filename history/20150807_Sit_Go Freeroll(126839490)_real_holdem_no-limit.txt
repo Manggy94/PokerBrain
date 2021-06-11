@@ -1,0 +1,958 @@
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 0 - HandId: #544771461391319041-1-1438953067 - Holdem no limit (10/20) - 2015/08/07 13:11:07 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #8 is the button
+Seat 1: motony (1500)
+Seat 2: manggy94 (1500)
+Seat 3: wolfman003 (1500)
+Seat 4: MisterA. (1500)
+Seat 5: roc82 (1500)
+Seat 6: cpasdubleuf (1500)
+Seat 7: killflav (1500)
+Seat 8: toffou333 (1500)
+Seat 9: MICKEY3D69 (1500)
+Seat 10: gammagt (1500)
+*** ANTE/BLINDS ***
+MICKEY3D69 posts small blind 10
+gammagt posts big blind 20
+Dealt to manggy94 [Tc 7d]
+*** PRE-FLOP *** 
+motony folds
+manggy94 folds
+wolfman003 calls 20
+MisterA. folds
+roc82 raises 1480 to 1500 and is all-in
+cpasdubleuf folds
+killflav folds
+toffou333 folds
+MICKEY3D69 calls 1490 and is all-in
+gammagt calls 1480 and is all-in
+wolfman003 calls 1480 and is all-in
+*** FLOP *** [Kh 9c 6c]
+*** TURN *** [Kh 9c 6c][5s]
+*** RIVER *** [Kh 9c 6c 5s][Th]
+*** SHOW DOWN ***
+wolfman003 shows [Ks Qc] (One pair : Kings)
+roc82 shows [Kc Js] (One pair : Kings)
+MICKEY3D69 shows [2d Kd] (One pair : Kings)
+gammagt shows [5c 5h] (Trips of 5)
+gammagt collected 6000 from pot
+*** SUMMARY ***
+Total pot 6000 | No rake
+Board: [Kh 9c 6c 5s Th]
+Seat 3: wolfman003 showed [Ks Qc] and lost with One pair : Kings
+Seat 5: roc82 showed [Kc Js] and lost with One pair : Kings
+Seat 9: MICKEY3D69 (small blind) showed [2d Kd] and lost with One pair : Kings
+Seat 10: gammagt (big blind) showed [5c 5h] and won 6000 with Trips of 5
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 0 - HandId: #544771461391319041-2-1438953143 - Holdem no limit (10/20) - 2015/08/07 13:12:23 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #9 is the button
+Seat 1: motony (1500)
+Seat 2: manggy94 (1500)
+Seat 4: MisterA. (1500)
+Seat 6: cpasdubleuf (1500)
+Seat 7: killflav (1500)
+Seat 8: toffou333 (1500)
+Seat 10: gammagt (6000)
+*** ANTE/BLINDS ***
+gammagt posts small blind 10
+motony posts big blind 20
+Dealt to manggy94 [3h 7d]
+*** PRE-FLOP *** 
+manggy94 folds
+MisterA. raises 20 to 40
+cpasdubleuf calls 40
+killflav folds
+toffou333 calls 40
+gammagt calls 30
+motony folds
+*** FLOP *** [7h Ks 9s]
+gammagt checks
+MisterA. checks
+cpasdubleuf checks
+toffou333 checks
+*** TURN *** [7h Ks 9s][5d]
+gammagt checks
+MisterA. bets 20
+cpasdubleuf calls 20
+toffou333 calls 20
+gammagt calls 20
+*** RIVER *** [7h Ks 9s 5d][9d]
+gammagt checks
+MisterA. checks
+cpasdubleuf checks
+toffou333 checks
+*** SHOW DOWN ***
+cpasdubleuf shows [Ad 2d] (One pair : 9)
+toffou333 shows [Qs Jh] (One pair : 9)
+gammagt shows [6c Qc] (One pair : 9)
+MisterA. shows [Jd Js] (Two pairs : Jacks and 9)
+MisterA. collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [7h Ks 9s 5d 9d]
+Seat 4: MisterA. showed [Jd Js] and won 260 with Two pairs : Jacks and 9
+Seat 6: cpasdubleuf showed [Ad 2d] and lost with One pair : 9
+Seat 8: toffou333 showed [Qs Jh] and lost with One pair : 9
+Seat 10: gammagt (small blind) showed [6c Qc] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 0 - HandId: #544771461391319041-3-1438953198 - Holdem no limit (10/20) - 2015/08/07 13:13:18 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #10 is the button
+Seat 1: motony (1480)
+Seat 2: manggy94 (1500)
+Seat 4: MisterA. (1700)
+Seat 6: cpasdubleuf (1440)
+Seat 7: killflav (1500)
+Seat 8: toffou333 (1440)
+Seat 10: gammagt (5940)
+*** ANTE/BLINDS ***
+motony posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [9s Jd]
+*** PRE-FLOP *** 
+MisterA. calls 20
+cpasdubleuf folds
+killflav folds
+toffou333 folds
+gammagt calls 20
+motony folds
+manggy94 checks
+*** FLOP *** [Qd 5d 2s]
+manggy94 checks
+MisterA. bets 20
+gammagt calls 20
+manggy94 folds
+*** TURN *** [Qd 5d 2s][Tc]
+MisterA. checks
+gammagt checks
+*** RIVER *** [Qd 5d 2s Tc][6d]
+MisterA. bets 20
+gammagt calls 20
+*** SHOW DOWN ***
+gammagt shows [8s 8h] (One pair : 8)
+MisterA. shows [Qc 7h] (One pair : Queens)
+MisterA. collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Qd 5d 2s Tc 6d]
+Seat 4: MisterA. showed [Qc 7h] and won 150 with One pair : Queens
+Seat 10: gammagt (button) showed [8s 8h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 1 - HandId: #544771461391319041-4-1438953247 - Holdem no limit (15/30) - 2015/08/07 13:14:07 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #1 is the button
+Seat 1: motony (1470)
+Seat 2: manggy94 (1480)
+Seat 4: MisterA. (1790)
+Seat 6: cpasdubleuf (1440)
+Seat 7: killflav (1500)
+Seat 8: toffou333 (1440)
+Seat 10: gammagt (5880)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+MisterA. posts big blind 30
+Dealt to manggy94 [9d 8d]
+*** PRE-FLOP *** 
+cpasdubleuf calls 30
+killflav folds
+toffou333 folds
+gammagt folds
+motony folds
+manggy94 calls 15
+MisterA. checks
+*** FLOP *** [Jc 5s Qs]
+manggy94 checks
+MisterA. checks
+cpasdubleuf checks
+*** TURN *** [Jc 5s Qs][Ah]
+manggy94 checks
+MisterA. checks
+cpasdubleuf checks
+*** RIVER *** [Jc 5s Qs Ah][5c]
+manggy94 checks
+MisterA. checks
+cpasdubleuf checks
+*** SHOW DOWN ***
+manggy94 shows [9d 8d] (One pair : 5)
+cpasdubleuf shows [7c 2c] (One pair : 5)
+MisterA. shows [8c Jd] (Two pairs : Jacks and 5)
+MisterA. collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Jc 5s Qs Ah 5c]
+Seat 2: manggy94 (small blind) showed [9d 8d] and lost with One pair : 5
+Seat 4: MisterA. (big blind) showed [8c Jd] and won 90 with Two pairs : Jacks and 5
+Seat 6: cpasdubleuf showed [7c 2c] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 1 - HandId: #544771461391319041-5-1438953279 - Holdem no limit (15/30) - 2015/08/07 13:14:39 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #2 is the button
+Seat 1: motony (1470)
+Seat 2: manggy94 (1450)
+Seat 4: MisterA. (1850)
+Seat 6: cpasdubleuf (1410)
+Seat 7: killflav (1500)
+Seat 8: toffou333 (1440)
+Seat 10: gammagt (5880)
+*** ANTE/BLINDS ***
+MisterA. posts small blind 15
+cpasdubleuf posts big blind 30
+Dealt to manggy94 [3c 9c]
+*** PRE-FLOP *** 
+killflav calls 30
+toffou333 folds
+gammagt folds
+motony folds
+manggy94 folds
+MisterA. calls 15
+cpasdubleuf checks
+*** FLOP *** [Ad 5d 2d]
+MisterA. checks
+cpasdubleuf checks
+killflav checks
+*** TURN *** [Ad 5d 2d][2c]
+MisterA. checks
+cpasdubleuf checks
+killflav bets 30
+MisterA. calls 30
+cpasdubleuf calls 30
+*** RIVER *** [Ad 5d 2d 2c][4c]
+MisterA. checks
+cpasdubleuf bets 180
+killflav raises 180 to 360
+MisterA. folds
+cpasdubleuf calls 180
+*** SHOW DOWN ***
+killflav shows [9h 2h] (Trips of 2)
+cpasdubleuf shows [6d 3h] (Straight 6 high)
+cpasdubleuf collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ad 5d 2d 2c 4c]
+Seat 6: cpasdubleuf (big blind) showed [6d 3h] and won 900 with Straight 6 high
+Seat 7: killflav showed [9h 2h] and lost with Trips of 2
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 1 - HandId: #544771461391319041-6-1438953337 - Holdem no limit (15/30) - 2015/08/07 13:15:37 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #4 is the button
+Seat 1: motony (1470)
+Seat 2: manggy94 (1450)
+Seat 4: MisterA. (1790)
+Seat 6: cpasdubleuf (1890)
+Seat 7: killflav (1080)
+Seat 8: toffou333 (1440)
+Seat 10: gammagt (5880)
+*** ANTE/BLINDS ***
+cpasdubleuf posts small blind 15
+killflav posts big blind 30
+Dealt to manggy94 [2c 7c]
+*** PRE-FLOP *** 
+toffou333 raises 75 to 105
+gammagt folds
+motony folds
+manggy94 folds
+MisterA. folds
+cpasdubleuf calls 90
+killflav folds
+*** FLOP *** [5s Ks Jc]
+cpasdubleuf bets 240
+toffou333 raises 400 to 640
+cpasdubleuf raises 1145 to 1785 and is all-in
+toffou333 calls 695 and is all-in
+*** TURN *** [5s Ks Jc][9d]
+*** RIVER *** [5s Ks Jc 9d][8h]
+*** SHOW DOWN ***
+toffou333 shows [Ac Kc] (One pair : Kings)
+cpasdubleuf shows [Kd 4s] (One pair : Kings)
+cpasdubleuf collected 450 from side pot 1
+toffou333 collected 2910 from main pot
+*** SUMMARY ***
+Total pot 3360 | No rake
+Board: [5s Ks Jc 9d 8h]
+Seat 6: cpasdubleuf (small blind) showed [Kd 4s] and won 450 with One pair : Kings
+Seat 8: toffou333 showed [Ac Kc] and won 2910 with One pair : Kings
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 1 - HandId: #544771461391319041-7-1438953377 - Holdem no limit (15/30) - 2015/08/07 13:16:17 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #6 is the button
+Seat 1: motony (1470)
+Seat 2: manggy94 (1450)
+Seat 4: MisterA. (1790)
+Seat 6: cpasdubleuf (450)
+Seat 7: killflav (1050)
+Seat 8: toffou333 (2910)
+Seat 10: gammagt (5880)
+*** ANTE/BLINDS ***
+killflav posts small blind 15
+toffou333 posts big blind 30
+Dealt to manggy94 [7s 6d]
+*** PRE-FLOP *** 
+gammagt folds
+motony folds
+manggy94 folds
+MisterA. calls 30
+cpasdubleuf folds
+killflav calls 15
+toffou333 checks
+*** FLOP *** [Tc 9s 6h]
+killflav checks
+toffou333 checks
+MisterA. checks
+*** TURN *** [Tc 9s 6h][7h]
+killflav checks
+toffou333 checks
+MisterA. bets 54
+killflav folds
+toffou333 folds
+MisterA. collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | No rake
+Board: [Tc 9s 6h 7h]
+Seat 4: MisterA. won 144
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 1 - HandId: #544771461391319041-8-1438953422 - Holdem no limit (15/30) - 2015/08/07 13:17:02 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #7 is the button
+Seat 1: motony (1470)
+Seat 2: manggy94 (1450)
+Seat 4: MisterA. (1850)
+Seat 6: cpasdubleuf (450)
+Seat 7: killflav (1020)
+Seat 8: toffou333 (2880)
+Seat 10: gammagt (5880)
+*** ANTE/BLINDS ***
+toffou333 posts small blind 15
+gammagt posts big blind 30
+Dealt to manggy94 [Js 4s]
+*** PRE-FLOP *** 
+motony folds
+manggy94 calls 30
+MisterA. calls 30
+cpasdubleuf raises 420 to 450 and is all-in
+killflav folds
+toffou333 folds
+gammagt folds
+manggy94 calls 420
+MisterA. folds
+*** FLOP *** [Ks 9d 8h]
+*** TURN *** [Ks 9d 8h][4c]
+*** RIVER *** [Ks 9d 8h 4c][Ad]
+*** SHOW DOWN ***
+cpasdubleuf shows [Qh Td] (High card : Ace)
+manggy94 shows [Js 4s] (One pair : 4)
+manggy94 collected 975 from pot
+*** SUMMARY ***
+Total pot 975 | No rake
+Board: [Ks 9d 8h 4c Ad]
+Seat 2: manggy94 showed [Js 4s] and won 975 with One pair : 4
+Seat 6: cpasdubleuf showed [Qh Td] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 2 - HandId: #544771461391319041-9-1438953447 - Holdem no limit (20/40) - 2015/08/07 13:17:27 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #8 is the button
+Seat 1: motony (1470)
+Seat 2: manggy94 (1975)
+Seat 4: MisterA. (1820)
+Seat 7: killflav (1020)
+Seat 8: toffou333 (2865)
+Seat 10: gammagt (5850)
+*** ANTE/BLINDS ***
+gammagt posts small blind 20
+motony posts big blind 40
+Dealt to manggy94 [5c Qd]
+*** PRE-FLOP *** 
+manggy94 folds
+MisterA. calls 40
+killflav calls 40
+toffou333 folds
+gammagt folds
+motony folds
+*** FLOP *** [4s 3d 3s]
+MisterA. checks
+killflav bets 40
+MisterA. folds
+killflav collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [4s 3d 3s]
+Seat 7: killflav won 180
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 2 - HandId: #544771461391319041-10-1438953480 - Holdem no limit (20/40) - 2015/08/07 13:18:00 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #10 is the button
+Seat 1: motony (1430)
+Seat 2: manggy94 (1975)
+Seat 4: MisterA. (1780)
+Seat 7: killflav (1120)
+Seat 8: toffou333 (2865)
+Seat 10: gammagt (5830)
+*** ANTE/BLINDS ***
+motony posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [Ad 2s]
+*** PRE-FLOP *** 
+MisterA. calls 40
+killflav calls 40
+toffou333 calls 40
+gammagt folds
+motony folds
+manggy94 raises 180 to 220
+MisterA. calls 180
+killflav calls 180
+toffou333 calls 180
+*** FLOP *** [Kh Kd 9d]
+manggy94 checks
+MisterA. checks
+killflav checks
+toffou333 bets 600
+manggy94 folds
+MisterA. folds
+killflav folds
+toffou333 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Kh Kd 9d]
+Seat 8: toffou333 won 1500
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 2 - HandId: #544771461391319041-11-1438953526 - Holdem no limit (20/40) - 2015/08/07 13:18:46 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #1 is the button
+Seat 1: motony (1410)
+Seat 2: manggy94 (1755)
+Seat 4: MisterA. (1560)
+Seat 7: killflav (900)
+Seat 8: toffou333 (3545)
+Seat 10: gammagt (5830)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+MisterA. posts big blind 40
+Dealt to manggy94 [Ah Kd]
+*** PRE-FLOP *** 
+killflav raises 860 to 900 and is all-in
+toffou333 folds
+gammagt folds
+motony folds
+manggy94 calls 880
+MisterA. folds
+*** FLOP *** [Th 2h Kh]
+*** TURN *** [Th 2h Kh][9d]
+*** RIVER *** [Th 2h Kh 9d][8h]
+*** SHOW DOWN ***
+killflav shows [As 3h] (Flush King high)
+manggy94 shows [Ah Kd] (Flush Ace high)
+manggy94 collected 1840 from pot
+*** SUMMARY ***
+Total pot 1840 | No rake
+Board: [Th 2h Kh 9d 8h]
+Seat 2: manggy94 (small blind) showed [Ah Kd] and won 1840 with Flush Ace high
+Seat 7: killflav showed [As 3h] and lost with Flush King high
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 2 - HandId: #544771461391319041-12-1438953546 - Holdem no limit (20/40) - 2015/08/07 13:19:06 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #2 is the button
+Seat 1: motony (1410)
+Seat 2: manggy94 (2695)
+Seat 4: MisterA. (1520)
+Seat 8: toffou333 (3545)
+Seat 10: gammagt (5830)
+*** ANTE/BLINDS ***
+MisterA. posts small blind 20
+toffou333 posts big blind 40
+Dealt to manggy94 [Ac 3c]
+*** PRE-FLOP *** 
+gammagt folds
+motony folds
+manggy94 calls 40
+MisterA. calls 20
+toffou333 checks
+*** FLOP *** [8c 4s Ah]
+MisterA. checks
+toffou333 checks
+manggy94 bets 120
+MisterA. folds
+toffou333 folds
+manggy94 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8c 4s Ah]
+Seat 2: manggy94 (button) won 240
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 2 - HandId: #544771461391319041-13-1438953600 - Holdem no limit (20/40) - 2015/08/07 13:20:00 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #4 is the button
+Seat 1: motony (1410)
+Seat 2: manggy94 (2775)
+Seat 4: MisterA. (1480)
+Seat 8: toffou333 (3505)
+Seat 10: gammagt (5830)
+*** ANTE/BLINDS ***
+toffou333 posts small blind 20
+gammagt posts big blind 40
+Dealt to manggy94 [Qh Kc]
+*** PRE-FLOP *** 
+motony folds
+manggy94 calls 40
+MisterA. folds
+toffou333 folds
+gammagt checks
+*** FLOP *** [6d Jd 9h]
+gammagt checks
+manggy94 bets 100
+gammagt folds
+manggy94 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [6d Jd 9h]
+Seat 2: manggy94 won 200
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 3 - HandId: #544771461391319041-14-1438953633 - Holdem no limit (30/60) - 2015/08/07 13:20:33 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #8 is the button
+Seat 1: motony (1410)
+Seat 2: manggy94 (2835)
+Seat 4: MisterA. (1480)
+Seat 8: toffou333 (3485)
+Seat 10: gammagt (5790)
+*** ANTE/BLINDS ***
+gammagt posts small blind 30
+motony posts big blind 60
+Dealt to manggy94 [Ac 8s]
+*** PRE-FLOP *** 
+manggy94 calls 60
+MisterA. calls 60
+toffou333 folds
+gammagt calls 30
+motony folds
+*** FLOP *** [Ts 7s 6s]
+gammagt checks
+manggy94 bets 240
+MisterA. folds
+gammagt folds
+manggy94 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Ts 7s 6s]
+Seat 2: manggy94 won 480
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 3 - HandId: #544771461391319041-15-1438953682 - Holdem no limit (30/60) - 2015/08/07 13:21:22 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #10 is the button
+Seat 1: motony (1350)
+Seat 2: manggy94 (3015)
+Seat 4: MisterA. (1420)
+Seat 8: toffou333 (3485)
+Seat 10: gammagt (5730)
+*** ANTE/BLINDS ***
+motony posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [3c 5s]
+*** PRE-FLOP *** 
+MisterA. folds
+toffou333 folds
+gammagt folds
+motony folds
+manggy94 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: manggy94 (big blind) won 90
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 3 - HandId: #544771461391319041-16-1438953702 - Holdem no limit (30/60) - 2015/08/07 13:21:42 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #1 is the button
+Seat 1: motony (1320)
+Seat 2: manggy94 (3045)
+Seat 4: MisterA. (1420)
+Seat 8: toffou333 (3485)
+Seat 10: gammagt (5730)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+MisterA. posts big blind 60
+Dealt to manggy94 [Ad 4c]
+*** PRE-FLOP *** 
+toffou333 folds
+gammagt folds
+motony folds
+manggy94 raises 60 to 120
+MisterA. calls 60
+*** FLOP *** [9d 7s 3s]
+manggy94 bets 240
+MisterA. folds
+manggy94 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [9d 7s 3s]
+Seat 2: manggy94 (small blind) won 480
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 3 - HandId: #544771461391319041-17-1438953743 - Holdem no limit (30/60) - 2015/08/07 13:22:23 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #2 is the button
+Seat 1: motony (1320)
+Seat 2: manggy94 (3165)
+Seat 4: MisterA. (1300)
+Seat 8: toffou333 (3485)
+Seat 10: gammagt (5730)
+*** ANTE/BLINDS ***
+MisterA. posts small blind 30
+toffou333 posts big blind 60
+Dealt to manggy94 [7s Ah]
+*** PRE-FLOP *** 
+gammagt folds
+motony folds
+manggy94 calls 60
+MisterA. calls 30
+toffou333 checks
+*** FLOP *** [Kd 6s 3d]
+MisterA. checks
+toffou333 checks
+manggy94 checks
+*** TURN *** [Kd 6s 3d][2h]
+MisterA. checks
+toffou333 checks
+manggy94 bets 180
+MisterA. folds
+toffou333 folds
+manggy94 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Kd 6s 3d 2h]
+Seat 2: manggy94 (button) won 360
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 4 - HandId: #544771461391319041-18-1438953799 - Holdem no limit (40/80) - 2015/08/07 13:23:19 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #4 is the button
+Seat 1: motony (1320)
+Seat 2: manggy94 (3285)
+Seat 4: MisterA. (1240)
+Seat 8: toffou333 (3425)
+Seat 10: gammagt (5730)
+*** ANTE/BLINDS ***
+toffou333 posts small blind 40
+gammagt posts big blind 80
+Dealt to manggy94 [7c 3c]
+*** PRE-FLOP *** 
+motony folds
+manggy94 folds
+MisterA. folds
+toffou333 folds
+gammagt collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 10: gammagt (big blind) won 120
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 4 - HandId: #544771461391319041-19-1438953812 - Holdem no limit (40/80) - 2015/08/07 13:23:32 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #8 is the button
+Seat 1: motony (1320)
+Seat 2: manggy94 (3285)
+Seat 4: MisterA. (1240)
+Seat 8: toffou333 (3385)
+Seat 10: gammagt (5770)
+*** ANTE/BLINDS ***
+gammagt posts small blind 40
+motony posts big blind 80
+Dealt to manggy94 [As 3h]
+*** PRE-FLOP *** 
+manggy94 calls 80
+MisterA. calls 80
+toffou333 folds
+gammagt calls 40
+motony folds
+*** FLOP *** [3c 8s 9d]
+gammagt checks
+manggy94 bets 320
+MisterA. calls 320
+gammagt folds
+*** TURN *** [3c 8s 9d][4d]
+manggy94 bets 960
+MisterA. calls 840 and is all-in
+*** RIVER *** [3c 8s 9d 4d][4c]
+*** SHOW DOWN ***
+MisterA. shows [9s Jc] (Two pairs : 9 and 4)
+manggy94 shows [As 3h] (Two pairs : 4 and 3)
+manggy94 collected 120 from side pot 1
+MisterA. collected 2640 from main pot
+*** SUMMARY ***
+Total pot 2760 | No rake
+Board: [3c 8s 9d 4d 4c]
+Seat 2: manggy94 showed [As 3h] and won 120 with Two pairs : 4 and 3
+Seat 4: MisterA. showed [9s Jc] and won 2640 with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 4 - HandId: #544771461391319041-20-1438953867 - Holdem no limit (40/80) - 2015/08/07 13:24:27 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #10 is the button
+Seat 1: motony (1240)
+Seat 2: manggy94 (2045)
+Seat 4: MisterA. (2640)
+Seat 8: toffou333 (3385)
+Seat 10: gammagt (5690)
+*** ANTE/BLINDS ***
+motony posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [3s 5c]
+*** PRE-FLOP *** 
+MisterA. calls 80
+toffou333 folds
+gammagt folds
+motony folds
+manggy94 checks
+*** FLOP *** [Jc 8c 3c]
+manggy94 bets 1965 and is all-in
+MisterA. folds
+manggy94 collected 2165 from pot
+*** SUMMARY ***
+Total pot 2165 | No rake
+Board: [Jc 8c 3c]
+Seat 2: manggy94 (big blind) won 2165
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 4 - HandId: #544771461391319041-21-1438953910 - Holdem no limit (40/80) - 2015/08/07 13:25:10 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #1 is the button
+Seat 1: motony (1200)
+Seat 2: manggy94 (2165)
+Seat 4: MisterA. (2560)
+Seat 8: toffou333 (3385)
+Seat 10: gammagt (5690)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+MisterA. posts big blind 80
+Dealt to manggy94 [2h 2s]
+*** PRE-FLOP *** 
+toffou333 folds
+gammagt folds
+motony folds
+manggy94 calls 40
+MisterA. checks
+*** FLOP *** [Tc 3d Qh]
+manggy94 checks
+MisterA. checks
+*** TURN *** [Tc 3d Qh][8d]
+manggy94 checks
+MisterA. checks
+*** RIVER *** [Tc 3d Qh 8d][7d]
+manggy94 checks
+MisterA. checks
+*** SHOW DOWN ***
+manggy94 shows [2h 2s] (One pair : 2)
+MisterA. shows [7c As] (One pair : 7)
+MisterA. collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Tc 3d Qh 8d 7d]
+Seat 2: manggy94 (small blind) showed [2h 2s] and lost with One pair : 2
+Seat 4: MisterA. (big blind) showed [7c As] and won 160 with One pair : 7
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 4 - HandId: #544771461391319041-22-1438953938 - Holdem no limit (40/80) - 2015/08/07 13:25:38 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #2 is the button
+Seat 1: motony (1200)
+Seat 2: manggy94 (2085)
+Seat 4: MisterA. (2640)
+Seat 8: toffou333 (3385)
+Seat 10: gammagt (5690)
+*** ANTE/BLINDS ***
+MisterA. posts small blind 40
+toffou333 posts big blind 80
+Dealt to manggy94 [2h 4c]
+*** PRE-FLOP *** 
+gammagt folds
+motony raises 320 to 400
+manggy94 folds
+MisterA. folds
+toffou333 folds
+motony collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 1: motony won 520
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 4 - HandId: #544771461391319041-23-1438953958 - Holdem no limit (40/80) - 2015/08/07 13:25:58 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #4 is the button
+Seat 1: motony (1320)
+Seat 2: manggy94 (2085)
+Seat 4: MisterA. (2600)
+Seat 8: toffou333 (3305)
+Seat 10: gammagt (5690)
+*** ANTE/BLINDS ***
+toffou333 posts small blind 40
+gammagt posts big blind 80
+Dealt to manggy94 [Qd 8d]
+*** PRE-FLOP *** 
+motony raises 80 to 160
+manggy94 raises 80 to 240
+MisterA. folds
+toffou333 folds
+gammagt raises 5450 to 5690 and is all-in
+motony calls 1160 and is all-in
+manggy94 folds
+*** FLOP *** [Ts 7d 9d]
+*** TURN *** [Ts 7d 9d][6d]
+*** RIVER *** [Ts 7d 9d 6d][Jd]
+*** SHOW DOWN ***
+motony shows [2d 2s] (Flush Jack high)
+gammagt shows [Kc Ks] (One pair : Kings)
+gammagt collected 4370 from side pot 1
+motony collected 2920 from main pot
+*** SUMMARY ***
+Total pot 7290 | No rake
+Board: [Ts 7d 9d 6d Jd]
+Seat 1: motony showed [2d 2s] and won 2920 with Flush Jack high
+Seat 10: gammagt (big blind) showed [Kc Ks] and won 4370 with One pair : Kings
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 5 - HandId: #544771461391319041-24-1438953996 - Holdem no limit (60/120) - 2015/08/07 13:26:36 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #8 is the button
+Seat 1: motony (2920)
+Seat 2: manggy94 (1845)
+Seat 4: MisterA. (2600)
+Seat 8: toffou333 (3265)
+Seat 10: gammagt (4370)
+*** ANTE/BLINDS ***
+gammagt posts small blind 60
+motony posts big blind 120
+Dealt to manggy94 [Qd Kc]
+*** PRE-FLOP *** 
+manggy94 raises 1725 to 1845 and is all-in
+MisterA. folds
+toffou333 folds
+gammagt folds
+motony folds
+manggy94 collected 2025 from pot
+*** SUMMARY ***
+Total pot 2025 | No rake
+Seat 2: manggy94 won 2025
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 5 - HandId: #544771461391319041-25-1438954029 - Holdem no limit (60/120) - 2015/08/07 13:27:09 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #10 is the button
+Seat 1: motony (2800)
+Seat 2: manggy94 (2025)
+Seat 4: MisterA. (2600)
+Seat 8: toffou333 (3265)
+Seat 10: gammagt (4310)
+*** ANTE/BLINDS ***
+motony posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [Kd 5c]
+*** PRE-FLOP *** 
+MisterA. calls 120
+toffou333 calls 120
+gammagt folds
+motony folds
+manggy94 checks
+*** FLOP *** [5d 4s 7h]
+manggy94 bets 420
+MisterA. calls 420
+toffou333 folds
+*** TURN *** [5d 4s 7h][2s]
+manggy94 checks
+MisterA. checks
+*** RIVER *** [5d 4s 7h 2s][Jd]
+manggy94 checks
+MisterA. checks
+*** SHOW DOWN ***
+manggy94 shows [Kd 5c] (One pair : 5)
+MisterA. shows [7d 8d] (One pair : 7)
+MisterA. collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Board: [5d 4s 7h 2s Jd]
+Seat 2: manggy94 (big blind) showed [Kd 5c] and lost with One pair : 5
+Seat 4: MisterA. showed [7d 8d] and won 1260 with One pair : 7
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 5 - HandId: #544771461391319041-26-1438954071 - Holdem no limit (60/120) - 2015/08/07 13:27:51 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #1 is the button
+Seat 1: motony (2740)
+Seat 2: manggy94 (1485)
+Seat 4: MisterA. (3320)
+Seat 8: toffou333 (3145)
+Seat 10: gammagt (4310)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 60
+MisterA. posts big blind 120
+Dealt to manggy94 [8s Ts]
+*** PRE-FLOP *** 
+toffou333 folds
+gammagt folds
+motony folds
+manggy94 calls 60
+MisterA. checks
+*** FLOP *** [2c 3c Tc]
+manggy94 checks
+MisterA. checks
+*** TURN *** [2c 3c Tc][4h]
+manggy94 bets 1365 and is all-in
+MisterA. folds
+manggy94 collected 1605 from pot
+*** SUMMARY ***
+Total pot 1605 | No rake
+Board: [2c 3c Tc 4h]
+Seat 2: manggy94 (small blind) won 1605
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 5 - HandId: #544771461391319041-27-1438954098 - Holdem no limit (60/120) - 2015/08/07 13:28:18 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #2 is the button
+Seat 1: motony (2740)
+Seat 2: manggy94 (1605)
+Seat 4: MisterA. (3200)
+Seat 8: toffou333 (3145)
+Seat 10: gammagt (4310)
+*** ANTE/BLINDS ***
+MisterA. posts small blind 60
+toffou333 posts big blind 120
+Dealt to manggy94 [4s 7d]
+*** PRE-FLOP *** 
+gammagt folds
+motony folds
+manggy94 folds
+MisterA. calls 60
+toffou333 checks
+*** FLOP *** [Ah 4h 3s]
+MisterA. checks
+toffou333 checks
+*** TURN *** [Ah 4h 3s][8h]
+MisterA. bets 120
+toffou333 folds
+MisterA. shows [2c 5c] (Straight 5 high)
+MisterA. collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Ah 4h 3s 8h]
+Seat 4: MisterA. (small blind) showed [2c 5c] and won 360 with Straight 5 high
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 6 - HandId: #544771461391319041-28-1438954143 - Holdem no limit (80/160) - 2015/08/07 13:29:03 UTC
+Table: 'Sit&Go Freeroll(126839490)#0' 10-max (real money) Seat #4 is the button
+Seat 1: motony (2740)
+Seat 2: manggy94 (1605)
+Seat 4: MisterA. (3320)
+Seat 8: toffou333 (3025)
+Seat 10: gammagt (4310)
+*** ANTE/BLINDS ***
+toffou333 posts small blind 80
+gammagt posts big blind 160
+Dealt to manggy94 [9s 9d]
+*** PRE-FLOP *** 
+motony raises 160 to 320
+manggy94 raises 880 to 1200
+MisterA. folds
+toffou333 folds
+gammagt folds
+motony calls 880
+*** FLOP *** [3d Jc 7c]
+motony checks
+manggy94 bets 405 and is all-in
+motony calls 405
+*** TURN *** [3d Jc 7c][Qh]
+*** RIVER *** [3d Jc 7c Qh][8c]
+*** SHOW DOWN ***
+manggy94 shows [9s 9d] (One pair : 9)
+motony shows [Tc Jd] (One pair : Jacks)
+motony collected 3450 from pot
+*** SUMMARY ***
+Total pot 3450 | No rake
+Board: [3d Jc 7c Qh 8c]
+Seat 1: motony showed [Tc Jd] and won 3450 with One pair : Jacks
+Seat 2: manggy94 showed [9s 9d] and lost with One pair : 9
+
+

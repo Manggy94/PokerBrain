@@ -1,0 +1,524 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1752508924927410995-4-1606677509 - Holdem no limit (14/60/120) - 2020/11/29 19:18:29 UTC
+Table: 'Freeroll(408037781)#0818' 8-max (real money) Seat #5 is the button
+Seat 1: lovemetable (79836)
+Seat 2: GSA66 (30352)
+Seat 3: dany76620 (19912)
+Seat 4: clajul31 (19812)
+Seat 5: manggy94 (20000)
+Seat 6: confin2Epart (19962)
+Seat 7: javierg112 (20410)
+Seat 8: floflo13 x (30088)
+*** ANTE/BLINDS ***
+javierg112 posts ante 14
+lovemetable posts ante 14
+GSA66 posts ante 14
+dany76620 posts ante 14
+clajul31 posts ante 14
+floflo13 x posts ante 14
+javierg112 posts big blind 120
+*** PRE-FLOP *** 
+floflo13 x folds
+lovemetable calls 120
+GSA66 folds
+dany76620 folds
+clajul31 folds
+javierg112 checks
+*** FLOP *** [5d Jc 4h]
+javierg112 checks
+lovemetable checks
+*** TURN *** [5d Jc 4h][5s]
+javierg112 checks
+lovemetable checks
+*** RIVER *** [5d Jc 4h 5s][2c]
+javierg112 bets 120
+lovemetable raises 282 to 402
+javierg112 folds
+lovemetable collected 846 from pot
+*** SUMMARY ***
+Total pot 846 | No rake
+Board: [5d Jc 4h 5s 2c]
+Seat 1: lovemetable won 846
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1752508924927410995-5-1606677548 - Holdem no limit (14/60/120) - 2020/11/29 19:19:08 UTC
+Table: 'Freeroll(408037781)#0818' 8-max (real money) Seat #6 is the button
+Seat 1: lovemetable (80146)
+Seat 2: GSA66 (30338)
+Seat 3: dany76620 (19898)
+Seat 4: clajul31 (19798)
+Seat 5: manggy94 (20000)
+Seat 6: confin2Epart (19962)
+Seat 7: javierg112 (20156)
+Seat 8: floflo13 x (30074)
+*** ANTE/BLINDS ***
+javierg112 posts ante 14
+floflo13 x posts ante 14
+lovemetable posts ante 14
+GSA66 posts ante 14
+dany76620 posts ante 14
+clajul31 posts ante 14
+manggy94 posts ante 14
+javierg112 posts small blind 60
+floflo13 x posts big blind 120
+Dealt to manggy94 [5h As]
+*** PRE-FLOP *** 
+lovemetable calls 120
+GSA66 folds
+dany76620 calls 120
+clajul31 folds
+manggy94 calls 120
+javierg112 calls 60
+floflo13 x raises 698 to 818
+lovemetable calls 698
+dany76620 calls 698
+manggy94 calls 698
+javierg112 calls 698
+*** FLOP *** [6c 5s 4c]
+javierg112 checks
+floflo13 x bets 120
+lovemetable raises 120 to 240
+dany76620 folds
+manggy94 calls 240
+javierg112 calls 240
+floflo13 x calls 120
+*** TURN *** [6c 5s 4c][7c]
+javierg112 bets 840
+floflo13 x raises 28162 to 29002 and is all-in
+lovemetable folds
+manggy94 folds
+javierg112 calls 18244 and is all-in
+*** RIVER *** [6c 5s 4c 7c][Ah]
+*** SHOW DOWN ***
+javierg112 shows [Jc Tc] (Flush Jack high)
+floflo13 x shows [8h Jh] (Straight 8 high)
+floflo13 x collected 9918 from side pot 1
+javierg112 collected 43316 from main pot
+*** SUMMARY ***
+Total pot 53234 | No rake
+Board: [6c 5s 4c 7c Ah]
+Seat 7: javierg112 (small blind) showed [Jc Tc] and won 43316 with Flush Jack high
+Seat 8: floflo13 x (big blind) showed [8h Jh] and won 9918 with Straight 8 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1752508924927410995-6-1606677614 - Holdem no limit (14/60/120) - 2020/11/29 19:20:14 UTC
+Table: 'Freeroll(408037781)#0818' 8-max (real money) Seat #7 is the button
+Seat 1: lovemetable (79074)
+Seat 2: GSA66 (30324)
+Seat 3: dany76620 (19066)
+Seat 4: clajul31 (19784)
+Seat 5: manggy94 (18928)
+Seat 6: confin2Epart (19962)
+Seat 7: javierg112 (43316)
+Seat 8: floflo13 x (9918)
+*** ANTE/BLINDS ***
+floflo13 x posts ante 14
+lovemetable posts ante 14
+GSA66 posts ante 14
+dany76620 posts ante 14
+clajul31 posts ante 14
+manggy94 posts ante 14
+confin2Epart posts ante 14
+javierg112 posts ante 14
+floflo13 x posts small blind 60
+lovemetable posts big blind 120
+Dealt to manggy94 [Jh 3s]
+*** PRE-FLOP *** 
+GSA66 folds
+dany76620 calls 120
+clajul31 calls 120
+manggy94 folds
+confin2Epart calls 120
+javierg112 folds
+floflo13 x raises 9784 to 9904 and is all-in
+lovemetable folds
+dany76620 raises 9148 to 19052 and is all-in
+clajul31 folds
+confin2Epart folds
+*** FLOP *** [2h Th Qh]
+*** TURN *** [2h Th Qh][2d]
+*** RIVER *** [2h Th Qh 2d][Qs]
+*** SHOW DOWN ***
+dany76620 shows [Js As] (Two pairs : Queens and 2)
+floflo13 x shows [4c Qc] (Full of Queens and 2)
+floflo13 x collected 20280 from main pot
+dany76620 collected 9148 from side pot 1
+*** SUMMARY ***
+Total pot 29428 | No rake
+Board: [2h Th Qh 2d Qs]
+Seat 3: dany76620 showed [Js As] and won 9148 with Two pairs : Queens and 2
+Seat 8: floflo13 x (small blind) showed [4c Qc] and won 20280 with Full of Queens and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1752508924927410995-7-1606677657 - Holdem no limit (16/70/140) - 2020/11/29 19:20:57 UTC
+Table: 'Freeroll(408037781)#0818' 8-max (real money) Seat #8 is the button
+Seat 1: lovemetable (78940)
+Seat 2: GSA66 (30310)
+Seat 3: dany76620 (9148)
+Seat 4: clajul31 (19650)
+Seat 5: manggy94 (18914)
+Seat 6: confin2Epart (19828)
+Seat 7: javierg112 (43302)
+Seat 8: floflo13 x (20280)
+*** ANTE/BLINDS ***
+lovemetable posts ante 16
+GSA66 posts ante 16
+dany76620 posts ante 16
+clajul31 posts ante 16
+manggy94 posts ante 16
+confin2Epart posts ante 16
+javierg112 posts ante 16
+floflo13 x posts ante 16
+lovemetable posts small blind 70
+GSA66 posts big blind 140
+Dealt to manggy94 [Qc Td]
+*** PRE-FLOP *** 
+dany76620 raises 8992 to 9132 and is all-in
+clajul31 folds
+manggy94 folds
+confin2Epart folds
+javierg112 folds
+floflo13 x folds
+lovemetable folds
+GSA66 folds
+dany76620 collected 9470 from pot
+*** SUMMARY ***
+Total pot 9470 | No rake
+Seat 3: dany76620 won 9470
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1752508924927410995-8-1606677719 - Holdem no limit (16/70/140) - 2020/11/29 19:21:59 UTC
+Table: 'Freeroll(408037781)#0818' 8-max (real money) Seat #1 is the button
+Seat 1: lovemetable (78854)
+Seat 2: GSA66 (30154)
+Seat 3: dany76620 (9470)
+Seat 4: clajul31 (19634)
+Seat 5: manggy94 (18898)
+Seat 6: confin2Epart (19812)
+Seat 7: javierg112 (43286)
+Seat 8: floflo13 x (20264)
+*** ANTE/BLINDS ***
+GSA66 posts ante 16
+dany76620 posts ante 16
+lovemetable posts ante 16
+clajul31 posts ante 16
+manggy94 posts ante 16
+confin2Epart posts ante 16
+javierg112 posts ante 16
+floflo13 x posts ante 16
+GSA66 posts small blind 70
+dany76620 posts big blind 140
+Dealt to manggy94 [Ts Th]
+*** PRE-FLOP *** 
+clajul31 folds
+manggy94 raises 280 to 420
+confin2Epart folds
+javierg112 folds
+floflo13 x folds
+lovemetable folds
+GSA66 folds
+dany76620 folds
+manggy94 collected 758 from pot
+*** SUMMARY ***
+Total pot 758 | No rake
+Seat 5: manggy94 won 758
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1752508924927410995-9-1606677746 - Holdem no limit (16/70/140) - 2020/11/29 19:22:26 UTC
+Table: 'Freeroll(408037781)#0818' 8-max (real money) Seat #2 is the button
+Seat 1: lovemetable (78838)
+Seat 2: GSA66 (30068)
+Seat 3: dany76620 (9314)
+Seat 4: clajul31 (19618)
+Seat 5: manggy94 (19220)
+Seat 6: confin2Epart (19796)
+Seat 7: javierg112 (43270)
+Seat 8: floflo13 x (20248)
+*** ANTE/BLINDS ***
+dany76620 posts ante 16
+clajul31 posts ante 16
+lovemetable posts ante 16
+GSA66 posts ante 16
+manggy94 posts ante 16
+confin2Epart posts ante 16
+javierg112 posts ante 16
+floflo13 x posts ante 16
+dany76620 posts small blind 70
+clajul31 posts big blind 140
+Dealt to manggy94 [4h Jh]
+*** PRE-FLOP *** 
+manggy94 folds
+confin2Epart folds
+javierg112 folds
+floflo13 x folds
+lovemetable calls 140
+GSA66 folds
+dany76620 calls 70
+clajul31 checks
+*** FLOP *** [7d 2c 8d]
+dany76620 checks
+clajul31 checks
+lovemetable bets 140
+dany76620 calls 140
+clajul31 calls 140
+*** TURN *** [7d 2c 8d][Tc]
+dany76620 checks
+clajul31 checks
+lovemetable checks
+*** RIVER *** [7d 2c 8d Tc][8h]
+dany76620 bets 140
+clajul31 folds
+lovemetable raises 1248 to 1388
+dany76620 folds
+lovemetable collected 2496 from pot
+*** SUMMARY ***
+Total pot 2496 | No rake
+Board: [7d 2c 8d Tc 8h]
+Seat 1: lovemetable won 2496
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1752508924927410995-10-1606677832 - Holdem no limit (20/80/160) - 2020/11/29 19:23:52 UTC
+Table: 'Freeroll(408037781)#0818' 8-max (real money) Seat #3 is the button
+Seat 1: lovemetable (79650)
+Seat 2: GSA66 (30052)
+Seat 3: dany76620 (8878)
+Seat 4: clajul31 (19322)
+Seat 5: manggy94 (19204)
+Seat 6: confin2Epart (19780)
+Seat 7: javierg112 (43254)
+Seat 8: floflo13 x (20232)
+*** ANTE/BLINDS ***
+clajul31 posts ante 20
+manggy94 posts ante 20
+lovemetable posts ante 20
+GSA66 posts ante 20
+dany76620 posts ante 20
+confin2Epart posts ante 20
+javierg112 posts ante 20
+floflo13 x posts ante 20
+clajul31 posts small blind 80
+manggy94 posts big blind 160
+Dealt to manggy94 [8c 9h]
+*** PRE-FLOP *** 
+confin2Epart folds
+javierg112 folds
+floflo13 x folds
+lovemetable calls 160
+GSA66 folds
+dany76620 raises 8698 to 8858 and is all-in
+clajul31 folds
+manggy94 folds
+lovemetable calls 8698
+*** FLOP *** [7s 5d 2d]
+*** TURN *** [7s 5d 2d][Jd]
+*** RIVER *** [7s 5d 2d Jd][6h]
+*** SHOW DOWN ***
+dany76620 shows [Ad 7h] (One pair : 7)
+lovemetable shows [Jh 6s] (Two pairs : Jacks and 6)
+lovemetable collected 18116 from pot
+*** SUMMARY ***
+Total pot 18116 | No rake
+Board: [7s 5d 2d Jd 6h]
+Seat 1: lovemetable showed [Jh 6s] and won 18116 with Two pairs : Jacks and 6
+Seat 3: dany76620 (button) showed [Ad 7h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1752508924927410995-11-1606677874 - Holdem no limit (20/80/160) - 2020/11/29 19:24:34 UTC
+Table: 'Freeroll(408037781)#0818' 8-max (real money) Seat #4 is the button
+Seat 1: lovemetable (88888)
+Seat 2: GSA66 (30032)
+Seat 3: Carlosafg559 (20000)
+Seat 4: clajul31 (19222)
+Seat 5: manggy94 (19024)
+Seat 6: confin2Epart (19760)
+Seat 7: javierg112 (43234)
+Seat 8: floflo13 x (20212)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+confin2Epart posts ante 20
+lovemetable posts ante 20
+GSA66 posts ante 20
+Carlosafg559 posts ante 20
+clajul31 posts ante 20
+javierg112 posts ante 20
+floflo13 x posts ante 20
+manggy94 posts small blind 80
+confin2Epart posts big blind 160
+Dealt to manggy94 [4s 7h]
+*** PRE-FLOP *** 
+javierg112 folds
+floflo13 x raises 160 to 320
+lovemetable calls 320
+GSA66 folds
+Carlosafg559 calls 320
+clajul31 folds
+manggy94 folds
+confin2Epart calls 160
+*** FLOP *** [Ts 7s 2c]
+confin2Epart checks
+floflo13 x bets 19872 and is all-in
+lovemetable folds
+Carlosafg559 folds
+confin2Epart folds
+floflo13 x collected 21392 from pot
+*** SUMMARY ***
+Total pot 21392 | No rake
+Board: [Ts 7s 2c]
+Seat 8: floflo13 x won 21392
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1752508924927410995-12-1606677918 - Holdem no limit (20/80/160) - 2020/11/29 19:25:18 UTC
+Table: 'Freeroll(408037781)#0818' 8-max (real money) Seat #5 is the button
+Seat 1: lovemetable (88548)
+Seat 2: GSA66 (30012)
+Seat 3: Carlosafg559 (19660)
+Seat 4: clajul31 (19202)
+Seat 5: manggy94 (18924)
+Seat 6: confin2Epart (19420)
+Seat 7: javierg112 (43214)
+Seat 8: floflo13 x (21392)
+*** ANTE/BLINDS ***
+confin2Epart posts ante 20
+javierg112 posts ante 20
+lovemetable posts ante 20
+GSA66 posts ante 20
+Carlosafg559 posts ante 20
+clajul31 posts ante 20
+manggy94 posts ante 20
+floflo13 x posts ante 20
+confin2Epart posts small blind 80
+javierg112 posts big blind 160
+Dealt to manggy94 [6c Ac]
+*** PRE-FLOP *** 
+floflo13 x folds
+lovemetable calls 160
+GSA66 folds
+Carlosafg559 folds
+clajul31 calls 160
+manggy94 raises 320 to 480
+confin2Epart folds
+javierg112 calls 320
+lovemetable calls 320
+clajul31 calls 320
+*** FLOP *** [Qd 7c 9s]
+javierg112 checks
+lovemetable bets 160
+clajul31 calls 160
+manggy94 folds
+javierg112 calls 160
+*** TURN *** [Qd 7c 9s][As]
+javierg112 checks
+lovemetable bets 160
+clajul31 calls 160
+javierg112 calls 160
+*** RIVER *** [Qd 7c 9s As][6d]
+javierg112 checks
+lovemetable bets 160
+clajul31 folds
+javierg112 folds
+lovemetable collected 3280 from pot
+*** SUMMARY ***
+Total pot 3280 | No rake
+Board: [Qd 7c 9s As 6d]
+Seat 1: lovemetable won 3280
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1752508924927410995-13-1606678057 - Holdem no limit (25/100/200) - 2020/11/29 19:27:37 UTC
+Table: 'Freeroll(408037781)#0818' 8-max (real money) Seat #6 is the button
+Seat 1: lovemetable (90848)
+Seat 2: GSA66 (29992)
+Seat 3: Carlosafg559 (19640)
+Seat 4: clajul31 (18382)
+Seat 5: manggy94 (18424)
+Seat 6: confin2Epart (19320)
+Seat 7: javierg112 (42394)
+Seat 8: floflo13 x (21372)
+*** ANTE/BLINDS ***
+javierg112 posts ante 25
+floflo13 x posts ante 25
+lovemetable posts ante 25
+GSA66 posts ante 25
+Carlosafg559 posts ante 25
+clajul31 posts ante 25
+manggy94 posts ante 25
+confin2Epart posts ante 25
+javierg112 posts small blind 100
+floflo13 x posts big blind 200
+Dealt to manggy94 [8s Ks]
+*** PRE-FLOP *** 
+lovemetable raises 200 to 400
+GSA66 folds
+Carlosafg559 calls 400
+clajul31 calls 400
+manggy94 calls 400
+confin2Epart folds
+javierg112 calls 300
+floflo13 x raises 20947 to 21347 and is all-in
+lovemetable calls 20947
+Carlosafg559 folds
+clajul31 folds
+manggy94 folds
+javierg112 folds
+*** FLOP *** [Ts 9d 8c]
+*** TURN *** [Ts 9d 8c][3c]
+*** RIVER *** [Ts 9d 8c 3c][Kc]
+*** SHOW DOWN ***
+lovemetable shows [Qh Ac] (High card : Ace)
+floflo13 x shows [Qs 9s] (One pair : 9)
+floflo13 x collected 44494 from pot
+*** SUMMARY ***
+Total pot 44494 | No rake
+Board: [Ts 9d 8c 3c Kc]
+Seat 1: lovemetable showed [Qh Ac] and lost with High card : Ace
+Seat 8: floflo13 x (big blind) showed [Qs 9s] and won 44494 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1752508924927410995-14-1606678120 - Holdem no limit (30/125/250) - 2020/11/29 19:28:40 UTC
+Table: 'Freeroll(408037781)#0818' 8-max (real money) Seat #7 is the button
+Seat 1: lovemetable (69476)
+Seat 2: GSA66 (29967)
+Seat 3: Carlosafg559 (19215)
+Seat 4: clajul31 (17957)
+Seat 5: manggy94 (17999)
+Seat 6: confin2Epart (19295)
+Seat 7: javierg112 (41969)
+Seat 8: floflo13 x (44494)
+*** ANTE/BLINDS ***
+floflo13 x posts ante 30
+lovemetable posts ante 30
+GSA66 posts ante 30
+Carlosafg559 posts ante 30
+clajul31 posts ante 30
+manggy94 posts ante 30
+confin2Epart posts ante 30
+javierg112 posts ante 30
+floflo13 x posts small blind 125
+lovemetable posts big blind 250
+Dealt to manggy94 [Qd Qc]
+*** PRE-FLOP *** 
+GSA66 folds
+Carlosafg559 calls 250
+clajul31 folds
+manggy94 raises 1115 to 1365
+confin2Epart folds
+javierg112 folds
+floflo13 x folds
+lovemetable raises 68081 to 69446 and is all-in
+Carlosafg559 calls 18935 and is all-in
+manggy94 calls 16604 and is all-in
+*** FLOP *** [Kh Th 6d]
+*** TURN *** [Kh Th 6d][4c]
+*** RIVER *** [Kh Th 6d 4c][2h]
+*** SHOW DOWN ***
+manggy94 shows [Qd Qc] (One pair : Queens)
+lovemetable shows [8d Ac] (High card : Ace)
+Carlosafg559 shows [Kd 9d] (One pair : Kings)
+Carlosafg559 collected 56704 from main pot
+lovemetable collected 50261 from side pot 1
+*** SUMMARY ***
+Total pot 106965 | No rake
+Board: [Kh Th 6d 4c 2h]
+Seat 1: lovemetable (big blind) showed [8d Ac] and won 50261 with High card : Ace
+Seat 3: Carlosafg559 showed [Kd 9d] and won 56704 with One pair : Kings
+Seat 5: manggy94 showed [Qd Qc] and lost with One pair : Queens
+
+

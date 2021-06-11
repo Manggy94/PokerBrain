@@ -1,0 +1,150 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 5 - HandId: #592047686836813834-30-1449067783 - Holdem no limit (25/150/300) - 2015/12/02 14:49:43 UTC
+Table: 'Kill The Fish(137846844)#009' 8-max (real money) Seat #3 is the button
+Seat 1: Dovtutis (7538)
+Seat 2: Broken K-POT (7950)
+Seat 3: fivekiller (7712)
+Seat 4: EspoirPecher (10224)
+Seat 5: HenriBedimot (9900)
+Seat 6: manggy94 (10000)
+Seat 7: Gemo 47 (61051)
+Seat 8: Ste Therese (8475)
+*** ANTE/BLINDS ***
+EspoirPecher posts ante 25
+HenriBedimot posts ante 25
+Dovtutis posts ante 25
+Broken K-POT posts ante 25
+fivekiller posts ante 25
+manggy94 posts ante 25
+Gemo 47 posts ante 25
+Ste Therese posts ante 25
+EspoirPecher posts small blind 150
+HenriBedimot posts big blind 300
+Dealt to manggy94 [Tc 9c]
+*** PRE-FLOP *** 
+manggy94 folds
+Gemo 47 calls 300
+Ste Therese folds
+Dovtutis raises 750 to 1050
+Broken K-POT folds
+fivekiller raises 6637 to 7687 and is all-in
+EspoirPecher folds
+HenriBedimot folds
+Gemo 47 calls 7387
+Dovtutis calls 6463 and is all-in
+*** FLOP *** [Js Ac 4c]
+*** TURN *** [Js Ac 4c][Qs]
+*** RIVER *** [Js Ac 4c Qs][9d]
+*** SHOW DOWN ***
+fivekiller shows [Ks 5d] (High card : Ace)
+Dovtutis shows [Qd Ah] (Two pairs : Aces and Queens)
+Gemo 47 shows [Qc Jc] (Two pairs : Queens and Jacks)
+Gemo 47 collected 348 from side pot 1
+Dovtutis collected 23189 from main pot
+*** SUMMARY ***
+Total pot 23537 | No rake
+Board: [Js Ac 4c Qs 9d]
+Seat 1: Dovtutis showed [Qd Ah] and won 23189 with Two pairs : Aces and Queens
+Seat 3: fivekiller (button) showed [Ks 5d] and lost with High card : Ace
+Seat 7: Gemo 47 showed [Qc Jc] and won 348 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 5 - HandId: #592047686836813834-31-1449067861 - Holdem no limit (25/150/300) - 2015/12/02 14:51:01 UTC
+Table: 'Kill The Fish(137846844)#009' 8-max (real money) Seat #4 is the button
+Seat 1: Dovtutis (23189)
+Seat 2: Broken K-POT (7925)
+Seat 3: jessas14 (10000)
+Seat 4: EspoirPecher (10049)
+Seat 5: HenriBedimot (9575)
+Seat 6: manggy94 (9975)
+Seat 7: Gemo 47 (53687)
+Seat 8: Ste Therese (8450)
+*** ANTE/BLINDS ***
+HenriBedimot posts ante 25
+manggy94 posts ante 25
+Dovtutis posts ante 25
+Broken K-POT posts ante 25
+jessas14 posts ante 25
+EspoirPecher posts ante 25
+Gemo 47 posts ante 25
+Ste Therese posts ante 25
+HenriBedimot posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Qc 2c]
+*** PRE-FLOP *** 
+Gemo 47 folds
+Ste Therese raises 300 to 600
+Dovtutis folds
+Broken K-POT folds
+jessas14 folds
+EspoirPecher folds
+HenriBedimot calls 450
+manggy94 calls 300
+*** FLOP *** [Ad 7d 9c]
+HenriBedimot checks
+manggy94 checks
+Ste Therese bets 2000
+HenriBedimot calls 2000
+manggy94 folds
+*** TURN *** [Ad 7d 9c][8d]
+HenriBedimot checks
+Ste Therese bets 5825 and is all-in
+HenriBedimot calls 5825
+*** RIVER *** [Ad 7d 9c 8d][Jc]
+*** SHOW DOWN ***
+Ste Therese shows [9d Ah] (Two pairs : Aces and 9)
+HenriBedimot shows [5d Qd] (Flush Ace high)
+HenriBedimot collected 17650 from pot
+*** SUMMARY ***
+Total pot 17650 | No rake
+Board: [Ad 7d 9c 8d Jc]
+Seat 5: HenriBedimot (small blind) showed [5d Qd] and won 17650 with Flush Ace high
+Seat 8: Ste Therese showed [9d Ah] and lost with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #592047686836813834-32-1449067951 - Holdem no limit (30/200/400) - 2015/12/02 14:52:31 UTC
+Table: 'Kill The Fish(137846844)#009' 8-max (real money) Seat #5 is the button
+Seat 1: Dovtutis (23164)
+Seat 2: Broken K-POT (7900)
+Seat 3: jessas14 (9975)
+Seat 4: EspoirPecher (10024)
+Seat 5: HenriBedimot (18775)
+Seat 6: manggy94 (9350)
+Seat 7: Gemo 47 (53662)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+Gemo 47 posts ante 30
+Dovtutis posts ante 30
+Broken K-POT posts ante 30
+jessas14 posts ante 30
+EspoirPecher posts ante 30
+HenriBedimot posts ante 30
+manggy94 posts small blind 200
+Gemo 47 posts big blind 400
+Dealt to manggy94 [Qh Js]
+*** PRE-FLOP *** 
+Dovtutis folds
+Broken K-POT folds
+jessas14 folds
+EspoirPecher raises 400 to 800
+HenriBedimot folds
+manggy94 calls 600
+Gemo 47 calls 400
+*** FLOP *** [Jd 5d 4s]
+manggy94 bets 2610
+Gemo 47 calls 2610
+EspoirPecher folds
+*** TURN *** [Jd 5d 4s][5h]
+manggy94 bets 5910 and is all-in
+Gemo 47 calls 5910
+*** RIVER *** [Jd 5d 4s 5h][7c]
+*** SHOW DOWN ***
+manggy94 shows [Qh Js] (Two pairs : Jacks and 5)
+Gemo 47 shows [3s 6s] (Straight 7 high)
+Gemo 47 collected 19650 from pot
+*** SUMMARY ***
+Total pot 19650 | No rake
+Board: [Jd 5d 4s 5h 7c]
+Seat 6: manggy94 (small blind) showed [Qh Js] and lost with Two pairs : Jacks and 5
+Seat 7: Gemo 47 (big blind) showed [3s 6s] and won 19650 with Straight 7 high
+
+

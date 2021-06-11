@@ -1,0 +1,40 @@
+Winamax Poker - Tournament "Hit&Run Ticket 5€" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #689312761762545666-45-1465980096 - Holdem no limit (30/200/400) - 2016/06/15 08:41:36 UTC
+Table: 'Hit&Run Ticket 5€(160493134)#001' 6-max (real money) Seat #2 is the button
+Seat 1: AS A SEIN (14357)
+Seat 2: nixie08 (9924)
+Seat 3: fafa 69 (18327)
+Seat 4: olline33 (39924)
+Seat 5: manggy94 (9000)
+*** ANTE/BLINDS ***
+fafa 69 posts ante 30
+olline33 posts ante 30
+AS A SEIN posts ante 30
+nixie08 posts ante 30
+manggy94 posts ante 30
+fafa 69 posts small blind 200
+olline33 posts big blind 400
+Dealt to manggy94 [9c Ad]
+*** PRE-FLOP *** 
+manggy94 raises 1150 to 1550
+AS A SEIN calls 1550
+nixie08 raises 8344 to 9894 and is all-in
+fafa 69 folds
+olline33 folds
+manggy94 calls 7420 and is all-in
+AS A SEIN calls 8344
+*** FLOP *** [5s 7s 9d]
+*** TURN *** [5s 7s 9d][Jd]
+*** RIVER *** [5s 7s 9d Jd][Td]
+*** SHOW DOWN ***
+AS A SEIN shows [Kd Kc] (One pair : Kings)
+manggy94 shows [9c Ad] (One pair : 9)
+nixie08 shows [Js 9s] (Two pairs : Jacks and 9)
+nixie08 collected 29508 from pot
+*** SUMMARY ***
+Total pot 29508 | No rake
+Board: [5s 7s 9d Jd Td]
+Seat 1: AS A SEIN showed [Kd Kc] and lost with One pair : Kings
+Seat 2: nixie08 (button) showed [Js 9s] and won 29508 with Two pairs : Jacks and 9
+Seat 5: manggy94 showed [9c Ad] and lost with One pair : 9
+
+

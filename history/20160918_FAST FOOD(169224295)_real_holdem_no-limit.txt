@@ -1,0 +1,668 @@
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level:  - HandId: #726812812713656342-2-1474193745 - Holdem no limit (25/50) - 2016/09/18 10:15:45 UTC
+Table: 'FAST FOOD(169224295)#021' 8-max (real money) Seat #3 is the button
+Seat 1: originalpo (8650)
+Seat 2: SABRINHO (10000)
+Seat 3: MadMan26 (11350)
+Seat 4: T.M7 (10000)
+Seat 5: manggy94 (10000)
+Seat 6: BASKAT (10000)
+Seat 7: fra42610 (10000)
+Seat 8: Andreia42 (10000)
+*** ANTE/BLINDS ***
+originalpo posts small blind 25
+SABRINHO posts big blind 50
+*** PRE-FLOP *** 
+MadMan26 calls 50
+originalpo calls 25
+SABRINHO checks
+*** FLOP *** [Th 4c Jd]
+originalpo checks
+SABRINHO checks
+MadMan26 bets 50
+originalpo folds
+SABRINHO folds
+MadMan26 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Th 4c Jd]
+Seat 3: MadMan26 (button) won 200
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level:  - HandId: #726812812713656342-3-1474193769 - Holdem no limit (25/50) - 2016/09/18 10:16:09 UTC
+Table: 'FAST FOOD(169224295)#021' 8-max (real money) Seat #1 is the button
+Seat 1: originalpo (8600)
+Seat 2: SABRINHO (9950)
+Seat 3: MadMan26 (11450)
+Seat 4: T.M7 (10000)
+Seat 5: manggy94 (10000)
+Seat 6: BASKAT (10000)
+Seat 7: fra42610 (10000)
+Seat 8: Andreia42 (10000)
+*** ANTE/BLINDS ***
+SABRINHO posts small blind 25
+MadMan26 posts big blind 50
+Dealt to manggy94 [Jc 7d]
+*** PRE-FLOP *** 
+T.M7 folds
+manggy94 folds
+BASKAT raises 50 to 100
+fra42610 folds
+Andreia42 calls 100
+originalpo calls 100
+SABRINHO calls 75
+MadMan26 calls 50
+*** FLOP *** [6h Qc Qs]
+SABRINHO checks
+MadMan26 bets 75
+BASKAT raises 488 to 563
+Andreia42 folds
+originalpo folds
+SABRINHO folds
+MadMan26 folds
+BASKAT collected 1138 from pot
+*** SUMMARY ***
+Total pot 1138 | No rake
+Board: [6h Qc Qs]
+Seat 6: BASKAT won 1138
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level:  - HandId: #726812812713656342-4-1474193843 - Holdem no limit (25/50) - 2016/09/18 10:17:23 UTC
+Table: 'FAST FOOD(169224295)#021' 8-max (real money) Seat #2 is the button
+Seat 1: originalpo (8500)
+Seat 2: SABRINHO (9850)
+Seat 3: MadMan26 (11275)
+Seat 4: T.M7 (10000)
+Seat 5: manggy94 (10000)
+Seat 6: BASKAT (10475)
+Seat 7: fra42610 (10000)
+Seat 8: Andreia42 (9900)
+*** ANTE/BLINDS ***
+MadMan26 posts small blind 25
+T.M7 posts big blind 50
+Dealt to manggy94 [Qs 7h]
+*** PRE-FLOP *** 
+manggy94 folds
+BASKAT folds
+fra42610 folds
+Andreia42 folds
+originalpo folds
+SABRINHO raises 150 to 200
+MadMan26 calls 175
+T.M7 calls 150
+*** FLOP *** [Ts Ks Qc]
+MadMan26 checks
+T.M7 checks
+SABRINHO bets 300
+MadMan26 calls 300
+T.M7 calls 300
+*** TURN *** [Ts Ks Qc][8h]
+MadMan26 checks
+T.M7 checks
+SABRINHO bets 1125
+MadMan26 folds
+T.M7 calls 1125
+*** RIVER *** [Ts Ks Qc 8h][Js]
+T.M7 bets 650
+SABRINHO calls 650
+*** SHOW DOWN ***
+T.M7 shows [Kc 2c] (One pair : Kings)
+SABRINHO shows [8c Jc] (Two pairs : Jacks and 8)
+SABRINHO collected 5050 from pot
+*** SUMMARY ***
+Total pot 5050 | No rake
+Board: [Ts Ks Qc 8h Js]
+Seat 2: SABRINHO (button) showed [8c Jc] and won 5050 with Two pairs : Jacks and 8
+Seat 4: T.M7 (big blind) showed [Kc 2c] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #726812812713656342-5-1474193953 - Holdem no limit (50/100) - 2016/09/18 10:19:13 UTC
+Table: 'FAST FOOD(169224295)#021' 8-max (real money) Seat #3 is the button
+Seat 1: originalpo (8500)
+Seat 2: SABRINHO (12625)
+Seat 3: MadMan26 (10775)
+Seat 4: T.M7 (7725)
+Seat 5: manggy94 (10000)
+Seat 6: BASKAT (10475)
+Seat 7: fra42610 (10000)
+Seat 8: Andreia42 (9900)
+*** ANTE/BLINDS ***
+T.M7 posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [Qd 6s]
+*** PRE-FLOP *** 
+BASKAT calls 100
+fra42610 folds
+Andreia42 calls 100
+originalpo folds
+SABRINHO raises 400 to 500
+MadMan26 folds
+T.M7 folds
+manggy94 folds
+BASKAT calls 400
+Andreia42 raises 9400 to 9900 and is all-in
+SABRINHO raises 2725 to 12625 and is all-in
+BASKAT folds
+*** FLOP *** [5h 7c Ah]
+*** TURN *** [5h 7c Ah][4d]
+*** RIVER *** [5h 7c Ah 4d][6d]
+*** SHOW DOWN ***
+SABRINHO shows [Jc Jd] (One pair : Jacks)
+Andreia42 shows [Ad As] (Trips of Aces)
+Andreia42 collected 20450 from main pot
+SABRINHO collected 2725 from side pot 1
+*** SUMMARY ***
+Total pot 23175 | No rake
+Board: [5h 7c Ah 4d 6d]
+Seat 2: SABRINHO showed [Jc Jd] and won 2725 with One pair : Jacks
+Seat 8: Andreia42 showed [Ad As] and won 20450 with Trips of Aces
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #726812812713656342-6-1474194048 - Holdem no limit (50/100) - 2016/09/18 10:20:48 UTC
+Table: 'FAST FOOD(169224295)#021' 8-max (real money) Seat #4 is the button
+Seat 1: originalpo (8500)
+Seat 2: SABRINHO (2725)
+Seat 3: MadMan26 (10775)
+Seat 4: T.M7 (7675)
+Seat 5: manggy94 (9900)
+Seat 6: BASKAT (9975)
+Seat 7: fra42610 (10000)
+Seat 8: Andreia42 (20450)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 50
+BASKAT posts big blind 100
+Dealt to manggy94 [Kd Qd]
+*** PRE-FLOP *** 
+fra42610 folds
+Andreia42 folds
+originalpo folds
+SABRINHO raises 2625 to 2725 and is all-in
+MadMan26 calls 2725
+T.M7 raises 4950 to 7675 and is all-in
+manggy94 calls 7625
+BASKAT folds
+MadMan26 raises 3100 to 10775 and is all-in
+manggy94 calls 2225 and is all-in
+*** FLOP *** [Th 5h Jh]
+*** TURN *** [Th 5h Jh][Qs]
+*** RIVER *** [Th 5h Jh Qs][9h]
+*** SHOW DOWN ***
+SABRINHO shows [6s 7h] (Flush Jack high)
+T.M7 shows [Ts As] (One pair : Tens)
+manggy94 shows [Kd Qd] (Straight King high)
+MadMan26 shows [8d 8h] (Flush Jack high)
+MadMan26 collected 31175 from pot
+*** SUMMARY ***
+Total pot 31175 | No rake
+Board: [Th 5h Jh Qs 9h]
+Seat 2: SABRINHO showed [6s 7h] and lost with Flush Jack high
+Seat 3: MadMan26 showed [8d 8h] and won 31175 with Flush Jack high
+Seat 4: T.M7 (button) showed [Ts As] and lost with One pair : Tens
+Seat 5: manggy94 (small blind) showed [Kd Qd] and lost with Straight King high
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #726812812713656351-5-1474194103 - Holdem no limit (75/150) - 2016/09/18 10:21:43 UTC
+Table: 'FAST FOOD(169224295)#030' 8-max (real money) Seat #3 is the button
+Seat 1: GFC_Aiacciu7 (17900)
+Seat 2: manggy94 (10000)
+Seat 3: el cancer (9850)
+Seat 4: --Dark_Bat-- (9900)
+Seat 5: manchaft (9600)
+Seat 6: Namikaze14 (10000)
+Seat 7: Le_CaRisTe (10050)
+Seat 8: PORTO21200 (12700)
+*** ANTE/BLINDS ***
+--Dark_Bat-- posts small blind 75
+manchaft posts big blind 150
+Dealt to manggy94 [2d Qs]
+*** PRE-FLOP *** 
+Namikaze14 folds
+Le_CaRisTe folds
+PORTO21200 raises 150 to 300
+GFC_Aiacciu7 folds
+manggy94 folds
+el cancer raises 825 to 1125
+--Dark_Bat-- folds
+manchaft folds
+PORTO21200 raises 825 to 1950
+el cancer calls 825
+*** FLOP *** [Qh Kh Jd]
+PORTO21200 bets 150
+el cancer raises 7750 to 7900 and is all-in
+PORTO21200 raises 2850 to 10750 and is all-in
+*** TURN *** [Qh Kh Jd][2h]
+*** RIVER *** [Qh Kh Jd 2h][Jh]
+*** SHOW DOWN ***
+el cancer shows [Ah 8h] (Flush Ace high)
+PORTO21200 shows [Ad Ks] (Two pairs : Kings and Jacks)
+PORTO21200 collected 2850 from side pot 1
+el cancer collected 19925 from main pot
+*** SUMMARY ***
+Total pot 22775 | No rake
+Board: [Qh Kh Jd 2h Jh]
+Seat 3: el cancer (button) showed [Ah 8h] and won 19925 with Flush Ace high
+Seat 8: PORTO21200 showed [Ad Ks] and won 2850 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #726812812713656351-6-1474194163 - Holdem no limit (75/150) - 2016/09/18 10:22:43 UTC
+Table: 'FAST FOOD(169224295)#030' 8-max (real money) Seat #4 is the button
+Seat 1: GFC_Aiacciu7 (17900)
+Seat 2: manggy94 (10000)
+Seat 3: el cancer (19925)
+Seat 4: --Dark_Bat-- (9825)
+Seat 5: manchaft (9450)
+Seat 6: Namikaze14 (10000)
+Seat 7: Le_CaRisTe (10050)
+Seat 8: PORTO21200 (2850)
+*** ANTE/BLINDS ***
+manchaft posts small blind 75
+Namikaze14 posts big blind 150
+Dealt to manggy94 [Ks Jd]
+*** PRE-FLOP *** 
+Le_CaRisTe folds
+PORTO21200 folds
+GFC_Aiacciu7 folds
+manggy94 calls 150
+el cancer folds
+--Dark_Bat-- folds
+manchaft raises 600 to 750
+Namikaze14 folds
+manggy94 calls 600
+*** FLOP *** [6c 2c 6d]
+manchaft bets 1650
+manggy94 folds
+manchaft collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Board: [6c 2c 6d]
+Seat 5: manchaft (small blind) won 3300
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #726812812713656351-7-1474194210 - Holdem no limit (75/150) - 2016/09/18 10:23:30 UTC
+Table: 'FAST FOOD(169224295)#030' 8-max (real money) Seat #5 is the button
+Seat 1: GFC_Aiacciu7 (17900)
+Seat 2: manggy94 (9250)
+Seat 3: el cancer (19925)
+Seat 4: --Dark_Bat-- (9825)
+Seat 5: manchaft (10350)
+Seat 6: Namikaze14 (9850)
+Seat 7: Le_CaRisTe (10050)
+Seat 8: PORTO21200 (2850)
+*** ANTE/BLINDS ***
+Namikaze14 posts small blind 75
+Le_CaRisTe posts big blind 150
+Dealt to manggy94 [2d Kd]
+*** PRE-FLOP *** 
+PORTO21200 raises 150 to 300
+GFC_Aiacciu7 folds
+manggy94 folds
+el cancer folds
+--Dark_Bat-- folds
+manchaft calls 300
+Namikaze14 calls 225
+Le_CaRisTe folds
+*** FLOP *** [Tc 6c 9s]
+Namikaze14 checks
+PORTO21200 bets 2550 and is all-in
+manchaft calls 2550
+Namikaze14 folds
+*** TURN *** [Tc 6c 9s][8d]
+*** RIVER *** [Tc 6c 9s 8d][3d]
+*** SHOW DOWN ***
+PORTO21200 shows [6h 8h] (Two pairs : 8 and 6)
+manchaft shows [7d 6d] (Straight Ten high)
+manchaft collected 6150 from pot
+*** SUMMARY ***
+Total pot 6150 | No rake
+Board: [Tc 6c 9s 8d 3d]
+Seat 5: manchaft (button) showed [7d 6d] and won 6150 with Straight Ten high
+Seat 8: PORTO21200 showed [6h 8h] and lost with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #726812812713656351-8-1474194304 - Holdem no limit (100/200) - 2016/09/18 10:25:04 UTC
+Table: 'FAST FOOD(169224295)#030' 8-max (real money) Seat #6 is the button
+Seat 1: GFC_Aiacciu7 (17900)
+Seat 2: manggy94 (9250)
+Seat 3: el cancer (19925)
+Seat 4: --Dark_Bat-- (9825)
+Seat 5: manchaft (13650)
+Seat 6: Namikaze14 (9550)
+Seat 7: Le_CaRisTe (9900)
+*** ANTE/BLINDS ***
+Le_CaRisTe posts small blind 100
+GFC_Aiacciu7 posts big blind 200
+Dealt to manggy94 [Qc Kh]
+*** PRE-FLOP *** 
+manggy94 raises 200 to 400
+el cancer calls 400
+--Dark_Bat-- folds
+manchaft folds
+Namikaze14 raises 800 to 1200
+Le_CaRisTe folds
+GFC_Aiacciu7 folds
+manggy94 calls 800
+el cancer calls 800
+*** FLOP *** [Ac Td Tc]
+manggy94 checks
+el cancer checks
+Namikaze14 bets 2150
+manggy94 folds
+el cancer calls 2150
+*** TURN *** [Ac Td Tc][Jc]
+el cancer checks
+Namikaze14 bets 1025
+el cancer calls 1025
+*** RIVER *** [Ac Td Tc Jc][3h]
+el cancer checks
+Namikaze14 bets 5175 and is all-in
+el cancer folds
+Namikaze14 collected 15425 from pot
+*** SUMMARY ***
+Total pot 15425 | No rake
+Board: [Ac Td Tc Jc 3h]
+Seat 6: Namikaze14 (button) won 15425
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #726812812713656351-9-1474194477 - Holdem no limit (150/300) - 2016/09/18 10:27:57 UTC
+Table: 'FAST FOOD(169224295)#030' 8-max (real money) Seat #7 is the button
+Seat 1: GFC_Aiacciu7 (17700)
+Seat 2: manggy94 (8050)
+Seat 3: el cancer (15550)
+Seat 4: --Dark_Bat-- (9825)
+Seat 5: manchaft (13650)
+Seat 6: Namikaze14 (15425)
+Seat 7: Le_CaRisTe (9800)
+Seat 8: KKouAsAs (10000)
+*** ANTE/BLINDS ***
+GFC_Aiacciu7 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [6h 2s]
+*** PRE-FLOP *** 
+el cancer raises 750 to 1050
+--Dark_Bat-- folds
+manchaft folds
+Namikaze14 calls 1050
+Le_CaRisTe calls 1050
+GFC_Aiacciu7 folds
+manggy94 folds
+*** FLOP *** [Qd Ad 4d]
+el cancer bets 3600
+Namikaze14 calls 3600
+Le_CaRisTe folds
+*** TURN *** [Qd Ad 4d][9s]
+el cancer bets 10900 and is all-in
+Namikaze14 folds
+el cancer collected 21700 from pot
+*** SUMMARY ***
+Total pot 21700 | No rake
+Board: [Qd Ad 4d 9s]
+Seat 3: el cancer won 21700
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #726812812713656351-10-1474194541 - Holdem no limit (150/300) - 2016/09/18 10:29:01 UTC
+Table: 'FAST FOOD(169224295)#030' 8-max (real money) Seat #1 is the button
+Seat 1: GFC_Aiacciu7 (17550)
+Seat 2: manggy94 (7750)
+Seat 3: el cancer (21700)
+Seat 4: --Dark_Bat-- (9825)
+Seat 5: manchaft (13650)
+Seat 6: Namikaze14 (10775)
+Seat 7: Le_CaRisTe (8750)
+Seat 8: KKouAsAs (10000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+el cancer posts big blind 300
+Dealt to manggy94 [Ks 4s]
+*** PRE-FLOP *** 
+--Dark_Bat-- folds
+manchaft folds
+Namikaze14 folds
+Le_CaRisTe folds
+KKouAsAs folds
+GFC_Aiacciu7 folds
+manggy94 calls 150
+el cancer checks
+*** FLOP *** [6c Qc Qd]
+manggy94 checks
+el cancer checks
+*** TURN *** [6c Qc Qd][2h]
+manggy94 bets 300
+el cancer folds
+manggy94 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6c Qc Qd 2h]
+Seat 2: manggy94 (small blind) won 900
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #726812812713656351-11-1474194585 - Holdem no limit (150/300) - 2016/09/18 10:29:45 UTC
+Table: 'FAST FOOD(169224295)#030' 8-max (real money) Seat #2 is the button
+Seat 1: GFC_Aiacciu7 (17550)
+Seat 2: manggy94 (8050)
+Seat 3: el cancer (21400)
+Seat 4: --Dark_Bat-- (9825)
+Seat 5: manchaft (13650)
+Seat 6: Namikaze14 (10775)
+Seat 7: Le_CaRisTe (8750)
+Seat 8: KKouAsAs (10000)
+*** ANTE/BLINDS ***
+el cancer posts small blind 150
+--Dark_Bat-- posts big blind 300
+Dealt to manggy94 [5d 6h]
+*** PRE-FLOP *** 
+manchaft calls 300
+Namikaze14 folds
+Le_CaRisTe folds
+KKouAsAs folds
+GFC_Aiacciu7 raises 300 to 600
+manggy94 folds
+el cancer folds
+--Dark_Bat-- folds
+manchaft calls 300
+*** FLOP *** [Kc 9h 5h]
+manchaft checks
+GFC_Aiacciu7 bets 1650
+manchaft calls 1650
+*** TURN *** [Kc 9h 5h][6c]
+manchaft checks
+GFC_Aiacciu7 checks
+*** RIVER *** [Kc 9h 5h 6c][As]
+manchaft checks
+GFC_Aiacciu7 checks
+*** SHOW DOWN ***
+manchaft shows [Th 8h] (High card : Ace)
+GFC_Aiacciu7 shows [2d Ad] (One pair : Aces)
+GFC_Aiacciu7 collected 4950 from pot
+*** SUMMARY ***
+Total pot 4950 | No rake
+Board: [Kc 9h 5h 6c As]
+Seat 1: GFC_Aiacciu7 showed [2d Ad] and won 4950 with One pair : Aces
+Seat 5: manchaft showed [Th 8h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #726812812713656351-12-1474194658 - Holdem no limit (25/150/300) - 2016/09/18 10:30:58 UTC
+Table: 'FAST FOOD(169224295)#030' 8-max (real money) Seat #3 is the button
+Seat 1: GFC_Aiacciu7 (20250)
+Seat 2: manggy94 (8050)
+Seat 3: el cancer (21250)
+Seat 4: --Dark_Bat-- (9525)
+Seat 5: manchaft (11400)
+Seat 6: Namikaze14 (10775)
+Seat 7: Le_CaRisTe (8750)
+Seat 8: KKouAsAs (10000)
+*** ANTE/BLINDS ***
+--Dark_Bat-- posts ante 25
+manchaft posts ante 25
+GFC_Aiacciu7 posts ante 25
+manggy94 posts ante 25
+el cancer posts ante 25
+Namikaze14 posts ante 25
+Le_CaRisTe posts ante 25
+KKouAsAs posts ante 25
+--Dark_Bat-- posts small blind 150
+manchaft posts big blind 300
+Dealt to manggy94 [2c 5c]
+*** PRE-FLOP *** 
+Namikaze14 folds
+Le_CaRisTe raises 300 to 600
+KKouAsAs folds
+GFC_Aiacciu7 folds
+manggy94 folds
+el cancer raises 2100 to 2700
+--Dark_Bat-- folds
+manchaft folds
+Le_CaRisTe folds
+el cancer collected 3950 from pot
+*** SUMMARY ***
+Total pot 3950 | No rake
+Seat 3: el cancer (button) won 3950
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #726812812713656351-13-1474194704 - Holdem no limit (25/150/300) - 2016/09/18 10:31:44 UTC
+Table: 'FAST FOOD(169224295)#030' 8-max (real money) Seat #4 is the button
+Seat 1: GFC_Aiacciu7 (20225)
+Seat 2: manggy94 (8025)
+Seat 3: el cancer (22475)
+Seat 4: --Dark_Bat-- (9350)
+Seat 5: manchaft (11075)
+Seat 6: Namikaze14 (10750)
+Seat 7: Le_CaRisTe (8125)
+Seat 8: KKouAsAs (9975)
+*** ANTE/BLINDS ***
+manchaft posts ante 25
+Namikaze14 posts ante 25
+GFC_Aiacciu7 posts ante 25
+manggy94 posts ante 25
+el cancer posts ante 25
+--Dark_Bat-- posts ante 25
+Le_CaRisTe posts ante 25
+KKouAsAs posts ante 25
+manchaft posts small blind 150
+Namikaze14 posts big blind 300
+Dealt to manggy94 [As 6c]
+*** PRE-FLOP *** 
+Le_CaRisTe folds
+KKouAsAs raises 300 to 600
+GFC_Aiacciu7 calls 600
+manggy94 folds
+el cancer calls 600
+--Dark_Bat-- folds
+manchaft calls 450
+Namikaze14 calls 300
+*** FLOP *** [3d 6d 8c]
+manchaft checks
+Namikaze14 checks
+KKouAsAs bets 750
+GFC_Aiacciu7 folds
+el cancer calls 750
+manchaft calls 750
+Namikaze14 calls 750
+*** TURN *** [3d 6d 8c][Qs]
+manchaft checks
+Namikaze14 checks
+KKouAsAs bets 3100
+el cancer folds
+manchaft calls 3100
+Namikaze14 raises 6275 to 9375 and is all-in
+KKouAsAs folds
+manchaft folds
+Namikaze14 collected 21775 from pot
+*** SUMMARY ***
+Total pot 21775 | No rake
+Board: [3d 6d 8c Qs]
+Seat 6: Namikaze14 (big blind) won 21775
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #726812812713656351-14-1474194852 - Holdem no limit (30/200/400) - 2016/09/18 10:34:12 UTC
+Table: 'FAST FOOD(169224295)#030' 8-max (real money) Seat #5 is the button
+Seat 1: GFC_Aiacciu7 (19600)
+Seat 2: manggy94 (8000)
+Seat 3: el cancer (21100)
+Seat 4: --Dark_Bat-- (9325)
+Seat 5: manchaft (6600)
+Seat 6: Namikaze14 (21775)
+Seat 7: Le_CaRisTe (8100)
+Seat 8: KKouAsAs (5500)
+*** ANTE/BLINDS ***
+Namikaze14 posts ante 30
+Le_CaRisTe posts ante 30
+GFC_Aiacciu7 posts ante 30
+manggy94 posts ante 30
+el cancer posts ante 30
+--Dark_Bat-- posts ante 30
+manchaft posts ante 30
+KKouAsAs posts ante 30
+Namikaze14 posts small blind 200
+Le_CaRisTe posts big blind 400
+Dealt to manggy94 [Qh Tc]
+*** PRE-FLOP *** 
+KKouAsAs folds
+GFC_Aiacciu7 raises 800 to 1200
+manggy94 folds
+el cancer folds
+--Dark_Bat-- calls 1200
+manchaft calls 1200
+Namikaze14 folds
+Le_CaRisTe folds
+*** FLOP *** [Jh Qs 8h]
+GFC_Aiacciu7 checks
+--Dark_Bat-- bets 2200
+manchaft raises 3170 to 5370 and is all-in
+GFC_Aiacciu7 folds
+--Dark_Bat-- calls 3170
+*** TURN *** [Jh Qs 8h][Kc]
+*** RIVER *** [Jh Qs 8h Kc][Ts]
+*** SHOW DOWN ***
+manchaft shows [9d Qc] (Straight King high)
+--Dark_Bat-- shows [4s Ah] (Straight Ace high)
+--Dark_Bat-- collected 15180 from pot
+*** SUMMARY ***
+Total pot 15180 | No rake
+Board: [Jh Qs 8h Kc Ts]
+Seat 4: --Dark_Bat-- showed [4s Ah] and won 15180 with Straight Ace high
+Seat 5: manchaft (button) showed [9d Qc] and lost with Straight King high
+
+
+Winamax Poker - Tournament "FAST FOOD" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #726812812713656351-15-1474194924 - Holdem no limit (30/200/400) - 2016/09/18 10:35:24 UTC
+Table: 'FAST FOOD(169224295)#030' 8-max (real money) Seat #6 is the button
+Seat 1: GFC_Aiacciu7 (18370)
+Seat 2: manggy94 (7970)
+Seat 3: el cancer (21070)
+Seat 4: --Dark_Bat-- (17905)
+Seat 6: Namikaze14 (21545)
+Seat 7: Le_CaRisTe (7670)
+Seat 8: KKouAsAs (5470)
+*** ANTE/BLINDS ***
+Le_CaRisTe posts ante 30
+KKouAsAs posts ante 30
+GFC_Aiacciu7 posts ante 30
+manggy94 posts ante 30
+el cancer posts ante 30
+--Dark_Bat-- posts ante 30
+Namikaze14 posts ante 30
+Le_CaRisTe posts small blind 200
+KKouAsAs posts big blind 400
+Dealt to manggy94 [3d 3h]
+*** PRE-FLOP *** 
+GFC_Aiacciu7 folds
+manggy94 raises 400 to 800
+el cancer raises 3200 to 4000
+--Dark_Bat-- folds
+Namikaze14 folds
+Le_CaRisTe folds
+KKouAsAs folds
+manggy94 raises 3940 to 7940 and is all-in
+el cancer calls 3940
+*** FLOP *** [7d 6c 9c]
+*** TURN *** [7d 6c 9c][Kd]
+*** RIVER *** [7d 6c 9c Kd][8h]
+*** SHOW DOWN ***
+manggy94 shows [3d 3h] (One pair : 3)
+el cancer shows [Ks As] (One pair : Kings)
+el cancer collected 16690 from pot
+*** SUMMARY ***
+Total pot 16690 | No rake
+Board: [7d 6c 9c Kd 8h]
+Seat 2: manggy94 showed [3d 3h] and lost with One pair : 3
+Seat 3: el cancer showed [Ks As] and won 16690 with One pair : Kings
+
+

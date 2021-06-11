@@ -1,0 +1,842 @@
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 1 - HandId: #654222642731024398-2-1459106327 - Holdem no limit (50/100) - 2016/03/27 19:18:47 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #6 is the button
+Seat 2: PtitKoklicot (10000)
+Seat 3: lanfranchi (10583)
+Seat 5: &oulia& (10000)
+Seat 6: cyanouche (9417)
+Seat 7: manggy94 (10000)
+*** ANTE/BLINDS ***
+lanfranchi posts small blind 50
+&oulia& posts big blind 100
+*** PRE-FLOP *** 
+cyanouche folds
+lanfranchi folds
+&oulia& collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 5: &oulia& (big blind) won 150
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 1 - HandId: #654222642731024398-3-1459106334 - Holdem no limit (50/100) - 2016/03/27 19:18:54 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #3 is the button
+Seat 2: PtitKoklicot (10000)
+Seat 3: lanfranchi (10533)
+Seat 5: &oulia& (10050)
+Seat 6: cyanouche (9417)
+Seat 7: manggy94 (10000)
+*** ANTE/BLINDS ***
+&oulia& posts small blind 50
+cyanouche posts big blind 100
+Dealt to manggy94 [8h 2h]
+*** PRE-FLOP *** 
+manggy94 folds
+PtitKoklicot folds
+lanfranchi folds
+&oulia& folds
+cyanouche collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 6: cyanouche (big blind) won 150
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 1 - HandId: #654222642731024398-4-1459106347 - Holdem no limit (50/100) - 2016/03/27 19:19:07 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #5 is the button
+Seat 1: MITOSYL... (10000)
+Seat 2: PtitKoklicot (10000)
+Seat 3: lanfranchi (10533)
+Seat 5: &oulia& (10000)
+Seat 6: cyanouche (9467)
+Seat 7: manggy94 (10000)
+Seat 8: Demoa (10000)
+*** ANTE/BLINDS ***
+cyanouche posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [Tc Kh]
+*** PRE-FLOP *** 
+Demoa folds
+MITOSYL... raises 100 to 200
+PtitKoklicot folds
+lanfranchi raises 400 to 600
+&oulia& folds
+cyanouche folds
+manggy94 calls 500
+MITOSYL... raises 9400 to 10000 and is all-in
+lanfranchi folds
+manggy94 folds
+MITOSYL... collected 11250 from pot
+*** SUMMARY ***
+Total pot 11250 | No rake
+Seat 1: MITOSYL... won 11250
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 1 - HandId: #654222642731024398-5-1459106389 - Holdem no limit (50/100) - 2016/03/27 19:19:49 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #6 is the button
+Seat 2: PtitKoklicot (10000)
+Seat 3: lanfranchi (9933)
+Seat 4: zefyrai (10000)
+Seat 5: &oulia& (10000)
+Seat 6: cyanouche (9417)
+Seat 7: manggy94 (9400)
+Seat 8: Demoa (10000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 50
+Demoa posts big blind 100
+Dealt to manggy94 [5h 3h]
+*** PRE-FLOP *** 
+PtitKoklicot folds
+lanfranchi raises 100 to 200
+zefyrai folds
+&oulia& calls 200
+cyanouche folds
+manggy94 folds
+Demoa calls 100
+*** FLOP *** [8c 2h Js]
+Demoa checks
+lanfranchi bets 325
+&oulia& calls 325
+Demoa folds
+*** TURN *** [8c 2h Js][3s]
+lanfranchi checks
+&oulia& bets 1300
+lanfranchi calls 1300
+*** RIVER *** [8c 2h Js 3s][6s]
+lanfranchi checks
+&oulia& checks
+*** SHOW DOWN ***
+&oulia& shows [Qd Jc] (One pair : Jacks)
+lanfranchi shows [8s As] (Flush Ace high)
+lanfranchi collected 3900 from pot
+*** SUMMARY ***
+Total pot 3900 | No rake
+Board: [8c 2h Js 3s 6s]
+Seat 3: lanfranchi showed [8s As] and won 3900 with Flush Ace high
+Seat 5: &oulia& showed [Qd Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 2 - HandId: #654222642731024398-6-1459106486 - Holdem no limit (75/150) - 2016/03/27 19:21:26 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #7 is the button
+Seat 1: Nemo592 (10000)
+Seat 2: PtitKoklicot (10000)
+Seat 3: lanfranchi (12008)
+Seat 4: zefyrai (10000)
+Seat 5: &oulia& (8175)
+Seat 6: cyanouche (9417)
+Seat 7: manggy94 (9350)
+Seat 8: Demoa (9800)
+*** ANTE/BLINDS ***
+Demoa posts small blind 75
+Nemo592 posts big blind 150
+Dealt to manggy94 [2s Jc]
+*** PRE-FLOP *** 
+PtitKoklicot folds
+lanfranchi raises 300 to 450
+zefyrai folds
+&oulia& folds
+cyanouche folds
+manggy94 folds
+Demoa folds
+Nemo592 folds
+lanfranchi collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | No rake
+Seat 3: lanfranchi won 675
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 2 - HandId: #654222642731024398-7-1459106528 - Holdem no limit (75/150) - 2016/03/27 19:22:08 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #8 is the button
+Seat 1: Nemo592 (9850)
+Seat 2: PtitKoklicot (10000)
+Seat 3: lanfranchi (12233)
+Seat 4: zefyrai (10000)
+Seat 5: &oulia& (8175)
+Seat 6: cyanouche (9417)
+Seat 7: manggy94 (9350)
+Seat 8: Demoa (9725)
+*** ANTE/BLINDS ***
+Nemo592 posts small blind 75
+PtitKoklicot posts big blind 150
+Dealt to manggy94 [2h 9d]
+*** PRE-FLOP *** 
+lanfranchi folds
+zefyrai folds
+&oulia& folds
+cyanouche folds
+manggy94 folds
+Demoa calls 150
+Nemo592 folds
+PtitKoklicot checks
+*** FLOP *** [3d Jh As]
+PtitKoklicot checks
+Demoa checks
+*** TURN *** [3d Jh As][6h]
+PtitKoklicot checks
+Demoa checks
+*** RIVER *** [3d Jh As 6h][4c]
+PtitKoklicot checks
+Demoa checks
+*** SHOW DOWN ***
+Demoa shows [Tc 9s] (High card : Ace)
+PtitKoklicot shows [7d Jd] (One pair : Jacks)
+PtitKoklicot collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [3d Jh As 6h 4c]
+Seat 2: PtitKoklicot (big blind) showed [7d Jd] and won 375 with One pair : Jacks
+Seat 8: Demoa (button) showed [Tc 9s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 2 - HandId: #654222642731024398-8-1459106596 - Holdem no limit (75/150) - 2016/03/27 19:23:16 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #1 is the button
+Seat 1: Nemo592 (9775)
+Seat 2: PtitKoklicot (10225)
+Seat 3: lanfranchi (12233)
+Seat 4: zefyrai (10000)
+Seat 5: &oulia& (8175)
+Seat 6: cyanouche (9417)
+Seat 7: manggy94 (9350)
+Seat 8: Demoa (9575)
+*** ANTE/BLINDS ***
+PtitKoklicot posts small blind 75
+lanfranchi posts big blind 150
+Dealt to manggy94 [7s Td]
+*** PRE-FLOP *** 
+zefyrai folds
+&oulia& folds
+cyanouche folds
+manggy94 folds
+Demoa folds
+Nemo592 folds
+PtitKoklicot folds
+lanfranchi collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Seat 3: lanfranchi (big blind) won 225
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 2 - HandId: #654222642731024398-9-1459106611 - Holdem no limit (75/150) - 2016/03/27 19:23:31 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #2 is the button
+Seat 1: Nemo592 (9775)
+Seat 2: PtitKoklicot (10150)
+Seat 3: lanfranchi (12308)
+Seat 4: zefyrai (10000)
+Seat 5: &oulia& (8175)
+Seat 6: cyanouche (9417)
+Seat 7: manggy94 (9350)
+Seat 8: Demoa (9575)
+*** ANTE/BLINDS ***
+lanfranchi posts small blind 75
+zefyrai posts big blind 150
+Dealt to manggy94 [As Tc]
+*** PRE-FLOP *** 
+&oulia& raises 8025 to 8175 and is all-in
+cyanouche folds
+manggy94 calls 8175
+Demoa folds
+Nemo592 folds
+PtitKoklicot folds
+lanfranchi folds
+zefyrai folds
+*** FLOP *** [5c 3s 2d]
+*** TURN *** [5c 3s 2d][8d]
+*** RIVER *** [5c 3s 2d 8d][8c]
+*** SHOW DOWN ***
+manggy94 shows [As Tc] (One pair : 8)
+&oulia& shows [Qh Ad] (One pair : 8)
+&oulia& collected 16575 from pot
+*** SUMMARY ***
+Total pot 16575 | No rake
+Board: [5c 3s 2d 8d 8c]
+Seat 5: &oulia& showed [Qh Ad] and won 16575 with One pair : 8
+Seat 7: manggy94 showed [As Tc] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 3 - HandId: #654222642731024398-10-1459106652 - Holdem no limit (100/200) - 2016/03/27 19:24:12 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #3 is the button
+Seat 1: Nemo592 (9775)
+Seat 2: PtitKoklicot (10150)
+Seat 3: lanfranchi (12233)
+Seat 4: zefyrai (9850)
+Seat 5: &oulia& (16575)
+Seat 6: cyanouche (9417)
+Seat 7: manggy94 (1175)
+Seat 8: Demoa (9575)
+*** ANTE/BLINDS ***
+zefyrai posts small blind 100
+&oulia& posts big blind 200
+Dealt to manggy94 [9c 9h]
+*** PRE-FLOP *** 
+cyanouche folds
+manggy94 raises 975 to 1175 and is all-in
+Demoa folds
+Nemo592 folds
+PtitKoklicot folds
+lanfranchi calls 1175
+zefyrai folds
+&oulia& folds
+*** FLOP *** [2s Ts 7h]
+*** TURN *** [2s Ts 7h][Jd]
+*** RIVER *** [2s Ts 7h Jd][3h]
+*** SHOW DOWN ***
+lanfranchi shows [Ad 5c] (High card : Ace)
+manggy94 shows [9c 9h] (One pair : 9)
+manggy94 collected 2650 from pot
+*** SUMMARY ***
+Total pot 2650 | No rake
+Board: [2s Ts 7h Jd 3h]
+Seat 3: lanfranchi (button) showed [Ad 5c] and lost with High card : Ace
+Seat 7: manggy94 showed [9c 9h] and won 2650 with One pair : 9
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 3 - HandId: #654222642731024398-11-1459106696 - Holdem no limit (100/200) - 2016/03/27 19:24:56 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #4 is the button
+Seat 1: Nemo592 (9775)
+Seat 2: PtitKoklicot (10150)
+Seat 3: lanfranchi (11058)
+Seat 4: zefyrai (9750)
+Seat 5: &oulia& (16375)
+Seat 6: cyanouche (9417)
+Seat 7: manggy94 (2650)
+Seat 8: Demoa (9575)
+*** ANTE/BLINDS ***
+&oulia& posts small blind 100
+cyanouche posts big blind 200
+Dealt to manggy94 [9d Td]
+*** PRE-FLOP *** 
+manggy94 folds
+Demoa calls 200
+Nemo592 folds
+PtitKoklicot folds
+lanfranchi calls 200
+zefyrai calls 200
+&oulia& calls 100
+cyanouche checks
+*** FLOP *** [Kd 4s 3s]
+&oulia& checks
+cyanouche checks
+Demoa checks
+lanfranchi checks
+zefyrai bets 420
+&oulia& calls 420
+cyanouche folds
+Demoa calls 420
+lanfranchi folds
+*** TURN *** [Kd 4s 3s][Qs]
+&oulia& checks
+Demoa checks
+zefyrai checks
+*** RIVER *** [Kd 4s 3s Qs][6s]
+&oulia& checks
+Demoa checks
+zefyrai checks
+*** SHOW DOWN ***
+zefyrai shows [5h 5s] (Flush Queen high)
+Demoa shows [3h Ad] (One pair : 3)
+&oulia& shows [7s 2s] (Flush Queen high)
+&oulia& collected 2260 from pot
+*** SUMMARY ***
+Total pot 2260 | No rake
+Board: [Kd 4s 3s Qs 6s]
+Seat 4: zefyrai (button) showed [5h 5s] and lost with Flush Queen high
+Seat 5: &oulia& (small blind) showed [7s 2s] and won 2260 with Flush Queen high
+Seat 8: Demoa showed [3h Ad] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 3 - HandId: #654222642731024398-12-1459106804 - Holdem no limit (100/200) - 2016/03/27 19:26:44 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #5 is the button
+Seat 1: Nemo592 (9775)
+Seat 2: PtitKoklicot (10150)
+Seat 3: lanfranchi (10858)
+Seat 4: zefyrai (9130)
+Seat 5: &oulia& (18015)
+Seat 6: cyanouche (9217)
+Seat 7: manggy94 (2650)
+Seat 8: Demoa (8955)
+*** ANTE/BLINDS ***
+cyanouche posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [5h 9c]
+*** PRE-FLOP *** 
+Demoa folds
+Nemo592 calls 200
+PtitKoklicot folds
+lanfranchi folds
+zefyrai folds
+&oulia& calls 200
+cyanouche calls 100
+manggy94 checks
+*** FLOP *** [8s Ks 5d]
+cyanouche checks
+manggy94 checks
+Nemo592 bets 300
+&oulia& folds
+cyanouche folds
+manggy94 calls 300
+*** TURN *** [8s Ks 5d][2h]
+manggy94 checks
+Nemo592 bets 600
+manggy94 folds
+Nemo592 collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | No rake
+Board: [8s Ks 5d 2h]
+Seat 1: Nemo592 won 2000
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 4 - HandId: #654222642731024398-13-1459106864 - Holdem no limit (150/300) - 2016/03/27 19:27:44 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #6 is the button
+Seat 1: Nemo592 (10675)
+Seat 2: PtitKoklicot (10150)
+Seat 3: lanfranchi (10858)
+Seat 4: zefyrai (9130)
+Seat 5: &oulia& (17815)
+Seat 6: cyanouche (9017)
+Seat 7: manggy94 (2150)
+Seat 8: Demoa (8955)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+Demoa posts big blind 300
+Dealt to manggy94 [Ac 4c]
+*** PRE-FLOP *** 
+Nemo592 folds
+PtitKoklicot folds
+lanfranchi folds
+zefyrai folds
+&oulia& folds
+cyanouche folds
+manggy94 raises 1850 to 2150 and is all-in
+Demoa calls 1850
+*** FLOP *** [7h Jd 6d]
+*** TURN *** [7h Jd 6d][9h]
+*** RIVER *** [7h Jd 6d 9h][8c]
+*** SHOW DOWN ***
+Demoa shows [4d 3d] (High card : Jack)
+manggy94 shows [Ac 4c] (High card : Ace)
+manggy94 collected 4300 from pot
+*** SUMMARY ***
+Total pot 4300 | No rake
+Board: [7h Jd 6d 9h 8c]
+Seat 7: manggy94 (small blind) showed [Ac 4c] and won 4300 with High card : Ace
+Seat 8: Demoa (big blind) showed [4d 3d] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 4 - HandId: #654222642731024398-14-1459106905 - Holdem no limit (150/300) - 2016/03/27 19:28:25 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #7 is the button
+Seat 1: Nemo592 (10675)
+Seat 2: PtitKoklicot (10150)
+Seat 3: lanfranchi (10858)
+Seat 4: zefyrai (9130)
+Seat 5: &oulia& (17815)
+Seat 6: cyanouche (9017)
+Seat 7: manggy94 (4300)
+Seat 8: Demoa (6805)
+*** ANTE/BLINDS ***
+Demoa posts small blind 150
+Nemo592 posts big blind 300
+Dealt to manggy94 [8h Jc]
+*** PRE-FLOP *** 
+PtitKoklicot folds
+lanfranchi folds
+zefyrai folds
+&oulia& calls 300
+cyanouche folds
+manggy94 folds
+Demoa folds
+Nemo592 checks
+*** FLOP *** [5h 8c 3c]
+Nemo592 bets 300
+&oulia& calls 300
+*** TURN *** [5h 8c 3c][4s]
+Nemo592 bets 300
+&oulia& calls 300
+*** RIVER *** [5h 8c 3c 4s][9s]
+Nemo592 checks
+&oulia& checks
+*** SHOW DOWN ***
+Nemo592 shows [7c Tc] (High card : Ten)
+&oulia& shows [Kd 6d] (High card : King)
+&oulia& collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | No rake
+Board: [5h 8c 3c 4s 9s]
+Seat 1: Nemo592 (big blind) showed [7c Tc] and lost with High card : Ten
+Seat 5: &oulia& showed [Kd 6d] and won 1950 with High card : King
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 4 - HandId: #654222642731024398-15-1459106963 - Holdem no limit (150/300) - 2016/03/27 19:29:23 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #8 is the button
+Seat 1: Nemo592 (9775)
+Seat 2: PtitKoklicot (10150)
+Seat 3: lanfranchi (10858)
+Seat 4: zefyrai (9130)
+Seat 5: &oulia& (18865)
+Seat 6: cyanouche (9017)
+Seat 7: manggy94 (4300)
+Seat 8: Demoa (6655)
+*** ANTE/BLINDS ***
+Nemo592 posts small blind 150
+PtitKoklicot posts big blind 300
+Dealt to manggy94 [7c Qs]
+*** PRE-FLOP *** 
+lanfranchi folds
+zefyrai raises 396 to 696
+&oulia& folds
+cyanouche folds
+manggy94 folds
+Demoa calls 696
+Nemo592 folds
+PtitKoklicot folds
+*** FLOP *** [2h As 4h]
+zefyrai bets 921
+Demoa folds
+zefyrai collected 2763 from pot
+*** SUMMARY ***
+Total pot 2763 | No rake
+Board: [2h As 4h]
+Seat 4: zefyrai won 2763
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 4 - HandId: #654222642731024398-16-1459107000 - Holdem no limit (150/300) - 2016/03/27 19:30:00 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #1 is the button
+Seat 1: Nemo592 (9625)
+Seat 2: PtitKoklicot (9850)
+Seat 3: lanfranchi (10858)
+Seat 4: zefyrai (10276)
+Seat 5: &oulia& (18865)
+Seat 6: cyanouche (9017)
+Seat 7: manggy94 (4300)
+Seat 8: Demoa (5959)
+*** ANTE/BLINDS ***
+PtitKoklicot posts small blind 150
+lanfranchi posts big blind 300
+Dealt to manggy94 [9s 9c]
+*** PRE-FLOP *** 
+zefyrai folds
+&oulia& folds
+cyanouche folds
+manggy94 raises 4000 to 4300 and is all-in
+Demoa folds
+Nemo592 folds
+PtitKoklicot folds
+lanfranchi calls 4000
+*** FLOP *** [Jc 7d 8s]
+*** TURN *** [Jc 7d 8s][8d]
+*** RIVER *** [Jc 7d 8s 8d][Ac]
+*** SHOW DOWN ***
+manggy94 shows [9s 9c] (Two pairs : 9 and 8)
+lanfranchi shows [Tc Ts] (Two pairs : Tens and 8)
+lanfranchi collected 8750 from pot
+*** SUMMARY ***
+Total pot 8750 | No rake
+Board: [Jc 7d 8s 8d Ac]
+Seat 3: lanfranchi (big blind) showed [Tc Ts] and won 8750 with Two pairs : Tens and 8
+Seat 7: manggy94 showed [9s 9c] and lost with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 5 - HandId: #654222642731024398-18-1459107090 - Holdem no limit (25/150/300) - 2016/03/27 19:31:30 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #3 is the button
+Seat 1: Nemo592 (9600)
+Seat 2: PtitKoklicot (9675)
+Seat 3: lanfranchi (15133)
+Seat 4: zefyrai (1259)
+Seat 5: &oulia& (18840)
+Seat 6: cyanouche (18309)
+Seat 7: manggy94 (10000)
+Seat 8: Demoa (5934)
+*** ANTE/BLINDS ***
+zefyrai posts ante 25
+&oulia& posts ante 25
+Nemo592 posts ante 25
+PtitKoklicot posts ante 25
+lanfranchi posts ante 25
+cyanouche posts ante 25
+manggy94 posts ante 25
+Demoa posts ante 25
+zefyrai posts small blind 150
+&oulia& posts big blind 300
+Dealt to manggy94 [Tc 5d]
+*** PRE-FLOP *** 
+cyanouche calls 300
+manggy94 folds
+Demoa folds
+Nemo592 calls 300
+PtitKoklicot raises 9350 to 9650 and is all-in
+lanfranchi folds
+zefyrai calls 1084 and is all-in
+&oulia& folds
+cyanouche folds
+Nemo592 calls 9275 and is all-in
+*** FLOP *** [2c Jc Ah]
+*** TURN *** [2c Jc Ah][8h]
+*** RIVER *** [2c Jc Ah 8h][7s]
+*** SHOW DOWN ***
+Nemo592 shows [6d 6s] (One pair : 6)
+zefyrai shows [3h 2s] (One pair : 2)
+PtitKoklicot shows [Qd Qh] (One pair : Queens)
+PtitKoklicot collected 21259 from pot
+*** SUMMARY ***
+Total pot 21259 | No rake
+Board: [2c Jc Ah 8h 7s]
+Seat 1: Nemo592 showed [6d 6s] and lost with One pair : 6
+Seat 2: PtitKoklicot showed [Qd Qh] and won 21259 with One pair : Queens
+Seat 4: zefyrai (small blind) showed [3h 2s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 5 - HandId: #654222642731024398-19-1459107132 - Holdem no limit (25/150/300) - 2016/03/27 19:32:12 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #4 is the button
+Seat 2: PtitKoklicot (21259)
+Seat 3: lanfranchi (15108)
+Seat 5: &oulia& (18515)
+Seat 6: cyanouche (17984)
+Seat 7: manggy94 (9975)
+Seat 8: Demoa (5909)
+*** ANTE/BLINDS ***
+&oulia& posts ante 25
+cyanouche posts ante 25
+PtitKoklicot posts ante 25
+lanfranchi posts ante 25
+manggy94 posts ante 25
+Demoa posts ante 25
+&oulia& posts small blind 150
+cyanouche posts big blind 300
+Dealt to manggy94 [7c 8h]
+*** PRE-FLOP *** 
+manggy94 folds
+Demoa folds
+PtitKoklicot folds
+lanfranchi calls 300
+&oulia& calls 150
+cyanouche checks
+*** FLOP *** [4d 9h 4s]
+&oulia& checks
+cyanouche checks
+lanfranchi checks
+*** TURN *** [4d 9h 4s][6h]
+&oulia& checks
+cyanouche bets 300
+lanfranchi calls 300
+&oulia& calls 300
+*** RIVER *** [4d 9h 4s 6h][Qs]
+&oulia& checks
+cyanouche bets 750
+lanfranchi folds
+&oulia& folds
+cyanouche collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [4d 9h 4s 6h Qs]
+Seat 6: cyanouche (big blind) won 2700
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 6 - HandId: #654222642731024398-20-1459107197 - Holdem no limit (30/200/400) - 2016/03/27 19:33:17 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #5 is the button
+Seat 2: PtitKoklicot (21234)
+Seat 3: lanfranchi (14483)
+Seat 4: jemaso (10000)
+Seat 5: &oulia& (17890)
+Seat 6: cyanouche (19309)
+Seat 7: manggy94 (9950)
+Seat 8: Demoa (5884)
+*** ANTE/BLINDS ***
+cyanouche posts ante 30
+manggy94 posts ante 30
+PtitKoklicot posts ante 30
+lanfranchi posts ante 30
+jemaso posts ante 30
+&oulia& posts ante 30
+Demoa posts ante 30
+cyanouche posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [Kh 7d]
+*** PRE-FLOP *** 
+Demoa folds
+PtitKoklicot folds
+lanfranchi folds
+jemaso raises 400 to 800
+&oulia& folds
+cyanouche calls 600
+manggy94 calls 400
+*** FLOP *** [3d Td 5c]
+cyanouche checks
+manggy94 bets 1740
+jemaso raises 7430 to 9170 and is all-in
+cyanouche folds
+manggy94 folds
+jemaso collected 13520 from pot
+*** SUMMARY ***
+Total pot 13520 | No rake
+Board: [3d Td 5c]
+Seat 4: jemaso won 13520
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 6 - HandId: #654222642731024398-21-1459107227 - Holdem no limit (30/200/400) - 2016/03/27 19:33:47 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #6 is the button
+Seat 2: PtitKoklicot (21204)
+Seat 3: lanfranchi (14453)
+Seat 4: jemaso (13520)
+Seat 5: &oulia& (17860)
+Seat 6: cyanouche (18479)
+Seat 7: manggy94 (7380)
+Seat 8: Demoa (5854)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+Demoa posts ante 30
+PtitKoklicot posts ante 30
+lanfranchi posts ante 30
+jemaso posts ante 30
+&oulia& posts ante 30
+cyanouche posts ante 30
+manggy94 posts small blind 200
+Demoa posts big blind 400
+Dealt to manggy94 [6h 7s]
+*** PRE-FLOP *** 
+PtitKoklicot folds
+lanfranchi folds
+jemaso calls 400
+&oulia& folds
+cyanouche folds
+manggy94 calls 200
+Demoa checks
+*** FLOP *** [Jd 8h 5c]
+manggy94 checks
+Demoa checks
+jemaso checks
+*** TURN *** [Jd 8h 5c][8d]
+manggy94 checks
+Demoa bets 400
+jemaso folds
+manggy94 calls 400
+*** RIVER *** [Jd 8h 5c 8d][5d]
+manggy94 checks
+Demoa bets 1600
+manggy94 folds
+Demoa collected 3810 from pot
+*** SUMMARY ***
+Total pot 3810 | No rake
+Board: [Jd 8h 5c 8d 5d]
+Seat 8: Demoa (big blind) won 3810
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 6 - HandId: #654222642731024398-22-1459107303 - Holdem no limit (30/200/400) - 2016/03/27 19:35:03 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #7 is the button
+Seat 2: PtitKoklicot (21174)
+Seat 3: lanfranchi (14423)
+Seat 4: jemaso (13090)
+Seat 5: &oulia& (17830)
+Seat 6: cyanouche (18449)
+Seat 7: manggy94 (6550)
+Seat 8: Demoa (7234)
+*** ANTE/BLINDS ***
+Demoa posts ante 30
+PtitKoklicot posts ante 30
+lanfranchi posts ante 30
+jemaso posts ante 30
+&oulia& posts ante 30
+cyanouche posts ante 30
+manggy94 posts ante 30
+Demoa posts small blind 200
+PtitKoklicot posts big blind 400
+Dealt to manggy94 [Ac 7h]
+*** PRE-FLOP *** 
+lanfranchi calls 400
+jemaso folds
+&oulia& folds
+cyanouche calls 400
+manggy94 calls 400
+Demoa calls 200
+PtitKoklicot checks
+*** FLOP *** [7s 2c Kh]
+Demoa checks
+PtitKoklicot checks
+lanfranchi checks
+cyanouche checks
+manggy94 checks
+*** TURN *** [7s 2c Kh][9c]
+Demoa bets 400
+PtitKoklicot calls 400
+lanfranchi calls 400
+cyanouche calls 400
+manggy94 calls 400
+*** RIVER *** [7s 2c Kh 9c][Jc]
+Demoa checks
+PtitKoklicot checks
+lanfranchi checks
+cyanouche checks
+manggy94 checks
+*** SHOW DOWN ***
+PtitKoklicot shows [4d Kd] (One pair : Kings)
+cyanouche shows [Qh Jh] (One pair : Jacks)
+manggy94 shows [Ac 7h] (One pair : 7)
+Demoa shows [6s 9s] (One pair : 9)
+lanfranchi shows [4c 6c] (Flush Jack high)
+lanfranchi collected 4210 from pot
+*** SUMMARY ***
+Total pot 4210 | No rake
+Board: [7s 2c Kh 9c Jc]
+Seat 2: PtitKoklicot (big blind) showed [4d Kd] and lost with One pair : Kings
+Seat 3: lanfranchi showed [4c 6c] and won 4210 with Flush Jack high
+Seat 6: cyanouche showed [Qh Jh] and lost with One pair : Jacks
+Seat 7: manggy94 (button) showed [Ac 7h] and lost with One pair : 7
+Seat 8: Demoa (small blind) showed [6s 9s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "HARA-KIRI" buyIn: 1,35€ + 1,35€ + 0,30€ level: 7 - HandId: #654222642731024398-23-1459107420 - Holdem no limit (40/250/500) - 2016/03/27 19:37:00 UTC
+Table: 'HARA-KIRI(152323079)#013' 8-max (real money) Seat #8 is the button
+Seat 1: Limp51 (10000)
+Seat 2: PtitKoklicot (20344)
+Seat 3: lanfranchi (17803)
+Seat 4: jemaso (13060)
+Seat 5: &oulia& (17800)
+Seat 6: cyanouche (17619)
+Seat 7: manggy94 (5720)
+Seat 8: Demoa (6404)
+*** ANTE/BLINDS ***
+PtitKoklicot posts ante 40
+lanfranchi posts ante 40
+jemaso posts ante 40
+&oulia& posts ante 40
+cyanouche posts ante 40
+manggy94 posts ante 40
+Demoa posts ante 40
+PtitKoklicot posts small blind 250
+lanfranchi posts big blind 500
+Dealt to manggy94 [6h Kh]
+*** PRE-FLOP *** 
+jemaso folds
+&oulia& calls 500
+cyanouche calls 500
+manggy94 calls 500
+Demoa calls 500
+PtitKoklicot calls 250
+lanfranchi checks
+*** FLOP *** [3h 3c 4h]
+PtitKoklicot checks
+lanfranchi checks
+&oulia& checks
+cyanouche checks
+manggy94 checks
+Demoa checks
+*** TURN *** [3h 3c 4h][Th]
+PtitKoklicot checks
+lanfranchi checks
+&oulia& checks
+cyanouche checks
+manggy94 bets 3280
+Demoa folds
+PtitKoklicot folds
+lanfranchi folds
+&oulia& calls 3280
+cyanouche folds
+*** RIVER *** [3h 3c 4h Th][Td]
+&oulia& bets 2750
+manggy94 calls 1900 and is all-in
+*** SHOW DOWN ***
+manggy94 shows [6h Kh] (Flush King high)
+&oulia& shows [3d As] (Full of 3 and Tens)
+&oulia& collected 14490 from pot
+*** SUMMARY ***
+Total pot 14490 | No rake
+Board: [3h 3c 4h Th Td]
+Seat 5: &oulia& showed [3d As] and won 14490 with Full of 3 and Tens
+Seat 7: manggy94 showed [6h Kh] and lost with Flush King high
+
+

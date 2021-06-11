@@ -1,0 +1,1005 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #689740115303465057-4-1466073193 - Holdem no limit (10/20) - 2016/06/16 10:33:13 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #8 is the button
+Seat 1: waddle1977 (3190)
+Seat 2: sweezy01 (3050)
+Seat 3: YMC LO (3000)
+Seat 4: manggy94 (3000)
+Seat 5: Tomando (2900)
+Seat 6: cocozza (2990)
+Seat 7: vitimiky (6000)
+Seat 8: Backdoor11 (2870)
+*** ANTE/BLINDS ***
+waddle1977 posts small blind 10
+sweezy01 posts big blind 20
+Dealt to manggy94 [7c Kc]
+*** PRE-FLOP *** 
+YMC LO folds
+manggy94 calls 20
+Tomando folds
+cocozza raises 60 to 80
+vitimiky calls 80
+Backdoor11 raises 2790 to 2870 and is all-in
+waddle1977 folds
+sweezy01 raises 180 to 3050 and is all-in
+manggy94 folds
+cocozza folds
+vitimiky calls 2970
+*** FLOP *** [7d Qs 4h]
+*** TURN *** [7d Qs 4h][Kh]
+*** RIVER *** [7d Qs 4h Kh][4c]
+*** SHOW DOWN ***
+sweezy01 shows [Jh 6d] (One pair : 4)
+Backdoor11 shows [Ah 7s] (Two pairs : 7 and 4)
+vitimiky shows [As Tc] (One pair : 4)
+vitimiky collected 360 from side pot 1
+Backdoor11 collected 8720 from main pot
+*** SUMMARY ***
+Total pot 9080 | No rake
+Board: [7d Qs 4h Kh 4c]
+Seat 2: sweezy01 (big blind) showed [Jh 6d] and lost with One pair : 4
+Seat 7: vitimiky showed [As Tc] and won 360 with One pair : 4
+Seat 8: Backdoor11 (button) showed [Ah 7s] and won 8720 with Two pairs : 7 and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #689740115303465057-5-1466073238 - Holdem no limit (15/30) - 2016/06/16 10:33:58 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #1 is the button
+Seat 1: waddle1977 (3180)
+Seat 2: Cyann31 (3000)
+Seat 3: YMC LO (3000)
+Seat 4: manggy94 (2980)
+Seat 5: Tomando (2900)
+Seat 6: cocozza (2910)
+Seat 7: vitimiky (3310)
+Seat 8: Backdoor11 (8720)
+*** ANTE/BLINDS ***
+YMC LO posts big blind 30
+Dealt to manggy94 [Ks Td]
+*** PRE-FLOP *** 
+manggy94 raises 30 to 60
+Tomando folds
+cocozza raises 60 to 120
+vitimiky folds
+Backdoor11 calls 120
+waddle1977 calls 120
+YMC LO folds
+manggy94 calls 60
+*** FLOP *** [3d 5d Ts]
+manggy94 bets 2860 and is all-in
+cocozza folds
+Backdoor11 folds
+waddle1977 folds
+manggy94 collected 3370 from pot
+*** SUMMARY ***
+Total pot 3370 | No rake
+Board: [3d 5d Ts]
+Seat 4: manggy94 won 3370
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #689740115303465057-6-1466073283 - Holdem no limit (15/30) - 2016/06/16 10:34:43 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #2 is the button
+Seat 1: waddle1977 (3060)
+Seat 2: Cyann31 (3000)
+Seat 3: YMC LO (2970)
+Seat 4: manggy94 (3370)
+Seat 5: Tomando (2900)
+Seat 6: cocozza (2790)
+Seat 7: vitimiky (3310)
+Seat 8: Backdoor11 (8600)
+*** ANTE/BLINDS ***
+YMC LO posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [8c 6s]
+*** PRE-FLOP *** 
+Tomando folds
+cocozza folds
+vitimiky folds
+Backdoor11 calls 30
+waddle1977 calls 30
+YMC LO folds
+manggy94 checks
+*** FLOP *** [As 4s Qs]
+manggy94 bets 30
+Backdoor11 calls 30
+waddle1977 calls 30
+*** TURN *** [As 4s Qs][Kh]
+manggy94 checks
+Backdoor11 bets 146
+waddle1977 calls 146
+manggy94 folds
+*** RIVER *** [As 4s Qs Kh][2c]
+Backdoor11 checks
+waddle1977 checks
+*** SHOW DOWN ***
+Backdoor11 shows [9s Th] (High card : Ace)
+waddle1977 shows [Jd Kd] (One pair : Kings)
+waddle1977 collected 487 from pot
+*** SUMMARY ***
+Total pot 487 | No rake
+Board: [As 4s Qs Kh 2c]
+Seat 1: waddle1977 showed [Jd Kd] and won 487 with One pair : Kings
+Seat 8: Backdoor11 showed [9s Th] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #689740115303465057-7-1466073326 - Holdem no limit (15/30) - 2016/06/16 10:35:26 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #3 is the button
+Seat 1: waddle1977 (3341)
+Seat 2: Cyann31 (3000)
+Seat 3: YMC LO (2955)
+Seat 4: manggy94 (3310)
+Seat 5: Tomando (2900)
+Seat 6: cocozza (2790)
+Seat 7: vitimiky (3310)
+Seat 8: Backdoor11 (8394)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+Tomando posts big blind 30
+Dealt to manggy94 [4s 9d]
+*** PRE-FLOP *** 
+cocozza raises 90 to 120
+vitimiky calls 120
+Backdoor11 calls 120
+waddle1977 calls 120
+Cyann31 folds
+YMC LO folds
+manggy94 folds
+Tomando calls 90
+*** FLOP *** [5c 3h 4h]
+Tomando checks
+cocozza checks
+vitimiky checks
+Backdoor11 checks
+waddle1977 checks
+*** TURN *** [5c 3h 4h][Qd]
+Tomando checks
+cocozza checks
+vitimiky bets 615
+Backdoor11 folds
+waddle1977 folds
+Tomando calls 615
+cocozza folds
+*** RIVER *** [5c 3h 4h Qd][Ah]
+Tomando checks
+vitimiky checks
+*** SHOW DOWN ***
+vitimiky shows [Qs 7s] (One pair : Queens)
+Tomando shows [Qh Tc] (One pair : Queens)
+Tomando collected 1845 from pot
+*** SUMMARY ***
+Total pot 1845 | No rake
+Board: [5c 3h 4h Qd Ah]
+Seat 5: Tomando (big blind) showed [Qh Tc] and won 1845 with One pair : Queens
+Seat 7: vitimiky showed [Qs 7s] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #689740115303465057-8-1466073412 - Holdem no limit (20/40) - 2016/06/16 10:36:52 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #4 is the button
+Seat 1: waddle1977 (3221)
+Seat 2: Cyann31 (3000)
+Seat 3: YMC LO (2955)
+Seat 4: manggy94 (3295)
+Seat 5: Tomando (4010)
+Seat 6: cocozza (2670)
+Seat 7: vitimiky (2575)
+Seat 8: Backdoor11 (8274)
+*** ANTE/BLINDS ***
+Tomando posts small blind 20
+cocozza posts big blind 40
+Dealt to manggy94 [2h Ts]
+*** PRE-FLOP *** 
+vitimiky calls 40
+Backdoor11 calls 40
+waddle1977 folds
+Cyann31 raises 2960 to 3000 and is all-in
+YMC LO folds
+manggy94 folds
+Tomando folds
+cocozza folds
+vitimiky folds
+Backdoor11 folds
+Cyann31 collected 3140 from pot
+*** SUMMARY ***
+Total pot 3140 | No rake
+Seat 2: Cyann31 won 3140
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #689740115303465057-9-1466073445 - Holdem no limit (20/40) - 2016/06/16 10:37:25 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #5 is the button
+Seat 1: waddle1977 (3221)
+Seat 2: Cyann31 (3140)
+Seat 3: YMC LO (2955)
+Seat 4: manggy94 (3295)
+Seat 5: Tomando (3990)
+Seat 6: cocozza (2630)
+Seat 7: vitimiky (2535)
+Seat 8: Backdoor11 (8234)
+*** ANTE/BLINDS ***
+cocozza posts small blind 20
+vitimiky posts big blind 40
+Dealt to manggy94 [8c Jc]
+*** PRE-FLOP *** 
+Backdoor11 calls 40
+waddle1977 calls 40
+Cyann31 folds
+YMC LO folds
+manggy94 calls 40
+Tomando calls 40
+cocozza folds
+vitimiky checks
+*** FLOP *** [9h 8s Qc]
+vitimiky checks
+Backdoor11 bets 110
+waddle1977 folds
+manggy94 calls 110
+Tomando folds
+vitimiky folds
+*** TURN *** [9h 8s Qc][7c]
+Backdoor11 bets 220
+manggy94 calls 220
+*** RIVER *** [9h 8s Qc 7c][As]
+Backdoor11 bets 587
+manggy94 calls 587
+*** SHOW DOWN ***
+Backdoor11 shows [2h Td] (High card : Ace)
+manggy94 shows [8c Jc] (One pair : 8)
+manggy94 collected 2054 from pot
+*** SUMMARY ***
+Total pot 2054 | No rake
+Board: [9h 8s Qc 7c As]
+Seat 4: manggy94 showed [8c Jc] and won 2054 with One pair : 8
+Seat 8: Backdoor11 showed [2h Td] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #689740115303465057-10-1466073483 - Holdem no limit (20/40) - 2016/06/16 10:38:03 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #6 is the button
+Seat 1: waddle1977 (3181)
+Seat 2: Cyann31 (3140)
+Seat 3: YMC LO (2955)
+Seat 4: manggy94 (4392)
+Seat 5: Tomando (3950)
+Seat 6: cocozza (2610)
+Seat 7: vitimiky (2495)
+Seat 8: Backdoor11 (7277)
+*** ANTE/BLINDS ***
+vitimiky posts small blind 20
+Backdoor11 posts big blind 40
+Dealt to manggy94 [Td Jd]
+*** PRE-FLOP *** 
+waddle1977 calls 40
+Cyann31 folds
+YMC LO folds
+manggy94 calls 40
+Tomando folds
+cocozza raises 120 to 160
+vitimiky folds
+Backdoor11 calls 120
+waddle1977 calls 120
+manggy94 calls 120
+*** FLOP *** [Qh Js Kd]
+Backdoor11 checks
+waddle1977 checks
+manggy94 bets 330
+cocozza raises 330 to 660
+Backdoor11 folds
+waddle1977 folds
+manggy94 calls 330
+*** TURN *** [Qh Js Kd][2c]
+manggy94 checks
+cocozza checks
+*** RIVER *** [Qh Js Kd 2c][9s]
+manggy94 bets 1980
+cocozza calls 1790 and is all-in
+*** SHOW DOWN ***
+cocozza shows [3c Kh] (One pair : Kings)
+manggy94 shows [Td Jd] (Straight King high)
+manggy94 collected 5750 from pot
+*** SUMMARY ***
+Total pot 5750 | No rake
+Board: [Qh Js Kd 2c 9s]
+Seat 4: manggy94 showed [Td Jd] and won 5750 with Straight King high
+Seat 6: cocozza (button) showed [3c Kh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #689740115303465057-11-1466073558 - Holdem no limit (20/40) - 2016/06/16 10:39:18 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #7 is the button
+Seat 1: waddle1977 (3021)
+Seat 2: Cyann31 (3140)
+Seat 3: YMC LO (2955)
+Seat 4: manggy94 (7342)
+Seat 5: Tomando (3950)
+Seat 6: COYOTTE77 (3000)
+Seat 7: vitimiky (2475)
+Seat 8: Backdoor11 (7117)
+*** ANTE/BLINDS ***
+Backdoor11 posts small blind 20
+waddle1977 posts big blind 40
+Dealt to manggy94 [4h As]
+*** PRE-FLOP *** 
+Cyann31 calls 40
+YMC LO folds
+manggy94 calls 40
+Tomando folds
+COYOTTE77 calls 40
+vitimiky folds
+Backdoor11 calls 20
+waddle1977 checks
+*** FLOP *** [Ac 7d 2c]
+Backdoor11 checks
+waddle1977 checks
+Cyann31 bets 3100 and is all-in
+manggy94 folds
+COYOTTE77 folds
+Backdoor11 folds
+waddle1977 folds
+Cyann31 collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Board: [Ac 7d 2c]
+Seat 2: Cyann31 won 3300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #689740115303465057-12-1466073605 - Holdem no limit (30/60) - 2016/06/16 10:40:05 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #8 is the button
+Seat 1: waddle1977 (2981)
+Seat 2: Cyann31 (3300)
+Seat 3: YMC LO (2955)
+Seat 4: manggy94 (7302)
+Seat 5: Tomando (3950)
+Seat 6: COYOTTE77 (2960)
+Seat 7: vitimiky (2475)
+Seat 8: Backdoor11 (7077)
+*** ANTE/BLINDS ***
+waddle1977 posts small blind 30
+Cyann31 posts big blind 60
+Dealt to manggy94 [4d 8s]
+*** PRE-FLOP *** 
+YMC LO folds
+manggy94 folds
+Tomando folds
+COYOTTE77 folds
+vitimiky folds
+Backdoor11 raises 180 to 240
+waddle1977 calls 210
+Cyann31 folds
+*** FLOP *** [7h 7c 3c]
+waddle1977 bets 2741 and is all-in
+Backdoor11 calls 2741
+*** TURN *** [7h 7c 3c][Ks]
+*** RIVER *** [7h 7c 3c Ks][Td]
+*** SHOW DOWN ***
+waddle1977 shows [8h 8d] (Two pairs : 8 and 7)
+Backdoor11 shows [Jc Tc] (Two pairs : Tens and 7)
+Backdoor11 collected 6022 from pot
+*** SUMMARY ***
+Total pot 6022 | No rake
+Board: [7h 7c 3c Ks Td]
+Seat 1: waddle1977 (small blind) showed [8h 8d] and lost with Two pairs : 8 and 7
+Seat 8: Backdoor11 (button) showed [Jc Tc] and won 6022 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #689740115303465057-13-1466073638 - Holdem no limit (30/60) - 2016/06/16 10:40:38 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #1 is the button
+Seat 2: Cyann31 (3240)
+Seat 3: YMC LO (2955)
+Seat 4: manggy94 (7302)
+Seat 5: Tomando (3950)
+Seat 6: COYOTTE77 (2960)
+Seat 7: vitimiky (2475)
+Seat 8: Backdoor11 (10118)
+*** ANTE/BLINDS ***
+Cyann31 posts small blind 30
+YMC LO posts big blind 60
+Dealt to manggy94 [7h 7s]
+*** PRE-FLOP *** 
+manggy94 raises 60 to 120
+Tomando folds
+COYOTTE77 folds
+vitimiky calls 120
+Backdoor11 calls 120
+Cyann31 folds
+YMC LO folds
+*** FLOP *** [2c As 8s]
+manggy94 checks
+vitimiky checks
+Backdoor11 checks
+*** TURN *** [2c As 8s][Tc]
+manggy94 checks
+vitimiky checks
+Backdoor11 checks
+*** RIVER *** [2c As 8s Tc][8d]
+manggy94 checks
+vitimiky checks
+Backdoor11 checks
+*** SHOW DOWN ***
+vitimiky shows [Qh 9c] (One pair : 8)
+Backdoor11 shows [Kc 9h] (One pair : 8)
+manggy94 shows [7h 7s] (Two pairs : 8 and 7)
+manggy94 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [2c As 8s Tc 8d]
+Seat 4: manggy94 showed [7h 7s] and won 450 with Two pairs : 8 and 7
+Seat 7: vitimiky showed [Qh 9c] and lost with One pair : 8
+Seat 8: Backdoor11 showed [Kc 9h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #689740115303465057-14-1466073687 - Holdem no limit (30/60) - 2016/06/16 10:41:27 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #2 is the button
+Seat 1: M.Televelpas (3000)
+Seat 2: Cyann31 (3210)
+Seat 3: YMC LO (2895)
+Seat 4: manggy94 (7632)
+Seat 5: Tomando (3950)
+Seat 6: COYOTTE77 (2960)
+Seat 7: vitimiky (2355)
+Seat 8: Backdoor11 (9998)
+*** ANTE/BLINDS ***
+YMC LO posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [4d 7s]
+*** PRE-FLOP *** 
+Tomando folds
+COYOTTE77 folds
+vitimiky folds
+Backdoor11 calls 60
+M.Televelpas calls 60
+Cyann31 raises 3150 to 3210 and is all-in
+YMC LO calls 2865 and is all-in
+manggy94 folds
+Backdoor11 folds
+M.Televelpas calls 2940 and is all-in
+*** FLOP *** [Ac 9h 6s]
+*** TURN *** [Ac 9h 6s][8s]
+*** RIVER *** [Ac 9h 6s 8s][8c]
+*** SHOW DOWN ***
+YMC LO shows [2s Kh] (One pair : 8)
+M.Televelpas shows [9s 9d] (Full of 9 and 8)
+Cyann31 shows [Ad Qd] (Two pairs : Aces and 8)
+Cyann31 collected 210 from side pot 1
+M.Televelpas collected 9015 from main pot
+*** SUMMARY ***
+Total pot 9225 | No rake
+Board: [Ac 9h 6s 8s 8c]
+Seat 1: M.Televelpas showed [9s 9d] and won 9015 with Full of 9 and 8
+Seat 2: Cyann31 (button) showed [Ad Qd] and won 210 with Two pairs : Aces and 8
+Seat 3: YMC LO (small blind) showed [2s Kh] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #689740115303465057-15-1466073720 - Holdem no limit (30/60) - 2016/06/16 10:42:00 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #3 is the button
+Seat 1: M.Televelpas (9015)
+Seat 2: Cyann31 (210)
+Seat 4: manggy94 (7572)
+Seat 5: Tomando (3950)
+Seat 6: COYOTTE77 (2960)
+Seat 7: vitimiky (2355)
+Seat 8: Backdoor11 (9938)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+Tomando posts big blind 60
+Dealt to manggy94 [Jc Jd]
+*** PRE-FLOP *** 
+COYOTTE77 folds
+vitimiky raises 2295 to 2355 and is all-in
+Backdoor11 folds
+M.Televelpas folds
+Cyann31 folds
+manggy94 calls 2325
+Tomando folds
+*** FLOP *** [As 4d 6s]
+*** TURN *** [As 4d 6s][7s]
+*** RIVER *** [As 4d 6s 7s][8c]
+*** SHOW DOWN ***
+manggy94 shows [Jc Jd] (One pair : Jacks)
+vitimiky shows [Ac 3c] (One pair : Aces)
+vitimiky collected 4770 from pot
+*** SUMMARY ***
+Total pot 4770 | No rake
+Board: [As 4d 6s 7s 8c]
+Seat 4: manggy94 (small blind) showed [Jc Jd] and lost with One pair : Jacks
+Seat 7: vitimiky showed [Ac 3c] and won 4770 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #689740115303465057-16-1466073745 - Holdem no limit (40/80) - 2016/06/16 10:42:25 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #4 is the button
+Seat 1: M.Televelpas (9015)
+Seat 2: Cyann31 (210)
+Seat 3: wawaii (3000)
+Seat 4: manggy94 (5217)
+Seat 5: Tomando (3890)
+Seat 6: COYOTTE77 (2960)
+Seat 7: vitimiky (4770)
+Seat 8: Backdoor11 (9938)
+*** ANTE/BLINDS ***
+Tomando posts small blind 40
+COYOTTE77 posts big blind 80
+Dealt to manggy94 [8h Qh]
+*** PRE-FLOP *** 
+vitimiky folds
+Backdoor11 calls 80
+M.Televelpas folds
+Cyann31 raises 130 to 210 and is all-in
+wawaii folds
+manggy94 calls 210
+Tomando folds
+COYOTTE77 folds
+Backdoor11 calls 130
+*** FLOP *** [3s 7s 2c]
+Backdoor11 checks
+manggy94 checks
+*** TURN *** [3s 7s 2c][Ac]
+Backdoor11 bets 120
+manggy94 calls 120
+*** RIVER *** [3s 7s 2c Ac][Ks]
+Backdoor11 checks
+manggy94 checks
+*** SHOW DOWN ***
+Backdoor11 shows [Js 4d] (High card : Ace)
+Cyann31 shows [7h 6d] (One pair : 7)
+manggy94 shows [8h Qh] (High card : Ace)
+manggy94 collected 240 from side pot 1
+Cyann31 collected 750 from main pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Board: [3s 7s 2c Ac Ks]
+Seat 2: Cyann31 showed [7h 6d] and won 750 with One pair : 7
+Seat 4: manggy94 (button) showed [8h Qh] and won 240 with High card : Ace
+Seat 8: Backdoor11 showed [Js 4d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #689740115303465057-17-1466073838 - Holdem no limit (40/80) - 2016/06/16 10:43:58 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #5 is the button
+Seat 1: M.Televelpas (9015)
+Seat 2: Cyann31 (750)
+Seat 3: wawaii (3000)
+Seat 4: manggy94 (5127)
+Seat 5: Tomando (3850)
+Seat 6: COYOTTE77 (2880)
+Seat 7: vitimiky (4770)
+Seat 8: Backdoor11 (9608)
+*** ANTE/BLINDS ***
+COYOTTE77 posts small blind 40
+vitimiky posts big blind 80
+Dealt to manggy94 [3s 6h]
+*** PRE-FLOP *** 
+Backdoor11 raises 320 to 400
+M.Televelpas folds
+Cyann31 folds
+wawaii folds
+manggy94 folds
+Tomando calls 400
+COYOTTE77 raises 2480 to 2880 and is all-in
+vitimiky folds
+Backdoor11 calls 2480
+Tomando folds
+*** FLOP *** [4h 4c Kc]
+*** TURN *** [4h 4c Kc][7s]
+*** RIVER *** [4h 4c Kc 7s][3c]
+*** SHOW DOWN ***
+COYOTTE77 shows [5h 5s] (Two pairs : 5 and 4)
+Backdoor11 shows [Kd As] (Two pairs : Kings and 4)
+Backdoor11 collected 6240 from pot
+*** SUMMARY ***
+Total pot 6240 | No rake
+Board: [4h 4c Kc 7s 3c]
+Seat 6: COYOTTE77 (small blind) showed [5h 5s] and lost with Two pairs : 5 and 4
+Seat 8: Backdoor11 showed [Kd As] and won 6240 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #689740115303465057-18-1466073886 - Holdem no limit (40/80) - 2016/06/16 10:44:46 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #6 is the button
+Seat 1: M.Televelpas (9015)
+Seat 2: Cyann31 (750)
+Seat 3: wawaii (3000)
+Seat 4: manggy94 (5127)
+Seat 5: Tomando (3450)
+Seat 6: Po de cole (3000)
+Seat 7: vitimiky (4690)
+Seat 8: Backdoor11 (12968)
+*** ANTE/BLINDS ***
+vitimiky posts small blind 40
+Backdoor11 posts big blind 80
+Dealt to manggy94 [Qc As]
+*** PRE-FLOP *** 
+M.Televelpas calls 80
+Cyann31 folds
+wawaii folds
+manggy94 raises 440 to 520
+Tomando folds
+vitimiky folds
+Backdoor11 folds
+M.Televelpas calls 440
+*** FLOP *** [Tc 8s 6s]
+M.Televelpas bets 80
+manggy94 raises 1320 to 1400
+M.Televelpas calls 1320
+*** TURN *** [Tc 8s 6s][7c]
+M.Televelpas checks
+manggy94 checks
+*** RIVER *** [Tc 8s 6s 7c][8d]
+M.Televelpas bets 3960
+manggy94 folds
+M.Televelpas collected 7920 from pot
+*** SUMMARY ***
+Total pot 7920 | No rake
+Board: [Tc 8s 6s 7c 8d]
+Seat 1: M.Televelpas won 7920
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #689740115303465057-19-1466073953 - Holdem no limit (60/120) - 2016/06/16 10:45:53 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #7 is the button
+Seat 1: M.Televelpas (11055)
+Seat 2: Cyann31 (750)
+Seat 3: wawaii (3000)
+Seat 4: manggy94 (3207)
+Seat 5: Tomando (3450)
+Seat 6: Po de cole (3000)
+Seat 7: vitimiky (4650)
+Seat 8: Backdoor11 (12888)
+*** ANTE/BLINDS ***
+Backdoor11 posts small blind 60
+M.Televelpas posts big blind 120
+Dealt to manggy94 [5h 2d]
+*** PRE-FLOP *** 
+Cyann31 folds
+wawaii folds
+manggy94 folds
+Tomando folds
+Po de cole calls 120
+vitimiky folds
+Backdoor11 raises 600 to 720
+M.Televelpas calls 600
+Po de cole calls 600
+*** FLOP *** [Qc Kd Qd]
+Backdoor11 bets 660
+M.Televelpas calls 660
+Po de cole calls 660
+*** TURN *** [Qc Kd Qd][6s]
+Backdoor11 bets 900
+M.Televelpas calls 900
+Po de cole calls 900
+*** RIVER *** [Qc Kd Qd 6s][5c]
+Backdoor11 bets 1140
+M.Televelpas folds
+Po de cole calls 720 and is all-in
+*** SHOW DOWN ***
+Po de cole shows [Qs Ts] (Trips of Queens)
+Backdoor11 shows [Ah Kh] (Two pairs : Kings and Queens)
+Backdoor11 collected 420 from side pot 1
+Po de cole collected 8280 from main pot
+*** SUMMARY ***
+Total pot 8700 | No rake
+Board: [Qc Kd Qd 6s 5c]
+Seat 6: Po de cole showed [Qs Ts] and won 8280 with Trips of Queens
+Seat 8: Backdoor11 (small blind) showed [Ah Kh] and won 420 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #689740115303465057-20-1466074012 - Holdem no limit (60/120) - 2016/06/16 10:46:52 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #8 is the button
+Seat 1: M.Televelpas (8775)
+Seat 2: Cyann31 (750)
+Seat 3: wawaii (3000)
+Seat 4: manggy94 (3207)
+Seat 5: Tomando (3450)
+Seat 6: Po de cole (8280)
+Seat 7: vitimiky (4650)
+Seat 8: Backdoor11 (9888)
+*** ANTE/BLINDS ***
+M.Televelpas posts small blind 60
+Cyann31 posts big blind 120
+Dealt to manggy94 [2c 4c]
+*** PRE-FLOP *** 
+wawaii folds
+manggy94 calls 120
+Tomando folds
+Po de cole calls 120
+vitimiky folds
+Backdoor11 calls 120
+M.Televelpas calls 60
+Cyann31 checks
+*** FLOP *** [9h 2h Th]
+M.Televelpas checks
+Cyann31 bets 630 and is all-in
+manggy94 folds
+Po de cole folds
+Backdoor11 calls 630
+M.Televelpas folds
+*** TURN *** [9h 2h Th][2d]
+*** RIVER *** [9h 2h Th 2d][As]
+*** SHOW DOWN ***
+Cyann31 shows [Jh 6c] (One pair : 2)
+Backdoor11 shows [Qc 3h] (One pair : 2)
+Backdoor11 collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Board: [9h 2h Th 2d As]
+Seat 2: Cyann31 (big blind) showed [Jh 6c] and lost with One pair : 2
+Seat 8: Backdoor11 (button) showed [Qc 3h] and won 1860 with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #689740115303465057-21-1466074082 - Holdem no limit (60/120) - 2016/06/16 10:48:02 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #1 is the button
+Seat 1: M.Televelpas (8655)
+Seat 3: wawaii (3000)
+Seat 4: manggy94 (3087)
+Seat 5: Tomando (3450)
+Seat 6: Po de cole (8160)
+Seat 7: vitimiky (4650)
+Seat 8: Backdoor11 (10998)
+*** ANTE/BLINDS ***
+wawaii posts big blind 120
+Dealt to manggy94 [3s 8h]
+*** PRE-FLOP *** 
+manggy94 folds
+Tomando folds
+Po de cole calls 120
+vitimiky folds
+Backdoor11 calls 120
+M.Televelpas folds
+wawaii checks
+*** FLOP *** [5c Jd 8c]
+wawaii bets 180
+Po de cole calls 180
+Backdoor11 folds
+*** TURN *** [5c Jd 8c][Ah]
+wawaii bets 360
+Po de cole calls 360
+*** RIVER *** [5c Jd 8c Ah][7h]
+wawaii bets 960
+Po de cole raises 960 to 1920
+wawaii raises 420 to 2340 and is all-in
+Po de cole calls 420
+*** SHOW DOWN ***
+Po de cole shows [As Kc] (One pair : Aces)
+wawaii shows [7c Js] (Two pairs : Jacks and 7)
+wawaii collected 6120 from pot
+*** SUMMARY ***
+Total pot 6120 | No rake
+Board: [5c Jd 8c Ah 7h]
+Seat 3: wawaii (big blind) showed [7c Js] and won 6120 with Two pairs : Jacks and 7
+Seat 6: Po de cole showed [As Kc] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #689740115303465057-22-1466074176 - Holdem no limit (10/60/120) - 2016/06/16 10:49:36 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #2 is the button
+Seat 1: M.Televelpas (8655)
+Seat 2: SmokingGUN (3000)
+Seat 3: wawaii (6120)
+Seat 4: manggy94 (3087)
+Seat 5: Tomando (3450)
+Seat 6: Po de cole (5160)
+Seat 7: vitimiky (4650)
+Seat 8: Backdoor11 (10878)
+*** ANTE/BLINDS ***
+wawaii posts ante 10
+manggy94 posts ante 10
+M.Televelpas posts ante 10
+Tomando posts ante 10
+Po de cole posts ante 10
+vitimiky posts ante 10
+Backdoor11 posts ante 10
+wawaii posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [4d Jd]
+*** PRE-FLOP *** 
+Tomando calls 120
+Po de cole calls 120
+vitimiky folds
+Backdoor11 calls 120
+M.Televelpas calls 120
+wawaii calls 60
+manggy94 checks
+*** FLOP *** [7h 2s 8s]
+wawaii checks
+manggy94 checks
+Tomando checks
+Po de cole checks
+Backdoor11 checks
+M.Televelpas bets 120
+wawaii folds
+manggy94 folds
+Tomando calls 120
+Po de cole calls 120
+Backdoor11 calls 120
+*** TURN *** [7h 2s 8s][5h]
+Tomando checks
+Po de cole checks
+Backdoor11 checks
+M.Televelpas bets 120
+Tomando folds
+Po de cole calls 120
+Backdoor11 calls 120
+*** RIVER *** [7h 2s 8s 5h][7s]
+Po de cole checks
+Backdoor11 bets 815
+M.Televelpas folds
+Po de cole folds
+Backdoor11 collected 2445 from pot
+*** SUMMARY ***
+Total pot 2445 | No rake
+Board: [7h 2s 8s 5h 7s]
+Seat 8: Backdoor11 won 2445
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #689740115303465057-23-1466074303 - Holdem no limit (15/75/150) - 2016/06/16 10:51:43 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #3 is the button
+Seat 1: M.Televelpas (8285)
+Seat 2: SmokingGUN (3000)
+Seat 3: wawaii (5990)
+Seat 4: manggy94 (2957)
+Seat 5: Tomando (3200)
+Seat 6: Po de cole (4790)
+Seat 7: vitimiky (4640)
+Seat 8: Backdoor11 (12138)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+Tomando posts ante 15
+M.Televelpas posts ante 15
+SmokingGUN posts ante 15
+wawaii posts ante 15
+Po de cole posts ante 15
+vitimiky posts ante 15
+Backdoor11 posts ante 15
+manggy94 posts small blind 75
+Tomando posts big blind 150
+Dealt to manggy94 [Ks 9h]
+*** PRE-FLOP *** 
+Po de cole calls 150
+vitimiky folds
+Backdoor11 raises 675 to 825
+M.Televelpas folds
+SmokingGUN folds
+wawaii folds
+manggy94 calls 750
+Tomando folds
+Po de cole calls 675
+*** FLOP *** [Kc 9c 2d]
+manggy94 checks
+Po de cole checks
+Backdoor11 bets 2745
+manggy94 calls 2117 and is all-in
+Po de cole raises 1205 to 3950 and is all-in
+Backdoor11 calls 1205
+*** TURN *** [Kc 9c 2d][5d]
+*** RIVER *** [Kc 9c 2d 5d][5c]
+*** SHOW DOWN ***
+Po de cole shows [Ac 9s] (Two pairs : 9 and 5)
+manggy94 shows [Ks 9h] (Two pairs : Kings and 9)
+Backdoor11 shows [Tc Ts] (Two pairs : Tens and 5)
+Backdoor11 collected 3666 from side pot 1
+manggy94 collected 9096 from main pot
+*** SUMMARY ***
+Total pot 12762 | No rake
+Board: [Kc 9c 2d 5d 5c]
+Seat 4: manggy94 (small blind) showed [Ks 9h] and won 9096 with Two pairs : Kings and 9
+Seat 6: Po de cole showed [Ac 9s] and lost with Two pairs : 9 and 5
+Seat 8: Backdoor11 showed [Tc Ts] and won 3666 with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #689740115303465057-24-1466074401 - Holdem no limit (15/75/150) - 2016/06/16 10:53:21 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #4 is the button
+Seat 1: M.Televelpas (8270)
+Seat 2: SmokingGUN (2985)
+Seat 3: wawaii (5975)
+Seat 4: manggy94 (9096)
+Seat 5: Tomando (3035)
+Seat 7: vitimiky (4625)
+Seat 8: Backdoor11 (11014)
+*** ANTE/BLINDS ***
+Tomando posts ante 15
+vitimiky posts ante 15
+M.Televelpas posts ante 15
+SmokingGUN posts ante 15
+wawaii posts ante 15
+manggy94 posts ante 15
+Backdoor11 posts ante 15
+Tomando posts small blind 75
+vitimiky posts big blind 150
+Dealt to manggy94 [7h 5c]
+*** PRE-FLOP *** 
+Backdoor11 raises 450 to 600
+M.Televelpas folds
+SmokingGUN folds
+wawaii folds
+manggy94 folds
+Tomando folds
+vitimiky folds
+Backdoor11 collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | No rake
+Seat 8: Backdoor11 won 930
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #689740115303465057-25-1466074423 - Holdem no limit (15/75/150) - 2016/06/16 10:53:43 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #5 is the button
+Seat 1: M.Televelpas (8255)
+Seat 2: SmokingGUN (2970)
+Seat 3: wawaii (5960)
+Seat 4: manggy94 (9081)
+Seat 5: Tomando (2945)
+Seat 7: vitimiky (4460)
+Seat 8: Backdoor11 (11329)
+*** ANTE/BLINDS ***
+vitimiky posts ante 15
+Backdoor11 posts ante 15
+M.Televelpas posts ante 15
+SmokingGUN posts ante 15
+wawaii posts ante 15
+manggy94 posts ante 15
+Tomando posts ante 15
+vitimiky posts small blind 75
+Backdoor11 posts big blind 150
+Dealt to manggy94 [3d 9h]
+*** PRE-FLOP *** 
+M.Televelpas folds
+SmokingGUN folds
+wawaii raises 300 to 450
+manggy94 folds
+Tomando folds
+vitimiky folds
+Backdoor11 calls 300
+*** FLOP *** [Jc Ah 8s]
+Backdoor11 checks
+wawaii bets 540
+Backdoor11 folds
+wawaii collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | No rake
+Board: [Jc Ah 8s]
+Seat 3: wawaii won 1620
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #689740115303465057-26-1466074453 - Holdem no limit (15/75/150) - 2016/06/16 10:54:13 UTC
+Table: 'Freeroll(160592635)#096' 8-max (real money) Seat #7 is the button
+Seat 1: M.Televelpas (8240)
+Seat 2: SmokingGUN (2955)
+Seat 3: wawaii (6575)
+Seat 4: manggy94 (9066)
+Seat 5: Tomando (2930)
+Seat 6: Kediath (105)
+Seat 7: vitimiky (4370)
+Seat 8: Backdoor11 (10864)
+*** ANTE/BLINDS ***
+Backdoor11 posts ante 15
+M.Televelpas posts ante 15
+SmokingGUN posts ante 15
+wawaii posts ante 15
+manggy94 posts ante 15
+Tomando posts ante 15
+Kediath posts ante 15
+vitimiky posts ante 15
+Backdoor11 posts small blind 75
+M.Televelpas posts big blind 150
+Dealt to manggy94 [Ah 6d]
+*** PRE-FLOP *** 
+SmokingGUN folds
+wawaii folds
+manggy94 raises 150 to 300
+Tomando calls 300
+Kediath folds
+vitimiky folds
+Backdoor11 calls 225
+M.Televelpas calls 150
+*** FLOP *** [8c Ad 9d]
+Backdoor11 checks
+M.Televelpas bets 150
+manggy94 raises 150 to 300
+Tomando folds
+Backdoor11 calls 300
+M.Televelpas folds
+*** TURN *** [8c Ad 9d][Qs]
+Backdoor11 checks
+manggy94 checks
+*** RIVER *** [8c Ad 9d Qs][6c]
+Backdoor11 bets 10249 and is all-in
+manggy94 calls 8451 and is all-in
+*** SHOW DOWN ***
+manggy94 shows [Ah 6d] (Two pairs : Aces and 6)
+Backdoor11 shows [7h Th] (Straight Ten high)
+Backdoor11 collected 20770 from pot
+*** SUMMARY ***
+Total pot 20770 | No rake
+Board: [8c Ad 9d Qs 6c]
+Seat 4: manggy94 showed [Ah 6d] and lost with Two pairs : Aces and 6
+Seat 8: Backdoor11 (small blind) showed [7h Th] and won 20770 with Straight Ten high
+
+

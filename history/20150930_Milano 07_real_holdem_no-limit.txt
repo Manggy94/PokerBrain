@@ -1,0 +1,142 @@
+Winamax Poker - CashGame - HandId: #8010083-182-1443604390 - Holdem no limit (0.10€/0.20€) - 2015/09/30 09:13:10 UTC
+Table: 'Milano 07' 5-max (real money) Seat #5 is the button
+Seat 1: cptarrow (39.03€)
+Seat 2: manggy94 (8€)
+Seat 3: SpgEtxe12 (23.96€)
+Seat 5: Rest In Fish (20.49€)
+*** ANTE/BLINDS ***
+cptarrow posts small blind 0.10€
+manggy94 posts big blind 0.20€
+Dealt to manggy94 [3d Jh]
+*** PRE-FLOP *** 
+SpgEtxe12 folds
+Rest In Fish folds
+cptarrow folds
+manggy94 collected 0.30€ from pot
+*** SUMMARY ***
+Total pot 0.30€ | No rake
+Seat 2: manggy94 (big blind) won 0.30€
+
+
+Winamax Poker - CashGame - HandId: #8010083-183-1443604409 - Holdem no limit (0.10€/0.20€) - 2015/09/30 09:13:29 UTC
+Table: 'Milano 07' 5-max (real money) Seat #1 is the button
+Seat 1: cptarrow (38.93€)
+Seat 2: manggy94 (8.10€)
+Seat 3: SpgEtxe12 (23.96€)
+Seat 5: Rest In Fish (20.49€)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.10€
+SpgEtxe12 posts big blind 0.20€
+Dealt to manggy94 [6h 6c]
+*** PRE-FLOP *** 
+Rest In Fish folds
+cptarrow folds
+manggy94 calls 0.10€
+SpgEtxe12 checks
+*** FLOP *** [9d 8h Jd]
+manggy94 bets 0.40€
+SpgEtxe12 calls 0.40€
+*** TURN *** [9d 8h Jd][9s]
+manggy94 checks
+SpgEtxe12 checks
+*** RIVER *** [9d 8h Jd 9s][Jh]
+manggy94 checks
+SpgEtxe12 checks
+*** SHOW DOWN ***
+manggy94 shows [6h 6c] (Two pairs : Jacks and 9)
+SpgEtxe12 shows [As 8s] (Two pairs : Jacks and 9)
+SpgEtxe12 collected 1.12€ from pot
+*** SUMMARY ***
+Total pot 1.12€ | Rake 0.08€
+Board: [9d 8h Jd 9s Jh]
+Seat 2: manggy94 (small blind) showed [6h 6c] and lost with Two pairs : Jacks and 9
+Seat 3: SpgEtxe12 (big blind) showed [As 8s] and won 1.12€ with Two pairs : Jacks and 9
+
+
+Winamax Poker - CashGame - HandId: #8010083-184-1443604447 - Holdem no limit (0.10€/0.20€) - 2015/09/30 09:14:07 UTC
+Table: 'Milano 07' 5-max (real money) Seat #2 is the button
+Seat 1: cptarrow (38.93€)
+Seat 2: manggy94 (7.50€)
+Seat 3: SpgEtxe12 (24.48€)
+Seat 5: Rest In Fish (20.49€)
+*** ANTE/BLINDS ***
+SpgEtxe12 posts small blind 0.10€
+Rest In Fish posts big blind 0.20€
+Dealt to manggy94 [4c 9c]
+*** PRE-FLOP *** 
+cptarrow folds
+manggy94 folds
+SpgEtxe12 calls 0.10€
+Rest In Fish checks
+*** FLOP *** [2h Qd Th]
+SpgEtxe12 checks
+Rest In Fish checks
+*** TURN *** [2h Qd Th][5s]
+SpgEtxe12 checks
+Rest In Fish checks
+*** RIVER *** [2h Qd Th 5s][7d]
+SpgEtxe12 checks
+Rest In Fish checks
+*** SHOW DOWN ***
+SpgEtxe12 shows [9d 8s] (High card : Queen)
+Rest In Fish shows [Kc 8h] (High card : King)
+Rest In Fish collected 0.37€ from pot
+*** SUMMARY ***
+Total pot 0.37€ | Rake 0.03€
+Board: [2h Qd Th 5s 7d]
+Seat 3: SpgEtxe12 (small blind) showed [9d 8s] and lost with High card : Queen
+Seat 5: Rest In Fish (big blind) showed [Kc 8h] and won 0.37€ with High card : King
+
+
+Winamax Poker - CashGame - HandId: #8010083-185-1443604534 - Holdem no limit (0.10€/0.20€) - 2015/09/30 09:15:34 UTC
+Table: 'Milano 07' 5-max (real money) Seat #3 is the button
+Seat 1: cptarrow (38.93€)
+Seat 2: manggy94 (7.50€)
+Seat 3: SpgEtxe12 (24.28€)
+Seat 5: Rest In Fish (20.66€)
+*** ANTE/BLINDS ***
+cptarrow posts big blind 0.20€
+Dealt to manggy94 [Kc 3s]
+*** PRE-FLOP *** 
+manggy94 calls 0.20€
+SpgEtxe12 calls 0.20€
+cptarrow checks
+*** FLOP *** [5c 8c 8h]
+cptarrow bets 0.30€
+manggy94 calls 0.30€
+SpgEtxe12 folds
+*** TURN *** [5c 8c 8h][8d]
+cptarrow bets 0.60€
+manggy94 raises 6.40€ to 7€ and is all-in
+cptarrow calls 6.40€
+*** RIVER *** [5c 8c 8h 8d][Qh]
+*** SHOW DOWN ***
+manggy94 shows [Kc 3s] (Trips of 8)
+cptarrow shows [8s 7h] (Quads of 8)
+cptarrow collected 14.21€ from pot
+*** SUMMARY ***
+Total pot 14.21€ | Rake 0.99€
+Board: [5c 8c 8h 8d Qh]
+Seat 1: cptarrow (big blind) showed [8s 7h] and won 14.21€ with Quads of 8
+Seat 2: manggy94 showed [Kc 3s] and lost with Trips of 8
+
+
+Winamax Poker - CashGame - HandId: #8010083-186-1443604592 - Holdem no limit (0.10€/0.20€) - 2015/09/30 09:16:32 UTC
+Table: 'Milano 07' 5-max (real money) Seat #1 is the button
+Seat 1: cptarrow (45.64€)
+Seat 2: manggy94 (0€)
+Seat 3: SpgEtxe12 (24.08€)
+Seat 4: Kangal75 (20€)
+Seat 5: Rest In Fish (20.66€)
+*** ANTE/BLINDS ***
+cptarrow posts small blind 0.10€
+SpgEtxe12 posts big blind 0.20€
+*** PRE-FLOP *** 
+cptarrow raises 0.60€ to 0.80€
+SpgEtxe12 folds
+cptarrow collected 1€ from pot
+*** SUMMARY ***
+Total pot 1€ | No rake
+Seat 1: cptarrow (small blind) (button) won 1€
+
+

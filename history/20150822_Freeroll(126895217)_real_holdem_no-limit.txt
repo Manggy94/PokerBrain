@@ -1,0 +1,922 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #545010807033823515-1-1440270933 - Holdem no limit (10/20) - 2015/08/22 19:15:33 UTC
+Table: 'Freeroll(126895217)#0282' 9-max (real money) Seat #5 is the button
+Seat 1: FANTAGARO69 (3000)
+Seat 2: Kazeer (3000)
+Seat 3: mickdundee1 (3000)
+Seat 4: YEDDOU (3000)
+Seat 5: 25manu69 (3000)
+Seat 6: dmk12 (3000)
+Seat 7: BaronK (3000)
+Seat 8: philmax32 (3000)
+Seat 9: manggy94 (3000)
+*** ANTE/BLINDS ***
+dmk12 posts small blind 10
+BaronK posts big blind 20
+Dealt to manggy94 [6c Ks]
+*** PRE-FLOP *** 
+philmax32 folds
+manggy94 calls 20
+FANTAGARO69 folds
+Kazeer folds
+mickdundee1 calls 20
+YEDDOU folds
+25manu69 folds
+dmk12 folds
+BaronK folds
+*** FLOP *** [4s Jh 3h]
+manggy94 checks
+mickdundee1 checks
+*** TURN *** [4s Jh 3h][8d]
+manggy94 checks
+mickdundee1 checks
+*** RIVER *** [4s Jh 3h 8d][6s]
+manggy94 checks
+mickdundee1 checks
+*** SHOW DOWN ***
+mickdundee1 shows [Qs 2s] (High card : Queen)
+manggy94 shows [6c Ks] (One pair : 6)
+manggy94 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [4s Jh 3h 8d 6s]
+Seat 3: mickdundee1 showed [Qs 2s] and lost with High card : Queen
+Seat 9: manggy94 showed [6c Ks] and won 70 with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #545010807033823515-2-1440271147 - Holdem no limit (15/30) - 2015/08/22 19:19:07 UTC
+Table: 'Freeroll(126895217)#0282' 9-max (real money) Seat #6 is the button
+Seat 1: FANTAGARO69 (3000)
+Seat 2: Kazeer (3000)
+Seat 3: mickdundee1 (2980)
+Seat 4: YEDDOU (3000)
+Seat 5: 25manu69 (3000)
+Seat 6: dmk12 (2990)
+Seat 7: BaronK (2980)
+Seat 8: philmax32 (3000)
+Seat 9: manggy94 (3050)
+*** ANTE/BLINDS ***
+BaronK posts small blind 15
+philmax32 posts big blind 30
+Dealt to manggy94 [6s 2s]
+*** PRE-FLOP *** 
+manggy94 folds
+FANTAGARO69 folds
+Kazeer calls 30
+mickdundee1 calls 30
+YEDDOU folds
+25manu69 folds
+dmk12 folds
+BaronK folds
+philmax32 checks
+*** FLOP *** [9d 6h Kd]
+philmax32 checks
+Kazeer checks
+mickdundee1 bets 440
+philmax32 folds
+Kazeer calls 440
+*** TURN *** [9d 6h Kd][5d]
+Kazeer checks
+mickdundee1 checks
+*** RIVER *** [9d 6h Kd 5d][Qd]
+Kazeer checks
+mickdundee1 checks
+*** SHOW DOWN ***
+mickdundee1 shows [3c 3h] (One pair : 3)
+Kazeer shows [Ks Qc] (Two pairs : Kings and Queens)
+Kazeer collected 985 from pot
+*** SUMMARY ***
+Total pot 985 | No rake
+Board: [9d 6h Kd 5d Qd]
+Seat 2: Kazeer showed [Ks Qc] and won 985 with Two pairs : Kings and Queens
+Seat 3: mickdundee1 showed [3c 3h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #545010807033823515-3-1440271439 - Holdem no limit (20/40) - 2015/08/22 19:23:59 UTC
+Table: 'Freeroll(126895217)#0282' 9-max (real money) Seat #7 is the button
+Seat 1: FANTAGARO69 (3000)
+Seat 2: Kazeer (3515)
+Seat 3: mickdundee1 (2510)
+Seat 4: YEDDOU (3000)
+Seat 5: 25manu69 (3000)
+Seat 6: dmk12 (2990)
+Seat 7: BaronK (2965)
+Seat 8: philmax32 (2970)
+Seat 9: manggy94 (3050)
+*** ANTE/BLINDS ***
+philmax32 posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [9c 5c]
+*** PRE-FLOP *** 
+FANTAGARO69 folds
+Kazeer calls 40
+mickdundee1 folds
+YEDDOU folds
+25manu69 folds
+dmk12 folds
+BaronK folds
+philmax32 calls 20
+manggy94 checks
+*** FLOP *** [Ad 7c Qs]
+philmax32 checks
+manggy94 checks
+Kazeer checks
+*** TURN *** [Ad 7c Qs][Kc]
+philmax32 checks
+manggy94 checks
+Kazeer bets 435
+philmax32 folds
+manggy94 folds
+Kazeer shows [Jc Td] (Straight Ace high)
+Kazeer collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Board: [Ad 7c Qs Kc]
+Seat 2: Kazeer showed [Jc Td] and won 555 with Straight Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #545010807033823373-9-1440271602 - Holdem no limit (30/60) - 2015/08/22 19:26:42 UTC
+Table: 'Freeroll(126895217)#0140' 9-max (real money) Seat #2 is the button
+Seat 1: STELLAMART76 (3765)
+Seat 2: Keras33 (2930)
+Seat 3: 33angel33000 (2940)
+Seat 4: abidine93 (5540)
+Seat 5: yoyodidi33 (3115)
+Seat 6: dimitra59 (2760)
+Seat 7: TheBibichon (2950)
+Seat 8: MMA0911 (2275)
+Seat 9: manggy94 (3010)
+*** ANTE/BLINDS ***
+33angel33000 posts small blind 30
+abidine93 posts big blind 60
+Dealt to manggy94 [Ts Js]
+*** PRE-FLOP *** 
+yoyodidi33 folds
+dimitra59 calls 60
+TheBibichon folds
+MMA0911 calls 60
+manggy94 calls 60
+STELLAMART76 folds
+33angel33000 raises 2880 to 2940 and is all-in
+abidine93 folds
+dimitra59 folds
+MMA0911 calls 2215 and is all-in
+manggy94 folds
+*** FLOP *** [Qc Ks As]
+*** TURN *** [Qc Ks As][2c]
+*** RIVER *** [Qc Ks As 2c][Kd]
+*** SHOW DOWN ***
+MMA0911 shows [3s 3c] (Two pairs : Kings and 3)
+33angel33000 shows [4h Qh] (Two pairs : Kings and Queens)
+33angel33000 collected 5395 from pot
+*** SUMMARY ***
+Total pot 5395 | No rake
+Board: [Qc Ks As 2c Kd]
+Seat 3: 33angel33000 (small blind) showed [4h Qh] and won 5395 with Two pairs : Kings and Queens
+Seat 8: MMA0911 showed [3s 3c] and lost with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #545010807033823373-10-1440271653 - Holdem no limit (40/80) - 2015/08/22 19:27:33 UTC
+Table: 'Freeroll(126895217)#0140' 9-max (real money) Seat #3 is the button
+Seat 1: STELLAMART76 (3765)
+Seat 2: Keras33 (2930)
+Seat 3: 33angel33000 (5395)
+Seat 4: abidine93 (5480)
+Seat 5: yoyodidi33 (3115)
+Seat 6: dimitra59 (2700)
+Seat 7: TheBibichon (2950)
+Seat 8: Ocb 93 (4355)
+Seat 9: manggy94 (2950)
+*** ANTE/BLINDS ***
+abidine93 posts small blind 40
+yoyodidi33 posts big blind 80
+Dealt to manggy94 [9c 5h]
+*** PRE-FLOP *** 
+dimitra59 calls 80
+TheBibichon folds
+Ocb 93 folds
+manggy94 folds
+STELLAMART76 raises 160 to 240
+Keras33 calls 240
+33angel33000 folds
+abidine93 folds
+yoyodidi33 folds
+dimitra59 calls 160
+*** FLOP *** [Ah 2s 3s]
+dimitra59 checks
+STELLAMART76 bets 3525 and is all-in
+Keras33 calls 2690 and is all-in
+dimitra59 folds
+*** TURN *** [Ah 2s 3s][8s]
+*** RIVER *** [Ah 2s 3s 8s][7c]
+*** SHOW DOWN ***
+Keras33 shows [4c Ac] (One pair : Aces)
+STELLAMART76 shows [9d Ad] (One pair : Aces)
+STELLAMART76 collected 7055 from pot
+*** SUMMARY ***
+Total pot 7055 | No rake
+Board: [Ah 2s 3s 8s 7c]
+Seat 1: STELLAMART76 showed [9d Ad] and won 7055 with One pair : Aces
+Seat 2: Keras33 showed [4c Ac] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #545010807033823373-11-1440271710 - Holdem no limit (40/80) - 2015/08/22 19:28:30 UTC
+Table: 'Freeroll(126895217)#0140' 9-max (real money) Seat #4 is the button
+Seat 1: STELLAMART76 (7055)
+Seat 2: Samtony (6795)
+Seat 3: 33angel33000 (5395)
+Seat 4: abidine93 (5440)
+Seat 5: yoyodidi33 (3035)
+Seat 6: dimitra59 (2460)
+Seat 7: TheBibichon (2950)
+Seat 8: Ocb 93 (4355)
+Seat 9: manggy94 (2950)
+*** ANTE/BLINDS ***
+yoyodidi33 posts small blind 40
+dimitra59 posts big blind 80
+Dealt to manggy94 [Ad 4s]
+*** PRE-FLOP *** 
+TheBibichon folds
+Ocb 93 folds
+manggy94 calls 80
+STELLAMART76 folds
+Samtony folds
+33angel33000 folds
+abidine93 folds
+yoyodidi33 calls 40
+dimitra59 checks
+*** FLOP *** [Qs 7h 8d]
+yoyodidi33 bets 80
+dimitra59 folds
+manggy94 folds
+yoyodidi33 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Qs 7h 8d]
+Seat 5: yoyodidi33 (small blind) won 320
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #545010807033823373-12-1440271780 - Holdem no limit (40/80) - 2015/08/22 19:29:40 UTC
+Table: 'Freeroll(126895217)#0140' 9-max (real money) Seat #5 is the button
+Seat 1: STELLAMART76 (7055)
+Seat 2: Samtony (6795)
+Seat 3: 33angel33000 (5395)
+Seat 4: abidine93 (5440)
+Seat 5: yoyodidi33 (3195)
+Seat 6: dimitra59 (2380)
+Seat 7: TheBibichon (2950)
+Seat 8: Ocb 93 (4355)
+Seat 9: manggy94 (2870)
+*** ANTE/BLINDS ***
+dimitra59 posts small blind 40
+TheBibichon posts big blind 80
+Dealt to manggy94 [6d 2h]
+*** PRE-FLOP *** 
+Ocb 93 calls 80
+manggy94 folds
+STELLAMART76 raises 80 to 160
+Samtony folds
+33angel33000 folds
+abidine93 folds
+yoyodidi33 folds
+dimitra59 calls 120
+TheBibichon folds
+Ocb 93 calls 80
+*** FLOP *** [Kd Jd Th]
+dimitra59 checks
+Ocb 93 checks
+STELLAMART76 bets 400
+dimitra59 folds
+Ocb 93 folds
+STELLAMART76 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [Kd Jd Th]
+Seat 1: STELLAMART76 won 960
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #545010807033823373-13-1440271830 - Holdem no limit (60/120) - 2015/08/22 19:30:30 UTC
+Table: 'Freeroll(126895217)#0140' 9-max (real money) Seat #6 is the button
+Seat 1: STELLAMART76 (7455)
+Seat 2: Samtony (6795)
+Seat 3: 33angel33000 (5395)
+Seat 4: abidine93 (5440)
+Seat 5: yoyodidi33 (3195)
+Seat 6: dimitra59 (2220)
+Seat 7: dr pre flopp (3000)
+Seat 8: Ocb 93 (4195)
+Seat 9: manggy94 (2870)
+*** ANTE/BLINDS ***
+Ocb 93 posts big blind 120
+Dealt to manggy94 [3d 7c]
+*** PRE-FLOP *** 
+manggy94 folds
+STELLAMART76 folds
+Samtony folds
+33angel33000 raises 5275 to 5395 and is all-in
+abidine93 folds
+yoyodidi33 folds
+dimitra59 folds
+Ocb 93 folds
+33angel33000 collected 5515 from pot
+*** SUMMARY ***
+Total pot 5515 | No rake
+Seat 3: 33angel33000 won 5515
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #545010807033823373-14-1440271881 - Holdem no limit (60/120) - 2015/08/22 19:31:21 UTC
+Table: 'Freeroll(126895217)#0140' 9-max (real money) Seat #7 is the button
+Seat 1: STELLAMART76 (7455)
+Seat 2: Samtony (6795)
+Seat 3: 33angel33000 (5515)
+Seat 4: abidine93 (5440)
+Seat 5: yoyodidi33 (3195)
+Seat 6: dimitra59 (2220)
+Seat 7: dr pre flopp (3000)
+Seat 8: Ocb 93 (4075)
+Seat 9: manggy94 (2870)
+*** ANTE/BLINDS ***
+Ocb 93 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [9c Kd]
+*** PRE-FLOP *** 
+STELLAMART76 folds
+Samtony calls 120
+33angel33000 calls 120
+abidine93 folds
+yoyodidi33 raises 120 to 240
+dimitra59 folds
+Ocb 93 folds
+manggy94 calls 120
+Samtony calls 120
+33angel33000 calls 120
+*** FLOP *** [8d Td 4h]
+manggy94 checks
+Samtony checks
+33angel33000 bets 1020
+yoyodidi33 raises 1935 to 2955 and is all-in
+manggy94 folds
+Samtony folds
+33angel33000 calls 1935
+*** TURN *** [8d Td 4h][7d]
+*** RIVER *** [8d Td 4h 7d][7c]
+*** SHOW DOWN ***
+yoyodidi33 shows [Ks Ad] (One pair : 7)
+33angel33000 shows [9s 7s] (Trips of 7)
+33angel33000 collected 6930 from pot
+*** SUMMARY ***
+Total pot 6930 | No rake
+Board: [8d Td 4h 7d 7c]
+Seat 3: 33angel33000 showed [9s 7s] and won 6930 with Trips of 7
+Seat 5: yoyodidi33 showed [Ks Ad] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #545010807033823373-15-1440271960 - Holdem no limit (60/120) - 2015/08/22 19:32:40 UTC
+Table: 'Freeroll(126895217)#0140' 9-max (real money) Seat #8 is the button
+Seat 1: STELLAMART76 (7455)
+Seat 2: Samtony (6555)
+Seat 3: 33angel33000 (9250)
+Seat 4: abidine93 (5440)
+Seat 5: Marcopaulo28 (14325)
+Seat 6: dimitra59 (2220)
+Seat 7: dr pre flopp (3000)
+Seat 8: Ocb 93 (4015)
+Seat 9: manggy94 (2630)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 60
+STELLAMART76 posts big blind 120
+Dealt to manggy94 [9h Ah]
+*** PRE-FLOP *** 
+Samtony calls 120
+33angel33000 folds
+abidine93 folds
+Marcopaulo28 folds
+dimitra59 calls 120
+dr pre flopp calls 120
+Ocb 93 calls 120
+manggy94 calls 60
+STELLAMART76 checks
+*** FLOP *** [9s As Jd]
+manggy94 checks
+STELLAMART76 bets 480
+Samtony folds
+dimitra59 folds
+dr pre flopp folds
+Ocb 93 calls 480
+manggy94 raises 2030 to 2510 and is all-in
+STELLAMART76 raises 2030 to 4540
+Ocb 93 folds
+*** TURN *** [9s As Jd][7d]
+*** RIVER *** [9s As Jd 7d][5c]
+*** SHOW DOWN ***
+manggy94 shows [9h Ah] (Two pairs : Aces and 9)
+STELLAMART76 shows [7s Ac] (Two pairs : Aces and 7)
+STELLAMART76 collected 2030 from side pot 1
+manggy94 collected 6220 from main pot
+*** SUMMARY ***
+Total pot 8250 | No rake
+Board: [9s As Jd 7d 5c]
+Seat 1: STELLAMART76 (big blind) showed [7s Ac] and won 2030 with Two pairs : Aces and 7
+Seat 9: manggy94 (small blind) showed [9h Ah] and won 6220 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #545010807033823373-16-1440272067 - Holdem no limit (10/60/120) - 2015/08/22 19:34:27 UTC
+Table: 'Freeroll(126895217)#0140' 9-max (real money) Seat #9 is the button
+Seat 1: STELLAMART76 (4825)
+Seat 2: Samtony (6435)
+Seat 3: 33angel33000 (9250)
+Seat 4: abidine93 (5440)
+Seat 5: Marcopaulo28 (14325)
+Seat 6: dimitra59 (2100)
+Seat 7: dr pre flopp (2880)
+Seat 8: Ocb 93 (3415)
+Seat 9: manggy94 (6220)
+*** ANTE/BLINDS ***
+STELLAMART76 posts ante 10
+Samtony posts ante 10
+33angel33000 posts ante 10
+abidine93 posts ante 10
+Marcopaulo28 posts ante 10
+dimitra59 posts ante 10
+dr pre flopp posts ante 10
+Ocb 93 posts ante 10
+manggy94 posts ante 10
+STELLAMART76 posts small blind 60
+Samtony posts big blind 120
+Dealt to manggy94 [As Qd]
+*** PRE-FLOP *** 
+33angel33000 folds
+abidine93 folds
+Marcopaulo28 folds
+dimitra59 calls 120
+dr pre flopp calls 120
+Ocb 93 calls 120
+manggy94 raises 750 to 870
+STELLAMART76 folds
+Samtony folds
+dimitra59 raises 1220 to 2090 and is all-in
+dr pre flopp raises 780 to 2870 and is all-in
+Ocb 93 folds
+manggy94 calls 2000
+*** FLOP *** [5d Td 8d]
+*** TURN *** [5d Td 8d][4h]
+*** RIVER *** [5d Td 8d 4h][5s]
+*** SHOW DOWN ***
+manggy94 shows [As Qd] (One pair : 5)
+dimitra59 shows [4s Ah] (Two pairs : 5 and 4)
+dr pre flopp shows [3c 3d] (Two pairs : 5 and 3)
+dr pre flopp collected 1560 from side pot 1
+dimitra59 collected 6660 from main pot
+*** SUMMARY ***
+Total pot 8220 | No rake
+Board: [5d Td 8d 4h 5s]
+Seat 6: dimitra59 showed [4s Ah] and won 6660 with Two pairs : 5 and 4
+Seat 7: dr pre flopp showed [3c 3d] and won 1560 with Two pairs : 5 and 3
+Seat 9: manggy94 (button) showed [As Qd] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #545010807033823373-17-1440272156 - Holdem no limit (10/60/120) - 2015/08/22 19:35:56 UTC
+Table: 'Freeroll(126895217)#0140' 9-max (real money) Seat #1 is the button
+Seat 1: STELLAMART76 (4755)
+Seat 2: Samtony (6305)
+Seat 3: 33angel33000 (9240)
+Seat 4: abidine93 (5430)
+Seat 5: Marcopaulo28 (14315)
+Seat 6: dimitra59 (6660)
+Seat 7: dr pre flopp (1560)
+Seat 8: Ocb 93 (3285)
+Seat 9: manggy94 (3340)
+*** ANTE/BLINDS ***
+Samtony posts ante 10
+33angel33000 posts ante 10
+STELLAMART76 posts ante 10
+abidine93 posts ante 10
+Marcopaulo28 posts ante 10
+dimitra59 posts ante 10
+dr pre flopp posts ante 10
+Ocb 93 posts ante 10
+manggy94 posts ante 10
+Samtony posts small blind 60
+33angel33000 posts big blind 120
+Dealt to manggy94 [2d 9h]
+*** PRE-FLOP *** 
+abidine93 folds
+Marcopaulo28 folds
+dimitra59 calls 120
+dr pre flopp calls 120
+Ocb 93 calls 120
+manggy94 folds
+STELLAMART76 raises 4625 to 4745 and is all-in
+Samtony folds
+33angel33000 calls 4625
+dimitra59 folds
+dr pre flopp calls 1430 and is all-in
+Ocb 93 folds
+*** FLOP *** [Jc Jd Qs]
+*** TURN *** [Jc Jd Qs][Th]
+*** RIVER *** [Jc Jd Qs Th][Ks]
+*** SHOW DOWN ***
+33angel33000 shows [2c 2s] (Two pairs : Jacks and 2)
+dr pre flopp shows [7d 6c] (One pair : Jacks)
+STELLAMART76 shows [3d Ad] (Straight Ace high)
+STELLAMART76 collected 11430 from pot
+*** SUMMARY ***
+Total pot 11430 | No rake
+Board: [Jc Jd Qs Th Ks]
+Seat 1: STELLAMART76 (button) showed [3d Ad] and won 11430 with Straight Ace high
+Seat 3: 33angel33000 (big blind) showed [2c 2s] and lost with Two pairs : Jacks and 2
+Seat 7: dr pre flopp showed [7d 6c] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #545010807033823373-18-1440272238 - Holdem no limit (15/75/150) - 2015/08/22 19:37:18 UTC
+Table: 'Freeroll(126895217)#0140' 9-max (real money) Seat #2 is the button
+Seat 1: STELLAMART76 (11430)
+Seat 2: Samtony (6235)
+Seat 3: 33angel33000 (4485)
+Seat 4: abidine93 (5420)
+Seat 5: Marcopaulo28 (14305)
+Seat 6: dimitra59 (6530)
+Seat 7: vaness1511 (3370)
+Seat 8: Ocb 93 (3155)
+Seat 9: manggy94 (3330)
+*** ANTE/BLINDS ***
+33angel33000 posts ante 15
+abidine93 posts ante 15
+STELLAMART76 posts ante 15
+Samtony posts ante 15
+Marcopaulo28 posts ante 15
+dimitra59 posts ante 15
+vaness1511 posts ante 15
+Ocb 93 posts ante 15
+manggy94 posts ante 15
+33angel33000 posts small blind 75
+abidine93 posts big blind 150
+Dealt to manggy94 [3c 8d]
+*** PRE-FLOP *** 
+Marcopaulo28 raises 225 to 375
+dimitra59 calls 375
+vaness1511 calls 375
+Ocb 93 calls 375
+manggy94 folds
+STELLAMART76 folds
+Samtony folds
+33angel33000 raises 4095 to 4470 and is all-in
+abidine93 folds
+Marcopaulo28 calls 4095
+dimitra59 folds
+vaness1511 calls 2980 and is all-in
+Ocb 93 folds
+*** FLOP *** [2d 2c Ts]
+*** TURN *** [2d 2c Ts][Th]
+*** RIVER *** [2d 2c Ts Th][3s]
+*** SHOW DOWN ***
+33angel33000 shows [6d Jd] (Two pairs : Tens and 2)
+vaness1511 shows [Qd As] (Two pairs : Tens and 2)
+Marcopaulo28 shows [Kd Kh] (Two pairs : Kings and Tens)
+Marcopaulo28 collected 13330 from pot
+*** SUMMARY ***
+Total pot 13330 | No rake
+Board: [2d 2c Ts Th 3s]
+Seat 3: 33angel33000 (small blind) showed [6d Jd] and lost with Two pairs : Tens and 2
+Seat 5: Marcopaulo28 showed [Kd Kh] and won 13330 with Two pairs : Kings and Tens
+Seat 7: vaness1511 showed [Qd As] and lost with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #545010807033823373-19-1440272299 - Holdem no limit (15/75/150) - 2015/08/22 19:38:19 UTC
+Table: 'Freeroll(126895217)#0140' 9-max (real money) Seat #3 is the button
+Seat 1: STELLAMART76 (11415)
+Seat 2: Samtony (6220)
+Seat 4: abidine93 (5255)
+Seat 5: Marcopaulo28 (23150)
+Seat 6: dimitra59 (6140)
+Seat 7: YCANNES83 (3000)
+Seat 8: Ocb 93 (2765)
+Seat 9: manggy94 (3315)
+*** ANTE/BLINDS ***
+abidine93 posts ante 15
+Marcopaulo28 posts ante 15
+STELLAMART76 posts ante 15
+Samtony posts ante 15
+dimitra59 posts ante 15
+YCANNES83 posts ante 15
+Ocb 93 posts ante 15
+manggy94 posts ante 15
+abidine93 posts small blind 75
+Marcopaulo28 posts big blind 150
+Dealt to manggy94 [Kc Kd]
+*** PRE-FLOP *** 
+dimitra59 calls 150
+YCANNES83 raises 645 to 795
+Ocb 93 folds
+manggy94 raises 2505 to 3300 and is all-in
+STELLAMART76 folds
+Samtony folds
+abidine93 folds
+Marcopaulo28 folds
+dimitra59 folds
+YCANNES83 folds
+manggy94 collected 4590 from pot
+*** SUMMARY ***
+Total pot 4590 | No rake
+Seat 9: manggy94 won 4590
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #545010807033823373-20-1440272343 - Holdem no limit (15/75/150) - 2015/08/22 19:39:03 UTC
+Table: 'Freeroll(126895217)#0140' 9-max (real money) Seat #4 is the button
+Seat 1: STELLAMART76 (11400)
+Seat 2: Samtony (6205)
+Seat 3: Bob Cash 76 (5150)
+Seat 4: abidine93 (5165)
+Seat 5: Marcopaulo28 (22985)
+Seat 6: dimitra59 (5975)
+Seat 7: YCANNES83 (2190)
+Seat 8: Ocb 93 (2750)
+Seat 9: manggy94 (4590)
+*** ANTE/BLINDS ***
+Marcopaulo28 posts ante 15
+dimitra59 posts ante 15
+STELLAMART76 posts ante 15
+Samtony posts ante 15
+Bob Cash 76 posts ante 15
+abidine93 posts ante 15
+YCANNES83 posts ante 15
+Ocb 93 posts ante 15
+manggy94 posts ante 15
+Marcopaulo28 posts small blind 75
+dimitra59 posts big blind 150
+Dealt to manggy94 [9s Kc]
+*** PRE-FLOP *** 
+YCANNES83 raises 510 to 660
+Ocb 93 raises 510 to 1170
+manggy94 folds
+STELLAMART76 folds
+Samtony folds
+Bob Cash 76 folds
+abidine93 folds
+Marcopaulo28 folds
+dimitra59 calls 1020
+YCANNES83 calls 510
+*** FLOP *** [4c 6h 6d]
+dimitra59 checks
+YCANNES83 bets 1005 and is all-in
+Ocb 93 raises 560 to 1565 and is all-in
+dimitra59 folds
+*** TURN *** [4c 6h 6d][Kd]
+*** RIVER *** [4c 6h 6d Kd][Kh]
+*** SHOW DOWN ***
+YCANNES83 shows [Ac Jh] (Two pairs : Kings and 6)
+Ocb 93 shows [Ad Ts] (Two pairs : Kings and 6)
+Ocb 93 collected 3425 from side pot 1
+YCANNES83 collected 2865 from main pot
+*** SUMMARY ***
+Total pot 6290 | No rake
+Board: [4c 6h 6d Kd Kh]
+Seat 7: YCANNES83 showed [Ac Jh] and won 2865 with Two pairs : Kings and 6
+Seat 8: Ocb 93 showed [Ad Ts] and won 3425 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #545010807033823373-21-1440272398 - Holdem no limit (20/100/200) - 2015/08/22 19:39:58 UTC
+Table: 'Freeroll(126895217)#0140' 9-max (real money) Seat #5 is the button
+Seat 1: STELLAMART76 (11385)
+Seat 2: Samtony (6190)
+Seat 3: Bob Cash 76 (5135)
+Seat 4: abidine93 (5150)
+Seat 5: Marcopaulo28 (22895)
+Seat 6: dimitra59 (4790)
+Seat 7: YCANNES83 (2865)
+Seat 8: Ocb 93 (3425)
+Seat 9: manggy94 (4575)
+*** ANTE/BLINDS ***
+dimitra59 posts ante 20
+YCANNES83 posts ante 20
+STELLAMART76 posts ante 20
+Samtony posts ante 20
+Bob Cash 76 posts ante 20
+abidine93 posts ante 20
+Marcopaulo28 posts ante 20
+Ocb 93 posts ante 20
+manggy94 posts ante 20
+dimitra59 posts small blind 100
+YCANNES83 posts big blind 200
+Dealt to manggy94 [5c 4c]
+*** PRE-FLOP *** 
+Ocb 93 raises 996 to 1196
+manggy94 folds
+STELLAMART76 folds
+Samtony folds
+Bob Cash 76 folds
+abidine93 folds
+Marcopaulo28 folds
+dimitra59 folds
+YCANNES83 folds
+Ocb 93 collected 1676 from pot
+*** SUMMARY ***
+Total pot 1676 | No rake
+Seat 8: Ocb 93 won 1676
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #545010807033823373-22-1440272429 - Holdem no limit (20/100/200) - 2015/08/22 19:40:29 UTC
+Table: 'Freeroll(126895217)#0140' 9-max (real money) Seat #6 is the button
+Seat 1: STELLAMART76 (11365)
+Seat 2: Samtony (6170)
+Seat 3: Bob Cash 76 (5115)
+Seat 4: abidine93 (5130)
+Seat 5: Marcopaulo28 (22875)
+Seat 6: dimitra59 (4670)
+Seat 7: YCANNES83 (2645)
+Seat 8: Ocb 93 (3885)
+Seat 9: manggy94 (4555)
+*** ANTE/BLINDS ***
+YCANNES83 posts ante 20
+Ocb 93 posts ante 20
+STELLAMART76 posts ante 20
+Samtony posts ante 20
+Bob Cash 76 posts ante 20
+abidine93 posts ante 20
+Marcopaulo28 posts ante 20
+dimitra59 posts ante 20
+manggy94 posts ante 20
+YCANNES83 posts small blind 100
+Ocb 93 posts big blind 200
+Dealt to manggy94 [Qd 2s]
+*** PRE-FLOP *** 
+manggy94 folds
+STELLAMART76 raises 200 to 400
+Samtony raises 200 to 600
+Bob Cash 76 folds
+abidine93 folds
+Marcopaulo28 calls 600
+dimitra59 calls 600
+YCANNES83 folds
+Ocb 93 calls 400
+STELLAMART76 calls 200
+*** FLOP *** [Jd 9s Kc]
+Ocb 93 checks
+STELLAMART76 bets 1640
+Samtony raises 3910 to 5550 and is all-in
+Marcopaulo28 folds
+dimitra59 calls 4050 and is all-in
+Ocb 93 folds
+STELLAMART76 raises 5195 to 10745 and is all-in
+*** TURN *** [Jd 9s Kc][8d]
+*** RIVER *** [Jd 9s Kc 8d][6s]
+*** SHOW DOWN ***
+Samtony shows [9d 9c] (Trips of 9)
+dimitra59 shows [7s 8h] (One pair : 8)
+STELLAMART76 shows [Qc Tc] (Straight King high)
+STELLAMART76 collected 23625 from pot
+*** SUMMARY ***
+Total pot 23625 | No rake
+Board: [Jd 9s Kc 8d 6s]
+Seat 1: STELLAMART76 showed [Qc Tc] and won 23625 with Straight King high
+Seat 2: Samtony showed [9d 9c] and lost with Trips of 9
+Seat 6: dimitra59 (button) showed [7s 8h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #545010807033823373-23-1440272534 - Holdem no limit (20/100/200) - 2015/08/22 19:42:14 UTC
+Table: 'Freeroll(126895217)#0140' 9-max (real money) Seat #7 is the button
+Seat 1: STELLAMART76 (23625)
+Seat 2: opium06150 (6275)
+Seat 3: Bob Cash 76 (5095)
+Seat 4: abidine93 (5110)
+Seat 5: Marcopaulo28 (22255)
+Seat 6: Jojotek57 (5505)
+Seat 7: YCANNES83 (2525)
+Seat 8: Ocb 93 (3265)
+Seat 9: manggy94 (4535)
+*** ANTE/BLINDS ***
+Ocb 93 posts ante 20
+manggy94 posts ante 20
+STELLAMART76 posts ante 20
+opium06150 posts ante 20
+Bob Cash 76 posts ante 20
+abidine93 posts ante 20
+Marcopaulo28 posts ante 20
+Jojotek57 posts ante 20
+YCANNES83 posts ante 20
+Ocb 93 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [Js 8d]
+*** PRE-FLOP *** 
+STELLAMART76 raises 200 to 400
+opium06150 folds
+Bob Cash 76 folds
+abidine93 folds
+Marcopaulo28 folds
+Jojotek57 folds
+YCANNES83 raises 200 to 600
+Ocb 93 folds
+manggy94 folds
+STELLAMART76 calls 200
+*** FLOP *** [5c Ad Qs]
+STELLAMART76 bets 1680
+YCANNES83 folds
+STELLAMART76 collected 3360 from pot
+*** SUMMARY ***
+Total pot 3360 | No rake
+Board: [5c Ad Qs]
+Seat 1: STELLAMART76 won 3360
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #545010807033823373-24-1440272641 - Holdem no limit (25/125/250) - 2015/08/22 19:44:01 UTC
+Table: 'Freeroll(126895217)#0140' 9-max (real money) Seat #8 is the button
+Seat 1: STELLAMART76 (24685)
+Seat 2: opium06150 (6255)
+Seat 3: Bob Cash 76 (5075)
+Seat 4: abidine93 (5090)
+Seat 5: Marcopaulo28 (22235)
+Seat 6: Jojotek57 (5485)
+Seat 7: YCANNES83 (1905)
+Seat 8: Ocb 93 (3145)
+Seat 9: manggy94 (4315)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+STELLAMART76 posts ante 25
+opium06150 posts ante 25
+Bob Cash 76 posts ante 25
+abidine93 posts ante 25
+Marcopaulo28 posts ante 25
+Jojotek57 posts ante 25
+YCANNES83 posts ante 25
+Ocb 93 posts ante 25
+manggy94 posts small blind 125
+STELLAMART76 posts big blind 250
+Dealt to manggy94 [9s Ah]
+*** PRE-FLOP *** 
+opium06150 folds
+Bob Cash 76 folds
+abidine93 folds
+Marcopaulo28 calls 250
+Jojotek57 calls 250
+YCANNES83 raises 1630 to 1880 and is all-in
+Ocb 93 folds
+manggy94 calls 1755
+STELLAMART76 folds
+Marcopaulo28 folds
+Jojotek57 calls 1630
+*** FLOP *** [7d Kh Tc]
+manggy94 checks
+Jojotek57 checks
+*** TURN *** [7d Kh Tc][Qh]
+manggy94 checks
+Jojotek57 bets 3580 and is all-in
+manggy94 folds
+*** RIVER *** [7d Kh Tc Qh][6s]
+*** SHOW DOWN ***
+YCANNES83 shows [3d 3s] (One pair : 3)
+Jojotek57 shows [As Jd] (Straight Ace high)
+Jojotek57 collected 9945 from pot
+*** SUMMARY ***
+Total pot 9945 | No rake
+Board: [7d Kh Tc Qh 6s]
+Seat 6: Jojotek57 showed [As Jd] and won 9945 with Straight Ace high
+Seat 7: YCANNES83 showed [3d 3s] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 9 - HandId: #545010807033823373-25-1440272717 - Holdem no limit (25/125/250) - 2015/08/22 19:45:17 UTC
+Table: 'Freeroll(126895217)#0140' 9-max (real money) Seat #9 is the button
+Seat 1: STELLAMART76 (24410)
+Seat 2: opium06150 (6230)
+Seat 3: Bob Cash 76 (5050)
+Seat 4: abidine93 (5065)
+Seat 5: Marcopaulo28 (21960)
+Seat 6: Jojotek57 (9945)
+Seat 7: pins57000 (2390)
+Seat 8: Ocb 93 (3120)
+Seat 9: manggy94 (2410)
+*** ANTE/BLINDS ***
+STELLAMART76 posts ante 25
+opium06150 posts ante 25
+Bob Cash 76 posts ante 25
+abidine93 posts ante 25
+Marcopaulo28 posts ante 25
+Jojotek57 posts ante 25
+pins57000 posts ante 25
+Ocb 93 posts ante 25
+manggy94 posts ante 25
+STELLAMART76 posts small blind 125
+opium06150 posts big blind 250
+Dealt to manggy94 [Jc Qc]
+*** PRE-FLOP *** 
+Bob Cash 76 raises 4775 to 5025 and is all-in
+abidine93 folds
+Marcopaulo28 folds
+Jojotek57 folds
+pins57000 folds
+Ocb 93 folds
+manggy94 calls 2385 and is all-in
+STELLAMART76 folds
+opium06150 folds
+*** FLOP *** [6c Tc 6d]
+*** TURN *** [6c Tc 6d][Js]
+*** RIVER *** [6c Tc 6d Js][6h]
+*** SHOW DOWN ***
+manggy94 shows [Jc Qc] (Full of 6 and Jacks)
+Bob Cash 76 shows [Ac As] (Full of 6 and Aces)
+Bob Cash 76 collected 8010 from pot
+*** SUMMARY ***
+Total pot 8010 | No rake
+Board: [6c Tc 6d Js 6h]
+Seat 3: Bob Cash 76 showed [Ac As] and won 8010 with Full of 6 and Aces
+Seat 9: manggy94 (button) showed [Jc Qc] and lost with Full of 6 and Jacks
+
+

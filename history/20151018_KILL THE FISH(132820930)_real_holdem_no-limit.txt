@@ -1,0 +1,132 @@
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 0 - HandId: #570461550574305302-1-1445168705 - Holdem no limit (25/50) - 2015/10/18 11:45:05 UTC
+Table: 'KILL THE FISH(132820930)#021' 6-max (real money) Seat #2 is the button
+Seat 1: ghiscari (10000)
+Seat 2: fonfonas69 (10000)
+Seat 3: ptitchatte75 (10000)
+Seat 4: salmon_maki (10000)
+Seat 5: Phoden (10000)
+Seat 6: manggy94 (10000)
+*** ANTE/BLINDS ***
+ptitchatte75 posts small blind 25
+salmon_maki posts big blind 50
+Dealt to manggy94 [4h 4d]
+*** PRE-FLOP *** 
+Phoden raises 150 to 200
+manggy94 calls 200
+ghiscari calls 200
+fonfonas69 folds
+ptitchatte75 calls 175
+salmon_maki folds
+*** FLOP *** [Ah Td Ts]
+ptitchatte75 checks
+Phoden checks
+manggy94 checks
+ghiscari checks
+*** TURN *** [Ah Td Ts][8s]
+ptitchatte75 checks
+Phoden checks
+manggy94 checks
+ghiscari checks
+*** RIVER *** [Ah Td Ts 8s][9d]
+ptitchatte75 checks
+Phoden bets 175
+manggy94 calls 175
+ghiscari folds
+ptitchatte75 folds
+*** SHOW DOWN ***
+manggy94 shows [4h 4d] (Two pairs : Tens and 4)
+Phoden shows [As 9c] (Two pairs : Aces and Tens)
+Phoden collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [Ah Td Ts 8s 9d]
+Seat 5: Phoden showed [As 9c] and won 1200 with Two pairs : Aces and Tens
+Seat 6: manggy94 showed [4h 4d] and lost with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 0 - HandId: #570461550574305302-2-1445168788 - Holdem no limit (25/50) - 2015/10/18 11:46:28 UTC
+Table: 'KILL THE FISH(132820930)#021' 6-max (real money) Seat #3 is the button
+Seat 1: ghiscari (9800)
+Seat 2: fonfonas69 (10000)
+Seat 3: ptitchatte75 (9800)
+Seat 4: salmon_maki (9950)
+Seat 5: Phoden (10825)
+Seat 6: manggy94 (9625)
+*** ANTE/BLINDS ***
+salmon_maki posts small blind 25
+Phoden posts big blind 50
+Dealt to manggy94 [2d 7d]
+*** PRE-FLOP *** 
+manggy94 folds
+ghiscari folds
+fonfonas69 folds
+ptitchatte75 folds
+salmon_maki folds
+Phoden collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Seat 5: Phoden (big blind) won 75
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 0 - HandId: #570461550574305302-3-1445168820 - Holdem no limit (25/50) - 2015/10/18 11:47:00 UTC
+Table: 'KILL THE FISH(132820930)#021' 6-max (real money) Seat #4 is the button
+Seat 1: ghiscari (9800)
+Seat 2: fonfonas69 (10000)
+Seat 3: ptitchatte75 (9800)
+Seat 4: salmon_maki (9925)
+Seat 5: Phoden (10850)
+Seat 6: manggy94 (9625)
+*** ANTE/BLINDS ***
+Phoden posts small blind 25
+manggy94 posts big blind 50
+Dealt to manggy94 [Jd Kh]
+*** PRE-FLOP *** 
+ghiscari folds
+fonfonas69 folds
+ptitchatte75 folds
+salmon_maki folds
+Phoden folds
+manggy94 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Seat 6: manggy94 (big blind) won 75
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 0 - HandId: #570461550574305302-4-1445168852 - Holdem no limit (25/50) - 2015/10/18 11:47:32 UTC
+Table: 'KILL THE FISH(132820930)#021' 6-max (real money) Seat #5 is the button
+Seat 1: ghiscari (9800)
+Seat 2: fonfonas69 (10000)
+Seat 3: ptitchatte75 (9800)
+Seat 4: salmon_maki (9925)
+Seat 5: Phoden (10825)
+Seat 6: manggy94 (9650)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 25
+ghiscari posts big blind 50
+Dealt to manggy94 [As Ks]
+*** PRE-FLOP *** 
+fonfonas69 calls 50
+ptitchatte75 raises 200 to 250
+salmon_maki folds
+Phoden folds
+manggy94 raises 600 to 850
+ghiscari folds
+fonfonas69 calls 800
+ptitchatte75 raises 1700 to 2550
+manggy94 raises 7100 to 9650 and is all-in
+fonfonas69 folds
+ptitchatte75 calls 7100
+*** FLOP *** [Kc Th 5c]
+*** TURN *** [Kc Th 5c][7h]
+*** RIVER *** [Kc Th 5c 7h][Td]
+*** SHOW DOWN ***
+manggy94 shows [As Ks] (Two pairs : Kings and Tens)
+ptitchatte75 shows [Ah Ac] (Two pairs : Aces and Tens)
+ptitchatte75 collected 20200 from pot
+*** SUMMARY ***
+Total pot 20200 | No rake
+Board: [Kc Th 5c 7h Td]
+Seat 3: ptitchatte75 showed [Ah Ac] and won 20200 with Two pairs : Aces and Tens
+Seat 6: manggy94 (small blind) showed [As Ks] and lost with Two pairs : Kings and Tens
+
+

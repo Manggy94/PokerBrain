@@ -1,0 +1,580 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 2 - HandId: #654222372148084754-17-1459099923 - Holdem no limit (75/150) - 2016/03/27 17:32:03 UTC
+Table: 'Kill The Fish(152323016)#017' 8-max (real money) Seat #4 is the button
+Seat 1: Valentuzich (13700)
+Seat 2: Daenerys14 (16784)
+Seat 3: FearThe8eard (2950)
+Seat 5: dktractor (12058)
+Seat 6: manggy94 (10000)
+Seat 7: fuckmaurice (10933)
+Seat 8: 14shark14 (23425)
+*** ANTE/BLINDS ***
+dktractor posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [Jh 5c]
+*** PRE-FLOP *** 
+fuckmaurice folds
+14shark14 folds
+Valentuzich calls 150
+Daenerys14 folds
+FearThe8eard folds
+dktractor folds
+manggy94 checks
+*** FLOP *** [9h 8c Th]
+manggy94 checks
+Valentuzich bets 225
+manggy94 calls 225
+*** TURN *** [9h 8c Th][6d]
+manggy94 checks
+Valentuzich bets 413
+manggy94 calls 413
+*** RIVER *** [9h 8c Th 6d][Ah]
+manggy94 checks
+Valentuzich checks
+*** SHOW DOWN ***
+manggy94 shows [Jh 5c] (High card : Ace)
+Valentuzich shows [Js Tc] (One pair : Tens)
+Valentuzich collected 1651 from pot
+*** SUMMARY ***
+Total pot 1651 | No rake
+Board: [9h 8c Th 6d Ah]
+Seat 1: Valentuzich showed [Js Tc] and won 1651 with One pair : Tens
+Seat 6: manggy94 (big blind) showed [Jh 5c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 3 - HandId: #654222372148084754-18-1459099984 - Holdem no limit (100/200) - 2016/03/27 17:33:04 UTC
+Table: 'Kill The Fish(152323016)#017' 8-max (real money) Seat #5 is the button
+Seat 1: Valentuzich (14563)
+Seat 2: Daenerys14 (16784)
+Seat 3: FearThe8eard (2950)
+Seat 4: brewok (10000)
+Seat 5: dktractor (11983)
+Seat 6: manggy94 (9212)
+Seat 7: fuckmaurice (10933)
+Seat 8: 14shark14 (23425)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+fuckmaurice posts big blind 200
+Dealt to manggy94 [Tc 8h]
+*** PRE-FLOP *** 
+14shark14 folds
+Valentuzich raises 600 to 800
+Daenerys14 folds
+FearThe8eard folds
+brewok folds
+dktractor folds
+manggy94 folds
+fuckmaurice folds
+Valentuzich shows [Kh Kd] (One pair : Kings)
+Valentuzich collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | No rake
+Seat 1: Valentuzich showed [Kh Kd] and won 1100 with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 3 - HandId: #654222372148084754-19-1459100019 - Holdem no limit (100/200) - 2016/03/27 17:33:39 UTC
+Table: 'Kill The Fish(152323016)#017' 8-max (real money) Seat #6 is the button
+Seat 1: Valentuzich (14863)
+Seat 2: Daenerys14 (16784)
+Seat 3: FearThe8eard (2950)
+Seat 4: brewok (10000)
+Seat 5: dktractor (11983)
+Seat 6: manggy94 (9112)
+Seat 7: fuckmaurice (10733)
+Seat 8: 14shark14 (23425)
+*** ANTE/BLINDS ***
+fuckmaurice posts small blind 100
+14shark14 posts big blind 200
+Dealt to manggy94 [6c Ks]
+*** PRE-FLOP *** 
+Valentuzich folds
+Daenerys14 folds
+FearThe8eard raises 2750 to 2950 and is all-in
+brewok calls 2950
+dktractor folds
+manggy94 folds
+fuckmaurice folds
+14shark14 folds
+*** FLOP *** [Ah Jh 3c]
+*** TURN *** [Ah Jh 3c][8d]
+*** RIVER *** [Ah Jh 3c 8d][Tc]
+*** SHOW DOWN ***
+FearThe8eard shows [8s Ad] (Two pairs : Aces and 8)
+brewok shows [Th Ts] (Trips of Tens)
+brewok collected 6200 from pot
+*** SUMMARY ***
+Total pot 6200 | No rake
+Board: [Ah Jh 3c 8d Tc]
+Seat 3: FearThe8eard showed [8s Ad] and lost with Two pairs : Aces and 8
+Seat 4: brewok showed [Th Ts] and won 6200 with Trips of Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 3 - HandId: #654222372148084754-20-1459100052 - Holdem no limit (100/200) - 2016/03/27 17:34:12 UTC
+Table: 'Kill The Fish(152323016)#017' 8-max (real money) Seat #7 is the button
+Seat 1: Valentuzich (14863)
+Seat 2: Daenerys14 (16784)
+Seat 4: brewok (13250)
+Seat 5: dktractor (11983)
+Seat 6: manggy94 (9112)
+Seat 7: fuckmaurice (10633)
+Seat 8: 14shark14 (23225)
+*** ANTE/BLINDS ***
+14shark14 posts small blind 100
+Valentuzich posts big blind 200
+Dealt to manggy94 [9d 6s]
+*** PRE-FLOP *** 
+Daenerys14 folds
+brewok folds
+dktractor raises 300 to 500
+manggy94 folds
+fuckmaurice folds
+14shark14 folds
+Valentuzich folds
+dktractor collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Seat 5: dktractor won 800
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 3 - HandId: #654222372148084754-21-1459100071 - Holdem no limit (100/200) - 2016/03/27 17:34:31 UTC
+Table: 'Kill The Fish(152323016)#017' 8-max (real money) Seat #8 is the button
+Seat 1: Valentuzich (14663)
+Seat 2: Daenerys14 (16784)
+Seat 3: Feel High V (10000)
+Seat 4: brewok (13250)
+Seat 5: dktractor (12283)
+Seat 6: manggy94 (9112)
+Seat 7: fuckmaurice (10633)
+Seat 8: 14shark14 (23125)
+*** ANTE/BLINDS ***
+Valentuzich posts small blind 100
+Daenerys14 posts big blind 200
+Dealt to manggy94 [7d Kd]
+*** PRE-FLOP *** 
+Feel High V calls 200
+brewok raises 13050 to 13250 and is all-in
+dktractor folds
+manggy94 folds
+fuckmaurice folds
+14shark14 folds
+Valentuzich folds
+Daenerys14 folds
+Feel High V folds
+brewok collected 13750 from pot
+*** SUMMARY ***
+Total pot 13750 | No rake
+Seat 4: brewok won 13750
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 3 - HandId: #654222372148084754-22-1459100112 - Holdem no limit (100/200) - 2016/03/27 17:35:12 UTC
+Table: 'Kill The Fish(152323016)#017' 8-max (real money) Seat #1 is the button
+Seat 1: Valentuzich (14563)
+Seat 2: Daenerys14 (16584)
+Seat 3: Feel High V (9800)
+Seat 4: brewok (13750)
+Seat 5: dktractor (12283)
+Seat 6: manggy94 (9112)
+Seat 7: fuckmaurice (10633)
+Seat 8: 14shark14 (23125)
+*** ANTE/BLINDS ***
+Daenerys14 posts small blind 100
+Feel High V posts big blind 200
+Dealt to manggy94 [3s 4s]
+*** PRE-FLOP *** 
+brewok folds
+dktractor raises 300 to 500
+manggy94 calls 500
+fuckmaurice folds
+14shark14 folds
+Valentuzich calls 500
+Daenerys14 folds
+Feel High V folds
+*** FLOP *** [Kd Jd 9d]
+dktractor checks
+manggy94 checks
+Valentuzich bets 900
+dktractor folds
+manggy94 folds
+Valentuzich collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [Kd Jd 9d]
+Seat 1: Valentuzich (button) won 2700
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 3 - HandId: #654222372148084754-23-1459100156 - Holdem no limit (100/200) - 2016/03/27 17:35:56 UTC
+Table: 'Kill The Fish(152323016)#017' 8-max (real money) Seat #2 is the button
+Seat 1: Valentuzich (15863)
+Seat 2: Daenerys14 (16484)
+Seat 3: Feel High V (9600)
+Seat 4: brewok (13750)
+Seat 5: dktractor (11783)
+Seat 6: manggy94 (8612)
+Seat 7: fuckmaurice (10633)
+Seat 8: 14shark14 (23125)
+*** ANTE/BLINDS ***
+Feel High V posts small blind 100
+brewok posts big blind 200
+Dealt to manggy94 [Kd Jd]
+*** PRE-FLOP *** 
+dktractor folds
+manggy94 raises 500 to 700
+fuckmaurice folds
+14shark14 folds
+Valentuzich folds
+Daenerys14 folds
+Feel High V calls 600
+brewok folds
+*** FLOP *** [5s Td 2c]
+Feel High V checks
+manggy94 bets 1600
+Feel High V folds
+manggy94 collected 3200 from pot
+*** SUMMARY ***
+Total pot 3200 | No rake
+Board: [5s Td 2c]
+Seat 6: manggy94 won 3200
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 3 - HandId: #654222372148084754-24-1459100203 - Holdem no limit (100/200) - 2016/03/27 17:36:43 UTC
+Table: 'Kill The Fish(152323016)#017' 8-max (real money) Seat #3 is the button
+Seat 1: Valentuzich (15863)
+Seat 2: Daenerys14 (16484)
+Seat 3: Feel High V (8900)
+Seat 4: brewok (13550)
+Seat 5: dktractor (11783)
+Seat 6: manggy94 (9512)
+Seat 7: fuckmaurice (10633)
+Seat 8: 14shark14 (23125)
+*** ANTE/BLINDS ***
+brewok posts small blind 100
+dktractor posts big blind 200
+Dealt to manggy94 [7h 8d]
+*** PRE-FLOP *** 
+manggy94 folds
+fuckmaurice folds
+14shark14 folds
+Valentuzich folds
+Daenerys14 raises 220 to 420
+Feel High V folds
+brewok folds
+dktractor folds
+Daenerys14 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 2: Daenerys14 won 720
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 3 - HandId: #654222372148084754-25-1459100240 - Holdem no limit (100/200) - 2016/03/27 17:37:20 UTC
+Table: 'Kill The Fish(152323016)#017' 8-max (real money) Seat #4 is the button
+Seat 1: Valentuzich (15863)
+Seat 2: Daenerys14 (16784)
+Seat 3: Feel High V (8900)
+Seat 4: brewok (13450)
+Seat 5: dktractor (11583)
+Seat 6: manggy94 (9512)
+Seat 7: fuckmaurice (10633)
+Seat 8: 14shark14 (23125)
+*** ANTE/BLINDS ***
+dktractor posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [4h Js]
+*** PRE-FLOP *** 
+fuckmaurice folds
+14shark14 raises 300 to 500
+Valentuzich folds
+Daenerys14 folds
+Feel High V folds
+brewok calls 500
+dktractor folds
+manggy94 folds
+*** FLOP *** [3d Ah Jc]
+14shark14 bets 967
+brewok folds
+14shark14 collected 2267 from pot
+*** SUMMARY ***
+Total pot 2267 | No rake
+Board: [3d Ah Jc]
+Seat 8: 14shark14 won 2267
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 3 - HandId: #654222372148084754-26-1459100275 - Holdem no limit (100/200) - 2016/03/27 17:37:55 UTC
+Table: 'Kill The Fish(152323016)#017' 8-max (real money) Seat #5 is the button
+Seat 1: Valentuzich (15863)
+Seat 2: Daenerys14 (16784)
+Seat 3: Feel High V (8900)
+Seat 4: brewok (12950)
+Seat 5: dktractor (11483)
+Seat 6: manggy94 (9312)
+Seat 7: fuckmaurice (10633)
+Seat 8: 14shark14 (23925)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+fuckmaurice posts big blind 200
+Dealt to manggy94 [Tc 9s]
+*** PRE-FLOP *** 
+14shark14 calls 200
+Valentuzich raises 400 to 600
+Daenerys14 folds
+Feel High V calls 600
+brewok calls 600
+dktractor folds
+manggy94 calls 500
+fuckmaurice folds
+14shark14 calls 400
+*** FLOP *** [3s 3d Qh]
+manggy94 checks
+14shark14 checks
+Valentuzich bets 1000
+Feel High V folds
+brewok calls 1000
+manggy94 folds
+14shark14 folds
+*** TURN *** [3s 3d Qh][Jh]
+Valentuzich bets 2000
+brewok calls 2000
+*** RIVER *** [3s 3d Qh Jh][Js]
+Valentuzich bets 4600
+brewok folds
+Valentuzich collected 13800 from pot
+*** SUMMARY ***
+Total pot 13800 | No rake
+Board: [3s 3d Qh Jh Js]
+Seat 1: Valentuzich won 13800
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 4 - HandId: #654222372148084754-27-1459100365 - Holdem no limit (150/300) - 2016/03/27 17:39:25 UTC
+Table: 'Kill The Fish(152323016)#017' 8-max (real money) Seat #6 is the button
+Seat 1: Valentuzich (21463)
+Seat 2: Daenerys14 (16784)
+Seat 3: Feel High V (8300)
+Seat 4: brewok (9350)
+Seat 5: dktractor (11483)
+Seat 6: manggy94 (8712)
+Seat 7: fuckmaurice (10433)
+Seat 8: 14shark14 (23325)
+*** ANTE/BLINDS ***
+fuckmaurice posts small blind 150
+14shark14 posts big blind 300
+Dealt to manggy94 [4d 5h]
+*** PRE-FLOP *** 
+Valentuzich calls 300
+Daenerys14 folds
+Feel High V folds
+brewok folds
+dktractor folds
+manggy94 folds
+fuckmaurice calls 150
+14shark14 checks
+*** FLOP *** [Ks 7c 2d]
+fuckmaurice checks
+14shark14 checks
+Valentuzich checks
+*** TURN *** [Ks 7c 2d][6h]
+fuckmaurice checks
+14shark14 checks
+Valentuzich bets 450
+fuckmaurice folds
+14shark14 folds
+Valentuzich collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [Ks 7c 2d 6h]
+Seat 1: Valentuzich won 1350
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 4 - HandId: #654222372148084754-28-1459100491 - Holdem no limit (150/300) - 2016/03/27 17:41:31 UTC
+Table: 'Kill The Fish(152323016)#017' 8-max (real money) Seat #7 is the button
+Seat 1: Valentuzich (22063)
+Seat 2: Daenerys14 (16784)
+Seat 3: Feel High V (8300)
+Seat 4: brewok (9350)
+Seat 5: dktractor (11483)
+Seat 6: manggy94 (8712)
+Seat 7: fuckmaurice (10133)
+Seat 8: 14shark14 (23025)
+*** ANTE/BLINDS ***
+14shark14 posts small blind 150
+Valentuzich posts big blind 300
+Dealt to manggy94 [8d 4h]
+*** PRE-FLOP *** 
+Daenerys14 raises 450 to 750
+Feel High V folds
+brewok folds
+dktractor folds
+manggy94 folds
+fuckmaurice folds
+14shark14 folds
+Valentuzich folds
+Daenerys14 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Seat 2: Daenerys14 won 1200
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 4 - HandId: #654222372148084754-29-1459100514 - Holdem no limit (150/300) - 2016/03/27 17:41:54 UTC
+Table: 'Kill The Fish(152323016)#017' 8-max (real money) Seat #8 is the button
+Seat 1: Valentuzich (21763)
+Seat 2: Daenerys14 (17234)
+Seat 3: Feel High V (8300)
+Seat 4: brewok (9350)
+Seat 5: dktractor (11483)
+Seat 6: manggy94 (8712)
+Seat 7: fuckmaurice (10133)
+Seat 8: 14shark14 (22875)
+*** ANTE/BLINDS ***
+Valentuzich posts small blind 150
+Daenerys14 posts big blind 300
+Dealt to manggy94 [Td 9h]
+*** PRE-FLOP *** 
+Feel High V raises 300 to 600
+brewok calls 600
+dktractor folds
+manggy94 folds
+fuckmaurice folds
+14shark14 calls 600
+Valentuzich folds
+Daenerys14 calls 300
+*** FLOP *** [9d 6d 9s]
+Daenerys14 checks
+Feel High V bets 1275
+brewok calls 1275
+14shark14 folds
+Daenerys14 folds
+*** TURN *** [9d 6d 9s][3d]
+Feel High V checks
+brewok bets 7475 and is all-in
+Feel High V folds
+brewok collected 12575 from pot
+*** SUMMARY ***
+Total pot 12575 | No rake
+Board: [9d 6d 9s 3d]
+Seat 4: brewok won 12575
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 4 - HandId: #654222372148084754-30-1459100588 - Holdem no limit (150/300) - 2016/03/27 17:43:08 UTC
+Table: 'Kill The Fish(152323016)#017' 8-max (real money) Seat #1 is the button
+Seat 1: Valentuzich (21613)
+Seat 2: Daenerys14 (16634)
+Seat 3: Feel High V (6425)
+Seat 4: brewok (12575)
+Seat 5: dktractor (11483)
+Seat 6: manggy94 (8712)
+Seat 7: fuckmaurice (10133)
+Seat 8: 14shark14 (22275)
+*** ANTE/BLINDS ***
+Daenerys14 posts small blind 150
+Feel High V posts big blind 300
+Dealt to manggy94 [4d Ks]
+*** PRE-FLOP *** 
+brewok folds
+dktractor raises 600 to 900
+manggy94 folds
+fuckmaurice folds
+14shark14 folds
+Valentuzich folds
+Daenerys14 folds
+Feel High V raises 600 to 1500
+dktractor raises 9983 to 11483 and is all-in
+Feel High V calls 4925 and is all-in
+*** FLOP *** [Ac Jc Kd]
+*** TURN *** [Ac Jc Kd][Qh]
+*** RIVER *** [Ac Jc Kd Qh][5d]
+*** SHOW DOWN ***
+Feel High V shows [As Ah] (Trips of Aces)
+dktractor shows [9s 9d] (One pair : 9)
+dktractor collected 5058 from side pot 1
+Feel High V collected 13000 from main pot
+*** SUMMARY ***
+Total pot 18058 | No rake
+Board: [Ac Jc Kd Qh 5d]
+Seat 3: Feel High V (big blind) showed [As Ah] and won 13000 with Trips of Aces
+Seat 5: dktractor showed [9s 9d] and won 5058 with One pair : 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 4 - HandId: #654222372148084754-31-1459100618 - Holdem no limit (150/300) - 2016/03/27 17:43:38 UTC
+Table: 'Kill The Fish(152323016)#017' 8-max (real money) Seat #2 is the button
+Seat 1: Valentuzich (21613)
+Seat 2: Daenerys14 (16484)
+Seat 3: Feel High V (13000)
+Seat 4: brewok (12575)
+Seat 5: dktractor (5058)
+Seat 6: manggy94 (8712)
+Seat 7: fuckmaurice (10133)
+Seat 8: 14shark14 (22275)
+*** ANTE/BLINDS ***
+Feel High V posts small blind 150
+brewok posts big blind 300
+Dealt to manggy94 [8d Jc]
+*** PRE-FLOP *** 
+dktractor folds
+manggy94 folds
+fuckmaurice folds
+14shark14 folds
+Valentuzich folds
+Daenerys14 raises 450 to 750
+Feel High V calls 600
+brewok folds
+*** FLOP *** [9d 8s As]
+Feel High V checks
+Daenerys14 bets 1050
+Feel High V raises 1050 to 2100
+Daenerys14 calls 1050
+*** TURN *** [9d 8s As][6s]
+Feel High V bets 4000
+Daenerys14 folds
+Feel High V collected 10000 from pot
+*** SUMMARY ***
+Total pot 10000 | No rake
+Board: [9d 8s As 6s]
+Seat 3: Feel High V (small blind) won 10000
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4,50€ + 4,50€ + 1€ level: 4 - HandId: #654222372148084754-32-1459100666 - Holdem no limit (150/300) - 2016/03/27 17:44:26 UTC
+Table: 'Kill The Fish(152323016)#017' 8-max (real money) Seat #3 is the button
+Seat 1: Valentuzich (21613)
+Seat 2: Daenerys14 (13634)
+Seat 3: Feel High V (16150)
+Seat 4: brewok (12275)
+Seat 5: dktractor (5058)
+Seat 6: manggy94 (8712)
+Seat 7: fuckmaurice (10133)
+Seat 8: 14shark14 (22275)
+*** ANTE/BLINDS ***
+brewok posts small blind 150
+dktractor posts big blind 300
+Dealt to manggy94 [Kc 3h]
+*** PRE-FLOP *** 
+manggy94 calls 300
+fuckmaurice folds
+14shark14 calls 300
+Valentuzich folds
+Daenerys14 folds
+Feel High V calls 300
+brewok calls 150
+dktractor checks
+*** FLOP *** [Ad Qh 3c]
+brewok checks
+dktractor checks
+manggy94 checks
+14shark14 bets 1000
+Feel High V folds
+brewok folds
+dktractor folds
+manggy94 calls 1000
+*** TURN *** [Ad Qh 3c][Kh]
+manggy94 checks
+14shark14 bets 1800
+manggy94 raises 5612 to 7412 and is all-in
+14shark14 calls 5612
+*** RIVER *** [Ad Qh 3c Kh][4d]
+*** SHOW DOWN ***
+manggy94 shows [Kc 3h] (Two pairs : Kings and 3)
+14shark14 shows [Qd Qc] (Trips of Queens)
+14shark14 collected 18324 from pot
+*** SUMMARY ***
+Total pot 18324 | No rake
+Board: [Ad Qh 3c Kh 4d]
+Seat 6: manggy94 showed [Kc 3h] and lost with Two pairs : Kings and 3
+Seat 8: 14shark14 showed [Qd Qc] and won 18324 with Trips of Queens
+
+

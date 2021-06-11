@@ -1,0 +1,346 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1743646186897670350-25-1606160380 - Holdem no limit (60/250/500) - 2020/11/23 19:39:40 UTC
+Table: 'Freeroll(405974264)#0205' 8-max (real money) Seat #5 is the button
+Seat 1: Pierre54720 (42719)
+Seat 2: Aya108 (41994)
+Seat 3: JUDO-KID (16839)
+Seat 4: manggy94 (20000)
+Seat 5: Alex_Mauriz (180341)
+Seat 6: CriscoZZ (18690)
+Seat 7: Flushdraw06 (120815)
+Seat 8: George8711 (19880)
+*** ANTE/BLINDS ***
+CriscoZZ posts ante 60
+Flushdraw06 posts ante 60
+Pierre54720 posts ante 60
+Aya108 posts ante 60
+JUDO-KID posts ante 60
+manggy94 posts ante 60
+Alex_Mauriz posts ante 60
+George8711 posts ante 60
+CriscoZZ posts small blind 250
+Flushdraw06 posts big blind 500
+Dealt to manggy94 [7c 9h]
+*** PRE-FLOP *** 
+George8711 folds
+Pierre54720 folds
+Aya108 folds
+JUDO-KID folds
+manggy94 folds
+Alex_Mauriz raises 179781 to 180281 and is all-in
+CriscoZZ folds
+Flushdraw06 calls 120255 and is all-in
+*** FLOP *** [2s 2h 4s]
+*** TURN *** [2s 2h 4s][Qh]
+*** RIVER *** [2s 2h 4s Qh][6d]
+*** SHOW DOWN ***
+Alex_Mauriz shows [Kc Ac] (One pair : 2)
+Flushdraw06 shows [Qd Kh] (Two pairs : Queens and 2)
+Flushdraw06 collected 242240 from main pot
+Alex_Mauriz collected 59526 from side pot 1
+*** SUMMARY ***
+Total pot 301766 | No rake
+Board: [2s 2h 4s Qh 6d]
+Seat 5: Alex_Mauriz (button) showed [Kc Ac] and won 59526 with One pair : 2
+Seat 7: Flushdraw06 (big blind) showed [Qd Kh] and won 242240 with Two pairs : Queens and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1743646186897670350-26-1606160419 - Holdem no limit (60/250/500) - 2020/11/23 19:40:19 UTC
+Table: 'Freeroll(405974264)#0205' 8-max (real money) Seat #6 is the button
+Seat 1: Pierre54720 (42659)
+Seat 2: Aya108 (41934)
+Seat 3: JUDO-KID (16779)
+Seat 4: manggy94 (19940)
+Seat 5: Alex_Mauriz (59526)
+Seat 6: CriscoZZ (18380)
+Seat 7: Flushdraw06 (242240)
+Seat 8: George8711 (19820)
+*** ANTE/BLINDS ***
+Flushdraw06 posts ante 60
+George8711 posts ante 60
+Pierre54720 posts ante 60
+Aya108 posts ante 60
+JUDO-KID posts ante 60
+manggy94 posts ante 60
+Alex_Mauriz posts ante 60
+CriscoZZ posts ante 60
+Flushdraw06 posts small blind 250
+George8711 posts big blind 500
+Dealt to manggy94 [2d Jc]
+*** PRE-FLOP *** 
+Pierre54720 folds
+Aya108 calls 500
+JUDO-KID folds
+manggy94 folds
+Alex_Mauriz raises 58966 to 59466 and is all-in
+CriscoZZ calls 18320 and is all-in
+Flushdraw06 folds
+George8711 folds
+Aya108 folds
+*** FLOP *** [6h 4s Th]
+*** TURN *** [6h 4s Th][8d]
+*** RIVER *** [6h 4s Th 8d][7c]
+*** SHOW DOWN ***
+CriscoZZ shows [Qs Ah] (High card : Ace)
+Alex_Mauriz shows [9h Qc] (Straight Ten high)
+Alex_Mauriz collected 79516 from pot
+*** SUMMARY ***
+Total pot 79516 | No rake
+Board: [6h 4s Th 8d 7c]
+Seat 5: Alex_Mauriz showed [9h Qc] and won 79516 with Straight Ten high
+Seat 6: CriscoZZ (button) showed [Qs Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #1743646186897670350-27-1606160455 - Holdem no limit (70/300/600) - 2020/11/23 19:40:55 UTC
+Table: 'Freeroll(405974264)#0205' 8-max (real money) Seat #7 is the button
+Seat 1: Pierre54720 (42599)
+Seat 2: Aya108 (41374)
+Seat 3: JUDO-KID (16719)
+Seat 4: manggy94 (19880)
+Seat 5: Alex_Mauriz (79516)
+Seat 7: Flushdraw06 (241930)
+Seat 8: George8711 (19260)
+*** ANTE/BLINDS ***
+George8711 posts ante 70
+Pierre54720 posts ante 70
+Aya108 posts ante 70
+JUDO-KID posts ante 70
+manggy94 posts ante 70
+Alex_Mauriz posts ante 70
+Flushdraw06 posts ante 70
+George8711 posts small blind 300
+Pierre54720 posts big blind 600
+Dealt to manggy94 [2h Qh]
+*** PRE-FLOP *** 
+Aya108 folds
+JUDO-KID folds
+manggy94 calls 600
+Alex_Mauriz raises 78846 to 79446 and is all-in
+Flushdraw06 calls 79446
+George8711 folds
+Pierre54720 folds
+manggy94 folds
+*** FLOP *** [Jh 5h Kd]
+*** TURN *** [Jh 5h Kd][9d]
+*** RIVER *** [Jh 5h Kd 9d][4h]
+*** SHOW DOWN ***
+Flushdraw06 shows [Ah Tc] (High card : Ace)
+Alex_Mauriz shows [Td Jd] (One pair : Jacks)
+Alex_Mauriz collected 160882 from pot
+*** SUMMARY ***
+Total pot 160882 | No rake
+Board: [Jh 5h Kd 9d 4h]
+Seat 5: Alex_Mauriz showed [Td Jd] and won 160882 with One pair : Jacks
+Seat 7: Flushdraw06 (button) showed [Ah Tc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #1743646186897670350-28-1606160484 - Holdem no limit (70/300/600) - 2020/11/23 19:41:24 UTC
+Table: 'Freeroll(405974264)#0205' 8-max (real money) Seat #8 is the button
+Seat 1: Pierre54720 (41929)
+Seat 2: Aya108 (41304)
+Seat 3: JUDO-KID (16649)
+Seat 4: manggy94 (19210)
+Seat 5: Alex_Mauriz (160882)
+Seat 6: Cortes2017 (20000)
+Seat 7: Flushdraw06 (162414)
+Seat 8: George8711 (18890)
+*** ANTE/BLINDS ***
+Pierre54720 posts ante 70
+Aya108 posts ante 70
+JUDO-KID posts ante 70
+manggy94 posts ante 70
+Alex_Mauriz posts ante 70
+Cortes2017 posts ante 70
+Flushdraw06 posts ante 70
+George8711 posts ante 70
+Pierre54720 posts small blind 300
+Aya108 posts big blind 600
+Dealt to manggy94 [As Ad]
+*** PRE-FLOP *** 
+JUDO-KID folds
+manggy94 raises 600 to 1200
+Alex_Mauriz folds
+Cortes2017 raises 18730 to 19930 and is all-in
+Flushdraw06 folds
+George8711 folds
+Pierre54720 folds
+Aya108 folds
+manggy94 calls 17940 and is all-in
+*** FLOP *** [8s 2c Jh]
+*** TURN *** [8s 2c Jh][7c]
+*** RIVER *** [8s 2c Jh 7c][6s]
+*** SHOW DOWN ***
+manggy94 shows [As Ad] (One pair : Aces)
+Cortes2017 shows [Qs Jd] (One pair : Jacks)
+Cortes2017 collected 790 from side pot 1
+manggy94 collected 39740 from main pot
+*** SUMMARY ***
+Total pot 40530 | No rake
+Board: [8s 2c Jh 7c 6s]
+Seat 4: manggy94 showed [As Ad] and won 39740 with One pair : Aces
+Seat 6: Cortes2017 showed [Qs Jd] and won 790 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #1743646186897670350-29-1606160505 - Holdem no limit (70/300/600) - 2020/11/23 19:41:45 UTC
+Table: 'Freeroll(405974264)#0205' 8-max (real money) Seat #1 is the button
+Seat 1: Pierre54720 (41559)
+Seat 2: Aya108 (40634)
+Seat 3: JUDO-KID (16579)
+Seat 4: manggy94 (39740)
+Seat 5: Alex_Mauriz (160812)
+Seat 6: Cortes2017 (790)
+Seat 7: Flushdraw06 (162344)
+Seat 8: George8711 (18820)
+*** ANTE/BLINDS ***
+Aya108 posts ante 70
+JUDO-KID posts ante 70
+Pierre54720 posts ante 70
+manggy94 posts ante 70
+Alex_Mauriz posts ante 70
+Cortes2017 posts ante 70
+Flushdraw06 posts ante 70
+George8711 posts ante 70
+Aya108 posts small blind 300
+JUDO-KID posts big blind 600
+Dealt to manggy94 [6s Js]
+*** PRE-FLOP *** 
+manggy94 folds
+Alex_Mauriz folds
+Cortes2017 raises 120 to 720 and is all-in
+Flushdraw06 calls 720
+George8711 folds
+Pierre54720 calls 720
+Aya108 calls 420
+JUDO-KID folds
+*** FLOP *** [4h Ah 5d]
+Aya108 bets 2020
+Flushdraw06 folds
+Pierre54720 calls 2020
+*** TURN *** [4h Ah 5d][9s]
+Aya108 bets 8080
+Pierre54720 folds
+*** RIVER *** [4h Ah 5d 9s][Ts]
+*** SHOW DOWN ***
+Cortes2017 shows [3h 6h] (High card : Ace)
+Aya108 shows [5c Ac] (Two pairs : Aces and 5)
+Aya108 collected 16160 from pot
+*** SUMMARY ***
+Total pot 16160 | No rake
+Board: [4h Ah 5d 9s Ts]
+Seat 2: Aya108 (small blind) showed [5c Ac] and won 16160 with Two pairs : Aces and 5
+Seat 6: Cortes2017 showed [3h 6h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #1743646186897670350-30-1606160539 - Holdem no limit (70/300/600) - 2020/11/23 19:42:19 UTC
+Table: 'Freeroll(405974264)#0205' 8-max (real money) Seat #2 is the button
+Seat 1: Pierre54720 (38749)
+Seat 2: Aya108 (45904)
+Seat 3: JUDO-KID (15909)
+Seat 4: manggy94 (39670)
+Seat 5: Alex_Mauriz (160742)
+Seat 7: Flushdraw06 (161554)
+Seat 8: George8711 (18750)
+*** ANTE/BLINDS ***
+JUDO-KID posts ante 70
+manggy94 posts ante 70
+Pierre54720 posts ante 70
+Aya108 posts ante 70
+Alex_Mauriz posts ante 70
+Flushdraw06 posts ante 70
+George8711 posts ante 70
+JUDO-KID posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [3h 2h]
+*** PRE-FLOP *** 
+Alex_Mauriz raises 160072 to 160672 and is all-in
+Flushdraw06 folds
+George8711 folds
+Pierre54720 calls 38679 and is all-in
+Aya108 folds
+JUDO-KID folds
+manggy94 folds
+*** FLOP *** [6h Kd Jh]
+*** TURN *** [6h Kd Jh][8h]
+*** RIVER *** [6h Kd Jh 8h][Js]
+*** SHOW DOWN ***
+Pierre54720 shows [2c Ad] (One pair : Jacks)
+Alex_Mauriz shows [4c 8c] (Two pairs : Jacks and 8)
+Alex_Mauriz collected 200741 from pot
+*** SUMMARY ***
+Total pot 200741 | No rake
+Board: [6h Kd Jh 8h Js]
+Seat 1: Pierre54720 showed [2c Ad] and lost with One pair : Jacks
+Seat 5: Alex_Mauriz showed [4c 8c] and won 200741 with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #1743646186897670350-31-1606160561 - Holdem no limit (70/300/600) - 2020/11/23 19:42:41 UTC
+Table: 'Freeroll(405974264)#0205' 8-max (real money) Seat #3 is the button
+Seat 2: Aya108 (45834)
+Seat 3: JUDO-KID (15539)
+Seat 4: manggy94 (39000)
+Seat 5: Alex_Mauriz (200741)
+Seat 7: Flushdraw06 (161484)
+Seat 8: George8711 (18680)
+*** ANTE/BLINDS ***
+manggy94 posts ante 70
+Alex_Mauriz posts ante 70
+Aya108 posts ante 70
+JUDO-KID posts ante 70
+Flushdraw06 posts ante 70
+George8711 posts ante 70
+manggy94 posts small blind 300
+Alex_Mauriz posts big blind 600
+Dealt to manggy94 [2d 6h]
+*** PRE-FLOP *** 
+Flushdraw06 calls 600
+George8711 folds
+Aya108 calls 600
+JUDO-KID folds
+manggy94 folds
+Alex_Mauriz raises 200071 to 200671 and is all-in
+Flushdraw06 folds
+Aya108 folds
+Alex_Mauriz collected 202591 from pot
+*** SUMMARY ***
+Total pot 202591 | No rake
+Seat 5: Alex_Mauriz (big blind) won 202591
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #1743646186897670350-32-1606160578 - Holdem no limit (80/350/700) - 2020/11/23 19:42:58 UTC
+Table: 'Freeroll(405974264)#0205' 8-max (real money) Seat #4 is the button
+Seat 2: Aya108 (45164)
+Seat 3: JUDO-KID (15469)
+Seat 4: manggy94 (38630)
+Seat 5: Alex_Mauriz (202591)
+Seat 7: Flushdraw06 (160814)
+Seat 8: George8711 (18610)
+*** ANTE/BLINDS ***
+Alex_Mauriz posts ante 80
+Flushdraw06 posts ante 80
+Aya108 posts ante 80
+JUDO-KID posts ante 80
+manggy94 posts ante 80
+George8711 posts ante 80
+Alex_Mauriz posts small blind 350
+Flushdraw06 posts big blind 700
+Dealt to manggy94 [Kd Td]
+*** PRE-FLOP *** 
+George8711 folds
+Aya108 folds
+JUDO-KID folds
+manggy94 raises 37850 to 38550 and is all-in
+Alex_Mauriz raises 163961 to 202511 and is all-in
+Flushdraw06 folds
+*** FLOP *** [Qh 4h 4s]
+*** TURN *** [Qh 4h 4s][6d]
+*** RIVER *** [Qh 4h 4s 6d][2s]
+*** SHOW DOWN ***
+manggy94 shows [Kd Td] (One pair : 4)
+Alex_Mauriz shows [Ac 2d] (Two pairs : 4 and 2)
+Alex_Mauriz collected 242241 from pot
+*** SUMMARY ***
+Total pot 242241 | No rake
+Board: [Qh 4h 4s 6d 2s]
+Seat 4: manggy94 (button) showed [Kd Td] and lost with One pair : 4
+Seat 5: Alex_Mauriz (small blind) showed [Ac 2d] and won 242241 with Two pairs : 4 and 2
+
+

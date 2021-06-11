@@ -1,0 +1,107 @@
+Winamax Poker - CashGame - HandId: #13592583-187-1577119958 - Holdem no limit (0.01€/0.02€) - 2019/12/23 16:52:38 UTC
+Table: 'SHORT TRACK 0,10 € 34' 5-max (real money) Seat #1 is the button
+Seat 1: Juan66310 (0.84€)
+Seat 2: Yanisbenkara (0.10€)
+Seat 3: manggy94 (0.10€)
+Seat 4: arween79 (0.47€)
+Seat 5: lachenille27 (0.10€)
+*** ANTE/BLINDS ***
+arween79 posts small blind 0.01€
+lachenille27 posts big blind 0.02€
+*** PRE-FLOP *** 
+Juan66310 calls 0.02€
+arween79 calls 0.01€
+lachenille27 checks
+*** FLOP *** [2h 4d Qd]
+arween79 checks
+lachenille27 checks
+Juan66310 bets 0.06€
+arween79 folds
+lachenille27 folds
+Juan66310 shows [8h 4h] (One pair : 4)
+Juan66310 collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | No rake
+Board: [2h 4d Qd]
+Seat 1: Juan66310 (button) showed [8h 4h] and won 0.12€ with One pair : 4
+
+
+Winamax Poker - CashGame - HandId: #13592583-188-1577119984 - Holdem no limit (0.01€/0.02€) - 2019/12/23 16:53:04 UTC
+Table: 'SHORT TRACK 0,10 € 34' 5-max (real money) Seat #4 is the button
+Seat 1: Juan66310 (0.88€)
+Seat 2: Yanisbenkara (0.10€)
+Seat 3: manggy94 (0.10€)
+Seat 4: arween79 (0.45€)
+Seat 5: lachenille27 (0.08€)
+*** ANTE/BLINDS ***
+lachenille27 posts small blind 0.01€
+Juan66310 posts big blind 0.02€
+Yanisbenkara posts big blind 0.02€ out of position
+manggy94 posts big blind 0.02€ out of position
+Dealt to manggy94 [Tc 7s]
+*** PRE-FLOP *** 
+Yanisbenkara raises 0.08€ to 0.10€ and is all-in
+manggy94 folds
+arween79 calls 0.10€
+lachenille27 folds
+Juan66310 calls 0.08€
+*** FLOP *** [4s 4h Qs]
+Juan66310 checks
+arween79 checks
+*** TURN *** [4s 4h Qs][2h]
+Juan66310 checks
+arween79 checks
+*** RIVER *** [4s 4h Qs 2h][Ac]
+Juan66310 checks
+arween79 checks
+*** SHOW DOWN ***
+Juan66310 shows [8d Th] (One pair : 4)
+arween79 shows [Jc Ks] (One pair : 4)
+Yanisbenkara shows [Ad 7d] (Two pairs : Aces and 4)
+Yanisbenkara collected 0.31€ from pot
+*** SUMMARY ***
+Total pot 0.31€ | Rake 0.02€
+Board: [4s 4h Qs 2h Ac]
+Seat 1: Juan66310 (big blind) showed [8d Th] and lost with One pair : 4
+Seat 2: Yanisbenkara showed [Ad 7d] and won 0.31€ with Two pairs : Aces and 4
+Seat 4: arween79 (button) showed [Jc Ks] and lost with One pair : 4
+
+
+Winamax Poker - CashGame - HandId: #13592583-189-1577120025 - Holdem no limit (0.01€/0.02€) - 2019/12/23 16:53:45 UTC
+Table: 'SHORT TRACK 0,10 € 34' 5-max (real money) Seat #5 is the button
+Seat 1: Juan66310 (0.78€)
+Seat 2: Yanisbenkara (0.31€)
+Seat 3: manggy94 (0.08€)
+Seat 4: arween79 (0.35€)
+Seat 5: lachenille27 (0.07€)
+*** ANTE/BLINDS ***
+Juan66310 posts small blind 0.01€
+Yanisbenkara posts big blind 0.02€
+Dealt to manggy94 [6c 5c]
+*** PRE-FLOP *** 
+manggy94 calls 0.02€
+arween79 folds
+lachenille27 folds
+Juan66310 calls 0.01€
+Yanisbenkara checks
+*** FLOP *** [3s Ts 7c]
+Juan66310 checks
+Yanisbenkara checks
+manggy94 bets 0.03€
+Juan66310 calls 0.03€
+Yanisbenkara folds
+*** TURN *** [3s Ts 7c][Jc]
+Juan66310 bets 0.12€
+manggy94 calls 0.03€ and is all-in
+*** RIVER *** [3s Ts 7c Jc][3d]
+*** SHOW DOWN ***
+manggy94 shows [6c 5c] (One pair : 3)
+Juan66310 shows [5d Jh] (Two pairs : Jacks and 3)
+Juan66310 collected 0.26€ from pot
+*** SUMMARY ***
+Total pot 0.26€ | Rake 0.01€
+Board: [3s Ts 7c Jc 3d]
+Seat 1: Juan66310 (small blind) showed [5d Jh] and won 0.26€ with Two pairs : Jacks and 3
+Seat 3: manggy94 showed [6c 5c] and lost with One pair : 3
+
+

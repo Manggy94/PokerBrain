@@ -1,0 +1,128 @@
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 0 - HandId: #559296070123782145-1-1441834634 - Holdem no limit (10/20) - 2015/09/09 21:37:14 UTC
+Table: 'Starting Block Winamax Poker Tour(130221264)#0' 10-max (real money) Seat #10 is the button
+Seat 1: spokms (1500)
+Seat 2: AnE_HulaY (1500)
+Seat 3: loulouchris (1500)
+Seat 4: danyjazz (1500)
+Seat 5: jojo carlino (1500)
+Seat 6: Scotchdouble (1500)
+Seat 7: FRED13AOUT (1500)
+Seat 8: SUKABLET (1500)
+Seat 9: HAUT-Ratio (1500)
+Seat 10: manggy94 (1500)
+*** ANTE/BLINDS ***
+spokms posts small blind 10
+AnE_HulaY posts big blind 20
+Dealt to manggy94 [Ah 4d]
+*** PRE-FLOP *** 
+loulouchris folds
+danyjazz folds
+jojo carlino folds
+Scotchdouble folds
+FRED13AOUT folds
+SUKABLET folds
+HAUT-Ratio folds
+manggy94 raises 50 to 70
+spokms calls 60
+AnE_HulaY calls 50
+*** FLOP *** [Jd 5c 4s]
+spokms checks
+AnE_HulaY checks
+manggy94 bets 1430 and is all-in
+spokms folds
+AnE_HulaY folds
+manggy94 collected 1640 from pot
+*** SUMMARY ***
+Total pot 1640 | No rake
+Board: [Jd 5c 4s]
+Seat 10: manggy94 (button) won 1640
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 0 - HandId: #559296070123782145-2-1441834744 - Holdem no limit (10/20) - 2015/09/09 21:39:04 UTC
+Table: 'Starting Block Winamax Poker Tour(130221264)#0' 10-max (real money) Seat #1 is the button
+Seat 1: spokms (1430)
+Seat 2: AnE_HulaY (1430)
+Seat 3: loulouchris (1500)
+Seat 4: danyjazz (1500)
+Seat 5: jojo carlino (1500)
+Seat 6: Scotchdouble (1500)
+Seat 7: FRED13AOUT (1500)
+Seat 8: SUKABLET (1500)
+Seat 9: HAUT-Ratio (1500)
+Seat 10: manggy94 (1640)
+*** ANTE/BLINDS ***
+AnE_HulaY posts small blind 10
+loulouchris posts big blind 20
+Dealt to manggy94 [Kc 3h]
+*** PRE-FLOP *** 
+danyjazz folds
+jojo carlino folds
+Scotchdouble raises 40 to 60
+FRED13AOUT folds
+SUKABLET raises 40 to 100
+HAUT-Ratio folds
+manggy94 raises 290 to 390
+spokms folds
+AnE_HulaY folds
+loulouchris folds
+Scotchdouble folds
+SUKABLET raises 1110 to 1500 and is all-in
+manggy94 calls 1110
+*** FLOP *** [4h 8d Qs]
+*** TURN *** [4h 8d Qs][Jc]
+*** RIVER *** [4h 8d Qs Jc][8s]
+*** SHOW DOWN ***
+manggy94 shows [Kc 3h] (One pair : 8)
+SUKABLET shows [Ad Ts] (One pair : 8)
+SUKABLET collected 3090 from pot
+*** SUMMARY ***
+Total pot 3090 | No rake
+Board: [4h 8d Qs Jc 8s]
+Seat 8: SUKABLET showed [Ad Ts] and won 3090 with One pair : 8
+Seat 10: manggy94 showed [Kc 3h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 1 - HandId: #559296070123782145-3-1441834831 - Holdem no limit (15/30) - 2015/09/09 21:40:31 UTC
+Table: 'Starting Block Winamax Poker Tour(130221264)#0' 10-max (real money) Seat #2 is the button
+Seat 1: spokms (1430)
+Seat 2: AnE_HulaY (1420)
+Seat 3: loulouchris (1480)
+Seat 4: danyjazz (1500)
+Seat 5: jojo carlino (1500)
+Seat 6: Scotchdouble (1440)
+Seat 7: FRED13AOUT (1500)
+Seat 8: SUKABLET (3090)
+Seat 9: HAUT-Ratio (1500)
+Seat 10: manggy94 (140)
+*** ANTE/BLINDS ***
+loulouchris posts small blind 15
+danyjazz posts big blind 30
+Dealt to manggy94 [Ks 6d]
+*** PRE-FLOP *** 
+jojo carlino raises 1470 to 1500 and is all-in
+Scotchdouble folds
+FRED13AOUT folds
+SUKABLET folds
+HAUT-Ratio folds
+manggy94 calls 140 and is all-in
+spokms calls 1430 and is all-in
+AnE_HulaY folds
+loulouchris folds
+danyjazz folds
+*** FLOP *** [Kd 2s 9d]
+*** TURN *** [Kd 2s 9d][9c]
+*** RIVER *** [Kd 2s 9d 9c][7d]
+*** SHOW DOWN ***
+manggy94 shows [Ks 6d] (Two pairs : Kings and 9)
+spokms shows [Ac Kh] (Two pairs : Kings and 9)
+jojo carlino shows [Jd Js] (Two pairs : Jacks and 9)
+jojo carlino collected 70 from side pot 1
+spokms collected 3045 from main pot
+*** SUMMARY ***
+Total pot 3115 | No rake
+Board: [Kd 2s 9d 9c 7d]
+Seat 1: spokms showed [Ac Kh] and won 3045 with Two pairs : Kings and 9
+Seat 5: jojo carlino showed [Jd Js] and won 70 with Two pairs : Jacks and 9
+Seat 10: manggy94 showed [Ks 6d] and lost with Two pairs : Kings and 9
+
+

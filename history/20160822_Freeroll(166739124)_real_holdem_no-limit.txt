@@ -1,0 +1,285 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #716139084543688790-1-1471856426 - Holdem no limit (10/20) - 2016/08/22 09:00:26 UTC
+Table: 'Freeroll(166739124)#085' 8-max (real money) Seat #2 is the button
+Seat 1: Mathpepita (3000)
+Seat 2: Cuisto007 (3000)
+Seat 3: Sodjin (3000)
+Seat 4: Blondella33 (3000)
+Seat 5: manggy94 (3000)
+Seat 6: al capone83 (3000)
+Seat 7: Zozo62200 (3000)
+Seat 8: Peau ker (3000)
+*** ANTE/BLINDS ***
+Sodjin posts small blind 10
+Blondella33 posts big blind 20
+Dealt to manggy94 [6s Qc]
+*** PRE-FLOP *** 
+manggy94 folds
+al capone83 calls 20
+Zozo62200 folds
+Peau ker raises 2980 to 3000 and is all-in
+Mathpepita folds
+Cuisto007 folds
+Sodjin folds
+Blondella33 folds
+al capone83 folds
+Peau ker collected 3050 from pot
+*** SUMMARY ***
+Total pot 3050 | No rake
+Seat 8: Peau ker won 3050
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #716139084543688790-2-1471856521 - Holdem no limit (10/20) - 2016/08/22 09:02:01 UTC
+Table: 'Freeroll(166739124)#085' 8-max (real money) Seat #3 is the button
+Seat 1: Mathpepita (3000)
+Seat 2: Cuisto007 (3000)
+Seat 3: Sodjin (2990)
+Seat 4: Blondella33 (2980)
+Seat 5: manggy94 (3000)
+Seat 6: al capone83 (2980)
+Seat 7: Zozo62200 (3000)
+Seat 8: Peau ker (3050)
+*** ANTE/BLINDS ***
+Blondella33 posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [6h 4c]
+*** PRE-FLOP *** 
+al capone83 calls 20
+Zozo62200 calls 20
+Peau ker folds
+Mathpepita calls 20
+Cuisto007 calls 20
+Sodjin folds
+Blondella33 calls 10
+manggy94 checks
+*** FLOP *** [3c Tc Ad]
+Blondella33 checks
+manggy94 checks
+al capone83 checks
+Zozo62200 checks
+Mathpepita bets 20
+Cuisto007 calls 20
+Blondella33 folds
+manggy94 folds
+al capone83 folds
+Zozo62200 raises 180 to 200
+Mathpepita calls 180
+Cuisto007 calls 180
+*** TURN *** [3c Tc Ad][3h]
+Zozo62200 checks
+Mathpepita checks
+Cuisto007 checks
+*** RIVER *** [3c Tc Ad 3h][Kd]
+Zozo62200 bets 720
+Mathpepita calls 720
+Cuisto007 folds
+*** SHOW DOWN ***
+Mathpepita shows [8s 8c] (Two pairs : 8 and 3)
+Zozo62200 shows [Ac As] (Full of Aces and 3)
+Zozo62200 collected 2160 from pot
+*** SUMMARY ***
+Total pot 2160 | No rake
+Board: [3c Tc Ad 3h Kd]
+Seat 1: Mathpepita showed [8s 8c] and lost with Two pairs : 8 and 3
+Seat 7: Zozo62200 showed [Ac As] and won 2160 with Full of Aces and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #716139084543688790-3-1471856676 - Holdem no limit (15/30) - 2016/08/22 09:04:36 UTC
+Table: 'Freeroll(166739124)#085' 8-max (real money) Seat #4 is the button
+Seat 1: Mathpepita (2060)
+Seat 2: Cuisto007 (2780)
+Seat 3: Sodjin (2990)
+Seat 4: Blondella33 (2960)
+Seat 5: manggy94 (2980)
+Seat 6: al capone83 (2960)
+Seat 7: Zozo62200 (4220)
+Seat 8: Peau ker (3050)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+al capone83 posts big blind 30
+Dealt to manggy94 [7s Ts]
+*** PRE-FLOP *** 
+Zozo62200 calls 30
+Peau ker raises 3020 to 3050 and is all-in
+Mathpepita calls 2060 and is all-in
+Cuisto007 folds
+Sodjin folds
+Blondella33 calls 2960 and is all-in
+manggy94 folds
+al capone83 calls 2930 and is all-in
+Zozo62200 folds
+*** FLOP *** [4c 3c 2d]
+*** TURN *** [4c 3c 2d][5c]
+*** RIVER *** [4c 3c 2d 5c][2s]
+*** SHOW DOWN ***
+Mathpepita shows [As 3h] (Straight 5 high)
+al capone83 shows [Ac 9h] (Straight 5 high)
+Blondella33 shows [9c 2c] (Flush 9 high)
+Peau ker shows [Td Jd] (One pair : 2)
+Peau ker collected 90 from side pot 1
+Blondella33 collected 10985 from main pot
+*** SUMMARY ***
+Total pot 11075 | No rake
+Board: [4c 3c 2d 5c 2s]
+Seat 1: Mathpepita showed [As 3h] and lost with Straight 5 high
+Seat 4: Blondella33 (button) showed [9c 2c] and won 10985 with Flush 9 high
+Seat 6: al capone83 (big blind) showed [Ac 9h] and lost with Straight 5 high
+Seat 8: Peau ker showed [Td Jd] and won 90 with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #716139084543688790-4-1471856718 - Holdem no limit (15/30) - 2016/08/22 09:05:18 UTC
+Table: 'Freeroll(166739124)#085' 8-max (real money) Seat #5 is the button
+Seat 2: Cuisto007 (2780)
+Seat 3: Sodjin (2990)
+Seat 4: Blondella33 (10985)
+Seat 5: manggy94 (2965)
+Seat 6: SPEEDBALL901 (3000)
+Seat 7: Zozo62200 (4190)
+Seat 8: Peau ker (90)
+*** ANTE/BLINDS ***
+Zozo62200 posts big blind 30
+Dealt to manggy94 [Qh 3d]
+*** PRE-FLOP *** 
+Peau ker raises 60 to 90 and is all-in
+Cuisto007 folds
+Sodjin folds
+Blondella33 calls 90
+manggy94 folds
+Zozo62200 folds
+*** FLOP *** [Js 4d Ac]
+*** TURN *** [Js 4d Ac][5c]
+*** RIVER *** [Js 4d Ac 5c][8c]
+*** SHOW DOWN ***
+Peau ker shows [2s Jc] (One pair : Jacks)
+Blondella33 shows [Ah Qc] (One pair : Aces)
+Blondella33 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Js 4d Ac 5c 8c]
+Seat 4: Blondella33 showed [Ah Qc] and won 210 with One pair : Aces
+Seat 8: Peau ker showed [2s Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #716139084543688790-5-1471856750 - Holdem no limit (15/30) - 2016/08/22 09:05:50 UTC
+Table: 'Freeroll(166739124)#085' 8-max (real money) Seat #6 is the button
+Seat 1: JOANA1334-N (3000)
+Seat 2: Cuisto007 (2780)
+Seat 3: Sodjin (2990)
+Seat 4: Blondella33 (11105)
+Seat 5: manggy94 (2965)
+Seat 6: SPEEDBALL901 (3000)
+Seat 7: Zozo62200 (4160)
+*** ANTE/BLINDS ***
+Zozo62200 posts small blind 15
+JOANA1334-N posts big blind 30
+Dealt to manggy94 [Kc 4d]
+*** PRE-FLOP *** 
+Cuisto007 calls 30
+Sodjin folds
+Blondella33 folds
+manggy94 folds
+Zozo62200 calls 15
+JOANA1334-N checks
+*** FLOP *** [4h Ah 7c]
+Zozo62200 bets 30
+JOANA1334-N calls 30
+Cuisto007 calls 30
+*** TURN *** [4h Ah 7c][6c]
+Zozo62200 bets 60
+JOANA1334-N calls 60
+Cuisto007 folds
+*** RIVER *** [4h Ah 7c 6c][Js]
+Zozo62200 bets 300
+JOANA1334-N folds
+Zozo62200 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [4h Ah 7c 6c Js]
+Seat 7: Zozo62200 (small blind) won 600
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #716139084543688790-6-1471856812 - Holdem no limit (20/40) - 2016/08/22 09:06:52 UTC
+Table: 'Freeroll(166739124)#085' 8-max (real money) Seat #7 is the button
+Seat 1: JOANA1334-N (2880)
+Seat 2: Cuisto007 (2720)
+Seat 3: Sodjin (2990)
+Seat 4: Blondella33 (11105)
+Seat 5: manggy94 (2965)
+Seat 6: SPEEDBALL901 (3000)
+Seat 7: Zozo62200 (4340)
+Seat 8: punelle (3000)
+*** ANTE/BLINDS ***
+JOANA1334-N posts small blind 20
+Cuisto007 posts big blind 40
+Dealt to manggy94 [2s Jh]
+*** PRE-FLOP *** 
+Sodjin calls 40
+Blondella33 folds
+manggy94 folds
+SPEEDBALL901 folds
+Zozo62200 calls 40
+JOANA1334-N calls 20
+Cuisto007 checks
+*** FLOP *** [6h 9d 7s]
+JOANA1334-N checks
+Cuisto007 bets 40
+Sodjin calls 40
+Zozo62200 calls 40
+JOANA1334-N calls 40
+*** TURN *** [6h 9d 7s][Kd]
+JOANA1334-N checks
+Cuisto007 bets 40
+Sodjin calls 40
+Zozo62200 raises 4220 to 4260 and is all-in
+JOANA1334-N folds
+Cuisto007 folds
+Sodjin folds
+Zozo62200 collected 4660 from pot
+*** SUMMARY ***
+Total pot 4660 | No rake
+Board: [6h 9d 7s Kd]
+Seat 7: Zozo62200 (button) won 4660
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #716139084543688790-7-1471856912 - Holdem no limit (20/40) - 2016/08/22 09:08:32 UTC
+Table: 'Freeroll(166739124)#085' 8-max (real money) Seat #1 is the button
+Seat 1: JOANA1334-N (2800)
+Seat 2: Cuisto007 (2600)
+Seat 3: Sodjin (2870)
+Seat 4: Blondella33 (11105)
+Seat 5: manggy94 (2965)
+Seat 6: SPEEDBALL901 (3000)
+Seat 7: Zozo62200 (4660)
+Seat 8: punelle (3000)
+*** ANTE/BLINDS ***
+Cuisto007 posts small blind 20
+Sodjin posts big blind 40
+Dealt to manggy94 [Ad Qc]
+*** PRE-FLOP *** 
+Blondella33 calls 40
+manggy94 raises 360 to 400
+SPEEDBALL901 folds
+Zozo62200 folds
+punelle folds
+JOANA1334-N folds
+Cuisto007 calls 380
+Sodjin folds
+Blondella33 calls 360
+*** FLOP *** [Ac 5s Kh]
+Cuisto007 checks
+Blondella33 bets 1240
+manggy94 raises 1325 to 2565 and is all-in
+Cuisto007 folds
+Blondella33 calls 1325
+*** TURN *** [Ac 5s Kh][3h]
+*** RIVER *** [Ac 5s Kh 3h][8c]
+*** SHOW DOWN ***
+manggy94 shows [Ad Qc] (One pair : Aces)
+Blondella33 shows [Ah Kc] (Two pairs : Aces and Kings)
+Blondella33 collected 6370 from pot
+*** SUMMARY ***
+Total pot 6370 | No rake
+Board: [Ac 5s Kh 3h 8c]
+Seat 4: Blondella33 showed [Ah Kc] and won 6370 with Two pairs : Aces and Kings
+Seat 5: manggy94 showed [Ad Qc] and lost with One pair : Aces
+
+

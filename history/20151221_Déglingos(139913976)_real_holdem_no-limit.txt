@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Déglingos" buyIn: 1,80€ + 0,20€ level: 3 - HandId: #600925951173328912-1-1450704282 - Holdem no limit (30/60) - 2015/12/21 13:24:42 UTC
+Table: 'Déglingos(139913976)#015' 3-max (real money) Seat #1 is the button
+Seat 1: Rappy (500)
+Seat 2: manggy94 (500)
+*** ANTE/BLINDS ***
+Rappy posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [6c 9c]
+*** PRE-FLOP *** 
+Rappy calls 30
+manggy94 checks
+*** FLOP *** [Qd 6d 9d]
+manggy94 checks
+Rappy checks
+*** TURN *** [Qd 6d 9d][2c]
+manggy94 checks
+Rappy checks
+*** RIVER *** [Qd 6d 9d 2c][Td]
+manggy94 bets 120
+Rappy folds
+manggy94 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Qd 6d 9d 2c Td]
+Seat 2: manggy94 (big blind) won 240
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1,80€ + 0,20€ level: 3 - HandId: #600925951173328912-2-1450704301 - Holdem no limit (30/60) - 2015/12/21 13:25:01 UTC
+Table: 'Déglingos(139913976)#015' 3-max (real money) Seat #2 is the button
+Seat 1: Rappy (440)
+Seat 2: manggy94 (560)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+Rappy posts big blind 60
+Dealt to manggy94 [Jh As]
+*** PRE-FLOP *** 
+manggy94 raises 120 to 180
+Rappy folds
+manggy94 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 2: manggy94 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1,80€ + 0,20€ level: 3 - HandId: #600925951173328912-3-1450704310 - Holdem no limit (30/60) - 2015/12/21 13:25:10 UTC
+Table: 'Déglingos(139913976)#015' 3-max (real money) Seat #1 is the button
+Seat 1: Rappy (380)
+Seat 2: manggy94 (620)
+*** ANTE/BLINDS ***
+Rappy posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [Qh 9d]
+*** PRE-FLOP *** 
+Rappy folds
+manggy94 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: manggy94 (big blind) won 90
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1,80€ + 0,20€ level: 3 - HandId: #600925951173328900-44-1450704313 - Holdem no limit (30/60) - 2015/12/21 13:25:13 UTC
+Table: 'Déglingos(139913976)#003' 3-max (real money) Seat #3 is the button
+Seat 1: -Simpleman- (1520)
+Seat 2: caicai112 (1480)
+Seat 3: manggy94 (650)
+*** ANTE/BLINDS ***
+-Simpleman- posts small blind 30
+caicai112 posts big blind 60
+Dealt to manggy94 [Jc 8s]
+*** PRE-FLOP *** 
+manggy94 folds
+-Simpleman- folds
+caicai112 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: caicai112 (big blind) won 90
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1,80€ + 0,20€ level: 3 - HandId: #600925951173328900-45-1450704322 - Holdem no limit (30/60) - 2015/12/21 13:25:22 UTC
+Table: 'Déglingos(139913976)#003' 3-max (real money) Seat #1 is the button
+Seat 1: -Simpleman- (1490)
+Seat 2: caicai112 (1510)
+Seat 3: manggy94 (650)
+*** ANTE/BLINDS ***
+caicai112 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [6s Ad]
+*** PRE-FLOP *** 
+-Simpleman- folds
+caicai112 raises 60 to 120
+manggy94 raises 530 to 650 and is all-in
+caicai112 calls 530
+*** FLOP *** [5s 9s Qh]
+*** TURN *** [5s 9s Qh][Tc]
+*** RIVER *** [5s 9s Qh Tc][Js]
+*** SHOW DOWN ***
+manggy94 shows [6s Ad] (High card : Ace)
+caicai112 shows [Th Kd] (Straight King high)
+caicai112 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Board: [5s 9s Qh Tc Js]
+Seat 2: caicai112 (small blind) showed [Th Kd] and won 1300 with Straight King high
+Seat 3: manggy94 (big blind) showed [6s Ad] and lost with High card : Ace
+
+

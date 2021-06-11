@@ -1,0 +1,81 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 1 - HandId: #697442782666555393-1-1466494421 - Holdem no limit (10/20) - 2016/06/21 07:33:41 UTC
+Table: 'Super Freeroll Stade 1(162386052)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Aramazd (1500)
+Seat 2: gegeguzzi (1500)
+Seat 3: manggy94 (1500)
+Seat 4: AmanitePhal. (1500)
+Seat 5: miaaaaaa (1500)
+Seat 6: Nyck Larson (1500)
+*** ANTE/BLINDS ***
+Aramazd posts small blind 10
+gegeguzzi posts big blind 20
+Dealt to manggy94 [Kd 5c]
+*** PRE-FLOP *** 
+manggy94 calls 20
+AmanitePhal. folds
+miaaaaaa calls 20
+Nyck Larson folds
+Aramazd raises 80 to 100
+gegeguzzi folds
+manggy94 calls 80
+miaaaaaa calls 80
+*** FLOP *** [Qs 4d 4c]
+Aramazd bets 200
+manggy94 folds
+miaaaaaa calls 200
+*** TURN *** [Qs 4d 4c][6d]
+Aramazd bets 480
+miaaaaaa calls 480
+*** RIVER *** [Qs 4d 4c 6d][2s]
+Aramazd bets 720 and is all-in
+miaaaaaa calls 720 and is all-in
+*** SHOW DOWN ***
+Aramazd shows [Td 9s] (One pair : 4)
+miaaaaaa shows [6c 5d] (Two pairs : 6 and 4)
+miaaaaaa collected 3120 from pot
+*** SUMMARY ***
+Total pot 3120 | No rake
+Board: [Qs 4d 4c 6d 2s]
+Seat 1: Aramazd (small blind) showed [Td 9s] and lost with One pair : 4
+Seat 5: miaaaaaa showed [6c 5d] and won 3120 with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 1 - HandId: #697442782666555393-2-1466494515 - Holdem no limit (10/20) - 2016/06/21 07:35:15 UTC
+Table: 'Super Freeroll Stade 1(162386052)#0' 6-max (real money) Seat #1 is the button
+Seat 2: gegeguzzi (1480)
+Seat 3: manggy94 (1400)
+Seat 4: AmanitePhal. (1500)
+Seat 5: miaaaaaa (3120)
+Seat 6: Nyck Larson (1500)
+*** ANTE/BLINDS ***
+gegeguzzi posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [Kh Ad]
+*** PRE-FLOP *** 
+AmanitePhal. folds
+miaaaaaa calls 20
+Nyck Larson folds
+gegeguzzi calls 10
+manggy94 raises 240 to 260
+miaaaaaa folds
+gegeguzzi calls 240
+*** FLOP *** [4h 7d 7h]
+gegeguzzi checks
+manggy94 bets 540
+gegeguzzi raises 540 to 1080
+manggy94 calls 540
+*** TURN *** [4h 7d 7h][Qc]
+gegeguzzi bets 60
+manggy94 calls 60 and is all-in
+*** RIVER *** [4h 7d 7h Qc][Th]
+*** SHOW DOWN ***
+manggy94 shows [Kh Ad] (One pair : 7)
+gegeguzzi shows [7s 7c] (Quads of 7)
+gegeguzzi collected 2820 from pot
+*** SUMMARY ***
+Total pot 2820 | No rake
+Board: [4h 7d 7h Qc Th]
+Seat 2: gegeguzzi (small blind) showed [7s 7c] and won 2820 with Quads of 7
+Seat 3: manggy94 (big blind) showed [Kh Ad] and lost with One pair : 7
+
+

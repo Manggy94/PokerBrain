@@ -1,0 +1,110 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #654767880239317324-12-1459161724 - Holdem no limit (30/60) - 2016/03/28 10:42:04 UTC
+Table: 'Freeroll(152450027)#331' 8-max (real money) Seat #1 is the button
+Seat 1: Oroy59163 (15303)
+Seat 2: D. 2 Coco (2800)
+Seat 3: seby671 (2935)
+Seat 4: karmouche3 (9470)
+Seat 5: mumu2913 (2980)
+Seat 6: NINJA83860 (2910)
+Seat 7: manggy94 (3000)
+Seat 8: pedroeandre (5602)
+*** ANTE/BLINDS ***
+D. 2 Coco posts small blind 30
+seby671 posts big blind 60
+Dealt to manggy94 [Kd 5s]
+*** PRE-FLOP *** 
+karmouche3 folds
+mumu2913 folds
+NINJA83860 folds
+manggy94 raises 2940 to 3000 and is all-in
+pedroeandre folds
+Oroy59163 folds
+D. 2 Coco folds
+seby671 folds
+manggy94 collected 3090 from pot
+*** SUMMARY ***
+Total pot 3090 | No rake
+Seat 7: manggy94 won 3090
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #654767880239317324-13-1459161765 - Holdem no limit (40/80) - 2016/03/28 10:42:45 UTC
+Table: 'Freeroll(152450027)#331' 8-max (real money) Seat #2 is the button
+Seat 1: Oroy59163 (15303)
+Seat 2: D. 2 Coco (2770)
+Seat 3: seby671 (2875)
+Seat 4: karmouche3 (9470)
+Seat 5: mumu2913 (2980)
+Seat 6: NINJA83860 (2910)
+Seat 7: manggy94 (3090)
+Seat 8: pedroeandre (5602)
+*** ANTE/BLINDS ***
+seby671 posts small blind 40
+karmouche3 posts big blind 80
+Dealt to manggy94 [2d 9d]
+*** PRE-FLOP *** 
+mumu2913 calls 80
+NINJA83860 folds
+manggy94 folds
+pedroeandre calls 80
+Oroy59163 calls 80
+D. 2 Coco folds
+seby671 folds
+karmouche3 checks
+*** FLOP *** [Kh 8s Qc]
+karmouche3 bets 80
+mumu2913 calls 80
+pedroeandre calls 80
+Oroy59163 calls 80
+*** TURN *** [Kh 8s Qc][Kd]
+karmouche3 bets 320
+mumu2913 folds
+pedroeandre folds
+Oroy59163 calls 320
+*** RIVER *** [Kh 8s Qc Kd][Ah]
+karmouche3 bets 525
+Oroy59163 folds
+karmouche3 collected 1845 from pot
+*** SUMMARY ***
+Total pot 1845 | No rake
+Board: [Kh 8s Qc Kd Ah]
+Seat 4: karmouche3 (big blind) won 1845
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #654767880239317324-14-1459161836 - Holdem no limit (40/80) - 2016/03/28 10:43:56 UTC
+Table: 'Freeroll(152450027)#331' 8-max (real money) Seat #3 is the button
+Seat 1: Oroy59163 (14823)
+Seat 2: D. 2 Coco (2770)
+Seat 3: seby671 (2835)
+Seat 4: karmouche3 (10310)
+Seat 5: mumu2913 (2820)
+Seat 6: NINJA83860 (2910)
+Seat 7: manggy94 (3090)
+Seat 8: pedroeandre (5442)
+*** ANTE/BLINDS ***
+karmouche3 posts small blind 40
+mumu2913 posts big blind 80
+Dealt to manggy94 [Qd Kd]
+*** PRE-FLOP *** 
+NINJA83860 folds
+manggy94 raises 200 to 280
+pedroeandre folds
+Oroy59163 raises 14543 to 14823 and is all-in
+D. 2 Coco folds
+seby671 folds
+karmouche3 folds
+mumu2913 folds
+manggy94 calls 2810 and is all-in
+*** FLOP *** [Kc 5s Th]
+*** TURN *** [Kc 5s Th][Ac]
+*** RIVER *** [Kc 5s Th Ac][3s]
+*** SHOW DOWN ***
+manggy94 shows [Qd Kd] (One pair : Kings)
+Oroy59163 shows [Ks As] (Two pairs : Aces and Kings)
+Oroy59163 collected 18033 from pot
+*** SUMMARY ***
+Total pot 18033 | No rake
+Board: [Kc 5s Th Ac 3s]
+Seat 1: Oroy59163 showed [Ks As] and won 18033 with Two pairs : Aces and Kings
+Seat 7: manggy94 showed [Qd Kd] and lost with One pair : Kings
+
+

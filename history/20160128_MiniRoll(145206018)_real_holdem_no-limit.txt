@@ -1,0 +1,855 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #623655098492387336-46-1453981134 - Holdem no limit (60/300/600) - 2016/01/28 11:38:54 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #5 is the button
+Seat 1: BIJOU56 (1220)
+Seat 2: KK_YO_KK (19920)
+Seat 3: actarus5555 (53605)
+Seat 4: TJ3869 (42220)
+Seat 5: AsTroisDame (34250)
+Seat 6: eddy 9206 (41850)
+Seat 7: khanalexvd (6840)
+Seat 8: manggy94 (10000)
+*** ANTE/BLINDS ***
+eddy 9206 posts ante 60
+khanalexvd posts ante 60
+BIJOU56 posts ante 60
+KK_YO_KK posts ante 60
+actarus5555 posts ante 60
+TJ3869 posts ante 60
+AsTroisDame posts ante 60
+manggy94 posts ante 60
+eddy 9206 posts small blind 300
+khanalexvd posts big blind 600
+Dealt to manggy94 [Qh 7h]
+*** PRE-FLOP *** 
+manggy94 calls 600
+BIJOU56 folds
+KK_YO_KK calls 600
+actarus5555 folds
+TJ3869 folds
+AsTroisDame raises 1500 to 2100
+eddy 9206 folds
+khanalexvd folds
+manggy94 calls 1500
+KK_YO_KK raises 17760 to 19860 and is all-in
+AsTroisDame calls 17760
+manggy94 folds
+*** FLOP *** [2c 3c Ac]
+*** TURN *** [2c 3c Ac][Ah]
+*** RIVER *** [2c 3c Ac Ah][2s]
+*** SHOW DOWN ***
+KK_YO_KK shows [Jd Jh] (Two pairs : Aces and Jacks)
+AsTroisDame shows [As Ad] (Quads of Aces)
+AsTroisDame collected 43200 from pot
+*** SUMMARY ***
+Total pot 43200 | No rake
+Board: [2c 3c Ac Ah 2s]
+Seat 2: KK_YO_KK showed [Jd Jh] and lost with Two pairs : Aces and Jacks
+Seat 5: AsTroisDame (button) showed [As Ad] and won 43200 with Quads of Aces
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #623655098492387336-47-1453981197 - Holdem no limit (60/300/600) - 2016/01/28 11:39:57 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #6 is the button
+Seat 1: BIJOU56 (1160)
+Seat 3: actarus5555 (53545)
+Seat 4: TJ3869 (42160)
+Seat 5: AsTroisDame (57530)
+Seat 6: eddy 9206 (41490)
+Seat 7: khanalexvd (6180)
+Seat 8: manggy94 (7840)
+*** ANTE/BLINDS ***
+khanalexvd posts ante 60
+manggy94 posts ante 60
+BIJOU56 posts ante 60
+actarus5555 posts ante 60
+TJ3869 posts ante 60
+AsTroisDame posts ante 60
+eddy 9206 posts ante 60
+khanalexvd posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [5c 9s]
+*** PRE-FLOP *** 
+BIJOU56 folds
+actarus5555 folds
+TJ3869 folds
+AsTroisDame folds
+eddy 9206 folds
+khanalexvd folds
+manggy94 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Seat 8: manggy94 (big blind) won 1320
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #623655098492387336-48-1453981220 - Holdem no limit (60/300/600) - 2016/01/28 11:40:20 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #7 is the button
+Seat 1: BIJOU56 (1100)
+Seat 2: ledryat (10000)
+Seat 3: actarus5555 (53485)
+Seat 4: TJ3869 (42100)
+Seat 5: AsTroisDame (57470)
+Seat 6: eddy 9206 (41430)
+Seat 7: khanalexvd (5820)
+Seat 8: manggy94 (8500)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+BIJOU56 posts ante 60
+ledryat posts ante 60
+actarus5555 posts ante 60
+TJ3869 posts ante 60
+AsTroisDame posts ante 60
+eddy 9206 posts ante 60
+khanalexvd posts ante 60
+manggy94 posts small blind 300
+BIJOU56 posts big blind 600
+Dealt to manggy94 [2s 3h]
+*** PRE-FLOP *** 
+ledryat calls 600
+actarus5555 folds
+TJ3869 raises 900 to 1500
+AsTroisDame calls 1500
+eddy 9206 folds
+khanalexvd folds
+manggy94 folds
+BIJOU56 calls 440 and is all-in
+ledryat calls 900
+*** FLOP *** [5c 7h 9c]
+ledryat checks
+TJ3869 bets 5040
+AsTroisDame folds
+ledryat folds
+*** TURN *** [5c 7h 9c][2d]
+*** RIVER *** [5c 7h 9c 2d][9h]
+*** SHOW DOWN ***
+BIJOU56 shows [3s 6c] (One pair : 9)
+TJ3869 shows [Qh Qs] (Two pairs : Queens and 9)
+TJ3869 collected 11360 from pot
+*** SUMMARY ***
+Total pot 11360 | No rake
+Board: [5c 7h 9c 2d 9h]
+Seat 1: BIJOU56 (big blind) showed [3s 6c] and lost with One pair : 9
+Seat 4: TJ3869 showed [Qh Qs] and won 11360 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #623655098492387336-49-1453981303 - Holdem no limit (60/300/600) - 2016/01/28 11:41:43 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #8 is the button
+Seat 2: ledryat (8440)
+Seat 3: actarus5555 (53425)
+Seat 4: TJ3869 (46860)
+Seat 5: AsTroisDame (55910)
+Seat 6: eddy 9206 (41370)
+Seat 7: khanalexvd (5760)
+Seat 8: manggy94 (8140)
+*** ANTE/BLINDS ***
+ledryat posts ante 60
+actarus5555 posts ante 60
+TJ3869 posts ante 60
+AsTroisDame posts ante 60
+eddy 9206 posts ante 60
+khanalexvd posts ante 60
+manggy94 posts ante 60
+ledryat posts big blind 600
+Dealt to manggy94 [Ks Jc]
+*** PRE-FLOP *** 
+actarus5555 folds
+TJ3869 folds
+AsTroisDame folds
+eddy 9206 raises 600 to 1200
+khanalexvd folds
+manggy94 raises 6880 to 8080 and is all-in
+ledryat calls 7480
+eddy 9206 folds
+*** FLOP *** [3c Js 5d]
+*** TURN *** [3c Js 5d][9d]
+*** RIVER *** [3c Js 5d 9d][Kc]
+*** SHOW DOWN ***
+ledryat shows [Ac As] (One pair : Aces)
+manggy94 shows [Ks Jc] (Two pairs : Kings and Jacks)
+manggy94 collected 17780 from pot
+*** SUMMARY ***
+Total pot 17780 | No rake
+Board: [3c Js 5d 9d Kc]
+Seat 2: ledryat (big blind) showed [Ac As] and lost with One pair : Aces
+Seat 8: manggy94 (button) showed [Ks Jc] and won 17780 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #623655098492387336-50-1453981334 - Holdem no limit (60/300/600) - 2016/01/28 11:42:14 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #1 is the button
+Seat 2: ledryat (300)
+Seat 3: actarus5555 (53365)
+Seat 4: TJ3869 (46800)
+Seat 5: AsTroisDame (55850)
+Seat 6: eddy 9206 (40110)
+Seat 7: khanalexvd (5700)
+Seat 8: manggy94 (17780)
+*** ANTE/BLINDS ***
+ledryat posts ante 60
+actarus5555 posts ante 60
+TJ3869 posts ante 60
+AsTroisDame posts ante 60
+eddy 9206 posts ante 60
+khanalexvd posts ante 60
+manggy94 posts ante 60
+ledryat posts small blind 240 and is all-in
+actarus5555 posts big blind 600
+Dealt to manggy94 [Ks Td]
+*** PRE-FLOP *** 
+TJ3869 folds
+AsTroisDame folds
+eddy 9206 folds
+khanalexvd folds
+manggy94 calls 600
+actarus5555 checks
+*** FLOP *** [Ad 2s 7h]
+actarus5555 checks
+manggy94 checks
+*** TURN *** [Ad 2s 7h][Kc]
+actarus5555 checks
+manggy94 bets 1860
+actarus5555 folds
+*** RIVER *** [Ad 2s 7h Kc][Kh]
+*** SHOW DOWN ***
+ledryat shows [6s Jh] (One pair : Kings)
+manggy94 shows [Ks Td] (Trips of Kings)
+manggy94 collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Board: [Ad 2s 7h Kc Kh]
+Seat 2: ledryat (small blind) showed [6s Jh] and lost with One pair : Kings
+Seat 8: manggy94 showed [Ks Td] and won 3720 with Trips of Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #623655098492387336-51-1453981381 - Holdem no limit (60/300/600) - 2016/01/28 11:43:01 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #2 is the button
+Seat 1: lepokmino (10000)
+Seat 3: actarus5555 (52705)
+Seat 4: TJ3869 (46740)
+Seat 5: AsTroisDame (55790)
+Seat 6: eddy 9206 (40050)
+Seat 7: khanalexvd (5640)
+Seat 8: manggy94 (18980)
+*** ANTE/BLINDS ***
+actarus5555 posts ante 60
+TJ3869 posts ante 60
+AsTroisDame posts ante 60
+eddy 9206 posts ante 60
+khanalexvd posts ante 60
+manggy94 posts ante 60
+actarus5555 posts small blind 300
+TJ3869 posts big blind 600
+Dealt to manggy94 [Jd 2s]
+*** PRE-FLOP *** 
+AsTroisDame raises 900 to 1500
+eddy 9206 folds
+khanalexvd raises 4080 to 5580 and is all-in
+manggy94 folds
+actarus5555 folds
+TJ3869 folds
+AsTroisDame calls 4080
+*** FLOP *** [7c 6s 2d]
+*** TURN *** [7c 6s 2d][Qh]
+*** RIVER *** [7c 6s 2d Qh][6h]
+*** SHOW DOWN ***
+khanalexvd shows [Qd 3d] (Two pairs : Queens and 6)
+AsTroisDame shows [Qs Kd] (Two pairs : Queens and 6)
+AsTroisDame collected 12420 from pot
+*** SUMMARY ***
+Total pot 12420 | No rake
+Board: [7c 6s 2d Qh 6h]
+Seat 5: AsTroisDame showed [Qs Kd] and won 12420 with Two pairs : Queens and 6
+Seat 7: khanalexvd showed [Qd 3d] and lost with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #623655098492387336-52-1453981409 - Holdem no limit (60/300/600) - 2016/01/28 11:43:29 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #3 is the button
+Seat 1: lepokmino (10000)
+Seat 3: actarus5555 (52345)
+Seat 4: TJ3869 (46080)
+Seat 5: AsTroisDame (62570)
+Seat 6: eddy 9206 (39990)
+Seat 8: manggy94 (18920)
+*** ANTE/BLINDS ***
+TJ3869 posts ante 60
+AsTroisDame posts ante 60
+lepokmino posts ante 60
+actarus5555 posts ante 60
+eddy 9206 posts ante 60
+manggy94 posts ante 60
+TJ3869 posts small blind 300
+AsTroisDame posts big blind 600
+Dealt to manggy94 [8h Qc]
+*** PRE-FLOP *** 
+eddy 9206 calls 600
+manggy94 folds
+lepokmino folds
+actarus5555 folds
+TJ3869 folds
+AsTroisDame checks
+*** FLOP *** [4d Jc 6c]
+AsTroisDame checks
+eddy 9206 bets 1860
+AsTroisDame folds
+eddy 9206 collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Board: [4d Jc 6c]
+Seat 6: eddy 9206 won 3720
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #623655098492387336-53-1453981449 - Holdem no limit (75/400/800) - 2016/01/28 11:44:09 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #4 is the button
+Seat 1: lepokmino (9940)
+Seat 2: jacko811 (9940)
+Seat 3: actarus5555 (52285)
+Seat 4: TJ3869 (45720)
+Seat 5: AsTroisDame (61910)
+Seat 6: eddy 9206 (41190)
+Seat 7: cayenne2mars (10000)
+Seat 8: manggy94 (18860)
+*** ANTE/BLINDS ***
+AsTroisDame posts ante 75
+eddy 9206 posts ante 75
+lepokmino posts ante 75
+jacko811 posts ante 75
+actarus5555 posts ante 75
+TJ3869 posts ante 75
+cayenne2mars posts ante 75
+manggy94 posts ante 75
+AsTroisDame posts small blind 400
+eddy 9206 posts big blind 800
+Dealt to manggy94 [6d Qs]
+*** PRE-FLOP *** 
+cayenne2mars folds
+manggy94 folds
+lepokmino raises 1600 to 2400
+jacko811 folds
+actarus5555 folds
+TJ3869 calls 2400
+AsTroisDame folds
+eddy 9206 folds
+*** FLOP *** [6c 2d 5c]
+lepokmino bets 7465 and is all-in
+TJ3869 folds
+lepokmino collected 14065 from pot
+*** SUMMARY ***
+Total pot 14065 | No rake
+Board: [6c 2d 5c]
+Seat 1: lepokmino won 14065
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #623655098492387336-54-1453981496 - Holdem no limit (75/400/800) - 2016/01/28 11:44:56 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #5 is the button
+Seat 1: lepokmino (14065)
+Seat 2: jacko811 (9865)
+Seat 3: actarus5555 (52210)
+Seat 4: TJ3869 (43245)
+Seat 5: AsTroisDame (61435)
+Seat 6: eddy 9206 (40315)
+Seat 7: cayenne2mars (9925)
+Seat 8: manggy94 (18785)
+*** ANTE/BLINDS ***
+eddy 9206 posts ante 75
+cayenne2mars posts ante 75
+lepokmino posts ante 75
+jacko811 posts ante 75
+actarus5555 posts ante 75
+TJ3869 posts ante 75
+AsTroisDame posts ante 75
+manggy94 posts ante 75
+eddy 9206 posts small blind 400
+cayenne2mars posts big blind 800
+Dealt to manggy94 [Qd 6s]
+*** PRE-FLOP *** 
+manggy94 folds
+lepokmino folds
+jacko811 calls 800
+actarus5555 folds
+TJ3869 folds
+AsTroisDame folds
+eddy 9206 calls 400
+cayenne2mars raises 9050 to 9850 and is all-in
+jacko811 calls 8990 and is all-in
+eddy 9206 folds
+*** FLOP *** [Kd 6d As]
+*** TURN *** [Kd 6d As][5h]
+*** RIVER *** [Kd 6d As 5h][3d]
+*** SHOW DOWN ***
+jacko811 shows [9h 9d] (One pair : 9)
+cayenne2mars shows [7s Tc] (High card : Ace)
+cayenne2mars collected 60 from side pot 1
+jacko811 collected 20980 from main pot
+*** SUMMARY ***
+Total pot 21040 | No rake
+Board: [Kd 6d As 5h 3d]
+Seat 2: jacko811 showed [9h 9d] and won 20980 with One pair : 9
+Seat 7: cayenne2mars (big blind) showed [7s Tc] and won 60 with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #623655098492387336-55-1453981541 - Holdem no limit (75/400/800) - 2016/01/28 11:45:41 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #6 is the button
+Seat 1: lepokmino (13990)
+Seat 2: jacko811 (20980)
+Seat 3: actarus5555 (52135)
+Seat 4: TJ3869 (43170)
+Seat 5: AsTroisDame (61360)
+Seat 6: eddy 9206 (39440)
+Seat 7: cayenne2mars (60)
+Seat 8: manggy94 (18710)
+*** ANTE/BLINDS ***
+cayenne2mars posts ante 60 and is all-in
+manggy94 posts ante 75
+lepokmino posts ante 75
+jacko811 posts ante 75
+actarus5555 posts ante 75
+TJ3869 posts ante 75
+AsTroisDame posts ante 75
+eddy 9206 posts ante 75
+cayenne2mars posts small blind 0 and is all-in
+manggy94 posts big blind 800
+Dealt to manggy94 [3h 4d]
+*** PRE-FLOP *** 
+lepokmino folds
+jacko811 folds
+actarus5555 folds
+TJ3869 folds
+AsTroisDame calls 800
+eddy 9206 folds
+manggy94 checks
+*** FLOP *** [6d Ts Jd]
+manggy94 checks
+AsTroisDame checks
+*** TURN *** [6d Ts Jd][Ah]
+manggy94 checks
+AsTroisDame checks
+*** RIVER *** [6d Ts Jd Ah][5h]
+manggy94 checks
+AsTroisDame checks
+*** SHOW DOWN ***
+manggy94 shows [3h 4d] (High card : Ace)
+cayenne2mars shows [5d 6h] (Two pairs : 6 and 5)
+AsTroisDame shows [4c Jc] (One pair : Jacks)
+AsTroisDame collected 1705 from side pot 1
+cayenne2mars collected 480 from main pot
+*** SUMMARY ***
+Total pot 2185 | No rake
+Board: [6d Ts Jd Ah 5h]
+Seat 5: AsTroisDame showed [4c Jc] and won 1705 with One pair : Jacks
+Seat 7: cayenne2mars (small blind) showed [5d 6h] and won 480 with Two pairs : 6 and 5
+Seat 8: manggy94 (big blind) showed [3h 4d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #623655098492387336-56-1453981571 - Holdem no limit (75/400/800) - 2016/01/28 11:46:11 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #7 is the button
+Seat 1: lepokmino (13915)
+Seat 2: jacko811 (20905)
+Seat 3: actarus5555 (52060)
+Seat 4: TJ3869 (43095)
+Seat 5: AsTroisDame (62190)
+Seat 6: eddy 9206 (39365)
+Seat 7: cayenne2mars (480)
+Seat 8: manggy94 (17835)
+*** ANTE/BLINDS ***
+manggy94 posts ante 75
+lepokmino posts ante 75
+jacko811 posts ante 75
+actarus5555 posts ante 75
+TJ3869 posts ante 75
+AsTroisDame posts ante 75
+eddy 9206 posts ante 75
+cayenne2mars posts ante 75
+manggy94 posts small blind 400
+lepokmino posts big blind 800
+Dealt to manggy94 [7s As]
+*** PRE-FLOP *** 
+jacko811 folds
+actarus5555 folds
+TJ3869 folds
+AsTroisDame folds
+eddy 9206 folds
+cayenne2mars calls 405 and is all-in
+manggy94 calls 400
+lepokmino checks
+*** FLOP *** [9c Jh Th]
+manggy94 bets 2605
+lepokmino folds
+*** TURN *** [9c Jh Th][3h]
+*** RIVER *** [9c Jh Th 3h][Qc]
+*** SHOW DOWN ***
+cayenne2mars shows [9s 8s] (Straight Queen high)
+manggy94 shows [7s As] (High card : Ace)
+manggy94 collected 3395 from side pot 1
+cayenne2mars collected 1815 from main pot
+*** SUMMARY ***
+Total pot 5210 | No rake
+Board: [9c Jh Th 3h Qc]
+Seat 7: cayenne2mars (button) showed [9s 8s] and won 1815 with Straight Queen high
+Seat 8: manggy94 (small blind) showed [7s As] and won 3395 with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #623655098492387336-57-1453981634 - Holdem no limit (75/400/800) - 2016/01/28 11:47:14 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #8 is the button
+Seat 1: lepokmino (13040)
+Seat 2: jacko811 (20830)
+Seat 3: actarus5555 (51985)
+Seat 4: TJ3869 (43020)
+Seat 5: AsTroisDame (62115)
+Seat 6: eddy 9206 (39290)
+Seat 7: cayenne2mars (1815)
+Seat 8: manggy94 (17750)
+*** ANTE/BLINDS ***
+lepokmino posts ante 75
+jacko811 posts ante 75
+actarus5555 posts ante 75
+TJ3869 posts ante 75
+AsTroisDame posts ante 75
+eddy 9206 posts ante 75
+cayenne2mars posts ante 75
+manggy94 posts ante 75
+lepokmino posts small blind 400
+jacko811 posts big blind 800
+Dealt to manggy94 [3h Jc]
+*** PRE-FLOP *** 
+actarus5555 folds
+TJ3869 folds
+AsTroisDame raises 1200 to 2000
+eddy 9206 folds
+cayenne2mars folds
+manggy94 folds
+lepokmino folds
+jacko811 folds
+AsTroisDame collected 3800 from pot
+*** SUMMARY ***
+Total pot 3800 | No rake
+Seat 5: AsTroisDame won 3800
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #623655098492387336-58-1453981658 - Holdem no limit (75/400/800) - 2016/01/28 11:47:38 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #1 is the button
+Seat 1: lepokmino (12565)
+Seat 2: jacko811 (19955)
+Seat 3: actarus5555 (51910)
+Seat 4: TJ3869 (42945)
+Seat 5: AsTroisDame (63840)
+Seat 6: eddy 9206 (39215)
+Seat 7: cayenne2mars (1740)
+Seat 8: manggy94 (17675)
+*** ANTE/BLINDS ***
+jacko811 posts ante 75
+actarus5555 posts ante 75
+lepokmino posts ante 75
+TJ3869 posts ante 75
+AsTroisDame posts ante 75
+eddy 9206 posts ante 75
+cayenne2mars posts ante 75
+manggy94 posts ante 75
+jacko811 posts small blind 400
+actarus5555 posts big blind 800
+Dealt to manggy94 [Ac 9h]
+*** PRE-FLOP *** 
+TJ3869 folds
+AsTroisDame folds
+eddy 9206 raises 800 to 1600
+cayenne2mars raises 65 to 1665 and is all-in
+manggy94 calls 1665
+lepokmino folds
+jacko811 raises 18215 to 19880 and is all-in
+actarus5555 folds
+eddy 9206 folds
+manggy94 folds
+*** FLOP *** [4c 4d Jd]
+*** TURN *** [4c 4d Jd][Jh]
+*** RIVER *** [4c 4d Jd Jh][Ks]
+*** SHOW DOWN ***
+cayenne2mars shows [Tc Td] (Two pairs : Jacks and Tens)
+jacko811 shows [Kc Kd] (Full of Kings and Jacks)
+jacko811 collected 26210 from pot
+*** SUMMARY ***
+Total pot 26210 | No rake
+Board: [4c 4d Jd Jh Ks]
+Seat 2: jacko811 (small blind) showed [Kc Kd] and won 26210 with Full of Kings and Jacks
+Seat 7: cayenne2mars showed [Tc Td] and lost with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #623655098492387336-59-1453981732 - Holdem no limit (75/400/800) - 2016/01/28 11:48:52 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #2 is the button
+Seat 1: lepokmino (12490)
+Seat 2: jacko811 (26210)
+Seat 3: actarus5555 (51035)
+Seat 4: TJ3869 (42870)
+Seat 5: AsTroisDame (63765)
+Seat 6: eddy 9206 (37540)
+Seat 8: manggy94 (15935)
+*** ANTE/BLINDS ***
+actarus5555 posts ante 75
+TJ3869 posts ante 75
+lepokmino posts ante 75
+jacko811 posts ante 75
+AsTroisDame posts ante 75
+eddy 9206 posts ante 75
+manggy94 posts ante 75
+actarus5555 posts small blind 400
+TJ3869 posts big blind 800
+Dealt to manggy94 [3c Tc]
+*** PRE-FLOP *** 
+AsTroisDame folds
+eddy 9206 calls 800
+manggy94 folds
+lepokmino folds
+jacko811 raises 2400 to 3200
+actarus5555 folds
+TJ3869 folds
+eddy 9206 folds
+jacko811 collected 5725 from pot
+*** SUMMARY ***
+Total pot 5725 | No rake
+Seat 2: jacko811 (button) won 5725
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #623655098492387336-60-1453981784 - Holdem no limit (75/400/800) - 2016/01/28 11:49:44 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #3 is the button
+Seat 1: lepokmino (12415)
+Seat 2: jacko811 (28660)
+Seat 3: actarus5555 (50560)
+Seat 4: TJ3869 (41995)
+Seat 5: AsTroisDame (63690)
+Seat 6: eddy 9206 (36665)
+Seat 7: Spinalian 88 (12330)
+Seat 8: manggy94 (15860)
+*** ANTE/BLINDS ***
+TJ3869 posts ante 75
+AsTroisDame posts ante 75
+lepokmino posts ante 75
+jacko811 posts ante 75
+actarus5555 posts ante 75
+eddy 9206 posts ante 75
+Spinalian 88 posts ante 75
+manggy94 posts ante 75
+TJ3869 posts small blind 400
+AsTroisDame posts big blind 800
+Dealt to manggy94 [4h Kd]
+*** PRE-FLOP *** 
+eddy 9206 folds
+Spinalian 88 folds
+manggy94 calls 800
+lepokmino raises 11540 to 12340 and is all-in
+jacko811 folds
+actarus5555 folds
+TJ3869 folds
+AsTroisDame folds
+manggy94 folds
+lepokmino collected 14940 from pot
+*** SUMMARY ***
+Total pot 14940 | No rake
+Seat 1: lepokmino won 14940
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #623655098492387336-61-1453981812 - Holdem no limit (100/500/1000) - 2016/01/28 11:50:12 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #4 is the button
+Seat 1: lepokmino (14940)
+Seat 2: jacko811 (28585)
+Seat 3: actarus5555 (50485)
+Seat 4: TJ3869 (41520)
+Seat 5: AsTroisDame (62815)
+Seat 6: eddy 9206 (36590)
+Seat 7: Spinalian 88 (12255)
+Seat 8: manggy94 (14985)
+*** ANTE/BLINDS ***
+AsTroisDame posts ante 100
+eddy 9206 posts ante 100
+lepokmino posts ante 100
+jacko811 posts ante 100
+actarus5555 posts ante 100
+TJ3869 posts ante 100
+Spinalian 88 posts ante 100
+manggy94 posts ante 100
+AsTroisDame posts small blind 500
+eddy 9206 posts big blind 1000
+Dealt to manggy94 [Jh 2s]
+*** PRE-FLOP *** 
+Spinalian 88 folds
+manggy94 folds
+lepokmino calls 1000
+jacko811 folds
+actarus5555 folds
+TJ3869 folds
+AsTroisDame raises 2000 to 3000
+eddy 9206 folds
+lepokmino calls 2000
+*** FLOP *** [8h 2d 3c]
+AsTroisDame bets 4000
+lepokmino folds
+AsTroisDame collected 11800 from pot
+*** SUMMARY ***
+Total pot 11800 | No rake
+Board: [8h 2d 3c]
+Seat 5: AsTroisDame (small blind) won 11800
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #623655098492387336-62-1453981851 - Holdem no limit (100/500/1000) - 2016/01/28 11:50:51 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #5 is the button
+Seat 1: lepokmino (11840)
+Seat 2: jacko811 (28485)
+Seat 3: actarus5555 (50385)
+Seat 4: TJ3869 (41420)
+Seat 5: AsTroisDame (67515)
+Seat 6: eddy 9206 (35490)
+Seat 7: Spinalian 88 (12155)
+Seat 8: manggy94 (14885)
+*** ANTE/BLINDS ***
+eddy 9206 posts ante 100
+Spinalian 88 posts ante 100
+lepokmino posts ante 100
+jacko811 posts ante 100
+actarus5555 posts ante 100
+TJ3869 posts ante 100
+AsTroisDame posts ante 100
+manggy94 posts ante 100
+eddy 9206 posts small blind 500
+Spinalian 88 posts big blind 1000
+Dealt to manggy94 [8h Kh]
+*** PRE-FLOP *** 
+manggy94 calls 1000
+lepokmino raises 10740 to 11740 and is all-in
+jacko811 folds
+actarus5555 folds
+TJ3869 folds
+AsTroisDame folds
+eddy 9206 folds
+Spinalian 88 folds
+manggy94 calls 10740
+*** FLOP *** [2c As 3c]
+*** TURN *** [2c As 3c][Kc]
+*** RIVER *** [2c As 3c Kc][Kd]
+*** SHOW DOWN ***
+manggy94 shows [8h Kh] (Trips of Kings)
+lepokmino shows [Tc 8c] (Flush King high)
+lepokmino collected 25780 from pot
+*** SUMMARY ***
+Total pot 25780 | No rake
+Board: [2c As 3c Kc Kd]
+Seat 1: lepokmino showed [Tc 8c] and won 25780 with Flush King high
+Seat 8: manggy94 showed [8h Kh] and lost with Trips of Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #623655098492387336-63-1453981911 - Holdem no limit (100/500/1000) - 2016/01/28 11:51:51 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #6 is the button
+Seat 1: lepokmino (25780)
+Seat 2: jacko811 (28385)
+Seat 3: actarus5555 (50285)
+Seat 4: TJ3869 (41320)
+Seat 5: AsTroisDame (67415)
+Seat 6: eddy 9206 (34890)
+Seat 7: Spinalian 88 (11055)
+Seat 8: manggy94 (3045)
+*** ANTE/BLINDS ***
+Spinalian 88 posts ante 100
+manggy94 posts ante 100
+lepokmino posts ante 100
+jacko811 posts ante 100
+actarus5555 posts ante 100
+TJ3869 posts ante 100
+AsTroisDame posts ante 100
+eddy 9206 posts ante 100
+Spinalian 88 posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [Ad 9c]
+*** PRE-FLOP *** 
+lepokmino folds
+jacko811 folds
+actarus5555 calls 1000
+TJ3869 folds
+AsTroisDame folds
+eddy 9206 folds
+Spinalian 88 folds
+manggy94 checks
+*** FLOP *** [Jc 2d Td]
+manggy94 bets 1945 and is all-in
+actarus5555 folds
+manggy94 collected 5245 from pot
+*** SUMMARY ***
+Total pot 5245 | No rake
+Board: [Jc 2d Td]
+Seat 8: manggy94 (big blind) won 5245
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #623655098492387336-64-1453981961 - Holdem no limit (100/500/1000) - 2016/01/28 11:52:41 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #7 is the button
+Seat 1: lepokmino (25680)
+Seat 2: jacko811 (28285)
+Seat 3: actarus5555 (49185)
+Seat 4: TJ3869 (41220)
+Seat 5: AsTroisDame (67315)
+Seat 6: eddy 9206 (34790)
+Seat 7: Spinalian 88 (10455)
+Seat 8: manggy94 (5245)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+lepokmino posts ante 100
+jacko811 posts ante 100
+actarus5555 posts ante 100
+TJ3869 posts ante 100
+AsTroisDame posts ante 100
+eddy 9206 posts ante 100
+Spinalian 88 posts ante 100
+manggy94 posts small blind 500
+lepokmino posts big blind 1000
+Dealt to manggy94 [3c 6h]
+*** PRE-FLOP *** 
+jacko811 folds
+actarus5555 folds
+TJ3869 folds
+AsTroisDame folds
+eddy 9206 folds
+Spinalian 88 folds
+manggy94 folds
+lepokmino collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Seat 1: lepokmino (big blind) won 2300
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #623655098492387336-65-1453981971 - Holdem no limit (100/500/1000) - 2016/01/28 11:52:51 UTC
+Table: 'MiniRoll(145206018)#007' 8-max (real money) Seat #8 is the button
+Seat 1: lepokmino (26880)
+Seat 2: jacko811 (28185)
+Seat 3: actarus5555 (49085)
+Seat 4: TJ3869 (41120)
+Seat 5: AsTroisDame (67215)
+Seat 6: eddy 9206 (34690)
+Seat 7: Spinalian 88 (10355)
+Seat 8: manggy94 (4645)
+*** ANTE/BLINDS ***
+lepokmino posts ante 100
+jacko811 posts ante 100
+actarus5555 posts ante 100
+TJ3869 posts ante 100
+AsTroisDame posts ante 100
+eddy 9206 posts ante 100
+Spinalian 88 posts ante 100
+manggy94 posts ante 100
+lepokmino posts small blind 500
+jacko811 posts big blind 1000
+Dealt to manggy94 [4s 4d]
+*** PRE-FLOP *** 
+actarus5555 folds
+TJ3869 folds
+AsTroisDame folds
+eddy 9206 raises 2000 to 3000
+Spinalian 88 folds
+manggy94 raises 1545 to 4545 and is all-in
+lepokmino folds
+jacko811 folds
+eddy 9206 calls 1545
+*** FLOP *** [8c Kc 4h]
+*** TURN *** [8c Kc 4h][3c]
+*** RIVER *** [8c Kc 4h 3c][9c]
+*** SHOW DOWN ***
+manggy94 shows [4s 4d] (Trips of 4)
+eddy 9206 shows [Qc Qh] (Flush King high)
+eddy 9206 collected 11390 from pot
+*** SUMMARY ***
+Total pot 11390 | No rake
+Board: [8c Kc 4h 3c 9c]
+Seat 6: eddy 9206 showed [Qc Qh] and won 11390 with Flush King high
+Seat 8: manggy94 (button) showed [4s 4d] and lost with Trips of 4
+
+

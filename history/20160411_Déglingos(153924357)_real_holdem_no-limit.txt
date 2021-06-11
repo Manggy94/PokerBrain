@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 7 - HandId: #661100079372828694-1-1460373722 - Holdem no limit (15/75/150) - 2016/04/11 11:22:02 UTC
+Table: 'Déglingos(153924357)#021' 3-max (real money) Seat #1 is the button
+Seat 1: Jltix4 (500)
+Seat 3: manggy94 (500)
+*** ANTE/BLINDS ***
+Jltix4 posts ante 15
+manggy94 posts ante 15
+Jltix4 posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [Js 5d]
+*** PRE-FLOP *** 
+Jltix4 raises 335 to 485 and is all-in
+manggy94 folds
+Jltix4 collected 665 from pot
+*** SUMMARY ***
+Total pot 665 | No rake
+Seat 1: Jltix4 (small blind) (button) won 665
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 7 - HandId: #661100079372828694-2-1460373732 - Holdem no limit (15/75/150) - 2016/04/11 11:22:12 UTC
+Table: 'Déglingos(153924357)#021' 3-max (real money) Seat #3 is the button
+Seat 1: Jltix4 (665)
+Seat 3: manggy94 (335)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+Jltix4 posts ante 15
+manggy94 posts small blind 75
+Jltix4 posts big blind 150
+Dealt to manggy94 [Qd Jd]
+*** PRE-FLOP *** 
+manggy94 raises 170 to 320 and is all-in
+Jltix4 calls 170
+*** FLOP *** [7s Tc 9s]
+*** TURN *** [7s Tc 9s][2h]
+*** RIVER *** [7s Tc 9s 2h][As]
+*** SHOW DOWN ***
+manggy94 shows [Qd Jd] (High card : Ace)
+Jltix4 shows [2s 2c] (Trips of 2)
+Jltix4 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [7s Tc 9s 2h As]
+Seat 1: Jltix4 (big blind) showed [2s 2c] and won 670 with Trips of 2
+Seat 3: manggy94 (small blind) (button) showed [Qd Jd] and lost with High card : Ace
+
+

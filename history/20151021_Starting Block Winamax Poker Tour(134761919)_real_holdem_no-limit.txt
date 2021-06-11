@@ -1,0 +1,352 @@
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 0 - HandId: #578798034851201025-1-1445441197 - Holdem no limit (10/20) - 2015/10/21 15:26:37 UTC
+Table: 'Starting Block Winamax Poker Tour(134761919)#0' 10-max (real money) Seat #7 is the button
+Seat 1: maitre guigs (1500)
+Seat 2: Thommzt (1500)
+Seat 3: kyokof (1500)
+Seat 4: mother66 (1500)
+Seat 5: manggy94 (1500)
+Seat 6: nad973 (1500)
+Seat 7: ZAKILL (1500)
+Seat 8: 357MAGNUM om (1500)
+Seat 9: Keven74 (1500)
+Seat 10: grandtoumou (1500)
+*** ANTE/BLINDS ***
+357MAGNUM om posts small blind 10
+Keven74 posts big blind 20
+Dealt to manggy94 [7h 6c]
+*** PRE-FLOP *** 
+grandtoumou raises 20 to 40
+maitre guigs folds
+Thommzt calls 40
+kyokof calls 40
+mother66 calls 40
+manggy94 folds
+nad973 calls 40
+ZAKILL folds
+357MAGNUM om folds
+Keven74 calls 20
+*** FLOP *** [Ks 6d Qc]
+Keven74 bets 188
+grandtoumou raises 1272 to 1460 and is all-in
+Thommzt calls 1460 and is all-in
+kyokof calls 1460 and is all-in
+mother66 folds
+nad973 folds
+Keven74 folds
+*** TURN *** [Ks 6d Qc][3d]
+*** RIVER *** [Ks 6d Qc 3d][4c]
+*** SHOW DOWN ***
+Thommzt shows [Kc 9d] (One pair : Kings)
+grandtoumou shows [Js Kh] (One pair : Kings)
+kyokof shows [Qs Kd] (Two pairs : Kings and Queens)
+kyokof collected 4818 from pot
+*** SUMMARY ***
+Total pot 4818 | No rake
+Board: [Ks 6d Qc 3d 4c]
+Seat 2: Thommzt showed [Kc 9d] and lost with One pair : Kings
+Seat 3: kyokof showed [Qs Kd] and won 4818 with Two pairs : Kings and Queens
+Seat 10: grandtoumou showed [Js Kh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 0 - HandId: #578798034851201025-2-1445441249 - Holdem no limit (10/20) - 2015/10/21 15:27:29 UTC
+Table: 'Starting Block Winamax Poker Tour(134761919)#0' 10-max (real money) Seat #8 is the button
+Seat 1: maitre guigs (1500)
+Seat 3: kyokof (4818)
+Seat 4: mother66 (1460)
+Seat 5: manggy94 (1500)
+Seat 6: nad973 (1460)
+Seat 7: ZAKILL (1500)
+Seat 8: 357MAGNUM om (1490)
+Seat 9: Keven74 (1272)
+*** ANTE/BLINDS ***
+Keven74 posts small blind 10
+maitre guigs posts big blind 20
+Dealt to manggy94 [Qs Kc]
+*** PRE-FLOP *** 
+kyokof folds
+mother66 folds
+manggy94 raises 1480 to 1500 and is all-in
+nad973 folds
+ZAKILL folds
+357MAGNUM om folds
+Keven74 calls 1262 and is all-in
+maitre guigs folds
+*** FLOP *** [Jd 4h 9d]
+*** TURN *** [Jd 4h 9d][6d]
+*** RIVER *** [Jd 4h 9d 6d][9c]
+*** SHOW DOWN ***
+Keven74 shows [7h Qd] (One pair : 9)
+manggy94 shows [Qs Kc] (One pair : 9)
+manggy94 collected 2792 from pot
+*** SUMMARY ***
+Total pot 2792 | No rake
+Board: [Jd 4h 9d 6d 9c]
+Seat 5: manggy94 showed [Qs Kc] and won 2792 with One pair : 9
+Seat 9: Keven74 (small blind) showed [7h Qd] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 0 - HandId: #578798034851201025-3-1445441276 - Holdem no limit (10/20) - 2015/10/21 15:27:56 UTC
+Table: 'Starting Block Winamax Poker Tour(134761919)#0' 10-max (real money) Seat #9 is the button
+Seat 1: maitre guigs (1480)
+Seat 3: kyokof (4818)
+Seat 4: mother66 (1460)
+Seat 5: manggy94 (2792)
+Seat 6: nad973 (1460)
+Seat 7: ZAKILL (1500)
+Seat 8: 357MAGNUM om (1490)
+*** ANTE/BLINDS ***
+maitre guigs posts small blind 10
+kyokof posts big blind 20
+Dealt to manggy94 [As 7s]
+*** PRE-FLOP *** 
+mother66 calls 20
+manggy94 raises 2772 to 2792 and is all-in
+nad973 folds
+ZAKILL folds
+357MAGNUM om folds
+maitre guigs folds
+kyokof folds
+mother66 calls 1440 and is all-in
+*** FLOP *** [7h 3h 8h]
+*** TURN *** [7h 3h 8h][Qd]
+*** RIVER *** [7h 3h 8h Qd][Qc]
+*** SHOW DOWN ***
+mother66 shows [Jh Qh] (Flush Queen high)
+manggy94 shows [As 7s] (Two pairs : Queens and 7)
+manggy94 collected 1332 from side pot 1
+mother66 collected 2950 from main pot
+*** SUMMARY ***
+Total pot 4282 | No rake
+Board: [7h 3h 8h Qd Qc]
+Seat 4: mother66 showed [Jh Qh] and won 2950 with Flush Queen high
+Seat 5: manggy94 showed [As 7s] and won 1332 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 0 - HandId: #578798034851201025-4-1445441298 - Holdem no limit (10/20) - 2015/10/21 15:28:18 UTC
+Table: 'Starting Block Winamax Poker Tour(134761919)#0' 10-max (real money) Seat #1 is the button
+Seat 1: maitre guigs (1470)
+Seat 3: kyokof (4798)
+Seat 4: mother66 (2950)
+Seat 5: manggy94 (1332)
+Seat 6: nad973 (1460)
+Seat 7: ZAKILL (1500)
+Seat 8: 357MAGNUM om (1490)
+*** ANTE/BLINDS ***
+kyokof posts small blind 10
+mother66 posts big blind 20
+Dealt to manggy94 [6s 8h]
+*** PRE-FLOP *** 
+manggy94 folds
+nad973 folds
+ZAKILL raises 30 to 50
+357MAGNUM om calls 50
+maitre guigs folds
+kyokof calls 40
+mother66 calls 30
+*** FLOP *** [3c 5d 6c]
+kyokof checks
+mother66 checks
+ZAKILL bets 133
+357MAGNUM om folds
+kyokof calls 133
+mother66 folds
+*** TURN *** [3c 5d 6c][5s]
+kyokof checks
+ZAKILL bets 233
+kyokof raises 4382 to 4615 and is all-in
+ZAKILL folds
+kyokof collected 5314 from pot
+*** SUMMARY ***
+Total pot 5314 | No rake
+Board: [3c 5d 6c 5s]
+Seat 3: kyokof (small blind) won 5314
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 1 - HandId: #578798034851201025-5-1445441397 - Holdem no limit (15/30) - 2015/10/21 15:29:57 UTC
+Table: 'Starting Block Winamax Poker Tour(134761919)#0' 10-max (real money) Seat #3 is the button
+Seat 1: maitre guigs (1470)
+Seat 3: kyokof (5314)
+Seat 4: mother66 (2900)
+Seat 5: manggy94 (1332)
+Seat 6: nad973 (1460)
+Seat 7: ZAKILL (1084)
+Seat 8: 357MAGNUM om (1440)
+*** ANTE/BLINDS ***
+mother66 posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [4d 5h]
+*** PRE-FLOP *** 
+nad973 calls 30
+ZAKILL calls 30
+357MAGNUM om folds
+maitre guigs calls 30
+kyokof calls 30
+mother66 calls 15
+manggy94 checks
+*** FLOP *** [Tc 9c Kh]
+mother66 bets 30
+manggy94 folds
+nad973 calls 30
+ZAKILL calls 30
+maitre guigs calls 30
+kyokof calls 30
+*** TURN *** [Tc 9c Kh][Kd]
+mother66 bets 2840 and is all-in
+nad973 folds
+ZAKILL folds
+maitre guigs folds
+kyokof folds
+mother66 collected 3170 from pot
+*** SUMMARY ***
+Total pot 3170 | No rake
+Board: [Tc 9c Kh Kd]
+Seat 4: mother66 (small blind) won 3170
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 1 - HandId: #578798034851201025-6-1445441436 - Holdem no limit (15/30) - 2015/10/21 15:30:36 UTC
+Table: 'Starting Block Winamax Poker Tour(134761919)#0' 10-max (real money) Seat #4 is the button
+Seat 1: maitre guigs (1410)
+Seat 3: kyokof (5254)
+Seat 4: mother66 (3170)
+Seat 5: manggy94 (1302)
+Seat 6: nad973 (1400)
+Seat 7: ZAKILL (1024)
+Seat 8: 357MAGNUM om (1440)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+nad973 posts big blind 30
+Dealt to manggy94 [8c 6s]
+*** PRE-FLOP *** 
+ZAKILL raises 60 to 90
+357MAGNUM om calls 90
+maitre guigs folds
+kyokof folds
+mother66 folds
+manggy94 calls 75
+nad973 calls 60
+*** FLOP *** [6d Ac 2c]
+manggy94 bets 1212 and is all-in
+nad973 folds
+ZAKILL folds
+357MAGNUM om folds
+manggy94 collected 1572 from pot
+*** SUMMARY ***
+Total pot 1572 | No rake
+Board: [6d Ac 2c]
+Seat 5: manggy94 (small blind) won 1572
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 1 - HandId: #578798034851201025-7-1445441483 - Holdem no limit (15/30) - 2015/10/21 15:31:23 UTC
+Table: 'Starting Block Winamax Poker Tour(134761919)#0' 10-max (real money) Seat #5 is the button
+Seat 1: maitre guigs (1410)
+Seat 3: kyokof (5254)
+Seat 4: mother66 (3170)
+Seat 5: manggy94 (1572)
+Seat 6: nad973 (1310)
+Seat 7: ZAKILL (934)
+Seat 8: 357MAGNUM om (1350)
+*** ANTE/BLINDS ***
+nad973 posts small blind 15
+ZAKILL posts big blind 30
+Dealt to manggy94 [9c Jc]
+*** PRE-FLOP *** 
+357MAGNUM om folds
+maitre guigs folds
+kyokof folds
+mother66 folds
+manggy94 raises 1542 to 1572 and is all-in
+nad973 calls 1295 and is all-in
+ZAKILL folds
+*** FLOP *** [6c Td 7c]
+*** TURN *** [6c Td 7c][Kh]
+*** RIVER *** [6c Td 7c Kh][Ah]
+*** SHOW DOWN ***
+nad973 shows [Jd Kc] (One pair : Kings)
+manggy94 shows [9c Jc] (High card : Ace)
+manggy94 collected 262 from side pot 1
+nad973 collected 2650 from main pot
+*** SUMMARY ***
+Total pot 2912 | No rake
+Board: [6c Td 7c Kh Ah]
+Seat 5: manggy94 (button) showed [9c Jc] and won 262 with High card : Ace
+Seat 6: nad973 (small blind) showed [Jd Kc] and won 2650 with One pair : Kings
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 1 - HandId: #578798034851201025-8-1445441543 - Holdem no limit (15/30) - 2015/10/21 15:32:23 UTC
+Table: 'Starting Block Winamax Poker Tour(134761919)#0' 10-max (real money) Seat #6 is the button
+Seat 1: maitre guigs (1410)
+Seat 3: kyokof (5254)
+Seat 4: mother66 (3170)
+Seat 5: manggy94 (262)
+Seat 6: nad973 (2650)
+Seat 7: ZAKILL (904)
+Seat 8: 357MAGNUM om (1350)
+*** ANTE/BLINDS ***
+ZAKILL posts small blind 15
+357MAGNUM om posts big blind 30
+Dealt to manggy94 [2h Td]
+*** PRE-FLOP *** 
+maitre guigs folds
+kyokof calls 30
+mother66 folds
+manggy94 folds
+nad973 folds
+ZAKILL raises 874 to 904 and is all-in
+357MAGNUM om folds
+kyokof calls 874
+*** FLOP *** [2d Ts 9h]
+*** TURN *** [2d Ts 9h][Jc]
+*** RIVER *** [2d Ts 9h Jc][8h]
+*** SHOW DOWN ***
+kyokof shows [Ac 4c] (High card : Ace)
+ZAKILL shows [Ad Qd] (Straight Queen high)
+ZAKILL collected 1838 from pot
+*** SUMMARY ***
+Total pot 1838 | No rake
+Board: [2d Ts 9h Jc 8h]
+Seat 3: kyokof showed [Ac 4c] and lost with High card : Ace
+Seat 7: ZAKILL (small blind) showed [Ad Qd] and won 1838 with Straight Queen high
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 2 - HandId: #578798034851201025-9-1445441579 - Holdem no limit (20/40) - 2015/10/21 15:32:59 UTC
+Table: 'Starting Block Winamax Poker Tour(134761919)#0' 10-max (real money) Seat #7 is the button
+Seat 1: maitre guigs (1410)
+Seat 3: kyokof (4350)
+Seat 4: mother66 (3170)
+Seat 5: manggy94 (262)
+Seat 6: nad973 (2650)
+Seat 7: ZAKILL (1838)
+Seat 8: 357MAGNUM om (1320)
+*** ANTE/BLINDS ***
+357MAGNUM om posts small blind 20
+maitre guigs posts big blind 40
+Dealt to manggy94 [3d Jh]
+*** PRE-FLOP *** 
+kyokof folds
+mother66 calls 40
+manggy94 raises 222 to 262 and is all-in
+nad973 folds
+ZAKILL folds
+357MAGNUM om calls 242
+maitre guigs calls 222
+mother66 calls 222
+*** FLOP *** [8d Jc Ks]
+357MAGNUM om checks
+maitre guigs bets 1148 and is all-in
+mother66 calls 1148
+357MAGNUM om folds
+*** TURN *** [8d Jc Ks][9h]
+*** RIVER *** [8d Jc Ks 9h][6s]
+*** SHOW DOWN ***
+maitre guigs shows [Kc Td] (One pair : Kings)
+manggy94 shows [3d Jh] (One pair : Jacks)
+mother66 shows [Kh Js] (Two pairs : Kings and Jacks)
+mother66 collected 3344 from pot
+*** SUMMARY ***
+Total pot 3344 | No rake
+Board: [8d Jc Ks 9h 6s]
+Seat 1: maitre guigs (big blind) showed [Kc Td] and lost with One pair : Kings
+Seat 4: mother66 showed [Kh Js] and won 3344 with Two pairs : Kings and Jacks
+Seat 5: manggy94 showed [3d Jh] and lost with One pair : Jacks
+
+

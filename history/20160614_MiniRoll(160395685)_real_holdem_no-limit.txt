@@ -1,0 +1,3329 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #688894221494517769-5-1465892696 - Holdem no limit (50/100) - 2016/06/14 08:24:56 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (10000)
+Seat 2: caramelle69 (9400)
+Seat 3: fredo6915 (9950)
+Seat 4: toontoon24 (11975)
+Seat 5: pina34 (7600)
+Seat 6: gnoukan (10150)
+Seat 7: SachM34 (9850)
+Seat 8: shawnb2b (9400)
+*** ANTE/BLINDS ***
+toontoon24 posts small blind 50
+pina34 posts big blind 100
+Dealt to manggy94 [4d Js]
+*** PRE-FLOP *** 
+gnoukan folds
+SachM34 calls 100
+shawnb2b folds
+manggy94 folds
+caramelle69 calls 100
+fredo6915 folds
+toontoon24 calls 50
+pina34 raises 400 to 500
+SachM34 folds
+caramelle69 calls 400
+toontoon24 folds
+*** FLOP *** [3s Qd 9h]
+pina34 bets 100
+caramelle69 calls 100
+*** TURN *** [3s Qd 9h][8s]
+pina34 bets 100
+caramelle69 calls 100
+*** RIVER *** [3s Qd 9h 8s][Td]
+pina34 bets 100
+caramelle69 calls 100
+*** SHOW DOWN ***
+caramelle69 shows [Ac 8h] (One pair : 8)
+pina34 shows [Jc As] (Straight Queen high)
+pina34 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [3s Qd 9h 8s Td]
+Seat 2: caramelle69 showed [Ac 8h] and lost with One pair : 8
+Seat 5: pina34 (big blind) showed [Jc As] and won 1800 with Straight Queen high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #688894221494517769-6-1465892765 - Holdem no limit (50/100) - 2016/06/14 08:26:05 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #4 is the button
+Seat 1: manggy94 (10000)
+Seat 2: caramelle69 (8600)
+Seat 3: fredo6915 (9950)
+Seat 4: toontoon24 (11875)
+Seat 5: pina34 (8600)
+Seat 6: gnoukan (10150)
+Seat 7: SachM34 (9750)
+Seat 8: shawnb2b (9400)
+*** ANTE/BLINDS ***
+pina34 posts small blind 50
+gnoukan posts big blind 100
+Dealt to manggy94 [8d 5d]
+*** PRE-FLOP *** 
+SachM34 folds
+shawnb2b calls 100
+manggy94 folds
+caramelle69 raises 8500 to 8600 and is all-in
+fredo6915 folds
+toontoon24 folds
+pina34 folds
+gnoukan folds
+shawnb2b folds
+caramelle69 collected 8850 from pot
+*** SUMMARY ***
+Total pot 8850 | No rake
+Seat 2: caramelle69 won 8850
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 1 - HandId: #688894221494517769-7-1465892800 - Holdem no limit (50/100) - 2016/06/14 08:26:40 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #5 is the button
+Seat 1: manggy94 (10000)
+Seat 2: caramelle69 (8850)
+Seat 3: fredo6915 (9950)
+Seat 4: toontoon24 (11875)
+Seat 5: pina34 (8550)
+Seat 6: gnoukan (10050)
+Seat 7: SachM34 (9750)
+*** ANTE/BLINDS ***
+gnoukan posts small blind 50
+SachM34 posts big blind 100
+Dealt to manggy94 [2d Td]
+*** PRE-FLOP *** 
+manggy94 folds
+caramelle69 folds
+fredo6915 folds
+toontoon24 calls 100
+pina34 raises 350 to 450
+gnoukan folds
+SachM34 folds
+toontoon24 calls 350
+*** FLOP *** [3h 4s 3d]
+toontoon24 checks
+pina34 bets 8100 and is all-in
+toontoon24 calls 8100
+*** TURN *** [3h 4s 3d][Js]
+*** RIVER *** [3h 4s 3d Js][7s]
+*** SHOW DOWN ***
+toontoon24 shows [2c 2s] (Two pairs : 3 and 2)
+pina34 shows [Jd Jh] (Full of Jacks and 3)
+pina34 collected 17250 from pot
+*** SUMMARY ***
+Total pot 17250 | No rake
+Board: [3h 4s 3d Js 7s]
+Seat 4: toontoon24 showed [2c 2s] and lost with Two pairs : 3 and 2
+Seat 5: pina34 (button) showed [Jd Jh] and won 17250 with Full of Jacks and 3
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #688894221494517769-8-1465892846 - Holdem no limit (75/150) - 2016/06/14 08:27:26 UTC
+Table: 'MiniRoll(160395685)#008' 7-max (real money) Seat #6 is the button
+Seat 1: manggy94 (10000)
+Seat 2: caramelle69 (8850)
+Seat 3: fredo6915 (9950)
+Seat 4: toontoon24 (3325)
+Seat 5: pina34 (17250)
+Seat 6: gnoukan (10000)
+Seat 7: SachM34 (9650)
+*** ANTE/BLINDS ***
+SachM34 posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [9h 2c]
+*** PRE-FLOP *** 
+caramelle69 folds
+fredo6915 folds
+toontoon24 folds
+pina34 raises 150 to 300
+gnoukan folds
+SachM34 folds
+manggy94 calls 150
+*** FLOP *** [7d 6c 2h]
+manggy94 bets 338
+pina34 calls 338
+*** TURN *** [7d 6c 2h][3d]
+manggy94 checks
+pina34 checks
+*** RIVER *** [7d 6c 2h 3d][Qd]
+manggy94 checks
+pina34 checks
+*** SHOW DOWN ***
+pina34 shows [Kh As] (High card : Ace)
+manggy94 shows [9h 2c] (One pair : 2)
+manggy94 collected 1351 from pot
+*** SUMMARY ***
+Total pot 1351 | No rake
+Board: [7d 6c 2h 3d Qd]
+Seat 1: manggy94 (big blind) showed [9h 2c] and won 1351 with One pair : 2
+Seat 5: pina34 showed [Kh As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #688894221494517769-9-1465892897 - Holdem no limit (75/150) - 2016/06/14 08:28:17 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (10713)
+Seat 2: caramelle69 (8850)
+Seat 3: fredo6915 (9950)
+Seat 4: toontoon24 (3325)
+Seat 5: pina34 (16612)
+Seat 6: gnoukan (10000)
+Seat 7: SachM34 (9575)
+Seat 8: harlock4 (10000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 75
+caramelle69 posts big blind 150
+Dealt to manggy94 [Td 3d]
+*** PRE-FLOP *** 
+fredo6915 raises 300 to 450
+toontoon24 folds
+pina34 calls 450
+gnoukan folds
+SachM34 folds
+manggy94 folds
+caramelle69 calls 300
+*** FLOP *** [Ac 6s Kh]
+caramelle69 checks
+fredo6915 checks
+pina34 checks
+*** TURN *** [Ac 6s Kh][5h]
+caramelle69 checks
+fredo6915 bets 713
+pina34 raises 15449 to 16162 and is all-in
+caramelle69 folds
+fredo6915 calls 8787 and is all-in
+*** RIVER *** [Ac 6s Kh 5h][Jd]
+*** SHOW DOWN ***
+fredo6915 shows [Kd Kc] (Trips of Kings)
+pina34 shows [Ks 6d] (Two pairs : Kings and 6)
+pina34 collected 6662 from side pot 1
+fredo6915 collected 20425 from main pot
+*** SUMMARY ***
+Total pot 27087 | No rake
+Board: [Ac 6s Kh 5h Jd]
+Seat 3: fredo6915 showed [Kd Kc] and won 20425 with Trips of Kings
+Seat 5: pina34 showed [Ks 6d] and won 6662 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #688894221494517769-10-1465893009 - Holdem no limit (75/150) - 2016/06/14 08:30:09 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #1 is the button
+Seat 1: manggy94 (10638)
+Seat 2: caramelle69 (8400)
+Seat 3: fredo6915 (20425)
+Seat 4: toontoon24 (3325)
+Seat 5: pina34 (6662)
+Seat 6: gnoukan (10000)
+Seat 7: SachM34 (9575)
+Seat 8: harlock4 (10000)
+*** ANTE/BLINDS ***
+caramelle69 posts small blind 75
+fredo6915 posts big blind 150
+Dealt to manggy94 [2d 8d]
+*** PRE-FLOP *** 
+toontoon24 raises 575 to 725
+pina34 calls 725
+gnoukan raises 575 to 1300
+SachM34 folds
+harlock4 calls 1300
+manggy94 folds
+caramelle69 folds
+fredo6915 folds
+toontoon24 calls 575
+pina34 raises 5362 to 6662 and is all-in
+gnoukan raises 3338 to 10000 and is all-in
+harlock4 folds
+toontoon24 calls 2025 and is all-in
+*** FLOP *** [8s 3d 6d]
+*** TURN *** [8s 3d 6d][4c]
+*** RIVER *** [8s 3d 6d 4c][Jd]
+*** SHOW DOWN ***
+toontoon24 shows [As Js] (One pair : Jacks)
+pina34 shows [Jh 5d] (One pair : Jacks)
+gnoukan shows [Kd Ad] (Flush Ace high)
+gnoukan collected 21512 from pot
+*** SUMMARY ***
+Total pot 21512 | No rake
+Board: [8s 3d 6d 4c Jd]
+Seat 4: toontoon24 showed [As Js] and lost with One pair : Jacks
+Seat 5: pina34 showed [Jh 5d] and lost with One pair : Jacks
+Seat 6: gnoukan showed [Kd Ad] and won 21512 with Flush Ace high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 2 - HandId: #688894221494517769-11-1465893166 - Holdem no limit (75/150) - 2016/06/14 08:32:46 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #2 is the button
+Seat 1: manggy94 (10638)
+Seat 2: caramelle69 (8325)
+Seat 3: fredo6915 (20275)
+Seat 6: gnoukan (21512)
+Seat 7: SachM34 (9575)
+Seat 8: harlock4 (8700)
+*** ANTE/BLINDS ***
+fredo6915 posts small blind 75
+gnoukan posts big blind 150
+Dealt to manggy94 [Tc Js]
+*** PRE-FLOP *** 
+SachM34 calls 150
+harlock4 calls 150
+manggy94 calls 150
+caramelle69 calls 150
+fredo6915 calls 75
+gnoukan checks
+*** FLOP *** [9d 6d Td]
+fredo6915 checks
+gnoukan checks
+SachM34 checks
+harlock4 checks
+manggy94 bets 150
+caramelle69 folds
+fredo6915 folds
+gnoukan folds
+SachM34 folds
+harlock4 folds
+manggy94 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [9d 6d Td]
+Seat 1: manggy94 won 1050
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #688894221494517769-12-1465893272 - Holdem no limit (100/200) - 2016/06/14 08:34:32 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (11388)
+Seat 2: caramelle69 (8175)
+Seat 3: fredo6915 (20125)
+Seat 4: vespatounet (10000)
+Seat 5: Hebben2.0 (10000)
+Seat 6: gnoukan (21362)
+Seat 7: SachM34 (9425)
+Seat 8: harlock4 (8550)
+*** ANTE/BLINDS ***
+gnoukan posts small blind 100
+SachM34 posts big blind 200
+Dealt to manggy94 [3c 7s]
+*** PRE-FLOP *** 
+harlock4 folds
+manggy94 folds
+caramelle69 calls 200
+fredo6915 folds
+gnoukan folds
+SachM34 checks
+*** FLOP *** [3d Kd Td]
+SachM34 bets 200
+caramelle69 folds
+SachM34 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [3d Kd Td]
+Seat 7: SachM34 (big blind) won 700
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #688894221494517769-13-1465893340 - Holdem no limit (100/200) - 2016/06/14 08:35:40 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #6 is the button
+Seat 1: manggy94 (11388)
+Seat 2: caramelle69 (7975)
+Seat 3: fredo6915 (20125)
+Seat 4: vespatounet (10000)
+Seat 5: Hebben2.0 (10000)
+Seat 6: gnoukan (21262)
+Seat 7: SachM34 (9725)
+Seat 8: harlock4 (8550)
+*** ANTE/BLINDS ***
+SachM34 posts small blind 100
+harlock4 posts big blind 200
+Dealt to manggy94 [4h Ks]
+*** PRE-FLOP *** 
+manggy94 folds
+caramelle69 calls 200
+fredo6915 calls 200
+vespatounet folds
+Hebben2.0 folds
+gnoukan folds
+SachM34 calls 100
+harlock4 raises 200 to 400
+caramelle69 calls 200
+fredo6915 calls 200
+SachM34 calls 200
+*** FLOP *** [Jh 9h Qs]
+SachM34 checks
+harlock4 bets 1600
+caramelle69 folds
+fredo6915 calls 1600
+SachM34 folds
+*** TURN *** [Jh 9h Qs][2d]
+harlock4 bets 2400
+fredo6915 calls 2400
+*** RIVER *** [Jh 9h Qs 2d][4c]
+harlock4 bets 4150 and is all-in
+fredo6915 calls 4150
+*** SHOW DOWN ***
+fredo6915 shows [Jd Ts] (One pair : Jacks)
+harlock4 shows [Qh Ad] (One pair : Queens)
+harlock4 collected 17900 from pot
+*** SUMMARY ***
+Total pot 17900 | No rake
+Board: [Jh 9h Qs 2d 4c]
+Seat 3: fredo6915 showed [Jd Ts] and lost with One pair : Jacks
+Seat 8: harlock4 (big blind) showed [Qh Ad] and won 17900 with One pair : Queens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 3 - HandId: #688894221494517769-14-1465893528 - Holdem no limit (100/200) - 2016/06/14 08:38:48 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (11388)
+Seat 2: caramelle69 (7575)
+Seat 3: fredo6915 (11575)
+Seat 4: vespatounet (10000)
+Seat 5: Hebben2.0 (10000)
+Seat 6: gnoukan (21262)
+Seat 7: SachM34 (9325)
+Seat 8: harlock4 (17900)
+*** ANTE/BLINDS ***
+harlock4 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [Qc Ks]
+*** PRE-FLOP *** 
+caramelle69 calls 200
+fredo6915 folds
+vespatounet calls 200
+Hebben2.0 folds
+gnoukan raises 600 to 800
+SachM34 calls 800
+harlock4 folds
+manggy94 calls 600
+caramelle69 calls 600
+vespatounet calls 600
+*** FLOP *** [4s Td 8d]
+manggy94 checks
+caramelle69 checks
+vespatounet checks
+gnoukan bets 3116
+SachM34 folds
+manggy94 folds
+caramelle69 folds
+vespatounet folds
+gnoukan collected 7216 from pot
+*** SUMMARY ***
+Total pot 7216 | No rake
+Board: [4s Td 8d]
+Seat 6: gnoukan won 7216
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #688894221494517769-15-1465893670 - Holdem no limit (150/300) - 2016/06/14 08:41:10 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #8 is the button
+Seat 1: manggy94 (10588)
+Seat 2: caramelle69 (6775)
+Seat 3: fredo6915 (11575)
+Seat 4: vespatounet (9200)
+Seat 5: Hebben2.0 (10000)
+Seat 6: gnoukan (24562)
+Seat 7: SachM34 (8525)
+Seat 8: harlock4 (17800)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+caramelle69 posts big blind 300
+Dealt to manggy94 [Kd 4h]
+*** PRE-FLOP *** 
+fredo6915 folds
+vespatounet calls 300
+Hebben2.0 folds
+gnoukan folds
+SachM34 folds
+harlock4 folds
+manggy94 calls 150
+caramelle69 raises 6475 to 6775 and is all-in
+vespatounet calls 6475
+manggy94 folds
+*** FLOP *** [7h 8h 5h]
+*** TURN *** [7h 8h 5h][Kc]
+*** RIVER *** [7h 8h 5h Kc][5d]
+*** SHOW DOWN ***
+caramelle69 shows [Qd Ad] (One pair : 5)
+vespatounet shows [6s Kh] (Two pairs : Kings and 5)
+vespatounet collected 13850 from pot
+*** SUMMARY ***
+Total pot 13850 | No rake
+Board: [7h 8h 5h Kc 5d]
+Seat 2: caramelle69 (big blind) showed [Qd Ad] and lost with One pair : 5
+Seat 4: vespatounet showed [6s Kh] and won 13850 with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #688894221494517769-16-1465893712 - Holdem no limit (150/300) - 2016/06/14 08:41:52 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #1 is the button
+Seat 1: manggy94 (10288)
+Seat 3: fredo6915 (11575)
+Seat 4: vespatounet (16275)
+Seat 5: Hebben2.0 (10000)
+Seat 6: gnoukan (24562)
+Seat 7: SachM34 (8525)
+Seat 8: harlock4 (17800)
+*** ANTE/BLINDS ***
+fredo6915 posts big blind 300
+Dealt to manggy94 [Js Qc]
+*** PRE-FLOP *** 
+vespatounet calls 300
+Hebben2.0 folds
+gnoukan folds
+SachM34 folds
+harlock4 folds
+manggy94 calls 300
+fredo6915 checks
+*** FLOP *** [8c 6s Jc]
+fredo6915 checks
+vespatounet checks
+manggy94 bets 900
+fredo6915 folds
+vespatounet folds
+manggy94 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [8c 6s Jc]
+Seat 1: manggy94 (button) won 1800
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #688894221494517769-17-1465893776 - Holdem no limit (150/300) - 2016/06/14 08:42:56 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #2 is the button
+Seat 1: manggy94 (10888)
+Seat 3: fredo6915 (11275)
+Seat 4: vespatounet (15975)
+Seat 5: Hebben2.0 (10000)
+Seat 6: gnoukan (24562)
+Seat 7: SachM34 (8525)
+Seat 8: harlock4 (17800)
+*** ANTE/BLINDS ***
+fredo6915 posts small blind 150
+vespatounet posts big blind 300
+Dealt to manggy94 [Qd Td]
+*** PRE-FLOP *** 
+Hebben2.0 raises 300 to 600
+gnoukan folds
+SachM34 raises 300 to 900
+harlock4 raises 300 to 1200
+manggy94 folds
+fredo6915 folds
+vespatounet folds
+Hebben2.0 folds
+SachM34 calls 300
+*** FLOP *** [9h 4c Ac]
+SachM34 checks
+harlock4 bets 300
+SachM34 calls 300
+*** TURN *** [9h 4c Ac][Ks]
+SachM34 checks
+harlock4 checks
+*** RIVER *** [9h 4c Ac Ks][3c]
+SachM34 checks
+harlock4 checks
+*** SHOW DOWN ***
+harlock4 shows [Jc Js] (One pair : Jacks)
+SachM34 shows [Qh Qc] (One pair : Queens)
+SachM34 collected 4050 from pot
+*** SUMMARY ***
+Total pot 4050 | No rake
+Board: [9h 4c Ac Ks 3c]
+Seat 7: SachM34 showed [Qh Qc] and won 4050 with One pair : Queens
+Seat 8: harlock4 showed [Jc Js] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 4 - HandId: #688894221494517769-18-1465893854 - Holdem no limit (150/300) - 2016/06/14 08:44:14 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (10888)
+Seat 2: El Pablo 62 (10000)
+Seat 3: fredo6915 (11125)
+Seat 4: vespatounet (15675)
+Seat 5: Hebben2.0 (9400)
+Seat 6: gnoukan (24562)
+Seat 7: SachM34 (11075)
+Seat 8: harlock4 (16300)
+*** ANTE/BLINDS ***
+vespatounet posts small blind 150
+Hebben2.0 posts big blind 300
+Dealt to manggy94 [9s Js]
+*** PRE-FLOP *** 
+gnoukan calls 300
+SachM34 folds
+harlock4 folds
+manggy94 calls 300
+El Pablo 62 folds
+fredo6915 folds
+vespatounet calls 150
+Hebben2.0 raises 1140 to 1440
+gnoukan calls 1140
+manggy94 folds
+vespatounet calls 1140
+*** FLOP *** [9h 7h 3d]
+vespatounet checks
+Hebben2.0 bets 1540
+gnoukan calls 1540
+vespatounet folds
+*** TURN *** [9h 7h 3d][3s]
+Hebben2.0 bets 6420 and is all-in
+gnoukan calls 6420
+*** RIVER *** [9h 7h 3d 3s][9d]
+*** SHOW DOWN ***
+Hebben2.0 shows [Qd Kd] (Two pairs : 9 and 3)
+gnoukan shows [Qh Qc] (Two pairs : Queens and 9)
+gnoukan collected 20540 from pot
+*** SUMMARY ***
+Total pot 20540 | No rake
+Board: [9h 7h 3d 3s 9d]
+Seat 5: Hebben2.0 (big blind) showed [Qd Kd] and lost with Two pairs : 9 and 3
+Seat 6: gnoukan showed [Qh Qc] and won 20540 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #688894221494517769-19-1465893948 - Holdem no limit (25/150/300) - 2016/06/14 08:45:48 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #4 is the button
+Seat 1: manggy94 (10588)
+Seat 2: El Pablo 62 (10000)
+Seat 3: fredo6915 (11125)
+Seat 4: vespatounet (14235)
+Seat 6: gnoukan (35702)
+Seat 7: SachM34 (11075)
+Seat 8: harlock4 (16300)
+*** ANTE/BLINDS ***
+gnoukan posts ante 25
+manggy94 posts ante 25
+El Pablo 62 posts ante 25
+fredo6915 posts ante 25
+vespatounet posts ante 25
+SachM34 posts ante 25
+harlock4 posts ante 25
+gnoukan posts big blind 300
+Dealt to manggy94 [Ks 3c]
+*** PRE-FLOP *** 
+SachM34 calls 300
+harlock4 folds
+manggy94 folds
+El Pablo 62 folds
+fredo6915 calls 300
+vespatounet folds
+gnoukan checks
+*** FLOP *** [3h As 3d]
+gnoukan checks
+SachM34 checks
+fredo6915 checks
+*** TURN *** [3h As 3d][8h]
+gnoukan bets 419
+SachM34 folds
+fredo6915 folds
+gnoukan collected 1494 from pot
+*** SUMMARY ***
+Total pot 1494 | No rake
+Board: [3h As 3d 8h]
+Seat 6: gnoukan (big blind) won 1494
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #688894221494517769-20-1465894007 - Holdem no limit (25/150/300) - 2016/06/14 08:46:47 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #5 is the button
+Seat 1: manggy94 (10563)
+Seat 2: El Pablo 62 (9975)
+Seat 3: fredo6915 (10800)
+Seat 4: vespatounet (14210)
+Seat 5: louiggi333 (10000)
+Seat 6: gnoukan (36452)
+Seat 7: SachM34 (10750)
+Seat 8: harlock4 (16275)
+*** ANTE/BLINDS ***
+gnoukan posts ante 25
+SachM34 posts ante 25
+manggy94 posts ante 25
+El Pablo 62 posts ante 25
+fredo6915 posts ante 25
+vespatounet posts ante 25
+harlock4 posts ante 25
+gnoukan posts small blind 150
+SachM34 posts big blind 300
+Dealt to manggy94 [Qc Jc]
+*** PRE-FLOP *** 
+harlock4 folds
+manggy94 raises 300 to 600
+El Pablo 62 folds
+fredo6915 folds
+vespatounet calls 600
+gnoukan folds
+SachM34 folds
+*** FLOP *** [2c Tc Kh]
+manggy94 bets 1825
+vespatounet calls 1825
+*** TURN *** [2c Tc Kh][7d]
+manggy94 checks
+vespatounet checks
+*** RIVER *** [2c Tc Kh 7d][4s]
+manggy94 bets 2738
+vespatounet folds
+manggy94 collected 8213 from pot
+*** SUMMARY ***
+Total pot 8213 | No rake
+Board: [2c Tc Kh 7d 4s]
+Seat 1: manggy94 won 8213
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #688894221494517769-21-1465894063 - Holdem no limit (25/150/300) - 2016/06/14 08:47:43 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #6 is the button
+Seat 1: manggy94 (13588)
+Seat 2: El Pablo 62 (9950)
+Seat 3: fredo6915 (10775)
+Seat 4: vespatounet (11760)
+Seat 5: louiggi333 (10000)
+Seat 6: gnoukan (36277)
+Seat 7: SachM34 (10425)
+Seat 8: harlock4 (16250)
+*** ANTE/BLINDS ***
+SachM34 posts ante 25
+harlock4 posts ante 25
+manggy94 posts ante 25
+El Pablo 62 posts ante 25
+fredo6915 posts ante 25
+vespatounet posts ante 25
+louiggi333 posts ante 25
+gnoukan posts ante 25
+SachM34 posts small blind 150
+harlock4 posts big blind 300
+Dealt to manggy94 [6c 4h]
+*** PRE-FLOP *** 
+manggy94 folds
+El Pablo 62 folds
+fredo6915 folds
+vespatounet calls 300
+louiggi333 folds
+gnoukan folds
+SachM34 raises 300 to 600
+harlock4 calls 300
+vespatounet calls 300
+*** FLOP *** [5h 8c 8h]
+SachM34 bets 2000
+harlock4 folds
+vespatounet calls 2000
+*** TURN *** [5h 8c 8h][3c]
+SachM34 bets 6000
+vespatounet calls 6000
+*** RIVER *** [5h 8c 8h 3c][2s]
+SachM34 bets 1800 and is all-in
+vespatounet calls 1800
+*** SHOW DOWN ***
+vespatounet shows [5s Kd] (Two pairs : 8 and 5)
+SachM34 shows [Qs Qc] (Two pairs : Queens and 8)
+SachM34 collected 21600 from pot
+*** SUMMARY ***
+Total pot 21600 | No rake
+Board: [5h 8c 8h 3c 2s]
+Seat 4: vespatounet showed [5s Kd] and lost with Two pairs : 8 and 5
+Seat 7: SachM34 (small blind) showed [Qs Qc] and won 21600 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #688894221494517769-22-1465894131 - Holdem no limit (25/150/300) - 2016/06/14 08:48:51 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (13563)
+Seat 2: El Pablo 62 (9925)
+Seat 3: fredo6915 (10750)
+Seat 4: vespatounet (1335)
+Seat 5: louiggi333 (9975)
+Seat 6: gnoukan (36252)
+Seat 7: SachM34 (21600)
+Seat 8: harlock4 (15625)
+*** ANTE/BLINDS ***
+harlock4 posts ante 25
+manggy94 posts ante 25
+El Pablo 62 posts ante 25
+fredo6915 posts ante 25
+vespatounet posts ante 25
+louiggi333 posts ante 25
+gnoukan posts ante 25
+SachM34 posts ante 25
+harlock4 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Td 6h]
+*** PRE-FLOP *** 
+El Pablo 62 folds
+fredo6915 folds
+vespatounet raises 1010 to 1310 and is all-in
+louiggi333 folds
+gnoukan folds
+SachM34 calls 1310
+harlock4 folds
+manggy94 folds
+*** FLOP *** [7d 9h 9d]
+*** TURN *** [7d 9h 9d][Qc]
+*** RIVER *** [7d 9h 9d Qc][Qs]
+*** SHOW DOWN ***
+SachM34 shows [Ts Jh] (Two pairs : Queens and 9)
+vespatounet shows [5s As] (Two pairs : Queens and 9)
+vespatounet collected 3270 from pot
+*** SUMMARY ***
+Total pot 3270 | No rake
+Board: [7d 9h 9d Qc Qs]
+Seat 4: vespatounet showed [5s As] and won 3270 with Two pairs : Queens and 9
+Seat 7: SachM34 (button) showed [Ts Jh] and lost with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #688894221494517769-23-1465894181 - Holdem no limit (25/150/300) - 2016/06/14 08:49:41 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #8 is the button
+Seat 1: manggy94 (13238)
+Seat 2: El Pablo 62 (9900)
+Seat 3: fredo6915 (10725)
+Seat 4: vespatounet (3270)
+Seat 5: louiggi333 (9950)
+Seat 6: gnoukan (36227)
+Seat 7: SachM34 (20265)
+Seat 8: harlock4 (15450)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+El Pablo 62 posts ante 25
+fredo6915 posts ante 25
+vespatounet posts ante 25
+louiggi333 posts ante 25
+gnoukan posts ante 25
+SachM34 posts ante 25
+harlock4 posts ante 25
+manggy94 posts small blind 150
+El Pablo 62 posts big blind 300
+Dealt to manggy94 [Ks 5c]
+*** PRE-FLOP *** 
+fredo6915 folds
+vespatounet raises 2945 to 3245 and is all-in
+louiggi333 folds
+gnoukan folds
+SachM34 calls 3245
+harlock4 folds
+manggy94 folds
+El Pablo 62 folds
+*** FLOP *** [2s Qs 4h]
+*** TURN *** [2s Qs 4h][5h]
+*** RIVER *** [2s Qs 4h 5h][Tc]
+*** SHOW DOWN ***
+SachM34 shows [Jd Ac] (High card : Ace)
+vespatounet shows [7h 7s] (One pair : 7)
+vespatounet collected 7140 from pot
+*** SUMMARY ***
+Total pot 7140 | No rake
+Board: [2s Qs 4h 5h Tc]
+Seat 4: vespatounet showed [7h 7s] and won 7140 with One pair : 7
+Seat 7: SachM34 showed [Jd Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #688894221494517769-24-1465894215 - Holdem no limit (25/150/300) - 2016/06/14 08:50:15 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #1 is the button
+Seat 1: manggy94 (13063)
+Seat 2: El Pablo 62 (9575)
+Seat 3: fredo6915 (10700)
+Seat 4: vespatounet (7140)
+Seat 5: louiggi333 (9925)
+Seat 6: gnoukan (36202)
+Seat 7: SachM34 (16995)
+Seat 8: harlock4 (15425)
+*** ANTE/BLINDS ***
+El Pablo 62 posts ante 25
+fredo6915 posts ante 25
+manggy94 posts ante 25
+vespatounet posts ante 25
+louiggi333 posts ante 25
+gnoukan posts ante 25
+SachM34 posts ante 25
+harlock4 posts ante 25
+El Pablo 62 posts small blind 150
+fredo6915 posts big blind 300
+Dealt to manggy94 [8h Kc]
+*** PRE-FLOP *** 
+vespatounet folds
+louiggi333 folds
+gnoukan folds
+SachM34 folds
+harlock4 folds
+manggy94 raises 300 to 600
+El Pablo 62 folds
+fredo6915 calls 300
+*** FLOP *** [Qh 2s Js]
+fredo6915 checks
+manggy94 bets 300
+fredo6915 calls 300
+*** TURN *** [Qh 2s Js][5d]
+fredo6915 checks
+manggy94 bets 1075
+fredo6915 raises 8700 to 9775 and is all-in
+manggy94 folds
+fredo6915 collected 13000 from pot
+*** SUMMARY ***
+Total pot 13000 | No rake
+Board: [Qh 2s Js 5d]
+Seat 3: fredo6915 (big blind) won 13000
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #688894221494517769-25-1465894265 - Holdem no limit (30/200/400) - 2016/06/14 08:51:05 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #2 is the button
+Seat 1: manggy94 (11063)
+Seat 2: El Pablo 62 (9400)
+Seat 3: fredo6915 (13000)
+Seat 4: vespatounet (7115)
+Seat 5: louiggi333 (9900)
+Seat 6: gnoukan (36177)
+Seat 7: SachM34 (16970)
+Seat 8: harlock4 (15400)
+*** ANTE/BLINDS ***
+fredo6915 posts ante 30
+vespatounet posts ante 30
+manggy94 posts ante 30
+El Pablo 62 posts ante 30
+louiggi333 posts ante 30
+gnoukan posts ante 30
+SachM34 posts ante 30
+harlock4 posts ante 30
+fredo6915 posts small blind 200
+vespatounet posts big blind 400
+Dealt to manggy94 [Qs 3s]
+*** PRE-FLOP *** 
+louiggi333 folds
+gnoukan raises 400 to 800
+SachM34 folds
+harlock4 folds
+manggy94 calls 800
+El Pablo 62 folds
+fredo6915 folds
+vespatounet folds
+*** FLOP *** [8h 4c 3d]
+gnoukan checks
+manggy94 bets 1220
+gnoukan folds
+manggy94 collected 3660 from pot
+*** SUMMARY ***
+Total pot 3660 | No rake
+Board: [8h 4c 3d]
+Seat 1: manggy94 won 3660
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #688894221494517769-26-1465894327 - Holdem no limit (30/200/400) - 2016/06/14 08:52:07 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (12673)
+Seat 2: El Pablo 62 (9370)
+Seat 3: fredo6915 (12770)
+Seat 4: vespatounet (6685)
+Seat 5: louiggi333 (9870)
+Seat 6: gnoukan (35347)
+Seat 7: SachM34 (16940)
+Seat 8: harlock4 (15370)
+*** ANTE/BLINDS ***
+vespatounet posts ante 30
+louiggi333 posts ante 30
+manggy94 posts ante 30
+El Pablo 62 posts ante 30
+fredo6915 posts ante 30
+gnoukan posts ante 30
+SachM34 posts ante 30
+harlock4 posts ante 30
+vespatounet posts small blind 200
+louiggi333 posts big blind 400
+Dealt to manggy94 [7h 6h]
+*** PRE-FLOP *** 
+gnoukan folds
+SachM34 folds
+harlock4 folds
+manggy94 calls 400
+El Pablo 62 folds
+fredo6915 folds
+vespatounet calls 200
+louiggi333 checks
+*** FLOP *** [2c Qh 8d]
+vespatounet checks
+louiggi333 checks
+manggy94 bets 400
+vespatounet calls 400
+louiggi333 folds
+*** TURN *** [2c Qh 8d][8h]
+vespatounet checks
+manggy94 bets 1120
+vespatounet calls 1120
+*** RIVER *** [2c Qh 8d 8h][2d]
+vespatounet checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [7h 6h] (Two pairs : 8 and 2)
+vespatounet shows [Ad Th] (Two pairs : 8 and 2)
+vespatounet collected 4480 from pot
+*** SUMMARY ***
+Total pot 4480 | No rake
+Board: [2c Qh 8d 8h 2d]
+Seat 1: manggy94 showed [7h 6h] and lost with Two pairs : 8 and 2
+Seat 4: vespatounet (small blind) showed [Ad Th] and won 4480 with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #688894221494517769-27-1465894416 - Holdem no limit (30/200/400) - 2016/06/14 08:53:36 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #4 is the button
+Seat 1: manggy94 (10723)
+Seat 2: El Pablo 62 (9340)
+Seat 3: fredo6915 (12740)
+Seat 4: vespatounet (9215)
+Seat 5: louiggi333 (9440)
+Seat 6: gnoukan (35317)
+Seat 7: SachM34 (16910)
+Seat 8: harlock4 (15340)
+*** ANTE/BLINDS ***
+louiggi333 posts ante 30
+gnoukan posts ante 30
+manggy94 posts ante 30
+El Pablo 62 posts ante 30
+fredo6915 posts ante 30
+vespatounet posts ante 30
+SachM34 posts ante 30
+harlock4 posts ante 30
+louiggi333 posts small blind 200
+gnoukan posts big blind 400
+Dealt to manggy94 [6h As]
+*** PRE-FLOP *** 
+SachM34 folds
+harlock4 folds
+manggy94 calls 400
+El Pablo 62 folds
+fredo6915 calls 400
+vespatounet calls 400
+louiggi333 calls 200
+gnoukan checks
+*** FLOP *** [Ac Ah 3c]
+louiggi333 checks
+gnoukan checks
+manggy94 bets 400
+fredo6915 calls 400
+vespatounet folds
+louiggi333 folds
+gnoukan folds
+*** TURN *** [Ac Ah 3c][4h]
+manggy94 bets 1520
+fredo6915 folds
+manggy94 collected 4560 from pot
+*** SUMMARY ***
+Total pot 4560 | No rake
+Board: [Ac Ah 3c 4h]
+Seat 1: manggy94 won 4560
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #688894221494517769-28-1465894802 - Holdem no limit (30/200/400) - 2016/06/14 09:00:02 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #5 is the button
+Seat 1: manggy94 (12933)
+Seat 2: El Pablo 62 (9310)
+Seat 3: fredo6915 (11910)
+Seat 4: vespatounet (8785)
+Seat 5: louiggi333 (9010)
+Seat 6: gnoukan (34887)
+Seat 7: SachM34 (16880)
+Seat 8: harlock4 (15310)
+*** ANTE/BLINDS ***
+gnoukan posts ante 30
+SachM34 posts ante 30
+manggy94 posts ante 30
+El Pablo 62 posts ante 30
+fredo6915 posts ante 30
+vespatounet posts ante 30
+louiggi333 posts ante 30
+harlock4 posts ante 30
+gnoukan posts small blind 200
+SachM34 posts big blind 400
+Dealt to manggy94 [7c 3s]
+*** PRE-FLOP *** 
+harlock4 calls 400
+manggy94 folds
+El Pablo 62 folds
+fredo6915 folds
+vespatounet folds
+louiggi333 calls 400
+gnoukan raises 728 to 1128
+SachM34 folds
+harlock4 calls 728
+louiggi333 calls 728
+*** FLOP *** [Ts Kc 5c]
+gnoukan bets 1247
+harlock4 raises 12905 to 14152 and is all-in
+louiggi333 folds
+gnoukan calls 12905
+*** TURN *** [Ts Kc 5c][Ah]
+*** RIVER *** [Ts Kc 5c Ah][2h]
+*** SHOW DOWN ***
+harlock4 shows [Kd Td] (Two pairs : Kings and Tens)
+gnoukan shows [As Ad] (Trips of Aces)
+gnoukan collected 32328 from pot
+*** SUMMARY ***
+Total pot 32328 | No rake
+Board: [Ts Kc 5c Ah 2h]
+Seat 6: gnoukan (small blind) showed [As Ad] and won 32328 with Trips of Aces
+Seat 8: harlock4 showed [Kd Td] and lost with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #688894221494517769-29-1465894919 - Holdem no limit (30/200/400) - 2016/06/14 09:01:59 UTC
+Table: 'MiniRoll(160395685)#008' 7-max (real money) Seat #6 is the button
+Seat 1: manggy94 (12903)
+Seat 2: El Pablo 62 (9280)
+Seat 3: fredo6915 (11880)
+Seat 4: vespatounet (8755)
+Seat 5: louiggi333 (7852)
+Seat 6: gnoukan (51905)
+Seat 7: SachM34 (16450)
+*** ANTE/BLINDS ***
+SachM34 posts ante 30
+manggy94 posts ante 30
+El Pablo 62 posts ante 30
+fredo6915 posts ante 30
+vespatounet posts ante 30
+louiggi333 posts ante 30
+gnoukan posts ante 30
+SachM34 posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [Qd 8c]
+*** PRE-FLOP *** 
+El Pablo 62 folds
+fredo6915 folds
+vespatounet folds
+louiggi333 calls 400
+gnoukan folds
+SachM34 folds
+manggy94 checks
+*** FLOP *** [Ks 2d 3s]
+manggy94 bets 400
+louiggi333 calls 400
+*** TURN *** [Ks 2d 3s][Jc]
+manggy94 bets 400
+louiggi333 calls 400
+*** RIVER *** [Ks 2d 3s Jc][8s]
+manggy94 checks
+louiggi333 checks
+*** SHOW DOWN ***
+louiggi333 shows [5h Ad] (High card : Ace)
+manggy94 shows [Qd 8c] (One pair : 8)
+manggy94 collected 2810 from pot
+*** SUMMARY ***
+Total pot 2810 | No rake
+Board: [Ks 2d 3s Jc 8s]
+Seat 1: manggy94 (big blind) showed [Qd 8c] and won 2810 with One pair : 8
+Seat 5: louiggi333 showed [5h Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #688894221494517769-30-1465894954 - Holdem no limit (40/250/500) - 2016/06/14 09:02:34 UTC
+Table: 'MiniRoll(160395685)#008' 7-max (real money) Seat #7 is the button
+Seat 1: manggy94 (14483)
+Seat 2: El Pablo 62 (9250)
+Seat 3: fredo6915 (11850)
+Seat 4: vespatounet (8725)
+Seat 5: louiggi333 (6622)
+Seat 6: gnoukan (51875)
+Seat 7: SachM34 (16220)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+El Pablo 62 posts ante 40
+fredo6915 posts ante 40
+vespatounet posts ante 40
+louiggi333 posts ante 40
+gnoukan posts ante 40
+SachM34 posts ante 40
+manggy94 posts small blind 250
+El Pablo 62 posts big blind 500
+Dealt to manggy94 [7c Ks]
+*** PRE-FLOP *** 
+fredo6915 folds
+vespatounet folds
+louiggi333 folds
+gnoukan raises 500 to 1000
+SachM34 folds
+manggy94 folds
+El Pablo 62 folds
+gnoukan collected 2030 from pot
+*** SUMMARY ***
+Total pot 2030 | No rake
+Seat 6: gnoukan won 2030
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #688894221494517769-31-1465894973 - Holdem no limit (40/250/500) - 2016/06/14 09:02:53 UTC
+Table: 'MiniRoll(160395685)#008' 7-max (real money) Seat #1 is the button
+Seat 1: manggy94 (14193)
+Seat 2: El Pablo 62 (8710)
+Seat 3: fredo6915 (11810)
+Seat 4: vespatounet (8685)
+Seat 5: louiggi333 (6582)
+Seat 6: gnoukan (52865)
+Seat 7: SachM34 (16180)
+*** ANTE/BLINDS ***
+El Pablo 62 posts ante 40
+fredo6915 posts ante 40
+manggy94 posts ante 40
+vespatounet posts ante 40
+louiggi333 posts ante 40
+gnoukan posts ante 40
+SachM34 posts ante 40
+El Pablo 62 posts small blind 250
+fredo6915 posts big blind 500
+Dealt to manggy94 [Js Kh]
+*** PRE-FLOP *** 
+vespatounet folds
+louiggi333 folds
+gnoukan raises 500 to 1000
+SachM34 calls 1000
+manggy94 calls 1000
+El Pablo 62 folds
+fredo6915 folds
+*** FLOP *** [8s 9d 3d]
+gnoukan checks
+SachM34 checks
+manggy94 checks
+*** TURN *** [8s 9d 3d][7d]
+gnoukan bets 1249
+SachM34 folds
+manggy94 folds
+gnoukan collected 5279 from pot
+*** SUMMARY ***
+Total pot 5279 | No rake
+Board: [8s 9d 3d 7d]
+Seat 6: gnoukan won 5279
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #688894221494517769-32-1465895014 - Holdem no limit (40/250/500) - 2016/06/14 09:03:34 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #2 is the button
+Seat 1: manggy94 (13153)
+Seat 2: El Pablo 62 (8420)
+Seat 3: fredo6915 (11270)
+Seat 4: vespatounet (8645)
+Seat 5: louiggi333 (6542)
+Seat 6: gnoukan (55855)
+Seat 7: SachM34 (15140)
+Seat 8: Camutao (21000)
+*** ANTE/BLINDS ***
+fredo6915 posts ante 40
+vespatounet posts ante 40
+manggy94 posts ante 40
+El Pablo 62 posts ante 40
+louiggi333 posts ante 40
+gnoukan posts ante 40
+SachM34 posts ante 40
+Camutao posts ante 40
+fredo6915 posts small blind 250
+vespatounet posts big blind 500
+Dealt to manggy94 [9h 7c]
+*** PRE-FLOP *** 
+louiggi333 folds
+gnoukan folds
+SachM34 folds
+Camutao folds
+manggy94 folds
+El Pablo 62 folds
+fredo6915 calls 250
+vespatounet folds
+fredo6915 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Seat 3: fredo6915 (small blind) won 1320
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #688894221494517769-33-1465895033 - Holdem no limit (40/250/500) - 2016/06/14 09:03:53 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (13113)
+Seat 2: El Pablo 62 (8380)
+Seat 3: fredo6915 (12050)
+Seat 4: vespatounet (8105)
+Seat 5: louiggi333 (6502)
+Seat 6: gnoukan (55815)
+Seat 7: SachM34 (15100)
+Seat 8: Camutao (20960)
+*** ANTE/BLINDS ***
+vespatounet posts ante 40
+louiggi333 posts ante 40
+manggy94 posts ante 40
+El Pablo 62 posts ante 40
+fredo6915 posts ante 40
+gnoukan posts ante 40
+SachM34 posts ante 40
+Camutao posts ante 40
+vespatounet posts small blind 250
+louiggi333 posts big blind 500
+Dealt to manggy94 [Jd Qc]
+*** PRE-FLOP *** 
+gnoukan raises 570 to 1070
+SachM34 folds
+Camutao folds
+manggy94 calls 1070
+El Pablo 62 folds
+fredo6915 folds
+vespatounet folds
+louiggi333 folds
+*** FLOP *** [4h 5d 2c]
+gnoukan bets 1252
+manggy94 calls 1252
+*** TURN *** [4h 5d 2c][8h]
+gnoukan bets 2971
+manggy94 folds
+gnoukan collected 8685 from pot
+*** SUMMARY ***
+Total pot 8685 | No rake
+Board: [4h 5d 2c 8h]
+Seat 6: gnoukan won 8685
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #688894221494517769-34-1465895073 - Holdem no limit (40/250/500) - 2016/06/14 09:04:33 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #4 is the button
+Seat 1: manggy94 (10751)
+Seat 2: El Pablo 62 (8340)
+Seat 3: fredo6915 (12010)
+Seat 4: vespatounet (7815)
+Seat 5: louiggi333 (5962)
+Seat 6: gnoukan (59167)
+Seat 7: SachM34 (15060)
+Seat 8: Camutao (20920)
+*** ANTE/BLINDS ***
+louiggi333 posts ante 40
+gnoukan posts ante 40
+manggy94 posts ante 40
+El Pablo 62 posts ante 40
+fredo6915 posts ante 40
+vespatounet posts ante 40
+SachM34 posts ante 40
+Camutao posts ante 40
+louiggi333 posts small blind 250
+gnoukan posts big blind 500
+Dealt to manggy94 [Ah Jc]
+*** PRE-FLOP *** 
+SachM34 folds
+Camutao folds
+manggy94 raises 500 to 1000
+El Pablo 62 folds
+fredo6915 folds
+vespatounet folds
+louiggi333 calls 750
+gnoukan calls 500
+*** FLOP *** [3c 5h 7d]
+louiggi333 checks
+gnoukan checks
+manggy94 bets 3320
+louiggi333 raises 1602 to 4922 and is all-in
+gnoukan folds
+manggy94 calls 1602
+*** TURN *** [3c 5h 7d][Qs]
+*** RIVER *** [3c 5h 7d Qs][Ad]
+*** SHOW DOWN ***
+louiggi333 shows [6c 2c] (High card : Ace)
+manggy94 shows [Ah Jc] (One pair : Aces)
+manggy94 collected 13164 from pot
+*** SUMMARY ***
+Total pot 13164 | No rake
+Board: [3c 5h 7d Qs Ad]
+Seat 1: manggy94 showed [Ah Jc] and won 13164 with One pair : Aces
+Seat 5: louiggi333 (small blind) showed [6c 2c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #688894221494517769-35-1465895127 - Holdem no limit (40/250/500) - 2016/06/14 09:05:27 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #5 is the button
+Seat 1: manggy94 (17953)
+Seat 2: El Pablo 62 (8300)
+Seat 3: fredo6915 (11970)
+Seat 4: vespatounet (7775)
+Seat 6: gnoukan (58127)
+Seat 7: SachM34 (15020)
+Seat 8: Camutao (20880)
+*** ANTE/BLINDS ***
+gnoukan posts ante 40
+SachM34 posts ante 40
+manggy94 posts ante 40
+El Pablo 62 posts ante 40
+fredo6915 posts ante 40
+vespatounet posts ante 40
+Camutao posts ante 40
+gnoukan posts small blind 250
+SachM34 posts big blind 500
+Dealt to manggy94 [7s Jd]
+*** PRE-FLOP *** 
+Camutao folds
+manggy94 folds
+El Pablo 62 folds
+fredo6915 calls 500
+vespatounet folds
+gnoukan raises 685 to 1185
+SachM34 folds
+fredo6915 calls 685
+*** FLOP *** [Ah 4d Td]
+gnoukan bets 1229
+fredo6915 calls 1229
+*** TURN *** [Ah 4d Td][9d]
+gnoukan checks
+fredo6915 bets 2804
+gnoukan folds
+fredo6915 collected 8412 from pot
+*** SUMMARY ***
+Total pot 8412 | No rake
+Board: [Ah 4d Td 9d]
+Seat 3: fredo6915 won 8412
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #688894221494517769-36-1465895174 - Holdem no limit (40/250/500) - 2016/06/14 09:06:14 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #6 is the button
+Seat 1: manggy94 (17913)
+Seat 2: El Pablo 62 (8260)
+Seat 3: fredo6915 (15124)
+Seat 4: vespatounet (7735)
+Seat 5: BadHorssman (10000)
+Seat 6: gnoukan (55673)
+Seat 7: SachM34 (14480)
+Seat 8: Camutao (20840)
+*** ANTE/BLINDS ***
+SachM34 posts ante 40
+Camutao posts ante 40
+manggy94 posts ante 40
+El Pablo 62 posts ante 40
+fredo6915 posts ante 40
+vespatounet posts ante 40
+BadHorssman posts ante 40
+gnoukan posts ante 40
+SachM34 posts small blind 250
+Camutao posts big blind 500
+Dealt to manggy94 [3c 4h]
+*** PRE-FLOP *** 
+manggy94 folds
+El Pablo 62 raises 7720 to 8220 and is all-in
+fredo6915 folds
+vespatounet folds
+BadHorssman folds
+gnoukan raises 7720 to 15940
+SachM34 folds
+Camutao folds
+*** FLOP *** [Ad Jc 7s]
+*** TURN *** [Ad Jc 7s][4c]
+*** RIVER *** [Ad Jc 7s 4c][Jh]
+*** SHOW DOWN ***
+El Pablo 62 shows [Ac 9s] (Two pairs : Aces and Jacks)
+gnoukan shows [Kd Ah] (Two pairs : Aces and Jacks)
+gnoukan collected 25230 from pot
+*** SUMMARY ***
+Total pot 25230 | No rake
+Board: [Ad Jc 7s 4c Jh]
+Seat 2: El Pablo 62 showed [Ac 9s] and lost with Two pairs : Aces and Jacks
+Seat 6: gnoukan (button) showed [Kd Ah] and won 25230 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #688894221494517769-37-1465895204 - Holdem no limit (40/250/500) - 2016/06/14 09:06:44 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (17873)
+Seat 3: fredo6915 (15084)
+Seat 4: vespatounet (7695)
+Seat 5: BadHorssman (9960)
+Seat 6: gnoukan (64923)
+Seat 7: SachM34 (14190)
+Seat 8: Camutao (20300)
+*** ANTE/BLINDS ***
+Camutao posts ante 40
+manggy94 posts ante 40
+fredo6915 posts ante 40
+vespatounet posts ante 40
+BadHorssman posts ante 40
+gnoukan posts ante 40
+SachM34 posts ante 40
+Camutao posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [Kd 3d]
+*** PRE-FLOP *** 
+fredo6915 folds
+vespatounet folds
+BadHorssman raises 500 to 1000
+gnoukan folds
+SachM34 folds
+Camutao calls 750
+manggy94 calls 500
+*** FLOP *** [6c 2c 8s]
+Camutao checks
+manggy94 bets 500
+BadHorssman calls 500
+Camutao calls 500
+*** TURN *** [6c 2c 8s][4c]
+Camutao checks
+manggy94 checks
+BadHorssman checks
+*** RIVER *** [6c 2c 8s 4c][Th]
+Camutao checks
+manggy94 bets 2390
+BadHorssman folds
+Camutao folds
+manggy94 collected 7170 from pot
+*** SUMMARY ***
+Total pot 7170 | No rake
+Board: [6c 2c 8s 4c Th]
+Seat 1: manggy94 (big blind) won 7170
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #688894221494517769-38-1465895281 - Holdem no limit (60/300/600) - 2016/06/14 09:08:01 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #8 is the button
+Seat 1: manggy94 (21113)
+Seat 2: bojol69 (10000)
+Seat 3: fredo6915 (15044)
+Seat 4: vespatounet (7655)
+Seat 5: BadHorssman (8420)
+Seat 6: gnoukan (64883)
+Seat 7: SachM34 (14150)
+Seat 8: Camutao (18760)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+bojol69 posts ante 60
+fredo6915 posts ante 60
+vespatounet posts ante 60
+BadHorssman posts ante 60
+gnoukan posts ante 60
+SachM34 posts ante 60
+Camutao posts ante 60
+manggy94 posts small blind 300
+bojol69 posts big blind 600
+Dealt to manggy94 [4h 7s]
+*** PRE-FLOP *** 
+fredo6915 folds
+vespatounet folds
+BadHorssman calls 600
+gnoukan folds
+SachM34 calls 600
+Camutao folds
+manggy94 calls 300
+bojol69 raises 1200 to 1800
+BadHorssman calls 1200
+SachM34 calls 1200
+manggy94 folds
+*** FLOP *** [Qs 6d 3d]
+bojol69 checks
+BadHorssman checks
+SachM34 checks
+*** TURN *** [Qs 6d 3d][Tc]
+bojol69 checks
+BadHorssman checks
+SachM34 checks
+*** RIVER *** [Qs 6d 3d Tc][Js]
+bojol69 bets 6480
+BadHorssman folds
+SachM34 raises 5810 to 12290 and is all-in
+bojol69 calls 1660 and is all-in
+*** SHOW DOWN ***
+bojol69 shows [Kc Ac] (Straight Ace high)
+SachM34 shows [Ks Ah] (Straight Ace high)
+SachM34 collected 15530 from side pot 1
+bojol69 collected 11380 from main pot
+*** SUMMARY ***
+Total pot 26910 | No rake
+Board: [Qs 6d 3d Tc Js]
+Seat 2: bojol69 (big blind) showed [Kc Ac] and won 11380 with Straight Ace high
+Seat 7: SachM34 showed [Ks Ah] and won 15530 with Straight Ace high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #688894221494517769-39-1465895399 - Holdem no limit (60/300/600) - 2016/06/14 09:09:59 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #1 is the button
+Seat 1: manggy94 (20453)
+Seat 2: bojol69 (11380)
+Seat 3: fredo6915 (14984)
+Seat 4: vespatounet (7595)
+Seat 5: BadHorssman (6560)
+Seat 6: gnoukan (64823)
+Seat 7: SachM34 (15530)
+Seat 8: Camutao (18700)
+*** ANTE/BLINDS ***
+bojol69 posts ante 60
+fredo6915 posts ante 60
+manggy94 posts ante 60
+vespatounet posts ante 60
+BadHorssman posts ante 60
+gnoukan posts ante 60
+SachM34 posts ante 60
+Camutao posts ante 60
+bojol69 posts small blind 300
+fredo6915 posts big blind 600
+Dealt to manggy94 [7c 4h]
+*** PRE-FLOP *** 
+vespatounet folds
+BadHorssman calls 600
+gnoukan calls 600
+SachM34 folds
+Camutao folds
+manggy94 folds
+bojol69 calls 300
+fredo6915 checks
+*** FLOP *** [5h 9d Kc]
+bojol69 checks
+fredo6915 checks
+BadHorssman bets 1440
+gnoukan calls 1440
+bojol69 folds
+fredo6915 folds
+*** TURN *** [5h 9d Kc][4c]
+BadHorssman bets 2880
+gnoukan raises 2880 to 5760
+BadHorssman calls 1580 and is all-in
+*** RIVER *** [5h 9d Kc 4c][3s]
+*** SHOW DOWN ***
+BadHorssman shows [Kd Jh] (One pair : Kings)
+gnoukan shows [Jc Kh] (One pair : Kings)
+gnoukan collected 8640 from side pot 1
+BadHorssman collected 7340 from main pot
+*** SUMMARY ***
+Total pot 15980 | No rake
+Board: [5h 9d Kc 4c 3s]
+Seat 5: BadHorssman showed [Kd Jh] and won 7340 with One pair : Kings
+Seat 6: gnoukan showed [Jc Kh] and won 8640 with One pair : Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #688894221494517769-40-1465895514 - Holdem no limit (60/300/600) - 2016/06/14 09:11:54 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #2 is the button
+Seat 1: manggy94 (20393)
+Seat 2: bojol69 (10720)
+Seat 3: fredo6915 (14324)
+Seat 4: vespatounet (7535)
+Seat 5: BadHorssman (7340)
+Seat 6: gnoukan (65603)
+Seat 7: SachM34 (15470)
+Seat 8: Camutao (18640)
+*** ANTE/BLINDS ***
+fredo6915 posts ante 60
+vespatounet posts ante 60
+manggy94 posts ante 60
+bojol69 posts ante 60
+BadHorssman posts ante 60
+gnoukan posts ante 60
+SachM34 posts ante 60
+Camutao posts ante 60
+fredo6915 posts small blind 300
+vespatounet posts big blind 600
+Dealt to manggy94 [2d 4d]
+*** PRE-FLOP *** 
+BadHorssman folds
+gnoukan raises 600 to 1200
+SachM34 folds
+Camutao folds
+manggy94 folds
+bojol69 calls 1200
+fredo6915 folds
+vespatounet folds
+*** FLOP *** [Ks 7d 3c]
+gnoukan checks
+bojol69 checks
+*** TURN *** [Ks 7d 3c][4h]
+gnoukan bets 600
+bojol69 folds
+gnoukan collected 4380 from pot
+*** SUMMARY ***
+Total pot 4380 | No rake
+Board: [Ks 7d 3c 4h]
+Seat 6: gnoukan won 4380
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #688894221494517769-41-1465895601 - Holdem no limit (60/300/600) - 2016/06/14 09:13:21 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (20333)
+Seat 2: bojol69 (9460)
+Seat 3: fredo6915 (13964)
+Seat 4: vespatounet (6875)
+Seat 5: BadHorssman (7280)
+Seat 6: gnoukan (68123)
+Seat 7: SachM34 (15410)
+Seat 8: Camutao (18580)
+*** ANTE/BLINDS ***
+vespatounet posts ante 60
+BadHorssman posts ante 60
+manggy94 posts ante 60
+bojol69 posts ante 60
+fredo6915 posts ante 60
+gnoukan posts ante 60
+SachM34 posts ante 60
+Camutao posts ante 60
+vespatounet posts small blind 300
+BadHorssman posts big blind 600
+Dealt to manggy94 [6c 3c]
+*** PRE-FLOP *** 
+gnoukan folds
+SachM34 calls 600
+Camutao folds
+manggy94 folds
+bojol69 folds
+fredo6915 folds
+vespatounet folds
+BadHorssman checks
+*** FLOP *** [Ac Tc Ad]
+BadHorssman checks
+SachM34 checks
+*** TURN *** [Ac Tc Ad][7d]
+BadHorssman checks
+SachM34 checks
+*** RIVER *** [Ac Tc Ad 7d][5h]
+BadHorssman checks
+SachM34 bets 600
+BadHorssman folds
+SachM34 collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | No rake
+Board: [Ac Tc Ad 7d 5h]
+Seat 7: SachM34 won 2580
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 8 - HandId: #688894221494517769-42-1465895639 - Holdem no limit (60/300/600) - 2016/06/14 09:13:59 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #4 is the button
+Seat 1: manggy94 (20273)
+Seat 2: bojol69 (9400)
+Seat 3: fredo6915 (13904)
+Seat 4: vespatounet (6515)
+Seat 5: BadHorssman (6620)
+Seat 6: gnoukan (68063)
+Seat 7: SachM34 (16730)
+Seat 8: Camutao (18520)
+*** ANTE/BLINDS ***
+BadHorssman posts ante 60
+gnoukan posts ante 60
+manggy94 posts ante 60
+bojol69 posts ante 60
+fredo6915 posts ante 60
+vespatounet posts ante 60
+SachM34 posts ante 60
+Camutao posts ante 60
+BadHorssman posts small blind 300
+gnoukan posts big blind 600
+Dealt to manggy94 [6c Td]
+*** PRE-FLOP *** 
+SachM34 calls 600
+Camutao folds
+manggy94 folds
+bojol69 folds
+fredo6915 folds
+vespatounet calls 600
+BadHorssman folds
+gnoukan checks
+*** FLOP *** [Qh 3s 8d]
+gnoukan checks
+SachM34 checks
+vespatounet checks
+*** TURN *** [Qh 3s 8d][Js]
+gnoukan bets 1006
+SachM34 folds
+vespatounet calls 1006
+*** RIVER *** [Qh 3s 8d Js][Ad]
+gnoukan checks
+vespatounet bets 600
+gnoukan folds
+vespatounet collected 5192 from pot
+*** SUMMARY ***
+Total pot 5192 | No rake
+Board: [Qh 3s 8d Js Ad]
+Seat 4: vespatounet (button) won 5192
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #688894221494517769-43-1465895707 - Holdem no limit (75/400/800) - 2016/06/14 09:15:07 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #5 is the button
+Seat 1: manggy94 (20213)
+Seat 2: bojol69 (9340)
+Seat 3: fredo6915 (13844)
+Seat 4: vespatounet (9441)
+Seat 5: BadHorssman (6260)
+Seat 6: gnoukan (66397)
+Seat 7: SachM34 (16070)
+Seat 8: Camutao (18460)
+*** ANTE/BLINDS ***
+gnoukan posts ante 75
+SachM34 posts ante 75
+manggy94 posts ante 75
+bojol69 posts ante 75
+fredo6915 posts ante 75
+vespatounet posts ante 75
+BadHorssman posts ante 75
+Camutao posts ante 75
+gnoukan posts small blind 400
+SachM34 posts big blind 800
+Dealt to manggy94 [2d Jd]
+*** PRE-FLOP *** 
+Camutao folds
+manggy94 folds
+bojol69 folds
+fredo6915 folds
+vespatounet folds
+BadHorssman folds
+gnoukan raises 800 to 1600
+SachM34 calls 800
+*** FLOP *** [Td 5s Qd]
+gnoukan bets 1178
+SachM34 folds
+gnoukan collected 4978 from pot
+*** SUMMARY ***
+Total pot 4978 | No rake
+Board: [Td 5s Qd]
+Seat 6: gnoukan (small blind) won 4978
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #688894221494517769-44-1465895795 - Holdem no limit (75/400/800) - 2016/06/14 09:16:35 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #6 is the button
+Seat 1: manggy94 (20138)
+Seat 2: bojol69 (9265)
+Seat 3: fredo6915 (13769)
+Seat 4: vespatounet (9366)
+Seat 5: BadHorssman (6185)
+Seat 6: gnoukan (68522)
+Seat 7: SachM34 (14395)
+Seat 8: Camutao (18385)
+*** ANTE/BLINDS ***
+SachM34 posts ante 75
+Camutao posts ante 75
+manggy94 posts ante 75
+bojol69 posts ante 75
+fredo6915 posts ante 75
+vespatounet posts ante 75
+BadHorssman posts ante 75
+gnoukan posts ante 75
+SachM34 posts small blind 400
+Camutao posts big blind 800
+Dealt to manggy94 [6d Ts]
+*** PRE-FLOP *** 
+manggy94 folds
+bojol69 folds
+fredo6915 folds
+vespatounet calls 800
+BadHorssman folds
+gnoukan raises 1096 to 1896
+SachM34 calls 1496
+Camutao calls 1096
+vespatounet calls 1096
+*** FLOP *** [7d 5d 2s]
+SachM34 checks
+Camutao checks
+vespatounet checks
+gnoukan bets 3200
+SachM34 folds
+Camutao raises 13214 to 16414 and is all-in
+vespatounet folds
+gnoukan folds
+Camutao collected 27798 from pot
+*** SUMMARY ***
+Total pot 27798 | No rake
+Board: [7d 5d 2s]
+Seat 8: Camutao (big blind) won 27798
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #688894221494517769-45-1465895909 - Holdem no limit (75/400/800) - 2016/06/14 09:18:29 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (20063)
+Seat 2: bojol69 (9190)
+Seat 3: fredo6915 (13694)
+Seat 4: vespatounet (7395)
+Seat 5: BadHorssman (6110)
+Seat 6: gnoukan (63351)
+Seat 7: SachM34 (12424)
+Seat 8: Camutao (27798)
+*** ANTE/BLINDS ***
+Camutao posts ante 75
+manggy94 posts ante 75
+bojol69 posts ante 75
+fredo6915 posts ante 75
+vespatounet posts ante 75
+BadHorssman posts ante 75
+gnoukan posts ante 75
+SachM34 posts ante 75
+Camutao posts small blind 400
+manggy94 posts big blind 800
+Dealt to manggy94 [9s Th]
+*** PRE-FLOP *** 
+bojol69 calls 800
+fredo6915 raises 12819 to 13619 and is all-in
+vespatounet folds
+BadHorssman calls 6035 and is all-in
+gnoukan folds
+SachM34 folds
+Camutao folds
+manggy94 folds
+bojol69 calls 8315 and is all-in
+*** FLOP *** [5h 4s 2c]
+*** TURN *** [5h 4s 2c][3s]
+*** RIVER *** [5h 4s 2c 3s][8h]
+*** SHOW DOWN ***
+BadHorssman shows [Ts Td] (One pair : Tens)
+bojol69 shows [Ad Kc] (Straight 5 high)
+fredo6915 shows [Jd Jh] (One pair : Jacks)
+fredo6915 collected 4504 from side pot 1
+bojol69 collected 26065 from main pot
+*** SUMMARY ***
+Total pot 30569 | No rake
+Board: [5h 4s 2c 3s 8h]
+Seat 2: bojol69 showed [Ad Kc] and won 26065 with Straight 5 high
+Seat 3: fredo6915 showed [Jd Jh] and won 4504 with One pair : Jacks
+Seat 5: BadHorssman showed [Ts Td] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 9 - HandId: #688894221494517769-46-1465895957 - Holdem no limit (75/400/800) - 2016/06/14 09:19:17 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #8 is the button
+Seat 1: manggy94 (19188)
+Seat 2: bojol69 (26065)
+Seat 3: fredo6915 (4504)
+Seat 4: vespatounet (7320)
+Seat 6: gnoukan (63276)
+Seat 7: SachM34 (12349)
+Seat 8: Camutao (27323)
+*** ANTE/BLINDS ***
+manggy94 posts ante 75
+bojol69 posts ante 75
+fredo6915 posts ante 75
+vespatounet posts ante 75
+gnoukan posts ante 75
+SachM34 posts ante 75
+Camutao posts ante 75
+manggy94 posts small blind 400
+bojol69 posts big blind 800
+Dealt to manggy94 [Qd 6s]
+*** PRE-FLOP *** 
+fredo6915 folds
+vespatounet calls 800
+gnoukan folds
+SachM34 folds
+Camutao folds
+manggy94 calls 400
+bojol69 checks
+*** FLOP *** [5c Kc Ad]
+manggy94 bets 800
+bojol69 folds
+vespatounet calls 800
+*** TURN *** [5c Kc Ad][4h]
+manggy94 bets 800
+vespatounet calls 800
+*** RIVER *** [5c Kc Ad 4h][9h]
+manggy94 bets 3063
+vespatounet calls 3063
+*** SHOW DOWN ***
+manggy94 shows [Qd 6s] (High card : Ace)
+vespatounet shows [Ac 3c] (One pair : Aces)
+vespatounet collected 12251 from pot
+*** SUMMARY ***
+Total pot 12251 | No rake
+Board: [5c Kc Ad 4h 9h]
+Seat 1: manggy94 (small blind) showed [Qd 6s] and lost with High card : Ace
+Seat 4: vespatounet showed [Ac 3c] and won 12251 with One pair : Aces
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #688894221494517769-47-1465896034 - Holdem no limit (100/500/1000) - 2016/06/14 09:20:34 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #1 is the button
+Seat 1: manggy94 (13650)
+Seat 2: bojol69 (25190)
+Seat 3: fredo6915 (4429)
+Seat 4: vespatounet (14033)
+Seat 5: GARDIEN94510 (14265)
+Seat 6: gnoukan (63201)
+Seat 7: SachM34 (12274)
+Seat 8: Camutao (27248)
+*** ANTE/BLINDS ***
+bojol69 posts ante 100
+fredo6915 posts ante 100
+manggy94 posts ante 100
+vespatounet posts ante 100
+GARDIEN94510 posts ante 100
+gnoukan posts ante 100
+SachM34 posts ante 100
+Camutao posts ante 100
+bojol69 posts small blind 500
+fredo6915 posts big blind 1000
+Dealt to manggy94 [9c Kh]
+*** PRE-FLOP *** 
+vespatounet folds
+GARDIEN94510 folds
+gnoukan raises 1000 to 2000
+SachM34 folds
+Camutao folds
+manggy94 calls 2000
+bojol69 folds
+fredo6915 raises 2329 to 4329 and is all-in
+gnoukan calls 2329
+manggy94 calls 2329
+*** FLOP *** [5s 8c Ah]
+gnoukan checks
+manggy94 bets 1000
+gnoukan calls 1000
+*** TURN *** [5s 8c Ah][6h]
+gnoukan checks
+manggy94 checks
+*** RIVER *** [5s 8c Ah 6h][Kd]
+gnoukan bets 2000
+manggy94 calls 2000
+*** SHOW DOWN ***
+manggy94 shows [9c Kh] (One pair : Kings)
+fredo6915 shows [Js Jc] (One pair : Jacks)
+gnoukan shows [5d Ad] (Two pairs : Aces and 5)
+gnoukan collected 20287 from pot
+*** SUMMARY ***
+Total pot 20287 | No rake
+Board: [5s 8c Ah 6h Kd]
+Seat 1: manggy94 (button) showed [9c Kh] and lost with One pair : Kings
+Seat 3: fredo6915 (big blind) showed [Js Jc] and lost with One pair : Jacks
+Seat 6: gnoukan showed [5d Ad] and won 20287 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #688894221494517769-48-1465896216 - Holdem no limit (100/500/1000) - 2016/06/14 09:23:36 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #2 is the button
+Seat 1: manggy94 (6221)
+Seat 2: bojol69 (24590)
+Seat 4: vespatounet (13933)
+Seat 5: GARDIEN94510 (14165)
+Seat 6: gnoukan (76059)
+Seat 7: SachM34 (12174)
+Seat 8: Camutao (27148)
+*** ANTE/BLINDS ***
+vespatounet posts ante 100
+manggy94 posts ante 100
+bojol69 posts ante 100
+GARDIEN94510 posts ante 100
+gnoukan posts ante 100
+SachM34 posts ante 100
+Camutao posts ante 100
+vespatounet posts big blind 1000
+Dealt to manggy94 [9c 7c]
+*** PRE-FLOP *** 
+GARDIEN94510 folds
+gnoukan folds
+SachM34 folds
+Camutao folds
+manggy94 folds
+bojol69 calls 1000
+vespatounet checks
+*** FLOP *** [6c 9h 4h]
+vespatounet checks
+bojol69 bets 2700
+vespatounet folds
+bojol69 collected 5400 from pot
+*** SUMMARY ***
+Total pot 5400 | No rake
+Board: [6c 9h 4h]
+Seat 2: bojol69 (button) won 5400
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #688894221494517769-49-1465896286 - Holdem no limit (100/500/1000) - 2016/06/14 09:24:46 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (6121)
+Seat 2: bojol69 (26190)
+Seat 4: vespatounet (12833)
+Seat 5: GARDIEN94510 (14065)
+Seat 6: gnoukan (75959)
+Seat 7: SachM34 (12074)
+Seat 8: Camutao (27048)
+*** ANTE/BLINDS ***
+vespatounet posts ante 100
+GARDIEN94510 posts ante 100
+manggy94 posts ante 100
+bojol69 posts ante 100
+gnoukan posts ante 100
+SachM34 posts ante 100
+Camutao posts ante 100
+vespatounet posts small blind 500
+GARDIEN94510 posts big blind 1000
+Dealt to manggy94 [4h 2c]
+*** PRE-FLOP *** 
+gnoukan folds
+SachM34 folds
+Camutao folds
+manggy94 folds
+bojol69 raises 4000 to 5000
+vespatounet folds
+GARDIEN94510 folds
+bojol69 collected 7200 from pot
+*** SUMMARY ***
+Total pot 7200 | No rake
+Seat 2: bojol69 won 7200
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 10 - HandId: #688894221494517769-50-1465896335 - Holdem no limit (100/500/1000) - 2016/06/14 09:25:35 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #4 is the button
+Seat 1: manggy94 (6021)
+Seat 2: bojol69 (28290)
+Seat 4: vespatounet (12233)
+Seat 5: GARDIEN94510 (12965)
+Seat 6: gnoukan (75859)
+Seat 7: SachM34 (11974)
+Seat 8: Camutao (26948)
+*** ANTE/BLINDS ***
+GARDIEN94510 posts ante 100
+gnoukan posts ante 100
+manggy94 posts ante 100
+bojol69 posts ante 100
+vespatounet posts ante 100
+SachM34 posts ante 100
+Camutao posts ante 100
+GARDIEN94510 posts small blind 500
+gnoukan posts big blind 1000
+Dealt to manggy94 [3s 8h]
+*** PRE-FLOP *** 
+SachM34 folds
+Camutao folds
+manggy94 folds
+bojol69 calls 1000
+vespatounet folds
+GARDIEN94510 folds
+gnoukan checks
+*** FLOP *** [2c 9d Ah]
+gnoukan checks
+bojol69 checks
+*** TURN *** [2c 9d Ah][5s]
+gnoukan bets 1000
+bojol69 calls 1000
+*** RIVER *** [2c 9d Ah 5s][6d]
+gnoukan bets 2704
+bojol69 folds
+gnoukan collected 7904 from pot
+*** SUMMARY ***
+Total pot 7904 | No rake
+Board: [2c 9d Ah 5s 6d]
+Seat 6: gnoukan (big blind) won 7904
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #688894221494517769-51-1465896389 - Holdem no limit (150/600/1200) - 2016/06/14 09:26:29 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #5 is the button
+Seat 1: manggy94 (5921)
+Seat 2: bojol69 (26190)
+Seat 4: vespatounet (12133)
+Seat 5: GARDIEN94510 (12365)
+Seat 6: gnoukan (78959)
+Seat 7: SachM34 (11874)
+Seat 8: Camutao (26848)
+*** ANTE/BLINDS ***
+gnoukan posts ante 150
+SachM34 posts ante 150
+manggy94 posts ante 150
+bojol69 posts ante 150
+vespatounet posts ante 150
+GARDIEN94510 posts ante 150
+Camutao posts ante 150
+gnoukan posts small blind 600
+SachM34 posts big blind 1200
+Dealt to manggy94 [6h Qs]
+*** PRE-FLOP *** 
+Camutao folds
+manggy94 folds
+bojol69 folds
+vespatounet calls 1200
+GARDIEN94510 folds
+gnoukan calls 600
+SachM34 checks
+*** FLOP *** [Th 6s 8s]
+gnoukan bets 1200
+SachM34 calls 1200
+vespatounet calls 1200
+*** TURN *** [Th 6s 8s][2d]
+gnoukan checks
+SachM34 bets 1200
+vespatounet calls 1200
+gnoukan folds
+*** RIVER *** [Th 6s 8s 2d][7s]
+SachM34 bets 1200
+vespatounet calls 1200
+*** SHOW DOWN ***
+SachM34 shows [Qh 8c] (One pair : 8)
+vespatounet shows [Jc 9c] (Straight Jack high)
+vespatounet collected 13050 from pot
+*** SUMMARY ***
+Total pot 13050 | No rake
+Board: [Th 6s 8s 2d 7s]
+Seat 4: vespatounet showed [Jc 9c] and won 13050 with Straight Jack high
+Seat 7: SachM34 (big blind) showed [Qh 8c] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #688894221494517769-52-1465896440 - Holdem no limit (150/600/1200) - 2016/06/14 09:27:20 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #6 is the button
+Seat 1: manggy94 (5771)
+Seat 2: bojol69 (26040)
+Seat 4: vespatounet (20233)
+Seat 5: GARDIEN94510 (12215)
+Seat 6: gnoukan (76409)
+Seat 7: SachM34 (6924)
+Seat 8: Camutao (26698)
+*** ANTE/BLINDS ***
+SachM34 posts ante 150
+Camutao posts ante 150
+manggy94 posts ante 150
+bojol69 posts ante 150
+vespatounet posts ante 150
+GARDIEN94510 posts ante 150
+gnoukan posts ante 150
+SachM34 posts small blind 600
+Camutao posts big blind 1200
+Dealt to manggy94 [9c 9d]
+*** PRE-FLOP *** 
+manggy94 raises 4421 to 5621 and is all-in
+bojol69 folds
+vespatounet folds
+GARDIEN94510 folds
+gnoukan folds
+SachM34 calls 5021
+Camutao folds
+*** FLOP *** [7d 8h 7s]
+*** TURN *** [7d 8h 7s][3c]
+*** RIVER *** [7d 8h 7s 3c][5d]
+*** SHOW DOWN ***
+SachM34 shows [Ad 4d] (One pair : 7)
+manggy94 shows [9c 9d] (Two pairs : 9 and 7)
+manggy94 collected 13492 from pot
+*** SUMMARY ***
+Total pot 13492 | No rake
+Board: [7d 8h 7s 3c 5d]
+Seat 1: manggy94 showed [9c 9d] and won 13492 with Two pairs : 9 and 7
+Seat 7: SachM34 (small blind) showed [Ad 4d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #688894221494517769-53-1465896460 - Holdem no limit (150/600/1200) - 2016/06/14 09:27:40 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (13492)
+Seat 2: bojol69 (25890)
+Seat 4: vespatounet (20083)
+Seat 5: GARDIEN94510 (12065)
+Seat 6: gnoukan (76259)
+Seat 7: SachM34 (1153)
+Seat 8: Camutao (25348)
+*** ANTE/BLINDS ***
+Camutao posts ante 150
+manggy94 posts ante 150
+bojol69 posts ante 150
+vespatounet posts ante 150
+GARDIEN94510 posts ante 150
+gnoukan posts ante 150
+SachM34 posts ante 150
+Camutao posts small blind 600
+manggy94 posts big blind 1200
+Dealt to manggy94 [4s 3c]
+*** PRE-FLOP *** 
+bojol69 calls 1200
+vespatounet folds
+GARDIEN94510 folds
+gnoukan folds
+SachM34 folds
+Camutao folds
+manggy94 checks
+*** FLOP *** [6h 7d Jc]
+manggy94 checks
+bojol69 bets 1200
+manggy94 folds
+bojol69 collected 5250 from pot
+*** SUMMARY ***
+Total pot 5250 | No rake
+Board: [6h 7d Jc]
+Seat 2: bojol69 won 5250
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #688894221494517769-54-1465896491 - Holdem no limit (150/600/1200) - 2016/06/14 09:28:11 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #8 is the button
+Seat 1: manggy94 (12142)
+Seat 2: bojol69 (28590)
+Seat 3: bigben23 (12950)
+Seat 4: vespatounet (19933)
+Seat 5: GARDIEN94510 (11915)
+Seat 6: gnoukan (76109)
+Seat 7: SachM34 (1003)
+Seat 8: Camutao (24598)
+*** ANTE/BLINDS ***
+manggy94 posts ante 150
+bojol69 posts ante 150
+bigben23 posts ante 150
+vespatounet posts ante 150
+GARDIEN94510 posts ante 150
+gnoukan posts ante 150
+SachM34 posts ante 150
+Camutao posts ante 150
+manggy94 posts small blind 600
+bojol69 posts big blind 1200
+Dealt to manggy94 [3s 9h]
+*** PRE-FLOP *** 
+bigben23 folds
+vespatounet folds
+GARDIEN94510 folds
+gnoukan raises 1200 to 2400
+SachM34 folds
+Camutao raises 22048 to 24448 and is all-in
+manggy94 folds
+bojol69 folds
+gnoukan folds
+Camutao collected 29848 from pot
+*** SUMMARY ***
+Total pot 29848 | No rake
+Seat 8: Camutao (button) won 29848
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #688894221494517769-55-1465896540 - Holdem no limit (150/600/1200) - 2016/06/14 09:29:00 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #1 is the button
+Seat 1: manggy94 (11392)
+Seat 2: bojol69 (27240)
+Seat 3: bigben23 (12800)
+Seat 4: vespatounet (19783)
+Seat 5: GARDIEN94510 (11765)
+Seat 6: gnoukan (73559)
+Seat 7: SachM34 (853)
+Seat 8: Camutao (29848)
+*** ANTE/BLINDS ***
+bojol69 posts ante 150
+bigben23 posts ante 150
+manggy94 posts ante 150
+vespatounet posts ante 150
+GARDIEN94510 posts ante 150
+gnoukan posts ante 150
+SachM34 posts ante 150
+Camutao posts ante 150
+bojol69 posts small blind 600
+bigben23 posts big blind 1200
+Dealt to manggy94 [6d 2h]
+*** PRE-FLOP *** 
+vespatounet calls 1200
+GARDIEN94510 folds
+gnoukan raises 1644 to 2844
+SachM34 calls 703 and is all-in
+Camutao folds
+manggy94 folds
+bojol69 folds
+bigben23 folds
+vespatounet calls 1644
+*** FLOP *** [4c 7s 8d]
+vespatounet checks
+gnoukan bets 1200
+vespatounet calls 1200
+*** TURN *** [4c 7s 8d][Jh]
+vespatounet checks
+gnoukan bets 1200
+vespatounet calls 1200
+*** RIVER *** [4c 7s 8d Jh][Th]
+vespatounet checks
+gnoukan bets 4399
+vespatounet calls 4399
+*** SHOW DOWN ***
+vespatounet shows [2c 2s] (One pair : 2)
+SachM34 shows [Tc Jc] (Two pairs : Jacks and Tens)
+gnoukan shows [9h 9d] (Straight Jack high)
+gnoukan collected 22989 from pot
+*** SUMMARY ***
+Total pot 22989 | No rake
+Board: [4c 7s 8d Jh Th]
+Seat 4: vespatounet showed [2c 2s] and lost with One pair : 2
+Seat 6: gnoukan showed [9h 9d] and won 22989 with Straight Jack high
+Seat 7: SachM34 showed [Tc Jc] and lost with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #688894221494517769-56-1465896591 - Holdem no limit (150/600/1200) - 2016/06/14 09:29:51 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #2 is the button
+Seat 1: manggy94 (11242)
+Seat 2: bojol69 (26490)
+Seat 3: bigben23 (11450)
+Seat 4: vespatounet (9990)
+Seat 5: GARDIEN94510 (11615)
+Seat 6: gnoukan (86755)
+Seat 8: Camutao (29698)
+*** ANTE/BLINDS ***
+bigben23 posts ante 150
+vespatounet posts ante 150
+manggy94 posts ante 150
+bojol69 posts ante 150
+GARDIEN94510 posts ante 150
+gnoukan posts ante 150
+Camutao posts ante 150
+bigben23 posts small blind 600
+vespatounet posts big blind 1200
+Dealt to manggy94 [6s Th]
+*** PRE-FLOP *** 
+GARDIEN94510 folds
+gnoukan folds
+Camutao calls 1200
+manggy94 folds
+bojol69 calls 1200
+bigben23 folds
+vespatounet checks
+*** FLOP *** [Qd 6c 5c]
+vespatounet checks
+Camutao checks
+bojol69 bets 5250
+vespatounet calls 5250
+Camutao folds
+*** TURN *** [Qd 6c 5c][Qs]
+vespatounet checks
+bojol69 bets 15750
+vespatounet calls 3390 and is all-in
+*** RIVER *** [Qd 6c 5c Qs][7d]
+*** SHOW DOWN ***
+vespatounet shows [Ad 9s] (One pair : Queens)
+bojol69 shows [Jc Qh] (Trips of Queens)
+bojol69 collected 34890 from pot
+*** SUMMARY ***
+Total pot 34890 | No rake
+Board: [Qd 6c 5c Qs 7d]
+Seat 2: bojol69 (button) showed [Jc Qh] and won 34890 with Trips of Queens
+Seat 4: vespatounet (big blind) showed [Ad 9s] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #688894221494517769-57-1465896647 - Holdem no limit (150/600/1200) - 2016/06/14 09:30:47 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (11092)
+Seat 2: bojol69 (39030)
+Seat 3: bigben23 (10700)
+Seat 5: GARDIEN94510 (11465)
+Seat 6: gnoukan (86605)
+Seat 8: Camutao (28348)
+*** ANTE/BLINDS ***
+GARDIEN94510 posts ante 150
+manggy94 posts ante 150
+bojol69 posts ante 150
+bigben23 posts ante 150
+gnoukan posts ante 150
+Camutao posts ante 150
+GARDIEN94510 posts big blind 1200
+Dealt to manggy94 [5h Jd]
+*** PRE-FLOP *** 
+gnoukan folds
+Camutao folds
+manggy94 folds
+bojol69 calls 1200
+bigben23 folds
+GARDIEN94510 folds
+bojol69 collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Seat 2: bojol69 won 3300
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #688894221494517769-58-1465896682 - Holdem no limit (150/600/1200) - 2016/06/14 09:31:22 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #4 is the button
+Seat 1: manggy94 (10942)
+Seat 2: bojol69 (40980)
+Seat 3: bigben23 (10550)
+Seat 5: GARDIEN94510 (10115)
+Seat 6: gnoukan (86455)
+Seat 8: Camutao (28198)
+*** ANTE/BLINDS ***
+GARDIEN94510 posts ante 150
+gnoukan posts ante 150
+manggy94 posts ante 150
+bojol69 posts ante 150
+bigben23 posts ante 150
+Camutao posts ante 150
+GARDIEN94510 posts small blind 600
+gnoukan posts big blind 1200
+Dealt to manggy94 [4h Qs]
+*** PRE-FLOP *** 
+Camutao folds
+manggy94 folds
+bojol69 folds
+bigben23 folds
+GARDIEN94510 folds
+gnoukan collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Seat 6: gnoukan (big blind) won 2700
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #688894221494517769-59-1465896690 - Holdem no limit (150/600/1200) - 2016/06/14 09:31:30 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #5 is the button
+Seat 1: manggy94 (10792)
+Seat 2: bojol69 (40830)
+Seat 3: bigben23 (10400)
+Seat 4: B M 07 (28998)
+Seat 5: GARDIEN94510 (9365)
+Seat 6: gnoukan (87805)
+Seat 7: le gratteux2 (26295)
+Seat 8: Camutao (28048)
+*** ANTE/BLINDS ***
+gnoukan posts ante 150
+le gratteux2 posts ante 150
+manggy94 posts ante 150
+bojol69 posts ante 150
+bigben23 posts ante 150
+B M 07 posts ante 150
+GARDIEN94510 posts ante 150
+Camutao posts ante 150
+gnoukan posts small blind 600
+le gratteux2 posts big blind 1200
+Dealt to manggy94 [2c Kh]
+*** PRE-FLOP *** 
+Camutao folds
+manggy94 folds
+bojol69 folds
+bigben23 folds
+B M 07 folds
+GARDIEN94510 folds
+gnoukan folds
+le gratteux2 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Seat 7: le gratteux2 (big blind) won 3000
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 11 - HandId: #688894221494517769-60-1465896714 - Holdem no limit (150/600/1200) - 2016/06/14 09:31:54 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #6 is the button
+Seat 1: manggy94 (10642)
+Seat 2: bojol69 (40680)
+Seat 3: bigben23 (10250)
+Seat 4: B M 07 (28848)
+Seat 5: GARDIEN94510 (9215)
+Seat 6: gnoukan (87055)
+Seat 7: le gratteux2 (27945)
+Seat 8: Camutao (27898)
+*** ANTE/BLINDS ***
+le gratteux2 posts ante 150
+Camutao posts ante 150
+manggy94 posts ante 150
+bojol69 posts ante 150
+bigben23 posts ante 150
+B M 07 posts ante 150
+GARDIEN94510 posts ante 150
+gnoukan posts ante 150
+le gratteux2 posts small blind 600
+Camutao posts big blind 1200
+Dealt to manggy94 [5c 3d]
+*** PRE-FLOP *** 
+manggy94 folds
+bojol69 raises 1200 to 2400
+bigben23 folds
+B M 07 folds
+GARDIEN94510 folds
+gnoukan folds
+le gratteux2 calls 1800
+Camutao calls 1200
+*** FLOP *** [9d Ts Kh]
+le gratteux2 checks
+Camutao checks
+bojol69 bets 8400
+le gratteux2 calls 8400
+Camutao folds
+*** TURN *** [9d Ts Kh][7s]
+le gratteux2 bets 1200
+bojol69 calls 1200
+*** RIVER *** [9d Ts Kh 7s][7h]
+le gratteux2 bets 1200
+bojol69 calls 1200
+*** SHOW DOWN ***
+le gratteux2 shows [Td As] (Two pairs : Tens and 7)
+bojol69 shows [Kd Jc] (Two pairs : Kings and 7)
+bojol69 collected 30000 from pot
+*** SUMMARY ***
+Total pot 30000 | No rake
+Board: [9d Ts Kh 7s 7h]
+Seat 2: bojol69 showed [Kd Jc] and won 30000 with Two pairs : Kings and 7
+Seat 7: le gratteux2 (small blind) showed [Td As] and lost with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #688894221494517769-61-1465896778 - Holdem no limit (180/800/1600) - 2016/06/14 09:32:58 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (10492)
+Seat 3: bigben23 (10100)
+Seat 4: B M 07 (28698)
+Seat 5: GARDIEN94510 (9065)
+Seat 6: gnoukan (86905)
+Seat 7: le gratteux2 (14595)
+Seat 8: Camutao (25348)
+*** ANTE/BLINDS ***
+Camutao posts ante 180
+manggy94 posts ante 180
+bigben23 posts ante 180
+B M 07 posts ante 180
+GARDIEN94510 posts ante 180
+gnoukan posts ante 180
+le gratteux2 posts ante 180
+Camutao posts small blind 800
+manggy94 posts big blind 1600
+Dealt to manggy94 [7s 9s]
+*** PRE-FLOP *** 
+bigben23 folds
+B M 07 raises 1600 to 3200
+GARDIEN94510 folds
+gnoukan folds
+le gratteux2 folds
+Camutao folds
+manggy94 calls 1600
+*** FLOP *** [2h 6c 5d]
+manggy94 checks
+B M 07 checks
+*** TURN *** [2h 6c 5d][9h]
+manggy94 bets 7112 and is all-in
+B M 07 folds
+manggy94 collected 15572 from pot
+*** SUMMARY ***
+Total pot 15572 | No rake
+Board: [2h 6c 5d 9h]
+Seat 1: manggy94 (big blind) won 15572
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #688894221494517769-62-1465896807 - Holdem no limit (180/800/1600) - 2016/06/14 09:33:27 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #8 is the button
+Seat 1: manggy94 (15572)
+Seat 3: bigben23 (9920)
+Seat 4: B M 07 (25318)
+Seat 5: GARDIEN94510 (8885)
+Seat 6: gnoukan (86725)
+Seat 7: le gratteux2 (14415)
+Seat 8: Camutao (24368)
+*** ANTE/BLINDS ***
+manggy94 posts ante 180
+bigben23 posts ante 180
+B M 07 posts ante 180
+GARDIEN94510 posts ante 180
+gnoukan posts ante 180
+le gratteux2 posts ante 180
+Camutao posts ante 180
+manggy94 posts small blind 800
+bigben23 posts big blind 1600
+Dealt to manggy94 [3c Ah]
+*** PRE-FLOP *** 
+B M 07 folds
+GARDIEN94510 folds
+gnoukan folds
+le gratteux2 calls 1600
+Camutao raises 22588 to 24188 and is all-in
+manggy94 folds
+bigben23 folds
+le gratteux2 folds
+Camutao collected 29448 from pot
+*** SUMMARY ***
+Total pot 29448 | No rake
+Seat 8: Camutao (button) won 29448
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #688894221494517769-63-1465896823 - Holdem no limit (180/800/1600) - 2016/06/14 09:33:43 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #1 is the button
+Seat 1: manggy94 (14592)
+Seat 3: bigben23 (8140)
+Seat 4: B M 07 (25138)
+Seat 5: GARDIEN94510 (8705)
+Seat 6: gnoukan (86545)
+Seat 7: le gratteux2 (12635)
+Seat 8: Camutao (29448)
+*** ANTE/BLINDS ***
+bigben23 posts ante 180
+B M 07 posts ante 180
+manggy94 posts ante 180
+GARDIEN94510 posts ante 180
+gnoukan posts ante 180
+le gratteux2 posts ante 180
+Camutao posts ante 180
+bigben23 posts small blind 800
+B M 07 posts big blind 1600
+Dealt to manggy94 [5d 3h]
+*** PRE-FLOP *** 
+GARDIEN94510 calls 1600
+gnoukan folds
+le gratteux2 raises 1600 to 3200
+Camutao folds
+manggy94 folds
+bigben23 folds
+B M 07 folds
+GARDIEN94510 calls 1600
+*** FLOP *** [2h 2c 2d]
+GARDIEN94510 checks
+le gratteux2 bets 9255 and is all-in
+GARDIEN94510 folds
+le gratteux2 collected 19315 from pot
+*** SUMMARY ***
+Total pot 19315 | No rake
+Board: [2h 2c 2d]
+Seat 7: le gratteux2 won 19315
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #688894221494517769-64-1465896847 - Holdem no limit (180/800/1600) - 2016/06/14 09:34:07 UTC
+Table: 'MiniRoll(160395685)#008' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (14412)
+Seat 3: bigben23 (7160)
+Seat 4: B M 07 (23358)
+Seat 5: GARDIEN94510 (5325)
+Seat 6: gnoukan (86365)
+Seat 7: le gratteux2 (19315)
+Seat 8: Camutao (29268)
+*** ANTE/BLINDS ***
+B M 07 posts ante 180
+GARDIEN94510 posts ante 180
+manggy94 posts ante 180
+bigben23 posts ante 180
+gnoukan posts ante 180
+le gratteux2 posts ante 180
+Camutao posts ante 180
+B M 07 posts small blind 800
+GARDIEN94510 posts big blind 1600
+Dealt to manggy94 [3d 9d]
+*** PRE-FLOP *** 
+gnoukan folds
+le gratteux2 calls 1600
+Camutao folds
+manggy94 folds
+bigben23 folds
+B M 07 folds
+GARDIEN94510 raises 3545 to 5145 and is all-in
+le gratteux2 calls 3545
+*** FLOP *** [2c 9s 8c]
+*** TURN *** [2c 9s 8c][6h]
+*** RIVER *** [2c 9s 8c 6h][9h]
+*** SHOW DOWN ***
+le gratteux2 shows [3s Ks] (One pair : 9)
+GARDIEN94510 shows [7c Ac] (One pair : 9)
+GARDIEN94510 collected 12350 from pot
+*** SUMMARY ***
+Total pot 12350 | No rake
+Board: [2c 9s 8c 6h 9h]
+Seat 5: GARDIEN94510 (big blind) showed [7c Ac] and won 12350 with One pair : 9
+Seat 7: le gratteux2 showed [3s Ks] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #688894221494517767-62-1465896910 - Holdem no limit (180/800/1600) - 2016/06/14 09:35:10 UTC
+Table: 'MiniRoll(160395685)#006' 8-max (real money) Seat #7 is the button
+Seat 1: mercivka (44069)
+Seat 2: MarcelAndre (67756)
+Seat 3: manggy94 (14232)
+Seat 4: chaberdo (101059)
+Seat 5: Tom 007 (22921)
+Seat 7: josepp (69870)
+Seat 8: johnard (29882)
+*** ANTE/BLINDS ***
+johnard posts ante 180
+mercivka posts ante 180
+MarcelAndre posts ante 180
+manggy94 posts ante 180
+chaberdo posts ante 180
+Tom 007 posts ante 180
+josepp posts ante 180
+johnard posts small blind 800
+mercivka posts big blind 1600
+Dealt to manggy94 [9d 8s]
+*** PRE-FLOP *** 
+MarcelAndre calls 1600
+manggy94 folds
+chaberdo folds
+Tom 007 folds
+josepp folds
+johnard folds
+mercivka checks
+*** FLOP *** [Td Ts 3s]
+mercivka bets 3200
+MarcelAndre calls 3200
+*** TURN *** [Td Ts 3s][Ad]
+mercivka checks
+MarcelAndre checks
+*** RIVER *** [Td Ts 3s Ad][7c]
+mercivka bets 8745
+MarcelAndre folds
+mercivka collected 20405 from pot
+*** SUMMARY ***
+Total pot 20405 | No rake
+Board: [Td Ts 3s Ad 7c]
+Seat 1: mercivka (big blind) won 20405
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #688894221494517767-63-1465896963 - Holdem no limit (180/800/1600) - 2016/06/14 09:36:03 UTC
+Table: 'MiniRoll(160395685)#006' 8-max (real money) Seat #8 is the button
+Seat 1: mercivka (50749)
+Seat 2: MarcelAndre (62776)
+Seat 3: manggy94 (14052)
+Seat 4: chaberdo (100879)
+Seat 5: Tom 007 (22741)
+Seat 7: josepp (69690)
+Seat 8: johnard (28902)
+*** ANTE/BLINDS ***
+mercivka posts ante 180
+MarcelAndre posts ante 180
+manggy94 posts ante 180
+chaberdo posts ante 180
+Tom 007 posts ante 180
+josepp posts ante 180
+johnard posts ante 180
+mercivka posts small blind 800
+MarcelAndre posts big blind 1600
+Dealt to manggy94 [4c Td]
+*** PRE-FLOP *** 
+manggy94 folds
+chaberdo folds
+Tom 007 folds
+josepp folds
+johnard folds
+mercivka calls 800
+MarcelAndre checks
+*** FLOP *** [Qh 3s 6h]
+mercivka bets 3200
+MarcelAndre calls 3200
+*** TURN *** [Qh 3s 6h][7s]
+mercivka checks
+MarcelAndre checks
+*** RIVER *** [Qh 3s 6h 7s][3h]
+mercivka checks
+MarcelAndre bets 10860
+mercivka folds
+MarcelAndre collected 21720 from pot
+*** SUMMARY ***
+Total pot 21720 | No rake
+Board: [Qh 3s 6h 7s 3h]
+Seat 2: MarcelAndre (big blind) won 21720
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #688894221494517767-64-1465897018 - Holdem no limit (180/800/1600) - 2016/06/14 09:36:58 UTC
+Table: 'MiniRoll(160395685)#006' 8-max (real money) Seat #1 is the button
+Seat 1: mercivka (45769)
+Seat 2: MarcelAndre (68656)
+Seat 3: manggy94 (13872)
+Seat 4: chaberdo (100699)
+Seat 5: Tom 007 (22561)
+Seat 7: josepp (69510)
+Seat 8: johnard (28722)
+*** ANTE/BLINDS ***
+MarcelAndre posts ante 180
+manggy94 posts ante 180
+mercivka posts ante 180
+chaberdo posts ante 180
+Tom 007 posts ante 180
+josepp posts ante 180
+johnard posts ante 180
+MarcelAndre posts small blind 800
+manggy94 posts big blind 1600
+Dealt to manggy94 [Ad 3d]
+*** PRE-FLOP *** 
+chaberdo folds
+Tom 007 folds
+josepp folds
+johnard folds
+mercivka raises 8000 to 9600
+MarcelAndre folds
+manggy94 raises 4092 to 13692 and is all-in
+mercivka calls 4092
+*** FLOP *** [8s Js 2c]
+*** TURN *** [8s Js 2c][Qd]
+*** RIVER *** [8s Js 2c Qd][Ac]
+*** SHOW DOWN ***
+mercivka shows [9h 9d] (One pair : 9)
+manggy94 shows [Ad 3d] (One pair : Aces)
+manggy94 collected 29444 from pot
+*** SUMMARY ***
+Total pot 29444 | No rake
+Board: [8s Js 2c Qd Ac]
+Seat 1: mercivka (button) showed [9h 9d] and lost with One pair : 9
+Seat 3: manggy94 (big blind) showed [Ad 3d] and won 29444 with One pair : Aces
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 12 - HandId: #688894221494517767-65-1465897068 - Holdem no limit (180/800/1600) - 2016/06/14 09:37:48 UTC
+Table: 'MiniRoll(160395685)#006' 8-max (real money) Seat #2 is the button
+Seat 1: mercivka (31897)
+Seat 2: MarcelAndre (67676)
+Seat 3: manggy94 (29444)
+Seat 4: chaberdo (100519)
+Seat 5: Tom 007 (22381)
+Seat 7: josepp (69330)
+Seat 8: johnard (28542)
+*** ANTE/BLINDS ***
+manggy94 posts ante 180
+chaberdo posts ante 180
+mercivka posts ante 180
+MarcelAndre posts ante 180
+Tom 007 posts ante 180
+josepp posts ante 180
+johnard posts ante 180
+manggy94 posts small blind 800
+chaberdo posts big blind 1600
+Dealt to manggy94 [Kh Jd]
+*** PRE-FLOP *** 
+Tom 007 folds
+josepp folds
+johnard folds
+mercivka folds
+MarcelAndre calls 1600
+manggy94 calls 800
+chaberdo checks
+*** FLOP *** [As 4s 7h]
+manggy94 bets 1600
+chaberdo folds
+MarcelAndre calls 1600
+*** TURN *** [As 4s 7h][9s]
+manggy94 checks
+MarcelAndre checks
+*** RIVER *** [As 4s 7h 9s][8d]
+manggy94 bets 1600
+MarcelAndre calls 1600
+*** SHOW DOWN ***
+manggy94 shows [Kh Jd] (High card : Ace)
+MarcelAndre shows [4h 8s] (Two pairs : 8 and 4)
+MarcelAndre collected 12460 from pot
+*** SUMMARY ***
+Total pot 12460 | No rake
+Board: [As 4s 7h 9s 8d]
+Seat 2: MarcelAndre (button) showed [4h 8s] and won 12460 with Two pairs : 8 and 4
+Seat 3: manggy94 (small blind) showed [Kh Jd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 13 - HandId: #688894221494517767-66-1465897112 - Holdem no limit (240/1000/2000) - 2016/06/14 09:38:32 UTC
+Table: 'MiniRoll(160395685)#006' 8-max (real money) Seat #3 is the button
+Seat 1: mercivka (31717)
+Seat 2: MarcelAndre (75156)
+Seat 3: manggy94 (24464)
+Seat 4: chaberdo (98739)
+Seat 5: Tom 007 (22201)
+Seat 7: josepp (69150)
+Seat 8: johnard (28362)
+*** ANTE/BLINDS ***
+chaberdo posts ante 240
+Tom 007 posts ante 240
+mercivka posts ante 240
+MarcelAndre posts ante 240
+manggy94 posts ante 240
+josepp posts ante 240
+johnard posts ante 240
+chaberdo posts small blind 1000
+Tom 007 posts big blind 2000
+Dealt to manggy94 [Ks 3s]
+*** PRE-FLOP *** 
+josepp folds
+johnard folds
+mercivka folds
+MarcelAndre folds
+manggy94 folds
+chaberdo folds
+Tom 007 collected 4680 from pot
+*** SUMMARY ***
+Total pot 4680 | No rake
+Seat 5: Tom 007 (big blind) won 4680
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 13 - HandId: #688894221494517767-67-1465897137 - Holdem no limit (240/1000/2000) - 2016/06/14 09:38:57 UTC
+Table: 'MiniRoll(160395685)#006' 8-max (real money) Seat #4 is the button
+Seat 1: mercivka (31477)
+Seat 2: MarcelAndre (74916)
+Seat 3: manggy94 (24224)
+Seat 4: chaberdo (97499)
+Seat 5: Tom 007 (24641)
+Seat 7: josepp (68910)
+Seat 8: johnard (28122)
+*** ANTE/BLINDS ***
+Tom 007 posts ante 240
+josepp posts ante 240
+mercivka posts ante 240
+MarcelAndre posts ante 240
+manggy94 posts ante 240
+chaberdo posts ante 240
+johnard posts ante 240
+Tom 007 posts small blind 1000
+josepp posts big blind 2000
+Dealt to manggy94 [Jd 8d]
+*** PRE-FLOP *** 
+johnard raises 2000 to 4000
+mercivka folds
+MarcelAndre calls 4000
+manggy94 folds
+chaberdo folds
+Tom 007 folds
+josepp folds
+*** FLOP *** [9h 6c Ac]
+johnard checks
+MarcelAndre bets 12680
+johnard folds
+MarcelAndre collected 25360 from pot
+*** SUMMARY ***
+Total pot 25360 | No rake
+Board: [9h 6c Ac]
+Seat 2: MarcelAndre won 25360
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 13 - HandId: #688894221494517767-68-1465897190 - Holdem no limit (240/1000/2000) - 2016/06/14 09:39:50 UTC
+Table: 'MiniRoll(160395685)#006' 8-max (real money) Seat #5 is the button
+Seat 1: mercivka (31237)
+Seat 2: MarcelAndre (83356)
+Seat 3: manggy94 (23984)
+Seat 4: chaberdo (97259)
+Seat 5: Tom 007 (23401)
+Seat 7: josepp (66670)
+Seat 8: johnard (23882)
+*** ANTE/BLINDS ***
+josepp posts ante 240
+johnard posts ante 240
+mercivka posts ante 240
+MarcelAndre posts ante 240
+manggy94 posts ante 240
+chaberdo posts ante 240
+Tom 007 posts ante 240
+josepp posts small blind 1000
+johnard posts big blind 2000
+Dealt to manggy94 [Ac 4h]
+*** PRE-FLOP *** 
+mercivka folds
+MarcelAndre folds
+manggy94 raises 2000 to 4000
+chaberdo calls 4000
+Tom 007 folds
+josepp folds
+johnard calls 2000
+*** FLOP *** [Td Th Jh]
+johnard checks
+manggy94 checks
+chaberdo checks
+*** TURN *** [Td Th Jh][6h]
+johnard checks
+manggy94 checks
+chaberdo checks
+*** RIVER *** [Td Th Jh 6h][2c]
+johnard checks
+manggy94 checks
+chaberdo checks
+*** SHOW DOWN ***
+manggy94 shows [Ac 4h] (One pair : Tens)
+johnard shows [8d 7d] (One pair : Tens)
+chaberdo shows [5c 5d] (Two pairs : Tens and 5)
+chaberdo collected 14680 from pot
+*** SUMMARY ***
+Total pot 14680 | No rake
+Board: [Td Th Jh 6h 2c]
+Seat 3: manggy94 showed [Ac 4h] and lost with One pair : Tens
+Seat 4: chaberdo showed [5c 5d] and won 14680 with Two pairs : Tens and 5
+Seat 8: johnard (big blind) showed [8d 7d] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 13 - HandId: #688894221494517767-69-1465897256 - Holdem no limit (240/1000/2000) - 2016/06/14 09:40:56 UTC
+Table: 'MiniRoll(160395685)#006' 8-max (real money) Seat #7 is the button
+Seat 1: mercivka (30997)
+Seat 2: MarcelAndre (83116)
+Seat 3: manggy94 (19744)
+Seat 4: chaberdo (107699)
+Seat 5: Tom 007 (23161)
+Seat 7: josepp (65430)
+Seat 8: johnard (19642)
+*** ANTE/BLINDS ***
+johnard posts ante 240
+mercivka posts ante 240
+MarcelAndre posts ante 240
+manggy94 posts ante 240
+chaberdo posts ante 240
+Tom 007 posts ante 240
+josepp posts ante 240
+johnard posts small blind 1000
+mercivka posts big blind 2000
+Dealt to manggy94 [Th 2c]
+*** PRE-FLOP *** 
+MarcelAndre calls 2000
+manggy94 folds
+chaberdo folds
+Tom 007 folds
+josepp folds
+johnard folds
+mercivka checks
+*** FLOP *** [7d 9h 7h]
+mercivka checks
+MarcelAndre checks
+*** TURN *** [7d 9h 7h][2s]
+mercivka bets 2000
+MarcelAndre raises 10680 to 12680
+mercivka folds
+MarcelAndre collected 21360 from pot
+*** SUMMARY ***
+Total pot 21360 | No rake
+Board: [7d 9h 7h 2s]
+Seat 2: MarcelAndre won 21360
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 13 - HandId: #688894221494517767-70-1465897324 - Holdem no limit (240/1000/2000) - 2016/06/14 09:42:04 UTC
+Table: 'MiniRoll(160395685)#006' 8-max (real money) Seat #8 is the button
+Seat 1: mercivka (26757)
+Seat 2: MarcelAndre (89556)
+Seat 3: manggy94 (19504)
+Seat 4: chaberdo (107459)
+Seat 5: Tom 007 (22921)
+Seat 7: josepp (65190)
+Seat 8: johnard (18402)
+*** ANTE/BLINDS ***
+mercivka posts ante 240
+MarcelAndre posts ante 240
+manggy94 posts ante 240
+chaberdo posts ante 240
+Tom 007 posts ante 240
+josepp posts ante 240
+johnard posts ante 240
+mercivka posts small blind 1000
+MarcelAndre posts big blind 2000
+Dealt to manggy94 [Kc 6s]
+*** PRE-FLOP *** 
+manggy94 folds
+chaberdo folds
+Tom 007 raises 20681 to 22681 and is all-in
+josepp folds
+johnard folds
+mercivka folds
+MarcelAndre folds
+Tom 007 collected 27361 from pot
+*** SUMMARY ***
+Total pot 27361 | No rake
+Seat 5: Tom 007 won 27361
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 13 - HandId: #688894221494517767-71-1465897349 - Holdem no limit (240/1000/2000) - 2016/06/14 09:42:29 UTC
+Table: 'MiniRoll(160395685)#006' 8-max (real money) Seat #1 is the button
+Seat 1: mercivka (25517)
+Seat 2: MarcelAndre (87316)
+Seat 3: manggy94 (19264)
+Seat 4: chaberdo (107219)
+Seat 5: Tom 007 (27361)
+Seat 7: josepp (64950)
+Seat 8: johnard (18162)
+*** ANTE/BLINDS ***
+MarcelAndre posts ante 240
+manggy94 posts ante 240
+mercivka posts ante 240
+chaberdo posts ante 240
+Tom 007 posts ante 240
+josepp posts ante 240
+johnard posts ante 240
+MarcelAndre posts small blind 1000
+manggy94 posts big blind 2000
+Dealt to manggy94 [Jh 6d]
+*** PRE-FLOP *** 
+chaberdo folds
+Tom 007 folds
+josepp folds
+johnard folds
+mercivka calls 2000
+MarcelAndre calls 1000
+manggy94 checks
+*** FLOP *** [Kd 2s 5d]
+MarcelAndre checks
+manggy94 checks
+mercivka checks
+*** TURN *** [Kd 2s 5d][4d]
+MarcelAndre checks
+manggy94 checks
+mercivka checks
+*** RIVER *** [Kd 2s 5d 4d][8d]
+MarcelAndre checks
+manggy94 checks
+mercivka checks
+*** SHOW DOWN ***
+mercivka shows [7c 9s] (High card : King)
+manggy94 shows [Jh 6d] (Flush King high)
+MarcelAndre shows [7d Qd] (Flush King high)
+MarcelAndre collected 7680 from pot
+*** SUMMARY ***
+Total pot 7680 | No rake
+Board: [Kd 2s 5d 4d 8d]
+Seat 1: mercivka (button) showed [7c 9s] and lost with High card : King
+Seat 2: MarcelAndre (small blind) showed [7d Qd] and won 7680 with Flush King high
+Seat 3: manggy94 (big blind) showed [Jh 6d] and lost with Flush King high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 13 - HandId: #688894221494517767-72-1465897413 - Holdem no limit (240/1000/2000) - 2016/06/14 09:43:33 UTC
+Table: 'MiniRoll(160395685)#006' 8-max (real money) Seat #2 is the button
+Seat 1: mercivka (23277)
+Seat 2: MarcelAndre (92756)
+Seat 3: manggy94 (17024)
+Seat 4: chaberdo (106979)
+Seat 5: Tom 007 (27121)
+Seat 6: TheBestInk01 (33955)
+Seat 7: josepp (64710)
+Seat 8: johnard (17922)
+*** ANTE/BLINDS ***
+manggy94 posts ante 240
+chaberdo posts ante 240
+mercivka posts ante 240
+MarcelAndre posts ante 240
+Tom 007 posts ante 240
+TheBestInk01 posts ante 240
+josepp posts ante 240
+johnard posts ante 240
+manggy94 posts small blind 1000
+chaberdo posts big blind 2000
+Dealt to manggy94 [2d 3d]
+*** PRE-FLOP *** 
+Tom 007 folds
+TheBestInk01 folds
+josepp folds
+johnard calls 2000
+mercivka calls 2000
+MarcelAndre folds
+manggy94 folds
+chaberdo checks
+*** FLOP *** [5c 2h 3c]
+chaberdo checks
+johnard checks
+mercivka bets 8920
+chaberdo folds
+johnard folds
+mercivka collected 17840 from pot
+*** SUMMARY ***
+Total pot 17840 | No rake
+Board: [5c 2h 3c]
+Seat 1: mercivka won 17840
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 14 - HandId: #688894221494517767-73-1465897532 - Holdem no limit (320/1250/2500) - 2016/06/14 09:45:32 UTC
+Table: 'MiniRoll(160395685)#006' 8-max (real money) Seat #3 is the button
+Seat 1: mercivka (29957)
+Seat 2: MarcelAndre (92516)
+Seat 3: manggy94 (15784)
+Seat 4: chaberdo (104739)
+Seat 5: Tom 007 (26881)
+Seat 7: josepp (64470)
+Seat 8: johnard (15682)
+*** ANTE/BLINDS ***
+chaberdo posts ante 320
+Tom 007 posts ante 320
+mercivka posts ante 320
+MarcelAndre posts ante 320
+manggy94 posts ante 320
+josepp posts ante 320
+johnard posts ante 320
+chaberdo posts small blind 1250
+Tom 007 posts big blind 2500
+Dealt to manggy94 [Tc 7d]
+*** PRE-FLOP *** 
+josepp folds
+johnard folds
+mercivka folds
+MarcelAndre calls 2500
+manggy94 folds
+chaberdo folds
+Tom 007 checks
+*** FLOP *** [4s 4c 6h]
+Tom 007 checks
+MarcelAndre bets 8490
+Tom 007 folds
+MarcelAndre collected 16980 from pot
+*** SUMMARY ***
+Total pot 16980 | No rake
+Board: [4s 4c 6h]
+Seat 2: MarcelAndre won 16980
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 14 - HandId: #688894221494517767-74-1465897574 - Holdem no limit (320/1250/2500) - 2016/06/14 09:46:14 UTC
+Table: 'MiniRoll(160395685)#006' 8-max (real money) Seat #4 is the button
+Seat 1: mercivka (29637)
+Seat 2: MarcelAndre (98186)
+Seat 3: manggy94 (15464)
+Seat 4: chaberdo (103169)
+Seat 5: Tom 007 (24061)
+Seat 7: josepp (64150)
+Seat 8: johnard (15362)
+*** ANTE/BLINDS ***
+Tom 007 posts ante 320
+josepp posts ante 320
+mercivka posts ante 320
+MarcelAndre posts ante 320
+manggy94 posts ante 320
+chaberdo posts ante 320
+johnard posts ante 320
+Tom 007 posts small blind 1250
+josepp posts big blind 2500
+Dealt to manggy94 [Qs 2s]
+*** PRE-FLOP *** 
+johnard calls 2500
+mercivka calls 2500
+MarcelAndre calls 2500
+manggy94 folds
+chaberdo folds
+Tom 007 raises 21241 to 23741 and is all-in
+josepp folds
+johnard calls 12542 and is all-in
+mercivka folds
+MarcelAndre folds
+*** FLOP *** [5c 2d 3s]
+*** TURN *** [5c 2d 3s][6d]
+*** RIVER *** [5c 2d 3s 6d][4c]
+*** SHOW DOWN ***
+johnard shows [Tc Ad] (Straight 6 high)
+Tom 007 shows [As Js] (Straight 6 high)
+Tom 007 collected 28611 from side pot 1
+johnard collected 19912 from main pot
+*** SUMMARY ***
+Total pot 48523 | No rake
+Board: [5c 2d 3s 6d 4c]
+Seat 5: Tom 007 (small blind) showed [As Js] and won 28611 with Straight 6 high
+Seat 8: johnard showed [Tc Ad] and won 19912 with Straight 6 high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 14 - HandId: #688894221494517767-75-1465897633 - Holdem no limit (320/1250/2500) - 2016/06/14 09:47:13 UTC
+Table: 'MiniRoll(160395685)#006' 8-max (real money) Seat #5 is the button
+Seat 1: mercivka (26817)
+Seat 2: MarcelAndre (95366)
+Seat 3: manggy94 (15144)
+Seat 4: chaberdo (102849)
+Seat 5: Tom 007 (28611)
+Seat 7: josepp (61330)
+Seat 8: johnard (19912)
+*** ANTE/BLINDS ***
+josepp posts ante 320
+johnard posts ante 320
+mercivka posts ante 320
+MarcelAndre posts ante 320
+manggy94 posts ante 320
+chaberdo posts ante 320
+Tom 007 posts ante 320
+josepp posts small blind 1250
+johnard posts big blind 2500
+Dealt to manggy94 [Ts 4h]
+*** PRE-FLOP *** 
+mercivka calls 2500
+MarcelAndre folds
+manggy94 folds
+chaberdo folds
+Tom 007 calls 2500
+josepp calls 1250
+johnard checks
+*** FLOP *** [8s 3s Tc]
+josepp checks
+johnard bets 17092 and is all-in
+mercivka calls 17092
+Tom 007 raises 8699 to 25791 and is all-in
+josepp folds
+mercivka calls 6905 and is all-in
+*** TURN *** [8s 3s Tc][7d]
+*** RIVER *** [8s 3s Tc 7d][Kc]
+*** SHOW DOWN ***
+johnard shows [Js 9s] (Straight Jack high)
+mercivka shows [Jc 9h] (Straight Jack high)
+Tom 007 shows [Th Kh] (Two pairs : Kings and Tens)
+Tom 007 collected 1794 from side pot 2
+mercivka collected 45568 from side pot 1
+johnard collected 31758 from main pot
+*** SUMMARY ***
+Total pot 79120 | No rake
+Board: [8s 3s Tc 7d Kc]
+Seat 1: mercivka showed [Jc 9h] and won 45568 with Straight Jack high
+Seat 5: Tom 007 (button) showed [Th Kh] and won 1794 with Two pairs : Kings and Tens
+Seat 8: johnard (big blind) showed [Js 9s] and won 31758 with Straight Jack high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 14 - HandId: #688894221494517767-76-1465897681 - Holdem no limit (320/1250/2500) - 2016/06/14 09:48:01 UTC
+Table: 'MiniRoll(160395685)#006' 8-max (real money) Seat #7 is the button
+Seat 1: mercivka (45568)
+Seat 2: MarcelAndre (95046)
+Seat 3: manggy94 (14824)
+Seat 4: chaberdo (102529)
+Seat 5: Tom 007 (1794)
+Seat 7: josepp (58510)
+Seat 8: johnard (31758)
+*** ANTE/BLINDS ***
+johnard posts ante 320
+mercivka posts ante 320
+MarcelAndre posts ante 320
+manggy94 posts ante 320
+chaberdo posts ante 320
+Tom 007 posts ante 320
+josepp posts ante 320
+johnard posts small blind 1250
+mercivka posts big blind 2500
+Dealt to manggy94 [Kh 8s]
+*** PRE-FLOP *** 
+MarcelAndre folds
+manggy94 folds
+chaberdo raises 5000 to 7500
+Tom 007 folds
+josepp folds
+johnard folds
+mercivka folds
+chaberdo collected 13490 from pot
+*** SUMMARY ***
+Total pot 13490 | No rake
+Seat 4: chaberdo won 13490
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 14 - HandId: #688894221494517763-80-1465897744 - Holdem no limit (320/1250/2500) - 2016/06/14 09:49:04 UTC
+Table: 'MiniRoll(160395685)#002' 8-max (real money) Seat #1 is the button
+Seat 1: eddyff59 (78519)
+Seat 2: alinos2 (34240)
+Seat 3: aldo nohan s (42190)
+Seat 4: faureciaking (52890)
+Seat 5: fish united (32855)
+Seat 6: josepp (58190)
+Seat 7: nikko26 (16575)
+Seat 8: manggy94 (14504)
+*** ANTE/BLINDS ***
+alinos2 posts ante 320
+aldo nohan s posts ante 320
+eddyff59 posts ante 320
+faureciaking posts ante 320
+fish united posts ante 320
+josepp posts ante 320
+nikko26 posts ante 320
+manggy94 posts ante 320
+alinos2 posts small blind 1250
+aldo nohan s posts big blind 2500
+Dealt to manggy94 [9d Jc]
+*** PRE-FLOP *** 
+faureciaking folds
+fish united folds
+josepp folds
+nikko26 folds
+manggy94 raises 11684 to 14184 and is all-in
+eddyff59 folds
+alinos2 folds
+aldo nohan s calls 11684
+*** FLOP *** [Td 9s Ac]
+*** TURN *** [Td 9s Ac][7s]
+*** RIVER *** [Td 9s Ac 7s][Ts]
+*** SHOW DOWN ***
+manggy94 shows [9d Jc] (Two pairs : Tens and 9)
+aldo nohan s shows [Jh Js] (Two pairs : Jacks and Tens)
+aldo nohan s collected 32178 from pot
+*** SUMMARY ***
+Total pot 32178 | No rake
+Board: [Td 9s Ac 7s Ts]
+Seat 3: aldo nohan s (big blind) showed [Jh Js] and won 32178 with Two pairs : Jacks and Tens
+Seat 8: manggy94 showed [9d Jc] and lost with Two pairs : Tens and 9
+
+

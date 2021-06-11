@@ -1,0 +1,1151 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #715279004457763383-4-1471721045 - Holdem no limit (20/40) - 2016/08/20 19:24:05 UTC
+Table: 'Freeroll(166538871)#0566' 8-max (real money) Seat #2 is the button
+Seat 1: MALADGWADASK (6260)
+Seat 2: manggy94 (2590)
+Seat 3: inette31 (50)
+Seat 4: chatos1976 (3000)
+Seat 5: Allan_83 (3030)
+Seat 6: sangetor59 (2970)
+Seat 7: Matt1 (3110)
+Seat 8: Elle... (2990)
+*** ANTE/BLINDS ***
+inette31 posts small blind 20
+chatos1976 posts big blind 40
+Dealt to manggy94 [6h 8d]
+*** PRE-FLOP *** 
+Allan_83 folds
+sangetor59 calls 40
+Matt1 calls 40
+Elle... calls 40
+MALADGWADASK calls 40
+manggy94 folds
+inette31 raises 10 to 50 and is all-in
+chatos1976 folds
+sangetor59 calls 10
+Matt1 calls 10
+Elle... calls 10
+MALADGWADASK calls 10
+*** FLOP *** [5d 2h 4h]
+sangetor59 checks
+Matt1 bets 40
+Elle... calls 40
+MALADGWADASK calls 40
+sangetor59 calls 40
+*** TURN *** [5d 2h 4h][7s]
+sangetor59 checks
+Matt1 checks
+Elle... checks
+MALADGWADASK checks
+*** RIVER *** [5d 2h 4h 7s][Ts]
+sangetor59 checks
+Matt1 checks
+Elle... bets 450
+MALADGWADASK calls 450
+sangetor59 folds
+Matt1 folds
+*** SHOW DOWN ***
+MALADGWADASK shows [Kd Kc] (One pair : Kings)
+inette31 shows [5h 5c] (Trips of 5)
+Elle... shows [7c Tc] (Two pairs : Tens and 7)
+Elle... collected 1060 from side pot 1
+inette31 collected 290 from main pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [5d 2h 4h 7s Ts]
+Seat 1: MALADGWADASK showed [Kd Kc] and lost with One pair : Kings
+Seat 3: inette31 (small blind) showed [5h 5c] and won 290 with Trips of 5
+Seat 8: Elle... showed [7c Tc] and won 1060 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #715279004457762882-7-1471721329 - Holdem no limit (40/80) - 2016/08/20 19:28:49 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (2590)
+Seat 2: TRACKUS (2910)
+Seat 3: cheminot14 (2900)
+Seat 4: maggy12 (6180)
+Seat 5: Meenae (2680)
+Seat 6: cartus70 (1500)
+Seat 7: Papydu24 (5970)
+Seat 8: ELLOKKO47 (7860)
+*** ANTE/BLINDS ***
+maggy12 posts small blind 40
+Meenae posts big blind 80
+Dealt to manggy94 [3h 3c]
+*** PRE-FLOP *** 
+cartus70 calls 80
+Papydu24 folds
+ELLOKKO47 folds
+manggy94 calls 80
+TRACKUS folds
+cheminot14 folds
+maggy12 folds
+Meenae raises 280 to 360
+cartus70 raises 1140 to 1500 and is all-in
+manggy94 calls 1420
+Meenae calls 1140
+*** FLOP *** [9c Ts 6h]
+Meenae checks
+manggy94 checks
+*** TURN *** [9c Ts 6h][2d]
+Meenae checks
+manggy94 checks
+*** RIVER *** [9c Ts 6h 2d][9h]
+Meenae checks
+manggy94 checks
+*** SHOW DOWN ***
+Meenae shows [As Kd] (One pair : 9)
+cartus70 shows [Kh Jd] (One pair : 9)
+manggy94 shows [3h 3c] (Two pairs : 9 and 3)
+manggy94 collected 4540 from pot
+*** SUMMARY ***
+Total pot 4540 | No rake
+Board: [9c Ts 6h 2d 9h]
+Seat 1: manggy94 showed [3h 3c] and won 4540 with Two pairs : 9 and 3
+Seat 5: Meenae (big blind) showed [As Kd] and lost with One pair : 9
+Seat 6: cartus70 showed [Kh Jd] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #715279004457762882-8-1471721385 - Holdem no limit (40/80) - 2016/08/20 19:29:45 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #4 is the button
+Seat 1: manggy94 (5630)
+Seat 2: TRACKUS (2910)
+Seat 3: cheminot14 (2900)
+Seat 4: maggy12 (6140)
+Seat 5: Meenae (1180)
+Seat 6: spiiky15 (3000)
+Seat 7: Papydu24 (5970)
+Seat 8: ELLOKKO47 (7860)
+*** ANTE/BLINDS ***
+Meenae posts small blind 40
+spiiky15 posts big blind 80
+Dealt to manggy94 [3c Ad]
+*** PRE-FLOP *** 
+Papydu24 folds
+ELLOKKO47 raises 320 to 400
+manggy94 calls 400
+TRACKUS folds
+cheminot14 folds
+maggy12 calls 400
+Meenae raises 780 to 1180 and is all-in
+spiiky15 raises 1820 to 3000 and is all-in
+ELLOKKO47 raises 4860 to 7860 and is all-in
+manggy94 folds
+maggy12 calls 5740 and is all-in
+*** FLOP *** [Ah 3h Jc]
+*** TURN *** [Ah 3h Jc][5d]
+*** RIVER *** [Ah 3h Jc 5d][7d]
+*** SHOW DOWN ***
+maggy12 shows [Ac 2c] (One pair : Aces)
+Meenae shows [Ks Kc] (One pair : Kings)
+spiiky15 shows [Kh 8c] (High card : Ace)
+ELLOKKO47 shows [Qc As] (One pair : Aces)
+ELLOKKO47 collected 18580 from pot
+*** SUMMARY ***
+Total pot 18580 | No rake
+Board: [Ah 3h Jc 5d 7d]
+Seat 4: maggy12 (button) showed [Ac 2c] and lost with One pair : Aces
+Seat 5: Meenae (small blind) showed [Ks Kc] and lost with One pair : Kings
+Seat 6: spiiky15 (big blind) showed [Kh 8c] and lost with High card : Ace
+Seat 8: ELLOKKO47 showed [Qc As] and won 18580 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #715279004457762882-9-1471721508 - Holdem no limit (60/120) - 2016/08/20 19:31:48 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #5 is the button
+Seat 1: manggy94 (5230)
+Seat 2: TRACKUS (2910)
+Seat 3: cheminot14 (2900)
+Seat 7: Papydu24 (5970)
+Seat 8: ELLOKKO47 (18580)
+*** ANTE/BLINDS ***
+Papydu24 posts big blind 120
+Dealt to manggy94 [Kd Td]
+*** PRE-FLOP *** 
+ELLOKKO47 raises 120 to 240
+manggy94 calls 240
+TRACKUS folds
+cheminot14 calls 240
+Papydu24 calls 120
+*** FLOP *** [5h 9s Qs]
+Papydu24 checks
+ELLOKKO47 bets 480
+manggy94 calls 480
+cheminot14 calls 480
+Papydu24 calls 480
+*** TURN *** [5h 9s Qs][Ah]
+Papydu24 checks
+ELLOKKO47 bets 1440
+manggy94 folds
+cheminot14 calls 1440
+Papydu24 folds
+*** RIVER *** [5h 9s Qs Ah][3h]
+ELLOKKO47 bets 2880
+cheminot14 calls 740 and is all-in
+*** SHOW DOWN ***
+cheminot14 shows [Tc Jd] (High card : Ace)
+ELLOKKO47 shows [8d Ks] (High card : Ace)
+ELLOKKO47 collected 9380 from pot
+*** SUMMARY ***
+Total pot 9380 | No rake
+Board: [5h 9s Qs Ah 3h]
+Seat 3: cheminot14 showed [Tc Jd] and lost with High card : Ace
+Seat 8: ELLOKKO47 showed [8d Ks] and won 9380 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #715279004457762882-10-1471721644 - Holdem no limit (10/60/120) - 2016/08/20 19:34:04 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #6 is the button
+Seat 1: manggy94 (4510)
+Seat 2: TRACKUS (2910)
+Seat 4: fi zoukek (3000)
+Seat 5: baromas32 (3000)
+Seat 6: chris622 (2265)
+Seat 7: Papydu24 (5250)
+Seat 8: ELLOKKO47 (22920)
+*** ANTE/BLINDS ***
+Papydu24 posts ante 10
+ELLOKKO47 posts ante 10
+manggy94 posts ante 10
+TRACKUS posts ante 10
+fi zoukek posts ante 10
+baromas32 posts ante 10
+Papydu24 posts small blind 60
+ELLOKKO47 posts big blind 120
+Dealt to manggy94 [Qs 7c]
+*** PRE-FLOP *** 
+manggy94 folds
+TRACKUS folds
+fi zoukek raises 360 to 480
+baromas32 folds
+Papydu24 folds
+ELLOKKO47 calls 360
+*** FLOP *** [7s 5h 3c]
+ELLOKKO47 bets 120
+fi zoukek calls 120
+*** TURN *** [7s 5h 3c][6h]
+ELLOKKO47 bets 660
+fi zoukek calls 660
+*** RIVER *** [7s 5h 3c 6h][Qh]
+ELLOKKO47 bets 1320
+fi zoukek folds
+ELLOKKO47 collected 3960 from pot
+*** SUMMARY ***
+Total pot 3960 | No rake
+Board: [7s 5h 3c 6h Qh]
+Seat 8: ELLOKKO47 (big blind) won 3960
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #715279004457762882-11-1471721706 - Holdem no limit (10/60/120) - 2016/08/20 19:35:06 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (4500)
+Seat 2: TRACKUS (2900)
+Seat 3: -weimar- (3000)
+Seat 4: fi zoukek (1730)
+Seat 5: baromas32 (2990)
+Seat 6: chris622 (2265)
+Seat 7: Papydu24 (5180)
+Seat 8: ELLOKKO47 (24290)
+*** ANTE/BLINDS ***
+ELLOKKO47 posts ante 10
+manggy94 posts ante 10
+TRACKUS posts ante 10
+-weimar- posts ante 10
+fi zoukek posts ante 10
+baromas32 posts ante 10
+chris622 posts ante 10
+Papydu24 posts ante 10
+ELLOKKO47 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [9c 5h]
+*** PRE-FLOP *** 
+TRACKUS folds
+-weimar- calls 120
+fi zoukek folds
+baromas32 folds
+chris622 raises 120 to 240
+Papydu24 folds
+ELLOKKO47 calls 180
+manggy94 folds
+-weimar- calls 120
+*** FLOP *** [5d Kd 2h]
+ELLOKKO47 checks
+-weimar- checks
+chris622 checks
+*** TURN *** [5d Kd 2h][8c]
+ELLOKKO47 bets 920
+-weimar- folds
+chris622 calls 920
+*** RIVER *** [5d Kd 2h 8c][Jh]
+ELLOKKO47 bets 1380
+chris622 folds
+ELLOKKO47 collected 4140 from pot
+*** SUMMARY ***
+Total pot 4140 | No rake
+Board: [5d Kd 2h 8c Jh]
+Seat 8: ELLOKKO47 (small blind) won 4140
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #715279004457762882-12-1471721790 - Holdem no limit (15/75/150) - 2016/08/20 19:36:30 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #8 is the button
+Seat 1: manggy94 (4370)
+Seat 2: TRACKUS (2890)
+Seat 3: -weimar- (2750)
+Seat 4: fi zoukek (1720)
+Seat 5: baromas32 (2980)
+Seat 6: chris622 (1095)
+Seat 7: Papydu24 (5170)
+Seat 8: ELLOKKO47 (25880)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+TRACKUS posts ante 15
+-weimar- posts ante 15
+fi zoukek posts ante 15
+baromas32 posts ante 15
+chris622 posts ante 15
+Papydu24 posts ante 15
+ELLOKKO47 posts ante 15
+manggy94 posts small blind 75
+TRACKUS posts big blind 150
+Dealt to manggy94 [Jh Ah]
+*** PRE-FLOP *** 
+-weimar- folds
+fi zoukek calls 150
+baromas32 folds
+chris622 calls 150
+Papydu24 calls 150
+ELLOKKO47 calls 150
+manggy94 raises 1020 to 1170
+TRACKUS folds
+fi zoukek raises 535 to 1705 and is all-in
+chris622 folds
+Papydu24 calls 1555
+ELLOKKO47 calls 1555
+manggy94 calls 535
+*** FLOP *** [2c Td 4s]
+manggy94 checks
+Papydu24 checks
+ELLOKKO47 checks
+*** TURN *** [2c Td 4s][4h]
+manggy94 bets 2650 and is all-in
+Papydu24 folds
+ELLOKKO47 folds
+*** RIVER *** [2c Td 4s 4h][6h]
+*** SHOW DOWN ***
+fi zoukek shows [Qd Js] (One pair : 4)
+manggy94 shows [Jh Ah] (One pair : 4)
+manggy94 collected 9890 from pot
+*** SUMMARY ***
+Total pot 9890 | No rake
+Board: [2c Td 4s 4h 6h]
+Seat 1: manggy94 (small blind) showed [Jh Ah] and won 9890 with One pair : 4
+Seat 4: fi zoukek showed [Qd Js] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #715279004457762882-13-1471721917 - Holdem no limit (15/75/150) - 2016/08/20 19:38:37 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #1 is the button
+Seat 1: manggy94 (9890)
+Seat 2: TRACKUS (2725)
+Seat 3: -weimar- (2735)
+Seat 5: baromas32 (2965)
+Seat 6: chris622 (930)
+Seat 7: Papydu24 (3450)
+Seat 8: ELLOKKO47 (24160)
+*** ANTE/BLINDS ***
+TRACKUS posts ante 15
+-weimar- posts ante 15
+manggy94 posts ante 15
+baromas32 posts ante 15
+chris622 posts ante 15
+Papydu24 posts ante 15
+ELLOKKO47 posts ante 15
+TRACKUS posts small blind 75
+-weimar- posts big blind 150
+Dealt to manggy94 [4c Qc]
+*** PRE-FLOP *** 
+baromas32 folds
+chris622 raises 765 to 915 and is all-in
+Papydu24 folds
+ELLOKKO47 folds
+manggy94 folds
+TRACKUS folds
+-weimar- folds
+chris622 collected 1245 from pot
+*** SUMMARY ***
+Total pot 1245 | No rake
+Seat 6: chris622 won 1245
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #715279004457762882-14-1471721947 - Holdem no limit (15/75/150) - 2016/08/20 19:39:07 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #2 is the button
+Seat 1: manggy94 (9875)
+Seat 2: TRACKUS (2635)
+Seat 3: -weimar- (2570)
+Seat 4: Maxelite (3000)
+Seat 5: baromas32 (2950)
+Seat 6: chris622 (1245)
+Seat 7: Papydu24 (3435)
+Seat 8: ELLOKKO47 (24145)
+*** ANTE/BLINDS ***
+-weimar- posts ante 15
+Maxelite posts ante 15
+manggy94 posts ante 15
+TRACKUS posts ante 15
+baromas32 posts ante 15
+chris622 posts ante 15
+Papydu24 posts ante 15
+ELLOKKO47 posts ante 15
+-weimar- posts small blind 75
+Maxelite posts big blind 150
+Dealt to manggy94 [Jh 7c]
+*** PRE-FLOP *** 
+baromas32 folds
+chris622 folds
+Papydu24 raises 3270 to 3420 and is all-in
+ELLOKKO47 folds
+manggy94 folds
+TRACKUS calls 2620 and is all-in
+-weimar- folds
+Maxelite calls 2835 and is all-in
+*** FLOP *** [4s Ks 6h]
+*** TURN *** [4s Ks 6h][7h]
+*** RIVER *** [4s Ks 6h 7h][Qs]
+*** SHOW DOWN ***
+TRACKUS shows [Ac 9s] (High card : Ace)
+Maxelite shows [3h Kh] (One pair : Kings)
+Papydu24 shows [9h 9c] (One pair : 9)
+Papydu24 collected 435 from side pot 1
+Maxelite collected 8785 from main pot
+*** SUMMARY ***
+Total pot 9220 | No rake
+Board: [4s Ks 6h 7h Qs]
+Seat 2: TRACKUS (button) showed [Ac 9s] and lost with High card : Ace
+Seat 4: Maxelite (big blind) showed [3h Kh] and won 8785 with One pair : Kings
+Seat 7: Papydu24 showed [9h 9c] and won 435 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #715279004457762882-15-1471721983 - Holdem no limit (20/100/200) - 2016/08/20 19:39:43 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (9860)
+Seat 3: -weimar- (2480)
+Seat 4: Maxelite (8785)
+Seat 5: baromas32 (2935)
+Seat 6: chris622 (1230)
+Seat 7: Papydu24 (435)
+Seat 8: ELLOKKO47 (24130)
+*** ANTE/BLINDS ***
+Maxelite posts ante 20
+baromas32 posts ante 20
+manggy94 posts ante 20
+-weimar- posts ante 20
+chris622 posts ante 20
+Papydu24 posts ante 20
+ELLOKKO47 posts ante 20
+Maxelite posts small blind 100
+baromas32 posts big blind 200
+Dealt to manggy94 [4s Jd]
+*** PRE-FLOP *** 
+chris622 folds
+Papydu24 raises 215 to 415 and is all-in
+ELLOKKO47 calls 415
+manggy94 folds
+-weimar- calls 415
+Maxelite raises 8350 to 8765 and is all-in
+baromas32 folds
+ELLOKKO47 folds
+-weimar- folds
+*** FLOP *** [6d 8d Qc]
+*** TURN *** [6d 8d Qc][Ts]
+*** RIVER *** [6d 8d Qc Ts][Qd]
+*** SHOW DOWN ***
+Maxelite shows [As 8h] (Two pairs : Queens and 8)
+Papydu24 shows [Tc 3s] (Two pairs : Queens and Tens)
+Papydu24 collected 2000 from main pot
+Maxelite collected 8350 from side pot 1
+*** SUMMARY ***
+Total pot 10350 | No rake
+Board: [6d 8d Qc Ts Qd]
+Seat 4: Maxelite (small blind) showed [As 8h] and won 8350 with Two pairs : Queens and 8
+Seat 7: Papydu24 showed [Tc 3s] and won 2000 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #715279004457762882-16-1471722027 - Holdem no limit (20/100/200) - 2016/08/20 19:40:27 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #4 is the button
+Seat 1: manggy94 (9840)
+Seat 3: -weimar- (2045)
+Seat 4: Maxelite (8350)
+Seat 5: baromas32 (2715)
+Seat 6: chris622 (1210)
+Seat 7: Papydu24 (2000)
+Seat 8: ELLOKKO47 (23695)
+*** ANTE/BLINDS ***
+baromas32 posts ante 20
+chris622 posts ante 20
+manggy94 posts ante 20
+-weimar- posts ante 20
+Maxelite posts ante 20
+Papydu24 posts ante 20
+ELLOKKO47 posts ante 20
+baromas32 posts small blind 100
+chris622 posts big blind 200
+Dealt to manggy94 [Kh 6h]
+*** PRE-FLOP *** 
+Papydu24 folds
+ELLOKKO47 calls 200
+manggy94 calls 200
+-weimar- folds
+Maxelite raises 8130 to 8330 and is all-in
+baromas32 calls 2595 and is all-in
+chris622 calls 990 and is all-in
+ELLOKKO47 folds
+manggy94 folds
+*** FLOP *** [As 9s 4s]
+*** TURN *** [As 9s 4s][5c]
+*** RIVER *** [As 9s 4s 5c][2d]
+*** SHOW DOWN ***
+Maxelite shows [8d Qd] (High card : Ace)
+baromas32 shows [Qh Ks] (High card : Ace)
+chris622 shows [Ad 9c] (Two pairs : Aces and 9)
+chris622 collected 4110 from main pot
+baromas32 collected 3010 from side pot 1
+Maxelite collected 5635 from side pot 2
+*** SUMMARY ***
+Total pot 12755 | No rake
+Board: [As 9s 4s 5c 2d]
+Seat 4: Maxelite (button) showed [8d Qd] and won 5635 with High card : Ace
+Seat 5: baromas32 (small blind) showed [Qh Ks] and won 3010 with High card : Ace
+Seat 6: chris622 (big blind) showed [Ad 9c] and won 4110 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #715279004457762882-17-1471722078 - Holdem no limit (20/100/200) - 2016/08/20 19:41:18 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #5 is the button
+Seat 1: manggy94 (9620)
+Seat 2: yakuza331 (12335)
+Seat 3: -weimar- (2025)
+Seat 4: Maxelite (5635)
+Seat 5: baromas32 (3010)
+Seat 6: chris622 (4110)
+Seat 7: Papydu24 (1980)
+Seat 8: ELLOKKO47 (23475)
+*** ANTE/BLINDS ***
+chris622 posts ante 20
+Papydu24 posts ante 20
+manggy94 posts ante 20
+yakuza331 posts ante 20
+-weimar- posts ante 20
+Maxelite posts ante 20
+baromas32 posts ante 20
+ELLOKKO47 posts ante 20
+chris622 posts small blind 100
+Papydu24 posts big blind 200
+Dealt to manggy94 [Jc Th]
+*** PRE-FLOP *** 
+ELLOKKO47 folds
+manggy94 calls 200
+yakuza331 calls 200
+-weimar- raises 1805 to 2005 and is all-in
+Maxelite raises 3610 to 5615 and is all-in
+baromas32 folds
+chris622 folds
+Papydu24 folds
+manggy94 folds
+yakuza331 folds
+*** FLOP *** [5h Qc Kc]
+*** TURN *** [5h Qc Kc][Ah]
+*** RIVER *** [5h Qc Kc Ah][6c]
+*** SHOW DOWN ***
+-weimar- shows [8d Ks] (One pair : Kings)
+Maxelite shows [2s Kd] (One pair : Kings)
+Maxelite collected 3610 from side pot 1
+-weimar- collected 4870 from main pot
+*** SUMMARY ***
+Total pot 8480 | No rake
+Board: [5h Qc Kc Ah 6c]
+Seat 3: -weimar- showed [8d Ks] and won 4870 with One pair : Kings
+Seat 4: Maxelite showed [2s Kd] and won 3610 with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #715279004457762882-18-1471722139 - Holdem no limit (20/100/200) - 2016/08/20 19:42:19 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #6 is the button
+Seat 1: manggy94 (9400)
+Seat 2: yakuza331 (12115)
+Seat 3: -weimar- (4870)
+Seat 4: Maxelite (3610)
+Seat 5: baromas32 (2990)
+Seat 6: chris622 (3990)
+Seat 7: Papydu24 (1760)
+Seat 8: ELLOKKO47 (23455)
+*** ANTE/BLINDS ***
+Papydu24 posts ante 20
+ELLOKKO47 posts ante 20
+manggy94 posts ante 20
+yakuza331 posts ante 20
+-weimar- posts ante 20
+Maxelite posts ante 20
+baromas32 posts ante 20
+chris622 posts ante 20
+Papydu24 posts small blind 100
+ELLOKKO47 posts big blind 200
+Dealt to manggy94 [Ad 7c]
+*** PRE-FLOP *** 
+manggy94 raises 200 to 400
+yakuza331 calls 400
+-weimar- raises 4450 to 4850 and is all-in
+Maxelite calls 3590 and is all-in
+baromas32 folds
+chris622 calls 3970 and is all-in
+Papydu24 folds
+ELLOKKO47 folds
+manggy94 folds
+yakuza331 folds
+*** FLOP *** [3c Jc 4s]
+*** TURN *** [3c Jc 4s][Jd]
+*** RIVER *** [3c Jc 4s Jd][Tc]
+*** SHOW DOWN ***
+Maxelite shows [Qd 2s] (One pair : Jacks)
+chris622 shows [3h Ah] (Two pairs : Jacks and 3)
+-weimar- shows [5s 5d] (Two pairs : Jacks and 5)
+-weimar- collected 13670 from pot
+*** SUMMARY ***
+Total pot 13670 | No rake
+Board: [3c Jc 4s Jd Tc]
+Seat 3: -weimar- showed [5s 5d] and won 13670 with Two pairs : Jacks and 5
+Seat 4: Maxelite showed [Qd 2s] and lost with One pair : Jacks
+Seat 6: chris622 (button) showed [3h Ah] and lost with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #715279004457762882-19-1471722198 - Holdem no limit (25/125/250) - 2016/08/20 19:43:18 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (8980)
+Seat 2: yakuza331 (11695)
+Seat 3: -weimar- (13670)
+Seat 5: baromas32 (2970)
+Seat 7: Papydu24 (1640)
+Seat 8: ELLOKKO47 (23235)
+*** ANTE/BLINDS ***
+ELLOKKO47 posts ante 25
+manggy94 posts ante 25
+yakuza331 posts ante 25
+-weimar- posts ante 25
+baromas32 posts ante 25
+Papydu24 posts ante 25
+ELLOKKO47 posts small blind 125
+manggy94 posts big blind 250
+Dealt to manggy94 [5h 6c]
+*** PRE-FLOP *** 
+yakuza331 calls 250
+-weimar- calls 250
+baromas32 calls 250
+Papydu24 folds
+ELLOKKO47 calls 125
+manggy94 checks
+*** FLOP *** [Kh 2s 2d]
+ELLOKKO47 checks
+manggy94 checks
+yakuza331 checks
+-weimar- bets 375
+baromas32 folds
+ELLOKKO47 folds
+manggy94 folds
+yakuza331 folds
+-weimar- collected 1775 from pot
+*** SUMMARY ***
+Total pot 1775 | No rake
+Board: [Kh 2s 2d]
+Seat 3: -weimar- won 1775
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #715279004457762882-20-1471722250 - Holdem no limit (25/125/250) - 2016/08/20 19:44:10 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #8 is the button
+Seat 1: manggy94 (8705)
+Seat 2: yakuza331 (11420)
+Seat 3: -weimar- (14795)
+Seat 4: JOEVIC (17435)
+Seat 5: baromas32 (2695)
+Seat 6: pierrejean50 (2940)
+Seat 7: Papydu24 (1615)
+Seat 8: ELLOKKO47 (22960)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+yakuza331 posts ante 25
+-weimar- posts ante 25
+JOEVIC posts ante 25
+baromas32 posts ante 25
+pierrejean50 posts ante 25
+Papydu24 posts ante 25
+ELLOKKO47 posts ante 25
+manggy94 posts small blind 125
+yakuza331 posts big blind 250
+Dealt to manggy94 [4s 3c]
+*** PRE-FLOP *** 
+-weimar- folds
+JOEVIC raises 250 to 500
+baromas32 calls 500
+pierrejean50 calls 500
+Papydu24 folds
+ELLOKKO47 calls 500
+manggy94 calls 375
+yakuza331 calls 250
+*** FLOP *** [Kh 5h 5d]
+manggy94 checks
+yakuza331 bets 500
+JOEVIC folds
+baromas32 calls 500
+pierrejean50 folds
+ELLOKKO47 calls 500
+manggy94 folds
+*** TURN *** [Kh 5h 5d][2s]
+yakuza331 bets 1125
+baromas32 folds
+ELLOKKO47 calls 1125
+*** RIVER *** [Kh 5h 5d 2s][7d]
+yakuza331 bets 3475
+ELLOKKO47 calls 3475
+*** SHOW DOWN ***
+yakuza331 shows [4h Ah] (One pair : 5)
+ELLOKKO47 shows [Jd Kd] (Two pairs : Kings and 5)
+ELLOKKO47 collected 13900 from pot
+*** SUMMARY ***
+Total pot 13900 | No rake
+Board: [Kh 5h 5d 2s 7d]
+Seat 2: yakuza331 (big blind) showed [4h Ah] and lost with One pair : 5
+Seat 8: ELLOKKO47 (button) showed [Jd Kd] and won 13900 with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #715279004457762882-21-1471722339 - Holdem no limit (35/150/300) - 2016/08/20 19:45:39 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #1 is the button
+Seat 1: manggy94 (8180)
+Seat 2: yakuza331 (5795)
+Seat 3: -weimar- (14770)
+Seat 4: JOEVIC (16910)
+Seat 5: baromas32 (1670)
+Seat 6: pierrejean50 (2415)
+Seat 7: Papydu24 (1590)
+Seat 8: ELLOKKO47 (31235)
+*** ANTE/BLINDS ***
+yakuza331 posts ante 35
+-weimar- posts ante 35
+manggy94 posts ante 35
+JOEVIC posts ante 35
+baromas32 posts ante 35
+pierrejean50 posts ante 35
+Papydu24 posts ante 35
+ELLOKKO47 posts ante 35
+yakuza331 posts small blind 150
+-weimar- posts big blind 300
+Dealt to manggy94 [8s 5h]
+*** PRE-FLOP *** 
+JOEVIC raises 450 to 750
+baromas32 folds
+pierrejean50 folds
+Papydu24 folds
+ELLOKKO47 calls 750
+manggy94 folds
+yakuza331 calls 600
+-weimar- calls 450
+*** FLOP *** [9c 6s Kc]
+yakuza331 checks
+-weimar- checks
+JOEVIC bets 1800
+ELLOKKO47 calls 1800
+yakuza331 calls 1800
+-weimar- folds
+*** TURN *** [9c 6s Kc][Th]
+yakuza331 checks
+JOEVIC bets 5787
+ELLOKKO47 folds
+yakuza331 calls 3210 and is all-in
+*** RIVER *** [9c 6s Kc Th][4d]
+*** SHOW DOWN ***
+yakuza331 shows [3c Ac] (High card : Ace)
+JOEVIC shows [Ks Jh] (One pair : Kings)
+JOEVIC collected 17677 from pot
+*** SUMMARY ***
+Total pot 17677 | No rake
+Board: [9c 6s Kc Th 4d]
+Seat 2: yakuza331 (small blind) showed [3c Ac] and lost with High card : Ace
+Seat 4: JOEVIC showed [Ks Jh] and won 17677 with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #715279004457762882-22-1471722411 - Holdem no limit (35/150/300) - 2016/08/20 19:46:51 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #2 is the button
+Seat 1: manggy94 (8145)
+Seat 3: -weimar- (13985)
+Seat 4: JOEVIC (26215)
+Seat 5: baromas32 (1635)
+Seat 6: pierrejean50 (2380)
+Seat 7: Papydu24 (1555)
+Seat 8: ELLOKKO47 (28650)
+*** ANTE/BLINDS ***
+-weimar- posts ante 35
+JOEVIC posts ante 35
+manggy94 posts ante 35
+baromas32 posts ante 35
+pierrejean50 posts ante 35
+Papydu24 posts ante 35
+ELLOKKO47 posts ante 35
+-weimar- posts small blind 150
+JOEVIC posts big blind 300
+Dealt to manggy94 [Th 6h]
+*** PRE-FLOP *** 
+baromas32 folds
+pierrejean50 folds
+Papydu24 calls 300
+ELLOKKO47 calls 300
+manggy94 calls 300
+-weimar- raises 750 to 1050
+JOEVIC calls 750
+Papydu24 raises 470 to 1520 and is all-in
+ELLOKKO47 calls 1220
+manggy94 folds
+-weimar- calls 470
+JOEVIC calls 470
+*** FLOP *** [3c Kd Qh]
+-weimar- bets 1950
+JOEVIC calls 1950
+ELLOKKO47 folds
+*** TURN *** [3c Kd Qh][2s]
+-weimar- bets 10480 and is all-in
+JOEVIC folds
+*** RIVER *** [3c Kd Qh 2s][5s]
+*** SHOW DOWN ***
+Papydu24 shows [5h Ah] (One pair : 5)
+-weimar- shows [Qc Kh] (Two pairs : Kings and Queens)
+-weimar- collected 21005 from pot
+*** SUMMARY ***
+Total pot 21005 | No rake
+Board: [3c Kd Qh 2s 5s]
+Seat 3: -weimar- (small blind) showed [Qc Kh] and won 21005 with Two pairs : Kings and Queens
+Seat 7: Papydu24 showed [5h Ah] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #715279004457762882-23-1471722493 - Holdem no limit (35/150/300) - 2016/08/20 19:48:13 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (7810)
+Seat 3: -weimar- (21005)
+Seat 4: JOEVIC (22710)
+Seat 5: baromas32 (1600)
+Seat 6: pierrejean50 (2345)
+Seat 8: ELLOKKO47 (27095)
+*** ANTE/BLINDS ***
+JOEVIC posts ante 35
+baromas32 posts ante 35
+manggy94 posts ante 35
+-weimar- posts ante 35
+pierrejean50 posts ante 35
+ELLOKKO47 posts ante 35
+JOEVIC posts small blind 150
+baromas32 posts big blind 300
+Dealt to manggy94 [9d 4s]
+*** PRE-FLOP *** 
+pierrejean50 folds
+ELLOKKO47 raises 900 to 1200
+manggy94 folds
+-weimar- folds
+JOEVIC calls 1050
+baromas32 calls 900
+*** FLOP *** [4d Th Jd]
+JOEVIC checks
+baromas32 bets 365 and is all-in
+ELLOKKO47 raises 4540 to 4905
+JOEVIC calls 4905
+*** TURN *** [4d Th Jd][Qc]
+JOEVIC checks
+ELLOKKO47 checks
+*** RIVER *** [4d Th Jd Qc][3d]
+JOEVIC checks
+ELLOKKO47 checks
+*** SHOW DOWN ***
+JOEVIC shows [5h 4h] (One pair : 4)
+baromas32 shows [Qs 2h] (One pair : Queens)
+ELLOKKO47 shows [Jc Ks] (One pair : Jacks)
+ELLOKKO47 collected 9080 from side pot 1
+baromas32 collected 4905 from main pot
+*** SUMMARY ***
+Total pot 13985 | No rake
+Board: [4d Th Jd Qc 3d]
+Seat 4: JOEVIC (small blind) showed [5h 4h] and lost with One pair : 4
+Seat 5: baromas32 (big blind) showed [Qs 2h] and won 4905 with One pair : Queens
+Seat 8: ELLOKKO47 showed [Jc Ks] and won 9080 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #715279004457762882-24-1471722576 - Holdem no limit (40/200/400) - 2016/08/20 19:49:36 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #4 is the button
+Seat 1: manggy94 (7775)
+Seat 2: PLUCKY971 (4365)
+Seat 3: -weimar- (20970)
+Seat 4: JOEVIC (16570)
+Seat 5: baromas32 (4905)
+Seat 6: pierrejean50 (2310)
+Seat 7: Pingmanlulur (3045)
+Seat 8: ELLOKKO47 (30035)
+*** ANTE/BLINDS ***
+baromas32 posts ante 40
+pierrejean50 posts ante 40
+manggy94 posts ante 40
+PLUCKY971 posts ante 40
+-weimar- posts ante 40
+JOEVIC posts ante 40
+Pingmanlulur posts ante 40
+ELLOKKO47 posts ante 40
+baromas32 posts small blind 200
+pierrejean50 posts big blind 400
+Dealt to manggy94 [8s Td]
+*** PRE-FLOP *** 
+Pingmanlulur folds
+ELLOKKO47 calls 400
+manggy94 folds
+PLUCKY971 folds
+-weimar- calls 400
+JOEVIC calls 400
+baromas32 raises 4465 to 4865 and is all-in
+pierrejean50 folds
+ELLOKKO47 folds
+-weimar- folds
+JOEVIC calls 4465
+*** FLOP *** [7s 7c 4d]
+*** TURN *** [7s 7c 4d][Jd]
+*** RIVER *** [7s 7c 4d Jd][Kd]
+*** SHOW DOWN ***
+JOEVIC shows [2h 4h] (Two pairs : 7 and 4)
+baromas32 shows [Kc Qd] (Two pairs : Kings and 7)
+baromas32 collected 11250 from pot
+*** SUMMARY ***
+Total pot 11250 | No rake
+Board: [7s 7c 4d Jd Kd]
+Seat 4: JOEVIC (button) showed [2h 4h] and lost with Two pairs : 7 and 4
+Seat 5: baromas32 (small blind) showed [Kc Qd] and won 11250 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #715279004457762882-25-1471722670 - Holdem no limit (40/200/400) - 2016/08/20 19:51:10 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #5 is the button
+Seat 1: manggy94 (7735)
+Seat 2: PLUCKY971 (4325)
+Seat 3: -weimar- (20530)
+Seat 4: JOEVIC (11665)
+Seat 5: baromas32 (11250)
+Seat 6: pierrejean50 (1870)
+Seat 7: Pingmanlulur (3005)
+Seat 8: ELLOKKO47 (29595)
+*** ANTE/BLINDS ***
+pierrejean50 posts ante 40
+Pingmanlulur posts ante 40
+manggy94 posts ante 40
+PLUCKY971 posts ante 40
+-weimar- posts ante 40
+JOEVIC posts ante 40
+baromas32 posts ante 40
+ELLOKKO47 posts ante 40
+pierrejean50 posts small blind 200
+Pingmanlulur posts big blind 400
+Dealt to manggy94 [4d Ts]
+*** PRE-FLOP *** 
+ELLOKKO47 raises 1200 to 1600
+manggy94 folds
+PLUCKY971 folds
+-weimar- folds
+JOEVIC calls 1600
+baromas32 folds
+pierrejean50 folds
+Pingmanlulur folds
+*** FLOP *** [Ac 9s 5d]
+ELLOKKO47 bets 2060
+JOEVIC folds
+ELLOKKO47 collected 6180 from pot
+*** SUMMARY ***
+Total pot 6180 | No rake
+Board: [Ac 9s 5d]
+Seat 8: ELLOKKO47 won 6180
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #715279004457762882-26-1471722721 - Holdem no limit (50/250/500) - 2016/08/20 19:52:01 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #6 is the button
+Seat 1: manggy94 (7695)
+Seat 2: PLUCKY971 (4285)
+Seat 3: -weimar- (20490)
+Seat 4: JOEVIC (10025)
+Seat 5: baromas32 (11210)
+Seat 6: pierrejean50 (1630)
+Seat 7: Pingmanlulur (2565)
+Seat 8: ELLOKKO47 (32075)
+*** ANTE/BLINDS ***
+Pingmanlulur posts ante 50
+ELLOKKO47 posts ante 50
+manggy94 posts ante 50
+PLUCKY971 posts ante 50
+-weimar- posts ante 50
+JOEVIC posts ante 50
+baromas32 posts ante 50
+pierrejean50 posts ante 50
+Pingmanlulur posts small blind 250
+ELLOKKO47 posts big blind 500
+Dealt to manggy94 [5s 2h]
+*** PRE-FLOP *** 
+manggy94 folds
+PLUCKY971 calls 500
+-weimar- calls 500
+JOEVIC calls 500
+baromas32 calls 500
+pierrejean50 folds
+Pingmanlulur folds
+ELLOKKO47 checks
+*** FLOP *** [9s 7h 5c]
+ELLOKKO47 bets 500
+PLUCKY971 folds
+-weimar- calls 500
+JOEVIC folds
+baromas32 calls 500
+*** TURN *** [9s 7h 5c][Qd]
+ELLOKKO47 bets 2325
+-weimar- folds
+baromas32 calls 2325
+*** RIVER *** [9s 7h 5c Qd][7s]
+ELLOKKO47 bets 9300
+baromas32 folds
+ELLOKKO47 collected 18600 from pot
+*** SUMMARY ***
+Total pot 18600 | No rake
+Board: [9s 7h 5c Qd 7s]
+Seat 8: ELLOKKO47 (big blind) won 18600
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #715279004457762882-27-1471722817 - Holdem no limit (50/250/500) - 2016/08/20 19:53:37 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (7645)
+Seat 2: PLUCKY971 (3735)
+Seat 3: -weimar- (19440)
+Seat 4: JOEVIC (9475)
+Seat 5: baromas32 (7835)
+Seat 6: pierrejean50 (1580)
+Seat 7: Pingmanlulur (2265)
+Seat 8: ELLOKKO47 (38000)
+*** ANTE/BLINDS ***
+ELLOKKO47 posts ante 50
+manggy94 posts ante 50
+PLUCKY971 posts ante 50
+-weimar- posts ante 50
+JOEVIC posts ante 50
+baromas32 posts ante 50
+pierrejean50 posts ante 50
+Pingmanlulur posts ante 50
+ELLOKKO47 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [Ks 6c]
+*** PRE-FLOP *** 
+PLUCKY971 folds
+-weimar- folds
+JOEVIC raises 8925 to 9425 and is all-in
+baromas32 folds
+pierrejean50 folds
+Pingmanlulur folds
+ELLOKKO47 folds
+manggy94 folds
+JOEVIC shows [8s Kd] (High card : King)
+JOEVIC collected 10575 from pot
+*** SUMMARY ***
+Total pot 10575 | No rake
+Seat 4: JOEVIC showed [8s Kd] and won 10575 with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #715279004457762882-28-1471723201 - Holdem no limit (70/300/600) - 2016/08/20 20:00:01 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #8 is the button
+Seat 1: manggy94 (7095)
+Seat 2: PLUCKY971 (3685)
+Seat 3: -weimar- (19390)
+Seat 4: JOEVIC (10575)
+Seat 5: baromas32 (7785)
+Seat 6: pierrejean50 (1530)
+Seat 7: Pingmanlulur (2215)
+Seat 8: ELLOKKO47 (37700)
+*** ANTE/BLINDS ***
+manggy94 posts ante 70
+PLUCKY971 posts ante 70
+-weimar- posts ante 70
+JOEVIC posts ante 70
+baromas32 posts ante 70
+pierrejean50 posts ante 70
+Pingmanlulur posts ante 70
+ELLOKKO47 posts ante 70
+manggy94 posts small blind 300
+PLUCKY971 posts big blind 600
+Dealt to manggy94 [2c 2d]
+*** PRE-FLOP *** 
+-weimar- folds
+JOEVIC raises 600 to 1200
+baromas32 calls 1200
+pierrejean50 raises 260 to 1460 and is all-in
+Pingmanlulur folds
+ELLOKKO47 calls 1460
+manggy94 folds
+PLUCKY971 folds
+JOEVIC calls 260
+baromas32 calls 260
+*** FLOP *** [Th 5d Ad]
+JOEVIC bets 600
+baromas32 calls 600
+ELLOKKO47 calls 600
+*** TURN *** [Th 5d Ad][Js]
+JOEVIC bets 1200
+baromas32 calls 1200
+ELLOKKO47 calls 1200
+*** RIVER *** [Th 5d Ad Js][9c]
+JOEVIC bets 1200
+baromas32 raises 3255 to 4455 and is all-in
+ELLOKKO47 folds
+JOEVIC calls 3255
+*** SHOW DOWN ***
+JOEVIC shows [Ts Qc] (One pair : Tens)
+pierrejean50 shows [8h Jh] (One pair : Jacks)
+baromas32 shows [9h Td] (Two pairs : Tens and 9)
+baromas32 collected 21610 from pot
+*** SUMMARY ***
+Total pot 21610 | No rake
+Board: [Th 5d Ad Js 9c]
+Seat 4: JOEVIC showed [Ts Qc] and lost with One pair : Tens
+Seat 5: baromas32 showed [9h Td] and won 21610 with Two pairs : Tens and 9
+Seat 6: pierrejean50 showed [8h Jh] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #715279004457762882-29-1471723304 - Holdem no limit (70/300/600) - 2016/08/20 20:01:44 UTC
+Table: 'Freeroll(166538871)#0065' 8-max (real money) Seat #1 is the button
+Seat 1: manggy94 (6725)
+Seat 2: PLUCKY971 (3015)
+Seat 3: -weimar- (19320)
+Seat 4: JOEVIC (2790)
+Seat 5: baromas32 (21610)
+Seat 7: Pingmanlulur (2145)
+Seat 8: ELLOKKO47 (34370)
+*** ANTE/BLINDS ***
+PLUCKY971 posts ante 70
+-weimar- posts ante 70
+manggy94 posts ante 70
+JOEVIC posts ante 70
+baromas32 posts ante 70
+Pingmanlulur posts ante 70
+ELLOKKO47 posts ante 70
+PLUCKY971 posts small blind 300
+-weimar- posts big blind 600
+Dealt to manggy94 [Ks Kh]
+*** PRE-FLOP *** 
+JOEVIC folds
+baromas32 folds
+Pingmanlulur calls 600
+ELLOKKO47 calls 600
+manggy94 raises 6055 to 6655 and is all-in
+PLUCKY971 folds
+-weimar- calls 6055
+Pingmanlulur calls 1475 and is all-in
+ELLOKKO47 folds
+*** FLOP *** [7s 7h Jd]
+*** TURN *** [7s 7h Jd][9h]
+*** RIVER *** [7s 7h Jd 9h][8h]
+*** SHOW DOWN ***
+manggy94 shows [Ks Kh] (Two pairs : Kings and 7)
+Pingmanlulur shows [Qs Ac] (One pair : 7)
+-weimar- shows [Ts Ad] (Straight Jack high)
+-weimar- collected 16775 from pot
+*** SUMMARY ***
+Total pot 16775 | No rake
+Board: [7s 7h Jd 9h 8h]
+Seat 1: manggy94 (button) showed [Ks Kh] and lost with Two pairs : Kings and 7
+Seat 3: -weimar- (big blind) showed [Ts Ad] and won 16775 with Straight Jack high
+Seat 7: Pingmanlulur showed [Qs Ac] and lost with One pair : 7
+
+

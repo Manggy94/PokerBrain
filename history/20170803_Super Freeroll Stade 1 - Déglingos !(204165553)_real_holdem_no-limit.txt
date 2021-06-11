@@ -1,0 +1,41 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #876884373104754689-1-1501760566 - Holdem no limit (10/20) - 2017/08/03 11:42:46 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(204165553)#0' 6-max (real money) Seat #1 is the button
+Seat 1: inspecteurN (500)
+Seat 2: Sancho Cuba (500)
+Seat 3: Bibiligan02 (500)
+Seat 4: S Mansiet (500)
+Seat 5: manggy94 (500)
+Seat 6: TaamR (500)
+*** ANTE/BLINDS ***
+Sancho Cuba posts small blind 10
+Bibiligan02 posts big blind 20
+Dealt to manggy94 [Js 9s]
+*** PRE-FLOP *** 
+S Mansiet calls 20
+manggy94 calls 20
+TaamR folds
+inspecteurN folds
+Sancho Cuba raises 20 to 40
+Bibiligan02 folds
+S Mansiet calls 20
+manggy94 calls 20
+*** FLOP *** [Ks Qh 5c]
+Sancho Cuba bets 50
+S Mansiet raises 240 to 290
+manggy94 calls 290
+Sancho Cuba folds
+*** TURN *** [Ks Qh 5c][9h]
+S Mansiet bets 170 and is all-in
+manggy94 calls 170 and is all-in
+*** RIVER *** [Ks Qh 5c 9h][8c]
+*** SHOW DOWN ***
+manggy94 shows [Js 9s] (One pair : 9)
+S Mansiet shows [Kc 7h] (One pair : Kings)
+S Mansiet collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Board: [Ks Qh 5c 9h 8c]
+Seat 4: S Mansiet showed [Kc 7h] and won 1110 with One pair : Kings
+Seat 5: manggy94 showed [Js 9s] and lost with One pair : 9
+
+

@@ -1,0 +1,2697 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #798224065713143826-25-1487632965 - Holdem no limit (25/150/300) - 2017/02/20 23:22:45 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #1 is the button
+Seat 1: cec3484 (8259)
+Seat 2: GGBARG94 (13926)
+Seat 3: manggy94 (10000)
+Seat 4: Gannicus06 (14630)
+Seat 5: osba83 (9975)
+Seat 6: bobbylelow (9975)
+Seat 7: THE_HOT_DOG (28490)
+Seat 8: Ripeg (24745)
+*** ANTE/BLINDS ***
+GGBARG94 posts ante 25
+manggy94 posts ante 25
+cec3484 posts ante 25
+Gannicus06 posts ante 25
+osba83 posts ante 25
+bobbylelow posts ante 25
+THE_HOT_DOG posts ante 25
+Ripeg posts ante 25
+GGBARG94 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Tc 4h]
+*** PRE-FLOP *** 
+Gannicus06 calls 300
+osba83 folds
+bobbylelow folds
+THE_HOT_DOG folds
+Ripeg folds
+cec3484 calls 300
+GGBARG94 folds
+manggy94 checks
+*** FLOP *** [8d 3d Jc]
+manggy94 checks
+Gannicus06 bets 1250
+cec3484 folds
+manggy94 folds
+Gannicus06 collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Board: [8d 3d Jc]
+Seat 4: Gannicus06 won 2500
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #798224065713143826-26-1487633073 - Holdem no limit (25/150/300) - 2017/02/20 23:24:33 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #2 is the button
+Seat 1: cec3484 (7934)
+Seat 2: GGBARG94 (13751)
+Seat 3: manggy94 (9675)
+Seat 4: Gannicus06 (15555)
+Seat 5: osba83 (9950)
+Seat 6: bobbylelow (9950)
+Seat 7: THE_HOT_DOG (28465)
+Seat 8: Ripeg (24720)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+Gannicus06 posts ante 25
+cec3484 posts ante 25
+GGBARG94 posts ante 25
+osba83 posts ante 25
+bobbylelow posts ante 25
+THE_HOT_DOG posts ante 25
+Ripeg posts ante 25
+manggy94 posts small blind 150
+Gannicus06 posts big blind 300
+Dealt to manggy94 [Qd Ks]
+*** PRE-FLOP *** 
+osba83 calls 300
+bobbylelow folds
+THE_HOT_DOG folds
+Ripeg folds
+cec3484 folds
+GGBARG94 folds
+manggy94 raises 1100 to 1400
+Gannicus06 folds
+osba83 calls 1100
+*** FLOP *** [2h 9d Jh]
+manggy94 bets 2200
+osba83 raises 2200 to 4400
+manggy94 raises 3850 to 8250 and is all-in
+osba83 raises 275 to 8525 and is all-in
+*** TURN *** [2h 9d Jh][Th]
+*** RIVER *** [2h 9d Jh Th][Ah]
+*** SHOW DOWN ***
+manggy94 shows [Qd Ks] (Straight Ace high)
+osba83 shows [Js Kc] (One pair : Jacks)
+osba83 collected 275 from side pot 1
+manggy94 collected 19800 from main pot
+*** SUMMARY ***
+Total pot 20075 | No rake
+Board: [2h 9d Jh Th Ah]
+Seat 3: manggy94 (small blind) showed [Qd Ks] and won 19800 with Straight Ace high
+Seat 5: osba83 showed [Js Kc] and won 275 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #798224065713143826-27-1487633158 - Holdem no limit (25/150/300) - 2017/02/20 23:25:58 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #3 is the button
+Seat 1: cec3484 (7909)
+Seat 2: GGBARG94 (13726)
+Seat 3: manggy94 (19800)
+Seat 4: Gannicus06 (15230)
+Seat 5: osba83 (275)
+Seat 6: bobbylelow (9925)
+Seat 7: THE_HOT_DOG (28440)
+Seat 8: Ripeg (24695)
+*** ANTE/BLINDS ***
+Gannicus06 posts ante 25
+osba83 posts ante 25
+cec3484 posts ante 25
+GGBARG94 posts ante 25
+manggy94 posts ante 25
+bobbylelow posts ante 25
+THE_HOT_DOG posts ante 25
+Ripeg posts ante 25
+Gannicus06 posts small blind 150
+osba83 posts big blind 250 and is all-in
+Dealt to manggy94 [5s Kc]
+*** PRE-FLOP *** 
+bobbylelow folds
+THE_HOT_DOG folds
+Ripeg folds
+cec3484 calls 300
+GGBARG94 raises 600 to 900
+manggy94 calls 900
+Gannicus06 calls 750
+cec3484 calls 600
+*** FLOP *** [8h Ah 9d]
+Gannicus06 checks
+cec3484 checks
+GGBARG94 checks
+manggy94 checks
+*** TURN *** [8h Ah 9d][6d]
+Gannicus06 checks
+cec3484 bets 6984 and is all-in
+GGBARG94 folds
+manggy94 folds
+Gannicus06 folds
+*** RIVER *** [8h Ah 9d 6d][5d]
+*** SHOW DOWN ***
+osba83 shows [5c Th] (One pair : 5)
+cec3484 shows [3d As] (One pair : Aces)
+cec3484 collected 11034 from pot
+*** SUMMARY ***
+Total pot 11034 | No rake
+Board: [8h Ah 9d 6d 5d]
+Seat 1: cec3484 showed [3d As] and won 11034 with One pair : Aces
+Seat 5: osba83 (big blind) showed [5c Th] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #798224065713143826-28-1487633266 - Holdem no limit (30/200/400) - 2017/02/20 23:27:46 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #4 is the button
+Seat 1: cec3484 (11034)
+Seat 2: GGBARG94 (12801)
+Seat 3: manggy94 (18875)
+Seat 4: Gannicus06 (14305)
+Seat 6: bobbylelow (9900)
+Seat 7: THE_HOT_DOG (28415)
+Seat 8: Ripeg (24670)
+*** ANTE/BLINDS ***
+bobbylelow posts ante 30
+cec3484 posts ante 30
+GGBARG94 posts ante 30
+manggy94 posts ante 30
+Gannicus06 posts ante 30
+THE_HOT_DOG posts ante 30
+Ripeg posts ante 30
+bobbylelow posts big blind 400
+Dealt to manggy94 [3d 4s]
+*** PRE-FLOP *** 
+THE_HOT_DOG raises 600 to 1000
+Ripeg folds
+cec3484 folds
+GGBARG94 folds
+manggy94 folds
+Gannicus06 calls 1000
+bobbylelow folds
+*** FLOP *** [As 8s 7c]
+THE_HOT_DOG bets 1044
+Gannicus06 raises 1044 to 2088
+THE_HOT_DOG calls 1044
+*** TURN *** [As 8s 7c][4d]
+THE_HOT_DOG checks
+Gannicus06 bets 11187 and is all-in
+THE_HOT_DOG folds
+Gannicus06 collected 17973 from pot
+*** SUMMARY ***
+Total pot 17973 | No rake
+Board: [As 8s 7c 4d]
+Seat 4: Gannicus06 (button) won 17973
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #798224065713143826-29-1487633338 - Holdem no limit (30/200/400) - 2017/02/20 23:28:58 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #5 is the button
+Seat 1: cec3484 (11004)
+Seat 2: GGBARG94 (12771)
+Seat 3: manggy94 (18845)
+Seat 4: Gannicus06 (17973)
+Seat 6: bobbylelow (9470)
+Seat 7: THE_HOT_DOG (25297)
+Seat 8: Ripeg (24640)
+*** ANTE/BLINDS ***
+bobbylelow posts ante 30
+THE_HOT_DOG posts ante 30
+cec3484 posts ante 30
+GGBARG94 posts ante 30
+manggy94 posts ante 30
+Gannicus06 posts ante 30
+Ripeg posts ante 30
+bobbylelow posts small blind 200
+THE_HOT_DOG posts big blind 400
+Dealt to manggy94 [3s Qs]
+*** PRE-FLOP *** 
+Ripeg raises 800 to 1200
+cec3484 folds
+GGBARG94 folds
+manggy94 folds
+Gannicus06 folds
+bobbylelow folds
+THE_HOT_DOG folds
+Ripeg collected 2010 from pot
+*** SUMMARY ***
+Total pot 2010 | No rake
+Seat 8: Ripeg won 2010
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #798224065713143826-30-1487633376 - Holdem no limit (30/200/400) - 2017/02/20 23:29:36 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #6 is the button
+Seat 1: cec3484 (10974)
+Seat 2: GGBARG94 (12741)
+Seat 3: manggy94 (18815)
+Seat 4: Gannicus06 (17943)
+Seat 5: Boudza (10000)
+Seat 6: bobbylelow (9240)
+Seat 7: THE_HOT_DOG (24867)
+Seat 8: Ripeg (25420)
+*** ANTE/BLINDS ***
+THE_HOT_DOG posts ante 30
+Ripeg posts ante 30
+cec3484 posts ante 30
+GGBARG94 posts ante 30
+manggy94 posts ante 30
+Gannicus06 posts ante 30
+Boudza posts ante 30
+bobbylelow posts ante 30
+THE_HOT_DOG posts small blind 200
+Ripeg posts big blind 400
+Dealt to manggy94 [4c 8d]
+*** PRE-FLOP *** 
+cec3484 folds
+GGBARG94 folds
+manggy94 folds
+Gannicus06 folds
+Boudza raises 400 to 800
+bobbylelow raises 8410 to 9210 and is all-in
+THE_HOT_DOG folds
+Ripeg folds
+Boudza folds
+bobbylelow collected 10850 from pot
+*** SUMMARY ***
+Total pot 10850 | No rake
+Seat 6: bobbylelow (button) won 10850
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #798224065713143826-31-1487633451 - Holdem no limit (30/200/400) - 2017/02/20 23:30:51 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #7 is the button
+Seat 1: cec3484 (10944)
+Seat 2: GGBARG94 (12711)
+Seat 3: manggy94 (18785)
+Seat 4: Gannicus06 (17913)
+Seat 5: Boudza (9170)
+Seat 6: bobbylelow (10850)
+Seat 7: THE_HOT_DOG (24637)
+Seat 8: Ripeg (24990)
+*** ANTE/BLINDS ***
+Ripeg posts ante 30
+cec3484 posts ante 30
+GGBARG94 posts ante 30
+manggy94 posts ante 30
+Gannicus06 posts ante 30
+Boudza posts ante 30
+bobbylelow posts ante 30
+THE_HOT_DOG posts ante 30
+Ripeg posts small blind 200
+cec3484 posts big blind 400
+Dealt to manggy94 [9c 5c]
+*** PRE-FLOP *** 
+GGBARG94 folds
+manggy94 folds
+Gannicus06 folds
+Boudza raises 400 to 800
+bobbylelow folds
+THE_HOT_DOG folds
+Ripeg calls 600
+cec3484 calls 400
+*** FLOP *** [Qc 8c 4d]
+Ripeg checks
+cec3484 checks
+Boudza bets 400
+Ripeg calls 400
+cec3484 calls 400
+*** TURN *** [Qc 8c 4d][Th]
+Ripeg checks
+cec3484 bets 1600
+Boudza calls 1600
+Ripeg folds
+*** RIVER *** [Qc 8c 4d Th][Kc]
+cec3484 checks
+Boudza checks
+*** SHOW DOWN ***
+cec3484 shows [7h 8h] (One pair : 8)
+Boudza shows [Ac Kd] (One pair : Kings)
+Boudza collected 7040 from pot
+*** SUMMARY ***
+Total pot 7040 | No rake
+Board: [Qc 8c 4d Th Kc]
+Seat 1: cec3484 (big blind) showed [7h 8h] and lost with One pair : 8
+Seat 5: Boudza showed [Ac Kd] and won 7040 with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #798224065713143826-32-1487633587 - Holdem no limit (40/250/500) - 2017/02/20 23:33:07 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #8 is the button
+Seat 1: cec3484 (8114)
+Seat 2: GGBARG94 (12681)
+Seat 3: manggy94 (18755)
+Seat 4: Gannicus06 (17883)
+Seat 5: Boudza (13380)
+Seat 6: bobbylelow (10820)
+Seat 7: THE_HOT_DOG (24607)
+Seat 8: Ripeg (23760)
+*** ANTE/BLINDS ***
+cec3484 posts ante 40
+GGBARG94 posts ante 40
+manggy94 posts ante 40
+Gannicus06 posts ante 40
+Boudza posts ante 40
+bobbylelow posts ante 40
+THE_HOT_DOG posts ante 40
+Ripeg posts ante 40
+cec3484 posts small blind 250
+GGBARG94 posts big blind 500
+Dealt to manggy94 [Qs Qh]
+*** PRE-FLOP *** 
+manggy94 raises 2000 to 2500
+Gannicus06 folds
+Boudza folds
+bobbylelow folds
+THE_HOT_DOG folds
+Ripeg folds
+cec3484 raises 5574 to 8074 and is all-in
+GGBARG94 folds
+manggy94 calls 5574
+*** FLOP *** [5c Kc Ah]
+*** TURN *** [5c Kc Ah][8c]
+*** RIVER *** [5c Kc Ah 8c][5h]
+*** SHOW DOWN ***
+manggy94 shows [Qs Qh] (Two pairs : Queens and 5)
+cec3484 shows [As 8h] (Two pairs : Aces and 8)
+cec3484 collected 16968 from pot
+*** SUMMARY ***
+Total pot 16968 | No rake
+Board: [5c Kc Ah 8c 5h]
+Seat 1: cec3484 (small blind) showed [As 8h] and won 16968 with Two pairs : Aces and 8
+Seat 3: manggy94 showed [Qs Qh] and lost with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #798224065713143826-33-1487633644 - Holdem no limit (40/250/500) - 2017/02/20 23:34:04 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #1 is the button
+Seat 1: cec3484 (16968)
+Seat 2: GGBARG94 (12141)
+Seat 3: manggy94 (10641)
+Seat 4: Gannicus06 (17843)
+Seat 5: Boudza (13340)
+Seat 6: bobbylelow (10780)
+Seat 7: THE_HOT_DOG (24567)
+Seat 8: Ripeg (23720)
+*** ANTE/BLINDS ***
+GGBARG94 posts ante 40
+manggy94 posts ante 40
+cec3484 posts ante 40
+Gannicus06 posts ante 40
+Boudza posts ante 40
+bobbylelow posts ante 40
+THE_HOT_DOG posts ante 40
+Ripeg posts ante 40
+GGBARG94 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [Td 4c]
+*** PRE-FLOP *** 
+Gannicus06 folds
+Boudza folds
+bobbylelow folds
+THE_HOT_DOG folds
+Ripeg calls 500
+cec3484 calls 500
+GGBARG94 folds
+manggy94 checks
+*** FLOP *** [5d Ah Tc]
+manggy94 checks
+Ripeg bets 500
+cec3484 calls 500
+manggy94 calls 500
+*** TURN *** [5d Ah Tc][6h]
+manggy94 checks
+Ripeg bets 1500
+cec3484 calls 1500
+manggy94 folds
+*** RIVER *** [5d Ah Tc 6h][9h]
+Ripeg checks
+cec3484 bets 3000
+Ripeg calls 3000
+*** SHOW DOWN ***
+Ripeg shows [Jh Js] (One pair : Jacks)
+cec3484 shows [4h Qh] (Flush Ace high)
+cec3484 collected 12570 from pot
+*** SUMMARY ***
+Total pot 12570 | No rake
+Board: [5d Ah Tc 6h 9h]
+Seat 1: cec3484 (button) showed [4h Qh] and won 12570 with Flush Ace high
+Seat 8: Ripeg showed [Jh Js] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #798224065713143826-34-1487633729 - Holdem no limit (40/250/500) - 2017/02/20 23:35:29 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #2 is the button
+Seat 1: cec3484 (23998)
+Seat 2: GGBARG94 (11851)
+Seat 3: manggy94 (9601)
+Seat 4: Gannicus06 (17803)
+Seat 5: Boudza (13300)
+Seat 6: bobbylelow (10740)
+Seat 7: THE_HOT_DOG (24527)
+Seat 8: Ripeg (18180)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+Gannicus06 posts ante 40
+cec3484 posts ante 40
+GGBARG94 posts ante 40
+Boudza posts ante 40
+bobbylelow posts ante 40
+THE_HOT_DOG posts ante 40
+Ripeg posts ante 40
+manggy94 posts small blind 250
+Gannicus06 posts big blind 500
+Dealt to manggy94 [7c 4h]
+*** PRE-FLOP *** 
+Boudza folds
+bobbylelow folds
+THE_HOT_DOG folds
+Ripeg raises 1000 to 1500
+cec3484 folds
+GGBARG94 folds
+manggy94 folds
+Gannicus06 calls 1000
+*** FLOP *** [Ks 3c Kd]
+Gannicus06 checks
+Ripeg checks
+*** TURN *** [Ks 3c Kd][3d]
+Gannicus06 checks
+Ripeg bets 1000
+Gannicus06 raises 2785 to 3785
+Ripeg folds
+Gannicus06 collected 8355 from pot
+*** SUMMARY ***
+Total pot 8355 | No rake
+Board: [Ks 3c Kd 3d]
+Seat 4: Gannicus06 (big blind) won 8355
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #798224065713143826-35-1487633814 - Holdem no limit (40/250/500) - 2017/02/20 23:36:54 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #3 is the button
+Seat 1: cec3484 (23958)
+Seat 2: GGBARG94 (11811)
+Seat 3: manggy94 (9311)
+Seat 4: Gannicus06 (20833)
+Seat 5: Boudza (13260)
+Seat 6: bobbylelow (10700)
+Seat 7: THE_HOT_DOG (24487)
+Seat 8: Ripeg (15640)
+*** ANTE/BLINDS ***
+Gannicus06 posts ante 40
+Boudza posts ante 40
+cec3484 posts ante 40
+GGBARG94 posts ante 40
+manggy94 posts ante 40
+bobbylelow posts ante 40
+THE_HOT_DOG posts ante 40
+Ripeg posts ante 40
+Gannicus06 posts small blind 250
+Boudza posts big blind 500
+Dealt to manggy94 [As Th]
+*** PRE-FLOP *** 
+bobbylelow calls 500
+THE_HOT_DOG calls 500
+Ripeg folds
+cec3484 calls 500
+GGBARG94 folds
+manggy94 raises 3070 to 3570
+Gannicus06 folds
+Boudza folds
+bobbylelow raises 7090 to 10660 and is all-in
+THE_HOT_DOG folds
+cec3484 folds
+manggy94 calls 5701 and is all-in
+*** FLOP *** [7d 9c 3c]
+*** TURN *** [7d 9c 3c][4d]
+*** RIVER *** [7d 9c 3c 4d][7h]
+*** SHOW DOWN ***
+manggy94 shows [As Th] (One pair : 7)
+bobbylelow shows [Kh Js] (One pair : 7)
+bobbylelow collected 1389 from side pot 1
+manggy94 collected 20612 from main pot
+*** SUMMARY ***
+Total pot 22001 | No rake
+Board: [7d 9c 3c 4d 7h]
+Seat 3: manggy94 (button) showed [As Th] and won 20612 with One pair : 7
+Seat 6: bobbylelow showed [Kh Js] and won 1389 with One pair : 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #798224065713143826-36-1487633865 - Holdem no limit (40/250/500) - 2017/02/20 23:37:45 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #4 is the button
+Seat 1: cec3484 (23418)
+Seat 2: GGBARG94 (11771)
+Seat 3: manggy94 (20612)
+Seat 4: Gannicus06 (20543)
+Seat 5: Boudza (12720)
+Seat 6: bobbylelow (1389)
+Seat 7: THE_HOT_DOG (23947)
+Seat 8: Ripeg (15600)
+*** ANTE/BLINDS ***
+Boudza posts ante 40
+bobbylelow posts ante 40
+cec3484 posts ante 40
+GGBARG94 posts ante 40
+manggy94 posts ante 40
+Gannicus06 posts ante 40
+THE_HOT_DOG posts ante 40
+Ripeg posts ante 40
+Boudza posts small blind 250
+bobbylelow posts big blind 500
+Dealt to manggy94 [2c 8c]
+*** PRE-FLOP *** 
+THE_HOT_DOG folds
+Ripeg raises 500 to 1000
+cec3484 folds
+GGBARG94 raises 2000 to 3000
+manggy94 folds
+Gannicus06 folds
+Boudza folds
+bobbylelow calls 849 and is all-in
+Ripeg raises 12560 to 15560 and is all-in
+GGBARG94 calls 8731 and is all-in
+*** FLOP *** [Kc Qh 8s]
+*** TURN *** [Kc Qh 8s][Qs]
+*** RIVER *** [Kc Qh 8s Qs][Jh]
+*** SHOW DOWN ***
+GGBARG94 shows [7d 8d] (Two pairs : Queens and 8)
+bobbylelow shows [5s 8h] (Two pairs : Queens and 8)
+Ripeg shows [Qc Ad] (Trips of Queens)
+Ripeg collected 29210 from pot
+*** SUMMARY ***
+Total pot 29210 | No rake
+Board: [Kc Qh 8s Qs Jh]
+Seat 2: GGBARG94 showed [7d 8d] and lost with Two pairs : Queens and 8
+Seat 6: bobbylelow (big blind) showed [5s 8h] and lost with Two pairs : Queens and 8
+Seat 8: Ripeg showed [Qc Ad] and won 29210 with Trips of Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #798224065713143826-37-1487633937 - Holdem no limit (60/300/600) - 2017/02/20 23:38:57 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #5 is the button
+Seat 1: cec3484 (23378)
+Seat 3: manggy94 (20572)
+Seat 4: Gannicus06 (20503)
+Seat 5: Boudza (12430)
+Seat 7: THE_HOT_DOG (23907)
+Seat 8: Ripeg (29210)
+*** ANTE/BLINDS ***
+THE_HOT_DOG posts ante 60
+cec3484 posts ante 60
+manggy94 posts ante 60
+Gannicus06 posts ante 60
+Boudza posts ante 60
+Ripeg posts ante 60
+THE_HOT_DOG posts big blind 600
+Dealt to manggy94 [7s 2d]
+*** PRE-FLOP *** 
+Ripeg raises 600 to 1200
+cec3484 folds
+manggy94 folds
+Gannicus06 folds
+Boudza folds
+THE_HOT_DOG raises 1800 to 3000
+Ripeg calls 1800
+*** FLOP *** [7c 9h 3h]
+THE_HOT_DOG checks
+Ripeg bets 4240
+THE_HOT_DOG folds
+Ripeg collected 10600 from pot
+*** SUMMARY ***
+Total pot 10600 | No rake
+Board: [7c 9h 3h]
+Seat 8: Ripeg won 10600
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #798224065713143826-38-1487633973 - Holdem no limit (60/300/600) - 2017/02/20 23:39:33 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #6 is the button
+Seat 1: cec3484 (23318)
+Seat 2: Monsieur Ro (10120)
+Seat 3: manggy94 (20512)
+Seat 4: Gannicus06 (20443)
+Seat 5: Boudza (12370)
+Seat 6: Pinss11 (10000)
+Seat 7: THE_HOT_DOG (20847)
+Seat 8: Ripeg (32510)
+*** ANTE/BLINDS ***
+THE_HOT_DOG posts ante 60
+Ripeg posts ante 60
+cec3484 posts ante 60
+Monsieur Ro posts ante 60
+manggy94 posts ante 60
+Gannicus06 posts ante 60
+Boudza posts ante 60
+THE_HOT_DOG posts small blind 300
+Ripeg posts big blind 600
+Dealt to manggy94 [Jd Th]
+*** PRE-FLOP *** 
+cec3484 folds
+Monsieur Ro folds
+manggy94 calls 600
+Gannicus06 calls 600
+Boudza folds
+THE_HOT_DOG folds
+Ripeg checks
+*** FLOP *** [7d 2h 4c]
+Ripeg checks
+manggy94 checks
+Gannicus06 checks
+*** TURN *** [7d 2h 4c][Kh]
+Ripeg checks
+manggy94 checks
+Gannicus06 checks
+*** RIVER *** [7d 2h 4c Kh][9h]
+Ripeg checks
+manggy94 checks
+Gannicus06 bets 2520
+Ripeg folds
+manggy94 folds
+Gannicus06 collected 5040 from pot
+*** SUMMARY ***
+Total pot 5040 | No rake
+Board: [7d 2h 4c Kh 9h]
+Seat 4: Gannicus06 won 5040
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #798224065713143826-39-1487634068 - Holdem no limit (60/300/600) - 2017/02/20 23:41:08 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #7 is the button
+Seat 1: cec3484 (23258)
+Seat 2: Monsieur Ro (10060)
+Seat 3: manggy94 (19852)
+Seat 4: Gannicus06 (22303)
+Seat 5: Boudza (12310)
+Seat 6: Pinss11 (10000)
+Seat 7: THE_HOT_DOG (20487)
+Seat 8: Ripeg (31850)
+*** ANTE/BLINDS ***
+Ripeg posts ante 60
+cec3484 posts ante 60
+Monsieur Ro posts ante 60
+manggy94 posts ante 60
+Gannicus06 posts ante 60
+Boudza posts ante 60
+Pinss11 posts ante 60
+THE_HOT_DOG posts ante 60
+Ripeg posts small blind 300
+cec3484 posts big blind 600
+Dealt to manggy94 [2s 7c]
+*** PRE-FLOP *** 
+Monsieur Ro folds
+manggy94 folds
+Gannicus06 calls 600
+Boudza calls 600
+Pinss11 calls 600
+THE_HOT_DOG raises 4500 to 5100
+Ripeg folds
+cec3484 raises 18098 to 23198 and is all-in
+Gannicus06 folds
+Boudza folds
+Pinss11 folds
+THE_HOT_DOG calls 15327 and is all-in
+*** FLOP *** [Td 6h Qh]
+*** TURN *** [Td 6h Qh][7h]
+*** RIVER *** [Td 6h Qh 7h][3s]
+*** SHOW DOWN ***
+THE_HOT_DOG shows [Kd As] (High card : Ace)
+cec3484 shows [Jd Jc] (One pair : Jacks)
+cec3484 collected 46205 from pot
+*** SUMMARY ***
+Total pot 46205 | No rake
+Board: [Td 6h Qh 7h 3s]
+Seat 1: cec3484 (big blind) showed [Jd Jc] and won 46205 with One pair : Jacks
+Seat 7: THE_HOT_DOG (button) showed [Kd As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #798224065713143826-40-1487634186 - Holdem no limit (60/300/600) - 2017/02/20 23:43:06 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #8 is the button
+Seat 1: cec3484 (46205)
+Seat 2: Monsieur Ro (10000)
+Seat 3: manggy94 (19792)
+Seat 4: Gannicus06 (21643)
+Seat 5: Boudza (11650)
+Seat 6: Pinss11 (9340)
+Seat 8: Ripeg (31490)
+*** ANTE/BLINDS ***
+cec3484 posts ante 60
+Monsieur Ro posts ante 60
+manggy94 posts ante 60
+Gannicus06 posts ante 60
+Boudza posts ante 60
+Pinss11 posts ante 60
+Ripeg posts ante 60
+cec3484 posts small blind 300
+Monsieur Ro posts big blind 600
+Dealt to manggy94 [Qc Qd]
+*** PRE-FLOP *** 
+manggy94 raises 2400 to 3000
+Gannicus06 folds
+Boudza folds
+Pinss11 folds
+Ripeg folds
+cec3484 folds
+Monsieur Ro folds
+manggy94 collected 4320 from pot
+*** SUMMARY ***
+Total pot 4320 | No rake
+Seat 3: manggy94 won 4320
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 9 - HandId: #798224065713143826-41-1487634233 - Holdem no limit (60/300/600) - 2017/02/20 23:43:53 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #1 is the button
+Seat 1: cec3484 (45845)
+Seat 2: Monsieur Ro (9340)
+Seat 3: manggy94 (21052)
+Seat 4: Gannicus06 (21583)
+Seat 5: Boudza (11590)
+Seat 6: Pinss11 (9280)
+Seat 7: ouadou59 (10000)
+Seat 8: Ripeg (31430)
+*** ANTE/BLINDS ***
+Monsieur Ro posts ante 60
+manggy94 posts ante 60
+cec3484 posts ante 60
+Gannicus06 posts ante 60
+Boudza posts ante 60
+Pinss11 posts ante 60
+ouadou59 posts ante 60
+Ripeg posts ante 60
+Monsieur Ro posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [7d Th]
+*** PRE-FLOP *** 
+Gannicus06 calls 600
+Boudza calls 600
+Pinss11 raises 600 to 1200
+ouadou59 raises 8740 to 9940 and is all-in
+Ripeg folds
+cec3484 folds
+Monsieur Ro folds
+manggy94 folds
+Gannicus06 folds
+Boudza folds
+Pinss11 calls 8020 and is all-in
+*** FLOP *** [7c 6c 9h]
+*** TURN *** [7c 6c 9h][8h]
+*** RIVER *** [7c 6c 9h 8h][5d]
+*** SHOW DOWN ***
+Pinss11 shows [Ac As] (Straight 9 high)
+ouadou59 shows [8d 8s] (Straight 9 high)
+ouadou59 collected 11230 from side pot 1
+Pinss11 collected 10510 from main pot
+*** SUMMARY ***
+Total pot 21740 | No rake
+Board: [7c 6c 9h 8h 5d]
+Seat 6: Pinss11 showed [Ac As] and won 10510 with Straight 9 high
+Seat 7: ouadou59 showed [8d 8s] and won 11230 with Straight 9 high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #798224065713143826-42-1487634292 - Holdem no limit (75/400/800) - 2017/02/20 23:44:52 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #2 is the button
+Seat 1: cec3484 (45785)
+Seat 2: Monsieur Ro (8980)
+Seat 3: manggy94 (20392)
+Seat 4: Gannicus06 (20923)
+Seat 5: Boudza (10930)
+Seat 6: Pinss11 (10510)
+Seat 7: ouadou59 (11230)
+Seat 8: Ripeg (31370)
+*** ANTE/BLINDS ***
+manggy94 posts ante 75
+Gannicus06 posts ante 75
+cec3484 posts ante 75
+Monsieur Ro posts ante 75
+Boudza posts ante 75
+Pinss11 posts ante 75
+ouadou59 posts ante 75
+Ripeg posts ante 75
+manggy94 posts small blind 400
+Gannicus06 posts big blind 800
+Dealt to manggy94 [6d 7d]
+*** PRE-FLOP *** 
+Boudza folds
+Pinss11 folds
+ouadou59 folds
+Ripeg raises 800 to 1600
+cec3484 folds
+Monsieur Ro calls 1600
+manggy94 folds
+Gannicus06 calls 800
+*** FLOP *** [3h 5h 9h]
+Gannicus06 checks
+Ripeg bets 3867
+Monsieur Ro raises 3438 to 7305 and is all-in
+Gannicus06 calls 7305
+Ripeg calls 3438
+*** TURN *** [3h 5h 9h][4h]
+Gannicus06 checks
+Ripeg checks
+*** RIVER *** [3h 5h 9h 4h][Td]
+Gannicus06 checks
+Ripeg checks
+*** SHOW DOWN ***
+Monsieur Ro shows [As 3s] (One pair : 3)
+Ripeg shows [Qs Qd] (One pair : Queens)
+Gannicus06 shows [9s 5s] (Two pairs : 9 and 5)
+Gannicus06 collected 27715 from pot
+*** SUMMARY ***
+Total pot 27715 | No rake
+Board: [3h 5h 9h 4h Td]
+Seat 2: Monsieur Ro (button) showed [As 3s] and lost with One pair : 3
+Seat 4: Gannicus06 (big blind) showed [9s 5s] and won 27715 with Two pairs : 9 and 5
+Seat 8: Ripeg showed [Qs Qd] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #798224065713143826-43-1487634357 - Holdem no limit (75/400/800) - 2017/02/20 23:45:57 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #3 is the button
+Seat 1: cec3484 (45710)
+Seat 3: manggy94 (19917)
+Seat 4: Gannicus06 (39658)
+Seat 5: Boudza (10855)
+Seat 6: Pinss11 (10435)
+Seat 7: ouadou59 (11155)
+Seat 8: Ripeg (22390)
+*** ANTE/BLINDS ***
+Gannicus06 posts ante 75
+Boudza posts ante 75
+cec3484 posts ante 75
+manggy94 posts ante 75
+Pinss11 posts ante 75
+ouadou59 posts ante 75
+Ripeg posts ante 75
+Gannicus06 posts small blind 400
+Boudza posts big blind 800
+Dealt to manggy94 [Jh 6c]
+*** PRE-FLOP *** 
+Pinss11 folds
+ouadou59 raises 800 to 1600
+Ripeg folds
+cec3484 folds
+manggy94 folds
+Gannicus06 folds
+Boudza folds
+ouadou59 collected 3325 from pot
+*** SUMMARY ***
+Total pot 3325 | No rake
+Seat 7: ouadou59 won 3325
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #798224065713143826-44-1487634391 - Holdem no limit (75/400/800) - 2017/02/20 23:46:31 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #4 is the button
+Seat 1: cec3484 (45635)
+Seat 2: pot-de-call (8546)
+Seat 3: manggy94 (19842)
+Seat 4: Gannicus06 (39183)
+Seat 5: Boudza (9980)
+Seat 6: Pinss11 (10360)
+Seat 7: ouadou59 (12805)
+Seat 8: Ripeg (22315)
+*** ANTE/BLINDS ***
+Boudza posts ante 75
+Pinss11 posts ante 75
+cec3484 posts ante 75
+pot-de-call posts ante 75
+manggy94 posts ante 75
+Gannicus06 posts ante 75
+ouadou59 posts ante 75
+Ripeg posts ante 75
+Boudza posts small blind 400
+Pinss11 posts big blind 800
+Dealt to manggy94 [7d 4d]
+*** PRE-FLOP *** 
+ouadou59 folds
+Ripeg folds
+cec3484 folds
+pot-de-call raises 7671 to 8471 and is all-in
+manggy94 folds
+Gannicus06 folds
+Boudza folds
+Pinss11 folds
+pot-de-call collected 10271 from pot
+*** SUMMARY ***
+Total pot 10271 | No rake
+Seat 2: pot-de-call won 10271
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #798224065713143826-45-1487634429 - Holdem no limit (75/400/800) - 2017/02/20 23:47:09 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #5 is the button
+Seat 1: cec3484 (45560)
+Seat 2: pot-de-call (10271)
+Seat 3: manggy94 (19767)
+Seat 4: Gannicus06 (39108)
+Seat 5: Boudza (9505)
+Seat 6: Pinss11 (9485)
+Seat 7: ouadou59 (12730)
+Seat 8: Ripeg (22240)
+*** ANTE/BLINDS ***
+Pinss11 posts ante 75
+ouadou59 posts ante 75
+cec3484 posts ante 75
+pot-de-call posts ante 75
+manggy94 posts ante 75
+Gannicus06 posts ante 75
+Boudza posts ante 75
+Ripeg posts ante 75
+Pinss11 posts small blind 400
+ouadou59 posts big blind 800
+Dealt to manggy94 [2s 5h]
+*** PRE-FLOP *** 
+Ripeg raises 1200 to 2000
+cec3484 calls 2000
+pot-de-call folds
+manggy94 folds
+Gannicus06 folds
+Boudza folds
+Pinss11 folds
+ouadou59 raises 10655 to 12655 and is all-in
+Ripeg calls 10655
+cec3484 folds
+*** FLOP *** [Kd Qs 2c]
+*** TURN *** [Kd Qs 2c][Ac]
+*** RIVER *** [Kd Qs 2c Ac][Js]
+*** SHOW DOWN ***
+ouadou59 shows [8s 8c] (One pair : 8)
+Ripeg shows [4s As] (One pair : Aces)
+Ripeg collected 28310 from pot
+*** SUMMARY ***
+Total pot 28310 | No rake
+Board: [Kd Qs 2c Ac Js]
+Seat 7: ouadou59 (big blind) showed [8s 8c] and lost with One pair : 8
+Seat 8: Ripeg showed [4s As] and won 28310 with One pair : Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 10 - HandId: #798224065713143826-46-1487634492 - Holdem no limit (75/400/800) - 2017/02/20 23:48:12 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #6 is the button
+Seat 1: cec3484 (43485)
+Seat 2: pot-de-call (10196)
+Seat 3: manggy94 (19692)
+Seat 4: Gannicus06 (39033)
+Seat 5: Boudza (9430)
+Seat 6: Pinss11 (9010)
+Seat 8: Ripeg (37820)
+*** ANTE/BLINDS ***
+Ripeg posts ante 75
+cec3484 posts ante 75
+pot-de-call posts ante 75
+manggy94 posts ante 75
+Gannicus06 posts ante 75
+Boudza posts ante 75
+Pinss11 posts ante 75
+Ripeg posts big blind 800
+Dealt to manggy94 [8c 2d]
+*** PRE-FLOP *** 
+cec3484 folds
+pot-de-call folds
+manggy94 folds
+Gannicus06 folds
+Boudza folds
+Pinss11 folds
+Ripeg collected 1325 from pot
+*** SUMMARY ***
+Total pot 1325 | No rake
+Seat 8: Ripeg (big blind) won 1325
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #798224065713143826-47-1487634617 - Holdem no limit (100/500/1000) - 2017/02/20 23:50:17 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #7 is the button
+Seat 1: cec3484 (43410)
+Seat 2: pot-de-call (10121)
+Seat 3: manggy94 (19617)
+Seat 4: Gannicus06 (38958)
+Seat 5: Boudza (9355)
+Seat 6: Pinss11 (8935)
+Seat 7: 7BaDBaT7 (16400)
+Seat 8: Ripeg (38270)
+*** ANTE/BLINDS ***
+Ripeg posts ante 100
+cec3484 posts ante 100
+pot-de-call posts ante 100
+manggy94 posts ante 100
+Gannicus06 posts ante 100
+Boudza posts ante 100
+Pinss11 posts ante 100
+Ripeg posts small blind 500
+cec3484 posts big blind 1000
+Dealt to manggy94 [9s Th]
+*** PRE-FLOP *** 
+pot-de-call folds
+manggy94 folds
+Gannicus06 raises 3000 to 4000
+Boudza folds
+Pinss11 folds
+Ripeg folds
+cec3484 folds
+Gannicus06 collected 6200 from pot
+*** SUMMARY ***
+Total pot 6200 | No rake
+Seat 4: Gannicus06 won 6200
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #798224065713143826-48-1487634681 - Holdem no limit (100/500/1000) - 2017/02/20 23:51:21 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #8 is the button
+Seat 1: cec3484 (42310)
+Seat 2: pot-de-call (10021)
+Seat 3: manggy94 (19517)
+Seat 4: Gannicus06 (41058)
+Seat 5: Boudza (9255)
+Seat 6: Pinss11 (8835)
+Seat 7: 7BaDBaT7 (16400)
+Seat 8: Ripeg (37670)
+*** ANTE/BLINDS ***
+cec3484 posts ante 100
+pot-de-call posts ante 100
+manggy94 posts ante 100
+Gannicus06 posts ante 100
+Boudza posts ante 100
+Pinss11 posts ante 100
+7BaDBaT7 posts ante 100
+Ripeg posts ante 100
+cec3484 posts small blind 500
+pot-de-call posts big blind 1000
+Dealt to manggy94 [Qs 6d]
+*** PRE-FLOP *** 
+manggy94 folds
+Gannicus06 folds
+Boudza folds
+Pinss11 raises 7735 to 8735 and is all-in
+7BaDBaT7 folds
+Ripeg folds
+cec3484 calls 8235
+pot-de-call folds
+*** FLOP *** [5h 2h Ts]
+*** TURN *** [5h 2h Ts][7s]
+*** RIVER *** [5h 2h Ts 7s][Tc]
+*** SHOW DOWN ***
+cec3484 shows [4c Ac] (One pair : Tens)
+Pinss11 shows [Qh Ah] (One pair : Tens)
+Pinss11 collected 19270 from pot
+*** SUMMARY ***
+Total pot 19270 | No rake
+Board: [5h 2h Ts 7s Tc]
+Seat 1: cec3484 (small blind) showed [4c Ac] and lost with One pair : Tens
+Seat 6: Pinss11 showed [Qh Ah] and won 19270 with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #798224065713143826-49-1487634728 - Holdem no limit (100/500/1000) - 2017/02/20 23:52:08 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #1 is the button
+Seat 1: cec3484 (33475)
+Seat 2: pot-de-call (8921)
+Seat 3: manggy94 (19417)
+Seat 4: Gannicus06 (40958)
+Seat 5: Boudza (9155)
+Seat 6: Pinss11 (19270)
+Seat 7: 7BaDBaT7 (16300)
+Seat 8: Ripeg (37570)
+*** ANTE/BLINDS ***
+pot-de-call posts ante 100
+manggy94 posts ante 100
+cec3484 posts ante 100
+Gannicus06 posts ante 100
+Boudza posts ante 100
+Pinss11 posts ante 100
+7BaDBaT7 posts ante 100
+Ripeg posts ante 100
+pot-de-call posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [7h 4s]
+*** PRE-FLOP *** 
+Gannicus06 calls 1000
+Boudza folds
+Pinss11 folds
+7BaDBaT7 folds
+Ripeg folds
+cec3484 calls 1000
+pot-de-call raises 7821 to 8821 and is all-in
+manggy94 folds
+Gannicus06 calls 7821
+cec3484 folds
+*** FLOP *** [Ks 7c 5c]
+*** TURN *** [Ks 7c 5c][Ac]
+*** RIVER *** [Ks 7c 5c Ac][4h]
+*** SHOW DOWN ***
+Gannicus06 shows [Jd Qs] (High card : Ace)
+pot-de-call shows [Qh Qd] (One pair : Queens)
+pot-de-call collected 20442 from pot
+*** SUMMARY ***
+Total pot 20442 | No rake
+Board: [Ks 7c 5c Ac 4h]
+Seat 2: pot-de-call (small blind) showed [Qh Qd] and won 20442 with One pair : Queens
+Seat 4: Gannicus06 showed [Jd Qs] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #798224065713143826-50-1487634788 - Holdem no limit (100/500/1000) - 2017/02/20 23:53:08 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #2 is the button
+Seat 1: cec3484 (32375)
+Seat 2: pot-de-call (20442)
+Seat 3: manggy94 (18317)
+Seat 4: Gannicus06 (32037)
+Seat 5: Boudza (9055)
+Seat 6: Pinss11 (19170)
+Seat 7: 7BaDBaT7 (16200)
+Seat 8: Ripeg (37470)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+Gannicus06 posts ante 100
+cec3484 posts ante 100
+pot-de-call posts ante 100
+Boudza posts ante 100
+Pinss11 posts ante 100
+7BaDBaT7 posts ante 100
+Ripeg posts ante 100
+manggy94 posts small blind 500
+Gannicus06 posts big blind 1000
+Dealt to manggy94 [6d Ac]
+*** PRE-FLOP *** 
+Boudza folds
+Pinss11 folds
+7BaDBaT7 folds
+Ripeg folds
+cec3484 folds
+pot-de-call folds
+manggy94 calls 500
+Gannicus06 checks
+*** FLOP *** [Td 4c Kh]
+manggy94 checks
+Gannicus06 checks
+*** TURN *** [Td 4c Kh][2c]
+manggy94 checks
+Gannicus06 bets 2800
+manggy94 folds
+Gannicus06 collected 5600 from pot
+*** SUMMARY ***
+Total pot 5600 | No rake
+Board: [Td 4c Kh 2c]
+Seat 4: Gannicus06 (big blind) won 5600
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #798224065713143826-51-1487634859 - Holdem no limit (100/500/1000) - 2017/02/20 23:54:19 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #3 is the button
+Seat 1: cec3484 (32275)
+Seat 2: pot-de-call (20342)
+Seat 3: manggy94 (17217)
+Seat 4: Gannicus06 (33737)
+Seat 5: Boudza (8955)
+Seat 6: Pinss11 (19070)
+Seat 7: 7BaDBaT7 (16100)
+Seat 8: Ripeg (37370)
+*** ANTE/BLINDS ***
+Gannicus06 posts ante 100
+Boudza posts ante 100
+cec3484 posts ante 100
+pot-de-call posts ante 100
+manggy94 posts ante 100
+Pinss11 posts ante 100
+7BaDBaT7 posts ante 100
+Ripeg posts ante 100
+Gannicus06 posts small blind 500
+Boudza posts big blind 1000
+Dealt to manggy94 [Qs 8h]
+*** PRE-FLOP *** 
+Pinss11 folds
+7BaDBaT7 folds
+Ripeg calls 1000
+cec3484 folds
+pot-de-call raises 1550 to 2550
+manggy94 folds
+Gannicus06 calls 2050
+Boudza folds
+Ripeg calls 1550
+*** FLOP *** [Jd 6s 3h]
+Gannicus06 checks
+Ripeg bets 4725
+pot-de-call folds
+Gannicus06 calls 4725
+*** TURN *** [Jd 6s 3h][2s]
+Gannicus06 checks
+Ripeg bets 4500
+Gannicus06 calls 4500
+*** RIVER *** [Jd 6s 3h 2s][Kc]
+Gannicus06 checks
+Ripeg checks
+*** SHOW DOWN ***
+Ripeg shows [Tc 6c] (One pair : 6)
+Gannicus06 shows [7s 7h] (One pair : 7)
+Gannicus06 collected 27900 from pot
+*** SUMMARY ***
+Total pot 27900 | No rake
+Board: [Jd 6s 3h 2s Kc]
+Seat 4: Gannicus06 (small blind) showed [7s 7h] and won 27900 with One pair : 7
+Seat 8: Ripeg showed [Tc 6c] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 11 - HandId: #798224065713143826-52-1487635202 - Holdem no limit (100/500/1000) - 2017/02/21 00:00:02 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #4 is the button
+Seat 1: cec3484 (32175)
+Seat 2: pot-de-call (17692)
+Seat 3: manggy94 (17117)
+Seat 4: Gannicus06 (49762)
+Seat 5: Boudza (7855)
+Seat 6: Pinss11 (18970)
+Seat 7: 7BaDBaT7 (16000)
+Seat 8: Ripeg (25495)
+*** ANTE/BLINDS ***
+Boudza posts ante 100
+Pinss11 posts ante 100
+cec3484 posts ante 100
+pot-de-call posts ante 100
+manggy94 posts ante 100
+Gannicus06 posts ante 100
+7BaDBaT7 posts ante 100
+Ripeg posts ante 100
+Boudza posts small blind 500
+Pinss11 posts big blind 1000
+Dealt to manggy94 [Jc 7d]
+*** PRE-FLOP *** 
+7BaDBaT7 folds
+Ripeg folds
+cec3484 folds
+pot-de-call folds
+manggy94 folds
+Gannicus06 raises 1000 to 2000
+Boudza folds
+Pinss11 calls 1000
+*** FLOP *** [6h Qc 2d]
+Pinss11 checks
+Gannicus06 checks
+*** TURN *** [6h Qc 2d][4s]
+Pinss11 checks
+Gannicus06 bets 2650
+Pinss11 folds
+Gannicus06 collected 7950 from pot
+*** SUMMARY ***
+Total pot 7950 | No rake
+Board: [6h Qc 2d 4s]
+Seat 4: Gannicus06 (button) won 7950
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #798224065713143826-53-1487635360 - Holdem no limit (150/600/1200) - 2017/02/21 00:02:40 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #5 is the button
+Seat 1: cec3484 (32075)
+Seat 2: pot-de-call (17592)
+Seat 3: manggy94 (17017)
+Seat 4: Gannicus06 (52962)
+Seat 5: Boudza (7255)
+Seat 6: Pinss11 (16870)
+Seat 7: 7BaDBaT7 (15900)
+Seat 8: Ripeg (25395)
+*** ANTE/BLINDS ***
+Pinss11 posts ante 150
+7BaDBaT7 posts ante 150
+cec3484 posts ante 150
+pot-de-call posts ante 150
+manggy94 posts ante 150
+Gannicus06 posts ante 150
+Boudza posts ante 150
+Ripeg posts ante 150
+Pinss11 posts small blind 600
+7BaDBaT7 posts big blind 1200
+Dealt to manggy94 [4c 9d]
+*** PRE-FLOP *** 
+Ripeg folds
+cec3484 folds
+pot-de-call folds
+manggy94 folds
+Gannicus06 folds
+Boudza raises 5827 to 7027
+Pinss11 folds
+7BaDBaT7 folds
+Boudza collected 10027 from pot
+*** SUMMARY ***
+Total pot 10027 | No rake
+Seat 5: Boudza (button) won 10027
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #798224065713143826-54-1487635397 - Holdem no limit (150/600/1200) - 2017/02/21 00:03:17 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #6 is the button
+Seat 1: cec3484 (31925)
+Seat 2: pot-de-call (17442)
+Seat 3: manggy94 (16867)
+Seat 4: Gannicus06 (52812)
+Seat 5: Boudza (10105)
+Seat 6: Pinss11 (16120)
+Seat 7: 7BaDBaT7 (14550)
+Seat 8: Ripeg (25245)
+*** ANTE/BLINDS ***
+7BaDBaT7 posts ante 150
+Ripeg posts ante 150
+cec3484 posts ante 150
+pot-de-call posts ante 150
+manggy94 posts ante 150
+Gannicus06 posts ante 150
+Boudza posts ante 150
+Pinss11 posts ante 150
+7BaDBaT7 posts small blind 600
+Ripeg posts big blind 1200
+Dealt to manggy94 [4s Qs]
+*** PRE-FLOP *** 
+cec3484 folds
+pot-de-call raises 16092 to 17292 and is all-in
+manggy94 folds
+Gannicus06 folds
+Boudza folds
+Pinss11 folds
+7BaDBaT7 folds
+Ripeg folds
+pot-de-call collected 20292 from pot
+*** SUMMARY ***
+Total pot 20292 | No rake
+Seat 2: pot-de-call won 20292
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #798224065713143826-55-1487635430 - Holdem no limit (150/600/1200) - 2017/02/21 00:03:50 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #7 is the button
+Seat 1: cec3484 (31775)
+Seat 2: pot-de-call (20292)
+Seat 3: manggy94 (16717)
+Seat 4: Gannicus06 (52662)
+Seat 5: Boudza (9955)
+Seat 6: Pinss11 (15970)
+Seat 7: 7BaDBaT7 (13800)
+Seat 8: Ripeg (23895)
+*** ANTE/BLINDS ***
+Ripeg posts ante 150
+cec3484 posts ante 150
+pot-de-call posts ante 150
+manggy94 posts ante 150
+Gannicus06 posts ante 150
+Boudza posts ante 150
+Pinss11 posts ante 150
+7BaDBaT7 posts ante 150
+Ripeg posts small blind 600
+cec3484 posts big blind 1200
+Dealt to manggy94 [Jc Ts]
+*** PRE-FLOP *** 
+pot-de-call folds
+manggy94 folds
+Gannicus06 calls 1200
+Boudza folds
+Pinss11 raises 14620 to 15820 and is all-in
+7BaDBaT7 folds
+Ripeg folds
+cec3484 folds
+Gannicus06 folds
+Pinss11 collected 20020 from pot
+*** SUMMARY ***
+Total pot 20020 | No rake
+Seat 6: Pinss11 won 20020
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #798224065713143826-56-1487635472 - Holdem no limit (150/600/1200) - 2017/02/21 00:04:32 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #8 is the button
+Seat 1: cec3484 (30425)
+Seat 2: pot-de-call (20142)
+Seat 3: manggy94 (16567)
+Seat 4: Gannicus06 (51312)
+Seat 5: Boudza (9805)
+Seat 6: Pinss11 (20020)
+Seat 7: 7BaDBaT7 (13650)
+Seat 8: Ripeg (23145)
+*** ANTE/BLINDS ***
+cec3484 posts ante 150
+pot-de-call posts ante 150
+manggy94 posts ante 150
+Gannicus06 posts ante 150
+Boudza posts ante 150
+Pinss11 posts ante 150
+7BaDBaT7 posts ante 150
+Ripeg posts ante 150
+cec3484 posts small blind 600
+pot-de-call posts big blind 1200
+Dealt to manggy94 [Th 7h]
+*** PRE-FLOP *** 
+manggy94 folds
+Gannicus06 folds
+Boudza folds
+Pinss11 folds
+7BaDBaT7 folds
+Ripeg folds
+cec3484 folds
+pot-de-call collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Seat 2: pot-de-call (big blind) won 3000
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #798224065713143826-57-1487635515 - Holdem no limit (150/600/1200) - 2017/02/21 00:05:15 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #1 is the button
+Seat 1: cec3484 (29675)
+Seat 2: pot-de-call (21792)
+Seat 3: manggy94 (16417)
+Seat 4: Gannicus06 (51162)
+Seat 5: Boudza (9655)
+Seat 6: Pinss11 (19870)
+Seat 7: 7BaDBaT7 (13500)
+Seat 8: Ripeg (22995)
+*** ANTE/BLINDS ***
+pot-de-call posts ante 150
+manggy94 posts ante 150
+cec3484 posts ante 150
+Gannicus06 posts ante 150
+Boudza posts ante 150
+Pinss11 posts ante 150
+7BaDBaT7 posts ante 150
+Ripeg posts ante 150
+pot-de-call posts small blind 600
+manggy94 posts big blind 1200
+Dealt to manggy94 [Ac Qs]
+*** PRE-FLOP *** 
+Gannicus06 folds
+Boudza folds
+Pinss11 folds
+7BaDBaT7 folds
+Ripeg raises 1200 to 2400
+cec3484 folds
+pot-de-call folds
+manggy94 raises 6600 to 9000
+Ripeg calls 6600
+*** FLOP *** [As Kh 4s]
+manggy94 checks
+Ripeg bets 9900
+manggy94 calls 7267 and is all-in
+*** TURN *** [As Kh 4s][Kd]
+*** RIVER *** [As Kh 4s Kd][Jh]
+*** SHOW DOWN ***
+manggy94 shows [Ac Qs] (Two pairs : Aces and Kings)
+Ripeg shows [9d 8d] (One pair : Kings)
+Ripeg collected 2633 from side pot 1
+manggy94 collected 34334 from main pot
+*** SUMMARY ***
+Total pot 36967 | No rake
+Board: [As Kh 4s Kd Jh]
+Seat 3: manggy94 (big blind) showed [Ac Qs] and won 34334 with Two pairs : Aces and Kings
+Seat 8: Ripeg showed [9d 8d] and won 2633 with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 12 - HandId: #798224065713143826-58-1487635570 - Holdem no limit (150/600/1200) - 2017/02/21 00:06:10 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #2 is the button
+Seat 1: cec3484 (29525)
+Seat 2: pot-de-call (21042)
+Seat 3: manggy94 (34334)
+Seat 4: Gannicus06 (51012)
+Seat 5: Boudza (9505)
+Seat 6: Pinss11 (19720)
+Seat 7: 7BaDBaT7 (13350)
+Seat 8: Ripeg (6578)
+*** ANTE/BLINDS ***
+manggy94 posts ante 150
+Gannicus06 posts ante 150
+cec3484 posts ante 150
+pot-de-call posts ante 150
+Boudza posts ante 150
+Pinss11 posts ante 150
+7BaDBaT7 posts ante 150
+Ripeg posts ante 150
+manggy94 posts small blind 600
+Gannicus06 posts big blind 1200
+Dealt to manggy94 [4h 7s]
+*** PRE-FLOP *** 
+Boudza calls 1200
+Pinss11 folds
+7BaDBaT7 calls 1200
+Ripeg raises 5228 to 6428 and is all-in
+cec3484 calls 6428
+pot-de-call folds
+manggy94 folds
+Gannicus06 folds
+Boudza calls 5228
+7BaDBaT7 folds
+*** FLOP *** [8d 9d 2c]
+Boudza bets 2927 and is all-in
+cec3484 calls 2927
+*** TURN *** [8d 9d 2c][2h]
+*** RIVER *** [8d 9d 2c 2h][Qs]
+*** SHOW DOWN ***
+cec3484 shows [Ad 3d] (One pair : 2)
+Ripeg shows [3h Ah] (One pair : 2)
+Boudza shows [Kh 9c] (Two pairs : 9 and 2)
+Boudza collected 29338 from pot
+*** SUMMARY ***
+Total pot 29338 | No rake
+Board: [8d 9d 2c 2h Qs]
+Seat 1: cec3484 showed [Ad 3d] and lost with One pair : 2
+Seat 5: Boudza showed [Kh 9c] and won 29338 with Two pairs : 9 and 2
+Seat 8: Ripeg showed [3h Ah] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #798224065713143826-59-1487635665 - Holdem no limit (180/800/1600) - 2017/02/21 00:07:45 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #3 is the button
+Seat 1: cec3484 (20020)
+Seat 2: pot-de-call (20892)
+Seat 3: manggy94 (33584)
+Seat 4: Gannicus06 (49662)
+Seat 5: Boudza (29338)
+Seat 6: Pinss11 (19570)
+Seat 7: 7BaDBaT7 (12000)
+*** ANTE/BLINDS ***
+Gannicus06 posts ante 180
+Boudza posts ante 180
+cec3484 posts ante 180
+pot-de-call posts ante 180
+manggy94 posts ante 180
+Pinss11 posts ante 180
+7BaDBaT7 posts ante 180
+Gannicus06 posts small blind 800
+Boudza posts big blind 1600
+Dealt to manggy94 [Js Td]
+*** PRE-FLOP *** 
+Pinss11 folds
+7BaDBaT7 folds
+cec3484 folds
+pot-de-call folds
+manggy94 folds
+Gannicus06 calls 800
+Boudza checks
+*** FLOP *** [2c 9d 9h]
+Gannicus06 checks
+Boudza bets 1600
+Gannicus06 folds
+Boudza collected 6060 from pot
+*** SUMMARY ***
+Total pot 6060 | No rake
+Board: [2c 9d 9h]
+Seat 5: Boudza (big blind) won 6060
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #798224065713143826-60-1487635696 - Holdem no limit (180/800/1600) - 2017/02/21 00:08:16 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #4 is the button
+Seat 1: cec3484 (19840)
+Seat 2: pot-de-call (20712)
+Seat 3: manggy94 (33404)
+Seat 4: Gannicus06 (47882)
+Seat 5: Boudza (32018)
+Seat 6: Pinss11 (19390)
+Seat 7: 7BaDBaT7 (11820)
+Seat 8: Botila (10475)
+*** ANTE/BLINDS ***
+Boudza posts ante 180
+Pinss11 posts ante 180
+cec3484 posts ante 180
+pot-de-call posts ante 180
+manggy94 posts ante 180
+Gannicus06 posts ante 180
+7BaDBaT7 posts ante 180
+Botila posts ante 180
+Boudza posts small blind 800
+Pinss11 posts big blind 1600
+Dealt to manggy94 [Qc Kh]
+*** PRE-FLOP *** 
+7BaDBaT7 folds
+Botila folds
+cec3484 raises 18060 to 19660 and is all-in
+pot-de-call folds
+manggy94 folds
+Gannicus06 folds
+Boudza folds
+Pinss11 folds
+cec3484 collected 23500 from pot
+*** SUMMARY ***
+Total pot 23500 | No rake
+Seat 1: cec3484 won 23500
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #798224065713143826-61-1487635740 - Holdem no limit (180/800/1600) - 2017/02/21 00:09:00 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #5 is the button
+Seat 1: cec3484 (23500)
+Seat 2: pot-de-call (20532)
+Seat 3: manggy94 (33224)
+Seat 4: Gannicus06 (47702)
+Seat 5: Boudza (31038)
+Seat 6: Pinss11 (17610)
+Seat 7: 7BaDBaT7 (11640)
+Seat 8: Botila (10295)
+*** ANTE/BLINDS ***
+Pinss11 posts ante 180
+7BaDBaT7 posts ante 180
+cec3484 posts ante 180
+pot-de-call posts ante 180
+manggy94 posts ante 180
+Gannicus06 posts ante 180
+Boudza posts ante 180
+Botila posts ante 180
+Pinss11 posts small blind 800
+7BaDBaT7 posts big blind 1600
+Dealt to manggy94 [7c Jd]
+*** PRE-FLOP *** 
+Botila folds
+cec3484 folds
+pot-de-call folds
+manggy94 folds
+Gannicus06 calls 1600
+Boudza folds
+Pinss11 calls 800
+7BaDBaT7 checks
+*** FLOP *** [Kh 8h 2h]
+Pinss11 bets 3200
+7BaDBaT7 folds
+Gannicus06 folds
+Pinss11 collected 9440 from pot
+*** SUMMARY ***
+Total pot 9440 | No rake
+Board: [Kh 8h 2h]
+Seat 6: Pinss11 (small blind) won 9440
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #798224065713143826-62-1487635797 - Holdem no limit (180/800/1600) - 2017/02/21 00:09:57 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #6 is the button
+Seat 1: cec3484 (23320)
+Seat 2: pot-de-call (20352)
+Seat 3: manggy94 (33044)
+Seat 4: Gannicus06 (45922)
+Seat 5: Boudza (30858)
+Seat 6: Pinss11 (22070)
+Seat 7: 7BaDBaT7 (9860)
+Seat 8: Botila (10115)
+*** ANTE/BLINDS ***
+7BaDBaT7 posts ante 180
+Botila posts ante 180
+cec3484 posts ante 180
+pot-de-call posts ante 180
+manggy94 posts ante 180
+Gannicus06 posts ante 180
+Boudza posts ante 180
+Pinss11 posts ante 180
+7BaDBaT7 posts small blind 800
+Botila posts big blind 1600
+Dealt to manggy94 [As Tc]
+*** PRE-FLOP *** 
+cec3484 folds
+pot-de-call folds
+manggy94 raises 3200 to 4800
+Gannicus06 folds
+Boudza folds
+Pinss11 folds
+7BaDBaT7 folds
+Botila folds
+manggy94 collected 8640 from pot
+*** SUMMARY ***
+Total pot 8640 | No rake
+Seat 3: manggy94 won 8640
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #798224065713143826-63-1487635829 - Holdem no limit (180/800/1600) - 2017/02/21 00:10:29 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #7 is the button
+Seat 1: cec3484 (23140)
+Seat 2: pot-de-call (20172)
+Seat 3: manggy94 (36704)
+Seat 4: Gannicus06 (45742)
+Seat 5: Boudza (30678)
+Seat 6: Pinss11 (21890)
+Seat 7: 7BaDBaT7 (8880)
+Seat 8: Botila (8335)
+*** ANTE/BLINDS ***
+Botila posts ante 180
+cec3484 posts ante 180
+pot-de-call posts ante 180
+manggy94 posts ante 180
+Gannicus06 posts ante 180
+Boudza posts ante 180
+Pinss11 posts ante 180
+7BaDBaT7 posts ante 180
+Botila posts small blind 800
+cec3484 posts big blind 1600
+Dealt to manggy94 [6c Qd]
+*** PRE-FLOP *** 
+pot-de-call folds
+manggy94 folds
+Gannicus06 calls 1600
+Boudza folds
+Pinss11 folds
+7BaDBaT7 folds
+Botila folds
+cec3484 checks
+*** FLOP *** [5d 9s Qh]
+cec3484 checks
+Gannicus06 bets 5440
+cec3484 folds
+Gannicus06 shows [Qc 5c] (Two pairs : Queens and 5)
+Gannicus06 collected 10880 from pot
+*** SUMMARY ***
+Total pot 10880 | No rake
+Board: [5d 9s Qh]
+Seat 4: Gannicus06 showed [Qc 5c] and won 10880 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 13 - HandId: #798224065713143826-64-1487635889 - Holdem no limit (180/800/1600) - 2017/02/21 00:11:29 UTC
+Table: 'Kill The Fish(185851023)#017' 8-max (real money) Seat #8 is the button
+Seat 1: cec3484 (21360)
+Seat 2: pot-de-call (19992)
+Seat 3: manggy94 (36524)
+Seat 4: Gannicus06 (49402)
+Seat 5: Boudza (30498)
+Seat 6: Pinss11 (21710)
+Seat 7: 7BaDBaT7 (8700)
+Seat 8: Botila (7355)
+*** ANTE/BLINDS ***
+cec3484 posts ante 180
+pot-de-call posts ante 180
+manggy94 posts ante 180
+Gannicus06 posts ante 180
+Boudza posts ante 180
+Pinss11 posts ante 180
+7BaDBaT7 posts ante 180
+Botila posts ante 180
+cec3484 posts small blind 800
+pot-de-call posts big blind 1600
+Dealt to manggy94 [9s 3s]
+*** PRE-FLOP *** 
+manggy94 folds
+Gannicus06 folds
+Boudza folds
+Pinss11 folds
+7BaDBaT7 raises 1600 to 3200
+Botila folds
+cec3484 calls 2400
+pot-de-call folds
+*** FLOP *** [As 8c 7s]
+cec3484 checks
+7BaDBaT7 checks
+*** TURN *** [As 8c 7s][5s]
+cec3484 checks
+7BaDBaT7 bets 3200
+cec3484 calls 3200
+*** RIVER *** [As 8c 7s 5s][4d]
+cec3484 bets 2400
+7BaDBaT7 calls 2120 and is all-in
+*** SHOW DOWN ***
+cec3484 shows [Th Kc] (High card : Ace)
+7BaDBaT7 shows [7c Ac] (Two pairs : Aces and 7)
+7BaDBaT7 collected 20080 from main pot
+cec3484 collected 280 from side pot 1
+*** SUMMARY ***
+Total pot 20360 | No rake
+Board: [As 8c 7s 5s 4d]
+Seat 1: cec3484 (small blind) showed [Th Kc] and won 280 with High card : Ace
+Seat 7: 7BaDBaT7 showed [7c Ac] and won 20080 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #798224065713143815-69-1487636034 - Holdem no limit (240/1000/2000) - 2017/02/21 00:13:54 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #3 is the button
+Seat 1: G.Costanza (95701)
+Seat 3: vpgc13 (41301)
+Seat 4: manggy94 (36344)
+Seat 5: foolek09 (78343)
+Seat 6: Miiick42 (48671)
+Seat 7: antho1010 (71924)
+Seat 8: 7BaDBaT7 (20080)
+*** ANTE/BLINDS ***
+foolek09 posts ante 240
+Miiick42 posts ante 240
+G.Costanza posts ante 240
+vpgc13 posts ante 240
+antho1010 posts ante 240
+7BaDBaT7 posts ante 240
+foolek09 posts small blind 1000
+Miiick42 posts big blind 2000
+*** PRE-FLOP *** 
+antho1010 folds
+7BaDBaT7 raises 17840 to 19840 and is all-in
+G.Costanza folds
+vpgc13 folds
+foolek09 folds
+Miiick42 folds
+7BaDBaT7 collected 24280 from pot
+*** SUMMARY ***
+Total pot 24280 | No rake
+Seat 8: 7BaDBaT7 won 24280
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #798224065713143815-70-1487636055 - Holdem no limit (240/1000/2000) - 2017/02/21 00:14:15 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #5 is the button
+Seat 1: G.Costanza (95461)
+Seat 2: J SW9 (32223)
+Seat 3: vpgc13 (41061)
+Seat 4: manggy94 (36344)
+Seat 5: foolek09 (77103)
+Seat 6: Miiick42 (46431)
+Seat 7: antho1010 (71684)
+Seat 8: 7BaDBaT7 (24280)
+*** ANTE/BLINDS ***
+Miiick42 posts ante 240
+antho1010 posts ante 240
+G.Costanza posts ante 240
+J SW9 posts ante 240
+vpgc13 posts ante 240
+manggy94 posts ante 240
+foolek09 posts ante 240
+7BaDBaT7 posts ante 240
+Miiick42 posts small blind 1000
+antho1010 posts big blind 2000
+Dealt to manggy94 [4c 6d]
+*** PRE-FLOP *** 
+7BaDBaT7 folds
+G.Costanza folds
+J SW9 folds
+vpgc13 folds
+manggy94 folds
+foolek09 folds
+Miiick42 raises 44191 to 46191 and is all-in
+antho1010 folds
+Miiick42 collected 50111 from pot
+*** SUMMARY ***
+Total pot 50111 | No rake
+Seat 6: Miiick42 (small blind) won 50111
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #798224065713143815-71-1487636099 - Holdem no limit (240/1000/2000) - 2017/02/21 00:14:59 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #6 is the button
+Seat 1: G.Costanza (95221)
+Seat 2: J SW9 (31983)
+Seat 3: vpgc13 (40821)
+Seat 4: manggy94 (36104)
+Seat 5: foolek09 (76863)
+Seat 6: Miiick42 (50111)
+Seat 7: antho1010 (69444)
+Seat 8: 7BaDBaT7 (24040)
+*** ANTE/BLINDS ***
+antho1010 posts ante 240
+7BaDBaT7 posts ante 240
+G.Costanza posts ante 240
+J SW9 posts ante 240
+vpgc13 posts ante 240
+manggy94 posts ante 240
+foolek09 posts ante 240
+Miiick42 posts ante 240
+antho1010 posts small blind 1000
+7BaDBaT7 posts big blind 2000
+Dealt to manggy94 [5h Ks]
+*** PRE-FLOP *** 
+G.Costanza raises 3020 to 5020
+J SW9 folds
+vpgc13 folds
+manggy94 folds
+foolek09 folds
+Miiick42 folds
+antho1010 calls 4020
+7BaDBaT7 folds
+*** FLOP *** [Td 4d 8d]
+antho1010 checks
+G.Costanza checks
+*** TURN *** [Td 4d 8d][Th]
+antho1010 bets 5000
+G.Costanza calls 5000
+*** RIVER *** [Td 4d 8d Th][8c]
+antho1010 bets 10000
+G.Costanza calls 10000
+*** SHOW DOWN ***
+G.Costanza shows [Kc Qd] (Two pairs : Tens and 8)
+antho1010 shows [Jd Ah] (Two pairs : Tens and 8)
+antho1010 collected 43960 from pot
+*** SUMMARY ***
+Total pot 43960 | No rake
+Board: [Td 4d 8d Th 8c]
+Seat 1: G.Costanza showed [Kc Qd] and lost with Two pairs : Tens and 8
+Seat 7: antho1010 (small blind) showed [Jd Ah] and won 43960 with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #798224065713143815-72-1487636203 - Holdem no limit (240/1000/2000) - 2017/02/21 00:16:43 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #7 is the button
+Seat 1: G.Costanza (74961)
+Seat 2: J SW9 (31743)
+Seat 3: vpgc13 (40581)
+Seat 4: manggy94 (35864)
+Seat 5: foolek09 (76623)
+Seat 6: Miiick42 (49871)
+Seat 7: antho1010 (93144)
+Seat 8: 7BaDBaT7 (21800)
+*** ANTE/BLINDS ***
+7BaDBaT7 posts ante 240
+G.Costanza posts ante 240
+J SW9 posts ante 240
+vpgc13 posts ante 240
+manggy94 posts ante 240
+foolek09 posts ante 240
+Miiick42 posts ante 240
+antho1010 posts ante 240
+7BaDBaT7 posts small blind 1000
+G.Costanza posts big blind 2000
+Dealt to manggy94 [6c Qs]
+*** PRE-FLOP *** 
+J SW9 folds
+vpgc13 folds
+manggy94 folds
+foolek09 folds
+Miiick42 folds
+antho1010 raises 3000 to 5000
+7BaDBaT7 folds
+G.Costanza folds
+antho1010 collected 9920 from pot
+*** SUMMARY ***
+Total pot 9920 | No rake
+Seat 7: antho1010 (button) won 9920
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #798224065713143815-73-1487636252 - Holdem no limit (240/1000/2000) - 2017/02/21 00:17:32 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #8 is the button
+Seat 1: G.Costanza (72721)
+Seat 2: J SW9 (31503)
+Seat 3: vpgc13 (40341)
+Seat 4: manggy94 (35624)
+Seat 5: foolek09 (76383)
+Seat 6: Miiick42 (49631)
+Seat 7: antho1010 (97824)
+Seat 8: 7BaDBaT7 (20560)
+*** ANTE/BLINDS ***
+G.Costanza posts ante 240
+J SW9 posts ante 240
+vpgc13 posts ante 240
+manggy94 posts ante 240
+foolek09 posts ante 240
+Miiick42 posts ante 240
+antho1010 posts ante 240
+7BaDBaT7 posts ante 240
+G.Costanza posts small blind 1000
+J SW9 posts big blind 2000
+Dealt to manggy94 [Ts 4c]
+*** PRE-FLOP *** 
+vpgc13 folds
+manggy94 folds
+foolek09 folds
+Miiick42 folds
+antho1010 folds
+7BaDBaT7 raises 2000 to 4000
+G.Costanza folds
+J SW9 calls 2000
+*** FLOP *** [9d 5s 7d]
+J SW9 bets 27263 and is all-in
+7BaDBaT7 calls 16320 and is all-in
+*** TURN *** [9d 5s 7d][8h]
+*** RIVER *** [9d 5s 7d 8h][Td]
+*** SHOW DOWN ***
+7BaDBaT7 shows [Ad Kh] (High card : Ace)
+J SW9 shows [6h Qh] (Straight Ten high)
+J SW9 collected 54503 from pot
+*** SUMMARY ***
+Total pot 54503 | No rake
+Board: [9d 5s 7d 8h Td]
+Seat 2: J SW9 (big blind) showed [6h Qh] and won 54503 with Straight Ten high
+Seat 8: 7BaDBaT7 (button) showed [Ad Kh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 14 - HandId: #798224065713143815-74-1487636295 - Holdem no limit (240/1000/2000) - 2017/02/21 00:18:15 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #1 is the button
+Seat 1: G.Costanza (71481)
+Seat 2: J SW9 (54503)
+Seat 3: vpgc13 (40101)
+Seat 4: manggy94 (35384)
+Seat 5: foolek09 (76143)
+Seat 6: Miiick42 (49391)
+Seat 7: antho1010 (97584)
+*** ANTE/BLINDS ***
+J SW9 posts ante 240
+vpgc13 posts ante 240
+G.Costanza posts ante 240
+manggy94 posts ante 240
+foolek09 posts ante 240
+Miiick42 posts ante 240
+antho1010 posts ante 240
+J SW9 posts small blind 1000
+vpgc13 posts big blind 2000
+Dealt to manggy94 [5c 9s]
+*** PRE-FLOP *** 
+manggy94 folds
+foolek09 folds
+Miiick42 folds
+antho1010 raises 2000 to 4000
+G.Costanza folds
+J SW9 folds
+vpgc13 calls 2000
+*** FLOP *** [Jd 3d 9h]
+vpgc13 checks
+antho1010 checks
+*** TURN *** [Jd 3d 9h][5d]
+vpgc13 checks
+antho1010 checks
+*** RIVER *** [Jd 3d 9h 5d][8d]
+vpgc13 checks
+antho1010 bets 7000
+vpgc13 folds
+antho1010 collected 17680 from pot
+*** SUMMARY ***
+Total pot 17680 | No rake
+Board: [Jd 3d 9h 5d 8d]
+Seat 7: antho1010 won 17680
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #798224065713143815-75-1487636417 - Holdem no limit (320/1250/2500) - 2017/02/21 00:20:17 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #2 is the button
+Seat 1: G.Costanza (71241)
+Seat 2: J SW9 (53263)
+Seat 3: vpgc13 (35861)
+Seat 4: manggy94 (35144)
+Seat 5: foolek09 (75903)
+Seat 6: Miiick42 (49151)
+Seat 7: antho1010 (104024)
+Seat 8: touchofwood (44123)
+*** ANTE/BLINDS ***
+vpgc13 posts ante 320
+manggy94 posts ante 320
+G.Costanza posts ante 320
+J SW9 posts ante 320
+foolek09 posts ante 320
+Miiick42 posts ante 320
+antho1010 posts ante 320
+touchofwood posts ante 320
+vpgc13 posts small blind 1250
+manggy94 posts big blind 2500
+Dealt to manggy94 [Ah Ad]
+*** PRE-FLOP *** 
+foolek09 folds
+Miiick42 raises 3750 to 6250
+antho1010 folds
+touchofwood folds
+G.Costanza folds
+J SW9 folds
+vpgc13 folds
+manggy94 raises 5000 to 11250
+Miiick42 calls 5000
+*** FLOP *** [7h 3c 5h]
+manggy94 bets 10000
+Miiick42 folds
+manggy94 collected 36310 from pot
+*** SUMMARY ***
+Total pot 36310 | No rake
+Board: [7h 3c 5h]
+Seat 4: manggy94 (big blind) won 36310
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #798224065713143815-76-1487636500 - Holdem no limit (320/1250/2500) - 2017/02/21 00:21:40 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #3 is the button
+Seat 1: G.Costanza (70921)
+Seat 2: J SW9 (52943)
+Seat 3: vpgc13 (34291)
+Seat 4: manggy94 (49884)
+Seat 5: foolek09 (75583)
+Seat 6: Miiick42 (37581)
+Seat 7: antho1010 (103704)
+Seat 8: touchofwood (43803)
+*** ANTE/BLINDS ***
+manggy94 posts ante 320
+foolek09 posts ante 320
+G.Costanza posts ante 320
+J SW9 posts ante 320
+vpgc13 posts ante 320
+Miiick42 posts ante 320
+antho1010 posts ante 320
+touchofwood posts ante 320
+manggy94 posts small blind 1250
+foolek09 posts big blind 2500
+Dealt to manggy94 [As 2h]
+*** PRE-FLOP *** 
+Miiick42 folds
+antho1010 raises 2500 to 5000
+touchofwood folds
+G.Costanza folds
+J SW9 folds
+vpgc13 raises 6250 to 11250
+manggy94 folds
+foolek09 folds
+antho1010 calls 6250
+*** FLOP *** [8c 9h Qs]
+antho1010 checks
+vpgc13 checks
+*** TURN *** [8c 9h Qs][Jh]
+antho1010 bets 10000
+vpgc13 calls 10000
+*** RIVER *** [8c 9h Qs Jh][7c]
+antho1010 bets 15000
+vpgc13 folds
+antho1010 collected 63810 from pot
+*** SUMMARY ***
+Total pot 63810 | No rake
+Board: [8c 9h Qs Jh 7c]
+Seat 7: antho1010 won 63810
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #798224065713143815-77-1487636568 - Holdem no limit (320/1250/2500) - 2017/02/21 00:22:48 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #4 is the button
+Seat 1: G.Costanza (70601)
+Seat 2: J SW9 (52623)
+Seat 3: vpgc13 (12721)
+Seat 4: manggy94 (48314)
+Seat 5: foolek09 (72763)
+Seat 6: Miiick42 (37261)
+Seat 7: antho1010 (130944)
+Seat 8: touchofwood (43483)
+*** ANTE/BLINDS ***
+foolek09 posts ante 320
+Miiick42 posts ante 320
+G.Costanza posts ante 320
+J SW9 posts ante 320
+vpgc13 posts ante 320
+manggy94 posts ante 320
+antho1010 posts ante 320
+touchofwood posts ante 320
+foolek09 posts small blind 1250
+Miiick42 posts big blind 2500
+Dealt to manggy94 [4d Ah]
+*** PRE-FLOP *** 
+antho1010 folds
+touchofwood raises 2500 to 5000
+G.Costanza folds
+J SW9 folds
+vpgc13 folds
+manggy94 calls 5000
+foolek09 calls 3750
+Miiick42 folds
+*** FLOP *** [Qd 5s Jc]
+foolek09 checks
+touchofwood checks
+manggy94 bets 8750
+foolek09 folds
+touchofwood folds
+manggy94 collected 28810 from pot
+*** SUMMARY ***
+Total pot 28810 | No rake
+Board: [Qd 5s Jc]
+Seat 4: manggy94 (button) won 28810
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #798224065713143815-78-1487636631 - Holdem no limit (320/1250/2500) - 2017/02/21 00:23:51 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #5 is the button
+Seat 1: G.Costanza (70281)
+Seat 2: J SW9 (52303)
+Seat 3: vpgc13 (12401)
+Seat 4: manggy94 (63054)
+Seat 5: foolek09 (67443)
+Seat 6: Miiick42 (34441)
+Seat 7: antho1010 (130624)
+Seat 8: touchofwood (38163)
+*** ANTE/BLINDS ***
+Miiick42 posts ante 320
+antho1010 posts ante 320
+G.Costanza posts ante 320
+J SW9 posts ante 320
+vpgc13 posts ante 320
+manggy94 posts ante 320
+foolek09 posts ante 320
+touchofwood posts ante 320
+Miiick42 posts small blind 1250
+antho1010 posts big blind 2500
+Dealt to manggy94 [6h Ks]
+*** PRE-FLOP *** 
+touchofwood raises 4675 to 7175
+G.Costanza folds
+J SW9 folds
+vpgc13 folds
+manggy94 folds
+foolek09 folds
+Miiick42 folds
+antho1010 folds
+touchofwood collected 13485 from pot
+*** SUMMARY ***
+Total pot 13485 | No rake
+Seat 8: touchofwood won 13485
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 15 - HandId: #798224065713143815-79-1487636681 - Holdem no limit (320/1250/2500) - 2017/02/21 00:24:41 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #6 is the button
+Seat 1: G.Costanza (69961)
+Seat 2: J SW9 (51983)
+Seat 3: vpgc13 (12081)
+Seat 4: manggy94 (62734)
+Seat 5: foolek09 (67123)
+Seat 6: Miiick42 (32871)
+Seat 7: antho1010 (127804)
+Seat 8: touchofwood (44153)
+*** ANTE/BLINDS ***
+antho1010 posts ante 320
+touchofwood posts ante 320
+G.Costanza posts ante 320
+J SW9 posts ante 320
+vpgc13 posts ante 320
+manggy94 posts ante 320
+foolek09 posts ante 320
+Miiick42 posts ante 320
+antho1010 posts small blind 1250
+touchofwood posts big blind 2500
+Dealt to manggy94 [4c Qh]
+*** PRE-FLOP *** 
+G.Costanza folds
+J SW9 folds
+vpgc13 folds
+manggy94 folds
+foolek09 raises 5000 to 7500
+Miiick42 raises 25051 to 32551 and is all-in
+antho1010 folds
+touchofwood folds
+foolek09 raises 25051 to 57602
+*** FLOP *** [6s 8c 5h]
+*** TURN *** [6s 8c 5h][2h]
+*** RIVER *** [6s 8c 5h 2h][2c]
+*** SHOW DOWN ***
+Miiick42 shows [Ts Kh] (One pair : 2)
+foolek09 shows [As Qs] (One pair : 2)
+foolek09 collected 96463 from pot
+*** SUMMARY ***
+Total pot 96463 | No rake
+Board: [6s 8c 5h 2h 2c]
+Seat 5: foolek09 showed [As Qs] and won 96463 with One pair : 2
+Seat 6: Miiick42 (button) showed [Ts Kh] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 16 - HandId: #798224065713143815-80-1487636717 - Holdem no limit (430/1500/3000) - 2017/02/21 00:25:17 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #7 is the button
+Seat 1: G.Costanza (69641)
+Seat 2: J SW9 (51663)
+Seat 3: vpgc13 (11761)
+Seat 4: manggy94 (62414)
+Seat 5: foolek09 (105664)
+Seat 7: antho1010 (126234)
+Seat 8: touchofwood (41333)
+*** ANTE/BLINDS ***
+touchofwood posts ante 430
+G.Costanza posts ante 430
+J SW9 posts ante 430
+vpgc13 posts ante 430
+manggy94 posts ante 430
+foolek09 posts ante 430
+antho1010 posts ante 430
+touchofwood posts small blind 1500
+G.Costanza posts big blind 3000
+Dealt to manggy94 [6d Ks]
+*** PRE-FLOP *** 
+J SW9 folds
+vpgc13 folds
+manggy94 folds
+foolek09 calls 3000
+antho1010 folds
+touchofwood calls 1500
+G.Costanza checks
+*** FLOP *** [4c 4h 3s]
+touchofwood checks
+G.Costanza checks
+foolek09 checks
+*** TURN *** [4c 4h 3s][Kd]
+touchofwood checks
+G.Costanza checks
+foolek09 checks
+*** RIVER *** [4c 4h 3s Kd][Qd]
+touchofwood checks
+G.Costanza checks
+foolek09 checks
+*** SHOW DOWN ***
+G.Costanza shows [3h 7s] (Two pairs : 4 and 3)
+foolek09 shows [7h 8h] (One pair : 4)
+touchofwood shows [9d Qc] (Two pairs : Queens and 4)
+touchofwood collected 12010 from pot
+*** SUMMARY ***
+Total pot 12010 | No rake
+Board: [4c 4h 3s Kd Qd]
+Seat 1: G.Costanza (big blind) showed [3h 7s] and lost with Two pairs : 4 and 3
+Seat 5: foolek09 showed [7h 8h] and lost with One pair : 4
+Seat 8: touchofwood (small blind) showed [9d Qc] and won 12010 with Two pairs : Queens and 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 16 - HandId: #798224065713143815-81-1487636797 - Holdem no limit (430/1500/3000) - 2017/02/21 00:26:37 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #8 is the button
+Seat 1: G.Costanza (66211)
+Seat 2: J SW9 (51233)
+Seat 3: vpgc13 (11331)
+Seat 4: manggy94 (61984)
+Seat 5: foolek09 (102234)
+Seat 7: antho1010 (125804)
+Seat 8: touchofwood (49913)
+*** ANTE/BLINDS ***
+G.Costanza posts ante 430
+J SW9 posts ante 430
+vpgc13 posts ante 430
+manggy94 posts ante 430
+foolek09 posts ante 430
+antho1010 posts ante 430
+touchofwood posts ante 430
+G.Costanza posts small blind 1500
+J SW9 posts big blind 3000
+Dealt to manggy94 [2c 8d]
+*** PRE-FLOP *** 
+vpgc13 folds
+manggy94 folds
+foolek09 folds
+antho1010 raises 4500 to 7500
+touchofwood folds
+G.Costanza folds
+J SW9 raises 43303 to 50803 and is all-in
+antho1010 folds
+J SW9 collected 62813 from pot
+*** SUMMARY ***
+Total pot 62813 | No rake
+Seat 2: J SW9 (big blind) won 62813
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 16 - HandId: #798224065713143815-82-1487636864 - Holdem no limit (430/1500/3000) - 2017/02/21 00:27:44 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #1 is the button
+Seat 1: G.Costanza (64281)
+Seat 2: J SW9 (62813)
+Seat 3: vpgc13 (10901)
+Seat 4: manggy94 (61554)
+Seat 5: foolek09 (101804)
+Seat 7: antho1010 (117874)
+Seat 8: touchofwood (49483)
+*** ANTE/BLINDS ***
+J SW9 posts ante 430
+vpgc13 posts ante 430
+G.Costanza posts ante 430
+manggy94 posts ante 430
+foolek09 posts ante 430
+antho1010 posts ante 430
+touchofwood posts ante 430
+J SW9 posts small blind 1500
+vpgc13 posts big blind 3000
+Dealt to manggy94 [Kh 6c]
+*** PRE-FLOP *** 
+manggy94 folds
+foolek09 folds
+antho1010 folds
+touchofwood folds
+G.Costanza folds
+J SW9 folds
+vpgc13 collected 7510 from pot
+*** SUMMARY ***
+Total pot 7510 | No rake
+Seat 3: vpgc13 (big blind) won 7510
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 16 - HandId: #798224065713143815-83-1487636901 - Holdem no limit (430/1500/3000) - 2017/02/21 00:28:21 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #2 is the button
+Seat 1: G.Costanza (63851)
+Seat 2: J SW9 (60883)
+Seat 3: vpgc13 (14981)
+Seat 4: manggy94 (61124)
+Seat 5: foolek09 (101374)
+Seat 7: antho1010 (117444)
+Seat 8: touchofwood (49053)
+*** ANTE/BLINDS ***
+vpgc13 posts ante 430
+manggy94 posts ante 430
+G.Costanza posts ante 430
+J SW9 posts ante 430
+foolek09 posts ante 430
+antho1010 posts ante 430
+touchofwood posts ante 430
+vpgc13 posts small blind 1500
+manggy94 posts big blind 3000
+Dealt to manggy94 [9h Qc]
+*** PRE-FLOP *** 
+foolek09 folds
+antho1010 folds
+touchofwood folds
+G.Costanza folds
+J SW9 raises 57453 to 60453 and is all-in
+vpgc13 folds
+manggy94 folds
+J SW9 collected 67963 from pot
+*** SUMMARY ***
+Total pot 67963 | No rake
+Seat 2: J SW9 (button) won 67963
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 16 - HandId: #798224065713143815-84-1487636937 - Holdem no limit (430/1500/3000) - 2017/02/21 00:28:57 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #3 is the button
+Seat 1: G.Costanza (63421)
+Seat 2: J SW9 (67963)
+Seat 3: vpgc13 (13051)
+Seat 4: manggy94 (57694)
+Seat 5: foolek09 (100944)
+Seat 7: antho1010 (117014)
+Seat 8: touchofwood (48623)
+*** ANTE/BLINDS ***
+manggy94 posts ante 430
+foolek09 posts ante 430
+G.Costanza posts ante 430
+J SW9 posts ante 430
+vpgc13 posts ante 430
+antho1010 posts ante 430
+touchofwood posts ante 430
+manggy94 posts small blind 1500
+foolek09 posts big blind 3000
+Dealt to manggy94 [Ks 9h]
+*** PRE-FLOP *** 
+antho1010 raises 3000 to 6000
+touchofwood folds
+G.Costanza folds
+J SW9 calls 6000
+vpgc13 folds
+manggy94 folds
+foolek09 calls 3000
+*** FLOP *** [5c 5d 2d]
+foolek09 checks
+antho1010 bets 13500
+J SW9 calls 13500
+foolek09 folds
+*** TURN *** [5c 5d 2d][6c]
+antho1010 bets 49500
+J SW9 calls 48033 and is all-in
+*** RIVER *** [5c 5d 2d 6c][Td]
+*** SHOW DOWN ***
+J SW9 shows [5s 5h] (Quads of 5)
+antho1010 shows [4d 4c] (Two pairs : 5 and 4)
+antho1010 collected 1467 from side pot 1
+J SW9 collected 145576 from main pot
+*** SUMMARY ***
+Total pot 147043 | No rake
+Board: [5c 5d 2d 6c Td]
+Seat 2: J SW9 showed [5s 5h] and won 145576 with Quads of 5
+Seat 7: antho1010 showed [4d 4c] and won 1467 with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 16 - HandId: #798224065713143815-85-1487637051 - Holdem no limit (430/1500/3000) - 2017/02/21 00:30:51 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #4 is the button
+Seat 1: G.Costanza (62991)
+Seat 2: J SW9 (145576)
+Seat 3: vpgc13 (12621)
+Seat 4: manggy94 (55764)
+Seat 5: foolek09 (94514)
+Seat 6: MrGroseille (81952)
+Seat 7: antho1010 (49051)
+Seat 8: touchofwood (48193)
+*** ANTE/BLINDS ***
+foolek09 posts ante 430
+MrGroseille posts ante 430
+G.Costanza posts ante 430
+J SW9 posts ante 430
+vpgc13 posts ante 430
+manggy94 posts ante 430
+antho1010 posts ante 430
+touchofwood posts ante 430
+foolek09 posts small blind 1500
+MrGroseille posts big blind 3000
+Dealt to manggy94 [Kc 4d]
+*** PRE-FLOP *** 
+antho1010 folds
+touchofwood folds
+G.Costanza folds
+J SW9 raises 3000 to 6000
+vpgc13 folds
+manggy94 folds
+foolek09 folds
+MrGroseille calls 3000
+*** FLOP *** [3h Ts 8s]
+MrGroseille checks
+J SW9 checks
+*** TURN *** [3h Ts 8s][Tc]
+MrGroseille bets 3000
+J SW9 calls 3000
+*** RIVER *** [3h Ts 8s Tc][2s]
+MrGroseille bets 3000
+J SW9 calls 3000
+*** SHOW DOWN ***
+J SW9 shows [Qh Ac] (One pair : Tens)
+MrGroseille shows [Jd 8c] (Two pairs : Tens and 8)
+MrGroseille collected 28940 from pot
+*** SUMMARY ***
+Total pot 28940 | No rake
+Board: [3h Ts 8s Tc 2s]
+Seat 2: J SW9 showed [Qh Ac] and lost with One pair : Tens
+Seat 6: MrGroseille (big blind) showed [Jd 8c] and won 28940 with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 17 - HandId: #798224065713143815-86-1487637131 - Holdem no limit (500/2000/4000) - 2017/02/21 00:32:11 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #5 is the button
+Seat 1: G.Costanza (62561)
+Seat 2: J SW9 (133146)
+Seat 3: vpgc13 (12191)
+Seat 4: manggy94 (55334)
+Seat 5: foolek09 (92584)
+Seat 6: MrGroseille (98462)
+Seat 7: antho1010 (48621)
+Seat 8: touchofwood (47763)
+*** ANTE/BLINDS ***
+MrGroseille posts ante 500
+antho1010 posts ante 500
+G.Costanza posts ante 500
+J SW9 posts ante 500
+vpgc13 posts ante 500
+manggy94 posts ante 500
+foolek09 posts ante 500
+touchofwood posts ante 500
+MrGroseille posts small blind 2000
+antho1010 posts big blind 4000
+Dealt to manggy94 [4h 4d]
+*** PRE-FLOP *** 
+touchofwood folds
+G.Costanza folds
+J SW9 folds
+vpgc13 folds
+manggy94 raises 8000 to 12000
+foolek09 folds
+MrGroseille folds
+antho1010 folds
+manggy94 collected 22000 from pot
+*** SUMMARY ***
+Total pot 22000 | No rake
+Seat 4: manggy94 won 22000
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 17 - HandId: #798224065713143815-87-1487637190 - Holdem no limit (500/2000/4000) - 2017/02/21 00:33:10 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #6 is the button
+Seat 1: G.Costanza (62061)
+Seat 2: J SW9 (132646)
+Seat 3: vpgc13 (11691)
+Seat 4: manggy94 (64834)
+Seat 5: foolek09 (92084)
+Seat 6: MrGroseille (95962)
+Seat 7: antho1010 (44121)
+Seat 8: touchofwood (47263)
+*** ANTE/BLINDS ***
+antho1010 posts ante 500
+touchofwood posts ante 500
+G.Costanza posts ante 500
+J SW9 posts ante 500
+vpgc13 posts ante 500
+manggy94 posts ante 500
+foolek09 posts ante 500
+MrGroseille posts ante 500
+antho1010 posts small blind 2000
+touchofwood posts big blind 4000
+Dealt to manggy94 [5s Ac]
+*** PRE-FLOP *** 
+G.Costanza folds
+J SW9 folds
+vpgc13 folds
+manggy94 calls 4000
+foolek09 folds
+MrGroseille folds
+antho1010 calls 2000
+touchofwood checks
+*** FLOP *** [6c 2h Kh]
+antho1010 checks
+touchofwood checks
+manggy94 bets 8000
+antho1010 folds
+touchofwood folds
+manggy94 collected 24000 from pot
+*** SUMMARY ***
+Total pot 24000 | No rake
+Board: [6c 2h Kh]
+Seat 4: manggy94 won 24000
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 17 - HandId: #798224065713143815-88-1487637248 - Holdem no limit (500/2000/4000) - 2017/02/21 00:34:08 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #7 is the button
+Seat 1: G.Costanza (61561)
+Seat 2: J SW9 (132146)
+Seat 3: vpgc13 (11191)
+Seat 4: manggy94 (76334)
+Seat 5: foolek09 (91584)
+Seat 6: MrGroseille (95462)
+Seat 7: antho1010 (39621)
+Seat 8: touchofwood (42763)
+*** ANTE/BLINDS ***
+touchofwood posts ante 500
+G.Costanza posts ante 500
+J SW9 posts ante 500
+vpgc13 posts ante 500
+manggy94 posts ante 500
+foolek09 posts ante 500
+MrGroseille posts ante 500
+antho1010 posts ante 500
+touchofwood posts small blind 2000
+G.Costanza posts big blind 4000
+Dealt to manggy94 [7d Ts]
+*** PRE-FLOP *** 
+J SW9 raises 4000 to 8000
+vpgc13 raises 2691 to 10691 and is all-in
+manggy94 folds
+foolek09 folds
+MrGroseille folds
+antho1010 folds
+touchofwood folds
+G.Costanza folds
+J SW9 calls 2691
+*** FLOP *** [4s Kc 4d]
+*** TURN *** [4s Kc 4d][6h]
+*** RIVER *** [4s Kc 4d 6h][3s]
+*** SHOW DOWN ***
+vpgc13 shows [As 8c] (One pair : 4)
+J SW9 shows [Kh Jh] (Two pairs : Kings and 4)
+J SW9 collected 31382 from pot
+*** SUMMARY ***
+Total pot 31382 | No rake
+Board: [4s Kc 4d 6h 3s]
+Seat 2: J SW9 showed [Kh Jh] and won 31382 with Two pairs : Kings and 4
+Seat 3: vpgc13 showed [As 8c] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 17 - HandId: #798224065713143815-89-1487637339 - Holdem no limit (500/2000/4000) - 2017/02/21 00:35:39 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #8 is the button
+Seat 1: G.Costanza (57061)
+Seat 2: J SW9 (152337)
+Seat 4: manggy94 (75834)
+Seat 5: foolek09 (91084)
+Seat 6: MrGroseille (94962)
+Seat 7: antho1010 (39121)
+Seat 8: touchofwood (40263)
+*** ANTE/BLINDS ***
+G.Costanza posts ante 500
+J SW9 posts ante 500
+manggy94 posts ante 500
+foolek09 posts ante 500
+MrGroseille posts ante 500
+antho1010 posts ante 500
+touchofwood posts ante 500
+G.Costanza posts small blind 2000
+J SW9 posts big blind 4000
+Dealt to manggy94 [Ac 5d]
+*** PRE-FLOP *** 
+manggy94 calls 4000
+foolek09 folds
+MrGroseille folds
+antho1010 raises 34621 to 38621 and is all-in
+touchofwood raises 1142 to 39763 and is all-in
+G.Costanza folds
+J SW9 folds
+manggy94 folds
+*** FLOP *** [4c Js Tc]
+*** TURN *** [4c Js Tc][Qc]
+*** RIVER *** [4c Js Tc Qc][9h]
+*** SHOW DOWN ***
+antho1010 shows [Ts Ad] (One pair : Tens)
+touchofwood shows [8c 8h] (Straight Queen high)
+touchofwood collected 91884 from pot
+*** SUMMARY ***
+Total pot 91884 | No rake
+Board: [4c Js Tc Qc 9h]
+Seat 7: antho1010 showed [Ts Ad] and lost with One pair : Tens
+Seat 8: touchofwood (button) showed [8c 8h] and won 91884 with Straight Queen high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 17 - HandId: #798224065713143815-90-1487637390 - Holdem no limit (500/2000/4000) - 2017/02/21 00:36:30 UTC
+Table: 'Kill The Fish(185851023)#006' 8-max (real money) Seat #1 is the button
+Seat 1: G.Costanza (54561)
+Seat 2: J SW9 (147837)
+Seat 3: brunatch44 (117053)
+Seat 4: manggy94 (71334)
+Seat 5: foolek09 (90584)
+Seat 6: MrGroseille (94462)
+Seat 8: touchofwood (91884)
+*** ANTE/BLINDS ***
+J SW9 posts ante 500
+brunatch44 posts ante 500
+G.Costanza posts ante 500
+manggy94 posts ante 500
+foolek09 posts ante 500
+MrGroseille posts ante 500
+touchofwood posts ante 500
+J SW9 posts small blind 2000
+brunatch44 posts big blind 4000
+Dealt to manggy94 [8d 8c]
+*** PRE-FLOP *** 
+manggy94 raises 8000 to 12000
+foolek09 folds
+MrGroseille folds
+touchofwood calls 12000
+G.Costanza folds
+J SW9 folds
+brunatch44 folds
+*** FLOP *** [Qd Td Ts]
+manggy94 bets 12000
+touchofwood raises 40125 to 52125
+manggy94 raises 6709 to 58834 and is all-in
+touchofwood calls 6709
+*** TURN *** [Qd Td Ts][3s]
+*** RIVER *** [Qd Td Ts 3s][Js]
+*** SHOW DOWN ***
+manggy94 shows [8d 8c] (Two pairs : Tens and 8)
+touchofwood shows [Ah Ad] (Two pairs : Aces and Tens)
+touchofwood collected 151168 from pot
+*** SUMMARY ***
+Total pot 151168 | No rake
+Board: [Qd Td Ts 3s Js]
+Seat 4: manggy94 showed [8d 8c] and lost with Two pairs : Tens and 8
+Seat 8: touchofwood showed [Ah Ad] and won 151168 with Two pairs : Aces and Tens
+
+

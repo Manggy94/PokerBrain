@@ -1,0 +1,554 @@
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 0 - HandId: #570460889149341709-1-1445174105 - Holdem no limit (25/50) - 2015/10/18 13:15:05 UTC
+Table: 'KILL THE FISH(132820776)#012' 9-max (real money) Seat #2 is the button
+Seat 1: manggy94 (10000)
+Seat 2: pitchard (10000)
+Seat 3: yo91 (10000)
+Seat 4: RunL1keJason (10000)
+Seat 5: NerfezMwa (10000)
+Seat 7: steph8193 (10000)
+Seat 8: Narsuras (10000)
+Seat 9: Momm (10000)
+*** ANTE/BLINDS ***
+yo91 posts small blind 25
+RunL1keJason posts big blind 50
+Dealt to manggy94 [Qd 6d]
+*** PRE-FLOP *** 
+NerfezMwa folds
+steph8193 folds
+Narsuras folds
+Momm raises 200 to 250
+manggy94 raises 575 to 825
+pitchard folds
+yo91 folds
+RunL1keJason folds
+Momm calls 575
+*** FLOP *** [Js 3s 5h]
+Momm checks
+manggy94 bets 1725
+Momm calls 1725
+*** TURN *** [Js 3s 5h][9s]
+Momm checks
+manggy94 checks
+*** RIVER *** [Js 3s 5h 9s][7d]
+Momm bets 2588
+manggy94 folds
+Momm collected 7763 from pot
+*** SUMMARY ***
+Total pot 7763 | No rake
+Board: [Js 3s 5h 9s 7d]
+Seat 9: Momm won 7763
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 0 - HandId: #570460889149341709-2-1445174257 - Holdem no limit (25/50) - 2015/10/18 13:17:37 UTC
+Table: 'KILL THE FISH(132820776)#012' 9-max (real money) Seat #3 is the button
+Seat 1: manggy94 (7450)
+Seat 2: pitchard (10000)
+Seat 3: yo91 (9975)
+Seat 4: RunL1keJason (9950)
+Seat 5: NerfezMwa (10000)
+Seat 6: chouill99 (10000)
+Seat 7: steph8193 (10000)
+Seat 8: Narsuras (10000)
+Seat 9: Momm (12625)
+*** ANTE/BLINDS ***
+RunL1keJason posts small blind 25
+NerfezMwa posts big blind 50
+Dealt to manggy94 [9c 3h]
+*** PRE-FLOP *** 
+chouill99 folds
+steph8193 folds
+Narsuras folds
+Momm calls 50
+manggy94 folds
+pitchard folds
+yo91 folds
+RunL1keJason calls 25
+NerfezMwa checks
+*** FLOP *** [3s Qc Tc]
+RunL1keJason checks
+NerfezMwa checks
+Momm checks
+*** TURN *** [3s Qc Tc][Qs]
+RunL1keJason checks
+NerfezMwa bets 100
+Momm folds
+RunL1keJason calls 100
+*** RIVER *** [3s Qc Tc Qs][5h]
+RunL1keJason checks
+NerfezMwa bets 350
+RunL1keJason calls 350
+*** SHOW DOWN ***
+NerfezMwa shows [8d 4s] (One pair : Queens)
+RunL1keJason shows [Ah Th] (Two pairs : Queens and Tens)
+RunL1keJason collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [3s Qc Tc Qs 5h]
+Seat 4: RunL1keJason (small blind) showed [Ah Th] and won 1050 with Two pairs : Queens and Tens
+Seat 5: NerfezMwa (big blind) showed [8d 4s] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 0 - HandId: #570460889149341709-3-1445174388 - Holdem no limit (25/50) - 2015/10/18 13:19:48 UTC
+Table: 'KILL THE FISH(132820776)#012' 9-max (real money) Seat #4 is the button
+Seat 1: manggy94 (7450)
+Seat 2: pitchard (10000)
+Seat 3: yo91 (9975)
+Seat 4: RunL1keJason (10500)
+Seat 5: NerfezMwa (9500)
+Seat 6: chouill99 (10000)
+Seat 7: steph8193 (10000)
+Seat 8: Narsuras (10000)
+Seat 9: Momm (12575)
+*** ANTE/BLINDS ***
+NerfezMwa posts small blind 25
+chouill99 posts big blind 50
+Dealt to manggy94 [6d Ah]
+*** PRE-FLOP *** 
+steph8193 folds
+Narsuras raises 98 to 148
+Momm calls 148
+manggy94 calls 148
+pitchard folds
+yo91 folds
+RunL1keJason folds
+NerfezMwa raises 352 to 500
+chouill99 folds
+Narsuras raises 9500 to 10000 and is all-in
+Momm folds
+manggy94 folds
+NerfezMwa calls 9000 and is all-in
+*** FLOP *** [4h 9h Tc]
+*** TURN *** [4h 9h Tc][Qc]
+*** RIVER *** [4h 9h Tc Qc][5h]
+*** SHOW DOWN ***
+NerfezMwa shows [Qs Th] (Two pairs : Queens and Tens)
+Narsuras shows [Ac Ad] (One pair : Aces)
+Narsuras collected 500 from side pot 1
+NerfezMwa collected 19346 from main pot
+*** SUMMARY ***
+Total pot 19846 | No rake
+Board: [4h 9h Tc Qc 5h]
+Seat 5: NerfezMwa (small blind) showed [Qs Th] and won 19346 with Two pairs : Queens and Tens
+Seat 8: Narsuras showed [Ac Ad] and won 500 with One pair : Aces
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 0 - HandId: #570460889149341709-4-1445174452 - Holdem no limit (25/50) - 2015/10/18 13:20:52 UTC
+Table: 'KILL THE FISH(132820776)#012' 9-max (real money) Seat #5 is the button
+Seat 1: manggy94 (7302)
+Seat 2: pitchard (10000)
+Seat 3: yo91 (9975)
+Seat 4: RunL1keJason (10500)
+Seat 5: NerfezMwa (19346)
+Seat 6: chouill99 (9950)
+Seat 7: steph8193 (10000)
+Seat 8: Narsuras (500)
+Seat 9: Momm (12427)
+*** ANTE/BLINDS ***
+chouill99 posts small blind 25
+steph8193 posts big blind 50
+Dealt to manggy94 [2d Kh]
+*** PRE-FLOP *** 
+Narsuras raises 450 to 500 and is all-in
+Momm folds
+manggy94 folds
+pitchard folds
+yo91 folds
+RunL1keJason folds
+NerfezMwa folds
+chouill99 folds
+steph8193 calls 450
+*** FLOP *** [As 9c 6c]
+*** TURN *** [As 9c 6c][5h]
+*** RIVER *** [As 9c 6c 5h][3h]
+*** SHOW DOWN ***
+Narsuras shows [Ad Ah] (Trips of Aces)
+steph8193 shows [7h 4d] (Straight 7 high)
+steph8193 collected 1025 from pot
+*** SUMMARY ***
+Total pot 1025 | No rake
+Board: [As 9c 6c 5h 3h]
+Seat 7: steph8193 (big blind) showed [7h 4d] and won 1025 with Straight 7 high
+Seat 8: Narsuras showed [Ad Ah] and lost with Trips of Aces
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #570460889149341709-5-1445174503 - Holdem no limit (50/100) - 2015/10/18 13:21:43 UTC
+Table: 'KILL THE FISH(132820776)#012' 9-max (real money) Seat #6 is the button
+Seat 1: manggy94 (7302)
+Seat 2: pitchard (10000)
+Seat 3: yo91 (9975)
+Seat 4: RunL1keJason (10500)
+Seat 5: NerfezMwa (19346)
+Seat 6: chouill99 (9925)
+Seat 7: steph8193 (10525)
+Seat 9: Momm (12427)
+*** ANTE/BLINDS ***
+steph8193 posts small blind 50
+Momm posts big blind 100
+Dealt to manggy94 [3c Ah]
+*** PRE-FLOP *** 
+manggy94 calls 100
+pitchard folds
+yo91 folds
+RunL1keJason folds
+NerfezMwa calls 100
+chouill99 folds
+steph8193 folds
+Momm checks
+*** FLOP *** [9s 3d 7c]
+Momm checks
+manggy94 bets 100
+NerfezMwa raises 150 to 250
+Momm folds
+manggy94 calls 150
+*** TURN *** [9s 3d 7c][6c]
+manggy94 checks
+NerfezMwa checks
+*** RIVER *** [9s 3d 7c 6c][Ts]
+manggy94 checks
+NerfezMwa checks
+*** SHOW DOWN ***
+manggy94 shows [3c Ah] (One pair : 3)
+NerfezMwa shows [Tc Js] (One pair : Tens)
+NerfezMwa collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Board: [9s 3d 7c 6c Ts]
+Seat 1: manggy94 showed [3c Ah] and lost with One pair : 3
+Seat 5: NerfezMwa showed [Tc Js] and won 850 with One pair : Tens
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #570460889149341709-6-1445174579 - Holdem no limit (50/100) - 2015/10/18 13:22:59 UTC
+Table: 'KILL THE FISH(132820776)#012' 9-max (real money) Seat #7 is the button
+Seat 1: manggy94 (6952)
+Seat 2: pitchard (10000)
+Seat 3: yo91 (9975)
+Seat 4: RunL1keJason (10500)
+Seat 5: NerfezMwa (19846)
+Seat 6: chouill99 (9925)
+Seat 7: steph8193 (10475)
+Seat 8: kenkabis (10000)
+Seat 9: Momm (12327)
+*** ANTE/BLINDS ***
+Momm posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [5d 5h]
+*** PRE-FLOP *** 
+pitchard raises 150 to 250
+yo91 folds
+RunL1keJason folds
+NerfezMwa folds
+chouill99 calls 250
+steph8193 calls 250
+Momm calls 200
+manggy94 calls 150
+*** FLOP *** [3d Jh 3h]
+Momm checks
+manggy94 checks
+pitchard checks
+chouill99 checks
+steph8193 bets 1250
+Momm folds
+manggy94 calls 1250
+pitchard folds
+chouill99 folds
+*** TURN *** [3d Jh 3h][7h]
+manggy94 checks
+steph8193 checks
+*** RIVER *** [3d Jh 3h 7h][7d]
+manggy94 checks
+steph8193 checks
+*** SHOW DOWN ***
+manggy94 shows [5d 5h] (Two pairs : 7 and 5)
+steph8193 shows [8s Js] (Two pairs : Jacks and 7)
+steph8193 collected 3750 from pot
+*** SUMMARY ***
+Total pot 3750 | No rake
+Board: [3d Jh 3h 7h 7d]
+Seat 1: manggy94 (big blind) showed [5d 5h] and lost with Two pairs : 7 and 5
+Seat 7: steph8193 (button) showed [8s Js] and won 3750 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #570460889149341709-7-1445174657 - Holdem no limit (50/100) - 2015/10/18 13:24:17 UTC
+Table: 'KILL THE FISH(132820776)#012' 9-max (real money) Seat #9 is the button
+Seat 1: manggy94 (5452)
+Seat 2: pitchard (9750)
+Seat 3: yo91 (9975)
+Seat 4: RunL1keJason (10500)
+Seat 5: NerfezMwa (19846)
+Seat 6: chouill99 (9675)
+Seat 7: steph8193 (12725)
+Seat 8: kenkabis (10000)
+Seat 9: Momm (12077)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 50
+pitchard posts big blind 100
+Dealt to manggy94 [Qs 7d]
+*** PRE-FLOP *** 
+yo91 folds
+RunL1keJason folds
+NerfezMwa raises 100 to 200
+chouill99 folds
+steph8193 raises 800 to 1000
+kenkabis folds
+Momm folds
+manggy94 folds
+pitchard folds
+NerfezMwa raises 4000 to 5000
+steph8193 raises 7725 to 12725 and is all-in
+NerfezMwa raises 7121 to 19846 and is all-in
+*** FLOP *** [Js Th Jd]
+*** TURN *** [Js Th Jd][5c]
+*** RIVER *** [Js Th Jd 5c][6s]
+*** SHOW DOWN ***
+steph8193 shows [Kh Ad] (One pair : Jacks)
+NerfezMwa shows [Qh Qd] (Two pairs : Queens and Jacks)
+NerfezMwa collected 32721 from pot
+*** SUMMARY ***
+Total pot 32721 | No rake
+Board: [Js Th Jd 5c 6s]
+Seat 5: NerfezMwa showed [Qh Qd] and won 32721 with Two pairs : Queens and Jacks
+Seat 7: steph8193 showed [Kh Ad] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #570460889149341709-8-1445174725 - Holdem no limit (50/100) - 2015/10/18 13:25:25 UTC
+Table: 'KILL THE FISH(132820776)#012' 9-max (real money) Seat #1 is the button
+Seat 1: manggy94 (5402)
+Seat 2: pitchard (9650)
+Seat 3: yo91 (9975)
+Seat 4: RunL1keJason (10500)
+Seat 5: NerfezMwa (32721)
+Seat 6: chouill99 (9675)
+Seat 8: kenkabis (10000)
+Seat 9: Momm (12077)
+*** ANTE/BLINDS ***
+pitchard posts small blind 50
+yo91 posts big blind 100
+Dealt to manggy94 [6s 8h]
+*** PRE-FLOP *** 
+RunL1keJason folds
+NerfezMwa folds
+chouill99 calls 100
+kenkabis folds
+Momm calls 100
+manggy94 folds
+pitchard calls 50
+yo91 checks
+*** FLOP *** [Jd Jc 9s]
+pitchard checks
+yo91 checks
+chouill99 checks
+Momm checks
+*** TURN *** [Jd Jc 9s][Th]
+pitchard checks
+yo91 bets 200
+chouill99 folds
+Momm calls 200
+pitchard folds
+*** RIVER *** [Jd Jc 9s Th][8d]
+yo91 bets 400
+Momm raises 1600 to 2000
+yo91 calls 1600
+*** SHOW DOWN ***
+yo91 shows [Qd Td] (Straight Queen high)
+Momm shows [Jh 9h] (Full of Jacks and 9)
+Momm collected 4800 from pot
+*** SUMMARY ***
+Total pot 4800 | No rake
+Board: [Jd Jc 9s Th 8d]
+Seat 3: yo91 (big blind) showed [Qd Td] and lost with Straight Queen high
+Seat 9: Momm showed [Jh 9h] and won 4800 with Full of Jacks and 9
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #570460889149341709-9-1445174829 - Holdem no limit (75/150) - 2015/10/18 13:27:09 UTC
+Table: 'KILL THE FISH(132820776)#012' 9-max (real money) Seat #2 is the button
+Seat 1: manggy94 (5402)
+Seat 2: pitchard (9550)
+Seat 3: yo91 (7675)
+Seat 4: RunL1keJason (10500)
+Seat 5: NerfezMwa (32721)
+Seat 6: chouill99 (9575)
+Seat 7: WeedAhmax (10000)
+Seat 8: kenkabis (10000)
+Seat 9: Momm (14577)
+*** ANTE/BLINDS ***
+yo91 posts small blind 75
+RunL1keJason posts big blind 150
+Dealt to manggy94 [5h Ah]
+*** PRE-FLOP *** 
+NerfezMwa calls 150
+chouill99 folds
+WeedAhmax folds
+kenkabis folds
+Momm folds
+manggy94 calls 150
+pitchard calls 150
+yo91 calls 75
+RunL1keJason checks
+*** FLOP *** [3d 6s Kh]
+yo91 checks
+RunL1keJason checks
+NerfezMwa bets 150
+manggy94 folds
+pitchard folds
+yo91 folds
+RunL1keJason folds
+NerfezMwa collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3d 6s Kh]
+Seat 5: NerfezMwa won 900
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #570460889149341709-10-1445174878 - Holdem no limit (75/150) - 2015/10/18 13:27:58 UTC
+Table: 'KILL THE FISH(132820776)#012' 9-max (real money) Seat #3 is the button
+Seat 1: manggy94 (5252)
+Seat 2: pitchard (9400)
+Seat 3: yo91 (7525)
+Seat 4: RunL1keJason (10350)
+Seat 5: NerfezMwa (33321)
+Seat 6: chouill99 (9575)
+Seat 7: WeedAhmax (10000)
+Seat 8: kenkabis (10000)
+Seat 9: Momm (14577)
+*** ANTE/BLINDS ***
+RunL1keJason posts small blind 75
+NerfezMwa posts big blind 150
+Dealt to manggy94 [9s 2c]
+*** PRE-FLOP *** 
+chouill99 calls 150
+WeedAhmax folds
+kenkabis folds
+Momm folds
+manggy94 folds
+pitchard folds
+yo91 folds
+RunL1keJason calls 75
+NerfezMwa checks
+*** FLOP *** [8c 8s 9h]
+RunL1keJason bets 225
+NerfezMwa folds
+chouill99 folds
+RunL1keJason collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | No rake
+Board: [8c 8s 9h]
+Seat 4: RunL1keJason (small blind) won 675
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #570460889149341709-11-1445174923 - Holdem no limit (75/150) - 2015/10/18 13:28:43 UTC
+Table: 'KILL THE FISH(132820776)#012' 9-max (real money) Seat #4 is the button
+Seat 1: manggy94 (5252)
+Seat 2: pitchard (9400)
+Seat 3: yo91 (7525)
+Seat 4: RunL1keJason (10650)
+Seat 5: NerfezMwa (33171)
+Seat 6: chouill99 (9425)
+Seat 7: WeedAhmax (10000)
+Seat 8: kenkabis (10000)
+Seat 9: Momm (14577)
+*** ANTE/BLINDS ***
+NerfezMwa posts small blind 75
+chouill99 posts big blind 150
+Dealt to manggy94 [8c 4h]
+*** PRE-FLOP *** 
+WeedAhmax folds
+kenkabis folds
+Momm folds
+manggy94 folds
+pitchard folds
+yo91 folds
+RunL1keJason folds
+NerfezMwa calls 75
+chouill99 checks
+*** FLOP *** [5c Ac Jh]
+NerfezMwa bets 250
+chouill99 folds
+NerfezMwa collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [5c Ac Jh]
+Seat 5: NerfezMwa (small blind) won 550
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #570460889149341709-12-1445174991 - Holdem no limit (75/150) - 2015/10/18 13:29:51 UTC
+Table: 'KILL THE FISH(132820776)#012' 9-max (real money) Seat #5 is the button
+Seat 1: manggy94 (5252)
+Seat 2: pitchard (9400)
+Seat 3: yo91 (7525)
+Seat 4: RunL1keJason (10650)
+Seat 5: NerfezMwa (33321)
+Seat 6: chouill99 (9275)
+Seat 7: WeedAhmax (10000)
+Seat 8: kenkabis (10000)
+Seat 9: Momm (14577)
+*** ANTE/BLINDS ***
+chouill99 posts small blind 75
+WeedAhmax posts big blind 150
+Dealt to manggy94 [As Tc]
+*** PRE-FLOP *** 
+kenkabis folds
+Momm calls 150
+manggy94 raises 525 to 675
+pitchard folds
+yo91 folds
+RunL1keJason folds
+NerfezMwa folds
+chouill99 folds
+WeedAhmax folds
+Momm calls 525
+*** FLOP *** [3s 6d 3d]
+Momm checks
+manggy94 bets 1575
+Momm calls 1575
+*** TURN *** [3s 6d 3d][Qd]
+Momm checks
+manggy94 checks
+*** RIVER *** [3s 6d 3d Qd][6s]
+Momm bets 4725
+manggy94 folds
+Momm collected 9450 from pot
+*** SUMMARY ***
+Total pot 9450 | No rake
+Board: [3s 6d 3d Qd 6s]
+Seat 9: Momm won 9450
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #570460889149341709-13-1445175062 - Holdem no limit (75/150) - 2015/10/18 13:31:02 UTC
+Table: 'KILL THE FISH(132820776)#012' 9-max (real money) Seat #6 is the button
+Seat 1: manggy94 (3002)
+Seat 2: pitchard (9400)
+Seat 3: yo91 (7525)
+Seat 4: RunL1keJason (10650)
+Seat 5: NerfezMwa (33321)
+Seat 6: chouill99 (9200)
+Seat 7: WeedAhmax (9850)
+Seat 8: kenkabis (10000)
+Seat 9: Momm (17052)
+*** ANTE/BLINDS ***
+WeedAhmax posts small blind 75
+kenkabis posts big blind 150
+Dealt to manggy94 [Th Ts]
+*** PRE-FLOP *** 
+Momm folds
+manggy94 raises 2852 to 3002 and is all-in
+pitchard folds
+yo91 raises 4523 to 7525 and is all-in
+RunL1keJason folds
+NerfezMwa folds
+chouill99 folds
+WeedAhmax folds
+kenkabis folds
+*** FLOP *** [Kh Js 3h]
+*** TURN *** [Kh Js 3h][2d]
+*** RIVER *** [Kh Js 3h 2d][Ks]
+*** SHOW DOWN ***
+manggy94 shows [Th Ts] (Two pairs : Kings and Tens)
+yo91 shows [Ac Jh] (Two pairs : Kings and Jacks)
+yo91 collected 10752 from pot
+*** SUMMARY ***
+Total pot 10752 | No rake
+Board: [Kh Js 3h 2d Ks]
+Seat 1: manggy94 showed [Th Ts] and lost with Two pairs : Kings and Tens
+Seat 3: yo91 showed [Ac Jh] and won 10752 with Two pairs : Kings and Jacks
+
+

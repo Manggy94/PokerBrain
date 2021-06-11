@@ -1,0 +1,1794 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 2 - HandId: #596503771240988703-1-1449930634 - Holdem no limit (75/150) - 2015/12/12 14:30:34 UTC
+Table: 'Kill The Fish(138884357)#030' 8-max (real money) Seat #3 is the button
+Seat 1: CoccinelleMJ (9925)
+Seat 3: manggy94 (10000)
+Seat 5: soyezaimable (10000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 75
+soyezaimable posts big blind 150
+Dealt to manggy94 [9h 4h]
+*** PRE-FLOP *** 
+manggy94 calls 75
+soyezaimable checks
+*** FLOP *** [3d 8d Kc]
+soyezaimable checks
+manggy94 bets 150
+soyezaimable calls 150
+*** TURN *** [3d 8d Kc][6c]
+soyezaimable checks
+manggy94 checks
+*** RIVER *** [3d 8d Kc 6c][2s]
+soyezaimable checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [9h 4h] (High card : King)
+soyezaimable shows [4c 4s] (One pair : 4)
+soyezaimable collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [3d 8d Kc 6c 2s]
+Seat 3: manggy94 (small blind) (button) showed [9h 4h] and lost with High card : King
+Seat 5: soyezaimable (big blind) showed [4c 4s] and won 600 with One pair : 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 2 - HandId: #596503771240988692-15-1449930654 - Holdem no limit (75/150) - 2015/12/12 14:30:54 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #4 is the button
+Seat 1: Jonjones67 (18063)
+Seat 2: ChauVeDuCoN (9600)
+Seat 3: 76logan (6600)
+Seat 4: filtsous (18900)
+Seat 5: ABDULBACH (14361)
+Seat 6: manggy94 (9700)
+Seat 7: M.Seven (24076)
+Seat 8: fifi1664 (8400)
+*** ANTE/BLINDS ***
+ABDULBACH posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [Jd Ad]
+*** PRE-FLOP *** 
+M.Seven folds
+fifi1664 raises 225 to 375
+Jonjones67 folds
+ChauVeDuCoN folds
+76logan folds
+filtsous folds
+ABDULBACH calls 300
+manggy94 raises 1125 to 1500
+fifi1664 folds
+ABDULBACH calls 1125
+*** FLOP *** [4c Kh 4h]
+ABDULBACH checks
+manggy94 bets 8200 and is all-in
+ABDULBACH folds
+manggy94 collected 11575 from pot
+*** SUMMARY ***
+Total pot 11575 | No rake
+Board: [4c Kh 4h]
+Seat 6: manggy94 (big blind) won 11575
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 2 - HandId: #596503771240988692-16-1449930700 - Holdem no limit (75/150) - 2015/12/12 14:31:40 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #5 is the button
+Seat 1: Jonjones67 (18063)
+Seat 2: ChauVeDuCoN (9600)
+Seat 3: 76logan (6600)
+Seat 4: filtsous (18900)
+Seat 5: ABDULBACH (12861)
+Seat 6: manggy94 (11575)
+Seat 7: M.Seven (24076)
+Seat 8: fifi1664 (8025)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 75
+M.Seven posts big blind 150
+Dealt to manggy94 [9h 3d]
+*** PRE-FLOP *** 
+fifi1664 folds
+Jonjones67 folds
+ChauVeDuCoN folds
+76logan calls 150
+filtsous folds
+ABDULBACH calls 150
+manggy94 folds
+M.Seven checks
+*** FLOP *** [5c 2h 3c]
+M.Seven bets 150
+76logan raises 6300 to 6450 and is all-in
+ABDULBACH calls 6450
+M.Seven folds
+*** TURN *** [5c 2h 3c][8d]
+*** RIVER *** [5c 2h 3c 8d][Kh]
+*** SHOW DOWN ***
+ABDULBACH shows [7c Qc] (High card : King)
+76logan shows [As Ah] (One pair : Aces)
+76logan collected 13575 from pot
+*** SUMMARY ***
+Total pot 13575 | No rake
+Board: [5c 2h 3c 8d Kh]
+Seat 3: 76logan showed [As Ah] and won 13575 with One pair : Aces
+Seat 5: ABDULBACH (button) showed [7c Qc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 2 - HandId: #596503771240988692-17-1449930736 - Holdem no limit (75/150) - 2015/12/12 14:32:16 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #6 is the button
+Seat 1: Jonjones67 (18063)
+Seat 2: ChauVeDuCoN (9600)
+Seat 3: 76logan (13575)
+Seat 4: filtsous (18900)
+Seat 5: ABDULBACH (6261)
+Seat 6: manggy94 (11500)
+Seat 7: M.Seven (23776)
+Seat 8: fifi1664 (8025)
+*** ANTE/BLINDS ***
+M.Seven posts small blind 75
+fifi1664 posts big blind 150
+Dealt to manggy94 [2c 5c]
+*** PRE-FLOP *** 
+Jonjones67 folds
+ChauVeDuCoN folds
+76logan raises 150 to 300
+filtsous folds
+ABDULBACH folds
+manggy94 folds
+M.Seven calls 225
+fifi1664 calls 150
+*** FLOP *** [9c 9d 4d]
+M.Seven checks
+fifi1664 checks
+76logan bets 450
+M.Seven folds
+fifi1664 calls 450
+*** TURN *** [9c 9d 4d][2s]
+fifi1664 checks
+76logan bets 1200
+fifi1664 calls 1200
+*** RIVER *** [9c 9d 4d 2s][6c]
+fifi1664 checks
+76logan bets 2800
+fifi1664 calls 2800
+*** SHOW DOWN ***
+76logan shows [Kd Qd] (One pair : 9)
+fifi1664 shows [4s 6h] (Two pairs : 9 and 6)
+fifi1664 collected 9800 from pot
+*** SUMMARY ***
+Total pot 9800 | No rake
+Board: [9c 9d 4d 2s 6c]
+Seat 3: 76logan showed [Kd Qd] and lost with One pair : 9
+Seat 8: fifi1664 (big blind) showed [4s 6h] and won 9800 with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 3 - HandId: #596503771240988692-18-1449930798 - Holdem no limit (100/200) - 2015/12/12 14:33:18 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #7 is the button
+Seat 1: Jonjones67 (18063)
+Seat 2: ChauVeDuCoN (9600)
+Seat 3: 76logan (8825)
+Seat 4: filtsous (18900)
+Seat 5: ABDULBACH (6261)
+Seat 6: manggy94 (11500)
+Seat 7: M.Seven (23476)
+Seat 8: fifi1664 (13075)
+*** ANTE/BLINDS ***
+fifi1664 posts small blind 100
+Jonjones67 posts big blind 200
+Dealt to manggy94 [Jh 2c]
+*** PRE-FLOP *** 
+ChauVeDuCoN folds
+76logan calls 200
+filtsous folds
+ABDULBACH calls 200
+manggy94 folds
+M.Seven calls 200
+fifi1664 calls 100
+Jonjones67 checks
+*** FLOP *** [8c Js 4s]
+fifi1664 checks
+Jonjones67 checks
+76logan checks
+ABDULBACH checks
+M.Seven bets 1000
+fifi1664 folds
+Jonjones67 folds
+76logan folds
+ABDULBACH folds
+M.Seven collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | No rake
+Board: [8c Js 4s]
+Seat 7: M.Seven (button) won 2000
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 3 - HandId: #596503771240988692-19-1449930863 - Holdem no limit (100/200) - 2015/12/12 14:34:23 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #8 is the button
+Seat 1: Jonjones67 (17863)
+Seat 2: ChauVeDuCoN (9600)
+Seat 3: 76logan (8625)
+Seat 4: filtsous (18900)
+Seat 5: ABDULBACH (6061)
+Seat 6: manggy94 (11500)
+Seat 7: M.Seven (24276)
+Seat 8: fifi1664 (12875)
+*** ANTE/BLINDS ***
+Jonjones67 posts small blind 100
+ChauVeDuCoN posts big blind 200
+Dealt to manggy94 [2h 4h]
+*** PRE-FLOP *** 
+76logan calls 200
+filtsous folds
+ABDULBACH folds
+manggy94 calls 200
+M.Seven raises 200 to 400
+fifi1664 folds
+Jonjones67 folds
+ChauVeDuCoN folds
+76logan calls 200
+manggy94 calls 200
+*** FLOP *** [9s Kh Th]
+76logan checks
+manggy94 bets 200
+M.Seven calls 200
+76logan calls 200
+*** TURN *** [9s Kh Th][2d]
+76logan checks
+manggy94 checks
+M.Seven checks
+*** RIVER *** [9s Kh Th 2d][As]
+76logan checks
+manggy94 checks
+M.Seven bets 2100
+76logan folds
+manggy94 folds
+M.Seven collected 4200 from pot
+*** SUMMARY ***
+Total pot 4200 | No rake
+Board: [9s Kh Th 2d As]
+Seat 7: M.Seven won 4200
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 3 - HandId: #596503771240988692-20-1449930924 - Holdem no limit (100/200) - 2015/12/12 14:35:24 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #1 is the button
+Seat 1: Jonjones67 (17763)
+Seat 2: ChauVeDuCoN (9400)
+Seat 3: 76logan (8025)
+Seat 4: filtsous (18900)
+Seat 5: ABDULBACH (6061)
+Seat 6: manggy94 (10900)
+Seat 7: M.Seven (25776)
+Seat 8: fifi1664 (12875)
+*** ANTE/BLINDS ***
+ChauVeDuCoN posts small blind 100
+76logan posts big blind 200
+Dealt to manggy94 [9h 4h]
+*** PRE-FLOP *** 
+filtsous folds
+ABDULBACH folds
+manggy94 folds
+M.Seven folds
+fifi1664 folds
+Jonjones67 folds
+ChauVeDuCoN folds
+76logan shows [2c 5s] (High card : 5)
+76logan collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: 76logan (big blind) showed [2c 5s] and won 300 with High card : 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 3 - HandId: #596503771240988692-21-1449930945 - Holdem no limit (100/200) - 2015/12/12 14:35:45 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #2 is the button
+Seat 1: Jonjones67 (17763)
+Seat 2: ChauVeDuCoN (9300)
+Seat 3: 76logan (8125)
+Seat 4: filtsous (18900)
+Seat 5: ABDULBACH (6061)
+Seat 6: manggy94 (10900)
+Seat 7: M.Seven (25776)
+Seat 8: fifi1664 (12875)
+*** ANTE/BLINDS ***
+76logan posts small blind 100
+filtsous posts big blind 200
+Dealt to manggy94 [Qc Ac]
+*** PRE-FLOP *** 
+ABDULBACH folds
+manggy94 raises 500 to 700
+M.Seven calls 700
+fifi1664 folds
+Jonjones67 folds
+ChauVeDuCoN folds
+76logan folds
+filtsous folds
+*** FLOP *** [5h 9h 8d]
+manggy94 bets 1700
+M.Seven calls 1700
+*** TURN *** [5h 9h 8d][3c]
+manggy94 checks
+M.Seven checks
+*** RIVER *** [5h 9h 8d 3c][8c]
+manggy94 checks
+M.Seven checks
+*** SHOW DOWN ***
+M.Seven shows [Ad Td] (One pair : 8)
+manggy94 shows [Qc Ac] (One pair : 8)
+manggy94 collected 5100 from pot
+*** SUMMARY ***
+Total pot 5100 | No rake
+Board: [5h 9h 8d 3c 8c]
+Seat 6: manggy94 showed [Qc Ac] and won 5100 with One pair : 8
+Seat 7: M.Seven showed [Ad Td] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 3 - HandId: #596503771240988692-22-1449931006 - Holdem no limit (100/200) - 2015/12/12 14:36:46 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #3 is the button
+Seat 1: Jonjones67 (17763)
+Seat 2: ChauVeDuCoN (9300)
+Seat 3: 76logan (8025)
+Seat 4: filtsous (18700)
+Seat 5: ABDULBACH (6061)
+Seat 6: manggy94 (13600)
+Seat 7: M.Seven (23376)
+Seat 8: fifi1664 (12875)
+*** ANTE/BLINDS ***
+filtsous posts small blind 100
+ABDULBACH posts big blind 200
+Dealt to manggy94 [4d 8c]
+*** PRE-FLOP *** 
+manggy94 folds
+M.Seven folds
+fifi1664 folds
+Jonjones67 folds
+ChauVeDuCoN folds
+76logan folds
+filtsous raises 18500 to 18700 and is all-in
+ABDULBACH folds
+filtsous collected 18900 from pot
+*** SUMMARY ***
+Total pot 18900 | No rake
+Seat 4: filtsous (small blind) won 18900
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 3 - HandId: #596503771240988692-23-1449931045 - Holdem no limit (100/200) - 2015/12/12 14:37:25 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #4 is the button
+Seat 1: Jonjones67 (17763)
+Seat 2: ChauVeDuCoN (9300)
+Seat 3: 76logan (8025)
+Seat 4: filtsous (18900)
+Seat 5: ABDULBACH (5861)
+Seat 6: manggy94 (13600)
+Seat 7: M.Seven (23376)
+Seat 8: fifi1664 (12875)
+*** ANTE/BLINDS ***
+ABDULBACH posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [Ks Tc]
+*** PRE-FLOP *** 
+M.Seven folds
+fifi1664 folds
+Jonjones67 calls 200
+ChauVeDuCoN folds
+76logan calls 200
+filtsous folds
+ABDULBACH folds
+manggy94 checks
+*** FLOP *** [4h 2c Kh]
+manggy94 checks
+Jonjones67 checks
+76logan bets 525
+manggy94 raises 1750 to 2275
+Jonjones67 folds
+76logan raises 5550 to 7825 and is all-in
+manggy94 calls 5550
+*** TURN *** [4h 2c Kh][Jd]
+*** RIVER *** [4h 2c Kh Jd][5c]
+*** SHOW DOWN ***
+76logan shows [9h 7h] (High card : King)
+manggy94 shows [Ks Tc] (One pair : Kings)
+manggy94 collected 16350 from pot
+*** SUMMARY ***
+Total pot 16350 | No rake
+Board: [4h 2c Kh Jd 5c]
+Seat 3: 76logan showed [9h 7h] and lost with High card : King
+Seat 6: manggy94 (big blind) showed [Ks Tc] and won 16350 with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 3 - HandId: #596503771240988692-24-1449931113 - Holdem no limit (100/200) - 2015/12/12 14:38:33 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #5 is the button
+Seat 1: Jonjones67 (17563)
+Seat 2: ChauVeDuCoN (9300)
+Seat 4: filtsous (18900)
+Seat 5: ABDULBACH (5761)
+Seat 6: manggy94 (21925)
+Seat 7: M.Seven (23376)
+Seat 8: fifi1664 (12875)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+M.Seven posts big blind 200
+Dealt to manggy94 [9h Qc]
+*** PRE-FLOP *** 
+fifi1664 raises 300 to 500
+Jonjones67 folds
+ChauVeDuCoN folds
+filtsous folds
+ABDULBACH calls 500
+manggy94 folds
+M.Seven calls 300
+*** FLOP *** [Kc Ah 5s]
+M.Seven checks
+fifi1664 bets 800
+ABDULBACH folds
+M.Seven folds
+fifi1664 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [Kc Ah 5s]
+Seat 8: fifi1664 won 2400
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 4 - HandId: #596503771240988692-25-1449931235 - Holdem no limit (150/300) - 2015/12/12 14:40:35 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #6 is the button
+Seat 1: Jonjones67 (17563)
+Seat 2: ChauVeDuCoN (9300)
+Seat 3: Cyrnos 77 (10000)
+Seat 4: filtsous (18900)
+Seat 5: ABDULBACH (5261)
+Seat 6: manggy94 (21825)
+Seat 7: M.Seven (22876)
+Seat 8: fifi1664 (13975)
+*** ANTE/BLINDS ***
+M.Seven posts small blind 150
+fifi1664 posts big blind 300
+Dealt to manggy94 [5h 9d]
+*** PRE-FLOP *** 
+Jonjones67 folds
+ChauVeDuCoN folds
+Cyrnos 77 folds
+filtsous calls 300
+ABDULBACH folds
+manggy94 folds
+M.Seven calls 150
+fifi1664 checks
+*** FLOP *** [4h 7c Kd]
+M.Seven checks
+fifi1664 bets 600
+filtsous raises 18000 to 18600 and is all-in
+M.Seven folds
+fifi1664 calls 13075 and is all-in
+*** TURN *** [4h 7c Kd][9s]
+*** RIVER *** [4h 7c Kd 9s][Qc]
+*** SHOW DOWN ***
+fifi1664 shows [4c 7d] (Two pairs : 7 and 4)
+filtsous shows [Ah As] (One pair : Aces)
+filtsous collected 4925 from side pot 1
+fifi1664 collected 28250 from main pot
+*** SUMMARY ***
+Total pot 33175 | No rake
+Board: [4h 7c Kd 9s Qc]
+Seat 4: filtsous showed [Ah As] and won 4925 with One pair : Aces
+Seat 8: fifi1664 (big blind) showed [4c 7d] and won 28250 with Two pairs : 7 and 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 4 - HandId: #596503771240988692-26-1449931295 - Holdem no limit (150/300) - 2015/12/12 14:41:35 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #7 is the button
+Seat 1: Jonjones67 (17563)
+Seat 2: ChauVeDuCoN (9300)
+Seat 3: Cyrnos 77 (10000)
+Seat 4: filtsous (4925)
+Seat 5: ABDULBACH (5261)
+Seat 6: manggy94 (21825)
+Seat 7: M.Seven (22576)
+Seat 8: fifi1664 (28250)
+*** ANTE/BLINDS ***
+fifi1664 posts small blind 150
+Jonjones67 posts big blind 300
+Dealt to manggy94 [4h 9d]
+*** PRE-FLOP *** 
+ChauVeDuCoN raises 300 to 600
+Cyrnos 77 folds
+filtsous folds
+ABDULBACH calls 600
+manggy94 folds
+M.Seven folds
+fifi1664 folds
+Jonjones67 calls 300
+*** FLOP *** [6s Jd 2d]
+Jonjones67 checks
+ChauVeDuCoN checks
+ABDULBACH bets 1385
+Jonjones67 folds
+ChauVeDuCoN folds
+ABDULBACH collected 3335 from pot
+*** SUMMARY ***
+Total pot 3335 | No rake
+Board: [6s Jd 2d]
+Seat 5: ABDULBACH won 3335
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 4 - HandId: #596503771240988692-27-1449931394 - Holdem no limit (150/300) - 2015/12/12 14:43:14 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #8 is the button
+Seat 1: Jonjones67 (16963)
+Seat 2: ChauVeDuCoN (8700)
+Seat 3: Cyrnos 77 (10000)
+Seat 4: filtsous (4925)
+Seat 5: ABDULBACH (6611)
+Seat 6: manggy94 (21825)
+Seat 7: M.Seven (22576)
+Seat 8: fifi1664 (28100)
+*** ANTE/BLINDS ***
+Jonjones67 posts small blind 150
+ChauVeDuCoN posts big blind 300
+Dealt to manggy94 [2d Jh]
+*** PRE-FLOP *** 
+Cyrnos 77 folds
+filtsous raises 4625 to 4925 and is all-in
+ABDULBACH folds
+manggy94 folds
+M.Seven folds
+fifi1664 folds
+Jonjones67 folds
+ChauVeDuCoN folds
+filtsous collected 5375 from pot
+*** SUMMARY ***
+Total pot 5375 | No rake
+Seat 4: filtsous won 5375
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 4 - HandId: #596503771240988692-28-1449931427 - Holdem no limit (150/300) - 2015/12/12 14:43:47 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #1 is the button
+Seat 1: Jonjones67 (16813)
+Seat 2: ChauVeDuCoN (8400)
+Seat 3: Cyrnos 77 (10000)
+Seat 4: filtsous (5375)
+Seat 5: ABDULBACH (6611)
+Seat 6: manggy94 (21825)
+Seat 7: M.Seven (22576)
+Seat 8: fifi1664 (28100)
+*** ANTE/BLINDS ***
+ChauVeDuCoN posts small blind 150
+Cyrnos 77 posts big blind 300
+Dealt to manggy94 [9h 7h]
+*** PRE-FLOP *** 
+filtsous raises 5075 to 5375 and is all-in
+ABDULBACH folds
+manggy94 folds
+M.Seven folds
+fifi1664 folds
+Jonjones67 folds
+ChauVeDuCoN raises 3025 to 8400 and is all-in
+Cyrnos 77 folds
+*** FLOP *** [7d Jd 3c]
+*** TURN *** [7d Jd 3c][8h]
+*** RIVER *** [7d Jd 3c 8h][Ts]
+*** SHOW DOWN ***
+filtsous shows [6s Ad] (High card : Ace)
+ChauVeDuCoN shows [2d 2c] (One pair : 2)
+ChauVeDuCoN collected 14075 from pot
+*** SUMMARY ***
+Total pot 14075 | No rake
+Board: [7d Jd 3c 8h Ts]
+Seat 2: ChauVeDuCoN (small blind) showed [2d 2c] and won 14075 with One pair : 2
+Seat 4: filtsous showed [6s Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 4 - HandId: #596503771240988692-29-1449931458 - Holdem no limit (150/300) - 2015/12/12 14:44:18 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #2 is the button
+Seat 1: Jonjones67 (16813)
+Seat 2: ChauVeDuCoN (14075)
+Seat 3: Cyrnos 77 (9700)
+Seat 5: ABDULBACH (6611)
+Seat 6: manggy94 (21825)
+Seat 7: M.Seven (22576)
+Seat 8: fifi1664 (28100)
+*** ANTE/BLINDS ***
+Cyrnos 77 posts small blind 150
+ABDULBACH posts big blind 300
+Dealt to manggy94 [9c 6c]
+*** PRE-FLOP *** 
+manggy94 folds
+M.Seven folds
+fifi1664 raises 450 to 750
+Jonjones67 folds
+ChauVeDuCoN folds
+Cyrnos 77 calls 600
+ABDULBACH folds
+*** FLOP *** [2d Ks 4d]
+Cyrnos 77 checks
+fifi1664 bets 900
+Cyrnos 77 calls 900
+*** TURN *** [2d Ks 4d][7d]
+Cyrnos 77 checks
+fifi1664 checks
+*** RIVER *** [2d Ks 4d 7d][5s]
+Cyrnos 77 bets 2700
+fifi1664 folds
+Cyrnos 77 collected 6300 from pot
+*** SUMMARY ***
+Total pot 6300 | No rake
+Board: [2d Ks 4d 7d 5s]
+Seat 3: Cyrnos 77 (small blind) won 6300
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 5 - HandId: #596503771240988692-30-1449931525 - Holdem no limit (25/150/300) - 2015/12/12 14:45:25 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #4 is the button
+Seat 1: Jonjones67 (16813)
+Seat 2: ChauVeDuCoN (14075)
+Seat 3: Cyrnos 77 (11650)
+Seat 4: Le Yougo13 (10000)
+Seat 5: ABDULBACH (6311)
+Seat 6: manggy94 (21825)
+Seat 7: M.Seven (22576)
+Seat 8: fifi1664 (26450)
+*** ANTE/BLINDS ***
+ABDULBACH posts ante 25
+manggy94 posts ante 25
+Jonjones67 posts ante 25
+ChauVeDuCoN posts ante 25
+Cyrnos 77 posts ante 25
+Le Yougo13 posts ante 25
+M.Seven posts ante 25
+fifi1664 posts ante 25
+ABDULBACH posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [4d Jh]
+*** PRE-FLOP *** 
+M.Seven folds
+fifi1664 folds
+Jonjones67 folds
+ChauVeDuCoN folds
+Cyrnos 77 folds
+Le Yougo13 folds
+ABDULBACH folds
+manggy94 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Seat 6: manggy94 (big blind) won 650
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 5 - HandId: #596503771240988692-31-1449931548 - Holdem no limit (25/150/300) - 2015/12/12 14:45:48 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #5 is the button
+Seat 1: Jonjones67 (16788)
+Seat 2: ChauVeDuCoN (14050)
+Seat 3: Cyrnos 77 (11625)
+Seat 4: Le Yougo13 (9975)
+Seat 5: ABDULBACH (6136)
+Seat 6: manggy94 (22150)
+Seat 7: M.Seven (22551)
+Seat 8: fifi1664 (26425)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+M.Seven posts ante 25
+Jonjones67 posts ante 25
+ChauVeDuCoN posts ante 25
+Cyrnos 77 posts ante 25
+Le Yougo13 posts ante 25
+ABDULBACH posts ante 25
+fifi1664 posts ante 25
+manggy94 posts small blind 150
+M.Seven posts big blind 300
+Dealt to manggy94 [2h 4s]
+*** PRE-FLOP *** 
+fifi1664 folds
+Jonjones67 raises 670 to 970
+ChauVeDuCoN calls 970
+Cyrnos 77 folds
+Le Yougo13 folds
+ABDULBACH calls 970
+manggy94 folds
+M.Seven calls 670
+*** FLOP *** [Qh Th Jh]
+M.Seven checks
+Jonjones67 bets 7464
+ChauVeDuCoN folds
+ABDULBACH folds
+M.Seven folds
+Jonjones67 collected 11694 from pot
+*** SUMMARY ***
+Total pot 11694 | No rake
+Board: [Qh Th Jh]
+Seat 1: Jonjones67 won 11694
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 5 - HandId: #596503771240988692-32-1449931651 - Holdem no limit (25/150/300) - 2015/12/12 14:47:31 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #6 is the button
+Seat 1: Jonjones67 (20023)
+Seat 2: ChauVeDuCoN (13055)
+Seat 3: Cyrnos 77 (11600)
+Seat 4: Le Yougo13 (9950)
+Seat 5: ABDULBACH (5141)
+Seat 6: manggy94 (21975)
+Seat 7: M.Seven (21556)
+Seat 8: fifi1664 (26400)
+*** ANTE/BLINDS ***
+M.Seven posts ante 25
+fifi1664 posts ante 25
+Jonjones67 posts ante 25
+ChauVeDuCoN posts ante 25
+Cyrnos 77 posts ante 25
+Le Yougo13 posts ante 25
+ABDULBACH posts ante 25
+manggy94 posts ante 25
+M.Seven posts small blind 150
+fifi1664 posts big blind 300
+Dealt to manggy94 [Js Ts]
+*** PRE-FLOP *** 
+Jonjones67 folds
+ChauVeDuCoN folds
+Cyrnos 77 folds
+Le Yougo13 folds
+ABDULBACH folds
+manggy94 raises 300 to 600
+M.Seven folds
+fifi1664 calls 300
+*** FLOP *** [7c 3c 7h]
+fifi1664 checks
+manggy94 bets 300
+fifi1664 calls 300
+*** TURN *** [7c 3c 7h][Kh]
+fifi1664 checks
+manggy94 checks
+*** RIVER *** [7c 3c 7h Kh][3d]
+fifi1664 checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [Js Ts] (Two pairs : 7 and 3)
+fifi1664 shows [Qh Kd] (Two pairs : Kings and 7)
+fifi1664 collected 2150 from pot
+*** SUMMARY ***
+Total pot 2150 | No rake
+Board: [7c 3c 7h Kh 3d]
+Seat 6: manggy94 (button) showed [Js Ts] and lost with Two pairs : 7 and 3
+Seat 8: fifi1664 (big blind) showed [Qh Kd] and won 2150 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 5 - HandId: #596503771240988692-33-1449931700 - Holdem no limit (25/150/300) - 2015/12/12 14:48:20 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #7 is the button
+Seat 1: Jonjones67 (19998)
+Seat 2: ChauVeDuCoN (13030)
+Seat 3: Cyrnos 77 (11575)
+Seat 4: Le Yougo13 (9925)
+Seat 5: ABDULBACH (5116)
+Seat 6: manggy94 (21050)
+Seat 7: M.Seven (21381)
+Seat 8: fifi1664 (27625)
+*** ANTE/BLINDS ***
+fifi1664 posts ante 25
+Jonjones67 posts ante 25
+ChauVeDuCoN posts ante 25
+Cyrnos 77 posts ante 25
+Le Yougo13 posts ante 25
+ABDULBACH posts ante 25
+manggy94 posts ante 25
+M.Seven posts ante 25
+fifi1664 posts small blind 150
+Jonjones67 posts big blind 300
+Dealt to manggy94 [9h Th]
+*** PRE-FLOP *** 
+ChauVeDuCoN folds
+Cyrnos 77 folds
+Le Yougo13 folds
+ABDULBACH calls 300
+manggy94 calls 300
+M.Seven folds
+fifi1664 calls 150
+Jonjones67 checks
+*** FLOP *** [3h 8c Qc]
+fifi1664 checks
+Jonjones67 checks
+ABDULBACH bets 4791 and is all-in
+manggy94 folds
+fifi1664 folds
+Jonjones67 folds
+ABDULBACH collected 6191 from pot
+*** SUMMARY ***
+Total pot 6191 | No rake
+Board: [3h 8c Qc]
+Seat 5: ABDULBACH won 6191
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 5 - HandId: #596503771240988692-34-1449931787 - Holdem no limit (25/150/300) - 2015/12/12 14:49:47 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #8 is the button
+Seat 1: Jonjones67 (19673)
+Seat 2: ChauVeDuCoN (13005)
+Seat 3: Cyrnos 77 (11550)
+Seat 4: Le Yougo13 (9900)
+Seat 5: ABDULBACH (6191)
+Seat 6: manggy94 (20725)
+Seat 7: M.Seven (21356)
+Seat 8: fifi1664 (27300)
+*** ANTE/BLINDS ***
+Jonjones67 posts ante 25
+ChauVeDuCoN posts ante 25
+Cyrnos 77 posts ante 25
+Le Yougo13 posts ante 25
+ABDULBACH posts ante 25
+manggy94 posts ante 25
+M.Seven posts ante 25
+fifi1664 posts ante 25
+Jonjones67 posts small blind 150
+ChauVeDuCoN posts big blind 300
+Dealt to manggy94 [5d 4s]
+*** PRE-FLOP *** 
+Cyrnos 77 folds
+Le Yougo13 folds
+ABDULBACH raises 300 to 600
+manggy94 folds
+M.Seven calls 600
+fifi1664 calls 600
+Jonjones67 folds
+ChauVeDuCoN calls 300
+*** FLOP *** [7h Th 2h]
+ChauVeDuCoN checks
+ABDULBACH checks
+M.Seven checks
+fifi1664 checks
+*** TURN *** [7h Th 2h][Qc]
+ChauVeDuCoN checks
+ABDULBACH checks
+M.Seven checks
+fifi1664 checks
+*** RIVER *** [7h Th 2h Qc][5s]
+ChauVeDuCoN checks
+ABDULBACH checks
+M.Seven checks
+fifi1664 bets 1375
+ChauVeDuCoN folds
+ABDULBACH calls 1375
+M.Seven folds
+*** SHOW DOWN ***
+ABDULBACH shows [7s 6s] (One pair : 7)
+fifi1664 shows [Kd Qd] (One pair : Queens)
+fifi1664 collected 5500 from pot
+*** SUMMARY ***
+Total pot 5500 | No rake
+Board: [7h Th 2h Qc 5s]
+Seat 5: ABDULBACH showed [7s 6s] and lost with One pair : 7
+Seat 8: fifi1664 (button) showed [Kd Qd] and won 5500 with One pair : Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 5 - HandId: #596503771240988692-35-1449931857 - Holdem no limit (25/150/300) - 2015/12/12 14:50:57 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #1 is the button
+Seat 1: Jonjones67 (19498)
+Seat 2: ChauVeDuCoN (12380)
+Seat 3: Cyrnos 77 (11525)
+Seat 4: Le Yougo13 (9875)
+Seat 5: ABDULBACH (4191)
+Seat 6: manggy94 (20700)
+Seat 7: M.Seven (20731)
+Seat 8: fifi1664 (30800)
+*** ANTE/BLINDS ***
+ChauVeDuCoN posts ante 25
+Cyrnos 77 posts ante 25
+Jonjones67 posts ante 25
+Le Yougo13 posts ante 25
+ABDULBACH posts ante 25
+manggy94 posts ante 25
+M.Seven posts ante 25
+fifi1664 posts ante 25
+ChauVeDuCoN posts small blind 150
+Cyrnos 77 posts big blind 300
+Dealt to manggy94 [2c Qc]
+*** PRE-FLOP *** 
+Le Yougo13 folds
+ABDULBACH folds
+manggy94 calls 300
+M.Seven folds
+fifi1664 folds
+Jonjones67 calls 300
+ChauVeDuCoN folds
+Cyrnos 77 checks
+*** FLOP *** [8d 7d 7h]
+Cyrnos 77 bets 300
+manggy94 folds
+Jonjones67 folds
+Cyrnos 77 collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [8d 7d 7h]
+Seat 3: Cyrnos 77 (big blind) won 1550
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #596503771240988692-36-1449931899 - Holdem no limit (30/200/400) - 2015/12/12 14:51:39 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #2 is the button
+Seat 1: Jonjones67 (19173)
+Seat 2: ChauVeDuCoN (12205)
+Seat 3: Cyrnos 77 (12450)
+Seat 4: Le Yougo13 (9850)
+Seat 5: ABDULBACH (4166)
+Seat 6: manggy94 (20375)
+Seat 7: M.Seven (20706)
+Seat 8: fifi1664 (30775)
+*** ANTE/BLINDS ***
+Cyrnos 77 posts ante 30
+Le Yougo13 posts ante 30
+Jonjones67 posts ante 30
+ChauVeDuCoN posts ante 30
+ABDULBACH posts ante 30
+manggy94 posts ante 30
+M.Seven posts ante 30
+fifi1664 posts ante 30
+Cyrnos 77 posts small blind 200
+Le Yougo13 posts big blind 400
+Dealt to manggy94 [3c 3d]
+*** PRE-FLOP *** 
+ABDULBACH folds
+manggy94 calls 400
+M.Seven folds
+fifi1664 raises 600 to 1000
+Jonjones67 folds
+ChauVeDuCoN folds
+Cyrnos 77 folds
+Le Yougo13 calls 600
+manggy94 calls 600
+*** FLOP *** [Kh Qc 2h]
+Le Yougo13 checks
+manggy94 checks
+fifi1664 bets 1720
+Le Yougo13 folds
+manggy94 folds
+fifi1664 collected 5160 from pot
+*** SUMMARY ***
+Total pot 5160 | No rake
+Board: [Kh Qc 2h]
+Seat 8: fifi1664 won 5160
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #596503771240988692-37-1449931950 - Holdem no limit (30/200/400) - 2015/12/12 14:52:30 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #3 is the button
+Seat 1: Jonjones67 (19143)
+Seat 2: ChauVeDuCoN (12175)
+Seat 3: Cyrnos 77 (12220)
+Seat 4: Le Yougo13 (8820)
+Seat 5: ABDULBACH (4136)
+Seat 6: manggy94 (19345)
+Seat 7: M.Seven (20676)
+Seat 8: fifi1664 (33185)
+*** ANTE/BLINDS ***
+Le Yougo13 posts ante 30
+ABDULBACH posts ante 30
+Jonjones67 posts ante 30
+ChauVeDuCoN posts ante 30
+Cyrnos 77 posts ante 30
+manggy94 posts ante 30
+M.Seven posts ante 30
+fifi1664 posts ante 30
+Le Yougo13 posts small blind 200
+ABDULBACH posts big blind 400
+Dealt to manggy94 [Ah 5d]
+*** PRE-FLOP *** 
+manggy94 folds
+M.Seven raises 400 to 800
+fifi1664 folds
+Jonjones67 folds
+ChauVeDuCoN folds
+Cyrnos 77 calls 800
+Le Yougo13 folds
+ABDULBACH folds
+*** FLOP *** [6h 8s 3h]
+M.Seven bets 2440
+Cyrnos 77 calls 2440
+*** TURN *** [6h 8s 3h][5c]
+M.Seven bets 400
+Cyrnos 77 raises 8550 to 8950 and is all-in
+M.Seven calls 8550
+*** RIVER *** [6h 8s 3h 5c][7s]
+*** SHOW DOWN ***
+Cyrnos 77 shows [Ad Js] (High card : Ace)
+M.Seven shows [Kd 8d] (One pair : 8)
+M.Seven collected 25220 from pot
+*** SUMMARY ***
+Total pot 25220 | No rake
+Board: [6h 8s 3h 5c 7s]
+Seat 3: Cyrnos 77 (button) showed [Ad Js] and lost with High card : Ace
+Seat 7: M.Seven showed [Kd 8d] and won 25220 with One pair : 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #596503771240988692-38-1449931992 - Holdem no limit (30/200/400) - 2015/12/12 14:53:12 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #4 is the button
+Seat 1: Jonjones67 (19113)
+Seat 2: ChauVeDuCoN (12145)
+Seat 4: Le Yougo13 (8590)
+Seat 5: ABDULBACH (3706)
+Seat 6: manggy94 (19315)
+Seat 7: M.Seven (33676)
+Seat 8: fifi1664 (33155)
+*** ANTE/BLINDS ***
+ABDULBACH posts ante 30
+manggy94 posts ante 30
+Jonjones67 posts ante 30
+ChauVeDuCoN posts ante 30
+Le Yougo13 posts ante 30
+M.Seven posts ante 30
+fifi1664 posts ante 30
+ABDULBACH posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [2c Ad]
+*** PRE-FLOP *** 
+M.Seven folds
+fifi1664 raises 600 to 1000
+Jonjones67 folds
+ChauVeDuCoN folds
+Le Yougo13 raises 7560 to 8560 and is all-in
+ABDULBACH calls 3476 and is all-in
+manggy94 folds
+fifi1664 folds
+*** FLOP *** [As 3c Ks]
+*** TURN *** [As 3c Ks][7h]
+*** RIVER *** [As 3c Ks 7h][Qh]
+*** SHOW DOWN ***
+ABDULBACH shows [Kd 5d] (One pair : Kings)
+Le Yougo13 shows [7c 7s] (Trips of 7)
+Le Yougo13 collected 13846 from pot
+*** SUMMARY ***
+Total pot 13846 | No rake
+Board: [As 3c Ks 7h Qh]
+Seat 4: Le Yougo13 (button) showed [7c 7s] and won 13846 with Trips of 7
+Seat 5: ABDULBACH (small blind) showed [Kd 5d] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #596503771240988692-39-1449932036 - Holdem no limit (30/200/400) - 2015/12/12 14:53:56 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #5 is the button
+Seat 1: Jonjones67 (19083)
+Seat 2: ChauVeDuCoN (12115)
+Seat 4: Le Yougo13 (13846)
+Seat 6: manggy94 (18885)
+Seat 7: M.Seven (33646)
+Seat 8: fifi1664 (32125)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+M.Seven posts ante 30
+Jonjones67 posts ante 30
+ChauVeDuCoN posts ante 30
+Le Yougo13 posts ante 30
+fifi1664 posts ante 30
+manggy94 posts small blind 200
+M.Seven posts big blind 400
+Dealt to manggy94 [Qc 7c]
+*** PRE-FLOP *** 
+fifi1664 folds
+Jonjones67 folds
+ChauVeDuCoN folds
+Le Yougo13 raises 400 to 800
+manggy94 folds
+M.Seven calls 400
+*** FLOP *** [2h Ks 7d]
+M.Seven checks
+Le Yougo13 bets 990
+M.Seven folds
+Le Yougo13 collected 2970 from pot
+*** SUMMARY ***
+Total pot 2970 | No rake
+Board: [2h Ks 7d]
+Seat 4: Le Yougo13 won 2970
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #596503771240988692-40-1449932089 - Holdem no limit (30/200/400) - 2015/12/12 14:54:49 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #6 is the button
+Seat 1: Jonjones67 (19053)
+Seat 2: ChauVeDuCoN (12085)
+Seat 4: Le Yougo13 (14996)
+Seat 6: manggy94 (18655)
+Seat 7: M.Seven (32816)
+Seat 8: fifi1664 (32095)
+*** ANTE/BLINDS ***
+M.Seven posts ante 30
+fifi1664 posts ante 30
+Jonjones67 posts ante 30
+ChauVeDuCoN posts ante 30
+Le Yougo13 posts ante 30
+manggy94 posts ante 30
+M.Seven posts small blind 200
+fifi1664 posts big blind 400
+Dealt to manggy94 [5c Jd]
+*** PRE-FLOP *** 
+Jonjones67 folds
+ChauVeDuCoN raises 568 to 968
+Le Yougo13 folds
+manggy94 folds
+M.Seven folds
+fifi1664 folds
+ChauVeDuCoN collected 1748 from pot
+*** SUMMARY ***
+Total pot 1748 | No rake
+Seat 2: ChauVeDuCoN won 1748
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #596503771240988692-41-1449932402 - Holdem no limit (30/200/400) - 2015/12/12 15:00:02 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #7 is the button
+Seat 1: Jonjones67 (19023)
+Seat 2: ChauVeDuCoN (12835)
+Seat 3: Romanin75 (9170)
+Seat 4: Le Yougo13 (14966)
+Seat 5: Katseng (12460)
+Seat 6: manggy94 (18625)
+Seat 7: M.Seven (32586)
+Seat 8: fifi1664 (31665)
+*** ANTE/BLINDS ***
+fifi1664 posts ante 30
+Jonjones67 posts ante 30
+ChauVeDuCoN posts ante 30
+Romanin75 posts ante 30
+Le Yougo13 posts ante 30
+Katseng posts ante 30
+manggy94 posts ante 30
+M.Seven posts ante 30
+fifi1664 posts small blind 200
+Jonjones67 posts big blind 400
+Dealt to manggy94 [6d Ah]
+*** PRE-FLOP *** 
+ChauVeDuCoN folds
+Romanin75 calls 400
+Le Yougo13 folds
+Katseng calls 400
+manggy94 folds
+M.Seven calls 400
+fifi1664 calls 200
+Jonjones67 checks
+*** FLOP *** [Qd 2s Jc]
+fifi1664 checks
+Jonjones67 checks
+Romanin75 checks
+Katseng bets 1120
+M.Seven calls 1120
+fifi1664 folds
+Jonjones67 folds
+Romanin75 folds
+*** TURN *** [Qd 2s Jc][5c]
+Katseng bets 4480
+M.Seven folds
+Katseng collected 8960 from pot
+*** SUMMARY ***
+Total pot 8960 | No rake
+Board: [Qd 2s Jc 5c]
+Seat 5: Katseng won 8960
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #596503771240988692-42-1449932519 - Holdem no limit (30/200/400) - 2015/12/12 15:01:59 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #8 is the button
+Seat 1: Jonjones67 (18593)
+Seat 2: ChauVeDuCoN (12805)
+Seat 3: Romanin75 (8740)
+Seat 4: Le Yougo13 (14936)
+Seat 5: Katseng (15390)
+Seat 6: manggy94 (18595)
+Seat 7: M.Seven (31036)
+Seat 8: fifi1664 (31235)
+*** ANTE/BLINDS ***
+Jonjones67 posts ante 30
+ChauVeDuCoN posts ante 30
+Romanin75 posts ante 30
+Le Yougo13 posts ante 30
+Katseng posts ante 30
+manggy94 posts ante 30
+M.Seven posts ante 30
+fifi1664 posts ante 30
+Jonjones67 posts small blind 200
+ChauVeDuCoN posts big blind 400
+Dealt to manggy94 [4h 8c]
+*** PRE-FLOP *** 
+Romanin75 folds
+Le Yougo13 raises 400 to 800
+Katseng folds
+manggy94 folds
+M.Seven raises 2440 to 3240
+fifi1664 folds
+Jonjones67 folds
+ChauVeDuCoN folds
+Le Yougo13 folds
+M.Seven collected 4880 from pot
+*** SUMMARY ***
+Total pot 4880 | No rake
+Seat 7: M.Seven won 4880
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #596503771240988692-43-1449932555 - Holdem no limit (40/250/500) - 2015/12/12 15:02:35 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #1 is the button
+Seat 1: Jonjones67 (18363)
+Seat 2: ChauVeDuCoN (12375)
+Seat 3: Romanin75 (8710)
+Seat 4: Le Yougo13 (14106)
+Seat 5: Katseng (15360)
+Seat 6: manggy94 (18565)
+Seat 7: M.Seven (32646)
+Seat 8: fifi1664 (31205)
+*** ANTE/BLINDS ***
+ChauVeDuCoN posts ante 40
+Romanin75 posts ante 40
+Jonjones67 posts ante 40
+Le Yougo13 posts ante 40
+Katseng posts ante 40
+manggy94 posts ante 40
+M.Seven posts ante 40
+fifi1664 posts ante 40
+ChauVeDuCoN posts small blind 250
+Romanin75 posts big blind 500
+Dealt to manggy94 [6d 7c]
+*** PRE-FLOP *** 
+Le Yougo13 raises 716 to 1216
+Katseng folds
+manggy94 folds
+M.Seven folds
+fifi1664 folds
+Jonjones67 raises 3701 to 4917
+ChauVeDuCoN folds
+Romanin75 folds
+Le Yougo13 folds
+Jonjones67 collected 7203 from pot
+*** SUMMARY ***
+Total pot 7203 | No rake
+Seat 1: Jonjones67 (button) won 7203
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #596503771240988692-44-1449932582 - Holdem no limit (40/250/500) - 2015/12/12 15:03:02 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #2 is the button
+Seat 1: Jonjones67 (20609)
+Seat 2: ChauVeDuCoN (12085)
+Seat 3: Romanin75 (8170)
+Seat 4: Le Yougo13 (12850)
+Seat 5: Katseng (15320)
+Seat 6: manggy94 (18525)
+Seat 7: M.Seven (32606)
+Seat 8: fifi1664 (31165)
+*** ANTE/BLINDS ***
+Romanin75 posts ante 40
+Le Yougo13 posts ante 40
+Jonjones67 posts ante 40
+ChauVeDuCoN posts ante 40
+Katseng posts ante 40
+manggy94 posts ante 40
+M.Seven posts ante 40
+fifi1664 posts ante 40
+Romanin75 posts small blind 250
+Le Yougo13 posts big blind 500
+Dealt to manggy94 [Tc 4c]
+*** PRE-FLOP *** 
+Katseng folds
+manggy94 folds
+M.Seven folds
+fifi1664 folds
+Jonjones67 calls 500
+ChauVeDuCoN folds
+Romanin75 raises 7630 to 8130 and is all-in
+Le Yougo13 folds
+Jonjones67 folds
+Romanin75 collected 9450 from pot
+*** SUMMARY ***
+Total pot 9450 | No rake
+Seat 3: Romanin75 (small blind) won 9450
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #596503771240988692-45-1449932603 - Holdem no limit (40/250/500) - 2015/12/12 15:03:23 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #3 is the button
+Seat 1: Jonjones67 (20069)
+Seat 2: ChauVeDuCoN (12045)
+Seat 3: Romanin75 (9450)
+Seat 4: Le Yougo13 (12310)
+Seat 5: Katseng (15280)
+Seat 6: manggy94 (18485)
+Seat 7: M.Seven (32566)
+Seat 8: fifi1664 (31125)
+*** ANTE/BLINDS ***
+Le Yougo13 posts ante 40
+Katseng posts ante 40
+Jonjones67 posts ante 40
+ChauVeDuCoN posts ante 40
+Romanin75 posts ante 40
+manggy94 posts ante 40
+M.Seven posts ante 40
+fifi1664 posts ante 40
+Le Yougo13 posts small blind 250
+Katseng posts big blind 500
+Dealt to manggy94 [Jd Ac]
+*** PRE-FLOP *** 
+manggy94 raises 1570 to 2070
+M.Seven folds
+fifi1664 folds
+Jonjones67 folds
+ChauVeDuCoN folds
+Romanin75 folds
+Le Yougo13 folds
+Katseng folds
+manggy94 collected 3140 from pot
+*** SUMMARY ***
+Total pot 3140 | No rake
+Seat 6: manggy94 won 3140
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #596503771240988692-46-1449932629 - Holdem no limit (40/250/500) - 2015/12/12 15:03:49 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #4 is the button
+Seat 1: Jonjones67 (20029)
+Seat 2: ChauVeDuCoN (12005)
+Seat 3: Romanin75 (9410)
+Seat 4: Le Yougo13 (12020)
+Seat 5: Katseng (14740)
+Seat 6: manggy94 (19515)
+Seat 7: M.Seven (32526)
+Seat 8: fifi1664 (31085)
+*** ANTE/BLINDS ***
+Katseng posts ante 40
+manggy94 posts ante 40
+Jonjones67 posts ante 40
+ChauVeDuCoN posts ante 40
+Romanin75 posts ante 40
+Le Yougo13 posts ante 40
+M.Seven posts ante 40
+fifi1664 posts ante 40
+Katseng posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [As 6s]
+*** PRE-FLOP *** 
+M.Seven folds
+fifi1664 folds
+Jonjones67 folds
+ChauVeDuCoN folds
+Romanin75 folds
+Le Yougo13 raises 500 to 1000
+Katseng calls 750
+manggy94 calls 500
+*** FLOP *** [7d 5s Jc]
+Katseng checks
+manggy94 bets 500
+Le Yougo13 calls 500
+Katseng calls 500
+*** TURN *** [7d 5s Jc][Kh]
+Katseng checks
+manggy94 checks
+Le Yougo13 bets 10480 and is all-in
+Katseng folds
+manggy94 folds
+Le Yougo13 collected 15300 from pot
+*** SUMMARY ***
+Total pot 15300 | No rake
+Board: [7d 5s Jc Kh]
+Seat 4: Le Yougo13 (button) won 15300
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #596503771240988692-47-1449932677 - Holdem no limit (40/250/500) - 2015/12/12 15:04:37 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #5 is the button
+Seat 1: Jonjones67 (19989)
+Seat 2: ChauVeDuCoN (11965)
+Seat 3: Romanin75 (9370)
+Seat 4: Le Yougo13 (15300)
+Seat 5: Katseng (13200)
+Seat 6: manggy94 (17975)
+Seat 7: M.Seven (32486)
+Seat 8: fifi1664 (31045)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+M.Seven posts ante 40
+Jonjones67 posts ante 40
+ChauVeDuCoN posts ante 40
+Romanin75 posts ante 40
+Le Yougo13 posts ante 40
+Katseng posts ante 40
+fifi1664 posts ante 40
+manggy94 posts small blind 250
+M.Seven posts big blind 500
+Dealt to manggy94 [3h Js]
+*** PRE-FLOP *** 
+fifi1664 folds
+Jonjones67 folds
+ChauVeDuCoN folds
+Romanin75 folds
+Le Yougo13 folds
+Katseng raises 1000 to 1500
+manggy94 folds
+M.Seven folds
+Katseng collected 2570 from pot
+*** SUMMARY ***
+Total pot 2570 | No rake
+Seat 5: Katseng (button) won 2570
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #596503771240988692-48-1449932722 - Holdem no limit (40/250/500) - 2015/12/12 15:05:22 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #6 is the button
+Seat 1: Jonjones67 (19949)
+Seat 2: ChauVeDuCoN (11925)
+Seat 3: Romanin75 (9330)
+Seat 4: Le Yougo13 (15260)
+Seat 5: Katseng (14230)
+Seat 6: manggy94 (17685)
+Seat 7: M.Seven (31946)
+Seat 8: fifi1664 (31005)
+*** ANTE/BLINDS ***
+M.Seven posts ante 40
+fifi1664 posts ante 40
+Jonjones67 posts ante 40
+ChauVeDuCoN posts ante 40
+Romanin75 posts ante 40
+Le Yougo13 posts ante 40
+Katseng posts ante 40
+manggy94 posts ante 40
+M.Seven posts small blind 250
+fifi1664 posts big blind 500
+Dealt to manggy94 [6s 3s]
+*** PRE-FLOP *** 
+Jonjones67 folds
+ChauVeDuCoN folds
+Romanin75 folds
+Le Yougo13 raises 1000 to 1500
+Katseng calls 1500
+manggy94 folds
+M.Seven folds
+fifi1664 folds
+*** FLOP *** [8s 7s 3h]
+Le Yougo13 bets 2713
+Katseng calls 2713
+*** TURN *** [8s 7s 3h][Qd]
+Le Yougo13 bets 11007 and is all-in
+Katseng folds
+Le Yougo13 collected 20503 from pot
+*** SUMMARY ***
+Total pot 20503 | No rake
+Board: [8s 7s 3h Qd]
+Seat 4: Le Yougo13 won 20503
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #596503771240988692-49-1449932797 - Holdem no limit (40/250/500) - 2015/12/12 15:06:37 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #7 is the button
+Seat 1: Jonjones67 (19909)
+Seat 2: ChauVeDuCoN (11885)
+Seat 3: Romanin75 (9290)
+Seat 4: Le Yougo13 (20503)
+Seat 5: Katseng (9977)
+Seat 6: manggy94 (17645)
+Seat 7: M.Seven (31656)
+Seat 8: fifi1664 (30465)
+*** ANTE/BLINDS ***
+fifi1664 posts ante 40
+Jonjones67 posts ante 40
+ChauVeDuCoN posts ante 40
+Romanin75 posts ante 40
+Le Yougo13 posts ante 40
+Katseng posts ante 40
+manggy94 posts ante 40
+M.Seven posts ante 40
+fifi1664 posts small blind 250
+Jonjones67 posts big blind 500
+Dealt to manggy94 [Jc Kh]
+*** PRE-FLOP *** 
+ChauVeDuCoN folds
+Romanin75 calls 500
+Le Yougo13 folds
+Katseng raises 1500 to 2000
+manggy94 calls 2000
+M.Seven folds
+fifi1664 folds
+Jonjones67 folds
+Romanin75 folds
+*** FLOP *** [5d Ac 4h]
+Katseng checks
+manggy94 checks
+*** TURN *** [5d Ac 4h][Qc]
+Katseng checks
+manggy94 checks
+*** RIVER *** [5d Ac 4h Qc][8h]
+Katseng bets 2785
+manggy94 calls 2785
+*** SHOW DOWN ***
+manggy94 shows [Jc Kh] (High card : Ace)
+Katseng shows [Qd Kc] (One pair : Queens)
+Katseng collected 11140 from pot
+*** SUMMARY ***
+Total pot 11140 | No rake
+Board: [5d Ac 4h Qc 8h]
+Seat 5: Katseng showed [Qd Kc] and won 11140 with One pair : Queens
+Seat 6: manggy94 showed [Jc Kh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #596503771240988692-50-1449932859 - Holdem no limit (40/250/500) - 2015/12/12 15:07:39 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #8 is the button
+Seat 1: Jonjones67 (19369)
+Seat 2: ChauVeDuCoN (11845)
+Seat 3: Romanin75 (8750)
+Seat 4: Le Yougo13 (20463)
+Seat 5: Katseng (16292)
+Seat 6: manggy94 (12820)
+Seat 7: M.Seven (31616)
+Seat 8: fifi1664 (30175)
+*** ANTE/BLINDS ***
+Jonjones67 posts ante 40
+ChauVeDuCoN posts ante 40
+Romanin75 posts ante 40
+Le Yougo13 posts ante 40
+Katseng posts ante 40
+manggy94 posts ante 40
+M.Seven posts ante 40
+fifi1664 posts ante 40
+Jonjones67 posts small blind 250
+ChauVeDuCoN posts big blind 500
+Dealt to manggy94 [9d 6h]
+*** PRE-FLOP *** 
+Romanin75 folds
+Le Yougo13 folds
+Katseng calls 500
+manggy94 folds
+M.Seven calls 500
+fifi1664 folds
+Jonjones67 calls 250
+ChauVeDuCoN checks
+*** FLOP *** [7d 8c Jh]
+Jonjones67 checks
+ChauVeDuCoN checks
+Katseng checks
+M.Seven bets 2320
+Jonjones67 folds
+ChauVeDuCoN folds
+Katseng calls 2320
+*** TURN *** [7d 8c Jh][Tc]
+Katseng checks
+M.Seven checks
+*** RIVER *** [7d 8c Jh Tc][4d]
+Katseng checks
+M.Seven checks
+*** SHOW DOWN ***
+Katseng shows [3c 3s] (One pair : 3)
+M.Seven shows [Ac 8s] (One pair : 8)
+M.Seven collected 6960 from pot
+*** SUMMARY ***
+Total pot 6960 | No rake
+Board: [7d 8c Jh Tc 4d]
+Seat 5: Katseng showed [3c 3s] and lost with One pair : 3
+Seat 7: M.Seven showed [Ac 8s] and won 6960 with One pair : 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 8 - HandId: #596503771240988692-51-1449933007 - Holdem no limit (60/300/600) - 2015/12/12 15:10:07 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #1 is the button
+Seat 1: Jonjones67 (18829)
+Seat 2: ChauVeDuCoN (11305)
+Seat 3: Romanin75 (8710)
+Seat 4: Le Yougo13 (20423)
+Seat 5: Katseng (13432)
+Seat 6: manggy94 (12780)
+Seat 7: M.Seven (35716)
+Seat 8: fifi1664 (30135)
+*** ANTE/BLINDS ***
+ChauVeDuCoN posts ante 60
+Romanin75 posts ante 60
+Jonjones67 posts ante 60
+Le Yougo13 posts ante 60
+Katseng posts ante 60
+manggy94 posts ante 60
+M.Seven posts ante 60
+fifi1664 posts ante 60
+ChauVeDuCoN posts small blind 300
+Romanin75 posts big blind 600
+Dealt to manggy94 [Js Jh]
+*** PRE-FLOP *** 
+Le Yougo13 folds
+Katseng calls 600
+manggy94 raises 12120 to 12720 and is all-in
+M.Seven folds
+fifi1664 folds
+Jonjones67 folds
+ChauVeDuCoN folds
+Romanin75 folds
+Katseng folds
+manggy94 collected 14700 from pot
+*** SUMMARY ***
+Total pot 14700 | No rake
+Seat 6: manggy94 won 14700
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 8 - HandId: #596503771240988692-52-1449933034 - Holdem no limit (60/300/600) - 2015/12/12 15:10:34 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #2 is the button
+Seat 1: Jonjones67 (18769)
+Seat 2: ChauVeDuCoN (10945)
+Seat 3: Romanin75 (8050)
+Seat 4: Le Yougo13 (20363)
+Seat 5: Katseng (12772)
+Seat 6: manggy94 (14700)
+Seat 7: M.Seven (35656)
+Seat 8: fifi1664 (30075)
+*** ANTE/BLINDS ***
+Romanin75 posts ante 60
+Le Yougo13 posts ante 60
+Jonjones67 posts ante 60
+ChauVeDuCoN posts ante 60
+Katseng posts ante 60
+manggy94 posts ante 60
+M.Seven posts ante 60
+fifi1664 posts ante 60
+Romanin75 posts small blind 300
+Le Yougo13 posts big blind 600
+Dealt to manggy94 [Ts Qd]
+*** PRE-FLOP *** 
+Katseng calls 600
+manggy94 calls 600
+M.Seven folds
+fifi1664 folds
+Jonjones67 calls 600
+ChauVeDuCoN calls 600
+Romanin75 folds
+Le Yougo13 checks
+*** FLOP *** [Qs Js 6s]
+Le Yougo13 checks
+Katseng checks
+manggy94 bets 3780
+Jonjones67 calls 3780
+ChauVeDuCoN raises 6505 to 10285 and is all-in
+Le Yougo13 folds
+Katseng raises 1827 to 12112 and is all-in
+manggy94 calls 8332
+Jonjones67 folds
+*** TURN *** [Qs Js 6s][4h]
+*** RIVER *** [Qs Js 6s 4h][9c]
+*** SHOW DOWN ***
+Katseng shows [3h As] (High card : Ace)
+ChauVeDuCoN shows [Ks 5s] (Flush King high)
+manggy94 shows [Ts Qd] (One pair : Queens)
+manggy94 collected 3654 from side pot 1
+ChauVeDuCoN collected 38415 from main pot
+*** SUMMARY ***
+Total pot 42069 | No rake
+Board: [Qs Js 6s 4h 9c]
+Seat 2: ChauVeDuCoN (button) showed [Ks 5s] and won 38415 with Flush King high
+Seat 5: Katseng showed [3h As] and lost with High card : Ace
+Seat 6: manggy94 showed [Ts Qd] and won 3654 with One pair : Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 8 - HandId: #596503771240988692-53-1449933097 - Holdem no limit (60/300/600) - 2015/12/12 15:11:37 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #3 is the button
+Seat 1: Jonjones67 (14329)
+Seat 2: ChauVeDuCoN (38415)
+Seat 3: Romanin75 (7690)
+Seat 4: Le Yougo13 (19703)
+Seat 6: manggy94 (5582)
+Seat 7: M.Seven (35596)
+Seat 8: fifi1664 (30015)
+*** ANTE/BLINDS ***
+Le Yougo13 posts ante 60
+manggy94 posts ante 60
+Jonjones67 posts ante 60
+ChauVeDuCoN posts ante 60
+Romanin75 posts ante 60
+M.Seven posts ante 60
+fifi1664 posts ante 60
+Le Yougo13 posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [3h 5h]
+*** PRE-FLOP *** 
+M.Seven folds
+fifi1664 raises 900 to 1500
+Jonjones67 folds
+ChauVeDuCoN folds
+Romanin75 folds
+Le Yougo13 calls 1200
+manggy94 folds
+*** FLOP *** [2h 5c 4c]
+Le Yougo13 checks
+fifi1664 bets 2400
+Le Yougo13 folds
+fifi1664 collected 6420 from pot
+*** SUMMARY ***
+Total pot 6420 | No rake
+Board: [2h 5c 4c]
+Seat 8: fifi1664 won 6420
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 8 - HandId: #596503771240988692-54-1449933154 - Holdem no limit (60/300/600) - 2015/12/12 15:12:34 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #5 is the button
+Seat 1: Jonjones67 (14269)
+Seat 2: ChauVeDuCoN (38355)
+Seat 3: Romanin75 (7630)
+Seat 4: Le Yougo13 (18143)
+Seat 5: FCB........ (10000)
+Seat 6: manggy94 (4922)
+Seat 7: M.Seven (35536)
+Seat 8: fifi1664 (32475)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+M.Seven posts ante 60
+Jonjones67 posts ante 60
+ChauVeDuCoN posts ante 60
+Romanin75 posts ante 60
+Le Yougo13 posts ante 60
+FCB........ posts ante 60
+fifi1664 posts ante 60
+manggy94 posts small blind 300
+M.Seven posts big blind 600
+Dealt to manggy94 [Td 4s]
+*** PRE-FLOP *** 
+fifi1664 folds
+Jonjones67 folds
+ChauVeDuCoN folds
+Romanin75 raises 6970 to 7570 and is all-in
+Le Yougo13 folds
+FCB........ folds
+manggy94 folds
+M.Seven calls 6970
+*** FLOP *** [5c As 6d]
+*** TURN *** [5c As 6d][Kc]
+*** RIVER *** [5c As 6d Kc][7s]
+*** SHOW DOWN ***
+Romanin75 shows [8c 8h] (One pair : 8)
+M.Seven shows [Kd Tc] (One pair : Kings)
+M.Seven collected 15920 from pot
+*** SUMMARY ***
+Total pot 15920 | No rake
+Board: [5c As 6d Kc 7s]
+Seat 3: Romanin75 showed [8c 8h] and lost with One pair : 8
+Seat 7: M.Seven (big blind) showed [Kd Tc] and won 15920 with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 8 - HandId: #596503771240988692-55-1449933199 - Holdem no limit (60/300/600) - 2015/12/12 15:13:19 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #6 is the button
+Seat 1: Jonjones67 (14209)
+Seat 2: ChauVeDuCoN (38295)
+Seat 4: Le Yougo13 (18083)
+Seat 5: FCB........ (9940)
+Seat 6: manggy94 (4562)
+Seat 7: M.Seven (43826)
+Seat 8: fifi1664 (32415)
+*** ANTE/BLINDS ***
+M.Seven posts ante 60
+fifi1664 posts ante 60
+Jonjones67 posts ante 60
+ChauVeDuCoN posts ante 60
+Le Yougo13 posts ante 60
+FCB........ posts ante 60
+manggy94 posts ante 60
+M.Seven posts small blind 300
+fifi1664 posts big blind 600
+Dealt to manggy94 [3c Qd]
+*** PRE-FLOP *** 
+Jonjones67 folds
+ChauVeDuCoN folds
+Le Yougo13 folds
+FCB........ folds
+manggy94 folds
+M.Seven calls 300
+fifi1664 checks
+*** FLOP *** [6h 7c 4s]
+M.Seven bets 600
+fifi1664 folds
+M.Seven collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [6h 7c 4s]
+Seat 7: M.Seven (small blind) won 2220
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 9 - HandId: #596503771240988692-56-1449933246 - Holdem no limit (75/400/800) - 2015/12/12 15:14:06 UTC
+Table: 'Kill The Fish(138884357)#019' 8-max (real money) Seat #7 is the button
+Seat 1: Jonjones67 (14149)
+Seat 2: ChauVeDuCoN (38235)
+Seat 3: juglu (10000)
+Seat 4: Le Yougo13 (18023)
+Seat 5: FCB........ (9880)
+Seat 6: manggy94 (4502)
+Seat 7: M.Seven (44786)
+Seat 8: fifi1664 (31755)
+*** ANTE/BLINDS ***
+fifi1664 posts ante 75
+Jonjones67 posts ante 75
+ChauVeDuCoN posts ante 75
+juglu posts ante 75
+Le Yougo13 posts ante 75
+FCB........ posts ante 75
+manggy94 posts ante 75
+M.Seven posts ante 75
+fifi1664 posts small blind 400
+Jonjones67 posts big blind 800
+Dealt to manggy94 [Ac Js]
+*** PRE-FLOP *** 
+ChauVeDuCoN raises 800 to 1600
+juglu folds
+Le Yougo13 folds
+FCB........ raises 8205 to 9805 and is all-in
+manggy94 calls 4427 and is all-in
+M.Seven folds
+fifi1664 folds
+Jonjones67 folds
+ChauVeDuCoN calls 8205
+*** FLOP *** [Qh 5s Tc]
+*** TURN *** [Qh 5s Tc][2s]
+*** RIVER *** [Qh 5s Tc 2s][9d]
+*** SHOW DOWN ***
+FCB........ shows [Ad 7d] (High card : Ace)
+manggy94 shows [Ac Js] (High card : Ace)
+ChauVeDuCoN shows [Jd Th] (One pair : Tens)
+ChauVeDuCoN collected 25837 from pot
+*** SUMMARY ***
+Total pot 25837 | No rake
+Board: [Qh 5s Tc 2s 9d]
+Seat 2: ChauVeDuCoN showed [Jd Th] and won 25837 with One pair : Tens
+Seat 5: FCB........ showed [Ad 7d] and lost with High card : Ace
+Seat 6: manggy94 showed [Ac Js] and lost with High card : Ace
+
+

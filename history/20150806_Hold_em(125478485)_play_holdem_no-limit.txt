@@ -1,0 +1,3298 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 0 - HandId: #538925989426626562-1-1438868705 - Holdem no limit (10/20) - 2015/08/06 13:45:05 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #3 is the button
+Seat 1: KABO71 (3000)
+Seat 2: domi110965 (3000)
+Seat 3: manggy94 (3000)
+Seat 4: JteBaise31 (3000)
+Seat 5: R4Gn4TiK (3000)
+Seat 6: djumber (3000)
+*** ANTE/BLINDS ***
+JteBaise31 posts small blind 10
+R4Gn4TiK posts big blind 20
+Dealt to manggy94 [8s 4d]
+*** PRE-FLOP *** 
+djumber folds
+KABO71 calls 20
+domi110965 folds
+manggy94 folds
+JteBaise31 folds
+R4Gn4TiK folds
+KABO71 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Seat 1: KABO71 won 50
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 1 - HandId: #538925989426626562-2-1438868899 - Holdem no limit (15/30) - 2015/08/06 13:48:19 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #4 is the button
+Seat 1: KABO71 (3030)
+Seat 2: domi110965 (3000)
+Seat 3: manggy94 (3000)
+Seat 4: JteBaise31 (2990)
+Seat 5: R4Gn4TiK (2980)
+Seat 6: djumber (3000)
+*** ANTE/BLINDS ***
+R4Gn4TiK posts small blind 15
+djumber posts big blind 30
+Dealt to manggy94 [7d 7h]
+*** PRE-FLOP *** 
+KABO71 calls 30
+domi110965 folds
+manggy94 calls 30
+JteBaise31 folds
+R4Gn4TiK folds
+djumber folds
+*** FLOP *** [4h Ks 8d]
+KABO71 checks
+manggy94 checks
+*** TURN *** [4h Ks 8d][4d]
+KABO71 checks
+manggy94 checks
+*** RIVER *** [4h Ks 8d 4d][Ac]
+KABO71 checks
+manggy94 checks
+*** SHOW DOWN ***
+KABO71 shows [Qh 7c] (One pair : 4)
+manggy94 shows [7d 7h] (Two pairs : 7 and 4)
+manggy94 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [4h Ks 8d 4d Ac]
+Seat 1: KABO71 showed [Qh 7c] and lost with One pair : 4
+Seat 3: manggy94 showed [7d 7h] and won 105 with Two pairs : 7 and 4
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 1 - HandId: #538925989426626562-3-1438868946 - Holdem no limit (15/30) - 2015/08/06 13:49:06 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #5 is the button
+Seat 1: KABO71 (3000)
+Seat 2: domi110965 (3000)
+Seat 3: manggy94 (3075)
+Seat 4: JteBaise31 (2990)
+Seat 5: R4Gn4TiK (2965)
+*** ANTE/BLINDS ***
+KABO71 posts big blind 30
+Dealt to manggy94 [7s Tc]
+*** PRE-FLOP *** 
+domi110965 calls 30
+manggy94 folds
+JteBaise31 folds
+R4Gn4TiK folds
+KABO71 checks
+*** FLOP *** [4s 2s 4c]
+KABO71 checks
+domi110965 checks
+*** TURN *** [4s 2s 4c][5c]
+KABO71 checks
+domi110965 checks
+*** RIVER *** [4s 2s 4c 5c][3d]
+KABO71 bets 60
+domi110965 calls 60
+*** SHOW DOWN ***
+KABO71 shows [5s As] (Straight 5 high)
+domi110965 shows [6s Ks] (Straight 6 high)
+domi110965 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [4s 2s 4c 5c 3d]
+Seat 1: KABO71 (big blind) showed [5s As] and lost with Straight 5 high
+Seat 2: domi110965 showed [6s Ks] and won 180 with Straight 6 high
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 1 - HandId: #538925989426626562-4-1438868977 - Holdem no limit (15/30) - 2015/08/06 13:49:37 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #6 is the button
+Seat 1: KABO71 (2910)
+Seat 2: domi110965 (3090)
+Seat 3: manggy94 (3075)
+Seat 4: JteBaise31 (2990)
+Seat 6: ROASTARS (3000)
+*** ANTE/BLINDS ***
+KABO71 posts small blind 15
+domi110965 posts big blind 30
+Dealt to manggy94 [3d 4h]
+*** PRE-FLOP *** 
+manggy94 folds
+JteBaise31 folds
+KABO71 calls 15
+domi110965 checks
+*** FLOP *** [5d Jc 3c]
+KABO71 checks
+domi110965 checks
+*** TURN *** [5d Jc 3c][8c]
+KABO71 checks
+domi110965 checks
+*** RIVER *** [5d Jc 3c 8c][7h]
+KABO71 checks
+domi110965 checks
+*** SHOW DOWN ***
+KABO71 shows [8d Tc] (One pair : 8)
+domi110965 shows [Ah Jh] (One pair : Jacks)
+domi110965 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [5d Jc 3c 8c 7h]
+Seat 1: KABO71 (small blind) showed [8d Tc] and lost with One pair : 8
+Seat 2: domi110965 (big blind) showed [Ah Jh] and won 60 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 1 - HandId: #538925989426626562-5-1438868999 - Holdem no limit (15/30) - 2015/08/06 13:49:59 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #1 is the button
+Seat 1: KABO71 (2880)
+Seat 2: domi110965 (3120)
+Seat 3: manggy94 (3075)
+Seat 4: JteBaise31 (2990)
+Seat 5: leaveORafk (3000)
+Seat 6: ROASTARS (3000)
+*** ANTE/BLINDS ***
+domi110965 posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [4c 5d]
+*** PRE-FLOP *** 
+JteBaise31 folds
+leaveORafk folds
+ROASTARS calls 30
+KABO71 calls 30
+domi110965 calls 15
+manggy94 checks
+*** FLOP *** [3h 5h Qs]
+domi110965 checks
+manggy94 checks
+ROASTARS checks
+KABO71 checks
+*** TURN *** [3h 5h Qs][Qc]
+domi110965 checks
+manggy94 checks
+ROASTARS checks
+KABO71 bets 30
+domi110965 calls 30
+manggy94 folds
+ROASTARS calls 30
+*** RIVER *** [3h 5h Qs Qc][6s]
+domi110965 checks
+ROASTARS checks
+KABO71 bets 30
+domi110965 folds
+ROASTARS folds
+KABO71 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [3h 5h Qs Qc 6s]
+Seat 1: KABO71 (button) won 240
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 2 - HandId: #538925989426626562-6-1438869061 - Holdem no limit (20/40) - 2015/08/06 13:51:01 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #2 is the button
+Seat 1: KABO71 (3030)
+Seat 2: domi110965 (3060)
+Seat 3: manggy94 (3045)
+Seat 4: JteBaise31 (2990)
+Seat 5: leaveORafk (3000)
+Seat 6: ROASTARS (2940)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+JteBaise31 posts big blind 40
+Dealt to manggy94 [8s 9d]
+*** PRE-FLOP *** 
+leaveORafk folds
+ROASTARS calls 40
+KABO71 calls 40
+domi110965 calls 40
+manggy94 calls 20
+JteBaise31 folds
+*** FLOP *** [7d 3c 8h]
+manggy94 checks
+ROASTARS checks
+KABO71 checks
+domi110965 checks
+*** TURN *** [7d 3c 8h][3h]
+manggy94 checks
+ROASTARS checks
+KABO71 checks
+domi110965 checks
+*** RIVER *** [7d 3c 8h 3h][Ts]
+manggy94 checks
+ROASTARS bets 200
+KABO71 folds
+domi110965 calls 200
+manggy94 folds
+*** SHOW DOWN ***
+domi110965 shows [Kd 8c] (Two pairs : 8 and 3)
+ROASTARS shows [9s Jc] (Straight Jack high)
+ROASTARS collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7d 3c 8h 3h Ts]
+Seat 2: domi110965 (button) showed [Kd 8c] and lost with Two pairs : 8 and 3
+Seat 6: ROASTARS showed [9s Jc] and won 600 with Straight Jack high
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 2 - HandId: #538925989426626562-7-1438869130 - Holdem no limit (20/40) - 2015/08/06 13:52:10 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #3 is the button
+Seat 1: KABO71 (2990)
+Seat 2: domi110965 (2820)
+Seat 3: manggy94 (3005)
+Seat 4: JteBaise31 (2950)
+Seat 5: leaveORafk (3000)
+Seat 6: ROASTARS (3300)
+*** ANTE/BLINDS ***
+JteBaise31 posts small blind 20
+leaveORafk posts big blind 40
+Dealt to manggy94 [Qs 7d]
+*** PRE-FLOP *** 
+ROASTARS calls 40
+KABO71 calls 40
+domi110965 folds
+manggy94 calls 40
+JteBaise31 folds
+leaveORafk checks
+*** FLOP *** [Qd 3s As]
+leaveORafk checks
+ROASTARS bets 40
+KABO71 folds
+manggy94 calls 40
+leaveORafk folds
+*** TURN *** [Qd 3s As][Jc]
+ROASTARS bets 40
+manggy94 folds
+ROASTARS collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Qd 3s As Jc]
+Seat 6: ROASTARS won 300
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 2 - HandId: #538925989426626562-8-1438869160 - Holdem no limit (20/40) - 2015/08/06 13:52:40 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #4 is the button
+Seat 1: KABO71 (2950)
+Seat 2: domi110965 (2820)
+Seat 3: manggy94 (2925)
+Seat 4: JteBaise31 (2930)
+Seat 6: ROASTARS (3480)
+*** ANTE/BLINDS ***
+ROASTARS posts big blind 40
+Dealt to manggy94 [7h 5h]
+*** PRE-FLOP *** 
+KABO71 calls 40
+domi110965 calls 40
+manggy94 calls 40
+JteBaise31 folds
+ROASTARS checks
+*** FLOP *** [Jd 9h 7d]
+ROASTARS checks
+KABO71 checks
+domi110965 checks
+manggy94 checks
+*** TURN *** [Jd 9h 7d][8h]
+ROASTARS checks
+KABO71 bets 40
+domi110965 calls 40
+manggy94 raises 120 to 160
+ROASTARS raises 120 to 280
+KABO71 raises 2630 to 2910 and is all-in
+domi110965 folds
+manggy94 folds
+ROASTARS calls 2630
+*** RIVER *** [Jd 9h 7d 8h][Ad]
+*** SHOW DOWN ***
+KABO71 shows [Ah Td] (Straight Jack high)
+ROASTARS shows [3h Th] (Straight Jack high)
+ROASTARS collected 3090 from pot
+KABO71 collected 3090 from pot
+*** SUMMARY ***
+Total pot 6180 | No rake
+Board: [Jd 9h 7d 8h Ad]
+Seat 1: KABO71 showed [Ah Td] and won 3090 with Straight Jack high
+Seat 6: ROASTARS (big blind) showed [3h Th] and won 3090 with Straight Jack high
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 2 - HandId: #538925989426626562-9-1438869223 - Holdem no limit (20/40) - 2015/08/06 13:53:43 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #5 is the button
+Seat 1: KABO71 (3090)
+Seat 2: domi110965 (2740)
+Seat 3: manggy94 (2725)
+Seat 4: JteBaise31 (2930)
+Seat 5: Gwada-Fan (3000)
+Seat 6: ROASTARS (3620)
+*** ANTE/BLINDS ***
+ROASTARS posts small blind 20
+KABO71 posts big blind 40
+Dealt to manggy94 [Ks Ts]
+*** PRE-FLOP *** 
+domi110965 calls 40
+manggy94 raises 40 to 80
+JteBaise31 folds
+ROASTARS folds
+KABO71 calls 40
+domi110965 calls 40
+*** FLOP *** [Jd Tc Js]
+KABO71 checks
+domi110965 checks
+manggy94 bets 260
+KABO71 folds
+domi110965 calls 260
+*** TURN *** [Jd Tc Js][Jc]
+domi110965 checks
+manggy94 bets 1100
+domi110965 calls 1100
+*** RIVER *** [Jd Tc Js Jc][4d]
+domi110965 checks
+manggy94 checks
+*** SHOW DOWN ***
+domi110965 shows [As 4h] (Full of Jacks and 4)
+manggy94 shows [Ks Ts] (Full of Jacks and Tens)
+manggy94 collected 2980 from pot
+*** SUMMARY ***
+Total pot 2980 | No rake
+Board: [Jd Tc Js Jc 4d]
+Seat 2: domi110965 showed [As 4h] and lost with Full of Jacks and 4
+Seat 3: manggy94 showed [Ks Ts] and won 2980 with Full of Jacks and Tens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 3 - HandId: #538925989426626562-10-1438869267 - Holdem no limit (30/60) - 2015/08/06 13:54:27 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #6 is the button
+Seat 1: KABO71 (3010)
+Seat 2: domi110965 (1300)
+Seat 3: manggy94 (4265)
+Seat 4: JteBaise31 (2930)
+Seat 5: Gwada-Fan (3000)
+Seat 6: ROASTARS (3600)
+*** ANTE/BLINDS ***
+KABO71 posts small blind 30
+domi110965 posts big blind 60
+Dealt to manggy94 [Tc Qc]
+*** PRE-FLOP *** 
+manggy94 calls 60
+JteBaise31 folds
+Gwada-Fan calls 60
+ROASTARS calls 60
+KABO71 calls 30
+domi110965 checks
+*** FLOP *** [3d 8h 8s]
+KABO71 checks
+domi110965 checks
+manggy94 checks
+Gwada-Fan checks
+ROASTARS checks
+*** TURN *** [3d 8h 8s][2s]
+KABO71 checks
+domi110965 checks
+manggy94 checks
+Gwada-Fan checks
+ROASTARS checks
+*** RIVER *** [3d 8h 8s 2s][5s]
+KABO71 checks
+domi110965 checks
+manggy94 checks
+Gwada-Fan checks
+ROASTARS checks
+*** SHOW DOWN ***
+KABO71 shows [Qs 9h] (One pair : 8)
+manggy94 shows [Tc Qc] (One pair : 8)
+Gwada-Fan shows [Ac 7s] (One pair : 8)
+ROASTARS shows [6d Js] (One pair : 8)
+domi110965 shows [As Kd] (One pair : 8)
+domi110965 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [3d 8h 8s 2s 5s]
+Seat 1: KABO71 (small blind) showed [Qs 9h] and lost with One pair : 8
+Seat 2: domi110965 (big blind) showed [As Kd] and won 300 with One pair : 8
+Seat 3: manggy94 showed [Tc Qc] and lost with One pair : 8
+Seat 5: Gwada-Fan showed [Ac 7s] and lost with One pair : 8
+Seat 6: ROASTARS (button) showed [6d Js] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 3 - HandId: #538925989426626562-11-1438869603 - Holdem no limit (30/60) - 2015/08/06 14:00:03 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #1 is the button
+Seat 1: KABO71 (2950)
+Seat 2: domi110965 (1540)
+Seat 3: manggy94 (4205)
+Seat 4: JteBaise31 (2930)
+Seat 5: Gwada-Fan (2940)
+Seat 6: ROASTARS (3540)
+*** ANTE/BLINDS ***
+domi110965 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [5s Ac]
+*** PRE-FLOP *** 
+JteBaise31 folds
+Gwada-Fan calls 60
+ROASTARS folds
+KABO71 raises 60 to 120
+domi110965 calls 90
+manggy94 calls 60
+Gwada-Fan calls 60
+*** FLOP *** [Ks 8h Ah]
+domi110965 checks
+manggy94 checks
+Gwada-Fan checks
+KABO71 bets 240
+domi110965 raises 1180 to 1420 and is all-in
+manggy94 calls 1420
+Gwada-Fan folds
+KABO71 raises 1180 to 2600
+manggy94 calls 1180
+*** TURN *** [Ks 8h Ah][Td]
+manggy94 checks
+KABO71 bets 230 and is all-in
+manggy94 calls 230
+*** RIVER *** [Ks 8h Ah Td][2h]
+*** SHOW DOWN ***
+KABO71 shows [Kc Qs] (One pair : Kings)
+domi110965 shows [9s Ad] (One pair : Aces)
+manggy94 shows [5s Ac] (One pair : Aces)
+manggy94 collected 2820 from side pot 1
+domi110965 collected 4740 from main pot
+*** SUMMARY ***
+Total pot 7560 | No rake
+Board: [Ks 8h Ah Td 2h]
+Seat 1: KABO71 (button) showed [Kc Qs] and lost with One pair : Kings
+Seat 2: domi110965 (small blind) showed [9s Ad] and won 4740 with One pair : Aces
+Seat 3: manggy94 (big blind) showed [5s Ac] and won 2820 with One pair : Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 3 - HandId: #538925989426626562-12-1438869670 - Holdem no limit (30/60) - 2015/08/06 14:01:10 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #2 is the button
+Seat 2: domi110965 (4740)
+Seat 3: manggy94 (4075)
+Seat 4: JteBaise31 (2930)
+Seat 5: Gwada-Fan (2820)
+Seat 6: ROASTARS (3540)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+JteBaise31 posts big blind 60
+Dealt to manggy94 [Js As]
+*** PRE-FLOP *** 
+Gwada-Fan calls 60
+ROASTARS calls 60
+domi110965 folds
+manggy94 calls 30
+JteBaise31 folds
+*** FLOP *** [9h 4s 5s]
+manggy94 bets 240
+Gwada-Fan folds
+ROASTARS calls 240
+*** TURN *** [9h 4s 5s][9s]
+manggy94 bets 720
+ROASTARS calls 720
+*** RIVER *** [9h 4s 5s 9s][Ac]
+manggy94 bets 3055 and is all-in
+ROASTARS calls 2520 and is all-in
+*** SHOW DOWN ***
+ROASTARS shows [6s 9d] (Trips of 9)
+manggy94 shows [Js As] (Flush Ace high)
+manggy94 collected 7735 from pot
+*** SUMMARY ***
+Total pot 7735 | No rake
+Board: [9h 4s 5s 9s Ac]
+Seat 3: manggy94 (small blind) showed [Js As] and won 7735 with Flush Ace high
+Seat 6: ROASTARS showed [6s 9d] and lost with Trips of 9
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 4 - HandId: #538925989426626562-13-1438869749 - Holdem no limit (40/80) - 2015/08/06 14:02:29 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #3 is the button
+Seat 1: isabella87 (3620)
+Seat 2: domi110965 (4740)
+Seat 3: manggy94 (7735)
+Seat 4: JteBaise31 (2870)
+Seat 5: Gwada-Fan (2760)
+*** ANTE/BLINDS ***
+JteBaise31 posts small blind 40
+Gwada-Fan posts big blind 80
+Dealt to manggy94 [Qh 3h]
+*** PRE-FLOP *** 
+isabella87 folds
+domi110965 folds
+manggy94 calls 80
+JteBaise31 folds
+Gwada-Fan checks
+*** FLOP *** [4s 9h 8h]
+Gwada-Fan checks
+manggy94 checks
+*** TURN *** [4s 9h 8h][5s]
+Gwada-Fan bets 80
+manggy94 calls 80
+*** RIVER *** [4s 9h 8h 5s][5h]
+Gwada-Fan checks
+manggy94 bets 1120
+Gwada-Fan folds
+manggy94 collected 1480 from pot
+*** SUMMARY ***
+Total pot 1480 | No rake
+Board: [4s 9h 8h 5s 5h]
+Seat 3: manggy94 (button) won 1480
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 4 - HandId: #538925989426626562-14-1438869774 - Holdem no limit (40/80) - 2015/08/06 14:02:54 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #4 is the button
+Seat 1: isabella87 (3620)
+Seat 2: domi110965 (4740)
+Seat 3: manggy94 (7935)
+Seat 4: JteBaise31 (2830)
+Seat 5: Gwada-Fan (2600)
+*** ANTE/BLINDS ***
+Gwada-Fan posts small blind 40
+isabella87 posts big blind 80
+Dealt to manggy94 [As 4s]
+*** PRE-FLOP *** 
+domi110965 folds
+manggy94 calls 80
+JteBaise31 folds
+Gwada-Fan raises 2520 to 2600 and is all-in
+isabella87 folds
+manggy94 calls 2520
+*** FLOP *** [Qd 5c 8c]
+*** TURN *** [Qd 5c 8c][Td]
+*** RIVER *** [Qd 5c 8c Td][Ts]
+*** SHOW DOWN ***
+manggy94 shows [As 4s] (One pair : Tens)
+Gwada-Fan shows [7h 7s] (Two pairs : Tens and 7)
+Gwada-Fan collected 5280 from pot
+*** SUMMARY ***
+Total pot 5280 | No rake
+Board: [Qd 5c 8c Td Ts]
+Seat 3: manggy94 showed [As 4s] and lost with One pair : Tens
+Seat 5: Gwada-Fan (small blind) showed [7h 7s] and won 5280 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 4 - HandId: #538925989426626562-15-1438869802 - Holdem no limit (40/80) - 2015/08/06 14:03:22 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #5 is the button
+Seat 1: isabella87 (3540)
+Seat 2: domi110965 (4740)
+Seat 3: manggy94 (5335)
+Seat 4: JteBaise31 (2830)
+Seat 5: Gwada-Fan (5280)
+*** ANTE/BLINDS ***
+isabella87 posts small blind 40
+domi110965 posts big blind 80
+Dealt to manggy94 [7c 8s]
+*** PRE-FLOP *** 
+manggy94 folds
+JteBaise31 folds
+Gwada-Fan folds
+isabella87 folds
+domi110965 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: domi110965 (big blind) won 120
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 4 - HandId: #538925989426626562-16-1438869812 - Holdem no limit (40/80) - 2015/08/06 14:03:32 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #1 is the button
+Seat 1: isabella87 (3500)
+Seat 2: domi110965 (4780)
+Seat 3: manggy94 (5335)
+Seat 4: JteBaise31 (2830)
+Seat 5: Gwada-Fan (5280)
+Seat 6: RoyalFlush95 (3590)
+*** ANTE/BLINDS ***
+domi110965 posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [As 7s]
+*** PRE-FLOP *** 
+JteBaise31 folds
+Gwada-Fan raises 240 to 320
+RoyalFlush95 folds
+isabella87 folds
+domi110965 folds
+manggy94 calls 240
+*** FLOP *** [2h Ts 4s]
+manggy94 bets 680
+Gwada-Fan calls 680
+*** TURN *** [2h Ts 4s][Qs]
+manggy94 bets 2040
+Gwada-Fan raises 2240 to 4280 and is all-in
+manggy94 calls 2240
+*** RIVER *** [2h Ts 4s Qs][9c]
+*** SHOW DOWN ***
+Gwada-Fan shows [Qh Ac] (One pair : Queens)
+manggy94 shows [As 7s] (Flush Ace high)
+manggy94 collected 10600 from pot
+*** SUMMARY ***
+Total pot 10600 | No rake
+Board: [2h Ts 4s Qs 9c]
+Seat 3: manggy94 (big blind) showed [As 7s] and won 10600 with Flush Ace high
+Seat 5: Gwada-Fan showed [Qh Ac] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 4 - HandId: #538925989426626562-17-1438869900 - Holdem no limit (40/80) - 2015/08/06 14:05:00 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #2 is the button
+Seat 1: isabella87 (3500)
+Seat 2: domi110965 (4740)
+Seat 3: manggy94 (10655)
+Seat 4: JteBaise31 (2830)
+Seat 5: Bensetleo19 (2760)
+Seat 6: RoyalFlush95 (3590)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+JteBaise31 posts big blind 80
+Dealt to manggy94 [2s Ks]
+*** PRE-FLOP *** 
+Bensetleo19 calls 80
+RoyalFlush95 folds
+isabella87 calls 80
+domi110965 folds
+manggy94 calls 40
+JteBaise31 folds
+*** FLOP *** [Jd 7s 5h]
+manggy94 checks
+Bensetleo19 checks
+isabella87 checks
+*** TURN *** [Jd 7s 5h][9h]
+manggy94 checks
+Bensetleo19 checks
+isabella87 checks
+*** RIVER *** [Jd 7s 5h 9h][6c]
+manggy94 checks
+Bensetleo19 checks
+isabella87 bets 560
+manggy94 folds
+Bensetleo19 folds
+isabella87 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [Jd 7s 5h 9h 6c]
+Seat 1: isabella87 won 880
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 5 - HandId: #538925989426626562-18-1438869977 - Holdem no limit (60/120) - 2015/08/06 14:06:17 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #3 is the button
+Seat 1: isabella87 (3740)
+Seat 2: domi110965 (4740)
+Seat 3: manggy94 (10575)
+Seat 4: sague1 (5360)
+Seat 5: Bensetleo19 (2680)
+Seat 6: RoyalFlush95 (3590)
+*** ANTE/BLINDS ***
+Bensetleo19 posts big blind 120
+Dealt to manggy94 [Td Jh]
+*** PRE-FLOP *** 
+RoyalFlush95 calls 120
+isabella87 folds
+domi110965 folds
+manggy94 calls 120
+Bensetleo19 raises 120 to 240
+RoyalFlush95 calls 120
+manggy94 calls 120
+*** FLOP *** [Jd Kh Ac]
+Bensetleo19 bets 120
+RoyalFlush95 folds
+manggy94 calls 120
+*** TURN *** [Jd Kh Ac][7d]
+Bensetleo19 bets 120
+manggy94 calls 120
+*** RIVER *** [Jd Kh Ac 7d][Qc]
+Bensetleo19 bets 120
+manggy94 raises 9975 to 10095 and is all-in
+Bensetleo19 folds
+manggy94 collected 11415 from pot
+*** SUMMARY ***
+Total pot 11415 | No rake
+Board: [Jd Kh Ac 7d Qc]
+Seat 3: manggy94 (button) won 11415
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 5 - HandId: #538925989426626562-19-1438870038 - Holdem no limit (60/120) - 2015/08/06 14:07:18 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #4 is the button
+Seat 1: isabella87 (3740)
+Seat 2: domi110965 (4740)
+Seat 3: manggy94 (11415)
+Seat 4: sague1 (5360)
+Seat 5: Bensetleo19 (2080)
+Seat 6: RoyalFlush95 (3350)
+*** ANTE/BLINDS ***
+Bensetleo19 posts small blind 60
+RoyalFlush95 posts big blind 120
+Dealt to manggy94 [9d Th]
+*** PRE-FLOP *** 
+isabella87 folds
+domi110965 calls 120
+manggy94 calls 120
+Bensetleo19 calls 60
+RoyalFlush95 checks
+*** FLOP *** [3h 5c 8s]
+Bensetleo19 bets 120
+RoyalFlush95 calls 120
+domi110965 calls 120
+manggy94 calls 120
+*** TURN *** [3h 5c 8s][8d]
+Bensetleo19 bets 120
+RoyalFlush95 calls 120
+domi110965 calls 120
+manggy94 folds
+*** RIVER *** [3h 5c 8s 8d][7s]
+Bensetleo19 bets 120
+RoyalFlush95 folds
+domi110965 calls 120
+*** SHOW DOWN ***
+domi110965 shows [Qs Jh] (One pair : 8)
+Bensetleo19 shows [6s 7d] (Two pairs : 8 and 7)
+Bensetleo19 collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [3h 5c 8s 8d 7s]
+Seat 2: domi110965 showed [Qs Jh] and lost with One pair : 8
+Seat 5: Bensetleo19 (small blind) showed [6s 7d] and won 1560 with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 6 - HandId: #538925989426626562-20-1438870135 - Holdem no limit (10/60/120) - 2015/08/06 14:08:55 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #5 is the button
+Seat 1: isabella87 (3740)
+Seat 2: domi110965 (4260)
+Seat 3: manggy94 (11175)
+Seat 4: sague1 (5360)
+Seat 5: Bensetleo19 (3160)
+Seat 6: RoyalFlush95 (2990)
+*** ANTE/BLINDS ***
+RoyalFlush95 posts ante 10
+isabella87 posts ante 10
+domi110965 posts ante 10
+manggy94 posts ante 10
+sague1 posts ante 10
+Bensetleo19 posts ante 10
+RoyalFlush95 posts small blind 60
+isabella87 posts big blind 120
+Dealt to manggy94 [Js 9h]
+*** PRE-FLOP *** 
+domi110965 folds
+manggy94 calls 120
+sague1 calls 120
+Bensetleo19 folds
+RoyalFlush95 calls 60
+isabella87 raises 1080 to 1200
+manggy94 folds
+sague1 calls 1080
+RoyalFlush95 folds
+*** FLOP *** [7d 3c Kd]
+isabella87 checks
+sague1 checks
+*** TURN *** [7d 3c Kd][4d]
+isabella87 bets 1200
+sague1 calls 1200
+*** RIVER *** [7d 3c Kd 4d][4s]
+isabella87 checks
+sague1 checks
+*** SHOW DOWN ***
+isabella87 shows [6d 6s] (Two pairs : 6 and 4)
+sague1 shows [6c Kc] (Two pairs : Kings and 4)
+sague1 collected 5100 from pot
+*** SUMMARY ***
+Total pot 5100 | No rake
+Board: [7d 3c Kd 4d 4s]
+Seat 1: isabella87 (big blind) showed [6d 6s] and lost with Two pairs : 6 and 4
+Seat 4: sague1 showed [6c Kc] and won 5100 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 6 - HandId: #538925989426626562-21-1438870204 - Holdem no limit (10/60/120) - 2015/08/06 14:10:04 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #6 is the button
+Seat 1: isabella87 (1330)
+Seat 2: domi110965 (4250)
+Seat 3: manggy94 (11045)
+Seat 4: sague1 (8050)
+Seat 5: Bensetleo19 (3150)
+Seat 6: RoyalFlush95 (2860)
+*** ANTE/BLINDS ***
+isabella87 posts ante 10
+domi110965 posts ante 10
+manggy94 posts ante 10
+sague1 posts ante 10
+Bensetleo19 posts ante 10
+RoyalFlush95 posts ante 10
+isabella87 posts small blind 60
+domi110965 posts big blind 120
+Dealt to manggy94 [3s 5c]
+*** PRE-FLOP *** 
+manggy94 folds
+sague1 calls 120
+Bensetleo19 calls 120
+RoyalFlush95 folds
+isabella87 folds
+domi110965 checks
+*** FLOP *** [7d 4s 5d]
+domi110965 checks
+sague1 checks
+Bensetleo19 bets 120
+domi110965 raises 4000 to 4120 and is all-in
+sague1 folds
+Bensetleo19 calls 2900 and is all-in
+*** TURN *** [7d 4s 5d][Ks]
+*** RIVER *** [7d 4s 5d Ks][Td]
+*** SHOW DOWN ***
+Bensetleo19 shows [4d 5s] (Two pairs : 5 and 4)
+domi110965 shows [2d 3d] (Flush Ten high)
+domi110965 collected 7620 from pot
+*** SUMMARY ***
+Total pot 7620 | No rake
+Board: [7d 4s 5d Ks Td]
+Seat 2: domi110965 (big blind) showed [2d 3d] and won 7620 with Flush Ten high
+Seat 5: Bensetleo19 showed [4d 5s] and lost with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 7 - HandId: #538925989426626562-22-1438870266 - Holdem no limit (15/75/150) - 2015/08/06 14:11:06 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #1 is the button
+Seat 1: isabella87 (1260)
+Seat 2: domi110965 (7620)
+Seat 3: manggy94 (11035)
+Seat 4: sague1 (7920)
+Seat 5: filou 12 (4740)
+Seat 6: RoyalFlush95 (2850)
+*** ANTE/BLINDS ***
+domi110965 posts ante 15
+manggy94 posts ante 15
+isabella87 posts ante 15
+sague1 posts ante 15
+filou 12 posts ante 15
+RoyalFlush95 posts ante 15
+domi110965 posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [4d 7c]
+*** PRE-FLOP *** 
+sague1 calls 150
+filou 12 calls 150
+RoyalFlush95 folds
+isabella87 calls 150
+domi110965 calls 75
+manggy94 checks
+*** FLOP *** [Kc Qs 4s]
+domi110965 checks
+manggy94 checks
+sague1 checks
+filou 12 checks
+isabella87 checks
+*** TURN *** [Kc Qs 4s][Jd]
+domi110965 checks
+manggy94 checks
+sague1 checks
+filou 12 checks
+isabella87 bets 450
+domi110965 folds
+manggy94 folds
+sague1 folds
+filou 12 folds
+isabella87 shows [Ts 4h] (One pair : 4)
+isabella87 collected 1290 from pot
+*** SUMMARY ***
+Total pot 1290 | No rake
+Board: [Kc Qs 4s Jd]
+Seat 1: isabella87 (button) showed [Ts 4h] and won 1290 with One pair : 4
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 7 - HandId: #538925989426626562-23-1438870326 - Holdem no limit (15/75/150) - 2015/08/06 14:12:06 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #2 is the button
+Seat 1: isabella87 (1935)
+Seat 2: domi110965 (7455)
+Seat 3: manggy94 (10870)
+Seat 4: sague1 (7755)
+Seat 5: filou 12 (4575)
+Seat 6: RoyalFlush95 (2835)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+sague1 posts ante 15
+isabella87 posts ante 15
+domi110965 posts ante 15
+filou 12 posts ante 15
+RoyalFlush95 posts ante 15
+manggy94 posts small blind 75
+sague1 posts big blind 150
+Dealt to manggy94 [7s Jc]
+*** PRE-FLOP *** 
+filou 12 folds
+RoyalFlush95 calls 150
+isabella87 folds
+domi110965 calls 150
+manggy94 calls 75
+sague1 raises 150 to 300
+RoyalFlush95 calls 150
+domi110965 calls 150
+manggy94 calls 150
+*** FLOP *** [8h 6h 8c]
+manggy94 checks
+sague1 checks
+RoyalFlush95 checks
+domi110965 checks
+*** TURN *** [8h 6h 8c][2d]
+manggy94 checks
+sague1 checks
+RoyalFlush95 checks
+domi110965 checks
+*** RIVER *** [8h 6h 8c 2d][Jh]
+manggy94 checks
+sague1 bets 1290
+RoyalFlush95 folds
+domi110965 calls 1290
+manggy94 calls 1290
+*** SHOW DOWN ***
+domi110965 shows [Js As] (Two pairs : Jacks and 8)
+manggy94 shows [7s Jc] (Two pairs : Jacks and 8)
+sague1 shows [Qh Qd] (Two pairs : Queens and 8)
+sague1 collected 5160 from pot
+*** SUMMARY ***
+Total pot 5160 | No rake
+Board: [8h 6h 8c 2d Jh]
+Seat 2: domi110965 (button) showed [Js As] and lost with Two pairs : Jacks and 8
+Seat 3: manggy94 (small blind) showed [7s Jc] and lost with Two pairs : Jacks and 8
+Seat 4: sague1 (big blind) showed [Qh Qd] and won 5160 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 7 - HandId: #538925989426626562-24-1438870395 - Holdem no limit (15/75/150) - 2015/08/06 14:13:15 UTC
+Table: 'Hold'em(125478485)#01' 6-max (play money) Seat #3 is the button
+Seat 1: isabella87 (1920)
+Seat 2: domi110965 (5850)
+Seat 3: manggy94 (9265)
+Seat 4: sague1 (11310)
+Seat 5: filou 12 (4560)
+Seat 6: RoyalFlush95 (2520)
+*** ANTE/BLINDS ***
+sague1 posts ante 15
+filou 12 posts ante 15
+isabella87 posts ante 15
+domi110965 posts ante 15
+manggy94 posts ante 15
+RoyalFlush95 posts ante 15
+sague1 posts small blind 75
+filou 12 posts big blind 150
+Dealt to manggy94 [2c 9d]
+*** PRE-FLOP *** 
+RoyalFlush95 folds
+isabella87 calls 150
+domi110965 calls 150
+manggy94 folds
+sague1 raises 150 to 300
+filou 12 folds
+isabella87 calls 150
+domi110965 raises 5535 to 5835 and is all-in
+sague1 calls 5535
+isabella87 folds
+*** FLOP *** [Ts 9s Js]
+*** TURN *** [Ts 9s Js][Kh]
+*** RIVER *** [Ts 9s Js Kh][4c]
+*** SHOW DOWN ***
+domi110965 shows [8h Th] (One pair : Tens)
+sague1 shows [Ah Ac] (One pair : Aces)
+sague1 collected 12210 from pot
+*** SUMMARY ***
+Total pot 12210 | No rake
+Board: [Ts 9s Js Kh 4c]
+Seat 2: domi110965 showed [8h Th] and lost with One pair : Tens
+Seat 4: sague1 (small blind) showed [Ah Ac] and won 12210 with One pair : Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 8 - HandId: #538925989426626565-24-1438870447 - Holdem no limit (20/100/200) - 2015/08/06 14:14:07 UTC
+Table: 'Hold'em(125478485)#04' 6-max (play money) Seat #4 is the button
+Seat 1: mage847 (4315)
+Seat 2: Greg_Sw (10650)
+Seat 3: manggy94 (9250)
+Seat 4: Steph6400 (2935)
+Seat 5: mumu2411 (2575)
+Seat 6: fsraerdah (5455)
+*** ANTE/BLINDS ***
+mumu2411 posts ante 20
+fsraerdah posts ante 20
+mage847 posts ante 20
+Greg_Sw posts ante 20
+manggy94 posts ante 20
+Steph6400 posts ante 20
+mumu2411 posts small blind 100
+fsraerdah posts big blind 200
+Dealt to manggy94 [Qc 9d]
+*** PRE-FLOP *** 
+mage847 calls 200
+Greg_Sw folds
+manggy94 calls 200
+Steph6400 calls 200
+mumu2411 calls 100
+fsraerdah checks
+*** FLOP *** [2c 2s Qh]
+mumu2411 checks
+fsraerdah checks
+mage847 checks
+manggy94 bets 1120
+Steph6400 folds
+mumu2411 folds
+fsraerdah folds
+mage847 folds
+manggy94 collected 2240 from pot
+*** SUMMARY ***
+Total pot 2240 | No rake
+Board: [2c 2s Qh]
+Seat 3: manggy94 won 2240
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 8 - HandId: #538925989426626565-25-1438870502 - Holdem no limit (20/100/200) - 2015/08/06 14:15:02 UTC
+Table: 'Hold'em(125478485)#04' 6-max (play money) Seat #5 is the button
+Seat 1: mage847 (4095)
+Seat 2: Greg_Sw (10630)
+Seat 3: manggy94 (10150)
+Seat 4: Steph6400 (2715)
+Seat 5: mumu2411 (2355)
+Seat 6: fsraerdah (5235)
+*** ANTE/BLINDS ***
+fsraerdah posts ante 20
+mage847 posts ante 20
+Greg_Sw posts ante 20
+manggy94 posts ante 20
+Steph6400 posts ante 20
+mumu2411 posts ante 20
+fsraerdah posts small blind 100
+mage847 posts big blind 200
+Dealt to manggy94 [9s 6h]
+*** PRE-FLOP *** 
+Greg_Sw folds
+manggy94 folds
+Steph6400 folds
+mumu2411 folds
+fsraerdah calls 100
+mage847 checks
+*** FLOP *** [Jd 5s Ad]
+fsraerdah checks
+mage847 checks
+*** TURN *** [Jd 5s Ad][5d]
+fsraerdah bets 200
+mage847 calls 200
+*** RIVER *** [Jd 5s Ad 5d][4d]
+fsraerdah bets 920
+mage847 folds
+fsraerdah collected 1840 from pot
+*** SUMMARY ***
+Total pot 1840 | No rake
+Board: [Jd 5s Ad 5d 4d]
+Seat 6: fsraerdah (small blind) won 1840
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 8 - HandId: #538925989426626565-26-1438870581 - Holdem no limit (20/100/200) - 2015/08/06 14:16:21 UTC
+Table: 'Hold'em(125478485)#04' 6-max (play money) Seat #6 is the button
+Seat 1: mage847 (3675)
+Seat 2: Greg_Sw (10610)
+Seat 3: manggy94 (10130)
+Seat 4: Steph6400 (2695)
+Seat 5: mumu2411 (2335)
+Seat 6: fsraerdah (5735)
+*** ANTE/BLINDS ***
+mage847 posts ante 20
+Greg_Sw posts ante 20
+manggy94 posts ante 20
+Steph6400 posts ante 20
+mumu2411 posts ante 20
+fsraerdah posts ante 20
+mage847 posts small blind 100
+Greg_Sw posts big blind 200
+Dealt to manggy94 [3h 6c]
+*** PRE-FLOP *** 
+manggy94 folds
+Steph6400 folds
+mumu2411 folds
+fsraerdah folds
+mage847 calls 100
+Greg_Sw checks
+*** FLOP *** [2d 5d 3s]
+mage847 bets 200
+Greg_Sw calls 200
+*** TURN *** [2d 5d 3s][8d]
+mage847 bets 200
+Greg_Sw calls 200
+*** RIVER *** [2d 5d 3s 8d][Tc]
+mage847 checks
+Greg_Sw checks
+*** SHOW DOWN ***
+mage847 shows [7d As] (High card : Ace)
+Greg_Sw shows [6h 6s] (One pair : 6)
+Greg_Sw collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Board: [2d 5d 3s 8d Tc]
+Seat 1: mage847 (small blind) showed [7d As] and lost with High card : Ace
+Seat 2: Greg_Sw (big blind) showed [6h 6s] and won 1320 with One pair : 6
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 9 - HandId: #538925989426626565-27-1438870662 - Holdem no limit (25/125/250) - 2015/08/06 14:17:42 UTC
+Table: 'Hold'em(125478485)#04' 6-max (play money) Seat #1 is the button
+Seat 1: mage847 (3055)
+Seat 2: Greg_Sw (11310)
+Seat 3: manggy94 (10110)
+Seat 4: Steph6400 (2675)
+Seat 5: mumu2411 (2315)
+Seat 6: fsraerdah (5715)
+*** ANTE/BLINDS ***
+Greg_Sw posts ante 25
+manggy94 posts ante 25
+mage847 posts ante 25
+Steph6400 posts ante 25
+mumu2411 posts ante 25
+fsraerdah posts ante 25
+Greg_Sw posts small blind 125
+manggy94 posts big blind 250
+Dealt to manggy94 [Qd Jd]
+*** PRE-FLOP *** 
+Steph6400 folds
+mumu2411 raises 2040 to 2290 and is all-in
+fsraerdah folds
+mage847 folds
+Greg_Sw folds
+manggy94 calls 2040
+*** FLOP *** [Ah 3d 3c]
+*** TURN *** [Ah 3d 3c][3s]
+*** RIVER *** [Ah 3d 3c 3s][Tc]
+*** SHOW DOWN ***
+manggy94 shows [Qd Jd] (Trips of 3)
+mumu2411 shows [5h 5s] (Full of 3 and 5)
+mumu2411 collected 4855 from pot
+*** SUMMARY ***
+Total pot 4855 | No rake
+Board: [Ah 3d 3c 3s Tc]
+Seat 3: manggy94 (big blind) showed [Qd Jd] and lost with Trips of 3
+Seat 5: mumu2411 showed [5h 5s] and won 4855 with Full of 3 and 5
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 9 - HandId: #538925989426626565-28-1438870687 - Holdem no limit (25/125/250) - 2015/08/06 14:18:07 UTC
+Table: 'Hold'em(125478485)#04' 6-max (play money) Seat #2 is the button
+Seat 1: mage847 (3030)
+Seat 2: Greg_Sw (11160)
+Seat 3: manggy94 (7795)
+Seat 4: Steph6400 (2650)
+Seat 5: mumu2411 (4855)
+Seat 6: fsraerdah (5690)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+Steph6400 posts ante 25
+mage847 posts ante 25
+Greg_Sw posts ante 25
+mumu2411 posts ante 25
+fsraerdah posts ante 25
+manggy94 posts small blind 125
+Steph6400 posts big blind 250
+Dealt to manggy94 [Ad 5d]
+*** PRE-FLOP *** 
+mumu2411 calls 250
+fsraerdah folds
+mage847 folds
+Greg_Sw folds
+manggy94 calls 125
+Steph6400 folds
+*** FLOP *** [8c Kc 8h]
+manggy94 checks
+mumu2411 checks
+*** TURN *** [8c Kc 8h][6h]
+manggy94 bets 900
+mumu2411 raises 900 to 1800
+manggy94 folds
+mumu2411 collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Board: [8c Kc 8h 6h]
+Seat 5: mumu2411 won 3600
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 9 - HandId: #538925989426626567-30-1438870729 - Holdem no limit (25/125/250) - 2015/08/06 14:18:49 UTC
+Table: 'Hold'em(125478485)#06' 6-max (play money) Seat #2 is the button
+Seat 1: zinc 19 (4790)
+Seat 2: fclamalou (4230)
+Seat 3: manggy94 (6620)
+Seat 4: El diablo om (6600)
+Seat 5: baka07 (8267)
+Seat 6: R4Gn4TiK (1350)
+*** ANTE/BLINDS ***
+El diablo om posts ante 25
+baka07 posts ante 25
+zinc 19 posts ante 25
+fclamalou posts ante 25
+R4Gn4TiK posts ante 25
+El diablo om posts small blind 125
+baka07 posts big blind 250
+*** PRE-FLOP *** 
+R4Gn4TiK folds
+zinc 19 folds
+fclamalou calls 250
+El diablo om raises 250 to 500
+baka07 calls 250
+fclamalou calls 250
+*** FLOP *** [9s 6s Jc]
+El diablo om bets 813
+baka07 calls 813
+fclamalou folds
+*** TURN *** [9s 6s Jc][Ks]
+El diablo om bets 1626
+baka07 folds
+El diablo om collected 4877 from pot
+*** SUMMARY ***
+Total pot 4877 | No rake
+Board: [9s 6s Jc Ks]
+Seat 4: El diablo om (small blind) won 4877
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 9 - HandId: #538925989426626567-31-1438870791 - Holdem no limit (25/125/250) - 2015/08/06 14:19:51 UTC
+Table: 'Hold'em(125478485)#06' 6-max (play money) Seat #4 is the button
+Seat 1: zinc 19 (4765)
+Seat 2: fclamalou (3705)
+Seat 3: manggy94 (6620)
+Seat 4: El diablo om (8513)
+Seat 5: baka07 (6929)
+Seat 6: R4Gn4TiK (1325)
+*** ANTE/BLINDS ***
+baka07 posts ante 25
+R4Gn4TiK posts ante 25
+zinc 19 posts ante 25
+fclamalou posts ante 25
+manggy94 posts ante 25
+El diablo om posts ante 25
+baka07 posts small blind 125
+R4Gn4TiK posts big blind 250
+Dealt to manggy94 [2d 9s]
+*** PRE-FLOP *** 
+zinc 19 folds
+fclamalou folds
+manggy94 folds
+El diablo om calls 250
+baka07 calls 125
+R4Gn4TiK folds
+*** FLOP *** [6c Jc 4h]
+baka07 checks
+El diablo om bets 250
+baka07 folds
+El diablo om collected 1150 from pot
+*** SUMMARY ***
+Total pot 1150 | No rake
+Board: [6c Jc 4h]
+Seat 4: El diablo om (button) won 1150
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 10 - HandId: #538925989426626567-32-1438870897 - Holdem no limit (35/150/300) - 2015/08/06 14:21:37 UTC
+Table: 'Hold'em(125478485)#06' 6-max (play money) Seat #5 is the button
+Seat 1: zinc 19 (4740)
+Seat 2: fclamalou (3680)
+Seat 3: manggy94 (6595)
+Seat 4: El diablo om (9138)
+Seat 5: baka07 (6654)
+Seat 6: R4Gn4TiK (1050)
+*** ANTE/BLINDS ***
+R4Gn4TiK posts ante 35
+zinc 19 posts ante 35
+fclamalou posts ante 35
+manggy94 posts ante 35
+El diablo om posts ante 35
+baka07 posts ante 35
+R4Gn4TiK posts small blind 150
+zinc 19 posts big blind 300
+Dealt to manggy94 [6s Ts]
+*** PRE-FLOP *** 
+fclamalou calls 300
+manggy94 calls 300
+El diablo om folds
+baka07 folds
+R4Gn4TiK folds
+zinc 19 checks
+*** FLOP *** [2s 3s Kh]
+zinc 19 checks
+fclamalou bets 300
+manggy94 raises 300 to 600
+zinc 19 folds
+fclamalou folds
+manggy94 collected 2160 from pot
+*** SUMMARY ***
+Total pot 2160 | No rake
+Board: [2s 3s Kh]
+Seat 3: manggy94 won 2160
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 11 - HandId: #538925989426626567-33-1438870989 - Holdem no limit (40/200/400) - 2015/08/06 14:23:09 UTC
+Table: 'Hold'em(125478485)#06' 6-max (play money) Seat #6 is the button
+Seat 1: zinc 19 (4405)
+Seat 2: fclamalou (3045)
+Seat 3: manggy94 (7820)
+Seat 4: El diablo om (9103)
+Seat 5: baka07 (6619)
+Seat 6: R4Gn4TiK (865)
+*** ANTE/BLINDS ***
+zinc 19 posts ante 40
+fclamalou posts ante 40
+manggy94 posts ante 40
+El diablo om posts ante 40
+baka07 posts ante 40
+R4Gn4TiK posts ante 40
+zinc 19 posts small blind 200
+fclamalou posts big blind 400
+Dealt to manggy94 [7s Ts]
+*** PRE-FLOP *** 
+manggy94 calls 400
+El diablo om raises 400 to 800
+baka07 folds
+R4Gn4TiK folds
+zinc 19 calls 600
+fclamalou folds
+manggy94 calls 400
+*** FLOP *** [Tc Qc Qs]
+zinc 19 checks
+manggy94 bets 400
+El diablo om calls 400
+zinc 19 folds
+*** TURN *** [Tc Qc Qs][4s]
+manggy94 checks
+El diablo om checks
+*** RIVER *** [Tc Qc Qs 4s][Th]
+manggy94 bets 3840
+El diablo om folds
+manggy94 collected 7680 from pot
+*** SUMMARY ***
+Total pot 7680 | No rake
+Board: [Tc Qc Qs 4s Th]
+Seat 3: manggy94 won 7680
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 11 - HandId: #538925989426626567-34-1438871037 - Holdem no limit (40/200/400) - 2015/08/06 14:23:57 UTC
+Table: 'Hold'em(125478485)#06' 6-max (play money) Seat #1 is the button
+Seat 1: zinc 19 (3565)
+Seat 2: fclamalou (2605)
+Seat 3: manggy94 (10420)
+Seat 4: El diablo om (7863)
+Seat 5: baka07 (6579)
+Seat 6: R4Gn4TiK (825)
+*** ANTE/BLINDS ***
+fclamalou posts ante 40
+manggy94 posts ante 40
+zinc 19 posts ante 40
+El diablo om posts ante 40
+baka07 posts ante 40
+R4Gn4TiK posts ante 40
+fclamalou posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [Jc 6c]
+*** PRE-FLOP *** 
+El diablo om folds
+baka07 folds
+R4Gn4TiK folds
+zinc 19 folds
+fclamalou raises 2165 to 2565 and is all-in
+manggy94 folds
+fclamalou collected 3205 from pot
+*** SUMMARY ***
+Total pot 3205 | No rake
+Seat 2: fclamalou (small blind) won 3205
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 11 - HandId: #538925989426626567-35-1438871049 - Holdem no limit (40/200/400) - 2015/08/06 14:24:09 UTC
+Table: 'Hold'em(125478485)#06' 6-max (play money) Seat #2 is the button
+Seat 1: zinc 19 (3525)
+Seat 2: fclamalou (3205)
+Seat 3: manggy94 (9980)
+Seat 4: El diablo om (7823)
+Seat 5: baka07 (6539)
+Seat 6: R4Gn4TiK (785)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+El diablo om posts ante 40
+zinc 19 posts ante 40
+fclamalou posts ante 40
+baka07 posts ante 40
+R4Gn4TiK posts ante 40
+manggy94 posts small blind 200
+El diablo om posts big blind 400
+Dealt to manggy94 [Ac 5c]
+*** PRE-FLOP *** 
+baka07 raises 800 to 1200
+R4Gn4TiK folds
+zinc 19 folds
+fclamalou raises 1965 to 3165 and is all-in
+manggy94 folds
+El diablo om calls 2765
+baka07 calls 1965
+*** FLOP *** [6c 5d 6h]
+El diablo om bets 4618 and is all-in
+baka07 calls 3334 and is all-in
+*** TURN *** [6c 5d 6h][5s]
+*** RIVER *** [6c 5d 6h 5s][As]
+*** SHOW DOWN ***
+fclamalou shows [Kh 4c] (Two pairs : 6 and 5)
+baka07 shows [Qh Qc] (Two pairs : Queens and 6)
+El diablo om shows [Ah 8d] (Two pairs : Aces and 6)
+El diablo om collected 17887 from pot
+*** SUMMARY ***
+Total pot 17887 | No rake
+Board: [6c 5d 6h 5s As]
+Seat 2: fclamalou (button) showed [Kh 4c] and lost with Two pairs : 6 and 5
+Seat 4: El diablo om (big blind) showed [Ah 8d] and won 17887 with Two pairs : Aces and 6
+Seat 5: baka07 showed [Qh Qc] and lost with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 11 - HandId: #538925989426626567-36-1438871090 - Holdem no limit (40/200/400) - 2015/08/06 14:24:50 UTC
+Table: 'Hold'em(125478485)#06' 6-max (play money) Seat #3 is the button
+Seat 1: zinc 19 (3485)
+Seat 3: manggy94 (9740)
+Seat 4: El diablo om (17887)
+Seat 6: R4Gn4TiK (745)
+*** ANTE/BLINDS ***
+El diablo om posts ante 40
+R4Gn4TiK posts ante 40
+zinc 19 posts ante 40
+manggy94 posts ante 40
+El diablo om posts small blind 200
+R4Gn4TiK posts big blind 400
+Dealt to manggy94 [Js 6d]
+*** PRE-FLOP *** 
+zinc 19 calls 400
+manggy94 folds
+El diablo om calls 200
+R4Gn4TiK folds
+*** FLOP *** [3h Ks Th]
+El diablo om checks
+zinc 19 checks
+*** TURN *** [3h Ks Th][Td]
+El diablo om checks
+zinc 19 checks
+*** RIVER *** [3h Ks Th Td][2d]
+El diablo om checks
+zinc 19 checks
+*** SHOW DOWN ***
+El diablo om shows [9c 5s] (One pair : Tens)
+zinc 19 shows [7s 7d] (Two pairs : Tens and 7)
+zinc 19 collected 1360 from pot
+*** SUMMARY ***
+Total pot 1360 | No rake
+Board: [3h Ks Th Td 2d]
+Seat 1: zinc 19 showed [7s 7d] and won 1360 with Two pairs : Tens and 7
+Seat 4: El diablo om (small blind) showed [9c 5s] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 11 - HandId: #538925989426626567-37-1438871123 - Holdem no limit (40/200/400) - 2015/08/06 14:25:23 UTC
+Table: 'Hold'em(125478485)#06' 6-max (play money) Seat #4 is the button
+Seat 1: zinc 19 (4405)
+Seat 2: MoiMoi60 (17279)
+Seat 3: manggy94 (9700)
+Seat 4: El diablo om (17447)
+Seat 6: R4Gn4TiK (305)
+*** ANTE/BLINDS ***
+R4Gn4TiK posts ante 40
+zinc 19 posts ante 40
+MoiMoi60 posts ante 40
+manggy94 posts ante 40
+El diablo om posts ante 40
+R4Gn4TiK posts small blind 200
+zinc 19 posts big blind 400
+Dealt to manggy94 [Ah 5s]
+*** PRE-FLOP *** 
+MoiMoi60 raises 400 to 800
+manggy94 calls 800
+El diablo om folds
+R4Gn4TiK folds
+zinc 19 calls 400
+*** FLOP *** [2d 3d 4d]
+zinc 19 checks
+MoiMoi60 bets 400
+manggy94 raises 400 to 800
+zinc 19 folds
+MoiMoi60 calls 400
+*** TURN *** [2d 3d 4d][4s]
+MoiMoi60 checks
+manggy94 bets 1000
+MoiMoi60 folds
+manggy94 collected 5400 from pot
+*** SUMMARY ***
+Total pot 5400 | No rake
+Board: [2d 3d 4d 4s]
+Seat 3: manggy94 won 5400
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 11 - HandId: #538925989426626567-38-1438871151 - Holdem no limit (40/200/400) - 2015/08/06 14:25:51 UTC
+Table: 'Hold'em(125478485)#06' 6-max (play money) Seat #6 is the button
+Seat 1: zinc 19 (3565)
+Seat 2: MoiMoi60 (15639)
+Seat 3: manggy94 (12460)
+Seat 4: El diablo om (17407)
+Seat 6: R4Gn4TiK (65)
+*** ANTE/BLINDS ***
+zinc 19 posts ante 40
+MoiMoi60 posts ante 40
+manggy94 posts ante 40
+El diablo om posts ante 40
+R4Gn4TiK posts ante 40
+zinc 19 posts small blind 200
+MoiMoi60 posts big blind 400
+Dealt to manggy94 [6c 4c]
+*** PRE-FLOP *** 
+manggy94 calls 400
+El diablo om folds
+R4Gn4TiK folds
+zinc 19 calls 200
+MoiMoi60 checks
+*** FLOP *** [Jd Js 5h]
+zinc 19 checks
+MoiMoi60 bets 700
+manggy94 folds
+zinc 19 calls 700
+*** TURN *** [Jd Js 5h][Td]
+zinc 19 checks
+MoiMoi60 checks
+*** RIVER *** [Jd Js 5h Td][2h]
+zinc 19 checks
+MoiMoi60 checks
+*** SHOW DOWN ***
+zinc 19 shows [6s 5c] (Two pairs : Jacks and 5)
+MoiMoi60 shows [9c Th] (Two pairs : Jacks and Tens)
+MoiMoi60 collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | No rake
+Board: [Jd Js 5h Td 2h]
+Seat 1: zinc 19 (small blind) showed [6s 5c] and lost with Two pairs : Jacks and 5
+Seat 2: MoiMoi60 (big blind) showed [9c Th] and won 2800 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 12 - HandId: #538925989426626567-39-1438871187 - Holdem no limit (50/250/500) - 2015/08/06 14:26:27 UTC
+Table: 'Hold'em(125478485)#06' 6-max (play money) Seat #1 is the button
+Seat 1: zinc 19 (2425)
+Seat 2: MoiMoi60 (17299)
+Seat 3: manggy94 (12020)
+Seat 4: El diablo om (17367)
+Seat 6: R4Gn4TiK (25)
+*** ANTE/BLINDS ***
+MoiMoi60 posts ante 50
+manggy94 posts ante 50
+zinc 19 posts ante 50
+El diablo om posts ante 50
+R4Gn4TiK posts ante 25 and is all-in
+MoiMoi60 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [Ah 5c]
+*** PRE-FLOP *** 
+El diablo om raises 500 to 1000
+zinc 19 folds
+MoiMoi60 calls 750
+manggy94 calls 500
+*** FLOP *** [Tc 8d 6c]
+MoiMoi60 checks
+manggy94 checks
+El diablo om checks
+*** TURN *** [Tc 8d 6c][Kd]
+MoiMoi60 checks
+manggy94 checks
+El diablo om checks
+*** RIVER *** [Tc 8d 6c Kd][7d]
+MoiMoi60 bets 3225
+manggy94 folds
+El diablo om folds
+*** SHOW DOWN ***
+R4Gn4TiK shows [3h 2h] (High card : King)
+MoiMoi60 shows [Kh Td] (Two pairs : Kings and Tens)
+MoiMoi60 collected 6450 from pot
+*** SUMMARY ***
+Total pot 6450 | No rake
+Board: [Tc 8d 6c Kd 7d]
+Seat 2: MoiMoi60 (small blind) showed [Kh Td] and won 6450 with Two pairs : Kings and Tens
+Seat 6: R4Gn4TiK showed [3h 2h] and lost with High card : King
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 12 - HandId: #538925989426626570-46-1438871251 - Holdem no limit (50/250/500) - 2015/08/06 14:27:31 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #4 is the button
+Seat 1: sague1 (30740)
+Seat 2: manggy94 (10970)
+Seat 3: francky72290 (8865)
+Seat 4: Emilayy (957)
+Seat 5: mage847 (9285)
+*** ANTE/BLINDS ***
+mage847 posts ante 50
+sague1 posts ante 50
+manggy94 posts ante 50
+francky72290 posts ante 50
+Emilayy posts ante 50
+mage847 posts small blind 250
+sague1 posts big blind 500
+Dealt to manggy94 [8h 2s]
+*** PRE-FLOP *** 
+manggy94 folds
+francky72290 folds
+Emilayy folds
+mage847 calls 250
+sague1 checks
+*** FLOP *** [As Qh 4d]
+mage847 checks
+sague1 checks
+*** TURN *** [As Qh 4d][Ts]
+mage847 bets 500
+sague1 calls 500
+*** RIVER *** [As Qh 4d Ts][Jc]
+mage847 checks
+sague1 checks
+*** SHOW DOWN ***
+mage847 shows [7c 4h] (One pair : 4)
+sague1 shows [Js 3d] (One pair : Jacks)
+sague1 collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | No rake
+Board: [As Qh 4d Ts Jc]
+Seat 1: sague1 (big blind) showed [Js 3d] and won 2250 with One pair : Jacks
+Seat 5: mage847 (small blind) showed [7c 4h] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 12 - HandId: #538925989426626570-47-1438871281 - Holdem no limit (50/250/500) - 2015/08/06 14:28:01 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #5 is the button
+Seat 1: sague1 (31940)
+Seat 2: manggy94 (10920)
+Seat 3: francky72290 (8815)
+Seat 4: Emilayy (907)
+Seat 5: mage847 (8235)
+*** ANTE/BLINDS ***
+sague1 posts ante 50
+manggy94 posts ante 50
+francky72290 posts ante 50
+Emilayy posts ante 50
+mage847 posts ante 50
+sague1 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [Kc Qc]
+*** PRE-FLOP *** 
+francky72290 folds
+Emilayy folds
+mage847 folds
+sague1 folds
+manggy94 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Seat 2: manggy94 (big blind) won 1000
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 12 - HandId: #538925989426626570-48-1438871301 - Holdem no limit (50/250/500) - 2015/08/06 14:28:21 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #1 is the button
+Seat 1: sague1 (31640)
+Seat 2: manggy94 (11370)
+Seat 3: francky72290 (8765)
+Seat 4: Emilayy (857)
+Seat 5: mage847 (8185)
+*** ANTE/BLINDS ***
+manggy94 posts ante 50
+francky72290 posts ante 50
+sague1 posts ante 50
+Emilayy posts ante 50
+mage847 posts ante 50
+manggy94 posts small blind 250
+francky72290 posts big blind 500
+Dealt to manggy94 [Td 2d]
+*** PRE-FLOP *** 
+Emilayy calls 500
+mage847 calls 500
+sague1 folds
+manggy94 folds
+francky72290 checks
+*** FLOP *** [3c 6s Ah]
+francky72290 checks
+Emilayy bets 307 and is all-in
+mage847 calls 307
+francky72290 folds
+*** TURN *** [3c 6s Ah][2c]
+*** RIVER *** [3c 6s Ah 2c][7s]
+*** SHOW DOWN ***
+mage847 shows [Jh 3h] (One pair : 3)
+Emilayy shows [5h Ac] (One pair : Aces)
+Emilayy collected 2614 from pot
+*** SUMMARY ***
+Total pot 2614 | No rake
+Board: [3c 6s Ah 2c 7s]
+Seat 4: Emilayy showed [5h Ac] and won 2614 with One pair : Aces
+Seat 5: mage847 showed [Jh 3h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 13 - HandId: #538925989426626570-49-1438871362 - Holdem no limit (70/300/600) - 2015/08/06 14:29:22 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #2 is the button
+Seat 1: sague1 (31590)
+Seat 2: manggy94 (11070)
+Seat 3: francky72290 (8215)
+Seat 4: Emilayy (2614)
+Seat 5: mage847 (7328)
+*** ANTE/BLINDS ***
+francky72290 posts ante 70
+Emilayy posts ante 70
+sague1 posts ante 70
+manggy94 posts ante 70
+mage847 posts ante 70
+francky72290 posts small blind 300
+Emilayy posts big blind 600
+Dealt to manggy94 [3s Jc]
+*** PRE-FLOP *** 
+mage847 folds
+sague1 folds
+manggy94 folds
+francky72290 folds
+Emilayy collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | No rake
+Seat 4: Emilayy (big blind) won 1250
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 13 - HandId: #538925989426626570-50-1438871374 - Holdem no limit (70/300/600) - 2015/08/06 14:29:34 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #3 is the button
+Seat 1: sague1 (31520)
+Seat 2: manggy94 (11000)
+Seat 3: francky72290 (7845)
+Seat 4: Emilayy (3194)
+Seat 5: mage847 (7258)
+*** ANTE/BLINDS ***
+Emilayy posts ante 70
+mage847 posts ante 70
+sague1 posts ante 70
+manggy94 posts ante 70
+francky72290 posts ante 70
+Emilayy posts small blind 300
+mage847 posts big blind 600
+Dealt to manggy94 [4h 9s]
+*** PRE-FLOP *** 
+sague1 folds
+manggy94 folds
+francky72290 raises 7175 to 7775 and is all-in
+Emilayy folds
+mage847 folds
+francky72290 collected 9025 from pot
+*** SUMMARY ***
+Total pot 9025 | No rake
+Seat 3: francky72290 (button) won 9025
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 13 - HandId: #538925989426626570-51-1438871391 - Holdem no limit (70/300/600) - 2015/08/06 14:29:51 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #4 is the button
+Seat 1: sague1 (31450)
+Seat 2: manggy94 (10930)
+Seat 3: francky72290 (9025)
+Seat 4: Emilayy (2824)
+Seat 5: mage847 (6588)
+*** ANTE/BLINDS ***
+mage847 posts ante 70
+sague1 posts ante 70
+manggy94 posts ante 70
+francky72290 posts ante 70
+Emilayy posts ante 70
+mage847 posts small blind 300
+sague1 posts big blind 600
+Dealt to manggy94 [2h 7h]
+*** PRE-FLOP *** 
+manggy94 folds
+francky72290 folds
+Emilayy folds
+mage847 calls 300
+sague1 checks
+*** FLOP *** [7d 8d 7c]
+mage847 checks
+sague1 checks
+*** TURN *** [7d 8d 7c][6c]
+mage847 bets 600
+sague1 calls 600
+*** RIVER *** [7d 8d 7c 6c][2s]
+mage847 checks
+sague1 checks
+*** SHOW DOWN ***
+mage847 shows [9h Kc] (One pair : 7)
+sague1 shows [Jd Ad] (One pair : 7)
+sague1 collected 2750 from pot
+*** SUMMARY ***
+Total pot 2750 | No rake
+Board: [7d 8d 7c 6c 2s]
+Seat 1: sague1 (big blind) showed [Jd Ad] and won 2750 with One pair : 7
+Seat 5: mage847 (small blind) showed [9h Kc] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 13 - HandId: #538925989426626570-52-1438871418 - Holdem no limit (70/300/600) - 2015/08/06 14:30:18 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #5 is the button
+Seat 1: sague1 (32930)
+Seat 2: manggy94 (10860)
+Seat 4: Emilayy (2754)
+Seat 5: mage847 (5318)
+Seat 6: MoiMoi60 (28824)
+*** ANTE/BLINDS ***
+sague1 posts ante 70
+manggy94 posts ante 70
+Emilayy posts ante 70
+mage847 posts ante 70
+sague1 posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [Jd 7c]
+*** PRE-FLOP *** 
+Emilayy calls 600
+mage847 folds
+sague1 calls 300
+manggy94 checks
+*** FLOP *** [9s As 3s]
+sague1 checks
+manggy94 checks
+Emilayy checks
+*** TURN *** [9s As 3s][Ah]
+sague1 checks
+manggy94 checks
+Emilayy checks
+*** RIVER *** [9s As 3s Ah][4h]
+sague1 checks
+manggy94 checks
+Emilayy checks
+*** SHOW DOWN ***
+manggy94 shows [Jd 7c] (One pair : Aces)
+Emilayy shows [Js Tc] (One pair : Aces)
+sague1 shows [3d Ks] (Two pairs : Aces and 3)
+sague1 collected 2080 from pot
+*** SUMMARY ***
+Total pot 2080 | No rake
+Board: [9s As 3s Ah 4h]
+Seat 1: sague1 (small blind) showed [3d Ks] and won 2080 with Two pairs : Aces and 3
+Seat 2: manggy94 (big blind) showed [Jd 7c] and lost with One pair : Aces
+Seat 4: Emilayy showed [Js Tc] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 13 - HandId: #538925989426626570-53-1438871450 - Holdem no limit (70/300/600) - 2015/08/06 14:30:50 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #1 is the button
+Seat 1: sague1 (34340)
+Seat 2: manggy94 (10190)
+Seat 4: Emilayy (2084)
+Seat 5: mage847 (5248)
+Seat 6: MoiMoi60 (28824)
+*** ANTE/BLINDS ***
+manggy94 posts ante 70
+Emilayy posts ante 70
+sague1 posts ante 70
+mage847 posts ante 70
+MoiMoi60 posts ante 70
+manggy94 posts small blind 300
+Emilayy posts big blind 600
+Dealt to manggy94 [Th 2c]
+*** PRE-FLOP *** 
+mage847 folds
+MoiMoi60 calls 600
+sague1 folds
+manggy94 folds
+Emilayy checks
+*** FLOP *** [6s Tc 9c]
+Emilayy checks
+MoiMoi60 bets 600
+Emilayy folds
+MoiMoi60 collected 2450 from pot
+*** SUMMARY ***
+Total pot 2450 | No rake
+Board: [6s Tc 9c]
+Seat 6: MoiMoi60 won 2450
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 13 - HandId: #538925989426626570-54-1438871465 - Holdem no limit (70/300/600) - 2015/08/06 14:31:05 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #2 is the button
+Seat 1: sague1 (34270)
+Seat 2: manggy94 (9820)
+Seat 4: Emilayy (1414)
+Seat 5: mage847 (5178)
+Seat 6: MoiMoi60 (30004)
+*** ANTE/BLINDS ***
+Emilayy posts ante 70
+mage847 posts ante 70
+sague1 posts ante 70
+manggy94 posts ante 70
+MoiMoi60 posts ante 70
+Emilayy posts small blind 300
+mage847 posts big blind 600
+Dealt to manggy94 [Jh 9s]
+*** PRE-FLOP *** 
+MoiMoi60 raises 600 to 1200
+sague1 calls 1200
+manggy94 folds
+Emilayy raises 144 to 1344 and is all-in
+mage847 folds
+MoiMoi60 calls 144
+sague1 calls 144
+*** FLOP *** [Qc 8h 7h]
+MoiMoi60 checks
+sague1 checks
+*** TURN *** [Qc 8h 7h][3s]
+MoiMoi60 checks
+sague1 checks
+*** RIVER *** [Qc 8h 7h 3s][Js]
+MoiMoi60 checks
+sague1 checks
+*** SHOW DOWN ***
+sague1 shows [4h Ah] (High card : Ace)
+MoiMoi60 shows [As 4s] (High card : Ace)
+Emilayy shows [Qd 2d] (One pair : Queens)
+Emilayy collected 4982 from pot
+*** SUMMARY ***
+Total pot 4982 | No rake
+Board: [Qc 8h 7h 3s Js]
+Seat 1: sague1 showed [4h Ah] and lost with High card : Ace
+Seat 4: Emilayy (small blind) showed [Qd 2d] and won 4982 with One pair : Queens
+Seat 6: MoiMoi60 showed [As 4s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 13 - HandId: #538925989426626570-55-1438871498 - Holdem no limit (70/300/600) - 2015/08/06 14:31:38 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #4 is the button
+Seat 1: sague1 (32856)
+Seat 2: manggy94 (9750)
+Seat 4: Emilayy (4982)
+Seat 5: mage847 (4508)
+Seat 6: MoiMoi60 (28590)
+*** ANTE/BLINDS ***
+mage847 posts ante 70
+MoiMoi60 posts ante 70
+sague1 posts ante 70
+manggy94 posts ante 70
+Emilayy posts ante 70
+mage847 posts small blind 300
+MoiMoi60 posts big blind 600
+Dealt to manggy94 [3d Jc]
+*** PRE-FLOP *** 
+sague1 folds
+manggy94 folds
+Emilayy folds
+mage847 calls 300
+MoiMoi60 checks
+*** FLOP *** [6c 5h 8s]
+mage847 checks
+MoiMoi60 bets 600
+mage847 calls 600
+*** TURN *** [6c 5h 8s][3s]
+mage847 bets 600
+MoiMoi60 calls 600
+*** RIVER *** [6c 5h 8s 3s][Kd]
+mage847 checks
+MoiMoi60 checks
+*** SHOW DOWN ***
+mage847 shows [Js 9s] (High card : King)
+MoiMoi60 shows [8c Th] (One pair : 8)
+MoiMoi60 collected 3950 from pot
+*** SUMMARY ***
+Total pot 3950 | No rake
+Board: [6c 5h 8s 3s Kd]
+Seat 5: mage847 (small blind) showed [Js 9s] and lost with High card : King
+Seat 6: MoiMoi60 (big blind) showed [8c Th] and won 3950 with One pair : 8
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 14 - HandId: #538925989426626570-56-1438871534 - Holdem no limit (80/400/800) - 2015/08/06 14:32:14 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #5 is the button
+Seat 1: sague1 (32786)
+Seat 2: manggy94 (9680)
+Seat 4: Emilayy (4912)
+Seat 5: mage847 (2638)
+Seat 6: MoiMoi60 (30670)
+*** ANTE/BLINDS ***
+MoiMoi60 posts ante 80
+sague1 posts ante 80
+manggy94 posts ante 80
+Emilayy posts ante 80
+mage847 posts ante 80
+MoiMoi60 posts small blind 400
+sague1 posts big blind 800
+Dealt to manggy94 [Td Ts]
+*** PRE-FLOP *** 
+manggy94 calls 800
+Emilayy folds
+mage847 calls 800
+MoiMoi60 calls 400
+sague1 checks
+*** FLOP *** [8h Kh 6h]
+MoiMoi60 checks
+sague1 checks
+manggy94 checks
+mage847 checks
+*** TURN *** [8h Kh 6h][Ah]
+MoiMoi60 checks
+sague1 checks
+manggy94 checks
+mage847 checks
+*** RIVER *** [8h Kh 6h Ah][Ad]
+MoiMoi60 folds
+sague1 checks
+manggy94 checks
+mage847 checks
+*** SHOW DOWN ***
+sague1 shows [Jd 7c] (One pair : Aces)
+mage847 shows [Jc Tc] (One pair : Aces)
+manggy94 shows [Td Ts] (Two pairs : Aces and Tens)
+manggy94 collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Board: [8h Kh 6h Ah Ad]
+Seat 1: sague1 (big blind) showed [Jd 7c] and lost with One pair : Aces
+Seat 2: manggy94 showed [Td Ts] and won 3600 with Two pairs : Aces and Tens
+Seat 5: mage847 (button) showed [Jc Tc] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 14 - HandId: #538925989426626570-57-1438871577 - Holdem no limit (80/400/800) - 2015/08/06 14:32:57 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #6 is the button
+Seat 1: sague1 (31906)
+Seat 2: manggy94 (12400)
+Seat 4: Emilayy (4832)
+Seat 5: mage847 (1758)
+Seat 6: MoiMoi60 (29790)
+*** ANTE/BLINDS ***
+sague1 posts ante 80
+manggy94 posts ante 80
+Emilayy posts ante 80
+mage847 posts ante 80
+MoiMoi60 posts ante 80
+sague1 posts small blind 400
+manggy94 posts big blind 800
+Dealt to manggy94 [Qc Kd]
+*** PRE-FLOP *** 
+Emilayy calls 800
+mage847 calls 800
+MoiMoi60 calls 800
+sague1 folds
+manggy94 checks
+*** FLOP *** [Js Qs 3c]
+manggy94 bets 4000
+Emilayy folds
+mage847 folds
+MoiMoi60 folds
+manggy94 collected 8000 from pot
+*** SUMMARY ***
+Total pot 8000 | No rake
+Board: [Js Qs 3c]
+Seat 2: manggy94 (big blind) won 8000
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 14 - HandId: #538925989426626570-58-1438871608 - Holdem no limit (80/400/800) - 2015/08/06 14:33:28 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #1 is the button
+Seat 1: sague1 (31426)
+Seat 2: manggy94 (15520)
+Seat 3: mumu2411 (14640)
+Seat 4: Emilayy (3952)
+Seat 5: mage847 (878)
+Seat 6: MoiMoi60 (28910)
+*** ANTE/BLINDS ***
+manggy94 posts ante 80
+mumu2411 posts ante 80
+sague1 posts ante 80
+Emilayy posts ante 80
+mage847 posts ante 80
+MoiMoi60 posts ante 80
+manggy94 posts small blind 400
+mumu2411 posts big blind 800
+Dealt to manggy94 [Jh 9h]
+*** PRE-FLOP *** 
+Emilayy calls 800
+mage847 folds
+MoiMoi60 calls 800
+sague1 folds
+manggy94 calls 400
+mumu2411 folds
+*** FLOP *** [Kd 2c 5h]
+manggy94 checks
+Emilayy bets 800
+MoiMoi60 folds
+manggy94 calls 800
+*** TURN *** [Kd 2c 5h][Ah]
+manggy94 checks
+Emilayy bets 2272 and is all-in
+manggy94 folds
+Emilayy collected 7552 from pot
+*** SUMMARY ***
+Total pot 7552 | No rake
+Board: [Kd 2c 5h Ah]
+Seat 4: Emilayy won 7552
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 14 - HandId: #538925989426626570-59-1438871638 - Holdem no limit (80/400/800) - 2015/08/06 14:33:58 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #2 is the button
+Seat 1: sague1 (31346)
+Seat 2: manggy94 (13840)
+Seat 3: mumu2411 (13760)
+Seat 4: Emilayy (7552)
+Seat 5: mage847 (798)
+Seat 6: MoiMoi60 (28030)
+*** ANTE/BLINDS ***
+mumu2411 posts ante 80
+Emilayy posts ante 80
+sague1 posts ante 80
+manggy94 posts ante 80
+mage847 posts ante 80
+MoiMoi60 posts ante 80
+mumu2411 posts small blind 400
+Emilayy posts big blind 800
+Dealt to manggy94 [7s Jd]
+*** PRE-FLOP *** 
+mage847 calls 718 and is all-in
+MoiMoi60 calls 800
+sague1 calls 800
+manggy94 folds
+mumu2411 folds
+Emilayy checks
+*** FLOP *** [9s Qh Td]
+Emilayy bets 800
+MoiMoi60 calls 800
+sague1 folds
+*** TURN *** [9s Qh Td][6c]
+Emilayy bets 800
+MoiMoi60 calls 800
+*** RIVER *** [9s Qh Td 6c][Qs]
+Emilayy bets 3599
+MoiMoi60 folds
+*** SHOW DOWN ***
+mage847 shows [8d Jc] (Straight Queen high)
+Emilayy shows [Js Kh] (Straight King high)
+Emilayy collected 10797 from pot
+*** SUMMARY ***
+Total pot 10797 | No rake
+Board: [9s Qh Td 6c Qs]
+Seat 4: Emilayy (big blind) showed [Js Kh] and won 10797 with Straight King high
+Seat 5: mage847 showed [8d Jc] and lost with Straight Queen high
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 14 - HandId: #538925989426626570-60-1438871670 - Holdem no limit (80/400/800) - 2015/08/06 14:34:30 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #3 is the button
+Seat 1: sague1 (30466)
+Seat 2: manggy94 (13760)
+Seat 3: mumu2411 (13280)
+Seat 4: Emilayy (12270)
+Seat 6: MoiMoi60 (25550)
+*** ANTE/BLINDS ***
+Emilayy posts ante 80
+MoiMoi60 posts ante 80
+sague1 posts ante 80
+manggy94 posts ante 80
+mumu2411 posts ante 80
+Emilayy posts small blind 400
+MoiMoi60 posts big blind 800
+Dealt to manggy94 [Ac 7c]
+*** PRE-FLOP *** 
+sague1 folds
+manggy94 calls 800
+mumu2411 folds
+Emilayy calls 400
+MoiMoi60 checks
+*** FLOP *** [7h 4c 8d]
+Emilayy checks
+MoiMoi60 checks
+manggy94 bets 2800
+Emilayy folds
+MoiMoi60 folds
+manggy94 collected 5600 from pot
+*** SUMMARY ***
+Total pot 5600 | No rake
+Board: [7h 4c 8d]
+Seat 2: manggy94 won 5600
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 14 - HandId: #538925989426626570-61-1438871687 - Holdem no limit (80/400/800) - 2015/08/06 14:34:47 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #4 is the button
+Seat 1: sague1 (30386)
+Seat 2: manggy94 (15680)
+Seat 3: mumu2411 (13200)
+Seat 4: Emilayy (11390)
+Seat 6: MoiMoi60 (24670)
+*** ANTE/BLINDS ***
+MoiMoi60 posts ante 80
+sague1 posts ante 80
+manggy94 posts ante 80
+mumu2411 posts ante 80
+Emilayy posts ante 80
+MoiMoi60 posts small blind 400
+sague1 posts big blind 800
+Dealt to manggy94 [3c 6h]
+*** PRE-FLOP *** 
+manggy94 folds
+mumu2411 folds
+Emilayy folds
+MoiMoi60 calls 400
+sague1 checks
+*** FLOP *** [Kh Ac 6c]
+MoiMoi60 bets 800
+sague1 calls 800
+*** TURN *** [Kh Ac 6c][3s]
+MoiMoi60 bets 800
+sague1 calls 800
+*** RIVER *** [Kh Ac 6c 3s][5s]
+MoiMoi60 bets 800
+sague1 raises 6800 to 7600
+MoiMoi60 calls 6800
+*** SHOW DOWN ***
+sague1 shows [Ks Td] (One pair : Kings)
+MoiMoi60 shows [3d Kc] (Two pairs : Kings and 3)
+MoiMoi60 collected 20400 from pot
+*** SUMMARY ***
+Total pot 20400 | No rake
+Board: [Kh Ac 6c 3s 5s]
+Seat 1: sague1 (big blind) showed [Ks Td] and lost with One pair : Kings
+Seat 6: MoiMoi60 (small blind) showed [3d Kc] and won 20400 with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 15 - HandId: #538925989426626570-62-1438871712 - Holdem no limit (100/500/1000) - 2015/08/06 14:35:12 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #6 is the button
+Seat 1: sague1 (20306)
+Seat 2: manggy94 (15600)
+Seat 3: mumu2411 (13120)
+Seat 4: Emilayy (11310)
+Seat 6: MoiMoi60 (34990)
+*** ANTE/BLINDS ***
+sague1 posts ante 100
+manggy94 posts ante 100
+mumu2411 posts ante 100
+Emilayy posts ante 100
+MoiMoi60 posts ante 100
+sague1 posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [Qs 4h]
+*** PRE-FLOP *** 
+mumu2411 folds
+Emilayy calls 1000
+MoiMoi60 calls 1000
+sague1 calls 500
+manggy94 checks
+*** FLOP *** [Jh 5s 8c]
+sague1 checks
+manggy94 checks
+Emilayy bets 1000
+MoiMoi60 folds
+sague1 folds
+manggy94 folds
+Emilayy collected 5500 from pot
+*** SUMMARY ***
+Total pot 5500 | No rake
+Board: [Jh 5s 8c]
+Seat 4: Emilayy won 5500
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 15 - HandId: #538925989426626570-63-1438871729 - Holdem no limit (100/500/1000) - 2015/08/06 14:35:29 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #1 is the button
+Seat 1: sague1 (19206)
+Seat 2: manggy94 (14500)
+Seat 3: mumu2411 (13020)
+Seat 4: Emilayy (14710)
+Seat 6: MoiMoi60 (33890)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+mumu2411 posts ante 100
+sague1 posts ante 100
+Emilayy posts ante 100
+MoiMoi60 posts ante 100
+manggy94 posts small blind 500
+mumu2411 posts big blind 1000
+Dealt to manggy94 [Ah 4d]
+*** PRE-FLOP *** 
+Emilayy calls 1000
+MoiMoi60 folds
+sague1 folds
+manggy94 calls 500
+mumu2411 folds
+*** FLOP *** [Jd 6h 8d]
+manggy94 bets 1000
+Emilayy folds
+manggy94 collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Board: [Jd 6h 8d]
+Seat 2: manggy94 (small blind) won 4500
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 15 - HandId: #538925989426626570-64-1438871750 - Holdem no limit (100/500/1000) - 2015/08/06 14:35:50 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #2 is the button
+Seat 1: sague1 (19106)
+Seat 2: manggy94 (16900)
+Seat 3: mumu2411 (11920)
+Seat 4: Emilayy (13610)
+Seat 6: MoiMoi60 (33790)
+*** ANTE/BLINDS ***
+mumu2411 posts ante 100
+Emilayy posts ante 100
+sague1 posts ante 100
+manggy94 posts ante 100
+MoiMoi60 posts ante 100
+mumu2411 posts small blind 500
+Emilayy posts big blind 1000
+Dealt to manggy94 [Qc Js]
+*** PRE-FLOP *** 
+MoiMoi60 raises 1000 to 2000
+sague1 calls 2000
+manggy94 calls 2000
+mumu2411 folds
+Emilayy folds
+*** FLOP *** [Ac 6h 9c]
+MoiMoi60 bets 1000
+sague1 folds
+manggy94 calls 1000
+*** TURN *** [Ac 6h 9c][5d]
+MoiMoi60 bets 1000
+manggy94 folds
+MoiMoi60 collected 11000 from pot
+*** SUMMARY ***
+Total pot 11000 | No rake
+Board: [Ac 6h 9c 5d]
+Seat 6: MoiMoi60 won 11000
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 15 - HandId: #538925989426626570-65-1438871771 - Holdem no limit (100/500/1000) - 2015/08/06 14:36:11 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #3 is the button
+Seat 1: sague1 (17006)
+Seat 2: manggy94 (13800)
+Seat 3: mumu2411 (11320)
+Seat 6: MoiMoi60 (40690)
+*** ANTE/BLINDS ***
+MoiMoi60 posts ante 100
+sague1 posts ante 100
+manggy94 posts ante 100
+mumu2411 posts ante 100
+MoiMoi60 posts big blind 1000
+Dealt to manggy94 [Kh Jh]
+*** PRE-FLOP *** 
+sague1 calls 1000
+manggy94 raises 3400 to 4400
+mumu2411 folds
+MoiMoi60 calls 3400
+sague1 calls 3400
+*** FLOP *** [Ks 5s Ad]
+MoiMoi60 checks
+sague1 checks
+manggy94 bets 9300 and is all-in
+MoiMoi60 folds
+sague1 folds
+manggy94 collected 22900 from pot
+*** SUMMARY ***
+Total pot 22900 | No rake
+Board: [Ks 5s Ad]
+Seat 2: manggy94 won 22900
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 15 - HandId: #538925989426626570-66-1438871795 - Holdem no limit (100/500/1000) - 2015/08/06 14:36:35 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #4 is the button
+Seat 1: sague1 (12506)
+Seat 2: manggy94 (22900)
+Seat 3: mumu2411 (11220)
+Seat 6: MoiMoi60 (36190)
+*** ANTE/BLINDS ***
+MoiMoi60 posts ante 100
+sague1 posts ante 100
+manggy94 posts ante 100
+mumu2411 posts ante 100
+MoiMoi60 posts small blind 500
+sague1 posts big blind 1000
+Dealt to manggy94 [4c 4h]
+*** PRE-FLOP *** 
+manggy94 calls 1000
+mumu2411 folds
+MoiMoi60 calls 500
+sague1 checks
+*** FLOP *** [7s 9d Td]
+MoiMoi60 checks
+sague1 checks
+manggy94 checks
+*** TURN *** [7s 9d Td][3h]
+MoiMoi60 checks
+sague1 checks
+manggy94 checks
+*** RIVER *** [7s 9d Td 3h][Ts]
+MoiMoi60 checks
+sague1 checks
+manggy94 checks
+*** SHOW DOWN ***
+sague1 shows [5s 8d] (One pair : Tens)
+MoiMoi60 shows [2h Jd] (One pair : Tens)
+manggy94 shows [4c 4h] (Two pairs : Tens and 4)
+manggy94 collected 3400 from pot
+*** SUMMARY ***
+Total pot 3400 | No rake
+Board: [7s 9d Td 3h Ts]
+Seat 1: sague1 (big blind) showed [5s 8d] and lost with One pair : Tens
+Seat 2: manggy94 showed [4c 4h] and won 3400 with Two pairs : Tens and 4
+Seat 6: MoiMoi60 (small blind) showed [2h Jd] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 15 - HandId: #538925989426626570-67-1438871815 - Holdem no limit (100/500/1000) - 2015/08/06 14:36:55 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #6 is the button
+Seat 1: sague1 (11406)
+Seat 2: manggy94 (25200)
+Seat 3: mumu2411 (11120)
+Seat 6: MoiMoi60 (35090)
+*** ANTE/BLINDS ***
+sague1 posts ante 100
+manggy94 posts ante 100
+mumu2411 posts ante 100
+MoiMoi60 posts ante 100
+sague1 posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [4c 6d]
+*** PRE-FLOP *** 
+mumu2411 folds
+MoiMoi60 raises 1000 to 2000
+sague1 calls 1500
+manggy94 calls 1000
+*** FLOP *** [Ah Qc 8c]
+sague1 checks
+manggy94 checks
+MoiMoi60 bets 1000
+sague1 calls 1000
+manggy94 folds
+*** TURN *** [Ah Qc 8c][Js]
+sague1 checks
+MoiMoi60 checks
+*** RIVER *** [Ah Qc 8c Js][Ks]
+sague1 bets 8306 and is all-in
+MoiMoi60 calls 8306
+*** SHOW DOWN ***
+sague1 shows [4h Qh] (One pair : Queens)
+MoiMoi60 shows [Kh 6c] (One pair : Kings)
+MoiMoi60 collected 25012 from pot
+*** SUMMARY ***
+Total pot 25012 | No rake
+Board: [Ah Qc 8c Js Ks]
+Seat 1: sague1 (small blind) showed [4h Qh] and lost with One pair : Queens
+Seat 6: MoiMoi60 (button) showed [Kh 6c] and won 25012 with One pair : Kings
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 15 - HandId: #538925989426626570-68-1438871848 - Holdem no limit (100/500/1000) - 2015/08/06 14:37:28 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #1 is the button
+Seat 2: manggy94 (23100)
+Seat 3: mumu2411 (11020)
+Seat 6: MoiMoi60 (48696)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+mumu2411 posts ante 100
+MoiMoi60 posts ante 100
+manggy94 posts small blind 500
+mumu2411 posts big blind 1000
+Dealt to manggy94 [4s 4c]
+*** PRE-FLOP *** 
+MoiMoi60 raises 1000 to 2000
+manggy94 calls 1500
+mumu2411 folds
+*** FLOP *** [4d 8s 7c]
+manggy94 checks
+MoiMoi60 checks
+*** TURN *** [4d 8s 7c][2h]
+manggy94 bets 5300
+MoiMoi60 folds
+manggy94 collected 10600 from pot
+*** SUMMARY ***
+Total pot 10600 | No rake
+Board: [4d 8s 7c 2h]
+Seat 2: manggy94 (small blind) won 10600
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 15 - HandId: #538925989426626570-69-1438871865 - Holdem no limit (100/500/1000) - 2015/08/06 14:37:45 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #2 is the button
+Seat 2: manggy94 (26300)
+Seat 3: mumu2411 (9920)
+Seat 6: MoiMoi60 (46596)
+*** ANTE/BLINDS ***
+mumu2411 posts ante 100
+MoiMoi60 posts ante 100
+manggy94 posts ante 100
+mumu2411 posts small blind 500
+MoiMoi60 posts big blind 1000
+Dealt to manggy94 [Qd 5c]
+*** PRE-FLOP *** 
+manggy94 calls 1000
+mumu2411 folds
+MoiMoi60 checks
+*** FLOP *** [Kh Js Th]
+MoiMoi60 checks
+manggy94 checks
+*** TURN *** [Kh Js Th][2s]
+MoiMoi60 checks
+manggy94 checks
+*** RIVER *** [Kh Js Th 2s][7d]
+MoiMoi60 checks
+manggy94 checks
+*** SHOW DOWN ***
+MoiMoi60 shows [8s 6s] (High card : King)
+manggy94 shows [Qd 5c] (High card : King)
+manggy94 collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | No rake
+Board: [Kh Js Th 2s 7d]
+Seat 2: manggy94 (button) showed [Qd 5c] and won 2800 with High card : King
+Seat 6: MoiMoi60 (big blind) showed [8s 6s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 16 - HandId: #538925989426626570-70-1438871884 - Holdem no limit (135/600/1200) - 2015/08/06 14:38:04 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #3 is the button
+Seat 2: manggy94 (28000)
+Seat 3: mumu2411 (9320)
+Seat 6: MoiMoi60 (45496)
+*** ANTE/BLINDS ***
+MoiMoi60 posts ante 135
+manggy94 posts ante 135
+mumu2411 posts ante 135
+MoiMoi60 posts small blind 600
+manggy94 posts big blind 1200
+Dealt to manggy94 [6d 3c]
+*** PRE-FLOP *** 
+mumu2411 folds
+MoiMoi60 raises 1200 to 2400
+manggy94 raises 1200 to 3600
+MoiMoi60 calls 1200
+*** FLOP *** [Qs Tc Jc]
+MoiMoi60 checks
+manggy94 checks
+*** TURN *** [Qs Tc Jc][Jh]
+MoiMoi60 checks
+manggy94 checks
+*** RIVER *** [Qs Tc Jc Jh][8h]
+MoiMoi60 bets 1200
+manggy94 folds
+MoiMoi60 collected 8805 from pot
+*** SUMMARY ***
+Total pot 8805 | No rake
+Board: [Qs Tc Jc Jh 8h]
+Seat 6: MoiMoi60 (small blind) won 8805
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 16 - HandId: #538925989426626570-71-1438871914 - Holdem no limit (135/600/1200) - 2015/08/06 14:38:34 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #6 is the button
+Seat 1: PMBM37 (33257)
+Seat 2: manggy94 (24265)
+Seat 3: mumu2411 (9185)
+Seat 4: Emilayy (15110)
+Seat 5: Kingofsicile (24611)
+Seat 6: MoiMoi60 (49366)
+*** ANTE/BLINDS ***
+manggy94 posts ante 135
+mumu2411 posts ante 135
+Emilayy posts ante 135
+Kingofsicile posts ante 135
+MoiMoi60 posts ante 135
+manggy94 posts small blind 600
+mumu2411 posts big blind 1200
+Dealt to manggy94 [2s 4d]
+*** PRE-FLOP *** 
+Emilayy folds
+Kingofsicile raises 1200 to 2400
+MoiMoi60 folds
+manggy94 folds
+mumu2411 folds
+Kingofsicile collected 4875 from pot
+*** SUMMARY ***
+Total pot 4875 | No rake
+Seat 5: Kingofsicile won 4875
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 16 - HandId: #538925989426626570-72-1438872011 - Holdem no limit (135/600/1200) - 2015/08/06 14:40:11 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #2 is the button
+Seat 1: PMBM37 (33257)
+Seat 2: manggy94 (23530)
+Seat 3: mumu2411 (7850)
+Seat 4: Emilayy (14975)
+Seat 5: Kingofsicile (26951)
+Seat 6: MoiMoi60 (49231)
+*** ANTE/BLINDS ***
+mumu2411 posts ante 135
+Emilayy posts ante 135
+PMBM37 posts ante 135
+manggy94 posts ante 135
+Kingofsicile posts ante 135
+MoiMoi60 posts ante 135
+mumu2411 posts small blind 600
+Emilayy posts big blind 1200
+Dealt to manggy94 [8d Jh]
+*** PRE-FLOP *** 
+Kingofsicile raises 3810 to 5010
+MoiMoi60 folds
+PMBM37 folds
+manggy94 folds
+mumu2411 folds
+Emilayy folds
+Kingofsicile collected 7620 from pot
+*** SUMMARY ***
+Total pot 7620 | No rake
+Seat 5: Kingofsicile won 7620
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 16 - HandId: #538925989426626570-73-1438872053 - Holdem no limit (135/600/1200) - 2015/08/06 14:40:53 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #3 is the button
+Seat 1: PMBM37 (33122)
+Seat 2: manggy94 (23395)
+Seat 3: mumu2411 (7115)
+Seat 4: Emilayy (13640)
+Seat 5: Kingofsicile (29426)
+Seat 6: MoiMoi60 (49096)
+*** ANTE/BLINDS ***
+Emilayy posts ante 135
+Kingofsicile posts ante 135
+PMBM37 posts ante 135
+manggy94 posts ante 135
+mumu2411 posts ante 135
+MoiMoi60 posts ante 135
+Emilayy posts small blind 600
+Kingofsicile posts big blind 1200
+Dealt to manggy94 [4s 5s]
+*** PRE-FLOP *** 
+MoiMoi60 folds
+PMBM37 calls 1200
+manggy94 calls 1200
+mumu2411 folds
+Emilayy calls 600
+Kingofsicile checks
+*** FLOP *** [5d 9s Th]
+Emilayy bets 1200
+Kingofsicile folds
+PMBM37 folds
+manggy94 calls 1200
+*** TURN *** [5d 9s Th][9d]
+Emilayy bets 1200
+manggy94 calls 1200
+*** RIVER *** [5d 9s Th 9d][Ad]
+Emilayy bets 1200
+manggy94 calls 1200
+*** SHOW DOWN ***
+manggy94 shows [4s 5s] (Two pairs : 9 and 5)
+Emilayy shows [Jc Tc] (Two pairs : Tens and 9)
+Emilayy collected 12810 from pot
+*** SUMMARY ***
+Total pot 12810 | No rake
+Board: [5d 9s Th 9d Ad]
+Seat 2: manggy94 showed [4s 5s] and lost with Two pairs : 9 and 5
+Seat 4: Emilayy (small blind) showed [Jc Tc] and won 12810 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 17 - HandId: #538925989426626570-74-1438872116 - Holdem no limit (160/800/1600) - 2015/08/06 14:41:56 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #4 is the button
+Seat 1: PMBM37 (31787)
+Seat 2: manggy94 (18460)
+Seat 3: mumu2411 (6980)
+Seat 4: Emilayy (21515)
+Seat 5: Kingofsicile (28091)
+Seat 6: MoiMoi60 (48961)
+*** ANTE/BLINDS ***
+Kingofsicile posts ante 160
+MoiMoi60 posts ante 160
+PMBM37 posts ante 160
+manggy94 posts ante 160
+mumu2411 posts ante 160
+Emilayy posts ante 160
+Kingofsicile posts small blind 800
+MoiMoi60 posts big blind 1600
+Dealt to manggy94 [3d 5c]
+*** PRE-FLOP *** 
+PMBM37 folds
+manggy94 folds
+mumu2411 folds
+Emilayy calls 1600
+Kingofsicile calls 800
+MoiMoi60 checks
+*** FLOP *** [Jh 5s 6s]
+Kingofsicile checks
+MoiMoi60 checks
+Emilayy bets 1600
+Kingofsicile calls 1600
+MoiMoi60 calls 1600
+*** TURN *** [Jh 5s 6s][Qc]
+Kingofsicile checks
+MoiMoi60 checks
+Emilayy checks
+*** RIVER *** [Jh 5s 6s Qc][9h]
+Kingofsicile bets 1600
+MoiMoi60 calls 1600
+Emilayy calls 1600
+*** SHOW DOWN ***
+Emilayy shows [5h Ah] (One pair : 5)
+MoiMoi60 shows [9c 5d] (Two pairs : 9 and 5)
+Kingofsicile shows [7h 8d] (Straight 9 high)
+Kingofsicile collected 15360 from pot
+*** SUMMARY ***
+Total pot 15360 | No rake
+Board: [Jh 5s 6s Qc 9h]
+Seat 4: Emilayy (button) showed [5h Ah] and lost with One pair : 5
+Seat 5: Kingofsicile (small blind) showed [7h 8d] and won 15360 with Straight 9 high
+Seat 6: MoiMoi60 (big blind) showed [9c 5d] and lost with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 17 - HandId: #538925989426626570-75-1438872167 - Holdem no limit (160/800/1600) - 2015/08/06 14:42:47 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #5 is the button
+Seat 1: PMBM37 (31627)
+Seat 2: manggy94 (18300)
+Seat 3: mumu2411 (6820)
+Seat 4: Emilayy (16555)
+Seat 5: Kingofsicile (38491)
+Seat 6: MoiMoi60 (44001)
+*** ANTE/BLINDS ***
+MoiMoi60 posts ante 160
+PMBM37 posts ante 160
+manggy94 posts ante 160
+mumu2411 posts ante 160
+Emilayy posts ante 160
+Kingofsicile posts ante 160
+MoiMoi60 posts small blind 800
+PMBM37 posts big blind 1600
+Dealt to manggy94 [Tc 4h]
+*** PRE-FLOP *** 
+manggy94 folds
+mumu2411 folds
+Emilayy folds
+Kingofsicile calls 1600
+MoiMoi60 calls 800
+PMBM37 checks
+*** FLOP *** [8s 3s 4s]
+MoiMoi60 bets 1600
+PMBM37 folds
+Kingofsicile calls 1600
+*** TURN *** [8s 3s 4s][Jc]
+MoiMoi60 bets 1600
+Kingofsicile calls 1600
+*** RIVER *** [8s 3s 4s Jc][3c]
+MoiMoi60 bets 6080
+Kingofsicile raises 27451 to 33531 and is all-in
+MoiMoi60 folds
+Kingofsicile collected 51771 from pot
+*** SUMMARY ***
+Total pot 51771 | No rake
+Board: [8s 3s 4s Jc 3c]
+Seat 5: Kingofsicile (button) won 51771
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 17 - HandId: #538925989426626570-76-1438872205 - Holdem no limit (160/800/1600) - 2015/08/06 14:43:25 UTC
+Table: 'Hold'em(125478485)#09' 6-max (play money) Seat #6 is the button
+Seat 2: manggy94 (18140)
+Seat 3: mumu2411 (6660)
+Seat 4: Emilayy (16395)
+Seat 5: Kingofsicile (51771)
+Seat 6: MoiMoi60 (32961)
+*** ANTE/BLINDS ***
+manggy94 posts ante 160
+mumu2411 posts ante 160
+Emilayy posts ante 160
+Kingofsicile posts ante 160
+MoiMoi60 posts ante 160
+manggy94 posts big blind 1600
+Dealt to manggy94 [6c Ac]
+*** PRE-FLOP *** 
+mumu2411 folds
+Emilayy folds
+Kingofsicile raises 1600 to 3200
+MoiMoi60 calls 3200
+manggy94 calls 1600
+*** FLOP *** [8d 4d As]
+manggy94 bets 10400
+Kingofsicile folds
+MoiMoi60 folds
+manggy94 collected 20800 from pot
+*** SUMMARY ***
+Total pot 20800 | No rake
+Board: [8d 4d As]
+Seat 2: manggy94 (big blind) won 20800
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 18 - HandId: #538925989426626565-70-1438872255 - Holdem no limit (200/1000/2000) - 2015/08/06 14:44:15 UTC
+Table: 'Hold'em(125478485)#04' 6-max (play money) Seat #1 is the button
+Seat 1: mayous974 (56695)
+Seat 2: Greg_Sw (3915)
+Seat 3: fsraerdah (44596)
+Seat 5: PMBM37 (29867)
+Seat 6: manggy94 (25180)
+*** ANTE/BLINDS ***
+Greg_Sw posts ante 200
+fsraerdah posts ante 200
+mayous974 posts ante 200
+PMBM37 posts ante 200
+manggy94 posts ante 200
+Greg_Sw posts small blind 1000
+fsraerdah posts big blind 2000
+Dealt to manggy94 [2h Jd]
+*** PRE-FLOP *** 
+PMBM37 calls 2000
+manggy94 folds
+mayous974 calls 2000
+Greg_Sw raises 1715 to 3715 and is all-in
+fsraerdah calls 1715
+PMBM37 calls 1715
+mayous974 calls 1715
+*** FLOP *** [7s 9h Js]
+fsraerdah checks
+PMBM37 checks
+mayous974 checks
+*** TURN *** [7s 9h Js][5h]
+fsraerdah bets 2000
+PMBM37 raises 23952 to 25952 and is all-in
+mayous974 folds
+fsraerdah folds
+*** RIVER *** [7s 9h Js 5h][Kc]
+*** SHOW DOWN ***
+Greg_Sw shows [As Td] (High card : Ace)
+PMBM37 shows [5d 5s] (Trips of 5)
+PMBM37 collected 43812 from pot
+*** SUMMARY ***
+Total pot 43812 | No rake
+Board: [7s 9h Js 5h Kc]
+Seat 2: Greg_Sw (small blind) showed [As Td] and lost with High card : Ace
+Seat 5: PMBM37 showed [5d 5s] and won 43812 with Trips of 5
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 18 - HandId: #538925989426626574-1-1438872338 - Holdem no limit (200/1000/2000) - 2015/08/06 14:45:38 UTC
+Table: 'Hold'em(125478485)#13' 7-max (play money) Seat #3 is the button
+Seat 1: Kingofsicile (62428)
+Seat 2: fsraerdah (38681)
+Seat 3: MoiMoi60 (36819)
+Seat 4: mayous974 (52780)
+Seat 5: manggy94 (24980)
+Seat 6: mumu2411 (1500)
+Seat 7: PMBM37 (43812)
+*** ANTE/BLINDS ***
+mayous974 posts ante 200
+manggy94 posts ante 200
+Kingofsicile posts ante 200
+fsraerdah posts ante 200
+MoiMoi60 posts ante 200
+mumu2411 posts ante 200
+PMBM37 posts ante 200
+mayous974 posts small blind 1000
+manggy94 posts big blind 2000
+Dealt to manggy94 [9d 2s]
+*** PRE-FLOP *** 
+mumu2411 folds
+PMBM37 folds
+Kingofsicile raises 2000 to 4000
+fsraerdah folds
+MoiMoi60 calls 4000
+mayous974 folds
+manggy94 folds
+*** FLOP *** [Qd Jc 5c]
+Kingofsicile checks
+MoiMoi60 bets 12400
+Kingofsicile folds
+MoiMoi60 collected 24800 from pot
+*** SUMMARY ***
+Total pot 24800 | No rake
+Board: [Qd Jc 5c]
+Seat 3: MoiMoi60 (button) won 24800
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 18 - HandId: #538925989426626574-2-1438872367 - Holdem no limit (200/1000/2000) - 2015/08/06 14:46:07 UTC
+Table: 'Hold'em(125478485)#13' 7-max (play money) Seat #4 is the button
+Seat 1: Kingofsicile (58228)
+Seat 2: fsraerdah (38481)
+Seat 3: MoiMoi60 (45019)
+Seat 4: mayous974 (51580)
+Seat 5: manggy94 (22780)
+Seat 6: mumu2411 (1300)
+Seat 7: PMBM37 (43612)
+*** ANTE/BLINDS ***
+manggy94 posts ante 200
+mumu2411 posts ante 200
+Kingofsicile posts ante 200
+fsraerdah posts ante 200
+MoiMoi60 posts ante 200
+mayous974 posts ante 200
+PMBM37 posts ante 200
+manggy94 posts small blind 1000
+mumu2411 posts big blind 1100 and is all-in
+Dealt to manggy94 [6c 7s]
+*** PRE-FLOP *** 
+PMBM37 calls 2000
+Kingofsicile folds
+fsraerdah calls 2000
+MoiMoi60 folds
+mayous974 folds
+manggy94 folds
+*** FLOP *** [6d Js 3h]
+PMBM37 bets 2000
+fsraerdah calls 2000
+*** TURN *** [6d Js 3h][5h]
+PMBM37 checks
+fsraerdah checks
+*** RIVER *** [6d Js 3h 5h][Jd]
+PMBM37 checks
+fsraerdah bets 5750
+PMBM37 folds
+*** SHOW DOWN ***
+mumu2411 shows [8c 7h] (One pair : Jacks)
+fsraerdah shows [Kc Qd] (One pair : Jacks)
+fsraerdah collected 17250 from pot
+*** SUMMARY ***
+Total pot 17250 | No rake
+Board: [6d Js 3h 5h Jd]
+Seat 2: fsraerdah showed [Kc Qd] and won 17250 with One pair : Jacks
+Seat 6: mumu2411 (big blind) showed [8c 7h] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 19 - HandId: #538925989426626574-3-1438872428 - Holdem no limit (250/1250/2500) - 2015/08/06 14:47:08 UTC
+Table: 'Hold'em(125478485)#13' 7-max (play money) Seat #5 is the button
+Seat 1: Kingofsicile (58028)
+Seat 2: fsraerdah (45781)
+Seat 3: MoiMoi60 (44819)
+Seat 4: mayous974 (51380)
+Seat 5: manggy94 (21580)
+Seat 7: PMBM37 (39412)
+*** ANTE/BLINDS ***
+PMBM37 posts ante 250
+Kingofsicile posts ante 250
+fsraerdah posts ante 250
+MoiMoi60 posts ante 250
+mayous974 posts ante 250
+manggy94 posts ante 250
+PMBM37 posts big blind 2500
+Dealt to manggy94 [4c Qd]
+*** PRE-FLOP *** 
+Kingofsicile folds
+fsraerdah calls 2500
+MoiMoi60 calls 2500
+mayous974 calls 2500
+manggy94 calls 2500
+PMBM37 checks
+*** FLOP *** [2c 7c Td]
+PMBM37 checks
+fsraerdah bets 7000
+MoiMoi60 folds
+mayous974 folds
+manggy94 folds
+PMBM37 folds
+fsraerdah collected 21000 from pot
+*** SUMMARY ***
+Total pot 21000 | No rake
+Board: [2c 7c Td]
+Seat 2: fsraerdah won 21000
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 19 - HandId: #538925989426626574-4-1438872491 - Holdem no limit (250/1250/2500) - 2015/08/06 14:48:11 UTC
+Table: 'Hold'em(125478485)#13' 7-max (play money) Seat #6 is the button
+Seat 1: Kingofsicile (57778)
+Seat 2: fsraerdah (57031)
+Seat 3: MoiMoi60 (42069)
+Seat 4: mayous974 (48630)
+Seat 5: manggy94 (18830)
+Seat 7: PMBM37 (36662)
+*** ANTE/BLINDS ***
+PMBM37 posts ante 250
+Kingofsicile posts ante 250
+fsraerdah posts ante 250
+MoiMoi60 posts ante 250
+mayous974 posts ante 250
+manggy94 posts ante 250
+PMBM37 posts small blind 1250
+Kingofsicile posts big blind 2500
+Dealt to manggy94 [Tc 4c]
+*** PRE-FLOP *** 
+fsraerdah calls 2500
+MoiMoi60 calls 2500
+mayous974 folds
+manggy94 folds
+PMBM37 calls 1250
+Kingofsicile checks
+*** FLOP *** [6c Kd Js]
+PMBM37 bets 33912 and is all-in
+Kingofsicile folds
+fsraerdah folds
+MoiMoi60 folds
+PMBM37 collected 45412 from pot
+*** SUMMARY ***
+Total pot 45412 | No rake
+Board: [6c Kd Js]
+Seat 7: PMBM37 (small blind) won 45412
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 19 - HandId: #538925989426626574-5-1438872531 - Holdem no limit (250/1250/2500) - 2015/08/06 14:48:51 UTC
+Table: 'Hold'em(125478485)#13' 7-max (play money) Seat #7 is the button
+Seat 1: Kingofsicile (55028)
+Seat 2: fsraerdah (54281)
+Seat 3: MoiMoi60 (39319)
+Seat 4: mayous974 (48380)
+Seat 5: manggy94 (18580)
+Seat 7: PMBM37 (45412)
+*** ANTE/BLINDS ***
+Kingofsicile posts ante 250
+fsraerdah posts ante 250
+MoiMoi60 posts ante 250
+mayous974 posts ante 250
+manggy94 posts ante 250
+PMBM37 posts ante 250
+Kingofsicile posts small blind 1250
+fsraerdah posts big blind 2500
+Dealt to manggy94 [Js Jh]
+*** PRE-FLOP *** 
+MoiMoi60 raises 7500 to 10000
+mayous974 folds
+manggy94 calls 10000
+PMBM37 folds
+Kingofsicile folds
+fsraerdah folds
+*** FLOP *** [7s Jc Ah]
+MoiMoi60 bets 29069 and is all-in
+manggy94 calls 8330 and is all-in
+*** TURN *** [7s Jc Ah][6c]
+*** RIVER *** [7s Jc Ah 6c][9s]
+*** SHOW DOWN ***
+MoiMoi60 shows [2c 6d] (One pair : 6)
+manggy94 shows [Js Jh] (Trips of Jacks)
+manggy94 collected 41910 from main pot
+MoiMoi60 collected 20739 from side pot 1
+*** SUMMARY ***
+Total pot 62649 | No rake
+Board: [7s Jc Ah 6c 9s]
+Seat 3: MoiMoi60 showed [2c 6d] and won 20739 with One pair : 6
+Seat 5: manggy94 showed [Js Jh] and won 41910 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 19 - HandId: #538925989426626574-6-1438872570 - Holdem no limit (250/1250/2500) - 2015/08/06 14:49:30 UTC
+Table: 'Hold'em(125478485)#13' 7-max (play money) Seat #1 is the button
+Seat 1: Kingofsicile (53528)
+Seat 2: fsraerdah (51531)
+Seat 3: MoiMoi60 (20739)
+Seat 4: mayous974 (48130)
+Seat 5: manggy94 (41910)
+Seat 7: PMBM37 (45162)
+*** ANTE/BLINDS ***
+fsraerdah posts ante 250
+MoiMoi60 posts ante 250
+Kingofsicile posts ante 250
+mayous974 posts ante 250
+manggy94 posts ante 250
+PMBM37 posts ante 250
+fsraerdah posts small blind 1250
+MoiMoi60 posts big blind 2500
+Dealt to manggy94 [Th Qs]
+*** PRE-FLOP *** 
+mayous974 folds
+manggy94 calls 2500
+PMBM37 folds
+Kingofsicile folds
+fsraerdah calls 1250
+MoiMoi60 raises 17989 to 20489 and is all-in
+manggy94 calls 17989
+fsraerdah folds
+*** FLOP *** [2d Jd Jc]
+*** TURN *** [2d Jd Jc][4h]
+*** RIVER *** [2d Jd Jc 4h][6d]
+*** SHOW DOWN ***
+manggy94 shows [Th Qs] (One pair : Jacks)
+MoiMoi60 shows [Kd 5c] (One pair : Jacks)
+MoiMoi60 collected 44978 from pot
+*** SUMMARY ***
+Total pot 44978 | No rake
+Board: [2d Jd Jc 4h 6d]
+Seat 3: MoiMoi60 (big blind) showed [Kd 5c] and won 44978 with One pair : Jacks
+Seat 5: manggy94 showed [Th Qs] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 20 - HandId: #538925989426626574-7-1438872604 - Holdem no limit (350/1500/3000) - 2015/08/06 14:50:04 UTC
+Table: 'Hold'em(125478485)#13' 7-max (play money) Seat #2 is the button
+Seat 1: Kingofsicile (53278)
+Seat 2: fsraerdah (48781)
+Seat 3: MoiMoi60 (44978)
+Seat 4: mayous974 (47880)
+Seat 5: manggy94 (21171)
+Seat 7: PMBM37 (44912)
+*** ANTE/BLINDS ***
+MoiMoi60 posts ante 350
+mayous974 posts ante 350
+Kingofsicile posts ante 350
+fsraerdah posts ante 350
+manggy94 posts ante 350
+PMBM37 posts ante 350
+MoiMoi60 posts small blind 1500
+mayous974 posts big blind 3000
+Dealt to manggy94 [2c 9h]
+*** PRE-FLOP *** 
+manggy94 folds
+PMBM37 calls 3000
+Kingofsicile folds
+fsraerdah calls 3000
+MoiMoi60 calls 1500
+mayous974 folds
+*** FLOP *** [3c Js Kc]
+MoiMoi60 checks
+PMBM37 bets 9000
+fsraerdah folds
+MoiMoi60 folds
+PMBM37 collected 23100 from pot
+*** SUMMARY ***
+Total pot 23100 | No rake
+Board: [3c Js Kc]
+Seat 7: PMBM37 won 23100
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 20 - HandId: #538925989426626574-8-1438872665 - Holdem no limit (350/1500/3000) - 2015/08/06 14:51:05 UTC
+Table: 'Hold'em(125478485)#13' 7-max (play money) Seat #3 is the button
+Seat 1: Kingofsicile (52928)
+Seat 2: fsraerdah (45431)
+Seat 3: MoiMoi60 (41628)
+Seat 4: mayous974 (44530)
+Seat 5: manggy94 (20821)
+Seat 7: PMBM37 (55662)
+*** ANTE/BLINDS ***
+mayous974 posts ante 350
+manggy94 posts ante 350
+Kingofsicile posts ante 350
+fsraerdah posts ante 350
+MoiMoi60 posts ante 350
+PMBM37 posts ante 350
+mayous974 posts small blind 1500
+manggy94 posts big blind 3000
+Dealt to manggy94 [7c Ah]
+*** PRE-FLOP *** 
+PMBM37 calls 3000
+Kingofsicile folds
+fsraerdah calls 3000
+MoiMoi60 folds
+mayous974 folds
+manggy94 checks
+*** FLOP *** [Td 9s Ks]
+manggy94 checks
+PMBM37 checks
+fsraerdah checks
+*** TURN *** [Td 9s Ks][2c]
+manggy94 checks
+PMBM37 checks
+fsraerdah bets 3000
+manggy94 calls 3000
+PMBM37 folds
+*** RIVER *** [Td 9s Ks 2c][4s]
+manggy94 checks
+fsraerdah bets 9300
+manggy94 folds
+fsraerdah shows [Kh Kc] (Trips of Kings)
+fsraerdah collected 27900 from pot
+*** SUMMARY ***
+Total pot 27900 | No rake
+Board: [Td 9s Ks 2c 4s]
+Seat 2: fsraerdah showed [Kh Kc] and won 27900 with Trips of Kings
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 20 - HandId: #538925989426626574-9-1438872737 - Holdem no limit (350/1500/3000) - 2015/08/06 14:52:17 UTC
+Table: 'Hold'em(125478485)#13' 7-max (play money) Seat #4 is the button
+Seat 1: Kingofsicile (52578)
+Seat 2: fsraerdah (57681)
+Seat 3: MoiMoi60 (41278)
+Seat 4: mayous974 (42680)
+Seat 5: manggy94 (14471)
+Seat 7: PMBM37 (52312)
+*** ANTE/BLINDS ***
+manggy94 posts ante 350
+PMBM37 posts ante 350
+Kingofsicile posts ante 350
+fsraerdah posts ante 350
+MoiMoi60 posts ante 350
+mayous974 posts ante 350
+manggy94 posts small blind 1500
+PMBM37 posts big blind 3000
+Dealt to manggy94 [5d 7c]
+*** PRE-FLOP *** 
+Kingofsicile folds
+fsraerdah calls 3000
+MoiMoi60 raises 3000 to 6000
+mayous974 folds
+manggy94 folds
+PMBM37 folds
+fsraerdah calls 3000
+*** FLOP *** [2s 6c Tc]
+fsraerdah checks
+MoiMoi60 checks
+*** TURN *** [2s 6c Tc][Kc]
+fsraerdah checks
+MoiMoi60 bets 3000
+fsraerdah calls 3000
+*** RIVER *** [2s 6c Tc Kc][3c]
+fsraerdah checks
+MoiMoi60 bets 3000
+fsraerdah folds
+MoiMoi60 collected 27600 from pot
+*** SUMMARY ***
+Total pot 27600 | No rake
+Board: [2s 6c Tc Kc 3c]
+Seat 3: MoiMoi60 won 27600
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 21 - HandId: #538925989426626574-10-1438872815 - Holdem no limit (400/2000/4000) - 2015/08/06 14:53:35 UTC
+Table: 'Hold'em(125478485)#13' 7-max (play money) Seat #5 is the button
+Seat 1: Kingofsicile (52228)
+Seat 2: fsraerdah (48331)
+Seat 3: MoiMoi60 (56528)
+Seat 4: mayous974 (42330)
+Seat 5: manggy94 (12621)
+Seat 7: PMBM37 (48962)
+*** ANTE/BLINDS ***
+PMBM37 posts ante 400
+Kingofsicile posts ante 400
+fsraerdah posts ante 400
+MoiMoi60 posts ante 400
+mayous974 posts ante 400
+manggy94 posts ante 400
+PMBM37 posts small blind 2000
+Kingofsicile posts big blind 4000
+Dealt to manggy94 [9c Td]
+*** PRE-FLOP *** 
+fsraerdah folds
+MoiMoi60 raises 52128 to 56128 and is all-in
+mayous974 folds
+manggy94 folds
+PMBM37 folds
+Kingofsicile folds
+MoiMoi60 collected 64528 from pot
+*** SUMMARY ***
+Total pot 64528 | No rake
+Seat 3: MoiMoi60 won 64528
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 21 - HandId: #538925989426626574-11-1438872840 - Holdem no limit (400/2000/4000) - 2015/08/06 14:54:00 UTC
+Table: 'Hold'em(125478485)#13' 7-max (play money) Seat #7 is the button
+Seat 1: Kingofsicile (47828)
+Seat 2: fsraerdah (47931)
+Seat 3: MoiMoi60 (64528)
+Seat 4: mayous974 (41930)
+Seat 5: manggy94 (12221)
+Seat 7: PMBM37 (46562)
+*** ANTE/BLINDS ***
+Kingofsicile posts ante 400
+fsraerdah posts ante 400
+MoiMoi60 posts ante 400
+mayous974 posts ante 400
+manggy94 posts ante 400
+PMBM37 posts ante 400
+Kingofsicile posts small blind 2000
+fsraerdah posts big blind 4000
+Dealt to manggy94 [8h 9d]
+*** PRE-FLOP *** 
+MoiMoi60 folds
+mayous974 folds
+manggy94 folds
+PMBM37 calls 4000
+Kingofsicile calls 2000
+fsraerdah checks
+*** FLOP *** [Td Ad Tc]
+Kingofsicile checks
+fsraerdah checks
+PMBM37 bets 42162 and is all-in
+Kingofsicile folds
+fsraerdah calls 42162
+*** TURN *** [Td Ad Tc][2s]
+*** RIVER *** [Td Ad Tc 2s][Kc]
+*** SHOW DOWN ***
+fsraerdah shows [Qd 4d] (One pair : Tens)
+PMBM37 shows [Kd Qh] (Two pairs : Kings and Tens)
+PMBM37 collected 98724 from pot
+*** SUMMARY ***
+Total pot 98724 | No rake
+Board: [Td Ad Tc 2s Kc]
+Seat 2: fsraerdah (big blind) showed [Qd 4d] and lost with One pair : Tens
+Seat 7: PMBM37 (button) showed [Kd Qh] and won 98724 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 4,50 + 0,50 level: 21 - HandId: #538925989426626574-12-1438872899 - Holdem no limit (400/2000/4000) - 2015/08/06 14:54:59 UTC
+Table: 'Hold'em(125478485)#13' 7-max (play money) Seat #1 is the button
+Seat 1: Kingofsicile (43428)
+Seat 2: fsraerdah (1369)
+Seat 3: MoiMoi60 (64128)
+Seat 4: mayous974 (41530)
+Seat 5: manggy94 (11821)
+Seat 7: PMBM37 (98724)
+*** ANTE/BLINDS ***
+fsraerdah posts ante 400
+MoiMoi60 posts ante 400
+Kingofsicile posts ante 400
+mayous974 posts ante 400
+manggy94 posts ante 400
+PMBM37 posts ante 400
+fsraerdah posts small blind 969 and is all-in
+MoiMoi60 posts big blind 4000
+Dealt to manggy94 [Ac 3s]
+*** PRE-FLOP *** 
+mayous974 calls 4000
+manggy94 calls 4000
+PMBM37 calls 4000
+Kingofsicile calls 4000
+MoiMoi60 folds
+*** FLOP *** [4c Ad 9s]
+mayous974 checks
+manggy94 checks
+PMBM37 checks
+Kingofsicile bets 4000
+mayous974 folds
+manggy94 calls 4000
+PMBM37 folds
+*** TURN *** [4c Ad 9s][Kd]
+manggy94 checks
+Kingofsicile bets 4000
+manggy94 calls 3421 and is all-in
+*** RIVER *** [4c Ad 9s Kd][Kh]
+*** SHOW DOWN ***
+fsraerdah shows [6h Qc] (One pair : Kings)
+manggy94 shows [Ac 3s] (Two pairs : Aces and Kings)
+Kingofsicile shows [Js Kc] (Trips of Kings)
+Kingofsicile collected 38790 from pot
+*** SUMMARY ***
+Total pot 38790 | No rake
+Board: [4c Ad 9s Kd Kh]
+Seat 1: Kingofsicile (button) showed [Js Kc] and won 38790 with Trips of Kings
+Seat 2: fsraerdah (small blind) showed [6h Qc] and lost with One pair : Kings
+Seat 5: manggy94 showed [Ac 3s] and lost with Two pairs : Aces and Kings
+
+

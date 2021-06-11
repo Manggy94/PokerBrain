@@ -1,13 +1,13 @@
 from API.hand import *
 import numpy as np
 import random
-all_combos=[]
-all_hands=list(Hand)
-combos=list(hand.to_combos() for hand in list(Hand))
-for i in range(0,len(combos)):
-    for j in range(0,len(combos[i])):
-        all_combos.append(combos[i][j])
-nb_combos=len(all_combos)
+# from API.timer import Timer
+
+all_combos = np.array([], dtype=np.str)
+all_hands=np.array(list(Hand), dtype=np.object)
+
+for hand in all_hands:
+    all_combos=np.hstack((all_combos,hand.to_combos()))
 
 def random_range(m):
     combos=all_combos
@@ -27,29 +27,4 @@ def erreur(range,combo):
     err_prec=1-precision
     err=(err_in+err_prec)**2
     return (err_in, err_prec, err)
-
-range4=[]
-for i in all_combos:
-    range4.append(i)
-
-ranges=[]
-ranges.append(random_range(10))
-ranges.append(random_range(1))
-ranges.append(random_range(1326))
-ranges.append(range4)
-
-
-tab=[]
-for i in range(0,len(ranges)):
-    tab.append(ranges[i][0])
-
-print (len(ranges))
-print(tab)
-
-for c in tab:
-    print(c)
-    for r in ranges:
-        print(len(r))
-        print(erreur(r,c))
-
 

@@ -1,0 +1,192 @@
+Winamax Poker - CashGame - HandId: #7815980-534-1438895010 - Holdem no limit (0.03/0.10/0.20) - 2015/08/06 21:03:30 UTC
+Table: 'Guadalupe' 5-max (play money) Seat #2 is the button
+Seat 1: carreroyal (41.35)
+Seat 2: THEA 75 (1.86)
+Seat 3: abdelbos (57.34)
+Seat 4: manggy94 (0)
+Seat 5: bouder-bala (35.32)
+*** ANTE/BLINDS ***
+abdelbos posts ante 0.03
+bouder-bala posts ante 0.03
+THEA 75 posts ante 0.03
+carreroyal posts ante 0.03
+abdelbos posts small blind 0.10
+bouder-bala posts big blind 0.20
+*** PRE-FLOP *** 
+carreroyal folds
+THEA 75 calls 0.20
+abdelbos raises 0.72 to 0.92
+bouder-bala folds
+THEA 75 calls 0.72
+*** FLOP *** [2c 6d 5s]
+abdelbos checks
+THEA 75 bets 0.91 and is all-in
+abdelbos calls 0.91
+*** TURN *** [2c 6d 5s][Td]
+*** RIVER *** [2c 6d 5s Td][Qh]
+*** SHOW DOWN ***
+abdelbos shows [8s Ts] (One pair : Tens)
+THEA 75 shows [Qs Js] (One pair : Queens)
+THEA 75 collected 3.72 from pot
+*** SUMMARY ***
+Total pot 3.72 | Rake 0.26
+Board: [2c 6d 5s Td Qh]
+Seat 2: THEA 75 (button) showed [Qs Js] and won 3.72 with One pair : Queens
+Seat 3: abdelbos (small blind) showed [8s Ts] and lost with One pair : Tens
+
+
+Winamax Poker - CashGame - HandId: #7815980-535-1438895068 - Holdem no limit (0.03/0.10/0.20) - 2015/08/06 21:04:28 UTC
+Table: 'Guadalupe' 5-max (play money) Seat #3 is the button
+Seat 1: carreroyal (41.32)
+Seat 2: THEA 75 (3.72)
+Seat 3: abdelbos (55.48)
+Seat 4: manggy94 (16)
+Seat 5: bouder-bala (35.09)
+*** ANTE/BLINDS ***
+carreroyal posts ante 0.03
+bouder-bala posts ante 0.03
+THEA 75 posts ante 0.03
+abdelbos posts ante 0.03
+bouder-bala posts small blind 0.10
+carreroyal posts big blind 0.20
+*** PRE-FLOP *** 
+THEA 75 calls 0.20
+abdelbos calls 0.20
+bouder-bala raises 0.92 to 1.12
+carreroyal folds
+THEA 75 folds
+abdelbos calls 0.92
+*** FLOP *** [7s 4d Qc]
+bouder-bala bets 2.76
+abdelbos folds
+bouder-bala collected 5.34 from pot
+*** SUMMARY ***
+Total pot 5.34 | Rake 0.18
+Board: [7s 4d Qc]
+Seat 5: bouder-bala (small blind) won 5.34
+
+
+Winamax Poker - CashGame - HandId: #7815980-536-1438895107 - Holdem no limit (0.03/0.10/0.20) - 2015/08/06 21:05:07 UTC
+Table: 'Guadalupe' 5-max (play money) Seat #5 is the button
+Seat 1: carreroyal (41.09)
+Seat 2: THEA 75 (3.49)
+Seat 3: abdelbos (54.33)
+Seat 4: manggy94 (16)
+Seat 5: bouder-bala (36.52)
+*** ANTE/BLINDS ***
+THEA 75 posts ante 0.03
+carreroyal posts ante 0.03
+manggy94 posts ante 0.03
+abdelbos posts ante 0.03
+bouder-bala posts ante 0.03
+carreroyal posts small blind 0.10
+THEA 75 posts big blind 0.20
+manggy94 posts big blind 0.20 out of position
+Dealt to manggy94 [9c 6h]
+*** PRE-FLOP *** 
+abdelbos calls 0.20
+manggy94 checks
+bouder-bala folds
+carreroyal calls 0.10
+THEA 75 checks
+*** FLOP *** [2d 9s Ts]
+carreroyal checks
+THEA 75 checks
+abdelbos checks
+manggy94 bets 0.95
+carreroyal folds
+THEA 75 folds
+abdelbos folds
+manggy94 collected 1.84 from pot
+*** SUMMARY ***
+Total pot 1.84 | Rake 0.06
+Board: [2d 9s Ts]
+Seat 4: manggy94 won 1.84
+
+
+Winamax Poker - CashGame - HandId: #7815980-537-1438895219 - Holdem no limit (0.03/0.10/0.20) - 2015/08/06 21:06:59 UTC
+Table: 'Guadalupe' 5-max (play money) Seat #1 is the button
+Seat 1: carreroyal (40.86)
+Seat 2: THEA 75 (3.26)
+Seat 3: abdelbos (54.10)
+Seat 4: manggy94 (16.66)
+Seat 5: bouder-bala (36.49)
+*** ANTE/BLINDS ***
+THEA 75 posts ante 0.03
+abdelbos posts ante 0.03
+carreroyal posts ante 0.03
+manggy94 posts ante 0.03
+bouder-bala posts ante 0.03
+THEA 75 posts small blind 0.10
+abdelbos posts big blind 0.20
+Dealt to manggy94 [Ah Qc]
+*** PRE-FLOP *** 
+manggy94 calls 0.20
+bouder-bala folds
+carreroyal raises 0.60 to 0.80
+THEA 75 calls 0.70
+abdelbos calls 0.60
+manggy94 raises 3.35 to 4.15
+carreroyal folds
+THEA 75 calls 2.43 and is all-in
+abdelbos calls 3.35
+*** FLOP *** [6h 7h Jd]
+abdelbos checks
+manggy94 bets 6.25
+abdelbos folds
+*** TURN *** [6h 7h Jd][6d]
+*** RIVER *** [6h 7h Jd 6d][Qs]
+*** SHOW DOWN ***
+THEA 75 shows [Js Jh] (Full of Jacks and 6)
+manggy94 shows [Ah Qc] (Two pairs : Queens and 6)
+manggy94 collected 7.97 from side pot 1
+THEA 75 collected 9.95 from main pot
+*** SUMMARY ***
+Total pot 17.92 | Rake 0.81
+Board: [6h 7h Jd 6d Qs]
+Seat 2: THEA 75 (small blind) showed [Js Jh] and won 9.95 with Full of Jacks and 6
+Seat 4: manggy94 showed [Ah Qc] and won 7.97 with Two pairs : Queens and 6
+
+
+Winamax Poker - CashGame - HandId: #7815980-538-1438895312 - Holdem no limit (0.03/0.10/0.20) - 2015/08/06 21:08:32 UTC
+Table: 'Guadalupe' 5-max (play money) Seat #2 is the button
+Seat 1: carreroyal (40.03)
+Seat 2: THEA 75 (9.95)
+Seat 3: abdelbos (49.92)
+Seat 4: manggy94 (14.20)
+Seat 5: bouder-bala (36.46)
+*** ANTE/BLINDS ***
+manggy94 posts ante 0.03
+abdelbos posts ante 0.03
+THEA 75 posts ante 0.03
+carreroyal posts ante 0.03
+bouder-bala posts ante 0.03
+abdelbos posts small blind 0.10
+manggy94 posts big blind 0.20
+Dealt to manggy94 [9d 4h]
+*** PRE-FLOP *** 
+bouder-bala folds
+carreroyal folds
+THEA 75 folds
+abdelbos calls 0.10
+manggy94 checks
+*** FLOP *** [9s Th 3s]
+abdelbos bets 0.20
+manggy94 calls 0.20
+*** TURN *** [9s Th 3s][3d]
+abdelbos bets 0.20
+manggy94 calls 0.20
+*** RIVER *** [9s Th 3s 3d][As]
+abdelbos bets 1.35
+manggy94 calls 1.35
+*** SHOW DOWN ***
+manggy94 shows [9d 4h] (Two pairs : 9 and 3)
+abdelbos shows [Jd 3c] (Trips of 3)
+abdelbos collected 3.79 from pot
+*** SUMMARY ***
+Total pot 3.79 | Rake 0.26
+Board: [9s Th 3s 3d As]
+Seat 3: abdelbos (small blind) showed [Jd 3c] and won 3.79 with Trips of 3
+Seat 4: manggy94 (big blind) showed [9d 4h] and lost with Two pairs : 9 and 3
+
+

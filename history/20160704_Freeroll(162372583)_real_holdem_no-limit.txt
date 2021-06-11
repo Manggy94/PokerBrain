@@ -1,0 +1,679 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #697384933752045731-1-1467659729 - Holdem no limit (10/20) - 2016/07/04 19:15:29 UTC
+Table: 'Freeroll(162372583)#0162' 8-max (real money) Seat #1 is the button
+Seat 1: ed ed (3000)
+Seat 2: manggy94 (3000)
+Seat 3: polochanto85 (3000)
+Seat 4: marie51000 (3000)
+Seat 5: fred17 (3000)
+Seat 6: Viking64 (3000)
+Seat 7: jeje5110 (3000)
+Seat 8: KiCe1973 (3000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+polochanto85 posts big blind 20
+Dealt to manggy94 [7s 2d]
+*** PRE-FLOP *** 
+marie51000 folds
+fred17 folds
+Viking64 raises 2980 to 3000 and is all-in
+jeje5110 folds
+KiCe1973 calls 3000 and is all-in
+ed ed folds
+manggy94 folds
+polochanto85 folds
+*** FLOP *** [Th 5d 7d]
+*** TURN *** [Th 5d 7d][8h]
+*** RIVER *** [Th 5d 7d 8h][Jh]
+*** SHOW DOWN ***
+Viking64 shows [Ts Tc] (Trips of Tens)
+KiCe1973 shows [9c 9d] (Straight Jack high)
+KiCe1973 collected 6030 from pot
+*** SUMMARY ***
+Total pot 6030 | No rake
+Board: [Th 5d 7d 8h Jh]
+Seat 6: Viking64 showed [Ts Tc] and lost with Trips of Tens
+Seat 8: KiCe1973 showed [9c 9d] and won 6030 with Straight Jack high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #697384933752045731-2-1467659933 - Holdem no limit (15/30) - 2016/07/04 19:18:53 UTC
+Table: 'Freeroll(162372583)#0162' 8-max (real money) Seat #2 is the button
+Seat 1: ed ed (3000)
+Seat 2: manggy94 (2990)
+Seat 3: polochanto85 (2980)
+Seat 4: marie51000 (3000)
+Seat 5: fred17 (3000)
+Seat 7: jeje5110 (3000)
+Seat 8: KiCe1973 (6030)
+*** ANTE/BLINDS ***
+polochanto85 posts small blind 15
+marie51000 posts big blind 30
+Dealt to manggy94 [Qh 6c]
+*** PRE-FLOP *** 
+fred17 folds
+jeje5110 folds
+KiCe1973 calls 30
+ed ed raises 525 to 555
+manggy94 folds
+polochanto85 folds
+marie51000 raises 2445 to 3000 and is all-in
+KiCe1973 folds
+ed ed calls 2445 and is all-in
+*** FLOP *** [9d 6d 3c]
+*** TURN *** [9d 6d 3c][Jd]
+*** RIVER *** [9d 6d 3c Jd][8h]
+*** SHOW DOWN ***
+marie51000 shows [4s Ac] (High card : Ace)
+ed ed shows [As 6h] (One pair : 6)
+ed ed collected 6045 from pot
+*** SUMMARY ***
+Total pot 6045 | No rake
+Board: [9d 6d 3c Jd 8h]
+Seat 1: ed ed showed [As 6h] and won 6045 with One pair : 6
+Seat 4: marie51000 (big blind) showed [4s Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #697384933752045731-3-1467659984 - Holdem no limit (15/30) - 2016/07/04 19:19:44 UTC
+Table: 'Freeroll(162372583)#0162' 8-max (real money) Seat #3 is the button
+Seat 1: ed ed (6045)
+Seat 2: manggy94 (2990)
+Seat 3: polochanto85 (2965)
+Seat 5: fred17 (3000)
+Seat 6: hhousss (3000)
+Seat 7: jeje5110 (3000)
+Seat 8: KiCe1973 (6000)
+*** ANTE/BLINDS ***
+fred17 posts big blind 30
+Dealt to manggy94 [Jc 7s]
+*** PRE-FLOP *** 
+hhousss folds
+jeje5110 folds
+KiCe1973 calls 30
+ed ed calls 30
+manggy94 folds
+polochanto85 folds
+fred17 checks
+*** FLOP *** [Tc 6h 8h]
+fred17 checks
+KiCe1973 bets 30
+ed ed calls 30
+fred17 folds
+*** TURN *** [Tc 6h 8h][Qd]
+KiCe1973 bets 60
+ed ed calls 60
+*** RIVER *** [Tc 6h 8h Qd][Td]
+KiCe1973 bets 120
+ed ed calls 120
+*** SHOW DOWN ***
+KiCe1973 shows [4s 4c] (Two pairs : Tens and 4)
+ed ed shows [6d 5c] (Two pairs : Tens and 6)
+ed ed collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [Tc 6h 8h Qd Td]
+Seat 1: ed ed showed [6d 5c] and won 510 with Two pairs : Tens and 6
+Seat 8: KiCe1973 showed [4s 4c] and lost with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #697384933752045731-4-1467660108 - Holdem no limit (20/40) - 2016/07/04 19:21:48 UTC
+Table: 'Freeroll(162372583)#0162' 8-max (real money) Seat #4 is the button
+Seat 1: ed ed (6315)
+Seat 2: manggy94 (2990)
+Seat 3: polochanto85 (2965)
+Seat 4: el normand (3000)
+Seat 5: fred17 (2970)
+Seat 6: hhousss (3000)
+Seat 7: jeje5110 (3000)
+Seat 8: KiCe1973 (5760)
+*** ANTE/BLINDS ***
+fred17 posts small blind 20
+hhousss posts big blind 40
+Dealt to manggy94 [4h Jd]
+*** PRE-FLOP *** 
+jeje5110 folds
+KiCe1973 calls 40
+ed ed calls 40
+manggy94 folds
+polochanto85 folds
+fred17 calls 20
+hhousss checks
+*** FLOP *** [Tc 5d Kd]
+fred17 checks
+hhousss checks
+KiCe1973 bets 40
+ed ed folds
+fred17 calls 40
+hhousss calls 40
+*** TURN *** [Tc 5d Kd][7s]
+fred17 checks
+hhousss checks
+KiCe1973 checks
+*** RIVER *** [Tc 5d Kd 7s][Jh]
+fred17 checks
+hhousss checks
+KiCe1973 checks
+*** SHOW DOWN ***
+fred17 shows [Ad 4s] (High card : Ace)
+KiCe1973 shows [Qh 4d] (High card : King)
+hhousss shows [5h As] (One pair : 5)
+hhousss collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Tc 5d Kd 7s Jh]
+Seat 5: fred17 (small blind) showed [Ad 4s] and lost with High card : Ace
+Seat 6: hhousss (big blind) showed [5h As] and won 280 with One pair : 5
+Seat 8: KiCe1973 showed [Qh 4d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #697384933752045731-5-1467660232 - Holdem no limit (20/40) - 2016/07/04 19:23:52 UTC
+Table: 'Freeroll(162372583)#0162' 8-max (real money) Seat #5 is the button
+Seat 1: ed ed (6275)
+Seat 2: manggy94 (2990)
+Seat 3: polochanto85 (2965)
+Seat 4: el normand (3000)
+Seat 5: fred17 (2890)
+Seat 6: hhousss (3200)
+Seat 7: jeje5110 (3000)
+Seat 8: KiCe1973 (5680)
+*** ANTE/BLINDS ***
+hhousss posts small blind 20
+jeje5110 posts big blind 40
+Dealt to manggy94 [8c 3h]
+*** PRE-FLOP *** 
+KiCe1973 folds
+ed ed calls 40
+manggy94 folds
+polochanto85 folds
+el normand calls 40
+fred17 folds
+hhousss calls 20
+jeje5110 folds
+*** FLOP *** [4s Kh 2c]
+hhousss checks
+ed ed checks
+el normand bets 80
+hhousss folds
+ed ed calls 80
+*** TURN *** [4s Kh 2c][Qd]
+ed ed checks
+el normand checks
+*** RIVER *** [4s Kh 2c Qd][Qc]
+ed ed checks
+el normand bets 160
+ed ed folds
+el normand collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [4s Kh 2c Qd Qc]
+Seat 4: el normand won 480
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #697384933752045731-6-1467660312 - Holdem no limit (30/60) - 2016/07/04 19:25:12 UTC
+Table: 'Freeroll(162372583)#0162' 8-max (real money) Seat #6 is the button
+Seat 1: ed ed (6155)
+Seat 2: manggy94 (2990)
+Seat 3: polochanto85 (2965)
+Seat 4: el normand (3200)
+Seat 5: fred17 (2890)
+Seat 6: hhousss (3160)
+Seat 7: jeje5110 (2960)
+Seat 8: KiCe1973 (5680)
+*** ANTE/BLINDS ***
+jeje5110 posts small blind 30
+KiCe1973 posts big blind 60
+Dealt to manggy94 [4s Td]
+*** PRE-FLOP *** 
+ed ed calls 60
+manggy94 folds
+polochanto85 folds
+el normand calls 60
+fred17 calls 60
+hhousss folds
+jeje5110 folds
+KiCe1973 checks
+*** FLOP *** [Qs 8s Ks]
+KiCe1973 bets 135
+ed ed folds
+el normand folds
+fred17 calls 135
+*** TURN *** [Qs 8s Ks][7s]
+KiCe1973 checks
+fred17 checks
+*** RIVER *** [Qs 8s Ks 7s][Ad]
+KiCe1973 bets 270
+fred17 calls 270
+*** SHOW DOWN ***
+fred17 shows [Kh Jd] (One pair : Kings)
+KiCe1973 shows [Qd Ac] (Two pairs : Aces and Queens)
+KiCe1973 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [Qs 8s Ks 7s Ad]
+Seat 5: fred17 showed [Kh Jd] and lost with One pair : Kings
+Seat 8: KiCe1973 (big blind) showed [Qd Ac] and won 1080 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #697384933752045731-7-1467660384 - Holdem no limit (30/60) - 2016/07/04 19:26:24 UTC
+Table: 'Freeroll(162372583)#0162' 8-max (real money) Seat #7 is the button
+Seat 1: ed ed (6095)
+Seat 2: manggy94 (2990)
+Seat 3: polochanto85 (2965)
+Seat 4: el normand (3140)
+Seat 5: fred17 (2425)
+Seat 6: hhousss (3160)
+Seat 7: jeje5110 (2930)
+Seat 8: KiCe1973 (6295)
+*** ANTE/BLINDS ***
+KiCe1973 posts small blind 30
+ed ed posts big blind 60
+Dealt to manggy94 [9s Tc]
+*** PRE-FLOP *** 
+manggy94 calls 60
+polochanto85 calls 60
+el normand folds
+fred17 calls 60
+hhousss folds
+jeje5110 folds
+KiCe1973 raises 60 to 120
+ed ed calls 60
+manggy94 calls 60
+polochanto85 calls 60
+fred17 calls 60
+*** FLOP *** [2h 7d Js]
+KiCe1973 bets 120
+ed ed folds
+manggy94 folds
+polochanto85 calls 120
+fred17 folds
+*** TURN *** [2h 7d Js][8c]
+KiCe1973 bets 240
+polochanto85 calls 240
+*** RIVER *** [2h 7d Js 8c][Kd]
+KiCe1973 checks
+polochanto85 checks
+*** SHOW DOWN ***
+polochanto85 shows [2d Ad] (One pair : 2)
+KiCe1973 shows [3c 3d] (One pair : 3)
+KiCe1973 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Board: [2h 7d Js 8c Kd]
+Seat 3: polochanto85 showed [2d Ad] and lost with One pair : 2
+Seat 8: KiCe1973 (small blind) showed [3c 3d] and won 1320 with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #697384933752045731-8-1467660463 - Holdem no limit (40/80) - 2016/07/04 19:27:43 UTC
+Table: 'Freeroll(162372583)#0162' 8-max (real money) Seat #8 is the button
+Seat 1: ed ed (5975)
+Seat 2: manggy94 (2870)
+Seat 3: polochanto85 (2485)
+Seat 4: el normand (3140)
+Seat 5: fred17 (2305)
+Seat 6: hhousss (3160)
+Seat 7: jeje5110 (2930)
+Seat 8: KiCe1973 (7135)
+*** ANTE/BLINDS ***
+ed ed posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [Ts 2s]
+*** PRE-FLOP *** 
+polochanto85 folds
+el normand folds
+fred17 calls 80
+hhousss folds
+jeje5110 folds
+KiCe1973 folds
+ed ed calls 40
+manggy94 checks
+*** FLOP *** [As Ks 8h]
+ed ed bets 80
+manggy94 calls 80
+fred17 calls 80
+*** TURN *** [As Ks 8h][9c]
+ed ed checks
+manggy94 checks
+fred17 checks
+*** RIVER *** [As Ks 8h 9c][2d]
+ed ed bets 2800
+manggy94 folds
+fred17 folds
+ed ed collected 3280 from pot
+*** SUMMARY ***
+Total pot 3280 | No rake
+Board: [As Ks 8h 9c 2d]
+Seat 1: ed ed (small blind) won 3280
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #697384933752045731-9-1467660502 - Holdem no limit (40/80) - 2016/07/04 19:28:22 UTC
+Table: 'Freeroll(162372583)#0162' 8-max (real money) Seat #1 is the button
+Seat 1: ed ed (6295)
+Seat 2: manggy94 (2710)
+Seat 3: polochanto85 (2485)
+Seat 4: el normand (3140)
+Seat 5: fred17 (2145)
+Seat 6: hhousss (3160)
+Seat 7: jeje5110 (2930)
+Seat 8: KiCe1973 (7135)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+polochanto85 posts big blind 80
+Dealt to manggy94 [2c 9d]
+*** PRE-FLOP *** 
+el normand folds
+fred17 calls 80
+hhousss folds
+jeje5110 folds
+KiCe1973 folds
+ed ed calls 80
+manggy94 folds
+polochanto85 raises 160 to 240
+fred17 calls 160
+ed ed calls 160
+*** FLOP *** [Qh Kh 3d]
+polochanto85 bets 507
+fred17 folds
+ed ed calls 507
+*** TURN *** [Qh Kh 3d][5s]
+polochanto85 bets 887
+ed ed calls 887
+*** RIVER *** [Qh Kh 3d 5s][4h]
+polochanto85 bets 851 and is all-in
+ed ed folds
+polochanto85 collected 4399 from pot
+*** SUMMARY ***
+Total pot 4399 | No rake
+Board: [Qh Kh 3d 5s 4h]
+Seat 3: polochanto85 (big blind) won 4399
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #697384933752045731-10-1467660577 - Holdem no limit (40/80) - 2016/07/04 19:29:37 UTC
+Table: 'Freeroll(162372583)#0162' 8-max (real money) Seat #2 is the button
+Seat 1: ed ed (4661)
+Seat 2: manggy94 (2670)
+Seat 3: polochanto85 (4399)
+Seat 4: el normand (3140)
+Seat 5: fred17 (1905)
+Seat 6: hhousss (3160)
+Seat 7: jeje5110 (2930)
+Seat 8: KiCe1973 (7135)
+*** ANTE/BLINDS ***
+polochanto85 posts small blind 40
+el normand posts big blind 80
+Dealt to manggy94 [8h 2h]
+*** PRE-FLOP *** 
+fred17 folds
+hhousss folds
+jeje5110 folds
+KiCe1973 calls 80
+ed ed calls 80
+manggy94 calls 80
+polochanto85 raises 320 to 400
+el normand folds
+KiCe1973 folds
+ed ed calls 320
+manggy94 folds
+*** FLOP *** [2d Ah 4c]
+polochanto85 bets 80
+ed ed raises 80 to 160
+polochanto85 calls 80
+*** TURN *** [2d Ah 4c][Th]
+polochanto85 checks
+ed ed bets 1360
+polochanto85 raises 1360 to 2720
+ed ed raises 1360 to 4080
+polochanto85 calls 1119 and is all-in
+*** RIVER *** [2d Ah 4c Th][7d]
+*** SHOW DOWN ***
+ed ed shows [Qh 5d] (High card : Ace)
+polochanto85 shows [Tc Td] (Trips of Tens)
+polochanto85 collected 9038 from main pot
+ed ed collected 241 from side pot 1
+*** SUMMARY ***
+Total pot 9279 | No rake
+Board: [2d Ah 4c Th 7d]
+Seat 1: ed ed showed [Qh 5d] and won 241 with High card : Ace
+Seat 3: polochanto85 (small blind) showed [Tc Td] and won 9038 with Trips of Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #697384933752045731-11-1467660638 - Holdem no limit (60/120) - 2016/07/04 19:30:38 UTC
+Table: 'Freeroll(162372583)#0162' 8-max (real money) Seat #3 is the button
+Seat 1: ed ed (262)
+Seat 2: manggy94 (2590)
+Seat 3: polochanto85 (9038)
+Seat 4: el normand (3060)
+Seat 5: fred17 (1905)
+Seat 6: hhousss (3160)
+Seat 7: jeje5110 (2930)
+Seat 8: KiCe1973 (7055)
+*** ANTE/BLINDS ***
+el normand posts small blind 60
+fred17 posts big blind 120
+Dealt to manggy94 [2h 5h]
+*** PRE-FLOP *** 
+hhousss folds
+jeje5110 folds
+KiCe1973 raises 240 to 360
+ed ed calls 262 and is all-in
+manggy94 folds
+polochanto85 calls 360
+el normand raises 2700 to 3060 and is all-in
+fred17 folds
+KiCe1973 calls 2700
+polochanto85 folds
+*** FLOP *** [2c Kh Qs]
+*** TURN *** [2c Kh Qs][4h]
+*** RIVER *** [2c Kh Qs 4h][7c]
+*** SHOW DOWN ***
+ed ed shows [Jc 9c] (High card : King)
+KiCe1973 shows [6s 6d] (One pair : 6)
+el normand shows [Jh Jd] (One pair : Jacks)
+el normand collected 6862 from pot
+*** SUMMARY ***
+Total pot 6862 | No rake
+Board: [2c Kh Qs 4h 7c]
+Seat 1: ed ed showed [Jc 9c] and lost with High card : King
+Seat 4: el normand (small blind) showed [Jh Jd] and won 6862 with One pair : Jacks
+Seat 8: KiCe1973 showed [6s 6d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #697384933752045731-12-1467660700 - Holdem no limit (60/120) - 2016/07/04 19:31:40 UTC
+Table: 'Freeroll(162372583)#0162' 8-max (real money) Seat #4 is the button
+Seat 2: manggy94 (2590)
+Seat 3: polochanto85 (8678)
+Seat 4: el normand (6862)
+Seat 5: fred17 (1785)
+Seat 6: hhousss (3160)
+Seat 7: jeje5110 (2930)
+Seat 8: KiCe1973 (3995)
+*** ANTE/BLINDS ***
+fred17 posts small blind 60
+hhousss posts big blind 120
+Dealt to manggy94 [Ah 5c]
+*** PRE-FLOP *** 
+jeje5110 folds
+KiCe1973 folds
+manggy94 raises 120 to 240
+polochanto85 raises 8438 to 8678 and is all-in
+el normand folds
+fred17 folds
+hhousss folds
+manggy94 folds
+polochanto85 collected 9098 from pot
+*** SUMMARY ***
+Total pot 9098 | No rake
+Seat 3: polochanto85 won 9098
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #697384933752045731-13-1467660736 - Holdem no limit (60/120) - 2016/07/04 19:32:16 UTC
+Table: 'Freeroll(162372583)#0162' 8-max (real money) Seat #5 is the button
+Seat 1: Brbdam56 (2490)
+Seat 2: manggy94 (2350)
+Seat 3: polochanto85 (9098)
+Seat 4: el normand (6862)
+Seat 5: fred17 (1725)
+Seat 6: hhousss (3040)
+Seat 7: jeje5110 (2930)
+Seat 8: KiCe1973 (3995)
+*** ANTE/BLINDS ***
+hhousss posts small blind 60
+jeje5110 posts big blind 120
+Dealt to manggy94 [Qh 3c]
+*** PRE-FLOP *** 
+KiCe1973 calls 120
+Brbdam56 calls 120
+manggy94 folds
+polochanto85 calls 120
+el normand folds
+fred17 calls 120
+hhousss folds
+jeje5110 folds
+*** FLOP *** [Qd 6c 9c]
+KiCe1973 checks
+Brbdam56 checks
+polochanto85 bets 120
+fred17 folds
+KiCe1973 folds
+Brbdam56 folds
+polochanto85 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [Qd 6c 9c]
+Seat 3: polochanto85 won 780
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #697384933752045731-14-1467660811 - Holdem no limit (10/60/120) - 2016/07/04 19:33:31 UTC
+Table: 'Freeroll(162372583)#0162' 8-max (real money) Seat #6 is the button
+Seat 1: Brbdam56 (2370)
+Seat 2: manggy94 (2350)
+Seat 3: polochanto85 (9638)
+Seat 4: el normand (6862)
+Seat 5: fred17 (1605)
+Seat 6: hhousss (2980)
+Seat 7: jeje5110 (2810)
+Seat 8: KiCe1973 (3875)
+*** ANTE/BLINDS ***
+jeje5110 posts ante 10
+KiCe1973 posts ante 10
+Brbdam56 posts ante 10
+manggy94 posts ante 10
+polochanto85 posts ante 10
+el normand posts ante 10
+fred17 posts ante 10
+hhousss posts ante 10
+jeje5110 posts small blind 60
+KiCe1973 posts big blind 120
+Dealt to manggy94 [Ad 4h]
+*** PRE-FLOP *** 
+Brbdam56 folds
+manggy94 raises 120 to 240
+polochanto85 folds
+el normand calls 240
+fred17 folds
+hhousss folds
+jeje5110 folds
+KiCe1973 calls 120
+*** FLOP *** [8d 9h 3s]
+KiCe1973 bets 430
+manggy94 folds
+el normand calls 430
+*** TURN *** [8d 9h 3s][7d]
+KiCe1973 bets 860
+el normand calls 860
+*** RIVER *** [8d 9h 3s 7d][Td]
+KiCe1973 bets 2335 and is all-in
+el normand calls 2335
+*** SHOW DOWN ***
+KiCe1973 shows [8s Kd] (One pair : 8)
+el normand shows [6c 7s] (Straight Ten high)
+el normand collected 8110 from pot
+*** SUMMARY ***
+Total pot 8110 | No rake
+Board: [8d 9h 3s 7d Td]
+Seat 4: el normand showed [6c 7s] and won 8110 with Straight Ten high
+Seat 8: KiCe1973 (big blind) showed [8s Kd] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #697384933752045731-15-1467660893 - Holdem no limit (10/60/120) - 2016/07/04 19:34:53 UTC
+Table: 'Freeroll(162372583)#0162' 8-max (real money) Seat #7 is the button
+Seat 1: Brbdam56 (2360)
+Seat 2: manggy94 (2100)
+Seat 3: polochanto85 (9628)
+Seat 4: el normand (11097)
+Seat 5: fred17 (1595)
+Seat 6: hhousss (2970)
+Seat 7: jeje5110 (2740)
+*** ANTE/BLINDS ***
+Brbdam56 posts ante 10
+manggy94 posts ante 10
+polochanto85 posts ante 10
+el normand posts ante 10
+fred17 posts ante 10
+hhousss posts ante 10
+jeje5110 posts ante 10
+Brbdam56 posts big blind 120
+Dealt to manggy94 [5s 5c]
+*** PRE-FLOP *** 
+manggy94 raises 1970 to 2090 and is all-in
+polochanto85 folds
+el normand folds
+fred17 calls 1585 and is all-in
+hhousss folds
+jeje5110 folds
+Brbdam56 folds
+*** FLOP *** [Ad Kd Qs]
+*** TURN *** [Ad Kd Qs][9d]
+*** RIVER *** [Ad Kd Qs 9d][7d]
+*** SHOW DOWN ***
+manggy94 shows [5s 5c] (One pair : 5)
+fred17 shows [4d Ac] (Flush Ace high)
+fred17 collected 3360 from main pot
+manggy94 collected 505 from side pot 1
+*** SUMMARY ***
+Total pot 3865 | No rake
+Board: [Ad Kd Qs 9d 7d]
+Seat 2: manggy94 showed [5s 5c] and won 505 with One pair : 5
+Seat 5: fred17 showed [4d Ac] and won 3360 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #697384933752045731-16-1467660916 - Holdem no limit (10/60/120) - 2016/07/04 19:35:16 UTC
+Table: 'Freeroll(162372583)#0162' 8-max (real money) Seat #8 is the button
+Seat 1: Brbdam56 (2230)
+Seat 2: manggy94 (505)
+Seat 3: polochanto85 (9618)
+Seat 4: el normand (11087)
+Seat 5: fred17 (3360)
+Seat 6: hhousss (2960)
+Seat 7: jeje5110 (2730)
+*** ANTE/BLINDS ***
+Brbdam56 posts ante 10
+manggy94 posts ante 10
+polochanto85 posts ante 10
+el normand posts ante 10
+fred17 posts ante 10
+hhousss posts ante 10
+jeje5110 posts ante 10
+Brbdam56 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [4s Jh]
+*** PRE-FLOP *** 
+polochanto85 folds
+el normand folds
+fred17 folds
+hhousss folds
+jeje5110 folds
+Brbdam56 calls 60
+manggy94 raises 375 to 495 and is all-in
+Brbdam56 calls 375
+*** FLOP *** [6c 5h As]
+*** TURN *** [6c 5h As][7c]
+*** RIVER *** [6c 5h As 7c][8h]
+*** SHOW DOWN ***
+manggy94 shows [4s Jh] (Straight 8 high)
+Brbdam56 shows [Qs 9d] (Straight 9 high)
+Brbdam56 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Board: [6c 5h As 7c 8h]
+Seat 1: Brbdam56 (small blind) showed [Qs 9d] and won 1060 with Straight 9 high
+Seat 2: manggy94 (big blind) showed [4s Jh] and lost with Straight 8 high
+
+

@@ -1,0 +1,1658 @@
+Winamax Poker - CashGame - HandId: #7819519-25-1438770926 - Holdem no limit (0.01/0.02) - 2015/08/05 10:35:26 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #3 is the button
+Seat 1: Corleone42 (2)
+Seat 2: Stefan0 (0.22)
+Seat 3: ducati6666 (3.15)
+Seat 4: manggy94 (2)
+Seat 5: titophe_558 (2.12)
+*** ANTE/BLINDS ***
+titophe_558 posts small blind 0.01
+Corleone42 posts big blind 0.02
+*** PRE-FLOP *** 
+Stefan0 folds
+ducati6666 calls 0.02
+titophe_558 calls 0.01
+Corleone42 checks
+*** FLOP *** [2c Qd 7h]
+titophe_558 checks
+Corleone42 checks
+ducati6666 checks
+*** TURN *** [2c Qd 7h][9c]
+titophe_558 checks
+Corleone42 checks
+ducati6666 checks
+*** RIVER *** [2c Qd 7h 9c][Jd]
+titophe_558 checks
+Corleone42 checks
+ducati6666 checks
+*** SHOW DOWN ***
+ducati6666 shows [3c Th] (High card : Queen)
+titophe_558 shows [8d Kc] (High card : King)
+Corleone42 shows [4d Ac] (High card : Ace)
+Corleone42 collected 0.06 from pot
+*** SUMMARY ***
+Total pot 0.06 | No rake
+Board: [2c Qd 7h 9c Jd]
+Seat 1: Corleone42 (big blind) showed [4d Ac] and won 0.06 with High card : Ace
+Seat 3: ducati6666 (button) showed [3c Th] and lost with High card : Queen
+Seat 5: titophe_558 (small blind) showed [8d Kc] and lost with High card : King
+
+
+Winamax Poker - CashGame - HandId: #7819519-26-1438770969 - Holdem no limit (0.01/0.02) - 2015/08/05 10:36:09 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #5 is the button
+Seat 1: Corleone42 (2.04)
+Seat 2: Stefan0 (0.22)
+Seat 3: ducati6666 (3.13)
+Seat 4: manggy94 (2)
+Seat 5: titophe_558 (2.10)
+*** ANTE/BLINDS ***
+Corleone42 posts small blind 0.01
+Stefan0 posts big blind 0.02
+manggy94 posts big blind 0.02 out of position
+Dealt to manggy94 [5d Qd]
+*** PRE-FLOP *** 
+ducati6666 calls 0.02
+manggy94 raises 1.17 to 1.19
+titophe_558 folds
+Corleone42 calls 1.18
+Stefan0 folds
+ducati6666 folds
+*** FLOP *** [2c 5s Ts]
+Corleone42 folds
+manggy94 collected 2.26 from pot
+*** SUMMARY ***
+Total pot 2.26 | Rake 0.16
+Board: [2c 5s Ts]
+Seat 4: manggy94 won 2.26
+
+
+Winamax Poker - CashGame - HandId: #7819519-27-1438771001 - Holdem no limit (0.01/0.02) - 2015/08/05 10:36:41 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #1 is the button
+Seat 1: Corleone42 (0.85)
+Seat 2: Stefan0 (0.20)
+Seat 3: ducati6666 (3.11)
+Seat 4: manggy94 (3.07)
+Seat 5: titophe_558 (2.10)
+*** ANTE/BLINDS ***
+Stefan0 posts small blind 0.01
+ducati6666 posts big blind 0.02
+Dealt to manggy94 [6c 2c]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+titophe_558 calls 0.02
+Corleone42 calls 0.02
+Stefan0 folds
+ducati6666 checks
+*** FLOP *** [Qd 5h Kd]
+ducati6666 checks
+manggy94 checks
+titophe_558 checks
+Corleone42 checks
+*** TURN *** [Qd 5h Kd][3h]
+ducati6666 checks
+manggy94 checks
+titophe_558 checks
+Corleone42 checks
+*** RIVER *** [Qd 5h Kd 3h][Js]
+ducati6666 checks
+manggy94 checks
+titophe_558 bets 0.02
+Corleone42 calls 0.02
+ducati6666 folds
+manggy94 folds
+*** SHOW DOWN ***
+Corleone42 shows [5s As] (One pair : 5)
+titophe_558 shows [Jh 3c] (Two pairs : Jacks and 3)
+titophe_558 collected 0.12 from pot
+*** SUMMARY ***
+Total pot 0.12 | Rake 0.01
+Board: [Qd 5h Kd 3h Js]
+Seat 1: Corleone42 (button) showed [5s As] and lost with One pair : 5
+Seat 5: titophe_558 showed [Jh 3c] and won 0.12 with Two pairs : Jacks and 3
+
+
+Winamax Poker - CashGame - HandId: #7819519-28-1438771056 - Holdem no limit (0.01/0.02) - 2015/08/05 10:37:36 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #2 is the button
+Seat 1: Corleone42 (0.81)
+Seat 2: Stefan0 (0.19)
+Seat 3: ducati6666 (3.09)
+Seat 4: manggy94 (3.05)
+Seat 5: titophe_558 (2.18)
+*** ANTE/BLINDS ***
+ducati6666 posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [Qd 3s]
+*** PRE-FLOP *** 
+titophe_558 calls 0.02
+Corleone42 calls 0.02
+Stefan0 calls 0.02
+ducati6666 calls 0.01
+manggy94 checks
+*** FLOP *** [Ts 4c 2c]
+ducati6666 checks
+manggy94 checks
+titophe_558 checks
+Corleone42 folds
+Stefan0 checks
+*** TURN *** [Ts 4c 2c][Qc]
+ducati6666 checks
+manggy94 checks
+titophe_558 checks
+Stefan0 bets 0.05
+ducati6666 folds
+manggy94 raises 0.70 to 0.75
+titophe_558 folds
+Stefan0 calls 0.12 and is all-in
+*** RIVER *** [Ts 4c 2c Qc][Ac]
+*** SHOW DOWN ***
+Stefan0 shows [7c 6c] (Flush Ace high)
+manggy94 shows [Qd 3s] (One pair : Queens)
+manggy94 collected 0.58 from side pot 1
+Stefan0 collected 0.41 from main pot
+*** SUMMARY ***
+Total pot 0.99 | Rake 0.03
+Board: [Ts 4c 2c Qc Ac]
+Seat 2: Stefan0 (button) showed [7c 6c] and won 0.41 with Flush Ace high
+Seat 4: manggy94 (big blind) showed [Qd 3s] and won 0.58 with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #7819519-29-1438771123 - Holdem no limit (0.01/0.02) - 2015/08/05 10:38:43 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #3 is the button
+Seat 1: Corleone42 (0.79)
+Seat 2: Stefan0 (0.41)
+Seat 3: ducati6666 (3.07)
+Seat 4: manggy94 (2.86)
+Seat 5: titophe_558 (2.16)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+titophe_558 posts big blind 0.02
+Dealt to manggy94 [6c Jc]
+*** PRE-FLOP *** 
+Corleone42 calls 0.02
+Stefan0 calls 0.02
+ducati6666 calls 0.02
+manggy94 calls 0.01
+titophe_558 checks
+*** FLOP *** [8h Tc Kd]
+manggy94 checks
+titophe_558 checks
+Corleone42 checks
+Stefan0 checks
+ducati6666 checks
+*** TURN *** [8h Tc Kd][2s]
+manggy94 checks
+titophe_558 checks
+Corleone42 checks
+Stefan0 checks
+ducati6666 checks
+*** RIVER *** [8h Tc Kd 2s][3h]
+manggy94 checks
+titophe_558 checks
+Corleone42 checks
+Stefan0 checks
+ducati6666 checks
+*** SHOW DOWN ***
+Stefan0 shows [7c Qd] (High card : King)
+ducati6666 shows [5h 7d] (High card : King)
+manggy94 shows [6c Jc] (High card : King)
+titophe_558 shows [Ac 5s] (High card : Ace)
+Corleone42 shows [Qs Qc] (One pair : Queens)
+Corleone42 collected 0.09 from pot
+*** SUMMARY ***
+Total pot 0.09 | Rake 0.01
+Board: [8h Tc Kd 2s 3h]
+Seat 1: Corleone42 showed [Qs Qc] and won 0.09 with One pair : Queens
+Seat 2: Stefan0 showed [7c Qd] and lost with High card : King
+Seat 3: ducati6666 (button) showed [5h 7d] and lost with High card : King
+Seat 4: manggy94 (small blind) showed [6c Jc] and lost with High card : King
+Seat 5: titophe_558 (big blind) showed [Ac 5s] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #7819519-30-1438771220 - Holdem no limit (0.01/0.02) - 2015/08/05 10:40:20 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #4 is the button
+Seat 1: Corleone42 (0.86)
+Seat 2: Stefan0 (0.39)
+Seat 3: ducati6666 (3.05)
+Seat 4: manggy94 (2.84)
+Seat 5: titophe_558 (2.14)
+*** ANTE/BLINDS ***
+titophe_558 posts small blind 0.01
+Corleone42 posts big blind 0.02
+Dealt to manggy94 [Kh 3c]
+*** PRE-FLOP *** 
+Stefan0 calls 0.02
+ducati6666 folds
+manggy94 calls 0.02
+titophe_558 calls 0.01
+Corleone42 checks
+*** FLOP *** [Ts Tc Qd]
+titophe_558 checks
+Corleone42 checks
+Stefan0 checks
+manggy94 bets 0.78
+titophe_558 folds
+Corleone42 folds
+Stefan0 folds
+manggy94 collected 0.85 from pot
+*** SUMMARY ***
+Total pot 0.85 | Rake 0.01
+Board: [Ts Tc Qd]
+Seat 4: manggy94 (button) won 0.85
+
+
+Winamax Poker - CashGame - HandId: #7819519-31-1438771344 - Holdem no limit (0.01/0.02) - 2015/08/05 10:42:24 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #5 is the button
+Seat 2: Stefan0 (0.37)
+Seat 3: ducati6666 (3.05)
+Seat 4: manggy94 (2.89)
+Seat 5: titophe_558 (2.12)
+*** ANTE/BLINDS ***
+Stefan0 posts big blind 0.02
+Dealt to manggy94 [Jh 7d]
+*** PRE-FLOP *** 
+ducati6666 calls 0.02
+manggy94 raises 0.78 to 0.80
+titophe_558 folds
+Stefan0 folds
+ducati6666 folds
+manggy94 collected 0.84 from pot
+*** SUMMARY ***
+Total pot 0.84 | No rake
+Seat 4: manggy94 won 0.84
+
+
+Winamax Poker - CashGame - HandId: #7819519-32-1438771384 - Holdem no limit (0.01/0.02) - 2015/08/05 10:43:04 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #1 is the button
+Seat 2: Stefan0 (0.35)
+Seat 3: ducati6666 (3.03)
+Seat 4: manggy94 (2.93)
+Seat 5: titophe_558 (2.12)
+*** ANTE/BLINDS ***
+Stefan0 posts small blind 0.01
+ducati6666 posts big blind 0.02
+Dealt to manggy94 [7s Td]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+titophe_558 calls 0.02
+Stefan0 folds
+ducati6666 checks
+*** FLOP *** [Ad Ah Tc]
+ducati6666 checks
+manggy94 checks
+titophe_558 checks
+*** TURN *** [Ad Ah Tc][Ac]
+ducati6666 checks
+manggy94 bets 0.15
+titophe_558 folds
+ducati6666 folds
+manggy94 collected 0.22 from pot
+*** SUMMARY ***
+Total pot 0.22 | No rake
+Board: [Ad Ah Tc Ac]
+Seat 4: manggy94 won 0.22
+
+
+Winamax Poker - CashGame - HandId: #7819519-33-1438771417 - Holdem no limit (0.01/0.02) - 2015/08/05 10:43:37 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #2 is the button
+Seat 1: IamBLi (2)
+Seat 2: Stefan0 (0.34)
+Seat 3: ducati6666 (3.01)
+Seat 4: manggy94 (2.98)
+Seat 5: titophe_558 (2.10)
+*** ANTE/BLINDS ***
+ducati6666 posts small blind 0.01
+manggy94 posts big blind 0.02
+IamBLi posts big blind 0.02 out of position
+Dealt to manggy94 [3s Tc]
+*** PRE-FLOP *** 
+IamBLi checks
+Stefan0 folds
+ducati6666 calls 0.01
+manggy94 checks
+*** FLOP *** [Js 2s Qh]
+ducati6666 checks
+manggy94 checks
+IamBLi checks
+*** TURN *** [Js 2s Qh][Ks]
+ducati6666 checks
+manggy94 bets 2.96 and is all-in
+IamBLi folds
+ducati6666 calls 2.96
+*** RIVER *** [Js 2s Qh Ks][9s]
+*** SHOW DOWN ***
+manggy94 shows [3s Tc] (Flush King high)
+ducati6666 shows [9h Ts] (Flush King high)
+ducati6666 collected 5.59 from pot
+*** SUMMARY ***
+Total pot 5.59 | Rake 0.39
+Board: [Js 2s Qh Ks 9s]
+Seat 3: ducati6666 (small blind) showed [9h Ts] and won 5.59 with Flush King high
+Seat 4: manggy94 (big blind) showed [3s Tc] and lost with Flush King high
+
+
+Winamax Poker - CashGame - HandId: #7819519-34-1438771485 - Holdem no limit (0.01/0.02) - 2015/08/05 10:44:45 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #3 is the button
+Seat 1: IamBLi (1.98)
+Seat 2: Stefan0 (0.34)
+Seat 3: ducati6666 (5.62)
+Seat 4: manggy94 (0)
+*** ANTE/BLINDS ***
+IamBLi posts big blind 0.02
+*** PRE-FLOP *** 
+Stefan0 folds
+ducati6666 calls 0.02
+IamBLi checks
+*** FLOP *** [8s 5h Js]
+IamBLi checks
+ducati6666 checks
+*** TURN *** [8s 5h Js][3s]
+IamBLi checks
+ducati6666 checks
+*** RIVER *** [8s 5h Js 3s][Kc]
+IamBLi bets 0.07
+ducati6666 folds
+IamBLi collected 0.11 from pot
+*** SUMMARY ***
+Total pot 0.11 | No rake
+Board: [8s 5h Js 3s Kc]
+Seat 1: IamBLi (big blind) won 0.11
+
+
+Winamax Poker - CashGame - HandId: #7819519-35-1438771529 - Holdem no limit (0.01/0.02) - 2015/08/05 10:45:29 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #4 is the button
+Seat 1: IamBLi (2)
+Seat 2: Stefan0 (0.34)
+Seat 3: ducati6666 (5.60)
+Seat 4: manggy94 (2)
+*** ANTE/BLINDS ***
+IamBLi posts small blind 0.01
+Stefan0 posts big blind 0.02
+*** PRE-FLOP *** 
+ducati6666 calls 0.02
+IamBLi calls 0.01
+Stefan0 checks
+*** FLOP *** [7h 4c Th]
+IamBLi checks
+Stefan0 checks
+ducati6666 checks
+*** TURN *** [7h 4c Th][Ah]
+IamBLi checks
+Stefan0 bets 0.02
+ducati6666 calls 0.02
+IamBLi folds
+*** RIVER *** [7h 4c Th Ah][2c]
+Stefan0 bets 0.05
+ducati6666 folds
+Stefan0 collected 0.14 from pot
+*** SUMMARY ***
+Total pot 0.14 | Rake 0.01
+Board: [7h 4c Th Ah 2c]
+Seat 2: Stefan0 (big blind) won 0.14
+
+
+Winamax Poker - CashGame - HandId: #7819519-36-1438771606 - Holdem no limit (0.01/0.02) - 2015/08/05 10:46:46 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #1 is the button
+Seat 1: IamBLi (1.98)
+Seat 2: Stefan0 (0.39)
+Seat 3: ducati6666 (5.56)
+Seat 4: manggy94 (2)
+*** ANTE/BLINDS ***
+Stefan0 posts small blind 0.01
+ducati6666 posts big blind 0.02
+manggy94 posts small blind 0.01 out of position
+Dealt to manggy94 [Qc 5h]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+IamBLi calls 0.02
+Stefan0 calls 0.01
+ducati6666 checks
+*** FLOP *** [5c 2s 3s]
+Stefan0 checks
+ducati6666 checks
+manggy94 bets 0.02
+IamBLi calls 0.02
+Stefan0 folds
+ducati6666 calls 0.02
+*** TURN *** [5c 2s 3s][3c]
+ducati6666 checks
+manggy94 checks
+IamBLi bets 0.15
+ducati6666 calls 0.15
+manggy94 calls 0.15
+*** RIVER *** [5c 2s 3s 3c][5s]
+ducati6666 checks
+manggy94 bets 0.49
+IamBLi folds
+ducati6666 folds
+manggy94 collected 1.05 from pot
+*** SUMMARY ***
+Total pot 1.05 | Rake 0.04
+Board: [5c 2s 3s 3c 5s]
+Seat 4: manggy94 won 1.05
+
+
+Winamax Poker - CashGame - HandId: #7819519-37-1438771692 - Holdem no limit (0.01/0.02) - 2015/08/05 10:48:12 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #2 is the button
+Seat 1: IamBLi (1.79)
+Seat 2: Stefan0 (0.37)
+Seat 3: ducati6666 (5.37)
+Seat 4: manggy94 (2.36)
+Seat 5: le.fou.du.60 (2)
+*** ANTE/BLINDS ***
+ducati6666 posts small blind 0.01
+manggy94 posts big blind 0.02
+le.fou.du.60 posts big blind 0.02 out of position
+Dealt to manggy94 [2d 5c]
+*** PRE-FLOP *** 
+le.fou.du.60 checks
+IamBLi calls 0.02
+Stefan0 folds
+ducati6666 raises 5.35 to 5.37 and is all-in
+manggy94 folds
+le.fou.du.60 folds
+IamBLi folds
+ducati6666 collected 5.43 from pot
+*** SUMMARY ***
+Total pot 5.43 | No rake
+Seat 3: ducati6666 (small blind) won 5.43
+
+
+Winamax Poker - CashGame - HandId: #7819519-38-1438771785 - Holdem no limit (0.01/0.02) - 2015/08/05 10:49:45 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #3 is the button
+Seat 1: IamBLi (1.77)
+Seat 2: Stefan0 (0.37)
+Seat 3: ducati6666 (5.43)
+Seat 4: manggy94 (2.34)
+Seat 5: le.fou.du.60 (1.98)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+le.fou.du.60 posts big blind 0.02
+Dealt to manggy94 [4s Qc]
+*** PRE-FLOP *** 
+IamBLi calls 0.02
+Stefan0 calls 0.02
+ducati6666 calls 0.02
+manggy94 folds
+le.fou.du.60 raises 1.96 to 1.98 and is all-in
+IamBLi folds
+Stefan0 folds
+ducati6666 folds
+le.fou.du.60 collected 2.05 from pot
+*** SUMMARY ***
+Total pot 2.05 | No rake
+Seat 5: le.fou.du.60 (big blind) won 2.05
+
+
+Winamax Poker - CashGame - HandId: #7819519-39-1438771833 - Holdem no limit (0.01/0.02) - 2015/08/05 10:50:33 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #4 is the button
+Seat 1: IamBLi (1.75)
+Seat 2: Stefan0 (0.35)
+Seat 3: ducati6666 (5.41)
+Seat 4: manggy94 (2.33)
+Seat 5: le.fou.du.60 (2.05)
+*** ANTE/BLINDS ***
+le.fou.du.60 posts small blind 0.01
+IamBLi posts big blind 0.02
+Dealt to manggy94 [7c Kc]
+*** PRE-FLOP *** 
+Stefan0 folds
+ducati6666 calls 0.02
+manggy94 calls 0.02
+le.fou.du.60 calls 0.01
+IamBLi checks
+*** FLOP *** [2c 6d Qh]
+le.fou.du.60 checks
+IamBLi checks
+ducati6666 checks
+manggy94 checks
+*** TURN *** [2c 6d Qh][3s]
+le.fou.du.60 bets 0.02
+IamBLi calls 0.02
+ducati6666 calls 0.02
+manggy94 calls 0.02
+*** RIVER *** [2c 6d Qh 3s][8h]
+le.fou.du.60 checks
+IamBLi checks
+ducati6666 checks
+manggy94 checks
+*** SHOW DOWN ***
+ducati6666 shows [Ts 4d] (High card : Queen)
+manggy94 shows [7c Kc] (High card : King)
+le.fou.du.60 shows [Ks 3c] (One pair : 3)
+IamBLi shows [6h 7h] (One pair : 6)
+IamBLi collected 0.15 from pot
+*** SUMMARY ***
+Total pot 0.15 | Rake 0.01
+Board: [2c 6d Qh 3s 8h]
+Seat 1: IamBLi (big blind) showed [6h 7h] and won 0.15 with One pair : 6
+Seat 3: ducati6666 showed [Ts 4d] and lost with High card : Queen
+Seat 4: manggy94 (button) showed [7c Kc] and lost with High card : King
+Seat 5: le.fou.du.60 (small blind) showed [Ks 3c] and lost with One pair : 3
+
+
+Winamax Poker - CashGame - HandId: #7819519-40-1438771932 - Holdem no limit (0.01/0.02) - 2015/08/05 10:52:12 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #5 is the button
+Seat 1: IamBLi (1.86)
+Seat 2: Stefan0 (0.35)
+Seat 3: ducati6666 (5.37)
+Seat 4: manggy94 (2.29)
+Seat 5: le.fou.du.60 (2.01)
+*** ANTE/BLINDS ***
+IamBLi posts small blind 0.01
+Stefan0 posts big blind 0.02
+Dealt to manggy94 [9h 8s]
+*** PRE-FLOP *** 
+ducati6666 calls 0.02
+manggy94 raises 2.27 to 2.29 and is all-in
+le.fou.du.60 calls 2.01 and is all-in
+IamBLi folds
+Stefan0 folds
+ducati6666 folds
+*** FLOP *** [Jc 3s Ks]
+*** TURN *** [Jc 3s Ks][Ts]
+*** RIVER *** [Jc 3s Ks Ts][Qs]
+*** SHOW DOWN ***
+le.fou.du.60 shows [Qd Jd] (Two pairs : Queens and Jacks)
+manggy94 shows [9h 8s] (Flush King high)
+manggy94 collected 4.09 from pot
+*** SUMMARY ***
+Total pot 4.09 | Rake 0.26
+Board: [Jc 3s Ks Ts Qs]
+Seat 4: manggy94 showed [9h 8s] and won 4.09 with Flush King high
+Seat 5: le.fou.du.60 (button) showed [Qd Jd] and lost with Two pairs : Queens and Jacks
+
+
+Winamax Poker - CashGame - HandId: #7819519-41-1438771963 - Holdem no limit (0.01/0.02) - 2015/08/05 10:52:43 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #1 is the button
+Seat 1: IamBLi (1.85)
+Seat 2: Stefan0 (0.33)
+Seat 3: ducati6666 (5.35)
+Seat 4: manggy94 (4.09)
+Seat 5: le.fou.du.60 (2)
+*** ANTE/BLINDS ***
+Stefan0 posts small blind 0.01
+ducati6666 posts big blind 0.02
+Dealt to manggy94 [Ah Ks]
+*** PRE-FLOP *** 
+manggy94 raises 2.61 to 2.63
+le.fou.du.60 calls 2 and is all-in
+IamBLi folds
+Stefan0 folds
+ducati6666 calls 2.61
+*** FLOP *** [Kc 2s Qh]
+ducati6666 checks
+manggy94 bets 1.46 and is all-in
+ducati6666 calls 1.46
+*** TURN *** [Kc 2s Qh][7d]
+*** RIVER *** [Kc 2s Qh 7d][9s]
+*** SHOW DOWN ***
+ducati6666 shows [4c 4d] (One pair : 4)
+le.fou.du.60 shows [As 8d] (High card : Ace)
+manggy94 shows [Ah Ks] (One pair : Kings)
+manggy94 collected 9.53 from pot
+*** SUMMARY ***
+Total pot 9.53 | Rake 0.66
+Board: [Kc 2s Qh 7d 9s]
+Seat 3: ducati6666 (big blind) showed [4c 4d] and lost with One pair : 4
+Seat 4: manggy94 showed [Ah Ks] and won 9.53 with One pair : Kings
+Seat 5: le.fou.du.60 showed [As 8d] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #7819519-42-1438771995 - Holdem no limit (0.01/0.02) - 2015/08/05 10:53:15 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #2 is the button
+Seat 1: IamBLi (1.85)
+Seat 2: Stefan0 (0.32)
+Seat 3: ducati6666 (1.26)
+Seat 4: manggy94 (9.53)
+Seat 5: le.fou.du.60 (0)
+*** ANTE/BLINDS ***
+ducati6666 posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [Qh Kd]
+*** PRE-FLOP *** 
+IamBLi calls 0.02
+Stefan0 calls 0.02
+ducati6666 calls 0.01
+manggy94 raises 0.91 to 0.93
+IamBLi calls 0.91
+Stefan0 folds
+ducati6666 folds
+*** FLOP *** [Qd Jh 6c]
+manggy94 bets 4.88
+IamBLi calls 0.92 and is all-in
+*** TURN *** [Qd Jh 6c][8c]
+*** RIVER *** [Qd Jh 6c 8c][2c]
+*** SHOW DOWN ***
+IamBLi shows [Ac Ad] (One pair : Aces)
+manggy94 shows [Qh Kd] (One pair : Queens)
+manggy94 collected 3.96 from side pot 1
+IamBLi collected 3.50 from main pot
+*** SUMMARY ***
+Total pot 7.46 | Rake 0.24
+Board: [Qd Jh 6c 8c 2c]
+Seat 1: IamBLi showed [Ac Ad] and won 3.50 with One pair : Aces
+Seat 4: manggy94 (big blind) showed [Qh Kd] and won 3.96 with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #7819519-43-1438772084 - Holdem no limit (0.01/0.02) - 2015/08/05 10:54:44 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #3 is the button
+Seat 1: IamBLi (3.50)
+Seat 2: Stefan0 (0.30)
+Seat 3: ducati6666 (1.24)
+Seat 4: manggy94 (7.68)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+IamBLi posts big blind 0.02
+Dealt to manggy94 [4c 2d]
+*** PRE-FLOP *** 
+Stefan0 calls 0.02
+ducati6666 calls 0.02
+manggy94 calls 0.01
+IamBLi checks
+*** FLOP *** [Ac Ah 4d]
+manggy94 checks
+IamBLi checks
+Stefan0 checks
+ducati6666 checks
+*** TURN *** [Ac Ah 4d][9d]
+manggy94 bets 1.98
+IamBLi folds
+Stefan0 folds
+ducati6666 folds
+manggy94 collected 2.05 from pot
+*** SUMMARY ***
+Total pot 2.05 | Rake 0.01
+Board: [Ac Ah 4d 9d]
+Seat 4: manggy94 (small blind) won 2.05
+
+
+Winamax Poker - CashGame - HandId: #7819519-44-1438772123 - Holdem no limit (0.01/0.02) - 2015/08/05 10:55:23 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #4 is the button
+Seat 1: IamBLi (3.48)
+Seat 2: Stefan0 (0.28)
+Seat 3: ducati6666 (1.22)
+Seat 4: manggy94 (7.73)
+*** ANTE/BLINDS ***
+IamBLi posts small blind 0.01
+Stefan0 posts big blind 0.02
+Dealt to manggy94 [8h Ah]
+*** PRE-FLOP *** 
+ducati6666 calls 0.02
+manggy94 calls 0.02
+IamBLi calls 0.01
+Stefan0 checks
+*** FLOP *** [As 7d 4c]
+IamBLi checks
+Stefan0 checks
+ducati6666 checks
+manggy94 bets 1.35
+IamBLi folds
+Stefan0 folds
+ducati6666 folds
+manggy94 collected 1.42 from pot
+*** SUMMARY ***
+Total pot 1.42 | Rake 0.01
+Board: [As 7d 4c]
+Seat 4: manggy94 (button) won 1.42
+
+
+Winamax Poker - CashGame - HandId: #7819519-45-1438772157 - Holdem no limit (0.01/0.02) - 2015/08/05 10:55:57 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #1 is the button
+Seat 1: IamBLi (3.46)
+Seat 2: Stefan0 (0.26)
+Seat 3: ducati6666 (1.20)
+Seat 4: manggy94 (7.78)
+*** ANTE/BLINDS ***
+Stefan0 posts small blind 0.01
+ducati6666 posts big blind 0.02
+Dealt to manggy94 [9h 7s]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+IamBLi calls 0.02
+Stefan0 calls 0.01
+ducati6666 checks
+*** FLOP *** [Ts 2c Td]
+Stefan0 checks
+ducati6666 checks
+manggy94 checks
+IamBLi checks
+*** TURN *** [Ts 2c Td][3s]
+Stefan0 checks
+ducati6666 checks
+manggy94 checks
+IamBLi checks
+*** RIVER *** [Ts 2c Td 3s][4d]
+Stefan0 checks
+ducati6666 checks
+manggy94 checks
+IamBLi checks
+*** SHOW DOWN ***
+Stefan0 shows [Qc 9d] (One pair : Tens)
+ducati6666 shows [7c Kd] (One pair : Tens)
+manggy94 shows [9h 7s] (One pair : Tens)
+IamBLi shows [Qd Ac] (One pair : Tens)
+IamBLi collected 0.07 from pot
+*** SUMMARY ***
+Total pot 0.07 | Rake 0.01
+Board: [Ts 2c Td 3s 4d]
+Seat 1: IamBLi (button) showed [Qd Ac] and won 0.07 with One pair : Tens
+Seat 2: Stefan0 (small blind) showed [Qc 9d] and lost with One pair : Tens
+Seat 3: ducati6666 (big blind) showed [7c Kd] and lost with One pair : Tens
+Seat 4: manggy94 showed [9h 7s] and lost with One pair : Tens
+
+
+Winamax Poker - CashGame - HandId: #7819519-46-1438772221 - Holdem no limit (0.01/0.02) - 2015/08/05 10:57:01 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #2 is the button
+Seat 1: IamBLi (3.51)
+Seat 2: Stefan0 (0.24)
+Seat 3: ducati6666 (1.18)
+Seat 4: manggy94 (7.76)
+*** ANTE/BLINDS ***
+ducati6666 posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [7s Jc]
+*** PRE-FLOP *** 
+IamBLi calls 0.02
+Stefan0 calls 0.02
+ducati6666 calls 0.01
+manggy94 checks
+*** FLOP *** [Td 2s Js]
+ducati6666 checks
+manggy94 checks
+IamBLi checks
+Stefan0 checks
+*** TURN *** [Td 2s Js][4d]
+ducati6666 bets 1.16 and is all-in
+manggy94 calls 1.16
+IamBLi calls 1.16
+Stefan0 folds
+*** RIVER *** [Td 2s Js 4d][7c]
+manggy94 bets 1.83
+IamBLi folds
+*** SHOW DOWN ***
+ducati6666 shows [6c Jd] (One pair : Jacks)
+manggy94 shows [7s Jc] (Two pairs : Jacks and 7)
+manggy94 collected 5.16 from pot
+*** SUMMARY ***
+Total pot 5.16 | Rake 0.23
+Board: [Td 2s Js 4d 7c]
+Seat 3: ducati6666 (small blind) showed [6c Jd] and lost with One pair : Jacks
+Seat 4: manggy94 (big blind) showed [7s Jc] and won 5.16 with Two pairs : Jacks and 7
+
+
+Winamax Poker - CashGame - HandId: #7819519-47-1438772276 - Holdem no limit (0.01/0.02) - 2015/08/05 10:57:56 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #3 is the button
+Seat 1: IamBLi (2.33)
+Seat 2: Stefan0 (0.22)
+Seat 3: ducati6666 (2)
+Seat 4: manggy94 (9.91)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+IamBLi posts big blind 0.02
+Dealt to manggy94 [Ah 3h]
+*** PRE-FLOP *** 
+Stefan0 calls 0.02
+ducati6666 calls 0.02
+manggy94 calls 0.01
+IamBLi checks
+*** FLOP *** [Jd 6d Ts]
+manggy94 checks
+IamBLi checks
+Stefan0 checks
+ducati6666 checks
+*** TURN *** [Jd 6d Ts][8h]
+manggy94 checks
+IamBLi checks
+Stefan0 checks
+ducati6666 checks
+*** RIVER *** [Jd 6d Ts 8h][7s]
+manggy94 checks
+IamBLi bets 1.09
+Stefan0 folds
+ducati6666 calls 1.09
+manggy94 folds
+*** SHOW DOWN ***
+ducati6666 shows [4c 5s] (Straight 8 high)
+IamBLi shows [Kc 9d] (Straight Jack high)
+IamBLi collected 2.11 from pot
+*** SUMMARY ***
+Total pot 2.11 | Rake 0.15
+Board: [Jd 6d Ts 8h 7s]
+Seat 1: IamBLi (big blind) showed [Kc 9d] and won 2.11 with Straight Jack high
+Seat 3: ducati6666 (button) showed [4c 5s] and lost with Straight 8 high
+
+
+Winamax Poker - CashGame - HandId: #7819519-48-1438772330 - Holdem no limit (0.01/0.02) - 2015/08/05 10:58:50 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #4 is the button
+Seat 1: IamBLi (3.33)
+Seat 2: Stefan0 (0.20)
+Seat 3: ducati6666 (0.89)
+Seat 4: manggy94 (9.89)
+*** ANTE/BLINDS ***
+IamBLi posts small blind 0.01
+Stefan0 posts big blind 0.02
+Dealt to manggy94 [Qc 5s]
+*** PRE-FLOP *** 
+ducati6666 calls 0.02
+manggy94 calls 0.02
+IamBLi folds
+Stefan0 checks
+*** FLOP *** [6c 4h 8s]
+Stefan0 checks
+ducati6666 bets 0.87 and is all-in
+manggy94 calls 0.87
+Stefan0 folds
+*** TURN *** [6c 4h 8s][Ad]
+*** RIVER *** [6c 4h 8s Ad][Qd]
+*** SHOW DOWN ***
+ducati6666 shows [8c Ts] (One pair : 8)
+manggy94 shows [Qc 5s] (One pair : Queens)
+manggy94 collected 1.69 from pot
+*** SUMMARY ***
+Total pot 1.69 | Rake 0.12
+Board: [6c 4h 8s Ad Qd]
+Seat 3: ducati6666 showed [8c Ts] and lost with One pair : 8
+Seat 4: manggy94 (button) showed [Qc 5s] and won 1.69 with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #7819519-49-1438772394 - Holdem no limit (0.01/0.02) - 2015/08/05 10:59:54 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #1 is the button
+Seat 1: IamBLi (3.32)
+Seat 2: Stefan0 (0.18)
+Seat 3: ducati6666 (0)
+Seat 4: manggy94 (10.69)
+*** ANTE/BLINDS ***
+Stefan0 posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [Js Ad]
+*** PRE-FLOP *** 
+IamBLi calls 0.02
+Stefan0 calls 0.01
+manggy94 checks
+*** FLOP *** [Qh 2d 2h]
+Stefan0 checks
+manggy94 bets 2.38
+IamBLi folds
+Stefan0 calls 0.16 and is all-in
+*** TURN *** [Qh 2d 2h][6s]
+*** RIVER *** [Qh 2d 2h 6s][5d]
+*** SHOW DOWN ***
+Stefan0 shows [3h Qc] (Two pairs : Queens and 2)
+manggy94 shows [Js Ad] (One pair : 2)
+manggy94 collected 2.22 from side pot 1
+Stefan0 collected 0.36 from main pot
+*** SUMMARY ***
+Total pot 2.58 | Rake 0.02
+Board: [Qh 2d 2h 6s 5d]
+Seat 2: Stefan0 (small blind) showed [3h Qc] and won 0.36 with Two pairs : Queens and 2
+Seat 4: manggy94 (big blind) showed [Js Ad] and won 2.22 with One pair : 2
+
+
+Winamax Poker - CashGame - HandId: #7819519-50-1438772450 - Holdem no limit (0.01/0.02) - 2015/08/05 11:00:50 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #2 is the button
+Seat 1: IamBLi (3.30)
+Seat 2: Stefan0 (0.36)
+Seat 3: RomBoT (2)
+Seat 4: manggy94 (10.51)
+Seat 5: yoannstaff (2)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+yoannstaff posts big blind 0.02
+Dealt to manggy94 [Jh Qd]
+*** PRE-FLOP *** 
+IamBLi folds
+Stefan0 calls 0.02
+manggy94 calls 0.01
+yoannstaff checks
+*** FLOP *** [9c 9s 2c]
+manggy94 bets 2.29
+yoannstaff calls 1.98 and is all-in
+Stefan0 folds
+*** TURN *** [9c 9s 2c][Jc]
+*** RIVER *** [9c 9s 2c Jc][Kd]
+*** SHOW DOWN ***
+manggy94 shows [Jh Qd] (Two pairs : Jacks and 9)
+yoannstaff shows [7d 9d] (Trips of 9)
+yoannstaff collected 3.76 from main pot
+manggy94 collected 0.31 from side pot 1
+*** SUMMARY ***
+Total pot 4.07 | Rake 0.26
+Board: [9c 9s 2c Jc Kd]
+Seat 4: manggy94 (small blind) showed [Jh Qd] and won 0.31 with Two pairs : Jacks and 9
+Seat 5: yoannstaff (big blind) showed [7d 9d] and won 3.76 with Trips of 9
+
+
+Winamax Poker - CashGame - HandId: #7819519-51-1438772495 - Holdem no limit (0.01/0.02) - 2015/08/05 11:01:35 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #4 is the button
+Seat 1: IamBLi (3.30)
+Seat 2: Stefan0 (0.34)
+Seat 3: RomBoT (2)
+Seat 4: manggy94 (8.51)
+Seat 5: yoannstaff (3.76)
+*** ANTE/BLINDS ***
+yoannstaff posts small blind 0.01
+IamBLi posts big blind 0.02
+Dealt to manggy94 [7d 9h]
+*** PRE-FLOP *** 
+Stefan0 calls 0.02
+manggy94 raises 2.44 to 2.46
+yoannstaff folds
+IamBLi folds
+Stefan0 folds
+manggy94 collected 2.51 from pot
+*** SUMMARY ***
+Total pot 2.51 | No rake
+Seat 4: manggy94 (button) won 2.51
+
+
+Winamax Poker - CashGame - HandId: #7819519-52-1438772515 - Holdem no limit (0.01/0.02) - 2015/08/05 11:01:55 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #5 is the button
+Seat 1: IamBLi (3.28)
+Seat 2: Stefan0 (0.32)
+Seat 3: RomBoT (2)
+Seat 4: manggy94 (8.56)
+Seat 5: yoannstaff (3.75)
+*** ANTE/BLINDS ***
+IamBLi posts small blind 0.01
+Stefan0 posts big blind 0.02
+Dealt to manggy94 [9c Ac]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+yoannstaff calls 0.02
+IamBLi calls 0.01
+Stefan0 checks
+*** FLOP *** [4s 3h Jd]
+IamBLi checks
+Stefan0 checks
+manggy94 checks
+yoannstaff checks
+*** TURN *** [4s 3h Jd][Qc]
+IamBLi checks
+Stefan0 checks
+manggy94 checks
+yoannstaff checks
+*** RIVER *** [4s 3h Jd Qc][Jc]
+IamBLi checks
+Stefan0 checks
+manggy94 checks
+yoannstaff bets 0.02
+IamBLi folds
+Stefan0 folds
+manggy94 calls 0.02
+*** SHOW DOWN ***
+manggy94 shows [9c Ac] (One pair : Jacks)
+yoannstaff shows [4h 7s] (Two pairs : Jacks and 4)
+yoannstaff collected 0.11 from pot
+*** SUMMARY ***
+Total pot 0.11 | Rake 0.01
+Board: [4s 3h Jd Qc Jc]
+Seat 4: manggy94 showed [9c Ac] and lost with One pair : Jacks
+Seat 5: yoannstaff (button) showed [4h 7s] and won 0.11 with Two pairs : Jacks and 4
+
+
+Winamax Poker - CashGame - HandId: #7819519-53-1438772569 - Holdem no limit (0.01/0.02) - 2015/08/05 11:02:49 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #1 is the button
+Seat 1: IamBLi (3.26)
+Seat 2: Stefan0 (0.30)
+Seat 3: RomBoT (2)
+Seat 4: manggy94 (8.52)
+Seat 5: yoannstaff (3.82)
+*** ANTE/BLINDS ***
+Stefan0 posts small blind 0.01
+RomBoT posts big blind 0.02
+Dealt to manggy94 [9h Ks]
+*** PRE-FLOP *** 
+manggy94 raises 2.57 to 2.59
+yoannstaff folds
+IamBLi folds
+Stefan0 calls 0.29 and is all-in
+RomBoT folds
+*** FLOP *** [4s 4c 6s]
+*** TURN *** [4s 4c 6s][7c]
+*** RIVER *** [4s 4c 6s 7c][9s]
+*** SHOW DOWN ***
+Stefan0 shows [3c Kc] (One pair : 4)
+manggy94 shows [9h Ks] (Two pairs : 9 and 4)
+manggy94 collected 2.87 from pot
+*** SUMMARY ***
+Total pot 2.87 | Rake 0.04
+Board: [4s 4c 6s 7c 9s]
+Seat 2: Stefan0 (small blind) showed [3c Kc] and lost with One pair : 4
+Seat 4: manggy94 showed [9h Ks] and won 2.87 with Two pairs : 9 and 4
+
+
+Winamax Poker - CashGame - HandId: #7819519-54-1438772606 - Holdem no limit (0.01/0.02) - 2015/08/05 11:03:26 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #2 is the button
+Seat 1: IamBLi (3.26)
+Seat 2: Stefan0 (2)
+Seat 3: RomBoT (1.98)
+Seat 4: manggy94 (8.80)
+Seat 5: yoannstaff (3.82)
+*** ANTE/BLINDS ***
+RomBoT posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [Ks 9s]
+*** PRE-FLOP *** 
+yoannstaff calls 0.02
+IamBLi calls 0.02
+Stefan0 calls 0.02
+RomBoT calls 0.01
+manggy94 raises 0.80 to 0.82
+yoannstaff folds
+IamBLi calls 0.80
+Stefan0 folds
+RomBoT folds
+*** FLOP *** [Qs 2d Ac]
+manggy94 checks
+IamBLi checks
+*** TURN *** [Qs 2d Ac][2s]
+manggy94 checks
+IamBLi checks
+*** RIVER *** [Qs 2d Ac 2s][Th]
+manggy94 checks
+IamBLi checks
+*** SHOW DOWN ***
+IamBLi shows [7c Kh] (One pair : 2)
+manggy94 shows [Ks 9s] (One pair : 2)
+manggy94 collected 0.80 from pot
+IamBLi collected 0.79 from pot
+*** SUMMARY ***
+Total pot 1.59 | Rake 0.11
+Board: [Qs 2d Ac 2s Th]
+Seat 1: IamBLi showed [7c Kh] and won 0.79 with One pair : 2
+Seat 4: manggy94 (big blind) showed [Ks 9s] and won 0.80 with One pair : 2
+
+
+Winamax Poker - CashGame - HandId: #7819519-55-1438772662 - Holdem no limit (0.01/0.02) - 2015/08/05 11:04:22 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #3 is the button
+Seat 1: IamBLi (3.23)
+Seat 2: Stefan0 (1.98)
+Seat 3: RomBoT (1.96)
+Seat 4: manggy94 (8.78)
+Seat 5: yoannstaff (3.80)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+yoannstaff posts big blind 0.02
+Dealt to manggy94 [4c Ts]
+*** PRE-FLOP *** 
+IamBLi folds
+Stefan0 folds
+manggy94 calls 0.01
+yoannstaff checks
+*** FLOP *** [Td Qs 3h]
+manggy94 bets 2.34
+yoannstaff folds
+manggy94 collected 2.38 from pot
+*** SUMMARY ***
+Total pot 2.38 | No rake
+Board: [Td Qs 3h]
+Seat 4: manggy94 (small blind) won 2.38
+
+
+Winamax Poker - CashGame - HandId: #7819519-56-1438772696 - Holdem no limit (0.01/0.02) - 2015/08/05 11:04:56 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #4 is the button
+Seat 1: IamBLi (3.23)
+Seat 2: Stefan0 (1.98)
+Seat 4: manggy94 (8.80)
+Seat 5: yoannstaff (3.78)
+*** ANTE/BLINDS ***
+yoannstaff posts small blind 0.01
+IamBLi posts big blind 0.02
+Dealt to manggy94 [Js Ad]
+*** PRE-FLOP *** 
+Stefan0 folds
+manggy94 calls 0.02
+yoannstaff calls 0.01
+IamBLi checks
+*** FLOP *** [5d 4h Tc]
+yoannstaff checks
+IamBLi checks
+manggy94 bets 1.19
+yoannstaff folds
+IamBLi folds
+manggy94 collected 1.25 from pot
+*** SUMMARY ***
+Total pot 1.25 | No rake
+Board: [5d 4h Tc]
+Seat 4: manggy94 (button) won 1.25
+
+
+Winamax Poker - CashGame - HandId: #7819519-57-1438772731 - Holdem no limit (0.01/0.02) - 2015/08/05 11:05:31 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #5 is the button
+Seat 1: IamBLi (3.21)
+Seat 2: Stefan0 (1.98)
+Seat 4: manggy94 (8.84)
+Seat 5: yoannstaff (3.76)
+*** ANTE/BLINDS ***
+IamBLi posts small blind 0.01
+Stefan0 posts big blind 0.02
+Dealt to manggy94 [5d Qd]
+*** PRE-FLOP *** 
+manggy94 raises 1.23 to 1.25
+yoannstaff calls 1.25
+IamBLi folds
+Stefan0 folds
+*** FLOP *** [3c 9c 2s]
+manggy94 bets 2.93
+yoannstaff folds
+manggy94 collected 5.30 from pot
+*** SUMMARY ***
+Total pot 5.30 | Rake 0.16
+Board: [3c 9c 2s]
+Seat 4: manggy94 won 5.30
+
+
+Winamax Poker - CashGame - HandId: #7819519-58-1438772768 - Holdem no limit (0.01/0.02) - 2015/08/05 11:06:08 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #1 is the button
+Seat 1: IamBLi (3.20)
+Seat 2: Stefan0 (1.96)
+Seat 3: jupitter (1.51)
+Seat 4: manggy94 (9.96)
+Seat 5: yoannstaff (2.51)
+*** ANTE/BLINDS ***
+Stefan0 posts small blind 0.01
+jupitter posts big blind 0.02
+Dealt to manggy94 [8s 4c]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+yoannstaff calls 0.02
+IamBLi calls 0.02
+Stefan0 calls 0.01
+jupitter checks
+*** FLOP *** [9c Ts Ac]
+Stefan0 checks
+jupitter bets 0.02
+manggy94 calls 0.02
+yoannstaff folds
+IamBLi folds
+Stefan0 calls 0.02
+*** TURN *** [9c Ts Ac][8h]
+Stefan0 checks
+jupitter bets 0.12
+manggy94 calls 0.12
+Stefan0 folds
+*** RIVER *** [9c Ts Ac 8h][3h]
+jupitter bets 0.03
+manggy94 calls 0.03
+*** SHOW DOWN ***
+manggy94 shows [8s 4c] (One pair : 8)
+jupitter shows [8d Ad] (Two pairs : Aces and 8)
+jupitter collected 0.43 from pot
+*** SUMMARY ***
+Total pot 0.43 | Rake 0.03
+Board: [9c Ts Ac 8h 3h]
+Seat 3: jupitter (big blind) showed [8d Ad] and won 0.43 with Two pairs : Aces and 8
+Seat 4: manggy94 showed [8s 4c] and lost with One pair : 8
+
+
+Winamax Poker - CashGame - HandId: #7819519-59-1438772846 - Holdem no limit (0.01/0.02) - 2015/08/05 11:07:26 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #2 is the button
+Seat 1: IamBLi (3.18)
+Seat 2: Stefan0 (1.92)
+Seat 3: jupitter (1.75)
+Seat 4: manggy94 (9.77)
+Seat 5: yoannstaff (2.49)
+*** ANTE/BLINDS ***
+jupitter posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [6d 4h]
+*** PRE-FLOP *** 
+yoannstaff folds
+IamBLi folds
+Stefan0 calls 0.02
+jupitter calls 0.01
+manggy94 raises 0.79 to 0.81
+Stefan0 calls 0.79
+jupitter folds
+*** FLOP *** [4s Kh 8c]
+manggy94 bets 1.47
+Stefan0 calls 1.11 and is all-in
+*** TURN *** [4s Kh 8c][As]
+*** RIVER *** [4s Kh 8c As][Ad]
+*** SHOW DOWN ***
+Stefan0 shows [Ac Tc] (Trips of Aces)
+manggy94 shows [6d 4h] (Two pairs : Aces and 4)
+manggy94 collected 0.36 from side pot 1
+Stefan0 collected 3.61 from main pot
+*** SUMMARY ***
+Total pot 3.97 | Rake 0.25
+Board: [4s Kh 8c As Ad]
+Seat 2: Stefan0 (button) showed [Ac Tc] and won 3.61 with Trips of Aces
+Seat 4: manggy94 (big blind) showed [6d 4h] and won 0.36 with Two pairs : Aces and 4
+
+
+Winamax Poker - CashGame - HandId: #7819519-60-1438772889 - Holdem no limit (0.01/0.02) - 2015/08/05 11:08:09 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #3 is the button
+Seat 1: IamBLi (3.18)
+Seat 2: Stefan0 (3.61)
+Seat 3: jupitter (1.73)
+Seat 4: manggy94 (7.85)
+Seat 5: yoannstaff (2.49)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+yoannstaff posts big blind 0.02
+Dealt to manggy94 [4c 7d]
+*** PRE-FLOP *** 
+IamBLi calls 0.02
+Stefan0 calls 0.02
+jupitter calls 0.02
+manggy94 raises 1.29 to 1.31
+yoannstaff folds
+IamBLi calls 1.29
+Stefan0 calls 1.29
+jupitter folds
+*** FLOP *** [Ah 3h 5h]
+manggy94 checks
+IamBLi checks
+Stefan0 bets 2.30 and is all-in
+manggy94 calls 2.30
+IamBLi calls 1.87 and is all-in
+*** TURN *** [Ah 3h 5h][8d]
+*** RIVER *** [Ah 3h 5h 8d][9s]
+*** SHOW DOWN ***
+manggy94 shows [4c 7d] (High card : Ace)
+IamBLi shows [As 3s] (Two pairs : Aces and 3)
+Stefan0 shows [Qs Jh] (High card : Ace)
+Stefan0 collected 0.80 from side pot 1
+IamBLi collected 8.96 from main pot
+*** SUMMARY ***
+Total pot 9.76 | Rake 0.68
+Board: [Ah 3h 5h 8d 9s]
+Seat 1: IamBLi showed [As 3s] and won 8.96 with Two pairs : Aces and 3
+Seat 2: Stefan0 showed [Qs Jh] and won 0.80 with High card : Ace
+Seat 4: manggy94 (small blind) showed [4c 7d] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #7819519-61-1438772953 - Holdem no limit (0.01/0.02) - 2015/08/05 11:09:13 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #4 is the button
+Seat 1: IamBLi (8.96)
+Seat 2: Stefan0 (0.80)
+Seat 3: jupitter (1.71)
+Seat 4: manggy94 (4.24)
+Seat 5: yoannstaff (2.47)
+*** ANTE/BLINDS ***
+yoannstaff posts small blind 0.01
+IamBLi posts big blind 0.02
+Dealt to manggy94 [3s 9d]
+*** PRE-FLOP *** 
+Stefan0 calls 0.02
+jupitter calls 0.02
+manggy94 folds
+yoannstaff calls 0.01
+IamBLi checks
+*** FLOP *** [6h Th 7s]
+yoannstaff checks
+IamBLi checks
+Stefan0 checks
+jupitter checks
+*** TURN *** [6h Th 7s][Td]
+yoannstaff checks
+IamBLi bets 0.15
+Stefan0 calls 0.15
+jupitter folds
+yoannstaff folds
+*** RIVER *** [6h Th 7s Td][Ah]
+IamBLi bets 0.75
+Stefan0 calls 0.63 and is all-in
+*** SHOW DOWN ***
+Stefan0 shows [6d Qh] (Two pairs : Tens and 6)
+IamBLi shows [As 5h] (Two pairs : Aces and Tens)
+IamBLi collected 1.65 from pot
+*** SUMMARY ***
+Total pot 1.65 | Rake 0.11
+Board: [6h Th 7s Td Ah]
+Seat 1: IamBLi (big blind) showed [As 5h] and won 1.65 with Two pairs : Aces and Tens
+Seat 2: Stefan0 showed [6d Qh] and lost with Two pairs : Tens and 6
+
+
+Winamax Poker - CashGame - HandId: #7819519-62-1438773032 - Holdem no limit (0.01/0.02) - 2015/08/05 11:10:32 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #5 is the button
+Seat 1: IamBLi (9.69)
+Seat 2: Stefan0 (0)
+Seat 3: jupitter (1.69)
+Seat 4: manggy94 (4.24)
+Seat 5: yoannstaff (2.45)
+*** ANTE/BLINDS ***
+IamBLi posts small blind 0.01
+jupitter posts big blind 0.02
+Dealt to manggy94 [7s 8h]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+yoannstaff calls 0.02
+IamBLi calls 0.01
+jupitter checks
+*** FLOP *** [Kh 8d Qh]
+IamBLi checks
+jupitter bets 0.02
+manggy94 raises 0.02 to 0.04
+yoannstaff calls 0.04
+IamBLi calls 0.04
+jupitter calls 0.02
+*** TURN *** [Kh 8d Qh][2h]
+IamBLi checks
+jupitter checks
+manggy94 checks
+yoannstaff checks
+*** RIVER *** [Kh 8d Qh 2h][5c]
+IamBLi bets 0.24
+jupitter folds
+manggy94 calls 0.24
+yoannstaff folds
+*** SHOW DOWN ***
+manggy94 shows [7s 8h] (One pair : 8)
+IamBLi shows [Qd 3d] (One pair : Queens)
+IamBLi collected 0.67 from pot
+*** SUMMARY ***
+Total pot 0.67 | Rake 0.05
+Board: [Kh 8d Qh 2h 5c]
+Seat 1: IamBLi (small blind) showed [Qd 3d] and won 0.67 with One pair : Queens
+Seat 4: manggy94 showed [7s 8h] and lost with One pair : 8
+
+
+Winamax Poker - CashGame - HandId: #7819519-63-1438773125 - Holdem no limit (0.01/0.02) - 2015/08/05 11:12:05 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #1 is the button
+Seat 1: IamBLi (10.06)
+Seat 2: RomBoT (2)
+Seat 3: jupitter (1.63)
+Seat 4: manggy94 (3.94)
+Seat 5: yoannstaff (2.39)
+*** ANTE/BLINDS ***
+jupitter denies small blind
+manggy94 posts big blind 0.02
+Dealt to manggy94 [Jd 6s]
+*** PRE-FLOP *** 
+yoannstaff calls 0.02
+IamBLi folds
+manggy94 checks
+*** FLOP *** [Ts 8h 9d]
+manggy94 bets 1.58
+yoannstaff calls 1.58
+*** TURN *** [Ts 8h 9d][5h]
+manggy94 checks
+yoannstaff bets 0.79 and is all-in
+manggy94 calls 0.79
+*** RIVER *** [Ts 8h 9d 5h][2c]
+*** SHOW DOWN ***
+manggy94 shows [Jd 6s] (High card : Jack)
+yoannstaff shows [7h Kh] (High card : King)
+yoannstaff collected 4.47 from pot
+*** SUMMARY ***
+Total pot 4.47 | Rake 0.31
+Board: [Ts 8h 9d 5h 2c]
+Seat 4: manggy94 (big blind) showed [Jd 6s] and lost with High card : Jack
+Seat 5: yoannstaff showed [7h Kh] and won 4.47 with High card : King
+
+
+Winamax Poker - CashGame - HandId: #7819519-64-1438773168 - Holdem no limit (0.01/0.02) - 2015/08/05 11:12:48 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #3 is the button
+Seat 1: IamBLi (10.06)
+Seat 2: RomBoT (2)
+Seat 3: jupitter (1.63)
+Seat 4: manggy94 (2)
+Seat 5: yoannstaff (4.47)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+yoannstaff posts big blind 0.02
+Dealt to manggy94 [Kc 3h]
+*** PRE-FLOP *** 
+IamBLi calls 0.02
+manggy94 raises 1.98 to 2 and is all-in
+yoannstaff calls 1.98
+IamBLi calls 1.98
+*** FLOP *** [3c 5d Td]
+yoannstaff checks
+IamBLi checks
+*** TURN *** [3c 5d Td][8s]
+yoannstaff checks
+IamBLi checks
+*** RIVER *** [3c 5d Td 8s][6c]
+yoannstaff checks
+IamBLi checks
+*** SHOW DOWN ***
+IamBLi shows [Jd Tc] (One pair : Tens)
+manggy94 shows [Kc 3h] (One pair : 3)
+yoannstaff shows [Qh Qc] (One pair : Queens)
+yoannstaff collected 5.61 from pot
+*** SUMMARY ***
+Total pot 5.61 | Rake 0.39
+Board: [3c 5d Td 8s 6c]
+Seat 1: IamBLi showed [Jd Tc] and lost with One pair : Tens
+Seat 4: manggy94 (small blind) showed [Kc 3h] and lost with One pair : 3
+Seat 5: yoannstaff (big blind) showed [Qh Qc] and won 5.61 with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #7819519-65-1438773221 - Holdem no limit (0.01/0.02) - 2015/08/05 11:13:41 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #4 is the button
+Seat 1: IamBLi (8.06)
+Seat 2: RomBoT (2)
+Seat 3: jupitter (1.63)
+Seat 4: manggy94 (2)
+Seat 5: yoannstaff (8.08)
+*** ANTE/BLINDS ***
+yoannstaff posts small blind 0.01
+IamBLi posts big blind 0.02
+RomBoT posts small blind 0.01 out of position
+Dealt to manggy94 [7c Qc]
+*** PRE-FLOP *** 
+RomBoT raises 0.03 to 0.05
+manggy94 raises 1.95 to 2 and is all-in
+yoannstaff folds
+IamBLi folds
+RomBoT calls 1.95 and is all-in
+*** FLOP *** [8h 9s Ah]
+*** TURN *** [8h 9s Ah][5d]
+*** RIVER *** [8h 9s Ah 5d][Kd]
+*** SHOW DOWN ***
+RomBoT shows [Qs Qh] (One pair : Queens)
+manggy94 shows [7c Qc] (High card : Ace)
+manggy94 collected 0.01 from side pot 1
+RomBoT collected 3.76 from main pot
+*** SUMMARY ***
+Total pot 3.77 | Rake 0.26
+Board: [8h 9s Ah 5d Kd]
+Seat 2: RomBoT showed [Qs Qh] and won 3.76 with One pair : Queens
+Seat 4: manggy94 (button) showed [7c Qc] and won 0.01 with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #7819519-66-1438773242 - Holdem no limit (0.01/0.02) - 2015/08/05 11:14:02 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #5 is the button
+Seat 1: IamBLi (8.04)
+Seat 2: RomBoT (3.76)
+Seat 3: jupitter (1.63)
+Seat 4: manggy94 (2)
+Seat 5: yoannstaff (8.07)
+*** ANTE/BLINDS ***
+IamBLi posts small blind 0.01
+RomBoT posts big blind 0.02
+Dealt to manggy94 [5d 8d]
+*** PRE-FLOP *** 
+manggy94 raises 1.98 to 2 and is all-in
+yoannstaff folds
+IamBLi folds
+RomBoT folds
+manggy94 collected 2.03 from pot
+*** SUMMARY ***
+Total pot 2.03 | No rake
+Seat 4: manggy94 won 2.03
+
+
+Winamax Poker - CashGame - HandId: #7819519-67-1438773257 - Holdem no limit (0.01/0.02) - 2015/08/05 11:14:17 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #1 is the button
+Seat 1: IamBLi (8.03)
+Seat 2: RomBoT (3.74)
+Seat 3: jupitter (1.63)
+Seat 4: manggy94 (2.03)
+Seat 5: yoannstaff (8.07)
+*** ANTE/BLINDS ***
+manggy94 posts big blind 0.02
+Dealt to manggy94 [6c 7c]
+*** PRE-FLOP *** 
+yoannstaff calls 0.02
+IamBLi calls 0.02
+manggy94 checks
+*** FLOP *** [5c 8d 7h]
+manggy94 checks
+yoannstaff checks
+IamBLi bets 0.06
+manggy94 calls 0.06
+yoannstaff calls 0.06
+*** TURN *** [5c 8d 7h][7d]
+manggy94 checks
+yoannstaff checks
+IamBLi checks
+*** RIVER *** [5c 8d 7h 7d][5s]
+manggy94 bets 0.43
+yoannstaff folds
+IamBLi folds
+manggy94 collected 0.65 from pot
+*** SUMMARY ***
+Total pot 0.65 | Rake 0.02
+Board: [5c 8d 7h 7d 5s]
+Seat 4: manggy94 (big blind) won 0.65
+
+
+Winamax Poker - CashGame - HandId: #7819519-68-1438773311 - Holdem no limit (0.01/0.02) - 2015/08/05 11:15:11 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #2 is the button
+Seat 1: IamBLi (7.95)
+Seat 2: Seraph3838 (2)
+Seat 3: jupitter (1.63)
+Seat 4: manggy94 (2.17)
+Seat 5: yoannstaff (7.99)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 0.01
+yoannstaff posts big blind 0.02
+Dealt to manggy94 [7d 8c]
+*** PRE-FLOP *** 
+IamBLi folds
+manggy94 calls 0.01
+yoannstaff checks
+*** FLOP *** [8h 5d Jd]
+manggy94 bets 2.15 and is all-in
+yoannstaff folds
+manggy94 collected 2.19 from pot
+*** SUMMARY ***
+Total pot 2.19 | No rake
+Board: [8h 5d Jd]
+Seat 4: manggy94 (small blind) won 2.19
+
+
+Winamax Poker - CashGame - HandId: #7819519-69-1438773339 - Holdem no limit (0.01/0.02) - 2015/08/05 11:15:39 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #4 is the button
+Seat 1: IamBLi (7.95)
+Seat 2: Seraph3838 (2)
+Seat 3: jupitter (1.63)
+Seat 4: manggy94 (2.19)
+Seat 5: yoannstaff (7.97)
+*** ANTE/BLINDS ***
+yoannstaff posts small blind 0.01
+IamBLi posts big blind 0.02
+Seraph3838 posts big blind 0.02 out of position
+Dealt to manggy94 [8h 4h]
+*** PRE-FLOP *** 
+Seraph3838 checks
+manggy94 calls 0.02
+yoannstaff calls 0.01
+IamBLi checks
+*** FLOP *** [6d 7d Ah]
+yoannstaff checks
+IamBLi bets 0.08
+Seraph3838 calls 0.08
+manggy94 calls 0.08
+yoannstaff folds
+*** TURN *** [6d 7d Ah][Ad]
+IamBLi checks
+Seraph3838 bets 0.87
+manggy94 raises 0.87 to 1.74
+IamBLi folds
+Seraph3838 calls 0.87
+*** RIVER *** [6d 7d Ah Ad][4c]
+Seraph3838 bets 0.16 and is all-in
+manggy94 raises 0.16 to 0.32
+*** SHOW DOWN ***
+Seraph3838 shows [As 8s] (Trips of Aces)
+manggy94 shows [8h 4h] (Two pairs : Aces and 4)
+manggy94 collected 0.16 from side pot 1
+Seraph3838 collected 3.85 from main pot
+*** SUMMARY ***
+Total pot 4.01 | Rake 0.27
+Board: [6d 7d Ah Ad 4c]
+Seat 2: Seraph3838 showed [As 8s] and won 3.85 with Trips of Aces
+Seat 4: manggy94 (button) showed [8h 4h] and won 0.16 with Two pairs : Aces and 4
+
+
+Winamax Poker - CashGame - HandId: #7819519-70-1438773406 - Holdem no limit (0.01/0.02) - 2015/08/05 11:16:46 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #5 is the button
+Seat 1: IamBLi (7.85)
+Seat 2: Seraph3838 (3.85)
+Seat 3: jupitter (1.63)
+Seat 4: manggy94 (2)
+Seat 5: yoannstaff (7.95)
+*** ANTE/BLINDS ***
+IamBLi posts small blind 0.01
+Seraph3838 posts big blind 0.02
+Dealt to manggy94 [3s 6h]
+*** PRE-FLOP *** 
+manggy94 calls 0.02
+yoannstaff calls 0.02
+IamBLi calls 0.01
+Seraph3838 checks
+*** FLOP *** [Qd 7d 3c]
+IamBLi checks
+Seraph3838 bets 0.21
+manggy94 calls 0.21
+yoannstaff folds
+IamBLi folds
+*** TURN *** [Qd 7d 3c][8s]
+Seraph3838 bets 0.02
+manggy94 raises 1.75 to 1.77 and is all-in
+Seraph3838 calls 1.75
+*** RIVER *** [Qd 7d 3c 8s][8d]
+*** SHOW DOWN ***
+manggy94 shows [3s 6h] (Two pairs : 8 and 3)
+Seraph3838 shows [Qh 6c] (Two pairs : Queens and 8)
+Seraph3838 collected 3.78 from pot
+*** SUMMARY ***
+Total pot 3.78 | Rake 0.26
+Board: [Qd 7d 3c 8s 8d]
+Seat 2: Seraph3838 (big blind) showed [Qh 6c] and won 3.78 with Two pairs : Queens and 8
+Seat 4: manggy94 showed [3s 6h] and lost with Two pairs : 8 and 3
+
+
+Winamax Poker - CashGame - HandId: #7819519-71-1438773467 - Holdem no limit (0.01/0.02) - 2015/08/05 11:17:47 UTC
+Table: 'Wichita 02' 5-max (play money) Seat #1 is the button
+Seat 1: IamBLi (7.83)
+Seat 2: Seraph3838 (5.63)
+Seat 4: manggy94 (2)
+Seat 5: yoannstaff (7.93)
+*** ANTE/BLINDS ***
+Seraph3838 posts small blind 0.01
+manggy94 posts big blind 0.02
+Dealt to manggy94 [7h 5s]
+*** PRE-FLOP *** 
+yoannstaff calls 0.02
+IamBLi folds
+Seraph3838 calls 0.01
+manggy94 checks
+*** FLOP *** [5h Qd Jh]
+Seraph3838 checks
+manggy94 bets 0.63
+yoannstaff calls 0.63
+Seraph3838 folds
+*** TURN *** [5h Qd Jh][Ad]
+manggy94 checks
+yoannstaff checks
+*** RIVER *** [5h Qd Jh Ad][Qc]
+manggy94 checks
+yoannstaff checks
+*** SHOW DOWN ***
+manggy94 shows [7h 5s] (Two pairs : Queens and 5)
+yoannstaff shows [5c 8c] (Two pairs : Queens and 5)
+yoannstaff collected 0.62 from pot
+manggy94 collected 0.61 from pot
+*** SUMMARY ***
+Total pot 1.23 | Rake 0.09
+Board: [5h Qd Jh Ad Qc]
+Seat 4: manggy94 (big blind) showed [7h 5s] and won 0.61 with Two pairs : Queens and 5
+Seat 5: yoannstaff showed [5c 8c] and won 0.62 with Two pairs : Queens and 5
+
+

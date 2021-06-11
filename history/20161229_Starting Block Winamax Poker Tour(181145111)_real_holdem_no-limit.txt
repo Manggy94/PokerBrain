@@ -1,0 +1,134 @@
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 1 - HandId: #778012327575289857-1-1483034571 - Holdem no limit (10/20) - 2016/12/29 18:02:51 UTC
+Table: 'Starting Block Winamax Poker Tour(181145111)#0' 10-max (real money) Seat #6 is the button
+Seat 1: Tyzdent (1500)
+Seat 2: Saweed13270 (1500)
+Seat 3: lolito33 (1500)
+Seat 4: petersmiths (1500)
+Seat 5: IDARIS72 (1500)
+Seat 6: fratedu13 (1500)
+Seat 7: Elpolia (1500)
+Seat 8: kalix95 (1500)
+Seat 9: JAQKPOT07_X (1500)
+Seat 10: manggy94 (1500)
+*** ANTE/BLINDS ***
+Elpolia posts small blind 10
+kalix95 posts big blind 20
+Dealt to manggy94 [Js 7c]
+*** PRE-FLOP *** 
+JAQKPOT07_X folds
+manggy94 folds
+Tyzdent calls 20
+Saweed13270 raises 20 to 40
+lolito33 folds
+petersmiths folds
+IDARIS72 calls 40
+fratedu13 calls 40
+Elpolia folds
+kalix95 calls 20
+Tyzdent calls 20
+*** FLOP *** [6d Ac 8c]
+kalix95 checks
+Tyzdent checks
+Saweed13270 checks
+IDARIS72 bets 105
+fratedu13 raises 105 to 210
+kalix95 folds
+Tyzdent folds
+Saweed13270 folds
+IDARIS72 calls 105
+*** TURN *** [6d Ac 8c][Kh]
+IDARIS72 checks
+fratedu13 bets 630
+IDARIS72 calls 630
+*** RIVER *** [6d Ac 8c Kh][7h]
+IDARIS72 checks
+fratedu13 bets 620 and is all-in
+IDARIS72 calls 620 and is all-in
+*** SHOW DOWN ***
+IDARIS72 shows [3h Ad] (One pair : Aces)
+fratedu13 shows [Kc 8h] (Two pairs : Kings and 8)
+fratedu13 collected 3130 from pot
+*** SUMMARY ***
+Total pot 3130 | No rake
+Board: [6d Ac 8c Kh 7h]
+Seat 5: IDARIS72 showed [3h Ad] and lost with One pair : Aces
+Seat 6: fratedu13 (button) showed [Kc 8h] and won 3130 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 1 - HandId: #778012327575289857-2-1483034734 - Holdem no limit (10/20) - 2016/12/29 18:05:34 UTC
+Table: 'Starting Block Winamax Poker Tour(181145111)#0' 10-max (real money) Seat #7 is the button
+Seat 1: Tyzdent (1460)
+Seat 2: Saweed13270 (1460)
+Seat 3: lolito33 (1500)
+Seat 4: petersmiths (1500)
+Seat 6: fratedu13 (3130)
+Seat 7: Elpolia (1490)
+Seat 8: kalix95 (1460)
+Seat 9: JAQKPOT07_X (1500)
+Seat 10: manggy94 (1500)
+*** ANTE/BLINDS ***
+kalix95 posts small blind 10
+JAQKPOT07_X posts big blind 20
+Dealt to manggy94 [Th 7d]
+*** PRE-FLOP *** 
+manggy94 folds
+Tyzdent raises 1440 to 1460 and is all-in
+Saweed13270 calls 1460 and is all-in
+lolito33 folds
+petersmiths folds
+fratedu13 folds
+Elpolia calls 1460
+kalix95 folds
+JAQKPOT07_X folds
+*** FLOP *** [7s 7c 5h]
+*** TURN *** [7s 7c 5h][9d]
+*** RIVER *** [7s 7c 5h 9d][4d]
+*** SHOW DOWN ***
+Tyzdent shows [6d 2d] (One pair : 7)
+Saweed13270 shows [8c Ad] (One pair : 7)
+Elpolia shows [Td Tc] (Two pairs : Tens and 7)
+Elpolia collected 4410 from pot
+*** SUMMARY ***
+Total pot 4410 | No rake
+Board: [7s 7c 5h 9d 4d]
+Seat 1: Tyzdent showed [6d 2d] and lost with One pair : 7
+Seat 2: Saweed13270 showed [8c Ad] and lost with One pair : 7
+Seat 7: Elpolia (button) showed [Td Tc] and won 4410 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: 0€ + 0€ level: 2 - HandId: #778012327575289857-3-1483034779 - Holdem no limit (15/30) - 2016/12/29 18:06:19 UTC
+Table: 'Starting Block Winamax Poker Tour(181145111)#0' 10-max (real money) Seat #8 is the button
+Seat 3: lolito33 (1500)
+Seat 4: petersmiths (1500)
+Seat 6: fratedu13 (3130)
+Seat 7: Elpolia (4440)
+Seat 8: kalix95 (1450)
+Seat 9: JAQKPOT07_X (1480)
+Seat 10: manggy94 (1500)
+*** ANTE/BLINDS ***
+JAQKPOT07_X posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [9h 7c]
+*** PRE-FLOP *** 
+lolito33 folds
+petersmiths folds
+fratedu13 folds
+Elpolia calls 30
+kalix95 folds
+JAQKPOT07_X folds
+manggy94 raises 1470 to 1500 and is all-in
+Elpolia calls 1470
+*** FLOP *** [5h Ks 3h]
+*** TURN *** [5h Ks 3h][8c]
+*** RIVER *** [5h Ks 3h 8c][8d]
+*** SHOW DOWN ***
+manggy94 shows [9h 7c] (One pair : 8)
+Elpolia shows [Qd Kh] (Two pairs : Kings and 8)
+Elpolia collected 3015 from pot
+*** SUMMARY ***
+Total pot 3015 | No rake
+Board: [5h Ks 3h 8c 8d]
+Seat 7: Elpolia showed [Qd Kh] and won 3015 with Two pairs : Kings and 8
+Seat 10: manggy94 (big blind) showed [9h 7c] and lost with One pair : 8
+
+

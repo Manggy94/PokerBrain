@@ -1,0 +1,99 @@
+Winamax Poker - Tournament "Déglingos" buyIn: 1,80€ + 0,20€ level: 3 - HandId: #654770487284465673-29-1459161623 - Holdem no limit (30/60) - 2016/03/28 10:40:23 UTC
+Table: 'Déglingos(152450634)#008' 3-max (real money) Seat #1 is the button
+Seat 1: kiemda76 (570)
+Seat 2: Lamartine89 (1500)
+Seat 3: manggy94 (500)
+*** ANTE/BLINDS ***
+kiemda76 posts small blind 30
+Lamartine89 posts big blind 60
+*** PRE-FLOP *** 
+kiemda76 calls 30
+Lamartine89 raises 60 to 120
+kiemda76 folds
+Lamartine89 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: Lamartine89 (big blind) won 180
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1,80€ + 0,20€ level: 3 - HandId: #654770487284465673-30-1459161636 - Holdem no limit (30/60) - 2016/03/28 10:40:36 UTC
+Table: 'Déglingos(152450634)#008' 3-max (real money) Seat #1 is the button
+Seat 1: kiemda76 (510)
+Seat 2: Lamartine89 (1560)
+Seat 3: manggy94 (500)
+*** ANTE/BLINDS ***
+Lamartine89 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [6s 3h]
+*** PRE-FLOP *** 
+kiemda76 folds
+Lamartine89 folds
+manggy94 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: manggy94 (big blind) won 90
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1,80€ + 0,20€ level: 3 - HandId: #654770487284465673-31-1459161641 - Holdem no limit (30/60) - 2016/03/28 10:40:41 UTC
+Table: 'Déglingos(152450634)#008' 3-max (real money) Seat #2 is the button
+Seat 1: kiemda76 (510)
+Seat 2: Lamartine89 (1530)
+Seat 3: manggy94 (530)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+kiemda76 posts big blind 60
+Dealt to manggy94 [9c Tc]
+*** PRE-FLOP *** 
+Lamartine89 calls 60
+manggy94 calls 30
+kiemda76 raises 450 to 510 and is all-in
+Lamartine89 folds
+manggy94 folds
+kiemda76 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Seat 1: kiemda76 (big blind) won 630
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1,80€ + 0,20€ level: 3 - HandId: #654770487284465667-39-1459161679 - Holdem no limit (30/60) - 2016/03/28 10:41:19 UTC
+Table: 'Déglingos(152450634)#002' 3-max (real money) Seat #2 is the button
+Seat 2: manggy94 (470)
+Seat 3: NANAARRDD (3560)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+NANAARRDD posts big blind 60
+Dealt to manggy94 [2h 4s]
+*** PRE-FLOP *** 
+manggy94 folds
+NANAARRDD collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: NANAARRDD (big blind) won 90
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 1,80€ + 0,20€ level: 3 - HandId: #654770487284465667-40-1459161683 - Holdem no limit (30/60) - 2016/03/28 10:41:23 UTC
+Table: 'Déglingos(152450634)#002' 3-max (real money) Seat #3 is the button
+Seat 2: manggy94 (440)
+Seat 3: NANAARRDD (3590)
+*** ANTE/BLINDS ***
+NANAARRDD posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [Ac 7c]
+*** PRE-FLOP *** 
+NANAARRDD raises 180 to 240
+manggy94 raises 200 to 440 and is all-in
+NANAARRDD calls 200
+*** FLOP *** [Kd Kh 4s]
+*** TURN *** [Kd Kh 4s][8s]
+*** RIVER *** [Kd Kh 4s 8s][5h]
+*** SHOW DOWN ***
+manggy94 shows [Ac 7c] (One pair : Kings)
+NANAARRDD shows [Jh Jd] (Two pairs : Kings and Jacks)
+NANAARRDD collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [Kd Kh 4s 8s 5h]
+Seat 2: manggy94 (big blind) showed [Ac 7c] and lost with One pair : Kings
+Seat 3: NANAARRDD (small blind) (button) showed [Jh Jd] and won 880 with Two pairs : Kings and Jacks
+
+

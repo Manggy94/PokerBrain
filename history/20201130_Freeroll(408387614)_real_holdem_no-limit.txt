@@ -1,0 +1,963 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1754011446221471766-9-1606757709 - Holdem no limit (14/60/120) - 2020/11/30 17:35:09 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #4 is the button
+Seat 1: papy751 (40928)
+Seat 2: spartgame (19716)
+Seat 3: Kencok13 (19666)
+Seat 4: Vynce 47 (40564)
+Seat 5: manggy94 (20000)
+Seat 6: Amine5916 (79126)
+*** ANTE/BLINDS ***
+Amine5916 posts ante 14
+papy751 posts ante 14
+spartgame posts ante 14
+Kencok13 posts ante 14
+Vynce 47 posts ante 14
+Amine5916 posts big blind 120
+*** PRE-FLOP *** 
+papy751 folds
+spartgame folds
+Kencok13 folds
+Vynce 47 calls 120
+Amine5916 checks
+*** FLOP *** [Jd 2c 2h]
+Amine5916 checks
+Vynce 47 checks
+*** TURN *** [Jd 2c 2h][9h]
+Amine5916 checks
+Vynce 47 checks
+*** RIVER *** [Jd 2c 2h 9h][6c]
+Amine5916 checks
+Vynce 47 checks
+*** SHOW DOWN ***
+Vynce 47 shows [3h As] (One pair : 2)
+Amine5916 shows [6s 5s] (Two pairs : 6 and 2)
+Amine5916 collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Board: [Jd 2c 2h 9h 6c]
+Seat 4: Vynce 47 (button) showed [3h As] and lost with One pair : 2
+Seat 6: Amine5916 (big blind) showed [6s 5s] and won 310 with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1754011446221471766-10-1606757731 - Holdem no limit (16/70/140) - 2020/11/30 17:35:31 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #5 is the button
+Seat 1: papy751 (40914)
+Seat 2: spartgame (19702)
+Seat 3: Kencok13 (19652)
+Seat 4: Vynce 47 (40430)
+Seat 5: manggy94 (20000)
+Seat 6: Amine5916 (79302)
+*** ANTE/BLINDS ***
+Amine5916 posts ante 16
+papy751 posts ante 16
+spartgame posts ante 16
+Kencok13 posts ante 16
+Vynce 47 posts ante 16
+Amine5916 posts small blind 70
+papy751 posts big blind 140
+*** PRE-FLOP *** 
+spartgame folds
+Kencok13 folds
+Vynce 47 calls 140
+Amine5916 raises 1620 to 1760
+papy751 folds
+Vynce 47 folds
+Amine5916 collected 2120 from pot
+*** SUMMARY ***
+Total pot 2120 | No rake
+Seat 6: Amine5916 (small blind) won 2120
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1754011446221471766-11-1606757759 - Holdem no limit (16/70/140) - 2020/11/30 17:35:59 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #6 is the button
+Seat 1: papy751 (40758)
+Seat 2: spartgame (19686)
+Seat 3: Kencok13 (19636)
+Seat 4: Vynce 47 (40274)
+Seat 5: manggy94 (20000)
+Seat 6: Amine5916 (79646)
+*** ANTE/BLINDS ***
+papy751 posts ante 16
+spartgame posts ante 16
+Kencok13 posts ante 16
+Vynce 47 posts ante 16
+manggy94 posts ante 16
+Amine5916 posts ante 16
+papy751 posts small blind 70
+spartgame posts big blind 140
+Dealt to manggy94 [3s 4h]
+*** PRE-FLOP *** 
+Kencok13 folds
+Vynce 47 calls 140
+manggy94 folds
+Amine5916 calls 140
+papy751 calls 70
+spartgame checks
+*** FLOP *** [Qd As 6d]
+papy751 checks
+spartgame checks
+Vynce 47 checks
+Amine5916 bets 656
+papy751 folds
+spartgame folds
+Vynce 47 folds
+Amine5916 collected 1312 from pot
+*** SUMMARY ***
+Total pot 1312 | No rake
+Board: [Qd As 6d]
+Seat 6: Amine5916 (button) won 1312
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1754011446221471766-12-1606757817 - Holdem no limit (16/70/140) - 2020/11/30 17:36:57 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #1 is the button
+Seat 1: papy751 (40602)
+Seat 2: spartgame (19530)
+Seat 3: Kencok13 (19620)
+Seat 4: Vynce 47 (40118)
+Seat 5: manggy94 (19984)
+Seat 6: Amine5916 (80146)
+*** ANTE/BLINDS ***
+spartgame posts ante 16
+Kencok13 posts ante 16
+papy751 posts ante 16
+Vynce 47 posts ante 16
+manggy94 posts ante 16
+Amine5916 posts ante 16
+spartgame posts small blind 70
+Kencok13 posts big blind 140
+Dealt to manggy94 [Kc 2s]
+*** PRE-FLOP *** 
+Vynce 47 calls 140
+manggy94 calls 140
+Amine5916 raises 1706 to 1846
+papy751 folds
+spartgame folds
+Kencok13 folds
+Vynce 47 folds
+manggy94 folds
+Amine5916 collected 2432 from pot
+*** SUMMARY ***
+Total pot 2432 | No rake
+Seat 6: Amine5916 won 2432
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1754011446221471766-13-1606757842 - Holdem no limit (16/70/140) - 2020/11/30 17:37:22 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #2 is the button
+Seat 1: papy751 (40586)
+Seat 2: spartgame (19444)
+Seat 3: Kencok13 (19464)
+Seat 4: Vynce 47 (39962)
+Seat 5: manggy94 (19828)
+Seat 6: Amine5916 (80716)
+*** ANTE/BLINDS ***
+Kencok13 posts ante 16
+Vynce 47 posts ante 16
+papy751 posts ante 16
+spartgame posts ante 16
+manggy94 posts ante 16
+Amine5916 posts ante 16
+Kencok13 posts small blind 70
+Vynce 47 posts big blind 140
+Dealt to manggy94 [3d 7c]
+*** PRE-FLOP *** 
+manggy94 folds
+Amine5916 folds
+papy751 folds
+spartgame folds
+Kencok13 folds
+Vynce 47 collected 306 from pot
+*** SUMMARY ***
+Total pot 306 | No rake
+Seat 4: Vynce 47 (big blind) won 306
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1754011446221471766-14-1606757850 - Holdem no limit (16/70/140) - 2020/11/30 17:37:30 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #3 is the button
+Seat 1: papy751 (40570)
+Seat 2: spartgame (19428)
+Seat 3: Kencok13 (19378)
+Seat 4: Vynce 47 (40112)
+Seat 5: manggy94 (19812)
+Seat 6: Amine5916 (80700)
+*** ANTE/BLINDS ***
+Vynce 47 posts ante 16
+manggy94 posts ante 16
+papy751 posts ante 16
+spartgame posts ante 16
+Kencok13 posts ante 16
+Amine5916 posts ante 16
+Vynce 47 posts small blind 70
+manggy94 posts big blind 140
+Dealt to manggy94 [5d 7h]
+*** PRE-FLOP *** 
+Amine5916 raises 80544 to 80684 and is all-in
+papy751 folds
+spartgame folds
+Kencok13 folds
+Vynce 47 folds
+manggy94 folds
+Amine5916 collected 80990 from pot
+*** SUMMARY ***
+Total pot 80990 | No rake
+Seat 6: Amine5916 won 80990
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1754011446221471766-15-1606757862 - Holdem no limit (16/70/140) - 2020/11/30 17:37:42 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #4 is the button
+Seat 1: papy751 (40554)
+Seat 2: spartgame (19412)
+Seat 3: Kencok13 (19362)
+Seat 4: Vynce 47 (40026)
+Seat 5: manggy94 (19656)
+Seat 6: Amine5916 (80990)
+*** ANTE/BLINDS ***
+manggy94 posts ante 16
+Amine5916 posts ante 16
+papy751 posts ante 16
+spartgame posts ante 16
+Kencok13 posts ante 16
+Vynce 47 posts ante 16
+manggy94 posts small blind 70
+Amine5916 posts big blind 140
+Dealt to manggy94 [Js 4d]
+*** PRE-FLOP *** 
+papy751 calls 140
+spartgame folds
+Kencok13 folds
+Vynce 47 calls 140
+manggy94 folds
+Amine5916 raises 586 to 726
+papy751 calls 586
+Vynce 47 calls 586
+*** FLOP *** [Td Ah 3d]
+Amine5916 bets 2344
+papy751 raises 37468 to 39812 and is all-in
+Vynce 47 calls 39284 and is all-in
+Amine5916 folds
+*** TURN *** [Td Ah 3d][Kh]
+*** RIVER *** [Td Ah 3d Kh][7h]
+*** SHOW DOWN ***
+Vynce 47 shows [9d Ad] (One pair : Aces)
+papy751 shows [As Qh] (One pair : Aces)
+papy751 collected 83784 from pot
+*** SUMMARY ***
+Total pot 83784 | No rake
+Board: [Td Ah 3d Kh 7h]
+Seat 1: papy751 showed [As Qh] and won 83784 with One pair : Aces
+Seat 4: Vynce 47 (button) showed [9d Ad] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1754011446221471766-16-1606757905 - Holdem no limit (20/80/160) - 2020/11/30 17:38:25 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #5 is the button
+Seat 1: papy751 (83784)
+Seat 2: spartgame (19396)
+Seat 3: Kencok13 (19346)
+Seat 4: Lebans34080 (20000)
+Seat 5: manggy94 (19570)
+Seat 6: Amine5916 (77904)
+*** ANTE/BLINDS ***
+Amine5916 posts ante 20
+papy751 posts ante 20
+spartgame posts ante 20
+Kencok13 posts ante 20
+Lebans34080 posts ante 20
+manggy94 posts ante 20
+Amine5916 posts small blind 80
+papy751 posts big blind 160
+Dealt to manggy94 [8s 3c]
+*** PRE-FLOP *** 
+spartgame folds
+Kencok13 folds
+Lebans34080 raises 160 to 320
+manggy94 folds
+Amine5916 calls 240
+papy751 calls 160
+*** FLOP *** [2s 3s Qh]
+Amine5916 checks
+papy751 checks
+Lebans34080 bets 540
+Amine5916 folds
+papy751 folds
+Lebans34080 collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | No rake
+Board: [2s 3s Qh]
+Seat 4: Lebans34080 won 1620
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1754011446221471766-17-1606757927 - Holdem no limit (20/80/160) - 2020/11/30 17:38:47 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #6 is the button
+Seat 1: papy751 (83444)
+Seat 2: spartgame (19376)
+Seat 3: Kencok13 (19326)
+Seat 4: Lebans34080 (20740)
+Seat 5: manggy94 (19550)
+Seat 6: Amine5916 (77564)
+*** ANTE/BLINDS ***
+papy751 posts ante 20
+spartgame posts ante 20
+Kencok13 posts ante 20
+Lebans34080 posts ante 20
+manggy94 posts ante 20
+Amine5916 posts ante 20
+papy751 posts small blind 80
+spartgame posts big blind 160
+Dealt to manggy94 [Tc 7h]
+*** PRE-FLOP *** 
+Kencok13 folds
+Lebans34080 calls 160
+manggy94 folds
+Amine5916 calls 160
+papy751 folds
+spartgame checks
+*** FLOP *** [3h 7c 9s]
+spartgame checks
+Lebans34080 checks
+Amine5916 checks
+*** TURN *** [3h 7c 9s][4s]
+spartgame checks
+Lebans34080 checks
+Amine5916 checks
+*** RIVER *** [3h 7c 9s 4s][Kc]
+spartgame checks
+Lebans34080 checks
+Amine5916 bets 680
+spartgame folds
+Lebans34080 folds
+Amine5916 collected 1360 from pot
+*** SUMMARY ***
+Total pot 1360 | No rake
+Board: [3h 7c 9s 4s Kc]
+Seat 6: Amine5916 (button) won 1360
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1754011446221471766-18-1606757977 - Holdem no limit (20/80/160) - 2020/11/30 17:39:37 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #1 is the button
+Seat 1: papy751 (83344)
+Seat 2: spartgame (19196)
+Seat 3: Kencok13 (19306)
+Seat 4: Lebans34080 (20560)
+Seat 5: manggy94 (19530)
+Seat 6: Amine5916 (78064)
+*** ANTE/BLINDS ***
+spartgame posts ante 20
+Kencok13 posts ante 20
+papy751 posts ante 20
+Lebans34080 posts ante 20
+manggy94 posts ante 20
+Amine5916 posts ante 20
+spartgame posts small blind 80
+Kencok13 posts big blind 160
+Dealt to manggy94 [4h 9s]
+*** PRE-FLOP *** 
+Lebans34080 calls 160
+manggy94 folds
+Amine5916 raises 680 to 840
+papy751 calls 840
+spartgame folds
+Kencok13 folds
+Lebans34080 calls 680
+*** FLOP *** [3s Qs 2h]
+Lebans34080 checks
+Amine5916 bets 2880
+papy751 folds
+Lebans34080 calls 2880
+*** TURN *** [3s Qs 2h][2d]
+Lebans34080 checks
+Amine5916 bets 74324 and is all-in
+Lebans34080 folds
+Amine5916 collected 82964 from pot
+*** SUMMARY ***
+Total pot 82964 | No rake
+Board: [3s Qs 2h 2d]
+Seat 6: Amine5916 won 82964
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1754011446221471766-19-1606758014 - Holdem no limit (20/80/160) - 2020/11/30 17:40:14 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #2 is the button
+Seat 1: papy751 (82484)
+Seat 2: spartgame (19096)
+Seat 3: Kencok13 (19126)
+Seat 4: Lebans34080 (16820)
+Seat 5: manggy94 (19510)
+Seat 6: Amine5916 (82964)
+*** ANTE/BLINDS ***
+Kencok13 posts ante 20
+Lebans34080 posts ante 20
+papy751 posts ante 20
+spartgame posts ante 20
+manggy94 posts ante 20
+Amine5916 posts ante 20
+Kencok13 posts small blind 80
+Lebans34080 posts big blind 160
+Dealt to manggy94 [7s 8s]
+*** PRE-FLOP *** 
+manggy94 raises 160 to 320
+Amine5916 folds
+papy751 folds
+spartgame folds
+Kencok13 folds
+Lebans34080 calls 160
+*** FLOP *** [Ac 6c Tc]
+Lebans34080 checks
+manggy94 bets 420
+Lebans34080 folds
+manggy94 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Board: [Ac 6c Tc]
+Seat 5: manggy94 won 1260
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1754011446221471766-20-1606758034 - Holdem no limit (25/100/200) - 2020/11/30 17:40:34 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #3 is the button
+Seat 1: papy751 (82464)
+Seat 2: spartgame (19076)
+Seat 3: Kencok13 (19026)
+Seat 4: Lebans34080 (16480)
+Seat 5: manggy94 (20010)
+Seat 6: Amine5916 (82944)
+*** ANTE/BLINDS ***
+Lebans34080 posts ante 25
+manggy94 posts ante 25
+papy751 posts ante 25
+spartgame posts ante 25
+Kencok13 posts ante 25
+Amine5916 posts ante 25
+Lebans34080 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [Ah 7c]
+*** PRE-FLOP *** 
+Amine5916 raises 1050 to 1250
+papy751 folds
+spartgame folds
+Kencok13 folds
+Lebans34080 raises 15205 to 16455 and is all-in
+manggy94 folds
+Amine5916 calls 15205
+*** FLOP *** [Ac 7h 6c]
+*** TURN *** [Ac 7h 6c][Ts]
+*** RIVER *** [Ac 7h 6c Ts][Ad]
+*** SHOW DOWN ***
+Lebans34080 shows [Jd Qc] (One pair : Aces)
+Amine5916 shows [Kd Ks] (Two pairs : Aces and Kings)
+Amine5916 collected 33260 from pot
+*** SUMMARY ***
+Total pot 33260 | No rake
+Board: [Ac 7h 6c Ts Ad]
+Seat 4: Lebans34080 (small blind) showed [Jd Qc] and lost with One pair : Aces
+Seat 6: Amine5916 showed [Kd Ks] and won 33260 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1754011446221471766-21-1606758062 - Holdem no limit (25/100/200) - 2020/11/30 17:41:02 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #4 is the button
+Seat 1: papy751 (82439)
+Seat 2: spartgame (19051)
+Seat 3: Kencok13 (19001)
+Seat 5: manggy94 (19785)
+Seat 6: Amine5916 (99724)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+Amine5916 posts ante 25
+papy751 posts ante 25
+spartgame posts ante 25
+Kencok13 posts ante 25
+manggy94 posts small blind 100
+Amine5916 posts big blind 200
+Dealt to manggy94 [2h 6d]
+*** PRE-FLOP *** 
+papy751 folds
+spartgame folds
+Kencok13 folds
+manggy94 raises 200 to 400
+Amine5916 folds
+manggy94 collected 725 from pot
+*** SUMMARY ***
+Total pot 725 | No rake
+Seat 5: manggy94 (small blind) won 725
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1754011446221471766-22-1606758075 - Holdem no limit (25/100/200) - 2020/11/30 17:41:15 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #5 is the button
+Seat 1: papy751 (82414)
+Seat 2: spartgame (19026)
+Seat 3: Kencok13 (18976)
+Seat 5: manggy94 (20085)
+Seat 6: Amine5916 (99499)
+*** ANTE/BLINDS ***
+Amine5916 posts ante 25
+papy751 posts ante 25
+spartgame posts ante 25
+Kencok13 posts ante 25
+manggy94 posts ante 25
+Amine5916 posts small blind 100
+papy751 posts big blind 200
+Dealt to manggy94 [6c 5d]
+*** PRE-FLOP *** 
+spartgame folds
+Kencok13 calls 200
+manggy94 folds
+Amine5916 calls 100
+papy751 checks
+*** FLOP *** [Jc 9d 3c]
+Amine5916 checks
+papy751 checks
+Kencok13 checks
+*** TURN *** [Jc 9d 3c][5c]
+Amine5916 bets 200
+papy751 calls 200
+Kencok13 calls 200
+*** RIVER *** [Jc 9d 3c 5c][4s]
+Amine5916 bets 200
+papy751 calls 200
+Kencok13 folds
+*** SHOW DOWN ***
+Amine5916 shows [2h 5s] (One pair : 5)
+papy751 shows [Kh 9c] (One pair : 9)
+papy751 collected 1725 from pot
+*** SUMMARY ***
+Total pot 1725 | No rake
+Board: [Jc 9d 3c 5c 4s]
+Seat 1: papy751 (big blind) showed [Kh 9c] and won 1725 with One pair : 9
+Seat 6: Amine5916 (small blind) showed [2h 5s] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1754011446221471766-23-1606758113 - Holdem no limit (25/100/200) - 2020/11/30 17:41:53 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #6 is the button
+Seat 1: papy751 (83514)
+Seat 2: spartgame (19001)
+Seat 3: Kencok13 (18551)
+Seat 4: Cipri69 (20000)
+Seat 5: manggy94 (20060)
+Seat 6: Amine5916 (98874)
+*** ANTE/BLINDS ***
+papy751 posts ante 25
+spartgame posts ante 25
+Kencok13 posts ante 25
+Cipri69 posts ante 25
+manggy94 posts ante 25
+Amine5916 posts ante 25
+papy751 posts small blind 100
+spartgame posts big blind 200
+Dealt to manggy94 [Jh 2d]
+*** PRE-FLOP *** 
+Kencok13 folds
+Cipri69 calls 200
+manggy94 folds
+Amine5916 folds
+papy751 calls 100
+spartgame checks
+*** FLOP *** [4h 9s 7s]
+papy751 checks
+spartgame checks
+Cipri69 checks
+*** TURN *** [4h 9s 7s][4d]
+papy751 checks
+spartgame checks
+Cipri69 checks
+*** RIVER *** [4h 9s 7s 4d][6c]
+papy751 checks
+spartgame checks
+Cipri69 bets 750
+papy751 folds
+spartgame folds
+Cipri69 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [4h 9s 7s 4d 6c]
+Seat 4: Cipri69 won 1500
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1754011446221471766-24-1606758160 - Holdem no limit (25/100/200) - 2020/11/30 17:42:40 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #1 is the button
+Seat 1: papy751 (83289)
+Seat 2: spartgame (18776)
+Seat 3: Kencok13 (18526)
+Seat 4: Cipri69 (20525)
+Seat 5: manggy94 (20035)
+Seat 6: Amine5916 (98849)
+*** ANTE/BLINDS ***
+spartgame posts ante 25
+Kencok13 posts ante 25
+papy751 posts ante 25
+Cipri69 posts ante 25
+manggy94 posts ante 25
+Amine5916 posts ante 25
+spartgame posts small blind 100
+Kencok13 posts big blind 200
+Dealt to manggy94 [Qs Qh]
+*** PRE-FLOP *** 
+Cipri69 raises 850 to 1050
+manggy94 calls 1050
+Amine5916 calls 1050
+papy751 folds
+spartgame folds
+Kencok13 folds
+*** FLOP *** [5d Ac 3h]
+Cipri69 bets 1800
+manggy94 calls 1800
+Amine5916 calls 1800
+*** TURN *** [5d Ac 3h][5c]
+Cipri69 bets 800
+manggy94 calls 800
+Amine5916 calls 800
+*** RIVER *** [5d Ac 3h 5c][9s]
+Cipri69 checks
+manggy94 checks
+Amine5916 bets 11400
+Cipri69 folds
+manggy94 folds
+Amine5916 collected 22800 from pot
+*** SUMMARY ***
+Total pot 22800 | No rake
+Board: [5d Ac 3h 5c 9s]
+Seat 6: Amine5916 won 22800
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1754011446221471766-25-1606758215 - Holdem no limit (30/125/250) - 2020/11/30 17:43:35 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #2 is the button
+Seat 1: papy751 (83264)
+Seat 2: spartgame (18651)
+Seat 3: Kencok13 (18301)
+Seat 4: Cipri69 (16850)
+Seat 5: manggy94 (16360)
+Seat 6: Amine5916 (106574)
+*** ANTE/BLINDS ***
+Kencok13 posts ante 30
+Cipri69 posts ante 30
+papy751 posts ante 30
+spartgame posts ante 30
+manggy94 posts ante 30
+Amine5916 posts ante 30
+Kencok13 posts small blind 125
+Cipri69 posts big blind 250
+Dealt to manggy94 [7h Td]
+*** PRE-FLOP *** 
+manggy94 folds
+Amine5916 raises 805 to 1055
+papy751 folds
+spartgame raises 805 to 1860
+Kencok13 folds
+Cipri69 raises 4742 to 6602
+Amine5916 folds
+spartgame calls 4742
+*** FLOP *** [5s 6h 9h]
+Cipri69 checks
+spartgame checks
+*** TURN *** [5s 6h 9h][Ts]
+Cipri69 bets 10218 and is all-in
+spartgame raises 1801 to 12019 and is all-in
+*** RIVER *** [5s 6h 9h Ts][3s]
+*** SHOW DOWN ***
+spartgame shows [3d As] (One pair : 3)
+Cipri69 shows [6c 6s] (Trips of 6)
+Cipri69 collected 35000 from main pot
+spartgame collected 1801 from side pot 1
+*** SUMMARY ***
+Total pot 36801 | No rake
+Board: [5s 6h 9h Ts 3s]
+Seat 2: spartgame (button) showed [3d As] and won 1801 with One pair : 3
+Seat 4: Cipri69 (big blind) showed [6c 6s] and won 35000 with Trips of 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1754011446221471766-26-1606758284 - Holdem no limit (30/125/250) - 2020/11/30 17:44:44 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #3 is the button
+Seat 1: papy751 (83234)
+Seat 2: spartgame (1801)
+Seat 3: Kencok13 (18146)
+Seat 4: Cipri69 (35000)
+Seat 5: manggy94 (16330)
+Seat 6: Amine5916 (105489)
+*** ANTE/BLINDS ***
+Cipri69 posts ante 30
+manggy94 posts ante 30
+papy751 posts ante 30
+spartgame posts ante 30
+Kencok13 posts ante 30
+Amine5916 posts ante 30
+Cipri69 posts small blind 125
+manggy94 posts big blind 250
+Dealt to manggy94 [2c 9s]
+*** PRE-FLOP *** 
+Amine5916 calls 250
+papy751 folds
+spartgame folds
+Kencok13 calls 250
+Cipri69 calls 125
+manggy94 checks
+*** FLOP *** [Jc 7h 6h]
+Cipri69 checks
+manggy94 checks
+Amine5916 bets 500
+Kencok13 calls 500
+Cipri69 folds
+manggy94 folds
+*** TURN *** [Jc 7h 6h][4s]
+Amine5916 bets 625
+Kencok13 calls 625
+*** RIVER *** [Jc 7h 6h 4s][3h]
+Amine5916 bets 750
+Kencok13 calls 750
+*** SHOW DOWN ***
+Kencok13 shows [Qd 7d] (One pair : 7)
+Amine5916 shows [Jd 2d] (One pair : Jacks)
+Amine5916 collected 4930 from pot
+*** SUMMARY ***
+Total pot 4930 | No rake
+Board: [Jc 7h 6h 4s 3h]
+Seat 3: Kencok13 (button) showed [Qd 7d] and lost with One pair : 7
+Seat 6: Amine5916 showed [Jd 2d] and won 4930 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1754011446221471766-27-1606758326 - Holdem no limit (30/125/250) - 2020/11/30 17:45:26 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #4 is the button
+Seat 1: papy751 (83204)
+Seat 2: spartgame (1771)
+Seat 3: Kencok13 (15991)
+Seat 4: Cipri69 (34720)
+Seat 5: manggy94 (16050)
+Seat 6: Amine5916 (108264)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+Amine5916 posts ante 30
+papy751 posts ante 30
+spartgame posts ante 30
+Kencok13 posts ante 30
+Cipri69 posts ante 30
+manggy94 posts small blind 125
+Amine5916 posts big blind 250
+Dealt to manggy94 [Qs Kd]
+*** PRE-FLOP *** 
+papy751 folds
+spartgame folds
+Kencok13 calls 250
+Cipri69 calls 250
+manggy94 raises 750 to 1000
+Amine5916 folds
+Kencok13 calls 750
+Cipri69 calls 750
+*** FLOP *** [3d 8s Ac]
+manggy94 bets 1715
+Kencok13 calls 1715
+Cipri69 folds
+*** TURN *** [3d 8s Ac][Ts]
+manggy94 checks
+Kencok13 checks
+*** RIVER *** [3d 8s Ac Ts][3h]
+manggy94 checks
+Kencok13 bets 3430
+manggy94 folds
+Kencok13 collected 10290 from pot
+*** SUMMARY ***
+Total pot 10290 | No rake
+Board: [3d 8s Ac Ts 3h]
+Seat 3: Kencok13 won 10290
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1754011446221471766-28-1606758361 - Holdem no limit (35/150/300) - 2020/11/30 17:46:01 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #5 is the button
+Seat 1: papy751 (83174)
+Seat 2: spartgame (1741)
+Seat 3: Kencok13 (20106)
+Seat 4: Cipri69 (33690)
+Seat 5: manggy94 (13305)
+Seat 6: Amine5916 (107984)
+*** ANTE/BLINDS ***
+Amine5916 posts ante 35
+papy751 posts ante 35
+spartgame posts ante 35
+Kencok13 posts ante 35
+Cipri69 posts ante 35
+manggy94 posts ante 35
+Amine5916 posts small blind 150
+papy751 posts big blind 300
+Dealt to manggy94 [Qh 2c]
+*** PRE-FLOP *** 
+spartgame folds
+Kencok13 calls 300
+Cipri69 calls 300
+manggy94 folds
+Amine5916 raises 1860 to 2160
+papy751 calls 1860
+Kencok13 calls 1860
+Cipri69 calls 1860
+*** FLOP *** [Js 6h Ad]
+Amine5916 checks
+papy751 checks
+Kencok13 checks
+Cipri69 bets 31495 and is all-in
+Amine5916 calls 31495
+papy751 calls 31495
+Kencok13 folds
+*** TURN *** [Js 6h Ad][Qd]
+Amine5916 bets 74294 and is all-in
+papy751 calls 49484 and is all-in
+*** RIVER *** [Js 6h Ad Qd][9h]
+*** SHOW DOWN ***
+papy751 shows [Ac 8c] (One pair : Aces)
+Cipri69 shows [3d As] (One pair : Aces)
+Amine5916 shows [Ah Jh] (Two pairs : Aces and Jacks)
+Amine5916 collected 227113 from pot
+*** SUMMARY ***
+Total pot 227113 | No rake
+Board: [Js 6h Ad Qd 9h]
+Seat 1: papy751 (big blind) showed [Ac 8c] and lost with One pair : Aces
+Seat 4: Cipri69 showed [3d As] and lost with One pair : Aces
+Seat 6: Amine5916 (small blind) showed [Ah Jh] and won 227113 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1754011446221471766-29-1606758413 - Holdem no limit (35/150/300) - 2020/11/30 17:46:53 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #6 is the button
+Seat 2: spartgame (1706)
+Seat 3: Kencok13 (17911)
+Seat 5: manggy94 (13270)
+Seat 6: Amine5916 (227113)
+*** ANTE/BLINDS ***
+spartgame posts ante 35
+Kencok13 posts ante 35
+manggy94 posts ante 35
+Amine5916 posts ante 35
+spartgame posts big blind 300
+Dealt to manggy94 [3d 9d]
+*** PRE-FLOP *** 
+Kencok13 raises 300 to 600
+manggy94 folds
+Amine5916 calls 600
+spartgame calls 300
+*** FLOP *** [9h 4s 9s]
+spartgame checks
+Kencok13 bets 1940
+Amine5916 calls 1940
+spartgame folds
+*** TURN *** [9h 4s 9s][Kd]
+Kencok13 bets 5820
+Amine5916 folds
+Kencok13 collected 11640 from pot
+*** SUMMARY ***
+Total pot 11640 | No rake
+Board: [9h 4s 9s Kd]
+Seat 3: Kencok13 won 11640
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1754011446221471766-30-1606758449 - Holdem no limit (35/150/300) - 2020/11/30 17:47:29 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #1 is the button
+Seat 1: kaloute (20000)
+Seat 2: spartgame (1071)
+Seat 3: Kencok13 (21156)
+Seat 4: lilyl (20000)
+Seat 5: manggy94 (13235)
+Seat 6: Amine5916 (224538)
+*** ANTE/BLINDS ***
+spartgame posts ante 35
+Kencok13 posts ante 35
+lilyl posts ante 35
+manggy94 posts ante 35
+Amine5916 posts ante 35
+spartgame posts small blind 150
+Kencok13 posts big blind 300
+Dealt to manggy94 [8d As]
+*** PRE-FLOP *** 
+lilyl folds
+manggy94 raises 12900 to 13200 and is all-in
+Amine5916 folds
+spartgame folds
+Kencok13 folds
+manggy94 collected 13825 from pot
+*** SUMMARY ***
+Total pot 13825 | No rake
+Seat 5: manggy94 won 13825
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1754011446221471766-31-1606758462 - Holdem no limit (35/150/300) - 2020/11/30 17:47:42 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #2 is the button
+Seat 1: kaloute (20000)
+Seat 2: spartgame (886)
+Seat 3: Kencok13 (20821)
+Seat 4: lilyl (19965)
+Seat 5: manggy94 (13825)
+Seat 6: Amine5916 (224503)
+*** ANTE/BLINDS ***
+Kencok13 posts ante 35
+lilyl posts ante 35
+kaloute posts ante 35
+spartgame posts ante 35
+manggy94 posts ante 35
+Amine5916 posts ante 35
+Kencok13 posts small blind 150
+lilyl posts big blind 300
+Dealt to manggy94 [9s Jd]
+*** PRE-FLOP *** 
+manggy94 folds
+Amine5916 calls 300
+kaloute calls 300
+spartgame folds
+Kencok13 calls 150
+lilyl checks
+*** FLOP *** [2s Qd As]
+Kencok13 checks
+lilyl checks
+Amine5916 checks
+kaloute checks
+*** TURN *** [2s Qd As][3s]
+Kencok13 checks
+lilyl checks
+Amine5916 checks
+kaloute checks
+*** RIVER *** [2s Qd As 3s][Ad]
+Kencok13 checks
+lilyl bets 300
+Amine5916 folds
+kaloute folds
+Kencok13 folds
+lilyl collected 1710 from pot
+*** SUMMARY ***
+Total pot 1710 | No rake
+Board: [2s Qd As 3s Ad]
+Seat 4: lilyl (big blind) won 1710
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #1754011446221471766-32-1606758552 - Holdem no limit (40/175/350) - 2020/11/30 17:49:12 UTC
+Table: 'Freeroll(408387614)#0021' 6-max (real money) Seat #3 is the button
+Seat 1: kaloute (19665)
+Seat 2: spartgame (851)
+Seat 3: Kencok13 (20486)
+Seat 4: lilyl (21040)
+Seat 5: manggy94 (13790)
+Seat 6: Amine5916 (224168)
+*** ANTE/BLINDS ***
+lilyl posts ante 40
+manggy94 posts ante 40
+kaloute posts ante 40
+spartgame posts ante 40
+Kencok13 posts ante 40
+Amine5916 posts ante 40
+lilyl posts small blind 175
+manggy94 posts big blind 350
+Dealt to manggy94 [Tc 7d]
+*** PRE-FLOP *** 
+Amine5916 folds
+kaloute calls 350
+spartgame raises 461 to 811 and is all-in
+Kencok13 folds
+lilyl folds
+manggy94 calls 461
+kaloute calls 461
+*** FLOP *** [9h 2h 8d]
+manggy94 bets 875
+kaloute raises 17939 to 18814 and is all-in
+manggy94 calls 12064 and is all-in
+*** TURN *** [9h 2h 8d][9s]
+*** RIVER *** [9h 2h 8d 9s][3c]
+*** SHOW DOWN ***
+spartgame shows [6h Kh] (One pair : 9)
+manggy94 shows [Tc 7d] (One pair : 9)
+kaloute shows [9d Ad] (Trips of 9)
+kaloute collected 34601 from pot
+*** SUMMARY ***
+Total pot 34601 | No rake
+Board: [9h 2h 8d 9s 3c]
+Seat 1: kaloute showed [9d Ad] and won 34601 with Trips of 9
+Seat 2: spartgame showed [6h Kh] and lost with One pair : 9
+Seat 5: manggy94 (big blind) showed [Tc 7d] and lost with One pair : 9
+
+

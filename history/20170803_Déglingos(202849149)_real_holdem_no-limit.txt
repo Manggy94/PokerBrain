@@ -1,0 +1,35 @@
+Winamax Poker - Tournament "Déglingos" buyIn: 2.70€ + 0.30€ level: 5 - HandId: #871230460976431107-84-1501766570 - Holdem no limit (10/40/80) - 2017/08/03 13:22:50 UTC
+Table: 'Déglingos(202849149)#002' 3-max (real money) Seat #1 is the button
+Seat 1: BobyKerpo (2237)
+Seat 2: -MbAP3FtW- (2721)
+Seat 3: manggy94 (500)
+*** ANTE/BLINDS ***
+-MbAP3FtW- posts ante 10
+manggy94 posts ante 10
+BobyKerpo posts ante 10
+-MbAP3FtW- posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [Ad Qc]
+*** PRE-FLOP *** 
+BobyKerpo calls 80
+-MbAP3FtW- folds
+manggy94 raises 230 to 310
+BobyKerpo calls 230
+*** FLOP *** [Ah 4c Kd]
+manggy94 checks
+BobyKerpo checks
+*** TURN *** [Ah 4c Kd][Ts]
+manggy94 bets 180 and is all-in
+BobyKerpo calls 180
+*** RIVER *** [Ah 4c Kd Ts][2h]
+*** SHOW DOWN ***
+manggy94 shows [Ad Qc] (One pair : Aces)
+BobyKerpo shows [Kc 2c] (Two pairs : Kings and 2)
+BobyKerpo collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [Ah 4c Kd Ts 2h]
+Seat 1: BobyKerpo (button) showed [Kc 2c] and won 1050 with Two pairs : Kings and 2
+Seat 3: manggy94 (big blind) showed [Ad Qc] and lost with One pair : Aces
+
+

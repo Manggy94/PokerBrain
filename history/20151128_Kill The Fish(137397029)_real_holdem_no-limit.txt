@@ -1,0 +1,879 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 5 - HandId: #590115746122563618-1-1448722142 - Holdem no limit (25/150/300) - 2015/11/28 14:49:02 UTC
+Table: 'Kill The Fish(137397029)#033' 8-max (real money) Seat #3 is the button
+Seat 1: axel88100 (10000)
+Seat 2: Joc30190 (10000)
+Seat 3: Cassegrain75 (10000)
+Seat 5: manggy94 (10000)
+Seat 6: ste better (10000)
+Seat 7: pokk30 (10000)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+ste better posts ante 25
+axel88100 posts ante 25
+Joc30190 posts ante 25
+Cassegrain75 posts ante 25
+manggy94 posts small blind 150
+ste better posts big blind 300
+Dealt to manggy94 [4d Js]
+*** PRE-FLOP *** 
+axel88100 raises 300 to 600
+Joc30190 folds
+Cassegrain75 calls 600
+manggy94 folds
+ste better calls 300
+*** FLOP *** [2c Jd 5h]
+ste better checks
+axel88100 bets 900
+Cassegrain75 calls 900
+ste better folds
+*** TURN *** [2c Jd 5h][3h]
+axel88100 bets 2250
+Cassegrain75 folds
+axel88100 collected 6125 from pot
+*** SUMMARY ***
+Total pot 6125 | No rake
+Board: [2c Jd 5h 3h]
+Seat 1: axel88100 won 6125
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 5 - HandId: #590115746122563618-2-1448722183 - Holdem no limit (25/150/300) - 2015/11/28 14:49:43 UTC
+Table: 'Kill The Fish(137397029)#033' 8-max (real money) Seat #5 is the button
+Seat 1: axel88100 (12350)
+Seat 2: Joc30190 (9975)
+Seat 3: Cassegrain75 (8475)
+Seat 4: kak47 (10000)
+Seat 5: manggy94 (9825)
+Seat 6: ste better (9375)
+Seat 7: pokk30 (10000)
+*** ANTE/BLINDS ***
+ste better posts ante 25
+pokk30 posts ante 25
+axel88100 posts ante 25
+Joc30190 posts ante 25
+Cassegrain75 posts ante 25
+kak47 posts ante 25
+manggy94 posts ante 25
+ste better posts small blind 150
+pokk30 posts big blind 300
+Dealt to manggy94 [5d 2h]
+*** PRE-FLOP *** 
+axel88100 calls 300
+Joc30190 folds
+Cassegrain75 calls 300
+kak47 folds
+manggy94 folds
+ste better folds
+pokk30 checks
+*** FLOP *** [4d 3d Kc]
+pokk30 checks
+axel88100 checks
+Cassegrain75 checks
+*** TURN *** [4d 3d Kc][2c]
+pokk30 checks
+axel88100 checks
+Cassegrain75 checks
+*** RIVER *** [4d 3d Kc 2c][Th]
+pokk30 bets 613
+axel88100 calls 613
+Cassegrain75 folds
+*** SHOW DOWN ***
+pokk30 shows [8s Td] (One pair : Tens)
+axel88100 shows [Qs Tc] (One pair : Tens)
+axel88100 collected 2451 from pot
+*** SUMMARY ***
+Total pot 2451 | No rake
+Board: [4d 3d Kc 2c Th]
+Seat 1: axel88100 showed [Qs Tc] and won 2451 with One pair : Tens
+Seat 7: pokk30 (big blind) showed [8s Td] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 5 - HandId: #590115746122563618-3-1448722239 - Holdem no limit (25/150/300) - 2015/11/28 14:50:39 UTC
+Table: 'Kill The Fish(137397029)#033' 8-max (real money) Seat #6 is the button
+Seat 2: Joc30190 (9950)
+Seat 3: Cassegrain75 (8150)
+Seat 4: kak47 (9975)
+Seat 5: manggy94 (9800)
+Seat 6: ste better (9200)
+Seat 7: pokk30 (9062)
+Seat 8: Nan3nb4uer (10000)
+*** ANTE/BLINDS ***
+pokk30 posts ante 25
+Nan3nb4uer posts ante 25
+Joc30190 posts ante 25
+Cassegrain75 posts ante 25
+kak47 posts ante 25
+manggy94 posts ante 25
+ste better posts ante 25
+pokk30 posts small blind 150
+Nan3nb4uer posts big blind 300
+Dealt to manggy94 [Qd 3h]
+*** PRE-FLOP *** 
+Joc30190 folds
+Cassegrain75 raises 300 to 600
+kak47 calls 600
+manggy94 folds
+ste better raises 1350 to 1950
+pokk30 calls 1800
+Nan3nb4uer folds
+Cassegrain75 folds
+kak47 calls 1350
+*** FLOP *** [2d 4s Ad]
+pokk30 checks
+kak47 checks
+ste better bets 3613
+pokk30 raises 3474 to 7087 and is all-in
+kak47 folds
+ste better calls 3474
+*** TURN *** [2d 4s Ad][Qc]
+*** RIVER *** [2d 4s Ad Qc][2s]
+*** SHOW DOWN ***
+ste better shows [Ah Jd] (Two pairs : Aces and 2)
+pokk30 shows [4h 4d] (Full of 4 and 2)
+pokk30 collected 21099 from pot
+*** SUMMARY ***
+Total pot 21099 | No rake
+Board: [2d 4s Ad Qc 2s]
+Seat 6: ste better (button) showed [Ah Jd] and lost with Two pairs : Aces and 2
+Seat 7: pokk30 (small blind) showed [4h 4d] and won 21099 with Full of 4 and 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #590115746122563618-4-1448722292 - Holdem no limit (30/200/400) - 2015/11/28 14:51:32 UTC
+Table: 'Kill The Fish(137397029)#033' 8-max (real money) Seat #7 is the button
+Seat 1: pinhas374 (10000)
+Seat 3: Cassegrain75 (7525)
+Seat 4: kak47 (8000)
+Seat 5: manggy94 (9775)
+Seat 6: ste better (138)
+Seat 7: pokk30 (21099)
+Seat 8: Nan3nb4uer (9675)
+*** ANTE/BLINDS ***
+Nan3nb4uer posts ante 30
+pinhas374 posts ante 30
+Cassegrain75 posts ante 30
+kak47 posts ante 30
+manggy94 posts ante 30
+ste better posts ante 30
+pokk30 posts ante 30
+Nan3nb4uer posts small blind 200
+pinhas374 posts big blind 400
+Dealt to manggy94 [2h 5s]
+*** PRE-FLOP *** 
+Cassegrain75 folds
+kak47 raises 400 to 800
+manggy94 folds
+ste better calls 108 and is all-in
+pokk30 folds
+Nan3nb4uer calls 600
+pinhas374 calls 400
+*** FLOP *** [5d 4c 4d]
+Nan3nb4uer checks
+pinhas374 checks
+kak47 bets 1200
+Nan3nb4uer folds
+pinhas374 calls 1200
+*** TURN *** [5d 4c 4d][6d]
+pinhas374 checks
+kak47 checks
+*** RIVER *** [5d 4c 4d 6d][8s]
+pinhas374 checks
+kak47 checks
+*** SHOW DOWN ***
+kak47 shows [Qs Ks] (One pair : 4)
+ste better shows [Jd 7h] (Straight 8 high)
+pinhas374 shows [Ac 3d] (One pair : 4)
+pinhas374 collected 4476 from side pot 1
+ste better collected 642 from main pot
+*** SUMMARY ***
+Total pot 5118 | No rake
+Board: [5d 4c 4d 6d 8s]
+Seat 1: pinhas374 (big blind) showed [Ac 3d] and won 4476 with One pair : 4
+Seat 4: kak47 showed [Qs Ks] and lost with One pair : 4
+Seat 6: ste better showed [Jd 7h] and won 642 with Straight 8 high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #590115746122563618-5-1448722351 - Holdem no limit (30/200/400) - 2015/11/28 14:52:31 UTC
+Table: 'Kill The Fish(137397029)#033' 8-max (real money) Seat #8 is the button
+Seat 1: pinhas374 (12446)
+Seat 2: Iuly09 (10000)
+Seat 3: Cassegrain75 (7495)
+Seat 4: kak47 (5970)
+Seat 5: manggy94 (9745)
+Seat 6: ste better (642)
+Seat 7: pokk30 (21069)
+Seat 8: Nan3nb4uer (8845)
+*** ANTE/BLINDS ***
+pinhas374 posts ante 30
+Iuly09 posts ante 30
+Cassegrain75 posts ante 30
+kak47 posts ante 30
+manggy94 posts ante 30
+ste better posts ante 30
+pokk30 posts ante 30
+Nan3nb4uer posts ante 30
+pinhas374 posts small blind 200
+Iuly09 posts big blind 400
+Dealt to manggy94 [2s 9s]
+*** PRE-FLOP *** 
+Cassegrain75 folds
+kak47 calls 400
+manggy94 folds
+ste better raises 212 to 612 and is all-in
+pokk30 calls 612
+Nan3nb4uer calls 612
+pinhas374 folds
+Iuly09 calls 212
+kak47 calls 212
+*** FLOP *** [4h 5s 6c]
+Iuly09 checks
+kak47 checks
+pokk30 checks
+Nan3nb4uer checks
+*** TURN *** [4h 5s 6c][5d]
+Iuly09 checks
+kak47 bets 400
+pokk30 calls 400
+Nan3nb4uer calls 400
+Iuly09 calls 400
+*** RIVER *** [4h 5s 6c 5d][Ks]
+Iuly09 checks
+kak47 checks
+pokk30 bets 3400
+Nan3nb4uer raises 4403 to 7803 and is all-in
+Iuly09 folds
+kak47 folds
+pokk30 calls 4403
+*** SHOW DOWN ***
+ste better shows [Td Jc] (One pair : 5)
+Nan3nb4uer shows [Kh 8h] (Two pairs : Kings and 5)
+pokk30 shows [Jd Kc] (Two pairs : Kings and 5)
+pokk30 collected 20706 from pot
+*** SUMMARY ***
+Total pot 20706 | No rake
+Board: [4h 5s 6c 5d Ks]
+Seat 6: ste better showed [Td Jc] and lost with One pair : 5
+Seat 7: pokk30 showed [Jd Kc] and won 20706 with Two pairs : Kings and 5
+Seat 8: Nan3nb4uer (button) showed [Kh 8h] and lost with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #590115746122563618-6-1448722422 - Holdem no limit (30/200/400) - 2015/11/28 14:53:42 UTC
+Table: 'Kill The Fish(137397029)#033' 8-max (real money) Seat #1 is the button
+Seat 1: pinhas374 (12216)
+Seat 2: Iuly09 (8958)
+Seat 3: Cassegrain75 (7465)
+Seat 4: kak47 (4928)
+Seat 5: manggy94 (9715)
+Seat 6: crapou (10000)
+Seat 7: pokk30 (32930)
+*** ANTE/BLINDS ***
+Iuly09 posts ante 30
+Cassegrain75 posts ante 30
+pinhas374 posts ante 30
+kak47 posts ante 30
+manggy94 posts ante 30
+crapou posts ante 30
+pokk30 posts ante 30
+Iuly09 posts small blind 200
+Cassegrain75 posts big blind 400
+Dealt to manggy94 [Qd 4d]
+*** PRE-FLOP *** 
+kak47 calls 400
+manggy94 calls 400
+crapou folds
+pokk30 folds
+pinhas374 calls 400
+Iuly09 calls 200
+Cassegrain75 checks
+*** FLOP *** [6c Kh 3s]
+Iuly09 checks
+Cassegrain75 checks
+kak47 checks
+manggy94 checks
+pinhas374 checks
+*** TURN *** [6c Kh 3s][6d]
+Iuly09 checks
+Cassegrain75 checks
+kak47 checks
+manggy94 checks
+pinhas374 checks
+*** RIVER *** [6c Kh 3s 6d][Ah]
+Iuly09 checks
+Cassegrain75 checks
+kak47 checks
+manggy94 checks
+pinhas374 checks
+*** SHOW DOWN ***
+Iuly09 shows [3d 7c] (Two pairs : 6 and 3)
+Cassegrain75 shows [4h 5h] (One pair : 6)
+kak47 shows [Ts Jd] (One pair : 6)
+manggy94 shows [Qd 4d] (One pair : 6)
+pinhas374 shows [Jh Kd] (Two pairs : Kings and 6)
+pinhas374 collected 2210 from pot
+*** SUMMARY ***
+Total pot 2210 | No rake
+Board: [6c Kh 3s 6d Ah]
+Seat 1: pinhas374 (button) showed [Jh Kd] and won 2210 with Two pairs : Kings and 6
+Seat 2: Iuly09 (small blind) showed [3d 7c] and lost with Two pairs : 6 and 3
+Seat 3: Cassegrain75 (big blind) showed [4h 5h] and lost with One pair : 6
+Seat 4: kak47 showed [Ts Jd] and lost with One pair : 6
+Seat 5: manggy94 showed [Qd 4d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #590115746122563618-7-1448722802 - Holdem no limit (30/200/400) - 2015/11/28 15:00:02 UTC
+Table: 'Kill The Fish(137397029)#033' 8-max (real money) Seat #2 is the button
+Seat 1: pinhas374 (13996)
+Seat 2: Iuly09 (8528)
+Seat 3: Cassegrain75 (7035)
+Seat 4: kak47 (4498)
+Seat 5: manggy94 (9285)
+Seat 6: crapou (9970)
+Seat 7: pokk30 (32900)
+Seat 8: Nono du 33 (10000)
+*** ANTE/BLINDS ***
+Cassegrain75 posts ante 30
+kak47 posts ante 30
+pinhas374 posts ante 30
+Iuly09 posts ante 30
+manggy94 posts ante 30
+crapou posts ante 30
+pokk30 posts ante 30
+Nono du 33 posts ante 30
+Cassegrain75 posts small blind 200
+kak47 posts big blind 400
+Dealt to manggy94 [3s 4s]
+*** PRE-FLOP *** 
+manggy94 folds
+crapou folds
+pokk30 folds
+Nono du 33 folds
+pinhas374 folds
+Iuly09 calls 400
+Cassegrain75 folds
+kak47 checks
+*** FLOP *** [9h Js 5s]
+kak47 checks
+Iuly09 checks
+*** TURN *** [9h Js 5s][7h]
+kak47 checks
+Iuly09 checks
+*** RIVER *** [9h Js 5s 7h][6h]
+kak47 bets 1240
+Iuly09 folds
+kak47 collected 2480 from pot
+*** SUMMARY ***
+Total pot 2480 | No rake
+Board: [9h Js 5s 7h 6h]
+Seat 4: kak47 (big blind) won 2480
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 6 - HandId: #590115746122563618-8-1448722916 - Holdem no limit (30/200/400) - 2015/11/28 15:01:56 UTC
+Table: 'Kill The Fish(137397029)#033' 8-max (real money) Seat #3 is the button
+Seat 1: pinhas374 (13966)
+Seat 2: Iuly09 (8098)
+Seat 3: Cassegrain75 (6805)
+Seat 4: kak47 (5308)
+Seat 5: manggy94 (9255)
+Seat 6: crapou (9940)
+Seat 7: pokk30 (32870)
+Seat 8: Nono du 33 (9970)
+*** ANTE/BLINDS ***
+kak47 posts ante 30
+manggy94 posts ante 30
+pinhas374 posts ante 30
+Iuly09 posts ante 30
+Cassegrain75 posts ante 30
+crapou posts ante 30
+pokk30 posts ante 30
+Nono du 33 posts ante 30
+kak47 posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [4s 3h]
+*** PRE-FLOP *** 
+crapou folds
+pokk30 folds
+Nono du 33 folds
+pinhas374 folds
+Iuly09 calls 400
+Cassegrain75 folds
+kak47 calls 200
+manggy94 checks
+*** FLOP *** [2s Js 5d]
+kak47 checks
+manggy94 checks
+Iuly09 checks
+*** TURN *** [2s Js 5d][Tc]
+kak47 checks
+manggy94 bets 1440
+Iuly09 calls 1440
+kak47 folds
+*** RIVER *** [2s Js 5d Tc][7c]
+manggy94 checks
+Iuly09 checks
+*** SHOW DOWN ***
+manggy94 shows [4s 3h] (High card : Jack)
+Iuly09 shows [As 2c] (One pair : 2)
+Iuly09 collected 4320 from pot
+*** SUMMARY ***
+Total pot 4320 | No rake
+Board: [2s Js 5d Tc 7c]
+Seat 2: Iuly09 showed [As 2c] and won 4320 with One pair : 2
+Seat 5: manggy94 (big blind) showed [4s 3h] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #590115746122563618-9-1448722973 - Holdem no limit (40/250/500) - 2015/11/28 15:02:53 UTC
+Table: 'Kill The Fish(137397029)#033' 8-max (real money) Seat #4 is the button
+Seat 1: pinhas374 (13936)
+Seat 2: Iuly09 (10548)
+Seat 3: Cassegrain75 (6775)
+Seat 4: kak47 (4878)
+Seat 5: manggy94 (7385)
+Seat 6: crapou (9910)
+Seat 7: pokk30 (32840)
+Seat 8: Nono du 33 (9940)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+crapou posts ante 40
+pinhas374 posts ante 40
+Iuly09 posts ante 40
+Cassegrain75 posts ante 40
+kak47 posts ante 40
+pokk30 posts ante 40
+Nono du 33 posts ante 40
+manggy94 posts small blind 250
+crapou posts big blind 500
+Dealt to manggy94 [Kc Ks]
+*** PRE-FLOP *** 
+pokk30 folds
+Nono du 33 folds
+pinhas374 folds
+Iuly09 calls 500
+Cassegrain75 raises 1250 to 1750
+kak47 folds
+manggy94 raises 4820 to 6570
+crapou raises 3300 to 9870 and is all-in
+Iuly09 folds
+Cassegrain75 calls 4985 and is all-in
+manggy94 calls 775 and is all-in
+*** FLOP *** [9s 9h Jc]
+*** TURN *** [9s 9h Jc][2h]
+*** RIVER *** [9s 9h Jc 2h][9d]
+*** SHOW DOWN ***
+Cassegrain75 shows [Js Th] (Full of 9 and Jacks)
+manggy94 shows [Kc Ks] (Full of 9 and Kings)
+crapou shows [Jd Ad] (Full of 9 and Jacks)
+crapou collected 2525 from side pot 1
+manggy94 collected 22245 from main pot
+*** SUMMARY ***
+Total pot 24770 | No rake
+Board: [9s 9h Jc 2h 9d]
+Seat 3: Cassegrain75 showed [Js Th] and lost with Full of 9 and Jacks
+Seat 5: manggy94 (small blind) showed [Kc Ks] and won 22245 with Full of 9 and Kings
+Seat 6: crapou (big blind) showed [Jd Ad] and won 2525 with Full of 9 and Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #590115746122563618-10-1448723028 - Holdem no limit (40/250/500) - 2015/11/28 15:03:48 UTC
+Table: 'Kill The Fish(137397029)#033' 8-max (real money) Seat #5 is the button
+Seat 1: pinhas374 (13896)
+Seat 2: Iuly09 (10008)
+Seat 4: kak47 (4838)
+Seat 5: manggy94 (22245)
+Seat 6: crapou (2525)
+Seat 7: pokk30 (32800)
+Seat 8: Nono du 33 (9900)
+*** ANTE/BLINDS ***
+crapou posts ante 40
+pokk30 posts ante 40
+pinhas374 posts ante 40
+Iuly09 posts ante 40
+kak47 posts ante 40
+manggy94 posts ante 40
+Nono du 33 posts ante 40
+crapou posts small blind 250
+pokk30 posts big blind 500
+Dealt to manggy94 [Qh Ah]
+*** PRE-FLOP *** 
+Nono du 33 folds
+pinhas374 folds
+Iuly09 calls 500
+kak47 calls 500
+manggy94 raises 2530 to 3030
+crapou folds
+pokk30 folds
+Iuly09 calls 2530
+kak47 folds
+*** FLOP *** [Jc Ts 4h]
+Iuly09 bets 5060
+manggy94 calls 5060
+*** TURN *** [Jc Ts 4h][4c]
+Iuly09 bets 1878 and is all-in
+manggy94 calls 1878
+*** RIVER *** [Jc Ts 4h 4c][3c]
+*** SHOW DOWN ***
+manggy94 shows [Qh Ah] (One pair : 4)
+Iuly09 shows [As Jh] (Two pairs : Jacks and 4)
+Iuly09 collected 21466 from pot
+*** SUMMARY ***
+Total pot 21466 | No rake
+Board: [Jc Ts 4h 4c 3c]
+Seat 2: Iuly09 showed [As Jh] and won 21466 with Two pairs : Jacks and 4
+Seat 5: manggy94 (button) showed [Qh Ah] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #590115746122563618-11-1448723175 - Holdem no limit (40/250/500) - 2015/11/28 15:06:15 UTC
+Table: 'Kill The Fish(137397029)#033' 8-max (real money) Seat #6 is the button
+Seat 1: pinhas374 (13856)
+Seat 2: Iuly09 (21466)
+Seat 3: Zetitof (10000)
+Seat 4: kak47 (4298)
+Seat 5: manggy94 (12237)
+Seat 6: crapou (2235)
+Seat 7: pokk30 (32260)
+Seat 8: Nono du 33 (9860)
+*** ANTE/BLINDS ***
+pokk30 posts ante 40
+Nono du 33 posts ante 40
+pinhas374 posts ante 40
+Iuly09 posts ante 40
+Zetitof posts ante 40
+kak47 posts ante 40
+manggy94 posts ante 40
+crapou posts ante 40
+pokk30 posts small blind 250
+Nono du 33 posts big blind 500
+Dealt to manggy94 [Qh Ks]
+*** PRE-FLOP *** 
+pinhas374 calls 500
+Iuly09 calls 500
+Zetitof calls 500
+kak47 calls 500
+manggy94 calls 500
+crapou folds
+pokk30 folds
+Nono du 33 checks
+*** FLOP *** [Kh 2s 6d]
+Nono du 33 checks
+pinhas374 checks
+Iuly09 checks
+Zetitof checks
+kak47 checks
+manggy94 bets 3570
+Nono du 33 folds
+pinhas374 folds
+Iuly09 folds
+Zetitof folds
+kak47 folds
+manggy94 collected 7140 from pot
+*** SUMMARY ***
+Total pot 7140 | No rake
+Board: [Kh 2s 6d]
+Seat 5: manggy94 won 7140
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 7 - HandId: #590115746122563618-12-1448723243 - Holdem no limit (40/250/500) - 2015/11/28 15:07:23 UTC
+Table: 'Kill The Fish(137397029)#033' 8-max (real money) Seat #7 is the button
+Seat 1: pinhas374 (13316)
+Seat 2: Iuly09 (20926)
+Seat 3: Zetitof (9460)
+Seat 4: kak47 (3758)
+Seat 5: manggy94 (15267)
+Seat 6: crapou (2195)
+Seat 7: pokk30 (31970)
+Seat 8: Nono du 33 (9320)
+*** ANTE/BLINDS ***
+Nono du 33 posts ante 40
+pinhas374 posts ante 40
+Iuly09 posts ante 40
+Zetitof posts ante 40
+kak47 posts ante 40
+manggy94 posts ante 40
+crapou posts ante 40
+pokk30 posts ante 40
+Nono du 33 posts small blind 250
+pinhas374 posts big blind 500
+Dealt to manggy94 [4h 9s]
+*** PRE-FLOP *** 
+Iuly09 calls 500
+Zetitof calls 500
+kak47 folds
+manggy94 folds
+crapou folds
+pokk30 folds
+Nono du 33 raises 500 to 1000
+pinhas374 calls 500
+Iuly09 calls 500
+Zetitof calls 500
+*** FLOP *** [7d Ac 7h]
+Nono du 33 checks
+pinhas374 checks
+Iuly09 checks
+Zetitof checks
+*** TURN *** [7d Ac 7h][Ah]
+Nono du 33 checks
+pinhas374 checks
+Iuly09 checks
+Zetitof checks
+*** RIVER *** [7d Ac 7h Ah][7s]
+Nono du 33 bets 500
+pinhas374 calls 500
+Iuly09 calls 500
+Zetitof folds
+*** SHOW DOWN ***
+pinhas374 shows [2d 2c] (Full of 7 and Aces)
+Iuly09 shows [Td 9d] (Full of 7 and Aces)
+Nono du 33 shows [Kd 5h] (Full of 7 and Aces)
+Nono du 33 collected 1940 from pot
+Iuly09 collected 1940 from pot
+pinhas374 collected 1940 from pot
+*** SUMMARY ***
+Total pot 5820 | No rake
+Board: [7d Ac 7h Ah 7s]
+Seat 1: pinhas374 (big blind) showed [2d 2c] and won 1940 with Full of 7 and Aces
+Seat 2: Iuly09 showed [Td 9d] and won 1940 with Full of 7 and Aces
+Seat 8: Nono du 33 (small blind) showed [Kd 5h] and won 1940 with Full of 7 and Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 8 - HandId: #590115746122563618-13-1448723340 - Holdem no limit (60/300/600) - 2015/11/28 15:09:00 UTC
+Table: 'Kill The Fish(137397029)#033' 8-max (real money) Seat #8 is the button
+Seat 1: pinhas374 (13716)
+Seat 2: Iuly09 (21326)
+Seat 3: Zetitof (8420)
+Seat 4: kak47 (3718)
+Seat 5: manggy94 (15227)
+Seat 6: crapou (2155)
+Seat 7: pokk30 (31930)
+Seat 8: Nono du 33 (9720)
+*** ANTE/BLINDS ***
+pinhas374 posts ante 60
+Iuly09 posts ante 60
+Zetitof posts ante 60
+kak47 posts ante 60
+manggy94 posts ante 60
+crapou posts ante 60
+pokk30 posts ante 60
+Nono du 33 posts ante 60
+pinhas374 posts small blind 300
+Iuly09 posts big blind 600
+Dealt to manggy94 [As 8h]
+*** PRE-FLOP *** 
+Zetitof folds
+kak47 calls 600
+manggy94 calls 600
+crapou folds
+pokk30 folds
+Nono du 33 folds
+pinhas374 folds
+Iuly09 checks
+*** FLOP *** [6s Td 6d]
+Iuly09 bets 600
+kak47 calls 600
+manggy94 folds
+*** TURN *** [6s Td 6d][Tc]
+Iuly09 bets 600
+kak47 raises 1858 to 2458 and is all-in
+Iuly09 calls 1858
+*** RIVER *** [6s Td 6d Tc][Jd]
+*** SHOW DOWN ***
+kak47 shows [Js Ad] (Two pairs : Jacks and Tens)
+Iuly09 shows [Qh Ts] (Full of Tens and 6)
+Iuly09 collected 8696 from pot
+*** SUMMARY ***
+Total pot 8696 | No rake
+Board: [6s Td 6d Tc Jd]
+Seat 2: Iuly09 (big blind) showed [Qh Ts] and won 8696 with Full of Tens and 6
+Seat 4: kak47 showed [Js Ad] and lost with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 8 - HandId: #590115746122563618-14-1448723454 - Holdem no limit (60/300/600) - 2015/11/28 15:10:54 UTC
+Table: 'Kill The Fish(137397029)#033' 8-max (real money) Seat #1 is the button
+Seat 1: pinhas374 (13356)
+Seat 2: Iuly09 (26304)
+Seat 3: Zetitof (8360)
+Seat 5: manggy94 (14567)
+Seat 6: crapou (2095)
+Seat 7: pokk30 (31870)
+Seat 8: Nono du 33 (9660)
+*** ANTE/BLINDS ***
+Iuly09 posts ante 60
+Zetitof posts ante 60
+pinhas374 posts ante 60
+manggy94 posts ante 60
+crapou posts ante 60
+pokk30 posts ante 60
+Nono du 33 posts ante 60
+Iuly09 posts small blind 300
+Zetitof posts big blind 600
+Dealt to manggy94 [2d Tc]
+*** PRE-FLOP *** 
+manggy94 folds
+crapou folds
+pokk30 raises 600 to 1200
+Nono du 33 folds
+pinhas374 folds
+Iuly09 folds
+Zetitof raises 7100 to 8300 and is all-in
+pokk30 calls 7100
+*** FLOP *** [9h 6d 9s]
+*** TURN *** [9h 6d 9s][5d]
+*** RIVER *** [9h 6d 9s 5d][7d]
+*** SHOW DOWN ***
+Zetitof shows [Ac 7h] (Two pairs : 9 and 7)
+pokk30 shows [Kh Kc] (Two pairs : Kings and 9)
+pokk30 collected 17320 from pot
+*** SUMMARY ***
+Total pot 17320 | No rake
+Board: [9h 6d 9s 5d 7d]
+Seat 3: Zetitof (big blind) showed [Ac 7h] and lost with Two pairs : 9 and 7
+Seat 7: pokk30 showed [Kh Kc] and won 17320 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 8 - HandId: #590115746122563618-15-1448723508 - Holdem no limit (60/300/600) - 2015/11/28 15:11:48 UTC
+Table: 'Kill The Fish(137397029)#033' 8-max (real money) Seat #2 is the button
+Seat 1: pinhas374 (13296)
+Seat 2: Iuly09 (25944)
+Seat 4: Perplx (10000)
+Seat 5: manggy94 (14507)
+Seat 6: crapou (2035)
+Seat 7: pokk30 (40830)
+Seat 8: Nono du 33 (9600)
+*** ANTE/BLINDS ***
+Perplx posts ante 60
+pinhas374 posts ante 60
+Iuly09 posts ante 60
+manggy94 posts ante 60
+crapou posts ante 60
+pokk30 posts ante 60
+Nono du 33 posts ante 60
+Perplx posts big blind 600
+Dealt to manggy94 [As Td]
+*** PRE-FLOP *** 
+manggy94 calls 600
+crapou folds
+pokk30 folds
+Nono du 33 calls 600
+pinhas374 calls 600
+Iuly09 calls 600
+Perplx checks
+*** FLOP *** [6h 5s 2c]
+Perplx checks
+manggy94 bets 600
+Nono du 33 folds
+pinhas374 calls 600
+Iuly09 calls 600
+Perplx folds
+*** TURN *** [6h 5s 2c][Ah]
+manggy94 checks
+pinhas374 bets 2610
+Iuly09 folds
+manggy94 calls 2610
+*** RIVER *** [6h 5s 2c Ah][9d]
+manggy94 checks
+pinhas374 bets 9426 and is all-in
+manggy94 calls 9426
+*** SHOW DOWN ***
+manggy94 shows [As Td] (One pair : Aces)
+pinhas374 shows [5d 5c] (Trips of 5)
+pinhas374 collected 29292 from pot
+*** SUMMARY ***
+Total pot 29292 | No rake
+Board: [6h 5s 2c Ah 9d]
+Seat 1: pinhas374 showed [5d 5c] and won 29292 with Trips of 5
+Seat 5: manggy94 showed [As Td] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 8 - HandId: #590115746122563618-16-1448723569 - Holdem no limit (60/300/600) - 2015/11/28 15:12:49 UTC
+Table: 'Kill The Fish(137397029)#033' 8-max (real money) Seat #3 is the button
+Seat 1: pinhas374 (29292)
+Seat 2: Iuly09 (24684)
+Seat 3: 38550 C CHO (8440)
+Seat 4: Perplx (9340)
+Seat 5: manggy94 (1211)
+Seat 6: crapou (1975)
+Seat 7: pokk30 (40770)
+Seat 8: Nono du 33 (8940)
+*** ANTE/BLINDS ***
+Perplx posts ante 60
+manggy94 posts ante 60
+pinhas374 posts ante 60
+Iuly09 posts ante 60
+38550 C CHO posts ante 60
+crapou posts ante 60
+pokk30 posts ante 60
+Nono du 33 posts ante 60
+Perplx posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [3d Qh]
+*** PRE-FLOP *** 
+crapou folds
+pokk30 folds
+Nono du 33 folds
+pinhas374 calls 600
+Iuly09 calls 600
+38550 C CHO folds
+Perplx folds
+manggy94 checks
+*** FLOP *** [Th 4d 7c]
+manggy94 checks
+pinhas374 checks
+Iuly09 checks
+*** TURN *** [Th 4d 7c][7h]
+manggy94 checks
+pinhas374 bets 1290
+Iuly09 folds
+manggy94 folds
+pinhas374 collected 3870 from pot
+*** SUMMARY ***
+Total pot 3870 | No rake
+Board: [Th 4d 7c 7h]
+Seat 1: pinhas374 won 3870
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 8 - HandId: #590115746122563618-17-1448723604 - Holdem no limit (60/300/600) - 2015/11/28 15:13:24 UTC
+Table: 'Kill The Fish(137397029)#033' 8-max (real money) Seat #4 is the button
+Seat 1: pinhas374 (31212)
+Seat 2: Iuly09 (24024)
+Seat 3: 38550 C CHO (8380)
+Seat 4: Perplx (8980)
+Seat 5: manggy94 (551)
+Seat 6: crapou (1915)
+Seat 7: pokk30 (40710)
+Seat 8: Nono du 33 (8880)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+crapou posts ante 60
+pinhas374 posts ante 60
+Iuly09 posts ante 60
+38550 C CHO posts ante 60
+Perplx posts ante 60
+pokk30 posts ante 60
+Nono du 33 posts ante 60
+manggy94 posts small blind 300
+crapou posts big blind 600
+Dealt to manggy94 [9s Ad]
+*** PRE-FLOP *** 
+pokk30 folds
+Nono du 33 calls 600
+pinhas374 calls 600
+Iuly09 calls 600
+38550 C CHO folds
+Perplx folds
+manggy94 calls 191 and is all-in
+crapou checks
+*** FLOP *** [2h 3s 4c]
+crapou bets 1255 and is all-in
+Nono du 33 folds
+pinhas374 folds
+Iuly09 calls 1255
+*** TURN *** [2h 3s 4c][5c]
+*** RIVER *** [2h 3s 4c 5c][4d]
+*** SHOW DOWN ***
+Iuly09 shows [9c Tc] (One pair : 4)
+manggy94 shows [9s Ad] (Straight 5 high)
+crapou shows [5h 4h] (Full of 4 and 5)
+crapou collected 5881 from pot
+*** SUMMARY ***
+Total pot 5881 | No rake
+Board: [2h 3s 4c 5c 4d]
+Seat 2: Iuly09 showed [9c Tc] and lost with One pair : 4
+Seat 5: manggy94 (small blind) showed [9s Ad] and lost with Straight 5 high
+Seat 6: crapou (big blind) showed [5h 4h] and won 5881 with Full of 4 and 5
+
+

@@ -1,0 +1,351 @@
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #563599262282153985-1-1442588814 - Holdem no limit (10/20) - 2015/09/18 15:06:54 UTC
+Table: 'Starting Block - Deglingos(131223179)#0' 10-max (real money) Seat #4 is the button
+Seat 1: caaac (500)
+Seat 2: dicanto (500)
+Seat 3: POUPIPOK (500)
+Seat 4: N.Y. BACK RA (500)
+Seat 5: jemetafame (500)
+Seat 6: Instant-push (500)
+Seat 7: 76gwenou76 (500)
+Seat 8: sylvsab (500)
+Seat 9: Ricosteph (500)
+Seat 10: manggy94 (500)
+*** ANTE/BLINDS ***
+jemetafame posts small blind 10
+Instant-push posts big blind 20
+Dealt to manggy94 [2d As]
+*** PRE-FLOP *** 
+76gwenou76 folds
+sylvsab folds
+Ricosteph calls 20
+manggy94 calls 20
+caaac calls 20
+dicanto calls 20
+POUPIPOK folds
+N.Y. BACK RA folds
+jemetafame folds
+Instant-push checks
+*** FLOP *** [Qc 2h 7h]
+Instant-push checks
+Ricosteph checks
+manggy94 checks
+caaac checks
+dicanto checks
+*** TURN *** [Qc 2h 7h][4c]
+Instant-push checks
+Ricosteph bets 20
+manggy94 folds
+caaac calls 20
+dicanto folds
+Instant-push calls 20
+*** RIVER *** [Qc 2h 7h 4c][3c]
+Instant-push checks
+Ricosteph bets 170
+caaac folds
+Instant-push folds
+Ricosteph collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [Qc 2h 7h 4c 3c]
+Seat 9: Ricosteph won 340
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #563599262282153985-2-1442588966 - Holdem no limit (10/20) - 2015/09/18 15:09:26 UTC
+Table: 'Starting Block - Deglingos(131223179)#0' 10-max (real money) Seat #5 is the button
+Seat 1: caaac (460)
+Seat 2: dicanto (480)
+Seat 3: POUPIPOK (500)
+Seat 4: N.Y. BACK RA (500)
+Seat 5: jemetafame (490)
+Seat 6: Instant-push (460)
+Seat 7: 76gwenou76 (500)
+Seat 8: sylvsab (500)
+Seat 9: Ricosteph (630)
+Seat 10: manggy94 (480)
+*** ANTE/BLINDS ***
+Instant-push posts small blind 10
+76gwenou76 posts big blind 20
+Dealt to manggy94 [3s 7d]
+*** PRE-FLOP *** 
+sylvsab folds
+Ricosteph calls 20
+manggy94 folds
+caaac folds
+dicanto folds
+POUPIPOK calls 20
+N.Y. BACK RA raises 480 to 500 and is all-in
+jemetafame folds
+Instant-push folds
+76gwenou76 calls 480 and is all-in
+Ricosteph folds
+POUPIPOK calls 480 and is all-in
+*** FLOP *** [Jc Th 4h]
+*** TURN *** [Jc Th 4h][9c]
+*** RIVER *** [Jc Th 4h 9c][7c]
+*** SHOW DOWN ***
+N.Y. BACK RA shows [Ah Ts] (One pair : Tens)
+76gwenou76 shows [5s Ad] (High card : Ace)
+POUPIPOK shows [3c 5c] (Flush Jack high)
+POUPIPOK collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Board: [Jc Th 4h 9c 7c]
+Seat 3: POUPIPOK showed [3c 5c] and won 1530 with Flush Jack high
+Seat 4: N.Y. BACK RA showed [Ah Ts] and lost with One pair : Tens
+Seat 7: 76gwenou76 (big blind) showed [5s Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 1 - HandId: #563599262282153985-3-1442589005 - Holdem no limit (15/30) - 2015/09/18 15:10:05 UTC
+Table: 'Starting Block - Deglingos(131223179)#0' 10-max (real money) Seat #6 is the button
+Seat 1: caaac (460)
+Seat 2: dicanto (480)
+Seat 3: POUPIPOK (1530)
+Seat 5: jemetafame (490)
+Seat 6: Instant-push (450)
+Seat 8: sylvsab (500)
+Seat 9: Ricosteph (610)
+Seat 10: manggy94 (480)
+*** ANTE/BLINDS ***
+sylvsab posts big blind 30
+Dealt to manggy94 [8h 6s]
+*** PRE-FLOP *** 
+Ricosteph raises 30 to 60
+manggy94 folds
+caaac folds
+dicanto folds
+POUPIPOK raises 440 to 500
+jemetafame folds
+Instant-push calls 450 and is all-in
+sylvsab calls 470 and is all-in
+Ricosteph calls 440
+*** FLOP *** [6d 4s As]
+Ricosteph checks
+POUPIPOK checks
+*** TURN *** [6d 4s As][8c]
+Ricosteph bets 110 and is all-in
+POUPIPOK folds
+*** RIVER *** [6d 4s As 8c][7d]
+*** SHOW DOWN ***
+Instant-push shows [Td Kd] (High card : Ace)
+sylvsab shows [Jh Ac] (One pair : Aces)
+Ricosteph shows [Ah Jc] (One pair : Aces)
+Ricosteph collected 1085 from side pot 1
+sylvsab collected 975 from main pot
+*** SUMMARY ***
+Total pot 2060 | No rake
+Board: [6d 4s As 8c 7d]
+Seat 6: Instant-push (button) showed [Td Kd] and lost with High card : Ace
+Seat 8: sylvsab (big blind) showed [Jh Ac] and won 975 with One pair : Aces
+Seat 9: Ricosteph showed [Ah Jc] and won 1085 with One pair : Aces
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 1 - HandId: #563599262282153985-4-1442589124 - Holdem no limit (15/30) - 2015/09/18 15:12:04 UTC
+Table: 'Starting Block - Deglingos(131223179)#0' 10-max (real money) Seat #7 is the button
+Seat 1: caaac (460)
+Seat 2: dicanto (480)
+Seat 3: POUPIPOK (1030)
+Seat 5: jemetafame (490)
+Seat 8: sylvsab (975)
+Seat 9: Ricosteph (1085)
+Seat 10: manggy94 (480)
+*** ANTE/BLINDS ***
+sylvsab posts small blind 15
+Ricosteph posts big blind 30
+Dealt to manggy94 [Ks 4s]
+*** PRE-FLOP *** 
+manggy94 calls 30
+caaac calls 30
+dicanto folds
+POUPIPOK folds
+jemetafame raises 60 to 90
+sylvsab folds
+Ricosteph calls 60
+manggy94 calls 60
+caaac calls 60
+*** FLOP *** [5s Ah 4c]
+Ricosteph checks
+manggy94 checks
+caaac checks
+jemetafame bets 188
+Ricosteph folds
+manggy94 folds
+caaac raises 182 to 370 and is all-in
+jemetafame folds
+caaac collected 933 from pot
+*** SUMMARY ***
+Total pot 933 | No rake
+Board: [5s Ah 4c]
+Seat 1: caaac won 933
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #563599262282153985-5-1442589198 - Holdem no limit (20/40) - 2015/09/18 15:13:18 UTC
+Table: 'Starting Block - Deglingos(131223179)#0' 10-max (real money) Seat #8 is the button
+Seat 1: caaac (933)
+Seat 2: dicanto (480)
+Seat 3: POUPIPOK (1030)
+Seat 5: jemetafame (212)
+Seat 8: sylvsab (960)
+Seat 9: Ricosteph (995)
+Seat 10: manggy94 (390)
+*** ANTE/BLINDS ***
+Ricosteph posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [4h Kh]
+*** PRE-FLOP *** 
+caaac calls 40
+dicanto folds
+POUPIPOK folds
+jemetafame folds
+sylvsab folds
+Ricosteph calls 20
+manggy94 checks
+*** FLOP *** [4d 8d 7c]
+Ricosteph bets 40
+manggy94 calls 40
+caaac folds
+*** TURN *** [4d 8d 7c][2h]
+Ricosteph checks
+manggy94 checks
+*** RIVER *** [4d 8d 7c 2h][6h]
+Ricosteph bets 200
+manggy94 folds
+Ricosteph collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [4d 8d 7c 2h 6h]
+Seat 9: Ricosteph (small blind) won 400
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #563599262282153985-6-1442589233 - Holdem no limit (20/40) - 2015/09/18 15:13:53 UTC
+Table: 'Starting Block - Deglingos(131223179)#0' 10-max (real money) Seat #9 is the button
+Seat 1: caaac (893)
+Seat 2: dicanto (480)
+Seat 3: POUPIPOK (1030)
+Seat 5: jemetafame (212)
+Seat 8: sylvsab (960)
+Seat 9: Ricosteph (1115)
+Seat 10: manggy94 (310)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+caaac posts big blind 40
+Dealt to manggy94 [Qc 7d]
+*** PRE-FLOP *** 
+dicanto folds
+POUPIPOK folds
+jemetafame folds
+sylvsab folds
+Ricosteph folds
+manggy94 raises 270 to 310 and is all-in
+caaac folds
+manggy94 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 10: manggy94 (small blind) won 350
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #563599262282153985-7-1442589268 - Holdem no limit (20/40) - 2015/09/18 15:14:28 UTC
+Table: 'Starting Block - Deglingos(131223179)#0' 10-max (real money) Seat #10 is the button
+Seat 1: caaac (853)
+Seat 2: dicanto (480)
+Seat 3: POUPIPOK (1030)
+Seat 5: jemetafame (212)
+Seat 8: sylvsab (960)
+Seat 9: Ricosteph (1115)
+Seat 10: manggy94 (350)
+*** ANTE/BLINDS ***
+caaac posts small blind 20
+dicanto posts big blind 40
+Dealt to manggy94 [3h 5h]
+*** PRE-FLOP *** 
+POUPIPOK folds
+jemetafame folds
+sylvsab folds
+Ricosteph calls 40
+manggy94 folds
+caaac calls 20
+dicanto folds
+*** FLOP *** [4c 4h 8s]
+caaac checks
+Ricosteph checks
+*** TURN *** [4c 4h 8s][Ah]
+caaac checks
+Ricosteph checks
+*** RIVER *** [4c 4h 8s Ah][5s]
+caaac bets 40
+Ricosteph raises 200 to 240
+caaac folds
+Ricosteph collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [4c 4h 8s Ah 5s]
+Seat 9: Ricosteph won 400
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 2 - HandId: #563599262282153985-8-1442589331 - Holdem no limit (20/40) - 2015/09/18 15:15:31 UTC
+Table: 'Starting Block - Deglingos(131223179)#0' 10-max (real money) Seat #1 is the button
+Seat 1: caaac (773)
+Seat 2: dicanto (440)
+Seat 3: POUPIPOK (1030)
+Seat 5: jemetafame (212)
+Seat 8: sylvsab (960)
+Seat 9: Ricosteph (1235)
+Seat 10: manggy94 (350)
+*** ANTE/BLINDS ***
+dicanto posts small blind 20
+POUPIPOK posts big blind 40
+Dealt to manggy94 [9h Jd]
+*** PRE-FLOP *** 
+jemetafame folds
+sylvsab folds
+Ricosteph calls 40
+manggy94 calls 40
+caaac calls 40
+dicanto folds
+POUPIPOK raises 990 to 1030 and is all-in
+Ricosteph folds
+manggy94 folds
+caaac folds
+POUPIPOK collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | No rake
+Seat 3: POUPIPOK (big blind) won 1170
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 3 - HandId: #563599262282153985-9-1442589368 - Holdem no limit (30/60) - 2015/09/18 15:16:08 UTC
+Table: 'Starting Block - Deglingos(131223179)#0' 10-max (real money) Seat #2 is the button
+Seat 1: caaac (733)
+Seat 2: dicanto (420)
+Seat 3: POUPIPOK (1170)
+Seat 5: jemetafame (212)
+Seat 8: sylvsab (960)
+Seat 9: Ricosteph (1195)
+Seat 10: manggy94 (310)
+*** ANTE/BLINDS ***
+POUPIPOK posts small blind 30
+jemetafame posts big blind 60
+Dealt to manggy94 [Kh 9d]
+*** PRE-FLOP *** 
+sylvsab folds
+Ricosteph calls 60
+manggy94 raises 250 to 310 and is all-in
+caaac folds
+dicanto raises 110 to 420 and is all-in
+POUPIPOK folds
+jemetafame folds
+Ricosteph calls 360
+*** FLOP *** [8h 7d Jd]
+*** TURN *** [8h 7d Jd][Qd]
+*** RIVER *** [8h 7d Jd Qd][2c]
+*** SHOW DOWN ***
+dicanto shows [5d Ac] (High card : Ace)
+manggy94 shows [Kh 9d] (High card : King)
+Ricosteph shows [7h 5h] (One pair : 7)
+Ricosteph collected 1240 from pot
+*** SUMMARY ***
+Total pot 1240 | No rake
+Board: [8h 7d Jd Qd 2c]
+Seat 2: dicanto (button) showed [5d Ac] and lost with High card : Ace
+Seat 9: Ricosteph showed [7h 5h] and won 1240 with One pair : 7
+Seat 10: manggy94 showed [Kh 9d] and lost with High card : King
+
+

@@ -1,0 +1,574 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #562445011296190500-4-1443598292 - Holdem no limit (30/200/400) - 2015/09/30 07:31:32 UTC
+Table: 'MiniRoll(130954434)#035' 6-max (real money) Seat #1 is the button
+Seat 1: grillon0336_ (12750)
+Seat 2: Gdg77 (26200)
+Seat 3: chabalizer (39145)
+Seat 4: fleure80 (37690)
+Seat 5: manggy94 (10000)
+Seat 6: lamproie81 (22398)
+*** ANTE/BLINDS ***
+Gdg77 posts ante 30
+chabalizer posts ante 30
+grillon0336_ posts ante 30
+fleure80 posts ante 30
+manggy94 posts ante 30
+lamproie81 posts ante 30
+Gdg77 posts small blind 200
+chabalizer posts big blind 400
+Dealt to manggy94 [Jc 6d]
+*** PRE-FLOP *** 
+fleure80 folds
+manggy94 folds
+lamproie81 calls 400
+grillon0336_ folds
+Gdg77 calls 200
+chabalizer checks
+*** FLOP *** [Ts Qd 6s]
+Gdg77 checks
+chabalizer checks
+lamproie81 checks
+*** TURN *** [Ts Qd 6s][3h]
+Gdg77 checks
+chabalizer checks
+lamproie81 bets 400
+Gdg77 folds
+chabalizer calls 400
+*** RIVER *** [Ts Qd 6s 3h][5d]
+chabalizer checks
+lamproie81 checks
+*** SHOW DOWN ***
+lamproie81 shows [Ac 6c] (One pair : 6)
+chabalizer shows [Th 9s] (One pair : Tens)
+chabalizer collected 2180 from pot
+*** SUMMARY ***
+Total pot 2180 | No rake
+Board: [Ts Qd 6s 3h 5d]
+Seat 3: chabalizer (big blind) showed [Th 9s] and won 2180 with One pair : Tens
+Seat 6: lamproie81 showed [Ac 6c] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #562445011296190500-5-1443598332 - Holdem no limit (40/250/500) - 2015/09/30 07:32:12 UTC
+Table: 'MiniRoll(130954434)#035' 6-max (real money) Seat #2 is the button
+Seat 1: grillon0336_ (12720)
+Seat 2: Gdg77 (25770)
+Seat 3: chabalizer (40495)
+Seat 4: fleure80 (37660)
+Seat 5: manggy94 (9970)
+Seat 6: lamproie81 (21568)
+*** ANTE/BLINDS ***
+chabalizer posts ante 40
+fleure80 posts ante 40
+grillon0336_ posts ante 40
+Gdg77 posts ante 40
+manggy94 posts ante 40
+lamproie81 posts ante 40
+chabalizer posts small blind 250
+fleure80 posts big blind 500
+Dealt to manggy94 [9c Kc]
+*** PRE-FLOP *** 
+manggy94 raises 1490 to 1990
+lamproie81 folds
+grillon0336_ folds
+Gdg77 folds
+chabalizer calls 1740
+fleure80 folds
+*** FLOP *** [4h 7h Qs]
+chabalizer checks
+manggy94 bets 7940 and is all-in
+chabalizer folds
+manggy94 collected 12660 from pot
+*** SUMMARY ***
+Total pot 12660 | No rake
+Board: [4h 7h Qs]
+Seat 5: manggy94 won 12660
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #562445011296190500-6-1443598359 - Holdem no limit (40/250/500) - 2015/09/30 07:32:39 UTC
+Table: 'MiniRoll(130954434)#035' 6-max (real money) Seat #3 is the button
+Seat 1: grillon0336_ (12680)
+Seat 2: Gdg77 (25730)
+Seat 3: chabalizer (38465)
+Seat 4: fleure80 (37120)
+Seat 5: manggy94 (12660)
+Seat 6: lamproie81 (21528)
+*** ANTE/BLINDS ***
+fleure80 posts ante 40
+manggy94 posts ante 40
+grillon0336_ posts ante 40
+Gdg77 posts ante 40
+chabalizer posts ante 40
+lamproie81 posts ante 40
+fleure80 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [8c 8d]
+*** PRE-FLOP *** 
+lamproie81 folds
+grillon0336_ calls 500
+Gdg77 folds
+chabalizer calls 500
+fleure80 calls 250
+manggy94 checks
+*** FLOP *** [4s Kc 7c]
+fleure80 checks
+manggy94 checks
+grillon0336_ checks
+chabalizer bets 2240
+fleure80 calls 2240
+manggy94 folds
+grillon0336_ folds
+*** TURN *** [4s Kc 7c][Ks]
+fleure80 checks
+chabalizer bets 6720
+fleure80 folds
+chabalizer collected 13440 from pot
+*** SUMMARY ***
+Total pot 13440 | No rake
+Board: [4s Kc 7c Ks]
+Seat 3: chabalizer (button) won 13440
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #562445011296190500-7-1443598406 - Holdem no limit (40/250/500) - 2015/09/30 07:33:26 UTC
+Table: 'MiniRoll(130954434)#035' 6-max (real money) Seat #4 is the button
+Seat 1: grillon0336_ (12140)
+Seat 2: Gdg77 (25690)
+Seat 3: chabalizer (42405)
+Seat 4: fleure80 (34340)
+Seat 5: manggy94 (12120)
+Seat 6: lamproie81 (21488)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+lamproie81 posts ante 40
+grillon0336_ posts ante 40
+Gdg77 posts ante 40
+chabalizer posts ante 40
+fleure80 posts ante 40
+manggy94 posts small blind 250
+lamproie81 posts big blind 500
+Dealt to manggy94 [5c 6d]
+*** PRE-FLOP *** 
+grillon0336_ raises 500 to 1000
+Gdg77 folds
+chabalizer folds
+fleure80 folds
+manggy94 folds
+lamproie81 calls 500
+*** FLOP *** [Td Qc 3h]
+lamproie81 checks
+grillon0336_ checks
+*** TURN *** [Td Qc 3h][8h]
+lamproie81 bets 500
+grillon0336_ folds
+lamproie81 collected 2990 from pot
+*** SUMMARY ***
+Total pot 2990 | No rake
+Board: [Td Qc 3h 8h]
+Seat 6: lamproie81 (big blind) won 2990
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #562445011296190500-8-1443598425 - Holdem no limit (40/250/500) - 2015/09/30 07:33:45 UTC
+Table: 'MiniRoll(130954434)#035' 6-max (real money) Seat #5 is the button
+Seat 1: grillon0336_ (11100)
+Seat 2: Gdg77 (25650)
+Seat 3: chabalizer (42365)
+Seat 4: fleure80 (34300)
+Seat 5: manggy94 (11830)
+Seat 6: lamproie81 (22938)
+*** ANTE/BLINDS ***
+lamproie81 posts ante 40
+grillon0336_ posts ante 40
+Gdg77 posts ante 40
+chabalizer posts ante 40
+fleure80 posts ante 40
+manggy94 posts ante 40
+lamproie81 posts small blind 250
+grillon0336_ posts big blind 500
+Dealt to manggy94 [7d 9h]
+*** PRE-FLOP *** 
+Gdg77 folds
+chabalizer calls 500
+fleure80 folds
+manggy94 folds
+lamproie81 calls 250
+grillon0336_ checks
+*** FLOP *** [2c Kc 6h]
+lamproie81 checks
+grillon0336_ checks
+chabalizer checks
+*** TURN *** [2c Kc 6h][6d]
+lamproie81 checks
+grillon0336_ checks
+chabalizer checks
+*** RIVER *** [2c Kc 6h 6d][8s]
+lamproie81 checks
+grillon0336_ checks
+chabalizer bets 870
+lamproie81 folds
+grillon0336_ folds
+chabalizer collected 2610 from pot
+*** SUMMARY ***
+Total pot 2610 | No rake
+Board: [2c Kc 6h 6d 8s]
+Seat 3: chabalizer won 2610
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #562445011296190500-9-1443598455 - Holdem no limit (40/250/500) - 2015/09/30 07:34:15 UTC
+Table: 'MiniRoll(130954434)#035' 6-max (real money) Seat #6 is the button
+Seat 1: grillon0336_ (10560)
+Seat 2: Gdg77 (25610)
+Seat 3: chabalizer (43565)
+Seat 4: fleure80 (34260)
+Seat 5: manggy94 (11790)
+Seat 6: lamproie81 (22398)
+*** ANTE/BLINDS ***
+grillon0336_ posts ante 40
+Gdg77 posts ante 40
+chabalizer posts ante 40
+fleure80 posts ante 40
+manggy94 posts ante 40
+lamproie81 posts ante 40
+grillon0336_ posts small blind 250
+Gdg77 posts big blind 500
+Dealt to manggy94 [5s 7h]
+*** PRE-FLOP *** 
+chabalizer calls 500
+fleure80 folds
+manggy94 folds
+lamproie81 folds
+grillon0336_ raises 500 to 1000
+Gdg77 folds
+chabalizer calls 500
+*** FLOP *** [9s Jc Jd]
+grillon0336_ checks
+chabalizer checks
+*** TURN *** [9s Jc Jd][5h]
+grillon0336_ bets 1000
+chabalizer folds
+grillon0336_ collected 3740 from pot
+*** SUMMARY ***
+Total pot 3740 | No rake
+Board: [9s Jc Jd 5h]
+Seat 1: grillon0336_ (small blind) won 3740
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #562445011296190500-10-1443598486 - Holdem no limit (40/250/500) - 2015/09/30 07:34:46 UTC
+Table: 'MiniRoll(130954434)#035' 6-max (real money) Seat #1 is the button
+Seat 1: grillon0336_ (12260)
+Seat 2: Gdg77 (25070)
+Seat 3: chabalizer (42525)
+Seat 4: fleure80 (34220)
+Seat 5: manggy94 (11750)
+Seat 6: lamproie81 (22358)
+*** ANTE/BLINDS ***
+Gdg77 posts ante 40
+chabalizer posts ante 40
+grillon0336_ posts ante 40
+fleure80 posts ante 40
+manggy94 posts ante 40
+lamproie81 posts ante 40
+Gdg77 posts small blind 250
+chabalizer posts big blind 500
+Dealt to manggy94 [Td 3d]
+*** PRE-FLOP *** 
+fleure80 folds
+manggy94 folds
+lamproie81 calls 500
+grillon0336_ folds
+Gdg77 calls 250
+chabalizer checks
+*** FLOP *** [7h 2h 4d]
+Gdg77 checks
+chabalizer checks
+lamproie81 checks
+*** TURN *** [7h 2h 4d][Qs]
+Gdg77 checks
+chabalizer checks
+lamproie81 bets 1740
+Gdg77 folds
+chabalizer folds
+lamproie81 collected 3480 from pot
+*** SUMMARY ***
+Total pot 3480 | No rake
+Board: [7h 2h 4d Qs]
+Seat 6: lamproie81 won 3480
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #562445011296190500-11-1443598534 - Holdem no limit (40/250/500) - 2015/09/30 07:35:34 UTC
+Table: 'MiniRoll(130954434)#035' 6-max (real money) Seat #2 is the button
+Seat 1: grillon0336_ (12220)
+Seat 2: Gdg77 (24530)
+Seat 3: chabalizer (41985)
+Seat 4: fleure80 (34180)
+Seat 5: manggy94 (11710)
+Seat 6: lamproie81 (23558)
+*** ANTE/BLINDS ***
+chabalizer posts ante 40
+fleure80 posts ante 40
+grillon0336_ posts ante 40
+Gdg77 posts ante 40
+manggy94 posts ante 40
+lamproie81 posts ante 40
+chabalizer posts small blind 250
+fleure80 posts big blind 500
+Dealt to manggy94 [3s Kd]
+*** PRE-FLOP *** 
+manggy94 calls 500
+lamproie81 folds
+grillon0336_ folds
+Gdg77 folds
+chabalizer folds
+fleure80 checks
+*** FLOP *** [9h 4c Ts]
+fleure80 bets 500
+manggy94 raises 10670 to 11170 and is all-in
+fleure80 folds
+manggy94 collected 13160 from pot
+*** SUMMARY ***
+Total pot 13160 | No rake
+Board: [9h 4c Ts]
+Seat 5: manggy94 won 13160
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #562445011296190503-1-1443598590 - Holdem no limit (40/250/500) - 2015/09/30 07:36:30 UTC
+Table: 'MiniRoll(130954434)#038' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (13160)
+Seat 2: vinsou1834 (8770)
+Seat 3: papyange (9975)
+Seat 4: rb85 (17140)
+Seat 5: makenzy85 (10000)
+Seat 6: kikinan (4055)
+*** ANTE/BLINDS ***
+vinsou1834 posts ante 40
+papyange posts ante 40
+manggy94 posts ante 40
+rb85 posts ante 40
+makenzy85 posts ante 40
+kikinan posts ante 40
+vinsou1834 posts small blind 250
+papyange posts big blind 500
+Dealt to manggy94 [Ks Qs]
+*** PRE-FLOP *** 
+rb85 folds
+makenzy85 folds
+kikinan folds
+manggy94 raises 1490 to 1990
+vinsou1834 calls 1740
+papyange folds
+*** FLOP *** [8h Jd As]
+vinsou1834 checks
+manggy94 bets 4720
+vinsou1834 folds
+manggy94 collected 9440 from pot
+*** SUMMARY ***
+Total pot 9440 | No rake
+Board: [8h Jd As]
+Seat 1: manggy94 (button) won 9440
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #562445011296190503-2-1443598627 - Holdem no limit (40/250/500) - 2015/09/30 07:37:07 UTC
+Table: 'MiniRoll(130954434)#038' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (15850)
+Seat 2: vinsou1834 (6740)
+Seat 3: papyange (9435)
+Seat 4: rb85 (17100)
+Seat 5: makenzy85 (9960)
+Seat 6: kikinan (4015)
+*** ANTE/BLINDS ***
+papyange posts ante 40
+rb85 posts ante 40
+manggy94 posts ante 40
+vinsou1834 posts ante 40
+makenzy85 posts ante 40
+kikinan posts ante 40
+papyange posts small blind 250
+rb85 posts big blind 500
+Dealt to manggy94 [Js Qh]
+*** PRE-FLOP *** 
+makenzy85 folds
+kikinan folds
+manggy94 calls 500
+vinsou1834 folds
+papyange folds
+rb85 raises 500 to 1000
+manggy94 calls 500
+*** FLOP *** [9h 3c 7c]
+rb85 bets 500
+manggy94 calls 500
+*** TURN *** [9h 3c 7c][4h]
+rb85 bets 500
+manggy94 calls 500
+*** RIVER *** [9h 3c 7c 4h][7h]
+rb85 bets 2671
+manggy94 calls 2671
+*** SHOW DOWN ***
+manggy94 shows [Js Qh] (One pair : 7)
+rb85 shows [Ah Kc] (One pair : 7)
+rb85 collected 9832 from pot
+*** SUMMARY ***
+Total pot 9832 | No rake
+Board: [9h 3c 7c 4h 7h]
+Seat 1: manggy94 showed [Js Qh] and lost with One pair : 7
+Seat 4: rb85 (big blind) showed [Ah Kc] and won 9832 with One pair : 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #562445011296190503-3-1443598659 - Holdem no limit (40/250/500) - 2015/09/30 07:37:39 UTC
+Table: 'MiniRoll(130954434)#038' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (11139)
+Seat 2: vinsou1834 (6700)
+Seat 3: papyange (9145)
+Seat 4: rb85 (22221)
+Seat 5: makenzy85 (9920)
+Seat 6: kikinan (3975)
+*** ANTE/BLINDS ***
+rb85 posts ante 40
+makenzy85 posts ante 40
+manggy94 posts ante 40
+vinsou1834 posts ante 40
+papyange posts ante 40
+kikinan posts ante 40
+rb85 posts small blind 250
+makenzy85 posts big blind 500
+Dealt to manggy94 [Ad 6d]
+*** PRE-FLOP *** 
+kikinan folds
+manggy94 raises 1490 to 1990
+vinsou1834 folds
+papyange folds
+rb85 folds
+makenzy85 folds
+manggy94 collected 2980 from pot
+*** SUMMARY ***
+Total pot 2980 | No rake
+Seat 1: manggy94 won 2980
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #562445011296190503-4-1443598688 - Holdem no limit (60/300/600) - 2015/09/30 07:38:08 UTC
+Table: 'MiniRoll(130954434)#038' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (12089)
+Seat 2: vinsou1834 (6660)
+Seat 3: papyange (9105)
+Seat 4: rb85 (21931)
+Seat 5: makenzy85 (9380)
+Seat 6: kikinan (3935)
+*** ANTE/BLINDS ***
+makenzy85 posts ante 60
+kikinan posts ante 60
+manggy94 posts ante 60
+vinsou1834 posts ante 60
+papyange posts ante 60
+rb85 posts ante 60
+makenzy85 posts small blind 300
+kikinan posts big blind 600
+Dealt to manggy94 [Kd 2s]
+*** PRE-FLOP *** 
+manggy94 calls 600
+vinsou1834 calls 600
+papyange folds
+rb85 folds
+makenzy85 calls 300
+kikinan checks
+*** FLOP *** [5s Qh Qc]
+makenzy85 checks
+kikinan checks
+manggy94 bets 2760
+vinsou1834 folds
+makenzy85 folds
+kikinan raises 515 to 3275 and is all-in
+manggy94 calls 515
+*** TURN *** [5s Qh Qc][3d]
+*** RIVER *** [5s Qh Qc 3d][Kc]
+*** SHOW DOWN ***
+manggy94 shows [Kd 2s] (Two pairs : Kings and Queens)
+kikinan shows [4c Qs] (Trips of Queens)
+kikinan collected 9310 from pot
+*** SUMMARY ***
+Total pot 9310 | No rake
+Board: [5s Qh Qc 3d Kc]
+Seat 1: manggy94 showed [Kd 2s] and lost with Two pairs : Kings and Queens
+Seat 6: kikinan (big blind) showed [4c Qs] and won 9310 with Trips of Queens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #562445011296190503-5-1443598745 - Holdem no limit (60/300/600) - 2015/09/30 07:39:05 UTC
+Table: 'MiniRoll(130954434)#038' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (8154)
+Seat 2: vinsou1834 (6000)
+Seat 3: papyange (9045)
+Seat 4: rb85 (21871)
+Seat 5: makenzy85 (8720)
+Seat 6: kikinan (9310)
+*** ANTE/BLINDS ***
+kikinan posts ante 60
+manggy94 posts ante 60
+vinsou1834 posts ante 60
+papyange posts ante 60
+rb85 posts ante 60
+makenzy85 posts ante 60
+kikinan posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [4c 3s]
+*** PRE-FLOP *** 
+vinsou1834 folds
+papyange folds
+rb85 folds
+makenzy85 folds
+kikinan calls 300
+manggy94 checks
+*** FLOP *** [Kc Ah 9d]
+kikinan checks
+manggy94 checks
+*** TURN *** [Kc Ah 9d][8s]
+kikinan checks
+manggy94 checks
+*** RIVER *** [Kc Ah 9d 8s][2c]
+kikinan checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [4c 3s] (High card : Ace)
+kikinan shows [5h 7h] (High card : Ace)
+kikinan collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [Kc Ah 9d 8s 2c]
+Seat 1: manggy94 (big blind) showed [4c 3s] and lost with High card : Ace
+Seat 6: kikinan (small blind) showed [5h 7h] and won 1560 with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 8 - HandId: #562445011296190503-6-1443598781 - Holdem no limit (60/300/600) - 2015/09/30 07:39:41 UTC
+Table: 'MiniRoll(130954434)#038' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (7494)
+Seat 2: vinsou1834 (5940)
+Seat 3: papyange (8985)
+Seat 4: rb85 (21811)
+Seat 5: makenzy85 (8660)
+Seat 6: kikinan (10210)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+vinsou1834 posts ante 60
+papyange posts ante 60
+rb85 posts ante 60
+makenzy85 posts ante 60
+kikinan posts ante 60
+manggy94 posts small blind 300
+vinsou1834 posts big blind 600
+Dealt to manggy94 [3d 6d]
+*** PRE-FLOP *** 
+papyange folds
+rb85 folds
+makenzy85 calls 600
+kikinan folds
+manggy94 raises 6834 to 7434 and is all-in
+vinsou1834 folds
+makenzy85 calls 6834
+*** FLOP *** [3h 4s Qd]
+*** TURN *** [3h 4s Qd][Kc]
+*** RIVER *** [3h 4s Qd Kc][Ts]
+*** SHOW DOWN ***
+manggy94 shows [3d 6d] (One pair : 3)
+makenzy85 shows [Qs Jd] (One pair : Queens)
+makenzy85 collected 15828 from pot
+*** SUMMARY ***
+Total pot 15828 | No rake
+Board: [3h 4s Qd Kc Ts]
+Seat 1: manggy94 (small blind) showed [3d 6d] and lost with One pair : 3
+Seat 5: makenzy85 showed [Qs Jd] and won 15828 with One pair : Queens
+
+

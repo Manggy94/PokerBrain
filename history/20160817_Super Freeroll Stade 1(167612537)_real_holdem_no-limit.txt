@@ -1,0 +1,34 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 1 - HandId: #719890364814589953-1-1471433750 - Holdem no limit (10/20) - 2016/08/17 11:35:50 UTC
+Table: 'Super Freeroll Stade 1(167612537)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Miami06 (1500)
+Seat 2: manggy94 (1500)
+Seat 3: naki naki (1500)
+Seat 4: nanardu44 (1500)
+Seat 5: bn_y (1500)
+Seat 6: Wainamax (1500)
+*** ANTE/BLINDS ***
+naki naki posts small blind 10
+nanardu44 posts big blind 20
+Dealt to manggy94 [Kh Qc]
+*** PRE-FLOP *** 
+bn_y folds
+Wainamax calls 20
+Miami06 raises 1480 to 1500 and is all-in
+manggy94 calls 1500 and is all-in
+naki naki folds
+nanardu44 folds
+Wainamax folds
+*** FLOP *** [Th As 6h]
+*** TURN *** [Th As 6h][Qs]
+*** RIVER *** [Th As 6h Qs][5h]
+*** SHOW DOWN ***
+manggy94 shows [Kh Qc] (One pair : Queens)
+Miami06 shows [3d Ad] (One pair : Aces)
+Miami06 collected 3050 from pot
+*** SUMMARY ***
+Total pot 3050 | No rake
+Board: [Th As 6h Qs 5h]
+Seat 1: Miami06 showed [3d Ad] and won 3050 with One pair : Aces
+Seat 2: manggy94 (button) showed [Kh Qc] and lost with One pair : Queens
+
+

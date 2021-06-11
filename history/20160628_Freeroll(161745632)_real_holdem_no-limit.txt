@@ -1,0 +1,603 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level:  - HandId: #694692199710851425-1-1467120850 - Holdem no limit (15/30) - 2016/06/28 13:34:10 UTC
+Table: 'Freeroll(161745632)#352' 8-max (real money) Seat #2 is the button
+Seat 1: I LOVE BDX (3000)
+Seat 2: maxiou777 (3000)
+Seat 3: teriituma (3000)
+Seat 4: attedneV (3000)
+Seat 5: Fiston95190 (3000)
+Seat 6: hotepression (3000)
+Seat 7: manggy94 (3000)
+Seat 8: Ah.S (3000)
+*** ANTE/BLINDS ***
+teriituma posts small blind 15
+attedneV posts big blind 30
+*** PRE-FLOP *** 
+hotepression calls 30
+Ah.S folds
+maxiou777 folds
+teriituma calls 15
+attedneV checks
+*** FLOP *** [3d Ac 2h]
+teriituma checks
+attedneV checks
+hotepression checks
+*** TURN *** [3d Ac 2h][Tc]
+teriituma checks
+attedneV checks
+hotepression bets 270
+teriituma folds
+attedneV folds
+hotepression collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [3d Ac 2h Tc]
+Seat 6: hotepression won 360
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #694692199710851425-2-1467120982 - Holdem no limit (20/40) - 2016/06/28 13:36:22 UTC
+Table: 'Freeroll(161745632)#352' 8-max (real money) Seat #3 is the button
+Seat 1: I LOVE BDX (3000)
+Seat 2: maxiou777 (3000)
+Seat 3: teriituma (2970)
+Seat 4: attedneV (2970)
+Seat 5: Fiston95190 (3000)
+Seat 6: hotepression (3060)
+Seat 7: manggy94 (3000)
+Seat 8: Ah.S (3000)
+*** ANTE/BLINDS ***
+attedneV posts small blind 20
+Fiston95190 posts big blind 40
+Dealt to manggy94 [7d Qc]
+*** PRE-FLOP *** 
+hotepression folds
+manggy94 folds
+Ah.S folds
+I LOVE BDX folds
+maxiou777 calls 40
+teriituma calls 40
+attedneV raises 2930 to 2970 and is all-in
+Fiston95190 raises 30 to 3000 and is all-in
+maxiou777 folds
+teriituma folds
+*** FLOP *** [3h 6s 6c]
+*** TURN *** [3h 6s 6c][Ks]
+*** RIVER *** [3h 6s 6c Ks][Kc]
+*** SHOW DOWN ***
+attedneV shows [Ac 8c] (Two pairs : Kings and 6)
+Fiston95190 shows [Kh Jd] (Full of Kings and 6)
+Fiston95190 collected 6050 from pot
+*** SUMMARY ***
+Total pot 6050 | No rake
+Board: [3h 6s 6c Ks Kc]
+Seat 4: attedneV (small blind) showed [Ac 8c] and lost with Two pairs : Kings and 6
+Seat 5: Fiston95190 (big blind) showed [Kh Jd] and won 6050 with Full of Kings and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #694692199710851185-4-1467121028 - Holdem no limit (20/40) - 2016/06/28 13:37:08 UTC
+Table: 'Freeroll(161745632)#112' 8-max (real money) Seat #8 is the button
+Seat 1: M.c.Lusky (9275)
+Seat 2: manggy94 (3000)
+Seat 3: jeje0438 (2810)
+Seat 4: Djerico051 (3293)
+Seat 5: clabar974 (2930)
+Seat 6: alexspeer (2965)
+Seat 7: flambeurbm (3000)
+Seat 8: philippe62x_ (2727)
+*** ANTE/BLINDS ***
+M.c.Lusky posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [5s 5c]
+*** PRE-FLOP *** 
+jeje0438 raises 40 to 80
+Djerico051 folds
+clabar974 calls 80
+alexspeer folds
+flambeurbm calls 80
+philippe62x_ calls 80
+M.c.Lusky calls 60
+manggy94 calls 40
+*** FLOP *** [8h 8d Js]
+M.c.Lusky checks
+manggy94 checks
+jeje0438 checks
+clabar974 checks
+flambeurbm checks
+philippe62x_ checks
+*** TURN *** [8h 8d Js][9d]
+M.c.Lusky checks
+manggy94 bets 40
+jeje0438 calls 40
+clabar974 raises 120 to 160
+flambeurbm calls 160
+philippe62x_ folds
+M.c.Lusky folds
+manggy94 folds
+jeje0438 calls 120
+*** RIVER *** [8h 8d Js 9d][4h]
+jeje0438 checks
+clabar974 bets 260
+flambeurbm folds
+jeje0438 folds
+clabar974 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Board: [8h 8d Js 9d 4h]
+Seat 5: clabar974 won 1260
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #694692199710851185-5-1467121104 - Holdem no limit (20/40) - 2016/06/28 13:38:24 UTC
+Table: 'Freeroll(161745632)#112' 8-max (real money) Seat #1 is the button
+Seat 1: M.c.Lusky (9195)
+Seat 2: manggy94 (2880)
+Seat 3: jeje0438 (2570)
+Seat 4: Djerico051 (3293)
+Seat 5: clabar974 (3690)
+Seat 6: alexspeer (2965)
+Seat 7: flambeurbm (2760)
+Seat 8: philippe62x_ (2647)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+jeje0438 posts big blind 40
+Dealt to manggy94 [7h 2s]
+*** PRE-FLOP *** 
+Djerico051 calls 40
+clabar974 folds
+alexspeer folds
+flambeurbm folds
+philippe62x_ calls 40
+M.c.Lusky raises 120 to 160
+manggy94 folds
+jeje0438 calls 120
+Djerico051 calls 120
+philippe62x_ folds
+*** FLOP *** [2c Kd Jd]
+jeje0438 checks
+Djerico051 checks
+M.c.Lusky bets 540
+jeje0438 calls 540
+Djerico051 folds
+*** TURN *** [2c Kd Jd][8h]
+jeje0438 checks
+M.c.Lusky checks
+*** RIVER *** [2c Kd Jd 8h][Qs]
+jeje0438 checks
+M.c.Lusky checks
+*** SHOW DOWN ***
+M.c.Lusky shows [Ad 9d] (High card : Ace)
+jeje0438 shows [Jc Ts] (One pair : Jacks)
+jeje0438 collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | No rake
+Board: [2c Kd Jd 8h Qs]
+Seat 1: M.c.Lusky (button) showed [Ad 9d] and lost with High card : Ace
+Seat 3: jeje0438 (big blind) showed [Jc Ts] and won 1620 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #694692199710851185-6-1467121182 - Holdem no limit (30/60) - 2016/06/28 13:39:42 UTC
+Table: 'Freeroll(161745632)#112' 8-max (real money) Seat #2 is the button
+Seat 1: M.c.Lusky (8495)
+Seat 2: manggy94 (2860)
+Seat 3: jeje0438 (3490)
+Seat 4: Djerico051 (3133)
+Seat 5: clabar974 (3690)
+Seat 6: alexspeer (2965)
+Seat 7: flambeurbm (2760)
+Seat 8: philippe62x_ (2607)
+*** ANTE/BLINDS ***
+jeje0438 posts small blind 30
+Djerico051 posts big blind 60
+Dealt to manggy94 [9s 8s]
+*** PRE-FLOP *** 
+clabar974 folds
+alexspeer folds
+flambeurbm raises 240 to 300
+philippe62x_ calls 300
+M.c.Lusky raises 8195 to 8495 and is all-in
+manggy94 folds
+jeje0438 calls 3460 and is all-in
+Djerico051 folds
+flambeurbm calls 2460 and is all-in
+philippe62x_ calls 2307 and is all-in
+*** FLOP *** [Qd Js Qs]
+*** TURN *** [Qd Js Qs][8d]
+*** RIVER *** [Qd Js Qs 8d][3h]
+*** SHOW DOWN ***
+philippe62x_ shows [6s 6c] (Two pairs : Queens and 6)
+M.c.Lusky shows [Th Td] (Two pairs : Queens and Tens)
+jeje0438 shows [Jh 8h] (Two pairs : Queens and Jacks)
+flambeurbm shows [As Jd] (Two pairs : Queens and Jacks)
+flambeurbm collected 10947 from main pot
+jeje0438 collected 1460 from side pot 1
+M.c.Lusky collected 5005 from side pot 2
+*** SUMMARY ***
+Total pot 17412 | No rake
+Board: [Qd Js Qs 8d 3h]
+Seat 1: M.c.Lusky showed [Th Td] and won 5005 with Two pairs : Queens and Tens
+Seat 3: jeje0438 (small blind) showed [Jh 8h] and won 1460 with Two pairs : Queens and Jacks
+Seat 7: flambeurbm showed [As Jd] and won 10947 with Two pairs : Queens and Jacks
+Seat 8: philippe62x_ showed [6s 6c] and lost with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #694692199710851185-7-1467121234 - Holdem no limit (30/60) - 2016/06/28 13:40:34 UTC
+Table: 'Freeroll(161745632)#112' 8-max (real money) Seat #3 is the button
+Seat 1: M.c.Lusky (5005)
+Seat 2: manggy94 (2860)
+Seat 3: jeje0438 (1460)
+Seat 4: Djerico051 (3073)
+Seat 5: clabar974 (3690)
+Seat 6: alexspeer (2965)
+Seat 7: flambeurbm (10947)
+*** ANTE/BLINDS ***
+Djerico051 posts small blind 30
+clabar974 posts big blind 60
+Dealt to manggy94 [Qs 9s]
+*** PRE-FLOP *** 
+alexspeer folds
+flambeurbm raises 60 to 120
+M.c.Lusky calls 120
+manggy94 calls 120
+jeje0438 raises 1340 to 1460 and is all-in
+Djerico051 folds
+clabar974 folds
+flambeurbm calls 1340
+M.c.Lusky calls 1340
+manggy94 folds
+*** FLOP *** [Jh 7h 2s]
+flambeurbm bets 2295
+M.c.Lusky folds
+*** TURN *** [Jh 7h 2s][3s]
+*** RIVER *** [Jh 7h 2s 3s][6c]
+*** SHOW DOWN ***
+jeje0438 shows [Ac 6h] (One pair : 6)
+flambeurbm shows [Tc Js] (One pair : Jacks)
+flambeurbm collected 6885 from pot
+*** SUMMARY ***
+Total pot 6885 | No rake
+Board: [Jh 7h 2s 3s 6c]
+Seat 3: jeje0438 (button) showed [Ac 6h] and lost with One pair : 6
+Seat 7: flambeurbm showed [Tc Js] and won 6885 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #694692199710851185-8-1467121300 - Holdem no limit (30/60) - 2016/06/28 13:41:40 UTC
+Table: 'Freeroll(161745632)#112' 8-max (real money) Seat #4 is the button
+Seat 1: M.c.Lusky (3545)
+Seat 2: manggy94 (2740)
+Seat 4: Djerico051 (3043)
+Seat 5: clabar974 (3630)
+Seat 6: alexspeer (2965)
+Seat 7: flambeurbm (14077)
+Seat 8: cosinuspi (4920)
+*** ANTE/BLINDS ***
+clabar974 posts small blind 30
+alexspeer posts big blind 60
+Dealt to manggy94 [3d As]
+*** PRE-FLOP *** 
+flambeurbm calls 60
+cosinuspi calls 60
+M.c.Lusky calls 60
+manggy94 folds
+Djerico051 folds
+clabar974 raises 180 to 240
+alexspeer folds
+flambeurbm calls 180
+cosinuspi calls 180
+M.c.Lusky calls 180
+*** FLOP *** [6h 7c 6s]
+clabar974 bets 240
+flambeurbm folds
+cosinuspi calls 240
+M.c.Lusky folds
+*** TURN *** [6h 7c 6s][2d]
+clabar974 bets 330
+cosinuspi calls 330
+*** RIVER *** [6h 7c 6s 2d][5d]
+clabar974 bets 360
+cosinuspi calls 360
+*** SHOW DOWN ***
+cosinuspi shows [4d 5h] (Two pairs : 6 and 5)
+clabar974 shows [Th Tc] (Two pairs : Tens and 6)
+clabar974 collected 2880 from pot
+*** SUMMARY ***
+Total pot 2880 | No rake
+Board: [6h 7c 6s 2d 5d]
+Seat 5: clabar974 (small blind) showed [Th Tc] and won 2880 with Two pairs : Tens and 6
+Seat 8: cosinuspi showed [4d 5h] and lost with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #694692199710851185-9-1467121438 - Holdem no limit (40/80) - 2016/06/28 13:43:58 UTC
+Table: 'Freeroll(161745632)#112' 8-max (real money) Seat #5 is the button
+Seat 1: M.c.Lusky (3305)
+Seat 2: manggy94 (2740)
+Seat 3: .fredohard (3000)
+Seat 4: Djerico051 (3043)
+Seat 5: clabar974 (5340)
+Seat 6: alexspeer (2905)
+Seat 7: flambeurbm (13837)
+Seat 8: cosinuspi (3750)
+*** ANTE/BLINDS ***
+alexspeer posts small blind 40
+flambeurbm posts big blind 80
+Dealt to manggy94 [3d Jh]
+*** PRE-FLOP *** 
+cosinuspi raises 80 to 160
+M.c.Lusky calls 160
+manggy94 folds
+.fredohard raises 2840 to 3000 and is all-in
+Djerico051 folds
+clabar974 folds
+alexspeer folds
+flambeurbm folds
+cosinuspi calls 2840
+M.c.Lusky folds
+*** FLOP *** [Kc 4h Ah]
+*** TURN *** [Kc 4h Ah][Ac]
+*** RIVER *** [Kc 4h Ah Ac][4s]
+*** SHOW DOWN ***
+.fredohard shows [8h Qh] (Two pairs : Aces and 4)
+cosinuspi shows [Qs Ts] (Two pairs : Aces and 4)
+cosinuspi collected 3140 from pot
+.fredohard collected 3140 from pot
+*** SUMMARY ***
+Total pot 6280 | No rake
+Board: [Kc 4h Ah Ac 4s]
+Seat 3: .fredohard showed [8h Qh] and won 3140 with Two pairs : Aces and 4
+Seat 8: cosinuspi showed [Qs Ts] and won 3140 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #694692199710851185-10-1467121494 - Holdem no limit (40/80) - 2016/06/28 13:44:54 UTC
+Table: 'Freeroll(161745632)#112' 8-max (real money) Seat #6 is the button
+Seat 1: M.c.Lusky (3145)
+Seat 2: manggy94 (2740)
+Seat 3: .fredohard (3140)
+Seat 4: Djerico051 (3043)
+Seat 5: clabar974 (5340)
+Seat 6: alexspeer (2865)
+Seat 7: flambeurbm (13757)
+Seat 8: cosinuspi (3890)
+*** ANTE/BLINDS ***
+flambeurbm posts small blind 40
+cosinuspi posts big blind 80
+Dealt to manggy94 [5h Qd]
+*** PRE-FLOP *** 
+M.c.Lusky folds
+manggy94 folds
+.fredohard folds
+Djerico051 folds
+clabar974 folds
+alexspeer folds
+flambeurbm calls 40
+cosinuspi raises 160 to 240
+flambeurbm calls 160
+*** FLOP *** [6c 9h Ac]
+flambeurbm checks
+cosinuspi checks
+*** TURN *** [6c 9h Ac][2s]
+flambeurbm checks
+cosinuspi checks
+*** RIVER *** [6c 9h Ac 2s][Ks]
+flambeurbm bets 80
+cosinuspi calls 80
+*** SHOW DOWN ***
+cosinuspi shows [Qs Jd] (High card : Ace)
+flambeurbm shows [8d Kd] (One pair : Kings)
+flambeurbm collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [6c 9h Ac 2s Ks]
+Seat 7: flambeurbm (small blind) showed [8d Kd] and won 640 with One pair : Kings
+Seat 8: cosinuspi (big blind) showed [Qs Jd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #694692199710851185-11-1467121545 - Holdem no limit (60/120) - 2016/06/28 13:45:45 UTC
+Table: 'Freeroll(161745632)#112' 8-max (real money) Seat #7 is the button
+Seat 1: M.c.Lusky (3145)
+Seat 2: manggy94 (2740)
+Seat 3: .fredohard (3140)
+Seat 4: Djerico051 (3043)
+Seat 5: clabar974 (5340)
+Seat 6: alexspeer (2865)
+Seat 7: flambeurbm (14077)
+Seat 8: cosinuspi (3570)
+*** ANTE/BLINDS ***
+cosinuspi posts small blind 60
+M.c.Lusky posts big blind 120
+Dealt to manggy94 [7c 2s]
+*** PRE-FLOP *** 
+manggy94 folds
+.fredohard raises 3020 to 3140 and is all-in
+Djerico051 folds
+clabar974 folds
+alexspeer folds
+flambeurbm folds
+cosinuspi folds
+M.c.Lusky folds
+.fredohard collected 3320 from pot
+*** SUMMARY ***
+Total pot 3320 | No rake
+Seat 3: .fredohard won 3320
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #694692199710851185-12-1467121636 - Holdem no limit (60/120) - 2016/06/28 13:47:16 UTC
+Table: 'Freeroll(161745632)#112' 8-max (real money) Seat #8 is the button
+Seat 1: M.c.Lusky (3025)
+Seat 2: manggy94 (2740)
+Seat 3: .fredohard (3320)
+Seat 4: Djerico051 (3043)
+Seat 5: clabar974 (5340)
+Seat 6: alexspeer (2865)
+Seat 7: flambeurbm (14077)
+Seat 8: cosinuspi (3510)
+*** ANTE/BLINDS ***
+M.c.Lusky posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [5h Kh]
+*** PRE-FLOP *** 
+.fredohard folds
+Djerico051 calls 120
+clabar974 calls 120
+alexspeer folds
+flambeurbm folds
+cosinuspi calls 120
+M.c.Lusky calls 60
+manggy94 folds
+*** FLOP *** [Jc Ks 6s]
+M.c.Lusky checks
+Djerico051 checks
+clabar974 bets 120
+cosinuspi calls 120
+M.c.Lusky folds
+Djerico051 calls 120
+*** TURN *** [Jc Ks 6s][9c]
+Djerico051 checks
+clabar974 bets 480
+cosinuspi calls 480
+Djerico051 folds
+*** RIVER *** [Jc Ks 6s 9c][2c]
+clabar974 bets 840
+cosinuspi raises 1950 to 2790 and is all-in
+clabar974 calls 1950
+*** SHOW DOWN ***
+clabar974 shows [Jd 9h] (Two pairs : Jacks and 9)
+cosinuspi shows [Qh Tc] (Straight King high)
+cosinuspi collected 7500 from pot
+*** SUMMARY ***
+Total pot 7500 | No rake
+Board: [Jc Ks 6s 9c 2c]
+Seat 5: clabar974 showed [Jd 9h] and lost with Two pairs : Jacks and 9
+Seat 8: cosinuspi (button) showed [Qh Tc] and won 7500 with Straight King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #694692199710851185-13-1467121825 - Holdem no limit (10/60/120) - 2016/06/28 13:50:25 UTC
+Table: 'Freeroll(161745632)#112' 8-max (real money) Seat #1 is the button
+Seat 1: M.c.Lusky (2905)
+Seat 2: manggy94 (2620)
+Seat 3: .fredohard (3320)
+Seat 4: Djerico051 (2803)
+Seat 5: clabar974 (1830)
+Seat 6: alexspeer (2865)
+Seat 7: flambeurbm (14077)
+Seat 8: cosinuspi (7500)
+*** ANTE/BLINDS ***
+manggy94 posts ante 10
+.fredohard posts ante 10
+M.c.Lusky posts ante 10
+Djerico051 posts ante 10
+clabar974 posts ante 10
+alexspeer posts ante 10
+flambeurbm posts ante 10
+cosinuspi posts ante 10
+manggy94 posts small blind 60
+.fredohard posts big blind 120
+Dealt to manggy94 [Js 8d]
+*** PRE-FLOP *** 
+Djerico051 calls 120
+clabar974 folds
+alexspeer folds
+flambeurbm folds
+cosinuspi folds
+M.c.Lusky folds
+manggy94 calls 60
+.fredohard checks
+*** FLOP *** [9c 2h 6d]
+manggy94 bets 120
+.fredohard calls 120
+Djerico051 calls 120
+*** TURN *** [9c 2h 6d][5s]
+manggy94 checks
+.fredohard bets 800
+Djerico051 calls 800
+manggy94 folds
+*** RIVER *** [9c 2h 6d 5s][4d]
+.fredohard bets 2270 and is all-in
+Djerico051 calls 1753 and is all-in
+*** SHOW DOWN ***
+Djerico051 shows [9d Ks] (One pair : 9)
+.fredohard shows [4h 5h] (Two pairs : 5 and 4)
+.fredohard collected 6423 from pot
+*** SUMMARY ***
+Total pot 6423 | No rake
+Board: [9c 2h 6d 5s 4d]
+Seat 3: .fredohard (big blind) showed [4h 5h] and won 6423 with Two pairs : 5 and 4
+Seat 4: Djerico051 showed [9d Ks] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #694692199710851185-14-1467121940 - Holdem no limit (15/75/150) - 2016/06/28 13:52:20 UTC
+Table: 'Freeroll(161745632)#112' 8-max (real money) Seat #2 is the button
+Seat 1: M.c.Lusky (2895)
+Seat 2: manggy94 (2370)
+Seat 3: .fredohard (6423)
+Seat 5: clabar974 (1820)
+Seat 6: alexspeer (2855)
+Seat 7: flambeurbm (14067)
+Seat 8: cosinuspi (7490)
+*** ANTE/BLINDS ***
+.fredohard posts ante 15
+clabar974 posts ante 15
+M.c.Lusky posts ante 15
+manggy94 posts ante 15
+alexspeer posts ante 15
+flambeurbm posts ante 15
+cosinuspi posts ante 15
+.fredohard posts small blind 75
+clabar974 posts big blind 150
+Dealt to manggy94 [Qh 4s]
+*** PRE-FLOP *** 
+alexspeer folds
+flambeurbm calls 150
+cosinuspi folds
+M.c.Lusky calls 150
+manggy94 folds
+.fredohard calls 75
+clabar974 raises 1655 to 1805 and is all-in
+flambeurbm folds
+M.c.Lusky folds
+.fredohard folds
+clabar974 collected 2360 from pot
+*** SUMMARY ***
+Total pot 2360 | No rake
+Seat 5: clabar974 (big blind) won 2360
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #694692199710851185-15-1467121967 - Holdem no limit (15/75/150) - 2016/06/28 13:52:47 UTC
+Table: 'Freeroll(161745632)#112' 8-max (real money) Seat #3 is the button
+Seat 1: M.c.Lusky (2730)
+Seat 2: manggy94 (2355)
+Seat 3: .fredohard (6258)
+Seat 5: clabar974 (2360)
+Seat 6: alexspeer (2840)
+Seat 7: flambeurbm (13902)
+Seat 8: cosinuspi (7475)
+*** ANTE/BLINDS ***
+clabar974 posts ante 15
+alexspeer posts ante 15
+M.c.Lusky posts ante 15
+manggy94 posts ante 15
+.fredohard posts ante 15
+flambeurbm posts ante 15
+cosinuspi posts ante 15
+clabar974 posts small blind 75
+alexspeer posts big blind 150
+Dealt to manggy94 [2h 2s]
+*** PRE-FLOP *** 
+flambeurbm folds
+cosinuspi calls 150
+M.c.Lusky folds
+manggy94 raises 2190 to 2340 and is all-in
+.fredohard folds
+clabar974 calls 2265
+alexspeer folds
+cosinuspi folds
+*** FLOP *** [Jd Ah 5c]
+*** TURN *** [Jd Ah 5c][Jc]
+*** RIVER *** [Jd Ah 5c Jc][Qh]
+*** SHOW DOWN ***
+manggy94 shows [2h 2s] (Two pairs : Jacks and 2)
+clabar974 shows [5h Ad] (Two pairs : Aces and Jacks)
+clabar974 collected 5085 from pot
+*** SUMMARY ***
+Total pot 5085 | No rake
+Board: [Jd Ah 5c Jc Qh]
+Seat 2: manggy94 showed [2h 2s] and lost with Two pairs : Jacks and 2
+Seat 5: clabar974 (small blind) showed [5h Ad] and won 5085 with Two pairs : Aces and Jacks
+
+

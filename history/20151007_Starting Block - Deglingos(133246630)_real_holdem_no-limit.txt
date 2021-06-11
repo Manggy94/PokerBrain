@@ -1,0 +1,122 @@
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #572289918152212481-1-1444236819 - Holdem no limit (10/20) - 2015/10/07 16:53:39 UTC
+Table: 'Starting Block - Deglingos(133246630)#0' 10-max (real money) Seat #6 is the button
+Seat 1: fredY2b59 (500)
+Seat 2: illusionplay (500)
+Seat 3: joueclub (500)
+Seat 4: dieu-trime (500)
+Seat 5: ALEX34120 (500)
+Seat 6: manggy94 (500)
+Seat 7: Bracco 7789 (500)
+Seat 8: TONY6727 (500)
+Seat 9: MER.DE..RIEN (500)
+Seat 10: chinou27 (500)
+*** ANTE/BLINDS ***
+Bracco 7789 posts small blind 10
+TONY6727 posts big blind 20
+Dealt to manggy94 [2s 7d]
+*** PRE-FLOP *** 
+MER.DE..RIEN calls 20
+chinou27 calls 20
+fredY2b59 folds
+illusionplay raises 480 to 500 and is all-in
+joueclub folds
+dieu-trime folds
+ALEX34120 folds
+manggy94 folds
+Bracco 7789 calls 490 and is all-in
+TONY6727 folds
+MER.DE..RIEN calls 480 and is all-in
+chinou27 calls 480 and is all-in
+*** FLOP *** [5h 4c 6s]
+*** TURN *** [5h 4c 6s][4d]
+*** RIVER *** [5h 4c 6s 4d][6c]
+*** SHOW DOWN ***
+illusionplay shows [9s Js] (Two pairs : 6 and 4)
+Bracco 7789 shows [Ac 2c] (Two pairs : 6 and 4)
+chinou27 shows [Kc 9c] (Two pairs : 6 and 4)
+MER.DE..RIEN shows [6d 8s] (Full of 6 and 4)
+MER.DE..RIEN collected 2020 from pot
+*** SUMMARY ***
+Total pot 2020 | No rake
+Board: [5h 4c 6s 4d 6c]
+Seat 2: illusionplay showed [9s Js] and lost with Two pairs : 6 and 4
+Seat 7: Bracco 7789 (small blind) showed [Ac 2c] and lost with Two pairs : 6 and 4
+Seat 9: MER.DE..RIEN showed [6d 8s] and won 2020 with Full of 6 and 4
+Seat 10: chinou27 showed [Kc 9c] and lost with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #572289918152212481-2-1444236876 - Holdem no limit (10/20) - 2015/10/07 16:54:36 UTC
+Table: 'Starting Block - Deglingos(133246630)#0' 10-max (real money) Seat #7 is the button
+Seat 1: fredY2b59 (500)
+Seat 3: joueclub (500)
+Seat 4: dieu-trime (500)
+Seat 5: ALEX34120 (500)
+Seat 6: manggy94 (500)
+Seat 8: TONY6727 (480)
+Seat 9: MER.DE..RIEN (2020)
+*** ANTE/BLINDS ***
+TONY6727 posts small blind 10
+MER.DE..RIEN posts big blind 20
+Dealt to manggy94 [2c 5s]
+*** PRE-FLOP *** 
+fredY2b59 folds
+joueclub folds
+dieu-trime raises 20 to 40
+ALEX34120 raises 460 to 500 and is all-in
+manggy94 folds
+TONY6727 folds
+MER.DE..RIEN folds
+dieu-trime calls 460 and is all-in
+*** FLOP *** [7h 9s 4s]
+*** TURN *** [7h 9s 4s][Jh]
+*** RIVER *** [7h 9s 4s Jh][5d]
+*** SHOW DOWN ***
+dieu-trime shows [Ks Ad] (High card : Ace)
+ALEX34120 shows [Kh Ah] (High card : Ace)
+ALEX34120 collected 515 from pot
+dieu-trime collected 515 from pot
+*** SUMMARY ***
+Total pot 1030 | No rake
+Board: [7h 9s 4s Jh 5d]
+Seat 4: dieu-trime showed [Ks Ad] and won 515 with High card : Ace
+Seat 5: ALEX34120 showed [Kh Ah] and won 515 with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block - Deglingos" buyIn: Ticket only level: 0 - HandId: #572289918152212481-3-1444236900 - Holdem no limit (10/20) - 2015/10/07 16:55:00 UTC
+Table: 'Starting Block - Deglingos(133246630)#0' 10-max (real money) Seat #8 is the button
+Seat 1: fredY2b59 (500)
+Seat 3: joueclub (500)
+Seat 4: dieu-trime (515)
+Seat 5: ALEX34120 (515)
+Seat 6: manggy94 (500)
+Seat 8: TONY6727 (470)
+Seat 9: MER.DE..RIEN (2000)
+*** ANTE/BLINDS ***
+MER.DE..RIEN posts small blind 10
+fredY2b59 posts big blind 20
+Dealt to manggy94 [8s Tc]
+*** PRE-FLOP *** 
+joueclub raises 480 to 500 and is all-in
+dieu-trime folds
+ALEX34120 folds
+manggy94 calls 500 and is all-in
+TONY6727 folds
+MER.DE..RIEN raises 1500 to 2000 and is all-in
+fredY2b59 folds
+*** FLOP *** [Kh Jh Kc]
+*** TURN *** [Kh Jh Kc][2c]
+*** RIVER *** [Kh Jh Kc 2c][4h]
+*** SHOW DOWN ***
+manggy94 shows [8s Tc] (One pair : Kings)
+joueclub shows [9d 9c] (Two pairs : Kings and 9)
+MER.DE..RIEN shows [3h 3s] (Two pairs : Kings and 3)
+MER.DE..RIEN collected 1500 from side pot 1
+joueclub collected 1520 from main pot
+*** SUMMARY ***
+Total pot 3020 | No rake
+Board: [Kh Jh Kc 2c 4h]
+Seat 3: joueclub showed [9d 9c] and won 1520 with Two pairs : Kings and 9
+Seat 6: manggy94 showed [8s Tc] and lost with One pair : Kings
+Seat 9: MER.DE..RIEN (small blind) showed [3h 3s] and won 1500 with Two pairs : Kings and 3
+
+

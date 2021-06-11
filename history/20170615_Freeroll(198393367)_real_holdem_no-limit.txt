@@ -1,0 +1,647 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #852093023008325642-18-1497524000 - Holdem no limit (20/80/160) - 2017/06/15 10:53:20 UTC
+Table: 'Freeroll(198393367)#009' 8-max (real money) Seat #8 is the button
+Seat 1: YELLOMAN (13447)
+Seat 2: manggy94 (3000)
+Seat 3: kageyama (6915)
+Seat 4: RDK9 (2830)
+Seat 5: Gege24200 (5995)
+Seat 6: sAAmII H (3292)
+Seat 7: TheKing93420 (30516)
+*** ANTE/BLINDS ***
+YELLOMAN posts ante 20
+manggy94 posts ante 20
+kageyama posts ante 20
+RDK9 posts ante 20
+Gege24200 posts ante 20
+sAAmII H posts ante 20
+TheKing93420 posts ante 20
+YELLOMAN posts small blind 80
+manggy94 posts big blind 160
+Dealt to manggy94 [4h Td]
+*** PRE-FLOP *** 
+kageyama folds
+RDK9 folds
+Gege24200 calls 160
+sAAmII H folds
+TheKing93420 calls 160
+YELLOMAN calls 80
+manggy94 checks
+*** FLOP *** [3h 6c Ks]
+YELLOMAN checks
+manggy94 checks
+Gege24200 checks
+TheKing93420 checks
+*** TURN *** [3h 6c Ks][3c]
+YELLOMAN checks
+manggy94 checks
+Gege24200 bets 780
+TheKing93420 raises 2340 to 3120
+YELLOMAN folds
+manggy94 folds
+Gege24200 raises 2695 to 5815 and is all-in
+TheKing93420 calls 2695
+*** RIVER *** [3h 6c Ks 3c][2d]
+*** SHOW DOWN ***
+Gege24200 shows [4s 3s] (Trips of 3)
+TheKing93420 shows [6d 6h] (Full of 6 and 3)
+TheKing93420 collected 12410 from pot
+*** SUMMARY ***
+Total pot 12410 | No rake
+Board: [3h 6c Ks 3c 2d]
+Seat 5: Gege24200 showed [4s 3s] and lost with Trips of 3
+Seat 7: TheKing93420 showed [6d 6h] and won 12410 with Full of 6 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #852093023008325642-19-1497524074 - Holdem no limit (25/100/200) - 2017/06/15 10:54:34 UTC
+Table: 'Freeroll(198393367)#009' 8-max (real money) Seat #1 is the button
+Seat 1: YELLOMAN (13267)
+Seat 2: manggy94 (2820)
+Seat 3: kageyama (6895)
+Seat 4: RDK9 (2810)
+Seat 6: sAAmII H (3272)
+Seat 7: TheKing93420 (36931)
+Seat 8: -La_Couille- (3000)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+kageyama posts ante 25
+YELLOMAN posts ante 25
+RDK9 posts ante 25
+sAAmII H posts ante 25
+TheKing93420 posts ante 25
+-La_Couille- posts ante 25
+manggy94 posts small blind 100
+kageyama posts big blind 200
+Dealt to manggy94 [9d Th]
+*** PRE-FLOP *** 
+RDK9 raises 2585 to 2785 and is all-in
+sAAmII H folds
+TheKing93420 folds
+-La_Couille- folds
+YELLOMAN folds
+manggy94 folds
+kageyama folds
+RDK9 collected 3260 from pot
+*** SUMMARY ***
+Total pot 3260 | No rake
+Seat 4: RDK9 won 3260
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #852093023008325642-20-1497524402 - Holdem no limit (25/100/200) - 2017/06/15 11:00:02 UTC
+Table: 'Freeroll(198393367)#009' 8-max (real money) Seat #2 is the button
+Seat 1: YELLOMAN (13242)
+Seat 2: manggy94 (2695)
+Seat 3: kageyama (6670)
+Seat 4: RDK9 (3260)
+Seat 5: dadar77350 (3000)
+Seat 6: sAAmII H (3247)
+Seat 7: TheKing93420 (36906)
+Seat 8: -La_Couille- (2975)
+*** ANTE/BLINDS ***
+kageyama posts ante 25
+RDK9 posts ante 25
+YELLOMAN posts ante 25
+manggy94 posts ante 25
+dadar77350 posts ante 25
+sAAmII H posts ante 25
+TheKing93420 posts ante 25
+-La_Couille- posts ante 25
+kageyama posts small blind 100
+RDK9 posts big blind 200
+Dealt to manggy94 [7h Jh]
+*** PRE-FLOP *** 
+dadar77350 calls 200
+sAAmII H folds
+TheKing93420 calls 200
+-La_Couille- folds
+YELLOMAN calls 200
+manggy94 folds
+kageyama calls 100
+RDK9 folds
+*** FLOP *** [5s Ad Tc]
+kageyama checks
+dadar77350 checks
+TheKing93420 checks
+YELLOMAN checks
+*** TURN *** [5s Ad Tc][Ac]
+kageyama bets 900
+dadar77350 folds
+TheKing93420 calls 900
+YELLOMAN calls 900
+*** RIVER *** [5s Ad Tc Ac][8h]
+kageyama bets 3900
+TheKing93420 calls 3900
+YELLOMAN folds
+*** SHOW DOWN ***
+TheKing93420 shows [Ts Kh] (Two pairs : Aces and Tens)
+kageyama shows [As 7d] (Trips of Aces)
+kageyama collected 11700 from pot
+*** SUMMARY ***
+Total pot 11700 | No rake
+Board: [5s Ad Tc Ac 8h]
+Seat 3: kageyama (small blind) showed [As 7d] and won 11700 with Trips of Aces
+Seat 7: TheKing93420 showed [Ts Kh] and lost with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #852093023008325642-21-1497524645 - Holdem no limit (30/125/250) - 2017/06/15 11:04:05 UTC
+Table: 'Freeroll(198393367)#009' 8-max (real money) Seat #3 is the button
+Seat 1: YELLOMAN (12117)
+Seat 2: manggy94 (2670)
+Seat 3: kageyama (13345)
+Seat 4: RDK9 (3035)
+Seat 5: dadar77350 (2775)
+Seat 6: sAAmII H (3222)
+Seat 7: TheKing93420 (31881)
+Seat 8: -La_Couille- (2950)
+*** ANTE/BLINDS ***
+RDK9 posts ante 30
+dadar77350 posts ante 30
+YELLOMAN posts ante 30
+manggy94 posts ante 30
+kageyama posts ante 30
+sAAmII H posts ante 30
+TheKing93420 posts ante 30
+-La_Couille- posts ante 30
+RDK9 posts small blind 125
+dadar77350 posts big blind 250
+Dealt to manggy94 [Qc Td]
+*** PRE-FLOP *** 
+sAAmII H folds
+TheKing93420 calls 250
+-La_Couille- folds
+YELLOMAN folds
+manggy94 raises 2390 to 2640 and is all-in
+kageyama folds
+RDK9 folds
+dadar77350 folds
+TheKing93420 folds
+manggy94 collected 3505 from pot
+*** SUMMARY ***
+Total pot 3505 | No rake
+Seat 2: manggy94 won 3505
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #852093023008325642-22-1497524675 - Holdem no limit (30/125/250) - 2017/06/15 11:04:35 UTC
+Table: 'Freeroll(198393367)#009' 8-max (real money) Seat #4 is the button
+Seat 1: YELLOMAN (12087)
+Seat 2: manggy94 (3505)
+Seat 3: kageyama (13315)
+Seat 4: RDK9 (2880)
+Seat 5: dadar77350 (2495)
+Seat 6: sAAmII H (3192)
+Seat 7: TheKing93420 (31601)
+Seat 8: -La_Couille- (2920)
+*** ANTE/BLINDS ***
+dadar77350 posts ante 30
+sAAmII H posts ante 30
+YELLOMAN posts ante 30
+manggy94 posts ante 30
+kageyama posts ante 30
+RDK9 posts ante 30
+TheKing93420 posts ante 30
+-La_Couille- posts ante 30
+dadar77350 posts small blind 125
+sAAmII H posts big blind 250
+Dealt to manggy94 [8d Ts]
+*** PRE-FLOP *** 
+TheKing93420 raises 250 to 500
+-La_Couille- folds
+YELLOMAN folds
+manggy94 folds
+kageyama calls 500
+RDK9 folds
+dadar77350 folds
+sAAmII H calls 250
+*** FLOP *** [3c 7h Qc]
+sAAmII H bets 250
+TheKing93420 raises 250 to 500
+kageyama folds
+sAAmII H calls 250
+*** TURN *** [3c 7h Qc][Qh]
+sAAmII H bets 250
+TheKing93420 raises 250 to 500
+sAAmII H raises 250 to 750
+TheKing93420 raises 250 to 1000
+sAAmII H raises 250 to 1250
+TheKing93420 raises 250 to 1500
+sAAmII H calls 250
+*** RIVER *** [3c 7h Qc Qh][Js]
+sAAmII H bets 662 and is all-in
+TheKing93420 calls 662
+*** SHOW DOWN ***
+TheKing93420 shows [Ks 3h] (Two pairs : Queens and 3)
+sAAmII H shows [Jc Qs] (Full of Queens and Jacks)
+sAAmII H collected 7189 from pot
+*** SUMMARY ***
+Total pot 7189 | No rake
+Board: [3c 7h Qc Qh Js]
+Seat 6: sAAmII H (big blind) showed [Jc Qs] and won 7189 with Full of Queens and Jacks
+Seat 7: TheKing93420 showed [Ks 3h] and lost with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #852093023008325642-23-1497524742 - Holdem no limit (40/150/300) - 2017/06/15 11:05:42 UTC
+Table: 'Freeroll(198393367)#009' 8-max (real money) Seat #5 is the button
+Seat 1: YELLOMAN (12057)
+Seat 2: manggy94 (3475)
+Seat 3: kageyama (12785)
+Seat 4: RDK9 (2850)
+Seat 5: dadar77350 (2340)
+Seat 6: sAAmII H (7189)
+Seat 7: TheKing93420 (28409)
+Seat 8: -La_Couille- (2890)
+*** ANTE/BLINDS ***
+sAAmII H posts ante 40
+TheKing93420 posts ante 40
+YELLOMAN posts ante 40
+manggy94 posts ante 40
+kageyama posts ante 40
+RDK9 posts ante 40
+dadar77350 posts ante 40
+-La_Couille- posts ante 40
+sAAmII H posts small blind 150
+TheKing93420 posts big blind 300
+Dealt to manggy94 [8s 6s]
+*** PRE-FLOP *** 
+-La_Couille- raises 2550 to 2850 and is all-in
+YELLOMAN folds
+manggy94 folds
+kageyama folds
+RDK9 folds
+dadar77350 folds
+sAAmII H folds
+TheKing93420 calls 2550
+*** FLOP *** [Jc 3s Ah]
+*** TURN *** [Jc 3s Ah][9h]
+*** RIVER *** [Jc 3s Ah 9h][5s]
+*** SHOW DOWN ***
+TheKing93420 shows [2h 9c] (One pair : 9)
+-La_Couille- shows [4d Ad] (One pair : Aces)
+-La_Couille- collected 6170 from pot
+*** SUMMARY ***
+Total pot 6170 | No rake
+Board: [Jc 3s Ah 9h 5s]
+Seat 7: TheKing93420 (big blind) showed [2h 9c] and lost with One pair : 9
+Seat 8: -La_Couille- showed [4d Ad] and won 6170 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #852093023008325642-24-1497524784 - Holdem no limit (40/150/300) - 2017/06/15 11:06:24 UTC
+Table: 'Freeroll(198393367)#009' 8-max (real money) Seat #6 is the button
+Seat 1: YELLOMAN (12017)
+Seat 2: manggy94 (3435)
+Seat 3: kageyama (12745)
+Seat 4: RDK9 (2810)
+Seat 5: dadar77350 (2300)
+Seat 6: sAAmII H (6999)
+Seat 7: TheKing93420 (25519)
+Seat 8: -La_Couille- (6170)
+*** ANTE/BLINDS ***
+TheKing93420 posts ante 40
+-La_Couille- posts ante 40
+YELLOMAN posts ante 40
+manggy94 posts ante 40
+kageyama posts ante 40
+RDK9 posts ante 40
+dadar77350 posts ante 40
+sAAmII H posts ante 40
+TheKing93420 posts small blind 150
+-La_Couille- posts big blind 300
+Dealt to manggy94 [Tc Jc]
+*** PRE-FLOP *** 
+YELLOMAN folds
+manggy94 raises 3095 to 3395 and is all-in
+kageyama folds
+RDK9 folds
+dadar77350 folds
+sAAmII H folds
+TheKing93420 calls 3245
+-La_Couille- folds
+*** FLOP *** [Kh Qd 3h]
+*** TURN *** [Kh Qd 3h][Ts]
+*** RIVER *** [Kh Qd 3h Ts][Jd]
+*** SHOW DOWN ***
+TheKing93420 shows [4d 5d] (High card : King)
+manggy94 shows [Tc Jc] (Two pairs : Jacks and Tens)
+manggy94 collected 7410 from pot
+*** SUMMARY ***
+Total pot 7410 | No rake
+Board: [Kh Qd 3h Ts Jd]
+Seat 2: manggy94 showed [Tc Jc] and won 7410 with Two pairs : Jacks and Tens
+Seat 7: TheKing93420 (small blind) showed [4d 5d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #852093023008325642-25-1497524826 - Holdem no limit (40/150/300) - 2017/06/15 11:07:06 UTC
+Table: 'Freeroll(198393367)#009' 8-max (real money) Seat #7 is the button
+Seat 1: YELLOMAN (11977)
+Seat 2: manggy94 (7410)
+Seat 3: kageyama (12705)
+Seat 4: RDK9 (2770)
+Seat 5: dadar77350 (2260)
+Seat 6: sAAmII H (6959)
+Seat 7: TheKing93420 (22084)
+Seat 8: -La_Couille- (5830)
+*** ANTE/BLINDS ***
+-La_Couille- posts ante 40
+YELLOMAN posts ante 40
+manggy94 posts ante 40
+kageyama posts ante 40
+RDK9 posts ante 40
+dadar77350 posts ante 40
+sAAmII H posts ante 40
+TheKing93420 posts ante 40
+-La_Couille- posts small blind 150
+YELLOMAN posts big blind 300
+Dealt to manggy94 [Kc Td]
+*** PRE-FLOP *** 
+manggy94 raises 300 to 600
+kageyama folds
+RDK9 folds
+dadar77350 folds
+sAAmII H folds
+TheKing93420 calls 600
+-La_Couille- folds
+YELLOMAN calls 300
+*** FLOP *** [3s Th 4c]
+YELLOMAN checks
+manggy94 bets 1135
+TheKing93420 raises 1135 to 2270
+YELLOMAN folds
+manggy94 raises 4500 to 6770 and is all-in
+TheKing93420 raises 4500 to 11270
+*** TURN *** [3s Th 4c][Js]
+*** RIVER *** [3s Th 4c Js][Ac]
+*** SHOW DOWN ***
+manggy94 shows [Kc Td] (One pair : Tens)
+TheKing93420 shows [2s Ts] (One pair : Tens)
+TheKing93420 collected 4500 from side pot 1
+manggy94 collected 15810 from main pot
+*** SUMMARY ***
+Total pot 20310 | No rake
+Board: [3s Th 4c Js Ac]
+Seat 2: manggy94 showed [Kc Td] and won 15810 with One pair : Tens
+Seat 7: TheKing93420 (button) showed [2s Ts] and won 4500 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #852093023008325642-26-1497524877 - Holdem no limit (40/150/300) - 2017/06/15 11:07:57 UTC
+Table: 'Freeroll(198393367)#009' 8-max (real money) Seat #8 is the button
+Seat 1: YELLOMAN (11337)
+Seat 2: manggy94 (15810)
+Seat 3: kageyama (12665)
+Seat 4: RDK9 (2730)
+Seat 5: dadar77350 (2220)
+Seat 6: sAAmII H (6919)
+Seat 7: TheKing93420 (14674)
+Seat 8: -La_Couille- (5640)
+*** ANTE/BLINDS ***
+YELLOMAN posts ante 40
+manggy94 posts ante 40
+kageyama posts ante 40
+RDK9 posts ante 40
+dadar77350 posts ante 40
+sAAmII H posts ante 40
+TheKing93420 posts ante 40
+-La_Couille- posts ante 40
+YELLOMAN posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [8s 6c]
+*** PRE-FLOP *** 
+kageyama folds
+RDK9 raises 2390 to 2690 and is all-in
+dadar77350 calls 2180 and is all-in
+sAAmII H folds
+TheKing93420 raises 11944 to 14634 and is all-in
+-La_Couille- folds
+YELLOMAN folds
+manggy94 folds
+*** FLOP *** [6d 7h 9d]
+*** TURN *** [6d 7h 9d][Qs]
+*** RIVER *** [6d 7h 9d Qs][8c]
+*** SHOW DOWN ***
+RDK9 shows [Ad 6h] (One pair : 6)
+dadar77350 shows [3h 3d] (One pair : 3)
+TheKing93420 shows [9c Qc] (Two pairs : Queens and 9)
+TheKing93420 collected 20274 from pot
+*** SUMMARY ***
+Total pot 20274 | No rake
+Board: [6d 7h 9d Qs 8c]
+Seat 4: RDK9 showed [Ad 6h] and lost with One pair : 6
+Seat 5: dadar77350 showed [3h 3d] and lost with One pair : 3
+Seat 7: TheKing93420 showed [9c Qc] and won 20274 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #852093023008325642-27-1497524933 - Holdem no limit (50/200/400) - 2017/06/15 11:08:53 UTC
+Table: 'Freeroll(198393367)#009' 8-max (real money) Seat #1 is the button
+Seat 1: YELLOMAN (11147)
+Seat 2: manggy94 (15470)
+Seat 3: kageyama (12625)
+Seat 6: sAAmII H (6879)
+Seat 7: TheKing93420 (20274)
+Seat 8: -La_Couille- (5600)
+*** ANTE/BLINDS ***
+manggy94 posts ante 50
+kageyama posts ante 50
+YELLOMAN posts ante 50
+sAAmII H posts ante 50
+TheKing93420 posts ante 50
+-La_Couille- posts ante 50
+manggy94 posts small blind 200
+kageyama posts big blind 400
+Dealt to manggy94 [6d Qh]
+*** PRE-FLOP *** 
+sAAmII H calls 400
+TheKing93420 calls 400
+-La_Couille- folds
+YELLOMAN folds
+manggy94 folds
+kageyama raises 12175 to 12575 and is all-in
+sAAmII H folds
+TheKing93420 folds
+kageyama collected 13875 from pot
+*** SUMMARY ***
+Total pot 13875 | No rake
+Seat 3: kageyama (big blind) won 13875
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #852093023008325642-28-1497525022 - Holdem no limit (50/200/400) - 2017/06/15 11:10:22 UTC
+Table: 'Freeroll(198393367)#009' 8-max (real money) Seat #2 is the button
+Seat 1: YELLOMAN (11097)
+Seat 2: manggy94 (15220)
+Seat 3: kageyama (13875)
+Seat 4: -Nanouchki- (8109)
+Seat 5: sad76 (335)
+Seat 6: sAAmII H (6429)
+Seat 7: TheKing93420 (19824)
+Seat 8: -La_Couille- (5550)
+*** ANTE/BLINDS ***
+kageyama posts ante 50
+-Nanouchki- posts ante 50
+YELLOMAN posts ante 50
+manggy94 posts ante 50
+sad76 posts ante 50
+sAAmII H posts ante 50
+TheKing93420 posts ante 50
+-La_Couille- posts ante 50
+kageyama posts small blind 200
+-Nanouchki- posts big blind 400
+Dealt to manggy94 [8c 6s]
+*** PRE-FLOP *** 
+sad76 folds
+sAAmII H folds
+TheKing93420 calls 400
+-La_Couille- folds
+YELLOMAN folds
+manggy94 folds
+kageyama calls 200
+-Nanouchki- folds
+*** FLOP *** [Ks Qd Kc]
+kageyama checks
+TheKing93420 checks
+*** TURN *** [Ks Qd Kc][Qs]
+kageyama checks
+TheKing93420 checks
+*** RIVER *** [Ks Qd Kc Qs][Ah]
+kageyama checks
+TheKing93420 checks
+*** SHOW DOWN ***
+kageyama shows [3d Jh] (Two pairs : Kings and Queens)
+TheKing93420 shows [Jc 6c] (Two pairs : Kings and Queens)
+TheKing93420 collected 800 from pot
+kageyama collected 800 from pot
+*** SUMMARY ***
+Total pot 1600 | No rake
+Board: [Ks Qd Kc Qs Ah]
+Seat 3: kageyama (small blind) showed [3d Jh] and won 800 with Two pairs : Kings and Queens
+Seat 7: TheKing93420 showed [Jc 6c] and won 800 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #852093023008325642-29-1497525074 - Holdem no limit (50/200/400) - 2017/06/15 11:11:14 UTC
+Table: 'Freeroll(198393367)#009' 8-max (real money) Seat #3 is the button
+Seat 1: YELLOMAN (11047)
+Seat 2: manggy94 (15170)
+Seat 3: kageyama (14225)
+Seat 4: -Nanouchki- (7659)
+Seat 5: sad76 (285)
+Seat 6: sAAmII H (6379)
+Seat 7: TheKing93420 (20174)
+Seat 8: -La_Couille- (5500)
+*** ANTE/BLINDS ***
+-Nanouchki- posts ante 50
+sad76 posts ante 50
+YELLOMAN posts ante 50
+manggy94 posts ante 50
+kageyama posts ante 50
+sAAmII H posts ante 50
+TheKing93420 posts ante 50
+-La_Couille- posts ante 50
+-Nanouchki- posts small blind 200
+sad76 posts big blind 235 and is all-in
+Dealt to manggy94 [4d Tc]
+*** PRE-FLOP *** 
+sAAmII H folds
+TheKing93420 calls 400
+-La_Couille- raises 5050 to 5450 and is all-in
+YELLOMAN calls 5450
+manggy94 folds
+kageyama folds
+-Nanouchki- folds
+TheKing93420 calls 5050
+*** FLOP *** [Th Ks 8h]
+TheKing93420 checks
+YELLOMAN checks
+*** TURN *** [Th Ks 8h][Js]
+TheKing93420 checks
+YELLOMAN bets 5547 and is all-in
+TheKing93420 folds
+*** RIVER *** [Th Ks 8h Js][7s]
+*** SHOW DOWN ***
+sad76 shows [6c 6h] (One pair : 6)
+-La_Couille- shows [Ts Ad] (One pair : Tens)
+YELLOMAN shows [Ac Qh] (Straight Ace high)
+YELLOMAN collected 22732 from pot
+*** SUMMARY ***
+Total pot 22732 | No rake
+Board: [Th Ks 8h Js 7s]
+Seat 1: YELLOMAN showed [Ac Qh] and won 22732 with Straight Ace high
+Seat 5: sad76 (big blind) showed [6c 6h] and lost with One pair : 6
+Seat 8: -La_Couille- showed [Ts Ad] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #852093023008325642-30-1497525119 - Holdem no limit (60/250/500) - 2017/06/15 11:11:59 UTC
+Table: 'Freeroll(198393367)#009' 8-max (real money) Seat #4 is the button
+Seat 1: YELLOMAN (22732)
+Seat 2: manggy94 (15120)
+Seat 3: kageyama (14175)
+Seat 4: -Nanouchki- (7409)
+Seat 6: sAAmII H (6329)
+Seat 7: TheKing93420 (14674)
+*** ANTE/BLINDS ***
+sAAmII H posts ante 60
+YELLOMAN posts ante 60
+manggy94 posts ante 60
+kageyama posts ante 60
+-Nanouchki- posts ante 60
+TheKing93420 posts ante 60
+sAAmII H posts big blind 500
+Dealt to manggy94 [Kd 8h]
+*** PRE-FLOP *** 
+TheKing93420 calls 500
+YELLOMAN calls 500
+manggy94 calls 500
+kageyama raises 13615 to 14115 and is all-in
+-Nanouchki- folds
+sAAmII H folds
+TheKing93420 folds
+YELLOMAN folds
+manggy94 folds
+kageyama collected 16475 from pot
+*** SUMMARY ***
+Total pot 16475 | No rake
+Seat 3: kageyama won 16475
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #852093023008325642-31-1497525162 - Holdem no limit (60/250/500) - 2017/06/15 11:12:42 UTC
+Table: 'Freeroll(198393367)#009' 8-max (real money) Seat #5 is the button
+Seat 1: YELLOMAN (22172)
+Seat 2: manggy94 (14560)
+Seat 3: kageyama (16475)
+Seat 4: -Nanouchki- (7349)
+Seat 5: vero59140 (13083)
+Seat 6: sAAmII H (5769)
+Seat 7: TheKing93420 (14114)
+*** ANTE/BLINDS ***
+sAAmII H posts ante 60
+TheKing93420 posts ante 60
+YELLOMAN posts ante 60
+manggy94 posts ante 60
+kageyama posts ante 60
+-Nanouchki- posts ante 60
+sAAmII H posts small blind 250
+TheKing93420 posts big blind 500
+Dealt to manggy94 [Ah Qc]
+*** PRE-FLOP *** 
+YELLOMAN calls 500
+manggy94 raises 1500 to 2000
+kageyama folds
+-Nanouchki- folds
+sAAmII H folds
+TheKing93420 calls 1500
+YELLOMAN calls 1500
+*** FLOP *** [Tc 8d 9c]
+TheKing93420 bets 12054 and is all-in
+YELLOMAN calls 12054
+manggy94 calls 12054
+*** TURN *** [Tc 8d 9c][Ks]
+YELLOMAN bets 500
+manggy94 calls 446 and is all-in
+*** RIVER *** [Tc 8d 9c Ks][Qs]
+*** SHOW DOWN ***
+manggy94 shows [Ah Qc] (One pair : Queens)
+TheKing93420 shows [9d Td] (Two pairs : Tens and 9)
+YELLOMAN shows [Kc Jh] (Straight King high)
+YELLOMAN collected 43718 from pot
+*** SUMMARY ***
+Total pot 43718 | No rake
+Board: [Tc 8d 9c Ks Qs]
+Seat 1: YELLOMAN showed [Kc Jh] and won 43718 with Straight King high
+Seat 2: manggy94 showed [Ah Qc] and lost with One pair : Queens
+Seat 7: TheKing93420 (big blind) showed [9d Td] and lost with Two pairs : Tens and 9
+
+

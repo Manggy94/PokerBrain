@@ -1,0 +1,602 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #866030934913187841-1-1499428420 - Holdem no limit (10/20) - 2017/07/07 11:53:40 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #6 is the button
+Seat 1: ramoun13 (500)
+Seat 2: papadz (500)
+Seat 3: dudule (500)
+Seat 4: Romantch33 (500)
+Seat 5: 01grenouille (500)
+Seat 6: manggy94 (500)
+*** ANTE/BLINDS ***
+ramoun13 posts small blind 10
+papadz posts big blind 20
+Dealt to manggy94 [2d Jd]
+*** PRE-FLOP *** 
+dudule raises 20 to 40
+Romantch33 calls 40
+01grenouille folds
+manggy94 folds
+ramoun13 raises 460 to 500 and is all-in
+papadz folds
+dudule calls 460 and is all-in
+Romantch33 calls 460 and is all-in
+*** FLOP *** [9s Jc 6c]
+*** TURN *** [9s Jc 6c][3c]
+*** RIVER *** [9s Jc 6c 3c][Ks]
+*** SHOW DOWN ***
+ramoun13 shows [Ts Td] (One pair : Tens)
+Romantch33 shows [8s Qs] (High card : King)
+dudule shows [6s 6d] (Trips of 6)
+dudule collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Board: [9s Jc 6c 3c Ks]
+Seat 1: ramoun13 (small blind) showed [Ts Td] and lost with One pair : Tens
+Seat 3: dudule showed [6s 6d] and won 1520 with Trips of 6
+Seat 4: Romantch33 showed [8s Qs] and lost with High card : King
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #866030934913187841-2-1499428445 - Holdem no limit (10/20) - 2017/07/07 11:54:05 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #1 is the button
+Seat 2: papadz (480)
+Seat 3: dudule (1520)
+Seat 5: 01grenouille (500)
+Seat 6: manggy94 (500)
+*** ANTE/BLINDS ***
+papadz posts small blind 10
+dudule posts big blind 20
+Dealt to manggy94 [2d Ac]
+*** PRE-FLOP *** 
+01grenouille folds
+manggy94 calls 20
+papadz folds
+dudule checks
+*** FLOP *** [9s 6d Ks]
+dudule checks
+manggy94 bets 90
+dudule folds
+manggy94 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [9s 6d Ks]
+Seat 6: manggy94 won 140
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #866030934913187841-3-1499428477 - Holdem no limit (10/20) - 2017/07/07 11:54:37 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #2 is the button
+Seat 2: papadz (470)
+Seat 3: dudule (1500)
+Seat 5: 01grenouille (500)
+Seat 6: manggy94 (530)
+*** ANTE/BLINDS ***
+dudule posts small blind 10
+01grenouille posts big blind 20
+Dealt to manggy94 [Jc 9d]
+*** PRE-FLOP *** 
+manggy94 folds
+papadz calls 20
+dudule calls 10
+01grenouille checks
+*** FLOP *** [8h Ts Td]
+dudule checks
+01grenouille checks
+papadz checks
+*** TURN *** [8h Ts Td][Kh]
+dudule checks
+01grenouille checks
+papadz checks
+*** RIVER *** [8h Ts Td Kh][7h]
+dudule checks
+01grenouille bets 80
+papadz folds
+dudule folds
+01grenouille collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [8h Ts Td Kh 7h]
+Seat 5: 01grenouille (big blind) won 140
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #866030934913187841-4-1499428525 - Holdem no limit (10/20) - 2017/07/07 11:55:25 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #3 is the button
+Seat 2: papadz (450)
+Seat 3: dudule (1480)
+Seat 5: 01grenouille (540)
+Seat 6: manggy94 (530)
+*** ANTE/BLINDS ***
+01grenouille posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [5s Kd]
+*** PRE-FLOP *** 
+papadz folds
+dudule calls 20
+01grenouille calls 10
+manggy94 checks
+*** FLOP *** [Th Kh Qd]
+01grenouille bets 60
+manggy94 calls 60
+dudule folds
+*** TURN *** [Th Kh Qd][Js]
+01grenouille bets 60
+manggy94 calls 60
+*** RIVER *** [Th Kh Qd Js][As]
+01grenouille bets 80
+manggy94 calls 80
+*** SHOW DOWN ***
+01grenouille shows [Ks Qs] (Straight Ace high)
+manggy94 shows [5s Kd] (Straight Ace high)
+manggy94 collected 230 from pot
+01grenouille collected 230 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [Th Kh Qd Js As]
+Seat 5: 01grenouille (small blind) showed [Ks Qs] and won 230 with Straight Ace high
+Seat 6: manggy94 (big blind) showed [5s Kd] and won 230 with Straight Ace high
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #866030934913187841-5-1499428573 - Holdem no limit (10/20) - 2017/07/07 11:56:13 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #5 is the button
+Seat 2: papadz (450)
+Seat 3: dudule (1460)
+Seat 5: 01grenouille (550)
+Seat 6: manggy94 (540)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+papadz posts big blind 20
+Dealt to manggy94 [6d 9s]
+*** PRE-FLOP *** 
+dudule folds
+01grenouille raises 530 to 550 and is all-in
+manggy94 folds
+papadz folds
+01grenouille collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Seat 5: 01grenouille (button) won 580
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #866030934913187841-6-1499428590 - Holdem no limit (10/20) - 2017/07/07 11:56:30 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #6 is the button
+Seat 2: papadz (430)
+Seat 3: dudule (1460)
+Seat 5: 01grenouille (580)
+Seat 6: manggy94 (530)
+*** ANTE/BLINDS ***
+papadz posts small blind 10
+dudule posts big blind 20
+Dealt to manggy94 [7h Ah]
+*** PRE-FLOP *** 
+01grenouille folds
+manggy94 raises 20 to 40
+papadz calls 30
+dudule folds
+*** FLOP *** [Jd 8s As]
+papadz checks
+manggy94 bets 100
+papadz folds
+manggy94 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Jd 8s As]
+Seat 6: manggy94 (button) won 200
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #866030934913187841-7-1499428614 - Holdem no limit (15/30) - 2017/07/07 11:56:54 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #2 is the button
+Seat 2: papadz (390)
+Seat 3: dudule (1440)
+Seat 5: 01grenouille (580)
+Seat 6: manggy94 (590)
+*** ANTE/BLINDS ***
+dudule posts small blind 15
+01grenouille posts big blind 30
+Dealt to manggy94 [2d 6c]
+*** PRE-FLOP *** 
+manggy94 folds
+papadz folds
+dudule folds
+01grenouille collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 5: 01grenouille (big blind) won 45
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #866030934913187841-8-1499428626 - Holdem no limit (15/30) - 2017/07/07 11:57:06 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #3 is the button
+Seat 2: papadz (390)
+Seat 3: dudule (1425)
+Seat 5: 01grenouille (595)
+Seat 6: manggy94 (590)
+*** ANTE/BLINDS ***
+01grenouille posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [9h Qd]
+*** PRE-FLOP *** 
+papadz calls 30
+dudule folds
+01grenouille folds
+manggy94 checks
+*** FLOP *** [Qs Tc 5h]
+manggy94 bets 50
+papadz folds
+manggy94 collected 125 from pot
+*** SUMMARY ***
+Total pot 125 | No rake
+Board: [Qs Tc 5h]
+Seat 6: manggy94 (big blind) won 125
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #866030934913187841-9-1499428688 - Holdem no limit (15/30) - 2017/07/07 11:58:08 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #5 is the button
+Seat 2: papadz (360)
+Seat 3: dudule (1425)
+Seat 5: 01grenouille (580)
+Seat 6: manggy94 (635)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+papadz posts big blind 30
+Dealt to manggy94 [9d Qc]
+*** PRE-FLOP *** 
+dudule folds
+01grenouille folds
+manggy94 raises 30 to 60
+papadz folds
+manggy94 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: manggy94 (small blind) won 90
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #866030934913187841-10-1499428715 - Holdem no limit (15/30) - 2017/07/07 11:58:35 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #6 is the button
+Seat 2: papadz (330)
+Seat 3: dudule (1425)
+Seat 5: 01grenouille (580)
+Seat 6: manggy94 (665)
+*** ANTE/BLINDS ***
+papadz posts small blind 15
+dudule posts big blind 30
+Dealt to manggy94 [Ad Ac]
+*** PRE-FLOP *** 
+01grenouille folds
+manggy94 calls 30
+papadz folds
+dudule checks
+*** FLOP *** [9c Ah 5s]
+dudule checks
+manggy94 checks
+*** TURN *** [9c Ah 5s][2h]
+dudule checks
+manggy94 bets 60
+dudule folds
+manggy94 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [9c Ah 5s 2h]
+Seat 6: manggy94 (button) won 135
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #866030934913187841-11-1499428759 - Holdem no limit (15/30) - 2017/07/07 11:59:19 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #2 is the button
+Seat 2: papadz (315)
+Seat 3: dudule (1395)
+Seat 5: 01grenouille (580)
+Seat 6: manggy94 (710)
+*** ANTE/BLINDS ***
+dudule posts small blind 15
+01grenouille posts big blind 30
+Dealt to manggy94 [Jd Ah]
+*** PRE-FLOP *** 
+manggy94 raises 30 to 60
+papadz folds
+dudule folds
+01grenouille calls 30
+*** FLOP *** [3s 3c 4c]
+01grenouille checks
+manggy94 bets 135
+01grenouille folds
+manggy94 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [3s 3c 4c]
+Seat 6: manggy94 won 270
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #866030934913187841-12-1499428778 - Holdem no limit (20/40) - 2017/07/07 11:59:38 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #3 is the button
+Seat 2: papadz (315)
+Seat 3: dudule (1380)
+Seat 5: 01grenouille (520)
+Seat 6: manggy94 (785)
+*** ANTE/BLINDS ***
+01grenouille posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [Jc 4s]
+*** PRE-FLOP *** 
+papadz folds
+dudule folds
+01grenouille raises 80 to 120
+manggy94 folds
+01grenouille collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 5: 01grenouille (small blind) won 160
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #866030934913187841-13-1499428800 - Holdem no limit (20/40) - 2017/07/07 12:00:00 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #5 is the button
+Seat 2: papadz (315)
+Seat 3: dudule (1380)
+Seat 5: 01grenouille (560)
+Seat 6: manggy94 (745)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+papadz posts big blind 40
+Dealt to manggy94 [4d Kd]
+*** PRE-FLOP *** 
+dudule calls 40
+01grenouille folds
+manggy94 calls 20
+papadz checks
+*** FLOP *** [9d 6c 8h]
+manggy94 checks
+papadz checks
+dudule checks
+*** TURN *** [9d 6c 8h][Qh]
+manggy94 checks
+papadz bets 40
+dudule raises 150 to 190
+manggy94 folds
+papadz raises 85 to 275 and is all-in
+dudule calls 85
+*** RIVER *** [9d 6c 8h Qh][3c]
+*** SHOW DOWN ***
+papadz shows [Td Jc] (Straight Queen high)
+dudule shows [Th Js] (Straight Queen high)
+dudule collected 335 from pot
+papadz collected 335 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [9d 6c 8h Qh 3c]
+Seat 2: papadz (big blind) showed [Td Jc] and won 335 with Straight Queen high
+Seat 3: dudule showed [Th Js] and won 335 with Straight Queen high
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #866030934913187841-14-1499428836 - Holdem no limit (20/40) - 2017/07/07 12:00:36 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #6 is the button
+Seat 2: papadz (335)
+Seat 3: dudule (1400)
+Seat 5: 01grenouille (560)
+Seat 6: manggy94 (705)
+*** ANTE/BLINDS ***
+papadz posts small blind 20
+dudule posts big blind 40
+Dealt to manggy94 [3s 8d]
+*** PRE-FLOP *** 
+01grenouille folds
+manggy94 folds
+papadz folds
+dudule collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: dudule (big blind) won 60
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #866030934913187841-15-1499428850 - Holdem no limit (20/40) - 2017/07/07 12:00:50 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #2 is the button
+Seat 2: papadz (315)
+Seat 3: dudule (1420)
+Seat 5: 01grenouille (560)
+Seat 6: manggy94 (705)
+*** ANTE/BLINDS ***
+dudule posts small blind 20
+01grenouille posts big blind 40
+Dealt to manggy94 [8c Kh]
+*** PRE-FLOP *** 
+manggy94 calls 40
+papadz folds
+dudule folds
+01grenouille checks
+*** FLOP *** [Ad 9d Qs]
+01grenouille checks
+manggy94 bets 50
+01grenouille folds
+manggy94 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Ad 9d Qs]
+Seat 6: manggy94 won 150
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #866030934913187841-16-1499428872 - Holdem no limit (20/40) - 2017/07/07 12:01:12 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #3 is the button
+Seat 2: papadz (315)
+Seat 3: dudule (1400)
+Seat 5: 01grenouille (520)
+Seat 6: manggy94 (765)
+*** ANTE/BLINDS ***
+01grenouille posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [6d 6c]
+*** PRE-FLOP *** 
+papadz folds
+dudule raises 80 to 120
+01grenouille folds
+manggy94 calls 80
+*** FLOP *** [4s 3c 7s]
+manggy94 bets 40
+dudule calls 40
+*** TURN *** [4s 3c 7s][5h]
+manggy94 bets 170
+dudule folds
+manggy94 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [4s 3c 7s 5h]
+Seat 6: manggy94 (big blind) won 510
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #866030934913187841-17-1499428896 - Holdem no limit (20/40) - 2017/07/07 12:01:36 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #5 is the button
+Seat 2: papadz (315)
+Seat 3: dudule (1240)
+Seat 5: 01grenouille (500)
+Seat 6: manggy94 (945)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+papadz posts big blind 40
+Dealt to manggy94 [5d Kc]
+*** PRE-FLOP *** 
+dudule folds
+01grenouille folds
+manggy94 calls 20
+papadz checks
+*** FLOP *** [Ks 4d 4s]
+manggy94 bets 60
+papadz calls 60
+*** TURN *** [Ks 4d 4s][6d]
+manggy94 bets 200
+papadz raises 15 to 215 and is all-in
+manggy94 calls 15
+*** RIVER *** [Ks 4d 4s 6d][2s]
+*** SHOW DOWN ***
+manggy94 shows [5d Kc] (Two pairs : Kings and 4)
+papadz shows [4c Qd] (Trips of 4)
+papadz collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Ks 4d 4s 6d 2s]
+Seat 2: papadz (big blind) showed [4c Qd] and won 630 with Trips of 4
+Seat 6: manggy94 (small blind) showed [5d Kc] and lost with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #866030934913187841-18-1499428931 - Holdem no limit (20/40) - 2017/07/07 12:02:11 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #6 is the button
+Seat 2: papadz (630)
+Seat 3: dudule (1240)
+Seat 5: 01grenouille (500)
+Seat 6: manggy94 (630)
+*** ANTE/BLINDS ***
+papadz posts small blind 20
+dudule posts big blind 40
+Dealt to manggy94 [8h Ah]
+*** PRE-FLOP *** 
+01grenouille folds
+manggy94 raises 100 to 140
+papadz folds
+dudule folds
+manggy94 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 6: manggy94 (button) won 200
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #866030934913187841-19-1499428951 - Holdem no limit (20/40) - 2017/07/07 12:02:31 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #2 is the button
+Seat 2: papadz (610)
+Seat 3: dudule (1200)
+Seat 5: 01grenouille (500)
+Seat 6: manggy94 (690)
+*** ANTE/BLINDS ***
+dudule posts small blind 20
+01grenouille posts big blind 40
+Dealt to manggy94 [Qd Ac]
+*** PRE-FLOP *** 
+manggy94 raises 80 to 120
+papadz folds
+dudule folds
+01grenouille folds
+manggy94 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 6: manggy94 won 180
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #866030934913187841-20-1499428990 - Holdem no limit (30/60) - 2017/07/07 12:03:10 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #3 is the button
+Seat 2: papadz (610)
+Seat 3: dudule (1180)
+Seat 5: 01grenouille (460)
+Seat 6: manggy94 (750)
+*** ANTE/BLINDS ***
+01grenouille posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [4d Ad]
+*** PRE-FLOP *** 
+papadz raises 60 to 120
+dudule folds
+01grenouille folds
+manggy94 raises 630 to 750 and is all-in
+papadz calls 490 and is all-in
+*** FLOP *** [2c Ks 8c]
+*** TURN *** [2c Ks 8c][5c]
+*** RIVER *** [2c Ks 8c 5c][9d]
+*** SHOW DOWN ***
+papadz shows [Ac Kh] (One pair : Kings)
+manggy94 shows [4d Ad] (High card : Ace)
+manggy94 collected 140 from side pot 1
+papadz collected 1250 from main pot
+*** SUMMARY ***
+Total pot 1390 | No rake
+Board: [2c Ks 8c 5c 9d]
+Seat 2: papadz showed [Ac Kh] and won 1250 with One pair : Kings
+Seat 6: manggy94 (big blind) showed [4d Ad] and won 140 with High card : Ace
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #866030934913187841-21-1499429025 - Holdem no limit (30/60) - 2017/07/07 12:03:45 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #5 is the button
+Seat 2: papadz (1250)
+Seat 3: dudule (1180)
+Seat 5: 01grenouille (430)
+Seat 6: manggy94 (140)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+papadz posts big blind 60
+Dealt to manggy94 [9c Kd]
+*** PRE-FLOP *** 
+dudule folds
+01grenouille folds
+manggy94 raises 80 to 140 and is all-in
+papadz calls 80
+*** FLOP *** [4s 4h 6d]
+*** TURN *** [4s 4h 6d][4c]
+*** RIVER *** [4s 4h 6d 4c][Qh]
+*** SHOW DOWN ***
+papadz shows [Th 8s] (Trips of 4)
+manggy94 shows [9c Kd] (Trips of 4)
+manggy94 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [4s 4h 6d 4c Qh]
+Seat 2: papadz (big blind) showed [Th 8s] and lost with Trips of 4
+Seat 6: manggy94 (small blind) showed [9c Kd] and won 280 with Trips of 4
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #866030934913187841-22-1499429070 - Holdem no limit (30/60) - 2017/07/07 12:04:30 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(201638540)#0' 6-max (real money) Seat #6 is the button
+Seat 2: papadz (1110)
+Seat 3: dudule (1180)
+Seat 5: 01grenouille (430)
+Seat 6: manggy94 (280)
+*** ANTE/BLINDS ***
+papadz posts small blind 30
+dudule posts big blind 60
+Dealt to manggy94 [As 3s]
+*** PRE-FLOP *** 
+01grenouille folds
+manggy94 raises 220 to 280 and is all-in
+papadz calls 250
+dudule folds
+*** FLOP *** [8h 7c 8d]
+*** TURN *** [8h 7c 8d][Ah]
+*** RIVER *** [8h 7c 8d Ah][2c]
+*** SHOW DOWN ***
+manggy94 shows [As 3s] (Two pairs : Aces and 8)
+papadz shows [Ks Ac] (Two pairs : Aces and 8)
+papadz collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [8h 7c 8d Ah 2c]
+Seat 2: papadz (small blind) showed [Ks Ac] and won 620 with Two pairs : Aces and 8
+Seat 6: manggy94 (button) showed [As 3s] and lost with Two pairs : Aces and 8
+
+

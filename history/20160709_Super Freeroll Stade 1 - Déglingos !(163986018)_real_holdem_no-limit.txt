@@ -1,0 +1,582 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #704314584311267329-1-1468099104 - Holdem no limit (10/20) - 2016/07/09 21:18:24 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Chipo69 (500)
+Seat 2: choks282 (500)
+Seat 3: steel_dandy (500)
+Seat 4: jejesaf (500)
+Seat 5: ALBERT9 (500)
+Seat 6: manggy94 (500)
+*** ANTE/BLINDS ***
+Chipo69 posts small blind 10
+choks282 posts big blind 20
+Dealt to manggy94 [Qd 6s]
+*** PRE-FLOP *** 
+steel_dandy calls 20
+jejesaf folds
+ALBERT9 folds
+manggy94 folds
+Chipo69 calls 10
+choks282 raises 480 to 500 and is all-in
+steel_dandy folds
+Chipo69 folds
+choks282 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 2: choks282 (big blind) won 540
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #704314584311267329-2-1468099168 - Holdem no limit (10/20) - 2016/07/09 21:19:28 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Chipo69 (480)
+Seat 2: choks282 (540)
+Seat 3: steel_dandy (480)
+Seat 4: jejesaf (500)
+Seat 5: ALBERT9 (500)
+Seat 6: manggy94 (500)
+*** ANTE/BLINDS ***
+choks282 posts small blind 10
+steel_dandy posts big blind 20
+Dealt to manggy94 [6d 2h]
+*** PRE-FLOP *** 
+jejesaf raises 50 to 70
+ALBERT9 folds
+manggy94 folds
+Chipo69 calls 70
+choks282 folds
+steel_dandy folds
+*** FLOP *** [9s 9h 9c]
+jejesaf bets 170
+Chipo69 calls 170
+*** TURN *** [9s 9h 9c][9d]
+jejesaf bets 260 and is all-in
+Chipo69 calls 240 and is all-in
+*** RIVER *** [9s 9h 9c 9d][Th]
+*** SHOW DOWN ***
+Chipo69 shows [Tc Js] (Quads of 9)
+jejesaf shows [Jh Jc] (Quads of 9)
+jejesaf collected 515 from side pot 1
+Chipo69 collected 495 from main pot
+*** SUMMARY ***
+Total pot 1010 | No rake
+Board: [9s 9h 9c 9d Th]
+Seat 1: Chipo69 (button) showed [Tc Js] and won 495 with Quads of 9
+Seat 4: jejesaf showed [Jh Jc] and won 515 with Quads of 9
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #704314584311267329-3-1468099291 - Holdem no limit (15/30) - 2016/07/09 21:21:31 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Chipo69 (495)
+Seat 2: choks282 (530)
+Seat 3: steel_dandy (460)
+Seat 4: jejesaf (515)
+Seat 5: ALBERT9 (500)
+Seat 6: manggy94 (500)
+*** ANTE/BLINDS ***
+steel_dandy posts small blind 15
+jejesaf posts big blind 30
+Dealt to manggy94 [5h Ac]
+*** PRE-FLOP *** 
+ALBERT9 raises 470 to 500 and is all-in
+manggy94 folds
+Chipo69 calls 495 and is all-in
+choks282 folds
+steel_dandy folds
+jejesaf folds
+*** FLOP *** [Kc 7h 7c]
+*** TURN *** [Kc 7h 7c][9s]
+*** RIVER *** [Kc 7h 7c 9s][3d]
+*** SHOW DOWN ***
+Chipo69 shows [4d 4h] (Two pairs : 7 and 4)
+ALBERT9 shows [9d 8c] (Two pairs : 9 and 7)
+ALBERT9 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [Kc 7h 7c 9s 3d]
+Seat 1: Chipo69 showed [4d 4h] and lost with Two pairs : 7 and 4
+Seat 5: ALBERT9 showed [9d 8c] and won 1040 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #704314584311267329-4-1468099339 - Holdem no limit (15/30) - 2016/07/09 21:22:19 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #3 is the button
+Seat 2: choks282 (530)
+Seat 3: steel_dandy (445)
+Seat 4: jejesaf (485)
+Seat 5: ALBERT9 (1040)
+Seat 6: manggy94 (500)
+*** ANTE/BLINDS ***
+jejesaf posts small blind 15
+ALBERT9 posts big blind 30
+Dealt to manggy94 [Ts Qd]
+*** PRE-FLOP *** 
+manggy94 calls 30
+choks282 folds
+steel_dandy folds
+jejesaf calls 15
+ALBERT9 checks
+*** FLOP *** [Ac 6s 5d]
+jejesaf bets 90
+ALBERT9 folds
+manggy94 folds
+jejesaf collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ac 6s 5d]
+Seat 4: jejesaf (small blind) won 180
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #704314584311267329-5-1468099388 - Holdem no limit (15/30) - 2016/07/09 21:23:08 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #4 is the button
+Seat 2: choks282 (530)
+Seat 3: steel_dandy (445)
+Seat 4: jejesaf (545)
+Seat 5: ALBERT9 (1010)
+Seat 6: manggy94 (470)
+*** ANTE/BLINDS ***
+ALBERT9 posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [Jc 4s]
+*** PRE-FLOP *** 
+choks282 folds
+steel_dandy folds
+jejesaf folds
+ALBERT9 folds
+manggy94 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 6: manggy94 (big blind) won 45
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #704314584311267329-6-1468099410 - Holdem no limit (15/30) - 2016/07/09 21:23:30 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #5 is the button
+Seat 2: choks282 (530)
+Seat 3: steel_dandy (445)
+Seat 4: jejesaf (545)
+Seat 5: ALBERT9 (995)
+Seat 6: manggy94 (485)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+choks282 posts big blind 30
+Dealt to manggy94 [9c 8c]
+*** PRE-FLOP *** 
+steel_dandy folds
+jejesaf folds
+ALBERT9 folds
+manggy94 calls 15
+choks282 checks
+*** FLOP *** [2d 7h Qc]
+manggy94 checks
+choks282 checks
+*** TURN *** [2d 7h Qc][6c]
+manggy94 checks
+choks282 checks
+*** RIVER *** [2d 7h Qc 6c][Jh]
+manggy94 checks
+choks282 checks
+*** SHOW DOWN ***
+choks282 shows [8d 3d] (High card : Queen)
+manggy94 shows [9c 8c] (High card : Queen)
+manggy94 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [2d 7h Qc 6c Jh]
+Seat 2: choks282 (big blind) showed [8d 3d] and lost with High card : Queen
+Seat 6: manggy94 (small blind) showed [9c 8c] and won 60 with High card : Queen
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #704314584311267329-7-1468099439 - Holdem no limit (15/30) - 2016/07/09 21:23:59 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #6 is the button
+Seat 2: choks282 (500)
+Seat 3: steel_dandy (445)
+Seat 4: jejesaf (545)
+Seat 5: ALBERT9 (995)
+Seat 6: manggy94 (515)
+*** ANTE/BLINDS ***
+choks282 posts small blind 15
+steel_dandy posts big blind 30
+Dealt to manggy94 [4s 8h]
+*** PRE-FLOP *** 
+jejesaf folds
+ALBERT9 folds
+manggy94 folds
+choks282 calls 15
+steel_dandy checks
+*** FLOP *** [6h 3s 8s]
+choks282 checks
+steel_dandy bets 30
+choks282 raises 120 to 150
+steel_dandy calls 120
+*** TURN *** [6h 3s 8s][Ah]
+choks282 bets 195
+steel_dandy raises 70 to 265 and is all-in
+choks282 calls 70
+*** RIVER *** [6h 3s 8s Ah][7d]
+*** SHOW DOWN ***
+steel_dandy shows [9s 6s] (One pair : 6)
+choks282 shows [Kc Ac] (One pair : Aces)
+choks282 collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Board: [6h 3s 8s Ah 7d]
+Seat 2: choks282 (small blind) showed [Kc Ac] and won 890 with One pair : Aces
+Seat 3: steel_dandy (big blind) showed [9s 6s] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #704314584311267329-8-1468099510 - Holdem no limit (20/40) - 2016/07/09 21:25:10 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #2 is the button
+Seat 2: choks282 (945)
+Seat 4: jejesaf (545)
+Seat 5: ALBERT9 (995)
+Seat 6: manggy94 (515)
+*** ANTE/BLINDS ***
+jejesaf posts big blind 40
+Dealt to manggy94 [7h 9s]
+*** PRE-FLOP *** 
+ALBERT9 folds
+manggy94 folds
+choks282 raises 40 to 80
+jejesaf raises 465 to 545 and is all-in
+choks282 calls 465
+*** FLOP *** [5s 9h 7s]
+*** TURN *** [5s 9h 7s][9c]
+*** RIVER *** [5s 9h 7s 9c][Kd]
+*** SHOW DOWN ***
+choks282 shows [As 8c] (One pair : 9)
+jejesaf shows [Kc 2c] (Two pairs : Kings and 9)
+jejesaf collected 1090 from pot
+*** SUMMARY ***
+Total pot 1090 | No rake
+Board: [5s 9h 7s 9c Kd]
+Seat 2: choks282 (button) showed [As 8c] and lost with One pair : 9
+Seat 4: jejesaf (big blind) showed [Kc 2c] and won 1090 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #704314584311267329-9-1468099544 - Holdem no limit (20/40) - 2016/07/09 21:25:44 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #3 is the button
+Seat 2: choks282 (400)
+Seat 4: jejesaf (1090)
+Seat 5: ALBERT9 (995)
+Seat 6: manggy94 (515)
+*** ANTE/BLINDS ***
+jejesaf posts small blind 20
+ALBERT9 posts big blind 40
+Dealt to manggy94 [2c 3h]
+*** PRE-FLOP *** 
+manggy94 folds
+choks282 raises 360 to 400 and is all-in
+jejesaf folds
+ALBERT9 calls 360
+*** FLOP *** [Kc 3c Ks]
+*** TURN *** [Kc 3c Ks][8h]
+*** RIVER *** [Kc 3c Ks 8h][7c]
+*** SHOW DOWN ***
+ALBERT9 shows [Qd Qc] (Two pairs : Kings and Queens)
+choks282 shows [6c 5c] (Flush King high)
+choks282 collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Board: [Kc 3c Ks 8h 7c]
+Seat 2: choks282 showed [6c 5c] and won 820 with Flush King high
+Seat 5: ALBERT9 (big blind) showed [Qd Qc] and lost with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #704314584311267329-10-1468099582 - Holdem no limit (20/40) - 2016/07/09 21:26:22 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #4 is the button
+Seat 2: choks282 (820)
+Seat 4: jejesaf (1070)
+Seat 5: ALBERT9 (595)
+Seat 6: manggy94 (515)
+*** ANTE/BLINDS ***
+ALBERT9 posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [Kc 4h]
+*** PRE-FLOP *** 
+choks282 calls 40
+jejesaf folds
+ALBERT9 raises 555 to 595 and is all-in
+manggy94 folds
+choks282 folds
+ALBERT9 collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | No rake
+Seat 5: ALBERT9 (small blind) won 675
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #704314584311267329-11-1468099609 - Holdem no limit (20/40) - 2016/07/09 21:26:49 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #5 is the button
+Seat 2: choks282 (780)
+Seat 4: jejesaf (1070)
+Seat 5: ALBERT9 (675)
+Seat 6: manggy94 (475)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+choks282 posts big blind 40
+Dealt to manggy94 [2s 6s]
+*** PRE-FLOP *** 
+jejesaf folds
+ALBERT9 folds
+manggy94 folds
+choks282 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: choks282 (big blind) won 60
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #704314584311267329-12-1468099628 - Holdem no limit (20/40) - 2016/07/09 21:27:08 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #6 is the button
+Seat 2: choks282 (800)
+Seat 4: jejesaf (1070)
+Seat 5: ALBERT9 (675)
+Seat 6: manggy94 (455)
+*** ANTE/BLINDS ***
+choks282 posts small blind 20
+jejesaf posts big blind 40
+Dealt to manggy94 [8c Ks]
+*** PRE-FLOP *** 
+ALBERT9 raises 635 to 675 and is all-in
+manggy94 folds
+choks282 folds
+jejesaf calls 635
+*** FLOP *** [Jh 2h 7d]
+*** TURN *** [Jh 2h 7d][6s]
+*** RIVER *** [Jh 2h 7d 6s][9s]
+*** SHOW DOWN ***
+ALBERT9 shows [5h Qs] (High card : Queen)
+jejesaf shows [Kc Td] (High card : King)
+jejesaf collected 1370 from pot
+*** SUMMARY ***
+Total pot 1370 | No rake
+Board: [Jh 2h 7d 6s 9s]
+Seat 4: jejesaf (big blind) showed [Kc Td] and won 1370 with High card : King
+Seat 5: ALBERT9 showed [5h Qs] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #704314584311267329-13-1468099669 - Holdem no limit (30/60) - 2016/07/09 21:27:49 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #2 is the button
+Seat 2: choks282 (780)
+Seat 4: jejesaf (1765)
+Seat 6: manggy94 (455)
+*** ANTE/BLINDS ***
+jejesaf posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [3c As]
+*** PRE-FLOP *** 
+choks282 raises 60 to 120
+jejesaf folds
+manggy94 calls 60
+*** FLOP *** [Th 6d 9h]
+manggy94 checks
+choks282 bets 150
+manggy94 folds
+choks282 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Th 6d 9h]
+Seat 2: choks282 (button) won 420
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #704314584311267329-14-1468099708 - Holdem no limit (30/60) - 2016/07/09 21:28:28 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #4 is the button
+Seat 2: choks282 (930)
+Seat 4: jejesaf (1735)
+Seat 6: manggy94 (335)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+choks282 posts big blind 60
+Dealt to manggy94 [Tc As]
+*** PRE-FLOP *** 
+jejesaf calls 60
+manggy94 raises 275 to 335 and is all-in
+choks282 folds
+jejesaf calls 275
+*** FLOP *** [Th 3s 2s]
+*** TURN *** [Th 3s 2s][Kc]
+*** RIVER *** [Th 3s 2s Kc][5h]
+*** SHOW DOWN ***
+jejesaf shows [7h 9h] (High card : King)
+manggy94 shows [Tc As] (One pair : Tens)
+manggy94 collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | No rake
+Board: [Th 3s 2s Kc 5h]
+Seat 4: jejesaf (button) showed [7h 9h] and lost with High card : King
+Seat 6: manggy94 (small blind) showed [Tc As] and won 730 with One pair : Tens
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #704314584311267329-15-1468099743 - Holdem no limit (30/60) - 2016/07/09 21:29:03 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #6 is the button
+Seat 2: choks282 (870)
+Seat 4: jejesaf (1400)
+Seat 6: manggy94 (730)
+*** ANTE/BLINDS ***
+choks282 posts small blind 30
+jejesaf posts big blind 60
+Dealt to manggy94 [Th 2d]
+*** PRE-FLOP *** 
+manggy94 folds
+choks282 raises 810 to 870 and is all-in
+jejesaf calls 810
+*** FLOP *** [Ac Qs 8c]
+*** TURN *** [Ac Qs 8c][6d]
+*** RIVER *** [Ac Qs 8c 6d][Ad]
+*** SHOW DOWN ***
+jejesaf shows [Kh 7h] (One pair : Aces)
+choks282 shows [8h As] (Full of Aces and 8)
+choks282 collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Board: [Ac Qs 8c 6d Ad]
+Seat 2: choks282 (small blind) showed [8h As] and won 1740 with Full of Aces and 8
+Seat 4: jejesaf (big blind) showed [Kh 7h] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #704314584311267329-16-1468099770 - Holdem no limit (30/60) - 2016/07/09 21:29:30 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #2 is the button
+Seat 2: choks282 (1740)
+Seat 4: jejesaf (530)
+Seat 6: manggy94 (730)
+*** ANTE/BLINDS ***
+jejesaf posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [Kd Jd]
+*** PRE-FLOP *** 
+choks282 raises 1680 to 1740 and is all-in
+jejesaf calls 500 and is all-in
+manggy94 folds
+*** FLOP *** [5c Ts Jc]
+*** TURN *** [5c Ts Jc][8c]
+*** RIVER *** [5c Ts Jc 8c][3s]
+*** SHOW DOWN ***
+choks282 shows [2c 2s] (One pair : 2)
+jejesaf shows [Js 7h] (One pair : Jacks)
+jejesaf collected 1120 from main pot
+choks282 collected 1210 from side pot 1
+*** SUMMARY ***
+Total pot 2330 | No rake
+Board: [5c Ts Jc 8c 3s]
+Seat 2: choks282 (button) showed [2c 2s] and won 1210 with One pair : 2
+Seat 4: jejesaf (small blind) showed [Js 7h] and won 1120 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #704314584311267329-17-1468099792 - Holdem no limit (30/60) - 2016/07/09 21:29:52 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #4 is the button
+Seat 2: choks282 (1210)
+Seat 4: jejesaf (1120)
+Seat 6: manggy94 (670)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 30
+choks282 posts big blind 60
+Dealt to manggy94 [8h 3c]
+*** PRE-FLOP *** 
+jejesaf raises 1060 to 1120 and is all-in
+manggy94 folds
+choks282 raises 90 to 1210 and is all-in
+*** FLOP *** [7d 5s Td]
+*** TURN *** [7d 5s Td][Ad]
+*** RIVER *** [7d 5s Td Ad][Qh]
+*** SHOW DOWN ***
+jejesaf shows [6s 8s] (High card : Ace)
+choks282 shows [Kc 7h] (One pair : 7)
+choks282 collected 2360 from pot
+*** SUMMARY ***
+Total pot 2360 | No rake
+Board: [7d 5s Td Ad Qh]
+Seat 2: choks282 (big blind) showed [Kc 7h] and won 2360 with One pair : 7
+Seat 4: jejesaf (button) showed [6s 8s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 4 - HandId: #704314584311267329-18-1468099820 - Holdem no limit (30/60) - 2016/07/09 21:30:20 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #2 is the button
+Seat 2: choks282 (2360)
+Seat 6: manggy94 (640)
+*** ANTE/BLINDS ***
+choks282 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [Tc 8h]
+*** PRE-FLOP *** 
+choks282 raises 60 to 120
+manggy94 calls 60
+*** FLOP *** [Jd 3d 2s]
+manggy94 checks
+choks282 checks
+*** TURN *** [Jd 3d 2s][2h]
+manggy94 bets 60
+choks282 calls 60
+*** RIVER *** [Jd 3d 2s 2h][9d]
+manggy94 checks
+choks282 bets 240
+manggy94 folds
+choks282 shows [As 7d] (One pair : 2)
+choks282 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jd 3d 2s 2h 9d]
+Seat 2: choks282 (small blind) (button) showed [As 7d] and won 600 with One pair : 2
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 5 - HandId: #704314584311267329-19-1468099842 - Holdem no limit (40/80) - 2016/07/09 21:30:42 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #6 is the button
+Seat 2: choks282 (2540)
+Seat 6: manggy94 (460)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+choks282 posts big blind 80
+Dealt to manggy94 [3h 6c]
+*** PRE-FLOP *** 
+manggy94 folds
+choks282 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: choks282 (big blind) won 120
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 5 - HandId: #704314584311267329-20-1468099849 - Holdem no limit (40/80) - 2016/07/09 21:30:49 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #2 is the button
+Seat 2: choks282 (2580)
+Seat 6: manggy94 (420)
+*** ANTE/BLINDS ***
+choks282 posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [Kh Kd]
+*** PRE-FLOP *** 
+choks282 calls 40
+manggy94 raises 340 to 420 and is all-in
+choks282 calls 340
+*** FLOP *** [4c 2h 2s]
+*** TURN *** [4c 2h 2s][Qc]
+*** RIVER *** [4c 2h 2s Qc][Jd]
+*** SHOW DOWN ***
+choks282 shows [Th 9c] (One pair : 2)
+manggy94 shows [Kh Kd] (Two pairs : Kings and 2)
+manggy94 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [4c 2h 2s Qc Jd]
+Seat 2: choks282 (small blind) (button) showed [Th 9c] and lost with One pair : 2
+Seat 6: manggy94 (big blind) showed [Kh Kd] and won 840 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 5 - HandId: #704314584311267329-21-1468099868 - Holdem no limit (40/80) - 2016/07/09 21:31:08 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(163986018)#0' 6-max (real money) Seat #6 is the button
+Seat 2: choks282 (2160)
+Seat 6: manggy94 (840)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+choks282 posts big blind 80
+Dealt to manggy94 [4c 4h]
+*** PRE-FLOP *** 
+manggy94 raises 760 to 840 and is all-in
+choks282 calls 760
+*** FLOP *** [8s 9h Ac]
+*** TURN *** [8s 9h Ac][7h]
+*** RIVER *** [8s 9h Ac 7h][Ts]
+*** SHOW DOWN ***
+manggy94 shows [4c 4h] (One pair : 4)
+choks282 shows [Ah 3s] (One pair : Aces)
+choks282 collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [8s 9h Ac 7h Ts]
+Seat 2: choks282 (big blind) showed [Ah 3s] and won 1680 with One pair : Aces
+Seat 6: manggy94 (small blind) (button) showed [4c 4h] and lost with One pair : 4
+
+

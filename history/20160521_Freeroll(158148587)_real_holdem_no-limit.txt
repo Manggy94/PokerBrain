@@ -1,0 +1,1093 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 0 - HandId: #679243009073611065-1-1463832028 - Holdem no limit (10/20) - 2016/05/21 12:00:28 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #2 is the button
+Seat 1: Xinto67 (3000)
+Seat 2: stevenb16 (3000)
+Seat 3: manggy94 (3000)
+Seat 4: Camhiya (3000)
+Seat 5: affroun09 (3000)
+Seat 6: ChristGpr (3000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+Camhiya posts big blind 20
+Dealt to manggy94 [3s Jd]
+*** PRE-FLOP *** 
+affroun09 raises 20 to 40
+ChristGpr calls 40
+Xinto67 folds
+stevenb16 folds
+manggy94 folds
+Camhiya calls 20
+*** FLOP *** [4c Ad 2h]
+Camhiya bets 65
+affroun09 raises 65 to 130
+ChristGpr folds
+Camhiya raises 65 to 195
+affroun09 calls 65
+*** TURN *** [4c Ad 2h][Jc]
+Camhiya bets 20
+affroun09 calls 20
+*** RIVER *** [4c Ad 2h Jc][3c]
+Camhiya bets 280
+affroun09 raises 280 to 560
+Camhiya calls 280
+*** SHOW DOWN ***
+Camhiya shows [8h Ac] (One pair : Aces)
+affroun09 shows [9d 5c] (Straight 5 high)
+affroun09 collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [4c Ad 2h Jc 3c]
+Seat 4: Camhiya (big blind) showed [8h Ac] and lost with One pair : Aces
+Seat 5: affroun09 showed [9d 5c] and won 1680 with Straight 5 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #679243009073611065-2-1463832222 - Holdem no limit (15/30) - 2016/05/21 12:03:42 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #3 is the button
+Seat 1: Xinto67 (3000)
+Seat 2: stevenb16 (3000)
+Seat 3: manggy94 (2990)
+Seat 4: Camhiya (2185)
+Seat 5: affroun09 (3865)
+Seat 6: ChristGpr (2960)
+*** ANTE/BLINDS ***
+Camhiya posts small blind 15
+affroun09 posts big blind 30
+Dealt to manggy94 [Kd Ah]
+*** PRE-FLOP *** 
+ChristGpr calls 30
+Xinto67 folds
+stevenb16 calls 30
+manggy94 raises 135 to 165
+Camhiya calls 150
+affroun09 raises 135 to 300
+ChristGpr folds
+stevenb16 calls 270
+manggy94 raises 1095 to 1395
+Camhiya raises 790 to 2185 and is all-in
+affroun09 raises 1095 to 3280
+stevenb16 calls 2700 and is all-in
+manggy94 calls 1595 and is all-in
+*** FLOP *** [5d Qd 9c]
+*** TURN *** [5d Qd 9c][Th]
+*** RIVER *** [5d Qd 9c Th][Ac]
+*** SHOW DOWN ***
+Camhiya shows [8d Jh] (Straight Queen high)
+manggy94 shows [Kd Ah] (One pair : Aces)
+stevenb16 shows [Qh Kc] (One pair : Queens)
+affroun09 shows [9s 7s] (One pair : 9)
+affroun09 collected 280 from side pot 3
+stevenb16 collected 20 from side pot 2
+manggy94 collected 2415 from side pot 1
+Camhiya collected 8770 from main pot
+*** SUMMARY ***
+Total pot 11485 | No rake
+Board: [5d Qd 9c Th Ac]
+Seat 2: stevenb16 showed [Qh Kc] and won 20 with One pair : Queens
+Seat 3: manggy94 (button) showed [Kd Ah] and won 2415 with One pair : Aces
+Seat 4: Camhiya (small blind) showed [8d Jh] and won 8770 with Straight Queen high
+Seat 5: affroun09 (big blind) showed [9s 7s] and won 280 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #679243009073611065-3-1463832301 - Holdem no limit (15/30) - 2016/05/21 12:05:01 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #4 is the button
+Seat 1: Xinto67 (3000)
+Seat 2: stevenb16 (20)
+Seat 3: manggy94 (2415)
+Seat 4: Camhiya (8770)
+Seat 5: affroun09 (865)
+Seat 6: ChristGpr (2930)
+*** ANTE/BLINDS ***
+affroun09 posts small blind 15
+ChristGpr posts big blind 30
+Dealt to manggy94 [9c Qc]
+*** PRE-FLOP *** 
+Xinto67 folds
+stevenb16 calls 20 and is all-in
+manggy94 calls 30
+Camhiya calls 30
+affroun09 raises 327 to 357
+ChristGpr folds
+manggy94 calls 327
+Camhiya calls 327
+*** FLOP *** [Js Qs Tc]
+affroun09 bets 508 and is all-in
+manggy94 calls 508
+Camhiya calls 508
+*** TURN *** [Js Qs Tc][9s]
+manggy94 bets 1550 and is all-in
+Camhiya calls 1550
+*** RIVER *** [Js Qs Tc 9s][4h]
+*** SHOW DOWN ***
+Camhiya shows [3s Ad] (High card : Ace)
+affroun09 shows [Ts Ac] (One pair : Tens)
+stevenb16 shows [8d Qh] (Straight Queen high)
+manggy94 shows [9c Qc] (Two pairs : Queens and 9)
+manggy94 collected 5645 from side pot 1
+stevenb16 collected 100 from main pot
+*** SUMMARY ***
+Total pot 5745 | No rake
+Board: [Js Qs Tc 9s 4h]
+Seat 2: stevenb16 showed [8d Qh] and won 100 with Straight Queen high
+Seat 3: manggy94 showed [9c Qc] and won 5645 with Two pairs : Queens and 9
+Seat 4: Camhiya (button) showed [3s Ad] and lost with High card : Ace
+Seat 5: affroun09 (small blind) showed [Ts Ac] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #679243009073611065-4-1463832349 - Holdem no limit (15/30) - 2016/05/21 12:05:49 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #5 is the button
+Seat 1: Xinto67 (3000)
+Seat 2: stevenb16 (100)
+Seat 3: manggy94 (5645)
+Seat 4: Camhiya (6355)
+Seat 6: ChristGpr (2900)
+*** ANTE/BLINDS ***
+ChristGpr posts small blind 15
+Xinto67 posts big blind 30
+Dealt to manggy94 [3c 3s]
+*** PRE-FLOP *** 
+stevenb16 folds
+manggy94 raises 90 to 120
+Camhiya calls 120
+ChristGpr calls 105
+Xinto67 folds
+*** FLOP *** [9c 6c 2d]
+ChristGpr checks
+manggy94 bets 195
+Camhiya calls 195
+ChristGpr folds
+*** TURN *** [9c 6c 2d][8h]
+manggy94 checks
+Camhiya checks
+*** RIVER *** [9c 6c 2d 8h][As]
+manggy94 checks
+Camhiya checks
+*** SHOW DOWN ***
+Camhiya shows [Qd 7h] (High card : Ace)
+manggy94 shows [3c 3s] (One pair : 3)
+manggy94 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [9c 6c 2d 8h As]
+Seat 3: manggy94 showed [3c 3s] and won 780 with One pair : 3
+Seat 4: Camhiya showed [Qd 7h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 1 - HandId: #679243009073611065-5-1463832381 - Holdem no limit (15/30) - 2016/05/21 12:06:21 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #6 is the button
+Seat 1: Xinto67 (2970)
+Seat 2: stevenb16 (100)
+Seat 3: manggy94 (6110)
+Seat 4: Camhiya (6040)
+Seat 5: ROMAINB527 (3000)
+Seat 6: ChristGpr (2780)
+*** ANTE/BLINDS ***
+Xinto67 posts small blind 15
+stevenb16 posts big blind 30
+Dealt to manggy94 [3s Ts]
+*** PRE-FLOP *** 
+manggy94 folds
+Camhiya calls 30
+ROMAINB527 folds
+ChristGpr folds
+Xinto67 folds
+stevenb16 checks
+*** FLOP *** [7c 6c 8c]
+stevenb16 checks
+Camhiya checks
+*** TURN *** [7c 6c 8c][Js]
+stevenb16 checks
+Camhiya checks
+*** RIVER *** [7c 6c 8c Js][8h]
+stevenb16 checks
+Camhiya checks
+*** SHOW DOWN ***
+Camhiya shows [4c Qh] (One pair : 8)
+stevenb16 shows [Ks 4d] (One pair : 8)
+stevenb16 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [7c 6c 8c Js 8h]
+Seat 2: stevenb16 (big blind) showed [Ks 4d] and won 75 with One pair : 8
+Seat 4: Camhiya showed [4c Qh] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #679243009073611065-6-1463832402 - Holdem no limit (20/40) - 2016/05/21 12:06:42 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #1 is the button
+Seat 1: Xinto67 (2955)
+Seat 2: stevenb16 (145)
+Seat 3: manggy94 (6110)
+Seat 4: Camhiya (6010)
+Seat 5: ROMAINB527 (3000)
+Seat 6: ChristGpr (2780)
+*** ANTE/BLINDS ***
+stevenb16 posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [7h Qs]
+*** PRE-FLOP *** 
+Camhiya calls 40
+ROMAINB527 calls 40
+ChristGpr calls 40
+Xinto67 folds
+stevenb16 raises 105 to 145 and is all-in
+manggy94 folds
+Camhiya calls 105
+ROMAINB527 calls 105
+ChristGpr calls 105
+*** FLOP *** [Kd Ad 9c]
+Camhiya checks
+ROMAINB527 bets 40
+ChristGpr folds
+Camhiya calls 40
+*** TURN *** [Kd Ad 9c][Jh]
+Camhiya checks
+ROMAINB527 bets 40
+Camhiya calls 40
+*** RIVER *** [Kd Ad 9c Jh][Ah]
+Camhiya checks
+ROMAINB527 bets 40
+Camhiya calls 40
+*** SHOW DOWN ***
+stevenb16 shows [7s 6s] (One pair : Aces)
+Camhiya shows [7d 9d] (Two pairs : Aces and 9)
+ROMAINB527 shows [Ks Th] (Two pairs : Aces and Kings)
+ROMAINB527 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [Kd Ad 9c Jh Ah]
+Seat 2: stevenb16 (small blind) showed [7s 6s] and lost with One pair : Aces
+Seat 4: Camhiya showed [7d 9d] and lost with Two pairs : Aces and 9
+Seat 5: ROMAINB527 showed [Ks Th] and won 860 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #679243009073611065-7-1463832500 - Holdem no limit (20/40) - 2016/05/21 12:08:20 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #2 is the button
+Seat 1: Xinto67 (2955)
+Seat 3: manggy94 (6070)
+Seat 4: Camhiya (5745)
+Seat 5: ROMAINB527 (3595)
+Seat 6: ChristGpr (2635)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+Camhiya posts big blind 40
+Dealt to manggy94 [Ah Ks]
+*** PRE-FLOP *** 
+ROMAINB527 folds
+ChristGpr calls 40
+Xinto67 folds
+manggy94 raises 520 to 560
+Camhiya folds
+ChristGpr raises 2075 to 2635 and is all-in
+manggy94 calls 2075
+*** FLOP *** [Kh 7s 9c]
+*** TURN *** [Kh 7s 9c][Ad]
+*** RIVER *** [Kh 7s 9c Ad][9h]
+*** SHOW DOWN ***
+ChristGpr shows [4c 4d] (Two pairs : 9 and 4)
+manggy94 shows [Ah Ks] (Two pairs : Aces and Kings)
+manggy94 collected 5310 from pot
+*** SUMMARY ***
+Total pot 5310 | No rake
+Board: [Kh 7s 9c Ad 9h]
+Seat 3: manggy94 (small blind) showed [Ah Ks] and won 5310 with Two pairs : Aces and Kings
+Seat 6: ChristGpr showed [4c 4d] and lost with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 2 - HandId: #679243009073611065-8-1463832531 - Holdem no limit (20/40) - 2016/05/21 12:08:51 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #3 is the button
+Seat 1: Xinto67 (2955)
+Seat 2: philoudu29 (3000)
+Seat 3: manggy94 (8745)
+Seat 4: Camhiya (5705)
+Seat 5: ROMAINB527 (3595)
+*** ANTE/BLINDS ***
+Camhiya posts small blind 20
+ROMAINB527 posts big blind 40
+Dealt to manggy94 [6s Tc]
+*** PRE-FLOP *** 
+Xinto67 folds
+philoudu29 calls 40
+manggy94 calls 40
+Camhiya calls 20
+ROMAINB527 checks
+*** FLOP *** [Th 4d 5d]
+Camhiya checks
+ROMAINB527 checks
+philoudu29 checks
+manggy94 bets 1460
+Camhiya folds
+ROMAINB527 folds
+philoudu29 calls 1460
+*** TURN *** [Th 4d 5d][Kh]
+philoudu29 checks
+manggy94 bets 3080
+philoudu29 calls 1500 and is all-in
+*** RIVER *** [Th 4d 5d Kh][7c]
+*** SHOW DOWN ***
+philoudu29 shows [2s As] (High card : Ace)
+manggy94 shows [6s Tc] (One pair : Tens)
+manggy94 collected 7660 from pot
+*** SUMMARY ***
+Total pot 7660 | No rake
+Board: [Th 4d 5d Kh 7c]
+Seat 2: philoudu29 showed [2s As] and lost with High card : Ace
+Seat 3: manggy94 (button) showed [6s Tc] and won 7660 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #679243009073611065-9-1463832569 - Holdem no limit (30/60) - 2016/05/21 12:09:29 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #4 is the button
+Seat 1: Xinto67 (2955)
+Seat 3: manggy94 (11825)
+Seat 4: Camhiya (5665)
+Seat 5: ROMAINB527 (3555)
+Seat 6: Stekos33 (3000)
+*** ANTE/BLINDS ***
+ROMAINB527 posts small blind 30
+Stekos33 posts big blind 60
+Dealt to manggy94 [4c 2d]
+*** PRE-FLOP *** 
+Xinto67 folds
+manggy94 calls 60
+Camhiya calls 60
+ROMAINB527 calls 30
+Stekos33 raises 120 to 180
+manggy94 folds
+Camhiya calls 120
+ROMAINB527 calls 120
+*** FLOP *** [7c Qh 5h]
+ROMAINB527 checks
+Stekos33 bets 600
+Camhiya folds
+ROMAINB527 calls 600
+*** TURN *** [7c Qh 5h][8d]
+ROMAINB527 bets 60
+Stekos33 raises 2160 to 2220 and is all-in
+ROMAINB527 folds
+Stekos33 collected 4080 from pot
+*** SUMMARY ***
+Total pot 4080 | No rake
+Board: [7c Qh 5h 8d]
+Seat 6: Stekos33 (big blind) won 4080
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #679243009073611065-10-1463832653 - Holdem no limit (30/60) - 2016/05/21 12:10:53 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #5 is the button
+Seat 1: Xinto67 (2955)
+Seat 2: stchris (3000)
+Seat 3: manggy94 (11765)
+Seat 4: Camhiya (5485)
+Seat 5: ROMAINB527 (2715)
+Seat 6: Stekos33 (4080)
+*** ANTE/BLINDS ***
+Stekos33 posts small blind 30
+Xinto67 posts big blind 60
+Dealt to manggy94 [Kh Qh]
+*** PRE-FLOP *** 
+stchris calls 60
+manggy94 raises 210 to 270
+Camhiya calls 270
+ROMAINB527 folds
+Stekos33 folds
+Xinto67 folds
+stchris raises 2730 to 3000 and is all-in
+manggy94 calls 2730
+Camhiya calls 2730
+*** FLOP *** [5s 8d 4s]
+manggy94 checks
+Camhiya checks
+*** TURN *** [5s 8d 4s][Ad]
+manggy94 checks
+Camhiya checks
+*** RIVER *** [5s 8d 4s Ad][6c]
+manggy94 checks
+Camhiya checks
+*** SHOW DOWN ***
+stchris shows [Ac 3c] (One pair : Aces)
+manggy94 shows [Kh Qh] (High card : Ace)
+Camhiya shows [8s 6h] (Two pairs : 8 and 6)
+Camhiya collected 9090 from pot
+*** SUMMARY ***
+Total pot 9090 | No rake
+Board: [5s 8d 4s Ad 6c]
+Seat 2: stchris showed [Ac 3c] and lost with One pair : Aces
+Seat 3: manggy94 showed [Kh Qh] and lost with High card : Ace
+Seat 4: Camhiya showed [8s 6h] and won 9090 with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 3 - HandId: #679243009073611065-11-1463832680 - Holdem no limit (30/60) - 2016/05/21 12:11:20 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #6 is the button
+Seat 1: Xinto67 (2895)
+Seat 3: manggy94 (8765)
+Seat 4: Camhiya (11575)
+Seat 5: ROMAINB527 (2715)
+Seat 6: Stekos33 (4050)
+*** ANTE/BLINDS ***
+Xinto67 posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [4h 7c]
+*** PRE-FLOP *** 
+Camhiya calls 60
+ROMAINB527 calls 60
+Stekos33 raises 150 to 210
+Xinto67 folds
+manggy94 folds
+Camhiya calls 150
+ROMAINB527 calls 150
+*** FLOP *** [7d 9d 4d]
+Camhiya checks
+ROMAINB527 checks
+Stekos33 bets 420
+Camhiya calls 420
+ROMAINB527 folds
+*** TURN *** [7d 9d 4d][9h]
+Camhiya checks
+Stekos33 checks
+*** RIVER *** [7d 9d 4d 9h][2d]
+Camhiya bets 780
+Stekos33 calls 780
+*** SHOW DOWN ***
+Stekos33 shows [6d As] (Flush 9 high)
+Camhiya shows [6h 8d] (Flush 9 high)
+Camhiya collected 3120 from pot
+*** SUMMARY ***
+Total pot 3120 | No rake
+Board: [7d 9d 4d 9h 2d]
+Seat 4: Camhiya showed [6h 8d] and won 3120 with Flush 9 high
+Seat 6: Stekos33 (button) showed [6d As] and lost with Flush 9 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #679243009073611065-12-1463832750 - Holdem no limit (40/80) - 2016/05/21 12:12:30 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #1 is the button
+Seat 1: Xinto67 (2865)
+Seat 2: gargamone (2470)
+Seat 3: manggy94 (8705)
+Seat 4: Camhiya (13285)
+Seat 5: ROMAINB527 (2505)
+Seat 6: Stekos33 (2640)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+Camhiya posts big blind 80
+Dealt to manggy94 [4c 6h]
+*** PRE-FLOP *** 
+ROMAINB527 folds
+Stekos33 folds
+Xinto67 folds
+manggy94 folds
+Camhiya collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 4: Camhiya (big blind) won 120
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #679243009073611065-13-1463832761 - Holdem no limit (40/80) - 2016/05/21 12:12:41 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #3 is the button
+Seat 1: Xinto67 (2865)
+Seat 2: gargamone (2470)
+Seat 3: manggy94 (8665)
+Seat 4: Camhiya (13325)
+Seat 5: ROMAINB527 (2505)
+Seat 6: Stekos33 (2640)
+*** ANTE/BLINDS ***
+Camhiya posts small blind 40
+ROMAINB527 posts big blind 80
+Dealt to manggy94 [8h Kc]
+*** PRE-FLOP *** 
+Stekos33 folds
+Xinto67 folds
+gargamone folds
+manggy94 raises 160 to 240
+Camhiya calls 200
+ROMAINB527 folds
+*** FLOP *** [Js Jh As]
+Camhiya checks
+manggy94 bets 560
+Camhiya calls 560
+*** TURN *** [Js Jh As][6d]
+Camhiya checks
+manggy94 checks
+*** RIVER *** [Js Jh As 6d][Jc]
+Camhiya checks
+manggy94 checks
+*** SHOW DOWN ***
+Camhiya shows [Qh 9h] (Trips of Jacks)
+manggy94 shows [8h Kc] (Trips of Jacks)
+manggy94 collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [Js Jh As 6d Jc]
+Seat 3: manggy94 (button) showed [8h Kc] and won 1680 with Trips of Jacks
+Seat 4: Camhiya (small blind) showed [Qh 9h] and lost with Trips of Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #679243009073611065-14-1463832811 - Holdem no limit (40/80) - 2016/05/21 12:13:31 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #4 is the button
+Seat 1: Xinto67 (2865)
+Seat 2: gargamone (2470)
+Seat 3: manggy94 (9545)
+Seat 4: Camhiya (12525)
+Seat 5: ROMAINB527 (2425)
+Seat 6: Stekos33 (2640)
+*** ANTE/BLINDS ***
+ROMAINB527 posts small blind 40
+Stekos33 posts big blind 80
+Dealt to manggy94 [7h Qd]
+*** PRE-FLOP *** 
+Xinto67 folds
+gargamone folds
+manggy94 calls 80
+Camhiya calls 80
+ROMAINB527 folds
+Stekos33 raises 2560 to 2640 and is all-in
+manggy94 folds
+Camhiya folds
+Stekos33 collected 2840 from pot
+*** SUMMARY ***
+Total pot 2840 | No rake
+Seat 6: Stekos33 (big blind) won 2840
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 4 - HandId: #679243009073611065-15-1463832849 - Holdem no limit (40/80) - 2016/05/21 12:14:09 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #5 is the button
+Seat 1: Xinto67 (2865)
+Seat 2: gargamone (2470)
+Seat 3: manggy94 (9465)
+Seat 4: Camhiya (12445)
+Seat 5: ROMAINB527 (2385)
+Seat 6: Stekos33 (2840)
+*** ANTE/BLINDS ***
+Stekos33 posts small blind 40
+Xinto67 posts big blind 80
+Dealt to manggy94 [2h 7h]
+*** PRE-FLOP *** 
+gargamone calls 80
+manggy94 calls 80
+Camhiya calls 80
+ROMAINB527 calls 80
+Stekos33 calls 40
+Xinto67 folds
+*** FLOP *** [Kh Qs 9s]
+Stekos33 checks
+gargamone checks
+manggy94 checks
+Camhiya checks
+ROMAINB527 bets 2305 and is all-in
+Stekos33 folds
+gargamone folds
+manggy94 folds
+Camhiya calls 2305
+*** TURN *** [Kh Qs 9s][Tc]
+*** RIVER *** [Kh Qs 9s Tc][Ad]
+*** SHOW DOWN ***
+ROMAINB527 shows [Qc 2d] (One pair : Queens)
+Camhiya shows [Ah Jc] (Straight Ace high)
+Camhiya collected 5090 from pot
+*** SUMMARY ***
+Total pot 5090 | No rake
+Board: [Kh Qs 9s Tc Ad]
+Seat 4: Camhiya showed [Ah Jc] and won 5090 with Straight Ace high
+Seat 5: ROMAINB527 (button) showed [Qc 2d] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #679243009073611065-16-1463832935 - Holdem no limit (60/120) - 2016/05/21 12:15:35 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #6 is the button
+Seat 1: Xinto67 (2785)
+Seat 2: gargamone (2390)
+Seat 3: manggy94 (9385)
+Seat 4: Camhiya (15150)
+Seat 6: Stekos33 (2760)
+*** ANTE/BLINDS ***
+Xinto67 posts small blind 60
+gargamone posts big blind 120
+Dealt to manggy94 [9c 4h]
+*** PRE-FLOP *** 
+manggy94 folds
+Camhiya calls 120
+Stekos33 folds
+Xinto67 folds
+gargamone checks
+*** FLOP *** [Kh Kd Qc]
+gargamone checks
+Camhiya checks
+*** TURN *** [Kh Kd Qc][2h]
+gargamone checks
+Camhiya checks
+*** RIVER *** [Kh Kd Qc 2h][Ah]
+gargamone checks
+Camhiya checks
+*** SHOW DOWN ***
+gargamone shows [7d Td] (One pair : Kings)
+Camhiya shows [Js 2s] (Two pairs : Kings and 2)
+Camhiya collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Kh Kd Qc 2h Ah]
+Seat 2: gargamone (big blind) showed [7d Td] and lost with One pair : Kings
+Seat 4: Camhiya showed [Js 2s] and won 300 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #679243009073611065-17-1463832992 - Holdem no limit (60/120) - 2016/05/21 12:16:32 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #1 is the button
+Seat 1: Xinto67 (2725)
+Seat 2: gargamone (2270)
+Seat 3: manggy94 (9385)
+Seat 4: Camhiya (15330)
+Seat 5: Virusbzbz (3000)
+Seat 6: Stekos33 (2760)
+*** ANTE/BLINDS ***
+gargamone posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [2h Td]
+*** PRE-FLOP *** 
+Camhiya calls 120
+Virusbzbz raises 2880 to 3000 and is all-in
+Stekos33 calls 2760 and is all-in
+Xinto67 folds
+gargamone calls 2210 and is all-in
+manggy94 folds
+Camhiya folds
+*** FLOP *** [5c 7d 5d]
+*** TURN *** [5c 7d 5d][Qd]
+*** RIVER *** [5c 7d 5d Qd][2s]
+*** SHOW DOWN ***
+gargamone shows [8s Ac] (One pair : 5)
+Stekos33 shows [Ad Qh] (Two pairs : Queens and 5)
+Virusbzbz shows [9h Qc] (Two pairs : Queens and 5)
+Virusbzbz collected 240 from side pot 1
+Stekos33 collected 8030 from main pot
+*** SUMMARY ***
+Total pot 8270 | No rake
+Board: [5c 7d 5d Qd 2s]
+Seat 2: gargamone (small blind) showed [8s Ac] and lost with One pair : 5
+Seat 5: Virusbzbz showed [9h Qc] and won 240 with Two pairs : Queens and 5
+Seat 6: Stekos33 showed [Ad Qh] and won 8030 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #679243009073611065-18-1463833035 - Holdem no limit (60/120) - 2016/05/21 12:17:15 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #2 is the button
+Seat 1: Xinto67 (2725)
+Seat 3: manggy94 (9265)
+Seat 4: Camhiya (15210)
+Seat 5: Virusbzbz (240)
+Seat 6: Stekos33 (8030)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 60
+Camhiya posts big blind 120
+Dealt to manggy94 [Kd Kc]
+*** PRE-FLOP *** 
+Virusbzbz raises 120 to 240 and is all-in
+Stekos33 folds
+Xinto67 folds
+manggy94 raises 9025 to 9265 and is all-in
+Camhiya folds
+*** FLOP *** [2h Ac Jh]
+*** TURN *** [2h Ac Jh][5c]
+*** RIVER *** [2h Ac Jh 5c][3d]
+*** SHOW DOWN ***
+Virusbzbz shows [7h 8h] (High card : Ace)
+manggy94 shows [Kd Kc] (One pair : Kings)
+manggy94 collected 9625 from pot
+*** SUMMARY ***
+Total pot 9625 | No rake
+Board: [2h Ac Jh 5c 3d]
+Seat 3: manggy94 (small blind) showed [Kd Kc] and won 9625 with One pair : Kings
+Seat 5: Virusbzbz showed [7h 8h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #679243009073611065-19-1463833069 - Holdem no limit (60/120) - 2016/05/21 12:17:49 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #3 is the button
+Seat 1: Xinto67 (2725)
+Seat 2: celina57 (3000)
+Seat 3: manggy94 (9625)
+Seat 4: Camhiya (15090)
+Seat 5: Christino59 (735)
+Seat 6: Stekos33 (8030)
+*** ANTE/BLINDS ***
+Camhiya posts small blind 60
+Christino59 posts big blind 120
+Dealt to manggy94 [Jd 3h]
+*** PRE-FLOP *** 
+Stekos33 folds
+Xinto67 folds
+celina57 folds
+manggy94 folds
+Camhiya calls 60
+Christino59 checks
+*** FLOP *** [Ac Qd Kd]
+Camhiya checks
+Christino59 bets 120
+Camhiya folds
+Christino59 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Ac Qd Kd]
+Seat 5: Christino59 (big blind) won 360
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #679243009073611065-20-1463833115 - Holdem no limit (10/60/120) - 2016/05/21 12:18:35 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #4 is the button
+Seat 1: Xinto67 (2725)
+Seat 2: celina57 (3000)
+Seat 3: manggy94 (9625)
+Seat 4: Camhiya (14970)
+Seat 5: Christino59 (855)
+Seat 6: Stekos33 (8030)
+*** ANTE/BLINDS ***
+Christino59 posts ante 10
+Stekos33 posts ante 10
+Xinto67 posts ante 10
+celina57 posts ante 10
+manggy94 posts ante 10
+Camhiya posts ante 10
+Christino59 posts small blind 60
+Stekos33 posts big blind 120
+Dealt to manggy94 [Ts Js]
+*** PRE-FLOP *** 
+Xinto67 folds
+celina57 folds
+manggy94 calls 120
+Camhiya folds
+Christino59 raises 120 to 240
+Stekos33 folds
+manggy94 calls 120
+*** FLOP *** [5h 2s 5c]
+Christino59 bets 120
+manggy94 calls 120
+*** TURN *** [5h 2s 5c][2c]
+Christino59 bets 485 and is all-in
+manggy94 calls 485
+*** RIVER *** [5h 2s 5c 2c][Ah]
+*** SHOW DOWN ***
+manggy94 shows [Ts Js] (Two pairs : 5 and 2)
+Christino59 shows [7h Th] (Two pairs : 5 and 2)
+Christino59 collected 935 from pot
+manggy94 collected 935 from pot
+*** SUMMARY ***
+Total pot 1870 | No rake
+Board: [5h 2s 5c 2c Ah]
+Seat 3: manggy94 showed [Ts Js] and won 935 with Two pairs : 5 and 2
+Seat 5: Christino59 (small blind) showed [7h Th] and won 935 with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #679243009073611065-21-1463833167 - Holdem no limit (10/60/120) - 2016/05/21 12:19:27 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #5 is the button
+Seat 1: Xinto67 (2715)
+Seat 2: celina57 (2990)
+Seat 3: manggy94 (9705)
+Seat 4: Camhiya (14960)
+Seat 5: Christino59 (935)
+Seat 6: Stekos33 (7900)
+*** ANTE/BLINDS ***
+Stekos33 posts ante 10
+Xinto67 posts ante 10
+celina57 posts ante 10
+manggy94 posts ante 10
+Camhiya posts ante 10
+Christino59 posts ante 10
+Stekos33 posts small blind 60
+Xinto67 posts big blind 120
+Dealt to manggy94 [8c Js]
+*** PRE-FLOP *** 
+celina57 folds
+manggy94 folds
+Camhiya calls 120
+Christino59 folds
+Stekos33 calls 60
+Xinto67 folds
+*** FLOP *** [5c 9d 2c]
+Stekos33 checks
+Camhiya checks
+*** TURN *** [5c 9d 2c][Ks]
+Stekos33 checks
+Camhiya checks
+*** RIVER *** [5c 9d 2c Ks][7s]
+Stekos33 checks
+Camhiya checks
+*** SHOW DOWN ***
+Stekos33 shows [4h Ah] (High card : Ace)
+Camhiya shows [6c Kh] (One pair : Kings)
+Camhiya collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [5c 9d 2c Ks 7s]
+Seat 4: Camhiya showed [6c Kh] and won 420 with One pair : Kings
+Seat 6: Stekos33 (small blind) showed [4h Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #679243009073611065-22-1463833215 - Holdem no limit (10/60/120) - 2016/05/21 12:20:15 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #6 is the button
+Seat 1: Xinto67 (2585)
+Seat 2: celina57 (2980)
+Seat 3: manggy94 (9695)
+Seat 4: Camhiya (15250)
+Seat 5: Christino59 (925)
+Seat 6: Stekos33 (7770)
+*** ANTE/BLINDS ***
+Xinto67 posts ante 10
+celina57 posts ante 10
+manggy94 posts ante 10
+Camhiya posts ante 10
+Christino59 posts ante 10
+Stekos33 posts ante 10
+Xinto67 posts small blind 60
+celina57 posts big blind 120
+Dealt to manggy94 [6d 2h]
+*** PRE-FLOP *** 
+manggy94 folds
+Camhiya folds
+Christino59 folds
+Stekos33 folds
+Xinto67 folds
+celina57 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 2: celina57 (big blind) won 240
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #679243009073611065-23-1463833226 - Holdem no limit (10/60/120) - 2016/05/21 12:20:26 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #1 is the button
+Seat 1: Xinto67 (2515)
+Seat 2: celina57 (3090)
+Seat 3: manggy94 (9685)
+Seat 4: Camhiya (15240)
+Seat 5: Christino59 (915)
+Seat 6: Stekos33 (7760)
+*** ANTE/BLINDS ***
+celina57 posts ante 10
+manggy94 posts ante 10
+Xinto67 posts ante 10
+Camhiya posts ante 10
+Christino59 posts ante 10
+Stekos33 posts ante 10
+celina57 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [4c 9c]
+*** PRE-FLOP *** 
+Camhiya folds
+Christino59 calls 120
+Stekos33 calls 120
+Xinto67 folds
+celina57 calls 60
+manggy94 checks
+*** FLOP *** [Kd 5h 2d]
+celina57 checks
+manggy94 checks
+Christino59 bets 120
+Stekos33 calls 120
+celina57 calls 120
+manggy94 folds
+*** TURN *** [Kd 5h 2d][2c]
+celina57 checks
+Christino59 bets 665 and is all-in
+Stekos33 calls 665
+celina57 calls 665
+*** RIVER *** [Kd 5h 2d 2c][7h]
+celina57 bets 2175 and is all-in
+Stekos33 folds
+*** SHOW DOWN ***
+Christino59 shows [Qs Kh] (Two pairs : Kings and 2)
+celina57 shows [Jd 2s] (Trips of 2)
+celina57 collected 5070 from pot
+*** SUMMARY ***
+Total pot 5070 | No rake
+Board: [Kd 5h 2d 2c 7h]
+Seat 2: celina57 (small blind) showed [Jd 2s] and won 5070 with Trips of 2
+Seat 5: Christino59 showed [Qs Kh] and lost with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #679243009073611065-24-1463833309 - Holdem no limit (15/75/150) - 2016/05/21 12:21:49 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #2 is the button
+Seat 1: Xinto67 (2505)
+Seat 2: celina57 (5070)
+Seat 3: manggy94 (9555)
+Seat 4: Camhiya (15230)
+Seat 6: Stekos33 (6845)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+Camhiya posts ante 15
+Xinto67 posts ante 15
+celina57 posts ante 15
+Stekos33 posts ante 15
+manggy94 posts small blind 75
+Camhiya posts big blind 150
+Dealt to manggy94 [7d 6s]
+*** PRE-FLOP *** 
+Stekos33 raises 300 to 450
+Xinto67 folds
+celina57 folds
+manggy94 folds
+Camhiya calls 300
+*** FLOP *** [Tc 7h Td]
+Camhiya checks
+Stekos33 bets 1050
+Camhiya folds
+Stekos33 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Board: [Tc 7h Td]
+Seat 6: Stekos33 won 2100
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #679243009073611065-25-1463833380 - Holdem no limit (15/75/150) - 2016/05/21 12:23:00 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #3 is the button
+Seat 1: Xinto67 (2490)
+Seat 2: celina57 (5055)
+Seat 3: manggy94 (9465)
+Seat 4: Camhiya (14765)
+Seat 5: tayb (3000)
+Seat 6: Stekos33 (7430)
+*** ANTE/BLINDS ***
+Camhiya posts ante 15
+tayb posts ante 15
+Xinto67 posts ante 15
+celina57 posts ante 15
+manggy94 posts ante 15
+Stekos33 posts ante 15
+Camhiya posts small blind 75
+tayb posts big blind 150
+Dealt to manggy94 [3h Kd]
+*** PRE-FLOP *** 
+Stekos33 folds
+Xinto67 folds
+celina57 folds
+manggy94 calls 150
+Camhiya folds
+tayb checks
+*** FLOP *** [Jc 4h 6s]
+tayb bets 465
+manggy94 folds
+tayb collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | No rake
+Board: [Jc 4h 6s]
+Seat 5: tayb (big blind) won 930
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 7 - HandId: #679243009073611065-26-1463833400 - Holdem no limit (15/75/150) - 2016/05/21 12:23:20 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #4 is the button
+Seat 1: Xinto67 (2475)
+Seat 2: celina57 (5040)
+Seat 3: manggy94 (9300)
+Seat 4: Camhiya (14675)
+Seat 5: tayb (3300)
+Seat 6: Stekos33 (7415)
+*** ANTE/BLINDS ***
+tayb posts ante 15
+Stekos33 posts ante 15
+Xinto67 posts ante 15
+celina57 posts ante 15
+manggy94 posts ante 15
+Camhiya posts ante 15
+tayb posts small blind 75
+Stekos33 posts big blind 150
+Dealt to manggy94 [Th Qs]
+*** PRE-FLOP *** 
+Xinto67 calls 150
+celina57 calls 150
+manggy94 calls 150
+Camhiya calls 150
+tayb calls 75
+Stekos33 checks
+*** FLOP *** [6h 8s Td]
+tayb checks
+Stekos33 checks
+Xinto67 checks
+celina57 checks
+manggy94 bets 990
+Camhiya folds
+tayb folds
+Stekos33 raises 6260 to 7250 and is all-in
+Xinto67 folds
+celina57 calls 4875 and is all-in
+manggy94 calls 6260
+*** TURN *** [6h 8s Td][6s]
+*** RIVER *** [6h 8s Td 6s][Qc]
+*** SHOW DOWN ***
+celina57 shows [Qd Jc] (Two pairs : Queens and 6)
+manggy94 shows [Th Qs] (Two pairs : Queens and Tens)
+Stekos33 shows [Ts 6d] (Full of 6 and Tens)
+Stekos33 collected 20365 from pot
+*** SUMMARY ***
+Total pot 20365 | No rake
+Board: [6h 8s Td 6s Qc]
+Seat 2: celina57 showed [Qd Jc] and lost with Two pairs : Queens and 6
+Seat 3: manggy94 showed [Th Qs] and lost with Two pairs : Queens and Tens
+Seat 6: Stekos33 (big blind) showed [Ts 6d] and won 20365 with Full of 6 and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #679243009073611065-27-1463833501 - Holdem no limit (20/100/200) - 2016/05/21 12:25:01 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #5 is the button
+Seat 1: Xinto67 (2310)
+Seat 3: manggy94 (1885)
+Seat 4: Camhiya (14510)
+Seat 5: tayb (3135)
+Seat 6: Stekos33 (20365)
+*** ANTE/BLINDS ***
+Stekos33 posts ante 20
+Xinto67 posts ante 20
+manggy94 posts ante 20
+Camhiya posts ante 20
+tayb posts ante 20
+Stekos33 posts small blind 100
+Xinto67 posts big blind 200
+Dealt to manggy94 [3c 6h]
+*** PRE-FLOP *** 
+manggy94 folds
+Camhiya calls 200
+tayb folds
+Stekos33 calls 100
+Xinto67 checks
+*** FLOP *** [8d Tc 7s]
+Stekos33 checks
+Xinto67 bets 2090 and is all-in
+Camhiya folds
+Stekos33 folds
+Xinto67 collected 2790 from pot
+*** SUMMARY ***
+Total pot 2790 | No rake
+Board: [8d Tc 7s]
+Seat 1: Xinto67 (big blind) won 2790
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 8 - HandId: #679243009073611065-28-1463833576 - Holdem no limit (20/100/200) - 2016/05/21 12:26:16 UTC
+Table: 'Freeroll(158148587)#312' 6-max (real money) Seat #6 is the button
+Seat 1: Xinto67 (2790)
+Seat 2: F4NTOM3 AS (8905)
+Seat 3: manggy94 (1865)
+Seat 4: Camhiya (14290)
+Seat 5: tayb (3115)
+Seat 6: Stekos33 (20145)
+*** ANTE/BLINDS ***
+Xinto67 posts ante 20
+F4NTOM3 AS posts ante 20
+manggy94 posts ante 20
+Camhiya posts ante 20
+tayb posts ante 20
+Stekos33 posts ante 20
+Xinto67 posts small blind 100
+F4NTOM3 AS posts big blind 200
+Dealt to manggy94 [Ah 2d]
+*** PRE-FLOP *** 
+manggy94 raises 1645 to 1845 and is all-in
+Camhiya calls 1845
+tayb calls 1845
+Stekos33 folds
+Xinto67 folds
+F4NTOM3 AS folds
+*** FLOP *** [Qc 8c 3c]
+Camhiya checks
+tayb bets 1250 and is all-in
+Camhiya calls 1250
+*** TURN *** [Qc 8c 3c][2c]
+*** RIVER *** [Qc 8c 3c 2c][9s]
+*** SHOW DOWN ***
+manggy94 shows [Ah 2d] (One pair : 2)
+tayb shows [5c 5s] (Flush Queen high)
+Camhiya shows [Kc Kh] (Flush King high)
+Camhiya collected 8455 from pot
+*** SUMMARY ***
+Total pot 8455 | No rake
+Board: [Qc 8c 3c 2c 9s]
+Seat 3: manggy94 showed [Ah 2d] and lost with One pair : 2
+Seat 4: Camhiya showed [Kc Kh] and won 8455 with Flush King high
+Seat 5: tayb showed [5c 5s] and lost with Flush Queen high
+
+

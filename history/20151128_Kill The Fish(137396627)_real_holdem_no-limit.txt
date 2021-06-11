@@ -1,0 +1,306 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #590114019545710607-1-1448727305 - Holdem no limit (25/50) - 2015/11/28 16:15:05 UTC
+Table: 'Kill The Fish(137396627)#014' 8-max (real money) Seat #4 is the button
+Seat 1: siciliano300 (10000)
+Seat 2: kiki38200 (10000)
+Seat 3: bobone4 (10000)
+Seat 4: samuuus (10000)
+Seat 5: manggy94 (10000)
+Seat 6: ElPaddre41 (10000)
+Seat 7: Darkchoco (10000)
+Seat 8: soph69 (10000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 25
+ElPaddre41 posts big blind 50
+Dealt to manggy94 [Tc Td]
+*** PRE-FLOP *** 
+Darkchoco raises 100 to 150
+soph69 folds
+siciliano300 folds
+kiki38200 calls 150
+bobone4 folds
+samuuus folds
+manggy94 calls 125
+ElPaddre41 folds
+*** FLOP *** [Jc Kd 8s]
+manggy94 checks
+Darkchoco bets 250
+kiki38200 calls 250
+manggy94 calls 250
+*** TURN *** [Jc Kd 8s][9h]
+manggy94 checks
+Darkchoco bets 450
+kiki38200 calls 450
+manggy94 calls 450
+*** RIVER *** [Jc Kd 8s 9h][2c]
+manggy94 checks
+Darkchoco bets 1650
+kiki38200 raises 1650 to 3300
+manggy94 folds
+Darkchoco folds
+kiki38200 collected 7550 from pot
+*** SUMMARY ***
+Total pot 7550 | No rake
+Board: [Jc Kd 8s 9h 2c]
+Seat 2: kiki38200 won 7550
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #590114019545710607-2-1448727392 - Holdem no limit (25/50) - 2015/11/28 16:16:32 UTC
+Table: 'Kill The Fish(137396627)#014' 8-max (real money) Seat #5 is the button
+Seat 1: siciliano300 (10000)
+Seat 2: kiki38200 (13400)
+Seat 3: bobone4 (10000)
+Seat 4: samuuus (10000)
+Seat 5: manggy94 (9150)
+Seat 6: ElPaddre41 (9950)
+Seat 7: Darkchoco (7500)
+Seat 8: soph69 (10000)
+*** ANTE/BLINDS ***
+ElPaddre41 posts small blind 25
+Darkchoco posts big blind 50
+Dealt to manggy94 [Th Td]
+*** PRE-FLOP *** 
+soph69 folds
+siciliano300 folds
+kiki38200 folds
+bobone4 calls 50
+samuuus folds
+manggy94 raises 175 to 225
+ElPaddre41 folds
+Darkchoco raises 675 to 900
+bobone4 folds
+manggy94 calls 675
+*** FLOP *** [2h Jc 5d]
+Darkchoco bets 1250
+manggy94 raises 4375 to 5625
+Darkchoco raises 975 to 6600 and is all-in
+manggy94 calls 975
+*** TURN *** [2h Jc 5d][Ks]
+*** RIVER *** [2h Jc 5d Ks][4s]
+*** SHOW DOWN ***
+manggy94 shows [Th Td] (One pair : Tens)
+Darkchoco shows [Jd As] (One pair : Jacks)
+Darkchoco collected 15075 from pot
+*** SUMMARY ***
+Total pot 15075 | No rake
+Board: [2h Jc 5d Ks 4s]
+Seat 5: manggy94 (button) showed [Th Td] and lost with One pair : Tens
+Seat 7: Darkchoco (big blind) showed [Jd As] and won 15075 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 0 - HandId: #590114019545710607-3-1448727464 - Holdem no limit (25/50) - 2015/11/28 16:17:44 UTC
+Table: 'Kill The Fish(137396627)#014' 8-max (real money) Seat #6 is the button
+Seat 1: siciliano300 (10000)
+Seat 2: kiki38200 (13400)
+Seat 3: bobone4 (9950)
+Seat 4: samuuus (10000)
+Seat 5: manggy94 (1650)
+Seat 6: ElPaddre41 (9925)
+Seat 7: Darkchoco (15075)
+Seat 8: soph69 (10000)
+*** ANTE/BLINDS ***
+Darkchoco posts small blind 25
+soph69 posts big blind 50
+Dealt to manggy94 [Kh 8d]
+*** PRE-FLOP *** 
+siciliano300 folds
+kiki38200 calls 50
+bobone4 folds
+samuuus folds
+manggy94 calls 50
+ElPaddre41 folds
+Darkchoco folds
+soph69 checks
+*** FLOP *** [8c Ks Ad]
+soph69 checks
+kiki38200 checks
+manggy94 checks
+*** TURN *** [8c Ks Ad][4d]
+soph69 checks
+kiki38200 checks
+manggy94 bets 175
+soph69 calls 175
+kiki38200 calls 175
+*** RIVER *** [8c Ks Ad 4d][Ah]
+soph69 checks
+kiki38200 checks
+manggy94 bets 1425 and is all-in
+soph69 calls 1425
+kiki38200 folds
+*** SHOW DOWN ***
+soph69 shows [Jc 4s] (Two pairs : Aces and 4)
+manggy94 shows [Kh 8d] (Two pairs : Aces and Kings)
+manggy94 collected 3550 from pot
+*** SUMMARY ***
+Total pot 3550 | No rake
+Board: [8c Ks Ad 4d Ah]
+Seat 5: manggy94 showed [Kh 8d] and won 3550 with Two pairs : Aces and Kings
+Seat 8: soph69 (big blind) showed [Jc 4s] and lost with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #590114019545710607-4-1448727595 - Holdem no limit (50/100) - 2015/11/28 16:19:55 UTC
+Table: 'Kill The Fish(137396627)#014' 8-max (real money) Seat #7 is the button
+Seat 1: siciliano300 (10000)
+Seat 2: kiki38200 (13175)
+Seat 3: bobone4 (9950)
+Seat 4: samuuus (10000)
+Seat 5: manggy94 (3550)
+Seat 6: ElPaddre41 (9925)
+Seat 7: Darkchoco (15050)
+Seat 8: soph69 (8350)
+*** ANTE/BLINDS ***
+soph69 posts small blind 50
+siciliano300 posts big blind 100
+Dealt to manggy94 [5h Kd]
+*** PRE-FLOP *** 
+kiki38200 folds
+bobone4 folds
+samuuus folds
+manggy94 calls 100
+ElPaddre41 folds
+Darkchoco raises 200 to 300
+soph69 calls 250
+siciliano300 folds
+manggy94 calls 200
+*** FLOP *** [5s 3c 2s]
+soph69 bets 750
+manggy94 calls 750
+Darkchoco calls 750
+*** TURN *** [5s 3c 2s][9d]
+soph69 checks
+manggy94 checks
+Darkchoco checks
+*** RIVER *** [5s 3c 2s 9d][Ad]
+soph69 checks
+manggy94 checks
+Darkchoco checks
+*** SHOW DOWN ***
+manggy94 shows [5h Kd] (One pair : 5)
+soph69 shows [7d Jh] (High card : Ace)
+Darkchoco shows [As 8h] (One pair : Aces)
+Darkchoco collected 3250 from pot
+*** SUMMARY ***
+Total pot 3250 | No rake
+Board: [5s 3c 2s 9d Ad]
+Seat 5: manggy94 showed [5h Kd] and lost with One pair : 5
+Seat 7: Darkchoco (button) showed [As 8h] and won 3250 with One pair : Aces
+Seat 8: soph69 (small blind) showed [7d Jh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 1 - HandId: #590114019545710607-5-1448727656 - Holdem no limit (50/100) - 2015/11/28 16:20:56 UTC
+Table: 'Kill The Fish(137396627)#014' 8-max (real money) Seat #8 is the button
+Seat 1: siciliano300 (9900)
+Seat 2: kiki38200 (13175)
+Seat 3: bobone4 (9950)
+Seat 4: samuuus (10000)
+Seat 5: manggy94 (2500)
+Seat 6: ElPaddre41 (9925)
+Seat 7: Darkchoco (17250)
+Seat 8: soph69 (7300)
+*** ANTE/BLINDS ***
+siciliano300 posts small blind 50
+kiki38200 posts big blind 100
+Dealt to manggy94 [2s Ks]
+*** PRE-FLOP *** 
+bobone4 folds
+samuuus folds
+manggy94 calls 100
+ElPaddre41 folds
+Darkchoco raises 200 to 300
+soph69 folds
+siciliano300 folds
+kiki38200 folds
+manggy94 calls 200
+*** FLOP *** [Qd 3h Qs]
+manggy94 checks
+Darkchoco checks
+*** TURN *** [Qd 3h Qs][4s]
+manggy94 bets 2200 and is all-in
+Darkchoco folds
+manggy94 collected 2950 from pot
+*** SUMMARY ***
+Total pot 2950 | No rake
+Board: [Qd 3h Qs 4s]
+Seat 5: manggy94 won 2950
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 2 - HandId: #590114019545710607-6-1448727689 - Holdem no limit (75/150) - 2015/11/28 16:21:29 UTC
+Table: 'Kill The Fish(137396627)#014' 8-max (real money) Seat #1 is the button
+Seat 1: siciliano300 (9850)
+Seat 2: kiki38200 (13075)
+Seat 3: bobone4 (9950)
+Seat 4: samuuus (10000)
+Seat 5: manggy94 (2950)
+Seat 6: ElPaddre41 (9925)
+Seat 7: Darkchoco (16950)
+Seat 8: soph69 (7300)
+*** ANTE/BLINDS ***
+kiki38200 posts small blind 75
+bobone4 posts big blind 150
+Dealt to manggy94 [2h Th]
+*** PRE-FLOP *** 
+samuuus folds
+manggy94 folds
+ElPaddre41 folds
+Darkchoco folds
+soph69 calls 150
+siciliano300 folds
+kiki38200 folds
+bobone4 checks
+*** FLOP *** [3h 3d 6s]
+bobone4 checks
+soph69 checks
+*** TURN *** [3h 3d 6s][Kc]
+bobone4 checks
+soph69 checks
+*** RIVER *** [3h 3d 6s Kc][7c]
+bobone4 bets 150
+soph69 raises 150 to 300
+bobone4 folds
+soph69 collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | No rake
+Board: [3h 3d 6s Kc 7c]
+Seat 8: soph69 won 825
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 2,25€ + 2,25€ + 0,50€ level: 2 - HandId: #590114019545710607-7-1448727735 - Holdem no limit (75/150) - 2015/11/28 16:22:15 UTC
+Table: 'Kill The Fish(137396627)#014' 8-max (real money) Seat #2 is the button
+Seat 1: siciliano300 (9850)
+Seat 2: kiki38200 (13000)
+Seat 3: bobone4 (9650)
+Seat 4: samuuus (10000)
+Seat 5: manggy94 (2950)
+Seat 6: ElPaddre41 (9925)
+Seat 7: Darkchoco (16950)
+Seat 8: soph69 (7675)
+*** ANTE/BLINDS ***
+bobone4 posts small blind 75
+samuuus posts big blind 150
+Dealt to manggy94 [Qc Ah]
+*** PRE-FLOP *** 
+manggy94 raises 2800 to 2950 and is all-in
+ElPaddre41 folds
+Darkchoco folds
+soph69 calls 2950
+siciliano300 folds
+kiki38200 folds
+bobone4 folds
+samuuus raises 7050 to 10000 and is all-in
+soph69 calls 4725 and is all-in
+*** FLOP *** [7d As Jd]
+*** TURN *** [7d As Jd][Th]
+*** RIVER *** [7d As Jd Th][Qh]
+*** SHOW DOWN ***
+manggy94 shows [Qc Ah] (Two pairs : Aces and Queens)
+soph69 shows [Qd Qs] (Trips of Queens)
+samuuus shows [9h 9d] (One pair : 9)
+samuuus collected 2325 from side pot 1
+soph69 collected 18375 from main pot
+*** SUMMARY ***
+Total pot 20700 | No rake
+Board: [7d As Jd Th Qh]
+Seat 4: samuuus (big blind) showed [9h 9d] and won 2325 with One pair : 9
+Seat 5: manggy94 showed [Qc Ah] and lost with Two pairs : Aces and Queens
+Seat 8: soph69 showed [Qd Qs] and won 18375 with Trips of Queens
+
+

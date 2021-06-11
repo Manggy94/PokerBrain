@@ -1,0 +1,121 @@
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: 0€ + 0€ level: 1 - HandId: #719613841935171585-1-1471366595 - Holdem no limit (10/20) - 2016/08/16 16:56:35 UTC
+Table: 'Super Freeroll Stade 2(167548154)#0' 6-max (real money) Seat #6 is the button
+Seat 1: xcloud (1500)
+Seat 2: madmax63x (1500)
+Seat 3: Paulbrazh (1500)
+Seat 4: manggy94 (1500)
+Seat 5: KoKAinoman (1500)
+Seat 6: PAXtheDOG (1500)
+*** ANTE/BLINDS ***
+xcloud posts small blind 10
+madmax63x posts big blind 20
+Dealt to manggy94 [9s Jd]
+*** PRE-FLOP *** 
+Paulbrazh folds
+manggy94 calls 20
+KoKAinoman folds
+PAXtheDOG raises 63 to 83
+xcloud folds
+madmax63x calls 63
+manggy94 calls 63
+*** FLOP *** [Ac 8h Td]
+madmax63x checks
+manggy94 checks
+PAXtheDOG bets 136
+madmax63x calls 136
+manggy94 calls 136
+*** TURN *** [Ac 8h Td][5s]
+madmax63x checks
+manggy94 checks
+PAXtheDOG bets 426
+madmax63x folds
+manggy94 calls 426
+*** RIVER *** [Ac 8h Td 5s][3d]
+manggy94 checks
+PAXtheDOG checks
+*** SHOW DOWN ***
+manggy94 shows [9s Jd] (High card : Ace)
+PAXtheDOG shows [4h Ah] (One pair : Aces)
+PAXtheDOG collected 1519 from pot
+*** SUMMARY ***
+Total pot 1519 | No rake
+Board: [Ac 8h Td 5s 3d]
+Seat 4: manggy94 showed [9s Jd] and lost with High card : Ace
+Seat 6: PAXtheDOG (button) showed [4h Ah] and won 1519 with One pair : Aces
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: 0€ + 0€ level: 1 - HandId: #719613841935171585-2-1471366684 - Holdem no limit (10/20) - 2016/08/16 16:58:04 UTC
+Table: 'Super Freeroll Stade 2(167548154)#0' 6-max (real money) Seat #1 is the button
+Seat 1: xcloud (1490)
+Seat 2: madmax63x (1281)
+Seat 3: Paulbrazh (1500)
+Seat 4: manggy94 (855)
+Seat 5: KoKAinoman (1500)
+Seat 6: PAXtheDOG (2374)
+*** ANTE/BLINDS ***
+madmax63x posts small blind 10
+Paulbrazh posts big blind 20
+Dealt to manggy94 [5c 7d]
+*** PRE-FLOP *** 
+manggy94 folds
+KoKAinoman folds
+PAXtheDOG raises 79 to 99
+xcloud folds
+madmax63x calls 89
+Paulbrazh folds
+*** FLOP *** [Ac 9s 9h]
+madmax63x checks
+PAXtheDOG checks
+*** TURN *** [Ac 9s 9h][Kd]
+madmax63x checks
+PAXtheDOG checks
+*** RIVER *** [Ac 9s 9h Kd][8d]
+madmax63x checks
+PAXtheDOG checks
+*** SHOW DOWN ***
+PAXtheDOG shows [Td Qd] (One pair : 9)
+madmax63x shows [6c 6s] (Two pairs : 9 and 6)
+madmax63x collected 218 from pot
+*** SUMMARY ***
+Total pot 218 | No rake
+Board: [Ac 9s 9h Kd 8d]
+Seat 2: madmax63x (small blind) showed [6c 6s] and won 218 with Two pairs : 9 and 6
+Seat 6: PAXtheDOG showed [Td Qd] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 2" buyIn: 0€ + 0€ level: 1 - HandId: #719613841935171585-3-1471366731 - Holdem no limit (10/20) - 2016/08/16 16:58:51 UTC
+Table: 'Super Freeroll Stade 2(167548154)#0' 6-max (real money) Seat #2 is the button
+Seat 1: xcloud (1490)
+Seat 2: madmax63x (1400)
+Seat 3: Paulbrazh (1480)
+Seat 4: manggy94 (855)
+Seat 5: KoKAinoman (1500)
+Seat 6: PAXtheDOG (2275)
+*** ANTE/BLINDS ***
+Paulbrazh posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [8c Ah]
+*** PRE-FLOP *** 
+KoKAinoman raises 40 to 60
+PAXtheDOG calls 60
+xcloud folds
+madmax63x calls 60
+Paulbrazh folds
+manggy94 raises 795 to 855 and is all-in
+KoKAinoman raises 645 to 1500 and is all-in
+PAXtheDOG folds
+madmax63x folds
+*** FLOP *** [4h Qd 9d]
+*** TURN *** [4h Qd 9d][Js]
+*** RIVER *** [4h Qd 9d Js][2c]
+*** SHOW DOWN ***
+manggy94 shows [8c Ah] (High card : Ace)
+KoKAinoman shows [Qh Kh] (One pair : Queens)
+KoKAinoman collected 2485 from pot
+*** SUMMARY ***
+Total pot 2485 | No rake
+Board: [4h Qd 9d Js 2c]
+Seat 4: manggy94 (big blind) showed [8c Ah] and lost with High card : Ace
+Seat 5: KoKAinoman showed [Qh Kh] and won 2485 with One pair : Queens
+
+

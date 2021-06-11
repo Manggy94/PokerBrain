@@ -1,0 +1,133 @@
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 5 - HandId: #562443559597244442-13-1443610074 - Holdem no limit (60/120) - 2015/09/30 10:47:54 UTC
+Table: 'Freeroll(130954096)#025' 9-max (real money) Seat #2 is the button
+Seat 1: manggy94 (3000)
+Seat 2: juaniitoooo (3170)
+Seat 3: roric (2835)
+Seat 4: WideFish (10365)
+Seat 5: oran92 (2920)
+Seat 6: wamm67 (2965)
+Seat 7: chaton230 (2410)
+Seat 8: Muntchen (3585)
+Seat 9: bankers (1670)
+*** ANTE/BLINDS ***
+roric posts small blind 60
+WideFish posts big blind 120
+*** PRE-FLOP *** 
+oran92 calls 120
+wamm67 calls 120
+chaton230 calls 120
+Muntchen calls 120
+bankers calls 120
+roric raises 2715 to 2835 and is all-in
+WideFish raises 7530 to 10365 and is all-in
+oran92 folds
+wamm67 folds
+chaton230 folds
+Muntchen folds
+bankers folds
+*** FLOP *** [5c Jh 9s]
+*** TURN *** [5c Jh 9s][6c]
+*** RIVER *** [5c Jh 9s 6c][Ad]
+*** SHOW DOWN ***
+roric shows [Jd Ks] (One pair : Jacks)
+WideFish shows [Th Tc] (One pair : Tens)
+WideFish collected 7530 from side pot 1
+roric collected 6270 from main pot
+*** SUMMARY ***
+Total pot 13800 | No rake
+Board: [5c Jh 9s 6c Ad]
+Seat 3: roric (small blind) showed [Jd Ks] and won 6270 with One pair : Jacks
+Seat 4: WideFish (big blind) showed [Th Tc] and won 7530 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #562443559597244442-14-1443610142 - Holdem no limit (10/60/120) - 2015/09/30 10:49:02 UTC
+Table: 'Freeroll(130954096)#025' 9-max (real money) Seat #3 is the button
+Seat 1: manggy94 (3000)
+Seat 2: juaniitoooo (3170)
+Seat 3: roric (6270)
+Seat 4: WideFish (7530)
+Seat 5: oran92 (2800)
+Seat 6: wamm67 (2845)
+Seat 7: chaton230 (2290)
+Seat 8: Muntchen (3465)
+Seat 9: bankers (1550)
+*** ANTE/BLINDS ***
+WideFish posts ante 10
+oran92 posts ante 10
+manggy94 posts ante 10
+juaniitoooo posts ante 10
+roric posts ante 10
+wamm67 posts ante 10
+chaton230 posts ante 10
+Muntchen posts ante 10
+bankers posts ante 10
+WideFish posts small blind 60
+oran92 posts big blind 120
+Dealt to manggy94 [3d Kc]
+*** PRE-FLOP *** 
+wamm67 raises 2715 to 2835 and is all-in
+chaton230 folds
+Muntchen folds
+bankers folds
+manggy94 folds
+juaniitoooo folds
+roric folds
+WideFish folds
+oran92 folds
+wamm67 collected 3105 from pot
+*** SUMMARY ***
+Total pot 3105 | No rake
+Seat 6: wamm67 won 3105
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: Free level: 6 - HandId: #562443559597244442-15-1443610177 - Holdem no limit (10/60/120) - 2015/09/30 10:49:37 UTC
+Table: 'Freeroll(130954096)#025' 9-max (real money) Seat #4 is the button
+Seat 1: manggy94 (2990)
+Seat 2: juaniitoooo (3160)
+Seat 3: roric (6260)
+Seat 4: WideFish (7460)
+Seat 5: oran92 (2670)
+Seat 6: wamm67 (3105)
+Seat 7: chaton230 (2280)
+Seat 8: Muntchen (3455)
+Seat 9: bankers (1540)
+*** ANTE/BLINDS ***
+oran92 posts ante 10
+wamm67 posts ante 10
+manggy94 posts ante 10
+juaniitoooo posts ante 10
+roric posts ante 10
+WideFish posts ante 10
+chaton230 posts ante 10
+Muntchen posts ante 10
+bankers posts ante 10
+oran92 posts small blind 60
+wamm67 posts big blind 120
+Dealt to manggy94 [2h 9h]
+*** PRE-FLOP *** 
+chaton230 folds
+Muntchen calls 120
+bankers folds
+manggy94 raises 2860 to 2980 and is all-in
+juaniitoooo folds
+roric folds
+WideFish folds
+oran92 calls 2600 and is all-in
+wamm67 raises 115 to 3095 and is all-in
+Muntchen folds
+*** FLOP *** [4d 5h As]
+*** TURN *** [4d 5h As][2d]
+*** RIVER *** [4d 5h As 2d][7c]
+*** SHOW DOWN ***
+manggy94 shows [2h 9h] (One pair : 2)
+oran92 shows [Qc Ts] (High card : Ace)
+wamm67 shows [Jd Js] (One pair : Jacks)
+wamm67 collected 8945 from pot
+*** SUMMARY ***
+Total pot 8945 | No rake
+Board: [4d 5h As 2d 7c]
+Seat 1: manggy94 showed [2h 9h] and lost with One pair : 2
+Seat 5: oran92 (small blind) showed [Qc Ts] and lost with High card : Ace
+Seat 6: wamm67 (big blind) showed [Jd Js] and won 8945 with One pair : Jacks
+
+

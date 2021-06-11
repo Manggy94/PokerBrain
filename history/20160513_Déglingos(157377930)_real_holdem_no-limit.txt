@@ -1,0 +1,61 @@
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 7 - HandId: #675933062462177282-78-1463156517 - Holdem no limit (15/75/150) - 2016/05/13 16:21:57 UTC
+Table: 'Déglingos(157377930)#001' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (500)
+Seat 2: tassin18 (7877)
+Seat 3: perede2gars (500)
+*** ANTE/BLINDS ***
+tassin18 posts ante 15
+perede2gars posts ante 15
+tassin18 posts small blind 75
+perede2gars posts big blind 150
+*** PRE-FLOP *** 
+tassin18 raises 7712 to 7862 and is all-in
+perede2gars calls 335 and is all-in
+*** FLOP *** [6c 4d Kc]
+*** TURN *** [6c 4d Kc][Tc]
+*** RIVER *** [6c 4d Kc Tc][Qd]
+*** SHOW DOWN ***
+perede2gars shows [5c Kd] (One pair : Kings)
+tassin18 shows [5s 6d] (One pair : 6)
+tassin18 collected 7377 from side pot 1
+perede2gars collected 1000 from main pot
+*** SUMMARY ***
+Total pot 8377 | No rake
+Board: [6c 4d Kc Tc Qd]
+Seat 2: tassin18 (small blind) (button) showed [5s 6d] and won 7377 with One pair : 6
+Seat 3: perede2gars (big blind) showed [5c Kd] and won 1000 with One pair : Kings
+
+
+Winamax Poker - Tournament "Déglingos" buyIn: 2,70€ + 0,30€ level: 7 - HandId: #675933062462177282-79-1463156541 - Holdem no limit (15/75/150) - 2016/05/13 16:22:21 UTC
+Table: 'Déglingos(157377930)#001' 3-max (real money) Seat #2 is the button
+Seat 1: manggy94 (500)
+Seat 2: tassin18 (7377)
+Seat 3: perede2gars (1000)
+*** ANTE/BLINDS ***
+perede2gars posts ante 15
+manggy94 posts ante 15
+tassin18 posts ante 15
+perede2gars posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [9h Ad]
+*** PRE-FLOP *** 
+tassin18 folds
+perede2gars raises 300 to 450
+manggy94 calls 300
+*** FLOP *** [Jc 4h 3d]
+perede2gars checks
+manggy94 bets 35 and is all-in
+perede2gars calls 35
+*** TURN *** [Jc 4h 3d][5c]
+*** RIVER *** [Jc 4h 3d 5c][As]
+*** SHOW DOWN ***
+manggy94 shows [9h Ad] (One pair : Aces)
+perede2gars shows [Js Jd] (Trips of Jacks)
+perede2gars collected 1015 from pot
+*** SUMMARY ***
+Total pot 1015 | No rake
+Board: [Jc 4h 3d 5c As]
+Seat 1: manggy94 (big blind) showed [9h Ad] and lost with One pair : Aces
+Seat 3: perede2gars (small blind) showed [Js Jd] and won 1015 with Trips of Jacks
+
+

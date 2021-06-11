@@ -1,0 +1,332 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 1 - HandId: #621145450317086739-1-1453647826 - Holdem no limit (50/100) - 2016/01/24 15:03:46 UTC
+Table: 'Hold'em(144621695)#018' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (10000)
+Seat 5: Diac83 (10000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 50
+Diac83 posts big blind 100
+Dealt to manggy94 [Kh 6h]
+*** PRE-FLOP *** 
+manggy94 calls 50
+Diac83 checks
+*** FLOP *** [Qh 2h Jd]
+Diac83 checks
+manggy94 checks
+*** TURN *** [Qh 2h Jd][Td]
+Diac83 checks
+manggy94 checks
+*** RIVER *** [Qh 2h Jd Td][Ks]
+Diac83 checks
+manggy94 bets 200
+Diac83 folds
+manggy94 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [Qh 2h Jd Td Ks]
+Seat 1: manggy94 (small blind) (button) won 400
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 1 - HandId: #621145450317086739-2-1453647870 - Holdem no limit (50/100) - 2016/01/24 15:04:30 UTC
+Table: 'Hold'em(144621695)#018' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (10100)
+Seat 2: -No Tilt- (10000)
+Seat 4: momotoucool (10000)
+Seat 5: Diac83 (9900)
+Seat 6: papili33 (10000)
+*** ANTE/BLINDS ***
+Diac83 posts small blind 50
+papili33 posts big blind 100
+Dealt to manggy94 [3c 6d]
+*** PRE-FLOP *** 
+manggy94 folds
+-No Tilt- folds
+momotoucool folds
+Diac83 calls 50
+papili33 checks
+*** FLOP *** [7c 4d Kh]
+Diac83 checks
+papili33 bets 200
+Diac83 folds
+papili33 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [7c 4d Kh]
+Seat 6: papili33 (big blind) won 400
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 1 - HandId: #621145450317086739-3-1453647905 - Holdem no limit (50/100) - 2016/01/24 15:05:05 UTC
+Table: 'Hold'em(144621695)#018' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (10100)
+Seat 2: -No Tilt- (10000)
+Seat 3: PierreBillon (10000)
+Seat 4: momotoucool (10000)
+Seat 5: Diac83 (9800)
+Seat 6: papili33 (10100)
+*** ANTE/BLINDS ***
+papili33 posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [9d Kh]
+*** PRE-FLOP *** 
+-No Tilt- raises 150 to 250
+PierreBillon folds
+momotoucool folds
+Diac83 calls 250
+papili33 folds
+manggy94 calls 150
+*** FLOP *** [Jc 5s Th]
+manggy94 checks
+-No Tilt- bets 600
+Diac83 raises 800 to 1400
+manggy94 folds
+-No Tilt- raises 8350 to 9750 and is all-in
+Diac83 calls 8150 and is all-in
+*** TURN *** [Jc 5s Th][4c]
+*** RIVER *** [Jc 5s Th 4c][3d]
+*** SHOW DOWN ***
+Diac83 shows [Js Kd] (One pair : Jacks)
+-No Tilt- shows [As Jh] (One pair : Jacks)
+-No Tilt- collected 20100 from pot
+*** SUMMARY ***
+Total pot 20100 | No rake
+Board: [Jc 5s Th 4c 3d]
+Seat 2: -No Tilt- showed [As Jh] and won 20100 with One pair : Jacks
+Seat 5: Diac83 (button) showed [Js Kd] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 1 - HandId: #621145450317086739-4-1453647949 - Holdem no limit (50/100) - 2016/01/24 15:05:49 UTC
+Table: 'Hold'em(144621695)#018' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (9850)
+Seat 2: -No Tilt- (20100)
+Seat 3: PierreBillon (10000)
+Seat 4: momotoucool (10000)
+Seat 6: papili33 (10050)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 50
+-No Tilt- posts big blind 100
+Dealt to manggy94 [Th 4s]
+*** PRE-FLOP *** 
+PierreBillon raises 100 to 200
+momotoucool calls 200
+papili33 calls 200
+manggy94 folds
+-No Tilt- calls 100
+*** FLOP *** [7d Qc 9c]
+-No Tilt- checks
+PierreBillon bets 425
+momotoucool calls 425
+papili33 calls 425
+-No Tilt- folds
+*** TURN *** [7d Qc 9c][3h]
+PierreBillon bets 1417
+momotoucool raises 1771 to 3188
+papili33 folds
+PierreBillon raises 6187 to 9375 and is all-in
+momotoucool calls 6187 and is all-in
+*** RIVER *** [7d Qc 9c 3h][6h]
+*** SHOW DOWN ***
+momotoucool shows [Ks Qs] (One pair : Queens)
+PierreBillon shows [9h 9d] (Trips of 9)
+PierreBillon collected 20875 from pot
+*** SUMMARY ***
+Total pot 20875 | No rake
+Board: [7d Qc 9c 3h 6h]
+Seat 3: PierreBillon showed [9h 9d] and won 20875 with Trips of 9
+Seat 4: momotoucool showed [Ks Qs] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 2 - HandId: #621145450317086739-5-1453648024 - Holdem no limit (75/150) - 2016/01/24 15:07:04 UTC
+Table: 'Hold'em(144621695)#018' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (9800)
+Seat 2: -No Tilt- (19900)
+Seat 3: PierreBillon (20875)
+Seat 5: devilisgreen (10000)
+Seat 6: papili33 (9425)
+*** ANTE/BLINDS ***
+-No Tilt- posts small blind 75
+PierreBillon posts big blind 150
+Dealt to manggy94 [Ah 2s]
+*** PRE-FLOP *** 
+devilisgreen folds
+papili33 folds
+manggy94 raises 375 to 525
+-No Tilt- folds
+PierreBillon raises 1125 to 1650
+manggy94 calls 1125
+*** FLOP *** [4d As Th]
+PierreBillon checks
+manggy94 bets 3375
+PierreBillon folds
+manggy94 collected 6750 from pot
+*** SUMMARY ***
+Total pot 6750 | No rake
+Board: [4d As Th]
+Seat 1: manggy94 (button) won 6750
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 2 - HandId: #621145450317086739-6-1453648048 - Holdem no limit (75/150) - 2016/01/24 15:07:28 UTC
+Table: 'Hold'em(144621695)#018' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (11525)
+Seat 2: -No Tilt- (19825)
+Seat 3: PierreBillon (19225)
+Seat 5: devilisgreen (10000)
+Seat 6: papili33 (9425)
+*** ANTE/BLINDS ***
+PierreBillon posts small blind 75
+devilisgreen posts big blind 150
+Dealt to manggy94 [9d Td]
+*** PRE-FLOP *** 
+papili33 calls 150
+manggy94 calls 150
+-No Tilt- raises 675 to 825
+PierreBillon folds
+devilisgreen folds
+papili33 folds
+manggy94 calls 675
+*** FLOP *** [2c Qh 2d]
+manggy94 checks
+-No Tilt- bets 1350
+manggy94 folds
+-No Tilt- collected 3375 from pot
+*** SUMMARY ***
+Total pot 3375 | No rake
+Board: [2c Qh 2d]
+Seat 2: -No Tilt- (button) won 3375
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 2 - HandId: #621145450317086739-7-1453648080 - Holdem no limit (75/150) - 2016/01/24 15:08:00 UTC
+Table: 'Hold'em(144621695)#018' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (10700)
+Seat 2: -No Tilt- (21025)
+Seat 3: PierreBillon (19150)
+Seat 4: ScHlEgUe.de (10000)
+Seat 5: devilisgreen (9850)
+Seat 6: papili33 (9275)
+*** ANTE/BLINDS ***
+devilisgreen posts small blind 75
+papili33 posts big blind 150
+Dealt to manggy94 [9c 3s]
+*** PRE-FLOP *** 
+manggy94 folds
+-No Tilt- folds
+PierreBillon folds
+ScHlEgUe.de folds
+devilisgreen calls 75
+papili33 raises 300 to 450
+devilisgreen calls 300
+*** FLOP *** [4h 6s Jd]
+devilisgreen checks
+papili33 bets 600
+devilisgreen folds
+papili33 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [4h 6s Jd]
+Seat 6: papili33 (big blind) won 1500
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 2 - HandId: #621145450317086739-8-1453648119 - Holdem no limit (75/150) - 2016/01/24 15:08:39 UTC
+Table: 'Hold'em(144621695)#018' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (10700)
+Seat 2: -No Tilt- (21025)
+Seat 3: PierreBillon (19150)
+Seat 4: ScHlEgUe.de (10000)
+Seat 5: devilisgreen (9400)
+Seat 6: papili33 (9725)
+*** ANTE/BLINDS ***
+papili33 posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [9h Td]
+*** PRE-FLOP *** 
+-No Tilt- folds
+PierreBillon folds
+ScHlEgUe.de folds
+devilisgreen raises 300 to 450
+papili33 calls 375
+manggy94 calls 300
+*** FLOP *** [3d 9s 6c]
+papili33 checks
+manggy94 bets 1350
+devilisgreen calls 1350
+papili33 raises 5400 to 6750
+manggy94 raises 3500 to 10250 and is all-in
+devilisgreen folds
+papili33 calls 2525 and is all-in
+*** TURN *** [3d 9s 6c][Jh]
+*** RIVER *** [3d 9s 6c Jh][2s]
+*** SHOW DOWN ***
+papili33 shows [Kh Kc] (One pair : Kings)
+manggy94 shows [9h Td] (One pair : 9)
+manggy94 collected 975 from side pot 1
+papili33 collected 21250 from main pot
+*** SUMMARY ***
+Total pot 22225 | No rake
+Board: [3d 9s 6c Jh 2s]
+Seat 1: manggy94 (big blind) showed [9h Td] and won 975 with One pair : 9
+Seat 6: papili33 (small blind) showed [Kh Kc] and won 21250 with One pair : Kings
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 3 - HandId: #621145450317086739-9-1453648169 - Holdem no limit (100/200) - 2016/01/24 15:09:29 UTC
+Table: 'Hold'em(144621695)#018' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (975)
+Seat 2: -No Tilt- (21025)
+Seat 3: PierreBillon (19150)
+Seat 4: ScHlEgUe.de (10000)
+Seat 5: devilisgreen (7600)
+Seat 6: papili33 (21250)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+-No Tilt- posts big blind 200
+Dealt to manggy94 [4c Qd]
+*** PRE-FLOP *** 
+PierreBillon folds
+ScHlEgUe.de folds
+devilisgreen folds
+papili33 raises 200 to 400
+manggy94 calls 300
+-No Tilt- calls 200
+*** FLOP *** [8c 8h 9s]
+manggy94 checks
+-No Tilt- checks
+papili33 bets 200
+manggy94 folds
+-No Tilt- folds
+papili33 collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Board: [8c 8h 9s]
+Seat 6: papili33 (button) won 1400
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 2,70€ + 0,30€ level: 3 - HandId: #621145450317086739-10-1453648191 - Holdem no limit (100/200) - 2016/01/24 15:09:51 UTC
+Table: 'Hold'em(144621695)#018' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (575)
+Seat 2: -No Tilt- (20625)
+Seat 3: PierreBillon (19150)
+Seat 4: ScHlEgUe.de (10000)
+Seat 5: devilisgreen (7600)
+Seat 6: papili33 (22050)
+*** ANTE/BLINDS ***
+-No Tilt- posts small blind 100
+PierreBillon posts big blind 200
+Dealt to manggy94 [Qd 3d]
+*** PRE-FLOP *** 
+ScHlEgUe.de folds
+devilisgreen folds
+papili33 folds
+manggy94 raises 375 to 575 and is all-in
+-No Tilt- raises 1150 to 1725
+PierreBillon folds
+*** FLOP *** [Kd 8s Tc]
+*** TURN *** [Kd 8s Tc][4s]
+*** RIVER *** [Kd 8s Tc 4s][Ad]
+*** SHOW DOWN ***
+manggy94 shows [Qd 3d] (High card : Ace)
+-No Tilt- shows [9c 9h] (One pair : 9)
+-No Tilt- collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Board: [Kd 8s Tc 4s Ad]
+Seat 1: manggy94 (button) showed [Qd 3d] and lost with High card : Ace
+Seat 2: -No Tilt- (small blind) showed [9c 9h] and won 2500 with One pair : 9
+
+

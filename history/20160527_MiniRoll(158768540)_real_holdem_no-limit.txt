@@ -1,0 +1,684 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #681905686933667853-20-1464366034 - Holdem no limit (25/150/300) - 2016/05/27 16:20:34 UTC
+Table: 'MiniRoll(158768540)#012' 8-max (real money) Seat #6 is the button
+Seat 1: Alexender06 (21925)
+Seat 2: Nolan89 (26250)
+Seat 3: XXinehp (11036)
+Seat 4: lechat26 (9275)
+Seat 5: IMPLANT65 (12800)
+Seat 6: manggy94 (10000)
+Seat 7: Mdjai (9700)
+Seat 8: cathAStrOf (19514)
+*** ANTE/BLINDS ***
+Mdjai posts ante 25
+cathAStrOf posts ante 25
+Alexender06 posts ante 25
+Nolan89 posts ante 25
+XXinehp posts ante 25
+lechat26 posts ante 25
+IMPLANT65 posts ante 25
+Mdjai posts small blind 150
+cathAStrOf posts big blind 300
+*** PRE-FLOP *** 
+Alexender06 folds
+Nolan89 folds
+XXinehp folds
+lechat26 folds
+IMPLANT65 folds
+Mdjai calls 150
+cathAStrOf checks
+*** FLOP *** [Th Ah 9d]
+Mdjai bets 388
+cathAStrOf folds
+Mdjai collected 1163 from pot
+*** SUMMARY ***
+Total pot 1163 | No rake
+Board: [Th Ah 9d]
+Seat 7: Mdjai (small blind) won 1163
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #681905686933667853-21-1464366096 - Holdem no limit (25/150/300) - 2016/05/27 16:21:36 UTC
+Table: 'MiniRoll(158768540)#012' 8-max (real money) Seat #7 is the button
+Seat 1: Alexender06 (21900)
+Seat 2: Nolan89 (26225)
+Seat 3: XXinehp (11011)
+Seat 4: lechat26 (9250)
+Seat 5: IMPLANT65 (12775)
+Seat 6: manggy94 (10000)
+Seat 7: Mdjai (10150)
+Seat 8: cathAStrOf (19189)
+*** ANTE/BLINDS ***
+cathAStrOf posts ante 25
+Alexender06 posts ante 25
+Nolan89 posts ante 25
+XXinehp posts ante 25
+lechat26 posts ante 25
+IMPLANT65 posts ante 25
+manggy94 posts ante 25
+Mdjai posts ante 25
+cathAStrOf posts small blind 150
+Alexender06 posts big blind 300
+Dealt to manggy94 [Ks 2s]
+*** PRE-FLOP *** 
+Nolan89 raises 450 to 750
+XXinehp folds
+lechat26 folds
+IMPLANT65 folds
+manggy94 calls 750
+Mdjai calls 750
+cathAStrOf folds
+Alexender06 calls 450
+*** FLOP *** [Qh 3s 7c]
+Alexender06 checks
+Nolan89 bets 450
+manggy94 folds
+Mdjai raises 1075 to 1525
+Alexender06 folds
+Nolan89 calls 1075
+*** TURN *** [Qh 3s 7c][Kc]
+Nolan89 checks
+Mdjai checks
+*** RIVER *** [Qh 3s 7c Kc][Jd]
+Nolan89 bets 300
+Mdjai raises 2750 to 3050
+Nolan89 calls 2750
+*** SHOW DOWN ***
+Nolan89 shows [Js 5d] (One pair : Jacks)
+Mdjai shows [Jh As] (One pair : Jacks)
+Mdjai collected 12500 from pot
+*** SUMMARY ***
+Total pot 12500 | No rake
+Board: [Qh 3s 7c Kc Jd]
+Seat 2: Nolan89 showed [Js 5d] and lost with One pair : Jacks
+Seat 7: Mdjai (button) showed [Jh As] and won 12500 with One pair : Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #681905686933667853-22-1464366209 - Holdem no limit (25/150/300) - 2016/05/27 16:23:29 UTC
+Table: 'MiniRoll(158768540)#012' 8-max (real money) Seat #8 is the button
+Seat 1: Alexender06 (21125)
+Seat 2: Nolan89 (20875)
+Seat 3: XXinehp (10986)
+Seat 4: lechat26 (9225)
+Seat 5: IMPLANT65 (12750)
+Seat 6: manggy94 (9225)
+Seat 7: Mdjai (17300)
+Seat 8: cathAStrOf (19014)
+*** ANTE/BLINDS ***
+Alexender06 posts ante 25
+Nolan89 posts ante 25
+XXinehp posts ante 25
+lechat26 posts ante 25
+IMPLANT65 posts ante 25
+manggy94 posts ante 25
+Mdjai posts ante 25
+cathAStrOf posts ante 25
+Alexender06 posts small blind 150
+Nolan89 posts big blind 300
+Dealt to manggy94 [9s Qh]
+*** PRE-FLOP *** 
+XXinehp folds
+lechat26 folds
+IMPLANT65 calls 300
+manggy94 calls 300
+Mdjai calls 300
+cathAStrOf calls 300
+Alexender06 calls 150
+Nolan89 checks
+*** FLOP *** [8s Kh Ah]
+Alexender06 checks
+Nolan89 checks
+IMPLANT65 bets 300
+manggy94 folds
+Mdjai raises 700 to 1000
+cathAStrOf raises 700 to 1700
+Alexender06 folds
+Nolan89 folds
+IMPLANT65 calls 1400
+Mdjai calls 700
+*** TURN *** [8s Kh Ah][Js]
+IMPLANT65 checks
+Mdjai checks
+cathAStrOf bets 900
+IMPLANT65 calls 900
+Mdjai folds
+*** RIVER *** [8s Kh Ah Js][6d]
+IMPLANT65 checks
+cathAStrOf bets 900
+IMPLANT65 calls 900
+*** SHOW DOWN ***
+cathAStrOf shows [Ad 4d] (One pair : Aces)
+IMPLANT65 shows [As 9c] (One pair : Aces)
+IMPLANT65 collected 10700 from pot
+*** SUMMARY ***
+Total pot 10700 | No rake
+Board: [8s Kh Ah Js 6d]
+Seat 5: IMPLANT65 showed [As 9c] and won 10700 with One pair : Aces
+Seat 8: cathAStrOf (button) showed [Ad 4d] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 5 - HandId: #681905686933667853-23-1464366301 - Holdem no limit (25/150/300) - 2016/05/27 16:25:01 UTC
+Table: 'MiniRoll(158768540)#012' 8-max (real money) Seat #1 is the button
+Seat 1: Alexender06 (20800)
+Seat 2: Nolan89 (20550)
+Seat 3: XXinehp (10961)
+Seat 4: lechat26 (9200)
+Seat 5: IMPLANT65 (19625)
+Seat 6: manggy94 (8900)
+Seat 7: Mdjai (15275)
+Seat 8: cathAStrOf (15189)
+*** ANTE/BLINDS ***
+Nolan89 posts ante 25
+XXinehp posts ante 25
+Alexender06 posts ante 25
+lechat26 posts ante 25
+IMPLANT65 posts ante 25
+manggy94 posts ante 25
+Mdjai posts ante 25
+cathAStrOf posts ante 25
+Nolan89 posts small blind 150
+XXinehp posts big blind 300
+Dealt to manggy94 [9h 4s]
+*** PRE-FLOP *** 
+lechat26 folds
+IMPLANT65 folds
+manggy94 folds
+Mdjai raises 450 to 750
+cathAStrOf folds
+Alexender06 folds
+Nolan89 calls 600
+XXinehp calls 450
+*** FLOP *** [2c 5c Qs]
+Nolan89 bets 900
+XXinehp calls 900
+Mdjai raises 900 to 1800
+Nolan89 raises 17975 to 19775 and is all-in
+XXinehp folds
+Mdjai calls 12700 and is all-in
+*** TURN *** [2c 5c Qs][6h]
+*** RIVER *** [2c 5c Qs 6h][8d]
+*** SHOW DOWN ***
+Mdjai shows [Ah 5h] (One pair : 5)
+Nolan89 shows [4d Qh] (One pair : Queens)
+Nolan89 collected 37625 from pot
+*** SUMMARY ***
+Total pot 37625 | No rake
+Board: [2c 5c Qs 6h 8d]
+Seat 2: Nolan89 (small blind) showed [4d Qh] and won 37625 with One pair : Queens
+Seat 7: Mdjai showed [Ah 5h] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #681905686933667853-24-1464366429 - Holdem no limit (30/200/400) - 2016/05/27 16:27:09 UTC
+Table: 'MiniRoll(158768540)#012' 8-max (real money) Seat #2 is the button
+Seat 1: Alexender06 (20775)
+Seat 2: Nolan89 (37625)
+Seat 3: XXinehp (9286)
+Seat 4: lechat26 (9175)
+Seat 5: IMPLANT65 (19600)
+Seat 6: manggy94 (8875)
+Seat 8: cathAStrOf (15164)
+*** ANTE/BLINDS ***
+XXinehp posts ante 30
+lechat26 posts ante 30
+Alexender06 posts ante 30
+Nolan89 posts ante 30
+IMPLANT65 posts ante 30
+manggy94 posts ante 30
+cathAStrOf posts ante 30
+XXinehp posts small blind 200
+lechat26 posts big blind 400
+Dealt to manggy94 [4h 2s]
+*** PRE-FLOP *** 
+IMPLANT65 folds
+manggy94 folds
+cathAStrOf folds
+Alexender06 raises 600 to 1000
+Nolan89 calls 1000
+XXinehp calls 800
+lechat26 folds
+*** FLOP *** [5h Tc 5d]
+XXinehp bets 2708
+Alexender06 raises 2892 to 5600
+Nolan89 folds
+XXinehp calls 2892
+*** TURN *** [5h Tc 5d][7c]
+XXinehp checks
+Alexender06 bets 2800
+XXinehp calls 2656 and is all-in
+*** RIVER *** [5h Tc 5d 7c][Jh]
+*** SHOW DOWN ***
+XXinehp shows [Kc 5c] (Trips of 5)
+Alexender06 shows [9s 9d] (Two pairs : 9 and 5)
+Alexender06 collected 144 from side pot 1
+XXinehp collected 20122 from main pot
+*** SUMMARY ***
+Total pot 20266 | No rake
+Board: [5h Tc 5d 7c Jh]
+Seat 1: Alexender06 showed [9s 9d] and won 144 with Two pairs : 9 and 5
+Seat 3: XXinehp (small blind) showed [Kc 5c] and won 20122 with Trips of 5
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #681905686933667853-25-1464366506 - Holdem no limit (30/200/400) - 2016/05/27 16:28:26 UTC
+Table: 'MiniRoll(158768540)#012' 8-max (real money) Seat #3 is the button
+Seat 1: Alexender06 (11489)
+Seat 2: Nolan89 (36595)
+Seat 3: XXinehp (20122)
+Seat 4: lechat26 (8745)
+Seat 5: IMPLANT65 (19570)
+Seat 6: manggy94 (8845)
+Seat 7: 7LenoxLewis7 (10000)
+Seat 8: cathAStrOf (15134)
+*** ANTE/BLINDS ***
+lechat26 posts ante 30
+IMPLANT65 posts ante 30
+Alexender06 posts ante 30
+Nolan89 posts ante 30
+XXinehp posts ante 30
+manggy94 posts ante 30
+7LenoxLewis7 posts ante 30
+cathAStrOf posts ante 30
+lechat26 posts small blind 200
+IMPLANT65 posts big blind 400
+Dealt to manggy94 [Jd 9s]
+*** PRE-FLOP *** 
+manggy94 folds
+7LenoxLewis7 raises 9570 to 9970 and is all-in
+cathAStrOf folds
+Alexender06 folds
+Nolan89 raises 26595 to 36565 and is all-in
+XXinehp folds
+lechat26 folds
+IMPLANT65 folds
+*** FLOP *** [9d Kc 5s]
+*** TURN *** [9d Kc 5s][5c]
+*** RIVER *** [9d Kc 5s 5c][4h]
+*** SHOW DOWN ***
+7LenoxLewis7 shows [6s 8c] (One pair : 5)
+Nolan89 shows [As 8s] (One pair : 5)
+Nolan89 collected 47375 from pot
+*** SUMMARY ***
+Total pot 47375 | No rake
+Board: [9d Kc 5s 5c 4h]
+Seat 2: Nolan89 showed [As 8s] and won 47375 with One pair : 5
+Seat 7: 7LenoxLewis7 showed [6s 8c] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #681905686933667853-26-1464366567 - Holdem no limit (30/200/400) - 2016/05/27 16:29:27 UTC
+Table: 'MiniRoll(158768540)#012' 8-max (real money) Seat #4 is the button
+Seat 1: Alexender06 (11459)
+Seat 2: Nolan89 (47375)
+Seat 3: XXinehp (20092)
+Seat 4: lechat26 (8515)
+Seat 5: IMPLANT65 (19140)
+Seat 6: manggy94 (8815)
+Seat 8: cathAStrOf (15104)
+*** ANTE/BLINDS ***
+IMPLANT65 posts ante 30
+manggy94 posts ante 30
+Alexender06 posts ante 30
+Nolan89 posts ante 30
+XXinehp posts ante 30
+lechat26 posts ante 30
+cathAStrOf posts ante 30
+IMPLANT65 posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [Js 5h]
+*** PRE-FLOP *** 
+cathAStrOf folds
+Alexender06 calls 400
+Nolan89 raises 800 to 1200
+XXinehp folds
+lechat26 folds
+IMPLANT65 folds
+manggy94 folds
+Alexender06 calls 800
+*** FLOP *** [Tc Qc 7d]
+Alexender06 checks
+Nolan89 bets 800
+Alexender06 calls 800
+*** TURN *** [Tc Qc 7d][8d]
+Alexender06 checks
+Nolan89 bets 1200
+Alexender06 calls 1200
+*** RIVER *** [Tc Qc 7d 8d][5s]
+Alexender06 checks
+Nolan89 checks
+*** SHOW DOWN ***
+Alexender06 shows [3c 4c] (High card : Queen)
+Nolan89 shows [Ac Qs] (One pair : Queens)
+Nolan89 collected 7210 from pot
+*** SUMMARY ***
+Total pot 7210 | No rake
+Board: [Tc Qc 7d 8d 5s]
+Seat 1: Alexender06 showed [3c 4c] and lost with High card : Queen
+Seat 2: Nolan89 showed [Ac Qs] and won 7210 with One pair : Queens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #681905686933667853-27-1464366622 - Holdem no limit (30/200/400) - 2016/05/27 16:30:22 UTC
+Table: 'MiniRoll(158768540)#012' 8-max (real money) Seat #5 is the button
+Seat 1: Alexender06 (8229)
+Seat 2: Nolan89 (51355)
+Seat 3: XXinehp (20062)
+Seat 4: lechat26 (8485)
+Seat 5: IMPLANT65 (18910)
+Seat 6: manggy94 (8385)
+Seat 7: XtrafalgaX (10000)
+Seat 8: cathAStrOf (15074)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+XtrafalgaX posts ante 30
+Alexender06 posts ante 30
+Nolan89 posts ante 30
+XXinehp posts ante 30
+lechat26 posts ante 30
+IMPLANT65 posts ante 30
+cathAStrOf posts ante 30
+manggy94 posts small blind 200
+XtrafalgaX posts big blind 400
+Dealt to manggy94 [2s 6c]
+*** PRE-FLOP *** 
+cathAStrOf folds
+Alexender06 raises 600 to 1000
+Nolan89 folds
+XXinehp folds
+lechat26 folds
+IMPLANT65 folds
+manggy94 folds
+XtrafalgaX calls 600
+*** FLOP *** [7d Js 9d]
+XtrafalgaX checks
+Alexender06 bets 1220
+XtrafalgaX folds
+Alexender06 collected 3660 from pot
+*** SUMMARY ***
+Total pot 3660 | No rake
+Board: [7d Js 9d]
+Seat 1: Alexender06 won 3660
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #681905686933667853-28-1464366697 - Holdem no limit (30/200/400) - 2016/05/27 16:31:37 UTC
+Table: 'MiniRoll(158768540)#012' 8-max (real money) Seat #6 is the button
+Seat 1: Alexender06 (9639)
+Seat 2: Nolan89 (51325)
+Seat 3: XXinehp (20032)
+Seat 4: lechat26 (8455)
+Seat 5: IMPLANT65 (18880)
+Seat 6: manggy94 (8155)
+Seat 7: XtrafalgaX (8970)
+Seat 8: cathAStrOf (15044)
+*** ANTE/BLINDS ***
+XtrafalgaX posts ante 30
+cathAStrOf posts ante 30
+Alexender06 posts ante 30
+Nolan89 posts ante 30
+XXinehp posts ante 30
+lechat26 posts ante 30
+IMPLANT65 posts ante 30
+manggy94 posts ante 30
+XtrafalgaX posts small blind 200
+cathAStrOf posts big blind 400
+Dealt to manggy94 [Td 2c]
+*** PRE-FLOP *** 
+Alexender06 calls 400
+Nolan89 calls 400
+XXinehp folds
+lechat26 raises 600 to 1000
+IMPLANT65 folds
+manggy94 folds
+XtrafalgaX folds
+cathAStrOf calls 600
+Alexender06 calls 600
+Nolan89 calls 600
+*** FLOP *** [2s 3c Jh]
+cathAStrOf checks
+Alexender06 bets 2220
+Nolan89 folds
+lechat26 raises 5205 to 7425 and is all-in
+cathAStrOf folds
+Alexender06 calls 5205
+*** TURN *** [2s 3c Jh][8h]
+*** RIVER *** [2s 3c Jh 8h][4h]
+*** SHOW DOWN ***
+lechat26 shows [Ad Js] (One pair : Jacks)
+Alexender06 shows [2d 2h] (Trips of 2)
+Alexender06 collected 19290 from pot
+*** SUMMARY ***
+Total pot 19290 | No rake
+Board: [2s 3c Jh 8h 4h]
+Seat 1: Alexender06 showed [2d 2h] and won 19290 with Trips of 2
+Seat 4: lechat26 showed [Ad Js] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #681905686933667853-29-1464366772 - Holdem no limit (40/250/500) - 2016/05/27 16:32:52 UTC
+Table: 'MiniRoll(158768540)#012' 8-max (real money) Seat #7 is the button
+Seat 1: Alexender06 (20474)
+Seat 2: Nolan89 (50295)
+Seat 3: XXinehp (20002)
+Seat 5: IMPLANT65 (18850)
+Seat 6: manggy94 (8125)
+Seat 7: XtrafalgaX (8740)
+Seat 8: cathAStrOf (14014)
+*** ANTE/BLINDS ***
+cathAStrOf posts ante 40
+Alexender06 posts ante 40
+Nolan89 posts ante 40
+XXinehp posts ante 40
+IMPLANT65 posts ante 40
+manggy94 posts ante 40
+XtrafalgaX posts ante 40
+cathAStrOf posts small blind 250
+Alexender06 posts big blind 500
+Dealt to manggy94 [2h Js]
+*** PRE-FLOP *** 
+Nolan89 calls 500
+XXinehp calls 500
+IMPLANT65 folds
+manggy94 folds
+XtrafalgaX folds
+cathAStrOf folds
+Alexender06 checks
+*** FLOP *** [Qc 2d Ks]
+Alexender06 checks
+Nolan89 bets 750
+XXinehp folds
+Alexender06 folds
+Nolan89 collected 2780 from pot
+*** SUMMARY ***
+Total pot 2780 | No rake
+Board: [Qc 2d Ks]
+Seat 2: Nolan89 won 2780
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #681905686933667853-30-1464366834 - Holdem no limit (40/250/500) - 2016/05/27 16:33:54 UTC
+Table: 'MiniRoll(158768540)#012' 8-max (real money) Seat #8 is the button
+Seat 1: Alexender06 (19934)
+Seat 2: Nolan89 (51785)
+Seat 3: XXinehp (19462)
+Seat 4: Astreos (10000)
+Seat 5: IMPLANT65 (18810)
+Seat 6: manggy94 (8085)
+Seat 7: XtrafalgaX (8700)
+Seat 8: cathAStrOf (13724)
+*** ANTE/BLINDS ***
+Alexender06 posts ante 40
+Nolan89 posts ante 40
+XXinehp posts ante 40
+Astreos posts ante 40
+IMPLANT65 posts ante 40
+manggy94 posts ante 40
+XtrafalgaX posts ante 40
+cathAStrOf posts ante 40
+Alexender06 posts small blind 250
+Nolan89 posts big blind 500
+Dealt to manggy94 [2s Kc]
+*** PRE-FLOP *** 
+XXinehp folds
+Astreos folds
+IMPLANT65 calls 500
+manggy94 folds
+XtrafalgaX folds
+cathAStrOf folds
+Alexender06 calls 250
+Nolan89 raises 500 to 1000
+IMPLANT65 calls 500
+Alexender06 calls 500
+*** FLOP *** [6h Ks 8h]
+Alexender06 checks
+Nolan89 bets 500
+IMPLANT65 calls 500
+Alexender06 calls 500
+*** TURN *** [6h Ks 8h][7c]
+Alexender06 checks
+Nolan89 bets 1000
+IMPLANT65 calls 1000
+Alexender06 calls 1000
+*** RIVER *** [6h Ks 8h 7c][7d]
+Alexender06 checks
+Nolan89 bets 2000
+IMPLANT65 calls 2000
+Alexender06 folds
+*** SHOW DOWN ***
+Nolan89 shows [Qd 9d] (One pair : 7)
+IMPLANT65 shows [Jd As] (One pair : 7)
+IMPLANT65 collected 11820 from pot
+*** SUMMARY ***
+Total pot 11820 | No rake
+Board: [6h Ks 8h 7c 7d]
+Seat 2: Nolan89 (big blind) showed [Qd 9d] and lost with One pair : 7
+Seat 5: IMPLANT65 showed [Jd As] and won 11820 with One pair : 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #681905686933667853-31-1464366925 - Holdem no limit (40/250/500) - 2016/05/27 16:35:25 UTC
+Table: 'MiniRoll(158768540)#012' 8-max (real money) Seat #1 is the button
+Seat 1: Alexender06 (17394)
+Seat 2: Nolan89 (47245)
+Seat 3: XXinehp (19422)
+Seat 4: Astreos (9960)
+Seat 5: IMPLANT65 (26090)
+Seat 6: manggy94 (8045)
+Seat 7: XtrafalgaX (8660)
+Seat 8: cathAStrOf (13684)
+*** ANTE/BLINDS ***
+Nolan89 posts ante 40
+XXinehp posts ante 40
+Alexender06 posts ante 40
+Astreos posts ante 40
+IMPLANT65 posts ante 40
+manggy94 posts ante 40
+XtrafalgaX posts ante 40
+cathAStrOf posts ante 40
+Nolan89 posts small blind 250
+XXinehp posts big blind 500
+Dealt to manggy94 [6c 2d]
+*** PRE-FLOP *** 
+Astreos folds
+IMPLANT65 folds
+manggy94 folds
+XtrafalgaX calls 500
+cathAStrOf folds
+Alexender06 folds
+Nolan89 raises 500 to 1000
+XXinehp calls 500
+XtrafalgaX calls 500
+*** FLOP *** [6h 7h Kh]
+Nolan89 bets 750
+XXinehp folds
+XtrafalgaX folds
+Nolan89 collected 4070 from pot
+*** SUMMARY ***
+Total pot 4070 | No rake
+Board: [6h 7h Kh]
+Seat 2: Nolan89 (small blind) won 4070
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #681905686933667853-32-1464366973 - Holdem no limit (40/250/500) - 2016/05/27 16:36:13 UTC
+Table: 'MiniRoll(158768540)#012' 8-max (real money) Seat #2 is the button
+Seat 1: Alexender06 (17354)
+Seat 2: Nolan89 (49525)
+Seat 3: XXinehp (18382)
+Seat 4: Astreos (9920)
+Seat 5: IMPLANT65 (26050)
+Seat 6: manggy94 (8005)
+Seat 7: XtrafalgaX (7620)
+Seat 8: cathAStrOf (13644)
+*** ANTE/BLINDS ***
+XXinehp posts ante 40
+Astreos posts ante 40
+Alexender06 posts ante 40
+Nolan89 posts ante 40
+IMPLANT65 posts ante 40
+manggy94 posts ante 40
+XtrafalgaX posts ante 40
+cathAStrOf posts ante 40
+XXinehp posts small blind 250
+Astreos posts big blind 500
+Dealt to manggy94 [Jh Qs]
+*** PRE-FLOP *** 
+IMPLANT65 folds
+manggy94 raises 1000 to 1500
+XtrafalgaX folds
+cathAStrOf folds
+Alexender06 folds
+Nolan89 folds
+XXinehp calls 1250
+Astreos raises 8380 to 9880 and is all-in
+manggy94 folds
+XXinehp calls 8380
+*** FLOP *** [7h 9c Ts]
+*** TURN *** [7h 9c Ts][5s]
+*** RIVER *** [7h 9c Ts 5s][Th]
+*** SHOW DOWN ***
+Astreos shows [Kd Kh] (Two pairs : Kings and Tens)
+XXinehp shows [Qc Tc] (Trips of Tens)
+XXinehp collected 21580 from pot
+*** SUMMARY ***
+Total pot 21580 | No rake
+Board: [7h 9c Ts 5s Th]
+Seat 3: XXinehp (small blind) showed [Qc Tc] and won 21580 with Trips of Tens
+Seat 4: Astreos (big blind) showed [Kd Kh] and lost with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 7 - HandId: #681905686933667853-33-1464367032 - Holdem no limit (40/250/500) - 2016/05/27 16:37:12 UTC
+Table: 'MiniRoll(158768540)#012' 8-max (real money) Seat #3 is the button
+Seat 1: Alexender06 (17314)
+Seat 2: Nolan89 (49485)
+Seat 3: XXinehp (30042)
+Seat 5: IMPLANT65 (26010)
+Seat 6: manggy94 (6465)
+Seat 7: XtrafalgaX (7580)
+Seat 8: cathAStrOf (13604)
+*** ANTE/BLINDS ***
+IMPLANT65 posts ante 40
+Alexender06 posts ante 40
+Nolan89 posts ante 40
+XXinehp posts ante 40
+manggy94 posts ante 40
+XtrafalgaX posts ante 40
+cathAStrOf posts ante 40
+IMPLANT65 posts big blind 500
+Dealt to manggy94 [Ad 9s]
+*** PRE-FLOP *** 
+manggy94 raises 1280 to 1780
+XtrafalgaX folds
+cathAStrOf folds
+Alexender06 calls 1780
+Nolan89 folds
+XXinehp calls 1780
+IMPLANT65 folds
+*** FLOP *** [9h 2h 5d]
+manggy94 bets 4645 and is all-in
+Alexender06 calls 4645
+XXinehp calls 4645
+*** TURN *** [9h 2h 5d][6d]
+Alexender06 bets 10849 and is all-in
+XXinehp folds
+*** RIVER *** [9h 2h 5d 6d][9d]
+*** SHOW DOWN ***
+manggy94 shows [Ad 9s] (Trips of 9)
+Alexender06 shows [6s 6c] (Full of 6 and 9)
+Alexender06 collected 30904 from pot
+*** SUMMARY ***
+Total pot 30904 | No rake
+Board: [9h 2h 5d 6d 9d]
+Seat 1: Alexender06 showed [6s 6c] and won 30904 with Full of 6 and 9
+Seat 6: manggy94 showed [Ad 9s] and lost with Trips of 9
+
+

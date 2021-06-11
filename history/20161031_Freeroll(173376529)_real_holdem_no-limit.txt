@@ -1,0 +1,554 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #744646521948995918-12-1477925160 - Holdem no limit (60/120) - 2016/10/31 14:46:00 UTC
+Table: 'Freeroll(173376529)#333' 8-max (real money) Seat #8 is the button
+Seat 1: quentin27400 (8678)
+Seat 2: Oracle21 (3720)
+Seat 3: Toniosaure (4842)
+Seat 5: Xaviertoto (2920)
+Seat 6: taylor83ns (2890)
+Seat 7: BSFDM (9950)
+Seat 8: manggy94 (3000)
+*** ANTE/BLINDS ***
+quentin27400 posts small blind 60
+Oracle21 posts big blind 120
+*** PRE-FLOP *** 
+Toniosaure calls 120
+Xaviertoto folds
+taylor83ns folds
+BSFDM folds
+quentin27400 folds
+Oracle21 checks
+*** FLOP *** [4c 3d Tc]
+Oracle21 bets 120
+Toniosaure folds
+Oracle21 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [4c 3d Tc]
+Seat 2: Oracle21 (big blind) won 420
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #744646521948995918-13-1477925197 - Holdem no limit (60/120) - 2016/10/31 14:46:37 UTC
+Table: 'Freeroll(173376529)#333' 8-max (real money) Seat #1 is the button
+Seat 1: quentin27400 (8618)
+Seat 2: Oracle21 (3900)
+Seat 3: Toniosaure (4722)
+Seat 5: Xaviertoto (2920)
+Seat 6: taylor83ns (2890)
+Seat 7: BSFDM (9950)
+Seat 8: manggy94 (3000)
+*** ANTE/BLINDS ***
+Oracle21 posts small blind 60
+Toniosaure posts big blind 120
+Dealt to manggy94 [Qc Ts]
+*** PRE-FLOP *** 
+Xaviertoto folds
+taylor83ns folds
+BSFDM folds
+manggy94 calls 120
+quentin27400 folds
+Oracle21 calls 60
+Toniosaure checks
+*** FLOP *** [2c 5s 6d]
+Oracle21 bets 360
+Toniosaure calls 360
+manggy94 folds
+*** TURN *** [2c 5s 6d][Qd]
+Oracle21 bets 1080
+Toniosaure folds
+Oracle21 collected 2160 from pot
+*** SUMMARY ***
+Total pot 2160 | No rake
+Board: [2c 5s 6d Qd]
+Seat 2: Oracle21 (small blind) won 2160
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #744646521948995918-14-1477925238 - Holdem no limit (60/120) - 2016/10/31 14:47:18 UTC
+Table: 'Freeroll(173376529)#333' 8-max (real money) Seat #2 is the button
+Seat 1: quentin27400 (8618)
+Seat 2: Oracle21 (4500)
+Seat 3: Toniosaure (4242)
+Seat 5: Xaviertoto (2920)
+Seat 6: taylor83ns (2890)
+Seat 7: BSFDM (9950)
+Seat 8: manggy94 (2880)
+*** ANTE/BLINDS ***
+Toniosaure posts small blind 60
+Xaviertoto posts big blind 120
+Dealt to manggy94 [Qs 3h]
+*** PRE-FLOP *** 
+taylor83ns folds
+BSFDM folds
+manggy94 folds
+quentin27400 folds
+Oracle21 folds
+Toniosaure calls 60
+Xaviertoto checks
+*** FLOP *** [Ks 7c 6c]
+Toniosaure bets 120
+Xaviertoto folds
+Toniosaure collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Ks 7c 6c]
+Seat 3: Toniosaure (small blind) won 360
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #744646521948995918-15-1477925257 - Holdem no limit (60/120) - 2016/10/31 14:47:37 UTC
+Table: 'Freeroll(173376529)#333' 8-max (real money) Seat #3 is the button
+Seat 1: quentin27400 (8618)
+Seat 2: Oracle21 (4500)
+Seat 3: Toniosaure (4362)
+Seat 5: Xaviertoto (2800)
+Seat 6: taylor83ns (2890)
+Seat 7: BSFDM (9950)
+Seat 8: manggy94 (2880)
+*** ANTE/BLINDS ***
+Xaviertoto posts small blind 60
+taylor83ns posts big blind 120
+Dealt to manggy94 [5h 8h]
+*** PRE-FLOP *** 
+BSFDM folds
+manggy94 calls 120
+quentin27400 folds
+Oracle21 calls 120
+Toniosaure calls 120
+Xaviertoto folds
+taylor83ns folds
+*** FLOP *** [2c 9d Ad]
+manggy94 bets 270
+Oracle21 folds
+Toniosaure calls 270
+*** TURN *** [2c 9d Ad][9s]
+manggy94 bets 540
+Toniosaure calls 540
+*** RIVER *** [2c 9d Ad 9s][3h]
+manggy94 checks
+Toniosaure checks
+*** SHOW DOWN ***
+manggy94 shows [5h 8h] (One pair : 9)
+Toniosaure shows [As Jd] (Two pairs : Aces and 9)
+Toniosaure collected 2160 from pot
+*** SUMMARY ***
+Total pot 2160 | No rake
+Board: [2c 9d Ad 9s 3h]
+Seat 3: Toniosaure (button) showed [As Jd] and won 2160 with Two pairs : Aces and 9
+Seat 8: manggy94 showed [5h 8h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #744646521948995918-16-1477925294 - Holdem no limit (60/120) - 2016/10/31 14:48:14 UTC
+Table: 'Freeroll(173376529)#333' 8-max (real money) Seat #5 is the button
+Seat 1: quentin27400 (8618)
+Seat 2: Oracle21 (4380)
+Seat 3: Toniosaure (5592)
+Seat 5: Xaviertoto (2740)
+Seat 6: taylor83ns (2770)
+Seat 7: BSFDM (9950)
+Seat 8: manggy94 (1950)
+*** ANTE/BLINDS ***
+taylor83ns posts small blind 60
+BSFDM posts big blind 120
+Dealt to manggy94 [9s Qd]
+*** PRE-FLOP *** 
+manggy94 folds
+quentin27400 folds
+Oracle21 raises 120 to 240
+Toniosaure calls 240
+Xaviertoto folds
+taylor83ns folds
+BSFDM calls 120
+*** FLOP *** [Ah 5s 4h]
+BSFDM checks
+Oracle21 checks
+Toniosaure bets 120
+BSFDM folds
+Oracle21 calls 120
+*** TURN *** [Ah 5s 4h][8c]
+Oracle21 checks
+Toniosaure bets 120
+Oracle21 calls 120
+*** RIVER *** [Ah 5s 4h 8c][Ts]
+Oracle21 checks
+Toniosaure checks
+*** SHOW DOWN ***
+Toniosaure shows [2s Qs] (High card : Ace)
+Oracle21 shows [Kd Ks] (One pair : Kings)
+Oracle21 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Board: [Ah 5s 4h 8c Ts]
+Seat 2: Oracle21 showed [Kd Ks] and won 1260 with One pair : Kings
+Seat 3: Toniosaure showed [2s Qs] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #744646521948995918-17-1477925343 - Holdem no limit (10/60/120) - 2016/10/31 14:49:03 UTC
+Table: 'Freeroll(173376529)#333' 8-max (real money) Seat #6 is the button
+Seat 1: quentin27400 (8618)
+Seat 2: Oracle21 (5160)
+Seat 3: Toniosaure (5112)
+Seat 4: pokaspok (3000)
+Seat 5: Xaviertoto (2740)
+Seat 6: taylor83ns (2710)
+Seat 7: BSFDM (9710)
+Seat 8: manggy94 (1950)
+*** ANTE/BLINDS ***
+BSFDM posts ante 10
+manggy94 posts ante 10
+quentin27400 posts ante 10
+Oracle21 posts ante 10
+Toniosaure posts ante 10
+pokaspok posts ante 10
+Xaviertoto posts ante 10
+taylor83ns posts ante 10
+BSFDM posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [2s Tc]
+*** PRE-FLOP *** 
+quentin27400 calls 120
+Oracle21 calls 120
+Toniosaure folds
+pokaspok folds
+Xaviertoto folds
+taylor83ns folds
+BSFDM raises 9580 to 9700 and is all-in
+manggy94 folds
+quentin27400 folds
+Oracle21 folds
+BSFDM collected 10140 from pot
+*** SUMMARY ***
+Total pot 10140 | No rake
+Seat 7: BSFDM (small blind) won 10140
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #744646521948995918-18-1477925364 - Holdem no limit (10/60/120) - 2016/10/31 14:49:24 UTC
+Table: 'Freeroll(173376529)#333' 8-max (real money) Seat #7 is the button
+Seat 1: quentin27400 (8488)
+Seat 2: Oracle21 (5030)
+Seat 3: Toniosaure (5102)
+Seat 4: pokaspok (2990)
+Seat 5: Xaviertoto (2730)
+Seat 6: taylor83ns (2700)
+Seat 7: BSFDM (10140)
+Seat 8: manggy94 (1820)
+*** ANTE/BLINDS ***
+manggy94 posts ante 10
+quentin27400 posts ante 10
+Oracle21 posts ante 10
+Toniosaure posts ante 10
+pokaspok posts ante 10
+Xaviertoto posts ante 10
+taylor83ns posts ante 10
+BSFDM posts ante 10
+manggy94 posts small blind 60
+quentin27400 posts big blind 120
+Dealt to manggy94 [6h 3d]
+*** PRE-FLOP *** 
+Oracle21 folds
+Toniosaure folds
+pokaspok folds
+Xaviertoto raises 2600 to 2720 and is all-in
+taylor83ns folds
+BSFDM raises 7410 to 10130 and is all-in
+manggy94 folds
+quentin27400 folds
+*** FLOP *** [7d Qh Ts]
+*** TURN *** [7d Qh Ts][Ah]
+*** RIVER *** [7d Qh Ts Ah][5s]
+*** SHOW DOWN ***
+Xaviertoto shows [7c As] (Two pairs : Aces and 7)
+BSFDM shows [Qs Th] (Two pairs : Queens and Tens)
+BSFDM collected 7410 from side pot 1
+Xaviertoto collected 5700 from main pot
+*** SUMMARY ***
+Total pot 13110 | No rake
+Board: [7d Qh Ts Ah 5s]
+Seat 5: Xaviertoto showed [7c As] and won 5700 with Two pairs : Aces and 7
+Seat 7: BSFDM (button) showed [Qs Th] and won 7410 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #744646521948995918-19-1477925404 - Holdem no limit (10/60/120) - 2016/10/31 14:50:04 UTC
+Table: 'Freeroll(173376529)#333' 8-max (real money) Seat #8 is the button
+Seat 1: quentin27400 (8358)
+Seat 2: Oracle21 (5020)
+Seat 3: Toniosaure (5092)
+Seat 4: pokaspok (2980)
+Seat 5: Xaviertoto (5700)
+Seat 6: taylor83ns (2690)
+Seat 7: BSFDM (7410)
+Seat 8: manggy94 (1750)
+*** ANTE/BLINDS ***
+quentin27400 posts ante 10
+Oracle21 posts ante 10
+Toniosaure posts ante 10
+pokaspok posts ante 10
+Xaviertoto posts ante 10
+taylor83ns posts ante 10
+BSFDM posts ante 10
+manggy94 posts ante 10
+quentin27400 posts small blind 60
+Oracle21 posts big blind 120
+Dealt to manggy94 [9s Kc]
+*** PRE-FLOP *** 
+Toniosaure calls 120
+pokaspok folds
+Xaviertoto calls 120
+taylor83ns folds
+BSFDM raises 7280 to 7400 and is all-in
+manggy94 folds
+quentin27400 folds
+Oracle21 calls 4890 and is all-in
+Toniosaure folds
+Xaviertoto folds
+*** FLOP *** [2s 5d 4d]
+*** TURN *** [2s 5d 4d][6d]
+*** RIVER *** [2s 5d 4d 6d][6c]
+*** SHOW DOWN ***
+Oracle21 shows [Kd Ks] (Two pairs : Kings and 6)
+BSFDM shows [Td 7h] (One pair : 6)
+BSFDM collected 2390 from side pot 1
+Oracle21 collected 10400 from main pot
+*** SUMMARY ***
+Total pot 12790 | No rake
+Board: [2s 5d 4d 6d 6c]
+Seat 2: Oracle21 (big blind) showed [Kd Ks] and won 10400 with Two pairs : Kings and 6
+Seat 7: BSFDM showed [Td 7h] and won 2390 with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #744646521948995918-20-1477925439 - Holdem no limit (10/60/120) - 2016/10/31 14:50:39 UTC
+Table: 'Freeroll(173376529)#333' 8-max (real money) Seat #1 is the button
+Seat 1: quentin27400 (8288)
+Seat 2: Oracle21 (10400)
+Seat 3: Toniosaure (4962)
+Seat 4: pokaspok (2970)
+Seat 5: Xaviertoto (5570)
+Seat 6: taylor83ns (2680)
+Seat 7: BSFDM (2390)
+Seat 8: manggy94 (1740)
+*** ANTE/BLINDS ***
+Oracle21 posts ante 10
+Toniosaure posts ante 10
+quentin27400 posts ante 10
+pokaspok posts ante 10
+Xaviertoto posts ante 10
+taylor83ns posts ante 10
+BSFDM posts ante 10
+manggy94 posts ante 10
+Oracle21 posts small blind 60
+Toniosaure posts big blind 120
+Dealt to manggy94 [5s Tc]
+*** PRE-FLOP *** 
+pokaspok calls 120
+Xaviertoto folds
+taylor83ns folds
+BSFDM raises 2260 to 2380 and is all-in
+manggy94 folds
+quentin27400 calls 2380
+Oracle21 calls 2320
+Toniosaure folds
+pokaspok folds
+*** FLOP *** [Ah 6c Qh]
+Oracle21 bets 7460
+quentin27400 folds
+*** TURN *** [Ah 6c Qh][8h]
+*** RIVER *** [Ah 6c Qh 8h][Ac]
+*** SHOW DOWN ***
+BSFDM shows [8d 7h] (Two pairs : Aces and 8)
+Oracle21 shows [Qd Kc] (Two pairs : Aces and Queens)
+Oracle21 collected 14920 from pot
+*** SUMMARY ***
+Total pot 14920 | No rake
+Board: [Ah 6c Qh 8h Ac]
+Seat 2: Oracle21 (small blind) showed [Qd Kc] and won 14920 with Two pairs : Aces and Queens
+Seat 7: BSFDM showed [8d 7h] and lost with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #744646521948995918-21-1477925488 - Holdem no limit (15/75/150) - 2016/10/31 14:51:28 UTC
+Table: 'Freeroll(173376529)#333' 8-max (real money) Seat #2 is the button
+Seat 1: quentin27400 (5898)
+Seat 2: Oracle21 (15470)
+Seat 3: Toniosaure (4832)
+Seat 4: pokaspok (2840)
+Seat 5: Xaviertoto (5560)
+Seat 6: taylor83ns (2670)
+Seat 8: manggy94 (1730)
+*** ANTE/BLINDS ***
+Toniosaure posts ante 15
+pokaspok posts ante 15
+quentin27400 posts ante 15
+Oracle21 posts ante 15
+Xaviertoto posts ante 15
+taylor83ns posts ante 15
+manggy94 posts ante 15
+Toniosaure posts small blind 75
+pokaspok posts big blind 150
+Dealt to manggy94 [8s 7h]
+*** PRE-FLOP *** 
+Xaviertoto raises 5395 to 5545 and is all-in
+taylor83ns folds
+manggy94 folds
+quentin27400 calls 5545
+Oracle21 folds
+Toniosaure folds
+pokaspok folds
+*** FLOP *** [Td Jc Tc]
+*** TURN *** [Td Jc Tc][3d]
+*** RIVER *** [Td Jc Tc 3d][Th]
+*** SHOW DOWN ***
+quentin27400 shows [5c Ad] (Trips of Tens)
+Xaviertoto shows [Ah Qh] (Trips of Tens)
+Xaviertoto collected 11420 from pot
+*** SUMMARY ***
+Total pot 11420 | No rake
+Board: [Td Jc Tc 3d Th]
+Seat 1: quentin27400 showed [5c Ad] and lost with Trips of Tens
+Seat 5: Xaviertoto showed [Ah Qh] and won 11420 with Trips of Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #744646521948995918-22-1477925511 - Holdem no limit (15/75/150) - 2016/10/31 14:51:51 UTC
+Table: 'Freeroll(173376529)#333' 8-max (real money) Seat #3 is the button
+Seat 1: quentin27400 (338)
+Seat 2: Oracle21 (15455)
+Seat 3: Toniosaure (4742)
+Seat 4: pokaspok (2675)
+Seat 5: Xaviertoto (11420)
+Seat 6: taylor83ns (2655)
+Seat 7: junior78340 (2670)
+Seat 8: manggy94 (1715)
+*** ANTE/BLINDS ***
+pokaspok posts ante 15
+Xaviertoto posts ante 15
+quentin27400 posts ante 15
+Oracle21 posts ante 15
+Toniosaure posts ante 15
+taylor83ns posts ante 15
+junior78340 posts ante 15
+manggy94 posts ante 15
+pokaspok posts small blind 75
+Xaviertoto posts big blind 150
+Dealt to manggy94 [Jd 7c]
+*** PRE-FLOP *** 
+taylor83ns folds
+junior78340 folds
+manggy94 folds
+quentin27400 folds
+Oracle21 calls 150
+Toniosaure calls 150
+pokaspok calls 75
+Xaviertoto checks
+*** FLOP *** [9d Ah Kh]
+pokaspok checks
+Xaviertoto checks
+Oracle21 bets 150
+Toniosaure calls 150
+pokaspok folds
+Xaviertoto folds
+*** TURN *** [9d Ah Kh][4s]
+Oracle21 bets 150
+Toniosaure calls 150
+*** RIVER *** [9d Ah Kh 4s][As]
+Oracle21 bets 1320
+Toniosaure folds
+Oracle21 collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Board: [9d Ah Kh 4s As]
+Seat 2: Oracle21 won 2640
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #744646521948995918-23-1477925555 - Holdem no limit (15/75/150) - 2016/10/31 14:52:35 UTC
+Table: 'Freeroll(173376529)#333' 8-max (real money) Seat #4 is the button
+Seat 1: quentin27400 (323)
+Seat 2: Oracle21 (16310)
+Seat 3: Toniosaure (4277)
+Seat 4: pokaspok (2510)
+Seat 5: Xaviertoto (11255)
+Seat 6: taylor83ns (2640)
+Seat 7: junior78340 (2655)
+Seat 8: manggy94 (1700)
+*** ANTE/BLINDS ***
+Xaviertoto posts ante 15
+taylor83ns posts ante 15
+quentin27400 posts ante 15
+Oracle21 posts ante 15
+Toniosaure posts ante 15
+pokaspok posts ante 15
+junior78340 posts ante 15
+manggy94 posts ante 15
+Xaviertoto posts small blind 75
+taylor83ns posts big blind 150
+Dealt to manggy94 [2s 4c]
+*** PRE-FLOP *** 
+junior78340 folds
+manggy94 folds
+quentin27400 raises 158 to 308 and is all-in
+Oracle21 calls 308
+Toniosaure folds
+pokaspok calls 308
+Xaviertoto folds
+taylor83ns folds
+*** FLOP *** [Qh 8s Js]
+Oracle21 checks
+pokaspok bets 150
+Oracle21 calls 150
+*** TURN *** [Qh 8s Js][4d]
+Oracle21 checks
+pokaspok checks
+*** RIVER *** [Qh 8s Js 4d][9c]
+Oracle21 checks
+pokaspok bets 1569
+Oracle21 folds
+*** SHOW DOWN ***
+quentin27400 shows [5c Ad] (High card : Ace)
+pokaspok shows [Jc Td] (Straight Queen high)
+pokaspok collected 3138 from pot
+*** SUMMARY ***
+Total pot 3138 | No rake
+Board: [Qh 8s Js 4d 9c]
+Seat 1: quentin27400 showed [5c Ad] and lost with High card : Ace
+Seat 4: pokaspok (button) showed [Jc Td] and won 3138 with Straight Queen high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #744646521948995918-24-1477925621 - Holdem no limit (15/75/150) - 2016/10/31 14:53:41 UTC
+Table: 'Freeroll(173376529)#333' 8-max (real money) Seat #5 is the button
+Seat 1: Louluju (2960)
+Seat 2: Oracle21 (15837)
+Seat 3: Toniosaure (4262)
+Seat 4: pokaspok (3606)
+Seat 5: Xaviertoto (11165)
+Seat 6: taylor83ns (2475)
+Seat 7: junior78340 (2640)
+Seat 8: manggy94 (1685)
+*** ANTE/BLINDS ***
+taylor83ns posts ante 15
+junior78340 posts ante 15
+Louluju posts ante 15
+Oracle21 posts ante 15
+Toniosaure posts ante 15
+pokaspok posts ante 15
+Xaviertoto posts ante 15
+manggy94 posts ante 15
+taylor83ns posts small blind 75
+junior78340 posts big blind 150
+Dealt to manggy94 [Ah Qd]
+*** PRE-FLOP *** 
+manggy94 raises 1520 to 1670 and is all-in
+Louluju folds
+Oracle21 raises 14152 to 15822 and is all-in
+Toniosaure folds
+pokaspok folds
+Xaviertoto folds
+taylor83ns folds
+junior78340 folds
+*** FLOP *** [7s 4s Kc]
+*** TURN *** [7s 4s Kc][3s]
+*** RIVER *** [7s 4s Kc 3s][Qh]
+*** SHOW DOWN ***
+manggy94 shows [Ah Qd] (One pair : Queens)
+Oracle21 shows [Qs 8s] (Flush Queen high)
+Oracle21 collected 17837 from pot
+*** SUMMARY ***
+Total pot 17837 | No rake
+Board: [7s 4s Kc 3s Qh]
+Seat 2: Oracle21 showed [Qs 8s] and won 17837 with Flush Queen high
+Seat 8: manggy94 showed [Ah Qd] and lost with One pair : Queens
+
+

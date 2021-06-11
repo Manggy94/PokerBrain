@@ -1,0 +1,2339 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #1754011454811407061-2-1606763814 - Holdem no limit (12/50/100) - 2020/11/30 19:16:54 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #1 is the button
+Seat 1: eliott9287 (20000)
+Seat 2: Zinapute (19888)
+Seat 3: JackD777 (19988)
+Seat 4: tino79200 (19988)
+Seat 5: Kazi-MorT (19988)
+Seat 6: Atilla68200 (19888)
+Seat 7: manggy94 (20000)
+Seat 8: passepasse06 (60260)
+*** ANTE/BLINDS ***
+Zinapute posts ante 12
+JackD777 posts ante 12
+tino79200 posts ante 12
+Kazi-MorT posts ante 12
+Atilla68200 posts ante 12
+manggy94 posts ante 12
+passepasse06 posts ante 12
+Zinapute posts small blind 50
+JackD777 posts big blind 100
+Dealt to manggy94 [2h Ah]
+*** PRE-FLOP *** 
+tino79200 folds
+Kazi-MorT calls 100
+Atilla68200 calls 100
+manggy94 raises 100 to 200
+passepasse06 calls 200
+Zinapute calls 150
+JackD777 calls 100
+Kazi-MorT calls 100
+Atilla68200 calls 100
+*** FLOP *** [Ks 8c 9c]
+Zinapute checks
+JackD777 checks
+Kazi-MorT bets 100
+Atilla68200 calls 100
+manggy94 folds
+passepasse06 folds
+Zinapute calls 100
+JackD777 folds
+*** TURN *** [Ks 8c 9c][Th]
+Zinapute checks
+Kazi-MorT bets 100
+Atilla68200 folds
+Zinapute calls 100
+*** RIVER *** [Ks 8c 9c Th][9d]
+Zinapute checks
+Kazi-MorT bets 100
+Zinapute calls 100
+*** SHOW DOWN ***
+Zinapute shows [6d 6s] (Two pairs : 9 and 6)
+Kazi-MorT shows [Kh Ad] (Two pairs : Kings and 9)
+Kazi-MorT collected 1984 from pot
+*** SUMMARY ***
+Total pot 1984 | No rake
+Board: [Ks 8c 9c Th 9d]
+Seat 2: Zinapute (small blind) showed [6d 6s] and lost with Two pairs : 9 and 6
+Seat 5: Kazi-MorT showed [Kh Ad] and won 1984 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #1754011454811407061-3-1606763915 - Holdem no limit (14/60/120) - 2020/11/30 19:18:35 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #2 is the button
+Seat 1: eliott9287 (20000)
+Seat 2: Zinapute (19376)
+Seat 3: JackD777 (19776)
+Seat 4: tino79200 (19976)
+Seat 5: Kazi-MorT (21460)
+Seat 6: Atilla68200 (19576)
+Seat 7: manggy94 (19788)
+Seat 8: passepasse06 (60048)
+*** ANTE/BLINDS ***
+JackD777 posts ante 14
+tino79200 posts ante 14
+eliott9287 posts ante 14
+Zinapute posts ante 14
+Kazi-MorT posts ante 14
+Atilla68200 posts ante 14
+manggy94 posts ante 14
+passepasse06 posts ante 14
+JackD777 posts small blind 60
+tino79200 posts big blind 120
+Dealt to manggy94 [8s Ac]
+*** PRE-FLOP *** 
+Kazi-MorT folds
+Atilla68200 calls 120
+manggy94 calls 120
+passepasse06 calls 120
+eliott9287 folds
+Zinapute raises 120 to 240
+JackD777 calls 180
+tino79200 folds
+Atilla68200 calls 120
+manggy94 calls 120
+passepasse06 calls 120
+*** FLOP *** [Kd 2h 5d]
+JackD777 checks
+Atilla68200 checks
+manggy94 checks
+passepasse06 checks
+Zinapute checks
+*** TURN *** [Kd 2h 5d][8c]
+JackD777 checks
+Atilla68200 checks
+manggy94 checks
+passepasse06 checks
+Zinapute bets 900
+JackD777 calls 900
+Atilla68200 folds
+manggy94 calls 900
+passepasse06 folds
+*** RIVER *** [Kd 2h 5d 8c][5s]
+JackD777 checks
+manggy94 checks
+Zinapute checks
+*** SHOW DOWN ***
+JackD777 shows [Qc 2c] (Two pairs : 5 and 2)
+manggy94 shows [8s Ac] (Two pairs : 8 and 5)
+Zinapute shows [Qs Qd] (Two pairs : Queens and 5)
+Zinapute collected 4132 from pot
+*** SUMMARY ***
+Total pot 4132 | No rake
+Board: [Kd 2h 5d 8c 5s]
+Seat 2: Zinapute (button) showed [Qs Qd] and won 4132 with Two pairs : Queens and 5
+Seat 3: JackD777 (small blind) showed [Qc 2c] and lost with Two pairs : 5 and 2
+Seat 7: manggy94 showed [8s Ac] and lost with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1754011454811407061-4-1606764048 - Holdem no limit (16/70/140) - 2020/11/30 19:20:48 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #3 is the button
+Seat 1: eliott9287 (19986)
+Seat 2: Zinapute (22354)
+Seat 3: JackD777 (18622)
+Seat 4: tino79200 (19842)
+Seat 5: Kazi-MorT (21446)
+Seat 6: Atilla68200 (19322)
+Seat 7: manggy94 (18634)
+Seat 8: passepasse06 (59794)
+*** ANTE/BLINDS ***
+tino79200 posts ante 16
+Kazi-MorT posts ante 16
+eliott9287 posts ante 16
+Zinapute posts ante 16
+JackD777 posts ante 16
+Atilla68200 posts ante 16
+manggy94 posts ante 16
+passepasse06 posts ante 16
+tino79200 posts small blind 70
+Kazi-MorT posts big blind 140
+Dealt to manggy94 [8s As]
+*** PRE-FLOP *** 
+Atilla68200 raises 478 to 618
+manggy94 calls 618
+passepasse06 folds
+eliott9287 folds
+Zinapute folds
+JackD777 folds
+tino79200 folds
+Kazi-MorT folds
+*** FLOP *** [3h 5s 4d]
+Atilla68200 bets 787
+manggy94 calls 787
+*** TURN *** [3h 5s 4d][2c]
+Atilla68200 checks
+manggy94 checks
+*** RIVER *** [3h 5s 4d 2c][9c]
+Atilla68200 bets 1574
+manggy94 calls 1574
+*** SHOW DOWN ***
+Atilla68200 shows [8d Jd] (High card : Jack)
+manggy94 shows [8s As] (Straight 5 high)
+manggy94 collected 6296 from pot
+*** SUMMARY ***
+Total pot 6296 | No rake
+Board: [3h 5s 4d 2c 9c]
+Seat 6: Atilla68200 showed [8d Jd] and lost with High card : Jack
+Seat 7: manggy94 showed [8s As] and won 6296 with Straight 5 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1754011454811407061-5-1606764101 - Holdem no limit (16/70/140) - 2020/11/30 19:21:41 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #4 is the button
+Seat 1: eliott9287 (19970)
+Seat 2: Zinapute (22338)
+Seat 3: JackD777 (18606)
+Seat 4: tino79200 (19756)
+Seat 5: Kazi-MorT (21290)
+Seat 6: Atilla68200 (16327)
+Seat 7: manggy94 (21935)
+Seat 8: passepasse06 (59778)
+*** ANTE/BLINDS ***
+Kazi-MorT posts ante 16
+Atilla68200 posts ante 16
+eliott9287 posts ante 16
+Zinapute posts ante 16
+JackD777 posts ante 16
+tino79200 posts ante 16
+manggy94 posts ante 16
+passepasse06 posts ante 16
+Kazi-MorT posts small blind 70
+Atilla68200 posts big blind 140
+Dealt to manggy94 [4s Js]
+*** PRE-FLOP *** 
+manggy94 folds
+passepasse06 raises 59622 to 59762 and is all-in
+eliott9287 folds
+Zinapute folds
+JackD777 calls 18590 and is all-in
+tino79200 folds
+Kazi-MorT folds
+Atilla68200 folds
+*** FLOP *** [Jc Kh 8h]
+*** TURN *** [Jc Kh 8h][Jh]
+*** RIVER *** [Jc Kh 8h Jh][7d]
+*** SHOW DOWN ***
+JackD777 shows [Th 6h] (Flush King high)
+passepasse06 shows [Ad Qc] (One pair : Jacks)
+passepasse06 collected 41172 from side pot 1
+JackD777 collected 37518 from main pot
+*** SUMMARY ***
+Total pot 78690 | No rake
+Board: [Jc Kh 8h Jh 7d]
+Seat 3: JackD777 showed [Th 6h] and won 37518 with Flush King high
+Seat 8: passepasse06 showed [Ad Qc] and won 41172 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #1754011454811407061-6-1606764147 - Holdem no limit (16/70/140) - 2020/11/30 19:22:27 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #5 is the button
+Seat 1: eliott9287 (19954)
+Seat 2: Zinapute (22322)
+Seat 3: JackD777 (37518)
+Seat 4: tino79200 (19740)
+Seat 5: Kazi-MorT (21204)
+Seat 6: Atilla68200 (16171)
+Seat 7: manggy94 (21919)
+Seat 8: passepasse06 (41172)
+*** ANTE/BLINDS ***
+Atilla68200 posts ante 16
+manggy94 posts ante 16
+eliott9287 posts ante 16
+Zinapute posts ante 16
+JackD777 posts ante 16
+tino79200 posts ante 16
+Kazi-MorT posts ante 16
+passepasse06 posts ante 16
+Atilla68200 posts small blind 70
+manggy94 posts big blind 140
+Dealt to manggy94 [6c 4s]
+*** PRE-FLOP *** 
+passepasse06 folds
+eliott9287 folds
+Zinapute folds
+JackD777 calls 140
+tino79200 folds
+Kazi-MorT folds
+Atilla68200 raises 560 to 700
+manggy94 folds
+JackD777 calls 560
+*** FLOP *** [7c Qc 9d]
+Atilla68200 checks
+JackD777 bets 834
+Atilla68200 calls 834
+*** TURN *** [7c Qc 9d][5c]
+Atilla68200 checks
+JackD777 bets 1668
+Atilla68200 calls 1668
+*** RIVER *** [7c Qc 9d 5c][As]
+Atilla68200 checks
+JackD777 bets 3336
+Atilla68200 calls 3336
+*** SHOW DOWN ***
+Atilla68200 shows [5d 4h] (One pair : 5)
+JackD777 shows [6d 8d] (Straight 9 high)
+JackD777 collected 13344 from pot
+*** SUMMARY ***
+Total pot 13344 | No rake
+Board: [7c Qc 9d 5c As]
+Seat 3: JackD777 showed [6d 8d] and won 13344 with Straight 9 high
+Seat 6: Atilla68200 (small blind) showed [5d 4h] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1754011454811407061-7-1606764226 - Holdem no limit (20/80/160) - 2020/11/30 19:23:46 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #6 is the button
+Seat 1: eliott9287 (19938)
+Seat 2: Zinapute (22306)
+Seat 3: JackD777 (44308)
+Seat 4: tino79200 (19724)
+Seat 5: Kazi-MorT (21188)
+Seat 6: Atilla68200 (9617)
+Seat 7: manggy94 (21763)
+Seat 8: passepasse06 (41156)
+*** ANTE/BLINDS ***
+manggy94 posts ante 20
+passepasse06 posts ante 20
+eliott9287 posts ante 20
+Zinapute posts ante 20
+JackD777 posts ante 20
+tino79200 posts ante 20
+Kazi-MorT posts ante 20
+Atilla68200 posts ante 20
+manggy94 posts small blind 80
+passepasse06 posts big blind 160
+Dealt to manggy94 [As Qh]
+*** PRE-FLOP *** 
+eliott9287 calls 160
+Zinapute folds
+JackD777 calls 160
+tino79200 folds
+Kazi-MorT folds
+Atilla68200 raises 9437 to 9597 and is all-in
+manggy94 calls 9517
+passepasse06 folds
+eliott9287 folds
+JackD777 folds
+*** FLOP *** [Js 4h 3s]
+*** TURN *** [Js 4h 3s][2s]
+*** RIVER *** [Js 4h 3s 2s][3d]
+*** SHOW DOWN ***
+Atilla68200 shows [7h Tc] (One pair : 3)
+manggy94 shows [As Qh] (One pair : 3)
+manggy94 collected 19834 from pot
+*** SUMMARY ***
+Total pot 19834 | No rake
+Board: [Js 4h 3s 2s 3d]
+Seat 6: Atilla68200 (button) showed [7h Tc] and lost with One pair : 3
+Seat 7: manggy94 (small blind) showed [As Qh] and won 19834 with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #1754011454811407061-8-1606764269 - Holdem no limit (20/80/160) - 2020/11/30 19:24:29 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #7 is the button
+Seat 1: eliott9287 (19758)
+Seat 2: Zinapute (22286)
+Seat 3: JackD777 (44128)
+Seat 4: tino79200 (19704)
+Seat 5: Kazi-MorT (21168)
+Seat 6: NouCh79440 (20000)
+Seat 7: manggy94 (31980)
+Seat 8: passepasse06 (40976)
+*** ANTE/BLINDS ***
+passepasse06 posts ante 20
+eliott9287 posts ante 20
+Zinapute posts ante 20
+JackD777 posts ante 20
+tino79200 posts ante 20
+Kazi-MorT posts ante 20
+NouCh79440 posts ante 20
+manggy94 posts ante 20
+passepasse06 posts small blind 80
+eliott9287 posts big blind 160
+Dealt to manggy94 [2d 5s]
+*** PRE-FLOP *** 
+Zinapute raises 320 to 480
+JackD777 folds
+tino79200 folds
+Kazi-MorT calls 480
+NouCh79440 folds
+manggy94 folds
+passepasse06 folds
+eliott9287 calls 320
+*** FLOP *** [8c 7h 2c]
+eliott9287 checks
+Zinapute checks
+Kazi-MorT bets 1120
+eliott9287 folds
+Zinapute folds
+Kazi-MorT collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | No rake
+Board: [8c 7h 2c]
+Seat 5: Kazi-MorT won 2800
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1754011454811407061-9-1606764341 - Holdem no limit (25/100/200) - 2020/11/30 19:25:41 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #8 is the button
+Seat 1: eliott9287 (19258)
+Seat 2: Zinapute (21786)
+Seat 3: JackD777 (44108)
+Seat 4: tino79200 (19684)
+Seat 5: Kazi-MorT (22348)
+Seat 6: NouCh79440 (19980)
+Seat 7: manggy94 (31960)
+Seat 8: passepasse06 (40876)
+*** ANTE/BLINDS ***
+eliott9287 posts ante 25
+Zinapute posts ante 25
+JackD777 posts ante 25
+tino79200 posts ante 25
+Kazi-MorT posts ante 25
+NouCh79440 posts ante 25
+manggy94 posts ante 25
+passepasse06 posts ante 25
+eliott9287 posts small blind 100
+Zinapute posts big blind 200
+Dealt to manggy94 [9d Th]
+*** PRE-FLOP *** 
+JackD777 folds
+tino79200 folds
+Kazi-MorT folds
+NouCh79440 calls 200
+manggy94 calls 200
+passepasse06 calls 200
+eliott9287 calls 100
+Zinapute checks
+*** FLOP *** [6s Ad 7s]
+eliott9287 checks
+Zinapute checks
+NouCh79440 checks
+manggy94 checks
+passepasse06 checks
+*** TURN *** [6s Ad 7s][Jc]
+eliott9287 checks
+Zinapute checks
+NouCh79440 checks
+manggy94 checks
+passepasse06 checks
+*** RIVER *** [6s Ad 7s Jc][7c]
+eliott9287 checks
+Zinapute checks
+NouCh79440 checks
+manggy94 checks
+passepasse06 checks
+*** SHOW DOWN ***
+Zinapute shows [Ts 8c] (One pair : 7)
+NouCh79440 shows [4h 5h] (One pair : 7)
+manggy94 shows [9d Th] (One pair : 7)
+passepasse06 shows [3s Kd] (One pair : 7)
+eliott9287 shows [3h As] (Two pairs : Aces and 7)
+eliott9287 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [6s Ad 7s Jc 7c]
+Seat 1: eliott9287 (small blind) showed [3h As] and won 1200 with Two pairs : Aces and 7
+Seat 2: Zinapute (big blind) showed [Ts 8c] and lost with One pair : 7
+Seat 6: NouCh79440 showed [4h 5h] and lost with One pair : 7
+Seat 7: manggy94 showed [9d Th] and lost with One pair : 7
+Seat 8: passepasse06 (button) showed [3s Kd] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #1754011454811407061-10-1606764438 - Holdem no limit (25/100/200) - 2020/11/30 19:27:18 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #1 is the button
+Seat 1: eliott9287 (20233)
+Seat 2: Zinapute (21561)
+Seat 3: JackD777 (44083)
+Seat 4: tino79200 (19659)
+Seat 5: Kazi-MorT (22323)
+Seat 6: NouCh79440 (19755)
+Seat 7: manggy94 (31735)
+Seat 8: passepasse06 (40651)
+*** ANTE/BLINDS ***
+Zinapute posts ante 25
+JackD777 posts ante 25
+eliott9287 posts ante 25
+tino79200 posts ante 25
+Kazi-MorT posts ante 25
+NouCh79440 posts ante 25
+manggy94 posts ante 25
+passepasse06 posts ante 25
+Zinapute posts small blind 100
+JackD777 posts big blind 200
+Dealt to manggy94 [Jh 9s]
+*** PRE-FLOP *** 
+tino79200 folds
+Kazi-MorT folds
+NouCh79440 calls 200
+manggy94 folds
+passepasse06 calls 200
+eliott9287 calls 200
+Zinapute folds
+JackD777 raises 200 to 400
+NouCh79440 calls 200
+passepasse06 calls 200
+eliott9287 folds
+*** FLOP *** [3c 5d Jd]
+JackD777 checks
+NouCh79440 checks
+passepasse06 bets 850
+JackD777 folds
+NouCh79440 calls 850
+*** TURN *** [3c 5d Jd][Kh]
+NouCh79440 checks
+passepasse06 checks
+*** RIVER *** [3c 5d Jd Kh][Kc]
+NouCh79440 checks
+passepasse06 checks
+*** SHOW DOWN ***
+NouCh79440 shows [3h 4d] (Two pairs : Kings and 3)
+passepasse06 shows [5c Ah] (Two pairs : Kings and 5)
+passepasse06 collected 3400 from pot
+*** SUMMARY ***
+Total pot 3400 | No rake
+Board: [3c 5d Jd Kh Kc]
+Seat 6: NouCh79440 showed [3h 4d] and lost with Two pairs : Kings and 3
+Seat 8: passepasse06 showed [5c Ah] and won 3400 with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #1754011454811407061-11-1606764559 - Holdem no limit (30/125/250) - 2020/11/30 19:29:19 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #2 is the button
+Seat 1: eliott9287 (20008)
+Seat 2: Zinapute (21436)
+Seat 3: JackD777 (43658)
+Seat 4: tino79200 (19634)
+Seat 5: Kazi-MorT (22298)
+Seat 6: NouCh79440 (18480)
+Seat 7: manggy94 (31710)
+Seat 8: passepasse06 (42776)
+*** ANTE/BLINDS ***
+JackD777 posts ante 30
+tino79200 posts ante 30
+eliott9287 posts ante 30
+Zinapute posts ante 30
+Kazi-MorT posts ante 30
+NouCh79440 posts ante 30
+manggy94 posts ante 30
+passepasse06 posts ante 30
+JackD777 posts small blind 125
+tino79200 posts big blind 250
+Dealt to manggy94 [9h 8d]
+*** PRE-FLOP *** 
+Kazi-MorT calls 250
+NouCh79440 folds
+manggy94 folds
+passepasse06 raises 500 to 750
+eliott9287 folds
+Zinapute folds
+JackD777 calls 625
+tino79200 calls 500
+Kazi-MorT calls 500
+*** FLOP *** [3c As 8c]
+JackD777 checks
+tino79200 checks
+Kazi-MorT checks
+passepasse06 checks
+*** TURN *** [3c As 8c][7s]
+JackD777 bets 1620
+tino79200 folds
+Kazi-MorT folds
+passepasse06 folds
+JackD777 collected 4860 from pot
+*** SUMMARY ***
+Total pot 4860 | No rake
+Board: [3c As 8c 7s]
+Seat 3: JackD777 (small blind) won 4860
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #1754011454811407061-12-1606764745 - Holdem no limit (35/150/300) - 2020/11/30 19:32:25 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #3 is the button
+Seat 1: eliott9287 (19978)
+Seat 2: Zinapute (21406)
+Seat 3: JackD777 (46118)
+Seat 4: tino79200 (18854)
+Seat 5: Kazi-MorT (21518)
+Seat 6: NouCh79440 (18450)
+Seat 7: manggy94 (31680)
+Seat 8: passepasse06 (41996)
+*** ANTE/BLINDS ***
+tino79200 posts ante 35
+Kazi-MorT posts ante 35
+eliott9287 posts ante 35
+Zinapute posts ante 35
+JackD777 posts ante 35
+NouCh79440 posts ante 35
+manggy94 posts ante 35
+passepasse06 posts ante 35
+tino79200 posts small blind 150
+Kazi-MorT posts big blind 300
+Dealt to manggy94 [2s Kd]
+*** PRE-FLOP *** 
+NouCh79440 folds
+manggy94 folds
+passepasse06 raises 41661 to 41961 and is all-in
+eliott9287 folds
+Zinapute folds
+JackD777 folds
+tino79200 folds
+Kazi-MorT calls 21183 and is all-in
+*** FLOP *** [7s 5d 6h]
+*** TURN *** [7s 5d 6h][Tc]
+*** RIVER *** [7s 5d 6h Tc][4c]
+*** SHOW DOWN ***
+Kazi-MorT shows [Qc Qd] (One pair : Queens)
+passepasse06 shows [Kc Kh] (One pair : Kings)
+passepasse06 collected 63874 from pot
+*** SUMMARY ***
+Total pot 63874 | No rake
+Board: [7s 5d 6h Tc 4c]
+Seat 5: Kazi-MorT (big blind) showed [Qc Qd] and lost with One pair : Queens
+Seat 8: passepasse06 showed [Kc Kh] and won 63874 with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #1754011454811407061-13-1606764790 - Holdem no limit (40/175/350) - 2020/11/30 19:33:10 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #4 is the button
+Seat 1: eliott9287 (19943)
+Seat 2: Zinapute (21371)
+Seat 3: JackD777 (46083)
+Seat 4: tino79200 (18669)
+Seat 6: NouCh79440 (18415)
+Seat 7: manggy94 (31645)
+Seat 8: passepasse06 (63874)
+*** ANTE/BLINDS ***
+NouCh79440 posts ante 40
+eliott9287 posts ante 40
+Zinapute posts ante 40
+JackD777 posts ante 40
+tino79200 posts ante 40
+manggy94 posts ante 40
+passepasse06 posts ante 40
+NouCh79440 posts big blind 350
+Dealt to manggy94 [4h 3c]
+*** PRE-FLOP *** 
+manggy94 folds
+passepasse06 calls 350
+eliott9287 folds
+Zinapute folds
+JackD777 calls 350
+tino79200 calls 350
+NouCh79440 checks
+*** FLOP *** [7d 6c 5c]
+NouCh79440 checks
+passepasse06 bets 1680
+JackD777 folds
+tino79200 folds
+NouCh79440 calls 1680
+*** TURN *** [7d 6c 5c][9h]
+NouCh79440 bets 350
+passepasse06 calls 350
+*** RIVER *** [7d 6c 5c 9h][2s]
+NouCh79440 bets 525
+passepasse06 calls 525
+*** SHOW DOWN ***
+passepasse06 shows [6s 4s] (One pair : 6)
+NouCh79440 shows [8h Kh] (Straight 9 high)
+NouCh79440 collected 6790 from pot
+*** SUMMARY ***
+Total pot 6790 | No rake
+Board: [7d 6c 5c 9h 2s]
+Seat 6: NouCh79440 (big blind) showed [8h Kh] and won 6790 with Straight 9 high
+Seat 8: passepasse06 showed [6s 4s] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #1754011454811407061-14-1606764894 - Holdem no limit (40/175/350) - 2020/11/30 19:34:54 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #5 is the button
+Seat 1: eliott9287 (19903)
+Seat 2: Zinapute (21331)
+Seat 3: JackD777 (45693)
+Seat 4: tino79200 (18279)
+Seat 5: Pascuallst (20000)
+Seat 6: NouCh79440 (22260)
+Seat 7: manggy94 (31605)
+Seat 8: passepasse06 (60929)
+*** ANTE/BLINDS ***
+NouCh79440 posts ante 40
+manggy94 posts ante 40
+eliott9287 posts ante 40
+Zinapute posts ante 40
+JackD777 posts ante 40
+tino79200 posts ante 40
+passepasse06 posts ante 40
+NouCh79440 posts small blind 175
+manggy94 posts big blind 350
+Dealt to manggy94 [Kd 9h]
+*** PRE-FLOP *** 
+passepasse06 folds
+eliott9287 calls 350
+Zinapute raises 20941 to 21291 and is all-in
+JackD777 folds
+tino79200 folds
+NouCh79440 folds
+manggy94 folds
+eliott9287 folds
+Zinapute collected 22446 from pot
+*** SUMMARY ***
+Total pot 22446 | No rake
+Seat 2: Zinapute won 22446
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #1754011454811407061-15-1606764932 - Holdem no limit (50/200/400) - 2020/11/30 19:35:32 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #6 is the button
+Seat 2: Zinapute (22446)
+Seat 3: JackD777 (45653)
+Seat 4: tino79200 (18239)
+Seat 5: Pascuallst (20000)
+Seat 6: NouCh79440 (22045)
+Seat 7: manggy94 (31215)
+Seat 8: passepasse06 (60889)
+*** ANTE/BLINDS ***
+manggy94 posts ante 50
+passepasse06 posts ante 50
+Zinapute posts ante 50
+JackD777 posts ante 50
+tino79200 posts ante 50
+Pascuallst posts ante 50
+NouCh79440 posts ante 50
+manggy94 posts small blind 200
+passepasse06 posts big blind 400
+Dealt to manggy94 [5c Kc]
+*** PRE-FLOP *** 
+Zinapute folds
+JackD777 calls 400
+tino79200 folds
+Pascuallst folds
+NouCh79440 raises 400 to 800
+manggy94 calls 600
+passepasse06 calls 400
+JackD777 calls 400
+*** FLOP *** [Ac 5d 3s]
+manggy94 checks
+passepasse06 checks
+JackD777 bets 1775
+NouCh79440 raises 7940 to 9715
+manggy94 folds
+passepasse06 folds
+JackD777 folds
+NouCh79440 collected 15040 from pot
+*** SUMMARY ***
+Total pot 15040 | No rake
+Board: [Ac 5d 3s]
+Seat 6: NouCh79440 (button) won 15040
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #1754011454811407061-16-1606765024 - Holdem no limit (50/200/400) - 2020/11/30 19:37:04 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #7 is the button
+Seat 1: pechaux (20000)
+Seat 2: Zinapute (22396)
+Seat 3: JackD777 (43028)
+Seat 4: tino79200 (18189)
+Seat 5: Pascuallst (19950)
+Seat 6: NouCh79440 (26520)
+Seat 7: manggy94 (30365)
+Seat 8: passepasse06 (60039)
+*** ANTE/BLINDS ***
+passepasse06 posts ante 50
+pechaux posts ante 50
+Zinapute posts ante 50
+JackD777 posts ante 50
+tino79200 posts ante 50
+Pascuallst posts ante 50
+NouCh79440 posts ante 50
+manggy94 posts ante 50
+passepasse06 posts small blind 200
+pechaux posts big blind 400
+Dealt to manggy94 [2d 7c]
+*** PRE-FLOP *** 
+Zinapute folds
+JackD777 folds
+tino79200 folds
+Pascuallst folds
+NouCh79440 calls 400
+manggy94 folds
+passepasse06 raises 800 to 1200
+pechaux calls 800
+NouCh79440 calls 800
+*** FLOP *** [3h Ah 9s]
+passepasse06 bets 4000
+pechaux folds
+NouCh79440 calls 4000
+*** TURN *** [3h Ah 9s][Qd]
+passepasse06 bets 12000
+NouCh79440 raises 9270 to 21270 and is all-in
+passepasse06 calls 9270
+*** RIVER *** [3h Ah 9s Qd][Ad]
+*** SHOW DOWN ***
+NouCh79440 shows [4d 9h] (Two pairs : Aces and 9)
+passepasse06 shows [2c As] (Trips of Aces)
+passepasse06 collected 54540 from pot
+*** SUMMARY ***
+Total pot 54540 | No rake
+Board: [3h Ah 9s Qd Ad]
+Seat 6: NouCh79440 showed [4d 9h] and lost with Two pairs : Aces and 9
+Seat 8: passepasse06 (small blind) showed [2c As] and won 54540 with Trips of Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1754011454811407061-17-1606765087 - Holdem no limit (60/250/500) - 2020/11/30 19:38:07 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #8 is the button
+Seat 1: pechaux (18750)
+Seat 2: Zinapute (22346)
+Seat 3: JackD777 (42978)
+Seat 4: tino79200 (18139)
+Seat 5: Pascuallst (19900)
+Seat 7: manggy94 (30315)
+Seat 8: passepasse06 (88059)
+*** ANTE/BLINDS ***
+pechaux posts ante 60
+Zinapute posts ante 60
+JackD777 posts ante 60
+tino79200 posts ante 60
+Pascuallst posts ante 60
+manggy94 posts ante 60
+passepasse06 posts ante 60
+pechaux posts small blind 250
+Zinapute posts big blind 500
+Dealt to manggy94 [8h Ks]
+*** PRE-FLOP *** 
+JackD777 calls 500
+tino79200 folds
+Pascuallst folds
+manggy94 folds
+passepasse06 folds
+pechaux raises 18190 to 18690 and is all-in
+Zinapute folds
+JackD777 folds
+pechaux collected 20110 from pot
+*** SUMMARY ***
+Total pot 20110 | No rake
+Seat 1: pechaux (small blind) won 20110
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #1754011454811407061-18-1606765129 - Holdem no limit (60/250/500) - 2020/11/30 19:38:49 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #1 is the button
+Seat 1: pechaux (20110)
+Seat 2: Zinapute (21786)
+Seat 3: JackD777 (42418)
+Seat 4: tino79200 (18079)
+Seat 5: Pascuallst (19840)
+Seat 7: manggy94 (30255)
+Seat 8: passepasse06 (87999)
+*** ANTE/BLINDS ***
+Zinapute posts ante 60
+JackD777 posts ante 60
+pechaux posts ante 60
+tino79200 posts ante 60
+Pascuallst posts ante 60
+manggy94 posts ante 60
+passepasse06 posts ante 60
+Zinapute posts small blind 250
+JackD777 posts big blind 500
+Dealt to manggy94 [7h 7s]
+*** PRE-FLOP *** 
+tino79200 folds
+Pascuallst folds
+manggy94 raises 1000 to 1500
+passepasse06 folds
+pechaux calls 1500
+Zinapute folds
+JackD777 raises 1000 to 2500
+manggy94 calls 1000
+pechaux calls 1000
+*** FLOP *** [Ad Jd 7d]
+JackD777 bets 4085
+manggy94 calls 4085
+pechaux folds
+*** TURN *** [Ad Jd 7d][7c]
+JackD777 bets 4750
+manggy94 calls 4750
+*** RIVER *** [Ad Jd 7d 7c][8d]
+JackD777 checks
+manggy94 bets 3000
+JackD777 raises 28023 to 31023 and is all-in
+manggy94 calls 15860 and is all-in
+*** SHOW DOWN ***
+JackD777 shows [Td 8h] (Flush Ace high)
+manggy94 shows [7h 7s] (Quads of 7)
+manggy94 collected 63560 from main pot
+JackD777 collected 12163 from side pot 1
+*** SUMMARY ***
+Total pot 75723 | No rake
+Board: [Ad Jd 7d 7c 8d]
+Seat 3: JackD777 (big blind) showed [Td 8h] and won 12163 with Flush Ace high
+Seat 7: manggy94 showed [7h 7s] and won 63560 with Quads of 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #1754011454811407061-19-1606765264 - Holdem no limit (70/300/600) - 2020/11/30 19:41:04 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #2 is the button
+Seat 1: pechaux (17550)
+Seat 2: Zinapute (21476)
+Seat 3: JackD777 (12163)
+Seat 4: tino79200 (18019)
+Seat 5: Pascuallst (19780)
+Seat 6: allkatras (20000)
+Seat 7: manggy94 (63560)
+Seat 8: passepasse06 (87939)
+*** ANTE/BLINDS ***
+JackD777 posts ante 70
+tino79200 posts ante 70
+pechaux posts ante 70
+Zinapute posts ante 70
+Pascuallst posts ante 70
+allkatras posts ante 70
+manggy94 posts ante 70
+passepasse06 posts ante 70
+JackD777 posts small blind 300
+tino79200 posts big blind 600
+Dealt to manggy94 [2h Qd]
+*** PRE-FLOP *** 
+Pascuallst folds
+allkatras calls 600
+manggy94 folds
+passepasse06 calls 600
+pechaux folds
+Zinapute raises 600 to 1200
+JackD777 raises 10893 to 12093 and is all-in
+tino79200 folds
+allkatras folds
+passepasse06 folds
+Zinapute folds
+JackD777 collected 15653 from pot
+*** SUMMARY ***
+Total pot 15653 | No rake
+Seat 3: JackD777 (small blind) won 15653
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #1754011454811407061-20-1606765319 - Holdem no limit (70/300/600) - 2020/11/30 19:41:59 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #3 is the button
+Seat 1: pechaux (17480)
+Seat 2: Zinapute (20206)
+Seat 3: JackD777 (15653)
+Seat 4: tino79200 (17349)
+Seat 5: Pascuallst (19710)
+Seat 6: allkatras (19330)
+Seat 7: manggy94 (63490)
+Seat 8: passepasse06 (87269)
+*** ANTE/BLINDS ***
+tino79200 posts ante 70
+Pascuallst posts ante 70
+pechaux posts ante 70
+Zinapute posts ante 70
+JackD777 posts ante 70
+allkatras posts ante 70
+manggy94 posts ante 70
+passepasse06 posts ante 70
+tino79200 posts small blind 300
+Pascuallst posts big blind 600
+Dealt to manggy94 [3s 7h]
+*** PRE-FLOP *** 
+allkatras calls 600
+manggy94 folds
+passepasse06 calls 600
+pechaux calls 600
+Zinapute folds
+JackD777 folds
+tino79200 folds
+Pascuallst checks
+*** FLOP *** [Js Kc 4d]
+Pascuallst checks
+allkatras bets 2409
+passepasse06 folds
+pechaux calls 2409
+Pascuallst folds
+*** TURN *** [Js Kc 4d][Jd]
+allkatras checks
+pechaux bets 600
+allkatras raises 3046 to 3646
+pechaux calls 3046
+*** RIVER *** [Js Kc 4d Jd][Ks]
+allkatras bets 12605 and is all-in
+pechaux calls 10755 and is all-in
+*** SHOW DOWN ***
+pechaux shows [Jc 9s] (Full of Jacks and Kings)
+allkatras shows [Qs Kd] (Full of Kings and Jacks)
+allkatras collected 38730 from pot
+*** SUMMARY ***
+Total pot 38730 | No rake
+Board: [Js Kc 4d Jd Ks]
+Seat 1: pechaux showed [Jc 9s] and lost with Full of Jacks and Kings
+Seat 6: allkatras showed [Qs Kd] and won 38730 with Full of Kings and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #1754011454811407061-21-1606765438 - Holdem no limit (80/350/700) - 2020/11/30 19:43:58 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #4 is the button
+Seat 2: Zinapute (20136)
+Seat 3: JackD777 (15583)
+Seat 4: tino79200 (16979)
+Seat 5: Pascuallst (19040)
+Seat 6: allkatras (38730)
+Seat 7: manggy94 (63420)
+Seat 8: passepasse06 (86599)
+*** ANTE/BLINDS ***
+Pascuallst posts ante 80
+allkatras posts ante 80
+Zinapute posts ante 80
+JackD777 posts ante 80
+tino79200 posts ante 80
+manggy94 posts ante 80
+passepasse06 posts ante 80
+Pascuallst posts small blind 350
+allkatras posts big blind 700
+Dealt to manggy94 [9h 2d]
+*** PRE-FLOP *** 
+manggy94 folds
+passepasse06 calls 700
+Zinapute calls 700
+JackD777 raises 14803 to 15503 and is all-in
+tino79200 folds
+Pascuallst folds
+allkatras folds
+passepasse06 folds
+Zinapute folds
+JackD777 collected 18513 from pot
+*** SUMMARY ***
+Total pot 18513 | No rake
+Seat 3: JackD777 won 18513
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #1754011454811407061-22-1606765493 - Holdem no limit (80/350/700) - 2020/11/30 19:44:53 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #5 is the button
+Seat 1: ticousin76 (20000)
+Seat 2: Zinapute (19356)
+Seat 3: JackD777 (18513)
+Seat 4: tino79200 (16899)
+Seat 5: Pascuallst (18610)
+Seat 6: allkatras (37950)
+Seat 7: manggy94 (63340)
+Seat 8: passepasse06 (85819)
+*** ANTE/BLINDS ***
+allkatras posts ante 80
+manggy94 posts ante 80
+ticousin76 posts ante 80
+Zinapute posts ante 80
+JackD777 posts ante 80
+tino79200 posts ante 80
+Pascuallst posts ante 80
+passepasse06 posts ante 80
+allkatras posts small blind 350
+manggy94 posts big blind 700
+Dealt to manggy94 [8c 9h]
+*** PRE-FLOP *** 
+passepasse06 folds
+ticousin76 calls 700
+Zinapute folds
+JackD777 raises 17733 to 18433 and is all-in
+tino79200 folds
+Pascuallst folds
+allkatras folds
+manggy94 folds
+ticousin76 folds
+JackD777 collected 20823 from pot
+*** SUMMARY ***
+Total pot 20823 | No rake
+Seat 3: JackD777 won 20823
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #1754011454811407061-23-1606765568 - Holdem no limit (100/400/800) - 2020/11/30 19:46:08 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #6 is the button
+Seat 1: ticousin76 (19220)
+Seat 2: Zinapute (19276)
+Seat 3: JackD777 (20823)
+Seat 4: tino79200 (16819)
+Seat 5: Pascuallst (18530)
+Seat 6: allkatras (37520)
+Seat 7: manggy94 (62560)
+Seat 8: passepasse06 (85739)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+passepasse06 posts ante 100
+ticousin76 posts ante 100
+Zinapute posts ante 100
+JackD777 posts ante 100
+tino79200 posts ante 100
+Pascuallst posts ante 100
+allkatras posts ante 100
+manggy94 posts small blind 400
+passepasse06 posts big blind 800
+Dealt to manggy94 [7s 8c]
+*** PRE-FLOP *** 
+ticousin76 folds
+Zinapute raises 800 to 1600
+JackD777 raises 19123 to 20723 and is all-in
+tino79200 folds
+Pascuallst folds
+allkatras folds
+manggy94 folds
+passepasse06 folds
+Zinapute folds
+JackD777 collected 24323 from pot
+*** SUMMARY ***
+Total pot 24323 | No rake
+Seat 3: JackD777 won 24323
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #1754011454811407061-24-1606765600 - Holdem no limit (100/400/800) - 2020/11/30 19:46:40 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #7 is the button
+Seat 1: ticousin76 (19120)
+Seat 2: Zinapute (17576)
+Seat 3: JackD777 (24323)
+Seat 4: tino79200 (16719)
+Seat 5: Pascuallst (18430)
+Seat 6: allkatras (37420)
+Seat 7: manggy94 (62060)
+Seat 8: passepasse06 (84839)
+*** ANTE/BLINDS ***
+passepasse06 posts ante 100
+ticousin76 posts ante 100
+Zinapute posts ante 100
+JackD777 posts ante 100
+tino79200 posts ante 100
+Pascuallst posts ante 100
+allkatras posts ante 100
+manggy94 posts ante 100
+passepasse06 posts small blind 400
+ticousin76 posts big blind 800
+Dealt to manggy94 [2c 9h]
+*** PRE-FLOP *** 
+Zinapute folds
+JackD777 raises 23423 to 24223 and is all-in
+tino79200 folds
+Pascuallst folds
+allkatras folds
+manggy94 folds
+passepasse06 folds
+ticousin76 calls 18220 and is all-in
+*** FLOP *** [Td Jd Qh]
+*** TURN *** [Td Jd Qh][8c]
+*** RIVER *** [Td Jd Qh 8c][Ad]
+*** SHOW DOWN ***
+ticousin76 shows [Kc Ks] (Straight Ace high)
+JackD777 shows [Jc 5c] (One pair : Jacks)
+JackD777 collected 5203 from side pot 1
+ticousin76 collected 39240 from main pot
+*** SUMMARY ***
+Total pot 44443 | No rake
+Board: [Td Jd Qh 8c Ad]
+Seat 1: ticousin76 (big blind) showed [Kc Ks] and won 39240 with Straight Ace high
+Seat 3: JackD777 showed [Jc 5c] and won 5203 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #1754011454811407061-25-1606765636 - Holdem no limit (100/400/800) - 2020/11/30 19:47:16 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #8 is the button
+Seat 1: ticousin76 (39240)
+Seat 2: Zinapute (17476)
+Seat 3: JackD777 (5203)
+Seat 4: tino79200 (16619)
+Seat 5: Pascuallst (18330)
+Seat 6: allkatras (37320)
+Seat 7: manggy94 (61960)
+Seat 8: passepasse06 (84339)
+*** ANTE/BLINDS ***
+ticousin76 posts ante 100
+Zinapute posts ante 100
+JackD777 posts ante 100
+tino79200 posts ante 100
+Pascuallst posts ante 100
+allkatras posts ante 100
+manggy94 posts ante 100
+passepasse06 posts ante 100
+ticousin76 posts small blind 400
+Zinapute posts big blind 800
+Dealt to manggy94 [3c Ts]
+*** PRE-FLOP *** 
+JackD777 raises 4303 to 5103 and is all-in
+tino79200 folds
+Pascuallst folds
+allkatras calls 5103
+manggy94 folds
+passepasse06 folds
+ticousin76 calls 4703
+Zinapute folds
+*** FLOP *** [6c 9s Qh]
+ticousin76 checks
+allkatras checks
+*** TURN *** [6c 9s Qh][2d]
+ticousin76 checks
+allkatras checks
+*** RIVER *** [6c 9s Qh 2d][4d]
+ticousin76 checks
+allkatras checks
+*** SHOW DOWN ***
+ticousin76 shows [Kd 2c] (One pair : 2)
+JackD777 shows [Kc Tc] (High card : King)
+allkatras shows [Kh 4c] (One pair : 4)
+allkatras collected 16909 from pot
+*** SUMMARY ***
+Total pot 16909 | No rake
+Board: [6c 9s Qh 2d 4d]
+Seat 1: ticousin76 (small blind) showed [Kd 2c] and lost with One pair : 2
+Seat 3: JackD777 showed [Kc Tc] and lost with High card : King
+Seat 6: allkatras showed [Kh 4c] and won 16909 with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #1754011454811407061-26-1606765682 - Holdem no limit (120/500/1000) - 2020/11/30 19:48:02 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #1 is the button
+Seat 1: ticousin76 (34037)
+Seat 2: Zinapute (16576)
+Seat 3: Rastajuan13 (20000)
+Seat 4: tino79200 (16519)
+Seat 5: Pascuallst (18230)
+Seat 6: allkatras (49026)
+Seat 7: manggy94 (61860)
+Seat 8: passepasse06 (84239)
+*** ANTE/BLINDS ***
+Zinapute posts ante 120
+Rastajuan13 posts ante 120
+ticousin76 posts ante 120
+tino79200 posts ante 120
+Pascuallst posts ante 120
+allkatras posts ante 120
+manggy94 posts ante 120
+passepasse06 posts ante 120
+Zinapute posts small blind 500
+Rastajuan13 posts big blind 1000
+Dealt to manggy94 [As 3c]
+*** PRE-FLOP *** 
+tino79200 folds
+Pascuallst calls 1000
+allkatras calls 1000
+manggy94 calls 1000
+passepasse06 folds
+ticousin76 calls 1000
+Zinapute folds
+Rastajuan13 raises 3000 to 4000
+Pascuallst calls 3000
+allkatras calls 3000
+manggy94 folds
+ticousin76 calls 3000
+*** FLOP *** [5d 8h 7d]
+Rastajuan13 bets 15880 and is all-in
+Pascuallst calls 14110 and is all-in
+allkatras calls 15880
+ticousin76 calls 15880
+*** TURN *** [5d 8h 7d][Qs]
+allkatras checks
+ticousin76 bets 14037 and is all-in
+allkatras calls 14037
+*** RIVER *** [5d 8h 7d Qs][3s]
+*** SHOW DOWN ***
+Rastajuan13 shows [Kh Kd] (One pair : Kings)
+Pascuallst shows [Ad 6c] (High card : Ace)
+allkatras shows [7c Kc] (One pair : 7)
+ticousin76 shows [Qd 5c] (Two pairs : Queens and 5)
+ticousin76 collected 108284 from pot
+*** SUMMARY ***
+Total pot 108284 | No rake
+Board: [5d 8h 7d Qs 3s]
+Seat 1: ticousin76 (button) showed [Qd 5c] and won 108284 with Two pairs : Queens and 5
+Seat 3: Rastajuan13 (big blind) showed [Kh Kd] and lost with One pair : Kings
+Seat 5: Pascuallst showed [Ad 6c] and lost with High card : Ace
+Seat 6: allkatras showed [7c Kc] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #1754011454811407061-27-1606765793 - Holdem no limit (120/500/1000) - 2020/11/30 19:49:53 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #2 is the button
+Seat 1: ticousin76 (108284)
+Seat 2: Zinapute (15956)
+Seat 4: tino79200 (16399)
+Seat 6: allkatras (14989)
+Seat 7: manggy94 (60740)
+Seat 8: passepasse06 (84119)
+*** ANTE/BLINDS ***
+tino79200 posts ante 120
+ticousin76 posts ante 120
+Zinapute posts ante 120
+allkatras posts ante 120
+manggy94 posts ante 120
+passepasse06 posts ante 120
+tino79200 posts big blind 1000
+Dealt to manggy94 [5d 9c]
+*** PRE-FLOP *** 
+allkatras folds
+manggy94 folds
+passepasse06 folds
+ticousin76 calls 1000
+Zinapute calls 1000
+tino79200 checks
+*** FLOP *** [8d 7d Ts]
+tino79200 checks
+ticousin76 bets 3720
+Zinapute folds
+tino79200 folds
+ticousin76 collected 7440 from pot
+*** SUMMARY ***
+Total pot 7440 | No rake
+Board: [8d 7d Ts]
+Seat 1: ticousin76 won 7440
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #1754011454811407061-28-1606765844 - Holdem no limit (140/600/1200) - 2020/11/30 19:50:44 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #3 is the button
+Seat 1: ticousin76 (110884)
+Seat 2: Zinapute (14836)
+Seat 3: Surmurt (24266)
+Seat 4: tino79200 (15279)
+Seat 5: Christo76300 (20000)
+Seat 6: allkatras (14869)
+Seat 7: manggy94 (60620)
+Seat 8: passepasse06 (83999)
+*** ANTE/BLINDS ***
+tino79200 posts ante 140
+Christo76300 posts ante 140
+ticousin76 posts ante 140
+Zinapute posts ante 140
+allkatras posts ante 140
+manggy94 posts ante 140
+passepasse06 posts ante 140
+tino79200 posts small blind 600
+Christo76300 posts big blind 1200
+Dealt to manggy94 [6h Js]
+*** PRE-FLOP *** 
+allkatras folds
+manggy94 folds
+passepasse06 folds
+ticousin76 folds
+Zinapute folds
+tino79200 folds
+Christo76300 collected 2780 from pot
+*** SUMMARY ***
+Total pot 2780 | No rake
+Seat 5: Christo76300 (big blind) won 2780
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #1754011454811407061-29-1606765887 - Holdem no limit (140/600/1200) - 2020/11/30 19:51:27 UTC
+Table: 'Freeroll(408387616)#0724' 8-max (real money) Seat #4 is the button
+Seat 1: ticousin76 (110744)
+Seat 2: Zinapute (14696)
+Seat 3: Surmurt (24266)
+Seat 4: tino79200 (14539)
+Seat 5: Christo76300 (21440)
+Seat 6: allkatras (14729)
+Seat 7: manggy94 (60480)
+Seat 8: passepasse06 (83859)
+*** ANTE/BLINDS ***
+Christo76300 posts ante 140
+allkatras posts ante 140
+ticousin76 posts ante 140
+Zinapute posts ante 140
+Surmurt posts ante 140
+tino79200 posts ante 140
+manggy94 posts ante 140
+passepasse06 posts ante 140
+Christo76300 posts small blind 600
+allkatras posts big blind 1200
+Dealt to manggy94 [7s Jc]
+*** PRE-FLOP *** 
+manggy94 folds
+passepasse06 calls 1200
+ticousin76 calls 1200
+Zinapute folds
+Surmurt folds
+tino79200 folds
+Christo76300 folds
+allkatras raises 13389 to 14589 and is all-in
+passepasse06 raises 69130 to 83719 and is all-in
+ticousin76 calls 82519
+*** FLOP *** [Jh 6c Th]
+*** TURN *** [Jh 6c Th][Ad]
+*** RIVER *** [Jh 6c Th Ad][8h]
+*** SHOW DOWN ***
+ticousin76 shows [Ks 4s] (High card : Ace)
+allkatras shows [Kh 7d] (High card : Ace)
+passepasse06 shows [9d 9c] (One pair : 9)
+passepasse06 collected 183747 from pot
+*** SUMMARY ***
+Total pot 183747 | No rake
+Board: [Jh 6c Th Ad 8h]
+Seat 1: ticousin76 showed [Ks 4s] and lost with High card : Ace
+Seat 6: allkatras (big blind) showed [Kh 7d] and lost with High card : Ace
+Seat 8: passepasse06 showed [9d 9c] and won 183747 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #1754011454811406808-52-1606765968 - Holdem no limit (140/600/1200) - 2020/11/30 19:52:48 UTC
+Table: 'Freeroll(408387616)#0471' 8-max (real money) Seat #3 is the button
+Seat 1: LOZU1790 (12696)
+Seat 2: bertille13 (36811)
+Seat 3: taramann (3192)
+Seat 4: manggy94 (60340)
+Seat 5: calvoklein (34400)
+Seat 6: coriolisback (48198)
+Seat 7: Muyazaki33 (133471)
+Seat 8: Estellevgt (42291)
+*** ANTE/BLINDS ***
+calvoklein posts ante 140
+coriolisback posts ante 140
+LOZU1790 posts ante 140
+bertille13 posts ante 140
+taramann posts ante 140
+Muyazaki33 posts ante 140
+Estellevgt posts ante 140
+calvoklein posts small blind 600
+coriolisback posts big blind 1200
+*** PRE-FLOP *** 
+Muyazaki33 folds
+Estellevgt folds
+LOZU1790 folds
+bertille13 raises 1200 to 2400
+taramann folds
+calvoklein folds
+coriolisback calls 1200
+*** FLOP *** [Qs 7c 7h]
+coriolisback checks
+bertille13 bets 1200
+coriolisback folds
+bertille13 collected 7580 from pot
+*** SUMMARY ***
+Total pot 7580 | No rake
+Board: [Qs 7c 7h]
+Seat 2: bertille13 won 7580
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #1754011454811406808-53-1606765988 - Holdem no limit (160/700/1400) - 2020/11/30 19:53:08 UTC
+Table: 'Freeroll(408387616)#0471' 8-max (real money) Seat #5 is the button
+Seat 1: LOZU1790 (12556)
+Seat 2: bertille13 (40651)
+Seat 3: taramann (3052)
+Seat 4: manggy94 (60340)
+Seat 5: calvoklein (33660)
+Seat 6: coriolisback (45658)
+Seat 7: Muyazaki33 (133331)
+Seat 8: Estellevgt (42151)
+*** ANTE/BLINDS ***
+coriolisback posts ante 160
+Muyazaki33 posts ante 160
+LOZU1790 posts ante 160
+bertille13 posts ante 160
+taramann posts ante 160
+manggy94 posts ante 160
+calvoklein posts ante 160
+Estellevgt posts ante 160
+coriolisback posts small blind 700
+Muyazaki33 posts big blind 1400
+Dealt to manggy94 [2d 6h]
+*** PRE-FLOP *** 
+Estellevgt calls 1400
+LOZU1790 folds
+bertille13 folds
+taramann folds
+manggy94 folds
+calvoklein folds
+coriolisback folds
+Muyazaki33 raises 2800 to 4200
+Estellevgt calls 2800
+*** FLOP *** [9c Qs Qc]
+Muyazaki33 checks
+Estellevgt checks
+*** TURN *** [9c Qs Qc][Jh]
+Muyazaki33 checks
+Estellevgt checks
+*** RIVER *** [9c Qs Qc Jh][5c]
+Muyazaki33 checks
+Estellevgt checks
+*** SHOW DOWN ***
+Estellevgt shows [7c 8h] (One pair : Queens)
+Muyazaki33 shows [6s 6d] (Two pairs : Queens and 6)
+Muyazaki33 collected 10380 from pot
+*** SUMMARY ***
+Total pot 10380 | No rake
+Board: [9c Qs Qc Jh 5c]
+Seat 7: Muyazaki33 (big blind) showed [6s 6d] and won 10380 with Two pairs : Queens and 6
+Seat 8: Estellevgt showed [7c 8h] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #1754011454811406808-54-1606766016 - Holdem no limit (160/700/1400) - 2020/11/30 19:53:36 UTC
+Table: 'Freeroll(408387616)#0471' 8-max (real money) Seat #6 is the button
+Seat 1: LOZU1790 (12396)
+Seat 2: bertille13 (40491)
+Seat 3: taramann (2892)
+Seat 4: manggy94 (60180)
+Seat 5: calvoklein (33500)
+Seat 6: coriolisback (44798)
+Seat 7: Muyazaki33 (139351)
+Seat 8: Estellevgt (37791)
+*** ANTE/BLINDS ***
+Muyazaki33 posts ante 160
+Estellevgt posts ante 160
+LOZU1790 posts ante 160
+bertille13 posts ante 160
+taramann posts ante 160
+manggy94 posts ante 160
+calvoklein posts ante 160
+coriolisback posts ante 160
+Muyazaki33 posts small blind 700
+Estellevgt posts big blind 1400
+Dealt to manggy94 [9h 6h]
+*** PRE-FLOP *** 
+LOZU1790 folds
+bertille13 folds
+taramann folds
+manggy94 calls 1400
+calvoklein folds
+coriolisback folds
+Muyazaki33 folds
+Estellevgt checks
+*** FLOP *** [Qc Kh 5d]
+Estellevgt bets 1400
+manggy94 folds
+Estellevgt collected 6180 from pot
+*** SUMMARY ***
+Total pot 6180 | No rake
+Board: [Qc Kh 5d]
+Seat 8: Estellevgt (big blind) won 6180
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #1754011454811406808-55-1606766046 - Holdem no limit (160/700/1400) - 2020/11/30 19:54:06 UTC
+Table: 'Freeroll(408387616)#0471' 8-max (real money) Seat #7 is the button
+Seat 1: LOZU1790 (12236)
+Seat 2: bertille13 (40331)
+Seat 3: taramann (2732)
+Seat 4: manggy94 (58620)
+Seat 5: calvoklein (33340)
+Seat 6: coriolisback (44638)
+Seat 7: Muyazaki33 (138491)
+Seat 8: Estellevgt (41011)
+*** ANTE/BLINDS ***
+Estellevgt posts ante 160
+LOZU1790 posts ante 160
+bertille13 posts ante 160
+taramann posts ante 160
+manggy94 posts ante 160
+calvoklein posts ante 160
+coriolisback posts ante 160
+Muyazaki33 posts ante 160
+Estellevgt posts small blind 700
+LOZU1790 posts big blind 1400
+Dealt to manggy94 [2s Qd]
+*** PRE-FLOP *** 
+bertille13 raises 1400 to 2800
+taramann folds
+manggy94 folds
+calvoklein folds
+coriolisback folds
+Muyazaki33 calls 2800
+Estellevgt calls 2100
+LOZU1790 folds
+*** FLOP *** [9c Th Jh]
+Estellevgt checks
+bertille13 bets 5540
+Muyazaki33 folds
+Estellevgt calls 5540
+*** TURN *** [9c Th Jh][7d]
+Estellevgt checks
+bertille13 checks
+*** RIVER *** [9c Th Jh 7d][7c]
+Estellevgt checks
+bertille13 bets 11080
+Estellevgt folds
+bertille13 collected 33240 from pot
+*** SUMMARY ***
+Total pot 33240 | No rake
+Board: [9c Th Jh 7d 7c]
+Seat 2: bertille13 won 33240
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #1754011454811406808-56-1606766082 - Holdem no limit (160/700/1400) - 2020/11/30 19:54:42 UTC
+Table: 'Freeroll(408387616)#0471' 8-max (real money) Seat #8 is the button
+Seat 1: LOZU1790 (10676)
+Seat 2: bertille13 (53991)
+Seat 3: taramann (2572)
+Seat 4: manggy94 (58460)
+Seat 5: calvoklein (33180)
+Seat 6: coriolisback (44478)
+Seat 7: Muyazaki33 (135531)
+Seat 8: Estellevgt (32511)
+*** ANTE/BLINDS ***
+LOZU1790 posts ante 160
+bertille13 posts ante 160
+taramann posts ante 160
+manggy94 posts ante 160
+calvoklein posts ante 160
+coriolisback posts ante 160
+Muyazaki33 posts ante 160
+Estellevgt posts ante 160
+LOZU1790 posts small blind 700
+bertille13 posts big blind 1400
+Dealt to manggy94 [2c Ah]
+*** PRE-FLOP *** 
+taramann folds
+manggy94 raises 1400 to 2800
+calvoklein folds
+coriolisback folds
+Muyazaki33 folds
+Estellevgt calls 2800
+LOZU1790 folds
+bertille13 folds
+*** FLOP *** [4c 3c 2h]
+manggy94 bets 4490
+Estellevgt calls 4490
+*** TURN *** [4c 3c 2h][6h]
+manggy94 bets 8980
+Estellevgt calls 8980
+*** RIVER *** [4c 3c 2h 6h][6s]
+manggy94 checks
+Estellevgt checks
+*** SHOW DOWN ***
+Estellevgt shows [9d Kd] (One pair : 6)
+manggy94 shows [2c Ah] (Two pairs : 6 and 2)
+manggy94 collected 35920 from pot
+*** SUMMARY ***
+Total pot 35920 | No rake
+Board: [4c 3c 2h 6h 6s]
+Seat 4: manggy94 showed [2c Ah] and won 35920 with Two pairs : 6 and 2
+Seat 8: Estellevgt (button) showed [9d Kd] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #1754011454811406808-57-1606766465 - Holdem no limit (160/700/1400) - 2020/11/30 20:01:05 UTC
+Table: 'Freeroll(408387616)#0471' 8-max (real money) Seat #1 is the button
+Seat 1: LOZU1790 (9816)
+Seat 2: bertille13 (52431)
+Seat 3: taramann (2412)
+Seat 4: manggy94 (77950)
+Seat 5: calvoklein (33020)
+Seat 6: coriolisback (44318)
+Seat 7: Muyazaki33 (135371)
+Seat 8: Estellevgt (16081)
+*** ANTE/BLINDS ***
+bertille13 posts ante 160
+taramann posts ante 160
+LOZU1790 posts ante 160
+manggy94 posts ante 160
+calvoklein posts ante 160
+coriolisback posts ante 160
+Muyazaki33 posts ante 160
+Estellevgt posts ante 160
+bertille13 posts small blind 700
+taramann posts big blind 1400
+Dealt to manggy94 [8d Jh]
+*** PRE-FLOP *** 
+manggy94 folds
+calvoklein folds
+coriolisback raises 4780 to 6180
+Muyazaki33 folds
+Estellevgt folds
+LOZU1790 folds
+bertille13 raises 46091 to 52271 and is all-in
+taramann folds
+coriolisback calls 37978 and is all-in
+*** FLOP *** [8s Js 9c]
+*** TURN *** [8s Js 9c][7h]
+*** RIVER *** [8s Js 9c 7h][Td]
+*** SHOW DOWN ***
+bertille13 shows [Jd Jc] (Straight Jack high)
+coriolisback shows [Qd Qc] (Straight Queen high)
+coriolisback collected 90996 from main pot
+bertille13 collected 8113 from side pot 1
+*** SUMMARY ***
+Total pot 99109 | No rake
+Board: [8s Js 9c 7h Td]
+Seat 2: bertille13 (small blind) showed [Jd Jc] and won 8113 with Straight Jack high
+Seat 6: coriolisback showed [Qd Qc] and won 90996 with Straight Queen high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #1754011454811406808-58-1606766524 - Holdem no limit (200/800/1600) - 2020/11/30 20:02:04 UTC
+Table: 'Freeroll(408387616)#0471' 8-max (real money) Seat #2 is the button
+Seat 1: LOZU1790 (9656)
+Seat 2: bertille13 (8113)
+Seat 3: taramann (852)
+Seat 4: manggy94 (77790)
+Seat 5: calvoklein (32860)
+Seat 6: coriolisback (90996)
+Seat 7: Muyazaki33 (135211)
+Seat 8: Estellevgt (15921)
+*** ANTE/BLINDS ***
+taramann posts ante 200
+manggy94 posts ante 200
+LOZU1790 posts ante 200
+bertille13 posts ante 200
+calvoklein posts ante 200
+coriolisback posts ante 200
+Muyazaki33 posts ante 200
+Estellevgt posts ante 200
+taramann posts small blind 652 and is all-in
+manggy94 posts big blind 1600
+Dealt to manggy94 [4d 6c]
+*** PRE-FLOP *** 
+calvoklein folds
+coriolisback folds
+Muyazaki33 folds
+Estellevgt calls 1600
+LOZU1790 folds
+bertille13 raises 6313 to 7913 and is all-in
+manggy94 folds
+Estellevgt calls 6313
+*** FLOP *** [Qs 3h 6s]
+*** TURN *** [Qs 3h 6s][7h]
+*** RIVER *** [Qs 3h 6s 7h][9h]
+*** SHOW DOWN ***
+taramann shows [4c Ac] (High card : Ace)
+Estellevgt shows [Qd 3d] (Two pairs : Queens and 3)
+bertille13 shows [Th 8d] (Straight Ten high)
+bertille13 collected 19678 from pot
+*** SUMMARY ***
+Total pot 19678 | No rake
+Board: [Qs 3h 6s 7h 9h]
+Seat 2: bertille13 (button) showed [Th 8d] and won 19678 with Straight Ten high
+Seat 3: taramann (small blind) showed [4c Ac] and lost with High card : Ace
+Seat 8: Estellevgt showed [Qd 3d] and lost with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #1754011454811406808-59-1606766548 - Holdem no limit (200/800/1600) - 2020/11/30 20:02:28 UTC
+Table: 'Freeroll(408387616)#0471' 8-max (real money) Seat #3 is the button
+Seat 1: LOZU1790 (9456)
+Seat 2: bertille13 (19678)
+Seat 4: manggy94 (75990)
+Seat 5: calvoklein (32660)
+Seat 6: coriolisback (90796)
+Seat 7: Muyazaki33 (135011)
+Seat 8: Estellevgt (7808)
+*** ANTE/BLINDS ***
+manggy94 posts ante 200
+calvoklein posts ante 200
+LOZU1790 posts ante 200
+bertille13 posts ante 200
+coriolisback posts ante 200
+Muyazaki33 posts ante 200
+Estellevgt posts ante 200
+manggy94 posts small blind 800
+calvoklein posts big blind 1600
+Dealt to manggy94 [4d 6s]
+*** PRE-FLOP *** 
+coriolisback folds
+Muyazaki33 folds
+Estellevgt calls 1600
+LOZU1790 folds
+bertille13 raises 17878 to 19478 and is all-in
+manggy94 folds
+calvoklein folds
+Estellevgt calls 6008 and is all-in
+*** FLOP *** [Kh Ts Jh]
+*** TURN *** [Kh Ts Jh][9c]
+*** RIVER *** [Kh Ts Jh 9c][4s]
+*** SHOW DOWN ***
+bertille13 shows [3c 7h] (High card : King)
+Estellevgt shows [Qd 3s] (Straight King high)
+Estellevgt collected 19016 from main pot
+bertille13 collected 11870 from side pot 1
+*** SUMMARY ***
+Total pot 30886 | No rake
+Board: [Kh Ts Jh 9c 4s]
+Seat 2: bertille13 showed [3c 7h] and won 11870 with High card : King
+Seat 8: Estellevgt showed [Qd 3s] and won 19016 with Straight King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #1754011454811406808-60-1606766571 - Holdem no limit (200/800/1600) - 2020/11/30 20:02:51 UTC
+Table: 'Freeroll(408387616)#0471' 8-max (real money) Seat #4 is the button
+Seat 1: LOZU1790 (9256)
+Seat 2: bertille13 (11870)
+Seat 4: manggy94 (74990)
+Seat 5: calvoklein (30860)
+Seat 6: coriolisback (90596)
+Seat 7: Muyazaki33 (134811)
+Seat 8: Estellevgt (19016)
+*** ANTE/BLINDS ***
+calvoklein posts ante 200
+coriolisback posts ante 200
+LOZU1790 posts ante 200
+bertille13 posts ante 200
+manggy94 posts ante 200
+Muyazaki33 posts ante 200
+Estellevgt posts ante 200
+calvoklein posts small blind 800
+coriolisback posts big blind 1600
+Dealt to manggy94 [5d 9c]
+*** PRE-FLOP *** 
+Muyazaki33 folds
+Estellevgt calls 1600
+LOZU1790 folds
+bertille13 raises 10070 to 11670 and is all-in
+manggy94 folds
+calvoklein folds
+coriolisback folds
+Estellevgt calls 10070
+*** FLOP *** [Qc 2c 3c]
+*** TURN *** [Qc 2c 3c][Kc]
+*** RIVER *** [Qc 2c 3c Kc][Td]
+*** SHOW DOWN ***
+bertille13 shows [8h 5h] (High card : King)
+Estellevgt shows [Js Ts] (One pair : Tens)
+Estellevgt collected 27140 from pot
+*** SUMMARY ***
+Total pot 27140 | No rake
+Board: [Qc 2c 3c Kc Td]
+Seat 2: bertille13 showed [8h 5h] and lost with High card : King
+Seat 8: Estellevgt showed [Js Ts] and won 27140 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #1754011454811406808-61-1606766592 - Holdem no limit (200/800/1600) - 2020/11/30 20:03:12 UTC
+Table: 'Freeroll(408387616)#0471' 8-max (real money) Seat #5 is the button
+Seat 1: LOZU1790 (9056)
+Seat 4: manggy94 (74790)
+Seat 5: calvoklein (29860)
+Seat 6: coriolisback (88796)
+Seat 7: Muyazaki33 (134611)
+Seat 8: Estellevgt (34286)
+*** ANTE/BLINDS ***
+coriolisback posts ante 200
+Muyazaki33 posts ante 200
+LOZU1790 posts ante 200
+manggy94 posts ante 200
+calvoklein posts ante 200
+Estellevgt posts ante 200
+coriolisback posts small blind 800
+Muyazaki33 posts big blind 1600
+Dealt to manggy94 [7h 8h]
+*** PRE-FLOP *** 
+Estellevgt calls 1600
+LOZU1790 folds
+manggy94 calls 1600
+calvoklein folds
+coriolisback folds
+Muyazaki33 checks
+*** FLOP *** [9d Qh Td]
+Muyazaki33 checks
+Estellevgt bets 1600
+manggy94 calls 1600
+Muyazaki33 calls 1600
+*** TURN *** [9d Qh Td][Ks]
+Muyazaki33 checks
+Estellevgt checks
+manggy94 checks
+*** RIVER *** [9d Qh Td Ks][Jh]
+Muyazaki33 checks
+Estellevgt bets 1600
+manggy94 calls 1600
+Muyazaki33 calls 1600
+*** SHOW DOWN ***
+manggy94 shows [7h 8h] (Straight King high)
+Muyazaki33 shows [Js 4h] (Straight King high)
+Estellevgt shows [Ah Ts] (Straight Ace high)
+Estellevgt collected 16400 from pot
+*** SUMMARY ***
+Total pot 16400 | No rake
+Board: [9d Qh Td Ks Jh]
+Seat 4: manggy94 showed [7h 8h] and lost with Straight King high
+Seat 7: Muyazaki33 (big blind) showed [Js 4h] and lost with Straight King high
+Seat 8: Estellevgt showed [Ah Ts] and won 16400 with Straight Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #1754011454811406808-62-1606766660 - Holdem no limit (250/1000/2000) - 2020/11/30 20:04:20 UTC
+Table: 'Freeroll(408387616)#0471' 8-max (real money) Seat #6 is the button
+Seat 1: LOZU1790 (8856)
+Seat 2: Manusream (191875)
+Seat 3: Phoenix0003 (50363)
+Seat 4: manggy94 (69790)
+Seat 5: calvoklein (29660)
+Seat 6: coriolisback (87796)
+Seat 7: Muyazaki33 (129611)
+Seat 8: Estellevgt (45686)
+*** ANTE/BLINDS ***
+Muyazaki33 posts ante 250
+Estellevgt posts ante 250
+LOZU1790 posts ante 250
+Manusream posts ante 250
+Phoenix0003 posts ante 250
+manggy94 posts ante 250
+calvoklein posts ante 250
+coriolisback posts ante 250
+Muyazaki33 posts small blind 1000
+Estellevgt posts big blind 2000
+Dealt to manggy94 [7s Ks]
+*** PRE-FLOP *** 
+LOZU1790 folds
+Manusream folds
+Phoenix0003 folds
+manggy94 calls 2000
+calvoklein folds
+coriolisback folds
+Muyazaki33 folds
+Estellevgt checks
+*** FLOP *** [7c 5s Ts]
+Estellevgt checks
+manggy94 bets 3500
+Estellevgt calls 3500
+*** TURN *** [7c 5s Ts][As]
+Estellevgt checks
+manggy94 bets 7000
+Estellevgt folds
+manggy94 collected 21000 from pot
+*** SUMMARY ***
+Total pot 21000 | No rake
+Board: [7c 5s Ts As]
+Seat 4: manggy94 won 21000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #1754011454811406808-63-1606766715 - Holdem no limit (250/1000/2000) - 2020/11/30 20:05:15 UTC
+Table: 'Freeroll(408387616)#0471' 8-max (real money) Seat #7 is the button
+Seat 1: LOZU1790 (8606)
+Seat 2: Manusream (191625)
+Seat 3: Phoenix0003 (50113)
+Seat 4: manggy94 (78040)
+Seat 5: calvoklein (29410)
+Seat 6: coriolisback (87546)
+Seat 7: Muyazaki33 (128361)
+Seat 8: Estellevgt (39936)
+*** ANTE/BLINDS ***
+Estellevgt posts ante 250
+LOZU1790 posts ante 250
+Manusream posts ante 250
+Phoenix0003 posts ante 250
+manggy94 posts ante 250
+calvoklein posts ante 250
+coriolisback posts ante 250
+Muyazaki33 posts ante 250
+Estellevgt posts small blind 1000
+LOZU1790 posts big blind 2000
+Dealt to manggy94 [Kd 6c]
+*** PRE-FLOP *** 
+Manusream raises 2000 to 4000
+Phoenix0003 folds
+manggy94 folds
+calvoklein folds
+coriolisback folds
+Muyazaki33 calls 4000
+Estellevgt calls 3000
+LOZU1790 folds
+*** FLOP *** [5c 9s Jd]
+Estellevgt bets 2000
+Manusream calls 2000
+Muyazaki33 folds
+*** TURN *** [5c 9s Jd][2d]
+Estellevgt bets 2000
+Manusream calls 2000
+*** RIVER *** [5c 9s Jd 2d][3c]
+Estellevgt checks
+Manusream checks
+*** SHOW DOWN ***
+Manusream shows [4s 5h] (One pair : 5)
+Estellevgt shows [Jh 8s] (One pair : Jacks)
+Estellevgt collected 24000 from pot
+*** SUMMARY ***
+Total pot 24000 | No rake
+Board: [5c 9s Jd 2d 3c]
+Seat 2: Manusream showed [4s 5h] and lost with One pair : 5
+Seat 8: Estellevgt (small blind) showed [Jh 8s] and won 24000 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #1754011454811406808-64-1606766775 - Holdem no limit (250/1000/2000) - 2020/11/30 20:06:15 UTC
+Table: 'Freeroll(408387616)#0471' 8-max (real money) Seat #8 is the button
+Seat 1: LOZU1790 (6356)
+Seat 2: Manusream (183375)
+Seat 3: Phoenix0003 (49863)
+Seat 4: manggy94 (77790)
+Seat 5: calvoklein (29160)
+Seat 6: coriolisback (87296)
+Seat 7: Muyazaki33 (124111)
+Seat 8: Estellevgt (55686)
+*** ANTE/BLINDS ***
+LOZU1790 posts ante 250
+Manusream posts ante 250
+Phoenix0003 posts ante 250
+manggy94 posts ante 250
+calvoklein posts ante 250
+coriolisback posts ante 250
+Muyazaki33 posts ante 250
+Estellevgt posts ante 250
+LOZU1790 posts small blind 1000
+Manusream posts big blind 2000
+Dealt to manggy94 [6d Tc]
+*** PRE-FLOP *** 
+Phoenix0003 folds
+manggy94 folds
+calvoklein folds
+coriolisback folds
+Muyazaki33 folds
+Estellevgt folds
+LOZU1790 folds
+Manusream collected 5000 from pot
+*** SUMMARY ***
+Total pot 5000 | No rake
+Seat 2: Manusream (big blind) won 5000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #1754011454811406808-65-1606766787 - Holdem no limit (300/1250/2500) - 2020/11/30 20:06:27 UTC
+Table: 'Freeroll(408387616)#0471' 8-max (real money) Seat #1 is the button
+Seat 1: LOZU1790 (5106)
+Seat 2: Manusream (186125)
+Seat 3: Phoenix0003 (49613)
+Seat 4: manggy94 (77540)
+Seat 5: calvoklein (28910)
+Seat 6: coriolisback (87046)
+Seat 7: Muyazaki33 (123861)
+Seat 8: Estellevgt (55436)
+*** ANTE/BLINDS ***
+Manusream posts ante 300
+Phoenix0003 posts ante 300
+LOZU1790 posts ante 300
+manggy94 posts ante 300
+calvoklein posts ante 300
+coriolisback posts ante 300
+Muyazaki33 posts ante 300
+Estellevgt posts ante 300
+Manusream posts small blind 1250
+Phoenix0003 posts big blind 2500
+Dealt to manggy94 [6c Qd]
+*** PRE-FLOP *** 
+manggy94 folds
+calvoklein folds
+coriolisback folds
+Muyazaki33 calls 2500
+Estellevgt calls 2500
+LOZU1790 folds
+Manusream calls 1250
+Phoenix0003 checks
+*** FLOP *** [Jd 4d 7h]
+Manusream checks
+Phoenix0003 checks
+Muyazaki33 bets 12400
+Estellevgt folds
+Manusream folds
+Phoenix0003 folds
+Muyazaki33 collected 24800 from pot
+*** SUMMARY ***
+Total pot 24800 | No rake
+Board: [Jd 4d 7h]
+Seat 7: Muyazaki33 won 24800
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #1754011454811406808-66-1606766842 - Holdem no limit (300/1250/2500) - 2020/11/30 20:07:22 UTC
+Table: 'Freeroll(408387616)#0471' 8-max (real money) Seat #2 is the button
+Seat 1: LOZU1790 (4806)
+Seat 2: Manusream (183325)
+Seat 3: Phoenix0003 (46813)
+Seat 4: manggy94 (77240)
+Seat 5: calvoklein (28610)
+Seat 6: coriolisback (86746)
+Seat 7: Muyazaki33 (133461)
+Seat 8: Estellevgt (52636)
+*** ANTE/BLINDS ***
+Phoenix0003 posts ante 300
+manggy94 posts ante 300
+LOZU1790 posts ante 300
+Manusream posts ante 300
+calvoklein posts ante 300
+coriolisback posts ante 300
+Muyazaki33 posts ante 300
+Estellevgt posts ante 300
+Phoenix0003 posts small blind 1250
+manggy94 posts big blind 2500
+Dealt to manggy94 [Jd 7d]
+*** PRE-FLOP *** 
+calvoklein folds
+coriolisback folds
+Muyazaki33 folds
+Estellevgt folds
+LOZU1790 folds
+Manusream raises 2500 to 5000
+Phoenix0003 folds
+manggy94 calls 2500
+*** FLOP *** [4d Ks Ah]
+manggy94 checks
+Manusream checks
+*** TURN *** [4d Ks Ah][8d]
+manggy94 checks
+Manusream checks
+*** RIVER *** [4d Ks Ah 8d][Jc]
+manggy94 checks
+Manusream checks
+*** SHOW DOWN ***
+Manusream shows [Th 6h] (High card : Ace)
+manggy94 shows [Jd 7d] (One pair : Jacks)
+manggy94 collected 13650 from pot
+*** SUMMARY ***
+Total pot 13650 | No rake
+Board: [4d Ks Ah 8d Jc]
+Seat 2: Manusream (button) showed [Th 6h] and lost with High card : Ace
+Seat 4: manggy94 (big blind) showed [Jd 7d] and won 13650 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #1754011454811406808-67-1606766909 - Holdem no limit (300/1250/2500) - 2020/11/30 20:08:29 UTC
+Table: 'Freeroll(408387616)#0471' 8-max (real money) Seat #3 is the button
+Seat 1: LOZU1790 (4506)
+Seat 2: Manusream (178025)
+Seat 3: Phoenix0003 (45263)
+Seat 4: manggy94 (85590)
+Seat 5: calvoklein (28310)
+Seat 6: coriolisback (86446)
+Seat 7: Muyazaki33 (133161)
+Seat 8: Estellevgt (52336)
+*** ANTE/BLINDS ***
+manggy94 posts ante 300
+calvoklein posts ante 300
+LOZU1790 posts ante 300
+Manusream posts ante 300
+Phoenix0003 posts ante 300
+coriolisback posts ante 300
+Muyazaki33 posts ante 300
+Estellevgt posts ante 300
+manggy94 posts small blind 1250
+calvoklein posts big blind 2500
+Dealt to manggy94 [4s Td]
+*** PRE-FLOP *** 
+coriolisback folds
+Muyazaki33 folds
+Estellevgt calls 2500
+LOZU1790 folds
+Manusream calls 2500
+Phoenix0003 calls 2500
+manggy94 folds
+calvoklein raises 2500 to 5000
+Estellevgt calls 2500
+Manusream calls 2500
+Phoenix0003 calls 2500
+*** FLOP *** [7h 2d Qd]
+calvoklein bets 7863
+Estellevgt folds
+Manusream folds
+Phoenix0003 folds
+calvoklein collected 31513 from pot
+*** SUMMARY ***
+Total pot 31513 | No rake
+Board: [7h 2d Qd]
+Seat 5: calvoklein (big blind) won 31513
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 20 - HandId: #1754011454811406588-51-1606767025 - Holdem no limit (350/1500/3000) - 2020/11/30 20:10:25 UTC
+Table: 'Freeroll(408387616)#0251' 8-max (real money) Seat #5 is the button
+Seat 1: sof24 (10142)
+Seat 2: moi ... (42350)
+Seat 3: Cycylaetis20 (15350)
+Seat 4: manggy94 (84040)
+Seat 5: maizetioup (53918)
+Seat 6: hitman44250 (26435)
+Seat 7: Manolitto19 (179514)
+Seat 8: ruby1704 (67690)
+*** ANTE/BLINDS ***
+hitman44250 posts ante 350
+Manolitto19 posts ante 350
+sof24 posts ante 350
+moi ... posts ante 350
+Cycylaetis20 posts ante 350
+manggy94 posts ante 350
+maizetioup posts ante 350
+ruby1704 posts ante 350
+hitman44250 posts small blind 1500
+Manolitto19 posts big blind 3000
+Dealt to manggy94 [Kh 2h]
+*** PRE-FLOP *** 
+ruby1704 folds
+sof24 folds
+moi ... folds
+Cycylaetis20 calls 3000
+manggy94 calls 3000
+maizetioup calls 3000
+hitman44250 folds
+Manolitto19 checks
+*** FLOP *** [9c 4d 6h]
+Manolitto19 checks
+Cycylaetis20 checks
+manggy94 checks
+maizetioup checks
+*** TURN *** [9c 4d 6h][7c]
+Manolitto19 checks
+Cycylaetis20 checks
+manggy94 checks
+maizetioup checks
+*** RIVER *** [9c 4d 6h 7c][Js]
+Manolitto19 checks
+Cycylaetis20 checks
+manggy94 checks
+maizetioup checks
+*** SHOW DOWN ***
+manggy94 shows [Kh 2h] (High card : King)
+maizetioup shows [Ah Td] (High card : Ace)
+Manolitto19 shows [Th 5h] (High card : Jack)
+Cycylaetis20 shows [7s Qh] (One pair : 7)
+Cycylaetis20 collected 16300 from pot
+*** SUMMARY ***
+Total pot 16300 | No rake
+Board: [9c 4d 6h 7c Js]
+Seat 3: Cycylaetis20 showed [7s Qh] and won 16300 with One pair : 7
+Seat 4: manggy94 showed [Kh 2h] and lost with High card : King
+Seat 5: maizetioup (button) showed [Ah Td] and lost with High card : Ace
+Seat 7: Manolitto19 (big blind) showed [Th 5h] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 21 - HandId: #1754011454811406588-52-1606767105 - Holdem no limit (400/1750/3500) - 2020/11/30 20:11:45 UTC
+Table: 'Freeroll(408387616)#0251' 8-max (real money) Seat #6 is the button
+Seat 1: sof24 (9792)
+Seat 2: moi ... (42000)
+Seat 3: Cycylaetis20 (28300)
+Seat 4: manggy94 (80690)
+Seat 5: maizetioup (50568)
+Seat 6: hitman44250 (24585)
+Seat 7: Manolitto19 (176164)
+Seat 8: ruby1704 (67340)
+*** ANTE/BLINDS ***
+Manolitto19 posts ante 400
+ruby1704 posts ante 400
+sof24 posts ante 400
+moi ... posts ante 400
+Cycylaetis20 posts ante 400
+manggy94 posts ante 400
+maizetioup posts ante 400
+hitman44250 posts ante 400
+Manolitto19 posts small blind 1750
+ruby1704 posts big blind 3500
+Dealt to manggy94 [Js Qc]
+*** PRE-FLOP *** 
+sof24 folds
+moi ... folds
+Cycylaetis20 calls 3500
+manggy94 calls 3500
+maizetioup folds
+hitman44250 folds
+Manolitto19 calls 1750
+ruby1704 checks
+*** FLOP *** [6c 7h 2s]
+Manolitto19 checks
+ruby1704 checks
+Cycylaetis20 checks
+manggy94 bets 3500
+Manolitto19 raises 168764 to 172264 and is all-in
+ruby1704 folds
+Cycylaetis20 folds
+manggy94 folds
+Manolitto19 collected 192964 from pot
+*** SUMMARY ***
+Total pot 192964 | No rake
+Board: [6c 7h 2s]
+Seat 7: Manolitto19 (small blind) won 192964
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 21 - HandId: #1754011454811406588-53-1606767156 - Holdem no limit (400/1750/3500) - 2020/11/30 20:12:36 UTC
+Table: 'Freeroll(408387616)#0251' 8-max (real money) Seat #7 is the button
+Seat 1: sof24 (9392)
+Seat 2: moi ... (41600)
+Seat 3: Cycylaetis20 (24400)
+Seat 4: manggy94 (73290)
+Seat 5: maizetioup (50168)
+Seat 6: hitman44250 (24185)
+Seat 7: Manolitto19 (192964)
+Seat 8: ruby1704 (63440)
+*** ANTE/BLINDS ***
+ruby1704 posts ante 400
+sof24 posts ante 400
+moi ... posts ante 400
+Cycylaetis20 posts ante 400
+manggy94 posts ante 400
+maizetioup posts ante 400
+hitman44250 posts ante 400
+Manolitto19 posts ante 400
+ruby1704 posts small blind 1750
+sof24 posts big blind 3500
+Dealt to manggy94 [6h 5h]
+*** PRE-FLOP *** 
+moi ... folds
+Cycylaetis20 calls 3500
+manggy94 folds
+maizetioup folds
+hitman44250 folds
+Manolitto19 calls 3500
+ruby1704 calls 1750
+sof24 folds
+*** FLOP *** [5d 7s 3s]
+ruby1704 checks
+Cycylaetis20 checks
+Manolitto19 checks
+*** TURN *** [5d 7s 3s][8c]
+ruby1704 checks
+Cycylaetis20 checks
+Manolitto19 checks
+*** RIVER *** [5d 7s 3s 8c][4s]
+ruby1704 checks
+Cycylaetis20 checks
+Manolitto19 checks
+*** SHOW DOWN ***
+Cycylaetis20 shows [Qc 9d] (High card : Queen)
+Manolitto19 shows [Ah 9c] (High card : Ace)
+ruby1704 shows [4d Th] (One pair : 4)
+ruby1704 collected 17200 from pot
+*** SUMMARY ***
+Total pot 17200 | No rake
+Board: [5d 7s 3s 8c 4s]
+Seat 3: Cycylaetis20 showed [Qc 9d] and lost with High card : Queen
+Seat 7: Manolitto19 (button) showed [Ah 9c] and lost with High card : Ace
+Seat 8: ruby1704 (small blind) showed [4d Th] and won 17200 with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 22 - HandId: #1754011454811406588-54-1606767253 - Holdem no limit (500/2000/4000) - 2020/11/30 20:14:13 UTC
+Table: 'Freeroll(408387616)#0251' 8-max (real money) Seat #8 is the button
+Seat 1: sof24 (5492)
+Seat 2: moi ... (41200)
+Seat 3: Cycylaetis20 (20500)
+Seat 4: manggy94 (72890)
+Seat 5: maizetioup (49768)
+Seat 6: hitman44250 (23785)
+Seat 7: Manolitto19 (189064)
+Seat 8: ruby1704 (76740)
+*** ANTE/BLINDS ***
+sof24 posts ante 500
+moi ... posts ante 500
+Cycylaetis20 posts ante 500
+manggy94 posts ante 500
+maizetioup posts ante 500
+hitman44250 posts ante 500
+Manolitto19 posts ante 500
+ruby1704 posts ante 500
+sof24 posts small blind 2000
+moi ... posts big blind 4000
+Dealt to manggy94 [Td Qs]
+*** PRE-FLOP *** 
+Cycylaetis20 calls 4000
+manggy94 folds
+maizetioup folds
+hitman44250 raises 19285 to 23285 and is all-in
+Manolitto19 calls 23285
+ruby1704 folds
+sof24 folds
+moi ... folds
+Cycylaetis20 calls 16000 and is all-in
+*** FLOP *** [6h Jh Qd]
+*** TURN *** [6h Jh Qd][7s]
+*** RIVER *** [6h Jh Qd 7s][Qh]
+*** SHOW DOWN ***
+Cycylaetis20 shows [Ac Jd] (Two pairs : Queens and Jacks)
+hitman44250 shows [Kd 9d] (One pair : Queens)
+Manolitto19 shows [Jc Qc] (Full of Queens and Jacks)
+Manolitto19 collected 76570 from pot
+*** SUMMARY ***
+Total pot 76570 | No rake
+Board: [6h Jh Qd 7s Qh]
+Seat 3: Cycylaetis20 showed [Ac Jd] and lost with Two pairs : Queens and Jacks
+Seat 6: hitman44250 showed [Kd 9d] and lost with One pair : Queens
+Seat 7: Manolitto19 showed [Jc Qc] and won 76570 with Full of Queens and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 22 - HandId: #1754011454811406588-55-1606767300 - Holdem no limit (500/2000/4000) - 2020/11/30 20:15:00 UTC
+Table: 'Freeroll(408387616)#0251' 8-max (real money) Seat #1 is the button
+Seat 1: sof24 (2992)
+Seat 2: moi ... (36700)
+Seat 4: manggy94 (72390)
+Seat 5: maizetioup (49268)
+Seat 7: Manolitto19 (241849)
+Seat 8: ruby1704 (76240)
+*** ANTE/BLINDS ***
+moi ... posts ante 500
+manggy94 posts ante 500
+sof24 posts ante 500
+maizetioup posts ante 500
+Manolitto19 posts ante 500
+ruby1704 posts ante 500
+moi ... posts small blind 2000
+manggy94 posts big blind 4000
+Dealt to manggy94 [Kd Ac]
+*** PRE-FLOP *** 
+maizetioup folds
+Manolitto19 calls 4000
+ruby1704 raises 32000 to 36000
+sof24 folds
+moi ... folds
+manggy94 raises 35890 to 71890 and is all-in
+Manolitto19 folds
+ruby1704 calls 35890
+*** FLOP *** [5c 2d Jh]
+*** TURN *** [5c 2d Jh][6h]
+*** RIVER *** [5c 2d Jh 6h][5s]
+*** SHOW DOWN ***
+manggy94 shows [Kd Ac] (One pair : 5)
+ruby1704 shows [8d 8c] (Two pairs : 8 and 5)
+ruby1704 collected 152780 from pot
+*** SUMMARY ***
+Total pot 152780 | No rake
+Board: [5c 2d Jh 6h 5s]
+Seat 4: manggy94 (big blind) showed [Kd Ac] and lost with One pair : 5
+Seat 8: ruby1704 showed [8d 8c] and won 152780 with Two pairs : 8 and 5
+
+

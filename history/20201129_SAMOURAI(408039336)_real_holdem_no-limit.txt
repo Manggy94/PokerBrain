@@ -1,0 +1,124 @@
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1752515603601555501-65-1606667528 - Holdem no limit (80/350/700) - 2020/11/29 16:32:08 UTC
+Table: 'SAMOURAI(408039336)#0044' 6-max (real money) Seat #3 is the button
+Seat 1: Nadrojz (41359)
+Seat 2: Kakwinapat (57408)
+Seat 3: manggy94 (20000)
+Seat 4: PoTNpiT (6640)
+Seat 5: Enolagayed (35670)
+Seat 6: Dybanda10 (17065)
+*** ANTE/BLINDS ***
+PoTNpiT posts ante 80
+Enolagayed posts ante 80
+Nadrojz posts ante 80
+Kakwinapat posts ante 80
+Dybanda10 posts ante 80
+PoTNpiT posts small blind 350
+Enolagayed posts big blind 700
+*** PRE-FLOP *** 
+Dybanda10 folds
+Nadrojz raises 1050 to 1750
+Kakwinapat calls 1750
+PoTNpiT folds
+Enolagayed calls 1050
+*** FLOP *** [Ad Kd 4s]
+Enolagayed checks
+Nadrojz bets 4000
+Kakwinapat calls 4000
+Enolagayed folds
+*** TURN *** [Ad Kd 4s][Ah]
+Nadrojz checks
+Kakwinapat checks
+*** RIVER *** [Ad Kd 4s Ah][Kc]
+Nadrojz checks
+Kakwinapat checks
+*** SHOW DOWN ***
+Kakwinapat shows [Jd Jc] (Two pairs : Aces and Kings)
+Nadrojz shows [Ks 7s] (Full of Kings and Aces)
+Nadrojz collected 14000 from pot
+*** SUMMARY ***
+Total pot 14000 | No rake
+Board: [Ad Kd 4s Ah Kc]
+Seat 1: Nadrojz showed [Ks 7s] and won 14000 with Full of Kings and Aces
+Seat 2: Kakwinapat showed [Jd Jc] and lost with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1752515603601555501-66-1606667563 - Holdem no limit (80/350/700) - 2020/11/29 16:32:43 UTC
+Table: 'SAMOURAI(408039336)#0044' 6-max (real money) Seat #4 is the button
+Seat 1: Nadrojz (49529)
+Seat 2: Kakwinapat (51578)
+Seat 3: manggy94 (20000)
+Seat 4: PoTNpiT (6210)
+Seat 5: Enolagayed (33840)
+Seat 6: Dybanda10 (16985)
+*** ANTE/BLINDS ***
+Enolagayed posts ante 80
+Dybanda10 posts ante 80
+Nadrojz posts ante 80
+Kakwinapat posts ante 80
+manggy94 posts ante 80
+PoTNpiT posts ante 80
+Enolagayed posts small blind 350
+Dybanda10 posts big blind 700
+Dealt to manggy94 [9s As]
+*** PRE-FLOP *** 
+Nadrojz raises 1050 to 1750
+Kakwinapat calls 1750
+manggy94 calls 1750
+PoTNpiT folds
+Enolagayed calls 1400
+Dybanda10 folds
+*** FLOP *** [8d 2c Qd]
+Enolagayed checks
+Nadrojz checks
+Kakwinapat bets 1750
+manggy94 folds
+Enolagayed folds
+Nadrojz folds
+Kakwinapat collected 9930 from pot
+*** SUMMARY ***
+Total pot 9930 | No rake
+Board: [8d 2c Qd]
+Seat 2: Kakwinapat won 9930
+
+
+Winamax Poker - Tournament "SAMOURAI" buyIn: 4.50€ + 0.50€ level: 8 - HandId: #1752515603601555501-67-1606667604 - Holdem no limit (80/350/700) - 2020/11/29 16:33:24 UTC
+Table: 'SAMOURAI(408039336)#0044' 6-max (real money) Seat #5 is the button
+Seat 1: Nadrojz (47699)
+Seat 2: Kakwinapat (57928)
+Seat 3: manggy94 (18170)
+Seat 4: PoTNpiT (6130)
+Seat 5: Enolagayed (32010)
+Seat 6: Dybanda10 (16205)
+*** ANTE/BLINDS ***
+Dybanda10 posts ante 80
+Nadrojz posts ante 80
+Kakwinapat posts ante 80
+manggy94 posts ante 80
+PoTNpiT posts ante 80
+Enolagayed posts ante 80
+Dybanda10 posts small blind 350
+Nadrojz posts big blind 700
+Dealt to manggy94 [9c 9s]
+*** PRE-FLOP *** 
+Kakwinapat calls 700
+manggy94 raises 2930 to 3630
+PoTNpiT folds
+Enolagayed raises 28300 to 31930 and is all-in
+Dybanda10 folds
+Nadrojz folds
+Kakwinapat folds
+manggy94 calls 14460 and is all-in
+*** FLOP *** [Js Jd Kh]
+*** TURN *** [Js Jd Kh][Kd]
+*** RIVER *** [Js Jd Kh Kd][Qh]
+*** SHOW DOWN ***
+manggy94 shows [9c 9s] (Two pairs : Kings and Jacks)
+Enolagayed shows [As Ah] (Two pairs : Aces and Kings)
+Enolagayed collected 52250 from pot
+*** SUMMARY ***
+Total pot 52250 | No rake
+Board: [Js Jd Kh Kd Qh]
+Seat 3: manggy94 showed [9c 9s] and lost with Two pairs : Kings and Jacks
+Seat 5: Enolagayed (button) showed [As Ah] and won 52250 with Two pairs : Aces and Kings
+
+

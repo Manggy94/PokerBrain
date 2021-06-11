@@ -1,0 +1,572 @@
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 18 + 2 level: 0 - HandId: #538925972246757377-1-1438866905 - Holdem no limit (50/100) - 2015/08/06 13:15:05 UTC
+Table: 'Deepstack Hold'em(125478481)#000' 6-max (play money) Seat #2 is the button
+Seat 1: mcdv06 (20000)
+Seat 2: ganguise (20000)
+Seat 3: pat1410 (20000)
+Seat 4: charas (20000)
+Seat 5: searle89 (20000)
+Seat 6: manggy94 (20000)
+*** ANTE/BLINDS ***
+pat1410 posts small blind 50
+charas posts big blind 100
+Dealt to manggy94 [9d 9s]
+*** PRE-FLOP *** 
+searle89 raises 200 to 300
+manggy94 raises 200 to 500
+mcdv06 folds
+ganguise folds
+pat1410 folds
+charas folds
+searle89 calls 200
+*** FLOP *** [Js 7h 3s]
+searle89 bets 575
+manggy94 calls 575
+*** TURN *** [Js 7h 3s][Kc]
+searle89 checks
+manggy94 checks
+*** RIVER *** [Js 7h 3s Kc][Tc]
+searle89 bets 1150
+manggy94 calls 1150
+*** SHOW DOWN ***
+manggy94 shows [9d 9s] (One pair : 9)
+searle89 shows [Th Jh] (Two pairs : Jacks and Tens)
+searle89 collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | No rake
+Board: [Js 7h 3s Kc Tc]
+Seat 5: searle89 showed [Th Jh] and won 4600 with Two pairs : Jacks and Tens
+Seat 6: manggy94 showed [9d 9s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 18 + 2 level: 0 - HandId: #538925972246757377-2-1438867037 - Holdem no limit (50/100) - 2015/08/06 13:17:17 UTC
+Table: 'Deepstack Hold'em(125478481)#000' 6-max (play money) Seat #3 is the button
+Seat 1: mcdv06 (20000)
+Seat 2: ganguise (20000)
+Seat 3: pat1410 (19950)
+Seat 4: charas (19900)
+Seat 5: searle89 (22375)
+Seat 6: manggy94 (17775)
+*** ANTE/BLINDS ***
+charas posts small blind 50
+searle89 posts big blind 100
+Dealt to manggy94 [2s Js]
+*** PRE-FLOP *** 
+manggy94 folds
+mcdv06 folds
+ganguise folds
+pat1410 calls 100
+charas folds
+searle89 raises 200 to 300
+pat1410 calls 200
+*** FLOP *** [6c Qs 5c]
+searle89 bets 100
+pat1410 calls 100
+*** TURN *** [6c Qs 5c][9d]
+searle89 bets 425
+pat1410 calls 425
+*** RIVER *** [6c Qs 5c 9d][Th]
+searle89 bets 850
+pat1410 folds
+searle89 collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Board: [6c Qs 5c 9d Th]
+Seat 5: searle89 (big blind) won 2550
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 18 + 2 level: 1 - HandId: #538925972246757382-1-1438867096 - Holdem no limit (75/150) - 2015/08/06 13:18:16 UTC
+Table: 'Deepstack Hold'em(125478481)#005' 6-max (play money) Seat #5 is the button
+Seat 1: manggy94 (17775)
+Seat 5: Matussr1 (20000)
+*** ANTE/BLINDS ***
+Matussr1 posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [4s 7d]
+*** PRE-FLOP *** 
+Matussr1 calls 75
+manggy94 checks
+*** FLOP *** [Qc 3s 3h]
+manggy94 checks
+Matussr1 checks
+*** TURN *** [Qc 3s 3h][7s]
+manggy94 checks
+Matussr1 checks
+*** RIVER *** [Qc 3s 3h 7s][6h]
+manggy94 bets 750
+Matussr1 folds
+manggy94 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [Qc 3s 3h 7s 6h]
+Seat 1: manggy94 (big blind) won 1050
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 18 + 2 level: 1 - HandId: #538925972246757382-2-1438867146 - Holdem no limit (75/150) - 2015/08/06 13:19:06 UTC
+Table: 'Deepstack Hold'em(125478481)#005' 6-max (play money) Seat #1 is the button
+Seat 1: manggy94 (17925)
+Seat 2: EAGLE TWO (20000)
+Seat 3: jucathjo35 (40150)
+Seat 4: BERMUDE 83 (19850)
+Seat 6: gracieuse33 (19600)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 75
+EAGLE TWO posts big blind 150
+Dealt to manggy94 [4c 5d]
+*** PRE-FLOP *** 
+manggy94 calls 75
+EAGLE TWO checks
+*** FLOP *** [Qd 8h 6d]
+EAGLE TWO checks
+manggy94 checks
+*** TURN *** [Qd 8h 6d][3c]
+EAGLE TWO bets 150
+manggy94 calls 150
+*** RIVER *** [Qd 8h 6d 3c][Ts]
+EAGLE TWO checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [4c 5d] (High card : Queen)
+EAGLE TWO shows [Td 3d] (Two pairs : Tens and 3)
+EAGLE TWO collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Qd 8h 6d 3c Ts]
+Seat 1: manggy94 (small blind) (button) showed [4c 5d] and lost with High card : Queen
+Seat 2: EAGLE TWO (big blind) showed [Td 3d] and won 600 with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 18 + 2 level: 1 - HandId: #538925972246757382-3-1438867174 - Holdem no limit (75/150) - 2015/08/06 13:19:34 UTC
+Table: 'Deepstack Hold'em(125478481)#005' 6-max (play money) Seat #1 is the button
+Seat 1: manggy94 (17625)
+Seat 2: EAGLE TWO (20300)
+Seat 3: jucathjo35 (40150)
+Seat 4: BERMUDE 83 (19850)
+Seat 6: gracieuse33 (19600)
+*** ANTE/BLINDS ***
+EAGLE TWO posts small blind 75
+jucathjo35 posts big blind 150
+Dealt to manggy94 [Qd 7s]
+*** PRE-FLOP *** 
+BERMUDE 83 folds
+gracieuse33 folds
+manggy94 folds
+EAGLE TWO raises 150 to 300
+jucathjo35 calls 150
+*** FLOP *** [3h 4s Ac]
+EAGLE TWO bets 300
+jucathjo35 folds
+EAGLE TWO collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3h 4s Ac]
+Seat 2: EAGLE TWO (small blind) won 900
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 18 + 2 level: 1 - HandId: #538925972246757382-4-1438867203 - Holdem no limit (75/150) - 2015/08/06 13:20:03 UTC
+Table: 'Deepstack Hold'em(125478481)#005' 6-max (play money) Seat #2 is the button
+Seat 1: manggy94 (17625)
+Seat 2: EAGLE TWO (20600)
+Seat 3: jucathjo35 (39850)
+Seat 4: BERMUDE 83 (19850)
+Seat 6: gracieuse33 (19600)
+*** ANTE/BLINDS ***
+jucathjo35 posts small blind 75
+BERMUDE 83 posts big blind 150
+Dealt to manggy94 [8h 2d]
+*** PRE-FLOP *** 
+gracieuse33 folds
+manggy94 folds
+EAGLE TWO folds
+jucathjo35 raises 300 to 450
+BERMUDE 83 folds
+jucathjo35 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 3: jucathjo35 (small blind) won 600
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 18 + 2 level: 1 - HandId: #538925972246757382-5-1438867236 - Holdem no limit (75/150) - 2015/08/06 13:20:36 UTC
+Table: 'Deepstack Hold'em(125478481)#005' 6-max (play money) Seat #3 is the button
+Seat 1: manggy94 (17625)
+Seat 2: EAGLE TWO (20600)
+Seat 3: jucathjo35 (40000)
+Seat 4: BERMUDE 83 (19700)
+Seat 6: gracieuse33 (19600)
+*** ANTE/BLINDS ***
+BERMUDE 83 posts small blind 75
+gracieuse33 posts big blind 150
+Dealt to manggy94 [3s Jc]
+*** PRE-FLOP *** 
+manggy94 folds
+EAGLE TWO folds
+jucathjo35 calls 150
+BERMUDE 83 calls 75
+gracieuse33 checks
+*** FLOP *** [Kd 2h 8d]
+BERMUDE 83 checks
+gracieuse33 checks
+jucathjo35 bets 150
+BERMUDE 83 folds
+gracieuse33 folds
+jucathjo35 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Kd 2h 8d]
+Seat 3: jucathjo35 (button) won 600
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 18 + 2 level: 2 - HandId: #538925972246757382-6-1438867264 - Holdem no limit (100/200) - 2015/08/06 13:21:04 UTC
+Table: 'Deepstack Hold'em(125478481)#005' 6-max (play money) Seat #4 is the button
+Seat 1: manggy94 (17625)
+Seat 2: EAGLE TWO (20600)
+Seat 3: jucathjo35 (40300)
+Seat 4: BERMUDE 83 (19550)
+Seat 6: gracieuse33 (19450)
+*** ANTE/BLINDS ***
+gracieuse33 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [3d 9c]
+*** PRE-FLOP *** 
+EAGLE TWO calls 200
+jucathjo35 calls 200
+BERMUDE 83 folds
+gracieuse33 folds
+manggy94 checks
+*** FLOP *** [Qs Qh Jc]
+manggy94 checks
+EAGLE TWO bets 700
+jucathjo35 folds
+manggy94 folds
+EAGLE TWO collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Board: [Qs Qh Jc]
+Seat 2: EAGLE TWO won 1400
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 18 + 2 level: 2 - HandId: #538925972246757382-7-1438867287 - Holdem no limit (100/200) - 2015/08/06 13:21:27 UTC
+Table: 'Deepstack Hold'em(125478481)#005' 6-max (play money) Seat #6 is the button
+Seat 1: manggy94 (17425)
+Seat 2: EAGLE TWO (21100)
+Seat 3: jucathjo35 (40100)
+Seat 4: BERMUDE 83 (19550)
+Seat 6: gracieuse33 (19350)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+EAGLE TWO posts big blind 200
+Dealt to manggy94 [5c Qh]
+*** PRE-FLOP *** 
+jucathjo35 raises 200 to 400
+BERMUDE 83 folds
+gracieuse33 folds
+manggy94 calls 300
+EAGLE TWO calls 200
+*** FLOP *** [Th 7s 8s]
+manggy94 checks
+EAGLE TWO checks
+jucathjo35 bets 1900
+manggy94 folds
+EAGLE TWO calls 1900
+*** TURN *** [Th 7s 8s][4h]
+EAGLE TWO checks
+jucathjo35 bets 5000
+EAGLE TWO calls 5000
+*** RIVER *** [Th 7s 8s 4h][Jd]
+EAGLE TWO checks
+jucathjo35 bets 32800 and is all-in
+EAGLE TWO folds
+jucathjo35 collected 47800 from pot
+*** SUMMARY ***
+Total pot 47800 | No rake
+Board: [Th 7s 8s 4h Jd]
+Seat 3: jucathjo35 won 47800
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 18 + 2 level: 2 - HandId: #538925972246757382-8-1438867327 - Holdem no limit (100/200) - 2015/08/06 13:22:07 UTC
+Table: 'Deepstack Hold'em(125478481)#005' 6-max (play money) Seat #1 is the button
+Seat 1: manggy94 (17025)
+Seat 2: EAGLE TWO (13800)
+Seat 3: jucathjo35 (47800)
+Seat 4: BERMUDE 83 (19550)
+Seat 6: gracieuse33 (19350)
+*** ANTE/BLINDS ***
+EAGLE TWO posts small blind 100
+jucathjo35 posts big blind 200
+Dealt to manggy94 [Qc Qs]
+*** PRE-FLOP *** 
+BERMUDE 83 calls 200
+gracieuse33 folds
+manggy94 raises 1000 to 1200
+EAGLE TWO calls 1100
+jucathjo35 folds
+BERMUDE 83 folds
+*** FLOP *** [Ks 3s Ah]
+EAGLE TWO checks
+manggy94 checks
+*** TURN *** [Ks 3s Ah][6s]
+EAGLE TWO checks
+manggy94 bets 2100
+EAGLE TWO folds
+manggy94 collected 4900 from pot
+*** SUMMARY ***
+Total pot 4900 | No rake
+Board: [Ks 3s Ah 6s]
+Seat 1: manggy94 (button) won 4900
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 18 + 2 level: 2 - HandId: #538925972246757382-9-1438867378 - Holdem no limit (100/200) - 2015/08/06 13:22:58 UTC
+Table: 'Deepstack Hold'em(125478481)#005' 6-max (play money) Seat #2 is the button
+Seat 1: manggy94 (18625)
+Seat 2: EAGLE TWO (12600)
+Seat 3: jucathjo35 (47600)
+Seat 4: BERMUDE 83 (19350)
+Seat 6: gracieuse33 (19350)
+*** ANTE/BLINDS ***
+jucathjo35 posts small blind 100
+BERMUDE 83 posts big blind 200
+Dealt to manggy94 [Th 6d]
+*** PRE-FLOP *** 
+gracieuse33 folds
+manggy94 folds
+EAGLE TWO raises 200 to 400
+jucathjo35 folds
+BERMUDE 83 calls 200
+*** FLOP *** [As 2s 9c]
+BERMUDE 83 checks
+EAGLE TWO bets 450
+BERMUDE 83 folds
+EAGLE TWO collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [As 2s 9c]
+Seat 2: EAGLE TWO (button) won 1350
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 18 + 2 level: 2 - HandId: #538925972246757382-10-1438867412 - Holdem no limit (100/200) - 2015/08/06 13:23:32 UTC
+Table: 'Deepstack Hold'em(125478481)#005' 6-max (play money) Seat #3 is the button
+Seat 1: manggy94 (18625)
+Seat 2: EAGLE TWO (13100)
+Seat 3: jucathjo35 (47500)
+Seat 4: BERMUDE 83 (18950)
+Seat 6: gracieuse33 (19350)
+*** ANTE/BLINDS ***
+BERMUDE 83 posts small blind 100
+gracieuse33 posts big blind 200
+Dealt to manggy94 [Qs 4h]
+*** PRE-FLOP *** 
+manggy94 calls 200
+EAGLE TWO folds
+jucathjo35 folds
+BERMUDE 83 calls 100
+gracieuse33 checks
+*** FLOP *** [9h Ac 6s]
+BERMUDE 83 checks
+gracieuse33 checks
+manggy94 checks
+*** TURN *** [9h Ac 6s][5s]
+BERMUDE 83 checks
+gracieuse33 checks
+manggy94 bets 200
+BERMUDE 83 calls 200
+gracieuse33 folds
+*** RIVER *** [9h Ac 6s 5s][Jh]
+BERMUDE 83 bets 200
+manggy94 calls 200
+*** SHOW DOWN ***
+manggy94 shows [Qs 4h] (High card : Ace)
+BERMUDE 83 shows [Jd Kh] (One pair : Jacks)
+BERMUDE 83 collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Board: [9h Ac 6s 5s Jh]
+Seat 1: manggy94 showed [Qs 4h] and lost with High card : Ace
+Seat 4: BERMUDE 83 (small blind) showed [Jd Kh] and won 1400 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 18 + 2 level: 3 - HandId: #538925972246757382-11-1438867465 - Holdem no limit (150/300) - 2015/08/06 13:24:25 UTC
+Table: 'Deepstack Hold'em(125478481)#005' 6-max (play money) Seat #4 is the button
+Seat 1: manggy94 (18025)
+Seat 2: EAGLE TWO (13100)
+Seat 3: jucathjo35 (47500)
+Seat 4: BERMUDE 83 (19750)
+Seat 5: pat1410 (20375)
+Seat 6: gracieuse33 (19150)
+*** ANTE/BLINDS ***
+gracieuse33 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [9h 3h]
+*** PRE-FLOP *** 
+EAGLE TWO raises 300 to 600
+jucathjo35 calls 600
+BERMUDE 83 folds
+gracieuse33 folds
+manggy94 calls 300
+*** FLOP *** [9c As 5d]
+manggy94 checks
+EAGLE TWO bets 975
+jucathjo35 folds
+manggy94 calls 975
+*** TURN *** [9c As 5d][Jh]
+manggy94 checks
+EAGLE TWO checks
+*** RIVER *** [9c As 5d Jh][Td]
+manggy94 checks
+EAGLE TWO checks
+*** SHOW DOWN ***
+manggy94 shows [9h 3h] (One pair : 9)
+EAGLE TWO shows [3c Ah] (One pair : Aces)
+EAGLE TWO collected 3900 from pot
+*** SUMMARY ***
+Total pot 3900 | No rake
+Board: [9c As 5d Jh Td]
+Seat 1: manggy94 (big blind) showed [9h 3h] and lost with One pair : 9
+Seat 2: EAGLE TWO showed [3c Ah] and won 3900 with One pair : Aces
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 18 + 2 level: 3 - HandId: #538925972246757382-12-1438867534 - Holdem no limit (150/300) - 2015/08/06 13:25:34 UTC
+Table: 'Deepstack Hold'em(125478481)#005' 6-max (play money) Seat #6 is the button
+Seat 1: manggy94 (16450)
+Seat 2: EAGLE TWO (15425)
+Seat 3: jucathjo35 (46900)
+Seat 4: BERMUDE 83 (19750)
+Seat 5: pat1410 (20375)
+Seat 6: gracieuse33 (19000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+EAGLE TWO posts big blind 300
+Dealt to manggy94 [Tc 3s]
+*** PRE-FLOP *** 
+jucathjo35 folds
+BERMUDE 83 folds
+pat1410 calls 300
+gracieuse33 folds
+manggy94 folds
+EAGLE TWO checks
+*** FLOP *** [2d 8h Jd]
+EAGLE TWO bets 750
+pat1410 folds
+EAGLE TWO shows [Jc Ts] (One pair : Jacks)
+EAGLE TWO collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [2d 8h Jd]
+Seat 2: EAGLE TWO (big blind) showed [Jc Ts] and won 1500 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 18 + 2 level: 3 - HandId: #538925972246757382-13-1438867560 - Holdem no limit (150/300) - 2015/08/06 13:26:00 UTC
+Table: 'Deepstack Hold'em(125478481)#005' 6-max (play money) Seat #1 is the button
+Seat 1: manggy94 (16300)
+Seat 2: EAGLE TWO (15875)
+Seat 3: jucathjo35 (46900)
+Seat 4: BERMUDE 83 (19750)
+Seat 5: pat1410 (20075)
+Seat 6: gracieuse33 (19000)
+*** ANTE/BLINDS ***
+EAGLE TWO posts small blind 150
+jucathjo35 posts big blind 300
+Dealt to manggy94 [4h 9d]
+*** PRE-FLOP *** 
+BERMUDE 83 calls 300
+pat1410 folds
+gracieuse33 calls 300
+manggy94 folds
+EAGLE TWO folds
+jucathjo35 checks
+*** FLOP *** [4d 6h Td]
+jucathjo35 checks
+BERMUDE 83 bets 1050
+gracieuse33 calls 1050
+jucathjo35 folds
+*** TURN *** [4d 6h Td][7s]
+BERMUDE 83 checks
+gracieuse33 checks
+*** RIVER *** [4d 6h Td 7s][8h]
+BERMUDE 83 checks
+gracieuse33 bets 3150
+BERMUDE 83 folds
+gracieuse33 collected 6300 from pot
+*** SUMMARY ***
+Total pot 6300 | No rake
+Board: [4d 6h Td 7s 8h]
+Seat 6: gracieuse33 won 6300
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 18 + 2 level: 3 - HandId: #538925972246757382-14-1438867600 - Holdem no limit (150/300) - 2015/08/06 13:26:40 UTC
+Table: 'Deepstack Hold'em(125478481)#005' 6-max (play money) Seat #2 is the button
+Seat 1: manggy94 (16300)
+Seat 2: EAGLE TWO (15725)
+Seat 3: jucathjo35 (46600)
+Seat 4: BERMUDE 83 (18400)
+Seat 5: pat1410 (20075)
+Seat 6: gracieuse33 (20800)
+*** ANTE/BLINDS ***
+jucathjo35 posts small blind 150
+BERMUDE 83 posts big blind 300
+Dealt to manggy94 [8c Ac]
+*** PRE-FLOP *** 
+pat1410 folds
+gracieuse33 folds
+manggy94 calls 300
+EAGLE TWO folds
+jucathjo35 calls 150
+BERMUDE 83 checks
+*** FLOP *** [6d Kh 8h]
+jucathjo35 checks
+BERMUDE 83 bets 300
+manggy94 raises 300 to 600
+jucathjo35 folds
+BERMUDE 83 raises 300 to 900
+manggy94 raises 2700 to 3600
+BERMUDE 83 raises 2700 to 6300
+manggy94 calls 2700
+*** TURN *** [6d Kh 8h][5d]
+BERMUDE 83 bets 10125
+manggy94 folds
+BERMUDE 83 collected 23625 from pot
+*** SUMMARY ***
+Total pot 23625 | No rake
+Board: [6d Kh 8h 5d]
+Seat 4: BERMUDE 83 (big blind) won 23625
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 18 + 2 level: 4 - HandId: #538925972246757382-15-1438867643 - Holdem no limit (25/150/300) - 2015/08/06 13:27:23 UTC
+Table: 'Deepstack Hold'em(125478481)#005' 6-max (play money) Seat #3 is the button
+Seat 1: manggy94 (9700)
+Seat 2: EAGLE TWO (15725)
+Seat 3: jucathjo35 (46300)
+Seat 4: BERMUDE 83 (25300)
+Seat 5: pat1410 (20075)
+Seat 6: gracieuse33 (20800)
+*** ANTE/BLINDS ***
+BERMUDE 83 posts ante 25
+pat1410 posts ante 25
+manggy94 posts ante 25
+EAGLE TWO posts ante 25
+jucathjo35 posts ante 25
+gracieuse33 posts ante 25
+BERMUDE 83 posts small blind 150
+pat1410 posts big blind 300
+Dealt to manggy94 [7d 7c]
+*** PRE-FLOP *** 
+gracieuse33 calls 300
+manggy94 raises 2400 to 2700
+EAGLE TWO folds
+jucathjo35 folds
+BERMUDE 83 folds
+pat1410 folds
+gracieuse33 raises 18075 to 20775 and is all-in
+manggy94 calls 6975 and is all-in
+*** FLOP *** [Qs 9h 7h]
+*** TURN *** [Qs 9h 7h][8d]
+*** RIVER *** [Qs 9h 7h 8d][3s]
+*** SHOW DOWN ***
+manggy94 shows [7d 7c] (Trips of 7)
+gracieuse33 shows [9d 9s] (Trips of 9)
+gracieuse33 collected 31050 from pot
+*** SUMMARY ***
+Total pot 31050 | No rake
+Board: [Qs 9h 7h 8d 3s]
+Seat 1: manggy94 showed [7d 7c] and lost with Trips of 7
+Seat 6: gracieuse33 showed [9d 9s] and won 31050 with Trips of 9
+
+

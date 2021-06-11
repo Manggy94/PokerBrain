@@ -1,0 +1,438 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #708793792819363979-20-1470405227 - Holdem no limit (15/75/150) - 2016/08/05 13:53:47 UTC
+Table: 'Freeroll(165028915)#138' 8-max (real money) Seat #1 is the button
+Seat 1: moha2728 (5380)
+Seat 2: grandefoda (2560)
+Seat 3: Panda-Panda (6785)
+Seat 4: jibus5494 (2260)
+Seat 5: Cesar IV (10570)
+Seat 6: manggy94 (3000)
+Seat 7: Mireil59 (14795)
+Seat 8: Sethosam (6485)
+*** ANTE/BLINDS ***
+grandefoda posts ante 15
+Panda-Panda posts ante 15
+moha2728 posts ante 15
+jibus5494 posts ante 15
+Cesar IV posts ante 15
+manggy94 posts ante 15
+Mireil59 posts ante 15
+Sethosam posts ante 15
+grandefoda posts small blind 75
+Panda-Panda posts big blind 150
+Dealt to manggy94 [2h 3s]
+*** PRE-FLOP *** 
+jibus5494 folds
+Cesar IV folds
+manggy94 folds
+Mireil59 calls 150
+Sethosam folds
+moha2728 calls 150
+grandefoda folds
+Panda-Panda checks
+*** FLOP *** [6h Kd 7c]
+Panda-Panda checks
+Mireil59 checks
+moha2728 checks
+*** TURN *** [6h Kd 7c][Kc]
+Panda-Panda checks
+Mireil59 checks
+moha2728 checks
+*** RIVER *** [6h Kd 7c Kc][Qh]
+Panda-Panda checks
+Mireil59 bets 484
+moha2728 folds
+Panda-Panda folds
+Mireil59 collected 1129 from pot
+*** SUMMARY ***
+Total pot 1129 | No rake
+Board: [6h Kd 7c Kc Qh]
+Seat 7: Mireil59 won 1129
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #708793792819363979-21-1470405603 - Holdem no limit (20/100/200) - 2016/08/05 14:00:03 UTC
+Table: 'Freeroll(165028915)#138' 8-max (real money) Seat #2 is the button
+Seat 1: moha2728 (5215)
+Seat 2: grandefoda (2470)
+Seat 3: Panda-Panda (6620)
+Seat 4: jibus5494 (2245)
+Seat 5: Cesar IV (10555)
+Seat 6: manggy94 (2985)
+Seat 7: Mireil59 (15275)
+Seat 8: Sethosam (6470)
+*** ANTE/BLINDS ***
+Panda-Panda posts ante 20
+jibus5494 posts ante 20
+moha2728 posts ante 20
+grandefoda posts ante 20
+Cesar IV posts ante 20
+manggy94 posts ante 20
+Mireil59 posts ante 20
+Sethosam posts ante 20
+Panda-Panda posts small blind 100
+jibus5494 posts big blind 200
+Dealt to manggy94 [Qc 8d]
+*** PRE-FLOP *** 
+Cesar IV calls 200
+manggy94 folds
+Mireil59 calls 200
+Sethosam calls 200
+moha2728 folds
+grandefoda folds
+Panda-Panda calls 100
+jibus5494 raises 2025 to 2225 and is all-in
+Cesar IV calls 2025
+Mireil59 folds
+Sethosam folds
+Panda-Panda folds
+*** FLOP *** [Jc 7s 4d]
+*** TURN *** [Jc 7s 4d][2s]
+*** RIVER *** [Jc 7s 4d 2s][Js]
+*** SHOW DOWN ***
+Cesar IV shows [7h Ah] (Two pairs : Jacks and 7)
+jibus5494 shows [Ks Kh] (Two pairs : Kings and Jacks)
+jibus5494 collected 5210 from pot
+*** SUMMARY ***
+Total pot 5210 | No rake
+Board: [Jc 7s 4d 2s Js]
+Seat 4: jibus5494 (big blind) showed [Ks Kh] and won 5210 with Two pairs : Kings and Jacks
+Seat 5: Cesar IV showed [7h Ah] and lost with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #708793792819363979-22-1470405680 - Holdem no limit (20/100/200) - 2016/08/05 14:01:20 UTC
+Table: 'Freeroll(165028915)#138' 8-max (real money) Seat #3 is the button
+Seat 1: moha2728 (5195)
+Seat 2: grandefoda (2450)
+Seat 3: Panda-Panda (6400)
+Seat 4: jibus5494 (5210)
+Seat 5: Cesar IV (8310)
+Seat 6: manggy94 (2965)
+Seat 7: Mireil59 (15055)
+Seat 8: Sethosam (6250)
+*** ANTE/BLINDS ***
+jibus5494 posts ante 20
+Cesar IV posts ante 20
+moha2728 posts ante 20
+grandefoda posts ante 20
+Panda-Panda posts ante 20
+manggy94 posts ante 20
+Mireil59 posts ante 20
+Sethosam posts ante 20
+jibus5494 posts small blind 100
+Cesar IV posts big blind 200
+Dealt to manggy94 [Kd 7d]
+*** PRE-FLOP *** 
+manggy94 calls 200
+Mireil59 folds
+Sethosam calls 200
+moha2728 folds
+grandefoda folds
+Panda-Panda folds
+jibus5494 folds
+Cesar IV checks
+*** FLOP *** [9s 8c 9c]
+Cesar IV checks
+manggy94 checks
+Sethosam bets 200
+Cesar IV calls 200
+manggy94 calls 200
+*** TURN *** [9s 8c 9c][Ad]
+Cesar IV checks
+manggy94 checks
+Sethosam checks
+*** RIVER *** [9s 8c 9c Ad][4c]
+Cesar IV checks
+manggy94 checks
+Sethosam checks
+*** SHOW DOWN ***
+Cesar IV shows [5d 7h] (One pair : 9)
+Sethosam shows [Qs 7c] (One pair : 9)
+manggy94 shows [Kd 7d] (One pair : 9)
+manggy94 collected 1460 from pot
+*** SUMMARY ***
+Total pot 1460 | No rake
+Board: [9s 8c 9c Ad 4c]
+Seat 5: Cesar IV (big blind) showed [5d 7h] and lost with One pair : 9
+Seat 6: manggy94 showed [Kd 7d] and won 1460 with One pair : 9
+Seat 8: Sethosam showed [Qs 7c] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #708793792819363979-23-1470405739 - Holdem no limit (20/100/200) - 2016/08/05 14:02:19 UTC
+Table: 'Freeroll(165028915)#138' 8-max (real money) Seat #4 is the button
+Seat 1: moha2728 (5175)
+Seat 2: grandefoda (2430)
+Seat 3: Panda-Panda (6380)
+Seat 4: jibus5494 (5090)
+Seat 5: Cesar IV (7890)
+Seat 6: manggy94 (4005)
+Seat 7: Mireil59 (15035)
+Seat 8: Sethosam (5830)
+*** ANTE/BLINDS ***
+Cesar IV posts ante 20
+manggy94 posts ante 20
+moha2728 posts ante 20
+grandefoda posts ante 20
+Panda-Panda posts ante 20
+jibus5494 posts ante 20
+Mireil59 posts ante 20
+Sethosam posts ante 20
+Cesar IV posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [5c 6d]
+*** PRE-FLOP *** 
+Mireil59 calls 200
+Sethosam raises 200 to 400
+moha2728 folds
+grandefoda folds
+Panda-Panda raises 5960 to 6360 and is all-in
+jibus5494 calls 5070 and is all-in
+Cesar IV folds
+manggy94 folds
+Mireil59 folds
+Sethosam calls 5410 and is all-in
+*** FLOP *** [4h 7h 5d]
+*** TURN *** [4h 7h 5d][Qd]
+*** RIVER *** [4h 7h 5d Qd][6h]
+*** SHOW DOWN ***
+Sethosam shows [Jd Kd] (High card : King)
+Panda-Panda shows [Kc Ah] (High card : Ace)
+jibus5494 shows [9c 9d] (One pair : 9)
+jibus5494 collected 15870 from main pot
+Panda-Panda collected 2030 from side pot 1
+*** SUMMARY ***
+Total pot 17900 | No rake
+Board: [4h 7h 5d Qd 6h]
+Seat 3: Panda-Panda showed [Kc Ah] and won 2030 with High card : Ace
+Seat 4: jibus5494 (button) showed [9c 9d] and won 15870 with One pair : 9
+Seat 8: Sethosam showed [Jd Kd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #708793792819363979-24-1470405912 - Holdem no limit (25/125/250) - 2016/08/05 14:05:12 UTC
+Table: 'Freeroll(165028915)#138' 8-max (real money) Seat #5 is the button
+Seat 1: moha2728 (5155)
+Seat 2: grandefoda (2410)
+Seat 3: Panda-Panda (2030)
+Seat 4: jibus5494 (15870)
+Seat 5: Cesar IV (7770)
+Seat 6: manggy94 (3785)
+Seat 7: Mireil59 (14815)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+Mireil59 posts ante 25
+moha2728 posts ante 25
+grandefoda posts ante 25
+Panda-Panda posts ante 25
+jibus5494 posts ante 25
+Cesar IV posts ante 25
+manggy94 posts small blind 125
+Mireil59 posts big blind 250
+Dealt to manggy94 [Ah 6d]
+*** PRE-FLOP *** 
+moha2728 folds
+grandefoda folds
+Panda-Panda raises 1755 to 2005 and is all-in
+jibus5494 calls 2005
+Cesar IV folds
+manggy94 folds
+Mireil59 calls 1755
+*** FLOP *** [9s Kd Ac]
+Mireil59 bets 6315
+jibus5494 folds
+*** TURN *** [9s Kd Ac][Td]
+*** RIVER *** [9s Kd Ac Td][4d]
+*** SHOW DOWN ***
+Panda-Panda shows [8h Qc] (High card : Ace)
+Mireil59 shows [4c Kc] (Two pairs : Kings and 4)
+Mireil59 collected 12630 from pot
+*** SUMMARY ***
+Total pot 12630 | No rake
+Board: [9s Kd Ac Td 4d]
+Seat 3: Panda-Panda showed [8h Qc] and lost with High card : Ace
+Seat 7: Mireil59 (big blind) showed [4c Kc] and won 12630 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #708793792819363979-25-1470405950 - Holdem no limit (35/150/300) - 2016/08/05 14:05:50 UTC
+Table: 'Freeroll(165028915)#138' 8-max (real money) Seat #6 is the button
+Seat 1: moha2728 (5130)
+Seat 2: grandefoda (2385)
+Seat 4: jibus5494 (13840)
+Seat 5: Cesar IV (7745)
+Seat 6: manggy94 (3635)
+Seat 7: Mireil59 (19100)
+Seat 8: Mikidonovans (2590)
+*** ANTE/BLINDS ***
+Mireil59 posts ante 35
+Mikidonovans posts ante 35
+moha2728 posts ante 35
+grandefoda posts ante 35
+jibus5494 posts ante 35
+Cesar IV posts ante 35
+manggy94 posts ante 35
+Mireil59 posts small blind 150
+Mikidonovans posts big blind 300
+Dealt to manggy94 [Ts 7h]
+*** PRE-FLOP *** 
+moha2728 folds
+grandefoda folds
+jibus5494 folds
+Cesar IV folds
+manggy94 folds
+Mireil59 calls 150
+Mikidonovans folds
+Mireil59 collected 845 from pot
+*** SUMMARY ***
+Total pot 845 | No rake
+Seat 7: Mireil59 (small blind) won 845
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #708793792819363979-26-1470405979 - Holdem no limit (35/150/300) - 2016/08/05 14:06:19 UTC
+Table: 'Freeroll(165028915)#138' 8-max (real money) Seat #7 is the button
+Seat 1: moha2728 (5095)
+Seat 2: grandefoda (2350)
+Seat 3: LeRinos38 (3794)
+Seat 4: jibus5494 (13805)
+Seat 5: Cesar IV (7710)
+Seat 6: manggy94 (3600)
+Seat 7: Mireil59 (19610)
+Seat 8: Mikidonovans (2255)
+*** ANTE/BLINDS ***
+Mikidonovans posts ante 35
+moha2728 posts ante 35
+grandefoda posts ante 35
+LeRinos38 posts ante 35
+jibus5494 posts ante 35
+Cesar IV posts ante 35
+manggy94 posts ante 35
+Mireil59 posts ante 35
+Mikidonovans posts small blind 150
+moha2728 posts big blind 300
+Dealt to manggy94 [Qc Kd]
+*** PRE-FLOP *** 
+grandefoda folds
+LeRinos38 calls 300
+jibus5494 folds
+Cesar IV folds
+manggy94 raises 300 to 600
+Mireil59 raises 300 to 900
+Mikidonovans folds
+moha2728 calls 600
+LeRinos38 raises 300 to 1200
+manggy94 calls 600
+Mireil59 calls 300
+moha2728 raises 3860 to 5060 and is all-in
+LeRinos38 calls 2559 and is all-in
+manggy94 folds
+Mireil59 calls 3860
+*** FLOP *** [7h 9s 3s]
+*** TURN *** [7h 9s 3s][2c]
+*** RIVER *** [7h 9s 3s 2c][Td]
+*** SHOW DOWN ***
+moha2728 shows [5d 8s] (High card : Ten)
+LeRinos38 shows [Ah 7d] (One pair : 7)
+Mireil59 shows [Qh As] (High card : Ace)
+Mireil59 collected 2602 from side pot 1
+LeRinos38 collected 12907 from main pot
+*** SUMMARY ***
+Total pot 15509 | No rake
+Board: [7h 9s 3s 2c Td]
+Seat 1: moha2728 (big blind) showed [5d 8s] and lost with High card : Ten
+Seat 3: LeRinos38 showed [Ah 7d] and won 12907 with One pair : 7
+Seat 7: Mireil59 (button) showed [Qh As] and won 2602 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #708793792819363979-27-1470406032 - Holdem no limit (35/150/300) - 2016/08/05 14:07:12 UTC
+Table: 'Freeroll(165028915)#138' 8-max (real money) Seat #8 is the button
+Seat 2: grandefoda (2315)
+Seat 3: LeRinos38 (12907)
+Seat 4: jibus5494 (13770)
+Seat 5: Cesar IV (7675)
+Seat 6: manggy94 (2365)
+Seat 7: Mireil59 (17117)
+Seat 8: Mikidonovans (2070)
+*** ANTE/BLINDS ***
+grandefoda posts ante 35
+LeRinos38 posts ante 35
+jibus5494 posts ante 35
+Cesar IV posts ante 35
+manggy94 posts ante 35
+Mireil59 posts ante 35
+Mikidonovans posts ante 35
+grandefoda posts big blind 300
+Dealt to manggy94 [5c 8d]
+*** PRE-FLOP *** 
+LeRinos38 calls 300
+jibus5494 folds
+Cesar IV folds
+manggy94 folds
+Mireil59 raises 300 to 600
+Mikidonovans folds
+grandefoda folds
+LeRinos38 calls 300
+*** FLOP *** [3s 7c 9h]
+LeRinos38 checks
+Mireil59 checks
+*** TURN *** [3s 7c 9h][Jd]
+LeRinos38 checks
+Mireil59 checks
+*** RIVER *** [3s 7c 9h Jd][6c]
+LeRinos38 checks
+Mireil59 bets 300
+LeRinos38 calls 300
+*** SHOW DOWN ***
+LeRinos38 shows [Tc 5d] (High card : Jack)
+Mireil59 shows [Ah Qd] (High card : Ace)
+Mireil59 collected 2345 from pot
+*** SUMMARY ***
+Total pot 2345 | No rake
+Board: [3s 7c 9h Jd 6c]
+Seat 3: LeRinos38 showed [Tc 5d] and lost with High card : Jack
+Seat 7: Mireil59 showed [Ah Qd] and won 2345 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #708793792819363979-28-1470406089 - Holdem no limit (35/150/300) - 2016/08/05 14:08:09 UTC
+Table: 'Freeroll(165028915)#138' 8-max (real money) Seat #1 is the button
+Seat 1: AS AS alan (1925)
+Seat 2: grandefoda (1980)
+Seat 3: LeRinos38 (11972)
+Seat 4: jibus5494 (13735)
+Seat 5: Cesar IV (7640)
+Seat 6: manggy94 (2330)
+Seat 7: Mireil59 (18527)
+Seat 8: Mikidonovans (2035)
+*** ANTE/BLINDS ***
+grandefoda posts ante 35
+LeRinos38 posts ante 35
+jibus5494 posts ante 35
+Cesar IV posts ante 35
+manggy94 posts ante 35
+Mireil59 posts ante 35
+Mikidonovans posts ante 35
+grandefoda posts small blind 150
+LeRinos38 posts big blind 300
+Dealt to manggy94 [Ad 8d]
+*** PRE-FLOP *** 
+jibus5494 calls 300
+Cesar IV folds
+manggy94 raises 1295 to 1595
+Mireil59 calls 1595
+Mikidonovans folds
+grandefoda folds
+LeRinos38 folds
+jibus5494 calls 1295
+*** FLOP *** [5d As 6h]
+jibus5494 checks
+manggy94 bets 700 and is all-in
+Mireil59 raises 700 to 1400
+jibus5494 folds
+*** TURN *** [5d As 6h][5s]
+*** RIVER *** [5d As 6h 5s][Qs]
+*** SHOW DOWN ***
+manggy94 shows [Ad 8d] (Two pairs : Aces and 5)
+Mireil59 shows [Ac Qd] (Two pairs : Aces and Queens)
+Mireil59 collected 7580 from pot
+*** SUMMARY ***
+Total pot 7580 | No rake
+Board: [5d As 6h 5s Qs]
+Seat 6: manggy94 showed [Ad 8d] and lost with Two pairs : Aces and 5
+Seat 7: Mireil59 showed [Ac Qd] and won 7580 with Two pairs : Aces and Queens
+
+

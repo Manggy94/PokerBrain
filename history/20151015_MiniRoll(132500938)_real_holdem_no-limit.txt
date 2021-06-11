@@ -1,0 +1,126 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #569087195399323652-45-1444893843 - Holdem no limit (25/150/300) - 2015/10/15 07:24:03 UTC
+Table: 'MiniRoll(132500938)#003' 6-max (real money) Seat #5 is the button
+Seat 1: domidomino (9625)
+Seat 2: sasaille (53054)
+Seat 3: chris8484294 (21800)
+Seat 4: manggy94 (10000)
+Seat 5: filo974 (13541)
+Seat 6: Sassabrassa (30230)
+*** ANTE/BLINDS ***
+Sassabrassa posts ante 25
+domidomino posts ante 25
+sasaille posts ante 25
+chris8484294 posts ante 25
+manggy94 posts ante 25
+filo974 posts ante 25
+Sassabrassa posts small blind 150
+domidomino posts big blind 300
+Dealt to manggy94 [Tc Kd]
+*** PRE-FLOP *** 
+sasaille calls 300
+chris8484294 folds
+manggy94 raises 1200 to 1500
+filo974 raises 12016 to 13516 and is all-in
+Sassabrassa raises 16689 to 30205 and is all-in
+domidomino folds
+sasaille folds
+manggy94 folds
+*** FLOP *** [9s Ad Jc]
+*** TURN *** [9s Ad Jc][7c]
+*** RIVER *** [9s Ad Jc 7c][Kh]
+*** SHOW DOWN ***
+filo974 shows [Qc Ah] (One pair : Aces)
+Sassabrassa shows [As Kc] (Two pairs : Aces and Kings)
+Sassabrassa collected 45971 from pot
+*** SUMMARY ***
+Total pot 45971 | No rake
+Board: [9s Ad Jc 7c Kh]
+Seat 5: filo974 (button) showed [Qc Ah] and lost with One pair : Aces
+Seat 6: Sassabrassa (small blind) showed [As Kc] and won 45971 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #569087195399323652-46-1444893872 - Holdem no limit (25/150/300) - 2015/10/15 07:24:32 UTC
+Table: 'MiniRoll(132500938)#003' 6-max (real money) Seat #6 is the button
+Seat 1: domidomino (9300)
+Seat 2: sasaille (52729)
+Seat 3: chris8484294 (21775)
+Seat 4: manggy94 (8475)
+Seat 6: Sassabrassa (45971)
+*** ANTE/BLINDS ***
+domidomino posts ante 25
+sasaille posts ante 25
+chris8484294 posts ante 25
+manggy94 posts ante 25
+Sassabrassa posts ante 25
+domidomino posts small blind 150
+sasaille posts big blind 300
+Dealt to manggy94 [8h 4s]
+*** PRE-FLOP *** 
+chris8484294 folds
+manggy94 folds
+Sassabrassa calls 300
+domidomino folds
+sasaille checks
+*** FLOP *** [Ad Kd Kc]
+sasaille bets 300
+Sassabrassa calls 300
+*** TURN *** [Ad Kd Kc][Qc]
+sasaille bets 1950
+Sassabrassa raises 1950 to 3900
+sasaille calls 1950
+*** RIVER *** [Ad Kd Kc Qc][6d]
+sasaille checks
+Sassabrassa checks
+*** SHOW DOWN ***
+sasaille shows [8s Tc] (One pair : Kings)
+Sassabrassa shows [5d 9d] (Flush Ace high)
+Sassabrassa collected 9275 from pot
+*** SUMMARY ***
+Total pot 9275 | No rake
+Board: [Ad Kd Kc Qc 6d]
+Seat 2: sasaille (big blind) showed [8s Tc] and lost with One pair : Kings
+Seat 6: Sassabrassa (button) showed [5d 9d] and won 9275 with Flush Ace high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 5 - HandId: #569087195399323652-47-1444893936 - Holdem no limit (25/150/300) - 2015/10/15 07:25:36 UTC
+Table: 'MiniRoll(132500938)#003' 6-max (real money) Seat #1 is the button
+Seat 1: domidomino (9125)
+Seat 2: sasaille (48204)
+Seat 3: chris8484294 (21750)
+Seat 4: manggy94 (8450)
+Seat 5: waddle34140 (4750)
+Seat 6: Sassabrassa (50721)
+*** ANTE/BLINDS ***
+sasaille posts ante 25
+chris8484294 posts ante 25
+domidomino posts ante 25
+manggy94 posts ante 25
+waddle34140 posts ante 25
+Sassabrassa posts ante 25
+sasaille posts small blind 150
+chris8484294 posts big blind 300
+Dealt to manggy94 [Ac Jc]
+*** PRE-FLOP *** 
+manggy94 raises 8125 to 8425 and is all-in
+waddle34140 calls 4725 and is all-in
+Sassabrassa folds
+domidomino folds
+sasaille folds
+chris8484294 calls 8125
+*** FLOP *** [6h Tc Js]
+*** TURN *** [6h Tc Js][6s]
+*** RIVER *** [6h Tc Js 6s][Qc]
+*** SHOW DOWN ***
+manggy94 shows [Ac Jc] (Two pairs : Jacks and 6)
+waddle34140 shows [Kc Ad] (Straight Ace high)
+chris8484294 shows [Qs Kd] (Two pairs : Queens and 6)
+chris8484294 collected 7400 from side pot 1
+waddle34140 collected 14475 from main pot
+*** SUMMARY ***
+Total pot 21875 | No rake
+Board: [6h Tc Js 6s Qc]
+Seat 3: chris8484294 (big blind) showed [Qs Kd] and won 7400 with Two pairs : Queens and 6
+Seat 4: manggy94 showed [Ac Jc] and lost with Two pairs : Jacks and 6
+Seat 5: waddle34140 showed [Kc Ad] and won 14475 with Straight Ace high
+
+

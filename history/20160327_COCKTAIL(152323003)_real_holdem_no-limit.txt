@@ -1,0 +1,1583 @@
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 3 - HandId: #654222316313510396-2-1459102598 - Holdem no limit (150/300) - 2016/03/27 18:16:38 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #4 is the button
+Seat 1: SE69 (20000)
+Seat 2: deadbulb1138 (20000)
+Seat 3: SpewPiou (20000)
+Seat 4: kikonik (19700)
+Seat 5: Delnoys59 (20300)
+Seat 6: manggy94 (20000)
+*** ANTE/BLINDS ***
+Delnoys59 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [5d 6c]
+*** PRE-FLOP *** 
+SE69 calls 300
+deadbulb1138 calls 300
+SpewPiou folds
+kikonik raises 750 to 1050
+Delnoys59 folds
+manggy94 folds
+SE69 folds
+deadbulb1138 calls 750
+*** FLOP *** [7h 3d 7d]
+deadbulb1138 checks
+kikonik bets 1050
+deadbulb1138 calls 1050
+*** TURN *** [7h 3d 7d][3h]
+deadbulb1138 checks
+kikonik bets 2475
+deadbulb1138 folds
+kikonik collected 7425 from pot
+*** SUMMARY ***
+Total pot 7425 | No rake
+Board: [7h 3d 7d 3h]
+Seat 4: kikonik (button) won 7425
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 3 - HandId: #654222316313510396-3-1459102656 - Holdem no limit (150/300) - 2016/03/27 18:17:36 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #5 is the button
+Seat 1: SE69 (19700)
+Seat 2: deadbulb1138 (17900)
+Seat 3: SpewPiou (20000)
+Seat 4: kikonik (22550)
+Seat 5: Delnoys59 (20150)
+Seat 6: manggy94 (19700)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+SE69 posts big blind 300
+Dealt to manggy94 [9h As]
+*** PRE-FLOP *** 
+deadbulb1138 raises 600 to 900
+SpewPiou folds
+kikonik folds
+Delnoys59 folds
+manggy94 calls 750
+SE69 folds
+*** FLOP *** [8h 3d Jh]
+manggy94 bets 1400
+deadbulb1138 folds
+manggy94 collected 3500 from pot
+*** SUMMARY ***
+Total pot 3500 | No rake
+Board: [8h 3d Jh]
+Seat 6: manggy94 (small blind) won 3500
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 3 - HandId: #654222316313510396-4-1459102684 - Holdem no limit (150/300) - 2016/03/27 18:18:04 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #6 is the button
+Seat 1: SE69 (19400)
+Seat 2: deadbulb1138 (17000)
+Seat 3: SpewPiou (20000)
+Seat 4: kikonik (22550)
+Seat 5: Delnoys59 (20150)
+Seat 6: manggy94 (20900)
+*** ANTE/BLINDS ***
+SE69 posts small blind 150
+deadbulb1138 posts big blind 300
+Dealt to manggy94 [Ah 2s]
+*** PRE-FLOP *** 
+SpewPiou folds
+kikonik raises 300 to 600
+Delnoys59 folds
+manggy94 calls 600
+SE69 folds
+deadbulb1138 calls 300
+*** FLOP *** [9h Kd 5s]
+deadbulb1138 checks
+kikonik checks
+manggy94 checks
+*** TURN *** [9h Kd 5s][5d]
+deadbulb1138 bets 1950
+kikonik folds
+manggy94 folds
+deadbulb1138 collected 3900 from pot
+*** SUMMARY ***
+Total pot 3900 | No rake
+Board: [9h Kd 5s 5d]
+Seat 2: deadbulb1138 (big blind) won 3900
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 3 - HandId: #654222316313510396-5-1459102745 - Holdem no limit (150/300) - 2016/03/27 18:19:05 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #1 is the button
+Seat 1: SE69 (19250)
+Seat 2: deadbulb1138 (18350)
+Seat 3: SpewPiou (20000)
+Seat 4: kikonik (21950)
+Seat 5: Delnoys59 (20150)
+Seat 6: manggy94 (20300)
+*** ANTE/BLINDS ***
+deadbulb1138 posts small blind 150
+SpewPiou posts big blind 300
+Dealt to manggy94 [Qd As]
+*** PRE-FLOP *** 
+kikonik folds
+Delnoys59 calls 300
+manggy94 raises 1050 to 1350
+SE69 calls 1350
+deadbulb1138 folds
+SpewPiou folds
+Delnoys59 folds
+*** FLOP *** [Ac 7d 9d]
+manggy94 checks
+SE69 bets 1725
+manggy94 raises 6900 to 8625
+SE69 raises 9275 to 17900 and is all-in
+manggy94 calls 9275
+*** TURN *** [Ac 7d 9d][Ad]
+*** RIVER *** [Ac 7d 9d Ad][3h]
+*** SHOW DOWN ***
+manggy94 shows [Qd As] (Trips of Aces)
+SE69 shows [9s 9c] (Full of 9 and Aces)
+SE69 collected 39250 from pot
+*** SUMMARY ***
+Total pot 39250 | No rake
+Board: [Ac 7d 9d Ad 3h]
+Seat 1: SE69 (button) showed [9s 9c] and won 39250 with Full of 9 and Aces
+Seat 6: manggy94 showed [Qd As] and lost with Trips of Aces
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 3 - HandId: #654222316313510396-6-1459102811 - Holdem no limit (150/300) - 2016/03/27 18:20:11 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #2 is the button
+Seat 1: SE69 (39250)
+Seat 2: deadbulb1138 (18200)
+Seat 3: SpewPiou (19700)
+Seat 4: kikonik (21950)
+Seat 5: Delnoys59 (19850)
+Seat 6: manggy94 (1050)
+*** ANTE/BLINDS ***
+SpewPiou posts small blind 150
+kikonik posts big blind 300
+Dealt to manggy94 [Qh Jc]
+*** PRE-FLOP *** 
+Delnoys59 folds
+manggy94 raises 750 to 1050 and is all-in
+SE69 folds
+deadbulb1138 folds
+SpewPiou folds
+kikonik calls 750
+*** FLOP *** [9d 3s 4d]
+*** TURN *** [9d 3s 4d][Qc]
+*** RIVER *** [9d 3s 4d Qc][Tc]
+*** SHOW DOWN ***
+kikonik shows [Ad 9c] (One pair : 9)
+manggy94 shows [Qh Jc] (One pair : Queens)
+manggy94 collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | No rake
+Board: [9d 3s 4d Qc Tc]
+Seat 4: kikonik (big blind) showed [Ad 9c] and lost with One pair : 9
+Seat 6: manggy94 showed [Qh Jc] and won 2250 with One pair : Queens
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #654222316313510396-7-1459102957 - Holdem no limit (25/150/300) - 2016/03/27 18:22:37 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #3 is the button
+Seat 1: SE69 (39250)
+Seat 2: deadbulb1138 (18200)
+Seat 3: SpewPiou (19550)
+Seat 4: kikonik (20900)
+Seat 5: Delnoys59 (19850)
+Seat 6: manggy94 (2250)
+*** ANTE/BLINDS ***
+kikonik posts ante 25
+Delnoys59 posts ante 25
+SE69 posts ante 25
+deadbulb1138 posts ante 25
+SpewPiou posts ante 25
+manggy94 posts ante 25
+kikonik posts small blind 150
+Delnoys59 posts big blind 300
+Dealt to manggy94 [2s 3h]
+*** PRE-FLOP *** 
+manggy94 folds
+SE69 folds
+deadbulb1138 raises 600 to 900
+SpewPiou folds
+kikonik folds
+Delnoys59 folds
+deadbulb1138 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 2: deadbulb1138 won 1500
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #654222316313510396-8-1459102981 - Holdem no limit (25/150/300) - 2016/03/27 18:23:01 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #4 is the button
+Seat 1: SE69 (39225)
+Seat 2: deadbulb1138 (18775)
+Seat 3: SpewPiou (19525)
+Seat 4: kikonik (20725)
+Seat 5: Delnoys59 (19525)
+Seat 6: manggy94 (2225)
+*** ANTE/BLINDS ***
+Delnoys59 posts ante 25
+manggy94 posts ante 25
+SE69 posts ante 25
+deadbulb1138 posts ante 25
+SpewPiou posts ante 25
+kikonik posts ante 25
+Delnoys59 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [4h Tc]
+*** PRE-FLOP *** 
+SE69 raises 900 to 1200
+deadbulb1138 folds
+SpewPiou folds
+kikonik folds
+Delnoys59 calls 1050
+manggy94 folds
+*** FLOP *** [Th 4s Jc]
+Delnoys59 bets 1425
+SE69 raises 36575 to 38000 and is all-in
+Delnoys59 calls 16875 and is all-in
+*** TURN *** [Th 4s Jc][8h]
+*** RIVER *** [Th 4s Jc 8h][2s]
+*** SHOW DOWN ***
+Delnoys59 shows [Ks Td] (One pair : Tens)
+SE69 shows [Kd Kc] (One pair : Kings)
+SE69 collected 59150 from pot
+*** SUMMARY ***
+Total pot 59150 | No rake
+Board: [Th 4s Jc 8h 2s]
+Seat 1: SE69 showed [Kd Kc] and won 59150 with One pair : Kings
+Seat 5: Delnoys59 (small blind) showed [Ks Td] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #654222316313510396-9-1459103026 - Holdem no limit (25/150/300) - 2016/03/27 18:23:46 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #5 is the button
+Seat 1: SE69 (59150)
+Seat 2: deadbulb1138 (18750)
+Seat 3: SpewPiou (19500)
+Seat 4: kikonik (20700)
+Seat 5: Tova319 (20000)
+Seat 6: manggy94 (1900)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+SE69 posts ante 25
+deadbulb1138 posts ante 25
+SpewPiou posts ante 25
+kikonik posts ante 25
+manggy94 posts small blind 150
+SE69 posts big blind 300
+Dealt to manggy94 [Tc Ad]
+*** PRE-FLOP *** 
+deadbulb1138 folds
+SpewPiou folds
+kikonik folds
+manggy94 raises 1575 to 1875 and is all-in
+SE69 folds
+manggy94 collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Seat 6: manggy94 (small blind) won 2300
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #654222316313510396-10-1459103041 - Holdem no limit (25/150/300) - 2016/03/27 18:24:01 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #6 is the button
+Seat 1: SE69 (58825)
+Seat 2: deadbulb1138 (18725)
+Seat 3: SpewPiou (19475)
+Seat 4: kikonik (20675)
+Seat 5: Tova319 (20000)
+Seat 6: manggy94 (2300)
+*** ANTE/BLINDS ***
+SE69 posts ante 25
+deadbulb1138 posts ante 25
+SpewPiou posts ante 25
+kikonik posts ante 25
+Tova319 posts ante 25
+manggy94 posts ante 25
+SE69 posts small blind 150
+deadbulb1138 posts big blind 300
+Dealt to manggy94 [Qc 3s]
+*** PRE-FLOP *** 
+SpewPiou folds
+kikonik calls 300
+Tova319 folds
+manggy94 folds
+SE69 raises 58500 to 58800 and is all-in
+deadbulb1138 folds
+kikonik folds
+SE69 collected 59550 from pot
+*** SUMMARY ***
+Total pot 59550 | No rake
+Seat 1: SE69 (small blind) won 59550
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #654222316313510396-11-1459103076 - Holdem no limit (25/150/300) - 2016/03/27 18:24:36 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #1 is the button
+Seat 1: SE69 (59550)
+Seat 2: deadbulb1138 (18400)
+Seat 3: SpewPiou (19450)
+Seat 4: kikonik (20350)
+Seat 5: Tova319 (19975)
+Seat 6: manggy94 (2275)
+*** ANTE/BLINDS ***
+deadbulb1138 posts ante 25
+SpewPiou posts ante 25
+SE69 posts ante 25
+kikonik posts ante 25
+Tova319 posts ante 25
+manggy94 posts ante 25
+deadbulb1138 posts small blind 150
+SpewPiou posts big blind 300
+Dealt to manggy94 [2c 6h]
+*** PRE-FLOP *** 
+kikonik folds
+Tova319 folds
+manggy94 folds
+SE69 calls 300
+deadbulb1138 raises 1059 to 1359
+SpewPiou folds
+SE69 calls 1059
+*** FLOP *** [3h 5s As]
+deadbulb1138 checks
+SE69 checks
+*** TURN *** [3h 5s As][5c]
+deadbulb1138 checks
+SE69 checks
+*** RIVER *** [3h 5s As 5c][3c]
+deadbulb1138 bets 2112
+SE69 folds
+deadbulb1138 collected 5280 from pot
+*** SUMMARY ***
+Total pot 5280 | No rake
+Board: [3h 5s As 5c 3c]
+Seat 2: deadbulb1138 (small blind) won 5280
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #654222316313510396-12-1459103118 - Holdem no limit (25/150/300) - 2016/03/27 18:25:18 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #2 is the button
+Seat 1: SE69 (58166)
+Seat 2: deadbulb1138 (20184)
+Seat 3: SpewPiou (19125)
+Seat 4: kikonik (20325)
+Seat 5: Tova319 (19950)
+Seat 6: manggy94 (2250)
+*** ANTE/BLINDS ***
+SpewPiou posts ante 25
+kikonik posts ante 25
+SE69 posts ante 25
+deadbulb1138 posts ante 25
+Tova319 posts ante 25
+manggy94 posts ante 25
+SpewPiou posts small blind 150
+kikonik posts big blind 300
+Dealt to manggy94 [Jc Kd]
+*** PRE-FLOP *** 
+Tova319 folds
+manggy94 calls 300
+SE69 calls 300
+deadbulb1138 raises 19859 to 20159 and is all-in
+SpewPiou folds
+kikonik folds
+manggy94 folds
+SE69 folds
+deadbulb1138 collected 21359 from pot
+*** SUMMARY ***
+Total pot 21359 | No rake
+Seat 2: deadbulb1138 (button) won 21359
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #654222316313510396-13-1459103144 - Holdem no limit (25/150/300) - 2016/03/27 18:25:44 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #3 is the button
+Seat 1: SE69 (57841)
+Seat 2: deadbulb1138 (21359)
+Seat 3: SpewPiou (18950)
+Seat 4: kikonik (20000)
+Seat 5: Tova319 (19925)
+Seat 6: manggy94 (1925)
+*** ANTE/BLINDS ***
+kikonik posts ante 25
+Tova319 posts ante 25
+SE69 posts ante 25
+deadbulb1138 posts ante 25
+SpewPiou posts ante 25
+manggy94 posts ante 25
+kikonik posts small blind 150
+Tova319 posts big blind 300
+Dealt to manggy94 [4h 7h]
+*** PRE-FLOP *** 
+manggy94 folds
+SE69 folds
+deadbulb1138 folds
+SpewPiou folds
+kikonik calls 150
+Tova319 raises 900 to 1200
+kikonik folds
+Tova319 collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Seat 5: Tova319 (big blind) won 1650
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #654222316313510396-14-1459103173 - Holdem no limit (25/150/300) - 2016/03/27 18:26:13 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #4 is the button
+Seat 1: SE69 (57816)
+Seat 2: deadbulb1138 (21334)
+Seat 3: SpewPiou (18925)
+Seat 4: kikonik (19675)
+Seat 5: Tova319 (20350)
+Seat 6: manggy94 (1900)
+*** ANTE/BLINDS ***
+Tova319 posts ante 25
+manggy94 posts ante 25
+SE69 posts ante 25
+deadbulb1138 posts ante 25
+SpewPiou posts ante 25
+kikonik posts ante 25
+Tova319 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [4c 6c]
+*** PRE-FLOP *** 
+SE69 folds
+deadbulb1138 folds
+SpewPiou folds
+kikonik raises 300 to 600
+Tova319 calls 450
+manggy94 folds
+*** FLOP *** [5d 8d Tc]
+Tova319 bets 300
+kikonik calls 300
+*** TURN *** [5d 8d Tc][Qd]
+Tova319 checks
+kikonik bets 900
+Tova319 folds
+kikonik collected 3150 from pot
+*** SUMMARY ***
+Total pot 3150 | No rake
+Board: [5d 8d Tc Qd]
+Seat 4: kikonik (button) won 3150
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #654222316313510396-15-1459103248 - Holdem no limit (25/150/300) - 2016/03/27 18:27:28 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #5 is the button
+Seat 1: SE69 (57791)
+Seat 2: deadbulb1138 (21309)
+Seat 3: SpewPiou (18900)
+Seat 4: kikonik (21000)
+Seat 5: Tova319 (19425)
+Seat 6: manggy94 (1575)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+SE69 posts ante 25
+deadbulb1138 posts ante 25
+SpewPiou posts ante 25
+kikonik posts ante 25
+Tova319 posts ante 25
+manggy94 posts small blind 150
+SE69 posts big blind 300
+Dealt to manggy94 [9s Qc]
+*** PRE-FLOP *** 
+deadbulb1138 folds
+SpewPiou folds
+kikonik folds
+Tova319 folds
+manggy94 calls 150
+SE69 checks
+*** FLOP *** [2c 2s 3h]
+manggy94 checks
+SE69 checks
+*** TURN *** [2c 2s 3h][Qs]
+manggy94 bets 1250 and is all-in
+SE69 folds
+manggy94 collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | No rake
+Board: [2c 2s 3h Qs]
+Seat 6: manggy94 (small blind) won 2000
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #654222316313510396-16-1459103301 - Holdem no limit (25/150/300) - 2016/03/27 18:28:21 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #6 is the button
+Seat 1: SE69 (57466)
+Seat 2: deadbulb1138 (21284)
+Seat 3: SpewPiou (18875)
+Seat 4: kikonik (20975)
+Seat 5: Tova319 (19400)
+Seat 6: manggy94 (2000)
+*** ANTE/BLINDS ***
+SE69 posts ante 25
+deadbulb1138 posts ante 25
+SpewPiou posts ante 25
+kikonik posts ante 25
+Tova319 posts ante 25
+manggy94 posts ante 25
+SE69 posts small blind 150
+deadbulb1138 posts big blind 300
+Dealt to manggy94 [Tc Qs]
+*** PRE-FLOP *** 
+SpewPiou folds
+kikonik raises 450 to 750
+Tova319 calls 750
+manggy94 folds
+SE69 calls 600
+deadbulb1138 folds
+*** FLOP *** [9h Qc 9d]
+SE69 bets 2700
+kikonik folds
+Tova319 folds
+SE69 collected 5400 from pot
+*** SUMMARY ***
+Total pot 5400 | No rake
+Board: [9h Qc 9d]
+Seat 1: SE69 (small blind) won 5400
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 4 - HandId: #654222316313510396-17-1459103402 - Holdem no limit (25/150/300) - 2016/03/27 18:30:02 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #1 is the button
+Seat 1: SE69 (59391)
+Seat 2: deadbulb1138 (20959)
+Seat 3: SpewPiou (18850)
+Seat 4: kikonik (20200)
+Seat 5: Tova319 (18625)
+Seat 6: manggy94 (1975)
+*** ANTE/BLINDS ***
+deadbulb1138 posts ante 25
+SpewPiou posts ante 25
+SE69 posts ante 25
+kikonik posts ante 25
+Tova319 posts ante 25
+manggy94 posts ante 25
+deadbulb1138 posts small blind 150
+SpewPiou posts big blind 300
+Dealt to manggy94 [2h Kh]
+*** PRE-FLOP *** 
+kikonik folds
+Tova319 raises 300 to 600
+manggy94 folds
+SE69 folds
+deadbulb1138 raises 1650 to 2250
+SpewPiou raises 16575 to 18825 and is all-in
+Tova319 calls 18000 and is all-in
+deadbulb1138 folds
+*** FLOP *** [Ks Jc 8c]
+*** TURN *** [Ks Jc 8c][Qc]
+*** RIVER *** [Ks Jc 8c Qc][5h]
+*** SHOW DOWN ***
+Tova319 shows [As 2s] (High card : Ace)
+SpewPiou shows [3h 3c] (One pair : 3)
+SpewPiou collected 39825 from pot
+*** SUMMARY ***
+Total pot 39825 | No rake
+Board: [Ks Jc 8c Qc 5h]
+Seat 3: SpewPiou (big blind) showed [3h 3c] and won 39825 with One pair : 3
+Seat 5: Tova319 showed [As 2s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #654222316313510396-18-1459103470 - Holdem no limit (30/200/400) - 2016/03/27 18:31:10 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #2 is the button
+Seat 1: SE69 (59366)
+Seat 2: deadbulb1138 (18684)
+Seat 3: SpewPiou (39825)
+Seat 4: kikonik (20175)
+Seat 5: Zemax 59 (20000)
+Seat 6: manggy94 (1950)
+*** ANTE/BLINDS ***
+SpewPiou posts ante 30
+kikonik posts ante 30
+SE69 posts ante 30
+deadbulb1138 posts ante 30
+Zemax 59 posts ante 30
+manggy94 posts ante 30
+SpewPiou posts small blind 200
+kikonik posts big blind 400
+Dealt to manggy94 [As 8h]
+*** PRE-FLOP *** 
+Zemax 59 folds
+manggy94 raises 1520 to 1920 and is all-in
+SE69 folds
+deadbulb1138 folds
+SpewPiou folds
+kikonik folds
+manggy94 collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Seat 6: manggy94 won 2700
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #654222316313510396-19-1459103505 - Holdem no limit (30/200/400) - 2016/03/27 18:31:45 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #3 is the button
+Seat 1: SE69 (59336)
+Seat 2: deadbulb1138 (18654)
+Seat 3: SpewPiou (39595)
+Seat 4: kikonik (19745)
+Seat 5: Zemax 59 (19970)
+Seat 6: manggy94 (2700)
+*** ANTE/BLINDS ***
+kikonik posts ante 30
+Zemax 59 posts ante 30
+SE69 posts ante 30
+deadbulb1138 posts ante 30
+SpewPiou posts ante 30
+manggy94 posts ante 30
+kikonik posts small blind 200
+Zemax 59 posts big blind 400
+Dealt to manggy94 [4c Js]
+*** PRE-FLOP *** 
+manggy94 folds
+SE69 folds
+deadbulb1138 raises 400 to 800
+SpewPiou folds
+kikonik folds
+Zemax 59 folds
+deadbulb1138 collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Seat 2: deadbulb1138 won 1580
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #654222316313510396-20-1459103521 - Holdem no limit (30/200/400) - 2016/03/27 18:32:01 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #4 is the button
+Seat 1: SE69 (59306)
+Seat 2: deadbulb1138 (19404)
+Seat 3: SpewPiou (39565)
+Seat 4: kikonik (19515)
+Seat 5: Zemax 59 (19540)
+Seat 6: manggy94 (2670)
+*** ANTE/BLINDS ***
+Zemax 59 posts ante 30
+manggy94 posts ante 30
+SE69 posts ante 30
+deadbulb1138 posts ante 30
+SpewPiou posts ante 30
+kikonik posts ante 30
+Zemax 59 posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [Tc 3h]
+*** PRE-FLOP *** 
+SE69 folds
+deadbulb1138 folds
+SpewPiou folds
+kikonik raises 400 to 800
+Zemax 59 folds
+manggy94 folds
+kikonik collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Seat 4: kikonik (button) won 1580
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #654222316313510396-21-1459103543 - Holdem no limit (30/200/400) - 2016/03/27 18:32:23 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #5 is the button
+Seat 1: SE69 (59276)
+Seat 2: deadbulb1138 (19374)
+Seat 3: SpewPiou (39535)
+Seat 4: kikonik (20265)
+Seat 5: Zemax 59 (19310)
+Seat 6: manggy94 (2240)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+SE69 posts ante 30
+deadbulb1138 posts ante 30
+SpewPiou posts ante 30
+kikonik posts ante 30
+Zemax 59 posts ante 30
+manggy94 posts small blind 200
+SE69 posts big blind 400
+Dealt to manggy94 [8h 6c]
+*** PRE-FLOP *** 
+deadbulb1138 folds
+SpewPiou folds
+kikonik folds
+Zemax 59 raises 400 to 800
+manggy94 folds
+SE69 raises 58446 to 59246 and is all-in
+Zemax 59 folds
+SE69 collected 60426 from pot
+*** SUMMARY ***
+Total pot 60426 | No rake
+Seat 1: SE69 (big blind) won 60426
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #654222316313510396-22-1459103594 - Holdem no limit (30/200/400) - 2016/03/27 18:33:14 UTC
+Table: 'COCKTAIL(152323003)#0507' 6-max (real money) Seat #6 is the button
+Seat 1: SE69 (60426)
+Seat 2: deadbulb1138 (19344)
+Seat 3: SpewPiou (39505)
+Seat 4: kikonik (20235)
+Seat 5: Zemax 59 (18480)
+Seat 6: manggy94 (2010)
+*** ANTE/BLINDS ***
+SE69 posts ante 30
+deadbulb1138 posts ante 30
+SpewPiou posts ante 30
+kikonik posts ante 30
+Zemax 59 posts ante 30
+manggy94 posts ante 30
+SE69 posts small blind 200
+deadbulb1138 posts big blind 400
+Dealt to manggy94 [3c Ac]
+*** PRE-FLOP *** 
+SpewPiou folds
+kikonik folds
+Zemax 59 folds
+manggy94 raises 1580 to 1980 and is all-in
+SE69 calls 1780
+deadbulb1138 folds
+*** FLOP *** [Qs Qc 8s]
+*** TURN *** [Qs Qc 8s][5d]
+*** RIVER *** [Qs Qc 8s 5d][3d]
+*** SHOW DOWN ***
+manggy94 shows [3c Ac] (Two pairs : Queens and 3)
+SE69 shows [Js Jd] (Two pairs : Queens and Jacks)
+SE69 collected 4540 from pot
+*** SUMMARY ***
+Total pot 4540 | No rake
+Board: [Qs Qc 8s 5d 3d]
+Seat 1: SE69 (small blind) showed [Js Jd] and won 4540 with Two pairs : Queens and Jacks
+Seat 6: manggy94 (button) showed [3c Ac] and lost with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #654222316313509944-61-1459103726 - Holdem no limit (30/200/400) - 2016/03/27 18:35:26 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #3 is the button
+Seat 1: jBaiSeDaeSH (38428)
+Seat 2: cantwinX666 (31008)
+Seat 3: migrix (21539)
+Seat 4: manggy94 (20000)
+Seat 5: Hero_Decks (23777)
+Seat 6: Kimounrie (65248)
+*** ANTE/BLINDS ***
+Hero_Decks posts ante 30
+Kimounrie posts ante 30
+jBaiSeDaeSH posts ante 30
+cantwinX666 posts ante 30
+migrix posts ante 30
+Hero_Decks posts small blind 200
+Kimounrie posts big blind 400
+*** PRE-FLOP *** 
+jBaiSeDaeSH raises 600 to 1000
+cantwinX666 folds
+migrix folds
+Hero_Decks calls 800
+Kimounrie folds
+*** FLOP *** [Jd Js Ah]
+Hero_Decks checks
+jBaiSeDaeSH checks
+*** TURN *** [Jd Js Ah][Td]
+Hero_Decks checks
+jBaiSeDaeSH bets 2550
+Hero_Decks calls 2550
+*** RIVER *** [Jd Js Ah Td][2h]
+Hero_Decks checks
+jBaiSeDaeSH bets 7650
+Hero_Decks calls 7650
+*** SHOW DOWN ***
+Hero_Decks shows [Kh As] (Two pairs : Aces and Jacks)
+jBaiSeDaeSH shows [Th Ts] (Full of Tens and Jacks)
+jBaiSeDaeSH collected 22950 from pot
+*** SUMMARY ***
+Total pot 22950 | No rake
+Board: [Jd Js Ah Td 2h]
+Seat 1: jBaiSeDaeSH showed [Th Ts] and won 22950 with Full of Tens and Jacks
+Seat 5: Hero_Decks (small blind) showed [Kh As] and lost with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 5 - HandId: #654222316313509944-62-1459103798 - Holdem no limit (30/200/400) - 2016/03/27 18:36:38 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #5 is the button
+Seat 1: jBaiSeDaeSH (50148)
+Seat 2: cantwinX666 (30978)
+Seat 3: migrix (21509)
+Seat 4: manggy94 (20000)
+Seat 5: Hero_Decks (12547)
+Seat 6: Kimounrie (64818)
+*** ANTE/BLINDS ***
+Kimounrie posts ante 30
+jBaiSeDaeSH posts ante 30
+cantwinX666 posts ante 30
+migrix posts ante 30
+manggy94 posts ante 30
+Hero_Decks posts ante 30
+Kimounrie posts small blind 200
+jBaiSeDaeSH posts big blind 400
+Dealt to manggy94 [6h 5s]
+*** PRE-FLOP *** 
+cantwinX666 folds
+migrix folds
+manggy94 folds
+Hero_Decks folds
+Kimounrie raises 400 to 800
+jBaiSeDaeSH calls 400
+*** FLOP *** [8s 7d 7s]
+Kimounrie bets 854
+jBaiSeDaeSH calls 854
+*** TURN *** [8s 7d 7s][9d]
+Kimounrie bets 1674
+jBaiSeDaeSH calls 1674
+*** RIVER *** [8s 7d 7s 9d][Ah]
+Kimounrie bets 3600
+jBaiSeDaeSH raises 4800 to 8400
+Kimounrie raises 53060 to 61460 and is all-in
+jBaiSeDaeSH calls 38390 and is all-in
+*** SHOW DOWN ***
+jBaiSeDaeSH shows [As 7h] (Full of 7 and Aces)
+Kimounrie shows [8d 8h] (Full of 8 and 7)
+Kimounrie collected 115086 from pot
+*** SUMMARY ***
+Total pot 115086 | No rake
+Board: [8s 7d 7s 9d Ah]
+Seat 1: jBaiSeDaeSH (big blind) showed [As 7h] and lost with Full of 7 and Aces
+Seat 6: Kimounrie (small blind) showed [8d 8h] and won 115086 with Full of 8 and 7
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #654222316313509944-63-1459103908 - Holdem no limit (40/250/500) - 2016/03/27 18:38:28 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #6 is the button
+Seat 2: cantwinX666 (30948)
+Seat 3: migrix (21479)
+Seat 4: manggy94 (19970)
+Seat 5: Hero_Decks (12517)
+Seat 6: Kimounrie (115086)
+*** ANTE/BLINDS ***
+cantwinX666 posts ante 40
+migrix posts ante 40
+manggy94 posts ante 40
+Hero_Decks posts ante 40
+Kimounrie posts ante 40
+cantwinX666 posts big blind 500
+Dealt to manggy94 [9c 4s]
+*** PRE-FLOP *** 
+migrix folds
+manggy94 folds
+Hero_Decks folds
+Kimounrie folds
+cantwinX666 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 2: cantwinX666 (big blind) won 700
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #654222316313509944-64-1459103920 - Holdem no limit (40/250/500) - 2016/03/27 18:38:40 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #1 is the button
+Seat 1: Marlboross (20000)
+Seat 2: cantwinX666 (31108)
+Seat 3: migrix (21439)
+Seat 4: manggy94 (19930)
+Seat 5: Hero_Decks (12477)
+Seat 6: Kimounrie (115046)
+*** ANTE/BLINDS ***
+cantwinX666 posts ante 40
+migrix posts ante 40
+manggy94 posts ante 40
+Hero_Decks posts ante 40
+Kimounrie posts ante 40
+cantwinX666 posts small blind 250
+migrix posts big blind 500
+Dealt to manggy94 [As 2d]
+*** PRE-FLOP *** 
+manggy94 calls 500
+Hero_Decks folds
+Kimounrie folds
+cantwinX666 folds
+migrix checks
+*** FLOP *** [4h Kh 6c]
+migrix checks
+manggy94 checks
+*** TURN *** [4h Kh 6c][5s]
+migrix bets 725
+manggy94 folds
+migrix collected 2175 from pot
+*** SUMMARY ***
+Total pot 2175 | No rake
+Board: [4h Kh 6c 5s]
+Seat 3: migrix (big blind) won 2175
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #654222316313509944-65-1459103946 - Holdem no limit (40/250/500) - 2016/03/27 18:39:06 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #2 is the button
+Seat 1: Marlboross (20000)
+Seat 2: cantwinX666 (30818)
+Seat 3: migrix (22349)
+Seat 4: manggy94 (19390)
+Seat 5: Hero_Decks (12437)
+Seat 6: Kimounrie (115006)
+*** ANTE/BLINDS ***
+migrix posts ante 40
+manggy94 posts ante 40
+Marlboross posts ante 40
+cantwinX666 posts ante 40
+Hero_Decks posts ante 40
+Kimounrie posts ante 40
+migrix posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [Jh 9c]
+*** PRE-FLOP *** 
+Hero_Decks folds
+Kimounrie folds
+Marlboross folds
+cantwinX666 folds
+migrix folds
+manggy94 collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Seat 4: manggy94 (big blind) won 990
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #654222316313509944-66-1459103963 - Holdem no limit (40/250/500) - 2016/03/27 18:39:23 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #3 is the button
+Seat 1: Marlboross (19960)
+Seat 2: cantwinX666 (30778)
+Seat 3: migrix (22059)
+Seat 4: manggy94 (19840)
+Seat 5: Hero_Decks (12397)
+Seat 6: Kimounrie (114966)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+Hero_Decks posts ante 40
+Marlboross posts ante 40
+cantwinX666 posts ante 40
+migrix posts ante 40
+Kimounrie posts ante 40
+manggy94 posts small blind 250
+Hero_Decks posts big blind 500
+Dealt to manggy94 [9h 8c]
+*** PRE-FLOP *** 
+Kimounrie folds
+Marlboross folds
+cantwinX666 folds
+migrix folds
+manggy94 calls 250
+Hero_Decks checks
+*** FLOP *** [9c 9d 5h]
+manggy94 checks
+Hero_Decks checks
+*** TURN *** [9c 9d 5h][2h]
+manggy94 checks
+Hero_Decks checks
+*** RIVER *** [9c 9d 5h 2h][7h]
+manggy94 bets 1240
+Hero_Decks calls 1240
+*** SHOW DOWN ***
+Hero_Decks shows [7s Qc] (Two pairs : 9 and 7)
+manggy94 shows [9h 8c] (Trips of 9)
+manggy94 collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Board: [9c 9d 5h 2h 7h]
+Seat 4: manggy94 (small blind) showed [9h 8c] and won 3720 with Trips of 9
+Seat 5: Hero_Decks (big blind) showed [7s Qc] and lost with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #654222316313509944-67-1459104016 - Holdem no limit (40/250/500) - 2016/03/27 18:40:16 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #4 is the button
+Seat 1: Marlboross (19920)
+Seat 2: cantwinX666 (30738)
+Seat 3: migrix (22019)
+Seat 4: manggy94 (21780)
+Seat 5: Hero_Decks (10617)
+Seat 6: Kimounrie (114926)
+*** ANTE/BLINDS ***
+Hero_Decks posts ante 40
+Kimounrie posts ante 40
+Marlboross posts ante 40
+cantwinX666 posts ante 40
+migrix posts ante 40
+manggy94 posts ante 40
+Hero_Decks posts small blind 250
+Kimounrie posts big blind 500
+Dealt to manggy94 [Kc Jd]
+*** PRE-FLOP *** 
+Marlboross folds
+cantwinX666 folds
+migrix folds
+manggy94 calls 500
+Hero_Decks calls 250
+Kimounrie checks
+*** FLOP *** [5s 9c 5d]
+Hero_Decks checks
+Kimounrie checks
+manggy94 checks
+*** TURN *** [5s 9c 5d][Qh]
+Hero_Decks checks
+Kimounrie checks
+manggy94 checks
+*** RIVER *** [5s 9c 5d Qh][Ac]
+Hero_Decks checks
+Kimounrie checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [Kc Jd] (One pair : 5)
+Hero_Decks shows [Kd 8d] (One pair : 5)
+Kimounrie shows [7d 7c] (Two pairs : 7 and 5)
+Kimounrie collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Board: [5s 9c 5d Qh Ac]
+Seat 4: manggy94 (button) showed [Kc Jd] and lost with One pair : 5
+Seat 5: Hero_Decks (small blind) showed [Kd 8d] and lost with One pair : 5
+Seat 6: Kimounrie (big blind) showed [7d 7c] and won 1740 with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #654222316313509944-68-1459104071 - Holdem no limit (40/250/500) - 2016/03/27 18:41:11 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #5 is the button
+Seat 1: Marlboross (19880)
+Seat 2: cantwinX666 (30698)
+Seat 3: migrix (21979)
+Seat 4: manggy94 (21240)
+Seat 5: Hero_Decks (10077)
+Seat 6: Kimounrie (116126)
+*** ANTE/BLINDS ***
+Kimounrie posts ante 40
+Marlboross posts ante 40
+cantwinX666 posts ante 40
+migrix posts ante 40
+manggy94 posts ante 40
+Hero_Decks posts ante 40
+Kimounrie posts small blind 250
+Marlboross posts big blind 500
+Dealt to manggy94 [Jh 5c]
+*** PRE-FLOP *** 
+cantwinX666 folds
+migrix folds
+manggy94 folds
+Hero_Decks folds
+Kimounrie folds
+Marlboross collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Seat 1: Marlboross (big blind) won 990
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #654222316313509944-69-1459104089 - Holdem no limit (40/250/500) - 2016/03/27 18:41:29 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #6 is the button
+Seat 1: Marlboross (20330)
+Seat 2: cantwinX666 (30658)
+Seat 3: migrix (21939)
+Seat 4: manggy94 (21200)
+Seat 5: Hero_Decks (10037)
+Seat 6: Kimounrie (115836)
+*** ANTE/BLINDS ***
+Marlboross posts ante 40
+cantwinX666 posts ante 40
+migrix posts ante 40
+manggy94 posts ante 40
+Hero_Decks posts ante 40
+Kimounrie posts ante 40
+Marlboross posts small blind 250
+cantwinX666 posts big blind 500
+Dealt to manggy94 [Td Ah]
+*** PRE-FLOP *** 
+migrix folds
+manggy94 calls 500
+Hero_Decks folds
+Kimounrie folds
+Marlboross folds
+cantwinX666 raises 1490 to 1990
+manggy94 calls 1490
+*** FLOP *** [7h Ks 9h]
+cantwinX666 bets 1490
+manggy94 calls 1490
+*** TURN *** [7h Ks 9h][8d]
+cantwinX666 checks
+manggy94 checks
+*** RIVER *** [7h Ks 9h 8d][Ac]
+cantwinX666 bets 3725
+manggy94 calls 3725
+*** SHOW DOWN ***
+manggy94 shows [Td Ah] (One pair : Aces)
+cantwinX666 shows [As Qs] (One pair : Aces)
+cantwinX666 collected 14900 from pot
+*** SUMMARY ***
+Total pot 14900 | No rake
+Board: [7h Ks 9h 8d Ac]
+Seat 2: cantwinX666 (big blind) showed [As Qs] and won 14900 with One pair : Aces
+Seat 4: manggy94 showed [Td Ah] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #654222316313509944-70-1459104136 - Holdem no limit (40/250/500) - 2016/03/27 18:42:16 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #1 is the button
+Seat 1: Marlboross (20040)
+Seat 2: cantwinX666 (38313)
+Seat 3: migrix (21899)
+Seat 4: manggy94 (13955)
+Seat 5: Hero_Decks (9997)
+Seat 6: Kimounrie (115796)
+*** ANTE/BLINDS ***
+cantwinX666 posts ante 40
+migrix posts ante 40
+Marlboross posts ante 40
+manggy94 posts ante 40
+Hero_Decks posts ante 40
+Kimounrie posts ante 40
+cantwinX666 posts small blind 250
+migrix posts big blind 500
+Dealt to manggy94 [3d 9c]
+*** PRE-FLOP *** 
+manggy94 folds
+Hero_Decks folds
+Kimounrie folds
+Marlboross folds
+cantwinX666 raises 790 to 1290
+migrix folds
+cantwinX666 collected 2030 from pot
+*** SUMMARY ***
+Total pot 2030 | No rake
+Seat 2: cantwinX666 (small blind) won 2030
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #654222316313509944-71-1459104161 - Holdem no limit (40/250/500) - 2016/03/27 18:42:41 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #2 is the button
+Seat 1: Marlboross (20000)
+Seat 2: cantwinX666 (39013)
+Seat 3: migrix (21359)
+Seat 4: manggy94 (13915)
+Seat 5: Hero_Decks (9957)
+Seat 6: Kimounrie (115756)
+*** ANTE/BLINDS ***
+migrix posts ante 40
+manggy94 posts ante 40
+Marlboross posts ante 40
+cantwinX666 posts ante 40
+Hero_Decks posts ante 40
+Kimounrie posts ante 40
+migrix posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [7s Qh]
+*** PRE-FLOP *** 
+Hero_Decks folds
+Kimounrie folds
+Marlboross raises 750 to 1250
+cantwinX666 calls 1250
+migrix folds
+manggy94 folds
+*** FLOP *** [4c 8h 9s]
+Marlboross bets 1000
+cantwinX666 folds
+Marlboross collected 4490 from pot
+*** SUMMARY ***
+Total pot 4490 | No rake
+Board: [4c 8h 9s]
+Seat 1: Marlboross won 4490
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #654222316313509944-72-1459104189 - Holdem no limit (40/250/500) - 2016/03/27 18:43:09 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #3 is the button
+Seat 1: Marlboross (22200)
+Seat 2: cantwinX666 (37723)
+Seat 3: migrix (21069)
+Seat 4: manggy94 (13375)
+Seat 5: Hero_Decks (9917)
+Seat 6: Kimounrie (115716)
+*** ANTE/BLINDS ***
+manggy94 posts ante 40
+Hero_Decks posts ante 40
+Marlboross posts ante 40
+cantwinX666 posts ante 40
+migrix posts ante 40
+Kimounrie posts ante 40
+manggy94 posts small blind 250
+Hero_Decks posts big blind 500
+Dealt to manggy94 [8c As]
+*** PRE-FLOP *** 
+Kimounrie folds
+Marlboross folds
+cantwinX666 folds
+migrix raises 915 to 1415
+manggy94 calls 1165
+Hero_Decks raises 2585 to 4000
+migrix folds
+manggy94 raises 9335 to 13335 and is all-in
+Hero_Decks calls 5877 and is all-in
+*** FLOP *** [7h Ts Qc]
+*** TURN *** [7h Ts Qc][3c]
+*** RIVER *** [7h Ts Qc 3c][5d]
+*** SHOW DOWN ***
+Hero_Decks shows [Kc Kh] (One pair : Kings)
+manggy94 shows [8c As] (High card : Ace)
+manggy94 collected 3458 from side pot 1
+Hero_Decks collected 21409 from main pot
+*** SUMMARY ***
+Total pot 24867 | No rake
+Board: [7h Ts Qc 3c 5d]
+Seat 4: manggy94 (small blind) showed [8c As] and won 3458 with High card : Ace
+Seat 5: Hero_Decks (big blind) showed [Kc Kh] and won 21409 with One pair : Kings
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #654222316313509944-73-1459104254 - Holdem no limit (40/250/500) - 2016/03/27 18:44:14 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #4 is the button
+Seat 1: Marlboross (22160)
+Seat 2: cantwinX666 (37683)
+Seat 3: migrix (19614)
+Seat 4: manggy94 (3458)
+Seat 5: Hero_Decks (21409)
+Seat 6: Kimounrie (115676)
+*** ANTE/BLINDS ***
+Hero_Decks posts ante 40
+Kimounrie posts ante 40
+Marlboross posts ante 40
+cantwinX666 posts ante 40
+migrix posts ante 40
+manggy94 posts ante 40
+Hero_Decks posts small blind 250
+Kimounrie posts big blind 500
+Dealt to manggy94 [3h 5h]
+*** PRE-FLOP *** 
+Marlboross raises 750 to 1250
+cantwinX666 folds
+migrix folds
+manggy94 folds
+Hero_Decks folds
+Kimounrie folds
+Marlboross collected 2240 from pot
+*** SUMMARY ***
+Total pot 2240 | No rake
+Seat 1: Marlboross won 2240
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #654222316313509944-74-1459104271 - Holdem no limit (40/250/500) - 2016/03/27 18:44:31 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #5 is the button
+Seat 1: Marlboross (23110)
+Seat 2: cantwinX666 (37643)
+Seat 3: migrix (19574)
+Seat 4: manggy94 (3418)
+Seat 5: Hero_Decks (21119)
+Seat 6: Kimounrie (115136)
+*** ANTE/BLINDS ***
+Kimounrie posts ante 40
+Marlboross posts ante 40
+cantwinX666 posts ante 40
+migrix posts ante 40
+manggy94 posts ante 40
+Hero_Decks posts ante 40
+Kimounrie posts small blind 250
+Marlboross posts big blind 500
+Dealt to manggy94 [8c 9c]
+*** PRE-FLOP *** 
+cantwinX666 folds
+migrix folds
+manggy94 folds
+Hero_Decks folds
+Kimounrie raises 565 to 1065
+Marlboross calls 565
+*** FLOP *** [7h 9s 6s]
+Kimounrie checks
+Marlboross bets 1000
+Kimounrie folds
+Marlboross collected 3370 from pot
+*** SUMMARY ***
+Total pot 3370 | No rake
+Board: [7h 9s 6s]
+Seat 1: Marlboross (big blind) won 3370
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 6 - HandId: #654222316313509944-75-1459104347 - Holdem no limit (40/250/500) - 2016/03/27 18:45:47 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #6 is the button
+Seat 1: Marlboross (24375)
+Seat 2: cantwinX666 (37603)
+Seat 3: migrix (19534)
+Seat 4: manggy94 (3378)
+Seat 5: Hero_Decks (21079)
+Seat 6: Kimounrie (114031)
+*** ANTE/BLINDS ***
+Marlboross posts ante 40
+cantwinX666 posts ante 40
+migrix posts ante 40
+manggy94 posts ante 40
+Hero_Decks posts ante 40
+Kimounrie posts ante 40
+Marlboross posts small blind 250
+cantwinX666 posts big blind 500
+Dealt to manggy94 [3s 5h]
+*** PRE-FLOP *** 
+migrix folds
+manggy94 folds
+Hero_Decks folds
+Kimounrie folds
+Marlboross raises 500 to 1000
+cantwinX666 calls 500
+*** FLOP *** [Ts 3c 8d]
+Marlboross checks
+cantwinX666 checks
+*** TURN *** [Ts 3c 8d][6s]
+Marlboross bets 1000
+cantwinX666 folds
+Marlboross collected 3240 from pot
+*** SUMMARY ***
+Total pot 3240 | No rake
+Board: [Ts 3c 8d 6s]
+Seat 1: Marlboross (small blind) won 3240
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 7 - HandId: #654222316313509944-76-1459104396 - Holdem no limit (60/300/600) - 2016/03/27 18:46:36 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #1 is the button
+Seat 1: Marlboross (25575)
+Seat 2: cantwinX666 (36563)
+Seat 3: migrix (19494)
+Seat 4: manggy94 (3338)
+Seat 5: Hero_Decks (21039)
+Seat 6: Kimounrie (113991)
+*** ANTE/BLINDS ***
+cantwinX666 posts ante 60
+migrix posts ante 60
+Marlboross posts ante 60
+manggy94 posts ante 60
+Hero_Decks posts ante 60
+Kimounrie posts ante 60
+cantwinX666 posts small blind 300
+migrix posts big blind 600
+Dealt to manggy94 [7h 6d]
+*** PRE-FLOP *** 
+manggy94 folds
+Hero_Decks folds
+Kimounrie folds
+Marlboross raises 900 to 1500
+cantwinX666 folds
+migrix raises 2745 to 4245
+Marlboross folds
+migrix collected 6405 from pot
+*** SUMMARY ***
+Total pot 6405 | No rake
+Seat 3: migrix (big blind) won 6405
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 7 - HandId: #654222316313509944-77-1459104448 - Holdem no limit (60/300/600) - 2016/03/27 18:47:28 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #2 is the button
+Seat 1: Marlboross (24015)
+Seat 2: cantwinX666 (36203)
+Seat 3: migrix (21594)
+Seat 4: manggy94 (3278)
+Seat 5: Hero_Decks (20979)
+Seat 6: Kimounrie (113931)
+*** ANTE/BLINDS ***
+migrix posts ante 60
+manggy94 posts ante 60
+Marlboross posts ante 60
+cantwinX666 posts ante 60
+Hero_Decks posts ante 60
+Kimounrie posts ante 60
+migrix posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [Tc 5s]
+*** PRE-FLOP *** 
+Hero_Decks folds
+Kimounrie folds
+Marlboross folds
+cantwinX666 folds
+migrix folds
+manggy94 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 4: manggy94 (big blind) won 1260
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 7 - HandId: #654222316313509944-78-1459104494 - Holdem no limit (60/300/600) - 2016/03/27 18:48:14 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #3 is the button
+Seat 1: Marlboross (23955)
+Seat 2: cantwinX666 (36143)
+Seat 3: migrix (21234)
+Seat 4: manggy94 (3878)
+Seat 5: Hero_Decks (20919)
+Seat 6: Kimounrie (113871)
+*** ANTE/BLINDS ***
+manggy94 posts ante 60
+Hero_Decks posts ante 60
+Marlboross posts ante 60
+cantwinX666 posts ante 60
+migrix posts ante 60
+Kimounrie posts ante 60
+manggy94 posts small blind 300
+Hero_Decks posts big blind 600
+Dealt to manggy94 [4s 3c]
+*** PRE-FLOP *** 
+Kimounrie folds
+Marlboross folds
+cantwinX666 folds
+migrix folds
+manggy94 calls 300
+Hero_Decks checks
+*** FLOP *** [6c Ah 4h]
+manggy94 checks
+Hero_Decks checks
+*** TURN *** [6c Ah 4h][Jd]
+manggy94 checks
+Hero_Decks checks
+*** RIVER *** [6c Ah 4h Jd][7d]
+manggy94 checks
+Hero_Decks checks
+*** SHOW DOWN ***
+manggy94 shows [4s 3c] (One pair : 4)
+Hero_Decks shows [Qh 7s] (One pair : 7)
+Hero_Decks collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [6c Ah 4h Jd 7d]
+Seat 4: manggy94 (small blind) showed [4s 3c] and lost with One pair : 4
+Seat 5: Hero_Decks (big blind) showed [Qh 7s] and won 1560 with One pair : 7
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 7 - HandId: #654222316313509944-79-1459104543 - Holdem no limit (60/300/600) - 2016/03/27 18:49:03 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #4 is the button
+Seat 1: Marlboross (23895)
+Seat 2: cantwinX666 (36083)
+Seat 3: migrix (21174)
+Seat 4: manggy94 (3218)
+Seat 5: Hero_Decks (21819)
+Seat 6: Kimounrie (113811)
+*** ANTE/BLINDS ***
+Hero_Decks posts ante 60
+Kimounrie posts ante 60
+Marlboross posts ante 60
+cantwinX666 posts ante 60
+migrix posts ante 60
+manggy94 posts ante 60
+Hero_Decks posts small blind 300
+Kimounrie posts big blind 600
+Dealt to manggy94 [2s 7s]
+*** PRE-FLOP *** 
+Marlboross raises 900 to 1500
+cantwinX666 calls 1500
+migrix folds
+manggy94 folds
+Hero_Decks folds
+Kimounrie folds
+*** FLOP *** [Tc 9s 3h]
+Marlboross checks
+cantwinX666 checks
+*** TURN *** [Tc 9s 3h][7c]
+Marlboross bets 900
+cantwinX666 calls 900
+*** RIVER *** [Tc 9s 3h 7c][6c]
+Marlboross bets 1200
+cantwinX666 folds
+Marlboross collected 7260 from pot
+*** SUMMARY ***
+Total pot 7260 | No rake
+Board: [Tc 9s 3h 7c 6c]
+Seat 1: Marlboross won 7260
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 7 - HandId: #654222316313509944-80-1459104596 - Holdem no limit (60/300/600) - 2016/03/27 18:49:56 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #5 is the button
+Seat 1: Marlboross (27495)
+Seat 2: cantwinX666 (33623)
+Seat 3: migrix (21114)
+Seat 4: manggy94 (3158)
+Seat 5: Hero_Decks (21459)
+Seat 6: Kimounrie (113151)
+*** ANTE/BLINDS ***
+Kimounrie posts ante 60
+Marlboross posts ante 60
+cantwinX666 posts ante 60
+migrix posts ante 60
+manggy94 posts ante 60
+Hero_Decks posts ante 60
+Kimounrie posts small blind 300
+Marlboross posts big blind 600
+Dealt to manggy94 [Ks 3d]
+*** PRE-FLOP *** 
+cantwinX666 folds
+migrix folds
+manggy94 folds
+Hero_Decks raises 750 to 1350
+Kimounrie folds
+Marlboross folds
+Hero_Decks collected 2610 from pot
+*** SUMMARY ***
+Total pot 2610 | No rake
+Seat 5: Hero_Decks (button) won 2610
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 7 - HandId: #654222316313509944-81-1459104628 - Holdem no limit (60/300/600) - 2016/03/27 18:50:28 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #6 is the button
+Seat 1: Marlboross (26835)
+Seat 2: cantwinX666 (33563)
+Seat 3: migrix (21054)
+Seat 4: manggy94 (3098)
+Seat 5: Hero_Decks (22659)
+Seat 6: Kimounrie (112791)
+*** ANTE/BLINDS ***
+Marlboross posts ante 60
+cantwinX666 posts ante 60
+migrix posts ante 60
+manggy94 posts ante 60
+Hero_Decks posts ante 60
+Kimounrie posts ante 60
+Marlboross posts small blind 300
+cantwinX666 posts big blind 600
+Dealt to manggy94 [6d Th]
+*** PRE-FLOP *** 
+migrix folds
+manggy94 folds
+Hero_Decks folds
+Kimounrie folds
+Marlboross raises 900 to 1500
+cantwinX666 calls 900
+*** FLOP *** [2s Qh 6h]
+Marlboross bets 1200
+cantwinX666 raises 5400 to 6600
+Marlboross folds
+cantwinX666 collected 11160 from pot
+*** SUMMARY ***
+Total pot 11160 | No rake
+Board: [2s Qh 6h]
+Seat 2: cantwinX666 (big blind) won 11160
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 7 - HandId: #654222316313509944-82-1459104668 - Holdem no limit (60/300/600) - 2016/03/27 18:51:08 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #1 is the button
+Seat 1: Marlboross (24075)
+Seat 2: cantwinX666 (36563)
+Seat 3: migrix (20994)
+Seat 4: manggy94 (3038)
+Seat 5: Hero_Decks (22599)
+Seat 6: Kimounrie (112731)
+*** ANTE/BLINDS ***
+cantwinX666 posts ante 60
+migrix posts ante 60
+Marlboross posts ante 60
+manggy94 posts ante 60
+Hero_Decks posts ante 60
+Kimounrie posts ante 60
+cantwinX666 posts small blind 300
+migrix posts big blind 600
+Dealt to manggy94 [9s 3h]
+*** PRE-FLOP *** 
+manggy94 folds
+Hero_Decks folds
+Kimounrie folds
+Marlboross folds
+cantwinX666 raises 948 to 1548
+migrix folds
+cantwinX666 collected 2508 from pot
+*** SUMMARY ***
+Total pot 2508 | No rake
+Seat 2: cantwinX666 (small blind) won 2508
+
+
+Winamax Poker - Tournament "COCKTAIL" buyIn: 4,50€ + 0,50€ level: 7 - HandId: #654222316313509944-83-1459104704 - Holdem no limit (60/300/600) - 2016/03/27 18:51:44 UTC
+Table: 'COCKTAIL(152323003)#0055' 6-max (real money) Seat #2 is the button
+Seat 1: Marlboross (24015)
+Seat 2: cantwinX666 (37463)
+Seat 3: migrix (20334)
+Seat 4: manggy94 (2978)
+Seat 5: Hero_Decks (22539)
+Seat 6: Kimounrie (112671)
+*** ANTE/BLINDS ***
+migrix posts ante 60
+manggy94 posts ante 60
+Marlboross posts ante 60
+cantwinX666 posts ante 60
+Hero_Decks posts ante 60
+Kimounrie posts ante 60
+migrix posts small blind 300
+manggy94 posts big blind 600
+Dealt to manggy94 [Qs Ts]
+*** PRE-FLOP *** 
+Hero_Decks folds
+Kimounrie folds
+Marlboross folds
+cantwinX666 folds
+migrix raises 19674 to 20274 and is all-in
+manggy94 calls 2318 and is all-in
+*** FLOP *** [2d 3h 7s]
+*** TURN *** [2d 3h 7s][3c]
+*** RIVER *** [2d 3h 7s 3c][4d]
+*** SHOW DOWN ***
+manggy94 shows [Qs Ts] (One pair : 3)
+migrix shows [Ah 4c] (Two pairs : 4 and 3)
+migrix collected 23552 from pot
+*** SUMMARY ***
+Total pot 23552 | No rake
+Board: [2d 3h 7s 3c 4d]
+Seat 3: migrix (small blind) showed [Ah 4c] and won 23552 with Two pairs : 4 and 3
+Seat 4: manggy94 (big blind) showed [Qs Ts] and lost with One pair : 3
+
+

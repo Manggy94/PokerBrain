@@ -1,0 +1,770 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #691442524375482432-3-1466435085 - Holdem no limit (15/30) - 2016/06/20 15:04:45 UTC
+Table: 'Freeroll(160989008)#063' 8-max (real money) Seat #3 is the button
+Seat 1: RaptorOCTOS (2920)
+Seat 2: manggy94 (3000)
+Seat 3: sylvblue (3035)
+Seat 4: oce93 (2890)
+Seat 5: Sp6men89 (3000)
+Seat 6: POLO 974 (3000)
+Seat 7: jimmy09 (3000)
+Seat 8: babou_69 (6155)
+*** ANTE/BLINDS ***
+oce93 posts small blind 15
+Sp6men89 posts big blind 30
+Dealt to manggy94 [Js Ac]
+*** PRE-FLOP *** 
+POLO 974 folds
+jimmy09 calls 30
+babou_69 calls 30
+RaptorOCTOS calls 30
+manggy94 raises 165 to 195
+sylvblue folds
+oce93 folds
+Sp6men89 folds
+jimmy09 folds
+babou_69 folds
+RaptorOCTOS calls 165
+*** FLOP *** [Kc 3h Jc]
+RaptorOCTOS checks
+manggy94 bets 495
+RaptorOCTOS calls 495
+*** TURN *** [Kc 3h Jc][5c]
+RaptorOCTOS checks
+manggy94 bets 1485
+RaptorOCTOS calls 1485
+*** RIVER *** [Kc 3h Jc 5c][5d]
+RaptorOCTOS checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [Js Ac] (Two pairs : Jacks and 5)
+RaptorOCTOS shows [Qc Kh] (Two pairs : Kings and 5)
+RaptorOCTOS collected 4455 from pot
+*** SUMMARY ***
+Total pot 4455 | No rake
+Board: [Kc 3h Jc 5c 5d]
+Seat 1: RaptorOCTOS showed [Qc Kh] and won 4455 with Two pairs : Kings and 5
+Seat 2: manggy94 showed [Js Ac] and lost with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #691442524375482432-4-1466435136 - Holdem no limit (15/30) - 2016/06/20 15:05:36 UTC
+Table: 'Freeroll(160989008)#063' 8-max (real money) Seat #4 is the button
+Seat 1: RaptorOCTOS (5200)
+Seat 2: manggy94 (825)
+Seat 3: sylvblue (3035)
+Seat 4: oce93 (2875)
+Seat 5: Sp6men89 (2970)
+Seat 6: POLO 974 (3000)
+Seat 7: jimmy09 (2970)
+Seat 8: babou_69 (6125)
+*** ANTE/BLINDS ***
+Sp6men89 posts small blind 15
+POLO 974 posts big blind 30
+Dealt to manggy94 [2d 2c]
+*** PRE-FLOP *** 
+jimmy09 calls 30
+babou_69 calls 30
+RaptorOCTOS calls 30
+manggy94 raises 795 to 825 and is all-in
+sylvblue folds
+oce93 calls 825
+Sp6men89 folds
+POLO 974 folds
+jimmy09 calls 795
+babou_69 folds
+RaptorOCTOS calls 795
+*** FLOP *** [8d Tc 6d]
+jimmy09 checks
+RaptorOCTOS bets 3375
+oce93 folds
+jimmy09 folds
+*** TURN *** [8d Tc 6d][Ks]
+*** RIVER *** [8d Tc 6d Ks][4s]
+*** SHOW DOWN ***
+manggy94 shows [2d 2c] (One pair : 2)
+RaptorOCTOS shows [Js Qh] (High card : King)
+RaptorOCTOS collected 3375 from side pot 1
+manggy94 collected 3375 from main pot
+*** SUMMARY ***
+Total pot 6750 | No rake
+Board: [8d Tc 6d Ks 4s]
+Seat 1: RaptorOCTOS showed [Js Qh] and won 3375 with High card : King
+Seat 2: manggy94 showed [2d 2c] and won 3375 with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #691442524375482432-5-1466435212 - Holdem no limit (20/40) - 2016/06/20 15:06:52 UTC
+Table: 'Freeroll(160989008)#063' 8-max (real money) Seat #5 is the button
+Seat 1: RaptorOCTOS (4375)
+Seat 2: manggy94 (3375)
+Seat 3: sylvblue (3035)
+Seat 4: oce93 (2050)
+Seat 5: Sp6men89 (2955)
+Seat 6: POLO 974 (2970)
+Seat 7: jimmy09 (2145)
+Seat 8: babou_69 (6095)
+*** ANTE/BLINDS ***
+POLO 974 posts small blind 20
+jimmy09 posts big blind 40
+Dealt to manggy94 [Qd 4s]
+*** PRE-FLOP *** 
+babou_69 folds
+RaptorOCTOS calls 40
+manggy94 folds
+sylvblue folds
+oce93 calls 40
+Sp6men89 folds
+POLO 974 calls 20
+jimmy09 checks
+*** FLOP *** [8d Js 5s]
+POLO 974 bets 107
+jimmy09 folds
+RaptorOCTOS calls 107
+oce93 calls 107
+*** TURN *** [8d Js 5s][3s]
+POLO 974 checks
+RaptorOCTOS bets 481
+oce93 calls 481
+POLO 974 calls 481
+*** RIVER *** [8d Js 5s 3s][Ks]
+POLO 974 checks
+RaptorOCTOS checks
+oce93 checks
+*** SHOW DOWN ***
+RaptorOCTOS shows [Tc Th] (One pair : Tens)
+oce93 shows [7h 9d] (High card : King)
+POLO 974 shows [5c 7s] (Flush King high)
+POLO 974 collected 1924 from pot
+*** SUMMARY ***
+Total pot 1924 | No rake
+Board: [8d Js 5s 3s Ks]
+Seat 1: RaptorOCTOS showed [Tc Th] and lost with One pair : Tens
+Seat 4: oce93 showed [7h 9d] and lost with High card : King
+Seat 6: POLO 974 (small blind) showed [5c 7s] and won 1924 with Flush King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #691442524375482432-6-1466435292 - Holdem no limit (20/40) - 2016/06/20 15:08:12 UTC
+Table: 'Freeroll(160989008)#063' 8-max (real money) Seat #6 is the button
+Seat 1: RaptorOCTOS (3747)
+Seat 2: manggy94 (3375)
+Seat 3: sylvblue (3035)
+Seat 4: oce93 (1422)
+Seat 5: Sp6men89 (2955)
+Seat 6: POLO 974 (4266)
+Seat 7: jimmy09 (2105)
+Seat 8: babou_69 (6095)
+*** ANTE/BLINDS ***
+jimmy09 posts small blind 20
+babou_69 posts big blind 40
+Dealt to manggy94 [3s Td]
+*** PRE-FLOP *** 
+RaptorOCTOS calls 40
+manggy94 folds
+sylvblue folds
+oce93 calls 40
+Sp6men89 calls 40
+POLO 974 folds
+jimmy09 calls 20
+babou_69 raises 40 to 80
+RaptorOCTOS calls 40
+oce93 calls 40
+Sp6men89 raises 2875 to 2955 and is all-in
+jimmy09 folds
+babou_69 calls 2875
+RaptorOCTOS folds
+oce93 calls 1342 and is all-in
+*** FLOP *** [8c As 5c]
+*** TURN *** [8c As 5c][7h]
+*** RIVER *** [8c As 5c 7h][7s]
+*** SHOW DOWN ***
+Sp6men89 shows [Ks 9c] (One pair : 7)
+oce93 shows [Kc 7c] (Trips of 7)
+babou_69 shows [Kh Ac] (Two pairs : Aces and 7)
+babou_69 collected 3066 from side pot 1
+oce93 collected 4386 from main pot
+*** SUMMARY ***
+Total pot 7452 | No rake
+Board: [8c As 5c 7h 7s]
+Seat 4: oce93 showed [Kc 7c] and won 4386 with Trips of 7
+Seat 5: Sp6men89 showed [Ks 9c] and lost with One pair : 7
+Seat 8: babou_69 (big blind) showed [Kh Ac] and won 3066 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #691442524375482432-7-1466435408 - Holdem no limit (30/60) - 2016/06/20 15:10:08 UTC
+Table: 'Freeroll(160989008)#063' 8-max (real money) Seat #7 is the button
+Seat 1: RaptorOCTOS (3667)
+Seat 2: manggy94 (3375)
+Seat 3: sylvblue (3035)
+Seat 4: oce93 (4386)
+Seat 5: Crodal (3000)
+Seat 6: POLO 974 (4266)
+Seat 7: jimmy09 (2065)
+Seat 8: babou_69 (6206)
+*** ANTE/BLINDS ***
+babou_69 posts small blind 30
+RaptorOCTOS posts big blind 60
+Dealt to manggy94 [2c 5s]
+*** PRE-FLOP *** 
+manggy94 folds
+sylvblue folds
+oce93 calls 60
+Crodal folds
+POLO 974 calls 60
+jimmy09 calls 60
+babou_69 calls 30
+RaptorOCTOS checks
+*** FLOP *** [7h 2s 3c]
+babou_69 checks
+RaptorOCTOS checks
+oce93 checks
+POLO 974 checks
+jimmy09 checks
+*** TURN *** [7h 2s 3c][6d]
+babou_69 bets 150
+RaptorOCTOS folds
+oce93 calls 150
+POLO 974 folds
+jimmy09 calls 150
+*** RIVER *** [7h 2s 3c 6d][6h]
+babou_69 bets 360
+oce93 calls 360
+jimmy09 folds
+*** SHOW DOWN ***
+oce93 shows [7s 8h] (Two pairs : 7 and 6)
+babou_69 shows [7d 6s] (Full of 6 and 7)
+babou_69 collected 1470 from pot
+*** SUMMARY ***
+Total pot 1470 | No rake
+Board: [7h 2s 3c 6d 6h]
+Seat 4: oce93 showed [7s 8h] and lost with Two pairs : 7 and 6
+Seat 8: babou_69 (small blind) showed [7d 6s] and won 1470 with Full of 6 and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #691442524375482432-8-1466435501 - Holdem no limit (30/60) - 2016/06/20 15:11:41 UTC
+Table: 'Freeroll(160989008)#063' 8-max (real money) Seat #8 is the button
+Seat 1: RaptorOCTOS (3607)
+Seat 2: manggy94 (3375)
+Seat 3: sylvblue (3035)
+Seat 4: oce93 (3816)
+Seat 5: Crodal (3000)
+Seat 6: POLO 974 (4206)
+Seat 7: jimmy09 (1855)
+Seat 8: babou_69 (7106)
+*** ANTE/BLINDS ***
+RaptorOCTOS posts small blind 30
+manggy94 posts big blind 60
+Dealt to manggy94 [5d Qc]
+*** PRE-FLOP *** 
+sylvblue calls 60
+oce93 calls 60
+Crodal folds
+POLO 974 folds
+jimmy09 raises 1795 to 1855 and is all-in
+babou_69 calls 1855
+RaptorOCTOS folds
+manggy94 folds
+sylvblue folds
+oce93 calls 1795
+*** FLOP *** [2s 3h 6h]
+oce93 bets 1961 and is all-in
+babou_69 calls 1961
+*** TURN *** [2s 3h 6h][Jd]
+*** RIVER *** [2s 3h 6h Jd][4h]
+*** SHOW DOWN ***
+oce93 shows [3s Ac] (One pair : 3)
+jimmy09 shows [Ad Kd] (High card : Ace)
+babou_69 shows [6d 9d] (One pair : 6)
+babou_69 collected 9637 from pot
+*** SUMMARY ***
+Total pot 9637 | No rake
+Board: [2s 3h 6h Jd 4h]
+Seat 4: oce93 showed [3s Ac] and lost with One pair : 3
+Seat 7: jimmy09 showed [Ad Kd] and lost with High card : Ace
+Seat 8: babou_69 (button) showed [6d 9d] and won 9637 with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #691442524375482432-9-1466435546 - Holdem no limit (40/80) - 2016/06/20 15:12:26 UTC
+Table: 'Freeroll(160989008)#063' 8-max (real money) Seat #1 is the button
+Seat 1: RaptorOCTOS (3577)
+Seat 2: manggy94 (3315)
+Seat 3: sylvblue (2975)
+Seat 5: Crodal (3000)
+Seat 6: POLO 974 (4206)
+Seat 8: babou_69 (12927)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+sylvblue posts big blind 80
+Dealt to manggy94 [7s Ac]
+*** PRE-FLOP *** 
+Crodal folds
+POLO 974 folds
+babou_69 calls 80
+RaptorOCTOS calls 80
+manggy94 calls 40
+sylvblue checks
+*** FLOP *** [4c 4s 6c]
+manggy94 checks
+sylvblue bets 80
+babou_69 calls 80
+RaptorOCTOS folds
+manggy94 folds
+*** TURN *** [4c 4s 6c][8c]
+sylvblue checks
+babou_69 checks
+*** RIVER *** [4c 4s 6c 8c][5h]
+sylvblue bets 463
+babou_69 raises 12304 to 12767 and is all-in
+sylvblue folds
+babou_69 collected 13710 from pot
+*** SUMMARY ***
+Total pot 13710 | No rake
+Board: [4c 4s 6c 8c 5h]
+Seat 8: babou_69 won 13710
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #691442524375482432-10-1466435616 - Holdem no limit (40/80) - 2016/06/20 15:13:36 UTC
+Table: 'Freeroll(160989008)#063' 8-max (real money) Seat #2 is the button
+Seat 1: RaptorOCTOS (3497)
+Seat 2: manggy94 (3235)
+Seat 3: sylvblue (2352)
+Seat 4: roukmoumoutt (3000)
+Seat 5: Crodal (3000)
+Seat 6: POLO 974 (4206)
+Seat 7: LAFOUINE03 (3000)
+Seat 8: babou_69 (13710)
+*** ANTE/BLINDS ***
+sylvblue posts small blind 40
+roukmoumoutt posts big blind 80
+Dealt to manggy94 [3h Kh]
+*** PRE-FLOP *** 
+Crodal folds
+POLO 974 calls 80
+LAFOUINE03 folds
+babou_69 calls 80
+RaptorOCTOS calls 80
+manggy94 calls 80
+sylvblue folds
+roukmoumoutt checks
+*** FLOP *** [2s Jd 8c]
+roukmoumoutt bets 330
+POLO 974 folds
+babou_69 folds
+RaptorOCTOS calls 330
+manggy94 folds
+*** TURN *** [2s Jd 8c][5h]
+roukmoumoutt bets 733
+RaptorOCTOS calls 733
+*** RIVER *** [2s Jd 8c 5h][Qh]
+roukmoumoutt bets 1857 and is all-in
+RaptorOCTOS folds
+roukmoumoutt collected 4423 from pot
+*** SUMMARY ***
+Total pot 4423 | No rake
+Board: [2s Jd 8c 5h Qh]
+Seat 4: roukmoumoutt (big blind) won 4423
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #691442524375482432-11-1466435685 - Holdem no limit (40/80) - 2016/06/20 15:14:45 UTC
+Table: 'Freeroll(160989008)#063' 8-max (real money) Seat #3 is the button
+Seat 1: RaptorOCTOS (2354)
+Seat 2: manggy94 (3155)
+Seat 3: sylvblue (2312)
+Seat 4: roukmoumoutt (4423)
+Seat 5: Crodal (3000)
+Seat 6: POLO 974 (4126)
+Seat 7: LAFOUINE03 (3000)
+Seat 8: babou_69 (13630)
+*** ANTE/BLINDS ***
+roukmoumoutt posts small blind 40
+Crodal posts big blind 80
+Dealt to manggy94 [6c 2s]
+*** PRE-FLOP *** 
+POLO 974 folds
+LAFOUINE03 folds
+babou_69 raises 80 to 160
+RaptorOCTOS calls 160
+manggy94 folds
+sylvblue folds
+roukmoumoutt calls 120
+Crodal folds
+*** FLOP *** [9s Jh 2h]
+roukmoumoutt checks
+babou_69 bets 280
+RaptorOCTOS calls 280
+roukmoumoutt folds
+*** TURN *** [9s Jh 2h][9c]
+babou_69 bets 560
+RaptorOCTOS calls 560
+*** RIVER *** [9s Jh 2h 9c][3h]
+babou_69 bets 1440
+RaptorOCTOS calls 1354 and is all-in
+*** SHOW DOWN ***
+RaptorOCTOS shows [Jc 8h] (Two pairs : Jacks and 9)
+babou_69 shows [Ts Td] (Two pairs : Tens and 9)
+babou_69 collected 86 from side pot 1
+RaptorOCTOS collected 4948 from main pot
+*** SUMMARY ***
+Total pot 5034 | No rake
+Board: [9s Jh 2h 9c 3h]
+Seat 1: RaptorOCTOS showed [Jc 8h] and won 4948 with Two pairs : Jacks and 9
+Seat 8: babou_69 showed [Ts Td] and won 86 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #691442524375482432-12-1466435731 - Holdem no limit (60/120) - 2016/06/20 15:15:31 UTC
+Table: 'Freeroll(160989008)#063' 8-max (real money) Seat #4 is the button
+Seat 1: RaptorOCTOS (4948)
+Seat 2: manggy94 (3155)
+Seat 3: sylvblue (2312)
+Seat 4: roukmoumoutt (4263)
+Seat 5: Crodal (2920)
+Seat 6: POLO 974 (4126)
+Seat 7: LAFOUINE03 (3000)
+Seat 8: babou_69 (11276)
+*** ANTE/BLINDS ***
+Crodal posts small blind 60
+POLO 974 posts big blind 120
+Dealt to manggy94 [5h 7d]
+*** PRE-FLOP *** 
+LAFOUINE03 calls 120
+babou_69 folds
+RaptorOCTOS calls 120
+manggy94 folds
+sylvblue calls 120
+roukmoumoutt calls 120
+Crodal calls 60
+POLO 974 folds
+*** FLOP *** [Qh Tc 2h]
+Crodal checks
+LAFOUINE03 bets 360
+RaptorOCTOS calls 360
+sylvblue raises 1832 to 2192 and is all-in
+roukmoumoutt folds
+Crodal folds
+LAFOUINE03 raises 688 to 2880 and is all-in
+RaptorOCTOS calls 2520
+*** TURN *** [Qh Tc 2h][8h]
+*** RIVER *** [Qh Tc 2h 8h][8s]
+*** SHOW DOWN ***
+RaptorOCTOS shows [2c Ac] (Two pairs : 8 and 2)
+sylvblue shows [3s Qs] (Two pairs : Queens and 8)
+LAFOUINE03 shows [Jd 9c] (Straight Queen high)
+LAFOUINE03 collected 8672 from pot
+*** SUMMARY ***
+Total pot 8672 | No rake
+Board: [Qh Tc 2h 8h 8s]
+Seat 1: RaptorOCTOS showed [2c Ac] and lost with Two pairs : 8 and 2
+Seat 3: sylvblue showed [3s Qs] and lost with Two pairs : Queens and 8
+Seat 7: LAFOUINE03 showed [Jd 9c] and won 8672 with Straight Queen high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #691442524375482432-13-1466435818 - Holdem no limit (60/120) - 2016/06/20 15:16:58 UTC
+Table: 'Freeroll(160989008)#063' 8-max (real money) Seat #5 is the button
+Seat 1: RaptorOCTOS (1948)
+Seat 2: manggy94 (3155)
+Seat 4: roukmoumoutt (4143)
+Seat 5: Crodal (2800)
+Seat 6: POLO 974 (4006)
+Seat 7: LAFOUINE03 (8672)
+Seat 8: babou_69 (11276)
+*** ANTE/BLINDS ***
+POLO 974 posts small blind 60
+LAFOUINE03 posts big blind 120
+Dealt to manggy94 [4d Ks]
+*** PRE-FLOP *** 
+babou_69 calls 120
+RaptorOCTOS raises 1828 to 1948 and is all-in
+manggy94 folds
+roukmoumoutt folds
+Crodal folds
+POLO 974 folds
+LAFOUINE03 calls 1828
+babou_69 folds
+*** FLOP *** [9h As 7s]
+*** TURN *** [9h As 7s][6c]
+*** RIVER *** [9h As 7s 6c][7c]
+*** SHOW DOWN ***
+LAFOUINE03 shows [3h Th] (One pair : 7)
+RaptorOCTOS shows [Ac Jh] (Two pairs : Aces and 7)
+RaptorOCTOS collected 4076 from pot
+*** SUMMARY ***
+Total pot 4076 | No rake
+Board: [9h As 7s 6c 7c]
+Seat 1: RaptorOCTOS showed [Ac Jh] and won 4076 with Two pairs : Aces and 7
+Seat 7: LAFOUINE03 (big blind) showed [3h Th] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #691442524375482432-14-1466435844 - Holdem no limit (60/120) - 2016/06/20 15:17:24 UTC
+Table: 'Freeroll(160989008)#063' 8-max (real money) Seat #6 is the button
+Seat 1: RaptorOCTOS (4076)
+Seat 2: manggy94 (3155)
+Seat 3: BEZEDASH32 (2710)
+Seat 4: roukmoumoutt (4143)
+Seat 5: Crodal (2800)
+Seat 6: POLO 974 (3946)
+Seat 7: LAFOUINE03 (6724)
+Seat 8: babou_69 (11156)
+*** ANTE/BLINDS ***
+LAFOUINE03 posts small blind 60
+babou_69 posts big blind 120
+Dealt to manggy94 [3h Jc]
+*** PRE-FLOP *** 
+RaptorOCTOS calls 120
+manggy94 folds
+BEZEDASH32 folds
+roukmoumoutt calls 120
+Crodal folds
+POLO 974 folds
+LAFOUINE03 folds
+babou_69 checks
+*** FLOP *** [5d Qh Td]
+babou_69 bets 210
+RaptorOCTOS calls 210
+roukmoumoutt calls 210
+*** TURN *** [5d Qh Td][6d]
+babou_69 bets 240
+RaptorOCTOS calls 240
+roukmoumoutt folds
+*** RIVER *** [5d Qh Td 6d][Ac]
+babou_69 bets 960
+RaptorOCTOS folds
+babou_69 collected 2490 from pot
+*** SUMMARY ***
+Total pot 2490 | No rake
+Board: [5d Qh Td 6d Ac]
+Seat 8: babou_69 (big blind) won 2490
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #691442524375482432-15-1466435908 - Holdem no limit (10/60/120) - 2016/06/20 15:18:28 UTC
+Table: 'Freeroll(160989008)#063' 8-max (real money) Seat #7 is the button
+Seat 1: RaptorOCTOS (3506)
+Seat 2: manggy94 (3155)
+Seat 3: BEZEDASH32 (2710)
+Seat 4: roukmoumoutt (3813)
+Seat 5: Crodal (2800)
+Seat 6: POLO 974 (3946)
+Seat 7: LAFOUINE03 (6664)
+Seat 8: babou_69 (12116)
+*** ANTE/BLINDS ***
+babou_69 posts ante 10
+RaptorOCTOS posts ante 10
+manggy94 posts ante 10
+BEZEDASH32 posts ante 10
+roukmoumoutt posts ante 10
+Crodal posts ante 10
+POLO 974 posts ante 10
+LAFOUINE03 posts ante 10
+babou_69 posts small blind 60
+RaptorOCTOS posts big blind 120
+Dealt to manggy94 [3c Ad]
+*** PRE-FLOP *** 
+manggy94 calls 120
+BEZEDASH32 raises 2580 to 2700 and is all-in
+roukmoumoutt folds
+Crodal folds
+POLO 974 folds
+LAFOUINE03 calls 2700
+babou_69 folds
+RaptorOCTOS folds
+manggy94 folds
+*** FLOP *** [Kd Qh Qc]
+*** TURN *** [Kd Qh Qc][Th]
+*** RIVER *** [Kd Qh Qc Th][Jc]
+*** SHOW DOWN ***
+LAFOUINE03 shows [Ks Jd] (Two pairs : Kings and Queens)
+BEZEDASH32 shows [Td Tc] (Full of Tens and Queens)
+BEZEDASH32 collected 5780 from pot
+*** SUMMARY ***
+Total pot 5780 | No rake
+Board: [Kd Qh Qc Th Jc]
+Seat 3: BEZEDASH32 showed [Td Tc] and won 5780 with Full of Tens and Queens
+Seat 7: LAFOUINE03 (button) showed [Ks Jd] and lost with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #691442524375482432-16-1466435947 - Holdem no limit (10/60/120) - 2016/06/20 15:19:07 UTC
+Table: 'Freeroll(160989008)#063' 8-max (real money) Seat #8 is the button
+Seat 1: RaptorOCTOS (3376)
+Seat 2: manggy94 (3025)
+Seat 3: BEZEDASH32 (5780)
+Seat 4: roukmoumoutt (3803)
+Seat 5: Crodal (2790)
+Seat 6: POLO 974 (3936)
+Seat 7: LAFOUINE03 (3954)
+Seat 8: babou_69 (12046)
+*** ANTE/BLINDS ***
+RaptorOCTOS posts ante 10
+manggy94 posts ante 10
+BEZEDASH32 posts ante 10
+roukmoumoutt posts ante 10
+Crodal posts ante 10
+POLO 974 posts ante 10
+LAFOUINE03 posts ante 10
+babou_69 posts ante 10
+RaptorOCTOS posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [Ah 5h]
+*** PRE-FLOP *** 
+BEZEDASH32 folds
+roukmoumoutt raises 3673 to 3793 and is all-in
+Crodal folds
+POLO 974 folds
+LAFOUINE03 folds
+babou_69 folds
+RaptorOCTOS calls 3306 and is all-in
+manggy94 folds
+*** FLOP *** [Kc 6d Td]
+*** TURN *** [Kc 6d Td][7c]
+*** RIVER *** [Kc 6d Td 7c][3s]
+*** SHOW DOWN ***
+RaptorOCTOS shows [Qs Jh] (High card : King)
+roukmoumoutt shows [Ac Ad] (One pair : Aces)
+roukmoumoutt collected 7359 from pot
+*** SUMMARY ***
+Total pot 7359 | No rake
+Board: [Kc 6d Td 7c 3s]
+Seat 1: RaptorOCTOS (small blind) showed [Qs Jh] and lost with High card : King
+Seat 4: roukmoumoutt showed [Ac Ad] and won 7359 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #691442524375482432-17-1466435976 - Holdem no limit (10/60/120) - 2016/06/20 15:19:36 UTC
+Table: 'Freeroll(160989008)#063' 8-max (real money) Seat #1 is the button
+Seat 2: manggy94 (2895)
+Seat 3: BEZEDASH32 (5770)
+Seat 4: roukmoumoutt (7359)
+Seat 5: Crodal (2780)
+Seat 6: POLO 974 (3926)
+Seat 7: LAFOUINE03 (3944)
+Seat 8: babou_69 (12036)
+*** ANTE/BLINDS ***
+manggy94 posts ante 10
+BEZEDASH32 posts ante 10
+roukmoumoutt posts ante 10
+Crodal posts ante 10
+POLO 974 posts ante 10
+LAFOUINE03 posts ante 10
+babou_69 posts ante 10
+manggy94 posts small blind 60
+BEZEDASH32 posts big blind 120
+Dealt to manggy94 [Js Th]
+*** PRE-FLOP *** 
+roukmoumoutt folds
+Crodal raises 175 to 295
+POLO 974 folds
+LAFOUINE03 folds
+babou_69 calls 295
+manggy94 calls 235
+BEZEDASH32 calls 175
+*** FLOP *** [9c As 5c]
+manggy94 checks
+BEZEDASH32 checks
+Crodal checks
+babou_69 checks
+*** TURN *** [9c As 5c][Qs]
+manggy94 checks
+BEZEDASH32 checks
+Crodal checks
+babou_69 bets 120
+manggy94 calls 120
+BEZEDASH32 folds
+Crodal calls 120
+*** RIVER *** [9c As 5c Qs][Jh]
+manggy94 checks
+Crodal checks
+babou_69 bets 600
+manggy94 folds
+Crodal calls 600
+*** SHOW DOWN ***
+Crodal shows [Kh Kd] (One pair : Kings)
+babou_69 shows [Jd Qh] (Two pairs : Queens and Jacks)
+babou_69 collected 2810 from pot
+*** SUMMARY ***
+Total pot 2810 | No rake
+Board: [9c As 5c Qs Jh]
+Seat 5: Crodal showed [Kh Kd] and lost with One pair : Kings
+Seat 8: babou_69 showed [Jd Qh] and won 2810 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #691442524375482432-18-1466436047 - Holdem no limit (10/60/120) - 2016/06/20 15:20:47 UTC
+Table: 'Freeroll(160989008)#063' 8-max (real money) Seat #2 is the button
+Seat 2: manggy94 (2470)
+Seat 3: BEZEDASH32 (5465)
+Seat 4: roukmoumoutt (7349)
+Seat 5: Crodal (1755)
+Seat 6: POLO 974 (3916)
+Seat 7: LAFOUINE03 (3934)
+Seat 8: babou_69 (13821)
+*** ANTE/BLINDS ***
+BEZEDASH32 posts ante 10
+roukmoumoutt posts ante 10
+manggy94 posts ante 10
+Crodal posts ante 10
+POLO 974 posts ante 10
+LAFOUINE03 posts ante 10
+babou_69 posts ante 10
+BEZEDASH32 posts small blind 60
+roukmoumoutt posts big blind 120
+Dealt to manggy94 [9c 8h]
+*** PRE-FLOP *** 
+Crodal folds
+POLO 974 folds
+LAFOUINE03 raises 240 to 360
+babou_69 folds
+manggy94 folds
+BEZEDASH32 folds
+roukmoumoutt raises 6979 to 7339 and is all-in
+LAFOUINE03 calls 3564 and is all-in
+*** FLOP *** [3c As 3d]
+*** TURN *** [3c As 3d][Jd]
+*** RIVER *** [3c As 3d Jd][Td]
+*** SHOW DOWN ***
+LAFOUINE03 shows [6s Ks] (One pair : 3)
+roukmoumoutt shows [Qs Qd] (Two pairs : Queens and 3)
+roukmoumoutt collected 11393 from pot
+*** SUMMARY ***
+Total pot 11393 | No rake
+Board: [3c As 3d Jd Td]
+Seat 4: roukmoumoutt (big blind) showed [Qs Qd] and won 11393 with Two pairs : Queens and 3
+Seat 7: LAFOUINE03 showed [6s Ks] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #691442524375482432-19-1466436079 - Holdem no limit (10/60/120) - 2016/06/20 15:21:19 UTC
+Table: 'Freeroll(160989008)#063' 8-max (real money) Seat #3 is the button
+Seat 1: JEAN 87 (10390)
+Seat 2: manggy94 (2460)
+Seat 3: BEZEDASH32 (5395)
+Seat 4: roukmoumoutt (11393)
+Seat 5: Crodal (1745)
+Seat 6: POLO 974 (3906)
+Seat 8: babou_69 (13811)
+*** ANTE/BLINDS ***
+roukmoumoutt posts ante 10
+Crodal posts ante 10
+JEAN 87 posts ante 10
+manggy94 posts ante 10
+BEZEDASH32 posts ante 10
+POLO 974 posts ante 10
+babou_69 posts ante 10
+roukmoumoutt posts small blind 60
+Crodal posts big blind 120
+Dealt to manggy94 [Kh Kc]
+*** PRE-FLOP *** 
+POLO 974 calls 120
+babou_69 calls 120
+JEAN 87 folds
+manggy94 raises 2330 to 2450 and is all-in
+BEZEDASH32 folds
+roukmoumoutt folds
+Crodal folds
+POLO 974 raises 1446 to 3896 and is all-in
+babou_69 folds
+*** FLOP *** [7h 5h 8d]
+*** TURN *** [7h 5h 8d][7s]
+*** RIVER *** [7h 5h 8d 7s][Ad]
+*** SHOW DOWN ***
+manggy94 shows [Kh Kc] (Two pairs : Kings and 7)
+POLO 974 shows [As 4d] (Two pairs : Aces and 7)
+POLO 974 collected 6716 from pot
+*** SUMMARY ***
+Total pot 6716 | No rake
+Board: [7h 5h 8d 7s Ad]
+Seat 2: manggy94 showed [Kh Kc] and lost with Two pairs : Kings and 7
+Seat 6: POLO 974 showed [As 4d] and won 6716 with Two pairs : Aces and 7
+
+

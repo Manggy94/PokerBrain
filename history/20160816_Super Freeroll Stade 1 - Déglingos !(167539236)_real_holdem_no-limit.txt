@@ -1,0 +1,511 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #719575539416825857-1-1471360161 - Holdem no limit (10/20) - 2016/08/16 15:09:21 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #5 is the button
+Seat 1: patate59330 (500)
+Seat 2: Gustavojorge (500)
+Seat 3: manggy94 (500)
+Seat 4: Weeds60 (500)
+Seat 5: _xoom_ (500)
+Seat 6: RatsWindRoad (500)
+*** ANTE/BLINDS ***
+RatsWindRoad posts small blind 10
+patate59330 posts big blind 20
+Dealt to manggy94 [2h 4s]
+*** PRE-FLOP *** 
+Gustavojorge raises 480 to 500 and is all-in
+manggy94 folds
+Weeds60 calls 500 and is all-in
+_xoom_ folds
+RatsWindRoad folds
+patate59330 calls 480 and is all-in
+*** FLOP *** [Ts Td 9h]
+*** TURN *** [Ts Td 9h][5s]
+*** RIVER *** [Ts Td 9h 5s][Tc]
+*** SHOW DOWN ***
+patate59330 shows [Ac Kh] (Trips of Tens)
+Gustavojorge shows [6h Qc] (Trips of Tens)
+Weeds60 shows [7c 7s] (Full of Tens and 7)
+Weeds60 collected 1510 from pot
+*** SUMMARY ***
+Total pot 1510 | No rake
+Board: [Ts Td 9h 5s Tc]
+Seat 1: patate59330 (big blind) showed [Ac Kh] and lost with Trips of Tens
+Seat 2: Gustavojorge showed [6h Qc] and lost with Trips of Tens
+Seat 4: Weeds60 showed [7c 7s] and won 1510 with Full of Tens and 7
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #719575539416825857-2-1471360187 - Holdem no limit (10/20) - 2016/08/16 15:09:47 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #6 is the button
+Seat 3: manggy94 (500)
+Seat 4: Weeds60 (1510)
+Seat 5: _xoom_ (500)
+Seat 6: RatsWindRoad (490)
+*** ANTE/BLINDS ***
+manggy94 posts big blind 20
+Dealt to manggy94 [4c Kh]
+*** PRE-FLOP *** 
+Weeds60 folds
+_xoom_ folds
+RatsWindRoad calls 20
+manggy94 checks
+*** FLOP *** [Kd As 8d]
+manggy94 bets 20
+RatsWindRoad calls 20
+*** TURN *** [Kd As 8d][Ks]
+manggy94 bets 20
+RatsWindRoad calls 20
+*** RIVER *** [Kd As 8d Ks][3s]
+manggy94 bets 120
+RatsWindRoad raises 310 to 430 and is all-in
+manggy94 calls 310
+*** SHOW DOWN ***
+RatsWindRoad shows [Qd Tc] (One pair : Kings)
+manggy94 shows [4c Kh] (Trips of Kings)
+manggy94 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | No rake
+Board: [Kd As 8d Ks 3s]
+Seat 3: manggy94 (big blind) showed [4c Kh] and won 980 with Trips of Kings
+Seat 6: RatsWindRoad (button) showed [Qd Tc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #719575539416825857-3-1471360222 - Holdem no limit (10/20) - 2016/08/16 15:10:22 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #1 is the button
+Seat 3: manggy94 (990)
+Seat 4: Weeds60 (1510)
+Seat 5: _xoom_ (500)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+Weeds60 posts big blind 20
+Dealt to manggy94 [8s Qc]
+*** PRE-FLOP *** 
+_xoom_ folds
+manggy94 calls 10
+Weeds60 checks
+*** FLOP *** [5h 6d Ts]
+manggy94 bets 20
+Weeds60 calls 20
+*** TURN *** [5h 6d Ts][8c]
+manggy94 bets 40
+Weeds60 calls 40
+*** RIVER *** [5h 6d Ts 8c][7s]
+manggy94 checks
+Weeds60 bets 80
+manggy94 calls 80
+*** SHOW DOWN ***
+manggy94 shows [8s Qc] (One pair : 8)
+Weeds60 shows [3h 4s] (Straight 8 high)
+Weeds60 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [5h 6d Ts 8c 7s]
+Seat 3: manggy94 (small blind) showed [8s Qc] and lost with One pair : 8
+Seat 4: Weeds60 (big blind) showed [3h 4s] and won 320 with Straight 8 high
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #719575539416825857-4-1471360282 - Holdem no limit (10/20) - 2016/08/16 15:11:22 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #3 is the button
+Seat 3: manggy94 (830)
+Seat 4: Weeds60 (1670)
+Seat 5: _xoom_ (500)
+*** ANTE/BLINDS ***
+Weeds60 posts small blind 10
+_xoom_ posts big blind 20
+Dealt to manggy94 [Th As]
+*** PRE-FLOP *** 
+manggy94 raises 40 to 60
+Weeds60 calls 50
+_xoom_ raises 440 to 500 and is all-in
+manggy94 calls 440
+Weeds60 folds
+*** FLOP *** [2h 8d 5h]
+*** TURN *** [2h 8d 5h][9s]
+*** RIVER *** [2h 8d 5h 9s][7h]
+*** SHOW DOWN ***
+manggy94 shows [Th As] (High card : Ace)
+_xoom_ shows [8c Ad] (One pair : 8)
+_xoom_ collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Board: [2h 8d 5h 9s 7h]
+Seat 3: manggy94 (button) showed [Th As] and lost with High card : Ace
+Seat 5: _xoom_ (big blind) showed [8c Ad] and won 1060 with One pair : 8
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #719575539416825857-5-1471360316 - Holdem no limit (10/20) - 2016/08/16 15:11:56 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #4 is the button
+Seat 3: manggy94 (330)
+Seat 4: Weeds60 (1610)
+Seat 5: _xoom_ (1060)
+*** ANTE/BLINDS ***
+_xoom_ posts small blind 10
+manggy94 posts big blind 20
+Dealt to manggy94 [9s 5s]
+*** PRE-FLOP *** 
+Weeds60 folds
+_xoom_ folds
+manggy94 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: manggy94 (big blind) won 30
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 1 - HandId: #719575539416825857-6-1471360327 - Holdem no limit (10/20) - 2016/08/16 15:12:07 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #5 is the button
+Seat 3: manggy94 (340)
+Seat 4: Weeds60 (1610)
+Seat 5: _xoom_ (1050)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+Weeds60 posts big blind 20
+Dealt to manggy94 [Ad Tc]
+*** PRE-FLOP *** 
+_xoom_ folds
+manggy94 raises 320 to 340 and is all-in
+Weeds60 calls 320
+*** FLOP *** [Ah 5d Qh]
+*** TURN *** [Ah 5d Qh][Ac]
+*** RIVER *** [Ah 5d Qh Ac][4s]
+*** SHOW DOWN ***
+Weeds60 shows [Td Kd] (One pair : Aces)
+manggy94 shows [Ad Tc] (Trips of Aces)
+manggy94 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [Ah 5d Qh Ac 4s]
+Seat 3: manggy94 (small blind) showed [Ad Tc] and won 680 with Trips of Aces
+Seat 4: Weeds60 (big blind) showed [Td Kd] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #719575539416825857-7-1471360346 - Holdem no limit (15/30) - 2016/08/16 15:12:26 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #3 is the button
+Seat 3: manggy94 (680)
+Seat 4: Weeds60 (1270)
+Seat 5: _xoom_ (1050)
+*** ANTE/BLINDS ***
+Weeds60 posts small blind 15
+_xoom_ posts big blind 30
+Dealt to manggy94 [4s Ah]
+*** PRE-FLOP *** 
+manggy94 raises 75 to 105
+Weeds60 folds
+_xoom_ folds
+manggy94 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 3: manggy94 (button) won 150
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #719575539416825857-8-1471360356 - Holdem no limit (15/30) - 2016/08/16 15:12:36 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #4 is the button
+Seat 3: manggy94 (725)
+Seat 4: Weeds60 (1255)
+Seat 5: _xoom_ (1020)
+*** ANTE/BLINDS ***
+_xoom_ posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [Qs 5s]
+*** PRE-FLOP *** 
+Weeds60 calls 30
+_xoom_ calls 15
+manggy94 checks
+*** FLOP *** [3s Ts 6d]
+_xoom_ checks
+manggy94 checks
+Weeds60 checks
+*** TURN *** [3s Ts 6d][7s]
+_xoom_ checks
+manggy94 bets 90
+Weeds60 calls 90
+_xoom_ folds
+*** RIVER *** [3s Ts 6d 7s][4h]
+manggy94 bets 270
+Weeds60 calls 270
+*** SHOW DOWN ***
+Weeds60 shows [7h Ks] (One pair : 7)
+manggy94 shows [Qs 5s] (Flush Queen high)
+manggy94 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [3s Ts 6d 7s 4h]
+Seat 3: manggy94 (big blind) showed [Qs 5s] and won 810 with Flush Queen high
+Seat 4: Weeds60 (button) showed [7h Ks] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #719575539416825857-9-1471360414 - Holdem no limit (15/30) - 2016/08/16 15:13:34 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #5 is the button
+Seat 3: manggy94 (1145)
+Seat 4: Weeds60 (865)
+Seat 5: _xoom_ (990)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 15
+Weeds60 posts big blind 30
+Dealt to manggy94 [5c 7d]
+*** PRE-FLOP *** 
+_xoom_ folds
+manggy94 folds
+Weeds60 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 4: Weeds60 (big blind) won 45
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #719575539416825857-10-1471360433 - Holdem no limit (15/30) - 2016/08/16 15:13:53 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #3 is the button
+Seat 3: manggy94 (1130)
+Seat 4: Weeds60 (880)
+Seat 5: _xoom_ (990)
+*** ANTE/BLINDS ***
+Weeds60 posts small blind 15
+_xoom_ posts big blind 30
+Dealt to manggy94 [Qc 6s]
+*** PRE-FLOP *** 
+manggy94 folds
+Weeds60 calls 15
+_xoom_ checks
+*** FLOP *** [8s Ah 2d]
+Weeds60 checks
+_xoom_ checks
+*** TURN *** [8s Ah 2d][4h]
+Weeds60 checks
+_xoom_ checks
+*** RIVER *** [8s Ah 2d 4h][7d]
+Weeds60 checks
+_xoom_ checks
+*** SHOW DOWN ***
+Weeds60 shows [6d Td] (High card : Ace)
+_xoom_ shows [4d 9c] (One pair : 4)
+_xoom_ collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [8s Ah 2d 4h 7d]
+Seat 4: Weeds60 (small blind) showed [6d Td] and lost with High card : Ace
+Seat 5: _xoom_ (big blind) showed [4d 9c] and won 60 with One pair : 4
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 2 - HandId: #719575539416825857-11-1471360495 - Holdem no limit (15/30) - 2016/08/16 15:14:55 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #4 is the button
+Seat 3: manggy94 (1130)
+Seat 4: Weeds60 (850)
+Seat 5: _xoom_ (1020)
+*** ANTE/BLINDS ***
+_xoom_ posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [Ad 3c]
+*** PRE-FLOP *** 
+Weeds60 folds
+_xoom_ folds
+manggy94 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: manggy94 (big blind) won 45
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #719575539416825857-12-1471360519 - Holdem no limit (20/40) - 2016/08/16 15:15:19 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #5 is the button
+Seat 3: manggy94 (1145)
+Seat 4: Weeds60 (850)
+Seat 5: _xoom_ (1005)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+Weeds60 posts big blind 40
+Dealt to manggy94 [Qh As]
+*** PRE-FLOP *** 
+_xoom_ folds
+manggy94 raises 420 to 460
+Weeds60 folds
+manggy94 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 3: manggy94 (small blind) won 500
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #719575539416825857-13-1471360542 - Holdem no limit (20/40) - 2016/08/16 15:15:42 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #3 is the button
+Seat 3: manggy94 (1185)
+Seat 4: Weeds60 (810)
+Seat 5: _xoom_ (1005)
+*** ANTE/BLINDS ***
+Weeds60 posts small blind 20
+_xoom_ posts big blind 40
+Dealt to manggy94 [9d Qd]
+*** PRE-FLOP *** 
+manggy94 calls 40
+Weeds60 folds
+_xoom_ checks
+*** FLOP *** [Th 8h 5s]
+_xoom_ checks
+manggy94 checks
+*** TURN *** [Th 8h 5s][9c]
+_xoom_ checks
+manggy94 bets 40
+_xoom_ folds
+manggy94 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Th 8h 5s 9c]
+Seat 3: manggy94 (button) won 140
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #719575539416825857-14-1471360562 - Holdem no limit (20/40) - 2016/08/16 15:16:02 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #4 is the button
+Seat 3: manggy94 (1245)
+Seat 4: Weeds60 (790)
+Seat 5: _xoom_ (965)
+*** ANTE/BLINDS ***
+_xoom_ posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [Th Jc]
+*** PRE-FLOP *** 
+Weeds60 raises 80 to 120
+_xoom_ folds
+manggy94 calls 80
+*** FLOP *** [3d Qs 7c]
+manggy94 checks
+Weeds60 bets 130
+manggy94 folds
+Weeds60 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [3d Qs 7c]
+Seat 4: Weeds60 (button) won 390
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #719575539416825857-15-1471360581 - Holdem no limit (20/40) - 2016/08/16 15:16:21 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #5 is the button
+Seat 3: manggy94 (1125)
+Seat 4: Weeds60 (930)
+Seat 5: _xoom_ (945)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+Weeds60 posts big blind 40
+Dealt to manggy94 [Kd Kc]
+*** PRE-FLOP *** 
+_xoom_ raises 40 to 80
+manggy94 raises 40 to 120
+Weeds60 folds
+_xoom_ calls 40
+*** FLOP *** [Jc 9c Th]
+manggy94 bets 280
+_xoom_ raises 280 to 560
+manggy94 raises 445 to 1005 and is all-in
+_xoom_ calls 265 and is all-in
+*** TURN *** [Jc 9c Th][7d]
+*** RIVER *** [Jc 9c Th 7d][8d]
+*** SHOW DOWN ***
+manggy94 shows [Kd Kc] (Straight Jack high)
+_xoom_ shows [9h Qh] (Straight Queen high)
+_xoom_ collected 1930 from main pot
+manggy94 collected 180 from side pot 1
+*** SUMMARY ***
+Total pot 2110 | No rake
+Board: [Jc 9c Th 7d 8d]
+Seat 3: manggy94 (small blind) showed [Kd Kc] and won 180 with Straight Jack high
+Seat 5: _xoom_ (button) showed [9h Qh] and won 1930 with Straight Queen high
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #719575539416825857-16-1471360613 - Holdem no limit (20/40) - 2016/08/16 15:16:53 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #3 is the button
+Seat 3: manggy94 (180)
+Seat 4: Weeds60 (890)
+Seat 5: _xoom_ (1930)
+*** ANTE/BLINDS ***
+Weeds60 posts small blind 20
+_xoom_ posts big blind 40
+Dealt to manggy94 [8s 8h]
+*** PRE-FLOP *** 
+manggy94 raises 140 to 180 and is all-in
+Weeds60 folds
+_xoom_ folds
+manggy94 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: manggy94 (button) won 240
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #719575539416825857-17-1471360627 - Holdem no limit (20/40) - 2016/08/16 15:17:07 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #4 is the button
+Seat 3: manggy94 (240)
+Seat 4: Weeds60 (870)
+Seat 5: _xoom_ (1890)
+*** ANTE/BLINDS ***
+_xoom_ posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [Td 3h]
+*** PRE-FLOP *** 
+Weeds60 raises 40 to 80
+_xoom_ folds
+manggy94 folds
+Weeds60 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 4: Weeds60 (button) won 140
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #719575539416825857-18-1471360638 - Holdem no limit (20/40) - 2016/08/16 15:17:18 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #5 is the button
+Seat 3: manggy94 (200)
+Seat 4: Weeds60 (930)
+Seat 5: _xoom_ (1870)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+Weeds60 posts big blind 40
+Dealt to manggy94 [9d 6c]
+*** PRE-FLOP *** 
+_xoom_ raises 1830 to 1870 and is all-in
+manggy94 folds
+Weeds60 calls 890 and is all-in
+*** FLOP *** [2h Ks As]
+*** TURN *** [2h Ks As][8c]
+*** RIVER *** [2h Ks As 8c][5h]
+*** SHOW DOWN ***
+Weeds60 shows [Td Kh] (One pair : Kings)
+_xoom_ shows [Ad 6d] (One pair : Aces)
+_xoom_ collected 2820 from pot
+*** SUMMARY ***
+Total pot 2820 | No rake
+Board: [2h Ks As 8c 5h]
+Seat 4: Weeds60 (big blind) showed [Td Kh] and lost with One pair : Kings
+Seat 5: _xoom_ (button) showed [Ad 6d] and won 2820 with One pair : Aces
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #719575539416825857-19-1471360653 - Holdem no limit (20/40) - 2016/08/16 15:17:33 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #5 is the button
+Seat 3: manggy94 (180)
+Seat 5: _xoom_ (2820)
+*** ANTE/BLINDS ***
+_xoom_ posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [7d Js]
+*** PRE-FLOP *** 
+_xoom_ folds
+manggy94 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: manggy94 (big blind) won 60
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1 - Déglingos !" buyIn: 0€ + 0€ level: 3 - HandId: #719575539416825857-20-1471360657 - Holdem no limit (20/40) - 2016/08/16 15:17:37 UTC
+Table: 'Super Freeroll Stade 1 - Déglingos !(167539236)#0' 6-max (real money) Seat #3 is the button
+Seat 3: manggy94 (200)
+Seat 5: _xoom_ (2800)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+_xoom_ posts big blind 40
+Dealt to manggy94 [Qs 6h]
+*** PRE-FLOP *** 
+manggy94 raises 160 to 200 and is all-in
+_xoom_ calls 160
+*** FLOP *** [5s 9s 4h]
+*** TURN *** [5s 9s 4h][7s]
+*** RIVER *** [5s 9s 4h 7s][Th]
+*** SHOW DOWN ***
+manggy94 shows [Qs 6h] (High card : Queen)
+_xoom_ shows [As Jc] (High card : Ace)
+_xoom_ collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [5s 9s 4h 7s Th]
+Seat 3: manggy94 (small blind) (button) showed [Qs 6h] and lost with High card : Queen
+Seat 5: _xoom_ (big blind) showed [As Jc] and won 400 with High card : Ace
+
+

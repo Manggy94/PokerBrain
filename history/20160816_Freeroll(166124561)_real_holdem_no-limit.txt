@@ -1,0 +1,406 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #713499556557357245-3-1471360108 - Holdem no limit (20/40) - 2016/08/16 15:08:28 UTC
+Table: 'Freeroll(166124561)#188' 8-max (real money) Seat #8 is the button
+Seat 1: manggy94 (3000)
+Seat 2: IlCapteMal (3000)
+Seat 3: JOE OCEANS (6050)
+Seat 4: Alexis.t (3000)
+Seat 5: Ted_Ted (3000)
+Seat 6: FemurMarket (3000)
+Seat 7: asiatrikx (2990)
+Seat 8: joa1905 (2960)
+*** ANTE/BLINDS ***
+IlCapteMal posts big blind 40
+*** PRE-FLOP *** 
+JOE OCEANS raises 6010 to 6050 and is all-in
+Alexis.t folds
+Ted_Ted calls 3000 and is all-in
+FemurMarket folds
+asiatrikx folds
+joa1905 folds
+IlCapteMal folds
+*** FLOP *** [Jd Ac Jc]
+*** TURN *** [Jd Ac Jc][2h]
+*** RIVER *** [Jd Ac Jc 2h][4d]
+*** SHOW DOWN ***
+JOE OCEANS shows [Kd 8d] (One pair : Jacks)
+Ted_Ted shows [Js Td] (Trips of Jacks)
+Ted_Ted collected 6040 from main pot
+JOE OCEANS collected 3050 from side pot 1
+*** SUMMARY ***
+Total pot 9090 | No rake
+Board: [Jd Ac Jc 2h 4d]
+Seat 3: JOE OCEANS showed [Kd 8d] and won 3050 with One pair : Jacks
+Seat 5: Ted_Ted showed [Js Td] and won 6040 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #713499556557357245-4-1471360148 - Holdem no limit (20/40) - 2016/08/16 15:09:08 UTC
+Table: 'Freeroll(166124561)#188' 8-max (real money) Seat #1 is the button
+Seat 1: manggy94 (3000)
+Seat 2: IlCapteMal (2960)
+Seat 3: JOE OCEANS (3050)
+Seat 4: Alexis.t (3000)
+Seat 5: Ted_Ted (6040)
+Seat 6: FemurMarket (3000)
+Seat 7: asiatrikx (2990)
+Seat 8: joa1905 (2960)
+*** ANTE/BLINDS ***
+IlCapteMal posts small blind 20
+JOE OCEANS posts big blind 40
+*** PRE-FLOP *** 
+Alexis.t folds
+Ted_Ted raises 40 to 80
+FemurMarket folds
+asiatrikx folds
+joa1905 folds
+IlCapteMal raises 2880 to 2960 and is all-in
+JOE OCEANS raises 90 to 3050 and is all-in
+Ted_Ted raises 2880 to 5930
+*** FLOP *** [7c Qc Tc]
+*** TURN *** [7c Qc Tc][Qh]
+*** RIVER *** [7c Qc Tc Qh][9c]
+*** SHOW DOWN ***
+JOE OCEANS shows [Td 7h] (Two pairs : Queens and Tens)
+IlCapteMal shows [8c Ks] (Flush Queen high)
+Ted_Ted shows [Js Jd] (Two pairs : Queens and Jacks)
+Ted_Ted collected 3060 from side pot 1
+IlCapteMal collected 8880 from main pot
+*** SUMMARY ***
+Total pot 11940 | No rake
+Board: [7c Qc Tc Qh 9c]
+Seat 2: IlCapteMal (small blind) showed [8c Ks] and won 8880 with Flush Queen high
+Seat 3: JOE OCEANS (big blind) showed [Td 7h] and lost with Two pairs : Queens and Tens
+Seat 5: Ted_Ted showed [Js Jd] and won 3060 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #713499556557357245-5-1471360315 - Holdem no limit (30/60) - 2016/08/16 15:11:55 UTC
+Table: 'Freeroll(166124561)#188' 8-max (real money) Seat #2 is the button
+Seat 1: manggy94 (3000)
+Seat 2: IlCapteMal (8880)
+Seat 4: Alexis.t (3000)
+Seat 5: Ted_Ted (3170)
+Seat 6: FemurMarket (3000)
+Seat 7: asiatrikx (2990)
+Seat 8: joa1905 (2960)
+*** ANTE/BLINDS ***
+Alexis.t posts big blind 60
+Dealt to manggy94 [Ks 6s]
+*** PRE-FLOP *** 
+Ted_Ted raises 3110 to 3170 and is all-in
+FemurMarket folds
+asiatrikx folds
+joa1905 folds
+manggy94 folds
+IlCapteMal folds
+Alexis.t folds
+Ted_Ted collected 3230 from pot
+*** SUMMARY ***
+Total pot 3230 | No rake
+Seat 5: Ted_Ted won 3230
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #713499556557357245-6-1471360328 - Holdem no limit (30/60) - 2016/08/16 15:12:08 UTC
+Table: 'Freeroll(166124561)#188' 8-max (real money) Seat #3 is the button
+Seat 1: manggy94 (3000)
+Seat 2: IlCapteMal (8880)
+Seat 4: Alexis.t (2940)
+Seat 5: Ted_Ted (3230)
+Seat 6: FemurMarket (3000)
+Seat 7: asiatrikx (2990)
+Seat 8: joa1905 (2960)
+*** ANTE/BLINDS ***
+Alexis.t posts small blind 30
+Ted_Ted posts big blind 60
+Dealt to manggy94 [8h 2h]
+*** PRE-FLOP *** 
+FemurMarket folds
+asiatrikx folds
+joa1905 folds
+manggy94 folds
+IlCapteMal raises 8820 to 8880 and is all-in
+Alexis.t folds
+Ted_Ted calls 3170 and is all-in
+*** FLOP *** [6s Qd Ts]
+*** TURN *** [6s Qd Ts][7c]
+*** RIVER *** [6s Qd Ts 7c][6d]
+*** SHOW DOWN ***
+IlCapteMal shows [8c Ks] (One pair : 6)
+Ted_Ted shows [9d 7d] (Two pairs : 7 and 6)
+Ted_Ted collected 6490 from main pot
+IlCapteMal collected 5650 from side pot 1
+*** SUMMARY ***
+Total pot 12140 | No rake
+Board: [6s Qd Ts 7c 6d]
+Seat 2: IlCapteMal showed [8c Ks] and won 5650 with One pair : 6
+Seat 5: Ted_Ted (big blind) showed [9d 7d] and won 6490 with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #713499556557357245-7-1471360345 - Holdem no limit (40/80) - 2016/08/16 15:12:25 UTC
+Table: 'Freeroll(166124561)#188' 8-max (real money) Seat #4 is the button
+Seat 1: manggy94 (3000)
+Seat 2: IlCapteMal (5650)
+Seat 3: latoute1 (3000)
+Seat 4: Alexis.t (2910)
+Seat 5: Ted_Ted (6490)
+Seat 6: FemurMarket (3000)
+Seat 7: asiatrikx (2990)
+Seat 8: joa1905 (2960)
+*** ANTE/BLINDS ***
+Ted_Ted posts small blind 40
+FemurMarket posts big blind 80
+Dealt to manggy94 [7d 3s]
+*** PRE-FLOP *** 
+asiatrikx folds
+joa1905 folds
+manggy94 folds
+IlCapteMal raises 5570 to 5650 and is all-in
+latoute1 folds
+Alexis.t folds
+Ted_Ted folds
+FemurMarket folds
+IlCapteMal collected 5770 from pot
+*** SUMMARY ***
+Total pot 5770 | No rake
+Seat 2: IlCapteMal won 5770
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #713499556557357245-8-1471360363 - Holdem no limit (40/80) - 2016/08/16 15:12:43 UTC
+Table: 'Freeroll(166124561)#188' 8-max (real money) Seat #5 is the button
+Seat 1: manggy94 (3000)
+Seat 2: IlCapteMal (5770)
+Seat 3: latoute1 (3000)
+Seat 4: Alexis.t (2910)
+Seat 5: Ted_Ted (6450)
+Seat 6: FemurMarket (2920)
+Seat 7: asiatrikx (2990)
+Seat 8: joa1905 (2960)
+*** ANTE/BLINDS ***
+FemurMarket posts small blind 40
+asiatrikx posts big blind 80
+Dealt to manggy94 [9s Ac]
+*** PRE-FLOP *** 
+joa1905 folds
+manggy94 calls 80
+IlCapteMal folds
+latoute1 calls 80
+Alexis.t calls 80
+Ted_Ted folds
+FemurMarket folds
+asiatrikx folds
+*** FLOP *** [Kc Ad 2c]
+manggy94 bets 180
+latoute1 calls 180
+Alexis.t folds
+*** TURN *** [Kc Ad 2c][Th]
+manggy94 checks
+latoute1 checks
+*** RIVER *** [Kc Ad 2c Th][4h]
+manggy94 checks
+latoute1 bets 360
+manggy94 calls 360
+*** SHOW DOWN ***
+manggy94 shows [9s Ac] (One pair : Aces)
+latoute1 shows [Jc Ah] (One pair : Aces)
+latoute1 collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [Kc Ad 2c Th 4h]
+Seat 1: manggy94 showed [9s Ac] and lost with One pair : Aces
+Seat 3: latoute1 showed [Jc Ah] and won 1440 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #713499556557357245-9-1471360426 - Holdem no limit (40/80) - 2016/08/16 15:13:46 UTC
+Table: 'Freeroll(166124561)#188' 8-max (real money) Seat #6 is the button
+Seat 1: manggy94 (2380)
+Seat 2: IlCapteMal (5770)
+Seat 3: latoute1 (3820)
+Seat 4: Alexis.t (2830)
+Seat 5: Ted_Ted (6450)
+Seat 6: FemurMarket (2880)
+Seat 7: asiatrikx (2910)
+Seat 8: joa1905 (2960)
+*** ANTE/BLINDS ***
+asiatrikx posts small blind 40
+joa1905 posts big blind 80
+Dealt to manggy94 [Ks 8c]
+*** PRE-FLOP *** 
+manggy94 folds
+IlCapteMal folds
+latoute1 folds
+Alexis.t calls 80
+Ted_Ted folds
+FemurMarket folds
+asiatrikx folds
+joa1905 folds
+Alexis.t collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 4: Alexis.t won 200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #713499556557357245-10-1471360455 - Holdem no limit (40/80) - 2016/08/16 15:14:15 UTC
+Table: 'Freeroll(166124561)#188' 8-max (real money) Seat #7 is the button
+Seat 1: manggy94 (2380)
+Seat 2: IlCapteMal (5770)
+Seat 3: latoute1 (3820)
+Seat 4: Alexis.t (2950)
+Seat 5: Ted_Ted (6450)
+Seat 6: FemurMarket (2880)
+Seat 7: asiatrikx (2870)
+Seat 8: joa1905 (2880)
+*** ANTE/BLINDS ***
+joa1905 posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [3h 3s]
+*** PRE-FLOP *** 
+IlCapteMal folds
+latoute1 calls 80
+Alexis.t calls 80
+Ted_Ted folds
+FemurMarket folds
+asiatrikx folds
+joa1905 folds
+manggy94 raises 80 to 160
+latoute1 calls 80
+Alexis.t calls 80
+*** FLOP *** [5d Kh Tc]
+manggy94 bets 260
+latoute1 raises 260 to 520
+Alexis.t folds
+manggy94 calls 260
+*** TURN *** [5d Kh Tc][8d]
+manggy94 checks
+latoute1 bets 780
+manggy94 folds
+latoute1 collected 2340 from pot
+*** SUMMARY ***
+Total pot 2340 | No rake
+Board: [5d Kh Tc 8d]
+Seat 3: latoute1 won 2340
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #713499556557357245-11-1471360510 - Holdem no limit (40/80) - 2016/08/16 15:15:10 UTC
+Table: 'Freeroll(166124561)#188' 8-max (real money) Seat #8 is the button
+Seat 1: manggy94 (1700)
+Seat 2: IlCapteMal (5770)
+Seat 3: latoute1 (4700)
+Seat 4: Alexis.t (2790)
+Seat 5: Ted_Ted (6450)
+Seat 6: FemurMarket (2880)
+Seat 7: asiatrikx (2870)
+Seat 8: joa1905 (2840)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+IlCapteMal posts big blind 80
+Dealt to manggy94 [3h As]
+*** PRE-FLOP *** 
+latoute1 folds
+Alexis.t calls 80
+Ted_Ted raises 320 to 400
+FemurMarket folds
+asiatrikx folds
+joa1905 folds
+manggy94 raises 1300 to 1700 and is all-in
+IlCapteMal folds
+Alexis.t calls 1620
+Ted_Ted calls 1300
+*** FLOP *** [2s 8d Td]
+Alexis.t checks
+Ted_Ted checks
+*** TURN *** [2s 8d Td][8c]
+Alexis.t checks
+Ted_Ted checks
+*** RIVER *** [2s 8d Td 8c][Ad]
+Alexis.t checks
+Ted_Ted bets 2590
+Alexis.t calls 1090 and is all-in
+*** SHOW DOWN ***
+Alexis.t shows [9s Qd] (One pair : 8)
+manggy94 shows [3h As] (Two pairs : Aces and 8)
+Ted_Ted shows [9h Ah] (Two pairs : Aces and 8)
+Ted_Ted collected 6270 from side pot 1
+manggy94 collected 2590 from main pot
+*** SUMMARY ***
+Total pot 8860 | No rake
+Board: [2s 8d Td 8c Ad]
+Seat 1: manggy94 (small blind) showed [3h As] and won 2590 with Two pairs : Aces and 8
+Seat 4: Alexis.t showed [9s Qd] and lost with One pair : 8
+Seat 5: Ted_Ted showed [9h Ah] and won 6270 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #713499556557357245-12-1471360571 - Holdem no limit (60/120) - 2016/08/16 15:16:11 UTC
+Table: 'Freeroll(166124561)#188' 8-max (real money) Seat #1 is the button
+Seat 1: manggy94 (2590)
+Seat 2: IlCapteMal (5690)
+Seat 3: latoute1 (4700)
+Seat 4: MACFLY_2B (3000)
+Seat 5: Ted_Ted (8430)
+Seat 6: FemurMarket (2880)
+Seat 7: asiatrikx (2870)
+Seat 8: joa1905 (2840)
+*** ANTE/BLINDS ***
+IlCapteMal posts small blind 60
+latoute1 posts big blind 120
+Dealt to manggy94 [4c 5c]
+*** PRE-FLOP *** 
+MACFLY_2B raises 2880 to 3000 and is all-in
+Ted_Ted folds
+FemurMarket folds
+asiatrikx folds
+joa1905 folds
+manggy94 folds
+IlCapteMal calls 2940
+latoute1 folds
+*** FLOP *** [Qc 7s 9s]
+*** TURN *** [Qc 7s 9s][Jc]
+*** RIVER *** [Qc 7s 9s Jc][Ks]
+*** SHOW DOWN ***
+MACFLY_2B shows [4d 3d] (High card : King)
+IlCapteMal shows [5h As] (High card : Ace)
+IlCapteMal collected 6120 from pot
+*** SUMMARY ***
+Total pot 6120 | No rake
+Board: [Qc 7s 9s Jc Ks]
+Seat 2: IlCapteMal (small blind) showed [5h As] and won 6120 with High card : Ace
+Seat 4: MACFLY_2B showed [4d 3d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #713499556557357245-13-1471360616 - Holdem no limit (60/120) - 2016/08/16 15:16:56 UTC
+Table: 'Freeroll(166124561)#188' 8-max (real money) Seat #2 is the button
+Seat 1: manggy94 (2590)
+Seat 2: IlCapteMal (8810)
+Seat 3: latoute1 (4580)
+Seat 5: Ted_Ted (8430)
+Seat 6: FemurMarket (2880)
+Seat 7: asiatrikx (2870)
+Seat 8: joa1905 (2840)
+*** ANTE/BLINDS ***
+latoute1 posts small blind 60
+Ted_Ted posts big blind 120
+Dealt to manggy94 [3d Ad]
+*** PRE-FLOP *** 
+FemurMarket folds
+asiatrikx folds
+joa1905 folds
+manggy94 raises 120 to 240
+IlCapteMal folds
+latoute1 folds
+Ted_Ted calls 120
+*** FLOP *** [6h Ah 5c]
+Ted_Ted checks
+manggy94 bets 540
+Ted_Ted calls 540
+*** TURN *** [6h Ah 5c][9s]
+Ted_Ted bets 1920
+manggy94 calls 1810 and is all-in
+*** RIVER *** [6h Ah 5c 9s][7s]
+*** SHOW DOWN ***
+manggy94 shows [3d Ad] (One pair : Aces)
+Ted_Ted shows [7d 8c] (Straight 9 high)
+Ted_Ted collected 5350 from pot
+*** SUMMARY ***
+Total pot 5350 | No rake
+Board: [6h Ah 5c 9s 7s]
+Seat 1: manggy94 showed [3d Ad] and lost with One pair : Aces
+Seat 5: Ted_Ted (big blind) showed [7d 8c] and won 5350 with Straight 9 high
+
+

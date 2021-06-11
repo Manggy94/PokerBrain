@@ -1,0 +1,39 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,22€ + 0,03€ level: 6 - HandId: #550713290947297336-2-1441484067 - Omaha pot limit (250/500) - 2015/09/05 20:14:27 UTC
+Table: 'MiniRoll(128222930)#055' 6-max (real money) Seat #5 is the button
+Seat 1: supapoker (9500)
+Seat 2: CHAMBIZ34510 (10000)
+Seat 3: manggy94 (10000)
+Seat 4: Quinter1313 (10000)
+Seat 5: Blue Daemon (10500)
+*** ANTE/BLINDS ***
+supapoker posts small blind 250
+CHAMBIZ34510 posts big blind 500
+Dealt to manggy94 [As 3c Kd Tc]
+*** PRE-FLOP *** 
+manggy94 raises 1250 to 1750
+Quinter1313 folds
+Blue Daemon folds
+supapoker calls 1500
+CHAMBIZ34510 raises 5250 to 7000
+manggy94 calls 5250
+supapoker raises 2500 to 9500 and is all-in
+CHAMBIZ34510 calls 2500
+manggy94 calls 2500
+*** FLOP *** [2s 6d Th]
+CHAMBIZ34510 bets 500 and is all-in
+manggy94 calls 500 and is all-in
+*** TURN *** [2s 6d Th][Qd]
+*** RIVER *** [2s 6d Th Qd][8d]
+*** SHOW DOWN ***
+supapoker shows [Ac 7d Kh 7s] (One pair : 7)
+manggy94 shows [As 3c Kd Tc] (One pair : Tens)
+CHAMBIZ34510 shows [Jd 9d 9s 4s] (Flush Queen high)
+CHAMBIZ34510 collected 29500 from pot
+*** SUMMARY ***
+Total pot 29500 | No rake
+Board: [2s 6d Th Qd 8d]
+Seat 1: supapoker (small blind) showed [Ac 7d Kh 7s] and lost with One pair : 7
+Seat 2: CHAMBIZ34510 (big blind) showed [Jd 9d 9s 4s] and won 29500 with Flush Queen high
+Seat 3: manggy94 showed [As 3c Kd Tc] and lost with One pair : Tens
+
+

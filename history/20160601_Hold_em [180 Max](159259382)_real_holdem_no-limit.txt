@@ -1,0 +1,88 @@
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 0,90€ + 0,10€ level: 0 - HandId: #684013837271171082-2-1464798708 - Holdem no limit (25/50) - 2016/06/01 16:31:48 UTC
+Table: 'Hold'em [180 Max](159259382)#09' 6-max (real money) Seat #2 is the button
+Seat 1: 62mefiteu (10000)
+Seat 2: VietKieuMom (13679)
+Seat 3: tanino76 (9875)
+Seat 4: sebmig94 (10000)
+Seat 5: manggy94 (10000)
+Seat 6: xxxzeetixxx (6446)
+*** ANTE/BLINDS ***
+tanino76 posts small blind 25
+sebmig94 posts big blind 50
+Dealt to manggy94 [2s Td]
+*** PRE-FLOP *** 
+manggy94 folds
+xxxzeetixxx folds
+62mefiteu folds
+VietKieuMom folds
+tanino76 folds
+sebmig94 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Seat 4: sebmig94 (big blind) won 75
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 0,90€ + 0,10€ level: 0 - HandId: #684013837271171082-3-1464798734 - Holdem no limit (25/50) - 2016/06/01 16:32:14 UTC
+Table: 'Hold'em [180 Max](159259382)#09' 6-max (real money) Seat #3 is the button
+Seat 1: 62mefiteu (10000)
+Seat 2: VietKieuMom (13679)
+Seat 3: tanino76 (9850)
+Seat 4: sebmig94 (10025)
+Seat 5: manggy94 (10000)
+Seat 6: xxxzeetixxx (6446)
+*** ANTE/BLINDS ***
+sebmig94 posts small blind 25
+manggy94 posts big blind 50
+Dealt to manggy94 [4h 5c]
+*** PRE-FLOP *** 
+xxxzeetixxx raises 50 to 100
+62mefiteu calls 100
+VietKieuMom folds
+tanino76 folds
+sebmig94 raises 9925 to 10025 and is all-in
+manggy94 folds
+xxxzeetixxx folds
+62mefiteu folds
+sebmig94 collected 10275 from pot
+*** SUMMARY ***
+Total pot 10275 | No rake
+Seat 4: sebmig94 (small blind) won 10275
+
+
+Winamax Poker - Tournament "Hold'em [180 Max]" buyIn: 0,90€ + 0,10€ level: 1 - HandId: #684013837271171082-4-1464798797 - Holdem no limit (50/100) - 2016/06/01 16:33:17 UTC
+Table: 'Hold'em [180 Max](159259382)#09' 6-max (real money) Seat #4 is the button
+Seat 1: 62mefiteu (9900)
+Seat 2: VietKieuMom (13679)
+Seat 3: tanino76 (9850)
+Seat 4: sebmig94 (10275)
+Seat 5: manggy94 (9950)
+Seat 6: xxxzeetixxx (6346)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 50
+xxxzeetixxx posts big blind 100
+Dealt to manggy94 [Qd Ac]
+*** PRE-FLOP *** 
+62mefiteu folds
+VietKieuMom folds
+tanino76 folds
+sebmig94 calls 100
+manggy94 raises 300 to 400
+xxxzeetixxx folds
+sebmig94 calls 300
+*** FLOP *** [5c 6c 8c]
+manggy94 bets 900
+sebmig94 raises 8975 to 9875 and is all-in
+manggy94 calls 8650 and is all-in
+*** TURN *** [5c 6c 8c][Jd]
+*** RIVER *** [5c 6c 8c Jd][8h]
+*** SHOW DOWN ***
+manggy94 shows [Qd Ac] (One pair : 8)
+sebmig94 shows [9c 9d] (Two pairs : 9 and 8)
+sebmig94 collected 20325 from pot
+*** SUMMARY ***
+Total pot 20325 | No rake
+Board: [5c 6c 8c Jd 8h]
+Seat 4: sebmig94 (button) showed [9c 9d] and won 20325 with Two pairs : 9 and 8
+Seat 5: manggy94 (small blind) showed [Qd Ac] and lost with One pair : 8
+
+

@@ -1,0 +1,1616 @@
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 8 - HandId: #574325230139342983-38-1445896373 - Holdem no limit (60/300/600) - 2015/10/26 21:52:53 UTC
+Table: 'LE TOTEM(133720513)#0134' 6-max (real money) Seat #3 is the button
+Seat 1: LINO13000 (30762)
+Seat 2: Dan_per (10000)
+Seat 3: manggy94 (10000)
+Seat 4: MalcolmCrowe (20698)
+Seat 5: arctic11112 (49540)
+Seat 6: Chaiseman (19000)
+*** ANTE/BLINDS ***
+MalcolmCrowe posts ante 60
+arctic11112 posts ante 60
+LINO13000 posts ante 60
+Chaiseman posts ante 60
+MalcolmCrowe posts small blind 300
+arctic11112 posts big blind 600
+*** PRE-FLOP *** 
+Chaiseman raises 1200 to 1800
+LINO13000 folds
+MalcolmCrowe folds
+arctic11112 raises 47680 to 49480 and is all-in
+Chaiseman calls 17140 and is all-in
+*** FLOP *** [Th 7s 4s]
+*** TURN *** [Th 7s 4s][Qs]
+*** RIVER *** [Th 7s 4s Qs][5h]
+*** SHOW DOWN ***
+Chaiseman shows [9h 9d] (One pair : 9)
+arctic11112 shows [Kc Ah] (High card : Ace)
+arctic11112 collected 30540 from side pot 1
+Chaiseman collected 38420 from main pot
+*** SUMMARY ***
+Total pot 68960 | No rake
+Board: [Th 7s 4s Qs 5h]
+Seat 5: arctic11112 (big blind) showed [Kc Ah] and won 30540 with High card : Ace
+Seat 6: Chaiseman showed [9h 9d] and won 38420 with One pair : 9
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 8 - HandId: #574325230139342983-39-1445896402 - Holdem no limit (60/300/600) - 2015/10/26 21:53:22 UTC
+Table: 'LE TOTEM(133720513)#0134' 6-max (real money) Seat #4 is the button
+Seat 1: LINO13000 (30702)
+Seat 2: Dan_per (10000)
+Seat 3: manggy94 (10000)
+Seat 4: MalcolmCrowe (20338)
+Seat 5: arctic11112 (30540)
+Seat 6: Chaiseman (38420)
+*** ANTE/BLINDS ***
+arctic11112 posts ante 60
+Chaiseman posts ante 60
+LINO13000 posts ante 60
+Dan_per posts ante 60
+manggy94 posts ante 60
+MalcolmCrowe posts ante 60
+arctic11112 posts small blind 300
+Chaiseman posts big blind 600
+Dealt to manggy94 [6d 7d]
+*** PRE-FLOP *** 
+LINO13000 folds
+Dan_per folds
+manggy94 folds
+MalcolmCrowe folds
+arctic11112 folds
+Chaiseman collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 6: Chaiseman (big blind) won 1260
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 8 - HandId: #574325230139342983-40-1445896427 - Holdem no limit (60/300/600) - 2015/10/26 21:53:47 UTC
+Table: 'LE TOTEM(133720513)#0134' 6-max (real money) Seat #5 is the button
+Seat 1: LINO13000 (30642)
+Seat 2: Dan_per (9940)
+Seat 3: manggy94 (9940)
+Seat 4: MalcolmCrowe (20278)
+Seat 5: arctic11112 (30180)
+Seat 6: Chaiseman (39020)
+*** ANTE/BLINDS ***
+Chaiseman posts ante 60
+LINO13000 posts ante 60
+Dan_per posts ante 60
+manggy94 posts ante 60
+MalcolmCrowe posts ante 60
+arctic11112 posts ante 60
+Chaiseman posts small blind 300
+LINO13000 posts big blind 600
+Dealt to manggy94 [7h Qh]
+*** PRE-FLOP *** 
+Dan_per folds
+manggy94 calls 600
+MalcolmCrowe raises 1320 to 1920
+arctic11112 folds
+Chaiseman calls 1620
+LINO13000 folds
+manggy94 calls 1320
+*** FLOP *** [Jd 5s 8s]
+Chaiseman checks
+manggy94 checks
+MalcolmCrowe bets 2688
+Chaiseman folds
+manggy94 folds
+MalcolmCrowe collected 9408 from pot
+*** SUMMARY ***
+Total pot 9408 | No rake
+Board: [Jd 5s 8s]
+Seat 4: MalcolmCrowe won 9408
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 9 - HandId: #574325230139342983-41-1445896472 - Holdem no limit (75/400/800) - 2015/10/26 21:54:32 UTC
+Table: 'LE TOTEM(133720513)#0134' 6-max (real money) Seat #6 is the button
+Seat 1: LINO13000 (29982)
+Seat 2: Dan_per (9880)
+Seat 3: manggy94 (7960)
+Seat 4: MalcolmCrowe (25018)
+Seat 5: arctic11112 (30120)
+Seat 6: Chaiseman (37040)
+*** ANTE/BLINDS ***
+LINO13000 posts ante 75
+Dan_per posts ante 75
+manggy94 posts ante 75
+MalcolmCrowe posts ante 75
+arctic11112 posts ante 75
+Chaiseman posts ante 75
+LINO13000 posts small blind 400
+Dan_per posts big blind 800
+Dealt to manggy94 [6h 9s]
+*** PRE-FLOP *** 
+manggy94 folds
+MalcolmCrowe folds
+arctic11112 raises 896 to 1696
+Chaiseman folds
+LINO13000 folds
+Dan_per calls 896
+*** FLOP *** [3s Qc 9d]
+Dan_per checks
+arctic11112 checks
+*** TURN *** [3s Qc 9d][3c]
+Dan_per checks
+arctic11112 bets 2121
+Dan_per folds
+arctic11112 collected 6363 from pot
+*** SUMMARY ***
+Total pot 6363 | No rake
+Board: [3s Qc 9d 3c]
+Seat 5: arctic11112 won 6363
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 9 - HandId: #574325230139342983-42-1445896803 - Holdem no limit (75/400/800) - 2015/10/26 22:00:03 UTC
+Table: 'LE TOTEM(133720513)#0134' 6-max (real money) Seat #1 is the button
+Seat 1: LINO13000 (29507)
+Seat 2: Dan_per (8109)
+Seat 3: manggy94 (7885)
+Seat 4: MalcolmCrowe (24943)
+Seat 5: arctic11112 (32591)
+Seat 6: Chaiseman (36965)
+*** ANTE/BLINDS ***
+Dan_per posts ante 75
+manggy94 posts ante 75
+LINO13000 posts ante 75
+MalcolmCrowe posts ante 75
+arctic11112 posts ante 75
+Chaiseman posts ante 75
+Dan_per posts small blind 400
+manggy94 posts big blind 800
+Dealt to manggy94 [6d 6s]
+*** PRE-FLOP *** 
+MalcolmCrowe folds
+arctic11112 folds
+Chaiseman folds
+LINO13000 folds
+Dan_per calls 400
+manggy94 raises 7010 to 7810 and is all-in
+Dan_per folds
+manggy94 collected 9060 from pot
+*** SUMMARY ***
+Total pot 9060 | No rake
+Seat 3: manggy94 (big blind) won 9060
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 9 - HandId: #574325230139342983-43-1445896852 - Holdem no limit (75/400/800) - 2015/10/26 22:00:52 UTC
+Table: 'LE TOTEM(133720513)#0134' 6-max (real money) Seat #2 is the button
+Seat 1: LINO13000 (29432)
+Seat 2: Dan_per (7234)
+Seat 3: manggy94 (9060)
+Seat 4: MalcolmCrowe (24868)
+Seat 5: arctic11112 (32516)
+Seat 6: Chaiseman (36890)
+*** ANTE/BLINDS ***
+manggy94 posts ante 75
+MalcolmCrowe posts ante 75
+LINO13000 posts ante 75
+Dan_per posts ante 75
+arctic11112 posts ante 75
+Chaiseman posts ante 75
+manggy94 posts small blind 400
+MalcolmCrowe posts big blind 800
+Dealt to manggy94 [Jc Td]
+*** PRE-FLOP *** 
+arctic11112 folds
+Chaiseman folds
+LINO13000 raises 800 to 1600
+Dan_per raises 5559 to 7159 and is all-in
+manggy94 folds
+MalcolmCrowe folds
+LINO13000 calls 5559
+*** FLOP *** [3s 3d Kc]
+*** TURN *** [3s 3d Kc][Kd]
+*** RIVER *** [3s 3d Kc Kd][5c]
+*** SHOW DOWN ***
+LINO13000 shows [Ad 6d] (Two pairs : Kings and 3)
+Dan_per shows [Ks Jh] (Full of Kings and 3)
+Dan_per collected 15968 from pot
+*** SUMMARY ***
+Total pot 15968 | No rake
+Board: [3s 3d Kc Kd 5c]
+Seat 1: LINO13000 showed [Ad 6d] and lost with Two pairs : Kings and 3
+Seat 2: Dan_per (button) showed [Ks Jh] and won 15968 with Full of Kings and 3
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 9 - HandId: #574325230139342983-44-1445896896 - Holdem no limit (75/400/800) - 2015/10/26 22:01:36 UTC
+Table: 'LE TOTEM(133720513)#0134' 6-max (real money) Seat #3 is the button
+Seat 1: LINO13000 (22198)
+Seat 2: Dan_per (15968)
+Seat 3: manggy94 (8585)
+Seat 4: MalcolmCrowe (23993)
+Seat 5: arctic11112 (32441)
+Seat 6: Chaiseman (36815)
+*** ANTE/BLINDS ***
+MalcolmCrowe posts ante 75
+arctic11112 posts ante 75
+LINO13000 posts ante 75
+Dan_per posts ante 75
+manggy94 posts ante 75
+Chaiseman posts ante 75
+MalcolmCrowe posts small blind 400
+arctic11112 posts big blind 800
+Dealt to manggy94 [Td Kh]
+*** PRE-FLOP *** 
+Chaiseman folds
+LINO13000 folds
+Dan_per folds
+manggy94 raises 2450 to 3250
+MalcolmCrowe folds
+arctic11112 folds
+manggy94 collected 4900 from pot
+*** SUMMARY ***
+Total pot 4900 | No rake
+Seat 3: manggy94 (button) won 4900
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 9 - HandId: #574325230139342983-45-1445896925 - Holdem no limit (75/400/800) - 2015/10/26 22:02:05 UTC
+Table: 'LE TOTEM(133720513)#0134' 6-max (real money) Seat #4 is the button
+Seat 1: LINO13000 (22123)
+Seat 2: Dan_per (15893)
+Seat 3: manggy94 (10160)
+Seat 4: MalcolmCrowe (23518)
+Seat 5: arctic11112 (31566)
+Seat 6: Chaiseman (36740)
+*** ANTE/BLINDS ***
+arctic11112 posts ante 75
+Chaiseman posts ante 75
+LINO13000 posts ante 75
+Dan_per posts ante 75
+manggy94 posts ante 75
+MalcolmCrowe posts ante 75
+arctic11112 posts small blind 400
+Chaiseman posts big blind 800
+Dealt to manggy94 [8h 9s]
+*** PRE-FLOP *** 
+LINO13000 folds
+Dan_per folds
+manggy94 folds
+MalcolmCrowe folds
+arctic11112 raises 896 to 1696
+Chaiseman calls 896
+*** FLOP *** [As Ah 7c]
+arctic11112 bets 1921
+Chaiseman calls 1921
+*** TURN *** [As Ah 7c][9h]
+arctic11112 bets 3600
+Chaiseman calls 3600
+*** RIVER *** [As Ah 7c 9h][6d]
+arctic11112 bets 4961
+Chaiseman raises 24487 to 29448 and is all-in
+arctic11112 folds
+Chaiseman collected 49293 from pot
+*** SUMMARY ***
+Total pot 49293 | No rake
+Board: [As Ah 7c 9h 6d]
+Seat 6: Chaiseman (big blind) won 49293
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 9 - HandId: #574325230139342983-46-1445896987 - Holdem no limit (75/400/800) - 2015/10/26 22:03:07 UTC
+Table: 'LE TOTEM(133720513)#0134' 6-max (real money) Seat #5 is the button
+Seat 1: LINO13000 (22048)
+Seat 2: Dan_per (15818)
+Seat 3: manggy94 (10085)
+Seat 4: MalcolmCrowe (23443)
+Seat 5: arctic11112 (19313)
+Seat 6: Chaiseman (49293)
+*** ANTE/BLINDS ***
+Chaiseman posts ante 75
+LINO13000 posts ante 75
+Dan_per posts ante 75
+manggy94 posts ante 75
+MalcolmCrowe posts ante 75
+arctic11112 posts ante 75
+Chaiseman posts small blind 400
+LINO13000 posts big blind 800
+Dealt to manggy94 [9h Ad]
+*** PRE-FLOP *** 
+Dan_per folds
+manggy94 calls 800
+MalcolmCrowe folds
+arctic11112 folds
+Chaiseman folds
+LINO13000 checks
+*** FLOP *** [Ks Th 9c]
+LINO13000 checks
+manggy94 bets 9210 and is all-in
+LINO13000 folds
+manggy94 collected 11660 from pot
+*** SUMMARY ***
+Total pot 11660 | No rake
+Board: [Ks Th 9c]
+Seat 3: manggy94 won 11660
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 9 - HandId: #574325230139342983-47-1445897017 - Holdem no limit (75/400/800) - 2015/10/26 22:03:37 UTC
+Table: 'LE TOTEM(133720513)#0134' 6-max (real money) Seat #6 is the button
+Seat 1: LINO13000 (21173)
+Seat 2: Dan_per (15743)
+Seat 3: manggy94 (11660)
+Seat 4: MalcolmCrowe (23368)
+Seat 5: arctic11112 (19238)
+Seat 6: Chaiseman (48818)
+*** ANTE/BLINDS ***
+LINO13000 posts ante 75
+Dan_per posts ante 75
+manggy94 posts ante 75
+MalcolmCrowe posts ante 75
+arctic11112 posts ante 75
+Chaiseman posts ante 75
+LINO13000 posts small blind 400
+Dan_per posts big blind 800
+Dealt to manggy94 [2c 7d]
+*** PRE-FLOP *** 
+manggy94 folds
+MalcolmCrowe raises 960 to 1760
+arctic11112 folds
+Chaiseman folds
+LINO13000 folds
+Dan_per raises 960 to 2720
+MalcolmCrowe folds
+Dan_per collected 5330 from pot
+*** SUMMARY ***
+Total pot 5330 | No rake
+Seat 2: Dan_per (big blind) won 5330
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 9 - HandId: #574325230139342983-48-1445897055 - Holdem no limit (75/400/800) - 2015/10/26 22:04:15 UTC
+Table: 'LE TOTEM(133720513)#0134' 6-max (real money) Seat #1 is the button
+Seat 1: LINO13000 (20698)
+Seat 2: Dan_per (18278)
+Seat 3: manggy94 (11585)
+Seat 4: MalcolmCrowe (21533)
+Seat 5: arctic11112 (19163)
+Seat 6: Chaiseman (48743)
+*** ANTE/BLINDS ***
+Dan_per posts ante 75
+manggy94 posts ante 75
+LINO13000 posts ante 75
+MalcolmCrowe posts ante 75
+arctic11112 posts ante 75
+Chaiseman posts ante 75
+Dan_per posts small blind 400
+manggy94 posts big blind 800
+Dealt to manggy94 [9h 7d]
+*** PRE-FLOP *** 
+MalcolmCrowe raises 960 to 1760
+arctic11112 folds
+Chaiseman calls 1760
+LINO13000 folds
+Dan_per folds
+manggy94 folds
+*** FLOP *** [4d Ah Ac]
+MalcolmCrowe checks
+Chaiseman checks
+*** TURN *** [4d Ah Ac][6d]
+MalcolmCrowe bets 2844
+Chaiseman raises 2844 to 5688
+MalcolmCrowe calls 2844
+*** RIVER *** [4d Ah Ac 6d][Th]
+MalcolmCrowe checks
+Chaiseman bets 6874
+MalcolmCrowe raises 7136 to 14010 and is all-in
+Chaiseman folds
+MalcolmCrowe collected 37430 from pot
+*** SUMMARY ***
+Total pot 37430 | No rake
+Board: [4d Ah Ac 6d Th]
+Seat 4: MalcolmCrowe won 37430
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 10 - HandId: #574325230139342952-59-1445897164 - Holdem no limit (100/500/1000) - 2015/10/26 22:06:04 UTC
+Table: 'LE TOTEM(133720513)#0103' 6-max (real money) Seat #5 is the button
+Seat 1: baboul35 (13225)
+Seat 2: stypeur30 (30905)
+Seat 3: ROUSSMAN9100 (32322)
+Seat 4: manggy94 (10710)
+Seat 5: IlEstLaaPapa (16209)
+Seat 6: 2122FG (76653)
+*** ANTE/BLINDS ***
+2122FG posts ante 100
+baboul35 posts ante 100
+stypeur30 posts ante 100
+ROUSSMAN9100 posts ante 100
+manggy94 posts ante 100
+IlEstLaaPapa posts ante 100
+2122FG posts small blind 500
+baboul35 posts big blind 1000
+Dealt to manggy94 [8c Jd]
+*** PRE-FLOP *** 
+stypeur30 folds
+ROUSSMAN9100 folds
+manggy94 folds
+IlEstLaaPapa folds
+2122FG calls 500
+baboul35 checks
+*** FLOP *** [6h As Th]
+2122FG checks
+baboul35 checks
+*** TURN *** [6h As Th][8s]
+2122FG bets 1000
+baboul35 folds
+2122FG collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Board: [6h As Th 8s]
+Seat 6: 2122FG (small blind) won 3600
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 10 - HandId: #574325230139342952-60-1445897221 - Holdem no limit (100/500/1000) - 2015/10/26 22:07:01 UTC
+Table: 'LE TOTEM(133720513)#0103' 6-max (real money) Seat #6 is the button
+Seat 1: baboul35 (12125)
+Seat 2: stypeur30 (30805)
+Seat 3: ROUSSMAN9100 (32222)
+Seat 4: manggy94 (10610)
+Seat 5: IlEstLaaPapa (16109)
+Seat 6: 2122FG (78153)
+*** ANTE/BLINDS ***
+baboul35 posts ante 100
+stypeur30 posts ante 100
+ROUSSMAN9100 posts ante 100
+manggy94 posts ante 100
+IlEstLaaPapa posts ante 100
+2122FG posts ante 100
+baboul35 posts small blind 500
+stypeur30 posts big blind 1000
+Dealt to manggy94 [Td 9s]
+*** PRE-FLOP *** 
+ROUSSMAN9100 folds
+manggy94 folds
+IlEstLaaPapa folds
+2122FG raises 2000 to 3000
+baboul35 raises 9025 to 12025 and is all-in
+stypeur30 folds
+2122FG calls 9025
+*** FLOP *** [5s Jc 4h]
+*** TURN *** [5s Jc 4h][2c]
+*** RIVER *** [5s Jc 4h 2c][Kc]
+*** SHOW DOWN ***
+2122FG shows [Qh 3h] (High card : King)
+baboul35 shows [Kd 9c] (One pair : Kings)
+baboul35 collected 25650 from pot
+*** SUMMARY ***
+Total pot 25650 | No rake
+Board: [5s Jc 4h 2c Kc]
+Seat 1: baboul35 (small blind) showed [Kd 9c] and won 25650 with One pair : Kings
+Seat 6: 2122FG (button) showed [Qh 3h] and lost with High card : King
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 10 - HandId: #574325230139342952-61-1445897272 - Holdem no limit (100/500/1000) - 2015/10/26 22:07:52 UTC
+Table: 'LE TOTEM(133720513)#0103' 6-max (real money) Seat #1 is the button
+Seat 1: baboul35 (25650)
+Seat 2: stypeur30 (29705)
+Seat 3: ROUSSMAN9100 (32122)
+Seat 4: manggy94 (10510)
+Seat 5: IlEstLaaPapa (16009)
+Seat 6: 2122FG (66028)
+*** ANTE/BLINDS ***
+stypeur30 posts ante 100
+ROUSSMAN9100 posts ante 100
+baboul35 posts ante 100
+manggy94 posts ante 100
+IlEstLaaPapa posts ante 100
+2122FG posts ante 100
+stypeur30 posts small blind 500
+ROUSSMAN9100 posts big blind 1000
+Dealt to manggy94 [2h 8c]
+*** PRE-FLOP *** 
+manggy94 folds
+IlEstLaaPapa raises 1210 to 2210
+2122FG raises 63718 to 65928 and is all-in
+baboul35 folds
+stypeur30 folds
+ROUSSMAN9100 folds
+IlEstLaaPapa folds
+2122FG collected 70238 from pot
+*** SUMMARY ***
+Total pot 70238 | No rake
+Seat 6: 2122FG won 70238
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 10 - HandId: #574325230139342952-62-1445897325 - Holdem no limit (100/500/1000) - 2015/10/26 22:08:45 UTC
+Table: 'LE TOTEM(133720513)#0103' 6-max (real money) Seat #2 is the button
+Seat 1: baboul35 (25550)
+Seat 2: stypeur30 (29105)
+Seat 3: ROUSSMAN9100 (31022)
+Seat 4: manggy94 (10410)
+Seat 5: IlEstLaaPapa (13699)
+Seat 6: 2122FG (70238)
+*** ANTE/BLINDS ***
+ROUSSMAN9100 posts ante 100
+manggy94 posts ante 100
+baboul35 posts ante 100
+stypeur30 posts ante 100
+IlEstLaaPapa posts ante 100
+2122FG posts ante 100
+ROUSSMAN9100 posts small blind 500
+manggy94 posts big blind 1000
+Dealt to manggy94 [Ts 6s]
+*** PRE-FLOP *** 
+IlEstLaaPapa folds
+2122FG folds
+baboul35 folds
+stypeur30 folds
+ROUSSMAN9100 raises 29922 to 30922 and is all-in
+manggy94 folds
+ROUSSMAN9100 collected 32522 from pot
+*** SUMMARY ***
+Total pot 32522 | No rake
+Seat 3: ROUSSMAN9100 (small blind) won 32522
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 10 - HandId: #574325230139342952-63-1445897357 - Holdem no limit (100/500/1000) - 2015/10/26 22:09:17 UTC
+Table: 'LE TOTEM(133720513)#0103' 6-max (real money) Seat #3 is the button
+Seat 1: baboul35 (25450)
+Seat 2: stypeur30 (29005)
+Seat 3: ROUSSMAN9100 (32522)
+Seat 4: manggy94 (9310)
+Seat 5: IlEstLaaPapa (13599)
+Seat 6: 2122FG (70138)
+*** ANTE/BLINDS ***
+manggy94 posts ante 100
+IlEstLaaPapa posts ante 100
+baboul35 posts ante 100
+stypeur30 posts ante 100
+ROUSSMAN9100 posts ante 100
+2122FG posts ante 100
+manggy94 posts small blind 500
+IlEstLaaPapa posts big blind 1000
+Dealt to manggy94 [7c As]
+*** PRE-FLOP *** 
+2122FG folds
+baboul35 raises 1500 to 2500
+stypeur30 folds
+ROUSSMAN9100 folds
+manggy94 raises 6710 to 9210 and is all-in
+IlEstLaaPapa folds
+baboul35 calls 6710
+*** FLOP *** [7h 8d 3c]
+*** TURN *** [7h 8d 3c][6s]
+*** RIVER *** [7h 8d 3c 6s][Ad]
+*** SHOW DOWN ***
+baboul35 shows [Qc Kd] (High card : Ace)
+manggy94 shows [7c As] (Two pairs : Aces and 7)
+manggy94 collected 20020 from pot
+*** SUMMARY ***
+Total pot 20020 | No rake
+Board: [7h 8d 3c 6s Ad]
+Seat 1: baboul35 showed [Qc Kd] and lost with High card : Ace
+Seat 4: manggy94 (small blind) showed [7c As] and won 20020 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 10 - HandId: #574325230139342952-64-1445897398 - Holdem no limit (100/500/1000) - 2015/10/26 22:09:58 UTC
+Table: 'LE TOTEM(133720513)#0103' 6-max (real money) Seat #4 is the button
+Seat 1: baboul35 (16140)
+Seat 2: stypeur30 (28905)
+Seat 3: ROUSSMAN9100 (32422)
+Seat 4: manggy94 (20020)
+Seat 5: IlEstLaaPapa (12499)
+Seat 6: 2122FG (70038)
+*** ANTE/BLINDS ***
+IlEstLaaPapa posts ante 100
+2122FG posts ante 100
+baboul35 posts ante 100
+stypeur30 posts ante 100
+ROUSSMAN9100 posts ante 100
+manggy94 posts ante 100
+IlEstLaaPapa posts small blind 500
+2122FG posts big blind 1000
+Dealt to manggy94 [Jd Ts]
+*** PRE-FLOP *** 
+baboul35 folds
+stypeur30 folds
+ROUSSMAN9100 folds
+manggy94 folds
+IlEstLaaPapa folds
+2122FG collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 6: 2122FG (big blind) won 2100
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 10 - HandId: #574325230139342952-65-1445897421 - Holdem no limit (100/500/1000) - 2015/10/26 22:10:21 UTC
+Table: 'LE TOTEM(133720513)#0103' 6-max (real money) Seat #5 is the button
+Seat 1: baboul35 (16040)
+Seat 2: stypeur30 (28805)
+Seat 3: ROUSSMAN9100 (32322)
+Seat 4: manggy94 (19920)
+Seat 5: IlEstLaaPapa (11899)
+Seat 6: 2122FG (71038)
+*** ANTE/BLINDS ***
+2122FG posts ante 100
+baboul35 posts ante 100
+stypeur30 posts ante 100
+ROUSSMAN9100 posts ante 100
+manggy94 posts ante 100
+IlEstLaaPapa posts ante 100
+2122FG posts small blind 500
+baboul35 posts big blind 1000
+Dealt to manggy94 [Qh 2d]
+*** PRE-FLOP *** 
+stypeur30 folds
+ROUSSMAN9100 folds
+manggy94 folds
+IlEstLaaPapa raises 10799 to 11799 and is all-in
+2122FG folds
+baboul35 folds
+IlEstLaaPapa collected 13899 from pot
+*** SUMMARY ***
+Total pot 13899 | No rake
+Seat 5: IlEstLaaPapa (button) won 13899
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 10 - HandId: #574325230139342952-66-1445897449 - Holdem no limit (100/500/1000) - 2015/10/26 22:10:49 UTC
+Table: 'LE TOTEM(133720513)#0103' 6-max (real money) Seat #6 is the button
+Seat 1: baboul35 (14940)
+Seat 2: stypeur30 (28705)
+Seat 3: ROUSSMAN9100 (32222)
+Seat 4: manggy94 (19820)
+Seat 5: IlEstLaaPapa (13899)
+Seat 6: 2122FG (70438)
+*** ANTE/BLINDS ***
+baboul35 posts ante 100
+stypeur30 posts ante 100
+ROUSSMAN9100 posts ante 100
+manggy94 posts ante 100
+IlEstLaaPapa posts ante 100
+2122FG posts ante 100
+baboul35 posts small blind 500
+stypeur30 posts big blind 1000
+Dealt to manggy94 [2c 3h]
+*** PRE-FLOP *** 
+ROUSSMAN9100 folds
+manggy94 folds
+IlEstLaaPapa folds
+2122FG folds
+baboul35 calls 500
+stypeur30 checks
+*** FLOP *** [Kc 6c 8c]
+baboul35 checks
+stypeur30 checks
+*** TURN *** [Kc 6c 8c][Kh]
+baboul35 checks
+stypeur30 checks
+*** RIVER *** [Kc 6c 8c Kh][Ts]
+baboul35 bets 1733
+stypeur30 folds
+baboul35 collected 4333 from pot
+*** SUMMARY ***
+Total pot 4333 | No rake
+Board: [Kc 6c 8c Kh Ts]
+Seat 1: baboul35 (small blind) won 4333
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 11 - HandId: #574325230139342869-95-1445897510 - Holdem no limit (150/600/1200) - 2015/10/26 22:11:50 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #3 is the button
+Seat 1: xfives78 (20500)
+Seat 2: Manjon1902 (19066)
+Seat 3: woogataga911 (55870)
+Seat 4: Roaring_Lion (25264)
+Seat 5: manggy94 (19720)
+Seat 6: Morefayaa (19935)
+*** ANTE/BLINDS ***
+Roaring_Lion posts ante 150
+manggy94 posts ante 150
+xfives78 posts ante 150
+Manjon1902 posts ante 150
+woogataga911 posts ante 150
+Morefayaa posts ante 150
+Roaring_Lion posts small blind 600
+manggy94 posts big blind 1200
+Dealt to manggy94 [7h Ks]
+*** PRE-FLOP *** 
+Morefayaa folds
+xfives78 folds
+Manjon1902 folds
+woogataga911 folds
+Roaring_Lion folds
+manggy94 collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Seat 5: manggy94 (big blind) won 2700
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 11 - HandId: #574325230139342869-96-1445897526 - Holdem no limit (150/600/1200) - 2015/10/26 22:12:06 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #4 is the button
+Seat 1: xfives78 (20350)
+Seat 2: Manjon1902 (18916)
+Seat 3: woogataga911 (55720)
+Seat 4: Roaring_Lion (24514)
+Seat 5: manggy94 (21070)
+Seat 6: Morefayaa (19785)
+*** ANTE/BLINDS ***
+manggy94 posts ante 150
+Morefayaa posts ante 150
+xfives78 posts ante 150
+Manjon1902 posts ante 150
+woogataga911 posts ante 150
+Roaring_Lion posts ante 150
+manggy94 posts small blind 600
+Morefayaa posts big blind 1200
+Dealt to manggy94 [3d 7c]
+*** PRE-FLOP *** 
+xfives78 folds
+Manjon1902 folds
+woogataga911 folds
+Roaring_Lion folds
+manggy94 folds
+Morefayaa collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Seat 6: Morefayaa (big blind) won 2700
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 11 - HandId: #574325230139342869-97-1445897535 - Holdem no limit (150/600/1200) - 2015/10/26 22:12:15 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #5 is the button
+Seat 1: xfives78 (20200)
+Seat 2: Manjon1902 (18766)
+Seat 3: woogataga911 (55570)
+Seat 4: Roaring_Lion (24364)
+Seat 5: manggy94 (20320)
+Seat 6: Morefayaa (21135)
+*** ANTE/BLINDS ***
+Morefayaa posts ante 150
+xfives78 posts ante 150
+Manjon1902 posts ante 150
+woogataga911 posts ante 150
+Roaring_Lion posts ante 150
+manggy94 posts ante 150
+Morefayaa posts small blind 600
+xfives78 posts big blind 1200
+Dealt to manggy94 [5s Jc]
+*** PRE-FLOP *** 
+Manjon1902 folds
+woogataga911 folds
+Roaring_Lion folds
+manggy94 folds
+Morefayaa calls 600
+xfives78 checks
+*** FLOP *** [6c 2c Jd]
+Morefayaa checks
+xfives78 checks
+*** TURN *** [6c 2c Jd][Qd]
+Morefayaa checks
+xfives78 checks
+*** RIVER *** [6c 2c Jd Qd][4h]
+Morefayaa bets 1200
+xfives78 calls 1200
+*** SHOW DOWN ***
+Morefayaa shows [9d Ac] (High card : Ace)
+xfives78 shows [Tc 6d] (One pair : 6)
+xfives78 collected 5700 from pot
+*** SUMMARY ***
+Total pot 5700 | No rake
+Board: [6c 2c Jd Qd 4h]
+Seat 1: xfives78 (big blind) showed [Tc 6d] and won 5700 with One pair : 6
+Seat 6: Morefayaa (small blind) showed [9d Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 11 - HandId: #574325230139342869-98-1445897572 - Holdem no limit (150/600/1200) - 2015/10/26 22:12:52 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #6 is the button
+Seat 1: xfives78 (23350)
+Seat 2: Manjon1902 (18616)
+Seat 3: woogataga911 (55420)
+Seat 4: Roaring_Lion (24214)
+Seat 5: manggy94 (20170)
+Seat 6: Morefayaa (18585)
+*** ANTE/BLINDS ***
+xfives78 posts ante 150
+Manjon1902 posts ante 150
+woogataga911 posts ante 150
+Roaring_Lion posts ante 150
+manggy94 posts ante 150
+Morefayaa posts ante 150
+xfives78 posts small blind 600
+Manjon1902 posts big blind 1200
+Dealt to manggy94 [2s 6s]
+*** PRE-FLOP *** 
+woogataga911 raises 1200 to 2400
+Roaring_Lion calls 2400
+manggy94 folds
+Morefayaa folds
+xfives78 calls 1800
+Manjon1902 folds
+*** FLOP *** [3h 6c Jd]
+xfives78 checks
+woogataga911 checks
+Roaring_Lion bets 4650
+xfives78 folds
+woogataga911 folds
+Roaring_Lion collected 13950 from pot
+*** SUMMARY ***
+Total pot 13950 | No rake
+Board: [3h 6c Jd]
+Seat 4: Roaring_Lion won 13950
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 11 - HandId: #574325230139342869-99-1445897615 - Holdem no limit (150/600/1200) - 2015/10/26 22:13:35 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #1 is the button
+Seat 1: xfives78 (20800)
+Seat 2: Manjon1902 (17266)
+Seat 3: woogataga911 (52870)
+Seat 4: Roaring_Lion (30964)
+Seat 5: manggy94 (20020)
+Seat 6: Morefayaa (18435)
+*** ANTE/BLINDS ***
+Manjon1902 posts ante 150
+woogataga911 posts ante 150
+xfives78 posts ante 150
+Roaring_Lion posts ante 150
+manggy94 posts ante 150
+Morefayaa posts ante 150
+Manjon1902 posts small blind 600
+woogataga911 posts big blind 1200
+Dealt to manggy94 [Kd Ac]
+*** PRE-FLOP *** 
+Roaring_Lion folds
+manggy94 calls 1200
+Morefayaa folds
+xfives78 calls 1200
+Manjon1902 calls 600
+woogataga911 checks
+*** FLOP *** [6d 8d 9c]
+Manjon1902 checks
+woogataga911 checks
+manggy94 bets 18670 and is all-in
+xfives78 folds
+Manjon1902 folds
+woogataga911 folds
+manggy94 collected 24370 from pot
+*** SUMMARY ***
+Total pot 24370 | No rake
+Board: [6d 8d 9c]
+Seat 5: manggy94 won 24370
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 11 - HandId: #574325230139342869-100-1445897669 - Holdem no limit (150/600/1200) - 2015/10/26 22:14:29 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #2 is the button
+Seat 1: xfives78 (19450)
+Seat 2: Manjon1902 (15916)
+Seat 3: woogataga911 (51520)
+Seat 4: Roaring_Lion (30814)
+Seat 5: manggy94 (24370)
+Seat 6: Morefayaa (18285)
+*** ANTE/BLINDS ***
+woogataga911 posts ante 150
+Roaring_Lion posts ante 150
+xfives78 posts ante 150
+Manjon1902 posts ante 150
+manggy94 posts ante 150
+Morefayaa posts ante 150
+woogataga911 posts small blind 600
+Roaring_Lion posts big blind 1200
+Dealt to manggy94 [2c 6h]
+*** PRE-FLOP *** 
+manggy94 folds
+Morefayaa folds
+xfives78 folds
+Manjon1902 folds
+woogataga911 raises 1800 to 3000
+Roaring_Lion folds
+woogataga911 collected 5100 from pot
+*** SUMMARY ***
+Total pot 5100 | No rake
+Seat 3: woogataga911 (small blind) won 5100
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 11 - HandId: #574325230139342869-101-1445897702 - Holdem no limit (150/600/1200) - 2015/10/26 22:15:02 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #3 is the button
+Seat 1: xfives78 (19300)
+Seat 2: Manjon1902 (15766)
+Seat 3: woogataga911 (53470)
+Seat 4: Roaring_Lion (29464)
+Seat 5: manggy94 (24220)
+Seat 6: Morefayaa (18135)
+*** ANTE/BLINDS ***
+Roaring_Lion posts ante 150
+manggy94 posts ante 150
+xfives78 posts ante 150
+Manjon1902 posts ante 150
+woogataga911 posts ante 150
+Morefayaa posts ante 150
+Roaring_Lion posts small blind 600
+manggy94 posts big blind 1200
+Dealt to manggy94 [6h 5c]
+*** PRE-FLOP *** 
+Morefayaa folds
+xfives78 folds
+Manjon1902 folds
+woogataga911 folds
+Roaring_Lion folds
+manggy94 collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Seat 5: manggy94 (big blind) won 2700
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 11 - HandId: #574325230139342869-102-1445897713 - Holdem no limit (150/600/1200) - 2015/10/26 22:15:13 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #4 is the button
+Seat 1: xfives78 (19150)
+Seat 2: Manjon1902 (15616)
+Seat 3: woogataga911 (53320)
+Seat 4: Roaring_Lion (28714)
+Seat 5: manggy94 (25570)
+Seat 6: Morefayaa (17985)
+*** ANTE/BLINDS ***
+manggy94 posts ante 150
+Morefayaa posts ante 150
+xfives78 posts ante 150
+Manjon1902 posts ante 150
+woogataga911 posts ante 150
+Roaring_Lion posts ante 150
+manggy94 posts small blind 600
+Morefayaa posts big blind 1200
+Dealt to manggy94 [9c Ks]
+*** PRE-FLOP *** 
+xfives78 calls 1200
+Manjon1902 folds
+woogataga911 folds
+Roaring_Lion folds
+manggy94 calls 600
+Morefayaa checks
+*** FLOP *** [Qh Jc 3d]
+manggy94 checks
+Morefayaa bets 1200
+xfives78 calls 1200
+manggy94 folds
+*** TURN *** [Qh Jc 3d][Kh]
+Morefayaa bets 3450
+xfives78 calls 3450
+*** RIVER *** [Qh Jc 3d Kh][Ah]
+Morefayaa bets 11985 and is all-in
+xfives78 raises 1165 to 13150 and is all-in
+*** SHOW DOWN ***
+Morefayaa shows [6h 3h] (Flush Ace high)
+xfives78 shows [Th Js] (Straight Ace high)
+xfives78 collected 1165 from side pot 1
+Morefayaa collected 37770 from main pot
+*** SUMMARY ***
+Total pot 38935 | No rake
+Board: [Qh Jc 3d Kh Ah]
+Seat 1: xfives78 showed [Th Js] and won 1165 with Straight Ace high
+Seat 6: Morefayaa (big blind) showed [6h 3h] and won 37770 with Flush Ace high
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 11 - HandId: #574325230139342869-103-1445897776 - Holdem no limit (150/600/1200) - 2015/10/26 22:16:16 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #5 is the button
+Seat 1: xfives78 (1165)
+Seat 2: Manjon1902 (15466)
+Seat 3: woogataga911 (53170)
+Seat 4: Roaring_Lion (28564)
+Seat 5: manggy94 (24220)
+Seat 6: Morefayaa (37770)
+*** ANTE/BLINDS ***
+Morefayaa posts ante 150
+xfives78 posts ante 150
+Manjon1902 posts ante 150
+woogataga911 posts ante 150
+Roaring_Lion posts ante 150
+manggy94 posts ante 150
+Morefayaa posts small blind 600
+xfives78 posts big blind 1015 and is all-in
+Dealt to manggy94 [2h 3s]
+*** PRE-FLOP *** 
+Manjon1902 folds
+woogataga911 raises 1385 to 2400
+Roaring_Lion folds
+manggy94 folds
+Morefayaa calls 1800
+*** FLOP *** [5h 9c As]
+Morefayaa checks
+woogataga911 bets 2485
+Morefayaa folds
+*** TURN *** [5h 9c As][5s]
+*** RIVER *** [5h 9c As 5s][2d]
+*** SHOW DOWN ***
+xfives78 shows [9s 6s] (Two pairs : 9 and 5)
+woogataga911 shows [Jd Ac] (Two pairs : Aces and 5)
+woogataga911 collected 9200 from pot
+*** SUMMARY ***
+Total pot 9200 | No rake
+Board: [5h 9c As 5s 2d]
+Seat 1: xfives78 (big blind) showed [9s 6s] and lost with Two pairs : 9 and 5
+Seat 3: woogataga911 showed [Jd Ac] and won 9200 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 11 - HandId: #574325230139342869-104-1445897821 - Holdem no limit (150/600/1200) - 2015/10/26 22:17:01 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #6 is the button
+Seat 2: Manjon1902 (15316)
+Seat 3: woogataga911 (57335)
+Seat 4: Roaring_Lion (28414)
+Seat 5: manggy94 (24070)
+Seat 6: Morefayaa (35220)
+*** ANTE/BLINDS ***
+Manjon1902 posts ante 150
+woogataga911 posts ante 150
+Roaring_Lion posts ante 150
+manggy94 posts ante 150
+Morefayaa posts ante 150
+Manjon1902 posts big blind 1200
+Dealt to manggy94 [4d Qs]
+*** PRE-FLOP *** 
+woogataga911 folds
+Roaring_Lion folds
+manggy94 folds
+Morefayaa calls 1200
+Manjon1902 checks
+*** FLOP *** [3c Ac Th]
+Manjon1902 checks
+Morefayaa bets 1200
+Manjon1902 calls 1200
+*** TURN *** [3c Ac Th][Jd]
+Manjon1902 checks
+Morefayaa bets 2775
+Manjon1902 folds
+Morefayaa collected 8325 from pot
+*** SUMMARY ***
+Total pot 8325 | No rake
+Board: [3c Ac Th Jd]
+Seat 6: Morefayaa (button) won 8325
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 12 - HandId: #574325230139342869-105-1445897859 - Holdem no limit (180/800/1600) - 2015/10/26 22:17:39 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #1 is the button
+Seat 1: AA-MNESKIIK (70049)
+Seat 2: Manjon1902 (12766)
+Seat 3: woogataga911 (57185)
+Seat 4: Roaring_Lion (28264)
+Seat 5: manggy94 (23920)
+Seat 6: Morefayaa (38220)
+*** ANTE/BLINDS ***
+Manjon1902 posts ante 180
+woogataga911 posts ante 180
+Roaring_Lion posts ante 180
+manggy94 posts ante 180
+Morefayaa posts ante 180
+Manjon1902 posts small blind 800
+woogataga911 posts big blind 1600
+Dealt to manggy94 [Ts 3c]
+*** PRE-FLOP *** 
+Roaring_Lion raises 1600 to 3200
+manggy94 folds
+Morefayaa folds
+Manjon1902 folds
+woogataga911 folds
+Roaring_Lion collected 6500 from pot
+*** SUMMARY ***
+Total pot 6500 | No rake
+Seat 4: Roaring_Lion won 6500
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 12 - HandId: #574325230139342869-106-1445897880 - Holdem no limit (180/800/1600) - 2015/10/26 22:18:00 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #2 is the button
+Seat 1: AA-MNESKIIK (70049)
+Seat 2: Manjon1902 (11786)
+Seat 3: woogataga911 (55405)
+Seat 4: Roaring_Lion (31384)
+Seat 5: manggy94 (23740)
+Seat 6: Morefayaa (38040)
+*** ANTE/BLINDS ***
+woogataga911 posts ante 180
+Roaring_Lion posts ante 180
+AA-MNESKIIK posts ante 180
+Manjon1902 posts ante 180
+manggy94 posts ante 180
+Morefayaa posts ante 180
+woogataga911 posts small blind 800
+Roaring_Lion posts big blind 1600
+Dealt to manggy94 [9c 3c]
+*** PRE-FLOP *** 
+manggy94 folds
+Morefayaa folds
+AA-MNESKIIK folds
+Manjon1902 raises 10006 to 11606 and is all-in
+woogataga911 folds
+Roaring_Lion calls 10006
+*** FLOP *** [Qc 8d 9d]
+*** TURN *** [Qc 8d 9d][5h]
+*** RIVER *** [Qc 8d 9d 5h][8c]
+*** SHOW DOWN ***
+Roaring_Lion shows [Ad 6d] (One pair : 8)
+Manjon1902 shows [Qs Kh] (Two pairs : Queens and 8)
+Manjon1902 collected 25092 from pot
+*** SUMMARY ***
+Total pot 25092 | No rake
+Board: [Qc 8d 9d 5h 8c]
+Seat 2: Manjon1902 (button) showed [Qs Kh] and won 25092 with Two pairs : Queens and 8
+Seat 4: Roaring_Lion (big blind) showed [Ad 6d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 12 - HandId: #574325230139342869-107-1445897912 - Holdem no limit (180/800/1600) - 2015/10/26 22:18:32 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #3 is the button
+Seat 1: AA-MNESKIIK (69869)
+Seat 2: Manjon1902 (25092)
+Seat 3: woogataga911 (54425)
+Seat 4: Roaring_Lion (19598)
+Seat 5: manggy94 (23560)
+Seat 6: Morefayaa (37860)
+*** ANTE/BLINDS ***
+Roaring_Lion posts ante 180
+manggy94 posts ante 180
+AA-MNESKIIK posts ante 180
+Manjon1902 posts ante 180
+woogataga911 posts ante 180
+Morefayaa posts ante 180
+Roaring_Lion posts small blind 800
+manggy94 posts big blind 1600
+Dealt to manggy94 [4h 3h]
+*** PRE-FLOP *** 
+Morefayaa calls 1600
+AA-MNESKIIK folds
+Manjon1902 folds
+woogataga911 folds
+Roaring_Lion calls 800
+manggy94 checks
+*** FLOP *** [Qh Tc 8c]
+Roaring_Lion checks
+manggy94 checks
+Morefayaa bets 2940
+Roaring_Lion folds
+manggy94 folds
+Morefayaa collected 8820 from pot
+*** SUMMARY ***
+Total pot 8820 | No rake
+Board: [Qh Tc 8c]
+Seat 6: Morefayaa won 8820
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 12 - HandId: #574325230139342869-108-1445897975 - Holdem no limit (180/800/1600) - 2015/10/26 22:19:35 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #4 is the button
+Seat 1: AA-MNESKIIK (69689)
+Seat 2: Manjon1902 (24912)
+Seat 3: woogataga911 (54245)
+Seat 4: Roaring_Lion (17818)
+Seat 5: manggy94 (21780)
+Seat 6: Morefayaa (41960)
+*** ANTE/BLINDS ***
+manggy94 posts ante 180
+Morefayaa posts ante 180
+AA-MNESKIIK posts ante 180
+Manjon1902 posts ante 180
+woogataga911 posts ante 180
+Roaring_Lion posts ante 180
+manggy94 posts small blind 800
+Morefayaa posts big blind 1600
+Dealt to manggy94 [9c Kc]
+*** PRE-FLOP *** 
+AA-MNESKIIK folds
+Manjon1902 folds
+woogataga911 folds
+Roaring_Lion raises 1600 to 3200
+manggy94 calls 2400
+Morefayaa calls 1600
+*** FLOP *** [Qd 7s 4c]
+manggy94 checks
+Morefayaa checks
+Roaring_Lion checks
+*** TURN *** [Qd 7s 4c][As]
+manggy94 checks
+Morefayaa checks
+Roaring_Lion checks
+*** RIVER *** [Qd 7s 4c As][Ah]
+manggy94 checks
+Morefayaa checks
+Roaring_Lion checks
+*** SHOW DOWN ***
+Roaring_Lion shows [8d Ks] (One pair : Aces)
+manggy94 shows [9c Kc] (One pair : Aces)
+Morefayaa shows [2d 2h] (Two pairs : Aces and 2)
+Morefayaa collected 10680 from pot
+*** SUMMARY ***
+Total pot 10680 | No rake
+Board: [Qd 7s 4c As Ah]
+Seat 4: Roaring_Lion (button) showed [8d Ks] and lost with One pair : Aces
+Seat 5: manggy94 (small blind) showed [9c Kc] and lost with One pair : Aces
+Seat 6: Morefayaa (big blind) showed [2d 2h] and won 10680 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 12 - HandId: #574325230139342869-109-1445898035 - Holdem no limit (180/800/1600) - 2015/10/26 22:20:35 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #5 is the button
+Seat 1: AA-MNESKIIK (69509)
+Seat 2: Manjon1902 (24732)
+Seat 3: woogataga911 (54065)
+Seat 4: Roaring_Lion (14438)
+Seat 5: manggy94 (18400)
+Seat 6: Morefayaa (49260)
+*** ANTE/BLINDS ***
+Morefayaa posts ante 180
+AA-MNESKIIK posts ante 180
+Manjon1902 posts ante 180
+woogataga911 posts ante 180
+Roaring_Lion posts ante 180
+manggy94 posts ante 180
+Morefayaa posts small blind 800
+AA-MNESKIIK posts big blind 1600
+Dealt to manggy94 [9h Th]
+*** PRE-FLOP *** 
+Manjon1902 folds
+woogataga911 raises 1600 to 3200
+Roaring_Lion folds
+manggy94 folds
+Morefayaa folds
+AA-MNESKIIK calls 1600
+*** FLOP *** [Td 5d 4c]
+AA-MNESKIIK checks
+woogataga911 checks
+*** TURN *** [Td 5d 4c][3d]
+AA-MNESKIIK bets 4140
+woogataga911 calls 4140
+*** RIVER *** [Td 5d 4c 3d][2h]
+AA-MNESKIIK bets 16560
+woogataga911 calls 16560
+*** SHOW DOWN ***
+AA-MNESKIIK shows [5h 5s] (Trips of 5)
+woogataga911 shows [Ah Jd] (Straight 5 high)
+woogataga911 collected 49680 from pot
+*** SUMMARY ***
+Total pot 49680 | No rake
+Board: [Td 5d 4c 3d 2h]
+Seat 1: AA-MNESKIIK (big blind) showed [5h 5s] and lost with Trips of 5
+Seat 3: woogataga911 showed [Ah Jd] and won 49680 with Straight 5 high
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 12 - HandId: #574325230139342869-110-1445898092 - Holdem no limit (180/800/1600) - 2015/10/26 22:21:32 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #6 is the button
+Seat 1: AA-MNESKIIK (45429)
+Seat 2: Manjon1902 (24552)
+Seat 3: woogataga911 (79665)
+Seat 4: Roaring_Lion (14258)
+Seat 5: manggy94 (18220)
+Seat 6: Morefayaa (48280)
+*** ANTE/BLINDS ***
+AA-MNESKIIK posts ante 180
+Manjon1902 posts ante 180
+woogataga911 posts ante 180
+Roaring_Lion posts ante 180
+manggy94 posts ante 180
+Morefayaa posts ante 180
+AA-MNESKIIK posts small blind 800
+Manjon1902 posts big blind 1600
+Dealt to manggy94 [Ks 5h]
+*** PRE-FLOP *** 
+woogataga911 folds
+Roaring_Lion raises 12478 to 14078 and is all-in
+manggy94 folds
+Morefayaa folds
+AA-MNESKIIK folds
+Manjon1902 folds
+Roaring_Lion collected 17558 from pot
+*** SUMMARY ***
+Total pot 17558 | No rake
+Seat 4: Roaring_Lion won 17558
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 12 - HandId: #574325230139342869-111-1445898119 - Holdem no limit (180/800/1600) - 2015/10/26 22:21:59 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #1 is the button
+Seat 1: AA-MNESKIIK (44449)
+Seat 2: Manjon1902 (22772)
+Seat 3: woogataga911 (79485)
+Seat 4: Roaring_Lion (17558)
+Seat 5: manggy94 (18040)
+Seat 6: Morefayaa (48100)
+*** ANTE/BLINDS ***
+Manjon1902 posts ante 180
+woogataga911 posts ante 180
+AA-MNESKIIK posts ante 180
+Roaring_Lion posts ante 180
+manggy94 posts ante 180
+Morefayaa posts ante 180
+Manjon1902 posts small blind 800
+woogataga911 posts big blind 1600
+Dealt to manggy94 [6s Jc]
+*** PRE-FLOP *** 
+Roaring_Lion folds
+manggy94 folds
+Morefayaa folds
+AA-MNESKIIK raises 1600 to 3200
+Manjon1902 folds
+woogataga911 raises 5600 to 8800
+AA-MNESKIIK calls 5600
+*** FLOP *** [7d 3c 7s]
+woogataga911 bets 8800
+AA-MNESKIIK calls 8800
+*** TURN *** [7d 3c 7s][2h]
+woogataga911 checks
+AA-MNESKIIK bets 26669 and is all-in
+woogataga911 calls 26669
+*** RIVER *** [7d 3c 7s 2h][Jd]
+*** SHOW DOWN ***
+AA-MNESKIIK shows [Ah 4h] (One pair : 7)
+woogataga911 shows [Ad Ac] (Two pairs : Aces and 7)
+woogataga911 collected 90418 from pot
+*** SUMMARY ***
+Total pot 90418 | No rake
+Board: [7d 3c 7s 2h Jd]
+Seat 1: AA-MNESKIIK (button) showed [Ah 4h] and lost with One pair : 7
+Seat 3: woogataga911 (big blind) showed [Ad Ac] and won 90418 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 13 - HandId: #574325230139342869-112-1445898186 - Holdem no limit (240/1000/2000) - 2015/10/26 22:23:06 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #2 is the button
+Seat 2: Manjon1902 (21792)
+Seat 3: woogataga911 (125454)
+Seat 4: Roaring_Lion (17378)
+Seat 5: manggy94 (17860)
+Seat 6: Morefayaa (47920)
+*** ANTE/BLINDS ***
+woogataga911 posts ante 240
+Roaring_Lion posts ante 240
+Manjon1902 posts ante 240
+manggy94 posts ante 240
+Morefayaa posts ante 240
+woogataga911 posts small blind 1000
+Roaring_Lion posts big blind 2000
+Dealt to manggy94 [5d Qs]
+*** PRE-FLOP *** 
+manggy94 folds
+Morefayaa folds
+Manjon1902 folds
+woogataga911 folds
+Roaring_Lion collected 4200 from pot
+*** SUMMARY ***
+Total pot 4200 | No rake
+Seat 4: Roaring_Lion (big blind) won 4200
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 13 - HandId: #574325230139342869-113-1445898217 - Holdem no limit (240/1000/2000) - 2015/10/26 22:23:37 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #3 is the button
+Seat 1: cindy44 (16150)
+Seat 2: Manjon1902 (21552)
+Seat 3: woogataga911 (124214)
+Seat 4: Roaring_Lion (19338)
+Seat 5: manggy94 (17620)
+Seat 6: Morefayaa (47680)
+*** ANTE/BLINDS ***
+Roaring_Lion posts ante 240
+manggy94 posts ante 240
+cindy44 posts ante 240
+Manjon1902 posts ante 240
+woogataga911 posts ante 240
+Morefayaa posts ante 240
+Roaring_Lion posts small blind 1000
+manggy94 posts big blind 2000
+Dealt to manggy94 [8c 5c]
+*** PRE-FLOP *** 
+Morefayaa folds
+cindy44 folds
+Manjon1902 folds
+woogataga911 folds
+Roaring_Lion folds
+manggy94 collected 4440 from pot
+*** SUMMARY ***
+Total pot 4440 | No rake
+Seat 5: manggy94 (big blind) won 4440
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 13 - HandId: #574325230139342869-114-1445898234 - Holdem no limit (240/1000/2000) - 2015/10/26 22:23:54 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #4 is the button
+Seat 1: cindy44 (15910)
+Seat 2: Manjon1902 (21312)
+Seat 3: woogataga911 (123974)
+Seat 4: Roaring_Lion (18098)
+Seat 5: manggy94 (19820)
+Seat 6: Morefayaa (47440)
+*** ANTE/BLINDS ***
+manggy94 posts ante 240
+Morefayaa posts ante 240
+cindy44 posts ante 240
+Manjon1902 posts ante 240
+woogataga911 posts ante 240
+Roaring_Lion posts ante 240
+manggy94 posts small blind 1000
+Morefayaa posts big blind 2000
+Dealt to manggy94 [Qs 9d]
+*** PRE-FLOP *** 
+cindy44 folds
+Manjon1902 folds
+woogataga911 folds
+Roaring_Lion raises 15858 to 17858 and is all-in
+manggy94 folds
+Morefayaa folds
+Roaring_Lion collected 22298 from pot
+*** SUMMARY ***
+Total pot 22298 | No rake
+Seat 4: Roaring_Lion (button) won 22298
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 13 - HandId: #574325230139342869-115-1445898263 - Holdem no limit (240/1000/2000) - 2015/10/26 22:24:23 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #5 is the button
+Seat 1: cindy44 (15670)
+Seat 2: Manjon1902 (21072)
+Seat 3: woogataga911 (123734)
+Seat 4: Roaring_Lion (22298)
+Seat 5: manggy94 (18580)
+Seat 6: Morefayaa (45200)
+*** ANTE/BLINDS ***
+Morefayaa posts ante 240
+cindy44 posts ante 240
+Manjon1902 posts ante 240
+woogataga911 posts ante 240
+Roaring_Lion posts ante 240
+manggy94 posts ante 240
+Morefayaa posts small blind 1000
+cindy44 posts big blind 2000
+Dealt to manggy94 [6d 6s]
+*** PRE-FLOP *** 
+Manjon1902 folds
+woogataga911 folds
+Roaring_Lion folds
+manggy94 raises 6440 to 8440
+Morefayaa folds
+cindy44 folds
+manggy94 collected 12880 from pot
+*** SUMMARY ***
+Total pot 12880 | No rake
+Seat 5: manggy94 (button) won 12880
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 13 - HandId: #574325230139342869-116-1445898301 - Holdem no limit (240/1000/2000) - 2015/10/26 22:25:01 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #6 is the button
+Seat 1: cindy44 (13430)
+Seat 2: Manjon1902 (20832)
+Seat 3: woogataga911 (123494)
+Seat 4: Roaring_Lion (22058)
+Seat 5: manggy94 (22780)
+Seat 6: Morefayaa (43960)
+*** ANTE/BLINDS ***
+cindy44 posts ante 240
+Manjon1902 posts ante 240
+woogataga911 posts ante 240
+Roaring_Lion posts ante 240
+manggy94 posts ante 240
+Morefayaa posts ante 240
+cindy44 posts small blind 1000
+Manjon1902 posts big blind 2000
+Dealt to manggy94 [Ks Jd]
+*** PRE-FLOP *** 
+woogataga911 folds
+Roaring_Lion raises 19818 to 21818 and is all-in
+manggy94 folds
+Morefayaa folds
+cindy44 folds
+Manjon1902 folds
+Roaring_Lion collected 26258 from pot
+*** SUMMARY ***
+Total pot 26258 | No rake
+Seat 4: Roaring_Lion won 26258
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 13 - HandId: #574325230139342869-117-1445898317 - Holdem no limit (240/1000/2000) - 2015/10/26 22:25:17 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #1 is the button
+Seat 1: cindy44 (12190)
+Seat 2: Manjon1902 (18592)
+Seat 3: woogataga911 (123254)
+Seat 4: Roaring_Lion (26258)
+Seat 5: manggy94 (22540)
+Seat 6: Morefayaa (43720)
+*** ANTE/BLINDS ***
+Manjon1902 posts ante 240
+woogataga911 posts ante 240
+cindy44 posts ante 240
+Roaring_Lion posts ante 240
+manggy94 posts ante 240
+Morefayaa posts ante 240
+Manjon1902 posts small blind 1000
+woogataga911 posts big blind 2000
+Dealt to manggy94 [Jc Ad]
+*** PRE-FLOP *** 
+Roaring_Lion folds
+manggy94 raises 6440 to 8440
+Morefayaa folds
+cindy44 raises 3510 to 11950 and is all-in
+Manjon1902 folds
+woogataga911 folds
+manggy94 calls 3510
+*** FLOP *** [2c 5c 7d]
+*** TURN *** [2c 5c 7d][As]
+*** RIVER *** [2c 5c 7d As][9s]
+*** SHOW DOWN ***
+cindy44 shows [Kd Kh] (One pair : Kings)
+manggy94 shows [Jc Ad] (One pair : Aces)
+manggy94 collected 28340 from pot
+*** SUMMARY ***
+Total pot 28340 | No rake
+Board: [2c 5c 7d As 9s]
+Seat 1: cindy44 (button) showed [Kd Kh] and lost with One pair : Kings
+Seat 5: manggy94 showed [Jc Ad] and won 28340 with One pair : Aces
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 13 - HandId: #574325230139342869-118-1445898339 - Holdem no limit (240/1000/2000) - 2015/10/26 22:25:39 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #2 is the button
+Seat 2: Manjon1902 (17352)
+Seat 3: woogataga911 (121014)
+Seat 4: Roaring_Lion (26018)
+Seat 5: manggy94 (38690)
+Seat 6: Morefayaa (43480)
+*** ANTE/BLINDS ***
+woogataga911 posts ante 240
+Roaring_Lion posts ante 240
+Manjon1902 posts ante 240
+manggy94 posts ante 240
+Morefayaa posts ante 240
+woogataga911 posts small blind 1000
+Roaring_Lion posts big blind 2000
+Dealt to manggy94 [9d Qc]
+*** PRE-FLOP *** 
+manggy94 folds
+Morefayaa folds
+Manjon1902 folds
+woogataga911 folds
+Roaring_Lion collected 4200 from pot
+*** SUMMARY ***
+Total pot 4200 | No rake
+Seat 4: Roaring_Lion (big blind) won 4200
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 13 - HandId: #574325230139342869-119-1445898351 - Holdem no limit (240/1000/2000) - 2015/10/26 22:25:51 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #3 is the button
+Seat 2: Manjon1902 (17112)
+Seat 3: woogataga911 (119774)
+Seat 4: Roaring_Lion (27978)
+Seat 5: manggy94 (38450)
+Seat 6: Morefayaa (43240)
+*** ANTE/BLINDS ***
+Roaring_Lion posts ante 240
+manggy94 posts ante 240
+Manjon1902 posts ante 240
+woogataga911 posts ante 240
+Morefayaa posts ante 240
+Roaring_Lion posts small blind 1000
+manggy94 posts big blind 2000
+Dealt to manggy94 [5c 7s]
+*** PRE-FLOP *** 
+Morefayaa raises 2000 to 4000
+Manjon1902 raises 12872 to 16872 and is all-in
+woogataga911 folds
+Roaring_Lion folds
+manggy94 folds
+Morefayaa folds
+Manjon1902 collected 25072 from pot
+*** SUMMARY ***
+Total pot 25072 | No rake
+Seat 2: Manjon1902 won 25072
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4,50€ + 0,50€ level: 13 - HandId: #574325230139342869-120-1445898394 - Holdem no limit (240/1000/2000) - 2015/10/26 22:26:34 UTC
+Table: 'LE TOTEM(133720513)#0020' 6-max (real money) Seat #4 is the button
+Seat 1: cobra120478 (23826)
+Seat 2: Manjon1902 (25072)
+Seat 3: woogataga911 (119534)
+Seat 4: Roaring_Lion (26738)
+Seat 5: manggy94 (36210)
+Seat 6: Morefayaa (39000)
+*** ANTE/BLINDS ***
+manggy94 posts ante 240
+Morefayaa posts ante 240
+cobra120478 posts ante 240
+Manjon1902 posts ante 240
+woogataga911 posts ante 240
+Roaring_Lion posts ante 240
+manggy94 posts small blind 1000
+Morefayaa posts big blind 2000
+Dealt to manggy94 [As 9d]
+*** PRE-FLOP *** 
+cobra120478 folds
+Manjon1902 folds
+woogataga911 folds
+Roaring_Lion folds
+manggy94 raises 5440 to 7440
+Morefayaa calls 5440
+*** FLOP *** [8d 4d Jc]
+manggy94 bets 28530 and is all-in
+Morefayaa calls 28530
+*** TURN *** [8d 4d Jc][2s]
+*** RIVER *** [8d 4d Jc 2s][5d]
+*** SHOW DOWN ***
+manggy94 shows [As 9d] (High card : Ace)
+Morefayaa shows [Ad Jd] (Flush Ace high)
+Morefayaa collected 73380 from pot
+*** SUMMARY ***
+Total pot 73380 | No rake
+Board: [8d 4d Jc 2s 5d]
+Seat 5: manggy94 (small blind) showed [As 9d] and lost with High card : Ace
+Seat 6: Morefayaa (big blind) showed [Ad Jd] and won 73380 with Flush Ace high
+
+

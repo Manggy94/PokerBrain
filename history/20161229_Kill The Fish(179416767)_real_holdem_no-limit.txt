@@ -1,0 +1,716 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level:  - HandId: #770589146619052100-2-1483017583 - Holdem no limit (100/200) - 2016/12/29 13:19:43 UTC
+Table: 'Kill The Fish(179416767)#067' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (10000)
+Seat 2: viande total (10000)
+Seat 3: lio-gy-ho (16950)
+Seat 4: bati2b1 (10000)
+Seat 5: Ngelec (11800)
+*** ANTE/BLINDS ***
+lio-gy-ho posts small blind 100
+bati2b1 posts big blind 200
+*** PRE-FLOP *** 
+Ngelec calls 200
+lio-gy-ho raises 500 to 700
+bati2b1 calls 500
+Ngelec calls 500
+*** FLOP *** [3d 6h 9d]
+lio-gy-ho checks
+bati2b1 bets 200
+Ngelec calls 200
+lio-gy-ho raises 2700 to 2900
+bati2b1 calls 2700
+Ngelec folds
+*** TURN *** [3d 6h 9d][3s]
+lio-gy-ho bets 13350 and is all-in
+bati2b1 calls 6400 and is all-in
+*** RIVER *** [3d 6h 9d 3s][Ts]
+*** SHOW DOWN ***
+bati2b1 shows [Td Qd] (Two pairs : Tens and 3)
+lio-gy-ho shows [Jc Jh] (Two pairs : Jacks and 3)
+lio-gy-ho collected 27850 from pot
+*** SUMMARY ***
+Total pot 27850 | No rake
+Board: [3d 6h 9d 3s Ts]
+Seat 3: lio-gy-ho (small blind) showed [Jc Jh] and won 27850 with Two pairs : Jacks and 3
+Seat 4: bati2b1 (big blind) showed [Td Qd] and lost with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #770589146619052046-27-1483017732 - Holdem no limit (150/300) - 2016/12/29 13:22:12 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #2 is the button
+Seat 1: MrFClean (16526)
+Seat 2: manggy94 (10000)
+Seat 3: cocowoman (20324)
+Seat 4: RaginhoVegas (26275)
+Seat 5: SonyB (6875)
+Seat 6: sebwinner1 (10000)
+*** ANTE/BLINDS ***
+cocowoman posts small blind 150
+RaginhoVegas posts big blind 300
+*** PRE-FLOP *** 
+SonyB folds
+sebwinner1 folds
+MrFClean calls 300
+cocowoman calls 150
+RaginhoVegas raises 750 to 1050
+MrFClean folds
+cocowoman calls 750
+*** FLOP *** [8h 9c 6d]
+cocowoman checks
+RaginhoVegas bets 1200
+cocowoman folds
+RaginhoVegas collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Board: [8h 9c 6d]
+Seat 4: RaginhoVegas (big blind) won 3600
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #770589146619052046-28-1483017805 - Holdem no limit (150/300) - 2016/12/29 13:23:25 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #3 is the button
+Seat 1: MrFClean (16226)
+Seat 2: manggy94 (10000)
+Seat 3: cocowoman (19274)
+Seat 4: RaginhoVegas (27625)
+Seat 5: SonyB (6875)
+Seat 6: sebwinner1 (10000)
+*** ANTE/BLINDS ***
+RaginhoVegas posts small blind 150
+SonyB posts big blind 300
+Dealt to manggy94 [7d Ad]
+*** PRE-FLOP *** 
+sebwinner1 folds
+MrFClean calls 300
+manggy94 calls 300
+cocowoman folds
+RaginhoVegas calls 150
+SonyB raises 6575 to 6875 and is all-in
+MrFClean calls 6575
+manggy94 calls 6575
+RaginhoVegas folds
+*** FLOP *** [6h 7s 2c]
+MrFClean checks
+manggy94 bets 3125 and is all-in
+MrFClean calls 3125
+*** TURN *** [6h 7s 2c][Qs]
+*** RIVER *** [6h 7s 2c Qs][Jh]
+*** SHOW DOWN ***
+MrFClean shows [As 8c] (High card : Ace)
+manggy94 shows [7d Ad] (One pair : 7)
+SonyB shows [Ah Qd] (One pair : Queens)
+SonyB collected 20925 from main pot
+manggy94 collected 6250 from side pot 1
+*** SUMMARY ***
+Total pot 27175 | No rake
+Board: [6h 7s 2c Qs Jh]
+Seat 1: MrFClean showed [As 8c] and lost with High card : Ace
+Seat 2: manggy94 showed [7d Ad] and won 6250 with One pair : 7
+Seat 5: SonyB (big blind) showed [Ah Qd] and won 20925 with One pair : Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #770589146619052046-29-1483017893 - Holdem no limit (150/300) - 2016/12/29 13:24:53 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #4 is the button
+Seat 1: MrFClean (6226)
+Seat 2: manggy94 (6250)
+Seat 3: cocowoman (19274)
+Seat 4: RaginhoVegas (27325)
+Seat 5: SonyB (20925)
+Seat 6: sebwinner1 (10000)
+*** ANTE/BLINDS ***
+SonyB posts small blind 150
+sebwinner1 posts big blind 300
+Dealt to manggy94 [Qc Jc]
+*** PRE-FLOP *** 
+MrFClean folds
+manggy94 calls 300
+cocowoman folds
+RaginhoVegas raises 750 to 1050
+SonyB folds
+sebwinner1 calls 750
+manggy94 calls 750
+*** FLOP *** [3d Jd 2s]
+sebwinner1 checks
+manggy94 bets 2475
+RaginhoVegas folds
+sebwinner1 folds
+manggy94 collected 5775 from pot
+*** SUMMARY ***
+Total pot 5775 | No rake
+Board: [3d Jd 2s]
+Seat 2: manggy94 won 5775
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #770589146619052046-30-1483017950 - Holdem no limit (150/300) - 2016/12/29 13:25:50 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #5 is the button
+Seat 1: MrFClean (6226)
+Seat 2: manggy94 (8500)
+Seat 3: cocowoman (19274)
+Seat 4: RaginhoVegas (26275)
+Seat 5: SonyB (20775)
+Seat 6: sebwinner1 (8950)
+*** ANTE/BLINDS ***
+sebwinner1 posts small blind 150
+MrFClean posts big blind 300
+Dealt to manggy94 [6h 4s]
+*** PRE-FLOP *** 
+manggy94 folds
+cocowoman folds
+RaginhoVegas folds
+SonyB raises 600 to 900
+sebwinner1 folds
+MrFClean calls 600
+*** FLOP *** [6d Ah 9h]
+MrFClean checks
+SonyB checks
+*** TURN *** [6d Ah 9h][Ad]
+MrFClean bets 300
+SonyB calls 300
+*** RIVER *** [6d Ah 9h Ad][7d]
+MrFClean bets 300
+SonyB calls 300
+*** SHOW DOWN ***
+SonyB shows [8d 8s] (Two pairs : Aces and 8)
+MrFClean shows [As 3d] (Trips of Aces)
+MrFClean collected 3150 from pot
+*** SUMMARY ***
+Total pot 3150 | No rake
+Board: [6d Ah 9h Ad 7d]
+Seat 1: MrFClean (big blind) showed [As 3d] and won 3150 with Trips of Aces
+Seat 5: SonyB (button) showed [8d 8s] and lost with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #770589146619052046-31-1483018014 - Holdem no limit (150/300) - 2016/12/29 13:26:54 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #6 is the button
+Seat 1: MrFClean (7876)
+Seat 2: manggy94 (8500)
+Seat 3: cocowoman (19274)
+Seat 4: RaginhoVegas (26275)
+Seat 5: SonyB (19275)
+Seat 6: sebwinner1 (8800)
+*** ANTE/BLINDS ***
+MrFClean posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Td Jc]
+*** PRE-FLOP *** 
+cocowoman folds
+RaginhoVegas folds
+SonyB folds
+sebwinner1 calls 300
+MrFClean calls 150
+manggy94 checks
+*** FLOP *** [7c 2c Ad]
+MrFClean checks
+manggy94 checks
+sebwinner1 checks
+*** TURN *** [7c 2c Ad][Qs]
+MrFClean checks
+manggy94 checks
+sebwinner1 bets 300
+MrFClean calls 300
+manggy94 calls 300
+*** RIVER *** [7c 2c Ad Qs][4h]
+MrFClean checks
+manggy94 checks
+sebwinner1 bets 1350
+MrFClean folds
+manggy94 folds
+sebwinner1 collected 3150 from pot
+*** SUMMARY ***
+Total pot 3150 | No rake
+Board: [7c 2c Ad Qs 4h]
+Seat 6: sebwinner1 (button) won 3150
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #770589146619052046-32-1483018063 - Holdem no limit (150/300) - 2016/12/29 13:27:43 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #1 is the button
+Seat 1: MrFClean (7276)
+Seat 2: manggy94 (7900)
+Seat 3: cocowoman (19274)
+Seat 4: RaginhoVegas (26275)
+Seat 5: SonyB (19275)
+Seat 6: sebwinner1 (10000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+cocowoman posts big blind 300
+Dealt to manggy94 [9h 5c]
+*** PRE-FLOP *** 
+RaginhoVegas folds
+SonyB raises 300 to 600
+sebwinner1 folds
+MrFClean folds
+manggy94 folds
+cocowoman calls 300
+*** FLOP *** [7h 7c Tc]
+cocowoman checks
+SonyB bets 900
+cocowoman folds
+SonyB collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | No rake
+Board: [7h 7c Tc]
+Seat 5: SonyB won 2250
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #770589146619052046-33-1483018148 - Holdem no limit (150/300) - 2016/12/29 13:29:08 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #2 is the button
+Seat 1: MrFClean (7276)
+Seat 2: manggy94 (7750)
+Seat 3: cocowoman (18674)
+Seat 4: RaginhoVegas (26275)
+Seat 5: SonyB (20025)
+Seat 6: sebwinner1 (10000)
+*** ANTE/BLINDS ***
+cocowoman posts small blind 150
+RaginhoVegas posts big blind 300
+Dealt to manggy94 [7h Qh]
+*** PRE-FLOP *** 
+SonyB folds
+sebwinner1 folds
+MrFClean folds
+manggy94 raises 600 to 900
+cocowoman folds
+RaginhoVegas calls 600
+*** FLOP *** [Ts 5h 7s]
+RaginhoVegas checks
+manggy94 bets 975
+RaginhoVegas folds
+manggy94 collected 2925 from pot
+*** SUMMARY ***
+Total pot 2925 | No rake
+Board: [Ts 5h 7s]
+Seat 2: manggy94 (button) won 2925
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #770589146619052046-34-1483018194 - Holdem no limit (150/300) - 2016/12/29 13:29:54 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #3 is the button
+Seat 1: MrFClean (7276)
+Seat 2: manggy94 (8800)
+Seat 3: cocowoman (18524)
+Seat 4: RaginhoVegas (25375)
+Seat 5: SonyB (20025)
+Seat 6: sebwinner1 (10000)
+*** ANTE/BLINDS ***
+RaginhoVegas posts small blind 150
+SonyB posts big blind 300
+Dealt to manggy94 [5s As]
+*** PRE-FLOP *** 
+sebwinner1 folds
+MrFClean raises 300 to 600
+manggy94 calls 600
+cocowoman folds
+RaginhoVegas folds
+SonyB folds
+*** FLOP *** [9h 8d 7c]
+MrFClean checks
+manggy94 checks
+*** TURN *** [9h 8d 7c][Qh]
+MrFClean checks
+manggy94 checks
+*** RIVER *** [9h 8d 7c Qh][9s]
+MrFClean checks
+manggy94 checks
+*** SHOW DOWN ***
+MrFClean shows [5d Ah] (One pair : 9)
+manggy94 shows [5s As] (One pair : 9)
+manggy94 collected 825 from pot
+MrFClean collected 825 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Board: [9h 8d 7c Qh 9s]
+Seat 1: MrFClean showed [5d Ah] and won 825 with One pair : 9
+Seat 2: manggy94 showed [5s As] and won 825 with One pair : 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #770589146619052046-35-1483018240 - Holdem no limit (25/150/300) - 2016/12/29 13:30:40 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #4 is the button
+Seat 1: MrFClean (7501)
+Seat 2: manggy94 (9025)
+Seat 3: cocowoman (18524)
+Seat 4: RaginhoVegas (25225)
+Seat 5: SonyB (19725)
+Seat 6: sebwinner1 (10000)
+*** ANTE/BLINDS ***
+SonyB posts ante 25
+sebwinner1 posts ante 25
+MrFClean posts ante 25
+manggy94 posts ante 25
+cocowoman posts ante 25
+RaginhoVegas posts ante 25
+SonyB posts small blind 150
+sebwinner1 posts big blind 300
+Dealt to manggy94 [Js 4d]
+*** PRE-FLOP *** 
+MrFClean folds
+manggy94 folds
+cocowoman calls 300
+RaginhoVegas raises 600 to 900
+SonyB folds
+sebwinner1 folds
+cocowoman calls 600
+*** FLOP *** [2h 8h 4s]
+cocowoman checks
+RaginhoVegas bets 1600
+cocowoman calls 1600
+*** TURN *** [2h 8h 4s][7h]
+cocowoman checks
+RaginhoVegas checks
+*** RIVER *** [2h 8h 4s 7h][9s]
+cocowoman checks
+RaginhoVegas bets 2400
+cocowoman folds
+RaginhoVegas collected 8000 from pot
+*** SUMMARY ***
+Total pot 8000 | No rake
+Board: [2h 8h 4s 7h 9s]
+Seat 4: RaginhoVegas (button) won 8000
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #770589146619052046-36-1483018382 - Holdem no limit (25/150/300) - 2016/12/29 13:33:02 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #5 is the button
+Seat 1: MrFClean (7476)
+Seat 2: manggy94 (9000)
+Seat 3: cocowoman (15999)
+Seat 4: RaginhoVegas (28300)
+Seat 5: SonyB (19550)
+Seat 6: sebwinner1 (9675)
+*** ANTE/BLINDS ***
+sebwinner1 posts ante 25
+MrFClean posts ante 25
+manggy94 posts ante 25
+cocowoman posts ante 25
+RaginhoVegas posts ante 25
+SonyB posts ante 25
+sebwinner1 posts small blind 150
+MrFClean posts big blind 300
+Dealt to manggy94 [3s Th]
+*** PRE-FLOP *** 
+manggy94 folds
+cocowoman calls 300
+RaginhoVegas folds
+SonyB calls 300
+sebwinner1 calls 150
+MrFClean checks
+*** FLOP *** [5d Jh 5s]
+sebwinner1 checks
+MrFClean checks
+cocowoman checks
+SonyB checks
+*** TURN *** [5d Jh 5s][3h]
+sebwinner1 bets 675
+MrFClean folds
+cocowoman folds
+SonyB folds
+sebwinner1 collected 2025 from pot
+*** SUMMARY ***
+Total pot 2025 | No rake
+Board: [5d Jh 5s 3h]
+Seat 6: sebwinner1 (small blind) won 2025
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #770589146619052046-37-1483018503 - Holdem no limit (25/150/300) - 2016/12/29 13:35:03 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #6 is the button
+Seat 1: MrFClean (7151)
+Seat 2: manggy94 (8975)
+Seat 3: cocowoman (15674)
+Seat 4: RaginhoVegas (28275)
+Seat 5: SonyB (19225)
+Seat 6: sebwinner1 (10700)
+*** ANTE/BLINDS ***
+MrFClean posts ante 25
+manggy94 posts ante 25
+cocowoman posts ante 25
+RaginhoVegas posts ante 25
+SonyB posts ante 25
+sebwinner1 posts ante 25
+MrFClean posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [8h 3d]
+*** PRE-FLOP *** 
+cocowoman folds
+RaginhoVegas folds
+SonyB folds
+sebwinner1 folds
+MrFClean calls 150
+manggy94 checks
+*** FLOP *** [6c 9h Js]
+MrFClean checks
+manggy94 checks
+*** TURN *** [6c 9h Js][8s]
+MrFClean bets 300
+manggy94 calls 300
+*** RIVER *** [6c 9h Js 8s][Ts]
+MrFClean checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [8h 3d] (One pair : 8)
+MrFClean shows [4d 9c] (One pair : 9)
+MrFClean collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [6c 9h Js 8s Ts]
+Seat 1: MrFClean (small blind) showed [4d 9c] and won 1350 with One pair : 9
+Seat 2: manggy94 (big blind) showed [8h 3d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #770589146619052046-38-1483018684 - Holdem no limit (30/200/400) - 2016/12/29 13:38:04 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #1 is the button
+Seat 1: MrFClean (7876)
+Seat 2: manggy94 (8350)
+Seat 3: cocowoman (15649)
+Seat 4: RaginhoVegas (28250)
+Seat 5: SonyB (19200)
+Seat 6: sebwinner1 (10675)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+cocowoman posts ante 30
+MrFClean posts ante 30
+RaginhoVegas posts ante 30
+SonyB posts ante 30
+sebwinner1 posts ante 30
+manggy94 posts small blind 200
+cocowoman posts big blind 400
+Dealt to manggy94 [4h 3c]
+*** PRE-FLOP *** 
+RaginhoVegas raises 400 to 800
+SonyB folds
+sebwinner1 folds
+MrFClean raises 7046 to 7846 and is all-in
+manggy94 folds
+cocowoman raises 7773 to 15619 and is all-in
+RaginhoVegas raises 7773 to 23392
+*** FLOP *** [4s 3d 2d]
+*** TURN *** [4s 3d 2d][As]
+*** RIVER *** [4s 3d 2d As][9s]
+*** SHOW DOWN ***
+MrFClean shows [Ks Ad] (One pair : Aces)
+cocowoman shows [Kh Kd] (One pair : Kings)
+RaginhoVegas shows [Th Td] (One pair : Tens)
+RaginhoVegas collected 7773 from side pot 2
+cocowoman collected 15546 from side pot 1
+MrFClean collected 23918 from main pot
+*** SUMMARY ***
+Total pot 47237 | No rake
+Board: [4s 3d 2d As 9s]
+Seat 1: MrFClean (button) showed [Ks Ad] and won 23918 with One pair : Aces
+Seat 3: cocowoman (big blind) showed [Kh Kd] and won 15546 with One pair : Kings
+Seat 4: RaginhoVegas showed [Th Td] and won 7773 with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #770589146619052046-39-1483018744 - Holdem no limit (30/200/400) - 2016/12/29 13:39:04 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #2 is the button
+Seat 1: MrFClean (23918)
+Seat 2: manggy94 (8120)
+Seat 3: cocowoman (15546)
+Seat 4: RaginhoVegas (12601)
+Seat 5: SonyB (19170)
+Seat 6: sebwinner1 (10645)
+*** ANTE/BLINDS ***
+cocowoman posts ante 30
+RaginhoVegas posts ante 30
+MrFClean posts ante 30
+manggy94 posts ante 30
+SonyB posts ante 30
+sebwinner1 posts ante 30
+cocowoman posts small blind 200
+RaginhoVegas posts big blind 400
+Dealt to manggy94 [4h 2d]
+*** PRE-FLOP *** 
+SonyB folds
+sebwinner1 folds
+MrFClean folds
+manggy94 folds
+cocowoman calls 200
+RaginhoVegas checks
+*** FLOP *** [Qh 3s 9d]
+cocowoman bets 653
+RaginhoVegas folds
+cocowoman collected 1633 from pot
+*** SUMMARY ***
+Total pot 1633 | No rake
+Board: [Qh 3s 9d]
+Seat 3: cocowoman (small blind) won 1633
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #770589146619052046-40-1483018778 - Holdem no limit (30/200/400) - 2016/12/29 13:39:38 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #3 is the button
+Seat 1: MrFClean (23888)
+Seat 2: manggy94 (8090)
+Seat 3: cocowoman (16096)
+Seat 4: RaginhoVegas (12171)
+Seat 5: SonyB (19140)
+Seat 6: sebwinner1 (10615)
+*** ANTE/BLINDS ***
+RaginhoVegas posts ante 30
+SonyB posts ante 30
+MrFClean posts ante 30
+manggy94 posts ante 30
+cocowoman posts ante 30
+sebwinner1 posts ante 30
+RaginhoVegas posts small blind 200
+SonyB posts big blind 400
+Dealt to manggy94 [4c 5d]
+*** PRE-FLOP *** 
+sebwinner1 folds
+MrFClean folds
+manggy94 folds
+cocowoman folds
+RaginhoVegas folds
+SonyB collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 5: SonyB (big blind) won 780
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #770589146619052046-41-1483018803 - Holdem no limit (30/200/400) - 2016/12/29 13:40:03 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #4 is the button
+Seat 1: MrFClean (23858)
+Seat 2: manggy94 (8060)
+Seat 3: cocowoman (16066)
+Seat 4: RaginhoVegas (11941)
+Seat 5: SonyB (19490)
+Seat 6: sebwinner1 (10585)
+*** ANTE/BLINDS ***
+SonyB posts ante 30
+sebwinner1 posts ante 30
+MrFClean posts ante 30
+manggy94 posts ante 30
+cocowoman posts ante 30
+RaginhoVegas posts ante 30
+SonyB posts small blind 200
+sebwinner1 posts big blind 400
+Dealt to manggy94 [3c Qd]
+*** PRE-FLOP *** 
+MrFClean folds
+manggy94 folds
+cocowoman folds
+RaginhoVegas folds
+SonyB calls 200
+sebwinner1 checks
+*** FLOP *** [3h As 4d]
+SonyB bets 400
+sebwinner1 raises 400 to 800
+SonyB folds
+sebwinner1 collected 2180 from pot
+*** SUMMARY ***
+Total pot 2180 | No rake
+Board: [3h As 4d]
+Seat 6: sebwinner1 (big blind) won 2180
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #770589146619052046-42-1483018911 - Holdem no limit (30/200/400) - 2016/12/29 13:41:51 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #5 is the button
+Seat 1: MrFClean (23828)
+Seat 2: manggy94 (8030)
+Seat 3: cocowoman (16036)
+Seat 4: RaginhoVegas (11911)
+Seat 5: SonyB (18660)
+Seat 6: sebwinner1 (11535)
+*** ANTE/BLINDS ***
+sebwinner1 posts ante 30
+MrFClean posts ante 30
+manggy94 posts ante 30
+cocowoman posts ante 30
+RaginhoVegas posts ante 30
+SonyB posts ante 30
+sebwinner1 posts small blind 200
+MrFClean posts big blind 400
+Dealt to manggy94 [3d Ac]
+*** PRE-FLOP *** 
+manggy94 folds
+cocowoman folds
+RaginhoVegas folds
+SonyB folds
+sebwinner1 folds
+MrFClean collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 1: MrFClean (big blind) won 780
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #770589146619052046-43-1483018965 - Holdem no limit (30/200/400) - 2016/12/29 13:42:45 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #6 is the button
+Seat 1: MrFClean (24178)
+Seat 2: manggy94 (8000)
+Seat 3: cocowoman (16006)
+Seat 4: RaginhoVegas (11881)
+Seat 5: SonyB (18630)
+Seat 6: sebwinner1 (11305)
+*** ANTE/BLINDS ***
+MrFClean posts ante 30
+manggy94 posts ante 30
+cocowoman posts ante 30
+RaginhoVegas posts ante 30
+SonyB posts ante 30
+sebwinner1 posts ante 30
+MrFClean posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [8d 5c]
+*** PRE-FLOP *** 
+cocowoman calls 400
+RaginhoVegas folds
+SonyB folds
+sebwinner1 folds
+MrFClean calls 200
+manggy94 checks
+*** FLOP *** [2h 8h 7h]
+MrFClean checks
+manggy94 checks
+cocowoman checks
+*** TURN *** [2h 8h 7h][Ac]
+MrFClean checks
+manggy94 checks
+cocowoman bets 920
+MrFClean folds
+manggy94 folds
+cocowoman collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Board: [2h 8h 7h Ac]
+Seat 3: cocowoman won 2300
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #770589146619052046-44-1483019100 - Holdem no limit (30/200/400) - 2016/12/29 13:45:00 UTC
+Table: 'Kill The Fish(179416767)#013' 6-max (real money) Seat #1 is the button
+Seat 1: MrFClean (23748)
+Seat 2: manggy94 (7570)
+Seat 3: cocowoman (16956)
+Seat 4: RaginhoVegas (11851)
+Seat 5: SonyB (18600)
+Seat 6: sebwinner1 (11275)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+cocowoman posts ante 30
+MrFClean posts ante 30
+RaginhoVegas posts ante 30
+SonyB posts ante 30
+sebwinner1 posts ante 30
+manggy94 posts small blind 200
+cocowoman posts big blind 400
+Dealt to manggy94 [Js Jh]
+*** PRE-FLOP *** 
+RaginhoVegas folds
+SonyB folds
+sebwinner1 folds
+MrFClean folds
+manggy94 raises 400 to 800
+cocowoman calls 400
+*** FLOP *** [9s 4c 3h]
+manggy94 bets 400
+cocowoman calls 400
+*** TURN *** [9s 4c 3h][Kh]
+manggy94 bets 1290
+cocowoman calls 1290
+*** RIVER *** [9s 4c 3h Kh][Qh]
+manggy94 checks
+cocowoman bets 5160
+manggy94 calls 5050 and is all-in
+*** SHOW DOWN ***
+manggy94 shows [Js Jh] (One pair : Jacks)
+cocowoman shows [9h 8h] (Flush King high)
+cocowoman collected 15370 from pot
+*** SUMMARY ***
+Total pot 15370 | No rake
+Board: [9s 4c 3h Kh Qh]
+Seat 2: manggy94 (small blind) showed [Js Jh] and lost with One pair : Jacks
+Seat 3: cocowoman (big blind) showed [9h 8h] and won 15370 with Flush King high
+
+

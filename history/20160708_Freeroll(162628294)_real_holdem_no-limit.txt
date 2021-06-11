@@ -1,0 +1,915 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #698483204134273227-1-1467973826 - Holdem no limit (10/20) - 2016/07/08 10:30:26 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #8 is the button
+Seat 1: Val-Indigo (3000)
+Seat 2: carola21 (3000)
+Seat 3: manggy94 (3000)
+Seat 4: _ouranos_ (3000)
+Seat 5: slouky (3000)
+Seat 6: rincedalle (3000)
+Seat 7: stephleconte (3000)
+Seat 8: mamygaga (3000)
+*** ANTE/BLINDS ***
+Val-Indigo posts small blind 10
+carola21 posts big blind 20
+Dealt to manggy94 [8h Kc]
+*** PRE-FLOP *** 
+manggy94 folds
+_ouranos_ folds
+slouky raises 20 to 40
+rincedalle raises 120 to 160
+stephleconte folds
+mamygaga folds
+Val-Indigo calls 150
+carola21 raises 520 to 680
+slouky raises 2320 to 3000 and is all-in
+rincedalle folds
+Val-Indigo calls 2840 and is all-in
+carola21 calls 2320 and is all-in
+*** FLOP *** [9c 2d 7c]
+*** TURN *** [9c 2d 7c][5d]
+*** RIVER *** [9c 2d 7c 5d][Ah]
+*** SHOW DOWN ***
+Val-Indigo shows [Td 8d] (High card : Ace)
+slouky shows [4s 4h] (One pair : 4)
+carola21 shows [Ad Jd] (One pair : Aces)
+carola21 collected 9160 from pot
+*** SUMMARY ***
+Total pot 9160 | No rake
+Board: [9c 2d 7c 5d Ah]
+Seat 1: Val-Indigo (small blind) showed [Td 8d] and lost with High card : Ace
+Seat 2: carola21 (big blind) showed [Ad Jd] and won 9160 with One pair : Aces
+Seat 5: slouky showed [4s 4h] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #698483204134273227-2-1467974056 - Holdem no limit (15/30) - 2016/07/08 10:34:16 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #1 is the button
+Seat 2: carola21 (9160)
+Seat 3: manggy94 (3000)
+Seat 4: _ouranos_ (3000)
+Seat 5: Murmya (3000)
+Seat 6: rincedalle (2840)
+Seat 7: stephleconte (3000)
+Seat 8: mamygaga (3000)
+*** ANTE/BLINDS ***
+carola21 posts small blind 15
+manggy94 posts big blind 30
+Dealt to manggy94 [Qc 8c]
+*** PRE-FLOP *** 
+_ouranos_ folds
+Murmya calls 30
+rincedalle folds
+stephleconte folds
+mamygaga folds
+carola21 raises 90 to 120
+manggy94 calls 90
+Murmya calls 90
+*** FLOP *** [7h 2h 5h]
+carola21 checks
+manggy94 checks
+Murmya checks
+*** TURN *** [7h 2h 5h][4c]
+carola21 checks
+manggy94 bets 180
+Murmya calls 180
+carola21 calls 180
+*** RIVER *** [7h 2h 5h 4c][6h]
+carola21 checks
+manggy94 bets 30
+Murmya calls 30
+carola21 folds
+*** SHOW DOWN ***
+Murmya shows [3d As] (Straight 7 high)
+manggy94 shows [Qc 8c] (Straight 8 high)
+manggy94 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [7h 2h 5h 4c 6h]
+Seat 3: manggy94 (big blind) showed [Qc 8c] and won 960 with Straight 8 high
+Seat 5: Murmya showed [3d As] and lost with Straight 7 high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #698483204134273227-3-1467974201 - Holdem no limit (20/40) - 2016/07/08 10:36:41 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #2 is the button
+Seat 1: crapule95 (3000)
+Seat 2: carola21 (8860)
+Seat 3: manggy94 (3630)
+Seat 4: _ouranos_ (3000)
+Seat 5: Murmya (2670)
+Seat 6: rincedalle (2840)
+Seat 7: stephleconte (3000)
+Seat 8: mamygaga (3000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+_ouranos_ posts big blind 40
+Dealt to manggy94 [5h 8d]
+*** PRE-FLOP *** 
+Murmya folds
+rincedalle folds
+stephleconte folds
+mamygaga folds
+crapule95 folds
+carola21 raises 100 to 140
+manggy94 calls 120
+_ouranos_ folds
+*** FLOP *** [5s Ts 2d]
+manggy94 checks
+carola21 checks
+*** TURN *** [5s Ts 2d][Kc]
+manggy94 checks
+carola21 checks
+*** RIVER *** [5s Ts 2d Kc][Th]
+manggy94 checks
+carola21 checks
+*** SHOW DOWN ***
+carola21 shows [As Js] (One pair : Tens)
+manggy94 shows [5h 8d] (Two pairs : Tens and 5)
+manggy94 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [5s Ts 2d Kc Th]
+Seat 2: carola21 (button) showed [As Js] and lost with One pair : Tens
+Seat 3: manggy94 (small blind) showed [5h 8d] and won 320 with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #698483204134273227-4-1467974275 - Holdem no limit (20/40) - 2016/07/08 10:37:55 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #3 is the button
+Seat 1: crapule95 (3000)
+Seat 2: carola21 (8720)
+Seat 3: manggy94 (3810)
+Seat 4: _ouranos_ (2960)
+Seat 5: Murmya (2670)
+Seat 6: rincedalle (2840)
+Seat 7: stephleconte (3000)
+Seat 8: mamygaga (3000)
+*** ANTE/BLINDS ***
+_ouranos_ posts small blind 20
+Murmya posts big blind 40
+Dealt to manggy94 [4s Jh]
+*** PRE-FLOP *** 
+rincedalle folds
+stephleconte calls 40
+mamygaga folds
+crapule95 calls 40
+carola21 folds
+manggy94 folds
+_ouranos_ folds
+Murmya checks
+*** FLOP *** [As 3d Js]
+Murmya bets 70
+stephleconte folds
+crapule95 folds
+Murmya collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [As 3d Js]
+Seat 5: Murmya (big blind) won 210
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #698483204134273227-5-1467974311 - Holdem no limit (20/40) - 2016/07/08 10:38:31 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #4 is the button
+Seat 1: crapule95 (2960)
+Seat 2: carola21 (8720)
+Seat 3: manggy94 (3810)
+Seat 4: _ouranos_ (2940)
+Seat 5: Murmya (2770)
+Seat 6: rincedalle (2840)
+Seat 7: stephleconte (2960)
+Seat 8: mamygaga (3000)
+*** ANTE/BLINDS ***
+Murmya posts small blind 20
+rincedalle posts big blind 40
+Dealt to manggy94 [Tc 4h]
+*** PRE-FLOP *** 
+stephleconte folds
+mamygaga folds
+crapule95 folds
+carola21 calls 40
+manggy94 folds
+_ouranos_ folds
+Murmya calls 20
+rincedalle folds
+*** FLOP *** [Ad 7d 2d]
+Murmya checks
+carola21 checks
+*** TURN *** [Ad 7d 2d][3d]
+Murmya bets 60
+carola21 folds
+Murmya collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ad 7d 2d 3d]
+Seat 5: Murmya (small blind) won 180
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #698483204134273227-6-1467974388 - Holdem no limit (30/60) - 2016/07/08 10:39:48 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #5 is the button
+Seat 1: crapule95 (2960)
+Seat 2: carola21 (8680)
+Seat 3: manggy94 (3810)
+Seat 4: _ouranos_ (2940)
+Seat 5: Murmya (2850)
+Seat 6: rincedalle (2800)
+Seat 7: stephleconte (2960)
+Seat 8: mamygaga (3000)
+*** ANTE/BLINDS ***
+rincedalle posts small blind 30
+stephleconte posts big blind 60
+Dealt to manggy94 [Kc 2h]
+*** PRE-FLOP *** 
+mamygaga folds
+crapule95 calls 60
+carola21 folds
+manggy94 folds
+_ouranos_ folds
+Murmya calls 60
+rincedalle calls 30
+stephleconte checks
+*** FLOP *** [Ts Kh 7h]
+rincedalle checks
+stephleconte checks
+crapule95 checks
+Murmya bets 240
+rincedalle folds
+stephleconte folds
+crapule95 folds
+Murmya collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Ts Kh 7h]
+Seat 5: Murmya (button) won 480
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #698483204134273227-7-1467974505 - Holdem no limit (30/60) - 2016/07/08 10:41:45 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #6 is the button
+Seat 1: crapule95 (2900)
+Seat 2: carola21 (8680)
+Seat 3: manggy94 (3810)
+Seat 4: _ouranos_ (2940)
+Seat 5: Murmya (3030)
+Seat 6: rincedalle (2740)
+Seat 7: stephleconte (2900)
+Seat 8: mamygaga (3000)
+*** ANTE/BLINDS ***
+stephleconte posts small blind 30
+mamygaga posts big blind 60
+Dealt to manggy94 [5s Jd]
+*** PRE-FLOP *** 
+crapule95 calls 60
+carola21 calls 60
+manggy94 folds
+_ouranos_ folds
+Murmya calls 60
+rincedalle folds
+stephleconte calls 30
+mamygaga checks
+*** FLOP *** [6c Th 6s]
+stephleconte checks
+mamygaga checks
+crapule95 checks
+carola21 checks
+Murmya checks
+*** TURN *** [6c Th 6s][2c]
+stephleconte checks
+mamygaga bets 300
+crapule95 folds
+carola21 folds
+Murmya folds
+stephleconte folds
+mamygaga collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [6c Th 6s 2c]
+Seat 8: mamygaga (big blind) won 600
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #698483204134273227-8-1467974598 - Holdem no limit (40/80) - 2016/07/08 10:43:18 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #7 is the button
+Seat 1: crapule95 (2840)
+Seat 2: carola21 (8620)
+Seat 3: manggy94 (3810)
+Seat 4: _ouranos_ (2940)
+Seat 5: Murmya (2970)
+Seat 6: rincedalle (2740)
+Seat 7: stephleconte (2840)
+Seat 8: mamygaga (3240)
+*** ANTE/BLINDS ***
+mamygaga posts small blind 40
+crapule95 posts big blind 80
+Dealt to manggy94 [7c 9d]
+*** PRE-FLOP *** 
+carola21 calls 80
+manggy94 folds
+_ouranos_ folds
+Murmya folds
+rincedalle folds
+stephleconte folds
+mamygaga calls 40
+crapule95 checks
+*** FLOP *** [9h Qs Qd]
+mamygaga checks
+crapule95 bets 240
+carola21 folds
+mamygaga folds
+crapule95 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [9h Qs Qd]
+Seat 1: crapule95 (big blind) won 480
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #698483204134273227-9-1467974663 - Holdem no limit (40/80) - 2016/07/08 10:44:23 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #8 is the button
+Seat 1: crapule95 (3000)
+Seat 2: carola21 (8540)
+Seat 3: manggy94 (3810)
+Seat 4: _ouranos_ (2940)
+Seat 5: Murmya (2970)
+Seat 6: rincedalle (2740)
+Seat 7: stephleconte (2840)
+Seat 8: mamygaga (3160)
+*** ANTE/BLINDS ***
+crapule95 posts small blind 40
+carola21 posts big blind 80
+Dealt to manggy94 [Ac 6d]
+*** PRE-FLOP *** 
+manggy94 raises 80 to 160
+_ouranos_ folds
+Murmya folds
+rincedalle folds
+stephleconte folds
+mamygaga calls 160
+crapule95 calls 120
+carola21 raises 640 to 800
+manggy94 calls 640
+mamygaga folds
+crapule95 folds
+*** FLOP *** [2c Js 5s]
+carola21 checks
+manggy94 bets 360
+carola21 calls 360
+*** TURN *** [2c Js 5s][9h]
+carola21 checks
+manggy94 bets 520
+carola21 calls 520
+*** RIVER *** [2c Js 5s 9h][6h]
+carola21 checks
+manggy94 checks
+*** SHOW DOWN ***
+carola21 shows [Qs Tc] (High card : Queen)
+manggy94 shows [Ac 6d] (One pair : 6)
+manggy94 collected 3680 from pot
+*** SUMMARY ***
+Total pot 3680 | No rake
+Board: [2c Js 5s 9h 6h]
+Seat 2: carola21 (big blind) showed [Qs Tc] and lost with High card : Queen
+Seat 3: manggy94 showed [Ac 6d] and won 3680 with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #698483204134273227-10-1467974768 - Holdem no limit (60/120) - 2016/07/08 10:46:08 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #1 is the button
+Seat 1: crapule95 (2840)
+Seat 2: carola21 (6860)
+Seat 3: manggy94 (5810)
+Seat 4: _ouranos_ (2940)
+Seat 5: Murmya (2970)
+Seat 6: rincedalle (2740)
+Seat 7: stephleconte (2840)
+Seat 8: mamygaga (3000)
+*** ANTE/BLINDS ***
+carola21 posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [6h 3d]
+*** PRE-FLOP *** 
+_ouranos_ folds
+Murmya folds
+rincedalle folds
+stephleconte calls 120
+mamygaga folds
+crapule95 folds
+carola21 raises 120 to 240
+manggy94 folds
+stephleconte calls 120
+*** FLOP *** [Tc Kh 5c]
+carola21 checks
+stephleconte bets 120
+carola21 calls 120
+*** TURN *** [Tc Kh 5c][2c]
+carola21 checks
+stephleconte bets 120
+carola21 calls 120
+*** RIVER *** [Tc Kh 5c 2c][Ah]
+carola21 checks
+stephleconte bets 2360 and is all-in
+carola21 folds
+stephleconte collected 3440 from pot
+*** SUMMARY ***
+Total pot 3440 | No rake
+Board: [Tc Kh 5c 2c Ah]
+Seat 7: stephleconte won 3440
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #698483204134273227-11-1467974820 - Holdem no limit (60/120) - 2016/07/08 10:47:00 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #2 is the button
+Seat 1: crapule95 (2840)
+Seat 2: carola21 (6380)
+Seat 3: manggy94 (5690)
+Seat 4: _ouranos_ (2940)
+Seat 5: Murmya (2970)
+Seat 6: rincedalle (2740)
+Seat 7: stephleconte (3440)
+Seat 8: mamygaga (3000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 60
+_ouranos_ posts big blind 120
+Dealt to manggy94 [6s 6d]
+*** PRE-FLOP *** 
+Murmya calls 120
+rincedalle folds
+stephleconte folds
+mamygaga folds
+crapule95 calls 120
+carola21 calls 120
+manggy94 calls 60
+_ouranos_ checks
+*** FLOP *** [7c 4h 4s]
+manggy94 checks
+_ouranos_ checks
+Murmya checks
+crapule95 checks
+carola21 checks
+*** TURN *** [7c 4h 4s][2s]
+manggy94 checks
+_ouranos_ checks
+Murmya checks
+crapule95 checks
+carola21 checks
+*** RIVER *** [7c 4h 4s 2s][6c]
+manggy94 checks
+_ouranos_ checks
+Murmya checks
+crapule95 checks
+carola21 checks
+*** SHOW DOWN ***
+crapule95 shows [5h Ac] (One pair : 4)
+carola21 shows [2d Kd] (Two pairs : 4 and 2)
+_ouranos_ shows [8c 9s] (One pair : 4)
+Murmya shows [Qh Ts] (One pair : 4)
+manggy94 shows [6s 6d] (Full of 6 and 4)
+manggy94 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7c 4h 4s 2s 6c]
+Seat 1: crapule95 showed [5h Ac] and lost with One pair : 4
+Seat 2: carola21 (button) showed [2d Kd] and lost with Two pairs : 4 and 2
+Seat 3: manggy94 (small blind) showed [6s 6d] and won 600 with Full of 6 and 4
+Seat 4: _ouranos_ (big blind) showed [8c 9s] and lost with One pair : 4
+Seat 5: Murmya showed [Qh Ts] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #698483204134273227-12-1467974885 - Holdem no limit (60/120) - 2016/07/08 10:48:05 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #3 is the button
+Seat 1: crapule95 (2720)
+Seat 2: carola21 (6260)
+Seat 3: manggy94 (6170)
+Seat 4: _ouranos_ (2820)
+Seat 5: Murmya (2850)
+Seat 6: rincedalle (2740)
+Seat 7: stephleconte (3440)
+Seat 8: mamygaga (3000)
+*** ANTE/BLINDS ***
+_ouranos_ posts small blind 60
+Murmya posts big blind 120
+Dealt to manggy94 [Js Jc]
+*** PRE-FLOP *** 
+rincedalle folds
+stephleconte folds
+mamygaga folds
+crapule95 calls 120
+carola21 calls 120
+manggy94 raises 120 to 240
+_ouranos_ folds
+Murmya calls 120
+crapule95 calls 120
+carola21 calls 120
+*** FLOP *** [8h 9c Ad]
+Murmya checks
+crapule95 checks
+carola21 checks
+manggy94 bets 180
+Murmya folds
+crapule95 calls 180
+carola21 folds
+*** TURN *** [8h 9c Ad][Kh]
+crapule95 checks
+manggy94 checks
+*** RIVER *** [8h 9c Ad Kh][3h]
+crapule95 checks
+manggy94 checks
+*** SHOW DOWN ***
+crapule95 shows [Jh 9d] (One pair : 9)
+manggy94 shows [Js Jc] (One pair : Jacks)
+manggy94 collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Board: [8h 9c Ad Kh 3h]
+Seat 1: crapule95 showed [Jh 9d] and lost with One pair : 9
+Seat 3: manggy94 (button) showed [Js Jc] and won 1380 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #698483204134273227-13-1467975006 - Holdem no limit (10/60/120) - 2016/07/08 10:50:06 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #4 is the button
+Seat 1: crapule95 (2300)
+Seat 2: carola21 (6020)
+Seat 3: manggy94 (7130)
+Seat 4: _ouranos_ (2760)
+Seat 5: Murmya (2610)
+Seat 6: rincedalle (2740)
+Seat 7: stephleconte (3440)
+Seat 8: mamygaga (3000)
+*** ANTE/BLINDS ***
+Murmya posts ante 10
+rincedalle posts ante 10
+crapule95 posts ante 10
+carola21 posts ante 10
+manggy94 posts ante 10
+_ouranos_ posts ante 10
+stephleconte posts ante 10
+mamygaga posts ante 10
+Murmya posts small blind 60
+rincedalle posts big blind 120
+Dealt to manggy94 [Ts Kc]
+*** PRE-FLOP *** 
+stephleconte folds
+mamygaga folds
+crapule95 folds
+carola21 folds
+manggy94 calls 120
+_ouranos_ folds
+Murmya calls 60
+rincedalle folds
+*** FLOP *** [Jd 6d 9d]
+Murmya checks
+manggy94 checks
+*** TURN *** [Jd 6d 9d][Ks]
+Murmya bets 280
+manggy94 calls 280
+*** RIVER *** [Jd 6d 9d Ks][8c]
+Murmya bets 750
+manggy94 calls 750
+*** SHOW DOWN ***
+manggy94 shows [Ts Kc] (One pair : Kings)
+Murmya shows [Qd Tc] (Straight King high)
+Murmya collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Board: [Jd 6d 9d Ks 8c]
+Seat 3: manggy94 showed [Ts Kc] and lost with One pair : Kings
+Seat 5: Murmya (small blind) showed [Qd Tc] and won 2500 with Straight King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #698483204134273227-14-1467975139 - Holdem no limit (15/75/150) - 2016/07/08 10:52:19 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #5 is the button
+Seat 1: crapule95 (2290)
+Seat 2: carola21 (6010)
+Seat 3: manggy94 (5970)
+Seat 4: _ouranos_ (2750)
+Seat 5: Murmya (3950)
+Seat 6: rincedalle (2610)
+Seat 7: stephleconte (3430)
+Seat 8: mamygaga (2990)
+*** ANTE/BLINDS ***
+rincedalle posts ante 15
+stephleconte posts ante 15
+crapule95 posts ante 15
+carola21 posts ante 15
+manggy94 posts ante 15
+_ouranos_ posts ante 15
+Murmya posts ante 15
+mamygaga posts ante 15
+rincedalle posts small blind 75
+stephleconte posts big blind 150
+Dealt to manggy94 [5h 9h]
+*** PRE-FLOP *** 
+mamygaga calls 150
+crapule95 calls 150
+carola21 raises 795 to 945
+manggy94 folds
+_ouranos_ folds
+Murmya folds
+rincedalle folds
+stephleconte folds
+mamygaga calls 795
+crapule95 calls 795
+*** FLOP *** [6c Ah 4c]
+mamygaga checks
+crapule95 bets 1330 and is all-in
+carola21 folds
+mamygaga folds
+crapule95 collected 4510 from pot
+*** SUMMARY ***
+Total pot 4510 | No rake
+Board: [6c Ah 4c]
+Seat 1: crapule95 won 4510
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #698483204134273227-15-1467975219 - Holdem no limit (15/75/150) - 2016/07/08 10:53:39 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #6 is the button
+Seat 1: crapule95 (4510)
+Seat 2: carola21 (5050)
+Seat 3: manggy94 (5955)
+Seat 4: _ouranos_ (2735)
+Seat 5: Murmya (3935)
+Seat 6: rincedalle (2520)
+Seat 7: stephleconte (3265)
+Seat 8: mamygaga (2030)
+*** ANTE/BLINDS ***
+stephleconte posts ante 15
+mamygaga posts ante 15
+crapule95 posts ante 15
+carola21 posts ante 15
+manggy94 posts ante 15
+_ouranos_ posts ante 15
+Murmya posts ante 15
+rincedalle posts ante 15
+stephleconte posts small blind 75
+mamygaga posts big blind 150
+Dealt to manggy94 [2c 8c]
+*** PRE-FLOP *** 
+crapule95 folds
+carola21 folds
+manggy94 folds
+_ouranos_ folds
+Murmya folds
+rincedalle raises 150 to 300
+stephleconte calls 225
+mamygaga calls 150
+*** FLOP *** [4h 5s 9s]
+stephleconte checks
+mamygaga checks
+rincedalle checks
+*** TURN *** [4h 5s 9s][8h]
+stephleconte checks
+mamygaga checks
+rincedalle checks
+*** RIVER *** [4h 5s 9s 8h][5h]
+stephleconte bets 1020
+mamygaga folds
+rincedalle calls 1020
+*** SHOW DOWN ***
+rincedalle shows [6d 5d] (Trips of 5)
+stephleconte shows [7h Jh] (Flush Jack high)
+stephleconte collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Board: [4h 5s 9s 8h 5h]
+Seat 6: rincedalle (button) showed [6d 5d] and lost with Trips of 5
+Seat 7: stephleconte (small blind) showed [7h Jh] and won 3060 with Flush Jack high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #698483204134273227-16-1467975601 - Holdem no limit (20/100/200) - 2016/07/08 11:00:01 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #7 is the button
+Seat 1: crapule95 (4495)
+Seat 2: carola21 (5035)
+Seat 3: manggy94 (5940)
+Seat 4: _ouranos_ (2720)
+Seat 5: Murmya (3920)
+Seat 6: rincedalle (1185)
+Seat 7: stephleconte (4990)
+Seat 8: mamygaga (1715)
+*** ANTE/BLINDS ***
+mamygaga posts ante 20
+crapule95 posts ante 20
+carola21 posts ante 20
+manggy94 posts ante 20
+_ouranos_ posts ante 20
+Murmya posts ante 20
+rincedalle posts ante 20
+stephleconte posts ante 20
+mamygaga posts small blind 100
+crapule95 posts big blind 200
+Dealt to manggy94 [2c 5d]
+*** PRE-FLOP *** 
+carola21 folds
+manggy94 folds
+_ouranos_ folds
+Murmya folds
+rincedalle raises 965 to 1165 and is all-in
+stephleconte folds
+mamygaga folds
+crapule95 calls 965
+*** FLOP *** [Ac 8c Jh]
+*** TURN *** [Ac 8c Jh][5s]
+*** RIVER *** [Ac 8c Jh 5s][9h]
+*** SHOW DOWN ***
+rincedalle shows [7c Kc] (High card : Ace)
+crapule95 shows [7s Js] (One pair : Jacks)
+crapule95 collected 2590 from pot
+*** SUMMARY ***
+Total pot 2590 | No rake
+Board: [Ac 8c Jh 5s 9h]
+Seat 1: crapule95 (big blind) showed [7s Js] and won 2590 with One pair : Jacks
+Seat 6: rincedalle showed [7c Kc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #698483204134273227-17-1467975695 - Holdem no limit (20/100/200) - 2016/07/08 11:01:35 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #8 is the button
+Seat 1: crapule95 (5900)
+Seat 2: carola21 (5015)
+Seat 3: manggy94 (5920)
+Seat 4: _ouranos_ (2700)
+Seat 5: Murmya (3900)
+Seat 7: stephleconte (4970)
+Seat 8: mamygaga (1595)
+*** ANTE/BLINDS ***
+crapule95 posts ante 20
+carola21 posts ante 20
+manggy94 posts ante 20
+_ouranos_ posts ante 20
+Murmya posts ante 20
+stephleconte posts ante 20
+mamygaga posts ante 20
+crapule95 posts small blind 100
+carola21 posts big blind 200
+Dealt to manggy94 [6d 6s]
+*** PRE-FLOP *** 
+manggy94 calls 200
+_ouranos_ folds
+Murmya calls 200
+stephleconte folds
+mamygaga folds
+crapule95 folds
+carola21 raises 840 to 1040
+manggy94 calls 840
+Murmya folds
+*** FLOP *** [7c 4c 6c]
+carola21 checks
+manggy94 bets 1260
+carola21 calls 1260
+*** TURN *** [7c 4c 6c][Qs]
+carola21 bets 200
+manggy94 raises 2620 to 2820
+carola21 calls 2495 and is all-in
+*** RIVER *** [7c 4c 6c Qs][9c]
+*** SHOW DOWN ***
+carola21 shows [Qc Ts] (Flush Queen high)
+manggy94 shows [6d 6s] (Trips of 6)
+manggy94 collected 125 from side pot 1
+carola21 collected 10430 from main pot
+*** SUMMARY ***
+Total pot 10555 | No rake
+Board: [7c 4c 6c Qs 9c]
+Seat 2: carola21 (big blind) showed [Qc Ts] and won 10430 with Flush Queen high
+Seat 3: manggy94 showed [6d 6s] and won 125 with Trips of 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #698483204134273227-18-1467975744 - Holdem no limit (25/125/250) - 2016/07/08 11:02:24 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #1 is the button
+Seat 1: crapule95 (5780)
+Seat 2: carola21 (10430)
+Seat 3: manggy94 (905)
+Seat 4: _ouranos_ (2680)
+Seat 5: Murmya (3680)
+Seat 6: Mickesdu68 (3000)
+Seat 7: stephleconte (4950)
+Seat 8: mamygaga (1575)
+*** ANTE/BLINDS ***
+carola21 posts ante 25
+manggy94 posts ante 25
+crapule95 posts ante 25
+_ouranos_ posts ante 25
+Murmya posts ante 25
+Mickesdu68 posts ante 25
+stephleconte posts ante 25
+mamygaga posts ante 25
+carola21 posts small blind 125
+manggy94 posts big blind 250
+Dealt to manggy94 [2s Th]
+*** PRE-FLOP *** 
+_ouranos_ folds
+Murmya calls 250
+Mickesdu68 calls 250
+stephleconte folds
+mamygaga folds
+crapule95 calls 250
+carola21 folds
+manggy94 checks
+*** FLOP *** [8c Qh Jc]
+manggy94 checks
+Murmya checks
+Mickesdu68 checks
+crapule95 bets 1325
+manggy94 folds
+Murmya raises 2080 to 3405 and is all-in
+Mickesdu68 folds
+crapule95 calls 2080
+*** TURN *** [8c Qh Jc][Qc]
+*** RIVER *** [8c Qh Jc Qc][Js]
+*** SHOW DOWN ***
+Murmya shows [Kd 9c] (Two pairs : Queens and Jacks)
+crapule95 shows [Ts Qs] (Full of Queens and Jacks)
+crapule95 collected 8135 from pot
+*** SUMMARY ***
+Total pot 8135 | No rake
+Board: [8c Qh Jc Qc Js]
+Seat 1: crapule95 (button) showed [Ts Qs] and won 8135 with Full of Queens and Jacks
+Seat 5: Murmya showed [Kd 9c] and lost with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #698483204134273227-19-1467975806 - Holdem no limit (25/125/250) - 2016/07/08 11:03:26 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #2 is the button
+Seat 1: crapule95 (10235)
+Seat 2: carola21 (10280)
+Seat 3: manggy94 (630)
+Seat 4: _ouranos_ (2655)
+Seat 6: Mickesdu68 (2725)
+Seat 7: stephleconte (4925)
+Seat 8: mamygaga (1550)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+_ouranos_ posts ante 25
+crapule95 posts ante 25
+carola21 posts ante 25
+Mickesdu68 posts ante 25
+stephleconte posts ante 25
+mamygaga posts ante 25
+manggy94 posts small blind 125
+_ouranos_ posts big blind 250
+Dealt to manggy94 [Td 5c]
+*** PRE-FLOP *** 
+Mickesdu68 calls 250
+stephleconte folds
+mamygaga folds
+crapule95 calls 250
+carola21 calls 250
+manggy94 folds
+_ouranos_ folds
+*** FLOP *** [6d 2h Ad]
+Mickesdu68 checks
+crapule95 bets 975
+carola21 folds
+Mickesdu68 calls 975
+*** TURN *** [6d 2h Ad][9h]
+Mickesdu68 checks
+crapule95 bets 1625
+Mickesdu68 calls 1475 and is all-in
+*** RIVER *** [6d 2h Ad 9h][Th]
+*** SHOW DOWN ***
+Mickesdu68 shows [Ah 4c] (One pair : Aces)
+crapule95 shows [7c Ac] (One pair : Aces)
+crapule95 collected 6350 from pot
+*** SUMMARY ***
+Total pot 6350 | No rake
+Board: [6d 2h Ad 9h Th]
+Seat 1: crapule95 showed [7c Ac] and won 6350 with One pair : Aces
+Seat 6: Mickesdu68 showed [Ah 4c] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #698483204134273227-20-1467975860 - Holdem no limit (25/125/250) - 2016/07/08 11:04:20 UTC
+Table: 'Freeroll(162628294)#202' 8-max (real money) Seat #3 is the button
+Seat 1: crapule95 (13710)
+Seat 2: carola21 (10005)
+Seat 3: manggy94 (480)
+Seat 4: _ouranos_ (2380)
+Seat 7: stephleconte (4900)
+Seat 8: mamygaga (1525)
+*** ANTE/BLINDS ***
+_ouranos_ posts ante 25
+stephleconte posts ante 25
+crapule95 posts ante 25
+carola21 posts ante 25
+manggy94 posts ante 25
+mamygaga posts ante 25
+_ouranos_ posts small blind 125
+stephleconte posts big blind 250
+Dealt to manggy94 [Qd Jh]
+*** PRE-FLOP *** 
+mamygaga folds
+crapule95 calls 250
+carola21 calls 250
+manggy94 raises 205 to 455 and is all-in
+_ouranos_ folds
+stephleconte folds
+crapule95 calls 205
+carola21 calls 205
+*** FLOP *** [9d 7d Kh]
+crapule95 checks
+carola21 checks
+*** TURN *** [9d 7d Kh][5s]
+crapule95 checks
+carola21 checks
+*** RIVER *** [9d 7d Kh 5s][4d]
+crapule95 checks
+carola21 checks
+*** SHOW DOWN ***
+carola21 shows [Qs 2d] (High card : King)
+manggy94 shows [Qd Jh] (High card : King)
+crapule95 shows [8c Ac] (High card : Ace)
+crapule95 collected 1890 from pot
+*** SUMMARY ***
+Total pot 1890 | No rake
+Board: [9d 7d Kh 5s 4d]
+Seat 1: crapule95 showed [8c Ac] and won 1890 with High card : Ace
+Seat 2: carola21 showed [Qs 2d] and lost with High card : King
+Seat 3: manggy94 (button) showed [Qd Jh] and lost with High card : King
+
+

@@ -1,0 +1,572 @@
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 0 - HandId: #544944673127399425-1-1438982379 - Holdem no limit (10/20) - 2015/08/07 21:19:39 UTC
+Table: 'Sit&Go Freeroll(126879819)#0' 10-max (real money) Seat #7 is the button
+Seat 1: kiwi39 (1500)
+Seat 2: ju_al (1500)
+Seat 3: manggy94 (1500)
+Seat 4: Lakhdar24 (1500)
+Seat 5: -999- (1500)
+Seat 6: gadjetpat (1500)
+Seat 7: QueenAman (1500)
+Seat 8: NoBs35 (1500)
+Seat 9: eddylesau 76 (1500)
+Seat 10: gustavio777 (1500)
+*** ANTE/BLINDS ***
+NoBs35 posts small blind 10
+eddylesau 76 posts big blind 20
+Dealt to manggy94 [5s 7h]
+*** PRE-FLOP *** 
+gustavio777 calls 20
+kiwi39 folds
+ju_al calls 20
+manggy94 folds
+Lakhdar24 folds
+-999- folds
+gadjetpat folds
+QueenAman folds
+NoBs35 folds
+eddylesau 76 checks
+*** FLOP *** [8s 8c 3s]
+eddylesau 76 checks
+gustavio777 checks
+ju_al checks
+*** TURN *** [8s 8c 3s][Th]
+eddylesau 76 checks
+gustavio777 checks
+ju_al checks
+*** RIVER *** [8s 8c 3s Th][4s]
+eddylesau 76 checks
+gustavio777 checks
+ju_al checks
+*** SHOW DOWN ***
+ju_al shows [Jd 9s] (One pair : 8)
+gustavio777 shows [9h 6h] (One pair : 8)
+eddylesau 76 shows [Ks 9d] (One pair : 8)
+eddylesau 76 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [8s 8c 3s Th 4s]
+Seat 2: ju_al showed [Jd 9s] and lost with One pair : 8
+Seat 9: eddylesau 76 (big blind) showed [Ks 9d] and won 70 with One pair : 8
+Seat 10: gustavio777 showed [9h 6h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 0 - HandId: #544944673127399425-2-1438982481 - Holdem no limit (10/20) - 2015/08/07 21:21:21 UTC
+Table: 'Sit&Go Freeroll(126879819)#0' 10-max (real money) Seat #8 is the button
+Seat 1: kiwi39 (1500)
+Seat 2: ju_al (1480)
+Seat 3: manggy94 (1500)
+Seat 4: Lakhdar24 (1500)
+Seat 5: -999- (1500)
+Seat 6: gadjetpat (1500)
+Seat 7: QueenAman (1500)
+Seat 8: NoBs35 (1490)
+Seat 9: eddylesau 76 (1550)
+Seat 10: gustavio777 (1480)
+*** ANTE/BLINDS ***
+eddylesau 76 posts small blind 10
+gustavio777 posts big blind 20
+Dealt to manggy94 [Qd Td]
+*** PRE-FLOP *** 
+kiwi39 folds
+ju_al folds
+manggy94 calls 20
+Lakhdar24 folds
+-999- folds
+gadjetpat folds
+QueenAman folds
+NoBs35 calls 20
+eddylesau 76 calls 10
+gustavio777 checks
+*** FLOP *** [4d 5s Ac]
+eddylesau 76 checks
+gustavio777 checks
+manggy94 checks
+NoBs35 bets 1470 and is all-in
+eddylesau 76 folds
+gustavio777 folds
+manggy94 folds
+NoBs35 collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [4d 5s Ac]
+Seat 8: NoBs35 (button) won 1550
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 1 - HandId: #544944673127399425-3-1438982585 - Holdem no limit (15/30) - 2015/08/07 21:23:05 UTC
+Table: 'Sit&Go Freeroll(126879819)#0' 10-max (real money) Seat #9 is the button
+Seat 1: kiwi39 (1500)
+Seat 2: ju_al (1480)
+Seat 3: manggy94 (1480)
+Seat 4: Lakhdar24 (1500)
+Seat 5: -999- (1500)
+Seat 6: gadjetpat (1500)
+Seat 7: QueenAman (1500)
+Seat 8: NoBs35 (1550)
+Seat 9: eddylesau 76 (1530)
+Seat 10: gustavio777 (1460)
+*** ANTE/BLINDS ***
+gustavio777 posts small blind 15
+kiwi39 posts big blind 30
+Dealt to manggy94 [3c Qc]
+*** PRE-FLOP *** 
+ju_al folds
+manggy94 calls 30
+Lakhdar24 folds
+-999- calls 30
+gadjetpat folds
+QueenAman raises 120 to 150
+NoBs35 folds
+eddylesau 76 folds
+gustavio777 raises 1310 to 1460 and is all-in
+kiwi39 folds
+manggy94 folds
+-999- folds
+QueenAman calls 1310
+*** FLOP *** [5h 7c Qd]
+*** TURN *** [5h 7c Qd][4d]
+*** RIVER *** [5h 7c Qd 4d][Qs]
+*** SHOW DOWN ***
+QueenAman shows [9s As] (One pair : Queens)
+gustavio777 shows [8d 8c] (Two pairs : Queens and 8)
+gustavio777 collected 3010 from pot
+*** SUMMARY ***
+Total pot 3010 | No rake
+Board: [5h 7c Qd 4d Qs]
+Seat 7: QueenAman showed [9s As] and lost with One pair : Queens
+Seat 10: gustavio777 (small blind) showed [8d 8c] and won 3010 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 1 - HandId: #544944673127399425-4-1438982653 - Holdem no limit (15/30) - 2015/08/07 21:24:13 UTC
+Table: 'Sit&Go Freeroll(126879819)#0' 10-max (real money) Seat #10 is the button
+Seat 1: kiwi39 (1470)
+Seat 2: ju_al (1480)
+Seat 3: manggy94 (1450)
+Seat 4: Lakhdar24 (1500)
+Seat 5: -999- (1470)
+Seat 6: gadjetpat (1500)
+Seat 7: QueenAman (40)
+Seat 8: NoBs35 (1550)
+Seat 9: eddylesau 76 (1530)
+Seat 10: gustavio777 (3010)
+*** ANTE/BLINDS ***
+kiwi39 posts small blind 15
+ju_al posts big blind 30
+Dealt to manggy94 [8h 2d]
+*** PRE-FLOP *** 
+manggy94 folds
+Lakhdar24 folds
+-999- folds
+gadjetpat folds
+QueenAman raises 10 to 40 and is all-in
+NoBs35 calls 40
+eddylesau 76 calls 40
+gustavio777 folds
+kiwi39 folds
+ju_al calls 10
+*** FLOP *** [8c 7c 9d]
+ju_al bets 30
+NoBs35 folds
+eddylesau 76 calls 30
+*** TURN *** [8c 7c 9d][Kc]
+ju_al checks
+eddylesau 76 bets 30
+ju_al calls 30
+*** RIVER *** [8c 7c 9d Kc][2c]
+ju_al checks
+eddylesau 76 checks
+*** SHOW DOWN ***
+ju_al shows [7h 4c] (Flush King high)
+QueenAman shows [6c Jh] (Flush King high)
+eddylesau 76 shows [9c Th] (Flush King high)
+eddylesau 76 collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | No rake
+Board: [8c 7c 9d Kc 2c]
+Seat 2: ju_al (big blind) showed [7h 4c] and lost with Flush King high
+Seat 7: QueenAman showed [6c Jh] and lost with Flush King high
+Seat 9: eddylesau 76 showed [9c Th] and won 295 with Flush King high
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 2 - HandId: #544944673127399425-5-1438982753 - Holdem no limit (20/40) - 2015/08/07 21:25:53 UTC
+Table: 'Sit&Go Freeroll(126879819)#0' 10-max (real money) Seat #1 is the button
+Seat 1: kiwi39 (1455)
+Seat 2: ju_al (1380)
+Seat 3: manggy94 (1450)
+Seat 4: Lakhdar24 (1500)
+Seat 5: -999- (1470)
+Seat 6: gadjetpat (1500)
+Seat 8: NoBs35 (1510)
+Seat 9: eddylesau 76 (1725)
+Seat 10: gustavio777 (3010)
+*** ANTE/BLINDS ***
+ju_al posts small blind 20
+manggy94 posts big blind 40
+Dealt to manggy94 [As 2s]
+*** PRE-FLOP *** 
+Lakhdar24 raises 60 to 100
+-999- folds
+gadjetpat folds
+NoBs35 folds
+eddylesau 76 folds
+gustavio777 folds
+kiwi39 calls 100
+ju_al folds
+manggy94 calls 60
+*** FLOP *** [7s 6s 4h]
+manggy94 bets 320
+Lakhdar24 raises 320 to 640
+kiwi39 folds
+manggy94 calls 320
+*** TURN *** [7s 6s 4h][Ts]
+manggy94 bets 710 and is all-in
+Lakhdar24 calls 710
+*** RIVER *** [7s 6s 4h Ts][Th]
+*** SHOW DOWN ***
+Lakhdar24 shows [5d 5h] (Two pairs : Tens and 5)
+manggy94 shows [As 2s] (Flush Ace high)
+manggy94 collected 3020 from pot
+*** SUMMARY ***
+Total pot 3020 | No rake
+Board: [7s 6s 4h Ts Th]
+Seat 3: manggy94 (big blind) showed [As 2s] and won 3020 with Flush Ace high
+Seat 4: Lakhdar24 showed [5d 5h] and lost with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 2 - HandId: #544944673127399425-6-1438982857 - Holdem no limit (20/40) - 2015/08/07 21:27:37 UTC
+Table: 'Sit&Go Freeroll(126879819)#0' 10-max (real money) Seat #2 is the button
+Seat 1: kiwi39 (1355)
+Seat 2: ju_al (1360)
+Seat 3: manggy94 (3020)
+Seat 4: Lakhdar24 (50)
+Seat 5: -999- (1470)
+Seat 6: gadjetpat (1500)
+Seat 8: NoBs35 (1510)
+Seat 9: eddylesau 76 (1725)
+Seat 10: gustavio777 (3010)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 20
+Lakhdar24 posts big blind 40
+Dealt to manggy94 [8s Qh]
+*** PRE-FLOP *** 
+-999- calls 40
+gadjetpat calls 40
+NoBs35 folds
+eddylesau 76 calls 40
+gustavio777 folds
+kiwi39 calls 40
+ju_al folds
+manggy94 calls 20
+Lakhdar24 raises 10 to 50 and is all-in
+-999- calls 10
+gadjetpat calls 10
+eddylesau 76 calls 10
+kiwi39 calls 10
+manggy94 calls 10
+*** FLOP *** [2s 8d 7s]
+manggy94 bets 300
+-999- folds
+gadjetpat calls 300
+eddylesau 76 calls 300
+kiwi39 folds
+*** TURN *** [2s 8d 7s][9s]
+manggy94 checks
+gadjetpat checks
+eddylesau 76 bets 600
+manggy94 folds
+gadjetpat folds
+*** RIVER *** [2s 8d 7s 9s][Ad]
+*** SHOW DOWN ***
+Lakhdar24 shows [Th Qs] (High card : Ace)
+eddylesau 76 shows [6h 5h] (Straight 9 high)
+eddylesau 76 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [2s 8d 7s 9s Ad]
+Seat 4: Lakhdar24 (big blind) showed [Th Qs] and lost with High card : Ace
+Seat 9: eddylesau 76 showed [6h 5h] and won 1800 with Straight 9 high
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 3 - HandId: #544944673127399425-7-1438982947 - Holdem no limit (30/60) - 2015/08/07 21:29:07 UTC
+Table: 'Sit&Go Freeroll(126879819)#0' 10-max (real money) Seat #3 is the button
+Seat 1: kiwi39 (1305)
+Seat 2: ju_al (1360)
+Seat 3: manggy94 (2670)
+Seat 5: -999- (1420)
+Seat 6: gadjetpat (1150)
+Seat 8: NoBs35 (1510)
+Seat 9: eddylesau 76 (2575)
+Seat 10: gustavio777 (3010)
+*** ANTE/BLINDS ***
+-999- posts big blind 60
+Dealt to manggy94 [Tc 2s]
+*** PRE-FLOP *** 
+gadjetpat folds
+NoBs35 folds
+eddylesau 76 folds
+gustavio777 folds
+kiwi39 calls 60
+ju_al folds
+manggy94 folds
+-999- checks
+*** FLOP *** [Qh 3d Th]
+-999- checks
+kiwi39 checks
+*** TURN *** [Qh 3d Th][7h]
+-999- bets 120
+kiwi39 calls 120
+*** RIVER *** [Qh 3d Th 7h][9s]
+-999- bets 360
+kiwi39 raises 765 to 1125 and is all-in
+-999- calls 765
+*** SHOW DOWN ***
+kiwi39 shows [Jd Kd] (Straight King high)
+-999- shows [Ah 9h] (Flush Ace high)
+-999- collected 2610 from pot
+*** SUMMARY ***
+Total pot 2610 | No rake
+Board: [Qh 3d Th 7h 9s]
+Seat 1: kiwi39 showed [Jd Kd] and lost with Straight King high
+Seat 5: -999- (big blind) showed [Ah 9h] and won 2610 with Flush Ace high
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 3 - HandId: #544944673127399425-8-1438983013 - Holdem no limit (30/60) - 2015/08/07 21:30:13 UTC
+Table: 'Sit&Go Freeroll(126879819)#0' 10-max (real money) Seat #4 is the button
+Seat 2: ju_al (1360)
+Seat 3: manggy94 (2670)
+Seat 5: -999- (2725)
+Seat 6: gadjetpat (1150)
+Seat 8: NoBs35 (1510)
+Seat 9: eddylesau 76 (2575)
+Seat 10: gustavio777 (3010)
+*** ANTE/BLINDS ***
+-999- posts small blind 30
+gadjetpat posts big blind 60
+Dealt to manggy94 [Kc 3c]
+*** PRE-FLOP *** 
+NoBs35 folds
+eddylesau 76 folds
+gustavio777 folds
+ju_al folds
+manggy94 calls 60
+-999- calls 30
+gadjetpat checks
+*** FLOP *** [Qc 7h Qd]
+-999- checks
+gadjetpat bets 60
+manggy94 calls 60
+-999- folds
+*** TURN *** [Qc 7h Qd][Th]
+gadjetpat bets 60
+manggy94 folds
+gadjetpat collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Qc 7h Qd Th]
+Seat 6: gadjetpat (big blind) won 360
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 3 - HandId: #544944673127399425-9-1438983059 - Holdem no limit (30/60) - 2015/08/07 21:30:59 UTC
+Table: 'Sit&Go Freeroll(126879819)#0' 10-max (real money) Seat #5 is the button
+Seat 2: ju_al (1360)
+Seat 3: manggy94 (2550)
+Seat 5: -999- (2665)
+Seat 6: gadjetpat (1330)
+Seat 8: NoBs35 (1510)
+Seat 9: eddylesau 76 (2575)
+Seat 10: gustavio777 (3010)
+*** ANTE/BLINDS ***
+gadjetpat posts small blind 30
+NoBs35 posts big blind 60
+Dealt to manggy94 [Kc 8s]
+*** PRE-FLOP *** 
+eddylesau 76 calls 60
+gustavio777 folds
+ju_al raises 60 to 120
+manggy94 calls 120
+-999- folds
+gadjetpat folds
+NoBs35 calls 60
+eddylesau 76 calls 60
+*** FLOP *** [9s 8c 4h]
+NoBs35 checks
+eddylesau 76 checks
+ju_al bets 1240 and is all-in
+manggy94 raises 1190 to 2430 and is all-in
+NoBs35 folds
+eddylesau 76 folds
+*** TURN *** [9s 8c 4h][Td]
+*** RIVER *** [9s 8c 4h Td][3c]
+*** SHOW DOWN ***
+ju_al shows [Ad Ah] (One pair : Aces)
+manggy94 shows [Kc 8s] (One pair : 8)
+manggy94 collected 1190 from side pot 1
+ju_al collected 2990 from main pot
+*** SUMMARY ***
+Total pot 4180 | No rake
+Board: [9s 8c 4h Td 3c]
+Seat 2: ju_al showed [Ad Ah] and won 2990 with One pair : Aces
+Seat 3: manggy94 showed [Kc 8s] and won 1190 with One pair : 8
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 4 - HandId: #544944673127399425-10-1438983131 - Holdem no limit (40/80) - 2015/08/07 21:32:11 UTC
+Table: 'Sit&Go Freeroll(126879819)#0' 10-max (real money) Seat #6 is the button
+Seat 2: ju_al (2990)
+Seat 3: manggy94 (1190)
+Seat 5: -999- (2665)
+Seat 6: gadjetpat (1300)
+Seat 8: NoBs35 (1390)
+Seat 9: eddylesau 76 (2455)
+Seat 10: gustavio777 (3010)
+*** ANTE/BLINDS ***
+NoBs35 posts small blind 40
+eddylesau 76 posts big blind 80
+Dealt to manggy94 [Jh 2h]
+*** PRE-FLOP *** 
+gustavio777 folds
+ju_al folds
+manggy94 raises 1110 to 1190 and is all-in
+-999- folds
+gadjetpat folds
+NoBs35 folds
+eddylesau 76 folds
+manggy94 collected 1310 from pot
+*** SUMMARY ***
+Total pot 1310 | No rake
+Seat 3: manggy94 won 1310
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 4 - HandId: #544944673127399425-11-1438983163 - Holdem no limit (40/80) - 2015/08/07 21:32:43 UTC
+Table: 'Sit&Go Freeroll(126879819)#0' 10-max (real money) Seat #8 is the button
+Seat 2: ju_al (2990)
+Seat 3: manggy94 (1310)
+Seat 5: -999- (2665)
+Seat 6: gadjetpat (1300)
+Seat 8: NoBs35 (1350)
+Seat 9: eddylesau 76 (2375)
+Seat 10: gustavio777 (3010)
+*** ANTE/BLINDS ***
+eddylesau 76 posts small blind 40
+gustavio777 posts big blind 80
+Dealt to manggy94 [Th 8c]
+*** PRE-FLOP *** 
+ju_al folds
+manggy94 folds
+-999- calls 80
+gadjetpat folds
+NoBs35 folds
+eddylesau 76 raises 240 to 320
+gustavio777 raises 240 to 560
+-999- folds
+eddylesau 76 raises 1815 to 2375 and is all-in
+gustavio777 raises 635 to 3010 and is all-in
+*** FLOP *** [4s Kc Qd]
+*** TURN *** [4s Kc Qd][9c]
+*** RIVER *** [4s Kc Qd 9c][9s]
+*** SHOW DOWN ***
+eddylesau 76 shows [Jh Jc] (Two pairs : Jacks and 9)
+gustavio777 shows [Ad Ah] (Two pairs : Aces and 9)
+gustavio777 collected 5465 from pot
+*** SUMMARY ***
+Total pot 5465 | No rake
+Board: [4s Kc Qd 9c 9s]
+Seat 9: eddylesau 76 (small blind) showed [Jh Jc] and lost with Two pairs : Jacks and 9
+Seat 10: gustavio777 (big blind) showed [Ad Ah] and won 5465 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 4 - HandId: #544944673127399425-12-1438983214 - Holdem no limit (40/80) - 2015/08/07 21:33:34 UTC
+Table: 'Sit&Go Freeroll(126879819)#0' 10-max (real money) Seat #9 is the button
+Seat 2: ju_al (2990)
+Seat 3: manggy94 (1310)
+Seat 5: -999- (2585)
+Seat 6: gadjetpat (1300)
+Seat 8: NoBs35 (1350)
+Seat 10: gustavio777 (5465)
+*** ANTE/BLINDS ***
+gustavio777 posts small blind 40
+ju_al posts big blind 80
+Dealt to manggy94 [Jc 2d]
+*** PRE-FLOP *** 
+manggy94 folds
+-999- folds
+gadjetpat folds
+NoBs35 folds
+gustavio777 calls 40
+ju_al checks
+*** FLOP *** [Jd Ah 9c]
+gustavio777 checks
+ju_al checks
+*** TURN *** [Jd Ah 9c][Kh]
+gustavio777 checks
+ju_al checks
+*** RIVER *** [Jd Ah 9c Kh][6c]
+gustavio777 checks
+ju_al checks
+*** SHOW DOWN ***
+ju_al shows [3h 5h] (High card : Ace)
+gustavio777 shows [7d Tc] (High card : Ace)
+gustavio777 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Jd Ah 9c Kh 6c]
+Seat 2: ju_al (big blind) showed [3h 5h] and lost with High card : Ace
+Seat 10: gustavio777 (small blind) showed [7d Tc] and won 160 with High card : Ace
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 4 - HandId: #544944673127399425-13-1438983257 - Holdem no limit (40/80) - 2015/08/07 21:34:17 UTC
+Table: 'Sit&Go Freeroll(126879819)#0' 10-max (real money) Seat #10 is the button
+Seat 2: ju_al (2910)
+Seat 3: manggy94 (1310)
+Seat 5: -999- (2585)
+Seat 6: gadjetpat (1300)
+Seat 8: NoBs35 (1350)
+Seat 10: gustavio777 (5545)
+*** ANTE/BLINDS ***
+ju_al posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [Ts 3h]
+*** PRE-FLOP *** 
+-999- folds
+gadjetpat folds
+NoBs35 folds
+gustavio777 raises 5465 to 5545 and is all-in
+ju_al folds
+manggy94 folds
+gustavio777 collected 5665 from pot
+*** SUMMARY ***
+Total pot 5665 | No rake
+Seat 10: gustavio777 (button) won 5665
+
+
+Winamax Poker - Tournament "Sit&Go Freeroll" buyIn: Ticket only level: 4 - HandId: #544944673127399425-14-1438983271 - Holdem no limit (40/80) - 2015/08/07 21:34:31 UTC
+Table: 'Sit&Go Freeroll(126879819)#0' 10-max (real money) Seat #2 is the button
+Seat 2: ju_al (2870)
+Seat 3: manggy94 (1230)
+Seat 5: -999- (2585)
+Seat 6: gadjetpat (1300)
+Seat 8: NoBs35 (1350)
+Seat 10: gustavio777 (5665)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+-999- posts big blind 80
+Dealt to manggy94 [As 2c]
+*** PRE-FLOP *** 
+gadjetpat folds
+NoBs35 raises 1270 to 1350 and is all-in
+gustavio777 folds
+ju_al folds
+manggy94 calls 1190 and is all-in
+-999- folds
+*** FLOP *** [4c Qh 9c]
+*** TURN *** [4c Qh 9c][2s]
+*** RIVER *** [4c Qh 9c 2s][9h]
+*** SHOW DOWN ***
+manggy94 shows [As 2c] (Two pairs : 9 and 2)
+NoBs35 shows [8h 8c] (Two pairs : 9 and 8)
+NoBs35 collected 2660 from pot
+*** SUMMARY ***
+Total pot 2660 | No rake
+Board: [4c Qh 9c 2s 9h]
+Seat 3: manggy94 (small blind) showed [As 2c] and lost with Two pairs : 9 and 2
+Seat 8: NoBs35 showed [8h 8c] and won 2660 with Two pairs : 9 and 8
+
+

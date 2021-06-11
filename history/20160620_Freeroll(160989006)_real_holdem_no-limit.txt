@@ -1,0 +1,1881 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #691442515785547960-1-1466429427 - Holdem no limit (10/20) - 2016/06/20 13:30:27 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #2 is the button
+Seat 1: Evelynez (3000)
+Seat 2: bad34000 (3000)
+Seat 3: manggy94 (3000)
+Seat 4: rico838313 (3000)
+Seat 5: barette11 (3000)
+Seat 6: raideuse (3000)
+Seat 7: 1961GYG34 (3000)
+Seat 8: RevNext (3000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 10
+rico838313 posts big blind 20
+Dealt to manggy94 [4d 6s]
+*** PRE-FLOP *** 
+barette11 folds
+raideuse folds
+1961GYG34 folds
+RevNext folds
+Evelynez folds
+bad34000 calls 20
+manggy94 folds
+rico838313 checks
+*** FLOP *** [3h 4h 7h]
+rico838313 checks
+bad34000 checks
+*** TURN *** [3h 4h 7h][6c]
+rico838313 checks
+bad34000 checks
+*** RIVER *** [3h 4h 7h 6c][Kh]
+rico838313 bets 50
+bad34000 calls 50
+*** SHOW DOWN ***
+bad34000 shows [Qs 4s] (One pair : 4)
+rico838313 shows [Th 8c] (Flush King high)
+rico838313 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [3h 4h 7h 6c Kh]
+Seat 2: bad34000 (button) showed [Qs 4s] and lost with One pair : 4
+Seat 4: rico838313 (big blind) showed [Th 8c] and won 150 with Flush King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #691442515785547960-2-1466429627 - Holdem no limit (15/30) - 2016/06/20 13:33:47 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #3 is the button
+Seat 1: Evelynez (3000)
+Seat 2: bad34000 (2930)
+Seat 3: manggy94 (2990)
+Seat 4: rico838313 (3080)
+Seat 5: barette11 (3000)
+Seat 6: raideuse (3000)
+Seat 7: 1961GYG34 (3000)
+Seat 8: RevNext (3000)
+*** ANTE/BLINDS ***
+rico838313 posts small blind 15
+barette11 posts big blind 30
+Dealt to manggy94 [8d Ad]
+*** PRE-FLOP *** 
+raideuse calls 30
+1961GYG34 folds
+RevNext folds
+Evelynez folds
+bad34000 calls 30
+manggy94 calls 30
+rico838313 calls 15
+barette11 checks
+*** FLOP *** [7c 6c Ks]
+rico838313 bets 150
+barette11 folds
+raideuse calls 150
+bad34000 folds
+manggy94 calls 150
+*** TURN *** [7c 6c Ks][Qh]
+rico838313 bets 600
+raideuse calls 600
+manggy94 folds
+*** RIVER *** [7c 6c Ks Qh][3d]
+rico838313 bets 2300 and is all-in
+raideuse calls 2220 and is all-in
+*** SHOW DOWN ***
+raideuse shows [4h Kh] (One pair : Kings)
+rico838313 shows [Ac 4c] (High card : Ace)
+rico838313 collected 80 from side pot 1
+raideuse collected 6240 from main pot
+*** SUMMARY ***
+Total pot 6320 | No rake
+Board: [7c 6c Ks Qh 3d]
+Seat 4: rico838313 (small blind) showed [Ac 4c] and won 80 with High card : Ace
+Seat 6: raideuse showed [4h Kh] and won 6240 with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #691442515785547960-3-1466429763 - Holdem no limit (15/30) - 2016/06/20 13:36:03 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #4 is the button
+Seat 1: Evelynez (3000)
+Seat 2: bad34000 (2900)
+Seat 3: manggy94 (2810)
+Seat 4: rico838313 (80)
+Seat 5: barette11 (2970)
+Seat 6: raideuse (6240)
+Seat 7: 1961GYG34 (3000)
+Seat 8: RevNext (3000)
+*** ANTE/BLINDS ***
+barette11 posts small blind 15
+raideuse posts big blind 30
+Dealt to manggy94 [Ac 7c]
+*** PRE-FLOP *** 
+1961GYG34 folds
+RevNext calls 30
+Evelynez folds
+bad34000 calls 30
+manggy94 calls 30
+rico838313 raises 50 to 80 and is all-in
+barette11 raises 50 to 130
+raideuse calls 100
+RevNext folds
+bad34000 calls 100
+manggy94 calls 100
+*** FLOP *** [Jc 9d 7h]
+barette11 checks
+raideuse checks
+bad34000 checks
+manggy94 checks
+*** TURN *** [Jc 9d 7h][Jd]
+barette11 bets 315
+raideuse folds
+bad34000 folds
+manggy94 folds
+*** RIVER *** [Jc 9d 7h Jd][5h]
+*** SHOW DOWN ***
+rico838313 shows [Js 2s] (Trips of Jacks)
+barette11 shows [Qd Qs] (Two pairs : Queens and Jacks)
+barette11 collected 515 from side pot 1
+rico838313 collected 430 from main pot
+*** SUMMARY ***
+Total pot 945 | No rake
+Board: [Jc 9d 7h Jd 5h]
+Seat 4: rico838313 (button) showed [Js 2s] and won 430 with Trips of Jacks
+Seat 5: barette11 (small blind) showed [Qd Qs] and won 515 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #691442515785547960-4-1466429867 - Holdem no limit (20/40) - 2016/06/20 13:37:47 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #5 is the button
+Seat 1: Evelynez (3000)
+Seat 2: bad34000 (2770)
+Seat 3: manggy94 (2680)
+Seat 4: rico838313 (430)
+Seat 5: barette11 (3040)
+Seat 6: raideuse (6110)
+Seat 7: 1961GYG34 (3000)
+Seat 8: RevNext (2970)
+*** ANTE/BLINDS ***
+raideuse posts small blind 20
+1961GYG34 posts big blind 40
+Dealt to manggy94 [2h Kc]
+*** PRE-FLOP *** 
+RevNext folds
+Evelynez folds
+bad34000 folds
+manggy94 folds
+rico838313 raises 390 to 430 and is all-in
+barette11 raises 2610 to 3040 and is all-in
+raideuse folds
+1961GYG34 folds
+*** FLOP *** [9h 9c 9s]
+*** TURN *** [9h 9c 9s][3s]
+*** RIVER *** [9h 9c 9s 3s][6d]
+*** SHOW DOWN ***
+rico838313 shows [Jd Td] (Trips of 9)
+barette11 shows [Kh Ks] (Full of 9 and Kings)
+barette11 collected 3530 from pot
+*** SUMMARY ***
+Total pot 3530 | No rake
+Board: [9h 9c 9s 3s 6d]
+Seat 4: rico838313 showed [Jd Td] and lost with Trips of 9
+Seat 5: barette11 (button) showed [Kh Ks] and won 3530 with Full of 9 and Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #691442515785547960-5-1466429897 - Holdem no limit (20/40) - 2016/06/20 13:38:17 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #6 is the button
+Seat 1: Evelynez (3000)
+Seat 2: bad34000 (2770)
+Seat 3: manggy94 (2680)
+Seat 5: barette11 (3530)
+Seat 6: raideuse (6090)
+Seat 7: 1961GYG34 (2960)
+Seat 8: RevNext (2970)
+*** ANTE/BLINDS ***
+1961GYG34 posts small blind 20
+RevNext posts big blind 40
+Dealt to manggy94 [3s Tc]
+*** PRE-FLOP *** 
+Evelynez folds
+bad34000 folds
+manggy94 folds
+barette11 folds
+raideuse folds
+1961GYG34 folds
+RevNext collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 8: RevNext (big blind) won 60
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #691442515785547960-6-1466429906 - Holdem no limit (20/40) - 2016/06/20 13:38:26 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #7 is the button
+Seat 1: Evelynez (3000)
+Seat 2: bad34000 (2770)
+Seat 3: manggy94 (2680)
+Seat 4: troll (3000)
+Seat 5: barette11 (3530)
+Seat 6: raideuse (6090)
+Seat 7: 1961GYG34 (2940)
+Seat 8: RevNext (2990)
+*** ANTE/BLINDS ***
+RevNext posts small blind 20
+Evelynez posts big blind 40
+Dealt to manggy94 [As 6s]
+*** PRE-FLOP *** 
+bad34000 folds
+manggy94 calls 40
+troll folds
+barette11 folds
+raideuse calls 40
+1961GYG34 calls 40
+RevNext folds
+Evelynez folds
+*** FLOP *** [Tc 2d Ah]
+manggy94 bets 180
+raideuse folds
+1961GYG34 calls 180
+*** TURN *** [Tc 2d Ah][4s]
+manggy94 checks
+1961GYG34 checks
+*** RIVER *** [Tc 2d Ah 4s][6c]
+manggy94 bets 270
+1961GYG34 calls 270
+*** SHOW DOWN ***
+1961GYG34 shows [Kh Td] (One pair : Tens)
+manggy94 shows [As 6s] (Two pairs : Aces and 6)
+manggy94 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [Tc 2d Ah 4s 6c]
+Seat 3: manggy94 showed [As 6s] and won 1080 with Two pairs : Aces and 6
+Seat 7: 1961GYG34 (button) showed [Kh Td] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #691442515785547960-7-1466429990 - Holdem no limit (30/60) - 2016/06/20 13:39:50 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #8 is the button
+Seat 1: Evelynez (2960)
+Seat 2: bad34000 (2770)
+Seat 3: manggy94 (3270)
+Seat 4: troll (3000)
+Seat 5: barette11 (3530)
+Seat 6: raideuse (6050)
+Seat 7: 1961GYG34 (2450)
+Seat 8: RevNext (2970)
+*** ANTE/BLINDS ***
+Evelynez posts small blind 30
+bad34000 posts big blind 60
+Dealt to manggy94 [Tc 6s]
+*** PRE-FLOP *** 
+manggy94 folds
+troll folds
+barette11 folds
+raideuse raises 240 to 300
+1961GYG34 folds
+RevNext folds
+Evelynez folds
+bad34000 calls 240
+*** FLOP *** [Jd Th 4h]
+bad34000 checks
+raideuse bets 630
+bad34000 calls 630
+*** TURN *** [Jd Th 4h][Jh]
+bad34000 checks
+raideuse bets 1890
+bad34000 folds
+raideuse collected 3780 from pot
+*** SUMMARY ***
+Total pot 3780 | No rake
+Board: [Jd Th 4h Jh]
+Seat 6: raideuse won 3780
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #691442515785547960-8-1466430146 - Holdem no limit (40/80) - 2016/06/20 13:42:26 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #1 is the button
+Seat 1: Evelynez (2930)
+Seat 2: bad34000 (1840)
+Seat 3: manggy94 (3270)
+Seat 4: troll (3000)
+Seat 5: barette11 (3530)
+Seat 6: raideuse (7010)
+Seat 7: 1961GYG34 (2450)
+Seat 8: RevNext (2970)
+*** ANTE/BLINDS ***
+bad34000 posts small blind 40
+manggy94 posts big blind 80
+Dealt to manggy94 [Ks 2h]
+*** PRE-FLOP *** 
+troll folds
+barette11 folds
+raideuse calls 80
+1961GYG34 folds
+RevNext folds
+Evelynez folds
+bad34000 folds
+manggy94 checks
+*** FLOP *** [Ah Qs 5h]
+manggy94 bets 100
+raideuse folds
+manggy94 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Ah Qs 5h]
+Seat 3: manggy94 (big blind) won 300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #691442515785547960-9-1466430198 - Holdem no limit (40/80) - 2016/06/20 13:43:18 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #2 is the button
+Seat 1: Evelynez (2930)
+Seat 2: bad34000 (1800)
+Seat 3: manggy94 (3390)
+Seat 4: troll (3000)
+Seat 5: barette11 (3530)
+Seat 6: raideuse (6930)
+Seat 7: 1961GYG34 (2450)
+Seat 8: RevNext (2970)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 40
+troll posts big blind 80
+Dealt to manggy94 [9h Qs]
+*** PRE-FLOP *** 
+barette11 folds
+raideuse folds
+1961GYG34 folds
+RevNext folds
+Evelynez folds
+bad34000 calls 80
+manggy94 calls 40
+troll checks
+*** FLOP *** [Ad 9d 3s]
+manggy94 checks
+troll bets 80
+bad34000 calls 80
+manggy94 calls 80
+*** TURN *** [Ad 9d 3s][2c]
+manggy94 checks
+troll bets 80
+bad34000 raises 80 to 160
+manggy94 folds
+troll raises 80 to 240
+bad34000 raises 80 to 320
+troll raises 80 to 400
+bad34000 raises 80 to 480
+troll raises 80 to 560
+bad34000 raises 80 to 640
+troll raises 80 to 720
+bad34000 raises 80 to 800
+troll raises 80 to 880
+bad34000 raises 80 to 960
+troll raises 1880 to 2840 and is all-in
+bad34000 calls 680 and is all-in
+*** RIVER *** [Ad 9d 3s 2c][8h]
+*** SHOW DOWN ***
+bad34000 shows [Ah 7s] (One pair : Aces)
+troll shows [As 9c] (Two pairs : Aces and 9)
+troll collected 4960 from pot
+*** SUMMARY ***
+Total pot 4960 | No rake
+Board: [Ad 9d 3s 2c 8h]
+Seat 2: bad34000 (button) showed [Ah 7s] and lost with One pair : Aces
+Seat 4: troll (big blind) showed [As 9c] and won 4960 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #691442515785547960-10-1466430281 - Holdem no limit (40/80) - 2016/06/20 13:44:41 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #3 is the button
+Seat 1: Evelynez (2930)
+Seat 2: Merlin29aber (3000)
+Seat 3: manggy94 (3230)
+Seat 4: troll (4960)
+Seat 5: barette11 (3530)
+Seat 6: raideuse (6930)
+Seat 7: 1961GYG34 (2450)
+Seat 8: RevNext (2970)
+*** ANTE/BLINDS ***
+troll posts small blind 40
+barette11 posts big blind 80
+Dealt to manggy94 [4h Kd]
+*** PRE-FLOP *** 
+raideuse folds
+1961GYG34 folds
+RevNext folds
+Evelynez folds
+Merlin29aber folds
+manggy94 calls 80
+troll folds
+barette11 checks
+*** FLOP *** [9c Ad 3s]
+barette11 checks
+manggy94 bets 100
+barette11 folds
+manggy94 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [9c Ad 3s]
+Seat 3: manggy94 (button) won 300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #691442515785547960-11-1466430327 - Holdem no limit (60/120) - 2016/06/20 13:45:27 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #4 is the button
+Seat 1: Evelynez (2930)
+Seat 2: Merlin29aber (3000)
+Seat 3: manggy94 (3350)
+Seat 4: troll (4920)
+Seat 5: barette11 (3450)
+Seat 6: raideuse (6930)
+Seat 7: 1961GYG34 (2450)
+Seat 8: RevNext (2970)
+*** ANTE/BLINDS ***
+barette11 posts small blind 60
+raideuse posts big blind 120
+Dealt to manggy94 [Jc Qc]
+*** PRE-FLOP *** 
+1961GYG34 folds
+RevNext calls 120
+Evelynez folds
+Merlin29aber folds
+manggy94 calls 120
+troll folds
+barette11 calls 60
+raideuse checks
+*** FLOP *** [7s 7d 2h]
+barette11 checks
+raideuse checks
+RevNext bets 120
+manggy94 folds
+barette11 folds
+raideuse calls 120
+*** TURN *** [7s 7d 2h][3d]
+raideuse checks
+RevNext checks
+*** RIVER *** [7s 7d 2h 3d][6c]
+raideuse bets 120
+RevNext folds
+raideuse collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [7s 7d 2h 3d 6c]
+Seat 6: raideuse (big blind) won 840
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #691442515785547960-12-1466430403 - Holdem no limit (60/120) - 2016/06/20 13:46:43 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #5 is the button
+Seat 1: Evelynez (2930)
+Seat 2: Merlin29aber (3000)
+Seat 3: manggy94 (3230)
+Seat 4: troll (4920)
+Seat 5: barette11 (3330)
+Seat 6: raideuse (7410)
+Seat 7: 1961GYG34 (2450)
+Seat 8: RevNext (2730)
+*** ANTE/BLINDS ***
+raideuse posts small blind 60
+1961GYG34 posts big blind 120
+Dealt to manggy94 [Ts 5h]
+*** PRE-FLOP *** 
+RevNext raises 2610 to 2730 and is all-in
+Evelynez folds
+Merlin29aber folds
+manggy94 folds
+troll folds
+barette11 folds
+raideuse folds
+1961GYG34 folds
+RevNext collected 2910 from pot
+*** SUMMARY ***
+Total pot 2910 | No rake
+Seat 8: RevNext won 2910
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #691442515785547960-13-1466430442 - Holdem no limit (60/120) - 2016/06/20 13:47:22 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #6 is the button
+Seat 1: Evelynez (2930)
+Seat 2: Merlin29aber (3000)
+Seat 3: manggy94 (3230)
+Seat 4: troll (4920)
+Seat 5: barette11 (3330)
+Seat 6: raideuse (7350)
+Seat 7: 1961GYG34 (2330)
+Seat 8: RevNext (2910)
+*** ANTE/BLINDS ***
+1961GYG34 posts small blind 60
+RevNext posts big blind 120
+Dealt to manggy94 [8d 4h]
+*** PRE-FLOP *** 
+Evelynez folds
+Merlin29aber raises 360 to 480
+manggy94 folds
+troll folds
+barette11 folds
+raideuse folds
+1961GYG34 folds
+RevNext calls 360
+*** FLOP *** [Ah Qs Ad]
+RevNext checks
+Merlin29aber bets 840
+RevNext folds
+Merlin29aber collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Board: [Ah Qs Ad]
+Seat 2: Merlin29aber won 1860
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #691442515785547960-14-1466430477 - Holdem no limit (60/120) - 2016/06/20 13:47:57 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #7 is the button
+Seat 1: Evelynez (2930)
+Seat 2: Merlin29aber (3540)
+Seat 3: manggy94 (3230)
+Seat 4: troll (4920)
+Seat 5: barette11 (3330)
+Seat 6: raideuse (7350)
+Seat 7: 1961GYG34 (2270)
+Seat 8: RevNext (2430)
+*** ANTE/BLINDS ***
+RevNext posts small blind 60
+Evelynez posts big blind 120
+Dealt to manggy94 [4h 6d]
+*** PRE-FLOP *** 
+Merlin29aber folds
+manggy94 folds
+troll folds
+barette11 calls 120
+raideuse calls 120
+1961GYG34 calls 120
+RevNext raises 2310 to 2430 and is all-in
+Evelynez folds
+barette11 folds
+raideuse folds
+1961GYG34 folds
+RevNext collected 2910 from pot
+*** SUMMARY ***
+Total pot 2910 | No rake
+Seat 8: RevNext (small blind) won 2910
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #691442515785547960-15-1466430520 - Holdem no limit (10/60/120) - 2016/06/20 13:48:40 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #8 is the button
+Seat 1: Evelynez (2810)
+Seat 2: Merlin29aber (3540)
+Seat 3: manggy94 (3230)
+Seat 4: troll (4920)
+Seat 5: barette11 (3210)
+Seat 6: raideuse (7230)
+Seat 7: 1961GYG34 (2150)
+Seat 8: RevNext (2910)
+*** ANTE/BLINDS ***
+Evelynez posts ante 10
+Merlin29aber posts ante 10
+manggy94 posts ante 10
+troll posts ante 10
+barette11 posts ante 10
+raideuse posts ante 10
+1961GYG34 posts ante 10
+RevNext posts ante 10
+Evelynez posts small blind 60
+Merlin29aber posts big blind 120
+Dealt to manggy94 [Ah Jd]
+*** PRE-FLOP *** 
+manggy94 raises 380 to 500
+troll folds
+barette11 folds
+raideuse folds
+1961GYG34 folds
+RevNext raises 2400 to 2900 and is all-in
+Evelynez folds
+Merlin29aber calls 2780
+manggy94 calls 2400
+*** FLOP *** [Qd 4c 3d]
+Merlin29aber checks
+manggy94 checks
+*** TURN *** [Qd 4c 3d][2h]
+Merlin29aber checks
+manggy94 checks
+*** RIVER *** [Qd 4c 3d 2h][5d]
+Merlin29aber checks
+manggy94 bets 320 and is all-in
+Merlin29aber calls 320
+*** SHOW DOWN ***
+Merlin29aber shows [9h 9c] (One pair : 9)
+RevNext shows [Jc Td] (High card : Queen)
+manggy94 shows [Ah Jd] (Straight 5 high)
+manggy94 collected 9480 from pot
+*** SUMMARY ***
+Total pot 9480 | No rake
+Board: [Qd 4c 3d 2h 5d]
+Seat 2: Merlin29aber (big blind) showed [9h 9c] and lost with One pair : 9
+Seat 3: manggy94 showed [Ah Jd] and won 9480 with Straight 5 high
+Seat 8: RevNext (button) showed [Jc Td] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #691442515785547960-16-1466430591 - Holdem no limit (10/60/120) - 2016/06/20 13:49:51 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #1 is the button
+Seat 1: Evelynez (2740)
+Seat 2: Merlin29aber (310)
+Seat 3: manggy94 (9480)
+Seat 4: troll (4910)
+Seat 5: barette11 (3200)
+Seat 6: raideuse (7220)
+Seat 7: 1961GYG34 (2140)
+*** ANTE/BLINDS ***
+Merlin29aber posts ante 10
+manggy94 posts ante 10
+Evelynez posts ante 10
+troll posts ante 10
+barette11 posts ante 10
+raideuse posts ante 10
+1961GYG34 posts ante 10
+Merlin29aber posts small blind 60
+manggy94 posts big blind 120
+Dealt to manggy94 [9c 5h]
+*** PRE-FLOP *** 
+troll folds
+barette11 calls 120
+raideuse calls 120
+1961GYG34 calls 120
+Evelynez folds
+Merlin29aber calls 60
+manggy94 checks
+*** FLOP *** [5s Td Ah]
+Merlin29aber bets 180 and is all-in
+manggy94 folds
+barette11 folds
+raideuse calls 180
+1961GYG34 raises 1210 to 1390
+raideuse calls 1210
+*** TURN *** [5s Td Ah][3d]
+raideuse bets 800
+1961GYG34 calls 620 and is all-in
+*** RIVER *** [5s Td Ah 3d][Jd]
+*** SHOW DOWN ***
+Merlin29aber shows [Ts 7h] (One pair : Tens)
+1961GYG34 shows [Ks Ad] (One pair : Aces)
+raideuse shows [8d As] (One pair : Aces)
+raideuse collected 180 from side pot 1
+1961GYG34 collected 4870 from main pot
+*** SUMMARY ***
+Total pot 5050 | No rake
+Board: [5s Td Ah 3d Jd]
+Seat 2: Merlin29aber (small blind) showed [Ts 7h] and lost with One pair : Tens
+Seat 6: raideuse showed [8d As] and won 180 with One pair : Aces
+Seat 7: 1961GYG34 showed [Ks Ad] and won 4870 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #691442515785547960-17-1466430689 - Holdem no limit (15/75/150) - 2016/06/20 13:51:29 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #2 is the button
+Seat 1: Evelynez (2730)
+Seat 3: manggy94 (9350)
+Seat 4: troll (4900)
+Seat 5: barette11 (3070)
+Seat 6: raideuse (5080)
+Seat 7: 1961GYG34 (4870)
+Seat 8: esteban3559 (2810)
+*** ANTE/BLINDS ***
+manggy94 posts ante 15
+troll posts ante 15
+Evelynez posts ante 15
+barette11 posts ante 15
+raideuse posts ante 15
+1961GYG34 posts ante 15
+esteban3559 posts ante 15
+manggy94 posts small blind 75
+troll posts big blind 150
+Dealt to manggy94 [4h 6d]
+*** PRE-FLOP *** 
+barette11 calls 150
+raideuse folds
+1961GYG34 raises 630 to 780
+esteban3559 folds
+Evelynez folds
+manggy94 folds
+troll folds
+barette11 calls 630
+*** FLOP *** [8c 7c Ah]
+barette11 checks
+1961GYG34 checks
+*** TURN *** [8c 7c Ah][9c]
+barette11 checks
+1961GYG34 bets 1890
+barette11 folds
+1961GYG34 collected 3780 from pot
+*** SUMMARY ***
+Total pot 3780 | No rake
+Board: [8c 7c Ah 9c]
+Seat 7: 1961GYG34 won 3780
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #691442515785547960-18-1466430749 - Holdem no limit (15/75/150) - 2016/06/20 13:52:29 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #3 is the button
+Seat 1: Evelynez (2715)
+Seat 2: Noah45700 (2645)
+Seat 3: manggy94 (9260)
+Seat 4: troll (4735)
+Seat 5: barette11 (2275)
+Seat 6: raideuse (5065)
+Seat 7: 1961GYG34 (5965)
+Seat 8: esteban3559 (2795)
+*** ANTE/BLINDS ***
+troll posts ante 15
+barette11 posts ante 15
+Evelynez posts ante 15
+Noah45700 posts ante 15
+manggy94 posts ante 15
+raideuse posts ante 15
+1961GYG34 posts ante 15
+esteban3559 posts ante 15
+troll posts small blind 75
+barette11 posts big blind 150
+Dealt to manggy94 [5s 9h]
+*** PRE-FLOP *** 
+raideuse folds
+1961GYG34 calls 150
+esteban3559 folds
+Evelynez folds
+Noah45700 folds
+manggy94 calls 150
+troll folds
+barette11 checks
+*** FLOP *** [9s 7d 7h]
+barette11 checks
+1961GYG34 checks
+manggy94 bets 323
+barette11 folds
+1961GYG34 folds
+manggy94 collected 968 from pot
+*** SUMMARY ***
+Total pot 968 | No rake
+Board: [9s 7d 7h]
+Seat 3: manggy94 (button) won 968
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #691442515785547960-19-1466430781 - Holdem no limit (15/75/150) - 2016/06/20 13:53:01 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #4 is the button
+Seat 1: Evelynez (2700)
+Seat 2: Noah45700 (2630)
+Seat 3: manggy94 (9740)
+Seat 4: troll (4645)
+Seat 5: barette11 (2110)
+Seat 6: raideuse (5050)
+Seat 7: 1961GYG34 (5800)
+Seat 8: esteban3559 (2780)
+*** ANTE/BLINDS ***
+barette11 posts ante 15
+raideuse posts ante 15
+Evelynez posts ante 15
+Noah45700 posts ante 15
+manggy94 posts ante 15
+troll posts ante 15
+1961GYG34 posts ante 15
+esteban3559 posts ante 15
+barette11 posts small blind 75
+raideuse posts big blind 150
+Dealt to manggy94 [8c 6h]
+*** PRE-FLOP *** 
+1961GYG34 folds
+esteban3559 folds
+Evelynez folds
+Noah45700 folds
+manggy94 folds
+troll folds
+barette11 calls 75
+raideuse checks
+*** FLOP *** [2h 6c Ks]
+barette11 checks
+raideuse checks
+*** TURN *** [2h 6c Ks][9s]
+barette11 checks
+raideuse bets 150
+barette11 folds
+raideuse collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [2h 6c Ks 9s]
+Seat 6: raideuse (big blind) won 570
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #691442515785547960-20-1466430841 - Holdem no limit (15/75/150) - 2016/06/20 13:54:01 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #5 is the button
+Seat 1: Evelynez (2685)
+Seat 2: Noah45700 (2615)
+Seat 3: manggy94 (9725)
+Seat 4: troll (4630)
+Seat 5: barette11 (1945)
+Seat 6: raideuse (5305)
+Seat 7: 1961GYG34 (5785)
+Seat 8: esteban3559 (2765)
+*** ANTE/BLINDS ***
+raideuse posts ante 15
+1961GYG34 posts ante 15
+Evelynez posts ante 15
+Noah45700 posts ante 15
+manggy94 posts ante 15
+troll posts ante 15
+barette11 posts ante 15
+esteban3559 posts ante 15
+raideuse posts small blind 75
+1961GYG34 posts big blind 150
+Dealt to manggy94 [8h 3c]
+*** PRE-FLOP *** 
+esteban3559 folds
+Evelynez folds
+Noah45700 folds
+manggy94 folds
+troll folds
+barette11 folds
+raideuse folds
+1961GYG34 collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Seat 7: 1961GYG34 (big blind) won 345
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #691442515785547960-21-1466430859 - Holdem no limit (15/75/150) - 2016/06/20 13:54:19 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #6 is the button
+Seat 1: Evelynez (2670)
+Seat 2: Noah45700 (2600)
+Seat 3: manggy94 (9710)
+Seat 4: troll (4615)
+Seat 5: barette11 (1930)
+Seat 6: raideuse (5215)
+Seat 7: 1961GYG34 (5965)
+Seat 8: esteban3559 (2750)
+*** ANTE/BLINDS ***
+1961GYG34 posts ante 15
+esteban3559 posts ante 15
+Evelynez posts ante 15
+Noah45700 posts ante 15
+manggy94 posts ante 15
+troll posts ante 15
+barette11 posts ante 15
+raideuse posts ante 15
+1961GYG34 posts small blind 75
+esteban3559 posts big blind 150
+Dealt to manggy94 [Qs As]
+*** PRE-FLOP *** 
+Evelynez folds
+Noah45700 folds
+manggy94 raises 375 to 525
+troll folds
+barette11 folds
+raideuse folds
+1961GYG34 folds
+esteban3559 folds
+manggy94 collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Seat 3: manggy94 won 870
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #691442515785547960-22-1466430887 - Holdem no limit (20/100/200) - 2016/06/20 13:54:47 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #7 is the button
+Seat 1: Evelynez (2655)
+Seat 2: Noah45700 (2585)
+Seat 3: manggy94 (10040)
+Seat 4: troll (4600)
+Seat 5: barette11 (1915)
+Seat 6: raideuse (5200)
+Seat 7: 1961GYG34 (5875)
+Seat 8: esteban3559 (2585)
+*** ANTE/BLINDS ***
+esteban3559 posts ante 20
+Evelynez posts ante 20
+Noah45700 posts ante 20
+manggy94 posts ante 20
+troll posts ante 20
+barette11 posts ante 20
+raideuse posts ante 20
+1961GYG34 posts ante 20
+esteban3559 posts small blind 100
+Evelynez posts big blind 200
+Dealt to manggy94 [Td Qd]
+*** PRE-FLOP *** 
+Noah45700 folds
+manggy94 calls 200
+troll folds
+barette11 raises 1695 to 1895 and is all-in
+raideuse folds
+1961GYG34 folds
+esteban3559 folds
+Evelynez folds
+manggy94 folds
+barette11 collected 2555 from pot
+*** SUMMARY ***
+Total pot 2555 | No rake
+Seat 5: barette11 won 2555
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #691442515785547960-23-1466431202 - Holdem no limit (20/100/200) - 2016/06/20 14:00:02 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #8 is the button
+Seat 1: Evelynez (2435)
+Seat 2: Noah45700 (2565)
+Seat 3: manggy94 (9820)
+Seat 4: troll (4580)
+Seat 5: barette11 (2555)
+Seat 6: raideuse (5180)
+Seat 7: 1961GYG34 (5855)
+Seat 8: esteban3559 (2465)
+*** ANTE/BLINDS ***
+Evelynez posts ante 20
+Noah45700 posts ante 20
+manggy94 posts ante 20
+troll posts ante 20
+barette11 posts ante 20
+raideuse posts ante 20
+1961GYG34 posts ante 20
+esteban3559 posts ante 20
+Evelynez posts small blind 100
+Noah45700 posts big blind 200
+Dealt to manggy94 [Kc 8h]
+*** PRE-FLOP *** 
+manggy94 calls 200
+troll folds
+barette11 folds
+raideuse calls 200
+1961GYG34 calls 200
+esteban3559 folds
+Evelynez folds
+Noah45700 folds
+*** FLOP *** [9s Ac 3s]
+manggy94 bets 200
+raideuse raises 4760 to 4960 and is all-in
+1961GYG34 folds
+manggy94 folds
+raideuse collected 6220 from pot
+*** SUMMARY ***
+Total pot 6220 | No rake
+Board: [9s Ac 3s]
+Seat 6: raideuse won 6220
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #691442515785547960-24-1466431273 - Holdem no limit (20/100/200) - 2016/06/20 14:01:13 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #1 is the button
+Seat 1: Evelynez (2315)
+Seat 2: Noah45700 (2345)
+Seat 3: manggy94 (9400)
+Seat 4: troll (4560)
+Seat 5: barette11 (2535)
+Seat 6: raideuse (6220)
+Seat 7: 1961GYG34 (5635)
+Seat 8: esteban3559 (2445)
+*** ANTE/BLINDS ***
+Noah45700 posts ante 20
+manggy94 posts ante 20
+Evelynez posts ante 20
+troll posts ante 20
+barette11 posts ante 20
+raideuse posts ante 20
+1961GYG34 posts ante 20
+esteban3559 posts ante 20
+Noah45700 posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [Qh 3s]
+*** PRE-FLOP *** 
+troll folds
+barette11 calls 200
+raideuse folds
+1961GYG34 calls 200
+esteban3559 folds
+Evelynez folds
+Noah45700 folds
+manggy94 checks
+*** FLOP *** [Kc Qd 2s]
+manggy94 checks
+barette11 bets 200
+1961GYG34 calls 200
+manggy94 calls 200
+*** TURN *** [Kc Qd 2s][7h]
+manggy94 checks
+barette11 bets 200
+1961GYG34 calls 200
+manggy94 calls 200
+*** RIVER *** [Kc Qd 2s 7h][8d]
+manggy94 checks
+barette11 bets 200
+1961GYG34 calls 200
+manggy94 calls 200
+*** SHOW DOWN ***
+manggy94 shows [Qh 3s] (One pair : Queens)
+1961GYG34 shows [As 7s] (One pair : 7)
+barette11 shows [Jh Ks] (One pair : Kings)
+barette11 collected 2660 from pot
+*** SUMMARY ***
+Total pot 2660 | No rake
+Board: [Kc Qd 2s 7h 8d]
+Seat 3: manggy94 (big blind) showed [Qh 3s] and lost with One pair : Queens
+Seat 5: barette11 showed [Jh Ks] and won 2660 with One pair : Kings
+Seat 7: 1961GYG34 showed [As 7s] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #691442515785547960-25-1466431362 - Holdem no limit (25/125/250) - 2016/06/20 14:02:42 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #2 is the button
+Seat 1: Evelynez (2295)
+Seat 2: Noah45700 (2225)
+Seat 3: manggy94 (8580)
+Seat 4: troll (4540)
+Seat 5: barette11 (4375)
+Seat 6: raideuse (6200)
+Seat 7: 1961GYG34 (4815)
+Seat 8: esteban3559 (2425)
+*** ANTE/BLINDS ***
+manggy94 posts ante 25
+troll posts ante 25
+Evelynez posts ante 25
+Noah45700 posts ante 25
+barette11 posts ante 25
+raideuse posts ante 25
+1961GYG34 posts ante 25
+esteban3559 posts ante 25
+manggy94 posts small blind 125
+troll posts big blind 250
+Dealt to manggy94 [Th 9h]
+*** PRE-FLOP *** 
+barette11 folds
+raideuse calls 250
+1961GYG34 folds
+esteban3559 folds
+Evelynez folds
+Noah45700 folds
+manggy94 calls 125
+troll checks
+*** FLOP *** [7c 9d Qc]
+manggy94 bets 950
+troll folds
+raideuse folds
+manggy94 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Board: [7c 9d Qc]
+Seat 3: manggy94 (small blind) won 1900
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #691442515785547960-26-1466431400 - Holdem no limit (25/125/250) - 2016/06/20 14:03:20 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #3 is the button
+Seat 1: Evelynez (2270)
+Seat 2: Noah45700 (2200)
+Seat 3: manggy94 (9255)
+Seat 4: troll (4265)
+Seat 5: barette11 (4350)
+Seat 6: raideuse (5925)
+Seat 7: 1961GYG34 (4790)
+Seat 8: esteban3559 (2400)
+*** ANTE/BLINDS ***
+troll posts ante 25
+barette11 posts ante 25
+Evelynez posts ante 25
+Noah45700 posts ante 25
+manggy94 posts ante 25
+raideuse posts ante 25
+1961GYG34 posts ante 25
+esteban3559 posts ante 25
+troll posts small blind 125
+barette11 posts big blind 250
+Dealt to manggy94 [Js 5h]
+*** PRE-FLOP *** 
+raideuse folds
+1961GYG34 folds
+esteban3559 folds
+Evelynez folds
+Noah45700 folds
+manggy94 folds
+troll folds
+barette11 collected 575 from pot
+*** SUMMARY ***
+Total pot 575 | No rake
+Seat 5: barette11 (big blind) won 575
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #691442515785547960-27-1466431422 - Holdem no limit (25/125/250) - 2016/06/20 14:03:42 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #4 is the button
+Seat 1: Evelynez (2245)
+Seat 2: Noah45700 (2175)
+Seat 3: manggy94 (9230)
+Seat 4: troll (4115)
+Seat 5: barette11 (4650)
+Seat 6: raideuse (5900)
+Seat 7: 1961GYG34 (4765)
+Seat 8: esteban3559 (2375)
+*** ANTE/BLINDS ***
+barette11 posts ante 25
+raideuse posts ante 25
+Evelynez posts ante 25
+Noah45700 posts ante 25
+manggy94 posts ante 25
+troll posts ante 25
+1961GYG34 posts ante 25
+esteban3559 posts ante 25
+barette11 posts small blind 125
+raideuse posts big blind 250
+Dealt to manggy94 [4c Kd]
+*** PRE-FLOP *** 
+1961GYG34 folds
+esteban3559 folds
+Evelynez folds
+Noah45700 folds
+manggy94 folds
+troll folds
+barette11 folds
+raideuse collected 575 from pot
+*** SUMMARY ***
+Total pot 575 | No rake
+Seat 6: raideuse (big blind) won 575
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #691442515785547960-28-1466431461 - Holdem no limit (25/125/250) - 2016/06/20 14:04:21 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #5 is the button
+Seat 1: Evelynez (2220)
+Seat 2: Noah45700 (2150)
+Seat 3: manggy94 (9205)
+Seat 4: troll (4090)
+Seat 5: barette11 (4500)
+Seat 6: raideuse (6200)
+Seat 7: 1961GYG34 (4740)
+Seat 8: esteban3559 (2350)
+*** ANTE/BLINDS ***
+raideuse posts ante 25
+1961GYG34 posts ante 25
+Evelynez posts ante 25
+Noah45700 posts ante 25
+manggy94 posts ante 25
+troll posts ante 25
+barette11 posts ante 25
+esteban3559 posts ante 25
+raideuse posts small blind 125
+1961GYG34 posts big blind 250
+Dealt to manggy94 [Ad 9s]
+*** PRE-FLOP *** 
+esteban3559 folds
+Evelynez folds
+Noah45700 folds
+manggy94 raises 250 to 500
+troll calls 500
+barette11 calls 500
+raideuse folds
+1961GYG34 calls 250
+*** FLOP *** [3s 2h 3c]
+1961GYG34 checks
+manggy94 checks
+troll checks
+barette11 checks
+*** TURN *** [3s 2h 3c][Kh]
+1961GYG34 checks
+manggy94 bets 250
+troll calls 250
+barette11 calls 250
+1961GYG34 calls 250
+*** RIVER *** [3s 2h 3c Kh][Jc]
+1961GYG34 checks
+manggy94 checks
+troll checks
+barette11 checks
+*** SHOW DOWN ***
+manggy94 shows [Ad 9s] (One pair : 3)
+troll shows [7h Jh] (Two pairs : Jacks and 3)
+barette11 shows [Ac Qd] (One pair : 3)
+1961GYG34 shows [Qh Kc] (Two pairs : Kings and 3)
+1961GYG34 collected 3325 from pot
+*** SUMMARY ***
+Total pot 3325 | No rake
+Board: [3s 2h 3c Kh Jc]
+Seat 3: manggy94 showed [Ad 9s] and lost with One pair : 3
+Seat 4: troll showed [7h Jh] and lost with Two pairs : Jacks and 3
+Seat 5: barette11 (button) showed [Ac Qd] and lost with One pair : 3
+Seat 7: 1961GYG34 (big blind) showed [Qh Kc] and won 3325 with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #691442515785547960-29-1466431557 - Holdem no limit (35/150/300) - 2016/06/20 14:05:57 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #6 is the button
+Seat 1: Evelynez (2195)
+Seat 2: Noah45700 (2125)
+Seat 3: manggy94 (8430)
+Seat 4: troll (3315)
+Seat 5: barette11 (3725)
+Seat 6: raideuse (6050)
+Seat 7: 1961GYG34 (7290)
+Seat 8: esteban3559 (2325)
+*** ANTE/BLINDS ***
+1961GYG34 posts ante 35
+esteban3559 posts ante 35
+Evelynez posts ante 35
+Noah45700 posts ante 35
+manggy94 posts ante 35
+troll posts ante 35
+barette11 posts ante 35
+raideuse posts ante 35
+1961GYG34 posts small blind 150
+esteban3559 posts big blind 300
+Dealt to manggy94 [Jc Ts]
+*** PRE-FLOP *** 
+Evelynez folds
+Noah45700 folds
+manggy94 calls 300
+troll folds
+barette11 folds
+raideuse calls 300
+1961GYG34 folds
+esteban3559 folds
+*** FLOP *** [8c 4s Ac]
+manggy94 checks
+raideuse bets 300
+manggy94 calls 300
+*** TURN *** [8c 4s Ac][6s]
+manggy94 checks
+raideuse checks
+*** RIVER *** [8c 4s Ac 6s][Ad]
+manggy94 checks
+raideuse bets 300
+manggy94 folds
+raideuse collected 2230 from pot
+*** SUMMARY ***
+Total pot 2230 | No rake
+Board: [8c 4s Ac 6s Ad]
+Seat 6: raideuse (button) won 2230
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #691442515785547960-30-1466431614 - Holdem no limit (35/150/300) - 2016/06/20 14:06:54 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #7 is the button
+Seat 1: Evelynez (2160)
+Seat 2: Noah45700 (2090)
+Seat 3: manggy94 (7795)
+Seat 4: troll (3280)
+Seat 5: barette11 (3690)
+Seat 6: raideuse (7345)
+Seat 7: 1961GYG34 (7105)
+Seat 8: esteban3559 (1990)
+*** ANTE/BLINDS ***
+esteban3559 posts ante 35
+Evelynez posts ante 35
+Noah45700 posts ante 35
+manggy94 posts ante 35
+troll posts ante 35
+barette11 posts ante 35
+raideuse posts ante 35
+1961GYG34 posts ante 35
+esteban3559 posts small blind 150
+Evelynez posts big blind 300
+Dealt to manggy94 [Ah 8c]
+*** PRE-FLOP *** 
+Noah45700 folds
+manggy94 calls 300
+troll folds
+barette11 folds
+raideuse folds
+1961GYG34 calls 300
+esteban3559 folds
+Evelynez folds
+*** FLOP *** [Jh Ac Th]
+manggy94 bets 300
+1961GYG34 calls 300
+*** TURN *** [Jh Ac Th][3h]
+manggy94 checks
+1961GYG34 checks
+*** RIVER *** [Jh Ac Th 3h][8h]
+manggy94 bets 965
+1961GYG34 folds
+manggy94 collected 2895 from pot
+*** SUMMARY ***
+Total pot 2895 | No rake
+Board: [Jh Ac Th 3h 8h]
+Seat 3: manggy94 won 2895
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #691442515785547960-31-1466431653 - Holdem no limit (35/150/300) - 2016/06/20 14:07:33 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #8 is the button
+Seat 1: Evelynez (1825)
+Seat 2: Noah45700 (2055)
+Seat 3: manggy94 (9090)
+Seat 4: troll (3245)
+Seat 5: barette11 (3655)
+Seat 6: raideuse (7310)
+Seat 7: 1961GYG34 (6470)
+Seat 8: esteban3559 (1805)
+*** ANTE/BLINDS ***
+Evelynez posts ante 35
+Noah45700 posts ante 35
+manggy94 posts ante 35
+troll posts ante 35
+barette11 posts ante 35
+raideuse posts ante 35
+1961GYG34 posts ante 35
+esteban3559 posts ante 35
+Evelynez posts small blind 150
+Noah45700 posts big blind 300
+Dealt to manggy94 [Jd 3h]
+*** PRE-FLOP *** 
+manggy94 folds
+troll folds
+barette11 folds
+raideuse folds
+1961GYG34 calls 300
+esteban3559 folds
+Evelynez folds
+Noah45700 folds
+1961GYG34 collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | No rake
+Seat 7: 1961GYG34 won 1030
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #691442515785547960-32-1466431669 - Holdem no limit (35/150/300) - 2016/06/20 14:07:49 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #1 is the button
+Seat 1: Evelynez (1640)
+Seat 2: Noah45700 (1720)
+Seat 3: manggy94 (9055)
+Seat 4: troll (3210)
+Seat 5: barette11 (3620)
+Seat 6: raideuse (7275)
+Seat 7: 1961GYG34 (7165)
+Seat 8: esteban3559 (1770)
+*** ANTE/BLINDS ***
+Noah45700 posts ante 35
+manggy94 posts ante 35
+Evelynez posts ante 35
+troll posts ante 35
+barette11 posts ante 35
+raideuse posts ante 35
+1961GYG34 posts ante 35
+esteban3559 posts ante 35
+Noah45700 posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [2s 5c]
+*** PRE-FLOP *** 
+troll folds
+barette11 folds
+raideuse folds
+1961GYG34 folds
+esteban3559 folds
+Evelynez folds
+Noah45700 folds
+manggy94 collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | No rake
+Seat 3: manggy94 (big blind) won 730
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #691442515785547960-33-1466431692 - Holdem no limit (35/150/300) - 2016/06/20 14:08:12 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #2 is the button
+Seat 1: Evelynez (1605)
+Seat 2: Noah45700 (1535)
+Seat 3: manggy94 (9450)
+Seat 4: troll (3175)
+Seat 5: barette11 (3585)
+Seat 6: raideuse (7240)
+Seat 7: 1961GYG34 (7130)
+Seat 8: esteban3559 (1735)
+*** ANTE/BLINDS ***
+manggy94 posts ante 35
+troll posts ante 35
+Evelynez posts ante 35
+Noah45700 posts ante 35
+barette11 posts ante 35
+raideuse posts ante 35
+1961GYG34 posts ante 35
+esteban3559 posts ante 35
+manggy94 posts small blind 150
+troll posts big blind 300
+Dealt to manggy94 [2s Td]
+*** PRE-FLOP *** 
+barette11 folds
+raideuse folds
+1961GYG34 folds
+esteban3559 folds
+Evelynez folds
+Noah45700 folds
+manggy94 calls 150
+troll raises 300 to 600
+manggy94 calls 300
+*** FLOP *** [9s 4s Kh]
+manggy94 bets 740
+troll calls 740
+*** TURN *** [9s 4s Kh][8c]
+manggy94 bets 1480
+troll calls 1480
+*** RIVER *** [9s 4s Kh 8c][4h]
+manggy94 checks
+troll checks
+*** SHOW DOWN ***
+manggy94 shows [2s Td] (One pair : 4)
+troll shows [Jd Jc] (Two pairs : Jacks and 4)
+troll collected 5920 from pot
+*** SUMMARY ***
+Total pot 5920 | No rake
+Board: [9s 4s Kh 8c 4h]
+Seat 3: manggy94 (small blind) showed [2s Td] and lost with One pair : 4
+Seat 4: troll (big blind) showed [Jd Jc] and won 5920 with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #691442515785547960-34-1466431757 - Holdem no limit (40/200/400) - 2016/06/20 14:09:17 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #3 is the button
+Seat 1: Evelynez (1570)
+Seat 2: Noah45700 (1500)
+Seat 3: manggy94 (6595)
+Seat 4: troll (6240)
+Seat 5: barette11 (3550)
+Seat 6: raideuse (7205)
+Seat 7: 1961GYG34 (7095)
+Seat 8: esteban3559 (1700)
+*** ANTE/BLINDS ***
+troll posts ante 40
+barette11 posts ante 40
+Evelynez posts ante 40
+Noah45700 posts ante 40
+manggy94 posts ante 40
+raideuse posts ante 40
+1961GYG34 posts ante 40
+esteban3559 posts ante 40
+troll posts small blind 200
+barette11 posts big blind 400
+Dealt to manggy94 [4c 2d]
+*** PRE-FLOP *** 
+raideuse calls 400
+1961GYG34 folds
+esteban3559 folds
+Evelynez folds
+Noah45700 folds
+manggy94 folds
+troll calls 200
+barette11 checks
+*** FLOP *** [Jh 4h Ah]
+troll checks
+barette11 checks
+raideuse checks
+*** TURN *** [Jh 4h Ah][9s]
+troll bets 400
+barette11 calls 400
+raideuse folds
+*** RIVER *** [Jh 4h Ah 9s][7s]
+troll bets 400
+barette11 folds
+troll collected 2720 from pot
+*** SUMMARY ***
+Total pot 2720 | No rake
+Board: [Jh 4h Ah 9s 7s]
+Seat 4: troll (small blind) won 2720
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #691442515785547960-35-1466431810 - Holdem no limit (40/200/400) - 2016/06/20 14:10:10 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #4 is the button
+Seat 1: Evelynez (1530)
+Seat 2: Noah45700 (1460)
+Seat 3: manggy94 (6555)
+Seat 4: troll (7720)
+Seat 5: barette11 (2710)
+Seat 6: raideuse (6765)
+Seat 7: 1961GYG34 (7055)
+Seat 8: esteban3559 (1660)
+*** ANTE/BLINDS ***
+barette11 posts ante 40
+raideuse posts ante 40
+Evelynez posts ante 40
+Noah45700 posts ante 40
+manggy94 posts ante 40
+troll posts ante 40
+1961GYG34 posts ante 40
+esteban3559 posts ante 40
+barette11 posts small blind 200
+raideuse posts big blind 400
+Dealt to manggy94 [9s 2c]
+*** PRE-FLOP *** 
+1961GYG34 folds
+esteban3559 folds
+Evelynez folds
+Noah45700 folds
+manggy94 folds
+troll folds
+barette11 calls 200
+raideuse checks
+*** FLOP *** [Qh 4h Kc]
+barette11 checks
+raideuse checks
+*** TURN *** [Qh 4h Kc][3h]
+barette11 bets 400
+raideuse folds
+barette11 collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Board: [Qh 4h Kc 3h]
+Seat 5: barette11 (small blind) won 1520
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #691442515785547960-36-1466431841 - Holdem no limit (40/200/400) - 2016/06/20 14:10:41 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #5 is the button
+Seat 1: Evelynez (1490)
+Seat 2: Noah45700 (1420)
+Seat 3: manggy94 (6515)
+Seat 4: troll (7680)
+Seat 5: barette11 (3390)
+Seat 6: raideuse (6325)
+Seat 7: 1961GYG34 (7015)
+Seat 8: esteban3559 (1620)
+*** ANTE/BLINDS ***
+raideuse posts ante 40
+1961GYG34 posts ante 40
+Evelynez posts ante 40
+Noah45700 posts ante 40
+manggy94 posts ante 40
+troll posts ante 40
+barette11 posts ante 40
+esteban3559 posts ante 40
+raideuse posts small blind 200
+1961GYG34 posts big blind 400
+Dealt to manggy94 [Ts 2h]
+*** PRE-FLOP *** 
+esteban3559 folds
+Evelynez folds
+Noah45700 folds
+manggy94 folds
+troll folds
+barette11 raises 2950 to 3350 and is all-in
+raideuse folds
+1961GYG34 folds
+barette11 collected 4270 from pot
+*** SUMMARY ***
+Total pot 4270 | No rake
+Seat 5: barette11 (button) won 4270
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #691442515785547960-37-1466431870 - Holdem no limit (40/200/400) - 2016/06/20 14:11:10 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #6 is the button
+Seat 1: Evelynez (1450)
+Seat 2: Noah45700 (1380)
+Seat 3: manggy94 (6475)
+Seat 4: troll (7640)
+Seat 5: barette11 (4270)
+Seat 6: raideuse (6085)
+Seat 7: 1961GYG34 (6575)
+Seat 8: esteban3559 (1580)
+*** ANTE/BLINDS ***
+1961GYG34 posts ante 40
+esteban3559 posts ante 40
+Evelynez posts ante 40
+Noah45700 posts ante 40
+manggy94 posts ante 40
+troll posts ante 40
+barette11 posts ante 40
+raideuse posts ante 40
+1961GYG34 posts small blind 200
+esteban3559 posts big blind 400
+Dealt to manggy94 [Kc 3c]
+*** PRE-FLOP *** 
+Evelynez folds
+Noah45700 folds
+manggy94 calls 400
+troll folds
+barette11 folds
+raideuse folds
+1961GYG34 calls 200
+esteban3559 checks
+*** FLOP *** [5s Td 2h]
+1961GYG34 checks
+esteban3559 bets 400
+manggy94 folds
+1961GYG34 folds
+esteban3559 collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | No rake
+Board: [5s Td 2h]
+Seat 8: esteban3559 (big blind) won 1920
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #691442515785547960-38-1466431904 - Holdem no limit (50/250/500) - 2016/06/20 14:11:44 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #7 is the button
+Seat 1: Evelynez (1410)
+Seat 2: Noah45700 (1340)
+Seat 3: manggy94 (6035)
+Seat 4: troll (7600)
+Seat 5: barette11 (4230)
+Seat 6: raideuse (6045)
+Seat 7: 1961GYG34 (6135)
+Seat 8: esteban3559 (2660)
+*** ANTE/BLINDS ***
+esteban3559 posts ante 50
+Evelynez posts ante 50
+Noah45700 posts ante 50
+manggy94 posts ante 50
+troll posts ante 50
+barette11 posts ante 50
+raideuse posts ante 50
+1961GYG34 posts ante 50
+esteban3559 posts small blind 250
+Evelynez posts big blind 500
+Dealt to manggy94 [8s Tc]
+*** PRE-FLOP *** 
+Noah45700 folds
+manggy94 folds
+troll folds
+barette11 folds
+raideuse folds
+1961GYG34 folds
+esteban3559 raises 500 to 1000
+Evelynez folds
+esteban3559 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 8: esteban3559 (small blind) won 1900
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #691442515785547960-39-1466431937 - Holdem no limit (50/250/500) - 2016/06/20 14:12:17 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #8 is the button
+Seat 1: Evelynez (860)
+Seat 2: Noah45700 (1290)
+Seat 3: manggy94 (5985)
+Seat 4: troll (7550)
+Seat 5: barette11 (4180)
+Seat 6: raideuse (5995)
+Seat 7: 1961GYG34 (6085)
+Seat 8: esteban3559 (3510)
+*** ANTE/BLINDS ***
+Evelynez posts ante 50
+Noah45700 posts ante 50
+manggy94 posts ante 50
+troll posts ante 50
+barette11 posts ante 50
+raideuse posts ante 50
+1961GYG34 posts ante 50
+esteban3559 posts ante 50
+Evelynez posts small blind 250
+Noah45700 posts big blind 500
+Dealt to manggy94 [9d 8c]
+*** PRE-FLOP *** 
+manggy94 folds
+troll folds
+barette11 raises 3630 to 4130 and is all-in
+raideuse folds
+1961GYG34 folds
+esteban3559 folds
+Evelynez folds
+Noah45700 folds
+barette11 collected 5280 from pot
+*** SUMMARY ***
+Total pot 5280 | No rake
+Seat 5: barette11 won 5280
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #691442515785547960-40-1466431984 - Holdem no limit (50/250/500) - 2016/06/20 14:13:04 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #1 is the button
+Seat 1: Evelynez (560)
+Seat 2: Noah45700 (740)
+Seat 3: manggy94 (5935)
+Seat 4: troll (7500)
+Seat 5: barette11 (5280)
+Seat 6: raideuse (5945)
+Seat 7: 1961GYG34 (6035)
+Seat 8: esteban3559 (3460)
+*** ANTE/BLINDS ***
+Noah45700 posts ante 50
+manggy94 posts ante 50
+Evelynez posts ante 50
+troll posts ante 50
+barette11 posts ante 50
+raideuse posts ante 50
+1961GYG34 posts ante 50
+esteban3559 posts ante 50
+Noah45700 posts small blind 250
+manggy94 posts big blind 500
+Dealt to manggy94 [4s 6c]
+*** PRE-FLOP *** 
+troll folds
+barette11 calls 500
+raideuse folds
+1961GYG34 folds
+esteban3559 calls 500
+Evelynez folds
+Noah45700 folds
+manggy94 checks
+*** FLOP *** [9c 4d Qh]
+manggy94 checks
+barette11 checks
+esteban3559 bets 2910 and is all-in
+manggy94 folds
+barette11 calls 2910
+*** TURN *** [9c 4d Qh][3d]
+*** RIVER *** [9c 4d Qh 3d][Kd]
+*** SHOW DOWN ***
+barette11 shows [Ks Jh] (One pair : Kings)
+esteban3559 shows [Ts Jc] (Straight King high)
+esteban3559 collected 7970 from pot
+*** SUMMARY ***
+Total pot 7970 | No rake
+Board: [9c 4d Qh 3d Kd]
+Seat 5: barette11 showed [Ks Jh] and lost with One pair : Kings
+Seat 8: esteban3559 showed [Ts Jc] and won 7970 with Straight King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #691442515785547960-41-1466432044 - Holdem no limit (50/250/500) - 2016/06/20 14:14:04 UTC
+Table: 'Freeroll(160989006)#183' 8-max (real money) Seat #2 is the button
+Seat 1: Evelynez (510)
+Seat 2: Noah45700 (440)
+Seat 3: manggy94 (5385)
+Seat 4: troll (7450)
+Seat 5: barette11 (1820)
+Seat 6: raideuse (5895)
+Seat 7: 1961GYG34 (5985)
+Seat 8: esteban3559 (7970)
+*** ANTE/BLINDS ***
+manggy94 posts ante 50
+troll posts ante 50
+Evelynez posts ante 50
+Noah45700 posts ante 50
+barette11 posts ante 50
+raideuse posts ante 50
+1961GYG34 posts ante 50
+esteban3559 posts ante 50
+manggy94 posts small blind 250
+troll posts big blind 500
+Dealt to manggy94 [Kh Kd]
+*** PRE-FLOP *** 
+barette11 folds
+raideuse folds
+1961GYG34 folds
+esteban3559 calls 500
+Evelynez folds
+Noah45700 folds
+manggy94 raises 1500 to 2000
+troll folds
+esteban3559 calls 1500
+*** FLOP *** [Qs Ah 3s]
+manggy94 checks
+esteban3559 bets 500
+manggy94 calls 500
+*** TURN *** [Qs Ah 3s][Ad]
+manggy94 checks
+esteban3559 bets 5420 and is all-in
+manggy94 folds
+esteban3559 collected 11320 from pot
+*** SUMMARY ***
+Total pot 11320 | No rake
+Board: [Qs Ah 3s Ad]
+Seat 8: esteban3559 won 11320
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #691442515785547899-59-1466432138 - Holdem no limit (70/300/600) - 2016/06/20 14:15:38 UTC
+Table: 'Freeroll(160989006)#122' 8-max (real money) Seat #7 is the button
+Seat 1: clovis69 (16000)
+Seat 2: laracek (115)
+Seat 3: Stefcactus (21144)
+Seat 4: ergoun42 (9655)
+Seat 5: caralho 08 (420)
+Seat 6: manggy94 (2835)
+Seat 7: Pipou30 (4730)
+Seat 8: frenchcore86 (11515)
+*** ANTE/BLINDS ***
+frenchcore86 posts ante 70
+clovis69 posts ante 70
+laracek posts ante 70
+Stefcactus posts ante 70
+ergoun42 posts ante 70
+caralho 08 posts ante 70
+manggy94 posts ante 70
+frenchcore86 posts small blind 300
+clovis69 posts big blind 600
+Dealt to manggy94 [Ah 6d]
+*** PRE-FLOP *** 
+laracek folds
+Stefcactus calls 600
+ergoun42 folds
+caralho 08 folds
+manggy94 calls 600
+frenchcore86 folds
+clovis69 raises 2590 to 3190
+Stefcactus calls 2590
+manggy94 folds
+*** FLOP *** [2c 5d 8s]
+clovis69 bets 12740 and is all-in
+Stefcactus calls 12740
+*** TURN *** [2c 5d 8s][Js]
+*** RIVER *** [2c 5d 8s Js][2d]
+*** SHOW DOWN ***
+Stefcactus shows [5h Jd] (Two pairs : Jacks and 5)
+clovis69 shows [Ks Kd] (Two pairs : Kings and 2)
+clovis69 collected 33250 from pot
+*** SUMMARY ***
+Total pot 33250 | No rake
+Board: [2c 5d 8s Js 2d]
+Seat 1: clovis69 (big blind) showed [Ks Kd] and won 33250 with Two pairs : Kings and 2
+Seat 3: Stefcactus showed [5h Jd] and lost with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #691442515785547899-60-1466432174 - Holdem no limit (70/300/600) - 2016/06/20 14:16:14 UTC
+Table: 'Freeroll(160989006)#122' 8-max (real money) Seat #8 is the button
+Seat 1: clovis69 (33250)
+Seat 2: laracek (45)
+Seat 3: Stefcactus (5144)
+Seat 4: ergoun42 (9585)
+Seat 5: caralho 08 (350)
+Seat 6: manggy94 (2165)
+Seat 7: Pipou30 (4730)
+Seat 8: frenchcore86 (11145)
+*** ANTE/BLINDS ***
+clovis69 posts ante 70
+laracek posts ante 45 and is all-in
+Stefcactus posts ante 70
+ergoun42 posts ante 70
+caralho 08 posts ante 70
+manggy94 posts ante 70
+Pipou30 posts ante 70
+frenchcore86 posts ante 70
+clovis69 posts small blind 300
+laracek posts big blind 0 and is all-in
+Dealt to manggy94 [3d 2h]
+*** PRE-FLOP *** 
+Stefcactus folds
+ergoun42 folds
+caralho 08 folds
+manggy94 folds
+Pipou30 folds
+frenchcore86 calls 600
+clovis69 calls 300
+*** FLOP *** [6h 2c Ks]
+clovis69 checks
+frenchcore86 checks
+*** TURN *** [6h 2c Ks][9h]
+clovis69 bets 600
+frenchcore86 calls 600
+*** RIVER *** [6h 2c Ks 9h][5c]
+clovis69 bets 600
+frenchcore86 folds
+*** SHOW DOWN ***
+laracek shows [Ts 2s] (One pair : 2)
+clovis69 shows [Kd Th] (One pair : Kings)
+clovis69 collected 3535 from pot
+*** SUMMARY ***
+Total pot 3535 | No rake
+Board: [6h 2c Ks 9h 5c]
+Seat 1: clovis69 (small blind) showed [Kd Th] and won 3535 with One pair : Kings
+Seat 2: laracek (big blind) showed [Ts 2s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #691442515785547899-61-1466432214 - Holdem no limit (70/300/600) - 2016/06/20 14:16:54 UTC
+Table: 'Freeroll(160989006)#122' 8-max (real money) Seat #1 is the button
+Seat 1: clovis69 (34915)
+Seat 3: Stefcactus (5074)
+Seat 4: ergoun42 (9515)
+Seat 5: caralho 08 (280)
+Seat 6: manggy94 (2095)
+Seat 7: Pipou30 (4660)
+Seat 8: frenchcore86 (9875)
+*** ANTE/BLINDS ***
+Stefcactus posts ante 70
+clovis69 posts ante 70
+ergoun42 posts ante 70
+caralho 08 posts ante 70
+manggy94 posts ante 70
+Pipou30 posts ante 70
+frenchcore86 posts ante 70
+Stefcactus posts big blind 600
+Dealt to manggy94 [As 6c]
+*** PRE-FLOP *** 
+ergoun42 folds
+caralho 08 folds
+manggy94 raises 1425 to 2025 and is all-in
+Pipou30 raises 2565 to 4590 and is all-in
+frenchcore86 folds
+clovis69 folds
+Stefcactus calls 3990
+*** FLOP *** [Tc 5d 5h]
+*** TURN *** [Tc 5d 5h][4h]
+*** RIVER *** [Tc 5d 5h 4h][9c]
+*** SHOW DOWN ***
+manggy94 shows [As 6c] (One pair : 5)
+Pipou30 shows [Qc Ah] (One pair : 5)
+Stefcactus shows [Td Qd] (Two pairs : Tens and 5)
+Stefcactus collected 11695 from pot
+*** SUMMARY ***
+Total pot 11695 | No rake
+Board: [Tc 5d 5h 4h 9c]
+Seat 3: Stefcactus (big blind) showed [Td Qd] and won 11695 with Two pairs : Tens and 5
+Seat 6: manggy94 showed [As 6c] and lost with One pair : 5
+Seat 7: Pipou30 showed [Qc Ah] and lost with One pair : 5
+
+
