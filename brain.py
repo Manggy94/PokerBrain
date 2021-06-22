@@ -83,10 +83,11 @@ plt.legend(loc='upper left')
 # axs[1,1].set_xlabel("Epochs")
 plt.show()
 
+
 print(" Evaluation du test set")
 results = model.evaluate(test_set, test_tgts, batch_size=20)
-print("test loss, test acc", results)
+print("test loss, test acc, top-5-accuracy", results)
+accuracy, top5acc = results[1], results[2]
+if accuracy > 0.75 and top5acc > 0.9:
+    model.save("Brains/Brain1")
 
-print("Example predictions")
-predictions = model.predict(test_set[:3])
-print("predictions shape:", predictions.shape)

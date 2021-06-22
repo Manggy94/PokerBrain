@@ -1,5 +1,7 @@
-import numpy as np
+import math
 
+import numpy as np
+import pandas as pd
 import API.constants as cst
 import API.Range
 from file_reader import *
@@ -8,6 +10,22 @@ from API.timer import Timer
 all_actions = np.array(list(cst.Action))
 all_positions = np.array(list(Position))
 all_combos = API.Range.all_combos
+all_streets = np.array(list(cst.Street))
+all_cards = np.array(list(Card))
+
+def sparse_unknown_combo(table):
+    sparsed = 0.5*np.ones(1326)
+    board = table.board
+    tab = np.array(board)
+    if table.hero !=None:
+        hero_combo = table.hero.combo
+        tab= np.hstack((tab,hero_combo.first, hero_combo.second))
+    for i in range(1326):
+        x = all_combos[i]
+        c1, c2 = x.first, x.second
+        if c1 in tab or c2 in tab:
+            sparsed[i] = 0
+    return sparsed
 
 
 def name_to_array(player_name):
@@ -21,16 +39,34 @@ def name_to_array(player_name):
             tab[i] = 0
     return tab
 
+def card_to_int(card: Card):
+    try:
+        return np.where(all_cards == card)[0][0]
+    except:
+            return all_cards.size
+
+def board_to_int(board):
+    int_board = []
+    for i in range(5):
+        try:
+            int_board.append(card_to_int(board[i]))
+        except:
+            int_board.append(52)
+    return int_board
+
 
 def combo_to_int(combo: Combo):
     try:
         return np.where(all_combos == combo)[0][0]
     except:
-        return len(all_combos)
+        return all_combos.size
 
 
 def int_to_combo(k: int):
-    return all_combos[k]
+    if k<1326:
+        return all_combos[k]
+    else:
+        return None
 
 
 def sparse_int(k: int, n: int = 1326):
@@ -39,22 +75,22 @@ def sparse_int(k: int, n: int = 1326):
     return sparsed
 
 
-def sparse_combo(combo: Combo):
-    return sparse_int(combo_to_int(combo))
+def sparse_combo(player: Player, table: Table):
+    if player.combo == None:
+        return sparse_unknown_combo(table)
+    else:
+        return sparse_int(combo_to_int(player.combo))
+
 
 def unsparse_range(sparsed: np.ndarray):
     combo_range=[]
-    for i in range(len(sparsed)):
+    for i in range(sparsed.size):
         if sparsed[i] ==1:
             combo_range.append(int_to_combo(i))
     return np.array(combo_range)
 
 
-def card_to_int(card):
-    return np.where(np.array(list(Card)) == card)[0][0]
-
-
-def get_table_players(hand):
+def get_table_players(hand: WinamaxHandHistory):
     """
     Getting Preflop information about each player on a basis of a 10-rounded table.
     Information about player's name, position on the table, seat and initial stack.
@@ -78,18 +114,11 @@ def get_table_players(hand):
     return a
 
 
-def get_heros_combo(table):
-    try:
-        return table.get_hero().combo
-    except:
-        pass
-
-
-def get_street_actions(street):
+def get_street_actions(street: Street, n: int = 24):
     """"""
     ext = np.array([])
     actions = street.actions
-    for i in range(24):
+    for i in range(n):
         try:
             action = actions[i]
             pl = action.player
@@ -100,139 +129,194 @@ def get_street_actions(street):
         except:
             seat = move = value = 0
         ext = np.hstack((ext, seat, move, value))
+    ext = np.hstack((ext, np.zeros(72-3*n)))
     return ext
 
 
-def get_prev_streets(table, street):
-    pf = get_street_actions(table.PF)
-    flop = get_street_actions(table.F)
-    turn = get_street_actions(table.T)
-    river = get_street_actions(table.R)
-    board = table.board
-    c1 = card_to_int(board[0])
-    c2 = card_to_int(board[1])
-    c3 = card_to_int(board[2])
-    c4 = card_to_int(board[3])
-    c5 = card_to_int(board[4])
+def get_previous_actions(table, street, n: int=24):
 
-    if street.name == 'PF':
-        flop = turn = river = np.zeros(72)
-        c1 = c2 = c3 = c4 = c5 = len(list(Card))
-    elif street.name == 'F':
-        turn = river = np.zeros(72)
-        c4 = c5 = len(list(Card))
-    elif street.name == 'T':
-        river = np.zeros(72)
-        c5 = len(list(Card))
-    ext = np.hstack((pf, flop, turn, river, c1, c2, c3, c4, c5))
-    # print(ext.shape)
-    return ext
+    # First we define an empty np.array for actions (and card)
+    actions = np.array([])
+    # Then two running variables i and k are defined to describe every step of the hand
+    i = street.index
+    k = n
+    # This while keeps going for every known step
+    while(i, k) != (0, 0):
+        # Extension np.array
+        ext = np.array([])
+        # For every previous street, compute vector for street actions and add it to extension
+        for j in range(i):
+            res = get_street_actions(table.streets[j])
+            if ext.shape[0] == 0:
+                ext = res
+            else:
+                ext = np.hstack((ext, res))
+        # Compute current street and add it to extension
+        current = get_street_actions(table.streets[i], k)
+        if ext.shape[0] == 0:
+            ext = current
+        else:
+            ext = np.hstack((ext, current))
+        ext = np.hstack((ext, np.zeros(72*(3-i))))
+        # Transform board cards and add it to extension
+        int_board = board_to_int(table.board)
+        if i == 0:
+            board = 52 * np.ones(5)
+        else:
+            board = np.hstack((int_board[:i + 2], 52 * np.ones(3 - i)))
+        ext = np.hstack((ext, board))
+        # Add extension to actions
+        if actions.shape[0] == 0:
+            actions = ext
+        else:
+            actions = np.vstack((actions, ext))
+        # Modify i and k to keep running
+        if k > 0:
+            k -= 1
+        elif i > 0:
+            i -= 1
+            k = 24
+    return actions
 
 
-def to_vec(player, hand, street):
+hands = parse_file("historyexample2.txt")
+#hands=parse_finished_hands("history2")
+#hands = parse_directory("history2")
+print(hands.shape)
+
+hand=hands[2]
+print(hand.table.streets)
+#print(hand.table.streets[0].active_players)
+player=hand.table.players[0]
+#print(combo_to_int(player.combo))
+#print(get_previous_actions(hand.table, hand.table.streets[3]).shape)
+
+def player_history_to_vec(player: Player, hand: WinamaxHandHistory):
     """
-    Transforms information about a player that went to Showdown into an Input vector that can be used in TF
+    Transforms information about a player into an Input vector that can be used in TF
     This key function is to be modified to add features that are going to be used in our Model input
-    :param player: Player that Went to SD and Whose we want to guess the range
-    :param hand: WinamaxHandHistory.
-    :param street: Table Street we want to stop to.
-    :return: Numpy Vector
-    """
-    timer = Timer()
-    timer.start()
-    # Get target from player combo
-    yi = sparse_combo(player.combo)
-    # Create a vector
-    xi = np.array([])
-    # print(vect.shape, "A l'initialisation")
-    # define some parameters
-    table = hand.table
-    level = hand.level
-    # Add the name of the player at stake and add it to vector
-    pl_name = name_to_array(player.name)
-    # print(pl_name)
-    xi = np.hstack((xi, pl_name))
-    # print(vect.shape, "Après ajout du nom")
-    # Get heros combo
-    combo = get_heros_combo(table)
-    xi = np.hstack((xi, combo_to_int(combo)))
-    # print(vect.shape, "Après ajout du combo du héros")
-    # Get the number of players involved
-    xi = np.hstack((xi, table.max_players, len(table.players)))
-    # print(vect.shape, "Après ajout du nombre de joueurs max et présents")
-    # Get players information
-    xi = np.hstack((xi, get_table_players(hand)))
-    # print(vect.shape, "Après ajout des joueurs")
-    # Get level information
-    xi = np.hstack((xi, level.nb, level.ante, level.sb, level.bb))
-    # print(vect.shape, "Après ajout des infos du niveau")
-    # Get streets information
-    xi = np.hstack((xi, get_prev_streets(table, street)))
-    # print(vect.shape, "Après ajout des streets")
-
-    return xi, yi
-
-
-def multi_to_vec(player, hand):
-    """
-
-    :param player:player whose we want to predict hand
+    :param player:
     :param hand:
     :return:
     """
-    # print(type(to_vec(player, hand, hand.table.PF)))
-    (pf_xi, pf_yi) = to_vec(player, hand, hand.table.PF)
-    # print(pf_array.shape)
-    (f_xi, f_yi) = to_vec(player, hand, hand.table.F)
-    # print(f_array.shape)
-    (t_xi, t_yi) = to_vec(player, hand, hand.table.T)
-    # print(t_array.shape)
-    (r_xi, r_yi) = to_vec(player, hand, hand.table.R)
-    # print(r_array.shape)
-    array_xi = np.vstack((pf_xi, f_xi, t_xi, r_xi))
-    array_yi = np.vstack((pf_yi, f_yi, t_yi, r_yi))
-    return array_xi, array_yi
+    #timer = Timer()
+    #timer.start()
+    vec = np.array([])
+    # define some parameters
+    table = hand.table
+    last_street = table.streets[min(table.progression, 3)]
+    n = len(last_street.actions)
+    level = hand.level
+    # Get target from player combo
+    yi = sparse_combo(player, table)
+    # Create a vector
+    player_info = np.array([])
+    # Get the name of the player at stake
+    pl_name = name_to_array(player.name)
+    # Get hero's combo
+    int_combo = combo_to_int(table.hero.combo)
+    # Get the number of players involved
+    max_players, players_nb = table.max_players, len(table.players)
+    # Get players information
+    players = get_table_players(hand)
+    # Get level information
+    level_nb, ante, sb, bb = level.nb, level.ante, level.sb, level.bb
+    player_info = np.hstack((
+        player_info,
+        pl_name,
+        int_combo,
+        max_players,
+        players_nb,
+        players,
+        level_nb,
+        ante,
+        sb,
+        bb
+    ))
+    # Get streets information
+    all_actions = get_previous_actions(table=table, street=last_street, n=n)
+    for action_sample in all_actions:
+        ext = np.hstack((player_info, action_sample))
+        if vec.shape[0] == 0:
+            vec = ext
+        else:
+            vec = np.vstack((vec, ext))
+    p = vec.shape[0]
+    target = np.ones((p,1))*yi
+    #timer.stop()
+    return vec, target
 
 
-def hand_to_vecs(hand):
+a, b = player_history_to_vec(player,hand)
+print(a.shape, b.shape)
+
+
+def hand_to_vecs(hand, showdown_only: bool = True):
     """
-
     :param hand:
     :return:
     """
     # timer=Timer()
     # timer.start()
     x, y = np.array([]), np.array([])
-    players = hand.table.SD.active_players
+    if showdown_only:
+        try:
+            players = hand.table.streets[4].active_players
+        except:
+            return np.array([])
+    else:
+        players = hand.table.players
     for player in players:
-        if player.has_combo():
-            (a, b) = multi_to_vec(player, hand)
-            try:
-                x, y = np.vstack((x, a)), np.vstack((y, b))
-            except:
-                x, y = a, b
-    # print(vecs.shape, targets.shape)
+        a, b = player_history_to_vec(player, hand)
+        if x.size == 0:
+            x, y = a, b
+        else:
+            x, y = np.vstack((x, a)), np.vstack((y, b))
     # timer.stop()
     return x, y
 
+def vectorize_file(file_name: str, showdown_only: bool=True, limit: int=math.inf):
 
-def vectorize(rep_name="history"):
-    timer = Timer()
+    features = targets = np.array([])
+    hands = parse_file(file_name)
+    for hand in hands:
+        if features.shape[0] > limit:
+            break
+        a, b = hand_to_vecs(hand, showdown_only)
+        if features.size == 0:
+            features, targets = a, b
+        else:
+            features, targets = np.vstack((features, a)), np.vstack((targets, b))
+    return features, targets
 
-    finished_hands = parse_finished_hands(rep_name)
-    timer.start()
-    features = target = np.array([])
-    for hand in finished_hands:
-        if features.shape[0]<6000:
-            a, b = hand_to_vecs(hand)
-            if a.shape != (0, ):
-                try:
-                    features, target = np.vstack((features, a)), np.vstack((target, b))
-                except:
-                    features, target = a, b
-            # print(features.shape, target.shape)
-    timer.stop()
-    return features, target
+
+
+def vectorize_dir(dir_name: str="history", showdown_only: str=True, limit: int=math.inf ):
+    # timer = Timer()
+    hands = parse_directory(dir_name)
+    # timer.start()
+    features = targets = np.array([])
+    count_hands = 0
+    for hand in hands:
+        count_hands+=1
+        if features.shape[0] > limit:
+            break
+        a, b = hand_to_vecs(hand, showdown_only)
+        if features.size == 0:
+            features, targets = a, b
+        else:
+            features, targets = np.vstack((features, a)), np.vstack((targets, b))
+    # timer.stop()
+    print(count_hands)
+    return features, targets
+
+feat, tar = vectorize_dir(dir_name="history2", showdown_only=False, limit=400)
+print(feat.shape)
+
+
+class Converter:
+    def __init__(self):
+        pass
 
 
 # vecs, targets = vectorize("history")

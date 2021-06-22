@@ -3,8 +3,8 @@ import file_reader as reader
 import numpy as np
 
 hands = reader.parse_file("historyexample2.txt")
+#print(hands)
 
-# print(hands)
 for hand in hands:
     keys=[]
     items=[]

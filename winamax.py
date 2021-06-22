@@ -47,7 +47,11 @@ _bb_re = re.compile(r"(?P<player_name>[\w\s\-.]{3,12})\s+posts\s+big\s+blind\s+(
 class WinamaxHandHistory:
     """Winamax specific parsing."""
 
-    def __init__(self, header_txt):
+    def __init__(self):
+        self.header_parsed=False
+
+
+    def parse_header(self, header_txt):
         header = re.match(_header_re, header_txt)
         self.poker_type = header.group("poker_type")
         self.tournament_name = header.group("tournament_name")
@@ -60,11 +64,8 @@ class WinamaxHandHistory:
         SB = header.group("small_blind")
         BB = header.group("big_blind")
         self.date = header.group("date")
-        self.header_parsed=True
-        self.level=Level(int(level_nb), float(SB), float(BB), float(ante))
-
-    def set_table(self, table):
-        self.table=table
+        self.header_parsed = True
+        self.level = Level(int(level_nb), float(SB), float(BB), float(ante))
 
     def parse_table(self, table_txt):
         match = re.search(_table_re, table_txt)
@@ -88,6 +89,7 @@ class WinamaxHandHistory:
 
     def set_table(self):
         self.table = Table(self.table_id, self.max_seat)
+
 
     def parse_ante(self, ante_txt):
         match = re.search(_ante_re, ante_txt)
@@ -127,7 +129,7 @@ class WinamaxHandHistory:
         for player in self.table.players:
             if hero_name==player.name:
                 player.is_hero(combo)
-                #print("Le héros est %s, avec en main %s et %s." % (hero_name, combo.first, combo.second))
+                self.table.hero = player
 
     def parse_action(self, action_txt, street):
         match = re.search(_action_re, action_txt)
@@ -155,11 +157,12 @@ class WinamaxHandHistory:
                 #print(player.name, player.combo)
 
     def parse_flop_cards(self, flop_txt):
+        flop = self.table.streets[1]
         match = re.search(_flop_re, flop_txt)
         fc1 = Card(match.group("flop_card_1"))
         fc2 = Card(match.group("flop_card_2"))
         fc3 = Card(match.group("flop_card_3"))
-        cards=self.table.F.cards
+        cards=flop.cards
         cards.append(fc1)
         cards.append(fc2)
         cards.append(fc3)
@@ -167,17 +170,19 @@ class WinamaxHandHistory:
         #print("Board",self.table.board)
 
     def parse_turn_card(self, turn_txt):
+        turn = self.table.streets[2]
         match = re.search(_turn_re, turn_txt)
         tc = Card(match.group("turn_card"))
-        cards=self.table.T.cards
+        cards=turn.cards
         cards.append(tc)
         self.table.board.extend(cards)
         #print("Board",self.table.board)
 
     def parse_river_card(self, river_txt):
+        river = self.table.streets[3]
         match = re.search(_river_re, river_txt)
         rc = Card(match.group("river_card"))
-        cards=self.table.R.cards
+        cards=river.cards
         cards.append(rc)
         self.table.board.extend(cards)
         #print("Board",self.table.board)

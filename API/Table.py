@@ -16,6 +16,7 @@ class Street:
         self.actions = []
         self.street_pot = 0
         self.highest_bet = 0
+        self.index=0
 
     def add_action(self, action):
         self.actions.append(action)
@@ -157,8 +158,10 @@ class Table:
         self.max_players = max_players
         self.board = []
         self.players = []
-        self.highest_bet=0
-        self.PF=Street('PF')
+        self.highest_bet = 0
+        self.streets = [Street('PF')]
+        self.hero = None
+        self.PF = Street('PF')
 
     def add_action(self, street, action):
         street.actions.append(action)
@@ -224,90 +227,66 @@ class Table:
         for i in range(0,len(pl_table)):
             pl_table[i].set_position(positions[i])
 
-
     def draw_card(self):
         self.deck.pop()
 
     def find_active_players(self, street):
-        if street.name == 'PF':
-            street.active_players = self.players
-        elif street.name == 'F':
-            for player in self.PF.active_players:
+        i=street.index
+        if i == 0:
+            self.streets[i].active_players = self.players
+        else:
+            for player in self.streets[i-1].active_players:
                 if player.ingame and not player.folded:
-                    street.active_players.append(player)
-        elif street.name == 'T':
-            for player in self.F.active_players:
-                if player.ingame and not player.folded:
-                    street.active_players.append(player)
-        elif street.name == 'R':
-            for player in self.T.active_players:
-                if player.ingame and not player.folded:
-                    street.active_players.append(player)
-        elif street.name == 'SD':
-            for player in self.R.active_players:
-                if player.ingame and not player.folded:
-                    street.active_players.append(player)
+                    self.streets[i].active_players.append(player)
 
-    def get_hero(self):
-        for player in self.players:
-            if player.hero:
-                return player
 
     def has_flop(self):
-        try:
-            self.F
-            return True
-        except:
-            return False
+        return len(self.streets) >=2
 
 
     def has_river(self):
-        try:
-            self.R
-            return True
-        except:
-            return False
+        return len(self.streets) >= 4
 
     def has_showdown(self):
-        try:
-            self.SD
-            return True
-        except:
-            return False
+        return len(self.streets) >= 5
 
     def has_turn(self):
-        try:
-            self.T
-            return True
-        except:
-            return False
+        return len(self.streets) >= 3
 
     def make_deck(self):
         self.deck = list(Card)
         random.shuffle(self.deck)
 
     def make_flop(self):
-        self.F = Street('F')
-        self.find_active_players(self.F)
+        flop=Street('F')
+        self.streets.append(flop)
+        flop.index = 1
+        self.find_active_players(flop)
         self.reset_bets()
         self.progression += 1
 
 
     def make_river(self):
-        self.R = Street('R')
-        self.find_active_players(self.R)
+        river = Street('R')
+        self.streets.append(river)
+        river.index = 3
+        self.find_active_players(river)
         self.reset_bets()
         self.progression += 1
 
     def make_showdown(self):
-        self.SD = Street('SD')
-        self.find_active_players(self.SD)
+        SD = Street('SD')
+        self.streets.append(SD)
+        SD.index = 4
+        self.find_active_players(SD)
         self.reset_bets()
         self.progression += 1
 
     def make_turn(self):
-        self.T = Street('T')
-        self.find_active_players(self.T)
+        turn = Street('T')
+        self.streets.append(turn)
+        turn.index = 2
+        self.find_active_players(turn)
         self.reset_bets()
         self.progression += 1
 

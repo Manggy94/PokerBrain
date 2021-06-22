@@ -84,12 +84,15 @@ def parse_file(file_name):
         if re.match(_header_re, content[i]):
 
             header = re.match(_header_re, content[i])
-            hh = WinamaxHandHistory(content[i])
+            hh = WinamaxHandHistory()
+            hh.parse_header(content[i])
             i += 1
             # find table pattern and parse its information with a new Table object with Tournaent information
 
             hh.parse_table(content[i])
             hh.set_table()
+            table = hh.table
+            preflop = table.streets[0]
             hh.set_tournament()
             i +=1
             # Step :Looking for players on seats, and adding Player objects to the table for every player found
@@ -99,6 +102,7 @@ def parse_file(file_name):
 
             # Step : Analysing Ante and blinds
             i += 1
+            street_index = 0
             # for player in hh.table.players:
             while re.search(_ante_re, content[i]):
                 # print("\n", content[i])
@@ -116,60 +120,67 @@ def parse_file(file_name):
                 hh.parse_hero(content[i])
                 i += 1
             # Finding active players for PF (it's all of them)
-            hh.table.find_active_players(hh.table.PF)
+            table.find_active_players(preflop)
+
+
             # PF Actions
             i += 1
             # PF Actions are parsed into PF street, and added to the table
             # While Action patterns are found
+
             while (re.search(_action_re, content[i])):
                 #On trouve le pattern d'action et on affecte ses groupes dans un objet action, qu'on ajoute à la liste des actions. On pourra ensuite la trier.
-                hh.parse_action(content[i], hh.table.PF)
+                hh.parse_action(content[i], preflop)
                 i+=1
             #print("Pot:", hh.table.pot, "Highest Bet:", hh.table.highest_bet)
             #print("\n", content[i])
             #If we have a flop pattern,  we parse its cards
-            flop = re.search(_flop_re, content[i])
-            if flop:
-                hh.table.make_flop()
+            has_flop = re.search(_flop_re, content[i])
+            if has_flop:
+                table.make_flop()
+                flop = table.streets[table.progression]
                 hh.parse_flop_cards(content[i])
                 i+=1
                 #Next step of flop: parsing actions
                 while (re.search(_action_re, content[i])):
-                    hh.parse_action(content[i], hh.table.F)
+                    hh.parse_action(content[i], flop)
                     i+=1
                 #print("Pot:", hh.table.pot, "\nHighest Bet:", hh.table.highest_bet)
                 #If we find a turn pattern, we parse its card
-                turn = re.search(_turn_re, content[i])
+                has_turn = re.search(_turn_re, content[i])
                 #print("\n",content[i])
-                if turn:
-                    hh.table.make_turn()
+                if has_turn:
+                    table.make_turn()
+                    turn = table.streets[table.progression]
                     hh.parse_turn_card(content[i])
                     i += 1
                     #Next step of turn parsing actions:
                     while (re.search(_action_re, content[i])):
-                        hh.parse_action(content[i], hh.table.T)
+                        hh.parse_action(content[i], turn)
                         i += 1
                 #print("Pot:", hh.table.pot, "\nHighest Bet:", hh.table.highest_bet)
                 #If we find a river pattern, we parse its card
-                river = re.search(_river_re, content[i])
+                has_river = re.search(_river_re, content[i])
                 #print("\n", content[i])
-                if river:
-                    hh.table.make_river()
+                if has_river:
+                    table.make_river()
+                    river = table.streets[table.progression]
                     hh.parse_river_card(content[i])
                     i += 1
                     #Next step of river is parsing actions:
                     while (re.search(_action_re, content[i])):
-                        hh.parse_action(content[i], hh.table.R)
+                        hh.parse_action(content[i], river)
                         i += 1
                     # Looking for a showdown pattern
-                    showdown = re.search(_showdown_re, content[i])
-                    if showdown:
-                        hh.table.make_showdown()
+                    has_showdown = re.search(_showdown_re, content[i])
+                    if has_showdown:
+                        table.make_showdown()
+                        showdown=table.streets[table.progression]
                         #print("\n", content[i])
                         i += 1
                         #Parsing SD actions
                         while (re.search(_showdown_action_re, content[i])):
-                            hh.parse_sd_action(content[i], hh.table.SD)
+                            hh.parse_sd_action(content[i], showdown)
                             i += 1
             while (re.search(_winner_re, content[i])):
                 hh.parse_winner(content[i])
