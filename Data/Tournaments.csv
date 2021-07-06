@@ -1,0 +1,552 @@
+,name,ident,prizepool,nb_players,mode,speed,buyin
+0,Deepstack Hold'em,125478481,1000.0,39,normal,turbo,18.0
+1,Deepstack Hold'em,125478496,5000.0,242,normal,normal,18.0
+2,Freeroll,125478511,3000.0,308,normal,semiturbo,0.0
+3,Freeroll,125478546,100.0,2820,normal,turbo,0.0
+4,Hold'em,125478485,400.0,87,normal,turbo,4.5
+5,Hold'em,125478492,500.0,18,normal,semiturbo,9.0
+6,Hold'em,125478495,4000.0,95,normal,semiturbo,9.0
+7,Freeroll,125561321,100.0,3950,normal,turbo,0.0
+8,Freeroll,125561322,100.0,3715,normal,turbo,0.0
+9,Freeroll,125561323,150.0,4105,normal,turbo,0.0
+10,Omaha,125561252,1000.0,40,normal,normal,4.5
+11,Sit&Go Freeroll,126839490,0.1,10,sitngo,turbo,0.0
+12,Sit&Go Freeroll,126846691,0.1,10,sitngo,turbo,0.0
+13,Sit&Go Freeroll,126847850,0.1,9,sitngo,turbo,0.0
+14,Sit&Go Freeroll,126879819,0.1,10,sitngo,turbo,0.0
+15,Sit&Go Freeroll,126881654,0.1,10,sitngo,turbo,0.0
+16,Freeroll,125640876,100.0,4155,normal,turbo,0.0
+17,Freeroll,125640877,100.0,3390,normal,turbo,0.0
+18,Freeroll,125640878,150.0,4151,normal,turbo,0.0
+19,Freeroll,125640883,150.0,3704,normal,turbo,0.0
+20,Freeroll,125721531,100.0,4434,normal,turbo,0.0
+21,Deepstack Hold'em,125816818,1200.0,99,normal,normal,9.0
+22,Freeroll,125816896,50.0,2487,normal,turbo,0.0
+23,Freeroll,125816897,100.0,3005,normal,turbo,0.0
+24,Freeroll,125816899,100.0,2704,normal,turbo,0.0
+25,Freeroll,125816901,100.0,4083,normal,turbo,0.0
+26,Freeroll,125998440,50.0,1839,normal,turbo,0.0
+27,Freeroll,125998441,100.0,3241,normal,turbo,0.0
+28,Freeroll,125998445,100.0,4002,normal,turbo,0.0
+29,Freeroll,126172341,100.0,4249,normal,turbo,0.0
+30,Freeroll,126172342,100.0,4621,normal,turbo,0.0
+31,Freeroll,126172343,100.0,4436,normal,turbo,0.0
+32,Freeroll,126172347,150.0,6420,normal,turbo,0.0
+33,Freeroll,126172348,250.0,7239,normal,turbo,0.0
+34,Freeroll,126172349,150.0,5000,normal,turbo,0.0
+35,Freeroll,126253906,250.0,6770,normal,turbo,0.0
+36,Freeroll,126253907,150.0,5000,normal,turbo,0.0
+37,Freeroll,126338359,50.0,2586,normal,turbo,0.0
+38,Freeroll,126338489,150.0,7455,normal,turbo,0.0
+39,Freeroll,126338490,250.0,6390,normal,turbo,0.0
+40,Super Freeroll Stade 1,127664912,0.0,6,freeroll100k,turbo,0.0
+41,Welcome Freeroll,126338473,1000.0,943,normal,semiturbo,0.0
+42,Freeroll,126432300,150.0,7593,normal,turbo,0.0
+43,Freeroll,126432302,250.0,8751,normal,turbo,0.0
+44,Freeroll,126895216,150.0,5943,normal,turbo,0.0
+45,Freeroll,126895217,250.0,6680,normal,turbo,0.0
+46,Freeroll,126982947,100.0,3717,normal,turbo,0.0
+47,Freeroll,126982951,150.0,5000,normal,turbo,0.0
+48,Freeroll,126983097,150.0,8191,normal,turbo,0.0
+49,Welcome Freeroll,126983080,1000.0,1150,normal,semiturbo,0.0
+50,Freeroll,127085746,150.0,8729,normal,turbo,0.0
+51,Freeroll,127085747,250.0,9824,normal,turbo,0.0
+52,Freeroll,127085749,150.0,5000,normal,turbo,0.0
+53,Freeroll,127184492,100.0,4712,normal,turbo,0.0
+54,Freeroll,127279910,100.0,4467,normal,turbo,0.0
+55,Freeroll,127279911,100.0,3953,normal,turbo,0.0
+56,Freeroll,127279912,100.0,4340,normal,turbo,0.0
+57,Freeroll,127279913,150.0,5000,normal,turbo,0.0
+58,Freeroll,127279915,150.0,6576,normal,turbo,0.0
+59,Freeroll,127279916,250.0,9038,normal,turbo,0.0
+60,Freeroll,128134053,150.0,5407,normal,turbo,0.0
+61,Freeroll,128134054,250.0,5598,normal,turbo,0.0
+62,Starting Block Winamax Poker Tour,129589899,0.0,10,winamaxpokertour,turbo,0.0
+63,Freeroll,128222572,150.0,5000,normal,turbo,0.0
+64,MiniRoll,128222930,71.5,325,normal,semiturbo,0.22
+65,Qualif. Ticket 3â‚¬,128223415,16.2,36,qualifier,semiturbo,0.45
+66,Qualif. Ticket 5â‚¬,128223395,81.0,90,qualifier,semiturbo,0.9
+67,KILL THE FISH,128614192,500.5,143,knockout,semiturbo,3.5
+68,KILL THE FISH,128614193,2240.0,640,knockout,semiturbo,3.5
+69,Starting Block Winamax Poker Tour,130221264,0.0,10,winamaxpokertour,turbo,0.0
+70,1â‚¬ et Ã  table...,128706042,59.4,66,normal,semiturbo,0.9
+71,2â‚¬ et au boulot...,128706039,142.2,79,normal,semiturbo,1.8
+72,Freeroll,128706014,50.0,2894,normal,turbo,0.0
+73,Freeroll,128706015,100.0,4250,normal,turbo,0.0
+74,MiniRoll,128706001,67.98,309,normal,semiturbo,0.22
+75,Freeroll,129294762,150.0,4072,normal,turbo,0.0
+76,Freeroll,129514045,150.0,5000,normal,turbo,0.0
+77,KILL THE FISH,129514094,773.5,221,knockout,turbo,3.5
+78,MiniRoll,129514029,125.55,279,normal,semiturbo,0.45
+79,Starting Block - Deglingos,131223179,0.0,10,winamaxpokertour,turbo,0.0
+80,KILL THE FISH,129623740,1634.5,467,knockout,semiturbo,3.5
+81,Starting Block - Deglingos,131328982,0.0,10,winamaxpokertour,turbo,0.0
+82,Freeroll,130954096,100.0,4165,normal,turbo,0.0
+83,Hold'em [180 Max],130954785,99.9,111,normal,turbo,0.9
+84,KILL THE FISH,130954247,1382.5,395,knockout,semiturbo,3.5
+85,KILL THE FISH,130954631,406.0,58,knockout,semiturbo,7.0
+86,MiniRoll,130954081,57.42,261,normal,semiturbo,0.22
+87,MiniRoll,130954325,23.1,105,normal,semiturbo,0.22
+88,MiniRoll,130954434,108.9,242,normal,semiturbo,0.45
+89,Qualif. Ticket 50â‚¬,130954399,99.0,22,qualifier,semiturbo,4.5
+90,KILL THE FISH,131281280,1883.0,538,knockout,semiturbo,3.5
+91,KILL THE FISH,131281304,1211.0,346,knockout,semiturbo,3.5
+92,Starting Block - Deglingos,133130497,0.0,10,winamaxpokertour,turbo,0.0
+93,Starting Block Winamax Poker Tour,133132236,0.0,10,winamaxpokertour,turbo,0.0
+94,KILL THE FISH,131707721,500.0,120,knockout,turbo,3.5
+95,KILL THE FISH,131707965,959.0,274,knockout,semiturbo,3.5
+96,KILL THE FISH,131707979,1316.0,94,knockout,semiturbo,14.0
+97,Starting Block - Deglingos,133246372,0.0,10,winamaxpokertour,turbo,0.0
+98,Starting Block - Deglingos,133246630,0.0,10,winamaxpokertour,turbo,0.0
+99,Starting Block Winamax Poker Tour,133246958,0.0,10,winamaxpokertour,turbo,0.0
+100,KILL THE FISH,132001479,1004.5,287,knockout,semiturbo,3.5
+101,Deepstack Hold'em,132092309,1332.0,296,normal,normal,4.5
+102,KILL THE FISH,132400259,1533.0,219,knockout,semiturbo,7.0
+103,VIP Freeroll: Aluminium,132400227,2000.0,3723,special,semiturbo,0.0
+104,Deepstack Hold'em,132501222,326.7,121,normal,normal,2.7
+105,DÃ©glingos,132501458,97.2,108,madtilt,turbo,0.9
+106,KILL THE FISH,132500738,1500.0,398,knockout,semiturbo,3.5
+107,KILL THE FISH,132501229,868.0,124,knockout,semiturbo,7.0
+108,MiniRoll,132500938,85.5,190,normal,semiturbo,0.45
+109,KILL THE FISH,132820776,1200.0,289,knockout,semiturbo,3.5
+110,KILL THE FISH,132820779,2516.5,719,knockout,semiturbo,3.5
+111,KILL THE FISH,132820930,1500.0,203,knockout,semiturbo,3.5
+112,Starting Block - Deglingos,134465447,0.0,10,winamaxpokertour,turbo,0.0
+113,Starting Block - Deglingos,134467808,0.0,10,winamaxpokertour,turbo,0.0
+114,KILL THE FISH,132938287,1757.0,502,knockout,semiturbo,3.5
+115,Deepstack Hold'em,133061951,1759.5,391,normal,normal,4.5
+116,KILL THE FISH,133061698,707.0,202,knockout,turbo,3.5
+117,KILL THE FISH,133061732,1694.0,484,knockout,semiturbo,3.5
+118,Starting Block - Deglingos,134644590,0.0,10,winamaxpokertour,turbo,0.0
+119,Deepstack Hold'em,133185098,1354.5,301,normal,normal,4.5
+120,Deepstack Hold'em,133185317,841.5,187,normal,normal,4.5
+121,KILL THE FISH,133184837,819.0,234,knockout,turbo,3.5
+122,KILL THE FISH,133184944,1669.5,477,knockout,semiturbo,3.5
+123,KILL THE FISH,133185100,931.0,266,knockout,semiturbo,3.5
+124,Starting Block - Deglingos,134773633,0.0,10,winamaxpokertour,turbo,0.0
+125,Starting Block - Deglingos,134775029,0.0,10,winamaxpokertour,turbo,0.0
+126,Starting Block Winamax Poker Tour,134761919,0.0,10,winamaxpokertour,turbo,0.0
+127,FAST FOOD,133301447,904.5,201,normal,turbo,4.5
+128,Hold'em,133301170,567.0,63,normal,normal,9.0
+129,KILL THE FISH,133300965,1662.5,475,knockout,semiturbo,3.5
+130,MiniRoll,133300801,68.86,313,normal,semiturbo,0.22
+131,Hold'em [180 Max],133720335,66.6,74,normal,turbo,0.9
+132,KILL THE FISH,133719848,1827.0,522,knockout,semiturbo,3.5
+133,LE TOTEM,133720513,7902.0,1384,normal,semiturbo,4.5
+134,Starting Block Winamax Poker Tour,135240855,0.0,10,winamaxpokertour,turbo,0.0
+135,FAST FOOD,136660777,1512.0,291,knockout,turbo,2.25
+136,Hold'em,137396991,488.7,181,normal,turbo,2.7
+137,Kill The Fish,137396627,1066.5,237,knockout,turbo,2.25
+138,Kill The Fish,137397029,2281.5,507,knockout,semiturbo,2.25
+139,Starting Block - Deglingos,138936702,0.0,10,winamaxpokertour,turbo,0.0
+140,Starting Block Winamax Poker Tour,138937714,0.0,10,winamaxpokertour,turbo,0.0
+141,Hold'em,137846835,418.5,155,normal,turbo,2.7
+142,Kill The Fish,137846545,1701.0,378,knockout,turbo,2.25
+143,Kill The Fish,137846844,1746.0,388,knockout,semiturbo,2.25
+144,Kill The Fish,138055241,1458.0,324,knockout,turbo,2.25
+145,Kill The Fish,138261480,3546.0,788,knockout,semiturbo,2.25
+146,Kill The Fish,138261638,3726.0,828,knockout,normal,2.25
+147,FAST FOOD,138376192,1273.5,265,knockout,turbo,2.25
+148,Freeroll,138375907,100.0,4691,normal,turbo,0.0
+149,Kill The Fish,138376106,2875.5,639,knockout,normal,2.25
+150,Kill The Fish,138376115,1957.5,435,knockout,semiturbo,2.25
+151,MiniRoll,138583332,165.44,752,normal,semiturbo,0.22
+152,MiniRoll,138583704,114.3,254,normal,semiturbo,0.45
+153,DÃ©glingos,138884606,342.9,127,madtilt,turbo,2.7
+154,Hold'em,138884325,402.3,149,normal,turbo,2.7
+155,Kill The Fish,138884357,2218.5,493,knockout,semiturbo,2.25
+156,DÃ©glingos,138988517,267.3,99,madtilt,turbo,2.7
+157,Kill The Fish,138988015,3672.0,816,knockout,semiturbo,2.25
+158,Kill The Fish,138988206,2500.0,479,knockout,normal,2.25
+159,DÃ©glingos,139445035,100.0,36,madtilt,turbo,0.9
+160,Freeroll,139444424,100.0,4178,normal,turbo,0.0
+161,Qualif. DÃ©glingos - Ticket 10â‚¬,139444540,29.7,26,qualifier,turbo,0.45
+162,DÃ©glingos,139913976,125.0,58,madtilt,turbo,1.8
+163,DÃ©glingos,139913979,100.0,93,madtilt,turbo,0.9
+164,Kill The Fish,139913441,1813.5,403,knockout,turbo,2.25
+165,Kill The Fish,139913478,2000.0,438,knockout,normal,2.25
+166,Kill The Fish,139913485,1543.5,343,knockout,semiturbo,2.25
+167,Kill The Fish,139913502,2610.0,290,knockout,semiturbo,4.5
+168,MiniRoll,139913262,151.36,688,normal,semiturbo,0.22
+169,Qualif. DÃ©glingos - Ticket 50â‚¬,139913405,50.0,10,qualifier,turbo,2.7
+170,Qualif. DÃ©glingos - Ticket 50â‚¬,139913414,81.0,19,qualifier,turbo,1.8
+171,Starting Block - Deglingos,141895058,0.0,10,winamaxpokertour,turbo,0.0
+172,Starting Block Winamax Poker Tour,141895638,0.0,10,winamaxpokertour,turbo,0.0
+173,Super Sat SUNDAY SURPRISE,139913359,55.8,31,qualifier,turbo,1.8
+174,Super Sat SUNDAY SURPRISE,140595937,360.0,200,qualifier,turbo,1.8
+175,Freeroll,141052445,100.0,5000,normal,turbo,0.0
+176,Hold'em,141053058,71.1,79,normal,semiturbo,0.9
+177,MiniRoll,141361748,156.86,713,normal,semiturbo,0.22
+178,Qualif. Ticket 5â‚¬,141361885,27.45,47,qualifier,semiturbo,0.45
+179,Qualif. Ticket 5â‚¬,141362794,87.3,97,qualifier,semiturbo,0.9
+180,Hold'em,144334384,50.4,67,normal,turbo,0.45
+181,MiniRoll,144333433,172.26,783,normal,semiturbo,0.22
+182,Kill The Fish,144475473,1764.0,392,knockout,semiturbo,2.25
+183,Kill The Fish,144476304,1930.5,429,knockout,turbo,2.25
+184,MiniRoll,144475051,153.12,696,normal,semiturbo,0.22
+185,DÃ©glingos,144622122,337.5,75,madtilt,turbo,4.5
+186,Hold'em,144621695,400.0,148,normal,turbo,2.7
+187,Kill The Fish,144621519,3645.0,810,knockout,semiturbo,2.25
+188,Kill The Fish,144621704,3946.5,877,knockout,normal,2.25
+189,MiniRoll,144621728,108.9,495,normal,semiturbo,0.22
+190,Qualif. DÃ©glingos - Ticket 10â‚¬,144621372,29.7,35,qualifier,turbo,0.45
+191,MiniRoll,145206017,64.02,291,normal,semiturbo,0.22
+192,MiniRoll,145206018,83.82,381,normal,semiturbo,0.22
+193,Freeroll,145460831,100.0,4458,normal,turbo,0.0
+194,Freeroll,145460833,100.0,5000,normal,turbo,0.0
+195,MiniRoll,145336977,181.34,597,normal,turbo,0.22
+196,Hold'em,145720740,567.0,210,normal,turbo,2.7
+197,Hold'em,145720934,137.7,153,normal,semiturbo,0.9
+198,MiniRoll,145720341,61.16,278,normal,semiturbo,0.22
+199,Freeroll,146882842,150.0,5000,normal,turbo,0.0
+200,MiniRoll,146883245,177.8,284,normal,semiturbo,0.45
+201,VIP Freeroll: Chrome,146882989,1000.0,4662,special,semiturbo,0.0
+202,MiniRoll,147598992,72.6,330,normal,semiturbo,0.22
+203,Freeroll,147843170,150.0,5000,normal,turbo,0.0
+204,MiniRoll,147843146,168.52,766,normal,semiturbo,0.22
+205,DÃ©glingos,148978543,200.0,39,madtilt,turbo,4.5
+206,Freeroll,148977827,150.0,5000,normal,turbo,0.0
+207,Freeroll,148977987,150.0,8996,normal,turbo,0.0
+208,Freeroll,149345700,150.0,5000,normal,turbo,0.0
+209,Hold'em,149345646,5166.0,151,normal,semiturbo,9.0
+210,Freeroll,149459034,50.0,2730,normal,turbo,0.0
+211,Freeroll,149572855,100.0,5000,normal,turbo,0.0
+212,Freeroll,149682857,100.0,5000,normal,turbo,0.0
+213,Freeroll,149682859,150.0,5000,normal,turbo,0.0
+214,Freeroll,150476119,150.0,7472,normal,turbo,0.0
+215,Kill The Fish,150476370,2187.0,486,knockout,semiturbo,2.25
+216,DÃ©glingos,152096185,167.4,93,madtilt,turbo,1.8
+217,DÃ©glingos,152096196,250.0,79,madtilt,turbo,2.7
+218,DÃ©glingos,152096467,292.5,65,madtilt,turbo,4.5
+219,DÃ©glingos,152096516,150.0,44,madtilt,turbo,2.7
+220,Hold'em,152095931,369.9,137,normal,turbo,2.7
+221,Hold'em,152096462,639.0,142,normal,turbo,4.5
+222,Kill The Fish,152095950,1552.5,345,knockout,semiturbo,2.25
+223,COCKTAIL,152323003,25000.0,4151,normal,normal,4.5
+224,DÃ©glingos,152323772,218.7,81,madtilt,turbo,2.7
+225,HARA-KIRI,152323079,500.0,166,knockout,turbo,1.35
+226,Kill The Fish,152323016,2358.0,262,knockout,semiturbo,4.5
+227,LA FIEVRE,152323295,50000.0,3226,normal,normal,9.0
+228,DÃ©glingos,152450634,150.0,53,madtilt,turbo,1.8
+229,FAST FOOD,152450276,2000.0,423,knockout,turbo,2.25
+230,Freeroll,152450027,100.0,5000,normal,turbo,0.0
+231,DÃ©glingos,153924333,288.0,64,madtilt,turbo,4.5
+232,DÃ©glingos,153924334,217.8,121,madtilt,turbo,1.8
+233,DÃ©glingos,153924357,186.3,69,madtilt,turbo,2.7
+234,FAST FOOD,153923832,2000.0,340,knockout,turbo,2.25
+235,Freeroll,153923589,100.0,4769,normal,turbo,0.0
+236,Hold'em,153923851,711.0,158,normal,turbo,4.5
+237,Kill The Fish,153923756,1611.0,179,knockout,semiturbo,4.5
+238,DÃ©glingos,154140538,200.0,25,madtilt,turbo,4.5
+239,DÃ©glingos,154140539,180.0,44,madtilt,turbo,2.7
+240,Kill The Fish,154140321,2011.5,447,knockout,semiturbo,2.25
+241,HARA-KIRI,154357291,456.3,169,knockout,turbo,1.35
+242,DÃ©glingos,154818255,229.5,51,madtilt,turbo,4.5
+243,MiniRoll,154817570,51.26,233,normal,semiturbo,0.22
+244,Kill The Fish,156709533,2043.0,454,knockout,normal,2.25
+245,Kill The Fish,156709729,1939.5,431,knockout,semiturbo,2.25
+246,Kill The Fish,156710233,1332.0,296,knockout,turbo,2.25
+247,COCKTAIL,157193745,19800.0,4400,normal,normal,4.5
+248,FREE FIGHT Qualification,157193362,600.0,29,qualifier,turbo,18.0
+249,Hold'em,157193511,598.5,133,normal,turbo,4.5
+250,Kill The Fish,157193328,2500.0,137,knockout,semiturbo,4.5
+251,DIGESTIF,157286795,8000.0,636,normal,normal,9.0
+252,DÃ©glingos,157287077,150.0,26,madtilt,turbo,2.7
+253,FAST FOOD,157287142,2448.0,544,knockout,turbo,2.25
+254,DÃ©glingos,157377918,100.0,57,madtilt,turbo,0.9
+255,DÃ©glingos,157377930,251.1,93,madtilt,turbo,2.7
+256,Hold'em,157377699,391.5,145,normal,turbo,2.7
+257,Kill The Fish,157377720,1822.5,405,knockout,semiturbo,2.25
+258,Kill The Fish,157378188,1435.5,319,knockout,turbo,2.25
+259,Qualif. DÃ©glingos - Ticket 10â‚¬,157377490,24.3,27,qualifier,turbo,0.45
+260,Freeroll,157957138,150.0,5000,normal,turbo,0.0
+261,Freeroll,157957140,150.0,5000,normal,turbo,0.0
+262,Freeroll,157957141,150.0,8748,normal,turbo,0.0
+263,Freeroll,158148586,100.0,4373,normal,turbo,0.0
+264,Freeroll,158148587,100.0,4418,normal,turbo,0.0
+265,Hold'em,158149377,400.0,69,normal,turbo,4.5
+266,FAST FOOD,158668963,1890.0,420,knockout,turbo,2.25
+267,Freeroll,158668414,100.0,4587,normal,turbo,0.0
+268,Hold'em [180 Max],158668986,150.0,65,normal,turbo,1.8
+269,Kill The Fish,158668700,1200.0,216,knockout,semiturbo,2.25
+270,DÃ©glingos,158769081,250.0,54,madtilt,turbo,2.7
+271,Hit&Run Ticket 10â‚¬,158769387,63.0,35,wys,turbo,1.8
+272,Hit&Run Ticket 2â‚¬,158769365,28.35,63,wys,semiturbo,0.45
+273,Hold'em [180 Max],158768991,216.0,120,normal,normal,1.8
+274,Hold'em [180 Max],158769136,150.0,91,normal,turbo,0.9
+275,Hold'em [180 Max],158769143,135.0,150,normal,turbo,0.9
+276,Hold'em,158768844,300.0,74,normal,turbo,2.7
+277,Kill The Fish,158768861,1494.0,332,knockout,semiturbo,2.25
+278,Kill The Fish,158769339,1026.0,228,knockout,turbo,2.25
+279,MiniRoll,158768540,72.82,331,normal,semiturbo,0.22
+280,DÃ©glingos,159259283,224.1,83,madtilt,turbo,2.7
+281,Freeroll,159258734,100.0,4776,normal,turbo,0.0
+282,Freeroll,159258739,150.0,5000,normal,turbo,0.0
+283,Hit&Run Ticket 10â‚¬,159259610,108.0,60,wys,semiturbo,1.8
+284,Hit&Run Ticket 10â‚¬,159259614,50.0,18,wys,turbo,1.8
+285,Hit&Run Ticket 10â‚¬,159259619,133.2,74,wys,semiturbo,1.8
+286,Hit&Run Ticket 5â‚¬,159259634,85.5,95,wys,semiturbo,0.9
+287,Hold'em [180 Max],159259382,150.0,87,normal,turbo,0.9
+288,Hold'em,159259027,432.0,160,normal,turbo,2.7
+289,Kill The Fish,159258790,1624.5,361,knockout,turbo,2.25
+290,Kill The Fish,159259036,1660.5,369,knockout,semiturbo,2.25
+291,MiniRoll,159258726,149.82,681,normal,semiturbo,0.22
+292,POPCORN,159259577,4500.0,2075,knockout,normal,0.9
+293,SUMMER SHOTS KILL'EM ALL 1,159290385,19723.5,4383,knockout,normal,2.25
+294,Super Sat Summer Shots Ticket 2â‚¬,159756609,25.52,116,qualifier,semiturbo,0.22
+295,Freeroll,159531201,100.0,4549,normal,turbo,0.0
+296,Freeroll,159531204,100.0,4258,normal,turbo,0.0
+297,Kill The Fish,159531532,1642.5,365,knockout,semiturbo,2.25
+298,Kill The Fish,159532006,1188.0,264,knockout,turbo,2.25
+299,MEGASAT Summer Shots Event 52,160539620,31.5,35,qualifier,semiturbo,0.9
+300,Qualif. Ticket 10â‚¬,159531854,70.0,35,qualifier,semiturbo,1.8
+301,Qualif. Ticket 5â‚¬,159531814,50.0,48,qualifier,semiturbo,0.9
+302,Super Sat Summer Shots Ticket 2â‚¬,159756648,15.4,70,qualifier,semiturbo,0.22
+303,Freeroll,159610741,100.0,4726,normal,turbo,0.0
+304,Hold'em [180 Max],159611440,118.8,132,normal,turbo,0.9
+305,COCKTAIL,160396203,17415.0,3870,normal,normal,4.5
+306,Freeroll,160395702,100.0,4564,normal,turbo,0.0
+307,Freeroll,160395703,100.0,3584,normal,turbo,0.0
+308,Freeroll,160395830,150.0,7889,normal,turbo,0.0
+309,Hold'em [180 Max],160396344,367.2,136,normal,turbo,2.7
+310,MiniRoll,160395685,56.32,256,normal,semiturbo,0.22
+311,Qualif. Ticket 5â‚¬,160396379,55.8,62,qualifier,semiturbo,0.9
+312,DÃ©glingos,160493038,100.0,53,madtilt,turbo,1.8
+313,FAST FOOD,160492767,1500.0,263,knockout,turbo,2.25
+314,Freeroll,160492341,100.0,4342,normal,turbo,0.0
+315,Freeroll,160492342,100.0,3743,normal,turbo,0.0
+316,Hit&Run Ticket 10â‚¬,160493115,127.8,71,wys,semiturbo,1.8
+317,Hit&Run Ticket 2â‚¬,160493090,24.3,54,wys,semiturbo,0.45
+318,Hit&Run Ticket 2â‚¬,160493091,20.0,41,wys,semiturbo,0.45
+319,Hit&Run Ticket 2â‚¬,160493093,21.6,48,wys,semiturbo,0.45
+320,Hit&Run Ticket 5â‚¬,160493134,40.0,36,wys,semiturbo,0.9
+321,Hit&Run Ticket 5â‚¬,160493135,46.8,52,wys,semiturbo,0.9
+322,MiniRoll,160492630,64.68,294,normal,semiturbo,0.22
+323,Freeroll,160592635,100.0,4167,normal,turbo,0.0
+324,FAST FOOD,160695400,1500.0,302,knockout,turbo,2.25
+325,Freeroll,160695086,100.0,2945,normal,turbo,0.0
+326,Hit&Run Ticket 10â‚¬,160695988,73.8,41,wys,turbo,1.8
+327,Hit&Run Ticket 2â‚¬,160695970,30.6,68,wys,semiturbo,0.45
+328,Hit&Run Ticket 5â‚¬,160696019,50.0,35,wys,semiturbo,0.9
+329,Hit&Run Ticket 10â‚¬,160883353,167.4,93,wys,semiturbo,1.8
+330,MiniRoll,160882389,98.56,448,normal,semiturbo,0.22
+331,Freeroll,160989006,100.0,4573,normal,turbo,0.0
+332,Freeroll,160989008,150.0,5000,normal,turbo,0.0
+333,MiniRoll,160988986,12.1,55,normal,semiturbo,0.22
+334,MiniRoll,160989348,82.8,184,normal,semiturbo,0.45
+335,COCKTAIL,161089088,15000.0,2939,normal,normal,4.5
+336,Freeroll,161088737,150.0,7168,normal,turbo,0.0
+337,Super Freeroll Stade 1 - DÃ©glingos !,162385930,0.0,6,freeroll100k,turbo,0.0
+338,Super Freeroll Stade 1 - DÃ©glingos !,162387584,0.0,6,freeroll100k,turbo,0.0
+339,Super Freeroll Stade 1,162385536,0.0,6,freeroll100k,turbo,0.0
+340,Super Freeroll Stade 1,162386052,0.0,6,freeroll100k,turbo,0.0
+341,Super Freeroll Stade 1,162386186,0.0,6,freeroll100k,turbo,0.0
+342,Super Freeroll Stade 1,162386799,0.0,6,freeroll100k,turbo,0.0
+343,Super Freeroll Stade 2 - DÃ©glingos !,162387876,0.0,6,freeroll100k,turbo,0.0
+344,COCKTAIL,161188318,15000.0,2852,normal,normal,4.5
+345,Freeroll,161187747,100.0,3678,normal,turbo,0.0
+346,Hit&Run Ticket 5â‚¬,161188644,69.3,77,wys,semiturbo,0.9
+347,Super Freeroll Stade 1,162484430,0.0,6,freeroll100k,turbo,0.0
+348,Super Freeroll Stade 3 - DÃ©glingos !,162485171,0.0,6,freeroll100k,turbo,0.0
+349,Freeroll,161453208,100.0,4401,normal,turbo,0.0
+350,Freeroll,161453210,150.0,4715,normal,turbo,0.0
+351,Freeroll,161453214,150.0,5713,normal,turbo,0.0
+352,MiniRoll,161453180,63.14,287,normal,semiturbo,0.22
+353,Freeroll,161644643,100.0,4248,normal,turbo,0.0
+354,Freeroll,161644645,150.0,5000,normal,turbo,0.0
+355,Freeroll,161745630,100.0,3225,normal,turbo,0.0
+356,Freeroll,161745632,100.0,4047,normal,turbo,0.0
+357,Freeroll,161745752,150.0,7712,normal,turbo,0.0
+358,Freeroll,161745754,250.0,8608,normal,turbo,0.0
+359,Freeroll,161745756,150.0,5000,normal,turbo,0.0
+360,Freeroll,161930544,50.0,2851,normal,turbo,0.0
+361,Freeroll,161930546,100.0,4053,normal,turbo,0.0
+362,Freeroll,162372580,150.0,5805,normal,turbo,0.0
+363,Freeroll,162372583,250.0,7975,normal,turbo,0.0
+364,Freeroll,162372586,150.0,5000,normal,turbo,0.0
+365,Freeroll,162372169,50.0,3357,normal,turbo,0.0
+366,Freeroll,162628294,100.0,3356,normal,turbo,0.0
+367,Hold'em,162629002,23.32,106,normal,semiturbo,0.22
+368,COCKTAIL,162952003,13108.5,2913,normal,normal,4.5
+369,DÃ©glingos,162951420,218.7,81,madtilt,turbo,2.7
+370,Freeroll,162949751,100.0,3431,normal,turbo,0.0
+371,Freeroll,162949755,150.0,3603,normal,turbo,0.0
+372,Hit&Run Ticket 10â‚¬,162952351,100.8,56,wys,semiturbo,1.8
+373,Hit&Run Ticket 10â‚¬,162952355,50.0,27,wys,turbo,1.8
+374,Kill The Fish,162950377,1845.0,205,knockout,semiturbo,4.5
+375,Kill The Fish,162952213,1242.0,276,knockout,turbo,2.25
+376,MiniRoll,162949712,68.86,313,normal,semiturbo,0.22
+377,Super Freeroll Stade 1 - DÃ©glingos !,163986018,0.0,6,freeroll100k,turbo,0.0
+378,Super Freeroll Stade 1 - DÃ©glingos !,163987237,0.0,6,freeroll100k,turbo,0.0
+379,Super Freeroll Stade 1,163985056,0.0,6,freeroll100k,turbo,0.0
+380,Kill The Fish,162950265,2002.5,445,knockout,semiturbo,2.25
+381,Freeroll,162949758,150.0,4351,normal,turbo,0.0
+382,Freeroll,162949762,150.0,4292,normal,turbo,0.0
+383,MiniRoll,162949715,110.66,503,normal,semiturbo,0.22
+384,VIP Freeroll: Chrome,162950082,1000.0,6500,special,semiturbo,0.0
+385,Hit&Run Ticket 5â‚¬,163037955,50.0,50,wys,semiturbo,0.9
+386,Kill The Fish,163037185,1179.0,262,knockout,turbo,2.25
+387,MiniRoll,163037122,73.04,332,normal,semiturbo,0.22
+388,Mix Max,164770609,117.92,536,normal,normal,0.22
+389,Super Freeroll Stade 1 - DÃ©glingos !,166189434,0.0,6,freeroll100k,turbo,0.0
+390,Super Freeroll Stade 1 - DÃ©glingos !,166189851,0.0,6,freeroll100k,turbo,0.0
+391,Super Freeroll Stade 1 - DÃ©glingos !,166190773,0.0,6,freeroll100k,turbo,0.0
+392,Super Freeroll Stade 1 - DÃ©glingos !,166191431,0.0,6,freeroll100k,turbo,0.0
+393,Super Freeroll Stade 1 - DÃ©glingos !,166191852,0.0,6,freeroll100k,turbo,0.0
+394,Super Freeroll Stade 1,166189456,0.0,6,freeroll100k,turbo,0.0
+395,Freeroll,164848478,150.0,5000,normal,turbo,0.0
+396,Freeroll,165028914,100.0,3726,normal,turbo,0.0
+397,Freeroll,165028915,100.0,3713,normal,turbo,0.0
+398,MiniRoll,165028908,155.38,479,normal,turbo,0.22
+399,Mix Max,165451750,60.06,273,normal,normal,0.22
+400,COCKTAIL,165918698,18000.0,3381,normal,normal,4.5
+401,Kill The Fish,165918715,1500.0,315,knockout,semiturbo,2.25
+402,LA FIEVRE,165918962,40000.0,3311,normal,normal,9.0
+403,Hit&Run Ticket 5â‚¬,165919457,69.3,77,wys,semiturbo,0.9
+404,Kill The Fish,165918918,2943.0,654,knockout,semiturbo,2.25
+405,COCKTAIL,166125078,12000.0,2135,normal,normal,4.5
+406,Freeroll,166124561,150.0,3903,normal,turbo,0.0
+407,Freeroll,166124682,250.0,6941,normal,turbo,0.0
+408,Freeroll,166124683,150.0,5000,normal,turbo,0.0
+409,Hit&Run Ticket 5â‚¬,166125496,50.0,28,wys,semiturbo,0.9
+410,Kill The Fish,166124674,1170.0,260,knockout,turbo,2.25
+411,Kill The Fish,166124708,2178.0,242,knockout,semiturbo,4.5
+412,LA FIEVRE,166125043,23022.0,2558,normal,normal,9.0
+413,POPCORN,166125426,3000.0,1183,knockout,normal,0.9
+414,Super Freeroll Stade 1 - DÃ©glingos !,167539236,0.0,6,freeroll100k,turbo,0.0
+415,Super Freeroll Stade 1 - DÃ©glingos !,167542552,0.0,6,freeroll100k,turbo,0.0
+416,Super Freeroll Stade 1 - DÃ©glingos !,167548597,0.0,6,freeroll100k,turbo,0.0
+417,Super Freeroll Stade 2,167548154,0.0,6,freeroll100k,turbo,0.0
+418,Freeroll,166233520,100.0,3865,normal,turbo,0.0
+419,Freeroll,166233521,100.0,3914,normal,turbo,0.0
+420,Super Freeroll Stade 1,167612537,0.0,6,freeroll100k,turbo,0.0
+421,Freeroll,166538871,250.0,6649,normal,turbo,0.0
+422,Freeroll,166538872,150.0,5000,normal,turbo,0.0
+423,Freeroll,166633305,150.0,4106,normal,turbo,0.0
+424,Freeroll,166633306,150.0,5000,normal,turbo,0.0
+425,COCKTAIL,166739548,15000.0,3102,normal,normal,4.5
+426,FAST FOOD,166739363,1750.5,389,knockout,turbo,2.25
+427,Freeroll,166739124,50.0,1796,normal,turbo,0.0
+428,HARA-KIRI,166739513,500.0,144,knockout,turbo,1.35
+429,Hit&Run Ticket 5â‚¬,166740052,45.0,50,wys,semiturbo,0.9
+430,Hit&Run Ticket 5â‚¬,166740070,50.0,22,wys,semiturbo,0.9
+431,Kill The Fish,166739295,1737.0,386,knockout,semiturbo,2.25
+432,Super Freeroll Stade 1 - DÃ©glingos !,168078747,0.0,6,freeroll100k,turbo,0.0
+433,Super Freeroll Stade 1,168098772,0.0,6,freeroll100k,turbo,0.0
+434,MiniRoll,167498023,98.12,446,normal,semiturbo,0.22
+435,Freeroll,169127453,150.0,4744,normal,turbo,0.0
+436,Kill The Fish,169127649,2034.0,226,knockout,semiturbo,4.5
+437,Kill The Fish,169128319,1057.5,235,knockout,turbo,2.25
+438,FAST FOOD,169224295,1500.0,302,knockout,turbo,2.25
+439,Freeroll,169224022,100.0,3616,normal,turbo,0.0
+440,Freeroll,173076705,150.0,5000,normal,turbo,0.0
+441,Freeroll,173076706,150.0,7297,normal,turbo,0.0
+442,Freeroll,173076707,250.0,8356,normal,turbo,0.0
+443,Starting Block - Deglingos,174438342,0.0,10,winamaxpokertour,turbo,0.0
+444,Starting Block Winamax Poker Tour,174438961,0.0,10,winamaxpokertour,turbo,0.0
+445,Freeroll,173076698,50.0,3328,normal,turbo,0.0
+446,Freeroll,173174298,100.0,3122,normal,turbo,0.0
+447,Freeroll,173267903,100.0,5000,normal,turbo,0.0
+448,Freeroll,173376529,100.0,4982,normal,turbo,0.0
+449,Freeroll,173376531,150.0,5000,normal,turbo,0.0
+450,Freeroll,173376524,50.0,3700,normal,turbo,0.0
+451,Kill The Fish,179313153,1480.5,329,knockout,turbo,2.25
+452,Kill The Fish,179416767,2718.0,604,knockout,normal,2.25
+453,Starting Block Winamax Poker Tour,181145111,0.0,10,winamaxpokertour,turbo,0.0
+454,AFTER FOOT,185717104,1639.8,911,normal,turbo,1.8
+455,POPCORN,185717113,4010.4,2228,knockout,normal,0.9
+456,Kill The Fish,185851558,1759.5,391,knockout,semiturbo,2.25
+457,Hold'em [180 Max],185972572,157.5,175,normal,turbo,0.9
+458,Kill The Fish,185851023,2632.5,585,knockout,semiturbo,2.25
+459,Kill The Fish,185972116,1647.0,366,knockout,semiturbo,2.25
+460,Kill The Fish,185972307,841.5,187,knockout,turbo,2.25
+461,Kill The Fish,186093468,1539.0,342,knockout,turbo,2.25
+462,Kill The Fish,186093568,2092.5,465,knockout,normal,2.25
+463,Kill The Fish,186094442,1723.5,383,knockout,semiturbo,2.25
+464,KILL THE PEOPLE,186093582,5188.5,1153,knockout,normal,2.25
+465,Kill The Fish,186211124,1818.0,404,knockout,semiturbo,2.25
+466,Freeroll,195996122,150.0,8151,normal,turbo,0.0
+467,FAST FOOD,198393852,1127.25,398,knockout,turbo,4.5
+468,Freeroll,198393367,100.0,4098,normal,turbo,0.0
+469,Hit&Run Ticket 10â‚¬,198394080,70.2,39,wys,semiturbo,1.8
+470,Hold'em [180 Max],198393871,70.0,67,normal,turbo,0.9
+471,Kill The Fish,198393849,648.0,144,knockout,semiturbo,9.0
+472,POPCORN,198657535,1333.8,1151,knockout,normal,1.8
+473,FAST FOOD,198756432,1336.5,448,knockout,turbo,4.5
+474,Hit&Run Ticket 5â‚¬,198757030,40.0,38,wys,semiturbo,0.9
+475,Hold'em,198756452,571.5,127,normal,turbo,4.5
+476,Kill The Fish,198756336,659.25,293,knockout,turbo,4.5
+477,Kill The Fish,198756368,828.0,368,knockout,normal,4.5
+478,Kill The Fish,198756372,693.0,308,knockout,semiturbo,4.5
+479,Qualif. Ticket 10â‚¬,198756854,55.8,31,qualifier,semiturbo,1.8
+480,TNT,198756385,2506.5,446,knockout,semiturbo,9.0
+481,Freeroll,200358405,100.0,3733,normal,turbo,0.0
+482,Freeroll,200358407,100.0,3639,normal,turbo,0.0
+483,Freeroll,200358409,100.0,3640,normal,turbo,0.0
+484,Freeroll,200358412,150.0,3905,normal,turbo,0.0
+485,MiniRoll,200358865,44.0,200,normal,semiturbo,0.22
+486,Super Freeroll Stade 1 - DÃ©glingos !,201638353,0.0,6,freeroll100k,turbo,0.0
+487,Super Freeroll Stade 1 - DÃ©glingos !,201638540,0.0,6,freeroll100k,turbo,0.0
+488,AFTER FOOT,202760499,1693.8,736,normal,turbo,1.8
+489,BIG BANG,202760299,2407.5,887,knockout,normal,4.5
+490,PAYBACK,202760035,990.0,220,knockout,semiturbo,9.0
+491,DÃ©glingos,202849149,213.3,79,madtilt,turbo,2.7
+492,Kill The Fish,202760310,972.0,368,knockout,semiturbo,4.5
+493,Kill The Fish,202848852,1008.0,448,knockout,normal,4.5
+494,Super Freeroll Stade 1 - DÃ©glingos !,204165553,0.0,6,freeroll100k,turbo,0.0
+495,Super Freeroll Stade 1,204165579,0.0,6,freeroll100k,turbo,0.0
+496,HARA-KIRI,203481939,403.65,251,knockout,turbo,2.7
+497,Kill The Fish,203482457,343.5,570,knockout,normal,0.9
+498,Kill The Fish,203482522,1172.25,521,knockout,semiturbo,4.5
+499,POPCORN,203482520,1136.7,982,knockout,normal,1.8
+500,Freeroll,205435680,50.0,4010,normal,turbo,0.0
+501,Freeroll,205529892,50.0,3511,normal,turbo,0.0
+502,Freeroll,205529894,100.0,5000,normal,turbo,0.0
+503,Hold'em,219008071,76.78,310,normal,turbo,0.22
+504,POPCORN,219007902,1852.2,1552,knockout,normal,1.8
+505,Kill The Fish,219007586,1008.0,448,knockout,semiturbo,4.5
+506,MiniRoll,219007054,75.9,345,normal,turbo,0.22
+507,DESPERADO,236599248,3199.5,1049,knockout,normal,4.5
+508,ZONE 30,236599546,219.6,192,normal,normal,1.8
+509,Kill The Fish,237391973,645.75,287,knockout,semiturbo,4.5
+510,FAST FOOD,237662375,1800.75,446,knockout,turbo,4.5
+511,Freeroll,237662161,100.0,4959,normal,turbo,0.0
+512,ZONE 30,237662626,185.4,159,normal,normal,1.8
+513,FAST FOOD,237758651,1607.25,490,knockout,turbo,4.5
+514,FAST FOOD,237863727,1607.25,488,knockout,turbo,4.5
+515,ZONE 30,237863976,194.4,144,normal,normal,1.8
+516,Kill The Fish,260228524,1516.5,548,knockout,semiturbo,4.5
+517,Kill The Fish,260228542,496.8,452,knockout,semiturbo,1.8
+518,Freeroll,313826791,50.0,4046,normal,turbo,0.0
+519,Last Chance MAD MAX,314052091,126.0,26,qualifier,turbo,4.5
+520,RODEO,314051495,1788.75,795,knockout,semiturbo,4.5
+521,DESPERADO,314939769,4596.75,1596,knockout,normal,4.5
+522,Kill The Fish,314941185,1145.25,410,knockout,semiturbo,4.5
+523,Kill The Fish,315163144,965.25,358,knockout,semiturbo,4.5
+524,LE SUD VS LE RESTE DU MONDE,403248783,5118.3,4209,knockout,normal,1.8
+525,WESTERN,403247154,913.5,1650,knockout,normal,0.9
+526,Freeroll,405974258,150.0,4916,normal,turbo,0.0
+527,Freeroll,405974261,150.0,10908,normal,turbo,0.0
+528,Freeroll,405974264,150.0,13272,normal,turbo,0.0
+529,Freeroll,405974268,250.0,15005,normal,turbo,0.0
+530,Hit&Run Ticket 10\â‚¬,405975743,54.0,52,wys,turbo,0.9
+531,Qualif. Ticket 2\â‚¬,405975422,21.56,87,qualifier,turbo,0.22
+532,Freeroll,408037770,100.0,7642,normal,turbo,0.0
+533,Freeroll,408037774,100.0,6876,normal,turbo,0.0
+534,Freeroll,408037775,150.0,10852,normal,turbo,0.0
+535,Freeroll,408037777,150.0,9964,normal,turbo,0.0
+536,Freeroll,408037781,150.0,10185,normal,turbo,0.0
+537,PISTOLERO,408038006,5751.0,2066,knockout,semiturbo,4.5
+538,SAMOURAI,408039336,8372.25,3034,knockout,semiturbo,4.5
+539,Freeroll,408037757,50.0,4217,normal,turbo,0.0
+540,Freeroll,408387614,150.0,9274,normal,turbo,0.0
+541,Freeroll,408387616,150.0,13425,normal,turbo,0.0
+542,Freeroll,408387620,250.0,13716,normal,turbo,0.0
+543,Freeroll,408387621,150.0,10381,normal,turbo,0.0
+544,Freeroll,408387592,50.0,4906,normal,turbo,0.0
+545,Freeroll,408739549,100.0,5550,normal,turbo,0.0
+546,Freeroll,408739551,150.0,5827,normal,turbo,0.0
+547,Freeroll,408739554,150.0,10494,normal,turbo,0.0
+548,Freeroll,408739556,150.0,12617,normal,turbo,0.0
+549,Freeroll,409060348,100.0,5354,normal,turbo,0.0
+550,Freeroll,409060352,100.0,6808,normal,turbo,0.0

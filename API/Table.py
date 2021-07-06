@@ -17,6 +17,8 @@ class Street:
         self.street_pot = 0
         self.highest_bet = 0
         self.index=0
+        self.started = False
+        self.current_player = None
 
     def add_action(self, action):
         self.actions.append(action)
@@ -47,11 +49,31 @@ class Street:
         else:
             self.bet(player, player.get_to_call())
 
+    def find_next_player(self):
+        players = self.active_players
+
+        pass
+
+    def get_action(self, i):
+        try:
+            return self.actions[i]
+        except IndexError:
+            return None
+
+    def get_action_info(self, i):
+        try:
+            action = self.actions[i]
+            return action.player.seat, action.move, action.value
+        except IndexError:
+            return None, None, None
+
+    def get_actions_infos(self, n: int = 24):
+        return np.hstack([self.get_action_info(i) for i in range(n)])
+
     def reset_bets(self):
         self.highest_bet = 0
         for player in self.active_players:
             player.current_bet = 0
-
 
 
 class Action:
@@ -78,7 +100,8 @@ class SDAction:
 
 class Tournament:
     """Class for played tournaments"""
-    def __init__(self, ident, platform, name, buyin, rake, money_type):
+    def __init__(self, ident: str = 'x', platform: str = 'Winamax', name: str = 'Kill The Fish', buyin: float = 5,
+                 rake: float = 0.5, money_type: str = 'Real'):
         self.id = ident
         self.platform = platform
         self.name = name
@@ -110,6 +133,8 @@ class Player:
         self.hero = False
         self.current_bet = 0
         self.to_call = 0
+        self.position = None
+
 
     def is_hero(self, combo: API.hand.Combo):
         self.hero = True
@@ -138,7 +163,7 @@ class Player:
         return self.to_call
 
     def set_pot_odds(self, table):
-        if self.to_call!=0:
+        if self.to_call != 0:
             self.pot_odds=table.pot/self.to_call
         else:
             self.pot_odds=float("inf")
@@ -161,7 +186,6 @@ class Table:
         self.highest_bet = 0
         self.streets = [Street('PF')]
         self.hero = None
-        self.PF = Street('PF')
 
     def add_action(self, street, action):
         street.actions.append(action)
@@ -201,29 +225,40 @@ class Table:
 
 
     def distribute_positions(self):
+
+        # We get first table length and positions length
         a = len(self.players)
+        # print(a)
         b = len(list(Position))
+        # print(b)
+        # print(list(Position))
         pl_table = []
         #print("Nombre de joueurs:%s" % (a))
         if a<6:
             positions = list(Position)[b-a:]
+            #print(positions)
         else:
             positions = list(Position)[0:a-5]
-            positions.extend(list(Position)[b-a+1:])
+            # print(positions)
+            # print(list(Position)[b-(a-1):])
+            positions.extend(list(Position)[b-5:])
+            # print(positions)
         for player in self.players:
-            try:
-                player.position == Position("BB")
+            if player.position == Position("BB"):
+                # print(player.name)
                 cut = self.players.index(player)
+                # print(cut)
                 #print("Le joueur n° %s a la BB et on coupe le tableau des joueurs à l'index %s" % (player.seat, cut))
                 #print(cut)
                 end = self.players[:cut]
                 start = self.players[cut+1:]
                 bb = self.players[cut]
+                # print(start)
+                # print(end)
+                # print(bb)
                 pl_table.extend(start)
                 pl_table.extend(end)
                 pl_table.append(bb)
-            except:
-                pass
         for i in range(0,len(pl_table)):
             pl_table[i].set_position(positions[i])
 
@@ -231,7 +266,7 @@ class Table:
         self.deck.pop()
 
     def find_active_players(self, street):
-        i=street.index
+        i = street.index
         if i == 0:
             self.streets[i].active_players = self.players
         else:
@@ -239,6 +274,65 @@ class Table:
                 if player.ingame and not player.folded:
                     self.streets[i].active_players.append(player)
 
+    def get_board_card(self, i):
+        try:
+            return self.board[i]
+        except IndexError:
+            return None
+
+    def get_total_board(self):
+        return np.array([self.get_board_card(i) for i in range(5)])
+
+    def get_partial_board(self, progress: int):
+        if progress == 0:
+            return np.array([None]*5)
+        else:
+            return np.hstack(([self.get_board_card(i) for i in range(progress+2)], [None]*(3-progress)))
+
+    def get_player(self, i: int):
+        try:
+            return self.players[i]
+        except IndexError:
+            return None
+
+    def get_player_infos(self, i):
+        try:
+            player = self.players[i]
+            return player.name, player.seat, player.stack, player.position, player.combo, player.hero
+        except IndexError:
+            return None, None, None, None, None, None
+
+    def get_all_players_info(self):
+        return np.hstack([self.get_player_infos(i) for i in range(9)])
+
+    def get_street(self, i):
+        try:
+            return self.streets[i]
+        except:
+            return Street("")
+
+    def get_table_action_info(self,n: int = 24):
+        streets = [self.get_street(i) for i in range(4)]
+        return np.hstack([street.get_actions_infos(n) for street in streets])
+
+    def get_consecutive_actions(self):
+        k = 0
+        actions = self.get_table_action_info()
+        all_actions = self.get_table_action_info().reshape(1,288)
+        prog = 3
+        progress = [prog]
+        all_boards = self.get_partial_board(prog)
+        while k < 96:
+            i = 287-3*k
+            prog = i // 72
+            # print(actions[i],actions[:i+1].shape, actions[i+1:].shape, 287-i)
+            if actions[i]:
+                progress.append(prog)
+                part_actions = np.hstack((actions[:i+1], [None]*(287-i)))
+                all_actions = np.vstack((all_actions, part_actions))
+                all_boards = np.vstack((all_boards, self.get_partial_board(prog)))
+            k += 1
+        return all_actions, np.array(progress), all_boards
 
     def has_flop(self):
         return len(self.streets) >=2
