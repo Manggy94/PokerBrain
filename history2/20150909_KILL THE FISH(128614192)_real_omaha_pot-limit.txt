@@ -1,0 +1,1334 @@
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 0 - HandId: #552393748441464835-1-1441822507 - Omaha pot limit (25/50) - 2015/09/09 18:15:07 UTC
+Table: 'KILL THE FISH(128614192)#002' 6-max (real money) Seat #2 is the button
+Seat 1: opale3366 (10000)
+Seat 2: samsam1482 (10000)
+Seat 3: esncampeone (10000)
+Seat 4: manggy94 (10000)
+Seat 5: pachat 33 (10000)
+Seat 6: DAVIDSON74 (10000)
+*** ANTE/BLINDS ***
+esncampeone posts small blind 25
+manggy94 posts big blind 50
+Dealt to manggy94 [Ts 4s Jc Th]
+*** PRE-FLOP *** 
+pachat 33 calls 50
+DAVIDSON74 folds
+opale3366 calls 50
+samsam1482 calls 50
+esncampeone calls 25
+manggy94 checks
+*** FLOP *** [4c 9c 7d]
+esncampeone checks
+manggy94 checks
+pachat 33 bets 250
+opale3366 folds
+samsam1482 folds
+esncampeone calls 250
+manggy94 calls 250
+*** TURN *** [4c 9c 7d][Ac]
+esncampeone bets 50
+manggy94 folds
+pachat 33 calls 50
+*** RIVER *** [4c 9c 7d Ac][Td]
+esncampeone bets 50
+pachat 33 calls 50
+*** SHOW DOWN ***
+esncampeone shows [5c 2c 4h 3c] (Flush Ace high)
+pachat 33 shows [8c Js Tc 9s] (Flush Ace high)
+pachat 33 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [4c 9c 7d Ac Td]
+Seat 3: esncampeone (small blind) showed [5c 2c 4h 3c] and lost with Flush Ace high
+Seat 5: pachat 33 showed [8c Js Tc 9s] and won 1200 with Flush Ace high
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 0 - HandId: #552393748441464835-2-1441822630 - Omaha pot limit (25/50) - 2015/09/09 18:17:10 UTC
+Table: 'KILL THE FISH(128614192)#002' 6-max (real money) Seat #3 is the button
+Seat 1: opale3366 (9950)
+Seat 2: samsam1482 (9950)
+Seat 3: esncampeone (9600)
+Seat 4: manggy94 (9700)
+Seat 5: pachat 33 (10800)
+Seat 6: DAVIDSON74 (10000)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 25
+pachat 33 posts big blind 50
+Dealt to manggy94 [3h Js 9s 2d]
+*** PRE-FLOP *** 
+DAVIDSON74 folds
+opale3366 calls 50
+samsam1482 folds
+esncampeone folds
+manggy94 folds
+pachat 33 checks
+*** FLOP *** [2h 2s Qc]
+pachat 33 checks
+opale3366 checks
+*** TURN *** [2h 2s Qc][8c]
+pachat 33 checks
+opale3366 bets 125
+pachat 33 calls 125
+*** RIVER *** [2h 2s Qc 8c][2c]
+pachat 33 checks
+opale3366 checks
+*** SHOW DOWN ***
+opale3366 shows [Qd Ac 5h 4d] (Trips of 2)
+pachat 33 shows [Qh 7c 7d Jc] (Full of 2 and 7)
+pachat 33 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [2h 2s Qc 8c 2c]
+Seat 1: opale3366 showed [Qd Ac 5h 4d] and lost with Trips of 2
+Seat 5: pachat 33 (big blind) showed [Qh 7c 7d Jc] and won 375 with Full of 2 and 7
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 0 - HandId: #552393748441464835-3-1441822680 - Omaha pot limit (25/50) - 2015/09/09 18:18:00 UTC
+Table: 'KILL THE FISH(128614192)#002' 6-max (real money) Seat #4 is the button
+Seat 1: opale3366 (9775)
+Seat 2: samsam1482 (9950)
+Seat 3: esncampeone (9600)
+Seat 4: manggy94 (9675)
+Seat 5: pachat 33 (11000)
+Seat 6: DAVIDSON74 (10000)
+*** ANTE/BLINDS ***
+pachat 33 posts small blind 25
+DAVIDSON74 posts big blind 50
+Dealt to manggy94 [2c As Kh 4h]
+*** PRE-FLOP *** 
+opale3366 folds
+samsam1482 raises 100 to 150
+esncampeone folds
+manggy94 raises 375 to 525
+pachat 33 folds
+DAVIDSON74 calls 475
+samsam1482 folds
+*** FLOP *** [6s 2h 9d]
+DAVIDSON74 checks
+manggy94 checks
+*** TURN *** [6s 2h 9d][7c]
+DAVIDSON74 bets 1225
+manggy94 calls 1225
+*** RIVER *** [6s 2h 9d 7c][6h]
+DAVIDSON74 bets 400
+manggy94 calls 400
+*** SHOW DOWN ***
+manggy94 shows [2c As Kh 4h] (Two pairs : 6 and 2)
+DAVIDSON74 shows [8h 5d 2s 8d] (Straight 9 high)
+DAVIDSON74 collected 4475 from pot
+*** SUMMARY ***
+Total pot 4475 | No rake
+Board: [6s 2h 9d 7c 6h]
+Seat 4: manggy94 (button) showed [2c As Kh 4h] and lost with Two pairs : 6 and 2
+Seat 6: DAVIDSON74 (big blind) showed [8h 5d 2s 8d] and won 4475 with Straight 9 high
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 0 - HandId: #552393748441464835-4-1441822774 - Omaha pot limit (25/50) - 2015/09/09 18:19:34 UTC
+Table: 'KILL THE FISH(128614192)#002' 6-max (real money) Seat #5 is the button
+Seat 1: opale3366 (9775)
+Seat 2: samsam1482 (9800)
+Seat 3: esncampeone (9600)
+Seat 4: manggy94 (7525)
+Seat 5: pachat 33 (10975)
+*** ANTE/BLINDS ***
+opale3366 posts big blind 50
+Dealt to manggy94 [Ac Jh 2d Qd]
+*** PRE-FLOP *** 
+samsam1482 calls 50
+esncampeone folds
+manggy94 raises 150 to 200
+pachat 33 calls 200
+opale3366 folds
+samsam1482 calls 150
+*** FLOP *** [3d 3s Jc]
+samsam1482 checks
+manggy94 checks
+pachat 33 checks
+*** TURN *** [3d 3s Jc][Qs]
+samsam1482 bets 325
+manggy94 raises 1300 to 1625
+pachat 33 folds
+samsam1482 folds
+manggy94 collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | No rake
+Board: [3d 3s Jc Qs]
+Seat 4: manggy94 won 2600
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 0 - HandId: #552393748441464835-5-1441822858 - Omaha pot limit (25/50) - 2015/09/09 18:20:58 UTC
+Table: 'KILL THE FISH(128614192)#002' 6-max (real money) Seat #6 is the button
+Seat 1: opale3366 (9725)
+Seat 2: samsam1482 (9275)
+Seat 3: esncampeone (9600)
+Seat 4: manggy94 (8300)
+Seat 5: pachat 33 (10775)
+Seat 6: Tony G 64 (10000)
+*** ANTE/BLINDS ***
+opale3366 posts small blind 25
+samsam1482 posts big blind 50
+Dealt to manggy94 [Kd Ah 3h 6h]
+*** PRE-FLOP *** 
+esncampeone folds
+manggy94 raises 125 to 175
+pachat 33 calls 175
+opale3366 folds
+samsam1482 folds
+*** FLOP *** [Ac Qd 6s]
+manggy94 checks
+pachat 33 checks
+*** TURN *** [Ac Qd 6s][6c]
+manggy94 checks
+pachat 33 checks
+*** RIVER *** [Ac Qd 6s 6c][2d]
+manggy94 bets 425
+pachat 33 calls 425
+*** SHOW DOWN ***
+pachat 33 shows [8d Qc Th 7d] (Two pairs : Queens and 6)
+manggy94 shows [Kd Ah 3h 6h] (Full of 6 and Aces)
+manggy94 collected 1275 from pot
+*** SUMMARY ***
+Total pot 1275 | No rake
+Board: [Ac Qd 6s 6c 2d]
+Seat 4: manggy94 showed [Kd Ah 3h 6h] and won 1275 with Full of 6 and Aces
+Seat 5: pachat 33 showed [8d Qc Th 7d] and lost with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #552393748441464835-6-1441822899 - Omaha pot limit (50/100) - 2015/09/09 18:21:39 UTC
+Table: 'KILL THE FISH(128614192)#002' 6-max (real money) Seat #1 is the button
+Seat 1: opale3366 (9700)
+Seat 2: samsam1482 (9225)
+Seat 3: esncampeone (9600)
+Seat 4: manggy94 (8975)
+Seat 6: Tony G 64 (10000)
+*** ANTE/BLINDS ***
+samsam1482 posts small blind 50
+esncampeone posts big blind 100
+Dealt to manggy94 [8c Kh Ad Qd]
+*** PRE-FLOP *** 
+manggy94 raises 250 to 350
+Tony G 64 folds
+opale3366 folds
+samsam1482 folds
+esncampeone folds
+manggy94 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 4: manggy94 won 500
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #552393748441464835-7-1441822936 - Omaha pot limit (50/100) - 2015/09/09 18:22:16 UTC
+Table: 'KILL THE FISH(128614192)#002' 6-max (real money) Seat #2 is the button
+Seat 1: opale3366 (9700)
+Seat 2: samsam1482 (9175)
+Seat 3: esncampeone (9500)
+Seat 4: manggy94 (9125)
+Seat 5: Troubadourix (9950)
+Seat 6: Tony G 64 (10000)
+*** ANTE/BLINDS ***
+esncampeone posts small blind 50
+manggy94 posts big blind 100
+Dealt to manggy94 [Kh Ac 5c Ah]
+*** PRE-FLOP *** 
+Troubadourix folds
+Tony G 64 raises 100 to 200
+opale3366 folds
+samsam1482 calls 200
+esncampeone folds
+manggy94 raises 650 to 850
+Tony G 64 calls 650
+samsam1482 calls 650
+*** FLOP *** [8h Th 4s]
+manggy94 bets 2600
+Tony G 64 raises 6550 to 9150 and is all-in
+samsam1482 calls 8325 and is all-in
+manggy94 calls 5675 and is all-in
+*** TURN *** [8h Th 4s][2h]
+*** RIVER *** [8h Th 4s 2h][3d]
+*** SHOW DOWN ***
+samsam1482 shows [Td Js 8s 8d] (Trips of 8)
+manggy94 shows [Kh Ac 5c Ah] (Flush Ace high)
+Tony G 64 shows [Ad Qd Jh 7h] (Flush Jack high)
+Tony G 64 collected 925 from side pot 1
+manggy94 collected 27425 from main pot
+*** SUMMARY ***
+Total pot 28350 | No rake
+Board: [8h Th 4s 2h 3d]
+Seat 2: samsam1482 (button) showed [Td Js 8s 8d] and lost with Trips of 8
+Seat 4: manggy94 (big blind) showed [Kh Ac 5c Ah] and won 27425 with Flush Ace high
+Seat 6: Tony G 64 showed [Ad Qd Jh 7h] and won 925 with Flush Jack high
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #552393748441464835-8-1441823065 - Omaha pot limit (50/100) - 2015/09/09 18:24:25 UTC
+Table: 'KILL THE FISH(128614192)#002' 6-max (real money) Seat #3 is the button
+Seat 1: opale3366 (9700)
+Seat 3: esncampeone (9450)
+Seat 4: manggy94 (27425)
+Seat 5: Troubadourix (9950)
+Seat 6: Tony G 64 (925)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 50
+Troubadourix posts big blind 100
+Dealt to manggy94 [6d Ac 5h 5d]
+*** PRE-FLOP *** 
+Tony G 64 raises 250 to 350
+opale3366 folds
+esncampeone folds
+manggy94 calls 300
+Troubadourix calls 250
+*** FLOP *** [8d Js 4h]
+manggy94 bets 1050
+Troubadourix calls 1050
+Tony G 64 calls 575 and is all-in
+*** TURN *** [8d Js 4h][Kd]
+manggy94 checks
+Troubadourix checks
+*** RIVER *** [8d Js 4h Kd][Qc]
+manggy94 checks
+Troubadourix checks
+*** SHOW DOWN ***
+manggy94 shows [6d Ac 5h 5d] (One pair : 5)
+Tony G 64 shows [Ad 5s 2s 4d] (One pair : 4)
+Troubadourix shows [7h Qd 9d Qh] (Trips of Queens)
+Troubadourix collected 3725 from pot
+*** SUMMARY ***
+Total pot 3725 | No rake
+Board: [8d Js 4h Kd Qc]
+Seat 4: manggy94 (small blind) showed [6d Ac 5h 5d] and lost with One pair : 5
+Seat 5: Troubadourix (big blind) showed [7h Qd 9d Qh] and won 3725 with Trips of Queens
+Seat 6: Tony G 64 showed [Ad 5s 2s 4d] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #552393748441464846-2-1441823165 - Omaha pot limit (50/100) - 2015/09/09 18:26:05 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #6 is the button
+Seat 1: ikki83 (8950)
+Seat 2: esncampeone (9450)
+Seat 3: manggy94 (26025)
+Seat 4: Troubadourix (12275)
+Seat 5: call trickle (10000)
+Seat 6: ben nh sqy (11300)
+*** ANTE/BLINDS ***
+ben nh sqy posts small blind 50
+ikki83 posts big blind 100
+*** PRE-FLOP *** 
+ben nh sqy raises 150 to 250
+ikki83 calls 150
+*** FLOP *** [7d 8c Ac]
+ikki83 checks
+ben nh sqy checks
+*** TURN *** [7d 8c Ac][9s]
+ikki83 checks
+ben nh sqy checks
+*** RIVER *** [7d 8c Ac 9s][9h]
+ikki83 checks
+ben nh sqy checks
+*** SHOW DOWN ***
+ikki83 shows [3d Ks 2d 2h] (Two pairs : 9 and 2)
+ben nh sqy shows [Kd Js 4c Jd] (Two pairs : Jacks and 9)
+ben nh sqy collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [7d 8c Ac 9s 9h]
+Seat 1: ikki83 (big blind) showed [3d Ks 2d 2h] and lost with Two pairs : 9 and 2
+Seat 6: ben nh sqy (small blind) (button) showed [Kd Js 4c Jd] and won 500 with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 1 - HandId: #552393748441464846-3-1441823210 - Omaha pot limit (50/100) - 2015/09/09 18:26:50 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #1 is the button
+Seat 1: ikki83 (8700)
+Seat 2: esncampeone (9450)
+Seat 3: manggy94 (26025)
+Seat 4: Troubadourix (12275)
+Seat 5: call trickle (10000)
+*** ANTE/BLINDS ***
+ikki83 posts small blind 50
+esncampeone posts big blind 100
+*** PRE-FLOP *** 
+ikki83 calls 50
+esncampeone checks
+*** FLOP *** [As 9c Kc]
+esncampeone checks
+ikki83 bets 200
+esncampeone folds
+ikki83 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [As 9c Kc]
+Seat 1: ikki83 (small blind) (button) won 400
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #552393748441464846-4-1441823247 - Omaha pot limit (75/150) - 2015/09/09 18:27:27 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #1 is the button
+Seat 1: ikki83 (8800)
+Seat 2: esncampeone (9350)
+Seat 3: manggy94 (26025)
+Seat 4: Troubadourix (12275)
+Seat 5: call trickle (10000)
+*** ANTE/BLINDS ***
+esncampeone posts small blind 75
+manggy94 posts big blind 150
+Dealt to manggy94 [Kd 3s Qs 9d]
+*** PRE-FLOP *** 
+Troubadourix folds
+call trickle folds
+ikki83 calls 150
+esncampeone folds
+manggy94 checks
+*** FLOP *** [8d 8s 3h]
+manggy94 bets 300
+ikki83 calls 300
+*** TURN *** [8d 8s 3h][Kc]
+manggy94 checks
+ikki83 bets 300
+manggy94 calls 300
+*** RIVER *** [8d 8s 3h Kc][6s]
+manggy94 checks
+ikki83 bets 1575
+manggy94 calls 1575
+*** SHOW DOWN ***
+manggy94 shows [Kd 3s Qs 9d] (Two pairs : Kings and 8)
+ikki83 shows [3c Td 8h Jh] (Full of 8 and 3)
+ikki83 collected 4725 from pot
+*** SUMMARY ***
+Total pot 4725 | No rake
+Board: [8d 8s 3h Kc 6s]
+Seat 1: ikki83 (button) showed [3c Td 8h Jh] and won 4725 with Full of 8 and 3
+Seat 3: manggy94 (big blind) showed [Kd 3s Qs 9d] and lost with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #552393748441464846-5-1441823313 - Omaha pot limit (75/150) - 2015/09/09 18:28:33 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #2 is the button
+Seat 1: ikki83 (11200)
+Seat 2: esncampeone (9275)
+Seat 3: manggy94 (23700)
+Seat 4: Troubadourix (12275)
+Seat 5: call trickle (10000)
+Seat 6: whatelsenow (12225)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 75
+Troubadourix posts big blind 150
+Dealt to manggy94 [3h 5h Ac 8c]
+*** PRE-FLOP *** 
+call trickle folds
+whatelsenow calls 150
+ikki83 calls 150
+esncampeone folds
+manggy94 folds
+Troubadourix checks
+*** FLOP *** [Tc 8s 3d]
+Troubadourix checks
+whatelsenow checks
+ikki83 bets 300
+Troubadourix folds
+whatelsenow folds
+ikki83 collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | No rake
+Board: [Tc 8s 3d]
+Seat 1: ikki83 won 825
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #552393748441464846-6-1441823368 - Omaha pot limit (75/150) - 2015/09/09 18:29:28 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #3 is the button
+Seat 1: ikki83 (11575)
+Seat 2: esncampeone (9275)
+Seat 3: manggy94 (23625)
+Seat 4: Troubadourix (12125)
+Seat 5: call trickle (10000)
+Seat 6: whatelsenow (12075)
+*** ANTE/BLINDS ***
+Troubadourix posts small blind 75
+call trickle posts big blind 150
+Dealt to manggy94 [8c Js 3d 5h]
+*** PRE-FLOP *** 
+whatelsenow folds
+ikki83 calls 150
+esncampeone folds
+manggy94 folds
+Troubadourix calls 75
+call trickle checks
+*** FLOP *** [9c Ah 8s]
+Troubadourix checks
+call trickle bets 300
+ikki83 calls 300
+Troubadourix folds
+*** TURN *** [9c Ah 8s][7c]
+call trickle checks
+ikki83 checks
+*** RIVER *** [9c Ah 8s 7c][7h]
+call trickle bets 1050
+ikki83 raises 3150 to 4200
+call trickle calls 3150
+*** SHOW DOWN ***
+call trickle shows [6h 7d 9s 4c] (Full of 7 and 9)
+ikki83 shows [Ts As 7s 4d] (Full of 7 and Aces)
+ikki83 collected 9450 from pot
+*** SUMMARY ***
+Total pot 9450 | No rake
+Board: [9c Ah 8s 7c 7h]
+Seat 1: ikki83 showed [Ts As 7s 4d] and won 9450 with Full of 7 and Aces
+Seat 5: call trickle (big blind) showed [6h 7d 9s 4c] and lost with Full of 7 and 9
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #552393748441464846-7-1441823451 - Omaha pot limit (75/150) - 2015/09/09 18:30:51 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #4 is the button
+Seat 1: ikki83 (16375)
+Seat 2: esncampeone (9275)
+Seat 3: manggy94 (23625)
+Seat 4: Troubadourix (11975)
+Seat 5: call trickle (5350)
+Seat 6: whatelsenow (12075)
+*** ANTE/BLINDS ***
+call trickle posts small blind 75
+whatelsenow posts big blind 150
+Dealt to manggy94 [5c As 2s 5s]
+*** PRE-FLOP *** 
+ikki83 folds
+esncampeone folds
+manggy94 calls 150
+Troubadourix folds
+call trickle calls 75
+whatelsenow checks
+*** FLOP *** [7h 9s 6h]
+call trickle bets 450
+whatelsenow folds
+manggy94 calls 450
+*** TURN *** [7h 9s 6h][3h]
+call trickle checks
+manggy94 checks
+*** RIVER *** [7h 9s 6h 3h][Jh]
+call trickle checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [5c As 2s 5s] (One pair : 5)
+call trickle shows [Ts 2d Ks 8h] (Straight Jack high)
+call trickle collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [7h 9s 6h 3h Jh]
+Seat 3: manggy94 showed [5c As 2s 5s] and lost with One pair : 5
+Seat 5: call trickle (small blind) showed [Ts 2d Ks 8h] and won 1350 with Straight Jack high
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #552393748441464846-8-1441823508 - Omaha pot limit (75/150) - 2015/09/09 18:31:48 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #5 is the button
+Seat 1: ikki83 (16375)
+Seat 2: esncampeone (9275)
+Seat 3: manggy94 (23025)
+Seat 4: Troubadourix (11975)
+Seat 5: call trickle (6100)
+Seat 6: zenzile12 (9850)
+*** ANTE/BLINDS ***
+ikki83 posts big blind 150
+Dealt to manggy94 [Ad 3s Ts Jc]
+*** PRE-FLOP *** 
+esncampeone folds
+manggy94 calls 150
+Troubadourix folds
+call trickle folds
+ikki83 checks
+*** FLOP *** [8s 2h 8h]
+ikki83 bets 300
+manggy94 raises 675 to 975
+ikki83 calls 675
+*** TURN *** [8s 2h 8h][5c]
+ikki83 bets 150
+manggy94 folds
+ikki83 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [8s 2h 8h 5c]
+Seat 1: ikki83 (big blind) won 2400
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 2 - HandId: #552393748441464846-9-1441823561 - Omaha pot limit (75/150) - 2015/09/09 18:32:41 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #6 is the button
+Seat 1: ikki83 (17500)
+Seat 2: esncampeone (9275)
+Seat 3: manggy94 (21900)
+Seat 4: Troubadourix (11975)
+Seat 5: call trickle (6100)
+Seat 6: zenzile12 (9850)
+*** ANTE/BLINDS ***
+ikki83 posts small blind 75
+esncampeone posts big blind 150
+Dealt to manggy94 [2h Ac 3c 3s]
+*** PRE-FLOP *** 
+manggy94 calls 150
+Troubadourix folds
+call trickle folds
+ikki83 folds
+esncampeone checks
+*** FLOP *** [7c 6h Jd]
+esncampeone checks
+manggy94 checks
+*** TURN *** [7c 6h Jd][2c]
+esncampeone checks
+manggy94 bets 300
+esncampeone calls 300
+*** RIVER *** [7c 6h Jd 2c][3d]
+esncampeone checks
+manggy94 bets 975
+esncampeone raises 2925 to 3900
+manggy94 calls 2925
+*** SHOW DOWN ***
+manggy94 shows [2h Ac 3c 3s] (Trips of 3)
+esncampeone shows [5s 8c Jc 4c] (Straight 7 high)
+esncampeone collected 8775 from pot
+*** SUMMARY ***
+Total pot 8775 | No rake
+Board: [7c 6h Jd 2c 3d]
+Seat 2: esncampeone (big blind) showed [5s 8c Jc 4c] and won 8775 with Straight 7 high
+Seat 3: manggy94 showed [2h Ac 3c 3s] and lost with Trips of 3
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 3 - HandId: #552393748441464846-10-1441823677 - Omaha pot limit (100/200) - 2015/09/09 18:34:37 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #1 is the button
+Seat 1: ikki83 (17425)
+Seat 2: esncampeone (13700)
+Seat 3: manggy94 (17550)
+Seat 4: Troubadourix (11975)
+Seat 5: call trickle (6100)
+Seat 6: zenzile12 (9850)
+*** ANTE/BLINDS ***
+esncampeone posts small blind 100
+manggy94 posts big blind 200
+Dealt to manggy94 [8d 9s 7h 9d]
+*** PRE-FLOP *** 
+Troubadourix folds
+call trickle calls 200
+zenzile12 folds
+ikki83 calls 200
+esncampeone folds
+manggy94 checks
+*** FLOP *** [As 6c 4h]
+manggy94 checks
+call trickle checks
+ikki83 bets 700
+manggy94 folds
+call trickle folds
+ikki83 collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Board: [As 6c 4h]
+Seat 1: ikki83 (button) won 1400
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 3 - HandId: #552393748441464846-11-1441823747 - Omaha pot limit (100/200) - 2015/09/09 18:35:47 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #2 is the button
+Seat 1: ikki83 (17925)
+Seat 2: esncampeone (13600)
+Seat 3: manggy94 (17350)
+Seat 4: Troubadourix (11975)
+Seat 5: call trickle (5900)
+Seat 6: zenzile12 (9850)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 100
+Troubadourix posts big blind 200
+Dealt to manggy94 [7s Kh 9h 4c]
+*** PRE-FLOP *** 
+call trickle folds
+zenzile12 calls 200
+ikki83 calls 200
+esncampeone folds
+manggy94 calls 100
+Troubadourix checks
+*** FLOP *** [6c 4d 7d]
+manggy94 checks
+Troubadourix bets 500
+zenzile12 calls 500
+ikki83 folds
+manggy94 folds
+*** TURN *** [6c 4d 7d][5c]
+Troubadourix bets 1500
+zenzile12 raises 4800 to 6300
+Troubadourix raises 4975 to 11275 and is all-in
+zenzile12 calls 2850 and is all-in
+*** RIVER *** [6c 4d 7d 5c][2d]
+*** SHOW DOWN ***
+zenzile12 shows [8s 9s 7h 6h] (Straight 9 high)
+Troubadourix shows [8d 9c 4s Td] (Flush Ten high)
+Troubadourix collected 22225 from pot
+*** SUMMARY ***
+Total pot 22225 | No rake
+Board: [6c 4d 7d 5c 2d]
+Seat 4: Troubadourix (big blind) showed [8d 9c 4s Td] and won 22225 with Flush Ten high
+Seat 6: zenzile12 showed [8s 9s 7h 6h] and lost with Straight 9 high
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 3 - HandId: #552393748441464846-12-1441823813 - Omaha pot limit (100/200) - 2015/09/09 18:36:53 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #3 is the button
+Seat 1: ikki83 (17725)
+Seat 2: esncampeone (13600)
+Seat 3: manggy94 (17150)
+Seat 4: Troubadourix (22225)
+Seat 5: call trickle (5900)
+*** ANTE/BLINDS ***
+Troubadourix posts small blind 100
+call trickle posts big blind 200
+Dealt to manggy94 [Jc 3d 7h 7s]
+*** PRE-FLOP *** 
+ikki83 calls 200
+esncampeone raises 200 to 400
+manggy94 calls 400
+Troubadourix folds
+call trickle calls 200
+ikki83 calls 200
+*** FLOP *** [Jd 9s 6c]
+call trickle checks
+ikki83 checks
+esncampeone checks
+manggy94 checks
+*** TURN *** [Jd 9s 6c][4h]
+call trickle checks
+ikki83 checks
+esncampeone checks
+manggy94 checks
+*** RIVER *** [Jd 9s 6c 4h][Tc]
+call trickle checks
+ikki83 bets 400
+esncampeone folds
+manggy94 folds
+call trickle folds
+ikki83 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Board: [Jd 9s 6c 4h Tc]
+Seat 1: ikki83 won 2100
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 3 - HandId: #552393748441464846-13-1441823905 - Omaha pot limit (100/200) - 2015/09/09 18:38:25 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #4 is the button
+Seat 1: ikki83 (19025)
+Seat 2: esncampeone (13200)
+Seat 3: manggy94 (16750)
+Seat 4: Troubadourix (22125)
+Seat 5: call trickle (5500)
+Seat 6: Will778 (10388)
+*** ANTE/BLINDS ***
+call trickle posts small blind 100
+Will778 posts big blind 200
+Dealt to manggy94 [Ts 5c 5s 9c]
+*** PRE-FLOP *** 
+ikki83 folds
+esncampeone folds
+manggy94 folds
+Troubadourix raises 200 to 400
+call trickle calls 300
+Will778 calls 200
+*** FLOP *** [Qc 2d 2s]
+call trickle checks
+Will778 checks
+Troubadourix bets 750
+call trickle folds
+Will778 calls 750
+*** TURN *** [Qc 2d 2s][Ah]
+Will778 checks
+Troubadourix checks
+*** RIVER *** [Qc 2d 2s Ah][4s]
+Will778 checks
+Troubadourix checks
+*** SHOW DOWN ***
+Will778 shows [3d Qd Kc Kd] (Two pairs : Kings and 2)
+Troubadourix shows [6h Qh Ks Ad] (Two pairs : Aces and Queens)
+Troubadourix collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [Qc 2d 2s Ah 4s]
+Seat 4: Troubadourix (button) showed [6h Qh Ks Ad] and won 2700 with Two pairs : Aces and Queens
+Seat 6: Will778 (big blind) showed [3d Qd Kc Kd] and lost with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #552393748441464846-14-1441823968 - Omaha pot limit (150/300) - 2015/09/09 18:39:28 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #5 is the button
+Seat 1: ikki83 (19025)
+Seat 2: esncampeone (13200)
+Seat 3: manggy94 (16750)
+Seat 4: Troubadourix (23675)
+Seat 5: call trickle (5100)
+Seat 6: Will778 (9238)
+*** ANTE/BLINDS ***
+Will778 posts small blind 150
+ikki83 posts big blind 300
+Dealt to manggy94 [Jh 2h 8s 3c]
+*** PRE-FLOP *** 
+esncampeone folds
+manggy94 folds
+Troubadourix folds
+call trickle folds
+Will778 raises 300 to 600
+ikki83 calls 300
+*** FLOP *** [2s 3d 5d]
+Will778 checks
+ikki83 checks
+*** TURN *** [2s 3d 5d][3h]
+Will778 checks
+ikki83 bets 300
+Will778 folds
+ikki83 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [2s 3d 5d 3h]
+Seat 1: ikki83 (big blind) won 1500
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #552393748441464846-15-1441824036 - Omaha pot limit (150/300) - 2015/09/09 18:40:36 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #6 is the button
+Seat 1: ikki83 (19625)
+Seat 2: esncampeone (13200)
+Seat 3: manggy94 (16750)
+Seat 4: Troubadourix (23675)
+Seat 5: call trickle (5100)
+Seat 6: Will778 (8638)
+*** ANTE/BLINDS ***
+ikki83 posts small blind 150
+esncampeone posts big blind 300
+Dealt to manggy94 [7d Qc Kd 2c]
+*** PRE-FLOP *** 
+manggy94 calls 300
+Troubadourix folds
+call trickle folds
+Will778 folds
+ikki83 calls 150
+esncampeone checks
+*** FLOP *** [9h Kc 5d]
+ikki83 bets 300
+esncampeone folds
+manggy94 raises 900 to 1200
+ikki83 folds
+manggy94 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [9h Kc 5d]
+Seat 3: manggy94 won 2400
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #552393748441464846-16-1441824085 - Omaha pot limit (150/300) - 2015/09/09 18:41:25 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #1 is the button
+Seat 1: ikki83 (19025)
+Seat 2: esncampeone (12900)
+Seat 3: manggy94 (17650)
+Seat 4: Troubadourix (23675)
+Seat 5: call trickle (5100)
+Seat 6: Will778 (8638)
+*** ANTE/BLINDS ***
+esncampeone posts small blind 150
+manggy94 posts big blind 300
+Dealt to manggy94 [Jd Qd Th Ac]
+*** PRE-FLOP *** 
+Troubadourix folds
+call trickle folds
+Will778 calls 300
+ikki83 calls 300
+esncampeone folds
+manggy94 raises 300 to 600
+Will778 calls 300
+ikki83 calls 300
+*** FLOP *** [Js 4h 3s]
+manggy94 bets 1500
+Will778 calls 1500
+ikki83 folds
+*** TURN *** [Js 4h 3s][6c]
+manggy94 checks
+Will778 checks
+*** RIVER *** [Js 4h 3s 6c][Kc]
+manggy94 checks
+Will778 bets 1200
+manggy94 calls 1200
+*** SHOW DOWN ***
+manggy94 shows [Jd Qd Th Ac] (One pair : Jacks)
+Will778 shows [6s Ks 5c Ad] (Two pairs : Kings and 6)
+Will778 collected 7350 from pot
+*** SUMMARY ***
+Total pot 7350 | No rake
+Board: [Js 4h 3s 6c Kc]
+Seat 3: manggy94 (big blind) showed [Jd Qd Th Ac] and lost with One pair : Jacks
+Seat 6: Will778 showed [6s Ks 5c Ad] and won 7350 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #552393748441464846-17-1441824166 - Omaha pot limit (150/300) - 2015/09/09 18:42:46 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #2 is the button
+Seat 1: ikki83 (18425)
+Seat 2: esncampeone (12750)
+Seat 3: manggy94 (14350)
+Seat 4: Troubadourix (23675)
+Seat 5: call trickle (5100)
+Seat 6: Will778 (12688)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 150
+Troubadourix posts big blind 300
+Dealt to manggy94 [Ts 2d Qc Js]
+*** PRE-FLOP *** 
+call trickle folds
+Will778 folds
+ikki83 calls 300
+esncampeone folds
+manggy94 calls 150
+Troubadourix checks
+*** FLOP *** [3d Ah 4c]
+manggy94 checks
+Troubadourix checks
+ikki83 checks
+*** TURN *** [3d Ah 4c][9h]
+manggy94 checks
+Troubadourix checks
+ikki83 bets 300
+manggy94 folds
+Troubadourix folds
+ikki83 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [3d Ah 4c 9h]
+Seat 1: ikki83 won 1200
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 4 - HandId: #552393748441464846-18-1441824242 - Omaha pot limit (150/300) - 2015/09/09 18:44:02 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #3 is the button
+Seat 1: ikki83 (19025)
+Seat 2: esncampeone (12750)
+Seat 3: manggy94 (14050)
+Seat 4: Troubadourix (23375)
+Seat 5: call trickle (5100)
+Seat 6: Will778 (12688)
+*** ANTE/BLINDS ***
+Troubadourix posts small blind 150
+call trickle posts big blind 300
+Dealt to manggy94 [7h Ac 6s 4h]
+*** PRE-FLOP *** 
+Will778 calls 300
+ikki83 calls 300
+esncampeone folds
+manggy94 folds
+Troubadourix calls 150
+call trickle checks
+*** FLOP *** [Qc 8c 7s]
+Troubadourix checks
+call trickle checks
+Will778 checks
+ikki83 bets 300
+Troubadourix calls 300
+call trickle folds
+Will778 folds
+*** TURN *** [Qc 8c 7s][Ks]
+Troubadourix checks
+ikki83 bets 600
+Troubadourix folds
+ikki83 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [Qc 8c 7s Ks]
+Seat 1: ikki83 won 2400
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #552393748441464846-19-1441824345 - Omaha pot limit (200/400) - 2015/09/09 18:45:45 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #4 is the button
+Seat 1: ikki83 (20225)
+Seat 2: esncampeone (12750)
+Seat 3: manggy94 (14050)
+Seat 4: Troubadourix (22775)
+Seat 5: call trickle (4800)
+Seat 6: Will778 (12388)
+*** ANTE/BLINDS ***
+call trickle posts small blind 200
+Will778 posts big blind 400
+Dealt to manggy94 [2d Ah 8h Kh]
+*** PRE-FLOP *** 
+ikki83 calls 400
+esncampeone raises 1400 to 1800
+manggy94 calls 1800
+Troubadourix folds
+call trickle folds
+Will778 folds
+ikki83 folds
+*** FLOP *** [Td 3h Ad]
+esncampeone bets 2300
+manggy94 raises 2300 to 4600
+esncampeone calls 2300
+*** TURN *** [Td 3h Ad][3c]
+esncampeone checks
+manggy94 checks
+*** RIVER *** [Td 3h Ad 3c][Jc]
+esncampeone bets 6350 and is all-in
+manggy94 calls 6350
+*** SHOW DOWN ***
+manggy94 shows [2d Ah 8h Kh] (Two pairs : Aces and 3)
+esncampeone shows [As Ac Qc Jh] (Full of Aces and 3)
+esncampeone collected 26500 from pot
+*** SUMMARY ***
+Total pot 26500 | No rake
+Board: [Td 3h Ad 3c Jc]
+Seat 2: esncampeone showed [As Ac Qc Jh] and won 26500 with Full of Aces and 3
+Seat 3: manggy94 showed [2d Ah 8h Kh] and lost with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #552393748441464846-20-1441824403 - Omaha pot limit (200/400) - 2015/09/09 18:46:43 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #5 is the button
+Seat 1: ikki83 (19825)
+Seat 2: esncampeone (26500)
+Seat 3: manggy94 (1300)
+Seat 4: Troubadourix (22775)
+Seat 5: call trickle (4600)
+Seat 6: Will778 (11988)
+*** ANTE/BLINDS ***
+Will778 posts small blind 200
+ikki83 posts big blind 400
+Dealt to manggy94 [Ks Qs Qc Ad]
+*** PRE-FLOP *** 
+esncampeone calls 400
+manggy94 raises 900 to 1300 and is all-in
+Troubadourix folds
+call trickle folds
+Will778 folds
+ikki83 folds
+esncampeone calls 900
+*** FLOP *** [As 5d Qh]
+*** TURN *** [As 5d Qh][9d]
+*** RIVER *** [As 5d Qh 9d][Qd]
+*** SHOW DOWN ***
+esncampeone shows [Kh 2h Kd 5h] (Two pairs : Kings and Queens)
+manggy94 shows [Ks Qs Qc Ad] (Quads of Queens)
+manggy94 collected 3200 from pot
+*** SUMMARY ***
+Total pot 3200 | No rake
+Board: [As 5d Qh 9d Qd]
+Seat 2: esncampeone showed [Kh 2h Kd 5h] and lost with Two pairs : Kings and Queens
+Seat 3: manggy94 showed [Ks Qs Qc Ad] and won 3200 with Quads of Queens
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #552393748441464846-21-1441824455 - Omaha pot limit (200/400) - 2015/09/09 18:47:35 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #6 is the button
+Seat 1: ikki83 (19425)
+Seat 2: esncampeone (25200)
+Seat 3: manggy94 (3200)
+Seat 4: Troubadourix (22775)
+Seat 5: call trickle (4600)
+*** ANTE/BLINDS ***
+ikki83 posts small blind 200
+esncampeone posts big blind 400
+Dealt to manggy94 [Qd 7s 4c Td]
+*** PRE-FLOP *** 
+manggy94 raises 1000 to 1400
+Troubadourix folds
+call trickle folds
+ikki83 folds
+esncampeone calls 1000
+*** FLOP *** [6h 7d 6c]
+esncampeone checks
+manggy94 checks
+*** TURN *** [6h 7d 6c][5h]
+esncampeone bets 3000
+manggy94 calls 1800 and is all-in
+*** RIVER *** [6h 7d 6c 5h][3c]
+*** SHOW DOWN ***
+manggy94 shows [Qd 7s 4c Td] (Straight 7 high)
+esncampeone shows [9h Jh 2d 9s] (Two pairs : 9 and 6)
+esncampeone collected 1200 from side pot 1
+manggy94 collected 6600 from main pot
+*** SUMMARY ***
+Total pot 7800 | No rake
+Board: [6h 7d 6c 5h 3c]
+Seat 2: esncampeone (big blind) showed [9h Jh 2d 9s] and won 1200 with Two pairs : 9 and 6
+Seat 3: manggy94 showed [Qd 7s 4c Td] and won 6600 with Straight 7 high
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #552393748441464846-22-1441824499 - Omaha pot limit (200/400) - 2015/09/09 18:48:19 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #1 is the button
+Seat 1: ikki83 (19225)
+Seat 2: esncampeone (22000)
+Seat 3: manggy94 (6600)
+Seat 4: Troubadourix (22775)
+Seat 6: inzaghi7183 (7425)
+*** ANTE/BLINDS ***
+esncampeone posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [Ts 5h 5d Qh]
+*** PRE-FLOP *** 
+Troubadourix raises 400 to 800
+inzaghi7183 folds
+ikki83 folds
+esncampeone folds
+manggy94 calls 400
+*** FLOP *** [3h 3d 5c]
+manggy94 checks
+Troubadourix bets 1000
+manggy94 calls 1000
+*** TURN *** [3h 3d 5c][Jd]
+manggy94 bets 3800
+Troubadourix calls 3800
+*** RIVER *** [3h 3d 5c Jd][5s]
+manggy94 bets 1000 and is all-in
+Troubadourix calls 1000
+*** SHOW DOWN ***
+Troubadourix shows [Qd Qc As Kc] (Two pairs : Queens and 5)
+manggy94 shows [Ts 5h 5d Qh] (Quads of 5)
+manggy94 collected 13400 from pot
+*** SUMMARY ***
+Total pot 13400 | No rake
+Board: [3h 3d 5c Jd 5s]
+Seat 3: manggy94 (big blind) showed [Ts 5h 5d Qh] and won 13400 with Quads of 5
+Seat 4: Troubadourix showed [Qd Qc As Kc] and lost with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 5 - HandId: #552393748441464846-23-1441824581 - Omaha pot limit (200/400) - 2015/09/09 18:49:41 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #2 is the button
+Seat 1: ikki83 (19225)
+Seat 2: esncampeone (21800)
+Seat 3: manggy94 (13400)
+Seat 4: Troubadourix (16175)
+Seat 5: mokkori (8867)
+Seat 6: inzaghi7183 (7425)
+*** ANTE/BLINDS ***
+manggy94 posts small blind 200
+Troubadourix posts big blind 400
+Dealt to manggy94 [7s 4c Jh 3s]
+*** PRE-FLOP *** 
+mokkori folds
+inzaghi7183 folds
+ikki83 calls 400
+esncampeone folds
+manggy94 folds
+Troubadourix checks
+*** FLOP *** [Th Js 6c]
+Troubadourix checks
+ikki83 bets 600
+Troubadourix calls 600
+*** TURN *** [Th Js 6c][Kh]
+Troubadourix checks
+ikki83 bets 600
+Troubadourix calls 600
+*** RIVER *** [Th Js 6c Kh][Qd]
+Troubadourix bets 2500
+ikki83 folds
+Troubadourix collected 5900 from pot
+*** SUMMARY ***
+Total pot 5900 | No rake
+Board: [Th Js 6c Kh Qd]
+Seat 4: Troubadourix (big blind) won 5900
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #552393748441464846-24-1441824679 - Omaha pot limit (250/500) - 2015/09/09 18:51:19 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #3 is the button
+Seat 1: ikki83 (17625)
+Seat 2: esncampeone (21800)
+Seat 3: manggy94 (13200)
+Seat 4: Troubadourix (17975)
+Seat 5: mokkori (8867)
+Seat 6: inzaghi7183 (7425)
+*** ANTE/BLINDS ***
+Troubadourix posts small blind 250
+mokkori posts big blind 500
+Dealt to manggy94 [6s 6h 6c Qh]
+*** PRE-FLOP *** 
+inzaghi7183 folds
+ikki83 calls 500
+esncampeone folds
+manggy94 calls 500
+Troubadourix calls 250
+mokkori checks
+*** FLOP *** [Qd Kc Qs]
+Troubadourix checks
+mokkori checks
+ikki83 checks
+manggy94 checks
+*** TURN *** [Qd Kc Qs][Kd]
+Troubadourix checks
+mokkori checks
+ikki83 checks
+manggy94 bets 1500
+Troubadourix calls 1500
+mokkori calls 1500
+ikki83 folds
+*** RIVER *** [Qd Kc Qs Kd][9d]
+Troubadourix checks
+mokkori checks
+manggy94 checks
+*** SHOW DOWN ***
+manggy94 shows [6s 6h 6c Qh] (Trips of Queens)
+Troubadourix shows [7s Qc 4s 7c] (Trips of Queens)
+mokkori shows [Td 3c Ah Kh] (Trips of Kings)
+mokkori collected 6500 from pot
+*** SUMMARY ***
+Total pot 6500 | No rake
+Board: [Qd Kc Qs Kd 9d]
+Seat 3: manggy94 (button) showed [6s 6h 6c Qh] and lost with Trips of Queens
+Seat 4: Troubadourix (small blind) showed [7s Qc 4s 7c] and lost with Trips of Queens
+Seat 5: mokkori (big blind) showed [Td 3c Ah Kh] and won 6500 with Trips of Kings
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #552393748441464846-25-1441824749 - Omaha pot limit (250/500) - 2015/09/09 18:52:29 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #4 is the button
+Seat 1: ikki83 (17125)
+Seat 2: esncampeone (21800)
+Seat 3: manggy94 (11200)
+Seat 4: Troubadourix (15975)
+Seat 5: mokkori (13367)
+Seat 6: inzaghi7183 (7425)
+*** ANTE/BLINDS ***
+mokkori posts small blind 250
+inzaghi7183 posts big blind 500
+Dealt to manggy94 [7c Ah 5h Jh]
+*** PRE-FLOP *** 
+ikki83 folds
+esncampeone folds
+manggy94 calls 500
+Troubadourix calls 500
+mokkori folds
+inzaghi7183 checks
+*** FLOP *** [As 2c Jc]
+inzaghi7183 checks
+manggy94 bets 1750
+Troubadourix raises 3250 to 5000
+inzaghi7183 folds
+manggy94 calls 3250
+*** TURN *** [As 2c Jc][Kc]
+manggy94 checks
+Troubadourix bets 5000
+manggy94 folds
+Troubadourix collected 16750 from pot
+*** SUMMARY ***
+Total pot 16750 | No rake
+Board: [As 2c Jc Kc]
+Seat 4: Troubadourix (button) won 16750
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #552393748441464846-26-1441824814 - Omaha pot limit (250/500) - 2015/09/09 18:53:34 UTC
+Table: 'KILL THE FISH(128614192)#013' 6-max (real money) Seat #5 is the button
+Seat 1: ikki83 (17125)
+Seat 2: esncampeone (21800)
+Seat 3: manggy94 (5700)
+Seat 4: Troubadourix (22225)
+Seat 5: mokkori (13117)
+Seat 6: inzaghi7183 (6925)
+*** ANTE/BLINDS ***
+inzaghi7183 posts small blind 250
+ikki83 posts big blind 500
+Dealt to manggy94 [7c 9d 6s Qh]
+*** PRE-FLOP *** 
+esncampeone folds
+manggy94 folds
+Troubadourix raises 500 to 1000
+mokkori folds
+inzaghi7183 calls 750
+ikki83 folds
+*** FLOP *** [Qs Qc 5d]
+inzaghi7183 checks
+Troubadourix checks
+*** TURN *** [Qs Qc 5d][Th]
+inzaghi7183 checks
+Troubadourix checks
+*** RIVER *** [Qs Qc 5d Th][3s]
+inzaghi7183 checks
+Troubadourix checks
+*** SHOW DOWN ***
+inzaghi7183 shows [7s Kh 5s 6h] (Two pairs : Queens and 5)
+Troubadourix shows [Ad Jc Td 2s] (Two pairs : Queens and Tens)
+Troubadourix collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Board: [Qs Qc 5d Th 3s]
+Seat 4: Troubadourix showed [Ad Jc Td 2s] and won 2500 with Two pairs : Queens and Tens
+Seat 6: inzaghi7183 (small blind) showed [7s Kh 5s 6h] and lost with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #552393748441464842-29-1441824873 - Omaha pot limit (250/500) - 2015/09/09 18:54:33 UTC
+Table: 'KILL THE FISH(128614192)#009' 6-max (real money) Seat #4 is the button
+Seat 1: OhSoFarAway (10223)
+Seat 3: manggy94 (5700)
+Seat 4: ben nh sqy (6336)
+Seat 5: passiclair (14057)
+Seat 6: opale3366 (16238)
+*** ANTE/BLINDS ***
+passiclair posts small blind 250
+opale3366 posts big blind 500
+Dealt to manggy94 [6d Qc 7c 4s]
+*** PRE-FLOP *** 
+OhSoFarAway folds
+manggy94 folds
+ben nh sqy raises 1000 to 1500
+passiclair folds
+opale3366 calls 1000
+*** FLOP *** [5c 7h 9h]
+opale3366 checks
+ben nh sqy checks
+*** TURN *** [5c 7h 9h][Th]
+opale3366 bets 3250
+ben nh sqy raises 1586 to 4836 and is all-in
+opale3366 calls 1586
+*** RIVER *** [5c 7h 9h Th][As]
+*** SHOW DOWN ***
+opale3366 shows [Kc 7d 7s 8s] (Trips of 7)
+ben nh sqy shows [Tc 2h Ks Ts] (Trips of Tens)
+ben nh sqy collected 12922 from pot
+*** SUMMARY ***
+Total pot 12922 | No rake
+Board: [5c 7h 9h Th As]
+Seat 4: ben nh sqy (button) showed [Tc 2h Ks Ts] and won 12922 with Trips of Tens
+Seat 6: opale3366 (big blind) showed [Kc 7d 7s 8s] and lost with Trips of 7
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 6 - HandId: #552393748441464842-30-1441825202 - Omaha pot limit (250/500) - 2015/09/09 19:00:02 UTC
+Table: 'KILL THE FISH(128614192)#009' 6-max (real money) Seat #5 is the button
+Seat 1: OhSoFarAway (10223)
+Seat 2: rastaboulou (10000)
+Seat 3: manggy94 (5700)
+Seat 4: ben nh sqy (12922)
+Seat 5: passiclair (13807)
+Seat 6: opale3366 (9902)
+*** ANTE/BLINDS ***
+opale3366 posts small blind 250
+OhSoFarAway posts big blind 500
+Dealt to manggy94 [6d Kd Qc As]
+*** PRE-FLOP *** 
+rastaboulou calls 500
+manggy94 raises 1750 to 2250
+ben nh sqy folds
+passiclair folds
+opale3366 folds
+OhSoFarAway folds
+rastaboulou folds
+manggy94 collected 3500 from pot
+*** SUMMARY ***
+Total pot 3500 | No rake
+Seat 3: manggy94 won 3500
+
+
+Winamax Poker - Tournament "KILL THE FISH" buyIn: 3,50€ + 1,50€ level: 7 - HandId: #552393748441464842-31-1441825331 - Omaha pot limit (300/600) - 2015/09/09 19:02:11 UTC
+Table: 'KILL THE FISH(128614192)#009' 6-max (real money) Seat #6 is the button
+Seat 1: OhSoFarAway (9723)
+Seat 2: rastaboulou (9500)
+Seat 3: manggy94 (6950)
+Seat 4: ben nh sqy (12922)
+Seat 5: passiclair (13807)
+Seat 6: opale3366 (9652)
+*** ANTE/BLINDS ***
+OhSoFarAway posts small blind 300
+rastaboulou posts big blind 600
+Dealt to manggy94 [4h Kh Td Kc]
+*** PRE-FLOP *** 
+manggy94 calls 600
+ben nh sqy calls 600
+passiclair folds
+opale3366 folds
+OhSoFarAway folds
+rastaboulou checks
+*** FLOP *** [2d 6c Qd]
+rastaboulou checks
+manggy94 checks
+ben nh sqy bets 1200
+rastaboulou folds
+manggy94 raises 4500 to 5700
+ben nh sqy raises 6622 to 12322 and is all-in
+manggy94 calls 650 and is all-in
+*** TURN *** [2d 6c Qd][5h]
+*** RIVER *** [2d 6c Qd 5h][Th]
+*** SHOW DOWN ***
+manggy94 shows [4h Kh Td Kc] (One pair : Kings)
+ben nh sqy shows [7h Qh 6d 6h] (Trips of 6)
+ben nh sqy collected 20772 from pot
+*** SUMMARY ***
+Total pot 20772 | No rake
+Board: [2d 6c Qd 5h Th]
+Seat 3: manggy94 showed [4h Kh Td Kc] and lost with One pair : Kings
+Seat 4: ben nh sqy showed [7h Qh 6d 6h] and won 20772 with Trips of 6
+
+

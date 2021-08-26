@@ -59,14 +59,14 @@ class MoneyType(PokerEnum):
 
 
 class Action(PokerEnum):
-    BET = "bet", "bets"
-    RAISE = "raise", "raises"
-    CHECK = "check", "checks"
-    FOLD = "fold", "folded", "folds"
-    CALL = "call", "calls"
+    BET = "bet", "bets", "BET", "BETS", "Bet", "Bets"
+    RAISE = "raise", "raises", "RAISE", "RAISES", "Raise", "Raises"
+    CHECK = "check", "checks", "CHECK", "CHECKS", "Check", "Checks"
+    FOLD = "fold", "folded", "folds", "FOLD", "FOLDS", "Fold", "Folds"
+    CALL = "call", "calls", "CALL", "CALLS", "Call", "Calls"
     RETURN = "return", "returned", "uncalled"
     WIN = "win", "won", "collected"
-    SHOW = "show",
+    SHOW = "show", "shows", "SHOW", "SHOWS", "Show", "Shows"
     MUCK = "don't show", "didn't show", "did not show", "mucks"
     THINK = ("seconds left to act",)
 

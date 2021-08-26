@@ -1,0 +1,125 @@
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 0 - HandId: #556584378096943105-1-1441394560 - Holdem no limit (10/20) - 2015/09/04 19:22:40 UTC
+Table: 'Starting Block Winamax Poker Tour(129589899)#0' 10-max (real money) Seat #9 is the button
+Seat 1: Kamkam33 (1500)
+Seat 2: PACMAN-BG (1500)
+Seat 3: Pedror9 (1500)
+Seat 4: vaganero20 (1500)
+Seat 5: micka300 (1500)
+Seat 6: manggy94 (1500)
+Seat 7: ninesopa (1500)
+Seat 8: Melflet (1500)
+Seat 9: hiteck11 (1500)
+Seat 10: stanislasPL (1500)
+*** ANTE/BLINDS ***
+stanislasPL posts small blind 10
+Kamkam33 posts big blind 20
+Dealt to manggy94 [2s 7s]
+*** PRE-FLOP *** 
+PACMAN-BG folds
+Pedror9 folds
+vaganero20 folds
+micka300 raises 494 to 514
+manggy94 folds
+ninesopa folds
+Melflet folds
+hiteck11 folds
+stanislasPL folds
+Kamkam33 folds
+micka300 collected 544 from pot
+*** SUMMARY ***
+Total pot 544 | No rake
+Seat 5: micka300 won 544
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 0 - HandId: #556584378096943105-2-1441394587 - Holdem no limit (10/20) - 2015/09/04 19:23:07 UTC
+Table: 'Starting Block Winamax Poker Tour(129589899)#0' 10-max (real money) Seat #10 is the button
+Seat 1: Kamkam33 (1480)
+Seat 2: PACMAN-BG (1500)
+Seat 3: Pedror9 (1500)
+Seat 4: vaganero20 (1500)
+Seat 5: micka300 (1530)
+Seat 6: manggy94 (1500)
+Seat 7: ninesopa (1500)
+Seat 8: Melflet (1500)
+Seat 9: hiteck11 (1500)
+Seat 10: stanislasPL (1490)
+*** ANTE/BLINDS ***
+Kamkam33 posts small blind 10
+PACMAN-BG posts big blind 20
+Dealt to manggy94 [3h Jd]
+*** PRE-FLOP *** 
+Pedror9 folds
+vaganero20 folds
+micka300 folds
+manggy94 folds
+ninesopa folds
+Melflet folds
+hiteck11 raises 20 to 40
+stanislasPL raises 110 to 150
+Kamkam33 folds
+PACMAN-BG folds
+hiteck11 calls 110
+*** FLOP *** [2d 5s 4s]
+hiteck11 checks
+stanislasPL bets 330
+hiteck11 calls 330
+*** TURN *** [2d 5s 4s][3d]
+hiteck11 checks
+stanislasPL bets 500
+hiteck11 folds
+stanislasPL shows [9d Kh] (High card : King)
+stanislasPL collected 1490 from pot
+*** SUMMARY ***
+Total pot 1490 | No rake
+Board: [2d 5s 4s 3d]
+Seat 10: stanislasPL (button) showed [9d Kh] and won 1490 with High card : King
+
+
+Winamax Poker - Tournament "Starting Block Winamax Poker Tour" buyIn: Ticket only level: 0 - HandId: #556584378096943105-3-1441394640 - Holdem no limit (10/20) - 2015/09/04 19:24:00 UTC
+Table: 'Starting Block Winamax Poker Tour(129589899)#0' 10-max (real money) Seat #1 is the button
+Seat 1: Kamkam33 (1470)
+Seat 2: PACMAN-BG (1480)
+Seat 3: Pedror9 (1500)
+Seat 4: vaganero20 (1500)
+Seat 5: micka300 (1530)
+Seat 6: manggy94 (1500)
+Seat 7: ninesopa (1500)
+Seat 8: Melflet (1500)
+Seat 9: hiteck11 (1020)
+Seat 10: stanislasPL (2000)
+*** ANTE/BLINDS ***
+PACMAN-BG posts small blind 10
+Pedror9 posts big blind 20
+Dealt to manggy94 [9d Kd]
+*** PRE-FLOP *** 
+vaganero20 calls 20
+micka300 raises 159 to 179
+manggy94 raises 408 to 587
+ninesopa folds
+Melflet folds
+hiteck11 folds
+stanislasPL folds
+Kamkam33 folds
+PACMAN-BG raises 893 to 1480 and is all-in
+Pedror9 folds
+vaganero20 folds
+micka300 calls 1301
+manggy94 calls 893
+*** FLOP *** [3d 3s 5d]
+micka300 bets 50 and is all-in
+manggy94 calls 20 and is all-in
+*** TURN *** [3d 3s 5d][Qs]
+*** RIVER *** [3d 3s 5d Qs][Ks]
+*** SHOW DOWN ***
+PACMAN-BG shows [Jd Js] (Two pairs : Jacks and 3)
+manggy94 shows [9d Kd] (Two pairs : Kings and 3)
+micka300 shows [Ad 3c] (Trips of 3)
+micka300 collected 4550 from pot
+*** SUMMARY ***
+Total pot 4550 | No rake
+Board: [3d 3s 5d Qs Ks]
+Seat 2: PACMAN-BG (small blind) showed [Jd Js] and lost with Two pairs : Jacks and 3
+Seat 5: micka300 showed [Ad 3c] and won 4550 with Trips of 3
+Seat 6: manggy94 showed [9d Kd] and lost with Two pairs : Kings and 3
+
+

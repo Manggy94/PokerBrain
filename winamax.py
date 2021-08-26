@@ -1,52 +1,8 @@
 import re
-
 import numpy as np
-
 from API.Table import *
 from API.hand import *
 from API.card import *
-
-_split_re = re.compile(r"\*\*\*\s+\n?|\n\n+")
-_header_re = re.compile(
-    r"""
-    Winamax\s+Poker\s+-\s+                                             #Winamax Poker
-    (?P<poker_type>Tournament)\s+                                       #Poker Type
-    \"(?P<tournament_name>.+)\"\s+                                      #Tournament Name
-    buyIn\:\s+(?P<buyin>[0-9.,]+)â..\s+                                 #Buy In
-    \+\s+(?P<rake>[0-9.,]+)â..\s+                                       #Rake
-    level:\s+(?P<level>[\d\#]+)\s+                                      #level
-    \-\s+HandId\:\s+                                                    
-    \#(?P<Hand_id>[0-9-]+)\s+\-\s+                                      #Hand Id
-    (?P<Variant>[A-Za-z ]+)\s+                                          #Variant
-    \((?P<ante>\d+)\/                                                   #Ante
-    (?P<small_blind>\d+)\/                                              #SB
-    (?P<big_blind>\d+)\)\s+                                             #BB
-    \-\s+(?P<date>.+)                                                   #Date
-    """,
-    re.VERBOSE,
-)
-_table_re = re.compile(
-    r"Table\:\s+\'(?P<tournament_name>[\w\s\']+)\((?P<tournament_id>\d+)\)\#(?P<table_id>\d+)\'\s+(?P<max_seat>\d+)\-max\s+\((?P<money_type>[a-z]+)\s+money\)\s+Seat\s+\#(?P<button>\d)\s+is\s+the\s+button")
-_seat_re = re.compile(r"Seat\s+(?P<seat>\d+)\:\s+(?P<player_name>[\w\s\-.]{3,12})\s\((?P<stack>\d+)\)")
-_pot_re = re.compile(r"Total\s+pot\s+(?P<total_pot>\d+)")
-_ante_re = re.compile(r"(?P<player_name>[\w\s\-.]{3,12})\s+posts\sante\s+(?P<amount>\d+)")
-_board_re = re.compile(r"Board\:\s+\[(?P<board>[0-9AJKQshdc ]+)\]")
-_action_re = re.compile(
-    r"(?P<player_name>[\w\s\-.]{6,12})\s+(?P<move>shows|checks|calls|folds|bets|raises)\s+(?P<value>\d+||\s+)")
-_showdown_action_re = re.compile(
-    r"(?P<player_name>[\w\s\-.]{6,12})\s+(?P<move>shows|mucks)\s+\[(?P<card1>[AJKQ2-9shdc]{2})\s+(?P<card2>[AJKQ2-9shdc]{2})\]")
-_flop_re = re.compile(
-    r"\*\*\*\s+FLOP\s+\*\*\*\s+\[(?P<flop_card_1>[AJKQT2-9hscd]{2})\s+(?P<flop_card_2>[AJKQT2-9hscd]{2})\s+(?P<flop_card_3>[AJKQT2-9hscd]{2})\]")
-_hero_cards_re = re.compile(
-    r"Dealt\s+to\s+(?P<hero_name>[\w\s\-.]+)\s+\[(?P<card1>[AJKQT2-9hscd]{2})\s+(?P<card2>[AJKQT2-9hscd]{2})\]")
-_turn_re = re.compile(r"\*\*\*\s+TURN\s+\*\*\*\s+\[.+\]\[(?P<turn_card>[AJKQT2-9hscd]{2})\]")
-_river_re = re.compile(r"\*\*\*\s+RIVER\s+\*\*\*\s+\[.+\]\[(?P<river_card>[AJKQT2-9hscd]{2})\]")
-_showdown_re = re.compile(r"\*\*\*\s+SHOW\s+DOWN\s+\*\*\*")
-_summary_re = re.compile(r"\*\*\*\s+SUMMARY\s+\*\*\*")
-_winner_re = re.compile(r"(?P<player_name>[\w\s\-.]{6,12})\s+collected\s+(?P<amount>\d+)\s+")
-_sb_re = re.compile(r"(?P<player_name>[\w\s\-.]{3,12})\s+posts\s+small\s+blind\s+(?P<sb>\d+)")
-_bb_re = re.compile(r"(?P<player_name>[\w\s\-.]{3,12})\s+posts\s+big\s+blind\s+(?P<bb>\d+)")
-
 
 def floatify(txt: str):
     return float(txt.replace(",", "."))
@@ -66,7 +22,7 @@ class WinamaxHandHistory:
 
     def parse_header(self, header_txt):
         header = re.match(_header_re, header_txt)
-        self.poker_type = header.group("poker_type")
+        # self.poker_type = header.group("poker_type")
         self.tournament_name = header.group("tournament_name")
         self.buyIn = floatify(header.group("buyin"))
         self.rake = floatify(header.group("rake"))
@@ -142,7 +98,8 @@ class WinamaxHandHistory:
         combo = Combo(c1+c2)
         for player in self.table.players:
             if hero_name == player.name:
-                player.is_hero(combo)
+                player.is_hero = True
+                player.combo = combo
                 self.table.hero = player
                 break
 
@@ -216,7 +173,7 @@ class WinamaxHandHistory:
 
     def get_hand_info(self):
         return self.tournament_id, self.table_id, self.level.nb, self.level.bb, self.level.ante, \
-               self.table.max_players, self.button_seat, self.buyIn
+               self.table.max_players, self.button_seat, self.buyIn, self.table.hero.seat, self.table.hero.combo
 
     def get_board_card(self, i):
         return self.table.get_board_card(i)
@@ -234,6 +191,13 @@ class WinamaxHandHistory:
         return self.table.get_player_infos(i)
 
     def get_all_players_info(self):
+        """
+            Getting Preflop information about each player on a basis of a 10-rounded table.
+            Information about player's name, position on the table, seat and initial stack.
+            Converted to floats for usage in Tensorflow
+            :param hand: WinamaxHandHistory
+            :return: list
+            """
         return self.table.get_all_players_info()
 
     def get_street(self, i):

@@ -1,4 +1,8 @@
 import math
+
+import numpy as np
+import pandas as pd
+
 import API.constants as cst
 import API.Range
 from file_reader import *
@@ -24,349 +28,130 @@ def sparse_unknown_combo(table):
             sparsed[i] = 0
     return sparsed
 
-def name_to_array(player_name):
-    """Converts a player name into a 12-sized array to be recognized easily in Tensorflow"""
-    name_byte = player_name.encode(encoding='ASCII')
-    tab = np.zeros(12)
-    for i in range(12):
-        try:
-            tab[i] = name_byte[i]
-        except:
-            tab[i] = 0
-    return tab
-
-def card_to_int(card: Card):
-    try:
-        return np.where(all_cards == card)[0][0]
-    except:
-            return all_cards.size
-
-def board_to_int(board):
-    int_board = []
-    for i in range(5):
-        try:
-            int_board.append(card_to_int(board[i]))
-        except:
-            int_board.append(52)
-    return int_board
-
-
-def combo_to_int(combo: Combo):
-    try:
-        return np.where(all_combos == combo)[0][0]
-    except:
-        return all_combos.size
-
-
-def int_to_combo(k: int):
-    if k<1326:
-        return all_combos[k]
-    else:
-        return None
-
-
-def sparse_int(k: int, n: int = 1326):
-    sparsed = np.zeros(n)
-    sparsed[k] = 1
-    return sparsed
-
-
-def sparse_combo(player: Player, table: Table):
-    if player.combo == None:
-        return sparse_unknown_combo(table)
-    else:
-        return sparse_int(combo_to_int(player.combo))
-
-
-def unsparse_range(sparsed: np.ndarray):
-    combo_range=[]
-    for i in range(sparsed.size):
-        if sparsed[i] ==1:
-            combo_range.append(int_to_combo(i))
-    return np.array(combo_range)
-
-
-def get_table_players(hand: WinamaxHandHistory):
-    """
-    Getting Preflop information about each player on a basis of a 10-rounded table.
-    Information about player's name, position on the table, seat and initial stack.
-    Converted to floats for usage in Tensorflow
-    :param hand: WinamaxHandHistory
-    :return: list
-    """
-    a = np.array([])
-    players = hand.table.players
-    for i in range(9):
-        try:
-            pl = players[i]
-            name = name_to_array(pl.name)
-            pos = np.where(all_positions == pl.position)[0][0]
-            seat = pl.seat
-            init = pl.init_stack
-        except:
-            name = np.zeros(12)
-            pos = init = seat = 0
-        a = np.hstack((a, name, pos, init, seat))
-    return a
-
-
-def get_street_actions(street: Street, n: int = 24):
-    """"""
-    ext = np.array([])
-    actions = street.actions
-    for i in range(n):
-        try:
-            action = actions[i]
-            pl = action.player
-            seat = pl.seat
-            move = cst.Action(action.move)
-            move = np.where(all_actions == move)[0][0]+1
-            value = action.value
-        except:
-            seat = move = value = 0
-        ext = np.hstack((ext, seat, move, value))
-    ext = np.hstack((ext, np.zeros(72-3*n)))
-    return ext
-
-
-def get_previous_actions(table, street, n: int=24):
-
-    # First we define an empty np.array for actions (and card)
-    actions = np.array([])
-    # Then two running variables i and k are defined to describe every step of the hand
-    i = street.index
-    k = n
-    # This while keeps going for every known step
-    while(i, k) != (0, 0):
-        # Extension np.array
-        ext = np.array([])
-        # For every previous street, compute vector for street actions and add it to extension
-        for j in range(i):
-            res = get_street_actions(table.streets[j])
-            if ext.shape[0] == 0:
-                ext = res
-            else:
-                ext = np.hstack((ext, res))
-        # Compute current street and add it to extension
-        current = get_street_actions(table.streets[i], k)
-        if ext.shape[0] == 0:
-            ext = current
-        else:
-            ext = np.hstack((ext, current))
-        ext = np.hstack((ext, np.zeros(72*(3-i))))
-        # Transform board cards and add it to extension
-        int_board = board_to_int(table.board)
-        if i == 0:
-            board = 52 * np.ones(5)
-        else:
-            board = np.hstack((int_board[:i + 2], 52 * np.ones(3 - i)))
-        ext = np.hstack((ext, board))
-        # Add extension to actions
-        if actions.shape[0] == 0:
-            actions = ext
-        else:
-            actions = np.vstack((actions, ext))
-        # Modify i and k to keep running
-        if k > 0:
-            k -= 1
-        elif i > 0:
-            i -= 1
-            k = 24
-    return actions
-
-def convert_hands_info(hands):
-    idents = [hand.ident for hand in hands]
-    info = np.vstack([hand.get_hand_info() for hand in hands])
-    hi_columns = ["tournament_id", "table_id", "level", "bb", "ante", "max_pl", "btn", "buyin"]
-    hand_info = pd.DataFrame(data=info, columns=hi_columns, index=idents)
-    return hand_info
-
-
-def convert_board(hands):
-    idents = [hand.ident for hand in hands]
-    board = np.vstack([hand.table.get_total_board() for hand in hands])
-    bd_columns = ["Card_0", "Card_1", "Card_2", "Card_3", "Card_4",]
-    boards = pd.DataFrame(data=board, index=idents, columns=bd_columns)
-    return boards
-
-def convert_players_info(hands):
-    idents = [hand.ident for hand in hands]
-    players_info = np.vstack([hand.get_all_players_info() for hand in hands])
-    labels = ["name", "seat", "stack", "position", "combo", "hero"]
-    pl_columns = np.array(["p%s_%s" % (i,l) for i in range(9) for l in labels])
-    players = pd.DataFrame(data=players_info, columns=pl_columns, index=idents)
-    return players
-
-
-def convert_hand_actions(hands):
-    idents = [hand.ident for hand in hands]
-    streets =["pf", "flop", "turn", "river"]
-    labels = ["seat", "move", "value"]
-    act_columns = (np.array(["%s_action_%s_%s"%(s,j,l) for s in streets for j in range(24) for l in labels]))
-    actions = np.vstack([hand.table.get_table_action_info()for hand in hands])
-    act_frame = pd.DataFrame(data=actions, index=idents, columns=act_columns)
-    return act_frame
-
-hands = parse_directory("history2")
-
-
-def convert_all_hands_actions(hands):
-    streets = ["pf", "flop", "turn", "river"]
-    labels = ["seat", "move", "value"]
-    act_columns = (np.array(["%s_action_%s_%s" % (s, j, l) for s in streets for j in range(24) for l in labels]))
-    actions = np.vstack([hand.get_consecutive_actions()[0] for hand in hands])
-    board = np.vstack([hand.get_consecutive_actions()[2] for hand in hands])
-    idents = np.hstack([hand.get_consecutive_actions()[3] for hand in hands])
-    infos = np.vstack([hand.get_consecutive_actions()[4] for hand in hands])
-    pl_info = np.vstack([hand.get_consecutive_actions()[5] for hand in hands])
-    act_frame = pd.DataFrame(data=actions, index=idents, columns=act_columns)
-    bd_columns = ["Card_0", "Card_1", "Card_2", "Card_3", "Card_4", ]
-    bd_frame = pd.DataFrame(data=board, index=idents, columns=bd_columns)
-    hi_columns = ["tournament_id", "table_id", "level", "bb", "ante", "max_pl", "btn", "buyin"]
-    hi_frame = pd.DataFrame(data=infos, columns=hi_columns, index=idents)
-    pl_labels = ["name", "seat", "stack", "position", "combo", "hero"]
-    pl_columns = np.array(["p%s_%s" % (i, l) for i in range(9) for l in pl_labels])
-    pl_frame = pd.DataFrame(data=pl_info, columns=pl_columns, index=idents)
-    # print(bd_frame, act_frame, hi_frame, pl_frame)
-    df = pd.concat([hi_frame, pl_frame, act_frame, bd_frame], axis=1)
-    return df
-
-hand_actions = convert_all_hands_actions(hands)
-infos = convert_hands_info(hands)
-#df = pd.concat([hand_actions, infos], axis=1, join='outer')
-print(hand_actions)
-# print(infos)
-
-
-
-def convert_hands(hands):
-    players = convert_players_info(hands)
-    infos = convert_hands_info(hands)
-    actions = convert_hand_actions(hands)
-    board = convert_board(hands)
-    print(infos.shape, players.shape, actions.shape, board.shape)
-    a = infos.join(players)
-    b = a.join(actions)
-    hands = b.join(board)
-    return hands
-
-def player_history_to_vec(player: Player, hand: WinamaxHandHistory):
-    """
-    Transforms information about a player into an Input vector that can be used in TF
-    This key function is to be modified to add features that are going to be used in our Model input
-    :param player:
-    :param hand:
-    :return:
-    """
-    #timer = Timer()
-    #timer.start()
-    vec = np.array([])
-    # define some parameters
-    table = hand.table
-    last_street = table.streets[min(table.progression, 3)]
-    n = len(last_street.actions)
-    level = hand.level
-    # Get target from player combo
-    yi = sparse_combo(player, table)
-    # Create a vector
-    player_info = np.array([])
-    # Get the name of the player at stake
-    pl_name = name_to_array(player.name)
-    # Get hero's combo
-    int_combo = combo_to_int(table.hero.combo)
-    # Get the number of players involved
-    max_players, players_nb = table.max_players, len(table.players)
-    # Get players information
-    players = get_table_players(hand)
-    # Get level information
-    level_nb, ante, sb, bb = level.nb, level.ante, level.sb, level.bb
-    player_info = np.hstack((
-        player_info,
-        pl_name,
-        int_combo,
-        max_players,
-        players_nb,
-        players,
-        level_nb,
-        ante,
-        sb,
-        bb
-    ))
-    # Get streets information
-    all_actions = get_previous_actions(table=table, street=last_street, n=n)
-    for action_sample in all_actions:
-        ext = np.hstack((player_info, action_sample))
-        if vec.shape[0] == 0:
-            vec = ext
-        else:
-            vec = np.vstack((vec, ext))
-    p = vec.shape[0]
-    target = np.ones((p,1))*yi
-    #timer.stop()
-    return vec, target
-
-
-def hand_to_vecs(hand, showdown_only: bool = True):
-    """
-    :param hand:
-    :return:
-    """
-    # timer=Timer()
-    # timer.start()
-    x, y = np.array([]), np.array([])
-    if showdown_only:
-        try:
-            players = hand.table.streets[4].active_players
-        except:
-            return np.array([])
-    else:
-        players = hand.table.players
-    for player in players:
-        a, b = player_history_to_vec(player, hand)
-        if x.size == 0:
-            x, y = a, b
-        else:
-            x, y = np.vstack((x, a)), np.vstack((y, b))
-    # timer.stop()
-    return x, y
-
-def vectorize_file(file_name: str, showdown_only: bool=True, limit: int=math.inf):
-
-    features = targets = np.array([])
-    hands = parse_file(file_name)
-    for hand in hands:
-        if features.shape[0] > limit:
-            break
-        a, b = hand_to_vecs(hand, showdown_only)
-        if features.size == 0:
-            features, targets = a, b
-        else:
-            features, targets = np.vstack((features, a)), np.vstack((targets, b))
-    return features, targets
-
-
-def vectorize_dir(dir_name: str="history", showdown_only: str=True, limit: int=math.inf ):
-    # timer = Timer()
-    hands = parse_directory(dir_name)
-    # timer.start()
-    features = targets = np.array([])
-    count_hands = 0
-    for hand in hands:
-        count_hands+=1
-        if features.shape[0] > limit:
-            break
-        a, b = hand_to_vecs(hand, showdown_only)
-        if features.size == 0:
-            features, targets = a, b
-        else:
-            features, targets = np.vstack((features, a)), np.vstack((targets, b))
-    # timer.stop()
-    print(count_hands)
-    return features, targets
-
-#feat, tar = vectorize_dir(dir_name="history2", showdown_only=False, limit=400)
-#print(feat.shape)
 
 class HandConverter:
+
     def __init__(self):
-        pass
+        self.streets = ["pf", "flop", "turn", "river"]
+        self.labels = ["seat", "move", "value"]
+        self.txt_label = "move"
+        self.val_labels = ["seat", "value"]
+        self.ext_cols = ["%s_action_%s_%s" % (s, k, l) for s in self.streets for k in range(24) for l in self.labels]
+        self.hero_cols = ["p%s_hero" % i for i in range(9)]
+        self.combo_cols = ["p%s_combo" % i for i in range(9)]
+        self.stack_cols = ["p%s_stack" % i for i in range(9)]
+        self.street_val_cols = ["%s_action_%s_value" % (s, k) for s in self.streets for k in range(24)]
+        self.val_cols = np.hstack((["bb", "ante", "buyin"], self.stack_cols, self.street_val_cols))
+        self.current_df = None
+        self.droppable_info = np.hstack((self.combo_cols, ["hand_id", "tournament_id", "table_id"]))
+
+    def convert_board(self, hands):
+        idents = [hand.ident for hand in hands]
+        board = np.vstack([hand.table.get_total_board() for hand in hands])
+        bd_columns = ["Card_0", "Card_1", "Card_2", "Card_3", "Card_4", ]
+        boards = pd.DataFrame(data=board, index=idents, columns=bd_columns)
+        return boards
+
+    def convert_hands_info(self, hands):
+        idents = [hand.ident for hand in hands]
+        info = np.vstack([hand.get_hand_info() for hand in hands])
+        hi_columns = ["tournament_id", "table_id", "level", "bb", "ante", "max_pl", "btn", "buyin", "hero_seat"
+            , "hero_combo"]
+        hand_info = pd.DataFrame(data=info, columns=hi_columns, index=idents)
+        return hand_info
+
+    def convert_players_info(self, hands):
+        idents = [hand.ident for hand in hands]
+        players_info = np.vstack([hand.get_all_players_info() for hand in hands])
+        labels = ["name", "seat", "stack", "position", "combo", "hero"]
+        pl_columns = np.array(["p%s_%s" % (i, l) for i in range(9) for l in labels])
+        players = pd.DataFrame(data=players_info, columns=pl_columns, index=idents)
+        return players
+
+    def convert_hand_actions(self, hands):
+        timer = Timer()
+        timer.start()
+        idents = [hand.ident for hand in hands]
+        streets = ["pf", "flop", "turn", "river"]
+        labels = ["seat", "move", "value"]
+        act_columns = (np.array(["%s_action_%s_%s" % (s, j, l) for s in streets for j in range(24) for l in labels]))
+        actions = np.vstack([hand.table.get_table_action_info() for hand in hands])
+        act_frame = pd.DataFrame(data=actions, index=idents, columns=act_columns)
+        timer.stop()
+        return act_frame
+
+    def complete_convert(self, hands):
+        streets = ["pf", "flop", "turn", "river"]
+        labels = ["seat", "move", "value"]
+        act_columns = (np.array(["%s_action_%s_%s" % (s, j, l) for s in streets for j in range(24) for l in labels]))
+        actions = np.vstack([hand.get_consecutive_actions()[0] for hand in hands])
+        board = np.vstack([hand.get_consecutive_actions()[2] for hand in hands])
+        idents = np.hstack([hand.get_consecutive_actions()[3] for hand in hands])
+        infos = np.vstack([hand.get_consecutive_actions()[4] for hand in hands])
+        pl_info = np.vstack([hand.get_consecutive_actions()[5] for hand in hands])
+        act_frame = pd.DataFrame(data=actions, index=idents, columns=act_columns)
+        bd_columns = ["Card_0", "Card_1", "Card_2", "Card_3", "Card_4", ]
+        bd_frame = pd.DataFrame(data=board, index=idents, columns=bd_columns)
+        hi_columns = ["tournament_id", "table_id", "level", "bb", "ante", "max_pl", "btn", "buyin"]
+        hi_frame = pd.DataFrame(data=infos, columns=hi_columns, index=idents)
+        pl_labels = ["name", "seat", "stack", "position", "combo", "hero"]
+        pl_columns = np.array(["p%s_%s" % (i, l) for i in range(9) for l in pl_labels])
+        pl_frame = pd.DataFrame(data=pl_info, columns=pl_columns, index=idents)
+        # print(bd_frame, act_frame, hi_frame, pl_frame)
+        df = pd.concat([hi_frame, pl_frame, act_frame, bd_frame], axis=1).reset_index().rename(columns={"index":"hand_id"})
+        self.current_df = df
+        return df
+
+    def convert_hands(self, hands):
+        pl_frame = self.convert_players_info(hands)
+        hi_frame = self.convert_hands_info(hands)
+        act_frame = self.convert_hand_actions(hands)
+        bd_frame = self.convert_board(hands)
+        df = pd.concat([hi_frame, pl_frame, act_frame, bd_frame], axis=1).reset_index().rename(columns={"index":"hand_id"})
+        self.current_df = df
+        return df
+
+    def convert_single_hand(self, hand: WinamaxHandHistory):
+        return self.convert_hands([hand])
+
+    def get_hero_combo(self, line: int=0):
+        try:
+            #print([self.current_df[f"p{pl_index}_combo"].loc[line] for pl_index in range(9) if self.current_df[f"p{pl_index}_hero"].loc[line] == "True"][0])
+            return [self.current_df[f"p{pl_index}_combo"].loc[line] for pl_index in range(9) if self.current_df[f"p{pl_index}_hero"].loc[line] == "True"][0]
+        except IndexError:
+            return None
+
+    def transform_to_guess(self, pl_index: int, line: int=0):
+        seat = self.current_df[f"p{pl_index}_seat"].loc[line]
+        combo = self.current_df[f"p{pl_index}_combo"].loc[line]
+        hero_combo = self.get_hero_combo(line)
+        # print(hero_combo, combo)
+        infos = self.current_df.iloc[line, :].drop(self.droppable_info)
+        indexes = np.hstack((infos.index.to_numpy(), ["seat", "hero_combo"]))
+        inf = np.hstack((infos.to_numpy(), [seat, hero_combo])).reshape(1,indexes.shape[0])
+        infos = pd.DataFrame(columns=indexes, data=inf)
+        combo = pd.Series({"combo":combo})
+        return combo, infos
+
+
+    def extract_player_infos(self, line: int=0):
+        try:
+            combos = pd.concat([self.transform_to_guess(pl_index=pl_index, line=line)[0] for pl_index in range(9)
+                if self.transform_to_guess(pl_index=pl_index, line=line)[0]["combo"] not in [None, "None"]
+            ])
+            infos = pd.concat([
+                self.transform_to_guess(pl_index=pl_index, line=line)[1] for pl_index in range(9)
+                if self.transform_to_guess(pl_index=pl_index, line=line)[0]["combo"] not in [None, "None"]
+            ], axis=0)
+            #print(combos.shape, infos.shape)
+            return combos, infos
+        except ValueError:
+            return None, None
+
+    def extract_all_info(self):
+        n = self.current_df.shape[0]
+        combos = pd.concat([self.extract_player_infos(line=line)[0] for line in range(n)])
+        infos = pd.concat([self.extract_player_infos(line=line)[1] for line in range(n)], axis=0)
+        return combos, infos
+
+

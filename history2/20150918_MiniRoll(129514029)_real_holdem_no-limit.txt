@@ -1,0 +1,355 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #556258518928195600-39-1442587918 - Holdem no limit (30/200/400) - 2015/09/18 14:51:58 UTC
+Table: 'MiniRoll(129514029)#015' 6-max (real money) Seat #5 is the button
+Seat 1: Benny365 (9021)
+Seat 2: Clementine18 (13615)
+Seat 3: Le-Dade (7825)
+Seat 4: manggy94 (10000)
+Seat 5: mino55 (6359)
+Seat 6: duzouc (10482)
+*** ANTE/BLINDS ***
+duzouc posts ante 30
+Benny365 posts ante 30
+Clementine18 posts ante 30
+Le-Dade posts ante 30
+manggy94 posts ante 30
+mino55 posts ante 30
+duzouc posts small blind 200
+Benny365 posts big blind 400
+Dealt to manggy94 [6c Qs]
+*** PRE-FLOP *** 
+Clementine18 folds
+Le-Dade calls 400
+manggy94 folds
+mino55 folds
+duzouc calls 200
+Benny365 checks
+*** FLOP *** [4d 9c 5d]
+duzouc checks
+Benny365 checks
+Le-Dade checks
+*** TURN *** [4d 9c 5d][2s]
+duzouc checks
+Benny365 bets 800
+Le-Dade folds
+duzouc raises 1090 to 1890
+Benny365 calls 1090
+*** RIVER *** [4d 9c 5d 2s][Th]
+duzouc bets 2580
+Benny365 folds
+duzouc collected 7740 from pot
+*** SUMMARY ***
+Total pot 7740 | No rake
+Board: [4d 9c 5d 2s Th]
+Seat 6: duzouc (small blind) won 7740
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #556258518928195586-52-1442587986 - Holdem no limit (30/200/400) - 2015/09/18 14:53:06 UTC
+Table: 'MiniRoll(129514029)#001' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (9970)
+Seat 2: -Curtis- (8261)
+Seat 3: Niko75014 (15741)
+Seat 4: pat13666 (38190)
+Seat 5: CHRISVANES76 (41632)
+Seat 6: middle chass (7915)
+*** ANTE/BLINDS ***
+-Curtis- posts ante 30
+Niko75014 posts ante 30
+pat13666 posts ante 30
+CHRISVANES76 posts ante 30
+middle chass posts ante 30
+-Curtis- posts big blind 400
+*** PRE-FLOP *** 
+Niko75014 folds
+pat13666 calls 400
+CHRISVANES76 folds
+middle chass raises 7485 to 7885 and is all-in
+-Curtis- folds
+pat13666 calls 7485
+*** FLOP *** [4d Tc 3d]
+*** TURN *** [4d Tc 3d][Td]
+*** RIVER *** [4d Tc 3d Td][5d]
+*** SHOW DOWN ***
+pat13666 shows [Qh Kc] (One pair : Tens)
+middle chass shows [9s As] (One pair : Tens)
+middle chass collected 16320 from pot
+*** SUMMARY ***
+Total pot 16320 | No rake
+Board: [4d Tc 3d Td 5d]
+Seat 4: pat13666 showed [Qh Kc] and lost with One pair : Tens
+Seat 6: middle chass (button) showed [9s As] and won 16320 with One pair : Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #556258518928195586-53-1442588032 - Holdem no limit (30/200/400) - 2015/09/18 14:53:52 UTC
+Table: 'MiniRoll(129514029)#001' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (9970)
+Seat 2: -Curtis- (7831)
+Seat 3: Niko75014 (15711)
+Seat 4: pat13666 (30275)
+Seat 5: CHRISVANES76 (41602)
+Seat 6: middle chass (16320)
+*** ANTE/BLINDS ***
+-Curtis- posts ante 30
+Niko75014 posts ante 30
+pat13666 posts ante 30
+CHRISVANES76 posts ante 30
+middle chass posts ante 30
+-Curtis- posts small blind 200
+Niko75014 posts big blind 400
+*** PRE-FLOP *** 
+pat13666 folds
+CHRISVANES76 folds
+middle chass calls 400
+-Curtis- folds
+Niko75014 checks
+*** FLOP *** [6c 4s 3s]
+Niko75014 checks
+middle chass checks
+*** TURN *** [6c 4s 3s][2c]
+Niko75014 checks
+middle chass bets 15890 and is all-in
+Niko75014 folds
+middle chass collected 17040 from pot
+*** SUMMARY ***
+Total pot 17040 | No rake
+Board: [6c 4s 3s 2c]
+Seat 6: middle chass won 17040
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #556258518928195586-54-1442588079 - Holdem no limit (30/200/400) - 2015/09/18 14:54:39 UTC
+Table: 'MiniRoll(129514029)#001' 6-max (real money) Seat #2 is the button
+Seat 1: manggy94 (9970)
+Seat 2: -Curtis- (7601)
+Seat 3: Niko75014 (15281)
+Seat 4: pat13666 (30245)
+Seat 5: CHRISVANES76 (41572)
+Seat 6: middle chass (17040)
+*** ANTE/BLINDS ***
+Niko75014 posts ante 30
+pat13666 posts ante 30
+manggy94 posts ante 30
+-Curtis- posts ante 30
+CHRISVANES76 posts ante 30
+middle chass posts ante 30
+Niko75014 posts small blind 200
+pat13666 posts big blind 400
+Dealt to manggy94 [Tc Jd]
+*** PRE-FLOP *** 
+CHRISVANES76 folds
+middle chass raises 400 to 800
+manggy94 folds
+-Curtis- folds
+Niko75014 folds
+pat13666 folds
+middle chass collected 1580 from pot
+*** SUMMARY ***
+Total pot 1580 | No rake
+Seat 6: middle chass won 1580
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #556258518928195586-55-1442588099 - Holdem no limit (30/200/400) - 2015/09/18 14:54:59 UTC
+Table: 'MiniRoll(129514029)#001' 6-max (real money) Seat #3 is the button
+Seat 1: manggy94 (9940)
+Seat 2: -Curtis- (7571)
+Seat 3: Niko75014 (15051)
+Seat 4: pat13666 (29815)
+Seat 5: CHRISVANES76 (41542)
+Seat 6: middle chass (17790)
+*** ANTE/BLINDS ***
+pat13666 posts ante 30
+CHRISVANES76 posts ante 30
+manggy94 posts ante 30
+-Curtis- posts ante 30
+Niko75014 posts ante 30
+middle chass posts ante 30
+pat13666 posts small blind 200
+CHRISVANES76 posts big blind 400
+Dealt to manggy94 [6c Ah]
+*** PRE-FLOP *** 
+middle chass folds
+manggy94 calls 400
+-Curtis- raises 600 to 1000
+Niko75014 calls 1000
+pat13666 folds
+CHRISVANES76 folds
+manggy94 calls 600
+*** FLOP *** [8d 3h 5c]
+manggy94 checks
+-Curtis- bets 6541 and is all-in
+Niko75014 folds
+manggy94 folds
+-Curtis- collected 10321 from pot
+*** SUMMARY ***
+Total pot 10321 | No rake
+Board: [8d 3h 5c]
+Seat 2: -Curtis- won 10321
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #556258518928195586-56-1442588402 - Holdem no limit (30/200/400) - 2015/09/18 15:00:02 UTC
+Table: 'MiniRoll(129514029)#001' 6-max (real money) Seat #4 is the button
+Seat 1: manggy94 (8910)
+Seat 2: -Curtis- (10321)
+Seat 3: Niko75014 (14021)
+Seat 4: pat13666 (29585)
+Seat 5: CHRISVANES76 (41112)
+Seat 6: middle chass (17760)
+*** ANTE/BLINDS ***
+CHRISVANES76 posts ante 30
+middle chass posts ante 30
+manggy94 posts ante 30
+-Curtis- posts ante 30
+Niko75014 posts ante 30
+pat13666 posts ante 30
+CHRISVANES76 posts small blind 200
+middle chass posts big blind 400
+Dealt to manggy94 [6s 9s]
+*** PRE-FLOP *** 
+manggy94 folds
+-Curtis- folds
+Niko75014 folds
+pat13666 folds
+CHRISVANES76 calls 200
+middle chass checks
+*** FLOP *** [5h Jd 7c]
+CHRISVANES76 checks
+middle chass checks
+*** TURN *** [5h Jd 7c][7h]
+CHRISVANES76 checks
+middle chass checks
+*** RIVER *** [5h Jd 7c 7h][2c]
+CHRISVANES76 checks
+middle chass checks
+*** SHOW DOWN ***
+middle chass shows [Kd Ts] (One pair : 7)
+CHRISVANES76 shows [Ac 4d] (One pair : 7)
+CHRISVANES76 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | No rake
+Board: [5h Jd 7c 7h 2c]
+Seat 5: CHRISVANES76 (small blind) showed [Ac 4d] and won 980 with One pair : 7
+Seat 6: middle chass (big blind) showed [Kd Ts] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #556258518928195586-57-1442588462 - Holdem no limit (30/200/400) - 2015/09/18 15:01:02 UTC
+Table: 'MiniRoll(129514029)#001' 6-max (real money) Seat #5 is the button
+Seat 1: manggy94 (8880)
+Seat 2: -Curtis- (10291)
+Seat 3: Niko75014 (13991)
+Seat 4: pat13666 (29555)
+Seat 5: CHRISVANES76 (41662)
+Seat 6: middle chass (17330)
+*** ANTE/BLINDS ***
+middle chass posts ante 30
+manggy94 posts ante 30
+-Curtis- posts ante 30
+Niko75014 posts ante 30
+pat13666 posts ante 30
+CHRISVANES76 posts ante 30
+middle chass posts small blind 200
+manggy94 posts big blind 400
+Dealt to manggy94 [3d 5d]
+*** PRE-FLOP *** 
+-Curtis- folds
+Niko75014 folds
+pat13666 folds
+CHRISVANES76 calls 400
+middle chass raises 1600 to 2000
+manggy94 folds
+CHRISVANES76 folds
+middle chass collected 2980 from pot
+*** SUMMARY ***
+Total pot 2980 | No rake
+Seat 6: middle chass (small blind) won 2980
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 6 - HandId: #556258518928195586-58-1442588485 - Holdem no limit (30/200/400) - 2015/09/18 15:01:25 UTC
+Table: 'MiniRoll(129514029)#001' 6-max (real money) Seat #6 is the button
+Seat 1: manggy94 (8450)
+Seat 2: -Curtis- (10261)
+Seat 3: Niko75014 (13961)
+Seat 4: pat13666 (29525)
+Seat 5: CHRISVANES76 (41232)
+Seat 6: xX.Celine.Xx (10000)
+*** ANTE/BLINDS ***
+manggy94 posts ante 30
+-Curtis- posts ante 30
+Niko75014 posts ante 30
+pat13666 posts ante 30
+CHRISVANES76 posts ante 30
+manggy94 posts small blind 200
+-Curtis- posts big blind 400
+Dealt to manggy94 [3d 4d]
+*** PRE-FLOP *** 
+Niko75014 folds
+pat13666 calls 400
+CHRISVANES76 folds
+manggy94 calls 200
+-Curtis- checks
+*** FLOP *** [3c Th 5d]
+manggy94 checks
+-Curtis- bets 600
+pat13666 calls 600
+manggy94 calls 600
+*** TURN *** [3c Th 5d][9c]
+manggy94 checks
+-Curtis- bets 600
+pat13666 calls 600
+manggy94 folds
+*** RIVER *** [3c Th 5d 9c][4s]
+-Curtis- bets 1400
+pat13666 calls 1400
+*** SHOW DOWN ***
+pat13666 shows [Kh 5h] (One pair : 5)
+-Curtis- shows [Jh Td] (One pair : Tens)
+-Curtis- collected 7150 from pot
+*** SUMMARY ***
+Total pot 7150 | No rake
+Board: [3c Th 5d 9c 4s]
+Seat 2: -Curtis- (big blind) showed [Jh Td] and won 7150 with One pair : Tens
+Seat 4: pat13666 showed [Kh 5h] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0,45€ + 0,05€ level: 7 - HandId: #556258518928195586-59-1442588539 - Holdem no limit (40/250/500) - 2015/09/18 15:02:19 UTC
+Table: 'MiniRoll(129514029)#001' 6-max (real money) Seat #1 is the button
+Seat 1: manggy94 (7420)
+Seat 2: -Curtis- (14381)
+Seat 3: Niko75014 (13931)
+Seat 4: pat13666 (26495)
+Seat 5: CHRISVANES76 (41202)
+Seat 6: xX.Celine.Xx (10000)
+*** ANTE/BLINDS ***
+-Curtis- posts ante 40
+Niko75014 posts ante 40
+manggy94 posts ante 40
+pat13666 posts ante 40
+CHRISVANES76 posts ante 40
+xX.Celine.Xx posts ante 40
+-Curtis- posts small blind 250
+Niko75014 posts big blind 500
+Dealt to manggy94 [9d Kd]
+*** PRE-FLOP *** 
+pat13666 calls 500
+CHRISVANES76 folds
+xX.Celine.Xx folds
+manggy94 raises 1990 to 2490
+-Curtis- folds
+Niko75014 calls 1990
+pat13666 calls 1990
+*** FLOP *** [6s Tc 2d]
+Niko75014 checks
+pat13666 checks
+manggy94 bets 4890 and is all-in
+Niko75014 calls 4890
+pat13666 folds
+*** TURN *** [6s Tc 2d][Ts]
+*** RIVER *** [6s Tc 2d Ts][3c]
+*** SHOW DOWN ***
+manggy94 shows [9d Kd] (One pair : Tens)
+Niko75014 shows [8d 8s] (Two pairs : Tens and 8)
+Niko75014 collected 17740 from pot
+*** SUMMARY ***
+Total pot 17740 | No rake
+Board: [6s Tc 2d Ts 3c]
+Seat 1: manggy94 (button) showed [9d Kd] and lost with One pair : Tens
+Seat 3: Niko75014 (big blind) showed [8d 8s] and won 17740 with Two pairs : Tens and 8
+
+

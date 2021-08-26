@@ -262,6 +262,8 @@ class Combo(_ReprMixin):
         return self
 
     def __str__(self):
+        if self is None:
+            return "Unknown combo"
         return f"{self.first}{self.second}"
 
     def __hash__(self):

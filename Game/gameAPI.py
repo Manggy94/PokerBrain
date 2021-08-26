@@ -1,87 +1,84 @@
 from API.Table import *
 from API.Range import *
-from winamax import WinamaxHandHistory as hh
-import converter as conv
+# import converter as conv
 
 
 class Game:
     def __init__(self):
+        print("New Game")
         self.hand = None
         self.level = None
         self.hero = None
         self.table = Table()
-        print("New Game")
+        self.temporary_history = np.array([])
 
-    def input_amount(self, msg: str = "Combien de jetons?\n"):
+    def input_amount(self, msg: str = "How many chips?\n"):
         try:
             amount = float(input(msg))
             if amount < 0:
                 raise ValueError
             return amount
         except ValueError:
-            print("Choisir un montant numérique positif")
+            print("Choose a positive numeric value")
             return self.input_amount()
-
 
     def input_level(self):
         try:
             nb = int(input("Level Number\n"))
             try:
                 bb = float(input("Level Big Blind\n"))
-                sb = bb / 2
                 try:
                     ante = float(input("Level ante\n"))
                     if ante > 0.3 * bb or ante < 0:
                         raise ValueError
-                    level = Level(number=nb, sb=sb, ante=ante, bb=bb)
+                    level = Level(level=nb, ante=ante, bb=bb)
                     self.set_level(level=level)
-                    print("Niveau actuel: %s\nAnte=%s\nSmall Blind=%s\nBig Blind=%s" % (nb, ante, sb, bb))
+                    print(level)
                 except ValueError:
                     ante = 0.125 * bb
-                    level = Level(number=nb, sb=sb, ante=ante, bb=bb)
+                    level = Level(level=nb, ante=ante, bb=bb)
                     self.set_level(level=level)
-                    print("En l'absence d'ante valide, le met à 1/8ème de la BB")
-                    print("Niveau actuel: %s\nAnte=%s\nSmall Blind=%s\nBig Blind=%s" % (nb, ante, sb, bb))
+                    print("Without a correct ante, it's 1/8th of BB")
+                    print(level)
             except ValueError:
-                print("La grosse blinde doit être un nombre. Recommencez du début")
+                print("Big blind must be a float. Try again")
                 self.input_level()
         except ValueError:
-            print("Le niveau doit être un entier. Recommencez")
+            print("Level must be an int. Try again")
             self.input_level()
 
     def input_new_player(self):
         table = self.hand.table
-        name = input("Nom du nouveau joueur?\n")
+        name = input("Player Name?\n")
         occupied_seats = [player.seat for player in table.players]
         free_seats = [k for k in range(1, table.max_players + 1) if k not in occupied_seats]
         try:
-            seat = int(input("Siège?\n"))
+            seat = int(input("Seat?\n"))
             if seat not in free_seats:
                 raise ValueError
             stack = self.input_amount("Stack?\n")
             player = Player(name=name, seat=seat, stack=stack)
             self.hand.table.add_player(player=player)
-            print("Nouveau joueur:", player.name)
+            print("New Player:", player.name)
         except ValueError:
-            print("Choissez un siège comprise entre 1 et %s, et un stack numérique positif.")
+            print(f"Choose a seat between 1 and {table.max_players}, and a positive numeric stack.")
             self.input_new_player()
 
     def input_hero(self):
-        table = self.hand.table
         try:
-            seat = int(input("Choisir le siège du héros\n"))
+            seat = int(input("Choose Hero's Seat\n"))
             if seat not in range(1, self.table.max_players+1):
                 raise ValueError
-            stack = float(input("Quel est votre stack?\n"))
+            stack = float(input("What's your stack?\n"))
             if stack < 0:
                 raise ValueError
             hero = Player(name="Manggy94", seat=seat, stack=stack)
-            hero.hero = True
+            hero.is_hero = True
             self.hand.table.add_player(player=hero)
             self.hero = hero
-            print("Vous êtes assis au siège %s avec un stack de %s" % (hero.seat, hero.stack))
+            print(f"You're at seat n°{hero.seat} with {hero.stack} chips")
         except ValueError:
-            print("Choissez un siège comprise entre 1 et %s, et un stack numérique positif." % self.table.max_players)
+            print(f"Choissez un siège comprise entre 1 et {self.table.max_players}, et un stack numérique positif.")
             self.input_hero()
 
     def input_players(self):
@@ -108,20 +105,16 @@ class Game:
                     choice2 = 1
                 if choice2:
                     self.complete_table()
-        def sorter(player: Player):
-            return player.seat
-        table.players.sort(key=sorter)
-
         print("Liste des joueurs à la table:")
-        for player in table.players:
-            print(player.name)
+        s_dict = table.players.seat_dict
+        print([s_dict[i].name for i in sorted(s_dict)])
 
     def complete_table(self):
         table = self.hand.table
-        occupied_seats = [player.seat for player in table.players]
+        occupied_seats = table.players.seat_dict
         new_seats = [k for k in range(1, table.max_players+1) if k not in occupied_seats]
         for seat in new_seats:
-            player = Player(name="Villain %s" % seat, seat=seat, stack=20000.0)
+            player = Player(name=f"Villain {seat}", seat=seat, stack=20000.0)
             table.add_player(player)
 
     def input_max_players(self):
@@ -129,7 +122,7 @@ class Game:
             max_players = int('0'+input("Combien de joueurs max à cette table?\n"))
             if max_players in range(2, 10):
                 self.hand.table.max_players = max_players
-                print("Nombre Maximum de joueurs à la table: %s \n" % self.hand.table.max_players)
+                print(f"Nombre Maximum de joueurs à la table: {self.hand.table.max_players}\n")
             else:
                 raise ValueError
         except ValueError:
@@ -138,7 +131,6 @@ class Game:
 
     def input_tournament(self):
         table = self.hand.table
-        choice = None
         try:
             choice = int(input("Voulez-vous changer le format du tournoi? \n0:Non\n1:Oui\n"))
             if choice not in [0, 1]:
@@ -149,79 +141,171 @@ class Game:
         if choice:
             name = input("Nom du tournoi\n")
             buyin = self.input_buyin()
-            tournament = Tournament(name=name, buyin=buyin, rake=buyin/10)
-            table.tournament = tournament
-        print("Tournoi %s: %s\nBuy-in %s€" % (table.tournament.platform, table.tournament.name, table.tournament.buyin))
+            tournament = Tournament(name=name, buyin=buyin)
+            hand.tournament = tournament
+        print(f"Touroi {table.tournament.name}\nBuy-in {table.tournament.buyin}€")
 
-    def new_hand(self):
-        self.hand = None
-        self.hand = hh()
-        self.hand.table = self.table
-        self.input_max_players()
-        self.hand.table.tournament = Tournament()
-        self.input_tournament()
-        self.input_level()
-        self.input_players()
-        self.choose_bb()
-        self.input_hero_combo()
-
-        # print(self.hand.table.tournament.buyin, "€")
+    def new_game(self):
+        try:
+            choice = int(input("Voulez-vous créér une nouvelle table ou changer l'actuelle? \n0:Non\n1:Oui\n"))
+            if choice not in [0, 1]:
+                raise ValueError
+        except ValueError:
+            print("Vous devez choisir entre 0 pour Non et 1 pour Oui")
+            return self.new_game()
+        if choice:
+            self.hand = None
+            self.hand = HandHistory()
+            self.hand.table = self.table
+            self.input_max_players()
+            self.hand.table.tournament = Tournament()
+            self.input_tournament()
+            self.input_level()
+            self.input_players()
 
     def set_level(self, level: Level):
         self.hand.level = level
         self.level = level
 
-
     def input_buyin(self):
         try:
-            buyin = float(input("Buy-in (en  €)\n"))
+            buyin = float(input("Buy-in (en €)\n"))
             return buyin
         except ValueError:
             print("Vous devez insérer un Buy-In numérique")
             return self.input_buyin()
 
     def choose_bb(self):
-        table = self.hand.table
         bb_seat = int(input("Choisissez le siège de la BB\n"))
-        for player in table.players:
-            player.position = None
-            if player.seat == bb_seat:
-                player.position = Position("BB")
-        # print(table.players)
-        table.distribute_positions()
-        print("Résumé des positions:")
-        for player in table.players:
-            print(player.seat, player.name, player.position)
-        # for player in table.players:
-        #    print(player.name, player.position)
+        bb_pl = self.hand.table.players.seat_dict[bb_seat]
+        bb_pl.position = Position("BB")
+        self.hand.table.players.positions[str(bb_pl.position)] = bb_pl.seat
+        self.hand.table.distribute_positions()
+        self.hand.button = self.hand.table.players.positions["BTN"].seat
+        s_dict = self.hand.table.players.seat_dict
+        print(f"Résumé des positions: {[(s_dict[i].seat, s_dict[i].name, s_dict[i].position) for i in sorted(s_dict)]}")
 
     def pregame_posting(self):
-        hand = self.hand
-        table = hand.table
-        for player in table.players:
-            table.post_ante(player, hand.level.ante)
-            if player.position == Position("SB"):
-                table.bet(player, hand.level.sb)
-            elif player.position == Position("BB"):
-                table.bet(player, hand.level.bb)
+        for pl in self.hand.table.players:
+            self.hand.table.post_ante(pl, self.hand.level.ante)
+            print(f"{pl.name} posts ante {self.hand.level.ante}")
+            if pl.position == Position("SB"):
+                self.hand.table.bet(pl, self.hand.level.sb)
+            elif pl.position == Position("BB"):
+                self.hand.table.bet(pl, self.hand.level.bb)
 
     def input_hero_combo(self):
         try:
             combo = Combo(input("Entrez vos 2 cartes\n"))
+            self.hand.table.draw_card(combo.first)
+            self.hand.table.draw_card(combo.second)
             self.hero.combo = combo
-            print("On vous a distribué: %s" %combo)
+            print(f"On vous a distribué:{combo}")
         except ValueError:
             print("Il faut 2 cartes style 'AdKd'")
             return self.input_hero_combo()
 
+    def play_hand(self):
+        self.hand.table.find_active_players(self.hand.table.current_street)
+        self.input_street_actions()
+        print(self.hand.table.current_street.remaining_players)
+        if len(self.hand.table.current_street.remaining_players) > 1:
+            self.hand.table.make_flop()
+            self.input_flop()
+            if len(self.hand.table.current_street.remaining_players) > 1:
+                self.hand.table.make_turn()
+                self.input_turn()
+                self.input_street_actions()
+                if len(self.hand.table.current_street.remaining_players) > 1:
+                    self.hand.table.make_river()
+                    self.input_river()
+        else:
+            raise TableEvaluationError
 
+    def input_action(self, pl: Player, street: Street):
+        phr = ""
+        to_call = pl.to_call(self.hand.table)
+        odds = pl.pot_odds(self.hand.table)
+        req_eq = pl.req_equity(self.hand.table)
+        print(f"{pl.name} ({pl.position}) plays with {pl.stack} chips. Pot: {self.hand.table.pot}, {to_call} to call, "
+              f"Odds:{odds} vs 1.\nRequired Equity: {req_eq}\n")
+        ch = ["Fold", "Check", "Call", "Bet", "Raise"]
+        if to_call != 0:
+            ch.remove("Check")
+            ch.remove("Bet")
+        else:
+            ch.remove("Call")
+            ch.remove("Raise")
+        if to_call >= pl.stack:
+            ch.remove("Raise")
+        for x in ch:
+            phr += f"{ch.index(x)}:{x} "
+        try:
+            choice = int(input(f"{phr}"))
+            if choice not in range(len(ch)):
+                raise ValueError
+            else:
+                action = None
+                move = ch[choice]
+                if move in cst.Action("fold").value:
+                    action = Action(player=pl, move=cst.Action("fold"), value=0.0)
+                elif move in cst.Action("check").value:
+                    action = Action(player=pl, move=cst.Action("check"), value=0.0)
+                elif move in cst.Action("call").value:
+                    action = Action(player=pl, move=cst.Action("calls"), value=to_call)
+                elif move in cst.Action("bet").value:
+                    amount = self.input_amount()
+                    action = Action(player=pl, move=cst.Action("bets"), value=amount)
+                elif move in cst.Action("raise").value:
+                    amount = self.input_amount()
+                    action = Action(player=pl, move=cst.Action("raises"), value=amount-to_call)
+                print(action)
+                self.hand.table.add_action(street=street, action=action)
+        except ValueError:
+            print("Choisissez une action entre 0 et 4")
+            self.input_action(pl, street)
 
-game = Game()
-game.new_hand()
-hand = game.hand
-player = hand.table.players[0]
-a, b = conv.player_history_to_vec(player,hand)
-print(a.shape, b.shape)
-print(a)
-print(b)
+    def input_street_actions(self):
+        street = self.hand.table.current_street
+        current_pl = street.next_player()
+        street.current_pl = current_pl
+        while (street.init_pl is not street.current_pl) and len(street.remaining_players) > 1:
+            if street.current_pl.can_play(self.hand.table):
+                self.input_action(pl=street.current_pl, street=street)
+            else:
+                print(f"{street.current_pl.is_all_in}, {street.current_pl.played}, "
+                      f"{street.current_pl.to_call(self.hand.table)}")
+            next_pl = street.next_player()
+            if street.current_pl == next_pl:
+                break
+            street.current_pl = next_pl
+        print(f"End of {street.name}")
 
+    def input_flop(self):
+        fc1 = Card(input("First flop card?"))
+        fc2 = Card(input("Second flop card?"))
+        fc3 = Card(input("Third flop card?"))
+        self.hand.table.draw_card(fc1)
+        self.hand.table.draw_card(fc2)
+        self.hand.table.draw_card(fc3)
+        self.hand.table.board.extend([fc1, fc2, fc3])
+        self.input_street_actions()
+
+    def input_turn(self):
+        tc = Card(input("Turn card?"))
+        self.hand.table.draw_card(tc)
+        self.hand.table.board.append(tc)
+        self.input_street_actions()
+
+    def input_river(self):
+        rc = Card(input("River card?"))
+        self.hand.table.draw_card(rc)
+        self.hand.table.board.append(rc)
+        self.input_street_actions()
+
+    def new_hand(self):
+        self.new_game()
+        self.choose_bb()
+        self.input_hero_combo()
+        self.pregame_posting()
+        self.play_hand()
