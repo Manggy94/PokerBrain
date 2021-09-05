@@ -1,5 +1,5 @@
 import API.Table
-import file_reader as reader
+from file_reader import FileParser as reader
 import numpy as np
 
 hands = reader.parse_file("historyexample2.txt")

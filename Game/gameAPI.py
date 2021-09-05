@@ -215,10 +215,13 @@ class Game:
             if len(self.hand.table.current_street.remaining_players) > 1:
                 self.hand.table.make_turn()
                 self.input_turn()
-                self.input_street_actions()
                 if len(self.hand.table.current_street.remaining_players) > 1:
                     self.hand.table.make_river()
                     self.input_river()
+                    if len(self.hand.table.current_street.remaining_players) > 1:
+                        self.hand.table.make_showdown()
+                        self.input_showdown()
+
         else:
             raise TableEvaluationError
 
@@ -265,6 +268,14 @@ class Game:
             print("Choisissez une action entre 0 et 4")
             self.input_action(pl, street)
 
+    def input_sd_action(self, pl: Player):
+        try:
+            combo = Combo(input(f"{pl.name} shows:"))
+            pl.shows(combo=combo)
+        except ValueError:
+            print("Il faut 2 cartes style 'AdKd'")
+            return self.input_sd_action(pl=pl)
+
     def input_street_actions(self):
         street = self.hand.table.current_street
         current_pl = street.next_player()
@@ -302,6 +313,9 @@ class Game:
         self.hand.table.draw_card(rc)
         self.hand.table.board.append(rc)
         self.input_street_actions()
+
+    def input_showdown(self):
+        pass
 
     def new_hand(self):
         self.new_game()

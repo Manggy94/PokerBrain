@@ -176,7 +176,7 @@ class WinamaxHandHistory:
                self.table.max_players, self.button_seat, self.buyIn, self.table.hero.seat, self.table.hero.combo
 
     def get_board_card(self, i):
-        return self.table.get_board_card(i)
+        return self.table.get_card(i)
 
     def get_total_board(self):
         return self.table.get_total_board()

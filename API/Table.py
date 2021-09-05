@@ -19,7 +19,7 @@ class Street:
     """Class initiating a Street with its players and actions"""
 
     def __init__(self, name):
-        print(f"\nNew Street: {name}")
+        # print(f"\nNew Street: {name}")
         self.name = name
         self.cards = []
         self.active_players = []
@@ -77,6 +77,10 @@ class Street:
     @property
     def remaining_players(self):
         return [pl for pl in self.active_players if not pl.folded]
+
+    @property
+    def not_all_in_players(self):
+        return [pl for pl in self.remaining_players if not pl.is_all_in]
 
     def reset_bets(self):
         self.highest_bet = 0
@@ -256,7 +260,10 @@ class Player:
 
     @property
     def seat(self):
-        return self._seat
+        try:
+            return self._seat
+        except AttributeError:
+            return None
 
     @seat.setter
     def seat(self, seat: int):
@@ -507,20 +514,55 @@ class Table:
             if not pl.folded:
                 self.streets[i].active_players.append(pl)
 
-    def get_board_card(self, i):
+    @property
+    def flop_card_1(self):
+        try:
+            return str(self.board[0])
+        except IndexError:
+            return None
+
+    @property
+    def flop_card_2(self):
+        try:
+            return str(self.board[1])
+        except IndexError:
+            return None
+
+    @property
+    def flop_card_3(self):
+        try:
+            return str(self.board[2])
+        except IndexError:
+            return None
+
+    @property
+    def turn_card(self):
+        try:
+            return str(self.board[3])
+        except IndexError:
+            return None
+
+    @property
+    def river_card(self):
+        try:
+            return str(self.board[4])
+        except IndexError:
+            return None
+
+    def get_card(self, i):
         try:
             return str(self.board[i])
         except IndexError:
             return None
 
     def get_total_board(self):
-        return np.array([self.get_board_card(i) for i in range(5)])
+        return np.array([self.get_card(i) for i in range(5)])
 
     def get_partial_board(self, progress: int):
         if progress == 0:
             return np.array([None]*5)
         else:
-            return np.hstack(([self.get_board_card(i) for i in range(progress+2)], [None]*(3-progress)))
+            return np.hstack(([self.get_card(i) for i in range(progress + 2)], [None] * (3 - progress)))
 
     def get_player(self, i: int):
         try:
@@ -569,6 +611,10 @@ class Table:
 
     def has_flop(self):
         return len(self.streets) >= 2
+
+    @property
+    def has_hero(self):
+        return self.hero is not None
 
     def has_river(self):
         return len(self.streets) >= 4
@@ -632,7 +678,11 @@ class Table:
 
     @property
     def hero(self):
-        return self._hero
+        try:
+            return self._hero
+        except AttributeError:
+            self._hero = Player("no_hero")
+            return self._hero
 
     @hero.setter
     def hero(self, hero: Player):
@@ -706,7 +756,7 @@ class HandHistory:
                self.table.max_players, self.button, self.tournament.buyin, self.table.hero.seat, self.table.hero.combo
 
     def get_board_card(self, i):
-        return self.table.get_board_card(i)
+        return self.table.get_card(i)
 
     def get_total_board(self):
         return self.table.get_total_board()
