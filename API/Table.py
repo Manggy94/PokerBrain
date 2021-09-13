@@ -1,10 +1,11 @@
-import API.hand
 from API.constants import *
 import API.constants as cst
 from API.hand import *
 from API.card import *
 import random
 import numpy as np
+
+_all_combos = np.hstack([hand.to_combos() for hand in list(Hand)])
 
 
 class PositionError(Exception):
@@ -235,6 +236,7 @@ class Player:
         self._name = name
         self._seat = seat
         self._stack = stack
+        self.init_stack = stack
         self._combo = None
         self.folded = False
         self._hero = False
@@ -288,7 +290,7 @@ class Player:
         return self._combo
 
     @combo.setter
-    def combo(self, combo: API.hand.Combo):
+    def combo(self, combo: Combo):
         self._combo = combo
 
     @property
@@ -616,12 +618,15 @@ class Table:
     def has_hero(self):
         return self.hero is not None
 
+    @property
     def has_river(self):
         return len(self.streets) >= 4
 
+    @property
     def has_showdown(self):
         return len(self.streets) >= 5
 
+    @property
     def has_turn(self):
         return len(self.streets) >= 3
 
@@ -646,10 +651,10 @@ class Table:
     def make_showdown(self):
         showdown = Street('ShowDown')
         self.streets.append(showdown)
-        showdown.index = 4
+        self.progression += 1
+        showdown.index = self.progression
         self.find_active_players(showdown)
         self.reset_bets()
-        self.progression += 1
         self.current_street = showdown
 
     def make_turn(self):

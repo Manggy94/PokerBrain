@@ -1,42 +1,45 @@
 import re
 
 _split_re = re.compile(r"\*\*\*\s+\n?|\n\n+")
-_header_re = re.compile(
-    r"""
-    Winamax\s+Poker\s+-\s+                                             #Winamax Poker
-    (?P<poker_type>Tournament)\s+                                       #Poker Type
-    \"(?P<tournament_name>.+)\"\s+                                      #Tournament Name
-    buyIn\:\s+(?P<buyin>[0-9.,]+)â..\s+                                 #Buy In
-    \+\s+(?P<rake>[0-9.,]+)â..\s+                                       #Rake
-    level:\s+(?P<level>[\d\#]+)\s+                                      #level
-    \-\s+HandId\:\s+                                                    
-    \#(?P<Hand_id>[0-9-]+)\s+\-\s+                                      #Hand Id
-    (?P<Variant>[A-Za-z ]+)\s+                                          #Variant
-    \((?P<ante>\d+)\/                                                   #Ante
-    (?P<small_blind>\d+)\/                                              #SB
-    (?P<big_blind>\d+)\)\s+                                             #BB
-    \-\s+(?P<date>.+)                                                   #Date
-    """,
-    re.VERBOSE,
-)
+_winamax_new_hand_re = re.compile(r"Winamax\s+Poker")
+_date_re = re.compile(r"-\s+(?P<date>.+)")
+_pk_type = re.compile(r"(?P<poker_type>Tournament|CashGame)")
+_tournament_name_re = re.compile(r"\"(?P<tournament_name>.+)\"\s+")
+_buyin_txt_re = re.compile(r"buyIn:\s+(?P<buyin>[0-9.,]+)â..\s+")
+_freeroll_re = re.compile(r"buyIn:\s+(?P<buyin>Free)\s+")
+_level_re = re.compile(r"level:\s+(?P<level>[\d#]+)\s+")
+_hand_id_re = re.compile(r"-\s+HandId:\s+#(?P<hand_id>[0-9-]+)\s+-\s+(?P<Variant>[A-Za-z ]+)\s+")
+_blinds_re = re.compile(r"\((?P<ante>\d+)/(?P<sb>\d+)/(?P<bb>\d+)\)\s+|\((?P<sblind>\d+)/(?P<bblind>\d+)\)")
+_CG_blinds_re = re.compile(r"\((?P<sb>[\d.,]+)â../(?P<bb>[\d.,]+)â..\)")
 _table_re = re.compile(
-    r"Table\:\s+\'(?P<tournament_name>[\w\s\']+)\((?P<tournament_id>\d+)\)\#(?P<table_id>\d+)\'\s+(?P<max_seat>\d+)\-max\s+\((?P<money_type>[a-z]+)\s+money\)\s+Seat\s+\#(?P<button>\d)\s+is\s+the\s+button")
-_seat_re = re.compile(r"Seat\s+(?P<seat>\d+)\:\s+(?P<player_name>[\w\s\-.]{3,12})\s\((?P<stack>\d+)\)")
+    r"Table:\s+'(?P<tournament_name>.+)\((?P<tournament_id>\d+)\)#(?P<table_id>\d+)'\s+(?P<max_seat>\d+)-max\s+\((?P<money_type>[a-z]+)\s+money\)\s+Seat\s+#(?P<button>\d)\s+is\s+the\s+button")
+_CG_table_re = re.compile(
+    r"Table:\s+'(?P<CG_name>.+)\s+(?P<table_id>\d+)'\s+(?P<max_seat>\d+)-max\s+\((?P<money_type>[a-z]+)\s+money\)\s+Seat\s+#(?P<button>\d)\s+is\s+the\s+button")
+_seat_re = re.compile(r"Seat\s+(?P<seat>\d+):\s+(?P<pl_name>[\w\s\-&.]{3,12})\s\((?P<stack>\d+)\)")
+_CG_seat_re = re.compile(r"Seat\s+(?P<seat>\d+):\s+(?P<pl_name>[\w\s\-&.]{3,12})\s\((?P<stack>[\d.,]+)â..\)")
 _pot_re = re.compile(r"Total\s+pot\s+(?P<total_pot>\d+)")
-_ante_re = re.compile(r"(?P<player_name>[\w\s\-.]{3,12})\s+posts\sante\s+(?P<amount>\d+)")
-_board_re = re.compile(r"Board\:\s+\[(?P<board>[0-9AJKQshdc ]+)\]")
-_action_re = re.compile(
-    r"(?P<player_name>[\w\s\-.]{6,12})\s+(?P<move>shows|checks|calls|folds|bets|raises)\s+(?P<value>\d+||\s+)")
-_showdown_action_re = re.compile(
-    r"(?P<player_name>[\w\s\-.]{6,12})\s+(?P<move>shows|mucks)\s+\[(?P<card1>[AJKQ2-9shdc]{2})\s+(?P<card2>[AJKQ2-9shdc]{2})\]")
-_flop_re = re.compile(
-    r"\*\*\*\s+FLOP\s+\*\*\*\s+\[(?P<flop_card_1>[AJKQT2-9hscd]{2})\s+(?P<flop_card_2>[AJKQT2-9hscd]{2})\s+(?P<flop_card_3>[AJKQT2-9hscd]{2})\]")
-_hero_cards_re = re.compile(
-    r"Dealt\s+to\s+(?P<hero_name>[\w\s\-.]+)\s+\[(?P<card1>[AJKQT2-9hscd]{2})\s+(?P<card2>[AJKQT2-9hscd]{2})\]")
-_turn_re = re.compile(r"\*\*\*\s+TURN\s+\*\*\*\s+\[.+\]\[(?P<turn_card>[AJKQT2-9hscd]{2})\]")
-_river_re = re.compile(r"\*\*\*\s+RIVER\s+\*\*\*\s+\[.+\]\[(?P<river_card>[AJKQT2-9hscd]{2})\]")
+_ante_re = re.compile(r"(?P<pl_name>[\w\s\-&.]{3,12})\s+posts\sante\s+(?P<amount>[\d.,]+)")
+_board_re = re.compile(r"Board:\s+\[(?P<board>[\w ]+)]")
+_action_re = re.compile(r"(?P<pl_name>[\w\s\-&.]{6,12})\s+(?P<move>calls|bets|raises)\s+(?P<value>\d+|\s+)")
+_action_2_re = re.compile(r"(?P<pl_name>[\w\s\-&.]{6,12})\s+(?P<move>folds|checks)")
+_sd_action_re = re.compile(
+    r"(?P<pl_name>[\w\s\-&.]{6,12})\s+(?P<move>shows|mucks)\s+\[(?P<c1>\w{2})\s+(?P<c2>\w{2})]")
+_flop_re = re.compile(r"\*\*\*\s+FLOP\s+\*\*\*\s+\[(?P<fc1>\w{2})\s+(?P<fc2>\w{2})\s+(?P<fc3>\w{2})]")
+_hero_re = re.compile(r"Dealt\s+to\s+(?P<hero_name>[\w\s\-&.]+)\s+\[(?P<c1>\w{2})\s+(?P<c2>\w{2})]")
+_turn_re = re.compile(r"\*\*\*\s+TURN\s+\*\*\*\s+\[.+]\[(?P<tc>\w{2})]")
+_river_re = re.compile(r"\*\*\*\s+RIVER\s+\*\*\*\s+\[.+]\[(?P<rc>\w{2})]")
 _showdown_re = re.compile(r"\*\*\*\s+SHOW\s+DOWN\s+\*\*\*")
 _summary_re = re.compile(r"\*\*\*\s+SUMMARY\s+\*\*\*")
-_winner_re = re.compile(r"(?P<player_name>[\w\s\-.]{6,12})\s+collected\s+(?P<amount>\d+)\s+")
-_sb_re = re.compile(r"(?P<player_name>[\w\s\-.]{3,12})\s+posts\s+small\s+blind\s+(?P<sb>\d+)")
-_bb_re = re.compile(r"(?P<player_name>[\w\s\-.]{3,12})\s+posts\s+big\s+blind\s+(?P<bb>\d+)")
+_winner_re = re.compile(r"(?P<pl_name>[\w\s\-&.]{6,12})\s+collected\s+(?P<amount>[\d.,]+)\s+")
+_CG_winner_re = re.compile(r"(?P<pl_name>[\w\s\-&.]{6,12})\s+collected\s+(?P<amount>[\d.,]+)")
+_sb_re = re.compile(r"(?P<pl_name>[\w\s\-&.]{3,12})\s+posts\s+small\s+blind\s+(?P<sb>[\d.,]+)")
+_bb_re = re.compile(r"(?P<pl_name>[\w\s\-&.]{3,12})\s+posts\s+big\s+blind\s+(?P<bb>[\d.,]+)")
+_tour_name_re = re.compile(
+    r"Winamax\s+Poker\s+-\s+Tournament\s+summary\s+:\s+(?P<tournament_name>.+)\((?P<tournament_id>\d+)\)")
+_total_players_re = re.compile(r"Registered\s+players\s+:\s+(?P<total_players>\d+)")
+_prizepool_re = re.compile(r"Prizepool\s+:\s+(?P<prizepool>[\d.]+)")
+_game_mode_re = re.compile(r"Mode\s+.+\s+:\s+(?P<game_mode>.+)")
+_ttype_re = re.compile(r"Type\s+:\s+(?P<game_mode>.+)")
+_speed_re = re.compile(r"Speed\s+:\s+(?P<speed>.+)")
+_buyin_re = re.compile(r"Buy-In\s+:\s+(?P<buyin>[\d.]+)")
+_levels_re = re.compile(r"Levels\s+:\s+\[(?P<levels>.+)]")

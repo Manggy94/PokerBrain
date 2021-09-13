@@ -379,6 +379,9 @@ class FileParser(FileReader):
 
     def parse_new_sd_action(self, text_line, hh: HandHistory):
         sd_info = self.parse_sd_action(text_line)
+        if not hh.table.has_showdown:
+            hh.table.make_showdown()
+            hh.table.current_street = hh.table.streets[hh.table.progression]
         pl_name, move, c1, c2 = sd_info["pl_name"], sd_info["move"], sd_info["c1"], sd_info["c2"]
         player = hh.table.players[pl_name]
         combo = Combo(f"{c1}{c2}")

@@ -1,7 +1,6 @@
 from tkinter import *
 from tkinter.messagebox import *
 from API.Table import *
-from winamax import WinamaxHandHistory as hh
 
 
 class App(Frame):
@@ -149,7 +148,7 @@ class App(Frame):
         self.frame.pack_forget()
         self.frame = Frame(self.window, bg=self.bg_col)
         self.frame.pack(expand="YES")
-        self.hand = hh()
+        self.hand = HandHistory()
         if self.level == None:
             # print("boucle de création de level")
             self.level_entry()
