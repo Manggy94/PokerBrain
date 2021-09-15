@@ -1,40 +1,35 @@
 import matplotlib.pyplot as plt
 import tensorflow as tf
-import numpy as np
-import sklearn.preprocessing as prep
+from preprocessor import Preprocessor
 import sklearn.model_selection as select
-import converter as conv
-import Guesser.models as guess
-#import model as md
-# import pandas as pd
-# import sys
+from API.timer import Timer
 
-range_loss = guess.range_loss
-
-features, targets = conv.vectorize("history")
-
+t1 = Timer()
+t1.start()
+t2 = Timer()
+t2.start()
+print("Data Preparation")
+pp = Preprocessor()
+X, y = pp.create_vectors(pp.conv.load_hands())
+features, targets = pp.X_transformer.fit_transform(X), pp.y_transformer.transform(y)
+t1.stop()
 print(features.shape, targets.shape)
-
-# flatten data
-# features=features.reshape(-1, 784)
-# images=images.astype(float)
-# print(features.shape)
-# Normalizationn of data
-scaler = prep.StandardScaler()
-features = scaler.fit_transform(features)
-
 train_set, test_set, train_tgts, test_tgts = select.train_test_split(features, targets, test_size=0.2, random_state=1)
 print(train_set.shape, train_tgts.shape)
 print(test_set.shape, test_tgts.shape)
+print("Data is compeletely Ready")
+t2.stop()
 
 # exit()
 # Create the model
-
+print("Model Creation and Training")
+t3 = Timer()
+t3.start()
 model = tf.keras.models.Sequential()
 # Flatten input
 # model.add(tf.keras.layers.Flatten(input_shape=[28,28]))
 # Add layers
-model.add(tf.keras.Input(shape=(447,)))
+model.add(tf.keras.Input(shape=(features.shape[1],)))
 model.add(tf.keras.layers.Dense(256, activation="relu"))
 model.add(tf.keras.layers.Dense(128, activation="relu"))
 model.add(tf.keras.layers.Dense(64, activation="relu"))
@@ -57,6 +52,8 @@ model.compile(
 
 history = model.fit(train_set, train_tgts, epochs=120, validation_split=0.2)
 print(history.history)
+t3.stop()
+print("Model is ready")
 
 
 loss_curve = history.history["loss"]
@@ -65,7 +62,7 @@ top_k_curve = history.history['top_k_categorical_accuracy']
 loss_val_curve = history.history["val_loss"]
 acc_val_curve = history.history["val_categorical_accuracy"]
 top_k_val_curve = history.history['val_top_k_categorical_accuracy']
-fig, axs = plt.subplots(1,2)
+fig, axs = plt.subplots(1, 2)
 
 axs[0].plot(loss_curve, color='tab:blue', label="Training Loss")
 axs[0].plot(loss_val_curve, color='tab:red', label="Validation Loss")
@@ -88,6 +85,6 @@ print(" Evaluation du test set")
 results = model.evaluate(test_set, test_tgts, batch_size=20)
 print("test loss, test acc, top-5-accuracy", results)
 accuracy, top5acc = results[1], results[2]
+exit()
 if accuracy > 0.75 and top5acc > 0.9:
     model.save("Brains/Brain1")
-

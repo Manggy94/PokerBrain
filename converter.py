@@ -111,9 +111,62 @@ class HandConverter:
         except TypeError:
             return None
 
+    def get_hero_combo_str(self, hand: HandHistory):
+        try:
+            combo = self.get_hero_combo(hand)
+            return str(combo)
+        except AttributeError:
+            return str(None)
+        except TypeError:
+            return str(None)
+
+    def get_hero_first_suit(self, hand: HandHistory):
+        try:
+            combo = self.get_hero_combo(hand)
+            return str(combo.first.suit)
+        except AttributeError:
+            return None
+        except TypeError:
+            return None
+
+    def get_hero_second_suit(self, hand: HandHistory):
+        try:
+            combo = self.get_hero_combo(hand)
+            return str(combo.second.suit)
+        except AttributeError:
+            return None
+        except TypeError:
+            return None
+
+    def get_hero_first_rank(self, hand: HandHistory):
+        try:
+            combo = self.get_hero_combo(hand)
+            return str(combo.first.rank)
+        except AttributeError:
+            return str(None)
+        except TypeError:
+            return str(None)
+
+    def get_hero_second_rank(self, hand: HandHistory):
+        try:
+            combo = self.get_hero_combo(hand)
+            return str(combo.second.rank)
+        except AttributeError:
+            return None
+        except TypeError:
+            return None
+
     def convert_hero_combo(self):
-        vfunc = np.vectorize(self.get_hero_combo)
+        vfunc = np.vectorize(self.get_hero_combo_str)
+        vfunc_fs = np.vectorize(self.get_hero_first_suit)
+        vfunc_ss = np.vectorize(self.get_hero_second_suit)
+        vfunc_fr = np.vectorize(self.get_hero_first_rank)
+        vfunc_sr = np.vectorize(self.get_hero_second_rank)
         self.df["hero_combo"] = vfunc(self.df["hand"])
+        self.df["hero_first_suit"] = vfunc_fs(self.df["hand"])
+        self.df["hero_second_suit"] = vfunc_ss(self.df["hand"])
+        self.df["hero_first_rank"] = vfunc_fr(self.df["hand"])
+        self.df["hero_second_rank"] = vfunc_sr(self.df["hand"])
 
     def get_hero_seat(self, hand: HandHistory):
         try:
@@ -166,17 +219,39 @@ class HandConverter:
     @staticmethod
     def get_card(hand: HandHistory, index: int):
         try:
-            return str(hand.table.board[index])
+            return hand.table.board[index]
         except IndexError:
-            return str(None)
+            return None
+
+    def get_card_str(self, hand: HandHistory, index: int):
+        try:
+            card = self.get_card(hand, index)
+            return str(card)
+        except AttributeError:
+            return "None"
+
+    def get_card_rank(self, hand: HandHistory, index: int):
+        try:
+            card = self.get_card(hand, index)
+            return str(card.rank)
+        except AttributeError:
+            return "None"
+
+    def get_card_suit(self, hand: HandHistory, index: int):
+        try:
+            card = self.get_card(hand, index)
+            return str(card.suit)
+        except AttributeError:
+            return "None"
 
     def convert_board(self):
         vfunc = np.vectorize(self.get_card)
-        self.df["Card_0"] = vfunc(self.df["hand"], 0)
-        self.df["Card_1"] = vfunc(self.df["hand"], 1)
-        self.df["Card_2"] = vfunc(self.df["hand"], 2)
-        self.df["Card_3"] = vfunc(self.df["hand"], 3)
-        self.df["Card_4"] = vfunc(self.df["hand"], 4)
+        vfunc_rank = np.vectorize(self.get_card_rank)
+        vfunc_suit = np.vectorize(self.get_card_suit)
+        for i in range(5):
+            self.df[f"Card_{i}"] = vfunc(self.df["hand"], i)
+            self.df[f"Card_{i}_rank"] = vfunc_rank(self.df["hand"], i)
+            self.df[f"Card_{i}_suit"] = vfunc_suit(self.df["hand"], i)
 
     @staticmethod
     def get_player(hand: HandHistory, index: int):
@@ -190,7 +265,7 @@ class HandConverter:
             player = self.get_player(hand, index)
             return player.name
         except AttributeError:
-            return None
+            return "None"
 
     def convert_player_name(self, index: int):
         vfunc = np.vectorize(self.get_player_name)
@@ -221,9 +296,9 @@ class HandConverter:
     def get_player_position(self, hand: HandHistory, index: int):
         try:
             player = self.get_player(hand, index)
-            return player.position
+            return str(player.position)
         except AttributeError:
-            return None
+            return str(None)
 
     def convert_player_position(self, index: int):
         vfunc = np.vectorize(self.get_player_position)
@@ -236,8 +311,15 @@ class HandConverter:
         except AttributeError:
             return None
 
+    def get_player_combo_str(self, hand: HandHistory, index: int):
+        try:
+            combo = self.get_player_combo(hand=hand, index=index)
+            return str(combo)
+        except AttributeError:
+            return str(None)
+
     def convert_player_combo(self, index: int):
-        vfunc = np.vectorize(self.get_player_combo)
+        vfunc = np.vectorize(self.get_player_combo_str)
         self.df[f"P{index}_combo"] = vfunc(self.df["hand"], index)
 
     def convert_player(self, index: int):
@@ -275,9 +357,9 @@ class HandConverter:
     def get_action_move(self, hand, street_index: int, action_index: int):
         try:
             action = self.get_action(hand, street_index=street_index, action_index=action_index)
-            return action.move
+            return str(action.move)
         except AttributeError:
-            return None
+            return str(None)
 
     def convert_action_move(self, street_index: int, action_index: int):
         tab = ["pf", "flop", "turn", "river"]

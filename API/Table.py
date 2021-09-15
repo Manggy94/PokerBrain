@@ -5,7 +5,7 @@ from API.card import *
 import random
 import numpy as np
 
-_all_combos = np.hstack([hand.to_combos() for hand in list(Hand)])
+all_combos = np.hstack([hand.to_combos() for hand in list(Hand)])
 
 
 class PositionError(Exception):
