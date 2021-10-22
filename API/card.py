@@ -38,11 +38,11 @@ class Rank(PokerEnum):
         # so we always get a Rank instance even if string were passed in
         first, second = cls(first), cls(second)
         rank_list = list(cls)
-        a=rank_list.index(first)+2
-        b=rank_list.index(second)+2
-        if a==14:
-            return  min(abs(a-b), abs(1-b))
-        elif b==14:
+        a = rank_list.index(first)+2
+        b = rank_list.index(second)+2
+        if a == 14:
+            return min(abs(a-b), abs(1-b))
+        elif b == 14:
             return min(abs(a - b), abs(a - 1))
         return abs(rank_list.index(first) - rank_list.index(second))
 

@@ -11,7 +11,7 @@ t2.start()
 print("Data Preparation")
 pp = Preprocessor()
 X, y = pp.create_vectors(pp.conv.load_hands())
-features, targets = pp.X_transformer.fit_transform(X), pp.y_transformer.transform(y)
+features, targets = pp.X_transformer.fit_transform(X), pp.y_transformer.fit_transform(y)
 t1.stop()
 print(features.shape, targets.shape)
 train_set, test_set, train_tgts, test_tgts = select.train_test_split(features, targets, test_size=0.2, random_state=1)
@@ -34,7 +34,7 @@ model.add(tf.keras.layers.Dense(256, activation="relu"))
 model.add(tf.keras.layers.Dense(128, activation="relu"))
 model.add(tf.keras.layers.Dense(64, activation="relu"))
 model.add(tf.keras.layers.Dense(32, activation="relu"))
-model.add(tf.keras.layers.Dense(1326, activation="softmax"))
+model.add(tf.keras.layers.Dense(targets.shape[1], activation="softmax"))
 
 # print("Shape of img",  images[0:1].shape)
 # print(model_output, targets[0:1])
@@ -50,7 +50,7 @@ model.compile(
 
 # Train the model
 
-history = model.fit(train_set, train_tgts, epochs=120, validation_split=0.2)
+history = model.fit(train_set, train_tgts, epochs=50, validation_split=0.2)
 print(history.history)
 t3.stop()
 print("Model is ready")

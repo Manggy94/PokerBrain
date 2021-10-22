@@ -25,26 +25,28 @@ class RangeModel(keras.Model):
         # Return a dict mapping metric names to current value
         return {m.name: m.result() for m in self.metrics}
 
+
 class RangeLoss(keras.losses.Loss):
     pass
 
 
 @tf.function
 def range_loss(y_true, y_pred):
-    m=K.sum(y_pred, axis=1)
-    n=y_true.shape[1]
-    alpha=1
-    beta=1
+    m = K.sum(y_pred, axis=1)
+    n = y_true.shape[1]
+    alpha = 1
+    beta = 1
     err_log = -K.sum(y_true * K.log(y_pred) + (1 - y_true) * K.log(1 - y_pred), axis=1)
-    err_prec = -K.log(1 - m / n )
+    err_prec = -K.log(1 - m / n)
     print(err_log, err_prec)
     err = alpha*err_log + beta*err_prec
     print(err)
     return err
 
+
 @tf.function
 def range_loss2(y_true, y_pred):
-    err_accuracy=-K.log(tf.keras.metrics.top_k_categorical_accuracy(y_true=y_true, y_pred=y_pred, k=5))
+    err_accuracy = -K.log(tf.keras.metrics.top_k_categorical_accuracy(y_true=y_true, y_pred=y_pred, k=5))
     return err_accuracy
 
 
@@ -52,5 +54,3 @@ def range_size(prediction):
     p = 0.8
     combo_range = 1 * (prediction > p)
     return K.sum(combo_range, axis=1)
-
-

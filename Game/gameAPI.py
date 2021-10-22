@@ -1,16 +1,24 @@
 from API.Table import *
-from API.Range import *
-# import converter as conv
+from preprocessor import Preprocessor
+
+all_combos = np.array([], dtype=np.str)
+all_hands = np.array(list(Hand), dtype=np.object)
+
+for hand in all_hands:
+    all_combos = np.hstack((all_combos, hand.to_combos()))
 
 
 class Game:
     def __init__(self):
         print("New Game")
         self.hand = None
+        self.hand_df_line = None
         self.level = None
         self.hero = None
         self.table = Table()
         self.temporary_history = np.array([])
+        self.pp = Preprocessor()
+        self.history = None
 
     def input_amount(self, msg: str = "How many chips?\n"):
         try:

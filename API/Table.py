@@ -4,6 +4,8 @@ from API.hand import *
 from API.card import *
 import random
 import numpy as np
+import itertools
+from cached_property import cached_property
 
 all_combos = np.hstack([hand.to_combos() for hand in list(Hand)])
 
@@ -537,6 +539,71 @@ class Table:
         except IndexError:
             return None
 
+    @cached_property
+    def flop_combinations(self):
+        try:
+            return [x for x in itertools.combinations(self.board[:3], 2)]
+        except IndexError:
+            return None
+
+    def _get_differences(self):
+        return (
+            Rank.difference(first.rank, second.rank)
+            for first, second in self.flop_combinations
+        )
+
+    @cached_property
+    def is_rainbow(self):
+        if len(self.board) == 0:
+            return None
+        return all(
+            first.suit != second.suit for first, second in self.flop_combinations
+        )
+
+    @cached_property
+    def is_monotone(self):
+        if len(self.board) == 0:
+            return None
+        return all(
+            first.suit == second.suit for first, second in self.flop_combinations
+        )
+
+    @cached_property
+    def is_triplet(self):
+        if len(self.board) == 0:
+            return None
+        return all(
+            first.rank == second.rank for first, second in self.flop_combinations
+        )
+
+    @cached_property
+    def has_pair(self):
+        if len(self.board) == 0:
+            return None
+        return any(
+            first.rank == second.rank for first, second in self.flop_combinations
+        )
+
+    @cached_property
+    def has_straightdraw(self):
+        if len(self.board) == 0:
+            return None
+        return any(1 <= diff <= 3 for diff in self._get_differences())
+
+    @cached_property
+    def has_gutshot(self):
+        if len(self.board) == 0:
+            return None
+        return any(1 <= diff <= 4 for diff in self._get_differences())
+
+    @cached_property
+    def has_flushdraw(self):
+        if len(self.board) == 0:
+            return None
+        return any(
+            first.suit == second.suit for first, second in self.flop_combinations
+        )
+
     @property
     def turn_card(self):
         try:
@@ -611,6 +678,7 @@ class Table:
             k += 1
         return all_actions, np.array(progress), all_boards
 
+    @cached_property
     def has_flop(self):
         return len(self.streets) >= 2
 
