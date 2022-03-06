@@ -1,5 +1,5 @@
-from API.Table import *
-from API.timer import Timer
+from API.card import Card
+from API.Table import Action, Combo, HandHistory, Level, Player, PositionError, Table, Tournament
 import API.constants as cst
 import numpy as np
 import pandas as pd
@@ -17,7 +17,10 @@ class FileReader:
     Class that can read a handhistory .txt file
     """
     def __init__(self):
-        self.root = "C:\\Users\\mangg\\PycharmProjects\\PokerBrain"
+        """
+        New Poker File Reader
+        """
+        self.root = f"{os.getcwd()}"
         self._split_re = re.compile(r"\*\*\*\s+\n?|\n\n+")
         self._winamax_new_hand_re = re.compile(r"Winamax\s+Poker")
         self._date_re = re.compile(r"-\s+(?P<date>.+)")
@@ -58,19 +61,34 @@ class FileReader:
         self._buyin_re = re.compile(r"Buy-In\s+:\s+(?P<buyin>[\d.]+)")
         self._levels_re = re.compile(r"Levels\s+:\s+\[(?P<levels>.+)]")
 
-    def split_raw_file(self, hh_text: str):
+    def split_raw_file(self, hh_text: str) -> np.ndarray:
+        """
+        Splits a raw history file into an array of raw hands
+        :param hh_text: raw text for entire tournament/session
+        :return: array of different hands played
+        """
         raw_hands = re.split(self._winamax_new_hand_re, hh_text)
         raw_hands.pop(0)
         return np.array(raw_hands)
 
     @staticmethod
-    def split_raw_hand(raw_hand: str):
+    def split_raw_hand(raw_hand: str) -> np.ndarray:
+        """
+        Splits a raw hand into an array of lines
+        :param raw_hand: raw text for a poker hand
+        :return: array of text lines
+        """
         return np.array(raw_hand.splitlines())
 
     @staticmethod
-    def floatify(txt: str):
+    def floatify(txt_num: str) -> float:
+        """
+        Transforms any written str number into a float
+        :param txt_num: number to transform
+        :return: float number
+        """
         try:
-            return float(txt.replace(",", "."))
+            return float(txt_num.replace(",", "."))
         except TypeError:
             return float(0)
         except AttributeError:
@@ -79,13 +97,20 @@ class FileReader:
 
 class FileParser(FileReader):
     """
-    This class can understand a handhistory.txt file and parse its information to create handhistory objects
+    This class can understand a handhistory.txt file and parse its information to create HandHistory objects
     """
     def __init__(self):
+        """
+        New poker file Parser
+        """
         FileReader.__init__(self)
 
-    def parse_pk_type(self, text):
-        """"""
+    def parse_pk_type(self, text: str):
+        """
+        Reads poker type regex and parses it
+        :param text: hand text line
+        :return: poker type as string
+        """
         r = re.search(pattern=self._pk_type, string=text)
         if r:
             poker_type = r.group("poker_type")
@@ -93,8 +118,12 @@ class FileParser(FileReader):
         else:
             raise ParsingError("Poker Type Problem")
 
-    def parse_tournament_name(self, text):
-        """"""
+    def parse_tournament_name(self, text: str):
+        """
+        Reads tournament name regex and parses it
+        :param text: hand text line
+        :return: tournament name
+        """
         r = re.search(pattern=self._tournament_name_re, string=text)
         if r:
             tournament_name = r.group("tournament_name")
@@ -102,8 +131,12 @@ class FileParser(FileReader):
             tournament_name = "Cash Game"
         return tournament_name.strip()
 
-    def parse_buyin(self, text):
-        """"""
+    def parse_buyin(self, text: str) -> float:
+        """
+        Reads buy-in regex and parses it
+        :param text: hand text line
+        :return: tournament's buyin as float
+        """
         try:
             buyin = self.floatify(re.search(pattern=self._buyin_txt_re, string=text).group("buyin"))
             return buyin
@@ -111,19 +144,32 @@ class FileParser(FileReader):
             print("Buyin Problem")
             print(text)
 
-    def parse_freeroll_buyin(self, text):
-        """"""
+    def parse_freeroll_buyin(self, text: str) -> float:
+        """
+        Reads freeroll buy-in regex and parses it
+        :param text: hand text line
+        :return: tournament's buyin as float
+        """
         freeroll_buyin = re.search(pattern=self._freeroll_re, string=text).group("buyin")
         return float(0)
 
-    def parse_entry(self, text):
+    def parse_entry(self, text: str) -> float:
+        """
+        Reads entry cost (freeroll or normal tournament) and parses it
+        :param text: hand text line
+        :return: tournament's buyin as float
+        """
         if re.search(pattern=self._buyin_txt_re, string=text):
             return self.parse_buyin(text)
         elif re.search(pattern=self._freeroll_re, string=text):
             return self.parse_freeroll_buyin(text)
 
-    def parse_level(self, text):
-        """"""
+    def parse_level(self, text: str) -> int:
+        """
+        Reads level regex and parses it
+        :param text: hand text line
+        :return: level as int
+        """
         r = re.search(pattern=self._level_re, string=text)
         if r:
             level = int(r.group("level"))
@@ -131,17 +177,26 @@ class FileParser(FileReader):
             level = 0
         return level
 
-    def parse_hand_id(self, text):
-        """"""
+    def parse_hand_id(self, text: str) -> str:
+        """
+        Reads hand_id regex and parses it
+        :param text: hand text line
+        :return: hand_id as a string
+        """
         if text == " ":
-            return None
+            return "None"
         else:
             r = re.search(pattern=self._hand_id_re, string=text)
         if r:
             hand_id = r.group("hand_id")
             return hand_id.strip()
 
-    def parse_blinds(self, text):
+    def parse_blinds(self, text: str):
+        """
+        Reads blinds regex and parses its info into a dict
+        :param text: hand text line
+        :return: blinds informations as a dict
+        """
         s = re.search(pattern=self._blinds_re, string=text)
         r = re.search(pattern=self._CG_blinds_re, string=text)
         if s:
@@ -151,13 +206,21 @@ class FileParser(FileReader):
             ante, sb, bb = 0.0, r.group("sb"), r.group("bb")
             return {"ante": ante, "sb": self.floatify(sb), "bb": self.floatify(bb)}
 
-    def parse_date(self, text):
-        """"""
+    def parse_date(self, text: str):
+        """
+        Reads date regex and parses it as a string
+        :param text: hand text line
+        :return: Date as a string
+        """
         date = re.search(pattern=self._date_re, string=text).group("date")
         return date
 
-    def parse_table(self, text):
-        """"""
+    def parse_table(self, text: str):
+        """
+        Reads table info regex and parses its info into a dict
+        :param text: hand text line
+        :return: table info as a divt
+        """
         s = re.search(pattern=self._table_re, string=text)
         r = re.search(pattern=self._CG_table_re, string=text)
         if s:
@@ -177,8 +240,12 @@ class FileParser(FileReader):
         return {"tour_id": tour_id.strip(), "table_id": table_id.strip(), "max_seat": max_seat,
                 "money_type": money_type, "btn": btn}
 
-    def parse_seat(self, text):
-        """"""
+    def parse_seat(self, text: str):
+        """
+        Reads seat info regex and parses its info into a dict
+        :param text: hand text line
+        :return: seat info as a dict
+        """
         s = re.search(pattern=self._seat_re, string=text)
         r = re.search(pattern=self._CG_seat_re, string=text)
         if s:
@@ -187,20 +254,32 @@ class FileParser(FileReader):
             seat, pl_name, stack = int(r.group("seat")), r.group("pl_name").strip(), self.floatify(r.group("stack"))
         return {"seat": seat, "pl_name": pl_name, "stack": stack}
 
-    def parse_pot(self, text):
-        """"""
+    def parse_pot(self, text: str) -> float:
+        """
+        Reads pot regex and parses it as a float
+        :param text: hand text line
+        :return: pot as a float
+        """
         pot = re.search(pattern=self._pot_re, string=text).group("total_pot")
         return self.floatify(pot)
 
-    def parse_ante(self, text):
-        """"""
+    def parse_ante(self, text: str):
+        """
+        Reads ante regex and parses its info into a dict
+        :param text: hand text line
+        :return:ante info as a dict
+        """
         s = re.search(pattern=self._ante_re, string=text)
         if s:
             pl_name, amount = s.group("pl_name").strip(), self.floatify(s.group("amount"))
             return {"pl_name": pl_name, "amount": amount}
 
-    def parse_action(self, text):
-        """"""
+    def parse_action(self, text: str):
+        """
+        Reads action regex and parses its info into a dict
+        :param text: hand text line
+        :return: action info as a dict
+        """
         if re.search(pattern=self._action_re, string=text):
             s = re.search(pattern=self._action_re, string=text)
             pl_name, move, value = s.group("pl_name").strip(), s.group("move").strip(), self.floatify(s.group("value"))
@@ -209,49 +288,81 @@ class FileParser(FileReader):
             pl_name, move, value = s.group("pl_name").strip(), s.group("move").strip(), 0.0
         return {"pl_name": pl_name, "move": cst.Action(move), "value": value}
 
-    def parse_sd_action(self, text):
-        """"""
+    def parse_sd_action(self, text: str):
+        """
+        Reads Showdown action regex and parses its info into a dict
+        :param text: hand text line
+        :return: Showdown action info as a dict
+        """
         s = re.search(pattern=self._sd_action_re, string=text)
         pl_name, move = s.group("pl_name").strip(), s.group("move").strip()
         c1, c2 = Card(s.group("c1")), Card(s.group("c2"))
         return {"pl_name": pl_name, "move": move, "c1": c1, "c2": c2}
 
-    def parse_hero(self, text):
-        """"""
+    def parse_hero(self, text: str):
+        """
+        Reads hero regex and parses its info into a dict
+        :param text: hand text line
+        :return: hero info as a dict
+        """
         s = re.search(pattern=self._hero_re, string=text)
         name, c1, c2 = s.group("hero_name").strip(), Card(s.group("c1")), Card(s.group("c2"))
         return {"name": name, "c1": c1, "c2": c2}
 
-    def parse_flop(self, text):
-        """"""
+    def parse_flop(self, text: str):
+        """
+        Reads flop regex and parses its cards
+        :param text: hand text line
+        :return: flop cards as a dict
+        """
         s = re.search(pattern=self._flop_re, string=text)
         c1, c2, c3 = Card(s.group("fc1")), Card(s.group("fc2")), Card(s.group("fc3"))
         return {"c1": c1, "c2": c2, "c3": c3}
 
-    def parse_turn(self, text):
-        """"""
+    def parse_turn(self, text: str):
+        """
+        Reads turn regex and parses its card
+        :param text: hand text line
+        :return: turn card
+        """
         tc = re.search(pattern=self._turn_re, string=text).group("tc")
         return Card(tc)
 
-    def parse_river(self, text):
-        """"""
+    def parse_river(self, text: str):
+        """
+        Reads river regex and parses its card
+        :param text: hand text line
+        :return: river card
+        """
         rc = re.search(pattern=self._river_re, string=text).group("rc")
         return Card(rc)
 
-    def parse_sb(self, text):
-        """"""
+    def parse_sb(self, text: str):
+        """
+        Reads small blind posting regex and parses its info into a dict
+        :param text: hand text line
+        :return: small blind info as a dict
+        """
         s = re.search(pattern=self._sb_re, string=text)
         pl_name, sb = s.group("pl_name").strip(), self.floatify(s.group("sb"))
         return {"pl_name": pl_name, "sb": sb}
 
-    def parse_bb(self, text):
-        """"""
+    def parse_bb(self, text: str):
+        """
+        Reads big blind posting regex and parses its info into a dict
+        :param text: hand text line
+        :return: big blind info as a dict
+        """
         s = re.search(pattern=self._bb_re, string=text)
         pl_name, bb = s.group("pl_name").strip(), self.floatify(s.group("bb"))
         return {"pl_name": pl_name, "bb": bb}
 
-    def parse_winner(self, text):
-        """"""
+    def parse_winner(self, text: str):
+        """
+        Reads winner regex and parses its info into a dict
+        :param text: hand text line
+        :return: winner(s) info as a dict
+        """
         s = re.search(pattern=self._winner_re, string=text)
         r = re.search(pattern=self._CG_winner_re, string=text)
         if s:
@@ -260,7 +371,12 @@ class FileParser(FileReader):
             pl_name, amount = r.group("pl_name").strip(), self.floatify(r.group("amount"))
         return {"pl_name": pl_name, "amount": amount}
 
-    def parse_header(self, header_txt):
+    def parse_header(self, header_txt: str):
+        """
+        Reads header lines different regex) (tournament info, hand_id, blinds etc... and parses it
+        :param header_txt: hand text line
+        :return: header info as a dict (on hand and table)
+        """
         pk_type = self.parse_pk_type(header_txt)
         if pk_type == "Tournament":
             tour_name = self.parse_tournament_name(header_txt)
@@ -282,7 +398,13 @@ class FileParser(FileReader):
                 "ante": ante, "bb": bb}
 
     @staticmethod
-    def create_tournament(header_info: dict, table_info: dict):
+    def create_tournament(header_info: dict, table_info: dict) -> Tournament:
+        """
+        Creates a new tournament from parsed info
+        :param header_info: header_info as a dict
+        :param table_info: tournament info as a dict
+        :return: Tournament object
+        """
         tournament = Tournament()
         tournament.id = table_info["tour_id"]
         tournament.money_type = table_info["money_type"]
@@ -291,7 +413,12 @@ class FileParser(FileReader):
         return tournament
 
     @staticmethod
-    def create_level(header_info: dict):
+    def create_level(header_info: dict) -> Level:
+        """
+        Creates a new level from parsed info
+        :param header_info: header info as a dict
+        :return: Level object
+        """
         level = Level()
         level.bb = header_info["bb"]
         level.ante = header_info["ante"]
@@ -299,16 +426,32 @@ class FileParser(FileReader):
         return level
 
     @staticmethod
-    def create_table(table_info: dict):
+    def create_table(table_info: dict) -> Table:
+        """
+        Creates a new table from parsed info
+        :param table_info: table info as a dict
+        :return: Table object
+        """
         table = Table(ident=table_info["table_id"], max_players=table_info["max_seat"])
         return table
 
-    def create_player(self, seat_txt: str):
+    def create_player(self, seat_txt: str) -> Player:
+        """
+        Reads player Seat regex and parses its info to create a new player.
+        :param seat_txt: hand text line
+        :return: Player object
+        """
         seat_info = self.parse_seat(seat_txt)
         player = Player(name=seat_info["pl_name"], seat=seat_info["seat"], stack=seat_info["stack"])
         return player
 
-    def parse_pregame_info(self, text, hh: HandHistory):
+    def parse_pregame_info(self, text: np.ndarray, hh: HandHistory) -> HandHistory:
+        """
+        Reads pregame regex and parses its info into HandHistory object
+        :param text: hand text line
+        :param hh: HandHistory object for the hand at stake
+        :return: modified HandHistory object for the hand at stake
+        """
         try:
             header_info = self.parse_header(text[0])
         except TypeError:
@@ -326,7 +469,13 @@ class FileParser(FileReader):
         hh.button = table_info["btn"]
         return hh
 
-    def parse_post_ante(self, text_line, hh: HandHistory):
+    def parse_post_ante(self, text_line: str, hh: HandHistory):
+        """
+        Reads ante posting regex and parses its info into HandHistory object
+        :param text_line: hand text line
+        :param hh: HandHistory object for the hand at stake
+        :return:
+        """
         ante_info = self.parse_ante(text_line)
         pl_name, ante = ante_info["pl_name"], ante_info["amount"]
         try:
@@ -335,7 +484,13 @@ class FileParser(FileReader):
         except KeyError:
             raise ParsingError
 
-    def parse_post_sb(self, text_line, hh: HandHistory):
+    def parse_post_sb(self, text_line: str, hh: HandHistory):
+        """
+        Reads small blind posting regex and parses its info into HandHistory object
+        :param text_line: hand text line
+        :param hh: HandHistory object for the hand at stake
+        :return:
+        """
         pl_name, sb = self.parse_sb(text_line)["pl_name"], self.parse_sb(text_line)["sb"]
         try:
             player = hh.table.players[pl_name]
@@ -343,21 +498,35 @@ class FileParser(FileReader):
         except KeyError:
             raise ParsingError
 
-    def parse_post_bb(self, text_line, hh: HandHistory):
+    def parse_post_bb(self, text_line: str, hh: HandHistory):
+        """
+        Reads big blind posting regex and parses its info into HandHistory object
+        :param text_line: hand text line
+        :param hh: HandHistory object for the hand at stake
+        :return:
+        """
         pl_name, bb = self.parse_bb(text_line)["pl_name"], self.parse_bb(text_line)["bb"]
         try:
             player = hh.table.players[pl_name]
             player.position = cst.Position("BB")
             hh.table.bet(player=player, amount=bb)
-            hh.table.players.positions[str(player.position)] = player.seat
+            hh.table.players.positions[f"{player.position}"] = player.seat
             hh.table.distribute_positions()
         except KeyError:
             # print(hh.table.players)
             raise ParsingError
 
-    def parse_hero_combo(self, text_line, hh: HandHistory):
+    def parse_hero_combo(self, text_line: str, hh: HandHistory):
+        """
+        Reads hero's combo regex and parses its info into HandHistory object
+        :param text_line: hand text line
+        :param hh: HandHistory object for the hand at stake
+        :return:
+        """
         hero_info = self.parse_hero(text_line)
         name, c1, c2 = hero_info["name"], hero_info["c1"], hero_info["c2"]
+        hh.table.draw_card(f"{c1}")
+        hh.table.draw_card(f"{c2}")
         combo = Combo(f"{c1}{c2}")
         try:
             player = hh.table.players[name]
@@ -367,7 +536,13 @@ class FileParser(FileReader):
         except KeyError:
             raise ParsingError
 
-    def parse_new_action(self, text_line, hh: HandHistory):
+    def parse_new_action(self, text_line: str, hh: HandHistory):
+        """
+        Reads action regex and parses its info into HandHistory object
+        :param text_line: hand text line
+        :param hh: HandHistory object for the hand at stake
+        :return:
+        """
         action_info = self.parse_action(text_line)
         pl_name, move, value = action_info["pl_name"], action_info["move"], action_info["value"]
         try:
@@ -377,7 +552,13 @@ class FileParser(FileReader):
         except KeyError:
             raise ParsingError
 
-    def parse_new_sd_action(self, text_line, hh: HandHistory):
+    def parse_new_sd_action(self, text_line: str, hh: HandHistory):
+        """
+        Reads showdown action regex and parses its info into HandHistory object
+        :param text_line: hand text line
+        :param hh: HandHistory object for the hand at stake
+        :return:
+        """
         sd_info = self.parse_sd_action(text_line)
         if not hh.table.has_showdown:
             hh.table.make_showdown()
@@ -387,33 +568,61 @@ class FileParser(FileReader):
         combo = Combo(f"{c1}{c2}")
         player.shows(combo)
 
-    def parse_new_flop(self, text_line, hh: HandHistory):
+    def parse_new_flop(self, text_line: str, hh: HandHistory):
+        """
+        Reads flop regex and parses its info into HandHistory object
+        :param text_line: hand text line
+        :param hh: HandHistory object for the hand at stake
+        :return:
+        """
         flop_info = self.parse_flop(text_line)
         hh.table.make_flop()
         hh.table.current_street = hh.table.streets[1]
         fc1, fc2, fc3 = flop_info["c1"], flop_info["c2"], flop_info["c3"]
-        hh.table.board.extend([fc1, fc2, fc3])
+        hh.table.draw_flop(fc1, fc2, fc3)
 
-    def parse_new_turn(self, text_line, hh: HandHistory):
+    def parse_new_turn(self, text_line: str, hh: HandHistory):
+        """
+        Reads turn regex and parses its info into HandHistory object
+        :param text_line: hand text line
+        :param hh: HandHistory object for the hand at stake
+        :return:
+        """
         hh.table.make_turn()
         tc = self.parse_turn(text_line)
         hh.table.current_street = hh.table.streets[2]
-        hh.table.board.append(tc)
+        hh.table.draw_turn(tc)
 
-    def parse_new_river(self, text_line, hh: HandHistory):
+    def parse_new_river(self, text_line: str, hh: HandHistory):
+        """
+        Reads river regex and parses its info into HandHistory object
+        :param text_line: hand text line
+        :param hh: HandHistory object for the hand at stake
+        :return:
+        """
         hh.table.make_river()
         rc = self.parse_river(text_line)
         hh.table.current_street = hh.table.streets[3]
-        hh.table.board.append(rc)
+        hh.table.draw_river(rc)
 
-    def parse_table_winner(self, text_line, hh: HandHistory):
+    def parse_table_winner(self, text_line: str, hh: HandHistory):
+        """
+        Reads table winner regex and parses its info into HandHistory object
+        :param text_line: hand text line
+        :param hh: HandHistory object for the hand at stake
+        :return:
+        """
         winner_info = self.parse_winner(text_line)
         pl_name, amount = winner_info["pl_name"], winner_info["amount"]
         player = hh.table.players[pl_name]
         hh.table.win(player=player, amount=amount)
 
-    def parse_hand(self, text):
-        """"""
+    def parse_hand(self, text: np.ndarray):
+        """
+        Reads a whole hand splitted text and transforms it into a HandHistory object
+        :param text: ndarray of splitted lines for this hand
+        :return: HandHistory object for the hand at stake
+        """
         try:
             hh = HandHistory()
             hh = self.parse_pregame_info(text=text, hh=hh)
@@ -465,21 +674,29 @@ class FileParser(FileReader):
             file.close()
             hands_array = self.split_raw_file(hand_txt)
             splitted_hands = np.array([self.split_raw_hand(hand) for hand in hands_array], dtype=object)
-            # vparse = np.vectorize(self.parse_hand)
-            # hands = vparse(splitted_hands)
             hands = np.hstack([self.parse_hand(hand) for hand in splitted_hands])
             return hands
         except UnicodeError:
             file.close()
 
     def parse_tour_folder(self, dir_name: str = "history"):
+        """
+        Parses summary files of a directory into a dataframe
+        :param dir_name: name of the file in folder
+        :return: DataFrame of tournament info
+        """
         summaries = self.get_holdem_summary_files(dir_name=dir_name)
         columns = np.array(["name", "tournament_id", "prizepool", "nb_players", "mode", "speed", "buyin"])
         data = np.vstack([(self.parse_summary(file)) for file in summaries])
         df = pd.DataFrame(columns=columns, data=data)
         return df
 
-    def parse_summary(self, file_name: str):
+    def parse_summary(self, file_name: str) -> np.ndarray:
+        """
+        Reads a summary file and parses it
+        :param file_name: name of the file in folder
+        :return:
+        """
         file = open("history/%s" % file_name, "r")
         content = file.read()
         match1 = re.search(self._tour_name_re, content)
@@ -500,32 +717,40 @@ class FileParser(FileReader):
         # level = re.split("[\-:]", levels[0])
         return np.array([tour_name, tour_id, prizepool, tot_players, game_mode, speed, buyin])
 
-    def parse_directory(self, dir_name="history"):
+    def parse_directory(self, dir_name: str = "history", ignore_previous: bool = False):
         """
         Parses files of a directory into a list of hand_histories
-        :param dir_name: String
+        :param dir_name: directory name in the project as a string
+        :param ignore_previous: Indicates if we have to take into account previous files parsing
         :return: HandHistory list
         """
         files = self.get_holdem_game_files(dir_name)
-        collection = np.hstack([self.parse_file(file_name=file_name, dir_name=dir_name) for file_name in files])
+        collection = np.hstack([self.parse_file(file_name=file_name, dir_name=dir_name) for file_name in files[:100]])
         return collection
 
-    def parse_finished_hands(self, dir_name="history"):
+    def parse_finished_hands(self, dir_name: str = "history"):
         """
         Parses files of a directory to find hands that went to ShowDown
-        :param dir_name: String
-        :return: WinamaxHandHistory list
+        :param dir_name: directory name in the project as a string
+        :return: HandHistory list
         """
-        timer = Timer()
-        timer.start()
         finished_hands = np.array([hand for hand in self.parse_directory(dir_name) if hand.table.has_showdown()])
-        timer.stop()
         return finished_hands
 
     def get_holdem_game_files(self, dir_name: str = "history"):
+        """
+        Crawls a folder and returns the name of tournament game files as an array
+        :param dir_name: directory name in the project as a sring
+        :return: names of tournament game files as an array
+        """
         return np.array([x for x in os.listdir(f"{self.root}/{dir_name}") if "summary" not in x and "holdem" in x and
                          "real" in x and "Sit" not in x])
 
-    def get_holdem_summary_files(self, dir_name: str = "history"):
+    def get_holdem_summary_files(self, dir_name: str = "history") -> np.ndarray:
+        """
+        Crawls a folder and returns the name of tournament summary files as an array
+        :param dir_name: directory name in the project as a sring
+        :return: names of tournament summary files as an array
+        """
         return np.array([x for x in os.listdir(f"{self.root}/{dir_name}") if "summary" in x and "holdem" in x and
                          "real" in x and "Sit" not in x])

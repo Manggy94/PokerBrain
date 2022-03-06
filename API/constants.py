@@ -2,11 +2,11 @@ from ._common import PokerEnum
 
 
 class PokerRoom(PokerEnum):
-    STARS = "PokerStars", "STARS", "PS"
+    STARS = "POKERSTARS", "PokerStars", "STARS", "PS"
     FTP = "Full Tilt Poker", "FTP", "FULL TILT"
     PKR = "PKR", "PKR POKER"
     EIGHT = "888", "888poker"
-    WINA = "Winamax", "Wina", "WINA"
+    WINA = "WINAMAX", "Winamax", "Wina", "WINA"
 
 
 class Currency(PokerEnum):
@@ -59,15 +59,15 @@ class MoneyType(PokerEnum):
 
 
 class Action(PokerEnum):
-    BET = "bet", "bets", "BET", "BETS", "Bet", "Bets"
-    RAISE = "raise", "raises", "RAISE", "RAISES", "Raise", "Raises"
-    CHECK = "check", "checks", "CHECK", "CHECKS", "Check", "Checks"
-    FOLD = "fold", "folded", "folds", "FOLD", "FOLDS", "Fold", "Folds"
-    CALL = "call", "calls", "CALL", "CALLS", "Call", "Calls"
-    RETURN = "return", "returned", "uncalled"
-    WIN = "win", "won", "collected"
-    SHOW = "show", "shows", "SHOW", "SHOWS", "Show", "Shows"
-    MUCK = "don't show", "didn't show", "did not show", "mucks"
+    BET = "BET", "bet", "bets", "BETS", "Bet", "Bets"
+    RAISE = "RAISE", "raise", "raises",  "RAISES", "Raise", "Raises"
+    CHECK = "CHECK", "check", "checks", "CHECKS", "Check", "Checks"
+    FOLD = "FOLD", "fold", "folded", "folds", "FOLDS", "Fold", "Folds"
+    CALL = "CALL", "call", "calls", "CALLS", "Call", "Calls"
+    RETURN = "RETURN", "return", "returned", "uncalled"
+    WIN = "WIN", "win", "won", "collected"
+    SHOW = "SHOW", "show", "shows", "SHOWS", "Show", "Shows"
+    MUCK = "MUCK", "don't show", "didn't show", "did not show", "mucks"
     THINK = ("seconds left to act",)
 
 
@@ -76,8 +76,8 @@ class Position(PokerEnum):
     UTG1 = "UTG1", "utg+1", "utg + 1"
     UTG2 = "UTG2", "utg+2", "utg + 2"
     UTG3 = "UTG3", "utg+3", "utg + 3"
-    UTG4 = "UTG4", "utg+4", "utg + 4"
-    HJ = "HJ", "hijack", "utg+5", "utg + 5"
+    UTG4 = "UTG4", "LJ", "lojack", "lowjack", "utg+4", "utg + 4"
+    HJ = "HJ", "hijack", "highjack", "utg+5", "utg + 5"
     CO = "CO", "cutoff", "cut off"
     BTN = "BTN", "bu", "button"
     SB = "SB", "small blind"
@@ -85,7 +85,7 @@ class Position(PokerEnum):
 
 
 class Street(PokerEnum):
-    PREFLOP = "PF", "Pf", "pf", "PREFLOP", "Preflop", "preflop", "Préflop", "préflop"
+    PREFLOP = "PF", "Pf", "pf", "PREFLOP", "Preflop", "preflop", "Préflop", "préflop", "PreFlop"
     FLOP = "F", "f", "FLOP", "Flop", "flop"
     TURN = "T", "t", "TURN", "Turn", "turn"
     RIVER = "R", "r", "RIVER", "River", "river"

@@ -1,10 +1,10 @@
-from file_reader import *
+import numpy as np
+import pandas as pd
+from API.card import Card
+from API.listings import all_streets, str_positions
+from API.Table import Combo, HandHistory, Player
+from file_reader import FileParser
 from tracker import PlayerHistory
-
-all_actions = np.array(list(cst.Action))
-all_positions = np.array(list(Position))
-all_streets = np.array(list(cst.Street))
-all_cards = np.array(list(Card))
 
 
 class HandConverter:
@@ -21,22 +21,67 @@ class HandConverter:
         self.current_df = None
         self.none_count = 0
         self.parser = FileParser()
+        self.histories = None
 
     @staticmethod
     def filter(hands) -> np.ndarray:
         return np.array([hand for hand in hands if hand is not None])
 
-    def to_pandas(self, hands: np.ndarray) -> pd.DataFrame:
-        hands = self.filter(hands)
-        self.df = pd.DataFrame({"hand": hands})
-        return self.df
+    def import_hands(self, dir_name: str = "history"):
+        return self.filter(self.parser.parse_directory(dir_name=dir_name))
 
-    def load_hands(self, dir_name="history") -> pd.DataFrame:
-        hands = self.parser.parse_directory(dir_name=dir_name)
+    def to_pandas(self, hands: np.ndarray, inplace: bool = True) -> pd.DataFrame:
+        hands = self.filter(hands)
+        df = pd.DataFrame({"hand": hands})
+        if inplace:
+            self.df = pd.DataFrame({"hand": hands})
+        return df
+
+    def build_hands(self, hands: np.ndarray) -> pd.DataFrame:
         self.to_pandas(hands)
         self.convert_hand()
         self.filter_levels()
+        self.df.reset_index(drop=True, inplace=True)
         return self.df
+
+    def convert_single_hand(self, hand: HandHistory) -> pd.DataFrame:
+        np_hand = np.array([hand])
+        return self.build_hands(np_hand)
+
+    def get_names(self, np_hands):
+        np_hands = self.filter(np_hands)
+        return np.unique(np.hstack([np.array([player.name for player in hand.table.players]) for hand in np_hands]))
+
+    def build_histories(self, input_hands: np.ndarray) -> np.ndarray:
+        names = self.get_names(input_hands)
+        return np.array([PlayerHistory().build_history(input_hands=input_hands, name=name) for name in names])
+
+    @staticmethod
+    def histories_resume(histories: np.ndarray):
+        names = np.array([history.player_name for history in histories])
+        played = np.array([history.played for history in histories], dtype="int32")
+        vpip = np.array([history.vpip for history in histories], dtype="float16")
+        pfr = np.array([history.pfr for history in histories], dtype="float16")
+        resume = pd.DataFrame({"name": names, "played": played, "vpip": vpip, "pfr": pfr}, index=names)
+        return resume
+
+    def save_histories(self, input_hands: np.ndarray):
+        names = self.get_names(input_hands)
+        histories = self.build_histories(input_hands)
+        played = np.array([history.played for history in histories], dtype="int32")
+        vpip = np.array([history.vpip for history in histories], dtype=float)
+        pfr = np.array([history.pfr for history in histories])
+        df = pd.DataFrame({"name": names, "played": played, "vpip": vpip, "pfr": pfr}, index=names)
+        df.to_csv(f"{self.parser.root}/Data/histories.csv")
+
+    def get_histories(self):
+        histories = pd.read_csv(f"{self.parser.root}/Data/histories.csv", index_col=0)
+        self.histories = histories
+        return histories
+
+    def load_hands(self, dir_name="history") -> pd.DataFrame:
+        hands = self.parser.parse_directory(dir_name=dir_name)
+        return self.build_hands(hands)
 
     @staticmethod
     def get_hand_info(hand: HandHistory) -> dict:
@@ -52,6 +97,9 @@ class HandConverter:
             self.none_count += 1
             return phr
 
+    def get_hand_id_series(self, input_hands: np.ndarray) -> pd.Series:
+        return pd.Series([self.get_hand_id(hand) for hand in input_hands], name="hand_id")
+
     def convert_hand_id(self):
         vfunc = np.vectorize(self.get_hand_id)
         self.df["hand_id"] = vfunc(self.df["hand"])
@@ -59,6 +107,9 @@ class HandConverter:
     @staticmethod
     def get_table_id(hand: HandHistory) -> str:
         return hand.table.ident
+
+    def get_table_id_series(self, input_hands: np.ndarray) -> pd.Series:
+        return pd.Series([self.get_table_id(hand) for hand in input_hands], name="table_id")
 
     def convert_table_id(self):
         vfunc = np.vectorize(self.get_table_id)
@@ -68,6 +119,9 @@ class HandConverter:
     def get_tournament_id(hand: HandHistory) -> str:
         return hand.tournament.id
 
+    def get_tournament_id_series(self, input_hands: np.ndarray) -> pd.Series:
+        return pd.Series([self.get_tournament_id(hand) for hand in input_hands], name="tour_id")
+
     def convert_tournament_id(self):
         vfunc = np.vectorize(self.get_tournament_id)
         self.df["tour_id"] = vfunc(self.df["hand"])
@@ -75,6 +129,9 @@ class HandConverter:
     @staticmethod
     def get_level(hand: HandHistory) -> int:
         return hand.level.level
+
+    def get_level_series(self, input_hands: np.ndarray) -> pd.Series:
+        return pd.Series([self.get_level(hand) for hand in input_hands], name="level", dtype="int8")
 
     def convert_level(self):
         vfunc = np.vectorize(self.get_level)
@@ -84,6 +141,9 @@ class HandConverter:
     def get_bb(hand: HandHistory) -> float:
         return hand.level.bb
 
+    def get_bb_series(self, input_hands: np.ndarray) -> pd.Series:
+        return pd.Series([self.get_bb(hand) for hand in input_hands], name="bb")
+
     def convert_bb(self):
         vfunc = np.vectorize(self.get_bb)
         self.df["bb"] = vfunc(self.df["hand"])
@@ -91,6 +151,9 @@ class HandConverter:
     @staticmethod
     def get_ante(hand: HandHistory) -> float:
         return hand.level.ante
+
+    def get_ante_series(self, input_hands: np.ndarray) -> pd.Series:
+        return pd.Series([self.get_ante(hand) for hand in input_hands], name="ante")
 
     def convert_ante(self):
         vfunc = np.vectorize(self.get_ante)
@@ -121,12 +184,18 @@ class HandConverter:
         except TypeError:
             return "None"
 
+    def get_hero_combo_str_series(self, input_hands: np.ndarray) -> pd.Series:
+        return pd.Series([self.get_hero_combo_str(hand) for hand in input_hands], name="hero_combo")
+
     def get_hero_hand(self, hand: HandHistory) -> str:
         try:
             combo = self.get_hero_combo(hand)
             return f"{combo.to_hand()}"
         except AttributeError:
-            return "None"
+            pass
+
+    def get_hero_hand_series(self, input_hands: np.ndarray) -> pd.Series:
+        return pd.Series([self.get_hero_hand(hand) for hand in input_hands], name="hero_hand")
 
     def get_hero_first_suit(self, hand: HandHistory) -> str:
         try:
@@ -137,6 +206,9 @@ class HandConverter:
         except TypeError:
             return "None"
 
+    def get_hero_first_suit_series(self, input_hands: np.ndarray) -> pd.Series:
+        return pd.Series([self.get_hero_first_suit(hand) for hand in input_hands], name="hero_first_suit")
+
     def get_hero_second_suit(self, hand: HandHistory) -> str:
         try:
             combo = self.get_hero_combo(hand)
@@ -145,6 +217,9 @@ class HandConverter:
             return "None"
         except TypeError:
             return "None"
+
+    def get_hero_second_suit_series(self, input_hands: np.ndarray) -> pd.Series:
+        return pd.Series([self.get_hero_second_suit(hand) for hand in input_hands], name="hero_second_suit")
 
     def get_hero_first_rank(self, hand: HandHistory) -> str:
         try:
@@ -155,6 +230,9 @@ class HandConverter:
         except TypeError:
             return "None"
 
+    def get_hero_first_rank_series(self, input_hands: np.ndarray) -> pd.Series:
+        return pd.Series([self.get_hero_first_rank(hand) for hand in input_hands], name="hero_first_rank")
+
     def get_hero_second_rank(self, hand: HandHistory) -> str:
         try:
             combo = self.get_hero_combo(hand)
@@ -163,6 +241,9 @@ class HandConverter:
             return "None"
         except TypeError:
             return "None"
+
+    def get_hero_second_rank_series(self, input_hands: np.ndarray) -> pd.Series:
+        return pd.Series([self.get_hero_second_rank(hand) for hand in input_hands], name="hero_second_rank")
 
     def convert_hero_combo(self):
         vfunc = np.vectorize(self.get_hero_combo_str)
@@ -178,32 +259,28 @@ class HandConverter:
         self.df["hero_first_rank"] = vfunc_fr(self.df["hand"])
         self.df["hero_second_rank"] = vfunc_sr(self.df["hand"])
 
-    def get_hero_seat(self, hand: HandHistory) -> int:
+    def get_hero_position(self, hand: HandHistory) -> str:
         try:
             hero = self.get_hero(hand)
-            return hero.seat
+            return f"{hero.position}"
         except AttributeError:
-            return 0
+            pass
 
-    def convert_hero_seat(self):
-        vfunc = np.vectorize(self.get_hero_seat)
-        self.df["hero_seat"] = vfunc(self.df["hand"])
+    def convert_hero_position(self):
+        vfunc = np.vectorize(self.get_hero_position)
+        self.df["hero_position"] = vfunc(self.df["hand"])
 
     @staticmethod
     def get_max_pl(hand: HandHistory) -> int:
         return hand.table.max_players
 
+    def get_max_pl_series(self, input_hands: np.ndarray) -> pd.Series:
+        return pd.Series([self.get_max_pl(hand) for hand in input_hands], name="max_pl")
+
     def convert_max_pl(self):
         vfunc = np.vectorize(self.get_max_pl)
         self.df["max_pl"] = vfunc(self.df["hand"])
-
-    @staticmethod
-    def get_btn(hand: HandHistory) -> int:
-        return hand.button
-
-    def convert_btn(self):
-        vfunc = np.vectorize(self.get_btn)
-        self.df["btn"] = vfunc(self.df["hand"])
+        self.df["max_pl"] = self.df["max_pl"].astype("int8")
 
     @staticmethod
     def get_buyin(hand: HandHistory) -> float:
@@ -213,18 +290,26 @@ class HandConverter:
         vfunc = np.vectorize(self.get_buyin)
         self.df["buyin"] = vfunc(self.df["hand"])
 
+    @staticmethod
+    def get_current_street(hand: HandHistory):
+        return hand.table.current_street.name
+
+    def convert_current_street(self):
+        vfunc = np.vectorize(self.get_current_street)
+        self.df["current_street"] = vfunc(self.df["hand"])
+
     def convert_hand_info(self):
         self.convert_hand_id()
         self.convert_tournament_id()
         self.convert_table_id()
         self.convert_level()
+        self.convert_current_street()
         self.convert_bb()
         self.convert_ante()
         self.convert_max_pl()
-        self.convert_btn()
         self.convert_buyin()
         self.convert_hero_combo()
-        self.convert_hero_seat()
+        self.convert_hero_position()
 
     @staticmethod
     def get_card(hand: HandHistory, index: int) -> Card or None:
@@ -328,278 +413,202 @@ class HandConverter:
         vf = np.vectorize(self.get_has_flushdraw)
         self.df["has_flushdraw"] = vf(self.df["hand"])
 
-    @staticmethod
-    def get_player(hand: HandHistory, index: int) -> Player or None:
-        try:
-            return hand.table.players.pl_list[index]
-        except IndexError:
-            return None
-
-    def get_player_name(self, hand: HandHistory, index: int) -> str:
-        try:
-            player = self.get_player(hand, index)
-            return player.name
-        except AttributeError:
-            return "None"
-
-    def convert_player_name(self, index: int):
-        vfunc = np.vectorize(self.get_player_name)
-        self.df[f"P{index}_name"] = vfunc(self.df["hand"], index)
-
-    def get_player_history(self, hand: HandHistory, index: int, dir_name: str = "history2") -> PlayerHistory or None:
-        try:
-            player = self.get_player(hand, index)
-            hist = PlayerHistory()
-            hist.load_pl_hands(pl_name=player.name, dir_name=dir_name)
-            return hist
-        except AttributeError:
-            return None
-
-    def convert_player_history(self, index: int, dir_name: str):
-        self.convert_player_played_hands(index)
-        self.convert_player_vpip(index)
-        self.convert_player_vpip(index)
-
-    def get_player_played_hands(self, hand: HandHistory, index: int, dir_name: str = "history") -> int:
-        try:
-            hist = self.get_player_history(hand=hand, index=index, dir_name=dir_name)
-            return hist.played
-        except AttributeError:
-            return 0
-
-    def convert_player_played_hands(self, index: int):
-        vfunc = np.vectorize(self.get_player_played_hands)
-        self.df[f"P{index}_played"] = vfunc(self.df["hand"], index)
-
-    def get_player_vpip(self, hand: HandHistory, index: int, dir_name: str = "history") -> float:
-        try:
-            hist = self.get_player_history(hand=hand, index=index, dir_name=dir_name)
-            return hist.vpip
-        except AttributeError:
-            return 0
-
-    def convert_player_vpip(self, index: int):
-        vfunc = np.vectorize(self.get_player_vpip)
-        self.df[f"P{index}_vpip"] = vfunc(self.df["hand"], index)
-
-    def get_player_pfr(self, hand: HandHistory, index: int, dir_name: str = "history") -> float:
-        try:
-            hist = self.get_player_history(hand=hand, index=index, dir_name=dir_name)
-            return hist.pfr
-        except AttributeError:
-            return 0
-
-    def convert_player_pfr(self, index: int):
-        vfunc = np.vectorize(self.get_player_pfr)
-        self.df[f"P{index}_pfr"] = vfunc(self.df["hand"], index)
-
-    def get_player_seat(self, hand: HandHistory, index: int) -> int:
-        try:
-            player = self.get_player(hand, index)
-            return player.seat
-        except AttributeError:
-            return 0
-
-    def convert_player_seat(self, index: int):
-        vfunc = np.vectorize(self.get_player_seat)
-        self.df[f"P{index}_seat"] = vfunc(self.df["hand"], index)
-
-    def get_player_stack(self, hand: HandHistory, index: int) -> float:
-        try:
-            player = self.get_player(hand, index)
-            return player.init_stack
-        except AttributeError:
-            return 0
-
-    def convert_player_stack(self, index: int):
-        vfunc = np.vectorize(self.get_player_stack)
-        self.df[f"P{index}_stack"] = vfunc(self.df["hand"], index)
-        self.df[f"P{index}_stack_bb"] = self.df[f"P{index}_stack"] / self.df[f"bb"]
-
-    def get_player_position(self, hand: HandHistory, index: int) -> str:
-        try:
-            player = self.get_player(hand, index)
-            return f"{player.position}"
-        except AttributeError:
-            return f"None"
-
-    def convert_player_position(self, index: int):
-        vfunc = np.vectorize(self.get_player_position)
-        self.df[f"P{index}_position"] = vfunc(self.df["hand"], index)
-
-    def get_player_combo(self, hand: HandHistory, index: int) -> Combo or None:
-        try:
-            player = self.get_player(hand, index)
-            return player.combo
-        except AttributeError:
-            return None
-
-    def get_player_combo_str(self, hand: HandHistory, index: int) -> str:
-        try:
-            combo = self.get_player_combo(hand=hand, index=index)
-            return f"{combo}"
-        except AttributeError:
-            return f"None"
-
-    def get_player_hand(self, hand: HandHistory, index: int) -> Hand or None:
-        try:
-            combo = self.get_player_combo(hand=hand, index=index)
-            return combo.to_hand()
-        except AttributeError:
-            return None
-
-    def get_player_hand_str(self, hand: HandHistory, index: int) -> str:
-        try:
-            card_hand = self.get_player_hand(hand=hand, index=index)
-            return f"{card_hand}"
-        except AttributeError:
-            return f"None"
-
-    def convert_player_combo(self, index: int):
-        vfunc_combo = np.vectorize(self.get_player_combo_str)
-        vfunc_hand = np.vectorize(self.get_player_hand_str)
-        self.df[f"P{index}_combo"] = vfunc_combo(self.df["hand"], index)
-        self.df[f"P{index}_hand"] = vfunc_hand(self.df["hand"], index)
-        
-    def get_player_action(self, hand: HandHistory, pl_index: int, act_index: int) -> Action or None:
-        try:
-            player = self.get_player(hand=hand, index=pl_index)
-            return player.actions[act_index]
-        except AttributeError:
-            return None
-        except IndexError:
-            return None
-
-    def get_player_action_street(self, hand: HandHistory, pl_index: int, act_index: int) -> str:
-        try:
-            action = self.get_player_action(hand=hand, pl_index=pl_index, act_index=act_index)
-            return f"{action['street']}"
-        except AttributeError:
-            return f"None"
-        except TypeError:
-            return f"None"
-
-    def get_player_action_move(self, hand: HandHistory, pl_index: int, act_index: int) -> str:
-        try:
-            action = self.get_player_action(hand=hand, pl_index=pl_index, act_index=act_index)
-            return f"{action['move']}"
-        except AttributeError:
-            return f"None"
-        except TypeError:
-            return f"None"
-
-    def get_player_action_value(self, hand: HandHistory, pl_index: int, act_index: int) -> float:
-        try:
-            action = self.get_player_action(hand=hand, pl_index=pl_index, act_index=act_index)
-            return action['value']
-        except AttributeError:
-            return 0
-        except TypeError:
-            return 0
-
-    def convert_player_action(self, pl_index: int, act_index: int):
-        i, j = pl_index, act_index
-        vfunc_street = np.vectorize(self.get_player_action_street)
-        vfunc_move = np.vectorize(self.get_player_action_move)
-        vfunc_value = np.vectorize(self.get_player_action_value)
-        self.df[f"P{i}_action_{j}_street"] = vfunc_street(self.df["hand"], i, j)
-        self.df[f"P{i}_action_{j}_move"] = vfunc_move(self.df["hand"], i, j)
-        self.df[f"P{i}_action_{j}_value"] = vfunc_value(self.df["hand"], i, j)
-        self.df[f"P{i}_action_{j}_value_bb"] = self.df[f"P{i}_action_{j}_value"] / self.df[f"bb"]
-
-    def convert_player_actions(self, pl_index: int):
-        for i in range(8):
-            self.convert_player_action(pl_index=pl_index, act_index=i)
-
-    def convert_player(self, index: int):
-        self.convert_player_name(index)
-        self.convert_player_stack(index)
-        self.convert_player_seat(index)
-        self.convert_player_position(index)
-        self.convert_player_combo(index)
-        self.convert_player_actions(pl_index=index)
-
-    def convert_players(self):
-        for i in range(9):
-            self.convert_player(i)
-
-    def get_action(self, hand, street_index: int, action_index: int) -> Action or SDAction or None:
-        try:
-            street = self.get_street(hand=hand, index=street_index)
-            return street.actions[action_index]
-        except IndexError:
-            return None
-        except AttributeError:
-            return None
-
-    def get_action_seat(self, hand, street_index: int, action_index: int) -> int:
-        try:
-            action = self.get_action(hand, street_index=street_index, action_index=action_index)
-            return action.player.seat
-        except AttributeError:
-            return 0
-
-    def convert_action_seat(self, street_index: int, action_index: int):
-        tab = ["pf", "flop", "turn", "river"]
-        vfunc = np.vectorize(self.get_action_seat)
-        self.df[f"{tab[street_index]}_action_{action_index}_seat"] = vfunc(self.df["hand"], street_index, action_index)
-
-    def get_action_move(self, hand, street_index: int, action_index: int) -> str:
-        try:
-            action = self.get_action(hand, street_index=street_index, action_index=action_index)
-            return f"{action.move}"
-        except AttributeError:
-            return "None"
-
-    def convert_action_move(self, street_index: int, action_index: int):
-        tab = ["pf", "flop", "turn", "river"]
-        vfunc = np.vectorize(self.get_action_move)
-        self.df[f"{tab[street_index]}_action_{action_index}_move"] = vfunc(self.df["hand"], street_index, action_index)
-
-    def get_action_value(self, hand, street_index: int, action_index: int) -> float:
-        try:
-            action = self.get_action(hand, street_index=street_index, action_index=action_index)
-            return action.value
-        except AttributeError:
-            return 0
-
-    def convert_action_value(self, street_index: int, action_index: int):
-        i, j = street_index, action_index
-        tab = ["pf", "flop", "turn", "river"]
-        vfunc = np.vectorize(self.get_action_value)
-        self.df[f"{tab[i]}_action_{j}_value"] = vfunc(self.df["hand"], i, j)
-        self.df[f"{tab[i]}_action_{j}_value_bb"] = self.df[f"{tab[i]}_action_{j}_value"]/self.df[f"bb"]
-
-    def convert_action(self, street_index: int, action_index: int):
-        self.convert_action_seat(street_index, action_index)
-        self.convert_action_move(street_index, action_index)
-        self.convert_action_value(street_index, action_index)
-
-    def convert_street_actions(self, street_index: int):
-        for i in range(24):
-            self.convert_action(street_index=street_index, action_index=i)
-
-    def convert_hand_actions(self):
-        for i in range(4):
-            self.convert_street_actions(street_index=i)
-
-    @staticmethod
-    def get_street(hand: HandHistory, index: int) -> Street or None:
-        try:
-            return hand.table.streets[index]
-        except IndexError:
-            return None
-
     def convert_hand(self):
         self.convert_hand_info()
-        self.convert_players()
+        self.convert_positions()
         self.convert_board()
         self.convert_flop_info()
-        # self.convert_hand_actions()
 
     def filter_levels(self):
         self.df = self.df[self.df["level"] < 100]
+        self.df = self.df[self.df["level"] >= 0]
 
     @staticmethod
     def get_idents(hands) -> pd.Index:
         return pd.Index([hand.hand_id for hand in hands])
+
+    @staticmethod
+    def get_position_player(hand: HandHistory, position):
+        player = hand.table.players.positions.get(position)
+        if player is None:
+            raise EmptyPositionError
+        return player
+
+    def get_position_name(self, hand: HandHistory, position):
+        try:
+            player = self.get_position_player(hand, position)
+            return player.name
+        except AttributeError:
+            return pd.NA
+        except EmptyPositionError:
+            return pd.NA
+
+    def convert_position_name(self, position):
+        vfunc = np.vectorize(self.get_position_name)
+        self.df[f"{position}_name"] = vfunc(self.df["hand"], position)
+
+    def get_position_stack(self, hand: HandHistory, position):
+        try:
+            player = self.get_position_player(hand, position)
+            return float(player.init_stack)
+        except AttributeError:
+            pass
+        except TypeError:
+            return 0.0
+        except EmptyPositionError:
+            return np.nan
+
+    def convert_position_stack(self, position):
+        vfunc = np.vectorize(self.get_position_stack)
+        self.df[f"{position}_stack"] = vfunc(self.df["hand"], position)
+        self.df[f"{position}_stack_bb"] = self.df[f"{position}_stack"] / self.df[f"bb"]
+
+    def get_position_combo(self, hand: HandHistory, position):
+        try:
+            player = self.get_position_player(hand, position)
+            return player.combo
+        except AttributeError:
+            return pd.NA
+        except EmptyPositionError:
+            return pd.NA
+
+    def get_position_combo_str(self, hand: HandHistory, position):
+        try:
+            combo = self.get_position_combo(hand, position)
+            return f"{combo}"
+        except AttributeError:
+            return None
+        except EmptyPositionError:
+            return pd.NA
+
+    def get_position_hand_str(self, hand: HandHistory, position):
+        try:
+            combo = self.get_position_combo(hand, position)
+            return f"{combo.to_hand()}"
+        except AttributeError:
+            return None
+        except EmptyPositionError:
+            return pd.NA
+
+    def convert_position_combo(self, position):
+        vfunc_combo = np.vectorize(self.get_position_combo_str)
+        vfunc_hand = np.vectorize(self.get_position_hand_str)
+        self.df[f"{position}_combo"] = vfunc_combo(self.df["hand"], position)
+        self.df[f"{position}_hand"] = vfunc_hand(self.df["hand"], position)
+
+    def get_action(self, hand: HandHistory, position, street, index):
+
+        player = self.get_position_player(hand, position)
+        return player.actions.get(street)[index]
+
+    def get_action_move(self, hand: HandHistory, position, street, index):
+        try:
+            action = self.get_action(hand, position, street, index)
+            return action.get("move")
+        except EmptyPositionError:
+            return pd.NA
+        except IndexError:
+            return pd.NA
+
+    def convert_action_move(self, position, street, index):
+        vfunc = np.vectorize(self.get_action_move)
+        self.df[f"{position}_{street}_action_{index}_move"] = vfunc(self.df["hand"], position, street, index)
+
+    def get_action_value(self, hand: HandHistory, position, street, index):
+        try:
+            action = self.get_action(hand, position, street, index)
+            return float(action.get("value"))
+        except EmptyPositionError:
+            return np.nan
+        except IndexError:
+            return np.nan
+
+    def get_action_pot(self, hand: HandHistory, position, street, index):
+        try:
+            action = self.get_action(hand, position, street, index)
+            return float(action.get("pot"))
+        except EmptyPositionError:
+            return np.nan
+        except IndexError:
+            return np.nan
+
+    def get_action_stack(self, hand: HandHistory, position, street, index):
+        try:
+            action = self.get_action(hand, position, street, index)
+            return float(action.get("stack"))
+        except EmptyPositionError:
+            return np.nan
+        except IndexError:
+            return np.nan
+
+    def get_action_to_call(self, hand: HandHistory, position, street, index):
+        try:
+            action = self.get_action(hand, position, street, index)
+            return float(action.get("to_call"))
+        except EmptyPositionError:
+            return np.nan
+        except IndexError:
+            return np.nan
+
+    def get_action_odds(self, hand: HandHistory, position, street, index):
+        try:
+            action = self.get_action(hand, position, street, index)
+            if float(action.get("odds")) > 1e5:
+                return 1e5
+            return float(action.get("odds"))
+        except EmptyPositionError:
+            return np.nan
+        except IndexError:
+            return np.nan
+
+    def convert_action_value(self, pos, street, idx):
+        vfunc = np.vectorize(self.get_action_value)
+        self.df[f"{pos}_{street}_action_{idx}_val"] = vfunc(self.df["hand"], pos, street, idx) / self.df[f"bb"]
+        self.df[f"{pos}_{street}_action_{idx}_ratio"] = self.df[f"{pos}_{street}_action_{idx}_val"] / self.df[f"{pos}_{street}_action_{idx}_stack"]
+
+    def convert_action_pot(self, pos, street, idx):
+        vfunc = np.vectorize(self.get_action_pot)
+        self.df[f"{pos}_{street}_action_{idx}_pot"] = vfunc(self.df["hand"], pos, street, idx) / self.df[f"bb"]
+
+    def convert_action_stack(self, pos, street, idx):
+        vfunc = np.vectorize(self.get_action_stack)
+        self.df[f"{pos}_{street}_action_{idx}_stack"] = vfunc(self.df["hand"], pos, street, idx) / self.df[f"bb"]
+
+    def convert_action_to_call(self, pos, street, idx):
+        vfunc = np.vectorize(self.get_action_to_call)
+        self.df[f"{pos}_{street}_action_{idx}_to_call"] = vfunc(self.df["hand"], pos, street, idx) / self.df[f"bb"]
+
+    def convert_action_odds(self, pos, street, idx):
+        vfunc = np.vectorize(self.get_action_odds)
+        self.df[f"{pos}_{street}_action_{idx}_odds"] = vfunc(self.df["hand"], pos, street, idx)
+        self.df[f"{pos}_{street}_action_{idx}_req_equity"] = 1/(1+self.df[f"{pos}_{street}_action_{idx}_odds"])
+
+    def convert_action(self, position, street, index):
+        self.convert_action_pot(position, street, index)
+        self.convert_action_stack(position, street, index)
+        self.convert_action_to_call(position, street, index)
+        self.convert_action_odds(position, street, index)
+        self.convert_action_move(position, street, index)
+        self.convert_action_value(position, street, index)
+
+    def convert_actions(self, position, street):
+        for index in range(2):
+            self.convert_action(position, street, index)
+
+    def convert_position_actions(self, position):
+        for street in all_streets[:-1]:
+            self.convert_actions(position, f"{street}")
+
+    def convert_position(self, pos):
+        self.convert_position_name(pos)
+        self.convert_position_stack(pos)
+        self.convert_position_combo(pos)
+        self.convert_position_actions(pos)
+
+    def convert_positions(self):
+        for position in np.delete(str_positions, [3, 4]):
+            self.convert_position(position)
+
+
+class EmptyPositionError(Exception):
+    pass

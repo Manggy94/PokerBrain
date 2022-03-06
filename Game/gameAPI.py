@@ -304,22 +304,17 @@ class Game:
         fc1 = Card(input("First flop card?"))
         fc2 = Card(input("Second flop card?"))
         fc3 = Card(input("Third flop card?"))
-        self.hand.table.draw_card(fc1)
-        self.hand.table.draw_card(fc2)
-        self.hand.table.draw_card(fc3)
-        self.hand.table.board.extend([fc1, fc2, fc3])
+        self.table.draw_flop(fc1, fc2, fc3)
         self.input_street_actions()
 
     def input_turn(self):
         tc = Card(input("Turn card?"))
-        self.hand.table.draw_card(tc)
-        self.hand.table.board.append(tc)
+        self.table.draw_turn(tc)
         self.input_street_actions()
 
     def input_river(self):
         rc = Card(input("River card?"))
-        self.hand.table.draw_card(rc)
-        self.hand.table.board.append(rc)
+        self.table.draw_river(rc)
         self.input_street_actions()
 
     def input_showdown(self):

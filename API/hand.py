@@ -48,9 +48,9 @@ class Shape(PokerEnum):
 class _HandMeta(type):
     """Makes Hand class iterable. __iter__ goes through all hands in ascending order."""
 
-    def __new__(metacls, clsname, bases, classdict):
+    def __new__(mcs, clsname, bases, classdict):
         """Cache all possible Hand instances on the class itself."""
-        cls = super(_HandMeta, metacls).__new__(metacls, clsname, bases, classdict)
+        cls = super(_HandMeta, mcs).__new__(mcs, clsname, bases, classdict)
         cls._all_hands = tuple(cls._get_non_pairs()) + tuple(cls._get_pairs())
         return cls
 

@@ -1,13 +1,14 @@
-from API.constants import *
-import API.constants as cst
-from API.hand import *
-from API.card import *
-import random
-import numpy as np
-import itertools
-from cached_property import cached_property
+import pandas as pd
 
-all_combos = np.hstack([hand.to_combos() for hand in list(Hand)])
+from API.Evaluator import Evaluator
+import API.constants as cst
+from API.hand import Combo, Hand
+from API.card import Card, Rank
+from API.listings import all_positions, str_combos
+from random import sample
+import numpy as np
+from itertools import combinations
+from cached_property import cached_property
 
 
 class PositionError(Exception):
@@ -22,8 +23,7 @@ class Street:
     """Class initiating a Street with its players and actions"""
 
     def __init__(self, name):
-        # print(f"\nNew Street: {name}")
-        self.name = name
+        self.name = f"{cst.Street(name)}"
         self.cards = []
         self.active_players = []
         self.actions = []
@@ -33,33 +33,6 @@ class Street:
         self.it = None
         self.init_pl = None
         self.current_pl = None
-
-    def add_action(self, action):
-        self.actions.append(action)
-        player = action.player
-        player.set_to_call(self)
-        player.set_pot_odds(self)
-        if action.move in ("fold", "folds"):
-            player.fold()
-        elif action.move in ("call", "calls", "checks", "check"):
-            self.call(player)
-        elif action.move in ("bet", "bets"):
-            self.bet(player, action.value)
-        elif action.move in ("raise", "raises"):
-            self.bet(player, player.to_call+action.value)
-
-    def bet(self, player, amount):
-        self.street_pot += amount
-        player.stack -= amount
-        player.current_bet += amount
-        if player.current_bet > self.highest_bet:
-            self.highest_bet = player.current_bet
-
-    def call(self, player):
-        if player.stack < player.get_to_call():
-            self.bet(player, player.stack)
-        else:
-            self.bet(player, player.get_to_call())
 
     def get_action(self, i):
         try:
@@ -110,20 +83,6 @@ class Street:
             self.it = iter(self.remaining_players)
             # print("On doit créér l'itérateur")
             return next(self.it)
-
-
-class Action:
-    """Classe qui définit les différentes actions possibles d'un joueur pendant une main"""
-    def __init__(self, player, move: cst.Action, value):
-        self.player = player
-        self.move = move
-        if value:
-            self.value = value
-        else:
-            self.value = 0
-
-    def __str__(self):
-        return f"{self.player.name} {self.move} for {self.value}"
 
 
 class SDAction:
@@ -197,7 +156,8 @@ class Level:
         return f"Current level: {self.level}\nAnte={self.ante}\nSB={self.sb}\nBB={self.bb}"
 
     @property
-    def bb(self):
+    def bb(self) -> float:
+        """"""
         return self._bb
 
     @bb.setter
@@ -243,10 +203,15 @@ class Player:
         self.folded = False
         self._hero = False
         self.current_bet = 0
-        # self._to_call = None
         self._position = None
-        self.actions = []
+        self.actions = {
+            f"{cst.Street('preflop')}": [],
+            f"{cst.Street('flop')}": [],
+            f"{cst.Street('turn')}": [],
+            f"{cst.Street('river')}": []
+        }
         self.played = False
+        self.combos_range = CombosRange()
 
     def __str__(self):
         return f"Name: {self.name}\nSeat: {self.seat}\nStack: {self.stack}\nHero: {self.is_hero}\nCombo: {self.combo}"
@@ -349,6 +314,22 @@ class Player:
         return 1/(1+self.pot_odds(table))
 
 
+class Action:
+    """Class qui defining different possible actions and amounts a player can do"""
+    def __init__(self, player: Player, move: cst.Action, value: float):
+        self.player = player
+        self.move = move
+        self.pot = 0
+        if value:
+            self.value = value
+        else:
+            self.value = 0
+
+    def __str__(self):
+        return f"{self.player.name} {self.move} for {self.value}"
+
+
+
 class Players:
     """"""
     preflop_starter = "BB"
@@ -395,16 +376,18 @@ class Table:
     def __init__(self, ident="No Id", max_players: int = 6):
         self.ident = ident
         self._max_players = max_players
-        self.board = []
+        self.board = np.array([])
         self.players = Players()
+        self.folders = []
         self.highest_bet = 0
         self.streets = [Street('PreFlop')]
         self._hero = None
         self._pot = 0
         self.progression = 0
         self.current_street = self.streets[0]
+        self.evaluator = Evaluator()
         self.deck = list(Card)
-        random.shuffle(self.deck)
+        np.random.shuffle(self.deck)
 
     def __str__(self):
         return f"Table n° {self.ident} of {self.max_players} players max"
@@ -429,12 +412,21 @@ class Table:
         self._pot = pot
 
     def add_action(self, street: Street, action: Action):
+        action.pot = self.pot
         street.actions.append(action)
         player = action.player
         player.played = True
-        player.actions.append({"street": street.name, "move": action.move, "value": action.value})
+        player.actions.get(street.name).append({
+            "move": f"{action.move}",
+            "value": action.value,
+            "pot": action.pot,
+            "stack": player.stack,
+            "to_call": player.to_call(self),
+            "odds": player.pot_odds(self)
+        })
         if action.move == cst.Action("fold"):
             player.fold()
+            self.folders.append(player)
         elif action.move in [cst.Action("call"), cst.Action("check")]:
             self.call(player)
             if street.init_pl is None:
@@ -463,7 +455,35 @@ class Table:
         else:
             self.bet(player, player.to_call(self))
 
-    def distribute_cards(self, player):
+    def combo_scores(self, combo: Combo):
+        return np.array([self.evaluator.evaluate_combo(combo, board) for board in self.possible_boards])
+
+    def mc_combo_scores(self, combo: Combo, n_iter: int = 5000):
+        return np.array([self.evaluator.evaluate_combo(combo, board) for board in self.generate_boards(n_iter)])
+
+    def empty_deck(self, combo: Combo):
+        if combo.first in self.deck.copy():
+            self.draw_card(f"{combo.first}")
+        if combo.second in self.deck.copy():
+            self.draw_card(f"{combo.second}")
+
+    def equity_vs_combo(self, villain_combo: Combo):
+        hero_combo = self.hero.combo
+        self.empty_deck(hero_combo)
+        self.empty_deck(villain_combo)
+        if len(self.board) > 2:
+            scores_1 = self.combo_scores(hero_combo)
+            scores_2 = self.combo_scores(villain_combo)
+        else:
+            scores_1 = self.mc_combo_scores(hero_combo)
+            scores_2 = self.mc_combo_scores(villain_combo)
+        win = (scores_1 < scores_2).mean()
+        tie = (scores_1 == scores_2).mean()
+        lose = 1-win-tie
+        equity = win + tie/2
+        return {"win": win, "tie": tie, "lose": lose, "equity": equity}
+
+    def distribute_cards(self, player: Player):
         player.combo = Combo(f"{self.draw_card()}{self.draw_card()}")
 
     def distribute_positions(self):
@@ -471,16 +491,16 @@ class Table:
         bb = self.players.positions["BB"]
         player = self.players[bb]
         if a < 6:
-            positions = list(Position)[10-a:]
+            positions = all_positions[10-a:]
         else:
-            positions = list(Position)[0:a-5]
-            positions.extend(list(Position)[5:])
+            positions = all_positions[0:a-5]
+            positions = np.hstack((positions, all_positions[5:]))
         keys = sorted(self.players.seat_dict)
         cut = keys.index(player.seat)
         idx = np.hstack((keys[cut+1:], keys[:cut], player.seat))
         for (i, j) in zip(idx, positions):
             self.players.seat_dict[i].position = j
-            self.players.positions[str(j)] = self.players.seat_dict[i]
+            self.players.positions[f"{j}"] = self.players.seat_dict[i]
 
     def draw_card(self, string: str = None):
         if string:
@@ -490,6 +510,46 @@ class Table:
         else:
             card = self.deck.pop()
         return card
+
+    def predict_range(self, player: Player):
+        pass
+
+    @staticmethod
+    def preflop_equity_compare(c1: Combo, c2: Combo):
+        table = Table()
+        table.empty_deck(c1)
+        table.empty_deck(c2)
+        boards = table.possible_boards
+        if (np.intersect1d([c1.first, c1.second], [c2.first, c2.second])).shape[0] > 0:
+            return None
+        else:
+            scores_1 = np.array([table.evaluator.evaluate_combo(c1, board) for board in boards])
+            scores_2 = np.array([table.evaluator.evaluate_combo(c2, board) for board in boards])
+        win = (scores_1 < scores_2).mean()
+        tie = (scores_1 == scores_2).mean()
+        equity = win + tie / 2
+        return equity
+
+    def equity_vs(self, player: Player):
+        c_range = player.combos_range
+        combos = c_range.index.to_numpy()
+        equities = np.array([self.equity_vs_combo(combo) for combo in combos[:10]])
+        return equities
+
+    def evaluate_hand(self, player: Player):
+        score = self.score_hand(player)
+        rank_class = self.evaluator.evaluator.get_rank_class(score)
+        class_str = self.evaluator.evaluator.class_to_string(rank_class)
+        return {"score": score, "rank": rank_class, "class": class_str}
+
+    def score_hand(self, player: Player):
+        try:
+            combo = self.evaluator.transform_combo(player.combo)
+            board = self.evaluator.transform_board(self.board)
+            score = self.evaluator.evaluate(hand=combo, board=board)
+        except AttributeError:
+            score = 0
+        return score
 
     def find_active_players(self, street):
         i = street.index
@@ -521,28 +581,28 @@ class Table:
     @property
     def flop_card_1(self):
         try:
-            return str(self.board[0])
+            return f"{self.board[0]}"
         except IndexError:
             return None
 
     @property
     def flop_card_2(self):
         try:
-            return str(self.board[1])
+            return f"{self.board[1]}"
         except IndexError:
             return None
 
     @property
     def flop_card_3(self):
         try:
-            return str(self.board[2])
+            return f"{self.board[2]}"
         except IndexError:
             return None
 
     @cached_property
     def flop_combinations(self):
         try:
-            return [x for x in itertools.combinations(self.board[:3], 2)]
+            return [x for x in combinations(self.board[:3], 2)]
         except IndexError:
             return None
 
@@ -607,20 +667,36 @@ class Table:
     @property
     def turn_card(self):
         try:
-            return str(self.board[3])
+            return f"{self.board[3]}"
         except IndexError:
             return None
 
     @property
     def river_card(self):
         try:
-            return str(self.board[4])
+            return f"{self.board[4]}"
         except IndexError:
             return None
 
+    def generate_board(self):
+        cards = sample(self.deck, 5-len(self.board))
+        board = np.hstack((self.board.copy(), cards))
+        return board
+
+    def generate_boards(self, n_iter: int = 1000):
+        return np.vstack([self.generate_board() for _ in range(n_iter)])
+
+    @property
+    def possible_draws(self):
+        return np.array(list(combinations(self.deck.copy(), 5-len(self.board))))
+
+    @property
+    def possible_boards(self):
+        return np.vstack([np.hstack((self.board.copy(), draw)) for draw in self.possible_draws])
+
     def get_card(self, i):
         try:
-            return str(self.board[i])
+            return f"{self.board[i]}"
         except IndexError:
             return None
 
@@ -642,7 +718,7 @@ class Table:
     def get_player_infos(self, i):
         try:
             player = self.players[i]
-            return player.name, player.seat, player.stack, str(player.position), str(player.combo), bool(player.hero)
+            return player.name, player.seat, player.stack, f"{player.position}", f"{player.combo}", bool(player.hero)
         except IndexError:
             return None, None, None, None, None, None
 
@@ -658,25 +734,6 @@ class Table:
     def get_table_action_info(self, n: int = 24):
         streets = [self.get_street(i) for i in range(4)]
         return np.hstack([street.get_actions_infos(n) for street in streets])
-
-    def get_consecutive_actions(self):
-        k = 0
-        actions = self.get_table_action_info()
-        all_actions = self.get_table_action_info().reshape(1, 288)
-        prog = 3
-        progress = [prog]
-        all_boards = self.get_partial_board(prog)
-        while k < 96:
-            i = 287-3*k
-            prog = i // 72
-            # print(actions[i],actions[:i+1].shape, actions[i+1:].shape, 287-i)
-            if actions[i]:
-                progress.append(prog)
-                part_actions = np.hstack((actions[:i+1], [None]*(287-i)))
-                all_actions = np.vstack((all_actions, part_actions))
-                all_boards = np.vstack((all_boards, self.get_partial_board(prog)))
-            k += 1
-        return all_actions, np.array(progress), all_boards
 
     @cached_property
     def has_flop(self):
@@ -707,6 +764,12 @@ class Table:
         self.progression += 1
         self.current_street = flop
 
+    def draw_flop(self, fc1, fc2, fc3):
+        self.draw_card(f"{fc1}")
+        self.draw_card(f"{fc2}")
+        self.draw_card(f"{fc3}")
+        self.board = np.hstack((self.board, [fc1, fc2, fc3]))
+
     def make_river(self):
         river = Street('River')
         self.streets.append(river)
@@ -715,6 +778,10 @@ class Table:
         self.reset_bets()
         self.progression += 1
         self.current_street = river
+
+    def draw_river(self, rc):
+        self.draw_card(f"{rc}")
+        self.board = np.hstack((self.board, rc))
 
     def make_showdown(self):
         showdown = Street('ShowDown')
@@ -734,6 +801,10 @@ class Table:
         self.progression += 1
         self.current_street = turn
 
+    def draw_turn(self, tc):
+        self.draw_card(f"{tc}")
+        self.board = np.hstack((self.board, tc))
+
     def post_ante(self, player, amount):
         self.pot += amount
         player.stack -= amount
@@ -741,13 +812,16 @@ class Table:
     def reset_bets(self):
         self.reset_played()
         pass
-        # self.highest_bet = 0
-        # for player in self.players:
-        # player.current_bet = 0
 
     def reset_played(self):
         for pl in self.current_street.active_players:
             pl.played = False
+
+    def to_call(self, player: Player) -> float:
+        return self.highest_bet-player.current_bet
+
+    def can_play(self, player: Player):
+        return not (player.is_all_in or (self.to_call(player) == 0 and player.played))
 
     @property
     def hero(self):
@@ -773,7 +847,7 @@ class HandHistory:
         self.hand_id = None
         self.pk_type = None
         self._tournament = None
-        self._table = None
+        self._table: Table or None = None
         self._money_type = None
         self._button_seat = None
         self._level = None
@@ -852,27 +926,12 @@ class HandHistory:
     def get_table_action_info(self, n: int = 24):
         return self.table.get_table_action_info(n)
 
-    def get_consecutive_actions(self):
-        k = 0
-        actions = self.get_table_action_info()
-        all_actions = self.get_table_action_info().reshape(1, 288)
-        prog = 3
-        progress = [prog]
-        all_boards = self.get_partial_board(prog)
-        info = np.array(self.get_hand_info())
-        pl_info = self.get_all_players_info()
-        while k < 96:
-            i = 287 - 3 * k
-            prog = i // 72
-            # print(actions[i],actions[:i+1].shape, actions[i+1:].shape, 287-i)
-            if actions[i]:
-                progress.append(prog)
-                part_actions = np.hstack((actions[:i + 1], [None] * (287 - i)))
-                all_actions = np.vstack((all_actions, part_actions))
-                all_boards = np.vstack((all_boards, self.get_partial_board(prog)))
-                info = np.vstack((info, self.get_hand_info()))
-                pl_info = np.vstack((pl_info, self.get_all_players_info()))
-            k += 1
-        n = all_actions.shape[0]
-        idents = [self.hand_id] * n
-        return all_actions, np.array(progress), all_boards, idents, info, pl_info
+    def predict_range(self, position):
+        combos_range = CombosRange()
+        return combos_range
+
+
+class CombosRange(pd.DataFrame):
+
+    def __init__(self):
+        pd.DataFrame.__init__(self, index=str_combos, columns=["p"], data=1/1326)

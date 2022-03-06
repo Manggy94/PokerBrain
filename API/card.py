@@ -53,9 +53,9 @@ BROADWAY_RANKS = Rank("T"), Rank("J"), Rank("Q"), Rank("K"), Rank("A")
 
 
 class _CardMeta(type):
-    def __new__(metacls, clsname, bases, classdict):
+    def __new__(mcs, clsname, bases, classdict):
         """Cache all possible Card instances on the class itself."""
-        cls = super(_CardMeta, metacls).__new__(metacls, clsname, bases, classdict)
+        cls = super(_CardMeta, mcs).__new__(mcs, clsname, bases, classdict)
         cls._all_cards = list(
             cls(f"{rank}{suit}") for rank, suit in itertools.product(Rank, Suit)
         )
