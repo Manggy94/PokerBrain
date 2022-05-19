@@ -9,14 +9,14 @@ import treys
 class Evaluator:
 
     def __init__(self):
-        self.evaluator = treys.Evaluator()
+        #self.evaluator = treys.Evaluator()
+        pass
 
     def evaluate(self, hand, board):
         try:
             return self.evaluator.evaluate(hand, board)
         except KeyError:
             return pd.NA
-
 
     @staticmethod
     def transform_card(card: Card):
@@ -46,5 +46,3 @@ class Simulator:
 
     def __init__(self):
         pass
-
-
