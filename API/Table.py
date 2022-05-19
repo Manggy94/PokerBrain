@@ -385,7 +385,6 @@ class Table:
         self._pot = 0
         self.progression = 0
         self.current_street = self.streets[0]
-        self.evaluator = Evaluator()
         self.deck = list(Card)
         np.random.shuffle(self.deck)
 
@@ -935,3 +934,15 @@ class CombosRange(pd.DataFrame):
 
     def __init__(self):
         pd.DataFrame.__init__(self, index=str_combos, columns=["p"], data=1/1326)
+
+    def clean_range(self, dead_cards):
+        cop = self.copy()
+        indexes = self.index.to_numpy()
+        cop["c1"] = np.array([f"{Combo(x).first}" for x in indexes])
+        cop["c2"] = np.array([f"{Combo(x).second}" for x in indexes])
+        cop["dead"] = cop["c1"].isin(dead_cards) | cop["c2"].isin(dead_cards)
+        cop["p2"] = cop["p"] * ~cop["dead"]
+
+        cop["p3"] = cop["p2"] / cop["p2"].sum()
+        self["p"] = cop["p3"]
+        del(cop, indexes)

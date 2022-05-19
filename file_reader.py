@@ -12,6 +12,18 @@ class ParsingError(Exception):
     pass
 
 
+class CashGameError(Exception):
+    pass
+
+
+class EmptyTableError(Exception):
+    pass
+
+
+class HeaderError(Exception):
+    pass
+
+
 class FileReader:
     """
     Class that can read a handhistory .txt file
@@ -35,6 +47,7 @@ class FileReader:
         self._table_re = re.compile(r"Table:\s+'(?P<tournament_name>.+)\((?P<tournament_id>\d+)\)#(?P<table_id>\d+)'\s+(?P<max_seat>\d+)-max\s+\((?P<money_type>[a-z]+)\s+money\)\s+Seat\s+#(?P<button>\d)\s+is\s+the\s+button")
         self._CG_table_re = re.compile(r"Table:\s+'(?P<CG_name>.+)\s+(?P<table_id>\d+)'\s+(?P<max_seat>\d+)-max\s+\((?P<money_type>[a-z]+)\s+money\)\s+Seat\s+#(?P<button>\d)\s+is\s+the\s+button")
         self._seat_re = re.compile(r"Seat\s+(?P<seat>\d+):\s+(?P<pl_name>[\w\s\-&.]{3,12})\s\((?P<stack>\d+)\)")
+        self._KO_seat_re = re.compile(r"Seat\s+(?P<seat>\d+):\s+(?P<pl_name>[\w\s\-&.]{3,12})\s+\((?P<stack>\d+),\s+(?P<bounty>[\d.,]+)")
         self._CG_seat_re = re.compile(r"Seat\s+(?P<seat>\d+):\s+(?P<pl_name>[\w\s\-&.]{3,12})\s\((?P<stack>[\d.,]+)â..\)")
         self._pot_re = re.compile(r"Total\s+pot\s+(?P<total_pot>\d+)")
         self._ante_re = re.compile(r"(?P<pl_name>[\w\s\-&.]{3,12})\s+posts\sante\s+(?P<amount>[\d.,]+)")
@@ -116,7 +129,7 @@ class FileParser(FileReader):
             poker_type = r.group("poker_type")
             return poker_type.strip()
         else:
-            raise ParsingError("Poker Type Problem")
+            raise HeaderError("Poker Type Problem")
 
     def parse_tournament_name(self, text: str):
         """
@@ -246,13 +259,20 @@ class FileParser(FileReader):
         :param text: hand text line
         :return: seat info as a dict
         """
+        bounty=0
         s = re.search(pattern=self._seat_re, string=text)
         r = re.search(pattern=self._CG_seat_re, string=text)
+        ko = re.search(pattern=self._KO_seat_re, string=text)
         if s:
             seat, pl_name, stack = int(s.group("seat")), s.group("pl_name").strip(), self.floatify(s.group("stack"))
+        elif ko:
+            seat = int(ko.group("seat"))
+            pl_name = ko.group("pl_name").strip()
+            stack = self.floatify(ko.group("stack"))
+            bounty = self.floatify(ko.group("bounty"))
         else:
             seat, pl_name, stack = int(r.group("seat")), r.group("pl_name").strip(), self.floatify(r.group("stack"))
-        return {"seat": seat, "pl_name": pl_name, "stack": stack}
+        return {"seat": seat, "pl_name": pl_name, "stack": stack, "bounty": bounty}
 
     def parse_pot(self, text: str) -> float:
         """
@@ -384,9 +404,13 @@ class FileParser(FileReader):
             lvl = self.parse_level(header_txt)
             hand_id = self.parse_hand_id(header_txt)
             blinds = self.parse_blinds(header_txt)
-            ante = blinds["ante"]
-            bb = blinds["bb"]
+            try:
+                ante = blinds["ante"]
+                bb = blinds["bb"]
+            except TypeError:
+                raise HeaderError
         else:
+            raise CashGameError
             tour_name = "CashGame"
             buyin = 0
             lvl = None
@@ -443,6 +467,7 @@ class FileParser(FileReader):
         """
         seat_info = self.parse_seat(seat_txt)
         player = Player(name=seat_info["pl_name"], seat=seat_info["seat"], stack=seat_info["stack"])
+        player.bounty = seat_info["bounty"]
         return player
 
     def parse_pregame_info(self, text: np.ndarray, hh: HandHistory) -> HandHistory:
@@ -454,8 +479,6 @@ class FileParser(FileReader):
         """
         try:
             header_info = self.parse_header(text[0])
-        except TypeError:
-            raise ParsingError
         except IndexError:
             raise ParsingError("Text header is too short")
         hh.hand_id = header_info["hand_id"]
@@ -478,11 +501,12 @@ class FileParser(FileReader):
         """
         ante_info = self.parse_ante(text_line)
         pl_name, ante = ante_info["pl_name"], ante_info["amount"]
-        try:
-            player = hh.table.players[pl_name]
-            hh.table.bet(player=player, amount=ante)
-        except KeyError:
-            raise ParsingError
+        player = hh.table.players[pl_name]
+        hh.table.bet(player=player, amount=ante)
+        #except KeyError:
+        #    if len(hh.table.players.pl_list) == 0:
+         #       raise EmptyTableError
+
 
     def parse_post_sb(self, text_line: str, hh: HandHistory):
         """
@@ -629,7 +653,7 @@ class FileParser(FileReader):
             i = 2
             length = text.shape[0]
             while i < length:
-                if re.search(self._seat_re, text[i]):
+                if re.search(self._seat_re, text[i]) or re.search(self._KO_seat_re, text[i]) or re.search(self._CG_seat_re, text[i]):
                     player = self.create_player(text[i])
                     hh.table.players.append(player)
                 elif re.search(self._ante_re, text[i]):
@@ -655,9 +679,16 @@ class FileParser(FileReader):
                     self.parse_table_winner(text_line=text[i], hh=hh)
                 i += 1
             return hh
-        except ParsingError:
+        #except EmptyTableError as e:
+            #print(text)
+            #raise EmptyTableError (e)
+        #except ParsingError as e:
+         #   print(e)
+          #  print(text)
+          #  exit()
+        except CashGameError:
             return None
-        except PositionError:
+        except HeaderError:
             return None
 
     def parse_file(self, file_name: str, dir_name: str = "history"):
