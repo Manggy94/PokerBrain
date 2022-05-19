@@ -4,6 +4,7 @@ import sklearn.preprocessing
 
 from preprocessor import Preprocessor
 from API.Table import CombosRange
+from API.hand import Combo
 import datetime
 import tensorflow as tf
 import os
@@ -38,3 +39,11 @@ class Predictor:
         combos_range = CombosRange()
         combos_range["p"] = cr["p"]
         return combos_range
+
+    @staticmethod
+    def dead_cards(x):
+        combo = Combo(x["hero_combo"])
+        hero = [f"{combo.first}", f"{combo.second}"]
+        cards = [x[f"Card_{i}"] for i in range(5)]
+        dead = cards + hero
+        return np.array(dead)
