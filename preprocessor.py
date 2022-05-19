@@ -4,6 +4,7 @@ import numpy as np
 from API.listings import str_combos, str_hands, str_positions
 from converter import HandConverter
 from sklearn.compose import make_column_selector, make_column_transformer
+from sklearn.impute import SimpleImputer
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import OrdinalEncoder, LabelBinarizer, LabelEncoder, StandardScaler
 from tracker import PlayerHistory
@@ -17,11 +18,16 @@ class Preprocessor:
         self.labels = ["seat", "move", "value"]
         self.useless_columns = ["hand", "hand_id", "tour_id", "table_id"]
         self.num_features = make_column_selector(dtype_include=np.number)
-        self.num_pipeline = make_pipeline(StandardScaler())
+        self.num_pipeline = make_pipeline(
+            SimpleImputer(missing_values=np.nan, strategy="constant", fill_value=-100),
+            StandardScaler()
+        )
         self.cat_features = make_column_selector(dtype_exclude=np.number)
         self.cat_pipeline = make_pipeline(
+            SimpleImputer(missing_values=np.nan, strategy="constant", fill_value="Not involved"),
             OrdinalEncoder(handle_unknown="use_encoded_value",
-                           unknown_value=int(1e5)), StandardScaler()
+                           unknown_value=int(1e5)),
+            StandardScaler()
         )
         self.X_transformer = make_column_transformer(
             (self.num_pipeline, self.num_features),
