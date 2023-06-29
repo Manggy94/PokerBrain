@@ -457,7 +457,7 @@ class Table:
     def combo_scores(self, combo: Combo):
         return np.array([self.evaluator.evaluate_combo(combo, board) for board in self.possible_boards])
 
-    def mc_combo_scores(self, combo: Combo, n_iter: int = 5000):
+    def mc_combo_scores(self, combo: Combo, n_iter: int = 1e4):
         return np.array([self.evaluator.evaluate_combo(combo, board) for board in self.generate_boards(n_iter)])
 
     def empty_deck(self, combo: Combo):
